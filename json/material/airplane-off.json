@@ -1,0 +1,22 @@
+{
+  "id": "D2D1D38E-ABE7-47B6-9405-DC6BDBA1C335",
+  "name": "airplane-off",
+  "codepoint": "F001E",
+  "aliases": [
+    "aeroplane-off",
+    "airplanemode-inactive",
+    "flight-mode-off",
+    "plane-off"
+  ],
+  "tags": [
+    "Transportation + Flying"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "飞机已关闭",
+    "空中飞机已关闭",
+    "飞机模式无效",
+    "飞行模式已关闭"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2DB352CF-8F2F-43FD-BCA0-675F7C9D298C",
+  "name": "escalator",
+  "codepoint": "F01FF",
+  "aliases": [],
+  "tags": [
+    "Transportation + Other"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "自动扶梯"
+  ]
+}

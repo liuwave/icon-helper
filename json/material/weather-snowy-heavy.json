@@ -1,0 +1,14 @@
+{
+  "id": "D97DA5D6-5A65-4ADB-B124-48C22F32B07A",
+  "name": "weather-snowy-heavy",
+  "codepoint": "F0F36",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "下雪天"
+  ]
+}

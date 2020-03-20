@@ -1,0 +1,15 @@
+{
+  "id": "D21E17B9-0D84-4C21-977C-D1056E934449",
+  "name": "tumble-dryer-alert",
+  "codepoint": "F11BA",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.5.95",
+  "zhs": [
+    "烘干机警报"
+  ]
+}

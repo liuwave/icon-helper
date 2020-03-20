@@ -1,0 +1,17 @@
+{
+  "id": "8979EEB0-B475-4229-A7D8-F5D48A58DB85",
+  "name": "text-box-plus",
+  "codepoint": "F0EAA",
+  "aliases": [
+    "file-document-box-plus"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.7.94",
+  "zhs": [
+    "文本框加",
+    "文件文档框加"
+  ]
+}

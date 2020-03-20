@@ -1,0 +1,15 @@
+{
+  "id": "48F71C58-812D-40AA-BC4D-9D4381684E90",
+  "name": "console-network-outline",
+  "codepoint": "F0C60",
+  "aliases": [
+    "terminal-network-outline"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "控制台网络轮廓",
+    "终端网络轮廓"
+  ]
+}

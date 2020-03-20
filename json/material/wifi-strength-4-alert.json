@@ -1,0 +1,17 @@
+{
+  "id": "B37308A1-15BE-4F23-82F4-B360C8BA63C1",
+  "name": "wifi-strength-4-alert",
+  "codepoint": "F0929",
+  "aliases": [
+    "wifi-strength-4-warning"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "wifi强度4警报",
+    "wifi强度4警告"
+  ]
+}

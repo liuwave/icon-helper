@@ -1,0 +1,17 @@
+{
+  "id": "E58A5CD8-2D42-4A3A-BCC2-70870B43752C",
+  "name": "phone-plus",
+  "codepoint": "F0659",
+  "aliases": [
+    "add-call"
+  ],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.6.50",
+  "zhs": [
+    "电话加",
+    "添加通话"
+  ]
+}

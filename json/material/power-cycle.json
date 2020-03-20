@@ -1,0 +1,12 @@
+{
+  "id": "DD119EDC-92B2-48F6-8014-73AD2AB65DA7",
+  "name": "power-cycle",
+  "codepoint": "F0901",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.3.50",
+  "zhs": [
+    "关机后再开机"
+  ]
+}

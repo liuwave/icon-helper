@@ -1,0 +1,15 @@
+{
+  "id": "688543EC-EC01-474C-883C-C2EA2EDE75BF",
+  "name": "sale",
+  "codepoint": "F046F",
+  "aliases": [
+    "discount"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "销售",
+    "折扣"
+  ]
+}

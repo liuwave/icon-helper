@@ -1,0 +1,14 @@
+{
+  "id": "11518A63-4E2B-477D-8D93-9B6C708DE5E1",
+  "name": "wifi-strength-4-lock",
+  "codepoint": "F092A",
+  "aliases": [],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "wifi强度4锁"
+  ]
+}

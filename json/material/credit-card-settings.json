@@ -1,0 +1,15 @@
+{
+  "id": "194059D5-3FF9-4DA7-8C7E-81092D38889B",
+  "name": "credit-card-settings",
+  "codepoint": "F0FF5",
+  "aliases": [],
+  "tags": [
+    "Banking",
+    "Settings"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "信用卡设置"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "45C692AD-F1E8-404C-BED2-9FD58F0690CD",
+  "name": "account-multiple-minus-outline",
+  "codepoint": "F0BE5",
+  "aliases": [
+    "accounts-minus-outline",
+    "people-minus-outline",
+    "user-multiple-minus-outline",
+    "users-minus-outline",
+    "person-multiple-minus-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "帐户多个减轮廓",
+    "帐户减轮廓",
+    "人员减轮廓",
+    "用户减轮廓",
+    "人员多个减轮廓"
+  ]
+}

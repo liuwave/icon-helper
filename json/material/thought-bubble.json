@@ -1,0 +1,17 @@
+{
+  "id": "46ACA864-4B1C-4DBD-94FB-7A0D6B9A500E",
+  "name": "thought-bubble",
+  "codepoint": "F07F6",
+  "aliases": [
+    "comic-bubble",
+    "thinking"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "2.0.46",
+  "zhs": [
+    "思想泡泡",
+    "漫画泡泡",
+    "思考"
+  ]
+}

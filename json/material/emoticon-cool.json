@@ -1,0 +1,17 @@
+{
+  "id": "77FAFB8C-4322-4A18-8E92-0CE311F775D3",
+  "name": "emoticon-cool",
+  "codepoint": "F0C6B",
+  "aliases": [
+    "smiley-cool"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "表情符号很酷",
+    "笑脸很酷"
+  ]
+}

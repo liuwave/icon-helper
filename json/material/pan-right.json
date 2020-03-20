@@ -1,0 +1,12 @@
+{
+  "id": "D563253F-1895-4DB7-95E9-A0C4C5562D12",
+  "name": "pan-right",
+  "codepoint": "F0BBA",
+  "aliases": [],
+  "tags": [],
+  "author": "Cody",
+  "version": "3.0.39",
+  "zhs": [
+    "向右平移"
+  ]
+}

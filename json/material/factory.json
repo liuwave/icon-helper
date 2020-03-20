@@ -1,0 +1,16 @@
+{
+  "id": "B74F1DE6-5DEC-4866-AEED-DE85FE09C52F",
+  "name": "factory",
+  "codepoint": "F020F",
+  "aliases": [
+    "industrial"
+  ],
+  "tags": [
+    "Places"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "工业厂房"
+  ]
+}

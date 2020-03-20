@@ -1,0 +1,14 @@
+{
+  "id": "64E19922-572B-41F8-9139-BE6CBC8A0F80",
+  "name": "cube",
+  "codepoint": "F01A6",
+  "aliases": [],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "立方体"
+  ]
+}

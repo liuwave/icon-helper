@@ -1,0 +1,17 @@
+{
+  "id": "6BFAE994-AF2D-4B04-965D-9734631D5F0D",
+  "name": "minus-box",
+  "codepoint": "F0375",
+  "aliases": [
+    "indeterminate-check-box"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "减号框",
+    "不确定的复选框"
+  ]
+}

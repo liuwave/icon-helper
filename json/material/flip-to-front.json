@@ -1,0 +1,14 @@
+{
+  "id": "6CEAE4F9-F6CB-4DA8-A25C-1F41494C6DD5",
+  "name": "flip-to-front",
+  "codepoint": "F0248",
+  "aliases": [],
+  "tags": [
+    "Arrange"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "翻转到前面"
+  ]
+}

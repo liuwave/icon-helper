@@ -1,0 +1,17 @@
+{
+  "id": "FC8210F4-FE5E-4A83-86DE-DA1B19739118",
+  "name": "feature-search",
+  "codepoint": "F0A49",
+  "aliases": [
+    "box",
+    "box-search"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "2.6.95",
+  "zhs": [
+    "特征搜索",
+    "方框",
+    "方框搜索"
+  ]
+}

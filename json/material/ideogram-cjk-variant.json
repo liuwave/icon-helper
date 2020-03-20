@@ -1,0 +1,19 @@
+{
+  "id": "1D315F53-EBD0-42C7-89D6-5E682B756B22",
+  "name": "ideogram-cjk-variant",
+  "codepoint": "F1332",
+  "aliases": [
+    "ideogram-chinese-japanese-korean-variant",
+    "writing-system-cjk-variant"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "表意文字cjk变体",
+    "表意文字中文日韩变体",
+    "书写系统cjk变体"
+  ]
+}

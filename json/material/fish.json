@@ -1,0 +1,15 @@
+{
+  "id": "91D8C321-95BC-4AC6-9B3E-D38D457BFF75",
+  "name": "fish",
+  "codepoint": "F023A",
+  "aliases": [],
+  "tags": [
+    "Animal",
+    "Food / Drink"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "鱼"
+  ]
+}

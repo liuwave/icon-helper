@@ -1,0 +1,14 @@
+{
+  "id": "74D4E706-53B2-4349-95B2-026B3057D9B2",
+  "name": "caps-lock",
+  "codepoint": "F0A9B",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.7.94",
+  "zhs": [
+    "大写锁定"
+  ]
+}

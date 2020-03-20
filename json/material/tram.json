@@ -1,0 +1,15 @@
+{
+  "id": "13AE3C37-5323-4FE6-86F7-3B30B635969F",
+  "name": "tram",
+  "codepoint": "F052D",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Transportation + Other"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电车"
+  ]
+}

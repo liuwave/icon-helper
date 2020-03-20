@@ -1,0 +1,19 @@
+{
+  "id": "DD64AF52-2610-43D3-A992-9F3FCCB4A576",
+  "name": "printer-alert",
+  "codepoint": "F042C",
+  "aliases": [
+    "printer-warning"
+  ],
+  "tags": [
+    "Printer",
+    "Home Automation",
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "打印机警报",
+    "打印机警告"
+  ]
+}

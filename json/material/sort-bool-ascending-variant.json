@@ -1,0 +1,17 @@
+{
+  "id": "9F0F11BF-8F55-45CD-B185-7C8BC278954C",
+  "name": "sort-bool-ascending-variant",
+  "codepoint": "F1386",
+  "aliases": [
+    "sort-checkbox-ascending"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "frankgrinaert",
+  "version": "5.0.45",
+  "zhs": [
+    "按布尔升序排序",
+    "按复选框升序排序"
+  ]
+}

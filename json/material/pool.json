@@ -1,0 +1,16 @@
+{
+  "id": "F42C2F0C-BEFC-46EB-A46C-665032BD6641",
+  "name": "pool",
+  "codepoint": "F0606",
+  "aliases": [
+    "swimming-pool"
+  ],
+  "tags": [
+    "Places"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "游泳池"
+  ]
+}

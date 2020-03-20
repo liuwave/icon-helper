@@ -1,0 +1,15 @@
+{
+  "id": "4DFF5414-0EA3-4255-BC50-B40B0E3ADB15",
+  "name": "nfc-variant",
+  "codepoint": "F0398",
+  "aliases": [
+    "near-field-communication-variant"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "NFC变型",
+    "近场通信变型"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "C8E56EC6-52DA-4BC7-81C0-1E5B14509086",
+  "name": "emoticon-wink-outline",
+  "codepoint": "F0C79",
+  "aliases": [
+    "smiley-wink-outline"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "图释眨眼轮廓",
+    "笑脸眨眼轮廓"
+  ]
+}

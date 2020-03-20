@@ -1,0 +1,21 @@
+{
+  "id": "DA42DA16-21E0-4A08-89E4-F634EBBCF85A",
+  "name": "walk",
+  "codepoint": "F0583",
+  "aliases": [
+    "directions-walk",
+    "walker",
+    "walking"
+  ],
+  "tags": [
+    "Sport",
+    "Transportation + Other"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "步行",
+    "步行路线",
+    "步行者"
+  ]
+}

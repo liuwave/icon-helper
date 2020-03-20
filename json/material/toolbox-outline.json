@@ -1,0 +1,17 @@
+{
+  "id": "F016813A-4390-482A-8FFF-D081FDD21362",
+  "name": "toolbox-outline",
+  "codepoint": "F09AD",
+  "aliases": [
+    "service-toolbox"
+  ],
+  "tags": [
+    "Hardware / Tools"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "工具箱概述",
+    "服务工具箱"
+  ]
+}

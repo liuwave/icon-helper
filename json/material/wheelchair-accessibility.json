@@ -1,0 +1,15 @@
+{
+  "id": "FB4E1390-EFB1-4364-B6EE-F936C5715163",
+  "name": "wheelchair-accessibility",
+  "codepoint": "F05A4",
+  "aliases": [
+    "accessible"
+  ],
+  "tags": [],
+  "author": "Doug C. Hardester",
+  "version": "1.5.54",
+  "zhs": [
+    "无障碍通道",
+    "无障碍"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "E33F3608-CA6A-4BC3-BA3B-16AC369F10FD",
+  "name": "file-document-edit-outline",
+  "codepoint": "F0DC9",
+  "aliases": [
+    "contract-outline"
+  ],
+  "tags": [
+    "Edit / Modify",
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "文件文档编辑轮廓",
+    "合同轮廓"
+  ]
+}

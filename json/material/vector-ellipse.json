@@ -1,0 +1,15 @@
+{
+  "id": "EE98FF75-8AAA-4912-AFDE-6D5290FD6800",
+  "name": "vector-ellipse",
+  "codepoint": "F0893",
+  "aliases": [],
+  "tags": [
+    "Vector",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.1.99",
+  "zhs": [
+    "矢量椭圆"
+  ]
+}

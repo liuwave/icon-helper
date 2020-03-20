@@ -1,0 +1,14 @@
+{
+  "id": "DF10672F-0064-47B8-A327-797095F0F6A1",
+  "name": "video-stabilization",
+  "codepoint": "F091B",
+  "aliases": [
+    "video-stabilisation"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "2.3.50",
+  "zhs": [
+    "视频稳定"
+  ]
+}

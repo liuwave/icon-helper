@@ -1,0 +1,17 @@
+{
+  "id": "99D5E230-2040-4811-BEF1-17B867DA5F75",
+  "name": "chess-knight",
+  "codepoint": "F0858",
+  "aliases": [
+    "chess-horse"
+  ],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "国际象棋骑士",
+    "国际象棋马"
+  ]
+}

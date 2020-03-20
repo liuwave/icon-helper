@@ -1,0 +1,12 @@
+{
+  "id": "92FD3A8C-813E-4AC1-8D0B-85B89747C598",
+  "name": "gesture-swipe-down",
+  "codepoint": "F073D",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "1.9.32",
+  "zhs": [
+    "手势向下滑动"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "C4C9B194-78C3-47FB-ABF6-5129230527AC",
+  "name": "message-image",
+  "codepoint": "F0364",
+  "aliases": [
+    "mms"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "消息图像",
+    "彩信"
+  ]
+}

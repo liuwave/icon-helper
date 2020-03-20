@@ -1,0 +1,16 @@
+{
+  "id": "2FD9933D-7226-4745-B5DB-C8E6245FB170",
+  "name": "plus-thick",
+  "codepoint": "F11EC",
+  "aliases": [
+    "add-thick"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Austin Andrews",
+  "version": "4.5.95",
+  "zhs": [
+    "加粗"
+  ]
+}

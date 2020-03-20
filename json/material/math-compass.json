@@ -1,0 +1,17 @@
+{
+  "id": "10E7FA7C-8451-44B9-979F-1916AAC7FE28",
+  "name": "math-compass",
+  "codepoint": "F0358",
+  "aliases": [
+    "maths-compass"
+  ],
+  "tags": [
+    "Math",
+    "Drawing / Art"
+  ],
+  "author": "Gabriel",
+  "version": "1.5.54",
+  "zhs": [
+    "数学罗盘"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "62C57FBE-8457-442F-AD8D-510CF2080FFF",
+  "name": "greater-than-or-equal",
+  "codepoint": "F096E",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Nick",
+  "version": "2.4.85",
+  "zhs": [
+    "大于或等于"
+  ]
+}

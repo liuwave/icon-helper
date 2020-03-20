@@ -1,0 +1,14 @@
+{
+  "id": "3C750D11-158A-4FED-A7A8-22B4D74DF4BC",
+  "name": "printer-check",
+  "codepoint": "F1146",
+  "aliases": [],
+  "tags": [
+    "Printer"
+  ],
+  "author": "Terren",
+  "version": "4.4.95",
+  "zhs": [
+    "打印机检查"
+  ]
+}

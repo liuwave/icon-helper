@@ -1,0 +1,21 @@
+{
+  "id": "A41E35E2-6756-46D9-BE48-4DFA705A6A6A",
+  "name": "handshake",
+  "codepoint": "F1218",
+  "aliases": [
+    "business",
+    "deal",
+    "help",
+    "partnership"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.6.95",
+  "zhs": [
+    "握手",
+    "业务",
+    "交易",
+    "帮助",
+    "伙伴关系"
+  ]
+}

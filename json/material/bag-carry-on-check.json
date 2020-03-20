@@ -1,0 +1,17 @@
+{
+  "id": "57DD596E-AFB6-46D2-8415-2DED40839B11",
+  "name": "bag-carry-on-check",
+  "codepoint": "F0D65",
+  "aliases": [
+    "carry-on-bag-tick",
+    "carry-on-bag-check"
+  ],
+  "tags": [
+    "Transportation + Flying"
+  ],
+  "author": "Google",
+  "version": "3.4.93",
+  "zhs": [
+    "携带行李托运"
+  ]
+}

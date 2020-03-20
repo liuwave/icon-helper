@@ -1,0 +1,17 @@
+{
+  "id": "E091C285-7AA8-4907-9398-EBFDAC7A179D",
+  "name": "robot-vacuum",
+  "codepoint": "F070D",
+  "aliases": [
+    "roomba"
+  ],
+  "tags": [
+    "Device / Tech",
+    "Home Automation"
+  ],
+  "author": "Roberto Graham",
+  "version": "1.8.36",
+  "zhs": [
+    "Roomba保险丝机器人"
+  ]
+}

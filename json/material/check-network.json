@@ -1,0 +1,15 @@
+{
+  "id": "F1CE2683-FE3F-4AA1-89A2-A935D6FD403C",
+  "name": "check-network",
+  "codepoint": "F0C53",
+  "aliases": [
+    "tick-network"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "检查网络",
+    "刻度网络"
+  ]
+}

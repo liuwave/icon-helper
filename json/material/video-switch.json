@@ -1,0 +1,16 @@
+{
+  "id": "465D18D8-ABEA-4D2B-8A05-C6555C36803F",
+  "name": "video-switch",
+  "codepoint": "F0569",
+  "aliases": [
+    "switch-video"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "视频开关"
+  ]
+}

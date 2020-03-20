@@ -1,0 +1,18 @@
+{
+  "id": "8BEE5A5E-EC0A-4FC5-96BE-7F8C2A2EE52F",
+  "name": "call-merge",
+  "codepoint": "F00F8",
+  "aliases": [
+    "merge-type"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "呼叫合并",
+    "合并类型"
+  ]
+}

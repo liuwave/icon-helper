@@ -1,0 +1,17 @@
+{
+  "id": "7C312A2D-A502-4F06-89D4-0783EADC3B3F",
+  "name": "key-star",
+  "codepoint": "F119E",
+  "aliases": [
+    "primary-key",
+    "sql-primary-key"
+  ],
+  "tags": [],
+  "author": "Haley Halcyon",
+  "version": "4.4.95",
+  "zhs": [
+    "星号键",
+    "主键",
+    "sql主键"
+  ]
+}

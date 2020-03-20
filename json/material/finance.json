@@ -1,0 +1,17 @@
+{
+  "id": "C39421CD-2A2D-4D92-B59B-69D70A328DF4",
+  "name": "finance",
+  "codepoint": "F081F",
+  "aliases": [
+    "chart-finance"
+  ],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "金融",
+    "图表金融"
+  ]
+}

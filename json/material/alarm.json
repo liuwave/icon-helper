@@ -1,0 +1,17 @@
+{
+  "id": "9A1AAF33-6F36-4987-9E8C-798E34D919A9",
+  "name": "alarm",
+  "codepoint": "F0020",
+  "aliases": [
+    "access-alarms",
+    "alarm-clock"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "警报",
+    "访问警报",
+    "闹钟"
+  ]
+}

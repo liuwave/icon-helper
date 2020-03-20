@@ -1,0 +1,18 @@
+{
+  "id": "546B7A4F-6D63-46CD-B74D-DEF09CE8D8FB",
+  "name": "vector-curve",
+  "codepoint": "F0559",
+  "aliases": [
+    "bezier"
+  ],
+  "tags": [
+    "Vector",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "矢量曲线",
+    "贝塞尔曲线"
+  ]
+}

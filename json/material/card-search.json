@@ -1,0 +1,15 @@
+{
+  "id": "2A09F869-B221-4ABC-B803-16560B7BA900",
+  "name": "card-search",
+  "codepoint": "F1074",
+  "aliases": [
+    "pageview"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "4.2.95",
+  "zhs": [
+    "卡片搜索",
+    "综合浏览量"
+  ]
+}

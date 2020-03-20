@@ -1,0 +1,14 @@
+{
+  "id": "FDDF112E-DFF5-4D31-9821-69902F92E6CF",
+  "name": "seat-flat",
+  "codepoint": "F047B",
+  "aliases": [
+    "airline-seat-flat"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "飞机座位"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "F7BFD179-3B1E-4347-BD64-C51686B00E65",
+  "name": "playlist-music",
+  "codepoint": "F0CB8",
+  "aliases": [
+    "playlist-note",
+    "queue-music"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "音乐播放列表",
+    "笔记播放列表",
+    "音乐队列"
+  ]
+}

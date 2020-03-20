@@ -1,0 +1,14 @@
+{
+  "id": "6128BD10-A4CD-440E-BF98-151777783110",
+  "name": "battery-30-bluetooth",
+  "codepoint": "F0940",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "电池30蓝牙"
+  ]
+}

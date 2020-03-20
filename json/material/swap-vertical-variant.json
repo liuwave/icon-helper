@@ -1,0 +1,17 @@
+{
+  "id": "FC1C62DB-A06D-48F8-962F-F60FE41E4F65",
+  "name": "swap-vertical-variant",
+  "codepoint": "F08C2",
+  "aliases": [
+    "swap-calls"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "2.2.43",
+  "zhs": [
+    "交换垂直变体",
+    "交换呼叫"
+  ]
+}

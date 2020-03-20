@@ -1,0 +1,16 @@
+{
+  "id": "9B295DCA-8352-407E-84F1-34890975D010",
+  "name": "format-align-center",
+  "codepoint": "F0260",
+  "aliases": [
+    "format-align-centre"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "格式对齐中心"
+  ]
+}

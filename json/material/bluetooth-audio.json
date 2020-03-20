@@ -1,0 +1,17 @@
+{
+  "id": "6639774A-9027-4D20-AE57-24C78EF41141",
+  "name": "bluetooth-audio",
+  "codepoint": "F00B0",
+  "aliases": [
+    "bluetooth-searching"
+  ],
+  "tags": [
+    "Audio"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "蓝牙音频",
+    "蓝牙搜索"
+  ]
+}

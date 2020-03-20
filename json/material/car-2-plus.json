@@ -1,0 +1,22 @@
+{
+  "id": "02A38C46-7F26-4A95-9025-33181E528B1C",
+  "name": "car-2-plus",
+  "codepoint": "F1015",
+  "aliases": [
+    "hov-lane",
+    "high-occupancy-vehicle-lane",
+    "carpool-lane"
+  ],
+  "tags": [
+    "Transportation + Road",
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.1.95",
+  "zhs": [
+    "2辆以上汽车",
+    "高架车道",
+    "高占用车道",
+    "拼车车道"
+  ]
+}

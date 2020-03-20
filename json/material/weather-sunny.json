@@ -1,0 +1,14 @@
+{
+  "id": "7F85265E-304C-4575-A73F-F0FCF0CA951B",
+  "name": "weather-sunny",
+  "codepoint": "F0599",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "天气晴朗"
+  ]
+}

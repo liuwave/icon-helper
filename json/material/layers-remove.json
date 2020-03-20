@@ -1,0 +1,14 @@
+{
+  "id": "4FE9D22C-A632-4B2E-8257-D6789764B1F6",
+  "name": "layers-remove",
+  "codepoint": "F0E4E",
+  "aliases": [],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.6.95",
+  "zhs": [
+    "图层删除"
+  ]
+}

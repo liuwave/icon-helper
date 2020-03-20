@@ -1,0 +1,15 @@
+{
+  "id": "62675A10-D453-40EB-8AED-A789A39EEF11",
+  "name": "help",
+  "codepoint": "F02D6",
+  "aliases": [
+    "question-mark"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "帮助",
+    "问号"
+  ]
+}

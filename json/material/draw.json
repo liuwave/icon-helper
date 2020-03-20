@@ -1,0 +1,19 @@
+{
+  "id": "ECDE04BF-F8A5-4DAD-B4F9-887CAE97CBE3",
+  "name": "draw",
+  "codepoint": "F0F49",
+  "aliases": [
+    "sign",
+    "signature"
+  ],
+  "tags": [
+    "Drawing / Art",
+    "Form"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.9.97",
+  "zhs": [
+    "画画",
+    "签名"
+  ]
+}

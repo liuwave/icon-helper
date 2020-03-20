@@ -1,0 +1,15 @@
+{
+  "id": "98A3D662-2D11-40DB-8557-E1DD0E877091",
+  "name": "check-network-outline",
+  "codepoint": "F0C54",
+  "aliases": [
+    "tick-network-outline"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "检查网络轮廓",
+    "勾选网络轮廓"
+  ]
+}

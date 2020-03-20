@@ -1,0 +1,14 @@
+{
+  "id": "D3472197-9E32-440B-9F56-E84F2D35C657",
+  "name": "sort-numeric-ascending-variant",
+  "codepoint": "F090D",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.3.50",
+  "zhs": [
+    "对数字递增的重音进行排序"
+  ]
+}

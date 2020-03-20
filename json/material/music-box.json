@@ -1,0 +1,15 @@
+{
+  "id": "2EDBEBA6-8590-4049-BB28-8959378DC44C",
+  "name": "music-box",
+  "codepoint": "F0384",
+  "aliases": [],
+  "tags": [
+    "Audio",
+    "Music"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "音乐盒"
+  ]
+}

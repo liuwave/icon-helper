@@ -1,0 +1,15 @@
+{
+  "id": "48583637-1477-451A-8E75-765EC4EB0585",
+  "name": "car-electric",
+  "codepoint": "F0B6C",
+  "aliases": [],
+  "tags": [
+    "Transportation + Road",
+    "Automotive"
+  ],
+  "author": "Michael Richins",
+  "version": "3.0.39",
+  "zhs": [
+    "电动车"
+  ]
+}

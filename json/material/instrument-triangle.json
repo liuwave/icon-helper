@@ -1,0 +1,17 @@
+{
+  "id": "7A8E4735-E738-4ECE-8386-889694014C22",
+  "name": "instrument-triangle",
+  "codepoint": "F104E",
+  "aliases": [
+    "dinner-bell"
+  ],
+  "tags": [
+    "Music"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.1.95",
+  "zhs": [
+    "三角餐具",
+    "晚餐钟"
+  ]
+}

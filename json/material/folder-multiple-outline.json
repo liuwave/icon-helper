@@ -1,0 +1,17 @@
+{
+  "id": "F91AD38D-33E3-46A4-83BC-17B671750D6C",
+  "name": "folder-multiple-outline",
+  "codepoint": "F0255",
+  "aliases": [
+    "folders-outline"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文件夹多个轮廓",
+    "文件夹轮廓"
+  ]
+}

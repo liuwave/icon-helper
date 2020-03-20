@@ -1,0 +1,15 @@
+{
+  "id": "6A0DFB73-2DBF-4D3C-8C6B-2B4758B11782",
+  "name": "clipboard-check-outline",
+  "codepoint": "F08A8",
+  "aliases": [
+    "clipboard-tick-outline"
+  ],
+  "tags": [],
+  "author": "James Coyle",
+  "version": "2.2.43",
+  "zhs": [
+    "剪贴板检查轮廓",
+    "剪贴板刻度线"
+  ]
+}

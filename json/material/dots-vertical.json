@@ -1,0 +1,19 @@
+{
+  "id": "5D70B3D1-8407-42C9-A3C1-42EE68FF18F3",
+  "name": "dots-vertical",
+  "codepoint": "F01D9",
+  "aliases": [
+    "ellipsis-vertical",
+    "more-vert",
+    "menu"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "点垂直",
+    "省略号垂直",
+    "更多垂直",
+    "菜单"
+  ]
+}

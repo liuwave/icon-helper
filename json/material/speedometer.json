@@ -1,0 +1,14 @@
+{
+  "id": "F0EE6F6A-2B43-4880-8DC9-6E7515B3BEDE",
+  "name": "speedometer",
+  "codepoint": "F04C5",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "车速表"
+  ]
+}

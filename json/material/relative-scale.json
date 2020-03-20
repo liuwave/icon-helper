@@ -1,0 +1,15 @@
+{
+  "id": "912AD329-9B77-4959-9407-0F64BABFAC7D",
+  "name": "relative-scale",
+  "codepoint": "F0452",
+  "aliases": [
+    "image-aspect-ratio"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "相对比例",
+    "图像长宽比"
+  ]
+}

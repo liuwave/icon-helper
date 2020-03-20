@@ -1,0 +1,18 @@
+{
+  "id": "8EF339C7-1106-40FC-B2CC-3387F915824E",
+  "name": "map-check-outline",
+  "codepoint": "F0EBD",
+  "aliases": [
+    "map-tick-outline"
+  ],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Contributors",
+  "version": "3.7.94",
+  "zhs": [
+    "检查地图轮廓",
+    "地图刻度线轮廓"
+  ]
+}

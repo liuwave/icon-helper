@@ -1,0 +1,17 @@
+{
+  "id": "60E9BECF-1FDF-4077-9BD7-F7B1863C2F66",
+  "name": "text-box-minus",
+  "codepoint": "F0EA8",
+  "aliases": [
+    "file-document-box-minus"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.7.94",
+  "zhs": [
+    "减去文本框",
+    "减去文件文档框"
+  ]
+}

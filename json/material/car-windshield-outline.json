@@ -1,0 +1,17 @@
+{
+  "id": "55F7CDA2-F41C-42C4-8154-1F8B1C603F25",
+  "name": "car-windshield-outline",
+  "codepoint": "F101C",
+  "aliases": [
+    "car-front-glass-outline"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "汽车挡风玻璃轮廓",
+    "汽车前玻璃轮廓"
+  ]
+}

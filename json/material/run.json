@@ -1,0 +1,17 @@
+{
+  "id": "2A869029-60EB-4965-9BE4-9B3DB964C707",
+  "name": "run",
+  "codepoint": "F070E",
+  "aliases": [
+    "directions-run"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Google",
+  "version": "1.8.36",
+  "zhs": [
+    "运行",
+    "运行说明"
+  ]
+}

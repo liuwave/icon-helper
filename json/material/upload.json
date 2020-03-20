@@ -1,0 +1,15 @@
+{
+  "id": "08F8FCE9-67A0-4696-9B83-0B1F11EA959E",
+  "name": "upload",
+  "codepoint": "F0552",
+  "aliases": [
+    "file-upload"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "上传",
+    "文件上传"
+  ]
+}

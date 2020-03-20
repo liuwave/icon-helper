@@ -1,0 +1,17 @@
+{
+  "id": "7251B1CF-41C8-46F7-991D-83F5996CF0C1",
+  "name": "cog-off",
+  "codepoint": "F13CE",
+  "aliases": [
+    "settings-off"
+  ],
+  "tags": [
+    "Settings"
+  ],
+  "author": "Cody",
+  "version": "5.1.45",
+  "zhs": [
+    "齿轮关闭",
+    "设置关闭"
+  ]
+}

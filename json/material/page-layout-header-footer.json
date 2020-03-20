@@ -1,0 +1,15 @@
+{
+  "id": "C1258752-7002-4714-81E3-D90828B5A896",
+  "name": "page-layout-header-footer",
+  "codepoint": "F0F7F",
+  "aliases": [
+    "page-layout-marginals"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.9.97",
+  "zhs": [
+    "页面布局页眉页脚",
+    "页面布局页边距"
+  ]
+}

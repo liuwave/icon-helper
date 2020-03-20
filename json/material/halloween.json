@@ -1,0 +1,21 @@
+{
+  "id": "CE482051-152D-4A7F-A696-74D8CD398FEF",
+  "name": "halloween",
+  "codepoint": "F0BA3",
+  "aliases": [
+    "pumpkin-face",
+    "pumpkin-carved",
+    "jack-o-lantern"
+  ],
+  "tags": [
+    "Holiday"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.0.39",
+  "zhs": [
+    "万圣节",
+    "南瓜脸",
+    "雕刻南瓜",
+    "灯笼杰克"
+  ]
+}

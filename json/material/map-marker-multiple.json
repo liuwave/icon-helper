@@ -1,0 +1,18 @@
+{
+  "id": "6283577D-6B31-4297-8747-4F466580E79A",
+  "name": "map-marker-multiple",
+  "codepoint": "F0350",
+  "aliases": [
+    "map-markers"
+  ],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "地图多个标记",
+    "地图标记"
+  ]
+}

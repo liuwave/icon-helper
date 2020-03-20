@@ -1,0 +1,20 @@
+{
+  "id": "7936EB1E-FCE1-4501-A339-C5EB7E4301E9",
+  "name": "lifebuoy",
+  "codepoint": "F087E",
+  "aliases": [
+    "life-preserver",
+    "support",
+    "help"
+  ],
+  "tags": [
+    "Transportation + Water"
+  ],
+  "author": "Cody",
+  "version": "2.1.99",
+  "zhs": [
+    "救生圈",
+    "支持",
+    "帮助"
+  ]
+}

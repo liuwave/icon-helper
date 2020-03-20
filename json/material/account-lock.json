@@ -1,0 +1,23 @@
+{
+  "id": "BD94D7C7-DFDF-419F-862E-FB1AC3263967",
+  "name": "account-lock",
+  "codepoint": "F115E",
+  "aliases": [
+    "account-security",
+    "account-secure",
+    "user-lock",
+    "person-lock"
+  ],
+  "tags": [
+    "Account / User",
+    "Lock"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "帐户锁定",
+    "帐户安全",
+    "用户锁定",
+    "人员锁定"
+  ]
+}

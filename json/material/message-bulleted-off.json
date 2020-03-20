@@ -1,0 +1,15 @@
+{
+  "id": "5AAB267C-9A9C-4966-862D-A2AC910494E5",
+  "name": "message-bulleted-off",
+  "codepoint": "F06A3",
+  "aliases": [
+    "speaker-notes-off"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "项目符号已关闭",
+    "演讲者注释已关闭"
+  ]
+}

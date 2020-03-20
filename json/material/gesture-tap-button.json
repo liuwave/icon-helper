@@ -1,0 +1,17 @@
+{
+  "id": "51E5488F-71C4-4E08-950D-EAAAB7B22D53",
+  "name": "gesture-tap-button",
+  "codepoint": "F12A8",
+  "aliases": [
+    "call-to-action",
+    "cta"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.7.95",
+  "zhs": [
+    "手势点击按钮",
+    "号召性用语",
+    "cta"
+  ]
+}

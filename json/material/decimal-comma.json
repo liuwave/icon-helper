@@ -1,0 +1,14 @@
+{
+  "id": "A8C5A79A-EA59-4AA8-B432-98F66AFDAFD3",
+  "name": "decimal-comma",
+  "codepoint": "F10A2",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "十进制逗号"
+  ]
+}

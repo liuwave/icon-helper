@@ -1,0 +1,14 @@
+{
+  "id": "934DCE7F-D2A8-40F5-B945-A35DBD3F207B",
+  "name": "format-font-size-increase",
+  "codepoint": "F09F4",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.5.94",
+  "zhs": [
+    "格式字体大小增加"
+  ]
+}

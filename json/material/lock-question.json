@@ -1,0 +1,17 @@
+{
+  "id": "390C2479-98DD-46FB-AA39-CD816E7982C8",
+  "name": "lock-question",
+  "codepoint": "F08EF",
+  "aliases": [
+    "forgot-password"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "锁定问题",
+    "忘记密码"
+  ]
+}

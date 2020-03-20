@@ -1,0 +1,14 @@
+{
+  "id": "A260896B-178E-4E3A-9F2C-793AD68154F4",
+  "name": "coolant-temperature",
+  "codepoint": "F03C8",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "冷却液温度"
+  ]
+}

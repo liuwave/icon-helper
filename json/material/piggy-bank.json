@@ -1,0 +1,14 @@
+{
+  "id": "7168E9C8-32AE-4E0F-B3A4-EA05452C63C0",
+  "name": "piggy-bank",
+  "codepoint": "F1007",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Alex Efremo",
+  "version": "4.0.96",
+  "zhs": [
+    "存钱罐"
+  ]
+}

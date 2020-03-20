@@ -1,0 +1,12 @@
+{
+  "id": "C329F2CA-AC52-45CD-87D7-253AB115D47F",
+  "name": "window-minimize",
+  "codepoint": "F05B0",
+  "aliases": [],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "窗口最小化"
+  ]
+}

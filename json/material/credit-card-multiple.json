@@ -1,0 +1,14 @@
+{
+  "id": "25C1F858-600D-42A4-801F-5F85F22ACB52",
+  "name": "credit-card-multiple",
+  "codepoint": "F0FF0",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "信用卡多个"
+  ]
+}

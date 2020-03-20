@@ -1,0 +1,26 @@
+{
+  "id": "3D869F3A-8C3E-4ECB-829E-7785230FA680",
+  "name": "account-alert",
+  "codepoint": "F0005",
+  "aliases": [
+    "user-alert",
+    "account-warning",
+    "user-warning",
+    "person-alert",
+    "person-warning"
+  ],
+  "tags": [
+    "Account / User",
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户警报",
+    "用户警报",
+    "帐户警告",
+    "用户警告",
+    "人员警报",
+    "人员警告"
+  ]
+}

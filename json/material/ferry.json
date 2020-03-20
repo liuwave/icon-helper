@@ -1,0 +1,26 @@
+{
+  "id": "F138AC6A-406B-4EB0-BB85-0FDB5415B6F8",
+  "name": "ferry",
+  "codepoint": "F0213",
+  "aliases": [
+    "cargo-ship",
+    "boat",
+    "ship",
+    "directions-boat",
+    "directions-ferry"
+  ],
+  "tags": [
+    "Transportation + Water",
+    "Navigation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "轮渡",
+    "货船",
+    "船",
+    "轮船",
+    "方向船",
+    "方向"
+  ]
+}

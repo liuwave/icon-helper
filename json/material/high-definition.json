@@ -1,0 +1,16 @@
+{
+  "id": "8FC812E7-2B7B-412B-9114-1899203DECC4",
+  "name": "high-definition",
+  "codepoint": "F07CF",
+  "aliases": [
+    "hd"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.0.46",
+  "zhs": [
+    "高清"
+  ]
+}

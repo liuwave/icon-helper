@@ -1,0 +1,19 @@
+{
+  "id": "6D93F44C-83F7-4446-A5CD-E4135C8644D7",
+  "name": "alarm-plus",
+  "codepoint": "F0024",
+  "aliases": [
+    "add-alarm",
+    "alarm-clock-plus",
+    "alarm-clock-add",
+    "alarm-add"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "闹钟加",
+    "添加闹钟",
+    "闹钟添加"
+  ]
+}

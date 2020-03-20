@@ -1,0 +1,17 @@
+{
+  "id": "10BCB9E5-2E1F-4CD0-871F-B36FA0595004",
+  "name": "book-music",
+  "codepoint": "F0067",
+  "aliases": [
+    "audio-book"
+  ],
+  "tags": [
+    "Audio"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "音乐书籍",
+    "有声书籍"
+  ]
+}

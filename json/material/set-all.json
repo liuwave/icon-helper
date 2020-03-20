@@ -1,0 +1,21 @@
+{
+  "id": "501D1421-A50E-470A-A05B-87864461C4ED",
+  "name": "set-all",
+  "codepoint": "F0778",
+  "aliases": [
+    "set-union",
+    "set-or",
+    "full-outer-join",
+    "sql-full-outer-join"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.9.32",
+  "zhs": [
+    "设置所有",
+    "精确设置",
+    "设置或",
+    "完全外部联接",
+    "sql完全外部联接"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "FDA284E5-BF4A-47DC-B68F-255E07DB89CF",
+  "name": "currency-kzt",
+  "codepoint": "F0865",
+  "aliases": [
+    "kazakhstani-tenge"
+  ],
+  "tags": [
+    "Banking",
+    "Currency"
+  ],
+  "author": "Augustin Ursu",
+  "version": "2.1.99",
+  "zhs": [
+    "货币哈萨克斯坦坚戈"
+  ]
+}

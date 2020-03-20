@@ -1,0 +1,15 @@
+{
+  "id": "870F3E6C-6957-498E-AC62-BAE40C9FA7EA",
+  "name": "axis-z-arrow-lock",
+  "codepoint": "F0D56",
+  "aliases": [],
+  "tags": [
+    "Lock",
+    "Arrow"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.4.93",
+  "zhs": [
+    "轴Z箭头锁"
+  ]
+}

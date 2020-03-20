@@ -1,0 +1,18 @@
+{
+  "id": "2976EA1B-60A3-46FB-97E2-95BB74B0DD22",
+  "name": "calendar-edit",
+  "codepoint": "F08A7",
+  "aliases": [
+    "event-edit"
+  ],
+  "tags": [
+    "Date / Time",
+    "Edit / Modify"
+  ],
+  "author": "Michael Richins",
+  "version": "2.2.43",
+  "zhs": [
+    "日历编辑",
+    "事件编辑"
+  ]
+}

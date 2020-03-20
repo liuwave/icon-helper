@@ -1,0 +1,17 @@
+{
+  "id": "E26684D6-5292-4B09-98A9-C6C416FD236D",
+  "name": "exponent",
+  "codepoint": "F0963",
+  "aliases": [
+    "power"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Nick",
+  "version": "2.4.85",
+  "zhs": [
+    "指数",
+    "幂"
+  ]
+}

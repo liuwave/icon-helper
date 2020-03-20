@@ -1,0 +1,19 @@
+{
+  "id": "E1568BA6-EA0E-478F-933F-102F76996D6C",
+  "name": "minus-circle-outline",
+  "codepoint": "F0377",
+  "aliases": [
+    "remove-circle-outline",
+    "do-not-enter-outline"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "减去圆圈轮廓",
+    "删除圆圈轮廓",
+    "不输入轮廓"
+  ]
+}

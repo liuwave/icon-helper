@@ -1,0 +1,14 @@
+{
+  "id": "4A055D0D-18CA-45D9-96E1-B25448138888",
+  "name": "decimal",
+  "codepoint": "F10A1",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "十进制"
+  ]
+}

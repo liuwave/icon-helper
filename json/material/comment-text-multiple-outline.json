@@ -1,0 +1,15 @@
+{
+  "id": "B7CBD1E2-9677-4D9B-B7BD-CA5493920BE6",
+  "name": "comment-text-multiple-outline",
+  "codepoint": "F0861",
+  "aliases": [
+    "comments-text-outline"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "评论文本多个轮廓",
+    "评论文本轮廓"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "94C667B3-E2EB-428D-B422-751C234CCF44",
+  "name": "currency-eur",
+  "codepoint": "F01AD",
+  "aliases": [
+    "euro",
+    "euro-symbol"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "货币",
+    "欧元",
+    "欧元符号"
+  ]
+}

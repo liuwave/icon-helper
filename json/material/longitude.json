@@ -1,0 +1,15 @@
+{
+  "id": "F4604109-DEBB-424C-9972-9ACFF76BBEC7",
+  "name": "longitude",
+  "codepoint": "F0F5A",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Michael Richins",
+  "version": "3.9.97",
+  "zhs": [
+    "经度"
+  ]
+}

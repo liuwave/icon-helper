@@ -1,0 +1,18 @@
+{
+  "id": "A3A8668B-BEF0-48CC-AEB1-ACC765D10CC0",
+  "name": "map-clock",
+  "codepoint": "F0D1E",
+  "aliases": [
+    "timezone"
+  ],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Augustin Ursu",
+  "version": "3.3.92",
+  "zhs": [
+    "地图时钟",
+    "时区"
+  ]
+}

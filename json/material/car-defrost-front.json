@@ -1,0 +1,14 @@
+{
+  "id": "1B289520-CE81-4385-88B3-923CB0FD6233",
+  "name": "car-defrost-front",
+  "codepoint": "F0D61",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.4.93",
+  "zhs": [
+    "汽车除霜前"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2606F8A3-AFD7-41EB-BD2D-C3546FEADB2F",
+  "name": "fan",
+  "codepoint": "F0210",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "等待"
+  ]
+}

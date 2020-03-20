@@ -1,0 +1,17 @@
+{
+  "id": "16F694B0-E5B4-4262-91AE-DB3D0C73EEC0",
+  "name": "music-box-multiple-outline",
+  "codepoint": "F0F04",
+  "aliases": [
+    "library-music-outline"
+  ],
+  "tags": [
+    "Music"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "音乐盒多个轮廓",
+    "库音乐轮廓"
+  ]
+}

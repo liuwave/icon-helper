@@ -1,0 +1,17 @@
+{
+  "id": "7DCAB3C3-C32F-483D-98F1-1728919AA17B",
+  "name": "white-balance-sunny",
+  "codepoint": "F05A8",
+  "aliases": [
+    "wb-sunny"
+  ],
+  "tags": [
+    "Photography"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "白平衡晴天",
+    "wb晴天"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "D648ECFA-B185-4041-8B54-6D1C125CD08E",
+  "name": "leak",
+  "codepoint": "F0DD7",
+  "aliases": [
+    "proximity-sensor"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "3.5.94",
+  "zhs": [
+    "泄漏",
+    "传感器接近"
+  ]
+}

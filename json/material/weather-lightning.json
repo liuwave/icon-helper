@@ -1,0 +1,21 @@
+{
+  "id": "6AF7BD8A-088F-4B07-806D-7456EB382D76",
+  "name": "weather-lightning",
+  "codepoint": "F0593",
+  "aliases": [
+    "weather-storm",
+    "weather-thunder",
+    "weather-flash"
+  ],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "天气闪电",
+    "天气风暴",
+    "天气雷声",
+    "天气闪光"
+  ]
+}

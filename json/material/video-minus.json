@@ -1,0 +1,17 @@
+{
+  "id": "9453CFB6-B0CA-469B-87A0-48C51EA1B64D",
+  "name": "video-minus",
+  "codepoint": "F09B2",
+  "aliases": [
+    "video-remove"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "视频减",
+    "视频删除"
+  ]
+}

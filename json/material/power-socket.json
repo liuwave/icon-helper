@@ -1,0 +1,17 @@
+{
+  "id": "175A9E67-3723-4D49-85EC-8D34B4BA0C14",
+  "name": "power-socket",
+  "codepoint": "F0427",
+  "aliases": [
+    "plug-socket"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "电源插座",
+    "插头插座"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "522BA775-D569-4615-AABE-40B9E638EA18",
+  "name": "weather-cloudy-arrow-right",
+  "codepoint": "F0E6E",
+  "aliases": [],
+  "tags": [
+    "Weather",
+    "Cloud"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.6.95",
+  "zhs": [
+    "天气向右多云箭头"
+  ]
+}

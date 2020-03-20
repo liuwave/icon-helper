@@ -1,0 +1,17 @@
+{
+  "id": "35091AEB-2AF7-4F92-A249-2955F01404A3",
+  "name": "monitor",
+  "codepoint": "F0379",
+  "aliases": [
+    "desktop-windows"
+  ],
+  "tags": [
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "监视器",
+    "桌面窗口"
+  ]
+}

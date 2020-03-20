@@ -1,0 +1,15 @@
+{
+  "id": "10EC7F50-BDC1-45C4-A6D2-2CB5FB4DE902",
+  "name": "brightness-4",
+  "codepoint": "F00DD",
+  "aliases": [
+    "theme-light-dark"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "亮度4",
+    "浅暗主题"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "33A79A85-7985-4E08-8AA8-D6242A9C2700",
+  "name": "music-circle",
+  "codepoint": "F0386",
+  "aliases": [
+    "note-circle"
+  ],
+  "tags": [
+    "Audio",
+    "Music"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "音乐圈",
+    "笔记圈"
+  ]
+}

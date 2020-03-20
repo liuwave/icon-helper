@@ -1,0 +1,17 @@
+{
+  "id": "953DF020-3B6E-44ED-B858-A220EC7BE82A",
+  "name": "message-lock",
+  "codepoint": "F0FCC",
+  "aliases": [
+    "message-secure"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Cody",
+  "version": "4.0.96",
+  "zhs": [
+    "消息锁定",
+    "消息安全"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "15E0E37E-564A-40D5-9D4A-948C932C8E52",
+  "name": "battery-minus",
+  "codepoint": "F008C",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "减去电池"
+  ]
+}

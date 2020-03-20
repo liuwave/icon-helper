@@ -1,0 +1,15 @@
+{
+  "id": "4FEF379F-2EBC-49EA-87B8-068B695A67B6",
+  "name": "bottle-tonic",
+  "codepoint": "F112E",
+  "aliases": [
+    "flask"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "补品瓶",
+    "烧瓶"
+  ]
+}

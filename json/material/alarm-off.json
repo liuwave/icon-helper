@@ -1,0 +1,14 @@
+{
+  "id": "DD224DD6-9A65-47AB-8838-90FE346A7768",
+  "name": "alarm-off",
+  "codepoint": "F0023",
+  "aliases": [
+    "alarm-clock-off"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "闹钟关闭"
+  ]
+}

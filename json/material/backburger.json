@@ -1,0 +1,15 @@
+{
+  "id": "5A5BC824-220B-4998-883A-0E57FB2AB75F",
+  "name": "backburger",
+  "codepoint": "F006D",
+  "aliases": [
+    "hamburger-menu-back"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "Backburger",
+    "汉堡菜单返回"
+  ]
+}

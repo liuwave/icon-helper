@@ -1,0 +1,12 @@
+{
+  "id": "39D3928C-2739-4A57-A81C-3DF67328A160",
+  "name": "power-off",
+  "codepoint": "F0902",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.3.50",
+  "zhs": [
+    "关机"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "FC900F32-A228-4E42-9E09-EA7CCDEC08F2",
+  "name": "ethernet-cable",
+  "codepoint": "F0201",
+  "aliases": [],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "以太网电缆"
+  ]
+}

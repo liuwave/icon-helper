@@ -1,0 +1,14 @@
+{
+  "id": "28F85724-265B-4C24-9975-DDDF788A99E5",
+  "name": "alarm-snooze",
+  "codepoint": "F068E",
+  "aliases": [
+    "alarm-clock-snooze"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "闹钟小睡"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1DCEA17F-A76F-412E-8C25-52C9F3D63B48",
+  "name": "file-cancel-outline",
+  "codepoint": "F0DC7",
+  "aliases": [
+    "ban",
+    "forbid"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "文件取消轮廓",
+    "女",
+    "禁止"
+  ]
+}

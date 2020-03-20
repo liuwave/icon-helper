@@ -1,0 +1,19 @@
+{
+  "id": "6A261917-D952-4EFD-B8A4-9A91BCF67DE1",
+  "name": "alpha-v",
+  "codepoint": "F0B03",
+  "aliases": [
+    "alphabet-v",
+    "letter-v",
+    "roman-numeral-5"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "字母v",
+    "罗马数字5"
+  ]
+}

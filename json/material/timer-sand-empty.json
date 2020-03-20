@@ -1,0 +1,17 @@
+{
+  "id": "DD31FFF2-A93B-41F5-BA6C-1732E8A8DEFF",
+  "name": "timer-sand-empty",
+  "codepoint": "F06AD",
+  "aliases": [
+    "hourglass-empty"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "计时器沙子为空",
+    "沙漏为空"
+  ]
+}

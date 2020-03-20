@@ -1,0 +1,17 @@
+{
+  "id": "8B8AF349-F9B5-483B-90CC-387F3791AF69",
+  "name": "syllabary-hiragana",
+  "codepoint": "F1334",
+  "aliases": [
+    "writing-system-hiragana"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "音节平假名",
+    "书写系统平假名"
+  ]
+}

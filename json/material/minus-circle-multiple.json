@@ -1,0 +1,15 @@
+{
+  "id": "C7561067-F057-4E26-B8F1-791BD24E0A2C",
+  "name": "minus-circle-multiple",
+  "codepoint": "F035A",
+  "aliases": [
+    "coins-minus"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "1.5.54",
+  "zhs": [
+    "负圆倍数",
+    "负硬币"
+  ]
+}

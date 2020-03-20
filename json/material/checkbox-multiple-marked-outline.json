@@ -1,0 +1,16 @@
+{
+  "id": "16BECBE7-BD8E-4301-B5CB-5EE534FBDAD3",
+  "name": "checkbox-multiple-marked-outline",
+  "codepoint": "F0139",
+  "aliases": [
+    "checkboxes-marked-outline"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "标记为轮廓的复选框"
+  ]
+}

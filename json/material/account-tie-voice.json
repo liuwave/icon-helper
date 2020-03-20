@@ -1,0 +1,14 @@
+{
+  "id": "7EAF1288-141D-4C8E-91E6-891D04BAE32C",
+  "name": "account-tie-voice",
+  "codepoint": "F1308",
+  "aliases": [],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "帐户配合语音"
+  ]
+}

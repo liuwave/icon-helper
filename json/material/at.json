@@ -1,0 +1,15 @@
+{
+  "id": "9FC24609-9C8B-4DBA-A473-F5EFAFCC90DF",
+  "name": "at",
+  "codepoint": "F0065",
+  "aliases": [
+    "alternate-email"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "at",
+    "备用电子邮件"
+  ]
+}

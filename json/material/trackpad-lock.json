@@ -1,0 +1,14 @@
+{
+  "id": "92AB470E-CDB3-43F8-A299-D32C94043D83",
+  "name": "trackpad-lock",
+  "codepoint": "F0933",
+  "aliases": [],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Cody",
+  "version": "2.3.54",
+  "zhs": [
+    "触控板锁"
+  ]
+}

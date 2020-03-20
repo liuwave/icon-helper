@@ -1,0 +1,20 @@
+{
+  "id": "0842BFCE-4511-40B1-8E66-33CFED0A139B",
+  "name": "crosshairs-question",
+  "codepoint": "F1136",
+  "aliases": [
+    "crosshairs-unknown",
+    "gps-unknown"
+  ],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "4.4.95",
+  "zhs": [
+    "十字线问题",
+    "十字线未知",
+    "gps未知"
+  ]
+}

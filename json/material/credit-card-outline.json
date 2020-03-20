@@ -1,0 +1,19 @@
+{
+  "id": "A121DBBB-C9E6-4534-AA7B-F59496787BD2",
+  "name": "credit-card-outline",
+  "codepoint": "F019B",
+  "aliases": [
+    "payment"
+  ],
+  "tags": [
+    "Shopping",
+    "Banking",
+    "Currency"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "信用卡轮廓",
+    "付款"
+  ]
+}

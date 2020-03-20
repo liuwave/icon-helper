@@ -1,0 +1,19 @@
+{
+  "id": "CF5607F2-4106-4D47-8FE6-B8F5A16E6D98",
+  "name": "chevron-left",
+  "codepoint": "F0141",
+  "aliases": [
+    "keyboard-arrow-left",
+    "navigate-before"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "V形向左",
+    "键盘向左键",
+    "之前导航"
+  ]
+}

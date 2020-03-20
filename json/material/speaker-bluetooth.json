@@ -1,0 +1,14 @@
+{
+  "id": "E9F560A8-FFD9-44CD-8736-00C627756591",
+  "name": "speaker-bluetooth",
+  "codepoint": "F09A2",
+  "aliases": [],
+  "tags": [
+    "Audio"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "蓝牙音箱"
+  ]
+}

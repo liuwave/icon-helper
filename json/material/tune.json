@@ -1,0 +1,19 @@
+{
+  "id": "B1F7C2ED-4017-4162-A4C7-31D8761D8DC3",
+  "name": "tune",
+  "codepoint": "F062E",
+  "aliases": [
+    "mixer-settings",
+    "equaliser"
+  ],
+  "tags": [
+    "Settings"
+  ],
+  "author": "Google",
+  "version": "1.6.50",
+  "zhs": [
+    "调谐",
+    "混音器设置",
+    "均衡器"
+  ]
+}

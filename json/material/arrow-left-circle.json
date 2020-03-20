@@ -1,0 +1,17 @@
+{
+  "id": "57F5D624-D5B0-4F19-AFAB-676F822C87DC",
+  "name": "arrow-left-circle",
+  "codepoint": "F0CDD",
+  "aliases": [
+    "arrow-back-circle"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.3.92",
+  "zhs": [
+    "向左箭头",
+    "向后箭头"
+  ]
+}

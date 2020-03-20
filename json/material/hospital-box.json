@@ -1,0 +1,19 @@
+{
+  "id": "83D0E9E7-B196-4515-A9C8-6E6FEB03ADD1",
+  "name": "hospital-box",
+  "codepoint": "F02E0",
+  "aliases": [
+    "local-hospital",
+    "swiss-cross-box"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "医院医疗箱",
+    "当地医院",
+    "瑞士十字医疗箱"
+  ]
+}

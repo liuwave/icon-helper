@@ -1,0 +1,14 @@
+{
+  "id": "9C650D6F-20FE-4496-8973-B19509A47A18",
+  "name": "format-text-rotation-angle-up",
+  "codepoint": "F0FBC",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "4.0.96",
+  "zhs": [
+    "格式化文本旋转角度"
+  ]
+}

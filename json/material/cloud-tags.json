@@ -1,0 +1,17 @@
+{
+  "id": "AE3A5033-BA77-4E82-BFD0-4C23275B602F",
+  "name": "cloud-tags",
+  "codepoint": "F07B6",
+  "aliases": [
+    "cloud-xml"
+  ],
+  "tags": [
+    "Cloud"
+  ],
+  "author": "Andy Martinez",
+  "version": "2.0.46",
+  "zhs": [
+    "云标记",
+    "云xml"
+  ]
+}

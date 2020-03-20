@@ -1,0 +1,14 @@
+{
+  "id": "8FA2DBB9-E874-4CBB-A466-2691223D0FEF",
+  "name": "file-search",
+  "codepoint": "F0C7C",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "文件搜索"
+  ]
+}

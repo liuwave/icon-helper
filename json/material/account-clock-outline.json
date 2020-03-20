@@ -1,0 +1,21 @@
+{
+  "id": "AA800DB2-3369-412C-B881-0F99863D13F7",
+  "name": "account-clock-outline",
+  "codepoint": "F0B57",
+  "aliases": [
+    "user-clock-outline",
+    "account-pending-outline",
+    "person-clock-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Coffeemate",
+  "version": "3.0.39",
+  "zhs": [
+    "帐户时钟轮廓",
+    "用户时钟轮廓",
+    "帐户待处理轮廓",
+    "个人时钟轮廓"
+  ]
+}

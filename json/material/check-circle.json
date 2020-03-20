@@ -1,0 +1,15 @@
+{
+  "id": "93D7B6DC-17D2-4A2B-B787-79E2E8BEF304",
+  "name": "check-circle",
+  "codepoint": "F05E0",
+  "aliases": [
+    "tick-circle"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "检查圆圈",
+    "刻度线"
+  ]
+}

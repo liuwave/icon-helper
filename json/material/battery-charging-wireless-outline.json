@@ -1,0 +1,20 @@
+{
+  "id": "4AFDE54E-1A6D-4F7F-BD0D-AB67FB0F12CC",
+  "name": "battery-charging-wireless-outline",
+  "codepoint": "F0812",
+  "aliases": [
+    "battery-charging-wireless-empty",
+    "battery-charging-wireless-0"
+  ],
+  "tags": [
+    "Battery",
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.19",
+  "zhs": [
+    "电池充电无线轮廓",
+    "电池充电无线空",
+    "电池充电无线0"
+  ]
+}

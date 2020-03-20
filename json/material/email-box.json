@@ -1,0 +1,15 @@
+{
+  "id": "6930A4EF-08EB-4649-B2BB-369269DA918F",
+  "name": "email-box",
+  "codepoint": "F0D03",
+  "aliases": [
+    "envelope-box"
+  ],
+  "tags": [],
+  "author": "GreenTurtwig",
+  "version": "3.3.92",
+  "zhs": [
+    "邮箱",
+    "信封盒"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "925C7A7F-E7D0-4260-B131-D96FF2F7B8DB",
+  "name": "checkerboard-minus",
+  "codepoint": "F1202",
+  "aliases": [
+    "raster-minus"
+  ],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.6.95",
+  "zhs": [
+    "棋盘减",
+    "栅格减"
+  ]
+}

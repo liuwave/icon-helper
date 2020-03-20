@@ -1,0 +1,14 @@
+{
+  "id": "370C931A-E40F-4950-B9CE-87D337720400",
+  "name": "transit-connection",
+  "codepoint": "F0D3C",
+  "aliases": [],
+  "tags": [
+    "Navigation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "运输连接"
+  ]
+}

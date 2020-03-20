@@ -1,0 +1,14 @@
+{
+  "id": "D0AEFF89-C011-4445-B685-A1366099D920",
+  "name": "radio-am",
+  "codepoint": "F0CBE",
+  "aliases": [],
+  "tags": [
+    "Audio"
+  ],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "am am radio"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "057EDDAB-65B4-495C-A473-71F759BC6FD9",
+  "name": "alpha-b-box",
+  "codepoint": "F0B09",
+  "aliases": [
+    "alphabet-b-box",
+    "letter-b-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "字母b框"
+  ]
+}

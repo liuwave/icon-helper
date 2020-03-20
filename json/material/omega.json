@@ -1,0 +1,17 @@
+{
+  "id": "A98F63CB-AB27-4A2D-B76C-6994507BCDBB",
+  "name": "omega",
+  "codepoint": "F03C9",
+  "aliases": [
+    "ohm",
+    "electrical-resistance"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "Ω",
+    "欧姆",
+    "电阻"
+  ]
+}

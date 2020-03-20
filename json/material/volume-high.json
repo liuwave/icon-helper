@@ -1,0 +1,23 @@
+{
+  "id": "CE6E08CF-2476-4BBB-AF91-6D081F1CBEF9",
+  "name": "volume-high",
+  "codepoint": "F057E",
+  "aliases": [
+    "audio",
+    "speaker",
+    "speakerphone"
+  ],
+  "tags": [
+    "Audio",
+    "Home Automation",
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "高音量",
+    "音频",
+    "扬声器",
+    "免提电话"
+  ]
+}

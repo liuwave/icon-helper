@@ -1,0 +1,15 @@
+{
+  "id": "5D2990D5-D3D4-4E8F-AED8-B90CE6164068",
+  "name": "battery-charging-wireless-10",
+  "codepoint": "F0808",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.19",
+  "zhs": [
+    "无线充电电池10"
+  ]
+}

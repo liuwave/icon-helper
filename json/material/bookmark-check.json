@@ -1,0 +1,15 @@
+{
+  "id": "65F155F1-7A9F-49AF-B570-FD6D24553CE5",
+  "name": "bookmark-check",
+  "codepoint": "F00C1",
+  "aliases": [
+    "bookmark-tick"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "书签检查",
+    "书签刻度"
+  ]
+}

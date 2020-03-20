@@ -1,0 +1,17 @@
+{
+  "id": "2F61EAD1-DF0E-4E90-8260-875EA5221F35",
+  "name": "seat-outline",
+  "codepoint": "F0CC4",
+  "aliases": [
+    "event-seat-outline",
+    "chair-outline"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "座椅轮廓",
+    "活动座椅轮廓",
+    "椅子轮廓"
+  ]
+}

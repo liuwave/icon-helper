@@ -1,0 +1,17 @@
+{
+  "id": "3AD51A23-9040-4D23-AE50-B28C6DFF82F6",
+  "name": "radioactive-off",
+  "codepoint": "F0EC1",
+  "aliases": [
+    "radiation-off"
+  ],
+  "tags": [
+    "Science"
+  ],
+  "author": "TheChilliPL",
+  "version": "3.7.94",
+  "zhs": [
+    "放射性关闭",
+    "辐射关闭"
+  ]
+}

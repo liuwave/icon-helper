@@ -1,0 +1,19 @@
+{
+  "id": "910E199F-4A9F-473A-90A9-F69C05BD67F1",
+  "name": "email-plus",
+  "codepoint": "F09EB",
+  "aliases": [
+    "email-add",
+    "envelope-add",
+    "envelope-plus"
+  ],
+  "tags": [],
+  "author": "GreenTurtwig",
+  "version": "2.5.94",
+  "zhs": [
+    "电子邮件加",
+    "电子邮件添加",
+    "信封添加",
+    "信封加"
+  ]
+}

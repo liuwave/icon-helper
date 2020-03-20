@@ -1,0 +1,17 @@
+{
+  "id": "0938BCD1-BCF8-4439-B6B3-A590150878BC",
+  "name": "weather-snowy-rainy",
+  "codepoint": "F067F",
+  "aliases": [
+    "weather-sleet"
+  ],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.7.12",
+  "zhs": [
+    "多雨的下雪天气",
+    "雨夹雪的天气"
+  ]
+}

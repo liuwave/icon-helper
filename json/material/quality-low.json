@@ -1,0 +1,16 @@
+{
+  "id": "51E44ABD-8132-4758-905E-4F46784ED768",
+  "name": "quality-low",
+  "codepoint": "F0A0C",
+  "aliases": [
+    "low-quality",
+    "lq"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "2.5.94",
+  "zhs": [
+    "低质量",
+    "lq"
+  ]
+}

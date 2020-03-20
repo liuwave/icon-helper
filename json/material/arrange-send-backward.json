@@ -1,0 +1,15 @@
+{
+  "id": "677B1C90-BB0B-4F73-8EEA-D6E8FA709A6D",
+  "name": "arrange-send-backward",
+  "codepoint": "F003F",
+  "aliases": [],
+  "tags": [
+    "Arrange",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "安排向后发送"
+  ]
+}

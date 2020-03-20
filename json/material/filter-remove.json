@@ -1,0 +1,15 @@
+{
+  "id": "F0D392A7-69A4-4301-8E3B-46A8FC7C3DF9",
+  "name": "filter-remove",
+  "codepoint": "F0234",
+  "aliases": [
+    "funnel-remove"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "删除过滤器",
+    "删除漏斗"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "7DFB1292-669B-4769-A107-FA3359281270",
+  "name": "account-group-outline",
+  "codepoint": "F0B58",
+  "aliases": [
+    "user-group-outline",
+    "users-group-outline",
+    "person-group-outline",
+    "people-group-outline",
+    "accounts-group-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.0.39",
+  "zhs": [
+    "帐户组轮廓",
+    "用户组轮廓",
+    "人员组轮廓"
+  ]
+}

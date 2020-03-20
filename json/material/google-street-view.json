@@ -1,0 +1,15 @@
+{
+  "id": "EC38CB3D-A8A1-48E8-9A71-9BE93D6847FC",
+  "name": "google-street-view",
+  "codepoint": "F0C88",
+  "aliases": [
+    "pegman"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "Google街景",
+    "衣夹人"
+  ]
+}

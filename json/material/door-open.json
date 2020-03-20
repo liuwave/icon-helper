@@ -1,0 +1,14 @@
+{
+  "id": "A64D06DE-1EE4-400F-9E17-2B5D319475A3",
+  "name": "door-open",
+  "codepoint": "F081C",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Haley Halcyon",
+  "version": "2.1.19",
+  "zhs": [
+    "开门"
+  ]
+}

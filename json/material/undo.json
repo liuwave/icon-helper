@@ -1,0 +1,15 @@
+{
+  "id": "C9D6F6DE-E9F7-4AC9-B9F1-41160A4C2B0E",
+  "name": "undo",
+  "codepoint": "F054C",
+  "aliases": [
+    "arrow"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "撤消",
+    "箭头"
+  ]
+}

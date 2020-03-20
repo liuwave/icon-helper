@@ -1,0 +1,19 @@
+{
+  "id": "F7F07C92-4531-466D-AC3E-F7822D2FDFBD",
+  "name": "tray-minus",
+  "codepoint": "F1297",
+  "aliases": [
+    "queue",
+    "printer",
+    "inbox"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "托盘减号",
+    "队列",
+    "打印机",
+    "收件箱"
+  ]
+}

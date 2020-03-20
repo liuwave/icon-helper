@@ -1,0 +1,17 @@
+{
+  "id": "3F6E54F6-CF3E-46C8-BD72-A9BCF6DCF80C",
+  "name": "format-size",
+  "codepoint": "F027F",
+  "aliases": [
+    "font-size"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "格式大小",
+    "字体大小"
+  ]
+}

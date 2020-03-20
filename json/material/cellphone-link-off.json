@@ -1,0 +1,21 @@
+{
+  "id": "7E4265ED-151D-45CE-BDD2-08B6028B6006",
+  "name": "cellphone-link-off",
+  "codepoint": "F0122",
+  "aliases": [
+    "mobile-phone-link-off",
+    "smartphone-link-off",
+    "phonelink-off"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "手机链接关闭",
+    "智能手机链接关闭",
+    "phonelink关闭"
+  ]
+}

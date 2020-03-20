@@ -1,0 +1,17 @@
+{
+  "id": "D84076D2-8C7C-4CD7-98EA-05108B10FF1A",
+  "name": "skew-more",
+  "codepoint": "F0D37",
+  "aliases": [
+    "skew-increase"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "偏斜更多",
+    "偏斜增加"
+  ]
+}

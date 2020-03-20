@@ -1,0 +1,19 @@
+{
+  "id": "F5773738-AE3C-423C-8B64-6C951B9A4B3A",
+  "name": "toy-brick-remove",
+  "codepoint": "F1290",
+  "aliases": [
+    "lego",
+    "plugin",
+    "extension"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "移除玩具积木",
+    "乐高玩具",
+    "插件",
+    "扩展"
+  ]
+}

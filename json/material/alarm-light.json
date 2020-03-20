@@ -1,0 +1,12 @@
+{
+  "id": "B6D88F9D-A85A-4943-A61C-7D33FB0EBF4F",
+  "name": "alarm-light",
+  "codepoint": "F078F",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.0.46",
+  "zhs": [
+    "报警灯"
+  ]
+}

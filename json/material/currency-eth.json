@@ -1,0 +1,21 @@
+{
+  "id": "222B8F14-2217-4FC1-8940-AC1CF8AB150B",
+  "name": "currency-eth",
+  "codepoint": "F07BB",
+  "aliases": [
+    "ethereum",
+    "xi"
+  ],
+  "tags": [
+    "Currency",
+    "Brand / Logo",
+    "Banking"
+  ],
+  "author": "Peter Noble",
+  "version": "2.0.46",
+  "zhs": [
+    "货币ETH",
+    "以太坊",
+    "西"
+  ]
+}

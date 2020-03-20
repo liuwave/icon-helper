@@ -1,0 +1,12 @@
+{
+  "id": "2BD17DBC-5002-4378-B885-A1952D740C0B",
+  "name": "nfc-variant-off",
+  "codepoint": "F0E54",
+  "aliases": [],
+  "tags": [],
+  "author": "TheChilliPL",
+  "version": "3.6.95",
+  "zhs": [
+    "NFC重音符号"
+  ]
+}

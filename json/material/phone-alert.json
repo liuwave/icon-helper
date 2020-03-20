@@ -1,0 +1,15 @@
+{
+  "id": "B7AE9DEE-6F1D-4CAF-9FD8-C6A6BF5D739D",
+  "name": "phone-alert",
+  "codepoint": "F0F1A",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone",
+    "Alert / Error"
+  ],
+  "author": "Contributors",
+  "version": "3.8.95",
+  "zhs": [
+    "电话提醒"
+  ]
+}

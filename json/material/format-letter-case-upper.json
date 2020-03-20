@@ -1,0 +1,17 @@
+{
+  "id": "0C748102-1ABB-4762-A407-B64C960618D7",
+  "name": "format-letter-case-upper",
+  "codepoint": "F0B36",
+  "aliases": [
+    "format-uppercase"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.8.94",
+  "zhs": [
+    "大写字母格式",
+    "大写格式"
+  ]
+}

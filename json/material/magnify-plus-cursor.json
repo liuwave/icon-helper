@@ -1,0 +1,15 @@
+{
+  "id": "950E718A-089B-4266-AAFA-B9FA8BB0D3B3",
+  "name": "magnify-plus-cursor",
+  "codepoint": "F0A63",
+  "aliases": [
+    "zoom-in-cursor",
+    "magnify-add-cursor"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "放大光标"
+  ]
+}

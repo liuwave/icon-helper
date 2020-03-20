@@ -1,0 +1,17 @@
+{
+  "id": "513D2CF1-31F5-4F3B-8543-2499ABB20924",
+  "name": "home-heart",
+  "codepoint": "F0827",
+  "aliases": [
+    "family"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "家庭之心",
+    "家庭"
+  ]
+}

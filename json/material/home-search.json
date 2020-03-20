@@ -1,0 +1,14 @@
+{
+  "id": "156F3CF1-D7CD-487B-AF83-4A7270413A62",
+  "name": "home-search",
+  "codepoint": "F13B0",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "5.0.45",
+  "zhs": [
+    "主页搜索"
+  ]
+}

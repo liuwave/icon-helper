@@ -1,0 +1,15 @@
+{
+  "id": "5F084570-4F64-4A94-A762-602350ACEDAA",
+  "name": "clipboard-arrow-up",
+  "codepoint": "F0C57",
+  "aliases": [
+    "clipboard-arrow-top"
+  ],
+  "tags": [],
+  "author": "James Coyle",
+  "version": "3.2.89",
+  "zhs": [
+    "剪贴板向上箭头",
+    "剪贴板顶部箭头"
+  ]
+}

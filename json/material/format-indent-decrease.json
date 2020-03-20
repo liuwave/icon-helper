@@ -1,0 +1,14 @@
+{
+  "id": "148FD97C-E3C6-4E41-87B8-488036159CC6",
+  "name": "format-indent-decrease",
+  "codepoint": "F0275",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "格式缩进减少"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "DC1FE999-3DD7-423B-95A5-89005C66875E",
+  "name": "numeric-6-box",
+  "codepoint": "F03B3",
+  "aliases": [
+    "looks-6",
+    "numeric-six-box",
+    "number-6-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字6框",
+    "外观6"
+  ]
+}

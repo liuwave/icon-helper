@@ -1,0 +1,12 @@
+{
+  "id": "7C66176F-E1BF-4F04-A761-377F67916FDA",
+  "name": "email-send",
+  "codepoint": "F10DC",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.3.95",
+  "zhs": [
+    "电子邮件发送"
+  ]
+}

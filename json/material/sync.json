@@ -1,0 +1,20 @@
+{
+  "id": "E8CE455E-8C08-48F4-B989-8D91E185E8AE",
+  "name": "sync",
+  "codepoint": "F04E6",
+  "aliases": [
+    "loop",
+    "counterclockwise-arrows",
+    "circular-arrows",
+    "circle-arrows"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "同步",
+    "循环",
+    "逆时针箭头",
+    "圆形箭头"
+  ]
+}

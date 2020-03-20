@@ -1,0 +1,17 @@
+{
+  "id": "5FFF2FB6-08B2-4860-ACCF-72D614641882",
+  "name": "poll-box",
+  "codepoint": "F0420",
+  "aliases": [
+    "assessment",
+    "insert-chart"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "民意调查箱",
+    "评估",
+    "插入图表"
+  ]
+}

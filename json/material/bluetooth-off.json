@@ -1,0 +1,15 @@
+{
+  "id": "CEB015C9-455E-4551-A898-7A992658CF72",
+  "name": "bluetooth-off",
+  "codepoint": "F00B2",
+  "aliases": [
+    "bluetooth-disabled"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "蓝牙关闭",
+    "蓝牙已禁用"
+  ]
+}

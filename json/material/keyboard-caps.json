@@ -1,0 +1,15 @@
+{
+  "id": "0F441009-7A1F-45BF-A239-B9591B0A5404",
+  "name": "keyboard-caps",
+  "codepoint": "F030E",
+  "aliases": [
+    "keyboard-capslock"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "键盘盖",
+    "键盘盖锁"
+  ]
+}

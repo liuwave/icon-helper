@@ -1,0 +1,18 @@
+{
+  "id": "C2687EF2-6AEB-48BC-98E5-9A010C6E2BE7",
+  "name": "sort-alphabetical-variant",
+  "codepoint": "F04BB",
+  "aliases": [
+    "sort-by-alpha",
+    "sort-alphabetically"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "按字母顺序排序",
+    "按字母排序"
+  ]
+}

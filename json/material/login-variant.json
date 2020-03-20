@@ -1,0 +1,15 @@
+{
+  "id": "B590AA80-D315-4344-8036-8FBC25C87D2C",
+  "name": "login-variant",
+  "codepoint": "F05FC",
+  "aliases": [
+    "log-in-variant",
+    "sign-in-variant"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "登录变量"
+  ]
+}

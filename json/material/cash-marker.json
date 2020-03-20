@@ -1,0 +1,19 @@
+{
+  "id": "080E0DBC-A7E4-40C0-A126-9CE83BDE2FDF",
+  "name": "cash-marker",
+  "codepoint": "F0DB8",
+  "aliases": [
+    "cod",
+    "cash-on-delivery"
+  ],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "现金标记",
+    "鳕鱼",
+    "货到付款"
+  ]
+}

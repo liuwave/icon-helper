@@ -1,0 +1,14 @@
+{
+  "id": "C35492EC-7A43-444E-86A1-B3E960A86950",
+  "name": "air-humidifier",
+  "codepoint": "F1099",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.2.95",
+  "zhs": [
+    "加湿器"
+  ]
+}

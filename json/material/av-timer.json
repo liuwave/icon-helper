@@ -1,0 +1,14 @@
+{
+  "id": "A118E3CD-FF18-48FD-B26C-B4A48641E4C5",
+  "name": "av-timer",
+  "codepoint": "F006B",
+  "aliases": [],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "AV计时器"
+  ]
+}

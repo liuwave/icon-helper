@@ -1,0 +1,14 @@
+{
+  "id": "20B59D03-2EF5-4C5D-BB00-2CC611297AC0",
+  "name": "database-remove",
+  "codepoint": "F0D00",
+  "aliases": [],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Michael Richins",
+  "version": "3.3.92",
+  "zhs": [
+    "数据库删除"
+  ]
+}

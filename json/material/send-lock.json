@@ -1,0 +1,17 @@
+{
+  "id": "343A4B08-D77B-453B-A8A7-AF40D1A98DD2",
+  "name": "send-lock",
+  "codepoint": "F07ED",
+  "aliases": [
+    "send-secure"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Michael Richins",
+  "version": "2.0.46",
+  "zhs": [
+    "发送锁",
+    "发送安全"
+  ]
+}

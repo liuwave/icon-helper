@@ -1,0 +1,19 @@
+{
+  "id": "5B607B90-B492-43AD-A5B0-4AC800A9F7DA",
+  "name": "cloud-check",
+  "codepoint": "F0160",
+  "aliases": [
+    "cloud-done",
+    "cloud-tick"
+  ],
+  "tags": [
+    "Cloud"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "云检查",
+    "云完成",
+    "云滴答"
+  ]
+}

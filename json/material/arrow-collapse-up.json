@@ -1,0 +1,17 @@
+{
+  "id": "1E02D94D-6931-4CB8-8836-5276B076D811",
+  "name": "arrow-collapse-up",
+  "codepoint": "F0795",
+  "aliases": [
+    "arrow-compress-up"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Michael Richins",
+  "version": "2.0.46",
+  "zhs": [
+    "箭头收起",
+    "箭头压缩"
+  ]
+}

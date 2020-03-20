@@ -1,0 +1,15 @@
+{
+  "id": "2F2FC9A9-FAC3-4736-B8EC-B7DF9548586C",
+  "name": "music-note-half",
+  "codepoint": "F0389",
+  "aliases": [],
+  "tags": [
+    "Audio",
+    "Music"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "音符一半"
+  ]
+}

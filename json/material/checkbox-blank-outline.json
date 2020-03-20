@@ -1,0 +1,16 @@
+{
+  "id": "C7D0E43D-6393-429B-BDCE-B522419B7B3D",
+  "name": "checkbox-blank-outline",
+  "codepoint": "F0131",
+  "aliases": [
+    "check-box-outline-blank"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "复选框空白轮廓"
+  ]
+}

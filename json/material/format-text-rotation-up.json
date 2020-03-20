@@ -1,0 +1,14 @@
+{
+  "id": "2A113842-ED83-4F44-B7DE-A0AFF5DDB452",
+  "name": "format-text-rotation-up",
+  "codepoint": "F0FBE",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "4.0.96",
+  "zhs": [
+    "向上格式化文本"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4B15BF16-CD96-4427-9EA4-5A8B09F3A2B6",
+  "name": "message-settings",
+  "codepoint": "F06F0",
+  "aliases": [],
+  "tags": [
+    "Settings"
+  ],
+  "author": "Michael Richins",
+  "version": "1.8.36",
+  "zhs": [
+    "邮件设置"
+  ]
+}

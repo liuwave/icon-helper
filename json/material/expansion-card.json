@@ -1,0 +1,23 @@
+{
+  "id": "6FFC7116-2E5B-40A8-A612-90706DC5EECF",
+  "name": "expansion-card",
+  "codepoint": "F08AE",
+  "aliases": [
+    "gpu",
+    "graphics-processing-unit",
+    "nic",
+    "network-interface-card"
+  ],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.2.43",
+  "zhs": [
+    "卡扩展",
+    "GPU",
+    "图形处理单元",
+    "NIC",
+    "网络接口卡"
+  ]
+}

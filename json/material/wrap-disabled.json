@@ -1,0 +1,15 @@
+{
+  "id": "44C4926C-7F82-4A6A-8F55-A7B23E56A9D7",
+  "name": "wrap-disabled",
+  "codepoint": "F0BDF",
+  "aliases": [
+    "unwrap"
+  ],
+  "tags": [],
+  "author": "Contributors",
+  "version": "3.0.39",
+  "zhs": [
+    "禁止包装",
+    "展开"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "16D37AE7-409E-48A5-BE24-9DCBA0792FD7",
+  "name": "source-repository-multiple",
+  "codepoint": "F0CD0",
+  "aliases": [
+    "source-repositories"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "3.2.89",
+  "zhs": [
+    "源库多个",
+    "源库"
+  ]
+}

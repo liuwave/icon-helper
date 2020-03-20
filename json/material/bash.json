@@ -1,0 +1,14 @@
+{
+  "id": "53BA6F8E-FC99-4B2A-8497-EA732C1880E4",
+  "name": "bash",
+  "codepoint": "F1183",
+  "aliases": [],
+  "tags": [
+    "Developer / Languages"
+  ],
+  "author": "Michael Richins",
+  "version": "4.4.95",
+  "zhs": [
+    "bash"
+  ]
+}

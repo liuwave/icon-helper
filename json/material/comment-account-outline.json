@@ -1,0 +1,19 @@
+{
+  "id": "18A9FFE4-B768-4A8F-BD55-778C8E8C41FC",
+  "name": "comment-account-outline",
+  "codepoint": "F017C",
+  "aliases": [
+    "comment-user-outline",
+    "comment-person-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "评论帐户轮廓",
+    "评论用户轮廓",
+    "评论人轮廓"
+  ]
+}

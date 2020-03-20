@@ -1,0 +1,19 @@
+{
+  "id": "64CBC510-072A-477D-99DD-F8114E7E312E",
+  "name": "diameter",
+  "codepoint": "F0C63",
+  "aliases": [
+    "circle-diameter",
+    "sphere-diameter"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "直径",
+    "圆直径",
+    "球体直径"
+  ]
+}

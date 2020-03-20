@@ -1,0 +1,19 @@
+{
+  "id": "5644CD16-FA4D-4F68-8DAC-996169C778E1",
+  "name": "christianity",
+  "codepoint": "F0953",
+  "aliases": [
+    "religion-christian",
+    "cross"
+  ],
+  "tags": [
+    "Religion"
+  ],
+  "author": "Nick",
+  "version": "2.4.85",
+  "zhs": [
+    "基督教",
+    "宗教基督教徒",
+    "十字架"
+  ]
+}

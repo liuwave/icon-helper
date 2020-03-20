@@ -1,0 +1,15 @@
+{
+  "id": "AD3C7A2B-0B64-4183-9452-C96EAAF3E08E",
+  "name": "refresh",
+  "codepoint": "F0450",
+  "aliases": [
+    "loop"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "刷新",
+    "循环"
+  ]
+}

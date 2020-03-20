@@ -1,0 +1,18 @@
+{
+  "id": "6EBE020D-405B-4E36-8B47-CAC6FAF1166C",
+  "name": "cloud-outline",
+  "codepoint": "F0163",
+  "aliases": [
+    "cloud-queue"
+  ],
+  "tags": [
+    "Cloud",
+    "Weather"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "云轮廓",
+    "云队列"
+  ]
+}

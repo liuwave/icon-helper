@@ -1,0 +1,17 @@
+{
+  "id": "E603301B-7DF4-43C2-9035-0DDB2A50B88E",
+  "name": "timer-sand-full",
+  "codepoint": "F078C",
+  "aliases": [
+    "hourglass-full"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.9.32",
+  "zhs": [
+    "计时器沙子已满",
+    "沙漏已满"
+  ]
+}

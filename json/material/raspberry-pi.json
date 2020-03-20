@@ -1,0 +1,14 @@
+{
+  "id": "AFC49CE3-9442-4F15-B3EE-6C841A226040",
+  "name": "raspberry-pi",
+  "codepoint": "F043F",
+  "aliases": [
+    "raspberrypi"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "树莓派"
+  ]
+}

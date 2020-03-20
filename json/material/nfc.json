@@ -1,0 +1,15 @@
+{
+  "id": "961106B7-BD56-462C-936C-E2CDC83051B5",
+  "name": "nfc",
+  "codepoint": "F0396",
+  "aliases": [
+    "near-field-communication"
+  ],
+  "tags": [],
+  "author": "Contributors",
+  "version": "1.5.54",
+  "zhs": [
+    "nfc",
+    "近距离通讯"
+  ]
+}

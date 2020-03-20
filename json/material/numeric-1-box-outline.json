@@ -1,0 +1,17 @@
+{
+  "id": "50AEDC65-99B1-45CA-8078-CD6D8633995A",
+  "name": "numeric-1-box-outline",
+  "codepoint": "F03A6",
+  "aliases": [
+    "numeric-one-box-outline",
+    "number-1-box-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字1框轮廓"
+  ]
+}

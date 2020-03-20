@@ -1,0 +1,15 @@
+{
+  "id": "0E63785D-BB37-4A60-B09D-F985DC4FAD5F",
+  "name": "home-lock-open",
+  "codepoint": "F08EC",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Lock"
+  ],
+  "author": "Nick",
+  "version": "2.3.50",
+  "zhs": [
+    "打开锁首页"
+  ]
+}

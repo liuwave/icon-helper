@@ -1,0 +1,17 @@
+{
+  "id": "220955AA-770D-4884-A2ED-F21D2DC2CCDA",
+  "name": "weather-pouring",
+  "codepoint": "F0596",
+  "aliases": [
+    "weather-heavy-rain"
+  ],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "倾盆大雨",
+    "大雨"
+  ]
+}

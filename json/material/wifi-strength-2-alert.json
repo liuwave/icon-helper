@@ -1,0 +1,17 @@
+{
+  "id": "38D73A8E-CEA5-4E6F-960B-BD2A0D482D9F",
+  "name": "wifi-strength-2-alert",
+  "codepoint": "F0923",
+  "aliases": [
+    "wifi-strength-2-warning"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "wifi强度2警报",
+    "wifi强度2警告"
+  ]
+}

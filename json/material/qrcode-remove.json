@@ -1,0 +1,12 @@
+{
+  "id": "D41EE63E-AFC3-4A60-891F-841AF0AEBF22",
+  "name": "qrcode-remove",
+  "codepoint": "F118D",
+  "aliases": [],
+  "tags": [],
+  "author": "Peter Noble",
+  "version": "4.4.95",
+  "zhs": [
+    "移除QR码"
+  ]
+}

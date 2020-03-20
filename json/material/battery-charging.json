@@ -1,0 +1,19 @@
+{
+  "id": "F365ACF3-9453-4516-B592-AECD72AB7433",
+  "name": "battery-charging",
+  "codepoint": "F0084",
+  "aliases": [
+    "battery-charging-full"
+  ],
+  "tags": [
+    "Battery",
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电池正在充电",
+    "电池已充满"
+  ]
+}

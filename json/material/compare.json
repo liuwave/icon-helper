@@ -1,0 +1,15 @@
+{
+  "id": "A9786B48-6664-4170-B56C-6F2868D5000D",
+  "name": "compare",
+  "codepoint": "F018A",
+  "aliases": [
+    "theme-light-dark"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "比较",
+    "浅黑主题"
+  ]
+}

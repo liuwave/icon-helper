@@ -1,0 +1,15 @@
+{
+  "id": "164AE88B-F990-471C-8663-EFDC05BA14F0",
+  "name": "map-outline",
+  "codepoint": "F0982",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "地图轮廓"
+  ]
+}

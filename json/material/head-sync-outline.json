@@ -1,0 +1,17 @@
+{
+  "id": "8EC8806B-0E06-4EA4-915E-C061D4930ECC",
+  "name": "head-sync-outline",
+  "codepoint": "F1351",
+  "aliases": [
+    "head-reload-outline",
+    "head-refresh-outline"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.9.95",
+  "zhs": [
+    "磁头同步轮廓",
+    "磁头重新加载轮廓",
+    "磁头刷新轮廓"
+  ]
+}

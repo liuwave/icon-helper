@@ -1,0 +1,14 @@
+{
+  "id": "26929F83-C254-41C2-8B0D-B4D95EACAD3E",
+  "name": "airbag",
+  "codepoint": "F0BE9",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "安全气囊"
+  ]
+}

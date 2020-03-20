@@ -1,0 +1,18 @@
+{
+  "id": "F1921E38-A25D-41F6-94B6-B6D01C3E0593",
+  "name": "sail-boat",
+  "codepoint": "F0EC8",
+  "aliases": [
+    "boat"
+  ],
+  "tags": [
+    "Sport",
+    "Transportation + Water"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.7.94",
+  "zhs": [
+    "帆船",
+    "船"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "CC698648-1A71-4EC8-A1E3-B5ACC42F2FDB",
+  "name": "timer-off",
+  "codepoint": "F13AC",
+  "aliases": [
+    "stopwatch-off"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "5.0.45",
+  "zhs": [
+    "计时器关闭",
+    "秒表关闭"
+  ]
+}

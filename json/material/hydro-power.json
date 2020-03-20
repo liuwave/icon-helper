@@ -1,0 +1,20 @@
+{
+  "id": "97D5D644-DB37-4DA8-8B37-444B242A88EF",
+  "name": "hydro-power",
+  "codepoint": "F12E5",
+  "aliases": [
+    "hydraulic-turbine",
+    "water-turbine",
+    "watermill"
+  ],
+  "tags": [
+    "Device / Tech"
+  ],
+  "author": "Contributors",
+  "version": "4.8.95",
+  "zhs": [
+    "水力发电",
+    "水轮机",
+    "水车"
+  ]
+}

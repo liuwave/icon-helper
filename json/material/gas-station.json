@@ -1,0 +1,23 @@
+{
+  "id": "50E30598-BCD8-4167-BDAC-FF6971E745D7",
+  "name": "gas-station",
+  "codepoint": "F0298",
+  "aliases": [
+    "gas-pump",
+    "petrol-pump",
+    "petrol-station",
+    "local-gas-station",
+    "fuel-station",
+    "fuel-pump"
+  ],
+  "tags": [
+    "Places",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "加油站",
+    "当地加油站"
+  ]
+}

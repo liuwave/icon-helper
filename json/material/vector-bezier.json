@@ -1,0 +1,14 @@
+{
+  "id": "1D649850-7C33-41FE-8FBA-E6DFAB384AEC",
+  "name": "vector-bezier",
+  "codepoint": "F0AE8",
+  "aliases": [],
+  "tags": [
+    "Vector"
+  ],
+  "author": "Louistwee",
+  "version": "2.7.94",
+  "zhs": [
+    "矢量贝塞尔曲线"
+  ]
+}

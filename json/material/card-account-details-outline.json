@@ -1,0 +1,26 @@
+{
+  "id": "6BD2BC65-C99A-42FB-A37E-85F5E8C91D32",
+  "name": "card-account-details-outline",
+  "codepoint": "F0DAB",
+  "aliases": [
+    "identification-card-outline",
+    "user-card-details-outline",
+    "id-card-outline",
+    "person-card-details-outline",
+    "drivers-license-outline",
+    "business-card-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Richins",
+  "version": "3.5.94",
+  "zhs": [
+    "卡帐户详细信息轮廓",
+    "识别卡概述",
+    "用户卡概述轮廓",
+    "人卡详细说明轮廓",
+    "驾驶执照轮廓",
+    "名片轮廓"
+  ]
+}

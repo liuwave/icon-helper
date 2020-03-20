@@ -1,0 +1,20 @@
+{
+  "id": "0D4DD4F1-0915-4D3D-8F21-A96C2DDAF6E0",
+  "name": "wallet-giftcard",
+  "codepoint": "F0585",
+  "aliases": [
+    "card-giftcard",
+    "redeem"
+  ],
+  "tags": [
+    "Shopping",
+    "Banking"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "钱包giftcard",
+    "giftcard卡",
+    "兑换"
+  ]
+}

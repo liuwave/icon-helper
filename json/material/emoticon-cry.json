@@ -1,0 +1,17 @@
+{
+  "id": "39704938-DF4F-4E60-8C20-0569B4B1819C",
+  "name": "emoticon-cry",
+  "codepoint": "F0C6C",
+  "aliases": [
+    "smiley-cry"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "图释哭泣",
+    "笑脸哭泣"
+  ]
+}

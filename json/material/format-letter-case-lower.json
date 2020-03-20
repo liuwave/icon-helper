@@ -1,0 +1,17 @@
+{
+  "id": "79F06165-5718-4618-8056-1BEB689BF7CF",
+  "name": "format-letter-case-lower",
+  "codepoint": "F0B35",
+  "aliases": [
+    "format-lowercase"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.8.94",
+  "zhs": [
+    "小写字母格式",
+    "小写格式"
+  ]
+}

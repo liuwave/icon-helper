@@ -1,0 +1,17 @@
+{
+  "id": "F2D23B1E-EA12-4EF5-9365-E698D1CD1319",
+  "name": "calendar-week",
+  "codepoint": "F0A33",
+  "aliases": [
+    "event-week"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Cody",
+  "version": "2.6.95",
+  "zhs": [
+    "日历周",
+    "活动周"
+  ]
+}

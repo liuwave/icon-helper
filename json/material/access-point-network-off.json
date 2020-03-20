@@ -1,0 +1,12 @@
+{
+  "id": "6DC5A262-63FE-4C77-A66C-B323DF4F82BF",
+  "name": "access-point-network-off",
+  "codepoint": "F0BE1",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "接入点网络已关闭"
+  ]
+}

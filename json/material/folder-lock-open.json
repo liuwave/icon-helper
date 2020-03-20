@@ -1,0 +1,15 @@
+{
+  "id": "F89AD3B3-DD09-44F7-81A7-0433ECD44A8F",
+  "name": "folder-lock-open",
+  "codepoint": "F0251",
+  "aliases": [],
+  "tags": [
+    "Lock",
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "打开锁文件夹"
+  ]
+}

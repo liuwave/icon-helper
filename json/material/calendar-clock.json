@@ -1,0 +1,21 @@
+{
+  "id": "921F6084-24E6-4D62-8BF9-9258D8FADE8E",
+  "name": "calendar-clock",
+  "codepoint": "F00F0",
+  "aliases": [
+    "event-clock",
+    "event-time",
+    "calendar-time"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "日历时钟",
+    "事件时钟",
+    "事件时间",
+    "日历时间"
+  ]
+}

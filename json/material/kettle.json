@@ -1,0 +1,22 @@
+{
+  "id": "C4476901-9B29-410C-BCA7-67814F5421B4",
+  "name": "kettle",
+  "codepoint": "F05FA",
+  "aliases": [
+    "tea-kettle",
+    "kettle-full",
+    "tea-kettle-full"
+  ],
+  "tags": [
+    "Home Automation",
+    "Food / Drink"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "水壶",
+    "茶壶",
+    "水壶已满",
+    "茶壶已满"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "350D7B60-3F36-4FB0-9959-B90625F5267C",
+  "name": "playlist-plus",
+  "codepoint": "F0412",
+  "aliases": [
+    "playlist-add"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "播放列表加",
+    "播放列表添加"
+  ]
+}

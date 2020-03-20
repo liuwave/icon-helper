@@ -1,0 +1,12 @@
+{
+  "id": "4043C369-E619-47E9-9363-E5E9C43457FB",
+  "name": "close-network",
+  "codepoint": "F015B",
+  "aliases": [],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "关闭网络"
+  ]
+}

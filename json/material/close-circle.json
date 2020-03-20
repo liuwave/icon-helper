@@ -1,0 +1,19 @@
+{
+  "id": "DC0E1491-A8A0-4563-ACEC-C795D96602A7",
+  "name": "close-circle",
+  "codepoint": "F0159",
+  "aliases": [
+    "remove-circle",
+    "cancel",
+    "multiply-circle"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "关闭圈",
+    "删除圈",
+    "取消",
+    "乘以圈"
+  ]
+}

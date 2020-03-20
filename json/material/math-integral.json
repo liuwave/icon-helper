@@ -1,0 +1,14 @@
+{
+  "id": "E911AE3C-8505-42CD-889B-0EE3BEDC3B0D",
+  "name": "math-integral",
+  "codepoint": "F0FC8",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "数学积分"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "540E0DD7-BA28-46B1-A0A7-2A0820E73432",
+  "name": "table-cog",
+  "codepoint": "F13C2",
+  "aliases": [
+    "table-settings"
+  ],
+  "tags": [
+    "Settings"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "5.1.45",
+  "zhs": [
+    "表齿轮",
+    "表设置"
+  ]
+}

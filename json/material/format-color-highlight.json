@@ -1,0 +1,18 @@
+{
+  "id": "3681D567-0B40-47FF-843A-3258A16F935B",
+  "name": "format-color-highlight",
+  "codepoint": "F0E31",
+  "aliases": [
+    "format-colour-highlight"
+  ],
+  "tags": [
+    "Color",
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.6.95",
+  "zhs": [
+    "格式颜色突出显示",
+    "颜色格式突出显示"
+  ]
+}

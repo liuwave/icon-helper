@@ -1,0 +1,15 @@
+{
+  "id": "78ACE34A-8AC2-4259-AD8D-1118A11C6800",
+  "name": "ear-hearing-off",
+  "codepoint": "F0A45",
+  "aliases": [
+    "hearing-impaired"
+  ],
+  "tags": [],
+  "author": "Henrique César Madeira",
+  "version": "2.6.95",
+  "zhs": [
+    "耳朵听不见",
+    "听力受损"
+  ]
+}

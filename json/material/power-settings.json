@@ -1,0 +1,16 @@
+{
+  "id": "B5587844-E70A-4F55-A2DA-CE85D8F79689",
+  "name": "power-settings",
+  "codepoint": "F0426",
+  "aliases": [
+    "settings-power"
+  ],
+  "tags": [
+    "Settings"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电源设置"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "F19DA1EC-CBDA-456E-BC19-F03C635C886F",
+  "name": "ticket-confirmation",
+  "codepoint": "F0518",
+  "aliases": [
+    "confirmation-number"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "票证确认",
+    "确认号"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "BA101E5E-CDA9-45AA-B249-BD176AF11D95",
+  "name": "radiobox-marked",
+  "codepoint": "F043E",
+  "aliases": [
+    "radio-button-checked",
+    "record"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "标记为单选框",
+    "选中单选按钮",
+    "记录"
+  ]
+}

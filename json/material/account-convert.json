@@ -1,0 +1,19 @@
+{
+  "id": "A6964E10-1CF0-41FA-BDCA-A77C9C6F30AF",
+  "name": "account-convert",
+  "codepoint": "F000A",
+  "aliases": [
+    "user-convert",
+    "person-convert"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户转换",
+    "用户转换",
+    "人转换"
+  ]
+}

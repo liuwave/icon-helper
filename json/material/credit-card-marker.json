@@ -1,0 +1,14 @@
+{
+  "id": "21D860AE-A880-4ED2-9E11-617D888BD744",
+  "name": "credit-card-marker",
+  "codepoint": "F06A8",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.7.12",
+  "zhs": [
+    "信用卡标记"
+  ]
+}

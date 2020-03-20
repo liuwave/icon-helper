@@ -1,0 +1,17 @@
+{
+  "id": "2029DE02-EC25-4242-945F-D7495F35D071",
+  "name": "robot-mower",
+  "codepoint": "F11F7",
+  "aliases": [
+    "lawn-mower"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Contributors",
+  "version": "4.6.95",
+  "zhs": [
+    "机器人割草机",
+    "割草机"
+  ]
+}

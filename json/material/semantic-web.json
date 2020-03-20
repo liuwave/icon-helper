@@ -1,0 +1,26 @@
+{
+  "id": "43AB1D06-4033-4F02-8147-B692F4534174",
+  "name": "semantic-web",
+  "codepoint": "F1316",
+  "aliases": [
+    "rdf",
+    "resource-description-framework",
+    "owl",
+    "web-ontology-language",
+    "w3c"
+  ],
+  "tags": [
+    "Developer / Languages",
+    "Brand / Logo"
+  ],
+  "author": "Contributors",
+  "version": "4.8.95",
+  "zhs": [
+    "语义网",
+    "rdf",
+    "资源描述框架",
+    "owl",
+    "网络本体语言",
+    "w3c"
+  ]
+}

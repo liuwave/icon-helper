@@ -1,0 +1,16 @@
+{
+  "id": "7768BF7B-0A52-4492-88BD-5A482E4D61C3",
+  "name": "monitor-multiple",
+  "codepoint": "F037A",
+  "aliases": [
+    "monitors"
+  ],
+  "tags": [
+    "Device / Tech"
+  ],
+  "author": "Chris Litherland",
+  "version": "1.5.54",
+  "zhs": [
+    "多台监视器"
+  ]
+}

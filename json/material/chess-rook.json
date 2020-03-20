@@ -1,0 +1,17 @@
+{
+  "id": "D1FA251F-4332-4BA9-8742-F194C0B0BF28",
+  "name": "chess-rook",
+  "codepoint": "F085B",
+  "aliases": [
+    "chess-castle"
+  ],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "国际象棋车",
+    "国际象棋城堡"
+  ]
+}

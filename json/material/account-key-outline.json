@@ -1,0 +1,19 @@
+{
+  "id": "85086B0D-4678-4B8E-9824-308F59F09C0F",
+  "name": "account-key-outline",
+  "codepoint": "F0BE4",
+  "aliases": [
+    "user-key-outline",
+    "person-key-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "帐户密钥轮廓",
+    "用户密钥轮廓",
+    "个人密钥轮廓"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "DCB74822-6C93-473B-88B4-1818CFDE2B69",
+  "name": "bank-plus",
+  "codepoint": "F0DB1",
+  "aliases": [
+    "bank-add"
+  ],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Contributors",
+  "version": "3.5.94",
+  "zhs": [
+    "银行加号"
+  ]
+}

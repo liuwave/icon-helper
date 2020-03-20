@@ -1,0 +1,17 @@
+{
+  "id": "D6208581-CF7F-438A-8578-B6ADEE462212",
+  "name": "key",
+  "codepoint": "F0306",
+  "aliases": [
+    "vpn-key"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "键",
+    "vpn密钥"
+  ]
+}

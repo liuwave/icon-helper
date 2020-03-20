@@ -1,0 +1,29 @@
+{
+  "id": "7329D294-805D-4843-AB03-B87C661C296A",
+  "name": "calendar-multiple-check",
+  "codepoint": "F00F2",
+  "aliases": [
+    "event-multiple-check",
+    "calendar-multiple-tick",
+    "calendars-check",
+    "calendars-tick",
+    "event-multiple-tick",
+    "events-check",
+    "events-tick"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "日历多次检查",
+    "事件多次检查",
+    "日历多次刻度",
+    "日历检查",
+    "日历刻度",
+    "事件多次刻度",
+    "事件检查",
+    "事件刻度"
+  ]
+}

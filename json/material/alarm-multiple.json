@@ -1,0 +1,19 @@
+{
+  "id": "67D410AB-495A-41BD-B9D8-20A7DFBBF623",
+  "name": "alarm-multiple",
+  "codepoint": "F0022",
+  "aliases": [
+    "alarms",
+    "alarm-clock-multiple",
+    "alarm-clocks"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "多个警报",
+    "警报",
+    "多个时钟警报",
+    "闹钟"
+  ]
+}

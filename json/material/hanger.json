@@ -1,0 +1,18 @@
+{
+  "id": "2FB0994B-BBA8-4F59-93AF-87F2065F34EA",
+  "name": "hanger",
+  "codepoint": "F02C8",
+  "aliases": [
+    "coat-hanger",
+    "clothes-hanger"
+  ],
+  "tags": [
+    "Clothing"
+  ],
+  "author": "Moma Design Studio",
+  "version": "1.5.54",
+  "zhs": [
+    "衣架",
+    "衣帽架"
+  ]
+}

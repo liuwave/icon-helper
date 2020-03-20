@@ -1,0 +1,14 @@
+{
+  "id": "AA43B04E-7C56-4DFB-83FC-081E3A4A3F48",
+  "name": "car-door",
+  "codepoint": "F0B6B",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.0.39",
+  "zhs": [
+    "车门"
+  ]
+}

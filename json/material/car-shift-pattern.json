@@ -1,0 +1,19 @@
+{
+  "id": "DF11B72C-D029-49BB-9657-6A267CC1DEA4",
+  "name": "car-shift-pattern",
+  "codepoint": "F0F40",
+  "aliases": [
+    "car-transmission",
+    "car-manual-transmission"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Colton Wiscombe",
+  "version": "3.9.97",
+  "zhs": [
+    "换挡车",
+    "变速箱车",
+    "手动变速箱车"
+  ]
+}

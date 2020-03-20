@@ -1,0 +1,16 @@
+{
+  "id": "08F74DD4-A57F-4CC8-9568-88E826BE71E5",
+  "name": "floor-lamp-dual",
+  "codepoint": "F1040",
+  "aliases": [
+    "floor-light-dual"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Borre Haugen",
+  "version": "4.1.95",
+  "zhs": [
+    "落地灯双"
+  ]
+}

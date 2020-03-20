@@ -1,0 +1,14 @@
+{
+  "id": "B1337135-0E57-465F-8C0C-E658C9981A19",
+  "name": "pin",
+  "codepoint": "F0403",
+  "aliases": [
+    "keep"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "固定"
+  ]
+}

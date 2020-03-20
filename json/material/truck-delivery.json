@@ -1,0 +1,16 @@
+{
+  "id": "D0EB091D-C62C-4A93-9AE4-AE942F5738C7",
+  "name": "truck-delivery",
+  "codepoint": "F053E",
+  "aliases": [
+    "lorry-delivery"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "卡车交付"
+  ]
+}

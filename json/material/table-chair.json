@@ -1,0 +1,20 @@
+{
+  "id": "6EB52FC2-32D9-427D-80DE-32C60C8F78AD",
+  "name": "table-chair",
+  "codepoint": "F1061",
+  "aliases": [
+    "restaurant",
+    "kitchen",
+    "dining"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "桌椅",
+    "餐厅",
+    "厨房"
+  ]
+}

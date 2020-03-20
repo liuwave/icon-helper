@@ -1,0 +1,19 @@
+{
+  "id": "18F55984-07FD-4630-BB11-8285F83AA838",
+  "name": "ticket",
+  "codepoint": "F0516",
+  "aliases": [
+    "local-activity",
+    "local-play",
+    "local-attraction"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "门票",
+    "当地活动",
+    "当地玩乐",
+    "当地景点"
+  ]
+}

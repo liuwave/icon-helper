@@ -1,0 +1,15 @@
+{
+  "id": "538457F5-44DB-404B-92FE-5FB8597B258E",
+  "name": "sync-off",
+  "codepoint": "F04E8",
+  "aliases": [
+    "sync-disabled"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "同步关闭",
+    "同步已禁用"
+  ]
+}

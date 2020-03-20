@@ -1,0 +1,18 @@
+{
+  "id": "3396CDF3-94D7-4F1B-B0FF-58FA3935468C",
+  "name": "numeric-0",
+  "codepoint": "F0B39",
+  "aliases": [
+    "number-0",
+    "numeric-zero"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "数字0",
+    "数字零"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "A4BD7F0D-E95C-413C-B853-435A53854844",
+  "name": "battery-plus",
+  "codepoint": "F008F",
+  "aliases": [
+    "battery-saver",
+    "battery-add"
+  ],
+  "tags": [
+    "Battery",
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "电池加",
+    "省电"
+  ]
+}

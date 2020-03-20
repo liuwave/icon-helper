@@ -1,0 +1,17 @@
+{
+  "id": "E20665F3-5354-46C2-9162-4202B20DCA05",
+  "name": "abjad-arabic",
+  "codepoint": "F1328",
+  "aliases": [
+    "writing-system-arabic"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "abjad阿拉伯语",
+    "书写阿拉伯语系统"
+  ]
+}

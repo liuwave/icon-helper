@@ -1,0 +1,19 @@
+{
+  "id": "29BE785E-BAAB-4824-A0BF-6892D8027B1E",
+  "name": "folder-multiple-image",
+  "codepoint": "F0254",
+  "aliases": [
+    "perm-media",
+    "folders-image"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "多个图像文件夹",
+    "烫发媒体",
+    "图像文件夹"
+  ]
+}

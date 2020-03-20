@@ -1,0 +1,17 @@
+{
+  "id": "CB0FD2AA-6EA8-4324-8207-6C4FFCCB5143",
+  "name": "head-sync",
+  "codepoint": "F1350",
+  "aliases": [
+    "head-reload",
+    "head-refresh"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.9.95",
+  "zhs": [
+    "磁头同步",
+    "磁头重新加载",
+    "磁头刷新"
+  ]
+}

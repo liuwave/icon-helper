@@ -1,0 +1,17 @@
+{
+  "id": "12439778-1F4B-4498-8716-5BE128D194E1",
+  "name": "calendar-minus",
+  "codepoint": "F0D5C",
+  "aliases": [
+    "event-minus"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Contributors",
+  "version": "3.4.93",
+  "zhs": [
+    "日历减",
+    "事件减"
+  ]
+}

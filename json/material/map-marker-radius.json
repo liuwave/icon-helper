@@ -1,0 +1,15 @@
+{
+  "id": "8F346B27-607A-4C98-B83E-C32E921D0468",
+  "name": "map-marker-radius",
+  "codepoint": "F0352",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "地图半径标记"
+  ]
+}

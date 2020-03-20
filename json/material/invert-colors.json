@@ -1,0 +1,16 @@
+{
+  "id": "2B0100AC-D0EB-4B85-A9AB-EB921C9A65AC",
+  "name": "invert-colors",
+  "codepoint": "F0301",
+  "aliases": [
+    "invert-colours"
+  ],
+  "tags": [
+    "Color"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "反转颜色"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "F3C76352-A033-4969-BBC4-99E2BEE84FAE",
+  "name": "account-check",
+  "codepoint": "F0008",
+  "aliases": [
+    "user-check",
+    "account-tick",
+    "user-tick",
+    "person-check",
+    "person-tick",
+    "how-to-reg"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户检查",
+    "用户检查",
+    "帐户刻度",
+    "用户刻度",
+    "人员检查",
+    "人员刻度",
+    "如何注册"
+  ]
+}

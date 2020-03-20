@@ -1,0 +1,15 @@
+{
+  "id": "6CD0A5FB-8FB8-45E7-9955-A876E4B2ABB4",
+  "name": "vector-polygon",
+  "codepoint": "F0560",
+  "aliases": [],
+  "tags": [
+    "Vector",
+    "Geographic Information System"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "矢量多边形"
+  ]
+}

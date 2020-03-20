@@ -1,0 +1,19 @@
+{
+  "id": "F34D170B-4DF1-470D-ABC4-AE0A93035227",
+  "name": "numeric-3-box",
+  "codepoint": "F03AA",
+  "aliases": [
+    "looks-3",
+    "numeric-three-box",
+    "number-3-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字3框",
+    "外观3"
+  ]
+}

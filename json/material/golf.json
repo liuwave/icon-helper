@@ -1,0 +1,16 @@
+{
+  "id": "80A4F47A-3512-4C76-AA10-C0232C57E624",
+  "name": "golf",
+  "codepoint": "F0823",
+  "aliases": [
+    "golf-course"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "高尔夫球场"
+  ]
+}

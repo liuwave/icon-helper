@@ -1,0 +1,16 @@
+{
+  "id": "383EF914-6014-473D-8C54-0314432007E3",
+  "name": "package-up",
+  "codepoint": "F03D5",
+  "aliases": [
+    "unarchive",
+    "box-up"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "打包",
+    "取消存档"
+  ]
+}

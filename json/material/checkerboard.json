@@ -1,0 +1,18 @@
+{
+  "id": "A5F7D4AF-C7A3-4F38-B21B-B9F3E68770DE",
+  "name": "checkerboard",
+  "codepoint": "F013A",
+  "aliases": [
+    "raster"
+  ],
+  "tags": [
+    "Gaming / RPG",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "棋盘格",
+    "栅格"
+  ]
+}

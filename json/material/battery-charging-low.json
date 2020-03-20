@@ -1,0 +1,14 @@
+{
+  "id": "C0158CBD-1F8D-491B-9825-9DB96D901908",
+  "name": "battery-charging-low",
+  "codepoint": "F12A4",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.7.95",
+  "zhs": [
+    "电池充电不足"
+  ]
+}

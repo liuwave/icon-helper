@@ -1,0 +1,12 @@
+{
+  "id": "10D650FB-B7AA-4439-A3BF-3F5DE934A22C",
+  "name": "filter-variant-minus",
+  "codepoint": "F1112",
+  "aliases": [],
+  "tags": [],
+  "author": "François Risoud",
+  "version": "4.3.95",
+  "zhs": [
+    "滤除负号"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "04288F6D-7E3C-4BB6-8FDE-B8951C0D0BDF",
+  "name": "email-lock",
+  "codepoint": "F01F1",
+  "aliases": [
+    "envelope-secure",
+    "email-secure",
+    "envelope-lock"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "电子邮件锁",
+    "信封安全",
+    "电子邮件安全",
+    "信封锁"
+  ]
+}

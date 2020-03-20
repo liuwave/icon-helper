@@ -1,0 +1,17 @@
+{
+  "id": "290CA835-F009-4630-87D3-D4515E1F5527",
+  "name": "engine",
+  "codepoint": "F01FA",
+  "aliases": [
+    "motor"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "发动机",
+    "马达"
+  ]
+}

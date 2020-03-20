@@ -1,0 +1,19 @@
+{
+  "id": "C3883026-99A7-48ED-898E-37AC117A6C4F",
+  "name": "peanut-outline",
+  "codepoint": "F0FFE",
+  "aliases": [
+    "allergen-outline",
+    "food-allergy-outline"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "花生轮廓",
+    "过敏原轮廓",
+    "食物过敏轮廓"
+  ]
+}

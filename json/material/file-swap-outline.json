@@ -1,0 +1,17 @@
+{
+  "id": "22D7F491-0873-43A4-9EE1-330F5BDC0829",
+  "name": "file-swap-outline",
+  "codepoint": "F0FB5",
+  "aliases": [
+    "file-transfer-outline"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "文件交换轮廓",
+    "文件传输轮廓"
+  ]
+}

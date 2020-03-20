@@ -1,0 +1,19 @@
+{
+  "id": "45FB036D-61D0-4390-9F15-480121F2CE3B",
+  "name": "bell-plus-outline",
+  "codepoint": "F0A92",
+  "aliases": [
+    "bell-add-outline",
+    "add-alert-outline"
+  ],
+  "tags": [
+    "Notification"
+  ],
+  "author": "Cody",
+  "version": "2.7.94",
+  "zhs": [
+    "铃声加上轮廓",
+    "铃声添加轮廓",
+    "添加警报轮廓"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "29BA2DA3-CED6-4D52-92EF-D9152F63B7AB",
+  "name": "cellphone-key",
+  "codepoint": "F094E",
+  "aliases": [
+    "mobile-phone-key",
+    "smartphone-key"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "手机钥匙",
+    "智能手机钥匙"
+  ]
+}

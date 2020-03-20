@@ -1,0 +1,14 @@
+{
+  "id": "B0811263-2D40-44D9-945D-13393A170311",
+  "name": "microphone-variant-off",
+  "codepoint": "F0371",
+  "aliases": [],
+  "tags": [
+    "Music"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "麦克风重音关闭"
+  ]
+}

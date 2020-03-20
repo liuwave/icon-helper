@@ -1,0 +1,14 @@
+{
+  "id": "8EE13AEC-B8FF-4E25-9D5B-8447B0310133",
+  "name": "approximately-equal-box",
+  "codepoint": "F0F9F",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "近似等于的盒子"
+  ]
+}

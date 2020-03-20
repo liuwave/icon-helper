@@ -1,0 +1,17 @@
+{
+  "id": "68AC0195-57C1-4759-8814-FA18DFE0351B",
+  "name": "alphabet-aurebesh",
+  "codepoint": "F132C",
+  "aliases": [
+    "writing-system-aurebesh"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "字母aurebesh",
+    "书写系统aurebesh"
+  ]
+}

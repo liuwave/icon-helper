@@ -1,0 +1,14 @@
+{
+  "id": "F06ED6E0-0EB1-4B39-8E85-1A82A273F473",
+  "name": "timetable",
+  "codepoint": "F0520",
+  "aliases": [],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "时刻表"
+  ]
+}

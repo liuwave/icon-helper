@@ -1,0 +1,14 @@
+{
+  "id": "8A502343-16E9-4FF5-A0FE-28328B37E7C2",
+  "name": "format-textbox",
+  "codepoint": "F0D11",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "3.3.92",
+  "zhs": [
+    "文本框格式"
+  ]
+}

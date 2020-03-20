@@ -1,0 +1,17 @@
+{
+  "id": "72B2D41E-42AA-44E7-8F1E-42AC62577F73",
+  "name": "email-sync",
+  "codepoint": "F12C7",
+  "aliases": [
+    "email-refresh",
+    "email-resend"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "4.8.95",
+  "zhs": [
+    "电子邮件同步",
+    "电子邮件刷新",
+    "电子邮件重新发送"
+  ]
+}

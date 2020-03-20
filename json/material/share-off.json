@@ -1,0 +1,17 @@
+{
+  "id": "8F694E89-2460-4790-820F-BCFA1A4CB660",
+  "name": "share-off",
+  "codepoint": "F0F23",
+  "aliases": [
+    "forward-off"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.8.95",
+  "zhs": [
+    "分享",
+    "转发"
+  ]
+}

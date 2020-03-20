@@ -1,0 +1,16 @@
+{
+  "id": "0441EBEF-476C-420E-A04E-58367F99BD93",
+  "name": "gender-female",
+  "codepoint": "F029C",
+  "aliases": [
+    "venus"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "性别",
+    "女性",
+    "维纳斯"
+  ]
+}

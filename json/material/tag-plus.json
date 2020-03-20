@@ -1,0 +1,15 @@
+{
+  "id": "83C0C7C5-26FF-4EF7-A05B-B05472FC40FC",
+  "name": "tag-plus",
+  "codepoint": "F0722",
+  "aliases": [
+    "tag-add"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "1.8.36",
+  "zhs": [
+    "标签加上",
+    "标签添加"
+  ]
+}

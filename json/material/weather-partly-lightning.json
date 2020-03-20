@@ -1,0 +1,14 @@
+{
+  "id": "93C1E28D-0C94-4B55-8B26-BACE3F777ECC",
+  "name": "weather-partly-lightning",
+  "codepoint": "F0F32",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "天气部分闪电"
+  ]
+}

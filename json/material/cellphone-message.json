@@ -1,0 +1,19 @@
+{
+  "id": "4C511E7E-D658-493D-B34B-B73A4DEE8FF9",
+  "name": "cellphone-message",
+  "codepoint": "F08D3",
+  "aliases": [
+    "mobile-phone-message",
+    "smartphone-message"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.3.50",
+  "zhs": [
+    "手机短信",
+    "智能手机短信"
+  ]
+}

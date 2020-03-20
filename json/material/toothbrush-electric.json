@@ -1,0 +1,19 @@
+{
+  "id": "6CC31B35-04D6-4883-A0CF-3CD35E81AB98",
+  "name": "toothbrush-electric",
+  "codepoint": "F112C",
+  "aliases": [
+    "dentist",
+    "oral-hygiene"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Cody",
+  "version": "4.4.95",
+  "zhs": [
+    "电动牙刷",
+    "牙医",
+    "口腔卫生"
+  ]
+}

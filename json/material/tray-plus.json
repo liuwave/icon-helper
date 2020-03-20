@@ -1,0 +1,19 @@
+{
+  "id": "BF55355C-56CC-4C1F-9136-D92AA0800706",
+  "name": "tray-plus",
+  "codepoint": "F1298",
+  "aliases": [
+    "queue",
+    "printer",
+    "inbox"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "托盘加",
+    "队列",
+    "打印机",
+    "收件箱"
+  ]
+}

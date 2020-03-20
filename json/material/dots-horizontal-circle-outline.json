@@ -1,0 +1,19 @@
+{
+  "id": "378E8311-F963-41EC-9AFF-5B30EF975313",
+  "name": "dots-horizontal-circle-outline",
+  "codepoint": "F0B8D",
+  "aliases": [
+    "ellipsis-horizontal-circle-outline",
+    "more-circle-outline",
+    "menu"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "3.0.39",
+  "zhs": [
+    "点水平圆轮廓",
+    "省略号水平圆轮廓",
+    "更多圆轮廓",
+    "菜单"
+  ]
+}

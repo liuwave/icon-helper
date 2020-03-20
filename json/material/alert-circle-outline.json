@@ -1,0 +1,21 @@
+{
+  "id": "0F4002B4-3C3D-43C4-939F-A998B2C59177",
+  "name": "alert-circle-outline",
+  "codepoint": "F05D6",
+  "aliases": [
+    "warning-circle-outline",
+    "error-outline",
+    "git-issue"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "警报圈轮廓",
+    "警告圈轮廓",
+    "错误轮廓",
+    "git问题"
+  ]
+}

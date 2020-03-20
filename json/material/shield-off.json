@@ -1,0 +1,15 @@
+{
+  "id": "BC537F52-4A49-433B-A031-5C698A234A35",
+  "name": "shield-off",
+  "codepoint": "F099E",
+  "aliases": [
+    "security-off"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.4.85",
+  "zhs": [
+    "屏蔽关闭",
+    "安全关闭"
+  ]
+}

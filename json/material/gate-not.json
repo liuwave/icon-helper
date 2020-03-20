@@ -1,0 +1,15 @@
+{
+  "id": "3A4475B4-3774-4A2A-B672-59DAF8AE3398",
+  "name": "gate-not",
+  "codepoint": "F08E4",
+  "aliases": [
+    "logic-gate-not"
+  ],
+  "tags": [],
+  "author": "Nick",
+  "version": "2.3.50",
+  "zhs": [
+    "非逻辑门",
+    "非逻辑逻辑门"
+  ]
+}

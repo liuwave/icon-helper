@@ -1,0 +1,17 @@
+{
+  "id": "4D933A0E-88F5-4712-8BA1-0E60290A6623",
+  "name": "alpha-i-box",
+  "codepoint": "F0B10",
+  "aliases": [
+    "alphabet-i-box",
+    "letter-i-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "字母i框"
+  ]
+}

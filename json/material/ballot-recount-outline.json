@@ -1,0 +1,15 @@
+{
+  "id": "0B0AD153-4696-4ED2-9AE1-309926B23287",
+  "name": "ballot-recount-outline",
+  "codepoint": "F0C3A",
+  "aliases": [
+    "vote-recount-outline"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "选票复数轮廓",
+    "投票复数轮廓"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "35760CC7-EBA2-4445-B88B-7E8224535BB7",
+  "name": "chart-bell-curve",
+  "codepoint": "F0C50",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "图表钟形曲线"
+  ]
+}

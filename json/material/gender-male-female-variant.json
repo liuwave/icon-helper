@@ -1,0 +1,16 @@
+{
+  "id": "1599350F-AA11-47A2-8D1C-B60DF1A0A5AD",
+  "name": "gender-male-female-variant",
+  "codepoint": "F113F",
+  "aliases": [
+    "mercury"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "4.4.95",
+  "zhs": [
+    "性别",
+    "男女",
+    "汞"
+  ]
+}

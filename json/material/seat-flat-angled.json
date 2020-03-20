@@ -1,0 +1,15 @@
+{
+  "id": "22BC78FF-895C-497C-B6F0-143F60901C20",
+  "name": "seat-flat-angled",
+  "codepoint": "F047C",
+  "aliases": [
+    "airline-seat-flat-angled"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "斜的扁平座椅",
+    "航空公司的直角"
+  ]
+}

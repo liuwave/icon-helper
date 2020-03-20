@@ -1,0 +1,15 @@
+{
+  "id": "79F04208-0844-4987-9CFA-8870EBB6CD1D",
+  "name": "bus-stop",
+  "codepoint": "F1012",
+  "aliases": [],
+  "tags": [
+    "Transportation + Road",
+    "Navigation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "巴士站"
+  ]
+}

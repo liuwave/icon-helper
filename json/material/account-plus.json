@@ -1,0 +1,29 @@
+{
+  "id": "66556BA4-6B65-4ED9-B813-AD33CA8C2CCF",
+  "name": "account-plus",
+  "codepoint": "F0014",
+  "aliases": [
+    "register",
+    "user-plus",
+    "person-add",
+    "account-add",
+    "person-plus",
+    "user-add",
+    "invite"
+  ],
+  "tags": [
+    "Account / User",
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户加号",
+    "注册",
+    "用户加号",
+    "人员添加",
+    "人员加号",
+    "用户添加",
+    "邀请"
+  ]
+}

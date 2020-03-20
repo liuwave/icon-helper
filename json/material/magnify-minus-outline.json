@@ -1,0 +1,19 @@
+{
+  "id": "9E259697-7035-4E17-82D6-431C74215E67",
+  "name": "magnify-minus-outline",
+  "codepoint": "F06EC",
+  "aliases": [
+    "zoom-out-outline",
+    "search-minus-outline"
+  ],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "1.8.36",
+  "zhs": [
+    "放大减轮廓",
+    "缩小轮廓",
+    "搜索减轮廓"
+  ]
+}

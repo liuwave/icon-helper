@@ -1,0 +1,14 @@
+{
+  "id": "E04B6974-751D-4A55-9309-02336DDB5070",
+  "name": "monitor-edit",
+  "codepoint": "F12C6",
+  "aliases": [],
+  "tags": [
+    "Edit / Modify"
+  ],
+  "author": "Michael Richins",
+  "version": "4.8.95",
+  "zhs": [
+    "显示器编辑"
+  ]
+}

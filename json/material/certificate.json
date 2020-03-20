@@ -1,0 +1,17 @@
+{
+  "id": "2DBEB397-D80B-445D-A11E-7B8362CFBEF4",
+  "name": "certificate",
+  "codepoint": "F0124",
+  "aliases": [
+    "diploma",
+    "seal"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "证书",
+    "文凭",
+    "图章"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "0934FB0D-8585-4064-989F-054E52D16FDB",
+  "name": "cards-diamond",
+  "codepoint": "F08CF",
+  "aliases": [
+    "suit-diamonds",
+    "hov-lane",
+    "high-occupancy-vehicle-lane",
+    "carpool-lane"
+  ],
+  "tags": [
+    "Gaming / RPG",
+    "Transportation + Road"
+  ],
+  "author": "Nick",
+  "version": "2.3.50",
+  "zhs": [
+    "钻石卡",
+    "套装钻石",
+    "修整车道",
+    "高占用车道",
+    "拼车车道"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "F4501EC3-6AB0-4A69-B840-F07DDFC45A19",
+  "name": "scale-bathroom",
+  "codepoint": "F0473",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Medical / Hospital"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "浴室秤"
+  ]
+}

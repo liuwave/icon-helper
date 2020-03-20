@@ -1,0 +1,14 @@
+{
+  "id": "D5787449-1950-4A7C-8CD9-CABC628AFBCE",
+  "name": "format-wrap-square",
+  "codepoint": "F0289",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Andreas Gohr",
+  "version": "1.5.54",
+  "zhs": [
+    "方格格式"
+  ]
+}

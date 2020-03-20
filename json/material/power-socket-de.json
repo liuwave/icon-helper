@@ -1,0 +1,14 @@
+{
+  "id": "14654BFB-0D87-43E0-8A47-7CF1EE1CF418",
+  "name": "power-socket-de",
+  "codepoint": "F1107",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "4.3.95",
+  "zhs": [
+    "电源插座"
+  ]
+}

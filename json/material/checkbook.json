@@ -1,0 +1,15 @@
+{
+  "id": "F35E17AA-A0E8-4AEE-9504-6DC07F3ACEAD",
+  "name": "checkbook",
+  "codepoint": "F0A9D",
+  "aliases": [
+    "chequebook",
+    "cheque-book"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "2.7.94",
+  "zhs": [
+    "支票簿"
+  ]
+}

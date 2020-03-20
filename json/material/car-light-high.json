@@ -1,0 +1,19 @@
+{
+  "id": "7EF72FB8-3767-495E-9F80-888F6924B856",
+  "name": "car-light-high",
+  "codepoint": "F0C4C",
+  "aliases": [
+    "head-light-high",
+    "high-beam"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "汽车灯高",
+    "头灯高",
+    "远光"
+  ]
+}

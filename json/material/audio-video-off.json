@@ -1,0 +1,14 @@
+{
+  "id": "09FB4D77-A411-4CBF-9E88-21807D804CB3",
+  "name": "audio-video-off",
+  "codepoint": "F11B6",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.5.95",
+  "zhs": [
+    "关闭音频视频"
+  ]
+}

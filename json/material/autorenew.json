@@ -1,0 +1,18 @@
+{
+  "id": "00598C19-1255-479D-914A-1AADFDBC4868",
+  "name": "autorenew",
+  "codepoint": "F006A",
+  "aliases": [
+    "clockwise-arrows",
+    "circular-arrows",
+    "circle-arrows"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "自动更新",
+    "顺时针箭头",
+    "圆形箭头"
+  ]
+}

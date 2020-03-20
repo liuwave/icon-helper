@@ -1,0 +1,17 @@
+{
+  "id": "D371C4A6-40A8-4C03-95DA-2ACF2A5ABC4B",
+  "name": "video-input-hdmi",
+  "codepoint": "F0841",
+  "aliases": [
+    "settings-input-hdmi"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "视频输入HDMI",
+    "设置输入HDMI"
+  ]
+}

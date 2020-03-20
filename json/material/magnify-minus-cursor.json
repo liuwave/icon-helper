@@ -1,0 +1,15 @@
+{
+  "id": "616EA8BF-F84A-41BC-A933-5A4AF1E4E793",
+  "name": "magnify-minus-cursor",
+  "codepoint": "F0A62",
+  "aliases": [
+    "zoom-out-cursor"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "放大减号光标",
+    "缩小光标"
+  ]
+}

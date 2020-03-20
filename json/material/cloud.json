@@ -1,0 +1,18 @@
+{
+  "id": "CF07C502-388E-4A65-BD89-FACCFD00C245",
+  "name": "cloud",
+  "codepoint": "F015F",
+  "aliases": [
+    "wb-cloudy"
+  ],
+  "tags": [
+    "Cloud",
+    "Weather"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "云",
+    "wb多云"
+  ]
+}

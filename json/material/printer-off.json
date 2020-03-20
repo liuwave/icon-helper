@@ -1,0 +1,14 @@
+{
+  "id": "328D470F-EEB4-486D-953B-6F84CE809C3C",
+  "name": "printer-off",
+  "codepoint": "F0E5D",
+  "aliases": [],
+  "tags": [
+    "Printer"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.6.95",
+  "zhs": [
+    "打印机关闭"
+  ]
+}

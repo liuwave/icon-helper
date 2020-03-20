@@ -1,0 +1,19 @@
+{
+  "id": "E7CA4672-9863-4015-B3C5-D2C8DEBD2F2F",
+  "name": "image-multiple",
+  "codepoint": "F02F9",
+  "aliases": [
+    "collections",
+    "photo-library",
+    "images"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "图像多个",
+    "收藏集",
+    "图片库",
+    "图像"
+  ]
+}

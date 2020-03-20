@@ -1,0 +1,19 @@
+{
+  "id": "B77F1750-F3D8-43A5-A2D1-EEF2E3EB584B",
+  "name": "close-circle-multiple-outline",
+  "codepoint": "F0883",
+  "aliases": [
+    "remove-circle-multiple-outline",
+    "coins-close-outline",
+    "coins-remove-outline"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "2.1.99",
+  "zhs": [
+    "关闭圆形多个轮廓",
+    "移除圆形多个轮廓",
+    "硬币关闭轮廓",
+    "硬币移除轮廓"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "DCD0A183-A5DC-43BD-BC48-8FFF0CA0FA9C",
+  "name": "console",
+  "codepoint": "F018D",
+  "aliases": [
+    "terminal"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "控制台",
+    "终端"
+  ]
+}

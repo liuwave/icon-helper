@@ -1,0 +1,15 @@
+{
+  "id": "FFAA9F2E-96F9-43A3-BC4E-F7562703E6A1",
+  "name": "microphone-minus",
+  "codepoint": "F08B3",
+  "aliases": [
+    "microphone-remove"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.2.43",
+  "zhs": [
+    "减去麦克风",
+    "取下麦克风"
+  ]
+}

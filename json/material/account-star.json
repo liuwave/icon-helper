@@ -1,0 +1,19 @@
+{
+  "id": "1E04960E-FFFE-439D-A5FD-C51E7291DA6F",
+  "name": "account-star",
+  "codepoint": "F0017",
+  "aliases": [
+    "user-star",
+    "person-star"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "REJack",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户星",
+    "用户星",
+    "人星"
+  ]
+}

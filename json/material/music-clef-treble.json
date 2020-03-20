@@ -1,0 +1,17 @@
+{
+  "id": "7ED69559-58ED-432E-800F-9B8DE4CD53A2",
+  "name": "music-clef-treble",
+  "codepoint": "F0F70",
+  "aliases": [
+    "music-g-clef"
+  ],
+  "tags": [
+    "Music"
+  ],
+  "author": "Haley Halcyon",
+  "version": "3.9.97",
+  "zhs": [
+    "音乐谱号高音",
+    "音乐谱号"
+  ]
+}

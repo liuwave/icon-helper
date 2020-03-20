@@ -1,0 +1,14 @@
+{
+  "id": "28BCDF41-AA93-4C25-B87A-95A3F5DD8805",
+  "name": "rewind",
+  "codepoint": "F045F",
+  "aliases": [
+    "fast-rewind"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "快退"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8627DD5D-1BE6-4FBB-81A6-7D40ED3C1E69",
+  "name": "car-brake-retarder",
+  "codepoint": "F1017",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.1.95",
+  "zhs": [
+    "汽车制动缓速器"
+  ]
+}

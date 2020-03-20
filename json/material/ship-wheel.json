@@ -1,0 +1,16 @@
+{
+  "id": "1F35A20C-CF6C-4C2A-9A72-82269F4ECCF7",
+  "name": "ship-wheel",
+  "codepoint": "F0833",
+  "aliases": [
+    "voyager"
+  ],
+  "tags": [
+    "Transportation + Water"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "旅行者轮船"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "250BE86F-4D41-4F22-AECD-DD8A2533DA62",
+  "name": "case-sensitive-alt",
+  "codepoint": "F0113",
+  "aliases": [],
+  "tags": [],
+  "author": "Doug C. Hardester",
+  "version": "1.5.54",
+  "zhs": [
+    "区分大小写的alt"
+  ]
+}

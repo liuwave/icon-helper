@@ -1,0 +1,17 @@
+{
+  "id": "E22A55C0-983F-499E-8B43-4A66DB278B4E",
+  "name": "cellphone-basic",
+  "codepoint": "F011E",
+  "aliases": [
+    "mobile-phone-basic"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "手机基本型"
+  ]
+}

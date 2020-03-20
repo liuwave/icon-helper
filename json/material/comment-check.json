@@ -1,0 +1,15 @@
+{
+  "id": "5D2CEEF1-3F19-4AD2-8965-13DB365B0013",
+  "name": "comment-check",
+  "codepoint": "F017F",
+  "aliases": [
+    "comment-tick"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "评论检查",
+    "评论打勾"
+  ]
+}

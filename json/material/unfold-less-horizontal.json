@@ -1,0 +1,17 @@
+{
+  "id": "E533CB7E-48C2-4D9D-B935-B51C918703C0",
+  "name": "unfold-less-horizontal",
+  "codepoint": "F054E",
+  "aliases": [
+    "chevron-down-up",
+    "collapse-horizontal"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "展开较少水平",
+    "人字形向下",
+    "折叠水平"
+  ]
+}

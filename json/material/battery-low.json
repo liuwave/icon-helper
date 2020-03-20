@@ -1,0 +1,14 @@
+{
+  "id": "4BDC283A-A6B7-4B2B-A18A-2B25410AF35C",
+  "name": "battery-low",
+  "codepoint": "F12A1",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "Austin Andrews",
+  "version": "4.7.95",
+  "zhs": [
+    "电池电量低"
+  ]
+}

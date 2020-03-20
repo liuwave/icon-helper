@@ -1,0 +1,12 @@
+{
+  "id": "9B3D3150-CF71-473E-AF65-403C389C308A",
+  "name": "gesture-swipe-right",
+  "codepoint": "F073F",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "1.9.32",
+  "zhs": [
+    "手势向右滑动"
+  ]
+}

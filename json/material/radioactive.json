@@ -1,0 +1,17 @@
+{
+  "id": "D70016AF-1FEE-4E66-8D51-3DE1BAAC0031",
+  "name": "radioactive",
+  "codepoint": "F043C",
+  "aliases": [
+    "radiation"
+  ],
+  "tags": [
+    "Science"
+  ],
+  "author": "Yasmina Lembachar",
+  "version": "1.5.54",
+  "zhs": [
+    "放射性",
+    "辐射"
+  ]
+}

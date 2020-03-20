@@ -1,0 +1,17 @@
+{
+  "id": "639A8D4C-086C-4038-A569-F9387E851262",
+  "name": "currency-jpy",
+  "codepoint": "F07BC",
+  "aliases": [
+    "yen"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Haley Halcyon",
+  "version": "2.0.46",
+  "zhs": [
+    "日元"
+  ]
+}

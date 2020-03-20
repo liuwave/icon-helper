@@ -1,0 +1,14 @@
+{
+  "id": "637C4988-5432-4F5E-ADD5-EBDC397D0622",
+  "name": "book-multiple",
+  "codepoint": "F00BB",
+  "aliases": [
+    "books"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "多本书籍"
+  ]
+}

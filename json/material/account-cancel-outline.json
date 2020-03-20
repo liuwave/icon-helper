@@ -1,0 +1,23 @@
+{
+  "id": "D2CDB839-C734-46EA-A4DE-085CBF29DD0F",
+  "name": "account-cancel-outline",
+  "codepoint": "F12E0",
+  "aliases": [
+    "user-cancel-outline",
+    "user-block-outline",
+    "person-cancel-outline",
+    "person-block-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Cody",
+  "version": "4.8.95",
+  "zhs": [
+    "帐户取消轮廓",
+    "用户取消轮廓",
+    "用户阻止轮廓",
+    "人员取消轮廓",
+    "人员阻止轮廓"
+  ]
+}

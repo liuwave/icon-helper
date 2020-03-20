@@ -1,0 +1,14 @@
+{
+  "id": "253E4BDF-CE79-459D-B06D-915B34A12227",
+  "name": "battery-high",
+  "codepoint": "F12A3",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "Austin Andrews",
+  "version": "4.7.95",
+  "zhs": [
+    "电池电量高"
+  ]
+}

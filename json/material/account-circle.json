@@ -1,0 +1,19 @@
+{
+  "id": "1D7E8F31-998D-442A-80E6-EBB8DFA8CBA2",
+  "name": "account-circle",
+  "codepoint": "F0009",
+  "aliases": [
+    "user-circle",
+    "person-circle"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户圈",
+    "用户圈",
+    "人圈"
+  ]
+}

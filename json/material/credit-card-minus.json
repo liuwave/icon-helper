@@ -1,0 +1,14 @@
+{
+  "id": "97D593C8-1C57-4597-AB1C-C6B487633BBD",
+  "name": "credit-card-minus",
+  "codepoint": "F0FAC",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "信用卡号减去"
+  ]
+}

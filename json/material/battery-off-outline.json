@@ -1,0 +1,14 @@
+{
+  "id": "66A0E28A-53F2-4E22-B14A-BADBE10E0CA9",
+  "name": "battery-off-outline",
+  "codepoint": "F125E",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "电池电量不足"
+  ]
+}

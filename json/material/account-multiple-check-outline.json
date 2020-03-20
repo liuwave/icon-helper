@@ -1,0 +1,27 @@
+{
+  "id": "4391B451-368F-4E41-82C5-63A89A2CDE69",
+  "name": "account-multiple-check-outline",
+  "codepoint": "F11FE",
+  "aliases": [
+    "user-multiple-check-outline",
+    "account-multiple-tick-outline",
+    "accounts-check-outline",
+    "accounts-tick-outline",
+    "users-check-outline",
+    "users-tick-outline",
+    "user-multiple-tick-outline",
+    "person-multiple-check-outline",
+    "person-multiple-tick-outline",
+    "people-check-outline",
+    "people-tick-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Richins",
+  "version": "4.6.95",
+  "zhs": [
+    "多重多重检查轮廓轮廓",
+    "人勾轮廓"
+  ]
+}

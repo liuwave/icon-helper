@@ -1,0 +1,15 @@
+{
+  "id": "A5FAC5DC-088F-485C-A885-FBBEEC70B352",
+  "name": "comment-multiple-outline",
+  "codepoint": "F0181",
+  "aliases": [
+    "comments-outline"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "评论多个轮廓",
+    "评论轮廓"
+  ]
+}

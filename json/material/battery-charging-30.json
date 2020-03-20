@@ -1,0 +1,16 @@
+{
+  "id": "04D00269-7E8F-40D1-BFC4-36A01720260B",
+  "name": "battery-charging-30",
+  "codepoint": "F0087",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电池充电30"
+  ]
+}

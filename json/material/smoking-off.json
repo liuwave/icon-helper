@@ -1,0 +1,16 @@
+{
+  "id": "5F974B83-AEEC-4C52-B281-1A8663B70027",
+  "name": "smoking-off",
+  "codepoint": "F04B5",
+  "aliases": [
+    "no-smoking",
+    "cigarette-off",
+    "smoke-free"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "禁止吸烟"
+  ]
+}

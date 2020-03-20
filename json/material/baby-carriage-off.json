@@ -1,0 +1,21 @@
+{
+  "id": "D495FD84-4476-4E2E-B099-4E0A07AA9D90",
+  "name": "baby-carriage-off",
+  "codepoint": "F0FA0",
+  "aliases": [
+    "child-friendly-off",
+    "stroller-off",
+    "pram-off",
+    "buggy-off"
+  ],
+  "tags": [
+    "People / Family"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "婴儿车关闭",
+    "儿童友善关闭",
+    "越野车关闭"
+  ]
+}

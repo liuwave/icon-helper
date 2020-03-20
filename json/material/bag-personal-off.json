@@ -1,0 +1,17 @@
+{
+  "id": "9B14800C-E104-4A89-9773-B220CA30A403",
+  "name": "bag-personal-off",
+  "codepoint": "F0E11",
+  "aliases": [
+    "backpack-off"
+  ],
+  "tags": [
+    "Transportation + Flying"
+  ],
+  "author": "Michael Richins",
+  "version": "3.6.95",
+  "zhs": [
+    "关闭个人包",
+    "关闭背包"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "E7134093-7DFD-48A0-A687-299B70E6D42D",
+  "name": "tanker-truck",
+  "codepoint": "F0FE5",
+  "aliases": [
+    "fuel-truck",
+    "oil-truck",
+    "water-truck",
+    "tanker"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "油罐车",
+    "加油车",
+    "油卡车",
+    "水车",
+    "油轮"
+  ]
+}

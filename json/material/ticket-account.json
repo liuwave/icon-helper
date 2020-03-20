@@ -1,0 +1,17 @@
+{
+  "id": "DE2E8A6C-33F1-4148-A228-C512C26B3159",
+  "name": "ticket-account",
+  "codepoint": "F0517",
+  "aliases": [
+    "ticket-user"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "票务帐户",
+    "用户票证"
+  ]
+}

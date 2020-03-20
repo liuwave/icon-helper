@@ -1,0 +1,17 @@
+{
+  "id": "AC4AD054-775A-4D59-BF92-A57A6A952607",
+  "name": "cup-water",
+  "codepoint": "F01AB",
+  "aliases": [
+    "local-drink"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "杯水",
+    "本地饮料"
+  ]
+}

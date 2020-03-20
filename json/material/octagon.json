@@ -1,0 +1,15 @@
+{
+  "id": "5E3C88DE-A208-471A-9096-7C7868CC957C",
+  "name": "octagon",
+  "codepoint": "F03C3",
+  "aliases": [],
+  "tags": [
+    "Shape",
+    "Transportation + Road"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "八边形"
+  ]
+}

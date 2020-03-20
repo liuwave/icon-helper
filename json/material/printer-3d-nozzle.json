@@ -1,0 +1,14 @@
+{
+  "id": "3A3AA67C-5DB4-40CA-9D0B-43843190CCDC",
+  "name": "printer-3d-nozzle",
+  "codepoint": "F0E5B",
+  "aliases": [],
+  "tags": [
+    "Printer"
+  ],
+  "author": "Contributors",
+  "version": "3.6.95",
+  "zhs": [
+    "打印机3D喷嘴"
+  ]
+}

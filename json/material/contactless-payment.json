@@ -1,0 +1,14 @@
+{
+  "id": "45F3DDED-3C5E-4B6B-941E-7283657A1577",
+  "name": "contactless-payment",
+  "codepoint": "F0D6A",
+  "aliases": [],
+  "tags": [
+    "Currency"
+  ],
+  "author": "Michael Richins",
+  "version": "3.4.93",
+  "zhs": [
+    "非接触式付款"
+  ]
+}

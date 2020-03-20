@@ -1,0 +1,14 @@
+{
+  "id": "304B1BC9-DF83-41FF-B0F9-1FF4D83A95CB",
+  "name": "valve",
+  "codepoint": "F1066",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "阀门"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "47194CCD-AF78-430F-AD95-4D564D6E1D18",
+  "name": "math-tan",
+  "codepoint": "F0C98",
+  "aliases": [
+    "math-tangent",
+    "maths-tan"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "棕褐色类型",
+    "切线类型",
+    "棕褐色数学"
+  ]
+}

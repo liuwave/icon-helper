@@ -1,0 +1,17 @@
+{
+  "id": "D4028362-37C3-4EED-BE0B-C78927C3F55D",
+  "name": "content-cut",
+  "codepoint": "F0190",
+  "aliases": [
+    "scissors",
+    "clip"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "内容剪",
+    "剪刀",
+    "夹子"
+  ]
+}

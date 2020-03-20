@@ -1,0 +1,15 @@
+{
+  "id": "4486DD26-4110-457E-BBD7-B5D19DF72E4E",
+  "name": "translate",
+  "codepoint": "F05CA",
+  "aliases": [
+    "language"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "翻译",
+    "语言"
+  ]
+}

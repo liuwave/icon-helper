@@ -1,0 +1,14 @@
+{
+  "id": "EFD12742-D508-4531-A9A4-EDCF3148C748",
+  "name": "checkbox-intermediate",
+  "codepoint": "F0856",
+  "aliases": [],
+  "tags": [
+    "Form"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "中间复选框"
+  ]
+}

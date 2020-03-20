@@ -1,0 +1,15 @@
+{
+  "id": "1D1C3847-C645-42AE-A93C-DE1E64685762",
+  "name": "vector-polyline",
+  "codepoint": "F0561",
+  "aliases": [],
+  "tags": [
+    "Vector",
+    "Geographic Information System"
+  ],
+  "author": "Contributors",
+  "version": "1.5.54",
+  "zhs": [
+    "矢量折线"
+  ]
+}

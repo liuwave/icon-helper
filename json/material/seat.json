@@ -1,0 +1,17 @@
+{
+  "id": "C9A796D6-1A7D-47AD-A036-B3B9035FBDA3",
+  "name": "seat",
+  "codepoint": "F0CC3",
+  "aliases": [
+    "event-seat",
+    "chair"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "座椅",
+    "活动座椅",
+    "椅子"
+  ]
+}

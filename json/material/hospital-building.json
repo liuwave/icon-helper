@@ -1,0 +1,15 @@
+{
+  "id": "D4FAA416-4429-451F-B4EE-647CCABDF3EB",
+  "name": "hospital-building",
+  "codepoint": "F02E1",
+  "aliases": [],
+  "tags": [
+    "Places",
+    "Medical / Hospital"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "医院大楼"
+  ]
+}

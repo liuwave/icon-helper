@@ -1,0 +1,19 @@
+{
+  "id": "57AC4C5E-B2AB-42B5-9826-BCFEACCB2E7C",
+  "name": "clipboard-alert",
+  "codepoint": "F0149",
+  "aliases": [
+    "clipboard-warning",
+    "assignment-late"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "剪贴板警报",
+    "剪贴板警告",
+    "后期分配"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "1DA47513-FB2A-4A20-926F-3D2E90D40F26",
+  "name": "car-coolant-level",
+  "codepoint": "F1019",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.1.95",
+  "zhs": [
+    "汽车冷却液液位"
+  ]
+}

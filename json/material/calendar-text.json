@@ -1,0 +1,19 @@
+{
+  "id": "1A873476-B82D-4E23-BF19-897F0A0C0B93",
+  "name": "calendar-text",
+  "codepoint": "F00F5",
+  "aliases": [
+    "event-note",
+    "event-text"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "日历文本",
+    "事件备忘",
+    "事件文本"
+  ]
+}

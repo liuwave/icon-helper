@@ -1,0 +1,14 @@
+{
+  "id": "E2D6EF7A-6C31-4DCD-B385-FC8C9B113538",
+  "name": "fireplace-off",
+  "codepoint": "F0E2F",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.6.95",
+  "zhs": [
+    "壁炉关闭"
+  ]
+}

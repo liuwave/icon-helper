@@ -1,0 +1,14 @@
+{
+  "id": "B839A0B6-9E89-40C2-811F-2253514267C9",
+  "name": "phone-rotate-portrait",
+  "codepoint": "F0886",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "手机旋转人像"
+  ]
+}

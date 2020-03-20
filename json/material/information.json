@@ -1,0 +1,20 @@
+{
+  "id": "2BC4A4B6-119B-4637-BF3D-1FB9394E1F38",
+  "name": "information",
+  "codepoint": "F02FC",
+  "aliases": [
+    "about",
+    "information-circle",
+    "info-circle",
+    "about-circle"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "信息",
+    "关于",
+    "信息圈",
+    "关于圈"
+  ]
+}

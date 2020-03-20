@@ -1,0 +1,14 @@
+{
+  "id": "EF2E3070-75EC-44C3-9ECE-780BB330D51B",
+  "name": "flag-plus",
+  "codepoint": "F0B9A",
+  "aliases": [
+    "flag-add"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "3.0.39",
+  "zhs": [
+    "标志加号"
+  ]
+}

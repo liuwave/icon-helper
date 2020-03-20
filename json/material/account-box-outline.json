@@ -1,0 +1,25 @@
+{
+  "id": "537261C5-1AF6-478F-A8BA-4349865D9C1C",
+  "name": "account-box-outline",
+  "codepoint": "F0007",
+  "aliases": [
+    "selfie-outline",
+    "user-box-outline",
+    "portrait",
+    "contact-outline",
+    "person-box-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户框轮廓",
+    "自拍框",
+    "用户框轮廓",
+    "肖像",
+    "联系人框",
+    "人框框"
+  ]
+}

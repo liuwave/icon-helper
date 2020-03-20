@@ -1,0 +1,19 @@
+{
+  "id": "634EE7E8-8280-4CF1-B642-0921E740B6DB",
+  "name": "airplane-landing",
+  "codepoint": "F05D4",
+  "aliases": [
+    "aeroplane-landing",
+    "flight-land",
+    "plane-landing"
+  ],
+  "tags": [
+    "Transportation + Flying"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "飞机着陆",
+    "飞行着陆"
+  ]
+}

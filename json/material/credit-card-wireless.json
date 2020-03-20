@@ -1,0 +1,15 @@
+{
+  "id": "7894F13C-362E-4628-B0D4-E9AC990CCB41",
+  "name": "credit-card-wireless",
+  "codepoint": "F0802",
+  "aliases": [],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.1.19",
+  "zhs": [
+    "无线信用卡"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "8242E7C8-1400-476D-AC27-DCA7B6292C70",
+  "name": "debug-step-over",
+  "codepoint": "F01B7",
+  "aliases": [
+    "skip",
+    "jump"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "调试跳过",
+    "跳过",
+    "跳转"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "FD2A4CE0-AD1F-45D4-B487-BB6E57F2143F",
+  "name": "logout-variant",
+  "codepoint": "F05FD",
+  "aliases": [
+    "log-out-variant",
+    "sign-out-variant"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "注销变量"
+  ]
+}

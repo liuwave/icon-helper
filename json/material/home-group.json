@@ -1,0 +1,23 @@
+{
+  "id": "B4E54DBF-164E-41D3-8C9F-D7E67C9F9B10",
+  "name": "home-group",
+  "codepoint": "F0DD4",
+  "aliases": [
+    "house-group",
+    "neighbourhood",
+    "estate",
+    "housing-estate"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "3.5.94",
+  "zhs": [
+    "家庭组",
+    "房屋组",
+    "邻里",
+    "房地产",
+    "房屋"
+  ]
+}

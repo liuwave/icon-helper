@@ -1,0 +1,21 @@
+{
+  "id": "2099C23C-E6F6-4C9B-AA3C-49A693E73E2E",
+  "name": "current-ac",
+  "codepoint": "F095B",
+  "aliases": [
+    "alternating-current",
+    "sine-wave",
+    "wave",
+    "analog"
+  ],
+  "tags": [],
+  "author": "Nick",
+  "version": "2.4.85",
+  "zhs": [
+    "交流电流",
+    "交流电",
+    "正弦波",
+    "波动",
+    "模拟"
+  ]
+}

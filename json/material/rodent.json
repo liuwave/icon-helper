@@ -1,0 +1,19 @@
+{
+  "id": "AA8B7EA9-2DB2-4591-94E0-A457373E64C1",
+  "name": "rodent",
+  "codepoint": "F1327",
+  "aliases": [
+    "mouse",
+    "rat"
+  ],
+  "tags": [
+    "Animal"
+  ],
+  "author": "Google",
+  "version": "4.9.95",
+  "zhs": [
+    "啮齿动物",
+    "小鼠",
+    "大鼠"
+  ]
+}

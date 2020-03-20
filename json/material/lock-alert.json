@@ -1,0 +1,18 @@
+{
+  "id": "6AFF2FDC-D4F8-41F6-8B80-908D1AB87424",
+  "name": "lock-alert",
+  "codepoint": "F08EE",
+  "aliases": [
+    "lock-warning"
+  ],
+  "tags": [
+    "Lock",
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "警报锁",
+    "警告锁"
+  ]
+}

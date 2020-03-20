@@ -1,0 +1,15 @@
+{
+  "id": "9CDA3BD8-77A5-4669-BFB7-785EECAE2FCA",
+  "name": "volume-vibrate",
+  "codepoint": "F1121",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone",
+    "Audio"
+  ],
+  "author": "Cody",
+  "version": "4.3.95",
+  "zhs": [
+    "体积振动"
+  ]
+}

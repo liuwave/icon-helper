@@ -1,0 +1,19 @@
+{
+  "id": "A24C1161-73F2-43F0-B955-7D4E5F398372",
+  "name": "text-box-check-outline",
+  "codepoint": "F0EA7",
+  "aliases": [
+    "file-document-box-tick-outline",
+    "file-document-box-check-outline"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Contributors",
+  "version": "3.7.94",
+  "zhs": [
+    "文本框检查轮廓",
+    "文件文档框打勾轮廓",
+    "文件文档框检查轮廓"
+  ]
+}

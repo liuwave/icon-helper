@@ -1,0 +1,19 @@
+{
+  "id": "85144563-B019-4B8A-AB76-3DE0797D517E",
+  "name": "karate",
+  "codepoint": "F082C",
+  "aliases": [
+    "martial-arts",
+    "kickboxing"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.19",
+  "zhs": [
+    "空手道",
+    "武术",
+    "跆拳道"
+  ]
+}

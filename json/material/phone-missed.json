@@ -1,0 +1,14 @@
+{
+  "id": "BF6662C4-D1D0-42E6-8C0A-B071F12975F2",
+  "name": "phone-missed",
+  "codepoint": "F03FA",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电话未接"
+  ]
+}

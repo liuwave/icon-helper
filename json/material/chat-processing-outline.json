@@ -1,0 +1,15 @@
+{
+  "id": "F753E08E-F7C9-4BAF-8647-9328D56D1837",
+  "name": "chat-processing-outline",
+  "codepoint": "F12CA",
+  "aliases": [
+    "chat-typing-outline"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "聊天处理轮廓",
+    "聊天输入轮廓"
+  ]
+}

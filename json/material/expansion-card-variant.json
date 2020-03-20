@@ -1,0 +1,21 @@
+{
+  "id": "A644DCA0-BDC5-480E-AA15-EFD1B1D4BDEB",
+  "name": "expansion-card-variant",
+  "codepoint": "F0FB2",
+  "aliases": [
+    "graphics-processing-unit",
+    "gpu",
+    "network-interface-card",
+    "nice"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "扩充卡型号",
+    "图形处理器",
+    "gpu",
+    "网络接口卡",
+    "不错"
+  ]
+}

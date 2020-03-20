@@ -1,0 +1,12 @@
+{
+  "id": "96C02705-84D1-4677-9DDE-CCDE1D43FE11",
+  "name": "gesture-two-double-tap",
+  "codepoint": "F0742",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "1.9.32",
+  "zhs": [
+    "手势两个双击"
+  ]
+}

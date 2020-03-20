@@ -1,0 +1,14 @@
+{
+  "id": "EF57DF3A-9441-45FD-B124-5247DB8E04C2",
+  "name": "format-text-wrapping-overflow",
+  "codepoint": "F0D0F",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "3.3.92",
+  "zhs": [
+    "格式文字换行溢出"
+  ]
+}

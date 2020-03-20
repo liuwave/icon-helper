@@ -1,0 +1,14 @@
+{
+  "id": "A20B1B0B-DC60-4ED1-A7E6-F390BA31D613",
+  "name": "lan",
+  "codepoint": "F0317",
+  "aliases": [
+    "local-area-network"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "局域网"
+  ]
+}

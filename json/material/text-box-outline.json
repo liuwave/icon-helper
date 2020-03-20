@@ -1,0 +1,17 @@
+{
+  "id": "E12AE178-0546-4CD3-81F6-BD1F17AA50EE",
+  "name": "text-box-outline",
+  "codepoint": "F09ED",
+  "aliases": [
+    "file-document-box-outline"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.5.94",
+  "zhs": [
+    "文本框轮廓",
+    "文件文档框轮廓"
+  ]
+}

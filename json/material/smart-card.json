@@ -1,0 +1,14 @@
+{
+  "id": "9682A6D2-A7FA-47BF-A94E-6CDEC8B55446",
+  "name": "smart-card",
+  "codepoint": "F10BD",
+  "aliases": [],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "智能卡"
+  ]
+}

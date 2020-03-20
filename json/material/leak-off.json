@@ -1,0 +1,15 @@
+{
+  "id": "EDA0BABB-A354-481B-8E60-108E3B20D64C",
+  "name": "leak-off",
+  "codepoint": "F0DD8",
+  "aliases": [
+    "proximity-sensor-off"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "3.5.94",
+  "zhs": [
+    "泄漏",
+    "接近传感器关闭"
+  ]
+}

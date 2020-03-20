@@ -1,0 +1,14 @@
+{
+  "id": "D0485B00-63FF-44F5-8DE2-480F970D5ADD",
+  "name": "remote-tv-off",
+  "codepoint": "F0EC6",
+  "aliases": [],
+  "tags": [
+    "Device / Tech"
+  ],
+  "author": "idevo89",
+  "version": "3.7.94",
+  "zhs": [
+    "远程电视关闭"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "6E50F0F8-1116-4090-9468-54B2CE8FBB19",
+  "name": "database-export",
+  "codepoint": "F095E",
+  "aliases": [],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Michael Richins",
+  "version": "2.4.85",
+  "zhs": [
+    "数据库导出"
+  ]
+}

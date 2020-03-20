@@ -1,0 +1,21 @@
+{
+  "id": "CF43DB99-4419-491B-A5E3-2486A36F24DB",
+  "name": "numeric-7-box-multiple-outline",
+  "codepoint": "F03B7",
+  "aliases": [
+    "filter-7",
+    "numeric-seven-box-multiple-outline",
+    "numeric-7-boxes-outline",
+    "number-7-box-multiple-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric",
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字7框多个轮廓",
+    "过滤器7"
+  ]
+}

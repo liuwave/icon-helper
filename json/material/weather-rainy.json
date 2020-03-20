@@ -1,0 +1,19 @@
+{
+  "id": "45EF5E01-7499-4964-A897-5602F45A822E",
+  "name": "weather-rainy",
+  "codepoint": "F0597",
+  "aliases": [
+    "weather-drizzle",
+    "weather-spitting"
+  ],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "阴雨天气",
+    "毛毛雨天气",
+    "随地吐痰的天气"
+  ]
+}

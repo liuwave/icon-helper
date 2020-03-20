@@ -1,0 +1,19 @@
+{
+  "id": "FC3A1E7D-F8CD-443E-A685-9C7F0FA9FC10",
+  "name": "shape-outline",
+  "codepoint": "F0832",
+  "aliases": [
+    "theme-outline",
+    "category-outline"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "形状轮廓",
+    "主题轮廓",
+    "类别轮廓"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "8480FB3F-93B8-4445-BE6D-56A47441D6A6",
+  "name": "format-list-numbered-rtl",
+  "codepoint": "F0D0D",
+  "aliases": [
+    "format-list-numbered-right-to-left"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "3.3.92",
+  "zhs": [
+    "格式编号列表rtl",
+    "格式编号列表从右到左"
+  ]
+}

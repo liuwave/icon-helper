@@ -1,0 +1,14 @@
+{
+  "id": "7C3F10AF-CB56-4A35-B22A-C833D5C823A3",
+  "name": "clock-out",
+  "codepoint": "F0154",
+  "aliases": [],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "超时"
+  ]
+}

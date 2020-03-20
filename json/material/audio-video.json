@@ -1,0 +1,14 @@
+{
+  "id": "79CBF0E5-365C-466B-B162-2EBD1531F182",
+  "name": "audio-video",
+  "codepoint": "F093D",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "2.4.85",
+  "zhs": [
+    "音频视频"
+  ]
+}

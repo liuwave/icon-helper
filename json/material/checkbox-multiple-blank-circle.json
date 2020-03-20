@@ -1,0 +1,17 @@
+{
+  "id": "0AE5C836-2A43-4706-81C5-5053A73B9CAA",
+  "name": "checkbox-multiple-blank-circle",
+  "codepoint": "F063B",
+  "aliases": [
+    "checkboxes-blank-circle"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Cody",
+  "version": "1.6.50",
+  "zhs": [
+    "复选框多个空白圆圈",
+    "复选框空白圆圈"
+  ]
+}

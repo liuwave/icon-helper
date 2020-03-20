@@ -1,0 +1,19 @@
+{
+  "id": "76B6381F-14CA-4453-8B28-184C508D003B",
+  "name": "allergy",
+  "codepoint": "F1258",
+  "aliases": [
+    "hand",
+    "rash",
+    "germ"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "过敏",
+    "手",
+    "皮疹",
+    "细菌"
+  ]
+}

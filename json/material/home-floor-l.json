@@ -1,0 +1,24 @@
+{
+  "id": "D6B418D4-1B34-4E5C-B406-0E27B72DC0AC",
+  "name": "home-floor-l",
+  "codepoint": "F0D86",
+  "aliases": [
+    "home-floor-loft",
+    "home-floor-lower",
+    "house-floor-l",
+    "house-floor-loft",
+    "house-floor-lower"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.4.93",
+  "zhs": [
+    "家用地板l",
+    "家用地板阁楼",
+    "房屋地板l",
+    "房屋地板阁楼",
+    "房屋地板下部"
+  ]
+}

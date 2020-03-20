@@ -1,0 +1,17 @@
+{
+  "id": "5B1FA77D-0384-4931-AFD8-C4FF5D73D372",
+  "name": "text-to-speech",
+  "codepoint": "F050A",
+  "aliases": [
+    "tts",
+    "microphone-message"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文字转语音",
+    "tts",
+    "麦克风信息"
+  ]
+}

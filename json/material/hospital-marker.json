@@ -1,0 +1,14 @@
+{
+  "id": "FA30BC13-BE77-44F6-BEB1-942749E019A7",
+  "name": "hospital-marker",
+  "codepoint": "F02E2",
+  "aliases": [],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "医院标记"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "27AB71F3-1EFD-484F-8E63-C1E4C694E392",
+  "name": "ballot",
+  "codepoint": "F09C9",
+  "aliases": [
+    "vote"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "2.5.94",
+  "zhs": [
+    "投票"
+  ]
+}

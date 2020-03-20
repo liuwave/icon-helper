@@ -1,0 +1,17 @@
+{
+  "id": "E2CD4D50-D64C-47B9-AF3B-C464D65CD4EB",
+  "name": "dots-vertical-circle-outline",
+  "codepoint": "F0B8E",
+  "aliases": [
+    "ellipsis-vertical-circle-outline",
+    "menu"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "3.0.39",
+  "zhs": [
+    "点垂直圆轮廓",
+    "省略号垂直圆轮廓",
+    "菜单"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "BC8926AA-02C6-4755-B5A8-D3BD29C2CDE0",
+  "name": "tow-truck",
+  "codepoint": "F083C",
+  "aliases": [
+    "auto-towing",
+    "truck"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "拖车",
+    "自动牵引",
+    "卡车"
+  ]
+}

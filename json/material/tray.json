@@ -1,0 +1,19 @@
+{
+  "id": "F9A7F6AA-7379-4215-A97A-0E2FCAF3A9ED",
+  "name": "tray",
+  "codepoint": "F1294",
+  "aliases": [
+    "queue",
+    "printer",
+    "inbox"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "托盘",
+    "队列",
+    "打印机",
+    "收件箱"
+  ]
+}

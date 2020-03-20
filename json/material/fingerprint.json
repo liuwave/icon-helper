@@ -1,0 +1,12 @@
+{
+  "id": "F71C897D-9858-40AE-8DB4-253CE675D823",
+  "name": "fingerprint",
+  "codepoint": "F0237",
+  "aliases": [],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "指纹"
+  ]
+}

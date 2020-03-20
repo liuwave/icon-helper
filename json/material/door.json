@@ -1,0 +1,14 @@
+{
+  "id": "858F8782-5001-4950-96F2-65032091A847",
+  "name": "door",
+  "codepoint": "F081A",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Haley Halcyon",
+  "version": "2.1.19",
+  "zhs": [
+    "门"
+  ]
+}

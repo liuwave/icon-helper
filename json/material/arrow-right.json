@@ -1,0 +1,17 @@
+{
+  "id": "05F25B05-A6D6-4863-8B21-6969E10329CF",
+  "name": "arrow-right",
+  "codepoint": "F0054",
+  "aliases": [
+    "arrow-forward"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "向右箭头",
+    "向前箭头"
+  ]
+}

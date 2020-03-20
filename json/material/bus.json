@@ -1,0 +1,18 @@
+{
+  "id": "F6516F38-B29E-4CC9-A7E2-706817121D45",
+  "name": "bus",
+  "codepoint": "F00E7",
+  "aliases": [
+    "directions-bus"
+  ],
+  "tags": [
+    "Navigation",
+    "Transportation + Road"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "公交",
+    "公交路线"
+  ]
+}

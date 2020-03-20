@@ -1,0 +1,17 @@
+{
+  "id": "3082F9ED-7ADE-491E-9FA5-39BC937D1F95",
+  "name": "swap-horizontal-bold",
+  "codepoint": "F0BCD",
+  "aliases": [
+    "arrow-left-right-bold"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "3.0.39",
+  "zhs": [
+    "交换水平粗体",
+    "向左箭头粗体"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "30C6B7FE-4496-4961-B36F-E0FBC4F2696E",
+  "name": "account-multiple-outline",
+  "codepoint": "F000F",
+  "aliases": [
+    "user-multiple-outline",
+    "people-outline",
+    "accounts-outline",
+    "users-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户多个轮廓",
+    "用户多个轮廓",
+    "人员轮廓",
+    "帐户轮廓",
+    "用户轮廓"
+  ]
+}

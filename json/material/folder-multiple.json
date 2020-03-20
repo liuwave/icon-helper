@@ -1,0 +1,17 @@
+{
+  "id": "7116841C-C243-4A44-8C68-267048AAF939",
+  "name": "folder-multiple",
+  "codepoint": "F0253",
+  "aliases": [
+    "folders"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "多个文件夹",
+    "文件夹"
+  ]
+}

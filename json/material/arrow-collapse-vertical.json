@@ -1,0 +1,17 @@
+{
+  "id": "1D7700E7-2963-479F-81E1-910E2566894F",
+  "name": "arrow-collapse-vertical",
+  "codepoint": "F084D",
+  "aliases": [
+    "compress"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "2.1.99",
+  "zhs": [
+    "箭头垂直折叠",
+    "压缩"
+  ]
+}

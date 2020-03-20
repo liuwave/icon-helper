@@ -1,0 +1,14 @@
+{
+  "id": "14C747D0-C356-403D-862F-09A2F30276E7",
+  "name": "bank-remove",
+  "codepoint": "F0DB2",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.5.94",
+  "zhs": [
+    "银行删除"
+  ]
+}

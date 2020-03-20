@@ -1,0 +1,18 @@
+{
+  "id": "827B8418-9667-4429-A4D3-7C0553D1946E",
+  "name": "lightbulb-multiple-off-outline",
+  "codepoint": "F12D0",
+  "aliases": [
+    "lightbulbs-off-outline",
+    "bulb-multiple-off-outline",
+    "bulbs-off-outline"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "灯泡偏离轮廓"
+  ]
+}

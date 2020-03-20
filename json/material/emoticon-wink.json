@@ -1,0 +1,17 @@
+{
+  "id": "652D2244-1764-4B42-B04D-157DDD9DC464",
+  "name": "emoticon-wink",
+  "codepoint": "F0C78",
+  "aliases": [
+    "smiley-wink"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "表情眨眼",
+    "笑脸眨眼"
+  ]
+}

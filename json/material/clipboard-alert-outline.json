@@ -1,0 +1,17 @@
+{
+  "id": "321F2AC5-C710-4AD5-A493-279435DF0074",
+  "name": "clipboard-alert-outline",
+  "codepoint": "F0CF7",
+  "aliases": [
+    "clipboard-warning-outline"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "James Coyle",
+  "version": "3.3.92",
+  "zhs": [
+    "剪贴板警报轮廓",
+    "剪贴板警告轮廓"
+  ]
+}

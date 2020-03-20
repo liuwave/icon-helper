@@ -1,0 +1,15 @@
+{
+  "id": "14F6A9EC-BD40-4181-B084-05A9FCFA3973",
+  "name": "plus-network",
+  "codepoint": "F041A",
+  "aliases": [
+    "add-network"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "加网络",
+    "添加网络"
+  ]
+}

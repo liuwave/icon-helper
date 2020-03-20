@@ -1,0 +1,17 @@
+{
+  "id": "D7B7AA15-66CB-4AA5-AD75-E96B78B89AB9",
+  "name": "video-input-antenna",
+  "codepoint": "F083F",
+  "aliases": [
+    "settings-input-antenna"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "视频输入天线",
+    "天线输入设置"
+  ]
+}

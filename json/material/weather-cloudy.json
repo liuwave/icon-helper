@@ -1,0 +1,15 @@
+{
+  "id": "9286B6B3-09EE-4465-9A70-D7874E26F3DF",
+  "name": "weather-cloudy",
+  "codepoint": "F0590",
+  "aliases": [],
+  "tags": [
+    "Weather",
+    "Cloud"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "多云的天气"
+  ]
+}

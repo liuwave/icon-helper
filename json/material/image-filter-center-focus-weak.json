@@ -1,0 +1,16 @@
+{
+  "id": "50F3F396-4286-4D09-B726-4F626649BC04",
+  "name": "image-filter-center-focus-weak",
+  "codepoint": "F02F2",
+  "aliases": [
+    "image-filter-centre-focus-weak"
+  ],
+  "tags": [
+    "Photography"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "图像滤镜中心弱焦点"
+  ]
+}

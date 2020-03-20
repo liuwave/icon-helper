@@ -1,0 +1,17 @@
+{
+  "id": "A6E4DFBB-920D-4A21-AE54-6378FEBDD767",
+  "name": "wardrobe",
+  "codepoint": "F0F90",
+  "aliases": [
+    "closet"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.9.97",
+  "zhs": [
+    "衣柜",
+    "壁橱"
+  ]
+}

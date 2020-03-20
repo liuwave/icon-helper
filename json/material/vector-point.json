@@ -1,0 +1,15 @@
+{
+  "id": "C8B18CF5-BD7E-41FC-A653-6B46D85F982A",
+  "name": "vector-point",
+  "codepoint": "F055F",
+  "aliases": [],
+  "tags": [
+    "Vector",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "矢量点"
+  ]
+}

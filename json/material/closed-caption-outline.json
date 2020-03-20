@@ -1,0 +1,15 @@
+{
+  "id": "08F32D33-77C4-4FEB-AAF6-04468AF0875F",
+  "name": "closed-caption-outline",
+  "codepoint": "F0DBD",
+  "aliases": [
+    "cc-outline"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "3.5.94",
+  "zhs": [
+    "隐藏式字幕轮廓",
+    "CC轮廓"
+  ]
+}

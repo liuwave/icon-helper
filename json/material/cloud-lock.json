@@ -1,0 +1,15 @@
+{
+  "id": "8F0ED421-A552-4920-A46D-13F246A25689",
+  "name": "cloud-lock",
+  "codepoint": "F11F1",
+  "aliases": [],
+  "tags": [
+    "Cloud",
+    "Lock"
+  ],
+  "author": "Michael Richins",
+  "version": "4.5.95",
+  "zhs": [
+    "云锁"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "8529D611-F581-4808-95BE-271FB1A6C2FD",
+  "name": "album",
+  "codepoint": "F0025",
+  "aliases": [
+    "vinyl",
+    "record"
+  ],
+  "tags": [
+    "Audio",
+    "Music"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "专辑",
+    "黑胶唱片",
+    "唱片"
+  ]
+}

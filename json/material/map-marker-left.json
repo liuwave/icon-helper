@@ -1,0 +1,15 @@
+{
+  "id": "5FFC5505-B029-4487-A68E-EDE4B708E5B9",
+  "name": "map-marker-left",
+  "codepoint": "F12DB",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "左侧地图标记"
+  ]
+}

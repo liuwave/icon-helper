@@ -1,0 +1,15 @@
+{
+  "id": "E0A6898F-3F08-4E13-8B61-DA63E5CBF949",
+  "name": "thermostat-box",
+  "codepoint": "F0891",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Device / Tech"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.1.99",
+  "zhs": [
+    "恒温箱"
+  ]
+}

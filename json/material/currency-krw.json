@@ -1,0 +1,18 @@
+{
+  "id": "72750D9E-229F-4D77-B1CB-9C2C0FD12335",
+  "name": "currency-krw",
+  "codepoint": "F07BD",
+  "aliases": [
+    "won"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Haley Halcyon",
+  "version": "2.0.46",
+  "zhs": [
+    "货币韩元",
+    "韩元"
+  ]
+}

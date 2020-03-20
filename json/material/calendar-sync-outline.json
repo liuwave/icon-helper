@@ -1,0 +1,17 @@
+{
+  "id": "24C0F48E-A354-4835-A2D4-B1E348ACF5D5",
+  "name": "calendar-sync-outline",
+  "codepoint": "F0E8F",
+  "aliases": [
+    "calendar-repeat-outline"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "日历同步轮廓",
+    "日历重复轮廓"
+  ]
+}

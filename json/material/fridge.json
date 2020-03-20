@@ -1,0 +1,18 @@
+{
+  "id": "148520BB-2172-4261-9336-3E85E5131869",
+  "name": "fridge",
+  "codepoint": "F0290",
+  "aliases": [
+    "fridge-filled",
+    "refrigerator"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "冰箱",
+    "装有冰箱的冰箱"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "B501FBBD-91FA-4567-8D4A-BD933FECCE7B",
+  "name": "alpha-a-box-outline",
+  "codepoint": "F0BEB",
+  "aliases": [
+    "alphabet-a-box-outline",
+    "letter-a-box-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Contributors",
+  "version": "3.2.89",
+  "zhs": [
+    "Alpha表示框轮廓",
+    "字母表示框轮廓"
+  ]
+}

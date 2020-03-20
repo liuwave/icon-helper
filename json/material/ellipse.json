@@ -1,0 +1,14 @@
+{
+  "id": "0CAAACF8-3D1C-4CCA-A3E4-3590CDEEC5D6",
+  "name": "ellipse",
+  "codepoint": "F0EA0",
+  "aliases": [],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "椭圆"
+  ]
+}

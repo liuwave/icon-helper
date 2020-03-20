@@ -1,0 +1,18 @@
+{
+  "id": "C05A4C2F-8128-474F-B204-D782A332CB73",
+  "name": "circle-multiple",
+  "codepoint": "F0B38",
+  "aliases": [
+    "coins"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Michael Richins",
+  "version": "2.8.94",
+  "zhs": [
+    "圈数",
+    "硬币"
+  ]
+}

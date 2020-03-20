@@ -1,0 +1,18 @@
+{
+  "id": "6F7A0011-054A-4805-A970-A48BEAA9454B",
+  "name": "molecule-co2",
+  "codepoint": "F07E4",
+  "aliases": [
+    "periodic-table-carbon-dioxide"
+  ],
+  "tags": [
+    "Science",
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.0.46",
+  "zhs": [
+    "分子二氧化碳",
+    "周期表中的二氧化碳"
+  ]
+}

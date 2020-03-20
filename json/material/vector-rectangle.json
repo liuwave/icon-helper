@@ -1,0 +1,15 @@
+{
+  "id": "2A12555B-0CBC-4FC9-9F86-88F7785B3B2C",
+  "name": "vector-rectangle",
+  "codepoint": "F05C6",
+  "aliases": [],
+  "tags": [
+    "Vector",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "矢量矩形"
+  ]
+}

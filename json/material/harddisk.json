@@ -1,0 +1,14 @@
+{
+  "id": "6CBB2398-E7ED-4A08-8489-1FFF87D0605C",
+  "name": "harddisk",
+  "codepoint": "F02CA",
+  "aliases": [
+    "hdd"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "硬盘"
+  ]
+}

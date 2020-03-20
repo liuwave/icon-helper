@@ -1,0 +1,18 @@
+{
+  "id": "614D2F8D-5170-4FE8-87C7-419903F205CB",
+  "name": "set-center-right",
+  "codepoint": "F077A",
+  "aliases": [
+    "set-centre-right",
+    "outer-join-right",
+    "sql-right-outer-join"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.9.32",
+  "zhs": [
+    "设置中心右",
+    "外连接右",
+    "sql右外连接"
+  ]
+}

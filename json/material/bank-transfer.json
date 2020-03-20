@@ -1,0 +1,14 @@
+{
+  "id": "5692748F-52FC-41F9-97B2-D0F251F4619D",
+  "name": "bank-transfer",
+  "codepoint": "F0A27",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "SarinManS",
+  "version": "2.6.95",
+  "zhs": [
+    "银行转帐"
+  ]
+}

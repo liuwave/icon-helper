@@ -1,0 +1,12 @@
+{
+  "id": "E01B3638-DE80-4D1E-93D1-1A0C5E9AFCF4",
+  "name": "server-network-off",
+  "codepoint": "F048E",
+  "aliases": [],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "服务器网络关闭"
+  ]
+}

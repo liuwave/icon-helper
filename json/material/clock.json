@@ -1,0 +1,17 @@
+{
+  "id": "90E7BBD9-12C3-4339-94DE-99A049C8D4B1",
+  "name": "clock",
+  "codepoint": "F0954",
+  "aliases": [
+    "watch-later"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "时钟",
+    "稍后观看"
+  ]
+}

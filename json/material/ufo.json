@@ -1,0 +1,16 @@
+{
+  "id": "D2609FE7-60FE-4372-94A9-7BB3C7AD18DE",
+  "name": "ufo",
+  "codepoint": "F10C4",
+  "aliases": [
+    "unidentified-flying-object",
+    "alien"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.2.95",
+  "zhs": [
+    "不明飞行物",
+    "不明飞行物外星人"
+  ]
+}

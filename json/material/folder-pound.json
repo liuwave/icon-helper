@@ -1,0 +1,17 @@
+{
+  "id": "FEA28688-AA8C-4CEE-937C-9110076B3214",
+  "name": "folder-pound",
+  "codepoint": "F0D09",
+  "aliases": [
+    "folder-hash"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "英镑文件夹",
+    "哈希文件夹"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4F1F1AC0-68D1-4C74-8F03-DF6EBC2C8B29",
+  "name": "kettle-alert-outline",
+  "codepoint": "F1318",
+  "aliases": [
+    "tea-kettle-alert-outline",
+    "kettle-empty-alert",
+    "tea-kettle-empty-alert"
+  ],
+  "tags": [
+    "Home Automation",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "水壶警报轮廓",
+    "茶壶警报警报",
+    "水壶空警报",
+    "茶壶空警报"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0EA34D8C-1A02-4A92-8293-991702ABD065",
+  "name": "circle-small",
+  "codepoint": "F09DF",
+  "aliases": [
+    "bullet",
+    "multiplication"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.5.94",
+  "zhs": [
+    "小圆圈",
+    "子弹",
+    "乘法"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "506CEB31-5A28-4D8F-947E-A0B0B5211DA1",
+  "name": "fire-hydrant-alert",
+  "codepoint": "F1138",
+  "aliases": [],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "消火栓警报"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "C0CF99F2-5D8E-4478-9602-9866AF83B94B",
+  "name": "dog-service",
+  "codepoint": "F0AAD",
+  "aliases": [
+    "guide-dog"
+  ],
+  "tags": [
+    "Animal"
+  ],
+  "author": "Michael Richins",
+  "version": "2.7.94",
+  "zhs": [
+    "导盲犬服务"
+  ]
+}

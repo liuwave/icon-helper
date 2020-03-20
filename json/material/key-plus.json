@@ -1,0 +1,14 @@
+{
+  "id": "000AAEC6-5E6C-40F4-B589-AE85920E7EC2",
+  "name": "key-plus",
+  "codepoint": "F0309",
+  "aliases": [
+    "key-add"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "键加"
+  ]
+}

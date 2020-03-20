@@ -1,0 +1,17 @@
+{
+  "id": "187185AC-5567-44DC-AC70-14B0D89C270C",
+  "name": "emoticon-dead",
+  "codepoint": "F0C6E",
+  "aliases": [
+    "smiley-dead"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "表情符号已死",
+    "笑脸已死"
+  ]
+}

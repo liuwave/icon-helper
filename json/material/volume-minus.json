@@ -1,0 +1,19 @@
+{
+  "id": "D8BFD10F-6D55-4EE1-8D30-5B5CB064CBBF",
+  "name": "volume-minus",
+  "codepoint": "F075E",
+  "aliases": [
+    "volume-decrease"
+  ],
+  "tags": [
+    "Audio",
+    "Home Automation",
+    "Cellphone / Phone"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "体积减",
+    "体积减少"
+  ]
+}

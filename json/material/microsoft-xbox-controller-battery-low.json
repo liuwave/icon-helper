@@ -1,0 +1,15 @@
+{
+  "id": "B65873D1-4808-4C3C-8AD6-A242D61B1985",
+  "name": "microsoft-xbox-controller-battery-low",
+  "codepoint": "F074E",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Gaming / RPG"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "Microsoft Xbox控制器电池电量低"
+  ]
+}

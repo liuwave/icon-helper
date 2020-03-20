@@ -1,0 +1,15 @@
+{
+  "id": "D0C76005-3272-4189-A061-E344D9BAB0C6",
+  "name": "ballot-recount",
+  "codepoint": "F0C39",
+  "aliases": [
+    "vote-recount"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "选票重算",
+    "投票重算"
+  ]
+}

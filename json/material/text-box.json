@@ -1,0 +1,19 @@
+{
+  "id": "32E03B3D-EAFA-4483-AE94-E43944F0F0AE",
+  "name": "text-box",
+  "codepoint": "F021A",
+  "aliases": [
+    "drive-document",
+    "file-document-box"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "文本框",
+    "文档驱动器",
+    "文件文档框"
+  ]
+}

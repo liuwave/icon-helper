@@ -1,0 +1,21 @@
+{
+  "id": "BFF59001-B52D-47E6-A217-C9095F81C3B8",
+  "name": "file",
+  "codepoint": "F0214",
+  "aliases": [
+    "insert-drive-file",
+    "draft",
+    "paper"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "文件",
+    "插入驱动器文件",
+    "草稿",
+    "纸张"
+  ]
+}

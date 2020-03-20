@@ -1,0 +1,18 @@
+{
+  "id": "5259DBA5-B2FB-4112-B1F2-5DC17002205C",
+  "name": "fire",
+  "codepoint": "F0238",
+  "aliases": [
+    "whatshot",
+    "flame"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "火",
+    "火焰"
+  ]
+}

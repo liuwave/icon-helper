@@ -1,0 +1,16 @@
+{
+  "id": "E5DEA4AB-58E1-45CF-81EF-1A98594C5884",
+  "name": "bluetooth-settings",
+  "codepoint": "F00B3",
+  "aliases": [
+    "settings-bluetooth"
+  ],
+  "tags": [
+    "Settings"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "蓝牙设置"
+  ]
+}

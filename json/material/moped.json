@@ -1,0 +1,22 @@
+{
+  "id": "DC294862-E625-444E-83A4-7D5F2255EE0C",
+  "name": "moped",
+  "codepoint": "F1086",
+  "aliases": [
+    "scooter",
+    "vespa",
+    "delivery-dining"
+  ],
+  "tags": [
+    "Transportation + Road",
+    "Transportation + Other"
+  ],
+  "author": "Google",
+  "version": "4.2.95",
+  "zhs": [
+    "轻便摩托车",
+    "踏板车",
+    "大黄蜂",
+    "送餐"
+  ]
+}

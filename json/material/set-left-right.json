@@ -1,0 +1,17 @@
+{
+  "id": "E1BE2EC4-D5D5-475C-A562-9855DA1612FB",
+  "name": "set-left-right",
+  "codepoint": "F077D",
+  "aliases": [
+    "exclusion",
+    "set-xor"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.9.32",
+  "zhs": [
+    "设置左右",
+    "排除",
+    "设置异或"
+  ]
+}

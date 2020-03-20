@@ -1,0 +1,17 @@
+{
+  "id": "90994A54-72AA-498F-8806-AAD466CC21BD",
+  "name": "alert-octagon-outline",
+  "codepoint": "F0CE6",
+  "aliases": [
+    "warning-octagon-outline"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Peter Noble",
+  "version": "3.3.92",
+  "zhs": [
+    "警报八边形轮廓",
+    "警告八边形轮廓"
+  ]
+}

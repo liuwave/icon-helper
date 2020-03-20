@@ -1,0 +1,22 @@
+{
+  "id": "04D0C33A-12E7-4DC1-96FA-A83A481962D4",
+  "name": "glass-mug-variant",
+  "codepoint": "F1116",
+  "aliases": [
+    "pub",
+    "bar",
+    "beer",
+    "drink"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Cody",
+  "version": "4.3.95",
+  "zhs": [
+    "玻璃杯子的口音",
+    "酒吧",
+    "啤酒",
+    "饮料"
+  ]
+}

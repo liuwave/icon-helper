@@ -1,0 +1,18 @@
+{
+  "id": "93020F21-A0FE-427D-8685-B74EE39B9921",
+  "name": "sim",
+  "codepoint": "F04A7",
+  "aliases": [
+    "sim-card",
+    "subscriber-identity-module",
+    "subscriber-identification-module"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "sim",
+    "sim卡",
+    "用户识别模块"
+  ]
+}

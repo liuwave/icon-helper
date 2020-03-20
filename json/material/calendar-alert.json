@@ -1,0 +1,20 @@
+{
+  "id": "38F5B0F1-FAC2-4389-9CE0-BDDEBEC868F4",
+  "name": "calendar-alert",
+  "codepoint": "F0A31",
+  "aliases": [
+    "event-alert",
+    "calendar-warning"
+  ],
+  "tags": [
+    "Date / Time",
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "2.6.95",
+  "zhs": [
+    "日历警报",
+    "事件警报",
+    "日历警告"
+  ]
+}

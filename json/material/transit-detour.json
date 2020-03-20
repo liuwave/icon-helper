@@ -1,0 +1,14 @@
+{
+  "id": "247F5D41-FA03-4D63-97AF-B39A4D4A7BFC",
+  "name": "transit-detour",
+  "codepoint": "F0F8B",
+  "aliases": [],
+  "tags": [
+    "Navigation"
+  ],
+  "author": "Contributors",
+  "version": "3.9.97",
+  "zhs": [
+    "中转弯路"
+  ]
+}

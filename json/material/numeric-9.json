@@ -1,0 +1,17 @@
+{
+  "id": "11F0ADB8-0CC8-48A3-8653-11E7F58B5C9B",
+  "name": "numeric-9",
+  "codepoint": "F0B42",
+  "aliases": [
+    "number-9",
+    "numeric-nine"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "数字9"
+  ]
+}

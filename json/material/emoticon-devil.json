@@ -1,0 +1,17 @@
+{
+  "id": "7781F4B7-849F-42A4-82B1-791DBDE91295",
+  "name": "emoticon-devil",
+  "codepoint": "F0C6F",
+  "aliases": [
+    "smiley-devil"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.2.89",
+  "zhs": [
+    "表情魔鬼",
+    "笑脸魔鬼"
+  ]
+}

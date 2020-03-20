@@ -1,0 +1,14 @@
+{
+  "id": "AF2B1665-3D54-4017-BF7C-AE03A7C6AA52",
+  "name": "not-equal-variant",
+  "codepoint": "F098E",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Nick",
+  "version": "2.4.85",
+  "zhs": [
+    "不相等"
+  ]
+}

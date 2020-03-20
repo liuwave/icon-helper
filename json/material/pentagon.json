@@ -1,0 +1,14 @@
+{
+  "id": "A1E0EA60-79AF-42FD-966D-485276671F9C",
+  "name": "pentagon",
+  "codepoint": "F0701",
+  "aliases": [],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.8.36",
+  "zhs": [
+    "五边形"
+  ]
+}

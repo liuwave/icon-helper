@@ -1,0 +1,16 @@
+{
+  "id": "90AD0141-2243-49F0-8B84-FF909244D237",
+  "name": "microphone-off",
+  "codepoint": "F036D",
+  "aliases": [
+    "mic-off"
+  ],
+  "tags": [
+    "Music"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "麦克风关闭"
+  ]
+}

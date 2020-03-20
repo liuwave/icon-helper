@@ -1,0 +1,15 @@
+{
+  "id": "656C274C-CDC8-4FB6-AFFA-F704784BC997",
+  "name": "nfc-tap",
+  "codepoint": "F0397",
+  "aliases": [
+    "near-field-communication-tap"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "nfc分接头",
+    "近场通信分接头"
+  ]
+}

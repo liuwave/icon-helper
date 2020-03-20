@@ -1,0 +1,17 @@
+{
+  "id": "08B85EF9-81EC-4DEE-B1C7-1C14D4CBECA5",
+  "name": "text-box-search",
+  "codepoint": "F0EAE",
+  "aliases": [
+    "file-document-box-search"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.7.94",
+  "zhs": [
+    "文本框搜索",
+    "文件文档框搜索"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "55F413A7-319D-4419-87D4-97FF9ED96791",
+  "name": "video-input-component",
+  "codepoint": "F0840",
+  "aliases": [
+    "video-input-composite",
+    "settings-input-component",
+    "settings-input-composite",
+    "video-input-ypbpr",
+    "rca"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "视频输入组件",
+    "视频输入复合",
+    "设置输入组件",
+    "设置输入复合",
+    "视频输入ypbpr",
+    "rca"
+  ]
+}

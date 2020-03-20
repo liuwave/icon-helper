@@ -1,0 +1,18 @@
+{
+  "id": "B854CD8C-6731-4C70-917F-9033015E94F4",
+  "name": "car-cog",
+  "codepoint": "F13CC",
+  "aliases": [
+    "car-settings"
+  ],
+  "tags": [
+    "Automotive",
+    "Settings"
+  ],
+  "author": "Cody",
+  "version": "5.1.45",
+  "zhs": [
+    "汽车齿轮",
+    "汽车设置"
+  ]
+}

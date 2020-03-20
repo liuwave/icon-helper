@@ -1,0 +1,19 @@
+{
+  "id": "E62A084A-2136-4FD3-8803-A72DE26D60CB",
+  "name": "bottle-soda-classic",
+  "codepoint": "F1071",
+  "aliases": [
+    "bottle-coke-classic",
+    "bottle-pop-classic"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "瓶汽水经典",
+    "瓶可乐经典",
+    "瓶流行经典"
+  ]
+}

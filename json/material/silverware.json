@@ -1,0 +1,21 @@
+{
+  "id": "F7C26535-863F-4295-9E48-9847B740FEE7",
+  "name": "silverware",
+  "codepoint": "F04A3",
+  "aliases": [
+    "local-dining",
+    "restaurant-menu",
+    "local-restaurant"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "银器",
+    "当地就餐",
+    "餐厅菜单",
+    "当地餐厅"
+  ]
+}

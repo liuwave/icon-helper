@@ -1,0 +1,14 @@
+{
+  "id": "3A6FCF00-DE3C-4CD7-BF06-1D26E37E0C47",
+  "name": "decimal-decrease",
+  "codepoint": "F01B6",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "十进制减少"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "7365D689-4C10-4EBA-AD9A-09189B8091EE",
+  "name": "printer",
+  "codepoint": "F042A",
+  "aliases": [
+    "local-printshop",
+    "local-print-shop"
+  ],
+  "tags": [
+    "Printer",
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "打印机",
+    "本地打印店"
+  ]
+}

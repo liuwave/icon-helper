@@ -1,0 +1,15 @@
+{
+  "id": "1D6DD9E5-61EA-40E6-A19A-EF4BA71B0FC0",
+  "name": "clipboard-arrow-left",
+  "codepoint": "F014B",
+  "aliases": [
+    "assignment-return"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "向左剪贴板箭头",
+    "任务返回"
+  ]
+}

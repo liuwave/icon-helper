@@ -1,0 +1,19 @@
+{
+  "id": "59956D81-BF6B-4DCA-ABAD-A890412F22F1",
+  "name": "cash",
+  "codepoint": "F0114",
+  "aliases": [
+    "money"
+  ],
+  "tags": [
+    "Currency",
+    "Banking",
+    "Shopping"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "现金",
+    "金钱"
+  ]
+}

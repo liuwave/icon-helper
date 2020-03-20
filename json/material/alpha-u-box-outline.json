@@ -1,0 +1,17 @@
+{
+  "id": "CAA94F37-3C12-4A17-A0CF-F093E39F5463",
+  "name": "alpha-u-box-outline",
+  "codepoint": "F0C27",
+  "aliases": [
+    "alphabet-u-box-outline",
+    "letter-u-box-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Contributors",
+  "version": "3.2.89",
+  "zhs": [
+    "字母u框轮廓"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3B63C1BC-9FB2-4F41-86CF-93D6117585E9",
+  "name": "account-star-outline",
+  "codepoint": "F0BE8",
+  "aliases": [
+    "user-star-outline",
+    "person-star-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "帐户星号轮廓",
+    "用户星号轮廓",
+    "人星号轮廓"
+  ]
+}

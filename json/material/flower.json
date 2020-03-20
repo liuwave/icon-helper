@@ -1,0 +1,19 @@
+{
+  "id": "D73BB486-A112-48C1-A4EE-993825164C43",
+  "name": "flower",
+  "codepoint": "F024A",
+  "aliases": [
+    "local-florist",
+    "plant"
+  ],
+  "tags": [
+    "Nature"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "花卉",
+    "当地花店",
+    "儿童"
+  ]
+}

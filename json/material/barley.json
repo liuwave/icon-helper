@@ -1,0 +1,22 @@
+{
+  "id": "5126A5A7-ECBC-49FC-BBC6-1703DCACF5E4",
+  "name": "barley",
+  "codepoint": "F0073",
+  "aliases": [
+    "grain",
+    "wheat",
+    "gluten"
+  ],
+  "tags": [
+    "Agriculture",
+    "Food / Drink"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "大麦",
+    "谷物",
+    "小麦",
+    "面筋"
+  ]
+}

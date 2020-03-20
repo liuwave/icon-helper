@@ -1,0 +1,15 @@
+{
+  "id": "6FB911AA-DE27-441D-8C62-CD97ECB99DA7",
+  "name": "map-search",
+  "codepoint": "F0984",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "地图搜索"
+  ]
+}

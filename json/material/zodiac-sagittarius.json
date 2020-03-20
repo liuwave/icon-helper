@@ -1,0 +1,14 @@
+{
+  "id": "1FC91C87-E02C-4830-B0A6-6EA7CDABB8D3",
+  "name": "zodiac-sagittarius",
+  "codepoint": "F0A85",
+  "aliases": [
+    "horoscope-sagittarius"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "射手座十二生肖"
+  ]
+}

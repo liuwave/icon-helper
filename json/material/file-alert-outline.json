@@ -1,0 +1,18 @@
+{
+  "id": "0FF64B42-C9F6-4A0A-B09D-38D2AED8C81C",
+  "name": "file-alert-outline",
+  "codepoint": "F0A4C",
+  "aliases": [
+    "file-warning-outline"
+  ],
+  "tags": [
+    "Files / Folders",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.6.95",
+  "zhs": [
+    "文件警报轮廓",
+    "文件警告轮廓"
+  ]
+}

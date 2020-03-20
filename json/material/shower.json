@@ -1,0 +1,14 @@
+{
+  "id": "1F29D513-0EFE-454A-B766-579A010C51B6",
+  "name": "shower",
+  "codepoint": "F09A0",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Augustin Ursu",
+  "version": "2.4.85",
+  "zhs": [
+    "淋浴"
+  ]
+}

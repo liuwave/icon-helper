@@ -1,0 +1,15 @@
+{
+  "id": "414C568C-94B4-4EC3-9D81-22F747B9D0FC",
+  "name": "book-remove-multiple",
+  "codepoint": "F0A96",
+  "aliases": [
+    "books-remove"
+  ],
+  "tags": [],
+  "author": "Perth Totty",
+  "version": "2.7.94",
+  "zhs": [
+    "书本删除多个",
+    "书本删除"
+  ]
+}

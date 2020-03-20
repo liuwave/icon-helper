@@ -1,0 +1,14 @@
+{
+  "id": "5BEF006A-53C0-4401-87DB-F21642667712",
+  "name": "file-certificate",
+  "codepoint": "F1186",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Richins",
+  "version": "4.4.95",
+  "zhs": [
+    "证书文件"
+  ]
+}

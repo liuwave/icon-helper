@@ -1,0 +1,19 @@
+{
+  "id": "645E04E6-A328-45DD-9B22-03E2296837B1",
+  "name": "account-key",
+  "codepoint": "F000B",
+  "aliases": [
+    "user-key",
+    "person-key"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "REJack",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户密钥",
+    "用户密钥",
+    "人员密钥"
+  ]
+}

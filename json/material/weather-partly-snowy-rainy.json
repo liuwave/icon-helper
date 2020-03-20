@@ -1,0 +1,14 @@
+{
+  "id": "CAF9B1D0-1095-4A34-AC07-78C937BDA618",
+  "name": "weather-partly-snowy-rainy",
+  "codepoint": "F0F35",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "天气部分下雪阴雨"
+  ]
+}

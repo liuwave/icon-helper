@@ -1,0 +1,17 @@
+{
+  "id": "82FBA8C9-B8BE-4CA6-883C-E07C36723627",
+  "name": "progress-alert",
+  "codepoint": "F0CBC",
+  "aliases": [
+    "progress-warning"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "进度警报",
+    "进度警告"
+  ]
+}

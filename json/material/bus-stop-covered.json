@@ -1,0 +1,15 @@
+{
+  "id": "E299AA19-1C5F-4D7F-B101-0FBFC05A7130",
+  "name": "bus-stop-covered",
+  "codepoint": "F1013",
+  "aliases": [],
+  "tags": [
+    "Transportation + Road",
+    "Navigation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "有盖巴士站"
+  ]
+}

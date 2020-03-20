@@ -1,0 +1,12 @@
+{
+  "id": "25033E0B-3AD4-414D-9972-559F2690FC1D",
+  "name": "usb",
+  "codepoint": "F0553",
+  "aliases": [],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "USB"
+  ]
+}

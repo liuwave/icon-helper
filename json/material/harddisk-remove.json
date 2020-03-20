@@ -1,0 +1,14 @@
+{
+  "id": "07449A81-73AE-484C-8739-E008C38502F1",
+  "name": "harddisk-remove",
+  "codepoint": "F104C",
+  "aliases": [
+    "hdd-remove"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "硬盘删除"
+  ]
+}

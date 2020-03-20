@@ -1,0 +1,16 @@
+{
+  "id": "2DE4F8E6-F25C-4FCA-8405-109FA8918B78",
+  "name": "plus",
+  "codepoint": "F0415",
+  "aliases": [
+    "add"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "加"
+  ]
+}

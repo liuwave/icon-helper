@@ -1,0 +1,15 @@
+{
+  "id": "22743DE0-B662-44CD-8707-91ABF624D0E3",
+  "name": "beaker-alert",
+  "codepoint": "F1229",
+  "aliases": [],
+  "tags": [
+    "Alert / Error",
+    "Science"
+  ],
+  "author": "Austin Andrews",
+  "version": "4.6.95",
+  "zhs": [
+    "烧杯警报"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "C2E5EBC9-F1AD-4D93-BA3F-C81E18411E09",
+  "name": "shield-lock",
+  "codepoint": "F099D",
+  "aliases": [
+    "security-lock"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "屏蔽锁",
+    "安全锁"
+  ]
+}

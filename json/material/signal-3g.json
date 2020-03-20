@@ -1,0 +1,14 @@
+{
+  "id": "F0ACC092-8F79-43C9-9F8F-72E41AE557F2",
+  "name": "signal-3g",
+  "codepoint": "F0713",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "GreenTurtwig",
+  "version": "1.8.36",
+  "zhs": [
+    "3g信号"
+  ]
+}

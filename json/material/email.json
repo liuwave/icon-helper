@@ -1,0 +1,21 @@
+{
+  "id": "14AAE073-8399-4D67-9F7E-8E9424328681",
+  "name": "email",
+  "codepoint": "F01EE",
+  "aliases": [
+    "local-post-office",
+    "mail",
+    "markunread",
+    "envelope"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电子邮件",
+    "当地邮局",
+    "邮件",
+    "markunread",
+    "信封"
+  ]
+}

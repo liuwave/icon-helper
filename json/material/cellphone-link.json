@@ -1,0 +1,21 @@
+{
+  "id": "E29A590D-51B8-471B-B23B-E0A41046EDA6",
+  "name": "cellphone-link",
+  "codepoint": "F0121",
+  "aliases": [
+    "mobile-phone-link",
+    "smartphone-link",
+    "devices"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "手机链接",
+    "智能手机链接",
+    "设备"
+  ]
+}

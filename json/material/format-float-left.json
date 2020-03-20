@@ -1,0 +1,14 @@
+{
+  "id": "E595D32A-5108-4E9A-BF98-52DEFC1A50EE",
+  "name": "format-float-left",
+  "codepoint": "F0268",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Andreas Gohr",
+  "version": "1.5.54",
+  "zhs": [
+    "浮动格式左"
+  ]
+}

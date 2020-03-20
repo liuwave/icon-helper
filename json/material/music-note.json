@@ -1,0 +1,15 @@
+{
+  "id": "05F3F5DD-59CC-4FBD-9428-0D0CB125A8AE",
+  "name": "music-note",
+  "codepoint": "F0387",
+  "aliases": [],
+  "tags": [
+    "Audio",
+    "Music"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "音乐笔记"
+  ]
+}

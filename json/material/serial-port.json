@@ -1,0 +1,12 @@
+{
+  "id": "5D18BB49-3214-49C0-BD5C-B4581172C650",
+  "name": "serial-port",
+  "codepoint": "F065C",
+  "aliases": [],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.6.50",
+  "zhs": [
+    "串行端口"
+  ]
+}

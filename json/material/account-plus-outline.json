@@ -1,0 +1,26 @@
+{
+  "id": "1095C7C6-C264-4415-BD6D-A2078242477E",
+  "name": "account-plus-outline",
+  "codepoint": "F0801",
+  "aliases": [
+    "person-add-outline",
+    "register-outline",
+    "user-plus-outline",
+    "account-add-outline",
+    "person-plus-outline",
+    "user-add-outline",
+    "invite"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.1.19",
+  "zhs": [
+    "帐户加轮廓",
+    "人员加轮廓",
+    "注册轮廓",
+    "用户加轮廓",
+    "邀请"
+  ]
+}

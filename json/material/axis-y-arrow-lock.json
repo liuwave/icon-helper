@@ -1,0 +1,15 @@
+{
+  "id": "4C02BFA9-8AF8-4FC3-AAC7-F4D4AEF9BE06",
+  "name": "axis-y-arrow-lock",
+  "codepoint": "F0D52",
+  "aliases": [],
+  "tags": [
+    "Lock",
+    "Arrow"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.4.93",
+  "zhs": [
+    "箭头锁定轴"
+  ]
+}

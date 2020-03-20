@@ -1,0 +1,17 @@
+{
+  "id": "624A47B1-947E-45AD-A34F-D5DCC1143C5A",
+  "name": "menu-down",
+  "codepoint": "F035D",
+  "aliases": [
+    "arrow-drop-down"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "菜单向下",
+    "箭头下拉"
+  ]
+}

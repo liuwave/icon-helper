@@ -1,0 +1,18 @@
+{
+  "id": "EEB984B2-6639-452D-AD56-06A8EC862EE4",
+  "name": "map-clock-outline",
+  "codepoint": "F0D1F",
+  "aliases": [
+    "timezone-outline"
+  ],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Augustin Ursu",
+  "version": "3.3.92",
+  "zhs": [
+    "地图轮廓时钟",
+    "时区轮廓"
+  ]
+}

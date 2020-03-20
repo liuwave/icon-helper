@@ -1,0 +1,14 @@
+{
+  "id": "02A1C3B5-91EE-43B9-9BDB-3EF67F540722",
+  "name": "bank-transfer-out",
+  "codepoint": "F0A29",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "SarinManS",
+  "version": "2.6.95",
+  "zhs": [
+    "银行转帐"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "3CE5B420-F103-47EA-800C-A4D145B89508",
+  "name": "chili-mild",
+  "codepoint": "F07B4",
+  "aliases": [
+    "chilli-mild",
+    "pepper",
+    "spicy"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Andy Martinez",
+  "version": "2.0.46",
+  "zhs": [
+    "轻度辣椒",
+    "胡椒粉",
+    "辛辣"
+  ]
+}

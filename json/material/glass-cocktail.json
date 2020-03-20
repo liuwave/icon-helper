@@ -1,0 +1,21 @@
+{
+  "id": "9291BDB1-CE57-4802-8CD2-7AD2ED9D9959",
+  "name": "glass-cocktail",
+  "codepoint": "F0356",
+  "aliases": [
+    "local-bar",
+    "cocktail",
+    "martini"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "玻璃鸡尾酒",
+    "当地酒吧",
+    "鸡尾酒",
+    "马提尼酒"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "9D9A73D2-0780-4141-95A3-CDFE21E6D4D6",
+  "name": "beer",
+  "codepoint": "F0098",
+  "aliases": [
+    "pint",
+    "pub",
+    "bar"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "啤酒",
+    "品脱",
+    "酒吧"
+  ]
+}

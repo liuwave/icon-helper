@@ -1,0 +1,21 @@
+{
+  "id": "F1B6F6EB-6D20-4C27-A631-8FAF759D183A",
+  "name": "string-lights-off",
+  "codepoint": "F12BB",
+  "aliases": [
+    "italian-lights-off",
+    "christmas-lights-off",
+    "fairy-lights-off"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.7.95",
+  "zhs": [
+    "灯串关闭",
+    "意大利灯关闭",
+    "圣诞节灯关闭",
+    "仙女灯关闭"
+  ]
+}

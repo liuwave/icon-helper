@@ -1,0 +1,21 @@
+{
+  "id": "F789F2E4-022E-4A5A-B548-30D21BC3A7F6",
+  "name": "counter",
+  "codepoint": "F0199",
+  "aliases": [
+    "score",
+    "numbers",
+    "odometer"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Christopher Schreiner",
+  "version": "1.5.54",
+  "zhs": [
+    "计数器",
+    "分数",
+    "数字",
+    "里程表"
+  ]
+}

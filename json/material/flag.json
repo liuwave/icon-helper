@@ -1,0 +1,15 @@
+{
+  "id": "55271063-77EF-43FA-917C-657E57135A24",
+  "name": "flag",
+  "codepoint": "F023B",
+  "aliases": [
+    "assistant-photo"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "标记",
+    "助理照片"
+  ]
+}

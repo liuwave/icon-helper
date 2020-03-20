@@ -1,0 +1,27 @@
+{
+  "id": "D8990892-9C02-46AC-9A91-3D4D9A2EFF19",
+  "name": "devices",
+  "codepoint": "F0FB0",
+  "aliases": [
+    "monitor",
+    "watch",
+    "smartwatch",
+    "smartphone",
+    "cellphone",
+    "television"
+  ],
+  "tags": [
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "4.0.96",
+  "zhs": [
+    "设备",
+    "监视器",
+    "手表",
+    "智能手表",
+    "智能手机",
+    "手机",
+    "电视"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "C7BED6AB-8D91-42EC-A22F-D4B922B0EB14",
+  "name": "chart-donut",
+  "codepoint": "F07AF",
+  "aliases": [
+    "chart-doughnut",
+    "data-usage"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Google",
+  "version": "2.0.46",
+  "zhs": [
+    "图表甜甜圈",
+    "甜甜圈图",
+    "数据使用情况"
+  ]
+}

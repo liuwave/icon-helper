@@ -1,0 +1,14 @@
+{
+  "id": "8A29D85F-1BAD-4610-AF2F-B4AF0F0D2755",
+  "name": "led-off",
+  "codepoint": "F032B",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "领导"
+  ]
+}

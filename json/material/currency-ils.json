@@ -1,0 +1,15 @@
+{
+  "id": "A55AD931-CE89-49C0-9F1C-F699C422843C",
+  "name": "currency-ils",
+  "codepoint": "F0C61",
+  "aliases": [],
+  "tags": [
+    "Banking",
+    "Currency"
+  ],
+  "author": "Contributors",
+  "version": "3.2.89",
+  "zhs": [
+    "货币ils"
+  ]
+}

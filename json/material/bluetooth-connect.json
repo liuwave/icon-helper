@@ -1,0 +1,14 @@
+{
+  "id": "1E123F41-EA93-4085-8446-88F50C501A6F",
+  "name": "bluetooth-connect",
+  "codepoint": "F00B1",
+  "aliases": [
+    "bluetooth-connected"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "蓝牙连接"
+  ]
+}

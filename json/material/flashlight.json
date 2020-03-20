@@ -1,0 +1,15 @@
+{
+  "id": "0EC7CDC8-86F4-4C72-AC2E-1DEDB196043F",
+  "name": "flashlight",
+  "codepoint": "F0244",
+  "aliases": [
+    "torch"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "手电",
+    "手电筒"
+  ]
+}

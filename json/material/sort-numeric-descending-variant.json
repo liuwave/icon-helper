@@ -1,0 +1,14 @@
+{
+  "id": "618ED59F-832C-4DA8-A8F6-421CC6A10305",
+  "name": "sort-numeric-descending-variant",
+  "codepoint": "F0AD2",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.7.94",
+  "zhs": [
+    "对数字降序重音进行排序"
+  ]
+}

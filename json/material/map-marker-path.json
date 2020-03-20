@@ -1,0 +1,15 @@
+{
+  "id": "A20F1915-26FB-41BD-A407-B73A90936E76",
+  "name": "map-marker-path",
+  "codepoint": "F0D20",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.3.92",
+  "zhs": [
+    "地图标记路径"
+  ]
+}

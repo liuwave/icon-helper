@@ -1,0 +1,19 @@
+{
+  "id": "3F7FCD03-4E12-4D4D-AB63-C8D51F938284",
+  "name": "text-box-multiple",
+  "codepoint": "F0AB7",
+  "aliases": [
+    "file-document-boxes",
+    "file-document-box-multiple"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.7.94",
+  "zhs": [
+    "文本框多个",
+    "文件文件框",
+    "文件文件框多个"
+  ]
+}

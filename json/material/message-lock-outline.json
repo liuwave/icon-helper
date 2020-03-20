@@ -1,0 +1,14 @@
+{
+  "id": "D7D6AAFB-1292-4EA1-A067-728532693834",
+  "name": "message-lock-outline",
+  "codepoint": "F116D",
+  "aliases": [],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "消息锁概述"
+  ]
+}

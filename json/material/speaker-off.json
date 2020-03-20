@@ -1,0 +1,15 @@
+{
+  "id": "9B55ECCE-270B-4A52-9A96-80BEECAD1E0B",
+  "name": "speaker-off",
+  "codepoint": "F04C4",
+  "aliases": [],
+  "tags": [
+    "Audio",
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "扬声器关闭"
+  ]
+}

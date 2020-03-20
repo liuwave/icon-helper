@@ -1,0 +1,14 @@
+{
+  "id": "8F5AF64B-3A3D-449C-9FCC-374EAF6D523C",
+  "name": "format-float-right",
+  "codepoint": "F026A",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Andreas Gohr",
+  "version": "1.5.54",
+  "zhs": [
+    "格式向右浮动"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "20BCC8DA-F055-46B0-9C27-68791E3BA80E",
+  "name": "format-header-increase",
+  "codepoint": "F0273",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Andreas Gohr",
+  "version": "1.5.54",
+  "zhs": [
+    "格式头增加"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ECDB16AC-832D-446E-974E-9F99657685D0",
+  "name": "zodiac-gemini",
+  "codepoint": "F0A81",
+  "aliases": [
+    "horoscope-gemini"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "黄道带双子座",
+    "星座双子座"
+  ]
+}

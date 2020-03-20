@@ -1,0 +1,18 @@
+{
+  "id": "B8FB8784-2E21-4D35-9DE8-95E8E2A42591",
+  "name": "shield-airplane",
+  "codepoint": "F06BB",
+  "aliases": [
+    "shield-aeroplane",
+    "shield-plane",
+    "plane-shield"
+  ],
+  "tags": [
+    "Transportation + Flying"
+  ],
+  "author": "GreenTurtwig",
+  "version": "1.7.22",
+  "zhs": [
+    "飞机护盾"
+  ]
+}

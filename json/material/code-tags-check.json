@@ -1,0 +1,17 @@
+{
+  "id": "7F098441-8B1D-4FB1-88EC-95726397BA7C",
+  "name": "code-tags-check",
+  "codepoint": "F0694",
+  "aliases": [
+    "code-tags-tick"
+  ],
+  "tags": [
+    "Developer / Languages"
+  ],
+  "author": "Cody",
+  "version": "1.7.12",
+  "zhs": [
+    "代码标签检查",
+    "代码标签打勾"
+  ]
+}

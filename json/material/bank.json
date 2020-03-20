@@ -1,0 +1,20 @@
+{
+  "id": "FE08919F-CFFC-4A25-994C-CEDEB299908B",
+  "name": "bank",
+  "codepoint": "F0070",
+  "aliases": [
+    "account-balance",
+    "museum"
+  ],
+  "tags": [
+    "Banking",
+    "Places"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "银行",
+    "帐户余额",
+    "博物馆"
+  ]
+}

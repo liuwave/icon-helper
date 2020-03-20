@@ -1,0 +1,18 @@
+{
+  "id": "F835E187-444F-43B8-A057-9915F1388A87",
+  "name": "battery-charging-wireless-alert",
+  "codepoint": "F0811",
+  "aliases": [
+    "battery-charging-wireless-warning"
+  ],
+  "tags": [
+    "Battery",
+    "Home Automation",
+    "Alert / Error"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.19",
+  "zhs": [
+    "电池充电无线警报"
+  ]
+}

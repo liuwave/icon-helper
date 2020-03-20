@@ -1,0 +1,17 @@
+{
+  "id": "7696AF65-B943-4BA3-94DB-5E85077F7BA9",
+  "name": "file-multiple",
+  "codepoint": "F0222",
+  "aliases": [
+    "files"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "文件多个",
+    "文件"
+  ]
+}

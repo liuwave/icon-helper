@@ -1,0 +1,14 @@
+{
+  "id": "2A1F0831-13CA-4419-BBD7-1F1FAF62A32B",
+  "name": "pause",
+  "codepoint": "F03E4",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "暂停"
+  ]
+}

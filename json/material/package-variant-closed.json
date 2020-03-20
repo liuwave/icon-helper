@@ -1,0 +1,15 @@
+{
+  "id": "290F16B3-147C-446D-B14B-56AECCA76276",
+  "name": "package-variant-closed",
+  "codepoint": "F03D7",
+  "aliases": [
+    "box-variant-closed"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "封闭包装形式",
+    "封闭包装盒"
+  ]
+}

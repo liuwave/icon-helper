@@ -1,0 +1,19 @@
+{
+  "id": "ABFAD078-0E10-4293-94AD-16871B75E51F",
+  "name": "battery-alert",
+  "codepoint": "F0083",
+  "aliases": [
+    "battery-warning"
+  ],
+  "tags": [
+    "Battery",
+    "Home Automation",
+    "Alert / Error"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电池警报",
+    "电池警告"
+  ]
+}

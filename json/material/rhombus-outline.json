@@ -1,0 +1,17 @@
+{
+  "id": "101A7558-A38E-48E8-93EA-A21F37238E78",
+  "name": "rhombus-outline",
+  "codepoint": "F070C",
+  "aliases": [
+    "diamond-outline"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.8.36",
+  "zhs": [
+    "菱形轮廓",
+    "钻石轮廓"
+  ]
+}

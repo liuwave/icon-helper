@@ -1,0 +1,19 @@
+{
+  "id": "2EF56130-ECE9-4432-B59E-36F646DE1C86",
+  "name": "cogs",
+  "codepoint": "F08D6",
+  "aliases": [
+    "settings",
+    "manufacturing"
+  ],
+  "tags": [
+    "Settings"
+  ],
+  "author": "Google",
+  "version": "2.3.50",
+  "zhs": [
+    "嵌齿轮",
+    "设定",
+    "制造"
+  ]
+}

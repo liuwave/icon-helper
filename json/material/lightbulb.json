@@ -1,0 +1,18 @@
+{
+  "id": "ECC94305-DFA6-4D9B-85C8-CC79F3F05FB5",
+  "name": "lightbulb",
+  "codepoint": "F0335",
+  "aliases": [
+    "idea",
+    "bulb"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "灯泡",
+    "主意"
+  ]
+}

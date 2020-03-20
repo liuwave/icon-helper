@@ -1,0 +1,17 @@
+{
+  "id": "C97B6119-5EB1-4930-AEFA-7E3E216D3875",
+  "name": "phone-cancel",
+  "codepoint": "F10BC",
+  "aliases": [
+    "phone-block"
+  ],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Contributors",
+  "version": "4.2.95",
+  "zhs": [
+    "电话取消",
+    "电话屏蔽"
+  ]
+}

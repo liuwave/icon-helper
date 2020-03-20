@@ -1,0 +1,15 @@
+{
+  "id": "F73EE06A-6898-40A7-9B0E-784A4280C075",
+  "name": "seat-legroom-extra",
+  "codepoint": "F047E",
+  "aliases": [
+    "airline-seat-legroom-extra"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "腿部额外座位",
+    "航空公司腿部额外座位"
+  ]
+}

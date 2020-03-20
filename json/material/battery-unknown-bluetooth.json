@@ -1,0 +1,14 @@
+{
+  "id": "B30963B2-893D-43F8-9EFD-918DCB654B75",
+  "name": "battery-unknown-bluetooth",
+  "codepoint": "F094A",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "电池未知的蓝牙"
+  ]
+}

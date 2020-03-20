@@ -1,0 +1,15 @@
+{
+  "id": "A00D0B3E-D24A-4BC9-915C-7B264B63F2F4",
+  "name": "washing-machine-alert",
+  "codepoint": "F11BC",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.5.95",
+  "zhs": [
+    "洗衣机警报"
+  ]
+}

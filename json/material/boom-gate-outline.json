@@ -1,0 +1,23 @@
+{
+  "id": "EF1F53B3-DA99-4410-9A20-E12C42FC2461",
+  "name": "boom-gate-outline",
+  "codepoint": "F0E8B",
+  "aliases": [
+    "boom-arm-outline",
+    "boom-barrier-outline",
+    "arm-barrier-outline",
+    "barrier-outline",
+    "automatic-gate-outline"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "动臂浇口轮廓",
+    "动臂轮廓",
+    "障碍物障碍轮廓",
+    "自动浇口轮廓"
+  ]
+}

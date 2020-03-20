@@ -1,0 +1,19 @@
+{
+  "id": "3DB7EA89-8F0C-40DA-B45A-E5B588F2CC01",
+  "name": "battery-bluetooth",
+  "codepoint": "F0948",
+  "aliases": [
+    "battery-bluetooth-100",
+    "battery-bluetooth-full"
+  ],
+  "tags": [
+    "Battery"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "电池蓝牙",
+    "电池蓝牙100",
+    "电池蓝牙已满"
+  ]
+}

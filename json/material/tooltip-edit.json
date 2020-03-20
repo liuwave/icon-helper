@@ -1,0 +1,15 @@
+{
+  "id": "C1684CDD-9C71-4A10-B3BA-5B26706B3B28",
+  "name": "tooltip-edit",
+  "codepoint": "F0524",
+  "aliases": [],
+  "tags": [
+    "Tooltip",
+    "Edit / Modify"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.5.54",
+  "zhs": [
+    "编辑工具提示"
+  ]
+}

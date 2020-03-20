@@ -1,0 +1,21 @@
+{
+  "id": "6CCDB34F-9B02-4712-B615-A7E1056B534D",
+  "name": "string-lights",
+  "codepoint": "F12BA",
+  "aliases": [
+    "italian-lights",
+    "christmas-lights",
+    "fairy-lights"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.7.95",
+  "zhs": [
+    "串灯",
+    "意大利灯",
+    "圣诞灯",
+    "仙女灯"
+  ]
+}

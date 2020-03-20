@@ -1,0 +1,14 @@
+{
+  "id": "C4EE3559-8772-4A8D-A549-A1A11DEEC830",
+  "name": "harddisk-plus",
+  "codepoint": "F104B",
+  "aliases": [
+    "hdd-plus"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "硬盘加"
+  ]
+}

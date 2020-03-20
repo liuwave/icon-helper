@@ -1,0 +1,17 @@
+{
+  "id": "BFFA61BF-959B-4E15-BE31-4D9AFB5E3FDF",
+  "name": "radiator",
+  "codepoint": "F0438",
+  "aliases": [
+    "heater"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "暖气片",
+    "加热器"
+  ]
+}

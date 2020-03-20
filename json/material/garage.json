@@ -1,0 +1,14 @@
+{
+  "id": "FC744BA5-2E98-459F-BBD6-60788B23D93E",
+  "name": "garage",
+  "codepoint": "F06D9",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Alex Efremo",
+  "version": "1.8.36",
+  "zhs": [
+    "车库"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "B6469241-E347-42D8-BF71-8DF29F1CA897",
+  "name": "baguette",
+  "codepoint": "F0F3E",
+  "aliases": [
+    "bread",
+    "bakery",
+    "french-baguette",
+    "loaf"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Nick",
+  "version": "3.9.97",
+  "zhs": [
+    "法式面包",
+    "面包",
+    "面包店"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "4CE94553-ECA2-4C72-B66B-EEE5106F1438",
+  "name": "sprinkler-variant",
+  "codepoint": "F1060",
+  "aliases": [
+    "irrigation"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.1.95",
+  "zhs": [
+    "洒水口",
+    "灌溉"
+  ]
+}

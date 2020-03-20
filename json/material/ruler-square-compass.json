@@ -1,0 +1,20 @@
+{
+  "id": "2E24CF4F-2EC9-46C2-ABB9-341869D562EE",
+  "name": "ruler-square-compass",
+  "codepoint": "F0EBE",
+  "aliases": [
+    "mason",
+    "masonic",
+    "freemasonry"
+  ],
+  "tags": [
+    "Hardware / Tools"
+  ],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "标尺方形指南针",
+    "梅森",
+    "共济会"
+  ]
+}

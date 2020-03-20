@@ -1,0 +1,19 @@
+{
+  "id": "51C82800-F946-45C3-A88B-B5D52BD6B80B",
+  "name": "radius-outline",
+  "codepoint": "F0CC1",
+  "aliases": [
+    "circle-radius-outline",
+    "sphere-radius-outline"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "半径轮廓",
+    "圆半径轮廓",
+    "球体半径轮廓"
+  ]
+}

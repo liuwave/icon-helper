@@ -1,0 +1,14 @@
+{
+  "id": "F73FF165-CE6C-4E27-B492-93F3B82C70EE",
+  "name": "microsoft-xbox-controller-off",
+  "codepoint": "F05BB",
+  "aliases": [],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "关闭了Microsoft xbox控制器"
+  ]
+}

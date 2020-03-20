@@ -1,0 +1,12 @@
+{
+  "id": "F0726D57-782C-44E8-A404-336480FC9E7B",
+  "name": "cube-send",
+  "codepoint": "F01A8",
+  "aliases": [],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "多维数据集发送"
+  ]
+}

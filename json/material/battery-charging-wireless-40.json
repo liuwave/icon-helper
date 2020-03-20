@@ -1,0 +1,15 @@
+{
+  "id": "1ABBC4EA-32D6-4FBA-AA00-E19707123AE5",
+  "name": "battery-charging-wireless-40",
+  "codepoint": "F080B",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.19",
+  "zhs": [
+    "无线充电电池40"
+  ]
+}

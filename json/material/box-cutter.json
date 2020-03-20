@@ -1,0 +1,15 @@
+{
+  "id": "A4C51C21-DEB0-4247-AEA3-B5F454641BDC",
+  "name": "box-cutter",
+  "codepoint": "F00D5",
+  "aliases": [
+    "stanley-knife"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "箱刀",
+    "史丹利刀"
+  ]
+}

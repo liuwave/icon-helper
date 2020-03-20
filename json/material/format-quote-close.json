@@ -1,0 +1,14 @@
+{
+  "id": "0450C081-EE6B-4CB1-A7F7-B6F0F524CA99",
+  "name": "format-quote-close",
+  "codepoint": "F027E",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "格式报价关闭"
+  ]
+}

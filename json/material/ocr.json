@@ -1,0 +1,14 @@
+{
+  "id": "2943D362-A548-448C-A868-19E6D37C8B2D",
+  "name": "ocr",
+  "codepoint": "F113A",
+  "aliases": [
+    "optical-character-recognition"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "4.4.95",
+  "zhs": [
+    "光学字符识别"
+  ]
+}

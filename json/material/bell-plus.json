@@ -1,0 +1,19 @@
+{
+  "id": "FC07FF46-2FD1-4E4E-8D35-BADDEEB5F531",
+  "name": "bell-plus",
+  "codepoint": "F009D",
+  "aliases": [
+    "add-alert",
+    "bell-add"
+  ],
+  "tags": [
+    "Notification"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "铃声加上",
+    "添加提醒",
+    "铃声添加"
+  ]
+}

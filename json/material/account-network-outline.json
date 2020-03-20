@@ -1,0 +1,19 @@
+{
+  "id": "2EEA7799-E0DA-4E9B-880E-B5975A6FC11F",
+  "name": "account-network-outline",
+  "codepoint": "F0BE6",
+  "aliases": [
+    "user-network-outline",
+    "person-network-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "帐户网络轮廓",
+    "用户网络轮廓",
+    "人员网络轮廓"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "50E531C4-A82A-4F0C-A8BB-A2208B546E81",
+  "name": "wifi-strength-alert-outline",
+  "codepoint": "F092B",
+  "aliases": [
+    "wifi-strength-warning-outline",
+    "wifi-strength-0-alert",
+    "wifi-strength-0-warning"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "wifi强度警报轮廓",
+    "wifi强度警告轮廓",
+    "wifi强度0警报",
+    "wifi强度0警告"
+  ]
+}

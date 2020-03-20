@@ -1,0 +1,17 @@
+{
+  "id": "F2AA59FA-23F6-4FE8-A52A-AEC674A9E864",
+  "name": "eye-outline",
+  "codepoint": "F06D0",
+  "aliases": [
+    "show-outline",
+    "visibility-outline"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.8.36",
+  "zhs": [
+    "眼睛轮廓",
+    "显示轮廓",
+    "可见性轮廓"
+  ]
+}

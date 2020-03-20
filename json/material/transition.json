@@ -1,0 +1,19 @@
+{
+  "id": "2650CA0F-8423-4DE2-A821-9D7D1E5547C0",
+  "name": "transition",
+  "codepoint": "F0915",
+  "aliases": [
+    "animation",
+    "motion",
+    "translate"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "2.3.50",
+  "zhs": [
+    "过渡",
+    "动画",
+    "运动",
+    "翻译"
+  ]
+}

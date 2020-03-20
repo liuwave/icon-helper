@@ -1,0 +1,17 @@
+{
+  "id": "64EFBA89-F8CB-4193-8656-A83CCBC66A76",
+  "name": "timer-sand",
+  "codepoint": "F051F",
+  "aliases": [
+    "hourglass"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "沙漏计时器",
+    "沙漏"
+  ]
+}

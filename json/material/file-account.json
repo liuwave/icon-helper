@@ -1,0 +1,20 @@
+{
+  "id": "94A8A0E0-B69E-4099-A32E-34B83449AFBC",
+  "name": "file-account",
+  "codepoint": "F073B",
+  "aliases": [
+    "file-user",
+    "resume"
+  ],
+  "tags": [
+    "Account / User",
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "文件帐户",
+    "用户文件",
+    "简历"
+  ]
+}

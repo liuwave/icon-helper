@@ -1,0 +1,16 @@
+{
+  "id": "CBAD69A4-A6FF-4A8A-AA85-B5962910106E",
+  "name": "comment-alert-outline",
+  "codepoint": "F017E",
+  "aliases": [
+    "comment-warning-outline"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "评论警告轮廓"
+  ]
+}

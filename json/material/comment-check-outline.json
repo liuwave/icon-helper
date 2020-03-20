@@ -1,0 +1,15 @@
+{
+  "id": "D9BBEE92-5775-4364-8ECD-89C0872BE79F",
+  "name": "comment-check-outline",
+  "codepoint": "F0180",
+  "aliases": [
+    "comment-tick-outline"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "评论检查轮廓",
+    "评论刻度线"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "F3E26F6E-9F9A-490B-A28A-1BD32A60D143",
+  "name": "playlist-check",
+  "codepoint": "F05C7",
+  "aliases": [
+    "subscriptions",
+    "playlist-add-check",
+    "playlist-tick"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "播放列表检查",
+    "订阅",
+    "播放列表添加检查",
+    "播放列表刻度"
+  ]
+}

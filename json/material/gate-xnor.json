@@ -1,0 +1,15 @@
+{
+  "id": "DA573FDA-7BEE-4B80-90BA-AA04932B43C6",
+  "name": "gate-xnor",
+  "codepoint": "F08E6",
+  "aliases": [
+    "logic-gate-xnor"
+  ],
+  "tags": [],
+  "author": "Nick",
+  "version": "2.3.50",
+  "zhs": [
+    "门xnor",
+    "逻辑门xnor"
+  ]
+}

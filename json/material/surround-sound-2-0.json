@@ -1,0 +1,17 @@
+{
+  "id": "13009B66-7459-4C86-8EB0-3CAED977BB98",
+  "name": "surround-sound-2-0",
+  "codepoint": "F07F0",
+  "aliases": [
+    "stereo"
+  ],
+  "tags": [
+    "Audio"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.0.46",
+  "zhs": [
+    "环绕声2 0",
+    "立体声"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "9E1AC9CA-0FA4-44C6-BA5D-2EB3CED4899D",
+  "name": "weather-fog",
+  "codepoint": "F0591",
+  "aliases": [
+    "weather-mist"
+  ],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "天气雾"
+  ]
+}

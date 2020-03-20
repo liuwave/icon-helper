@@ -1,0 +1,17 @@
+{
+  "id": "81317A61-047B-47D4-A154-CEA3C6B9F61C",
+  "name": "engine-off-outline",
+  "codepoint": "F0A47",
+  "aliases": [
+    "motor-off-outline"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.6.95",
+  "zhs": [
+    "发动机关闭轮廓",
+    "电动机关闭轮廓"
+  ]
+}

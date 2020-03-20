@@ -1,0 +1,17 @@
+{
+  "id": "B599787B-9A9F-45C1-AD76-45FB4B00EFFC",
+  "name": "text-box-remove",
+  "codepoint": "F0EAC",
+  "aliases": [
+    "file-document-box-remove"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.7.94",
+  "zhs": [
+    "删除文本框",
+    "删除文件文档框"
+  ]
+}

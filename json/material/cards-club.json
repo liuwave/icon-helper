@@ -1,0 +1,17 @@
+{
+  "id": "FD5114FD-37CB-4346-BC73-58E1EED49CF3",
+  "name": "cards-club",
+  "codepoint": "F08CE",
+  "aliases": [
+    "suit-clubs"
+  ],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "Nick",
+  "version": "2.3.50",
+  "zhs": [
+    "卡牌俱乐部",
+    "西服俱乐部"
+  ]
+}

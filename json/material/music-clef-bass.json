@@ -1,0 +1,17 @@
+{
+  "id": "279EAB4C-7D62-4C41-A67F-2928723476DA",
+  "name": "music-clef-bass",
+  "codepoint": "F0F6F",
+  "aliases": [
+    "music-f-clef"
+  ],
+  "tags": [
+    "Music"
+  ],
+  "author": "Haley Halcyon",
+  "version": "3.9.97",
+  "zhs": [
+    "音乐谱号低音",
+    "音乐谱号"
+  ]
+}

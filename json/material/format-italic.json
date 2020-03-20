@@ -1,0 +1,14 @@
+{
+  "id": "F766C5E3-1BBB-4ADE-9D33-170A223DB6F9",
+  "name": "format-italic",
+  "codepoint": "F0277",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "斜体格式"
+  ]
+}

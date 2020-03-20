@@ -1,0 +1,17 @@
+{
+  "id": "ED5D1835-D69E-458A-9CCE-F1B81EB831D2",
+  "name": "music-note-plus",
+  "codepoint": "F0DDE",
+  "aliases": [
+    "music-note-add"
+  ],
+  "tags": [
+    "Audio",
+    "Music"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.5.94",
+  "zhs": [
+    "加上音符"
+  ]
+}

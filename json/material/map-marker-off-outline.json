@@ -1,0 +1,15 @@
+{
+  "id": "48218DC3-F2A6-4C4B-9B5E-0648815B8864",
+  "name": "map-marker-off-outline",
+  "codepoint": "F12FD",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "地图标记偏离轮廓"
+  ]
+}

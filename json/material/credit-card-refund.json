@@ -1,0 +1,14 @@
+{
+  "id": "90A38F47-9EFD-4468-A1B9-E31A6781F69D",
+  "name": "credit-card-refund",
+  "codepoint": "F0FF3",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "信用卡退款"
+  ]
+}

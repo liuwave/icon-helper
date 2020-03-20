@@ -1,0 +1,19 @@
+{
+  "id": "2B76647F-92FE-4F8E-B193-7EC20DADD5D2",
+  "name": "needle",
+  "codepoint": "F0391",
+  "aliases": [
+    "syringe",
+    "injection"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "针头",
+    "注射器",
+    "注射"
+  ]
+}

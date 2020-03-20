@@ -1,0 +1,19 @@
+{
+  "id": "2CEA6B7B-E7C9-4D52-9D9D-286E50001B70",
+  "name": "minus",
+  "codepoint": "F0374",
+  "aliases": [
+    "remove",
+    "horizontal-line"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "减去",
+    "移除",
+    "水平线"
+  ]
+}

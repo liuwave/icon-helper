@@ -1,0 +1,20 @@
+{
+  "id": "E617E8BD-2C63-4E59-B1F4-EB3F9F3916D3",
+  "name": "pizza",
+  "codepoint": "F0409",
+  "aliases": [
+    "pizzeria",
+    "local-pizza"
+  ],
+  "tags": [
+    "Food / Drink",
+    "Places"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "披萨",
+    "比萨饼店",
+    "当地披萨"
+  ]
+}

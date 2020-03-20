@@ -1,0 +1,17 @@
+{
+  "id": "D5993895-5ECF-4B4A-8C84-7E3D9C1F6ADB",
+  "name": "tractor",
+  "codepoint": "F0892",
+  "aliases": [
+    "farm"
+  ],
+  "tags": [
+    "Agriculture",
+    "Transportation + Road"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.1.99",
+  "zhs": [
+    "农用拖拉机"
+  ]
+}

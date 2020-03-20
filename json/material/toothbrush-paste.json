@@ -1,0 +1,19 @@
+{
+  "id": "E06A1B1A-ACE7-43AD-BC75-5C3191D0AB1D",
+  "name": "toothbrush-paste",
+  "codepoint": "F112A",
+  "aliases": [
+    "dentist",
+    "oral-hygiene"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Cody",
+  "version": "4.3.95",
+  "zhs": [
+    "牙刷膏",
+    "牙医",
+    "口腔卫生"
+  ]
+}

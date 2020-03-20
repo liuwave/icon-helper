@@ -1,0 +1,15 @@
+{
+  "id": "7534EBC5-1A5B-4837-8C13-88CFA5FB4D49",
+  "name": "eye-check",
+  "codepoint": "F0D04",
+  "aliases": [
+    "eye-tick"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "3.3.92",
+  "zhs": [
+    "眼部检查",
+    "眼剔"
+  ]
+}

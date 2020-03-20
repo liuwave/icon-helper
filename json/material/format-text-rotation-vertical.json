@@ -1,0 +1,14 @@
+{
+  "id": "A8232518-D348-46AF-953C-907F7F0F3D51",
+  "name": "format-text-rotation-vertical",
+  "codepoint": "F0FBF",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "4.0.96",
+  "zhs": [
+    "垂直旋转文本格式"
+  ]
+}

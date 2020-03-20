@@ -1,0 +1,20 @@
+{
+  "id": "15C54239-5327-4962-95CD-721512C6B27F",
+  "name": "account-heart",
+  "codepoint": "F0899",
+  "aliases": [
+    "user-heart",
+    "person-heart"
+  ],
+  "tags": [
+    "Account / User",
+    "Medical / Hospital"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.2.43",
+  "zhs": [
+    "帐户心",
+    "用户心",
+    "人心"
+  ]
+}

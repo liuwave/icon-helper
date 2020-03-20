@@ -1,0 +1,19 @@
+{
+  "id": "9B5EC357-642F-4790-BD58-E45A217DD9B9",
+  "name": "target-account",
+  "codepoint": "F0BD0",
+  "aliases": [
+    "crosshairs-account",
+    "target-user"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.0.39",
+  "zhs": [
+    "目标帐户",
+    "十字准线帐户",
+    "目标用户"
+  ]
+}

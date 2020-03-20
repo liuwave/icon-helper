@@ -1,0 +1,14 @@
+{
+  "id": "417BCDA5-DCA7-4EFF-B2BF-670E9DD10961",
+  "name": "fridge-off",
+  "codepoint": "F11AF",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.5.95",
+  "zhs": [
+    "关闭冰箱"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "08C8BAF9-6B91-458D-BE03-F6A7AABEA2AB",
+  "name": "book-open-variant",
+  "codepoint": "F00BE",
+  "aliases": [
+    "import-contacts"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "书籍打开变式",
+    "导入联系人"
+  ]
+}

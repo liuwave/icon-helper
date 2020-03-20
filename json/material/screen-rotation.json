@@ -1,0 +1,12 @@
+{
+  "id": "913EA106-BCB3-410B-A5F4-6FAAA1B79880",
+  "name": "screen-rotation",
+  "codepoint": "F0475",
+  "aliases": [],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "屏幕旋转"
+  ]
+}

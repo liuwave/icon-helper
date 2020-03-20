@@ -1,0 +1,17 @@
+{
+  "id": "4B916C98-B981-4822-90D2-3EADCAE01FA3",
+  "name": "alpha-q-box",
+  "codepoint": "F0B18",
+  "aliases": [
+    "alphabet-q-box",
+    "letter-q-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "字母q框"
+  ]
+}

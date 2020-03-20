@@ -1,0 +1,19 @@
+{
+  "id": "FF92F5A9-DE89-4E7D-BCAB-98920EA96FFE",
+  "name": "sony-playstation",
+  "codepoint": "F0414",
+  "aliases": [
+    "sony-playstation",
+    "playstation-network"
+  ],
+  "tags": [
+    "Brand / Logo",
+    "Gaming / RPG"
+  ],
+  "author": "Contributors",
+  "version": "1.5.54",
+  "zhs": [
+    "索尼playstation",
+    "playstation网络"
+  ]
+}

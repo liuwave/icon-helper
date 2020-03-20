@@ -1,0 +1,21 @@
+{
+  "id": "20A9F2BB-C53E-410E-A433-4CEE2305AD49",
+  "name": "smoking",
+  "codepoint": "F04B4",
+  "aliases": [
+    "cigarette",
+    "smoking-area",
+    "smoking-rooms"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "吸烟",
+    "香烟",
+    "吸烟区",
+    "吸烟室"
+  ]
+}

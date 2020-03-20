@@ -1,0 +1,14 @@
+{
+  "id": "A39D910A-D5C9-4A9D-86CF-F61A60486758",
+  "name": "pipe-leak",
+  "codepoint": "F0889",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.1.99",
+  "zhs": [
+    "管道泄漏"
+  ]
+}

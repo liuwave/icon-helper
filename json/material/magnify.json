@@ -1,0 +1,17 @@
+{
+  "id": "C2889545-7F08-4AE1-9142-ECF9B79957E1",
+  "name": "magnify",
+  "codepoint": "F0349",
+  "aliases": [
+    "search"
+  ],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "放大",
+    "搜索"
+  ]
+}

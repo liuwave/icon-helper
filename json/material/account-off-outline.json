@@ -1,0 +1,19 @@
+{
+  "id": "231E3EA7-A7EC-41A0-A594-032040488448",
+  "name": "account-off-outline",
+  "codepoint": "F0BE7",
+  "aliases": [
+    "user-off-outline",
+    "person-off-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.2.89",
+  "zhs": [
+    "帐户不符合轮廓",
+    "用户不符合轮廓",
+    "人员不符合轮廓"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "B2DEB97A-B08E-4E10-8E24-A4AF2CF98C74",
+  "name": "cards-spade",
+  "codepoint": "F08D1",
+  "aliases": [
+    "suit-spades"
+  ],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "Nick",
+  "version": "2.3.50",
+  "zhs": [
+    "卡锹",
+    "西装锹"
+  ]
+}

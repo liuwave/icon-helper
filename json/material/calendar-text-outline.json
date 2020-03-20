@@ -1,0 +1,19 @@
+{
+  "id": "F49AE0DB-5AAF-4574-BF4C-121E99A95BEF",
+  "name": "calendar-text-outline",
+  "codepoint": "F0C46",
+  "aliases": [
+    "event-text-outline",
+    "event-note-outline"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "日历文本轮廓",
+    "事件文本轮廓",
+    "事件注释轮廓"
+  ]
+}

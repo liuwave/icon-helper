@@ -1,0 +1,15 @@
+{
+  "id": "93E3355E-36F9-4B26-A337-C5F794D98941",
+  "name": "sign-direction",
+  "codepoint": "F0781",
+  "aliases": [
+    "milestone"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "标志方向",
+    "里程碑"
+  ]
+}

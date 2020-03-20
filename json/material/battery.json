@@ -1,0 +1,23 @@
+{
+  "id": "C12D919F-7D0D-4355-8109-912BA37154B5",
+  "name": "battery",
+  "codepoint": "F0079",
+  "aliases": [
+    "battery-full",
+    "battery-std",
+    "battery-100"
+  ],
+  "tags": [
+    "Battery",
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电池",
+    "电池已充满",
+    "电池标准",
+    "电池100"
+  ]
+}

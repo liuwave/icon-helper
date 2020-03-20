@@ -1,0 +1,17 @@
+{
+  "id": "2A0F7B5D-5D23-4E76-B97D-9D2281D3C4EA",
+  "name": "pulse",
+  "codepoint": "F0430",
+  "aliases": [
+    "vitals"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "脉搏",
+    "生命"
+  ]
+}

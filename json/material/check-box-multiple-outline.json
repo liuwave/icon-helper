@@ -1,0 +1,17 @@
+{
+  "id": "E0A0FF12-A5AD-40E3-B286-8958154F0537",
+  "name": "check-box-multiple-outline",
+  "codepoint": "F0C51",
+  "aliases": [
+    "check-boxes-outline",
+    "tick-box-multiple-outline"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "复选框多个轮廓",
+    "复选框轮廓",
+    "勾选框多个轮廓"
+  ]
+}

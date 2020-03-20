@@ -1,0 +1,14 @@
+{
+  "id": "1D1E80DE-A3A0-4487-9A94-7C9C3F5E0A59",
+  "name": "car-turbocharger",
+  "codepoint": "F101A",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.1.95",
+  "zhs": [
+    "涡轮增压器车"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "571CF297-7E85-4808-A76A-72952F1A4976",
+  "name": "calendar-arrow-right",
+  "codepoint": "F1135",
+  "aliases": [
+    "reschedule"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Terren",
+  "version": "4.4.95",
+  "zhs": [
+    "日历右箭头",
+    "重新安排"
+  ]
+}

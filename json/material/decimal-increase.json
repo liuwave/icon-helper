@@ -1,0 +1,14 @@
+{
+  "id": "E99CB4D3-330D-493C-9C6B-FD43B27522FD",
+  "name": "decimal-increase",
+  "codepoint": "F01B5",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "十进制增加"
+  ]
+}

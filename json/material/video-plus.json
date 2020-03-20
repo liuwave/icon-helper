@@ -1,0 +1,19 @@
+{
+  "id": "7C399890-F840-44F0-834E-409C1D9F1337",
+  "name": "video-plus",
+  "codepoint": "F09B3",
+  "aliases": [
+    "video-call",
+    "video-add"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "视频加",
+    "视频通话",
+    "视频添加"
+  ]
+}

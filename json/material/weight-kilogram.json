@@ -1,0 +1,14 @@
+{
+  "id": "5EDFF36D-4C8E-4B8D-BE3F-76C27DB804DF",
+  "name": "weight-kilogram",
+  "codepoint": "F05A2",
+  "aliases": [
+    "weight-kg"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "重量千克"
+  ]
+}

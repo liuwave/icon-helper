@@ -1,0 +1,21 @@
+{
+  "id": "CA264BA4-62A9-4823-A172-22DD413A6CF5",
+  "name": "domain",
+  "codepoint": "F01D7",
+  "aliases": [
+    "building",
+    "company",
+    "business"
+  ],
+  "tags": [
+    "Places"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "域",
+    "建筑物",
+    "公司",
+    "业务"
+  ]
+}

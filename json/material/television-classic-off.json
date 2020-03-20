@@ -1,0 +1,17 @@
+{
+  "id": "C8E89001-2566-4676-B12B-7AAFAFCA0276",
+  "name": "television-classic-off",
+  "codepoint": "F083A",
+  "aliases": [
+    "tv-classic-off"
+  ],
+  "tags": [
+    "Device / Tech",
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.1.19",
+  "zhs": [
+    "电视经典关闭"
+  ]
+}

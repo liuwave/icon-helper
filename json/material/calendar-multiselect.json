@@ -1,0 +1,14 @@
+{
+  "id": "EFABC8FA-93A2-43FB-A9C3-B03F1324B2E2",
+  "name": "calendar-multiselect",
+  "codepoint": "F0A32",
+  "aliases": [],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.6.95",
+  "zhs": [
+    "多选日历"
+  ]
+}

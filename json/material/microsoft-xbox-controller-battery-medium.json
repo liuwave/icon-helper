@@ -1,0 +1,15 @@
+{
+  "id": "2B434E26-4ECE-4654-BBDC-4FE13CCCEE3E",
+  "name": "microsoft-xbox-controller-battery-medium",
+  "codepoint": "F074F",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Gaming / RPG"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "Microsoft xbox控制器电池介质"
+  ]
+}

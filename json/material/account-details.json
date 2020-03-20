@@ -1,0 +1,20 @@
+{
+  "id": "3696B7DF-3E12-44EF-B27F-E171AEB5241F",
+  "name": "account-details",
+  "codepoint": "F0631",
+  "aliases": [
+    "user-details",
+    "person-details"
+  ],
+  "tags": [
+    "Account / User",
+    "Settings"
+  ],
+  "author": "Google",
+  "version": "1.6.50",
+  "zhs": [
+    "帐户详细信息",
+    "用户详细信息",
+    "个人详细信息"
+  ]
+}

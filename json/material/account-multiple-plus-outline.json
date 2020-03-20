@@ -1,0 +1,39 @@
+{
+  "id": "AFF0AB6B-616A-4C18-8E28-EE8067224EED",
+  "name": "account-multiple-plus-outline",
+  "codepoint": "F0800",
+  "aliases": [
+    "group-add-outline",
+    "user-multiple-plus-outline",
+    "accounts-plus-outline",
+    "users-plus-outline",
+    "person-multiple-plus-outline",
+    "people-plus-outline",
+    "person-multiple-add-outline",
+    "people-add-outline",
+    "account-multiple-add-outline",
+    "accounts-add-outline",
+    "user-multiple-add-outline",
+    "users-add-outline",
+    "invite"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "多个帐户加轮廓",
+    "组添加轮廓",
+    "多个用户轮廓",
+    "用户加轮廓",
+    "人员加轮廓",
+    "多个添加轮廓",
+    "人员添加轮廓",
+    "多个帐户添加轮廓",
+    "帐户添加轮廓",
+    "用户多个添加轮廓",
+    "用户添加轮廓",
+    "邀请"
+  ]
+}

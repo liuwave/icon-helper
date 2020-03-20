@@ -1,0 +1,17 @@
+{
+  "id": "D88D00BE-0B70-40F5-AFD0-51C65DE8D674",
+  "name": "eye-off-outline",
+  "codepoint": "F06D1",
+  "aliases": [
+    "hide-outline",
+    "visibility-off-outline"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.8.36",
+  "zhs": [
+    "视线不显示轮廓",
+    "隐藏视线",
+    "可视性不视轮廓"
+  ]
+}

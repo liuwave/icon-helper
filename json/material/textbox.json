@@ -1,0 +1,17 @@
+{
+  "id": "BB7E18FD-F473-4A80-B6A9-A17D3648E0A4",
+  "name": "textbox",
+  "codepoint": "F060E",
+  "aliases": [
+    "rename"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文本框",
+    "重命名"
+  ]
+}

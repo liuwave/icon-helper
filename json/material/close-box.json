@@ -1,0 +1,17 @@
+{
+  "id": "0823D18B-529A-4B7E-8090-A913399A3D5E",
+  "name": "close-box",
+  "codepoint": "F0157",
+  "aliases": [
+    "multiply-box"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Gabriel",
+  "version": "1.5.54",
+  "zhs": [
+    "关闭框",
+    "乘法框"
+  ]
+}

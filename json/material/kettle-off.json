@@ -1,0 +1,19 @@
+{
+  "id": "A28C7FA8-2D3A-482A-ADC8-46391CF201E1",
+  "name": "kettle-off",
+  "codepoint": "F131B",
+  "aliases": [
+    "tea-kettle-off",
+    "tea-kettle-full-off",
+    "kettle-full-off"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "关闭水壶",
+    "关闭茶壶"
+  ]
+}

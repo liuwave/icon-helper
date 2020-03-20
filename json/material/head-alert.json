@@ -1,0 +1,14 @@
+{
+  "id": "783B2BB8-1ECA-4E19-8F45-9FCC8D749F99",
+  "name": "head-alert",
+  "codepoint": "F1338",
+  "aliases": [],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.9.95",
+  "zhs": [
+    "头部警报"
+  ]
+}

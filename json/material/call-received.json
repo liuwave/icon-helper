@@ -1,0 +1,15 @@
+{
+  "id": "008CD0E5-C47B-44FB-AF43-A1221C527056",
+  "name": "call-received",
+  "codepoint": "F00FA",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone",
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "已接电话"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "AB8EAA72-9A34-4F87-937A-9A8FDEFA1FEF",
+  "name": "currency-inr",
+  "codepoint": "F01AF",
+  "aliases": [
+    "rupee"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "货币inr",
+    "卢比"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "CB400FB2-95E5-4420-B579-80DCA5C0F8B0",
+  "name": "clock-alert-outline",
+  "codepoint": "F05CE",
+  "aliases": [
+    "clock-warning"
+  ],
+  "tags": [
+    "Date / Time",
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "时钟警报轮廓",
+    "时钟警告"
+  ]
+}

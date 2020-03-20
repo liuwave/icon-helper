@@ -1,0 +1,14 @@
+{
+  "id": "445CF970-F03C-4DDC-A326-F77DA919CB39",
+  "name": "contactless-payment-circle",
+  "codepoint": "F0321",
+  "aliases": [],
+  "tags": [
+    "Currency"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "非接触式支付圈"
+  ]
+}

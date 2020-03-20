@@ -1,0 +1,14 @@
+{
+  "id": "E10E0982-353D-484A-886B-30D343261422",
+  "name": "folder-download",
+  "codepoint": "F024D",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文件夹下载"
+  ]
+}

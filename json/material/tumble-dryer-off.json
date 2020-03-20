@@ -1,0 +1,14 @@
+{
+  "id": "E9DC2320-5FD4-403B-8445-9EB68B4468B6",
+  "name": "tumble-dryer-off",
+  "codepoint": "F11BB",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.5.95",
+  "zhs": [
+    "烘干机关闭"
+  ]
+}

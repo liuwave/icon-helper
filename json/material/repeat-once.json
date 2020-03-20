@@ -1,0 +1,14 @@
+{
+  "id": "D27E266C-5F69-4E4F-9DE3-65A47B5208F5",
+  "name": "repeat-once",
+  "codepoint": "F0458",
+  "aliases": [
+    "repeat-one"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "重复一次"
+  ]
+}

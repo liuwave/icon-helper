@@ -1,0 +1,14 @@
+{
+  "id": "BDCCD15F-231E-4449-AADF-E2D21286396A",
+  "name": "pen-lock",
+  "codepoint": "F0DE2",
+  "aliases": [],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "笔锁"
+  ]
+}

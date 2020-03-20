@@ -1,0 +1,14 @@
+{
+  "id": "DF9D47EE-157B-4E1E-85CE-A043E5F2AE51",
+  "name": "temperature-kelvin",
+  "codepoint": "F0506",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "温度开尔文"
+  ]
+}

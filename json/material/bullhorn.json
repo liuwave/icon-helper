@@ -1,0 +1,16 @@
+{
+  "id": "A5D2E199-03A1-4C23-9C63-954D63DEBEB4",
+  "name": "bullhorn",
+  "codepoint": "F00E6",
+  "aliases": [
+    "announcement",
+    "megaphone"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "扩音器",
+    "公告"
+  ]
+}

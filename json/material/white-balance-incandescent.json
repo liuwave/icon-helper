@@ -1,0 +1,17 @@
+{
+  "id": "4464050A-1A97-46CF-BBA5-CE52D600CB45",
+  "name": "white-balance-incandescent",
+  "codepoint": "F05A6",
+  "aliases": [
+    "wb-incandescent"
+  ],
+  "tags": [
+    "Photography"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "白平衡白炽灯",
+    "wb白炽灯"
+  ]
+}

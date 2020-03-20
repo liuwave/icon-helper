@@ -1,0 +1,16 @@
+{
+  "id": "C32E4FC9-F3DC-4C67-81FB-62648E3F1AB5",
+  "name": "thumb-up",
+  "codepoint": "F0513",
+  "aliases": [
+    "like",
+    "thumbs-up"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "大拇指",
+    "喜欢"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "316468B3-C3F6-4A7B-B7B2-061E5C35FFE9",
+  "name": "debug-step-into",
+  "codepoint": "F01B9",
+  "aliases": [],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "调试进入"
+  ]
+}

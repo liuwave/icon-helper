@@ -1,0 +1,17 @@
+{
+  "id": "AA11AD00-4A6D-4D7F-911C-137CDDCF34B6",
+  "name": "signal-cellular-outline",
+  "codepoint": "F08BF",
+  "aliases": [
+    "signal-cellular-0"
+  ],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Michael Richins",
+  "version": "2.2.43",
+  "zhs": [
+    "蜂窝信号轮廓",
+    "蜂窝信号0"
+  ]
+}

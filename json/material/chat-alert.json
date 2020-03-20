@@ -1,0 +1,17 @@
+{
+  "id": "7E35E8CF-E958-43D7-9B28-072E3161618A",
+  "name": "chat-alert",
+  "codepoint": "F0B7A",
+  "aliases": [
+    "chat-warning"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.0.39",
+  "zhs": [
+    "聊天提醒",
+    "聊天警告"
+  ]
+}

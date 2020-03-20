@@ -1,0 +1,20 @@
+{
+  "id": "0A078909-90AF-41F5-8E76-CAB565D49AAA",
+  "name": "youtube",
+  "codepoint": "F05C3",
+  "aliases": [
+    "video-youtube",
+    "youtube-play"
+  ],
+  "tags": [
+    "Brand / Logo",
+    "Social Media"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "youtube",
+    "youtube视频",
+    "youtube播放"
+  ]
+}

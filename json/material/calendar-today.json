@@ -1,0 +1,17 @@
+{
+  "id": "A566BA98-D35A-443F-AD31-0D31EF0B85EC",
+  "name": "calendar-today",
+  "codepoint": "F00F6",
+  "aliases": [
+    "calendar-day"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "今天的日历",
+    "日历的日子"
+  ]
+}

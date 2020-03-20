@@ -1,0 +1,16 @@
+{
+  "id": "C24D4262-700B-46E1-82C1-01449C16205E",
+  "name": "soccer-field",
+  "codepoint": "F0834",
+  "aliases": [
+    "football-pitch"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.1.19",
+  "zhs": [
+    "足球场"
+  ]
+}

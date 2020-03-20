@@ -1,0 +1,17 @@
+{
+  "id": "D881AFBC-7477-46C2-9269-324676F19E51",
+  "name": "gesture-tap",
+  "codepoint": "F0741",
+  "aliases": [
+    "interaction-tap",
+    "hand-tap"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "1.9.32",
+  "zhs": [
+    "手势点击",
+    "交互点击",
+    "手拍"
+  ]
+}

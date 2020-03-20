@@ -1,0 +1,20 @@
+{
+  "id": "B336C5E4-48AB-4620-9DA4-DB1144885F7C",
+  "name": "lightbulb-multiple-off",
+  "codepoint": "F12CF",
+  "aliases": [
+    "lightbulbs-off",
+    "bulb-multiple-off",
+    "bulbs-off"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "灯泡多个关闭",
+    "灯泡关闭",
+    "多个灯泡关闭"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1B274396-AAE7-4CD8-8D57-27E31D915F68",
+  "name": "update",
+  "codepoint": "F06B0",
+  "aliases": [
+    "clockwise",
+    "clock-arrow"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "更新",
+    "顺时针",
+    "时钟箭头"
+  ]
+}

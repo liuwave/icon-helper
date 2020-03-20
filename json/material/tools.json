@@ -1,0 +1,19 @@
+{
+  "id": "CF5ABC25-55E6-4B19-B338-85F45926DEE1",
+  "name": "tools",
+  "codepoint": "F1064",
+  "aliases": [
+    "wrench",
+    "screwdriver"
+  ],
+  "tags": [
+    "Hardware / Tools"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "工具",
+    "扳手",
+    "螺丝刀"
+  ]
+}

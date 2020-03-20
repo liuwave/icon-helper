@@ -1,0 +1,17 @@
+{
+  "id": "FB1FEB37-FA9B-40BF-A7EC-B4A1690E6B77",
+  "name": "beach",
+  "codepoint": "F0092",
+  "aliases": [
+    "parasol"
+  ],
+  "tags": [
+    "Places"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "海滩",
+    "阳伞"
+  ]
+}

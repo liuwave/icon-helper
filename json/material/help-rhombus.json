@@ -1,0 +1,15 @@
+{
+  "id": "FC7F2A59-0296-45CC-966D-EF69FB042DD9",
+  "name": "help-rhombus",
+  "codepoint": "F0BA5",
+  "aliases": [
+    "question-mark-rhombus"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.0.39",
+  "zhs": [
+    "帮助菱形",
+    "问号菱形"
+  ]
+}

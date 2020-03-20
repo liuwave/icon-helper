@@ -1,0 +1,19 @@
+{
+  "id": "1C3BA3AB-E86E-481B-A3C2-867B37A6E55A",
+  "name": "weather-night",
+  "codepoint": "F0594",
+  "aliases": [
+    "moon-and-stars",
+    "night-sky"
+  ],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "天气夜",
+    "月亮和星星",
+    "夜空"
+  ]
+}

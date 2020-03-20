@@ -1,0 +1,17 @@
+{
+  "id": "6B63F864-415A-4679-9126-363E5254B175",
+  "name": "cash-register",
+  "codepoint": "F0CF4",
+  "aliases": [
+    "till"
+  ],
+  "tags": [
+    "Shopping"
+  ],
+  "author": "Contributors",
+  "version": "3.3.92",
+  "zhs": [
+    "收银机",
+    "退货"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "603BF7E7-03A6-4141-8A50-CA124B62C621",
+  "name": "qrcode-edit",
+  "codepoint": "F08B8",
+  "aliases": [],
+  "tags": [
+    "Edit / Modify"
+  ],
+  "author": "Michael Richins",
+  "version": "2.2.43",
+  "zhs": [
+    "qrcode编辑"
+  ]
+}

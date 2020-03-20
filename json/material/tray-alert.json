@@ -1,0 +1,21 @@
+{
+  "id": "A1CCEE33-5CCA-43B9-B056-23F3EAFBE506",
+  "name": "tray-alert",
+  "codepoint": "F1295",
+  "aliases": [
+    "queue",
+    "printer",
+    "inbox"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "托盘警报",
+    "队列",
+    "打印机",
+    "收件箱"
+  ]
+}

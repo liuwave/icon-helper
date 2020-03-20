@@ -1,0 +1,17 @@
+{
+  "id": "124F37BE-27F6-4524-9655-A18D28E91CA6",
+  "name": "alert-octagram",
+  "codepoint": "F0767",
+  "aliases": [
+    "warning-octagram"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "警报八字",
+    "警告八字"
+  ]
+}

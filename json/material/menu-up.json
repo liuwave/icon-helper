@@ -1,0 +1,17 @@
+{
+  "id": "A526C6AC-3E29-49D1-91FA-07F95B470626",
+  "name": "menu-up",
+  "codepoint": "F0360",
+  "aliases": [
+    "arrow-drop-up"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "菜单向上",
+    "箭头下拉"
+  ]
+}

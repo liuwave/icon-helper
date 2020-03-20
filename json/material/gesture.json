@@ -1,0 +1,17 @@
+{
+  "id": "FFC2833D-65AB-47BB-AC7C-8CFA41DF9250",
+  "name": "gesture",
+  "codepoint": "F07CB",
+  "aliases": [
+    "freehand-line"
+  ],
+  "tags": [
+    "Drawing / Art"
+  ],
+  "author": "Google",
+  "version": "2.0.46",
+  "zhs": [
+    "手势",
+    "手绘线"
+  ]
+}

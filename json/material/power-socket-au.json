@@ -1,0 +1,37 @@
+{
+  "id": "CFCF8409-65AC-4E1C-885B-107F9D8B4413",
+  "name": "power-socket-au",
+  "codepoint": "F0905",
+  "aliases": [
+    "plug-socket-au",
+    "power-socket-type-i",
+    "power-socket-cn",
+    "power-socket-ar",
+    "power-socket-nz",
+    "power-socket-pg",
+    "power-socket-australia",
+    "power-socket-china",
+    "power-socket-argentina",
+    "power-socket-new-zealand",
+    "power-socket-papua-new-guinea"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.3.50",
+  "zhs": [
+    "电源插座au",
+    "插头插座au",
+    "电源插座类型i",
+    "电源插座cn",
+    "电源插座ar",
+    "电源插座nz",
+    "电源插座pg",
+    "电源插座澳大利亚",
+    "电源插座中国",
+    "电源插座阿根廷",
+    "电源插座新西兰",
+    "电源插座巴布亚新几内亚"
+  ]
+}

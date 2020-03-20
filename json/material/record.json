@@ -1,0 +1,17 @@
+{
+  "id": "F84F1E59-868C-42CE-80EA-159588E83462",
+  "name": "record",
+  "codepoint": "F044A",
+  "aliases": [
+    "fiber-manual-record"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "记录",
+    "光纤手动记录"
+  ]
+}

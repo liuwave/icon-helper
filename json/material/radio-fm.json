@@ -1,0 +1,14 @@
+{
+  "id": "55BADC53-06EE-4199-8761-80AF2240DE1D",
+  "name": "radio-fm",
+  "codepoint": "F0CBF",
+  "aliases": [],
+  "tags": [
+    "Audio"
+  ],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "无线电调频"
+  ]
+}

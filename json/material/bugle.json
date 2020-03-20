@@ -1,0 +1,18 @@
+{
+  "id": "CBC37A12-44AA-4CA8-976A-F26ED26849D4",
+  "name": "bugle",
+  "codepoint": "F0DB4",
+  "aliases": [
+    "car-horn"
+  ],
+  "tags": [
+    "Automotive",
+    "Music"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "号角",
+    "号角车"
+  ]
+}

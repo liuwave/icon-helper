@@ -1,0 +1,16 @@
+{
+  "id": "68BB6884-5CEA-4B2A-8F22-46B6A98CDA75",
+  "name": "camera-switch",
+  "codepoint": "F0108",
+  "aliases": [
+    "switch-camera"
+  ],
+  "tags": [
+    "Photography"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "摄像机开关"
+  ]
+}

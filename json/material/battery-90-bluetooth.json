@@ -1,0 +1,14 @@
+{
+  "id": "AEB32E6B-7E3D-4C3A-AE1A-96C63868E208",
+  "name": "battery-90-bluetooth",
+  "codepoint": "F0946",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "电池90蓝牙"
+  ]
+}

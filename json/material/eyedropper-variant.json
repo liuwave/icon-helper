@@ -1,0 +1,21 @@
+{
+  "id": "24A1E7A8-D8A4-4216-B467-72C144972358",
+  "name": "eyedropper-variant",
+  "codepoint": "F020B",
+  "aliases": [
+    "colorize",
+    "colourise",
+    "pipette-variant"
+  ],
+  "tags": [
+    "Color",
+    "Science"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "滴管口音",
+    "着色",
+    "移液器口音"
+  ]
+}

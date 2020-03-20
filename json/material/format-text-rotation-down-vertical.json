@@ -1,0 +1,14 @@
+{
+  "id": "D6CC1545-8778-4A0D-9B2B-7A34DB91ADD9",
+  "name": "format-text-rotation-down-vertical",
+  "codepoint": "F0FBD",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "格式化文本垂直向下旋转"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6A2E5A75-34CC-4B32-A1F6-156803328935",
+  "name": "z-wave",
+  "codepoint": "F0AEA",
+  "aliases": [
+    "zwave"
+  ],
+  "tags": [],
+  "author": "Contributors",
+  "version": "2.7.94",
+  "zhs": [
+    "z Wave",
+    "zwave"
+  ]
+}

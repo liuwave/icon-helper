@@ -1,0 +1,14 @@
+{
+  "id": "7544E7E7-02F7-405C-9ADB-2E2540B07343",
+  "name": "weather-windy",
+  "codepoint": "F059D",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "大风天气"
+  ]
+}

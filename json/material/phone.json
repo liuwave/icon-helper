@@ -1,0 +1,19 @@
+{
+  "id": "B5BA809F-FCE8-476C-8388-6A9CFFF73015",
+  "name": "phone",
+  "codepoint": "F03F2",
+  "aliases": [
+    "call",
+    "local-phone",
+    "telephone"
+  ],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电话",
+    "本地电话"
+  ]
+}

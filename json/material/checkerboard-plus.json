@@ -1,0 +1,17 @@
+{
+  "id": "020A5F88-EE7B-4FE7-ADC7-999A0ADB16EE",
+  "name": "checkerboard-plus",
+  "codepoint": "F1201",
+  "aliases": [
+    "raster-plus"
+  ],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.6.95",
+  "zhs": [
+    "棋盘加",
+    "光栅加"
+  ]
+}

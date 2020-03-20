@@ -1,0 +1,17 @@
+{
+  "id": "1E550A45-9D97-4918-9DEC-F536EC5C7A1C",
+  "name": "email-open",
+  "codepoint": "F01EF",
+  "aliases": [
+    "drafts",
+    "envelope-open"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "打开电子邮件",
+    "草稿",
+    "打开信封"
+  ]
+}

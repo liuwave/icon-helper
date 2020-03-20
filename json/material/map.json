@@ -1,0 +1,15 @@
+{
+  "id": "99738FF8-01AE-420D-8481-8B9E1402255B",
+  "name": "map",
+  "codepoint": "F034D",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "地图"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "D992EB08-7BDB-4D44-B3C1-A123F80C17FA",
+  "name": "card-account-phone",
+  "codepoint": "F0E99",
+  "aliases": [
+    "contact-phone"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "3.7.94",
+  "zhs": [
+    "卡账户电话",
+    "联系电话"
+  ]
+}

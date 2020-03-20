@@ -1,0 +1,18 @@
+{
+  "id": "3633613A-B8A7-49D0-8C1B-5415EC76F426",
+  "name": "looks",
+  "codepoint": "F0344",
+  "aliases": [
+    "rainbow"
+  ],
+  "tags": [
+    "Weather",
+    "Color"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "看起来",
+    "彩虹"
+  ]
+}

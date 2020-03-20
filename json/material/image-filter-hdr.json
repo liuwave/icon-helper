@@ -1,0 +1,20 @@
+{
+  "id": "999CF81E-71B7-48E1-8B8F-70FDE391F647",
+  "name": "image-filter-hdr",
+  "codepoint": "F02F5",
+  "aliases": [
+    "mountain",
+    "landscape"
+  ],
+  "tags": [
+    "Photography",
+    "Nature"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "图像过滤器hdr",
+    "山脉",
+    "风景"
+  ]
+}

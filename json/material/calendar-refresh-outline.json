@@ -1,0 +1,17 @@
+{
+  "id": "BC0BD74D-06D4-458A-B0CE-90B96A2ADCBF",
+  "name": "calendar-refresh-outline",
+  "codepoint": "F0203",
+  "aliases": [
+    "calendar-repeat-outline"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.5.54",
+  "zhs": [
+    "日历刷新轮廓",
+    "日历重复轮廓"
+  ]
+}

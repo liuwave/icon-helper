@@ -1,0 +1,15 @@
+{
+  "id": "34C9947D-5943-4C3E-9E7A-2CD95061222B",
+  "name": "pistol",
+  "codepoint": "F0703",
+  "aliases": [
+    "gun"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "1.8.36",
+  "zhs": [
+    "手枪",
+    "无"
+  ]
+}

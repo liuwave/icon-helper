@@ -1,0 +1,14 @@
+{
+  "id": "C8743DBF-39CD-43E8-8EC3-B99D422422FC",
+  "name": "oil-temperature",
+  "codepoint": "F0FF8",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "油温"
+  ]
+}

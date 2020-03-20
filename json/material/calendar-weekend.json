@@ -1,0 +1,14 @@
+{
+  "id": "E873A542-F4E7-44F4-B7CD-19474188D5BC",
+  "name": "calendar-weekend",
+  "codepoint": "F0ED9",
+  "aliases": [],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Crissov",
+  "version": "3.8.95",
+  "zhs": [
+    "周末日历"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "511387A0-FD3A-4335-B82E-9C68E02BABDD",
+  "name": "thermometer-plus",
+  "codepoint": "F0E05",
+  "aliases": [
+    "thermometer-add"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "3.5.94",
+  "zhs": [
+    "温度计加"
+  ]
+}

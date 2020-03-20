@@ -1,0 +1,14 @@
+{
+  "id": "7FCD959A-B0AA-43AD-B448-5B51A1A2C023",
+  "name": "car-cruise-control",
+  "codepoint": "F0D60",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.4.93",
+  "zhs": [
+    "汽车定速巡航"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "5DC17348-DD99-40EA-804E-CB20BEE93C07",
+  "name": "credit-card-off",
+  "codepoint": "F0FF1",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "信用卡已关闭"
+  ]
+}

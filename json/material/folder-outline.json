@@ -1,0 +1,17 @@
+{
+  "id": "0524FF60-B273-4675-9B69-043730244645",
+  "name": "folder-outline",
+  "codepoint": "F0256",
+  "aliases": [
+    "folder-open"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "文件夹轮廓",
+    "打开文件夹"
+  ]
+}

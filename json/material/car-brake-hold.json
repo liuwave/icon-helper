@@ -1,0 +1,14 @@
+{
+  "id": "4F3D37E3-F34C-4720-BC92-1173A85F88FC",
+  "name": "car-brake-hold",
+  "codepoint": "F0D5E",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.4.93",
+  "zhs": [
+    "汽车制动器"
+  ]
+}

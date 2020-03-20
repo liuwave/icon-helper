@@ -1,0 +1,12 @@
+{
+  "id": "79E1B678-8458-4750-9EE0-C5CE7E57E9F1",
+  "name": "ethernet-cable-off",
+  "codepoint": "F0202",
+  "aliases": [],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "断开以太网电缆"
+  ]
+}

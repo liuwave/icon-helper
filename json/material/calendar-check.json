@@ -1,0 +1,25 @@
+{
+  "id": "62008F88-6B17-4277-9155-B596476629A1",
+  "name": "calendar-check",
+  "codepoint": "F00EF",
+  "aliases": [
+    "event-available",
+    "calendar-task",
+    "calendar-tick",
+    "event-tick",
+    "event-check"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "日历检查",
+    "可用事件",
+    "日历任务",
+    "日历刻度",
+    "事件刻度",
+    "事件检查"
+  ]
+}

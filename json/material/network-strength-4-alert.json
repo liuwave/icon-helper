@@ -1,0 +1,17 @@
+{
+  "id": "1173684B-E68C-4BE5-BD9C-53C01A619896",
+  "name": "network-strength-4-alert",
+  "codepoint": "F08FB",
+  "aliases": [
+    "network-strength-4-warning"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "网络强度4警报"
+  ]
+}

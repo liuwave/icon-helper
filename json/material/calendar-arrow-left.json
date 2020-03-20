@@ -1,0 +1,17 @@
+{
+  "id": "9FB11BA5-47F5-40B8-9BD2-259FEA4E0A6E",
+  "name": "calendar-arrow-left",
+  "codepoint": "F1134",
+  "aliases": [
+    "reschedule"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Terren",
+  "version": "4.4.95",
+  "zhs": [
+    "日历左箭头",
+    "重新安排"
+  ]
+}

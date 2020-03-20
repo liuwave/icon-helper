@@ -1,0 +1,17 @@
+{
+  "id": "AEB30C8D-5159-4897-8D17-6EFB9715D3CD",
+  "name": "hazard-lights",
+  "codepoint": "F0C89",
+  "aliases": [
+    "warning-lights"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "危险灯",
+    "警告灯"
+  ]
+}

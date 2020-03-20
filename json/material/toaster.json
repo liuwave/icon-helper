@@ -1,0 +1,14 @@
+{
+  "id": "5042FF4E-78E5-43D5-B992-1AAEAE51AB25",
+  "name": "toaster",
+  "codepoint": "F1063",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "烤面包机"
+  ]
+}

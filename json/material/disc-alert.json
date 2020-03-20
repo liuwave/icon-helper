@@ -1,0 +1,19 @@
+{
+  "id": "63A41E0F-CCDB-42F8-848B-F64AA94F9BDF",
+  "name": "disc-alert",
+  "codepoint": "F01D1",
+  "aliases": [
+    "disc-full",
+    "disc-warning"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "光盘警报",
+    "完整光盘",
+    "光盘警告"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "E792948B-8E66-49B5-83E7-8CDF1ECE6C5D",
+  "name": "dumbbell",
+  "codepoint": "F01E6",
+  "aliases": [
+    "weights",
+    "fitness-center"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "哑铃",
+    "举重",
+    "健身中心"
+  ]
+}

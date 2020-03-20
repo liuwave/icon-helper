@@ -1,0 +1,17 @@
+{
+  "id": "F6333BD9-AC00-428D-B8A8-FA3B9187487F",
+  "name": "border-none",
+  "codepoint": "F00CD",
+  "aliases": [
+    "border-clear"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "边框无",
+    "边框清晰"
+  ]
+}

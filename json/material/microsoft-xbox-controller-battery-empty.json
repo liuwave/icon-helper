@@ -1,0 +1,15 @@
+{
+  "id": "51BB7455-5893-4F47-92D1-B3FD408C2ADC",
+  "name": "microsoft-xbox-controller-battery-empty",
+  "codepoint": "F074C",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Gaming / RPG"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "Microsoft xbox控制器电池已耗尽"
+  ]
+}

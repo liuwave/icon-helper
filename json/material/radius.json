@@ -1,0 +1,19 @@
+{
+  "id": "DFD4C66B-CD4A-4524-A6DB-E3C2331C5DC6",
+  "name": "radius",
+  "codepoint": "F0CC0",
+  "aliases": [
+    "circle-radius",
+    "sphere-radius"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "半径",
+    "圆半径",
+    "球体半径"
+  ]
+}

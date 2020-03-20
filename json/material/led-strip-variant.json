@@ -1,0 +1,17 @@
+{
+  "id": "E4D78AC1-63FD-4BF0-89CD-91D80CCAAE40",
+  "name": "led-strip-variant",
+  "codepoint": "F1051",
+  "aliases": [
+    "light-strip-variant"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Borre Haugen",
+  "version": "4.1.95",
+  "zhs": [
+    "led带装饰物",
+    "light strip accents"
+  ]
+}

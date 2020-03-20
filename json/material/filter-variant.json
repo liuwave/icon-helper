@@ -1,0 +1,15 @@
+{
+  "id": "AECECEA4-9E56-4B4B-ACD6-2C85AB09788A",
+  "name": "filter-variant",
+  "codepoint": "F0236",
+  "aliases": [
+    "filter-list"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "过滤器变量",
+    "过滤器列表"
+  ]
+}

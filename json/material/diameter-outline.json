@@ -1,0 +1,19 @@
+{
+  "id": "ABE01F05-E04E-4C5F-8F70-F8A9DB484E89",
+  "name": "diameter-outline",
+  "codepoint": "F0C64",
+  "aliases": [
+    "circle-diameter-outline",
+    "sphere-diameter-outline"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "直径轮廓",
+    "圆直径轮廓",
+    "球体直径轮廓"
+  ]
+}

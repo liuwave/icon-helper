@@ -1,0 +1,17 @@
+{
+  "id": "F7A4DF3D-18C8-4717-AD58-247CEFF7EDE3",
+  "name": "alpha-c-box",
+  "codepoint": "F0B0A",
+  "aliases": [
+    "alphabet-c-box",
+    "letter-c-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "字母C框"
+  ]
+}

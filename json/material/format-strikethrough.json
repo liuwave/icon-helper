@@ -1,0 +1,14 @@
+{
+  "id": "0BE83BB5-3D22-478D-AAC2-F586A4E5FA69",
+  "name": "format-strikethrough",
+  "codepoint": "F0280",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "格式删除线"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "A8F9F185-D2AE-4DEE-845C-3C74801E2CD0",
+  "name": "seat-individual-suite",
+  "codepoint": "F047D",
+  "aliases": [
+    "airline-seat-individual-suite"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "座位独立套件",
+    "航空公司座位独立套件"
+  ]
+}

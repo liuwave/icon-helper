@@ -1,0 +1,18 @@
+{
+  "id": "FCA4F099-5FCB-43DE-8166-2CE30508C1EC",
+  "name": "mushroom",
+  "codepoint": "F07DF",
+  "aliases": [
+    "fungus"
+  ],
+  "tags": [
+    "Nature",
+    "Food / Drink"
+  ],
+  "author": "Contributors",
+  "version": "2.0.46",
+  "zhs": [
+    "蘑菇",
+    "木耳"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "85F577F7-626B-4D2D-A392-2671C979BEF3",
+  "name": "gender-non-binary",
+  "codepoint": "F1140",
+  "aliases": [
+    "gender-enby"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "性别非二进制",
+    "性别enby"
+  ]
+}

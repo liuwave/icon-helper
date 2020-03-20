@@ -1,0 +1,12 @@
+{
+  "id": "CA254138-2001-4A37-8D52-E65D608E0E10",
+  "name": "lock-check",
+  "codepoint": "F139A",
+  "aliases": [],
+  "tags": [],
+  "author": "François Risoud",
+  "version": "5.0.45",
+  "zhs": [
+    "检查锁"
+  ]
+}

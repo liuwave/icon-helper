@@ -1,0 +1,15 @@
+{
+  "id": "2A9EE017-5EDD-4A0B-A531-E552D4C8AB66",
+  "name": "table-arrow-up",
+  "codepoint": "F13BE",
+  "aliases": [
+    "table-upload"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "5.1.45",
+  "zhs": [
+    "表格向上箭头",
+    "表格上传"
+  ]
+}

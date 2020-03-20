@@ -1,0 +1,14 @@
+{
+  "id": "10DCD7DC-998B-4631-B8A6-A0D8C93412A3",
+  "name": "lan-disconnect",
+  "codepoint": "F0319",
+  "aliases": [
+    "local-area-network-disconnect"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "局域网断开"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "6310BE95-A7A4-4A4C-A478-059DCA6C4E0B",
+  "name": "zodiac-capricorn",
+  "codepoint": "F0A80",
+  "aliases": [
+    "horoscope-capricorn"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "摩cap座十二生肖"
+  ]
+}

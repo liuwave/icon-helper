@@ -1,0 +1,14 @@
+{
+  "id": "CD4F72AA-B86D-4133-8EB8-145F457A1F06",
+  "name": "wifi-strength-3-lock",
+  "codepoint": "F0927",
+  "aliases": [],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "wifi强度3锁"
+  ]
+}

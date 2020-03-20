@@ -1,0 +1,14 @@
+{
+  "id": "BFCC1A57-A94F-4104-BCBF-980E9D8B2B6C",
+  "name": "bell-remove-outline",
+  "codepoint": "F13EC",
+  "aliases": [],
+  "tags": [
+    "Notification"
+  ],
+  "author": "Cody",
+  "version": "5.1.45",
+  "zhs": [
+    "钟形去除轮廓"
+  ]
+}

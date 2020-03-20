@@ -1,0 +1,19 @@
+{
+  "id": "BF0B21D2-7266-4639-B2C4-24199863849D",
+  "name": "mixed-martial-arts",
+  "codepoint": "F0D8F",
+  "aliases": [
+    "mma",
+    "glove"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Google",
+  "version": "3.4.93",
+  "zhs": [
+    "混合武术",
+    "mma",
+    "手套"
+  ]
+}

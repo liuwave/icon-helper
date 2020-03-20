@@ -1,0 +1,18 @@
+{
+  "id": "AE7BA87E-D5CF-415E-8641-ADE156760E93",
+  "name": "arrow-horizontal-lock",
+  "codepoint": "F115B",
+  "aliases": [
+    "scroll-horizontal-lock"
+  ],
+  "tags": [
+    "Lock",
+    "Arrow"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "箭头水平锁",
+    "滚动水平锁"
+  ]
+}

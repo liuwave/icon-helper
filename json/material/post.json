@@ -1,0 +1,15 @@
+{
+  "id": "9B1DF082-5266-408A-A057-92E9AEB81BFA",
+  "name": "post",
+  "codepoint": "F1008",
+  "aliases": [
+    "blog"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "4.0.96",
+  "zhs": [
+    "帖子",
+    "博客"
+  ]
+}

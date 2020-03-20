@@ -1,0 +1,17 @@
+{
+  "id": "18C99959-2A0E-4095-BAEA-F5B266377648",
+  "name": "microphone",
+  "codepoint": "F036C",
+  "aliases": [
+    "keyboard-voice"
+  ],
+  "tags": [
+    "Music"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "麦克风",
+    "键盘声音"
+  ]
+}

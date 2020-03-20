@@ -1,0 +1,12 @@
+{
+  "id": "9DF15E25-DE45-4D9B-8E3B-EA6D643EA0CC",
+  "name": "lan-check",
+  "codepoint": "F12AA",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "局域网检查"
+  ]
+}

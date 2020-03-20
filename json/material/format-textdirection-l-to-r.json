@@ -1,0 +1,14 @@
+{
+  "id": "D6B79C3B-22FB-4B52-90B8-6979AB48C3E8",
+  "name": "format-textdirection-l-to-r",
+  "codepoint": "F0285",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "格式化文本方向l到r"
+  ]
+}

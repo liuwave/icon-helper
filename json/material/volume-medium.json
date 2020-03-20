@@ -1,0 +1,21 @@
+{
+  "id": "0E37E506-8AD8-42C7-87E4-F8A2AEE03972",
+  "name": "volume-medium",
+  "codepoint": "F0580",
+  "aliases": [
+    "audio",
+    "speaker"
+  ],
+  "tags": [
+    "Audio",
+    "Home Automation",
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "音量中等",
+    "音频",
+    "扬声器"
+  ]
+}

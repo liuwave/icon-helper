@@ -1,0 +1,12 @@
+{
+  "id": "DD2BE6C6-A15C-44D4-807A-C29DE965CF22",
+  "name": "exit-to-app",
+  "codepoint": "F0206",
+  "aliases": [],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "退出应用"
+  ]
+}

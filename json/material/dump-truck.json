@@ -1,0 +1,17 @@
+{
+  "id": "50BCAB01-5182-4FBA-9F6D-62DF6872B743",
+  "name": "dump-truck",
+  "codepoint": "F0C67",
+  "aliases": [
+    "tipper-lorry"
+  ],
+  "tags": [
+    "Transportation + Road",
+    "Hardware / Tools"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "自卸车"
+  ]
+}

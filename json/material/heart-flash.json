@@ -1,0 +1,19 @@
+{
+  "id": "9B033C3C-210D-4EFD-AD4E-FF9E36E44509",
+  "name": "heart-flash",
+  "codepoint": "F0EF9",
+  "aliases": [
+    "aed",
+    "defibrillator"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "心脏闪光灯",
+    "AED",
+    "除颤器"
+  ]
+}

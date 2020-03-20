@@ -1,0 +1,14 @@
+{
+  "id": "C14A3C70-357F-4AE8-963C-B45ED543A4DB",
+  "name": "tooltip-outline",
+  "codepoint": "F0526",
+  "aliases": [],
+  "tags": [
+    "Tooltip"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "工具提示轮廓"
+  ]
+}

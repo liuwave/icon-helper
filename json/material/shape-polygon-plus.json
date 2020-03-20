@@ -1,0 +1,16 @@
+{
+  "id": "CFE631FF-AAD1-49D9-BA22-84BAC90B8787",
+  "name": "shape-polygon-plus",
+  "codepoint": "F065E",
+  "aliases": [
+    "shape-polygon-add"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Kai Faust",
+  "version": "1.6.50",
+  "zhs": [
+    "形状多边形加"
+  ]
+}

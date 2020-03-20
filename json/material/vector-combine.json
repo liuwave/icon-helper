@@ -1,0 +1,15 @@
+{
+  "id": "7845F254-C78F-44D3-84E3-421B0B2AFF31",
+  "name": "vector-combine",
+  "codepoint": "F0558",
+  "aliases": [],
+  "tags": [
+    "Vector",
+    "Geographic Information System"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "向量结合"
+  ]
+}

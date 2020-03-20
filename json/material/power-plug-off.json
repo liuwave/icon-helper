@@ -1,0 +1,17 @@
+{
+  "id": "ACF38F54-4726-4F8F-9916-8C582137FA69",
+  "name": "power-plug-off",
+  "codepoint": "F06A6",
+  "aliases": [
+    "power-off"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.7.12",
+  "zhs": [
+    "电源插头关闭",
+    "电源关闭"
+  ]
+}

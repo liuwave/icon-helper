@@ -1,0 +1,14 @@
+{
+  "id": "4FA696A5-8843-4E3F-B9BF-5BCF5B6C4D2C",
+  "name": "format-font-size-decrease",
+  "codepoint": "F09F3",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.5.94",
+  "zhs": [
+    "格式字体大小减小"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "EB320CFB-296A-4C6F-9585-76CA21DDCD04",
+  "name": "numeric-4-box-multiple-outline",
+  "codepoint": "F03B2",
+  "aliases": [
+    "filter-4",
+    "numeric-four-box-multiple-outline",
+    "numeric-4-boxes-outline",
+    "number-4-box-multiple-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字4框多个轮廓",
+    "过滤器4"
+  ]
+}

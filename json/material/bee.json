@@ -1,0 +1,19 @@
+{
+  "id": "8B580447-CD93-41E8-BDB0-F37DAE420D3A",
+  "name": "bee",
+  "codepoint": "F0FA1",
+  "aliases": [
+    "fly",
+    "insect"
+  ],
+  "tags": [
+    "Nature"
+  ],
+  "author": "Google",
+  "version": "4.0.96",
+  "zhs": [
+    "蜜蜂",
+    "苍蝇",
+    "昆虫"
+  ]
+}

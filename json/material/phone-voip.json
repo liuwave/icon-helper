@@ -1,0 +1,14 @@
+{
+  "id": "43DAD9DC-C484-452A-9450-1F9C83C6B50E",
+  "name": "phone-voip",
+  "codepoint": "F03FE",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "电话voip"
+  ]
+}

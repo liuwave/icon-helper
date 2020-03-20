@@ -1,0 +1,15 @@
+{
+  "id": "408AB5A3-F100-4175-96CD-8602BE101150",
+  "name": "tag-multiple",
+  "codepoint": "F04FB",
+  "aliases": [
+    "tags"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "标签多个",
+    "标签"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "25425A4D-48BD-4139-BA72-81D0DAB54020",
+  "name": "garage-alert-variant",
+  "codepoint": "F12D5",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "车库警报口音"
+  ]
+}

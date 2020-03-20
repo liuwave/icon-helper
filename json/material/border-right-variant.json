@@ -1,0 +1,14 @@
+{
+  "id": "6284DA6C-DB95-4747-BB40-DE69D5970C5B",
+  "name": "border-right-variant",
+  "codepoint": "F08A5",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.2.43",
+  "zhs": [
+    "重音符号的边框权"
+  ]
+}

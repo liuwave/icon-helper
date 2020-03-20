@@ -1,0 +1,21 @@
+{
+  "id": "F053196C-66BC-4D0D-B75F-24773CA618E5",
+  "name": "pine-tree",
+  "codepoint": "F0405",
+  "aliases": [
+    "forest",
+    "plant"
+  ],
+  "tags": [
+    "Holiday",
+    "Nature",
+    "Places"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "松树",
+    "森林",
+    "植物"
+  ]
+}

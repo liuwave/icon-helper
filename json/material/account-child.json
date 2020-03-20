@@ -1,0 +1,21 @@
+{
+  "id": "431A5DA2-1B7E-4B86-8EAE-BEE1099048A1",
+  "name": "account-child",
+  "codepoint": "F0A89",
+  "aliases": [
+    "user-child",
+    "person-child",
+    "guardian"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "2.7.94",
+  "zhs": [
+    "帐户孩子",
+    "用户孩子",
+    "个人孩子",
+    "监护人"
+  ]
+}

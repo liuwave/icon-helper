@@ -1,0 +1,17 @@
+{
+  "id": "B0973EC9-B27B-4666-8E9E-C766A601BB0A",
+  "name": "diabetes",
+  "codepoint": "F1126",
+  "aliases": [
+    "hand-blood"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Michael Richins",
+  "version": "4.3.95",
+  "zhs": [
+    "糖尿病",
+    "手血"
+  ]
+}

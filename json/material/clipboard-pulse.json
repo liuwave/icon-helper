@@ -1,0 +1,17 @@
+{
+  "id": "8E3D93CC-DE0A-4828-AC9A-9A6CFD932978",
+  "name": "clipboard-pulse",
+  "codepoint": "F085D",
+  "aliases": [
+    "clipboard-vitals"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Cody",
+  "version": "2.1.99",
+  "zhs": [
+    "脉冲剪贴板",
+    "剪贴板要点"
+  ]
+}

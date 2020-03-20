@@ -1,0 +1,19 @@
+{
+  "id": "DA708BEF-4826-49CF-8872-C42996C9616F",
+  "name": "car-light-dimmed",
+  "codepoint": "F0C4A",
+  "aliases": [
+    "head-light-dimmed",
+    "low-beam"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "车灯变暗",
+    "前灯变暗",
+    "近光"
+  ]
+}

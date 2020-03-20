@@ -1,0 +1,19 @@
+{
+  "id": "7234382E-CB5D-4EB3-8BA2-0C50BC2171DB",
+  "name": "arrow-split-vertical",
+  "codepoint": "F093C",
+  "aliases": [
+    "resize-horizontal",
+    "resize"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Michael Richins",
+  "version": "2.4.85",
+  "zhs": [
+    "垂直拆分箭头",
+    "水平调整大小",
+    "重新调整大小"
+  ]
+}

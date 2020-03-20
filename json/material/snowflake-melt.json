@@ -1,0 +1,15 @@
+{
+  "id": "017BAEB6-E5B4-4BEF-8CA3-D0ABA689DE2C",
+  "name": "snowflake-melt",
+  "codepoint": "F12CB",
+  "aliases": [
+    "defrost"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "雪花融化",
+    "除霜"
+  ]
+}

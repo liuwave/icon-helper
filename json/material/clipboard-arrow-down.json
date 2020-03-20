@@ -1,0 +1,17 @@
+{
+  "id": "863E0318-495E-437A-B22B-3C1274D108E6",
+  "name": "clipboard-arrow-down",
+  "codepoint": "F014A",
+  "aliases": [
+    "assignment-returned",
+    "clipboard-arrow-bottom"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "剪贴板箭头向下",
+    "分配返回",
+    "剪贴板箭头底部"
+  ]
+}

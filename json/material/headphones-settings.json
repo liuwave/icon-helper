@@ -1,0 +1,15 @@
+{
+  "id": "54A22337-9D03-4F52-8D3E-B2A0A32147B7",
+  "name": "headphones-settings",
+  "codepoint": "F02CD",
+  "aliases": [],
+  "tags": [
+    "Audio",
+    "Settings"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "耳机设置"
+  ]
+}

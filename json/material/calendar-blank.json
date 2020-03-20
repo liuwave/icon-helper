@@ -1,0 +1,17 @@
+{
+  "id": "57984F1A-6CA5-4928-B221-466C0CC11562",
+  "name": "calendar-blank",
+  "codepoint": "F00EE",
+  "aliases": [
+    "calendar-today"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "日历空白",
+    "今天的日历"
+  ]
+}

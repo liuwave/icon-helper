@@ -1,0 +1,16 @@
+{
+  "id": "1D7338F8-4F44-43E3-906B-571178E63E49",
+  "name": "rabbit",
+  "codepoint": "F0907",
+  "aliases": [
+    "bunny"
+  ],
+  "tags": [
+    "Animal"
+  ],
+  "author": "Augustin Ursu",
+  "version": "2.3.50",
+  "zhs": [
+    "兔子"
+  ]
+}

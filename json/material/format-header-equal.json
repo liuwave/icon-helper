@@ -1,0 +1,14 @@
+{
+  "id": "99554AA1-419F-420F-9AEB-0826D411B420",
+  "name": "format-header-equal",
+  "codepoint": "F0272",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Andreas Gohr",
+  "version": "1.5.54",
+  "zhs": [
+    "格式标题相等"
+  ]
+}

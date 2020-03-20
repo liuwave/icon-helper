@@ -1,0 +1,14 @@
+{
+  "id": "04EEB2AA-AB71-4124-8AC4-FA65985AF37E",
+  "name": "calendar-import",
+  "codepoint": "F0B25",
+  "aliases": [],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Michael Richins",
+  "version": "2.8.94",
+  "zhs": [
+    "日历导入"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "197B613F-AF17-41DE-B2A6-7FCB8D86C366",
+  "name": "alphabet-cyrillic",
+  "codepoint": "F132D",
+  "aliases": [
+    "writing-system-cyrillic"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "字母西里尔文",
+    "写作西里尔文系统"
+  ]
+}

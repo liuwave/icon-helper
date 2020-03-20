@@ -1,0 +1,14 @@
+{
+  "id": "18B9F49B-7A69-4E93-AEA6-8CB30F22E100",
+  "name": "format-indent-increase",
+  "codepoint": "F0276",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "格式缩进增加"
+  ]
+}

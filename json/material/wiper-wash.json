@@ -1,0 +1,17 @@
+{
+  "id": "CC8D7DD6-699C-4746-ACAB-84DCA7BBC5E9",
+  "name": "wiper-wash",
+  "codepoint": "F0DA6",
+  "aliases": [
+    "wiper-fluid",
+    "washer-fluid"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.4.93",
+  "zhs": [
+    "刮水器清洗液",
+    "刮水器",
+    "液洗器"
+  ]
+}

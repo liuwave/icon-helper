@@ -1,0 +1,27 @@
+{
+  "id": "163F4ADF-F6CC-42D0-AEED-DB61351C624C",
+  "name": "account-question",
+  "codepoint": "F0B59",
+  "aliases": [
+    "user-help",
+    "account-question-mark",
+    "account-help",
+    "user-question",
+    "person-question",
+    "person-help"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Coffeemate",
+  "version": "3.0.39",
+  "zhs": [
+    "帐户问题",
+    "用户帮助",
+    "帐户问号",
+    "帐户帮助",
+    "用户问题",
+    "人员问题",
+    "人员帮助"
+  ]
+}

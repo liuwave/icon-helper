@@ -1,0 +1,18 @@
+{
+  "id": "99448D5B-50D3-4F49-8E88-DD75F7DFB231",
+  "name": "format-rotate-90",
+  "codepoint": "F06AA",
+  "aliases": [
+    "rotate-90-degrees-ccw",
+    "format-rotate-ninety"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "格式旋转90",
+    "逆时针旋转90度"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "94C88D65-EE50-4DC5-920D-FA4181DE0413",
+  "name": "islam",
+  "codepoint": "F0979",
+  "aliases": [
+    "religion-islamic",
+    "star-and-crescent",
+    "religion-muslim"
+  ],
+  "tags": [
+    "Religion"
+  ],
+  "author": "Nick",
+  "version": "2.4.85",
+  "zhs": [
+    "伊斯兰教",
+    "星月",
+    "穆斯林"
+  ]
+}

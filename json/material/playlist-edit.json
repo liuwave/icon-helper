@@ -1,0 +1,14 @@
+{
+  "id": "EBBE4C11-9C6D-40AA-844A-167B274A4E81",
+  "name": "playlist-edit",
+  "codepoint": "F0900",
+  "aliases": [],
+  "tags": [
+    "Edit / Modify"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.3.50",
+  "zhs": [
+    "播放列表编辑"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "EA3FB3E6-9696-4F01-AD34-5253E19EA34C",
+  "name": "video-input-svideo",
+  "codepoint": "F0842",
+  "aliases": [
+    "settings-input-svideo"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "视频输入svideo",
+    "svideo输入设置"
+  ]
+}

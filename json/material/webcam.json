@@ -1,0 +1,17 @@
+{
+  "id": "03483AFB-9D53-4E10-B00C-1095C1873276",
+  "name": "webcam",
+  "codepoint": "F05A0",
+  "aliases": [
+    "web-camera"
+  ],
+  "tags": [
+    "Video / Movie",
+    "Home Automation"
+  ],
+  "author": "Chris Litherland",
+  "version": "1.5.54",
+  "zhs": [
+    "网络摄像头"
+  ]
+}

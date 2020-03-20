@@ -1,0 +1,14 @@
+{
+  "id": "F5A29B6C-A003-423D-912A-A23D40E51D3C",
+  "name": "gate-open",
+  "codepoint": "F116A",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "4.4.95",
+  "zhs": [
+    "开门"
+  ]
+}

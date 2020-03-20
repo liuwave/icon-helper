@@ -1,0 +1,18 @@
+{
+  "id": "401AC514-6441-4DDC-80DC-48CF851C5B5E",
+  "name": "truck-fast",
+  "codepoint": "F0788",
+  "aliases": [
+    "lorry-fast",
+    "courier-fast"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "快速卡车",
+    "快速快递"
+  ]
+}

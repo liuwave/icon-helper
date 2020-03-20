@@ -1,0 +1,17 @@
+{
+  "id": "6CDF527A-26C1-4175-A56B-5D65FD5E46E2",
+  "name": "bandage",
+  "codepoint": "F0DAF",
+  "aliases": [
+    "band-aid",
+    "plaster"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "3.5.94",
+  "zhs": [
+    "绷带",
+    "创可贴",
+    "石膏"
+  ]
+}

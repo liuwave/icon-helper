@@ -1,0 +1,19 @@
+{
+  "id": "6FFE2C93-4350-4706-9694-1674F96855EA",
+  "name": "billiards",
+  "codepoint": "F0B61",
+  "aliases": [
+    "pool",
+    "eight-ball"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Michael Richins",
+  "version": "3.0.39",
+  "zhs": [
+    "台球",
+    "桌球",
+    "八人"
+  ]
+}

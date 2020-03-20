@@ -1,0 +1,12 @@
+{
+  "id": "1225563F-5E41-4B85-8E01-FF53C5453B56",
+  "name": "send-clock",
+  "codepoint": "F1163",
+  "aliases": [],
+  "tags": [],
+  "author": "Google",
+  "version": "4.4.95",
+  "zhs": [
+    "发送时钟"
+  ]
+}

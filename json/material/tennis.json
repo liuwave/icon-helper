@@ -1,0 +1,19 @@
+{
+  "id": "CE166270-170C-4292-8D6F-FE787AF6B021",
+  "name": "tennis",
+  "codepoint": "F0DA0",
+  "aliases": [
+    "tennis-racquet",
+    "tennis-racket"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Google",
+  "version": "3.4.93",
+  "zhs": [
+    "网球",
+    "球拍网球",
+    "网球拍"
+  ]
+}

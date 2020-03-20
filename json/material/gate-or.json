@@ -1,0 +1,15 @@
+{
+  "id": "13B88427-8795-48CF-B647-597997C6C541",
+  "name": "gate-or",
+  "codepoint": "F08E5",
+  "aliases": [
+    "logic-gate-or"
+  ],
+  "tags": [],
+  "author": "Nick",
+  "version": "2.3.50",
+  "zhs": [
+    "门或",
+    "逻辑门或"
+  ]
+}

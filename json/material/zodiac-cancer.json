@@ -1,0 +1,15 @@
+{
+  "id": "DCBC9ECE-641C-40E1-BD15-2F02F8412780",
+  "name": "zodiac-cancer",
+  "codepoint": "F0A7F",
+  "aliases": [
+    "horoscope-cancer"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "生肖癌症",
+    "星座癌症"
+  ]
+}

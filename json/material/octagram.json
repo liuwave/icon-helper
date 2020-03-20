@@ -1,0 +1,17 @@
+{
+  "id": "455C8475-5555-49B7-825B-206581104AB2",
+  "name": "octagram",
+  "codepoint": "F06F9",
+  "aliases": [
+    "starburst"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.8.36",
+  "zhs": [
+    "八卦",
+    "爆炸形"
+  ]
+}

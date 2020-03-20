@@ -1,0 +1,14 @@
+{
+  "id": "9AA75C8F-4091-4C92-81A9-DA58CC95E794",
+  "name": "midi-port",
+  "codepoint": "F08F2",
+  "aliases": [],
+  "tags": [
+    "Music"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.3.50",
+  "zhs": [
+    "Midi端口"
+  ]
+}

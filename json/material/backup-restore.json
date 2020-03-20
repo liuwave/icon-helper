@@ -1,0 +1,15 @@
+{
+  "id": "36F8C2B4-C82C-4546-AFFC-601ECA54A603",
+  "name": "backup-restore",
+  "codepoint": "F006F",
+  "aliases": [
+    "settings-backup-restore"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "备份还原",
+    "备份还原设置"
+  ]
+}

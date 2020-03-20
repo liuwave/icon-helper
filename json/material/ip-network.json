@@ -1,0 +1,12 @@
+{
+  "id": "54CCA164-149B-4050-9747-529EF134460A",
+  "name": "ip-network",
+  "codepoint": "F0A60",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "ip网络"
+  ]
+}

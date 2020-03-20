@@ -1,0 +1,27 @@
+{
+  "id": "610A9983-6737-4876-B1E2-09C22D3888D9",
+  "name": "badge-account-alert",
+  "codepoint": "F0DA8",
+  "aliases": [
+    "user-badge-alert",
+    "person-badge-alert",
+    "account-badge-warning",
+    "user-badge-warning",
+    "person-badge-warning"
+  ],
+  "tags": [
+    "Account / User",
+    "Alert / Error",
+    "Alert / Error"
+  ],
+  "author": "Michael Richins",
+  "version": "3.5.94",
+  "zhs": [
+    "徽章帐户警报",
+    "用户徽章警报",
+    "人员徽章警报",
+    "帐户徽章警告",
+    "用户徽章警告",
+    "人员徽章警告"
+  ]
+}

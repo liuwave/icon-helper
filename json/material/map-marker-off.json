@@ -1,0 +1,18 @@
+{
+  "id": "92410469-09D9-4C29-AC79-CD0DF882D05F",
+  "name": "map-marker-off",
+  "codepoint": "F0351",
+  "aliases": [
+    "location-off"
+  ],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "关闭地图标记",
+    "关闭位置"
+  ]
+}

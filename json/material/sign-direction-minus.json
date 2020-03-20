@@ -1,0 +1,15 @@
+{
+  "id": "110700C4-EF32-4835-B9C6-ECE259438B80",
+  "name": "sign-direction-minus",
+  "codepoint": "F1000",
+  "aliases": [
+    "milestone-minus"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "标志方向为负",
+    "里程碑为负"
+  ]
+}

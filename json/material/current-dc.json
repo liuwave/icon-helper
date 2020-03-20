@@ -1,0 +1,15 @@
+{
+  "id": "2A23AD1A-C4F1-47B1-B482-05836097CE51",
+  "name": "current-dc",
+  "codepoint": "F095C",
+  "aliases": [
+    "direct-current"
+  ],
+  "tags": [],
+  "author": "Nick",
+  "version": "2.4.85",
+  "zhs": [
+    "直流电流",
+    "直流"
+  ]
+}

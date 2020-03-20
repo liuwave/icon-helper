@@ -1,0 +1,19 @@
+{
+  "id": "68042B53-6F94-4EE1-A40D-9415AE0EE14A",
+  "name": "furigana-vertical",
+  "codepoint": "F1082",
+  "aliases": [
+    "zhuyin",
+    "ruby-vertical"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.2.95",
+  "zhs": [
+    "furigana垂直",
+    "注音",
+    "红宝石垂直"
+  ]
+}

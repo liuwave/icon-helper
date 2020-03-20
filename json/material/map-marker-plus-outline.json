@@ -1,0 +1,15 @@
+{
+  "id": "C1F80E9D-2408-46FC-9E92-AE61A8D5C650",
+  "name": "map-marker-plus-outline",
+  "codepoint": "F12F8",
+  "aliases": [],
+  "tags": [
+    "Geographic Information System",
+    "Navigation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "地图标记加轮廓"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "718740BB-FC95-47E4-856B-0A469966C8DD",
+  "name": "wifi-strength-lock-outline",
+  "codepoint": "F092C",
+  "aliases": [
+    "wifi-strength-0-lock"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "wifi强度锁定概述",
+    "wifi强度0锁定"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "0BDA0697-946D-4B4C-AD02-2FC6ECA4A528",
+  "name": "reply-all",
+  "codepoint": "F045B",
+  "aliases": [],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "全部回复"
+  ]
+}

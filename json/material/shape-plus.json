@@ -1,0 +1,16 @@
+{
+  "id": "C91D9DCD-5ADA-4D48-857C-39D38CD37A6B",
+  "name": "shape-plus",
+  "codepoint": "F0495",
+  "aliases": [
+    "shape-add"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "形状加"
+  ]
+}

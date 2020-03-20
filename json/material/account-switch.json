@@ -1,0 +1,24 @@
+{
+  "id": "FC4F4C4D-83C2-493F-9606-CA80E44BFEF8",
+  "name": "account-switch",
+  "codepoint": "F0019",
+  "aliases": [
+    "user-switch",
+    "accounts-switch",
+    "users-switch",
+    "person-switch",
+    "people-switch"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户切换",
+    "用户切换",
+    "切换帐户",
+    "切换用户",
+    "切换人"
+  ]
+}

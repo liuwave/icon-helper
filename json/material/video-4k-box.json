@@ -1,0 +1,17 @@
+{
+  "id": "FD1999E4-4780-48E5-8F18-606871BA0581",
+  "name": "video-4k-box",
+  "codepoint": "F083E",
+  "aliases": [
+    "4k"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "视频4k盒",
+    "4k"
+  ]
+}

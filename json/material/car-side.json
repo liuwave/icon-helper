@@ -1,0 +1,18 @@
+{
+  "id": "CB49A868-3317-4445-BFED-13CB6533000E",
+  "name": "car-side",
+  "codepoint": "F07AB",
+  "aliases": [
+    "car-saloon"
+  ],
+  "tags": [
+    "Transportation + Road",
+    "Automotive"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.0.46",
+  "zhs": [
+    "轿车侧面",
+    "轿车"
+  ]
+}

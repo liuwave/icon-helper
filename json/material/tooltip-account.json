@@ -1,0 +1,22 @@
+{
+  "id": "CA087C29-F27F-4DBE-8617-1369C18DF51D",
+  "name": "tooltip-account",
+  "codepoint": "F000C",
+  "aliases": [
+    "tooltip-user",
+    "tooltip-person",
+    "account-location"
+  ],
+  "tags": [
+    "Account / User",
+    "Tooltip"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "工具提示帐户",
+    "工具提示用户",
+    "工具提示人员",
+    "帐户位置"
+  ]
+}

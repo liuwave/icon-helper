@@ -1,0 +1,20 @@
+{
+  "id": "4FBD0287-AD44-452B-A97A-E5FDD3542A1F",
+  "name": "math-norm-box",
+  "codepoint": "F0FCB",
+  "aliases": [
+    "code-or-box",
+    "parallel-box"
+  ],
+  "tags": [
+    "Math",
+    "Developer / Languages"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "数学范数框",
+    "代码或框",
+    "并行框"
+  ]
+}

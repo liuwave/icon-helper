@@ -1,0 +1,18 @@
+{
+  "id": "734CB783-C788-4F5E-BB90-BFBF4E3C22DC",
+  "name": "currency-php",
+  "codepoint": "F09E6",
+  "aliases": [
+    "philippine-peso"
+  ],
+  "tags": [
+    "Banking",
+    "Currency"
+  ],
+  "author": "Michael Richins",
+  "version": "2.5.94",
+  "zhs": [
+    "货币php",
+    "菲律宾比索"
+  ]
+}

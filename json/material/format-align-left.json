@@ -1,0 +1,14 @@
+{
+  "id": "56F0424F-3D53-486E-BC4C-0738457ACBA8",
+  "name": "format-align-left",
+  "codepoint": "F0262",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "格式左对齐"
+  ]
+}

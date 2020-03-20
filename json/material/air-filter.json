@@ -1,0 +1,19 @@
+{
+  "id": "C9AF90F5-7CE7-4251-9BA2-3A614B4882AA",
+  "name": "air-filter",
+  "codepoint": "F0D43",
+  "aliases": [
+    "water-filter",
+    "filter"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.4.93",
+  "zhs": [
+    "空气过滤器",
+    "水过滤器",
+    "过滤器"
+  ]
+}

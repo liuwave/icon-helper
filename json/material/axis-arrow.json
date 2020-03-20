@@ -1,0 +1,19 @@
+{
+  "id": "3D0AC996-0A31-4D68-AD38-A8507967B269",
+  "name": "axis-arrow",
+  "codepoint": "F0D49",
+  "aliases": [
+    "accelerometer",
+    "gyro"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.4.93",
+  "zhs": [
+    "轴箭头",
+    "加速度计",
+    "陀螺仪"
+  ]
+}

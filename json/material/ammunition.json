@@ -1,0 +1,15 @@
+{
+  "id": "0F3F828D-7F80-4571-A5B5-296FAC62FFB9",
+  "name": "ammunition",
+  "codepoint": "F0CE8",
+  "aliases": [
+    "bullets"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "弹药",
+    "子弹"
+  ]
+}

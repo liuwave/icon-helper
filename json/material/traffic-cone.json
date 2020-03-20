@@ -1,0 +1,14 @@
+{
+  "id": "BA597840-6D3A-4D89-B8DC-63C5B2DA6638",
+  "name": "traffic-cone",
+  "codepoint": "F137C",
+  "aliases": [],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Michael Richins",
+  "version": "4.9.95",
+  "zhs": [
+    "交通锥"
+  ]
+}

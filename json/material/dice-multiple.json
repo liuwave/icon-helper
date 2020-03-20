@@ -1,0 +1,16 @@
+{
+  "id": "8C9D5084-1B34-4AB9-BE23-E44B03AE85E5",
+  "name": "dice-multiple",
+  "codepoint": "F076E",
+  "aliases": [
+    "die-multiple"
+  ],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "Michael Richins",
+  "version": "1.9.32",
+  "zhs": [
+    "多个骰子"
+  ]
+}

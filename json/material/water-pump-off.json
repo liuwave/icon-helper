@@ -1,0 +1,15 @@
+{
+  "id": "A66B4E6E-70F9-4136-BE33-D02C002F7B30",
+  "name": "water-pump-off",
+  "codepoint": "F0F93",
+  "aliases": [],
+  "tags": [
+    "Agriculture",
+    "Home Automation"
+  ],
+  "author": "Nick",
+  "version": "3.9.97",
+  "zhs": [
+    "水泵关闭"
+  ]
+}

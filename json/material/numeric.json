@@ -1,0 +1,22 @@
+{
+  "id": "1293DBCD-E538-4AD1-97C9-3F17BBD28457",
+  "name": "numeric",
+  "codepoint": "F03A0",
+  "aliases": [
+    "numbers",
+    "1-2-3",
+    "one-two-three",
+    "123"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "数字",
+    "1 2 3",
+    "一二三",
+    "123"
+  ]
+}

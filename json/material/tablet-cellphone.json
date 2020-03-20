@@ -1,0 +1,21 @@
+{
+  "id": "804E3CCD-99B5-4F54-898A-9477D69E6951",
+  "name": "tablet-cellphone",
+  "codepoint": "F09A7",
+  "aliases": [
+    "mobile-devices",
+    "tablet-mobile-phone",
+    "tablet-smartphone"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "平板电脑手机",
+    "移动设备",
+    "平板电脑智能手机"
+  ]
+}

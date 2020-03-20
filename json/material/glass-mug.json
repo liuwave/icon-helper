@@ -1,0 +1,20 @@
+{
+  "id": "9081982B-5EB6-47C1-A1F3-A83A0ED1B609",
+  "name": "glass-mug",
+  "codepoint": "F02A6",
+  "aliases": [
+    "pub",
+    "bar",
+    "beer"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "玻璃杯",
+    "酒吧",
+    "啤酒"
+  ]
+}

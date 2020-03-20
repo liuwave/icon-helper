@@ -1,0 +1,17 @@
+{
+  "id": "C01DF00A-5B63-4B15-B6A5-FEA9E3E084B1",
+  "name": "numeric-7-box",
+  "codepoint": "F03B6",
+  "aliases": [
+    "numeric-seven-box",
+    "number-7-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字7框"
+  ]
+}

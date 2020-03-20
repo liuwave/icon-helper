@@ -1,0 +1,15 @@
+{
+  "id": "DACB8CA9-A0A9-4766-B1A3-EC334425514A",
+  "name": "vector-intersection",
+  "codepoint": "F055D",
+  "aliases": [],
+  "tags": [
+    "Vector",
+    "Geographic Information System"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "矢量交集"
+  ]
+}

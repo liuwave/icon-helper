@@ -1,0 +1,17 @@
+{
+  "id": "0B9368A1-FC31-4D0D-8909-C2D44DCC0B83",
+  "name": "trophy",
+  "codepoint": "F0538",
+  "aliases": [
+    "achievement"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Doug C. Hardester",
+  "version": "1.5.54",
+  "zhs": [
+    "奖杯",
+    "成就"
+  ]
+}

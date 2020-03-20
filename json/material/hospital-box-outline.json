@@ -1,0 +1,17 @@
+{
+  "id": "2D50B6E0-C01B-4EDE-BA85-A14757A27D54",
+  "name": "hospital-box-outline",
+  "codepoint": "F0FF7",
+  "aliases": [
+    "swiss-cross-box-outline"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "医院包装盒轮廓",
+    "瑞士十字包装盒轮廓"
+  ]
+}

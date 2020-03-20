@@ -1,0 +1,18 @@
+{
+  "id": "40CBD1A1-11E1-44A6-8627-6F7C658F5E0F",
+  "name": "map-marker-plus",
+  "codepoint": "F0651",
+  "aliases": [
+    "add-location"
+  ],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Cody",
+  "version": "1.6.50",
+  "zhs": [
+    "加地图标记",
+    "添加位置"
+  ]
+}

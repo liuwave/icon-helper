@@ -1,0 +1,14 @@
+{
+  "id": "2B75FE22-5209-4DF8-B16A-B6F74272337B",
+  "name": "checkbox-blank",
+  "codepoint": "F012E",
+  "aliases": [],
+  "tags": [
+    "Form"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "复选框为空白"
+  ]
+}

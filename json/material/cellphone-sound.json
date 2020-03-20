@@ -1,0 +1,21 @@
+{
+  "id": "F5D685BD-7BA8-4F4C-8701-06F1B1E57064",
+  "name": "cellphone-sound",
+  "codepoint": "F0952",
+  "aliases": [
+    "phonelink-ring",
+    "mobile-phone-sound",
+    "smartphone-sound"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "手机声音",
+    "phonelink铃声",
+    "智能手机声音"
+  ]
+}

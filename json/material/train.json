@@ -1,0 +1,18 @@
+{
+  "id": "B6E1232A-3A43-4200-BE34-1BC436B34BF1",
+  "name": "train",
+  "codepoint": "F052C",
+  "aliases": [
+    "directions-railway"
+  ],
+  "tags": [
+    "Navigation",
+    "Transportation + Other"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "火车",
+    "方向铁路"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "69651FB0-089C-4D57-8465-46716D86DBCA",
+  "name": "map-legend",
+  "codepoint": "F0A01",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Perth Totty",
+  "version": "2.5.94",
+  "zhs": [
+    "图例地图"
+  ]
+}

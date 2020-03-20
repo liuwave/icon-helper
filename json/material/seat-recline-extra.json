@@ -1,0 +1,15 @@
+{
+  "id": "EB83D5D9-0439-476C-9BFD-04B5D6789940",
+  "name": "seat-recline-extra",
+  "codepoint": "F0481",
+  "aliases": [
+    "airline-seat-recline-extra"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "躺椅额外",
+    "航空公司躺椅额外"
+  ]
+}

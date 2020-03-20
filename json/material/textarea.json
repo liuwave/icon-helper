@@ -1,0 +1,14 @@
+{
+  "id": "9C901687-3535-4B54-B963-7E92EB9CE229",
+  "name": "textarea",
+  "codepoint": "F1095",
+  "aliases": [],
+  "tags": [
+    "Form"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "textarea"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "C09B20B5-3650-4F36-AC40-540ACE36EB6E",
+  "name": "file-pdf-box",
+  "codepoint": "F0226",
+  "aliases": [
+    "file-acrobat-box"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "文件pdf框",
+    "文件acrobat框"
+  ]
+}

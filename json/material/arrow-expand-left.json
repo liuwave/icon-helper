@@ -1,0 +1,14 @@
+{
+  "id": "FDF3C8E5-7AD6-4428-90EC-9426E56B5478",
+  "name": "arrow-expand-left",
+  "codepoint": "F0797",
+  "aliases": [],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Michael Richins",
+  "version": "2.0.46",
+  "zhs": [
+    "箭头向左扩展"
+  ]
+}

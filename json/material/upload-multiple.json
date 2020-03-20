@@ -1,0 +1,14 @@
+{
+  "id": "2B1A438E-4795-43D1-B4FD-3997C8E1BA9F",
+  "name": "upload-multiple",
+  "codepoint": "F083D",
+  "aliases": [
+    "uploads"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.1.19",
+  "zhs": [
+    "多个上传"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "6ED02FDD-323E-4004-9D7B-336F2402DF8E",
+  "name": "cloud-braces",
+  "codepoint": "F07B5",
+  "aliases": [
+    "cloud-json"
+  ],
+  "tags": [
+    "Cloud"
+  ],
+  "author": "Andy Martinez",
+  "version": "2.0.46",
+  "zhs": [
+    "云括号",
+    "云json"
+  ]
+}

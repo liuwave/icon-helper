@@ -1,0 +1,20 @@
+{
+  "id": "32B56DB2-B6BF-4B54-AD0C-9444106B1C1D",
+  "name": "heart",
+  "codepoint": "F02D1",
+  "aliases": [
+    "favorite",
+    "favourite"
+  ],
+  "tags": [
+    "Shape",
+    "Gaming / RPG",
+    "Medical / Hospital"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "心",
+    "最爱"
+  ]
+}

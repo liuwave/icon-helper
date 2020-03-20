@@ -1,0 +1,17 @@
+{
+  "id": "389486F3-5A73-4C65-8EA6-43D432F6490E",
+  "name": "heart-pulse",
+  "codepoint": "F05F6",
+  "aliases": [
+    "heart-vitals"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "心脏搏动",
+    "心脏活力"
+  ]
+}

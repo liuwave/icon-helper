@@ -1,0 +1,20 @@
+{
+  "id": "44344AAE-07D8-455B-AA2E-68474E8829FE",
+  "name": "alpha-x",
+  "codepoint": "F0B05",
+  "aliases": [
+    "alphabet-x",
+    "letter-x",
+    "roman-numeral-10"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "alpha x",
+    "字母x",
+    "罗马数字10"
+  ]
+}

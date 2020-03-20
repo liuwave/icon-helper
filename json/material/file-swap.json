@@ -1,0 +1,17 @@
+{
+  "id": "01893B96-44C2-43EF-B979-5768B6AF7695",
+  "name": "file-swap",
+  "codepoint": "F0FB4",
+  "aliases": [
+    "file-transfer"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "文件交换",
+    "文件传输"
+  ]
+}

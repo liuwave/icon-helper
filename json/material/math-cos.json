@@ -1,0 +1,19 @@
+{
+  "id": "6C00C0F3-F537-4591-B7BA-752A1CCD7E38",
+  "name": "math-cos",
+  "codepoint": "F0C96",
+  "aliases": [
+    "math-cosine",
+    "maths-cos"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "好cos",
+    "好余弦",
+    "数学cos"
+  ]
+}

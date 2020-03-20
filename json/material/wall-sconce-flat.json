@@ -1,0 +1,17 @@
+{
+  "id": "4F0EF72A-F2A8-4BFA-9E6F-279E159FC888",
+  "name": "wall-sconce-flat",
+  "codepoint": "F091D",
+  "aliases": [
+    "ceiling-light-flat"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.3.50",
+  "zhs": [
+    "壁式壁灯平",
+    "天花板灯平"
+  ]
+}

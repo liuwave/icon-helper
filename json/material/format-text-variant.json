@@ -1,0 +1,14 @@
+{
+  "id": "E79B26A6-CAA3-4CD8-B5C8-1D5797C4C765",
+  "name": "format-text-variant",
+  "codepoint": "F0E32",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.6.95",
+  "zhs": [
+    "设置文字口音格式"
+  ]
+}

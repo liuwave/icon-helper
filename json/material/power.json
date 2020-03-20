@@ -1,0 +1,19 @@
+{
+  "id": "C945D203-9737-4C25-87CA-29D97B862DD2",
+  "name": "power",
+  "codepoint": "F0425",
+  "aliases": [
+    "power-settings-new",
+    "shutdown"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电源",
+    "新的电源设置",
+    "关闭"
+  ]
+}

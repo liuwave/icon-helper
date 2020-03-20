@@ -1,0 +1,23 @@
+{
+  "id": "B138EF8B-B8ED-4792-9967-D4FB4C8E8A98",
+  "name": "boom-gate-alert-outline",
+  "codepoint": "F0E88",
+  "aliases": [
+    "boom-arm-alert-outline",
+    "boom-barrier-alert-outline",
+    "arm-barrier-alert-outline",
+    "barrier-alert-outline",
+    "automatic-gate-alert-outline"
+  ],
+  "tags": [
+    "Alert / Error",
+    "Transportation + Road"
+  ],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "动臂浇口警报轮廓",
+    "障碍物障碍轮廓轮廓",
+    "自动浇口警报轮廓"
+  ]
+}

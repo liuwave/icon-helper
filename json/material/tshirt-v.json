@@ -1,0 +1,17 @@
+{
+  "id": "618A5FB1-7308-4C2B-BCE1-461BA9DBFD13",
+  "name": "tshirt-v",
+  "codepoint": "F0A7C",
+  "aliases": [
+    "t-shirt-v"
+  ],
+  "tags": [
+    "Clothing"
+  ],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "T恤v",
+    "t恤v"
+  ]
+}

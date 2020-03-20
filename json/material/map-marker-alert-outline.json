@@ -1,0 +1,16 @@
+{
+  "id": "65B4F317-EB12-4BD4-8E9B-C6D3A153B868",
+  "name": "map-marker-alert-outline",
+  "codepoint": "F0F06",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Alert / Error",
+    "Geographic Information System"
+  ],
+  "author": "François Risoud",
+  "version": "3.8.95",
+  "zhs": [
+    "地图标记警报轮廓"
+  ]
+}

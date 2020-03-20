@@ -1,0 +1,12 @@
+{
+  "id": "2AAC06E6-8ABD-418B-B9A4-8554B62D7C04",
+  "name": "backspace",
+  "codepoint": "F006E",
+  "aliases": [],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "退格键"
+  ]
+}

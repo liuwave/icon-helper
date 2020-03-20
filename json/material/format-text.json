@@ -1,0 +1,14 @@
+{
+  "id": "FE7F03F1-79D3-4113-A35E-088C3F2AB8AD",
+  "name": "format-text",
+  "codepoint": "F0284",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文本格式"
+  ]
+}

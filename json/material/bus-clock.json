@@ -1,0 +1,18 @@
+{
+  "id": "B37694EA-F48B-4F48-ACF1-0E48FB334473",
+  "name": "bus-clock",
+  "codepoint": "F08CA",
+  "aliases": [
+    "departure-board"
+  ],
+  "tags": [
+    "Date / Time",
+    "Transportation + Road"
+  ],
+  "author": "Google",
+  "version": "2.3.50",
+  "zhs": [
+    "公交车时钟",
+    "出发板"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1158F80B-E934-4E74-A4C6-7750BDCC409E",
+  "name": "delete-circle",
+  "codepoint": "F0683",
+  "aliases": [
+    "trash-circle",
+    "bin-circle",
+    "garbage-can-circle",
+    "garbage-circle",
+    "rubbish-bin-circle",
+    "rubbish-circle",
+    "trash-can-circle"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.7.12",
+  "zhs": [
+    "删除圈",
+    "垃圾圈",
+    "垃圾箱圈",
+    "垃圾桶圈"
+  ]
+}

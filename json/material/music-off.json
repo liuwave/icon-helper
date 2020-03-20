@@ -1,0 +1,15 @@
+{
+  "id": "E9D8BB99-B31B-4940-9EEE-B69569060B0D",
+  "name": "music-off",
+  "codepoint": "F075B",
+  "aliases": [],
+  "tags": [
+    "Audio",
+    "Music"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "音乐关闭"
+  ]
+}

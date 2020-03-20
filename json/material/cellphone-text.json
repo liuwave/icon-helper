@@ -1,0 +1,19 @@
+{
+  "id": "D89FFCD9-0592-4760-98C9-5EDDA77826F5",
+  "name": "cellphone-text",
+  "codepoint": "F08D2",
+  "aliases": [
+    "mobile-phone-text",
+    "smartphone-text"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.3.50",
+  "zhs": [
+    "手机文字",
+    "智能手机文字"
+  ]
+}

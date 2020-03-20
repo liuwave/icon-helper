@@ -1,0 +1,17 @@
+{
+  "id": "940D2514-B309-4CE0-A2E4-D02121415CA3",
+  "name": "database-plus",
+  "codepoint": "F01BA",
+  "aliases": [
+    "database-add"
+  ],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "数据库加上",
+    "数据库添加"
+  ]
+}

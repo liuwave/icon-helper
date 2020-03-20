@@ -1,0 +1,17 @@
+{
+  "id": "FB313489-5EA3-4F07-ABA4-F84995D7DD13",
+  "name": "division",
+  "codepoint": "F01D4",
+  "aliases": [
+    "obelus"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "分区",
+    "方尖碑"
+  ]
+}

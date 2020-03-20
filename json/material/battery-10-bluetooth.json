@@ -1,0 +1,14 @@
+{
+  "id": "9C8DAC10-97C6-476E-8122-25D7709F7AF6",
+  "name": "battery-10-bluetooth",
+  "codepoint": "F093E",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "电池10蓝牙"
+  ]
+}

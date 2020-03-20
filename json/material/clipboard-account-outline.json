@@ -1,0 +1,21 @@
+{
+  "id": "80D8F0AA-0B3A-47ED-B342-8681E0DD7450",
+  "name": "clipboard-account-outline",
+  "codepoint": "F0C55",
+  "aliases": [
+    "clipboard-user-outline",
+    "clipboard-person-outline",
+    "assignment-ind-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "James Coyle",
+  "version": "3.2.89",
+  "zhs": [
+    "剪贴板帐户轮廓",
+    "剪贴板用户轮廓",
+    "剪贴板人轮廓",
+    "工作分配轮廓"
+  ]
+}

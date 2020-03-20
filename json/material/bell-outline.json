@@ -1,0 +1,18 @@
+{
+  "id": "70A190E9-6F1D-40DB-81D4-C9516949DF0B",
+  "name": "bell-outline",
+  "codepoint": "F009C",
+  "aliases": [
+    "notifications-none"
+  ],
+  "tags": [
+    "Notification",
+    "Music"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "钟声轮廓",
+    "通知无"
+  ]
+}

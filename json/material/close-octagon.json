@@ -1,0 +1,17 @@
+{
+  "id": "BA7E9F56-A5F5-4BEE-8934-90CA070A6029",
+  "name": "close-octagon",
+  "codepoint": "F015C",
+  "aliases": [
+    "dangerous",
+    "multiply-octagon"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "关闭八角形",
+    "危险",
+    "乘以八边形"
+  ]
+}

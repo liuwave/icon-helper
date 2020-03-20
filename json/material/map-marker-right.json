@@ -1,0 +1,15 @@
+{
+  "id": "445C4B6D-5A56-42F3-845F-92C22A11BB64",
+  "name": "map-marker-right",
+  "codepoint": "F12DC",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "正确的地图标记"
+  ]
+}

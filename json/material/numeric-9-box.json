@@ -1,0 +1,17 @@
+{
+  "id": "12DCC44D-8BA2-4D25-A88B-665920C8B730",
+  "name": "numeric-9-box",
+  "codepoint": "F03BC",
+  "aliases": [
+    "numeric-nine-box",
+    "number-9-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字9框"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "CE6451FA-EF46-40B4-B87B-BCF93DDE6E54",
+  "name": "transit-transfer",
+  "codepoint": "F06AE",
+  "aliases": [
+    "transfer-within-a-station"
+  ],
+  "tags": [
+    "Transportation + Other",
+    "Navigation"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "过境转移",
+    "车站内转移"
+  ]
+}

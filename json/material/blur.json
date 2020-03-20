@@ -1,0 +1,14 @@
+{
+  "id": "FAFCB184-2AAD-4E83-924F-1C37F1EDF956",
+  "name": "blur",
+  "codepoint": "F00B5",
+  "aliases": [
+    "blur-on"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "模糊"
+  ]
+}

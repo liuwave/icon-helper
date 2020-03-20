@@ -1,0 +1,18 @@
+{
+  "id": "CACAAE64-D38D-423E-8C84-68EFF0EA0F8A",
+  "name": "wrench",
+  "codepoint": "F05B7",
+  "aliases": [
+    "build",
+    "spanner"
+  ],
+  "tags": [
+    "Hardware / Tools"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "扳手",
+    "组装"
+  ]
+}

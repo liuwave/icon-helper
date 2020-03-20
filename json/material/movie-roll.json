@@ -1,0 +1,17 @@
+{
+  "id": "21D0F9FB-6814-4CE7-B37D-FC97EBF1D0D2",
+  "name": "movie-roll",
+  "codepoint": "F07DE",
+  "aliases": [
+    "film-reel"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Contributors",
+  "version": "2.0.46",
+  "zhs": [
+    "电影胶卷",
+    "电影卷轴"
+  ]
+}

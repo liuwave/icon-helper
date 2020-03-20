@@ -1,0 +1,19 @@
+{
+  "id": "0A1FDBBB-9E1C-480E-BC1D-725778D0851B",
+  "name": "account-remove",
+  "codepoint": "F0015",
+  "aliases": [
+    "user-remove",
+    "person-remove"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "REJack",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户删除",
+    "用户删除",
+    "人员删除"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "20E50505-DD23-4A07-AAE7-024BE3774018",
+  "name": "currency-brl",
+  "codepoint": "F0B85",
+  "aliases": [
+    "brazilian-real"
+  ],
+  "tags": [
+    "Banking",
+    "Currency"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.0.39",
+  "zhs": [
+    "货币BRL",
+    "巴西雷亚尔"
+  ]
+}

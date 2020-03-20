@@ -1,0 +1,14 @@
+{
+  "id": "2BD37CBE-629C-41E8-8631-CD438C1E7704",
+  "name": "battery-charging-high",
+  "codepoint": "F12A6",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.7.95",
+  "zhs": [
+    "电池充电高"
+  ]
+}

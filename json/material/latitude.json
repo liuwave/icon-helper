@@ -1,0 +1,15 @@
+{
+  "id": "E72ED7A1-8133-4E0F-8EC6-28F053DF51B1",
+  "name": "latitude",
+  "codepoint": "F0F57",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Michael Richins",
+  "version": "3.9.97",
+  "zhs": [
+    "纬度"
+  ]
+}

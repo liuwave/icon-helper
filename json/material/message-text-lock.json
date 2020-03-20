@@ -1,0 +1,17 @@
+{
+  "id": "362401F1-947F-45FD-8047-F515CB2F7C44",
+  "name": "message-text-lock",
+  "codepoint": "F0FCD",
+  "aliases": [
+    "message-text-secure"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Cody",
+  "version": "4.0.96",
+  "zhs": [
+    "短信文本锁定",
+    "安全短信"
+  ]
+}

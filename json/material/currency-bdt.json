@@ -1,0 +1,20 @@
+{
+  "id": "FB0C738C-21DE-4643-9B5D-690CE7AAEAEE",
+  "name": "currency-bdt",
+  "codepoint": "F0864",
+  "aliases": [
+    "taka",
+    "bangladeshi-taka"
+  ],
+  "tags": [
+    "Banking",
+    "Currency"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "货币bdt",
+    "塔卡",
+    "孟加拉塔卡"
+  ]
+}

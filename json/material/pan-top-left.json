@@ -1,0 +1,14 @@
+{
+  "id": "C497D005-A9A3-4B1A-B440-CE574E81AF2F",
+  "name": "pan-top-left",
+  "codepoint": "F0BBB",
+  "aliases": [
+    "pan-up-left"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "3.0.39",
+  "zhs": [
+    "向左平移锅"
+  ]
+}

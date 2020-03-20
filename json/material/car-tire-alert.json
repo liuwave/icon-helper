@@ -1,0 +1,19 @@
+{
+  "id": "93700192-0A90-4FC4-944C-894F29BB478F",
+  "name": "car-tire-alert",
+  "codepoint": "F0C4D",
+  "aliases": [
+    "car-tyre-alert",
+    "car-tyre-warning",
+    "car-tire-warning"
+  ],
+  "tags": [
+    "Automotive",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "汽车轮胎警报"
+  ]
+}

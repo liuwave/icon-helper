@@ -1,0 +1,14 @@
+{
+  "id": "2FBAE8A7-BAC7-44C8-85DC-EB458871BF29",
+  "name": "format-list-bulleted",
+  "codepoint": "F0279",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "项目符号列表格式"
+  ]
+}

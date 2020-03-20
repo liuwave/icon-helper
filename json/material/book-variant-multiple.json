@@ -1,0 +1,15 @@
+{
+  "id": "6B7FCAFD-C14A-49FC-A959-A2B6C7C2C5BC",
+  "name": "book-variant-multiple",
+  "codepoint": "F00BC",
+  "aliases": [
+    "books-variant"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "多种口音书",
+    "变形书"
+  ]
+}

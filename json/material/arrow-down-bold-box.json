@@ -1,0 +1,17 @@
+{
+  "id": "545DF72E-705C-46AC-BABE-94F6C304CFAB",
+  "name": "arrow-down-bold-box",
+  "codepoint": "F072F",
+  "aliases": [
+    "arrow-bottom-bold-box"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "向下箭头加粗框",
+    "底部箭头加粗框"
+  ]
+}

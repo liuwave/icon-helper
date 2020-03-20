@@ -1,0 +1,17 @@
+{
+  "id": "62F69C7A-4CBA-444A-8BFE-E5B7A891CF5D",
+  "name": "microwave",
+  "codepoint": "F0C99",
+  "aliases": [
+    "microwave-oven"
+  ],
+  "tags": [
+    "Home Automation",
+    "Food / Drink"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.2.89",
+  "zhs": [
+    "微波炉"
+  ]
+}

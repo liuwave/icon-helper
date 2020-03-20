@@ -1,0 +1,27 @@
+{
+  "id": "1666E605-F46A-4AD2-8345-A599811B7D45",
+  "name": "paper-roll",
+  "codepoint": "F1157",
+  "aliases": [
+    "lavatory-roll",
+    "bathroom-tissue",
+    "toilet-paper",
+    "kitchen-roll",
+    "paper-towels",
+    "receipt-roll"
+  ],
+  "tags": [
+    "Home Automation",
+    "Printer"
+  ],
+  "author": "Cody",
+  "version": "4.4.95",
+  "zhs": [
+    "卷纸",
+    "洗手间卷",
+    "卫生纸",
+    "厨房卷",
+    "纸巾",
+    "收据卷"
+  ]
+}

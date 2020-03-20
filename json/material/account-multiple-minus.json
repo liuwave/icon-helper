@@ -1,0 +1,25 @@
+{
+  "id": "BD31FA9F-EC76-44E9-A9F3-A85F83045D78",
+  "name": "account-multiple-minus",
+  "codepoint": "F05D3",
+  "aliases": [
+    "user-multiple-minus",
+    "accounts-minus",
+    "users-minus",
+    "people-minus",
+    "person-multiple-minus"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户多个减号",
+    "用户多个减号",
+    "帐户减号",
+    "用户减号",
+    "人员减号",
+    "人员多个减号"
+  ]
+}

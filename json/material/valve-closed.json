@@ -1,0 +1,14 @@
+{
+  "id": "753E83CB-F6D2-4162-B3B4-6D2B8E0DC642",
+  "name": "valve-closed",
+  "codepoint": "F1067",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "阀门关闭"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "3DAC6713-744B-485F-A985-7E2A16F14D6A",
+  "name": "car-light-fog",
+  "codepoint": "F0C4B",
+  "aliases": [
+    "head-light-fog"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "车灯雾",
+    "车头灯雾"
+  ]
+}

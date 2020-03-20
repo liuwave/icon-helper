@@ -1,0 +1,21 @@
+{
+  "id": "55513DD6-D73E-438E-8834-D6761C47BA4B",
+  "name": "numeric-1-box-multiple-outline",
+  "codepoint": "F03A5",
+  "aliases": [
+    "filter-1",
+    "numeric-one-box-multiple-outline",
+    "numeric-1-boxes-outline",
+    "number-1-box-multiple-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字1框多个轮廓",
+    "过滤器1",
+    "数字1框轮廓"
+  ]
+}

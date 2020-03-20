@@ -1,0 +1,16 @@
+{
+  "id": "C45A21A3-671C-4B1A-B405-D625ECA93C11",
+  "name": "ceiling-light",
+  "codepoint": "F0769",
+  "aliases": [
+    "ceiling-lamp"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "1.9.32",
+  "zhs": [
+    "吸顶灯"
+  ]
+}

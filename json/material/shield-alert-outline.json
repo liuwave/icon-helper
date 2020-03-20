@@ -1,0 +1,16 @@
+{
+  "id": "51584101-DF6C-49FF-8ACB-13F7064DEE89",
+  "name": "shield-alert-outline",
+  "codepoint": "F0ECD",
+  "aliases": [
+    "shield-warning-outline"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Peter Noble",
+  "version": "3.7.94",
+  "zhs": [
+    "防护罩警告轮廓"
+  ]
+}

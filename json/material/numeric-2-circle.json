@@ -1,0 +1,18 @@
+{
+  "id": "C8CF7706-2522-4EB4-A304-C25BAD47C1C7",
+  "name": "numeric-2-circle",
+  "codepoint": "F0CA2",
+  "aliases": [
+    "numeric-two-circle",
+    "number-2-circle",
+    "number-two-circle"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Contributors",
+  "version": "3.2.89",
+  "zhs": [
+    "数字2圈"
+  ]
+}

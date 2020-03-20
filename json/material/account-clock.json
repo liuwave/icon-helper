@@ -1,0 +1,21 @@
+{
+  "id": "E9851E02-790A-40FD-918A-BB1145051470",
+  "name": "account-clock",
+  "codepoint": "F0B56",
+  "aliases": [
+    "user-clock",
+    "account-pending",
+    "person-clock"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Coffeemate",
+  "version": "3.0.39",
+  "zhs": [
+    "帐户时钟",
+    "用户时钟",
+    "帐户待处理",
+    "人时钟"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "AB38BBD9-58A6-4D21-8A76-8940B7717550",
+  "name": "surround-sound",
+  "codepoint": "F05C5",
+  "aliases": [],
+  "tags": [
+    "Audio"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "环绕声"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "B4AC04DD-9F29-4F55-ABB6-A4AE4F272EC4",
+  "name": "hail",
+  "codepoint": "F0AC1",
+  "aliases": [
+    "hail-taxi",
+    "hail-cab"
+  ],
+  "tags": [
+    "Transportation + Road",
+    "Navigation"
+  ],
+  "author": "Google",
+  "version": "2.7.94",
+  "zhs": [
+    "冰雹",
+    "冰雹出租车"
+  ]
+}

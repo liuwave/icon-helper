@@ -1,0 +1,14 @@
+{
+  "id": "E62E5C13-5DC0-4881-BBD6-EFDEF13B73BB",
+  "name": "record-player",
+  "codepoint": "F099A",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.4.85",
+  "zhs": [
+    "电唱机"
+  ]
+}

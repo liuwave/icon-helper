@@ -1,0 +1,14 @@
+{
+  "id": "D254EE82-37CA-4897-BE12-6FD0ED708E38",
+  "name": "transition-masked",
+  "codepoint": "F0916",
+  "aliases": [
+    "masked-transitions"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "2.3.50",
+  "zhs": [
+    "遮罩的过渡"
+  ]
+}

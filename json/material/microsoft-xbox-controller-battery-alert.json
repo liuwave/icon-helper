@@ -1,0 +1,19 @@
+{
+  "id": "57F11EDC-2759-4D62-BDD2-C7C3F5199623",
+  "name": "microsoft-xbox-controller-battery-alert",
+  "codepoint": "F074B",
+  "aliases": [
+    "xbox-controller-battery-warning"
+  ],
+  "tags": [
+    "Battery",
+    "Gaming / RPG",
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "Microsoft xbox控制器电池警报",
+    "xbox控制器电池警告"
+  ]
+}

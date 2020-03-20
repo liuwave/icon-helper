@@ -1,0 +1,17 @@
+{
+  "id": "4E574535-954C-42F5-BE5B-DF3716DB7C5A",
+  "name": "alert-outline",
+  "codepoint": "F002A",
+  "aliases": [
+    "warning-outline"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "警报轮廓",
+    "警告轮廓"
+  ]
+}

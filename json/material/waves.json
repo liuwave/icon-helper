@@ -1,0 +1,24 @@
+{
+  "id": "547979BF-6FF4-4CFF-BD55-1E5793C9DAA3",
+  "name": "waves",
+  "codepoint": "F078D",
+  "aliases": [
+    "ocean",
+    "lake",
+    "flood",
+    "water"
+  ],
+  "tags": [
+    "Weather",
+    "Transportation + Water"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.9.32",
+  "zhs": [
+    "波浪",
+    "海洋",
+    "湖泊",
+    "洪水",
+    "水"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "83D606E3-69A1-4583-854D-5C44477D038D",
+  "name": "thumb-down",
+  "codepoint": "F0511",
+  "aliases": [
+    "dislike",
+    "thumbs-down"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "拇指向下",
+    "不喜欢"
+  ]
+}

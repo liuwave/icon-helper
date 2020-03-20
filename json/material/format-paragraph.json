@@ -1,0 +1,14 @@
+{
+  "id": "252574CE-020B-461A-995B-D4BA81741BBC",
+  "name": "format-paragraph",
+  "codepoint": "F027D",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "段落格式"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "DA9C32CA-8C31-4462-B123-479169C31587",
+  "name": "web",
+  "codepoint": "F059F",
+  "aliases": [
+    "language"
+  ],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "网络",
+    "语言"
+  ]
+}

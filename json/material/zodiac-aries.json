@@ -1,0 +1,15 @@
+{
+  "id": "8DC63282-63B3-4F4A-B976-2346FC3B7CFA",
+  "name": "zodiac-aries",
+  "codepoint": "F0A7E",
+  "aliases": [
+    "horoscope-aries"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "黄道十二宫",
+    "星座白羊座"
+  ]
+}

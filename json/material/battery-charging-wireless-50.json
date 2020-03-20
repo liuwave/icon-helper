@@ -1,0 +1,15 @@
+{
+  "id": "9BC0DBFF-A3F6-4061-B6E1-685880D6B653",
+  "name": "battery-charging-wireless-50",
+  "codepoint": "F080C",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.19",
+  "zhs": [
+    "电池无线充电50"
+  ]
+}

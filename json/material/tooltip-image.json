@@ -1,0 +1,14 @@
+{
+  "id": "1DF33E50-EBEA-4A62-8455-84C28271C8D2",
+  "name": "tooltip-image",
+  "codepoint": "F0525",
+  "aliases": [],
+  "tags": [
+    "Tooltip"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "图片工具提示"
+  ]
+}

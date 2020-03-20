@@ -1,0 +1,19 @@
+{
+  "id": "FEA26660-7D6A-4C2A-9F13-7AE125FBA543",
+  "name": "close",
+  "codepoint": "F0156",
+  "aliases": [
+    "clear",
+    "multiply"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "关闭",
+    "清除",
+    "乘法"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "A6579EB0-C38D-4052-A6C9-C1ECD97E482C",
+  "name": "oil-level",
+  "codepoint": "F1053",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.1.95",
+  "zhs": [
+    "油位"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "004E747A-FD00-4B6E-8AEF-2031D217D035",
+  "name": "home-floor-b",
+  "codepoint": "F0D84",
+  "aliases": [
+    "home-floor-basement",
+    "house-floor-b",
+    "house-floor-basement"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.4.93",
+  "zhs": [
+    "家庭地板b",
+    "家庭地板地下室",
+    "房屋地板b",
+    "房屋地板地下室"
+  ]
+}

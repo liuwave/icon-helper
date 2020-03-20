@@ -1,0 +1,17 @@
+{
+  "id": "90B49606-B4FF-4D4B-AE05-4769659094CE",
+  "name": "book-lock-open",
+  "codepoint": "F079B",
+  "aliases": [
+    "book-unsecure"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Michael Richins",
+  "version": "2.0.46",
+  "zhs": [
+    "开锁书",
+    "书不安全"
+  ]
+}

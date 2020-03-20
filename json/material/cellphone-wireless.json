@@ -1,0 +1,19 @@
+{
+  "id": "071CA76A-0ED5-42CD-9BE9-46AFA9D5459E",
+  "name": "cellphone-wireless",
+  "codepoint": "F0815",
+  "aliases": [
+    "mobile-phone-wireless",
+    "smartphone-wireless"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Contributors",
+  "version": "2.1.19",
+  "zhs": [
+    "手机无线",
+    "智能手机无线"
+  ]
+}

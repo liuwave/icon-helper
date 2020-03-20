@@ -1,0 +1,19 @@
+{
+  "id": "9BC1A338-CD03-4D39-BE46-E9DE5EE51A2F",
+  "name": "alert-octagon",
+  "codepoint": "F0029",
+  "aliases": [
+    "warning-octagon",
+    "report"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "警报八角形",
+    "警告八角形",
+    "报告"
+  ]
+}

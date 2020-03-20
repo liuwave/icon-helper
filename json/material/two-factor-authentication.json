@@ -1,0 +1,12 @@
+{
+  "id": "B4BC8D17-225E-44B1-A44F-3A6DC21C9A7B",
+  "name": "two-factor-authentication",
+  "codepoint": "F09AF",
+  "aliases": [],
+  "tags": [],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "两步验证"
+  ]
+}

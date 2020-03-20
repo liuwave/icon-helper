@@ -1,0 +1,27 @@
+{
+  "id": "A8C2EE6C-31B9-4D51-B941-8128FDD77A96",
+  "name": "account-multiple",
+  "codepoint": "F000E",
+  "aliases": [
+    "people",
+    "user-multiple",
+    "group",
+    "accounts",
+    "users",
+    "person-multiple"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户多个",
+    "人员",
+    "多个用户",
+    "组",
+    "帐户",
+    "用户",
+    "多个人"
+  ]
+}

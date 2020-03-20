@@ -1,0 +1,17 @@
+{
+  "id": "1EB53615-9A62-4377-A2D0-246C8F42CAF8",
+  "name": "numeric-0-box-outline",
+  "codepoint": "F03A3",
+  "aliases": [
+    "numeric-zero-box-outline",
+    "number-0-box-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字0框轮廓"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ABC572E9-CE00-450F-A1E0-E59BCF0C3DC3",
+  "name": "gamepad-round-down",
+  "codepoint": "F0E3D",
+  "aliases": [],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "Haley Halcyon",
+  "version": "3.6.95",
+  "zhs": [
+    "游戏手柄向下取整"
+  ]
+}

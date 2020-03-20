@@ -1,0 +1,19 @@
+{
+  "id": "C7EDD5B7-95D4-4D83-A4E3-95D8A16A4887",
+  "name": "alert-circle",
+  "codepoint": "F0028",
+  "aliases": [
+    "warning-circle",
+    "error"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "警报圈",
+    "警告圈",
+    "错误"
+  ]
+}

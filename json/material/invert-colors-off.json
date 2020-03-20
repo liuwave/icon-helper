@@ -1,0 +1,16 @@
+{
+  "id": "B3F155FA-57B1-4781-AC45-98A1A47673DC",
+  "name": "invert-colors-off",
+  "codepoint": "F0E4A",
+  "aliases": [
+    "invert-colours-off"
+  ],
+  "tags": [
+    "Color"
+  ],
+  "author": "Google",
+  "version": "3.6.95",
+  "zhs": [
+    "关闭颜色"
+  ]
+}

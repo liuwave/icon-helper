@@ -1,0 +1,17 @@
+{
+  "id": "DBA97655-B2ED-4FA6-95E0-02E7273549C9",
+  "name": "transmission-tower",
+  "codepoint": "F0D3E",
+  "aliases": [
+    "pylon",
+    "powerline"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "输电塔",
+    "铁塔",
+    "电力线"
+  ]
+}

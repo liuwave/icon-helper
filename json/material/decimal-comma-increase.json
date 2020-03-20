@@ -1,0 +1,14 @@
+{
+  "id": "3B4E5DF0-02B3-469D-9C6E-754683655184",
+  "name": "decimal-comma-increase",
+  "codepoint": "F10A4",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "十进制逗号增加"
+  ]
+}

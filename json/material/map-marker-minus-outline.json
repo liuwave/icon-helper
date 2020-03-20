@@ -1,0 +1,15 @@
+{
+  "id": "21A7EBBF-D884-4A4E-B722-01600B89FFB4",
+  "name": "map-marker-minus-outline",
+  "codepoint": "F12F9",
+  "aliases": [],
+  "tags": [
+    "Geographic Information System",
+    "Navigation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "地图标记减去轮廓"
+  ]
+}

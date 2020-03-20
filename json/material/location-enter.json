@@ -1,0 +1,17 @@
+{
+  "id": "2D8B2899-C765-48CF-9AEA-64327CB14542",
+  "name": "location-enter",
+  "codepoint": "F0FC4",
+  "aliases": [
+    "presence-enter"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "位置输入",
+    "状态输入"
+  ]
+}

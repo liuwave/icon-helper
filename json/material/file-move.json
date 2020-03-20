@@ -1,0 +1,14 @@
+{
+  "id": "BB72067F-4002-409B-BD46-6FD6F9CEBA51",
+  "name": "file-move",
+  "codepoint": "F0AB9",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.7.94",
+  "zhs": [
+    "文件移动"
+  ]
+}

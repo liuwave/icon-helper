@@ -1,0 +1,21 @@
+{
+  "id": "AF386BC9-683F-42B4-97DA-C256CF82C79F",
+  "name": "account-child-circle",
+  "codepoint": "F0A8A",
+  "aliases": [
+    "user-child-circle",
+    "person-child-circle",
+    "guardian-circle"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "2.7.94",
+  "zhs": [
+    "帐户子圈子",
+    "用户子圈子",
+    "人子圈子",
+    "监护人圈子"
+  ]
+}

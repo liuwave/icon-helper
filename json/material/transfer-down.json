@@ -1,0 +1,14 @@
+{
+  "id": "D4CB36CD-4F30-45BE-940D-CC2AFFCA078A",
+  "name": "transfer-down",
+  "codepoint": "F0DA1",
+  "aliases": [],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Michael Richins",
+  "version": "3.4.93",
+  "zhs": [
+    "向下转移"
+  ]
+}

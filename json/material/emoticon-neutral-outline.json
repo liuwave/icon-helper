@@ -1,0 +1,17 @@
+{
+  "id": "17F30B32-37E2-41BB-876C-70E568D04623",
+  "name": "emoticon-neutral-outline",
+  "codepoint": "F01F6",
+  "aliases": [
+    "smiley-neutral-outline"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "表情中性轮廓",
+    "笑脸中性轮廓"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9815CAC2-7390-4AE1-AE72-2B49546987EC",
+  "name": "step-backward-2",
+  "codepoint": "F04D6",
+  "aliases": [
+    "frame-backward"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "向后移动2",
+    "向后框架"
+  ]
+}

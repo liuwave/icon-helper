@@ -1,0 +1,27 @@
+{
+  "id": "A989F68B-23B9-4B50-BE4D-E3DF6E9420C9",
+  "name": "teach",
+  "codepoint": "F0890",
+  "aliases": [
+    "teacher",
+    "teaching",
+    "lecture",
+    "college",
+    "blackboard",
+    "whiteboard",
+    "human-male-board"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "房子",
+    "老师",
+    "教学",
+    "演讲",
+    "大学",
+    "黑板",
+    "白板",
+    "人类男性议会"
+  ]
+}

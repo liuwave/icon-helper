@@ -1,0 +1,17 @@
+{
+  "id": "2BC531B2-987E-411F-B3AE-3686F24F3B05",
+  "name": "alpha-s-box",
+  "codepoint": "F0B1A",
+  "aliases": [
+    "alphabet-s-box",
+    "letter-s-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "字母方块"
+  ]
+}

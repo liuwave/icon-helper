@@ -1,0 +1,17 @@
+{
+  "id": "46650D6B-318F-4202-AB77-79A113EC77AA",
+  "name": "file-delimited",
+  "codepoint": "F0218",
+  "aliases": [
+    "file-csv"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文件定界",
+    "文件csv"
+  ]
+}

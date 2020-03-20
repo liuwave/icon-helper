@@ -1,0 +1,15 @@
+{
+  "id": "B5465B23-729A-405E-9155-486A36D8135F",
+  "name": "cursor-pointer",
+  "codepoint": "F01BD",
+  "aliases": [
+    "cursor-hand"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "cuinter指针",
+    "光标手"
+  ]
+}

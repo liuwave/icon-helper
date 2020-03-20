@@ -1,0 +1,14 @@
+{
+  "id": "FEF8AC85-F9E6-4C9B-B0C2-A5158AAD8A8B",
+  "name": "home-remove",
+  "codepoint": "F1247",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.6.95",
+  "zhs": [
+    "主页删除"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "E8F2B8BE-F4EC-4B9C-BB15-001752B29FFD",
+  "name": "emoticon",
+  "codepoint": "F0C68",
+  "aliases": [
+    "smiley"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "图释",
+    "笑脸"
+  ]
+}

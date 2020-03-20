@@ -1,0 +1,12 @@
+{
+  "id": "B4F8AA0D-E5C6-4FC1-A91C-A7E47269FB31",
+  "name": "network-off",
+  "codepoint": "F0C9B",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "网络关闭"
+  ]
+}

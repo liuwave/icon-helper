@@ -1,0 +1,17 @@
+{
+  "id": "31173BE4-3D5E-45EB-BD45-3D19E86AF6B2",
+  "name": "cart-arrow-right",
+  "codepoint": "F0C4E",
+  "aliases": [
+    "trolley-arrow-right",
+    "shopping-cart-arrow-right"
+  ],
+  "tags": [
+    "Shopping"
+  ],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "向右购物车箭头"
+  ]
+}

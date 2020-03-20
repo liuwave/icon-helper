@@ -1,0 +1,14 @@
+{
+  "id": "79E7C071-7AEE-48B1-802E-922925E94247",
+  "name": "thermometer-chevron-up",
+  "codepoint": "F0E03",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "3.5.94",
+  "zhs": [
+    "人字形向上温度计"
+  ]
+}

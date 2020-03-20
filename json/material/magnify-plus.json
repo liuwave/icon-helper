@@ -1,0 +1,19 @@
+{
+  "id": "798F7C9D-2EC7-47EF-8729-845B4E2DDD16",
+  "name": "magnify-plus",
+  "codepoint": "F034B",
+  "aliases": [
+    "zoom-in",
+    "magnify-add",
+    "search-plus",
+    "search-add"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "放大",
+    "搜索加",
+    "搜索添加"
+  ]
+}

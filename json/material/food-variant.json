@@ -1,0 +1,14 @@
+{
+  "id": "1D25DDEC-2656-4729-BEBD-BB17F972DD09",
+  "name": "food-variant",
+  "codepoint": "F025C",
+  "aliases": [],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "食物装饰"
+  ]
+}

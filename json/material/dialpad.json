@@ -1,0 +1,15 @@
+{
+  "id": "B732FAD7-93A7-478E-810F-835069DE6EDB",
+  "name": "dialpad",
+  "codepoint": "F061C",
+  "aliases": [
+    "keypad"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.6.50",
+  "zhs": [
+    "拨号盘",
+    "键盘"
+  ]
+}

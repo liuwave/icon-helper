@@ -1,0 +1,23 @@
+{
+  "id": "3487FE3E-2B9B-4C69-B64C-B3E699E9EC8C",
+  "name": "message-alert-outline",
+  "codepoint": "F0A04",
+  "aliases": [
+    "announcement-outline",
+    "feedback-outline",
+    "message-warning-outline",
+    "sms-failed-outline"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Colton Wiscombe",
+  "version": "2.5.94",
+  "zhs": [
+    "邮件警报轮廓",
+    "公告轮廓",
+    "反馈轮廓",
+    "邮件警告轮廓",
+    "短信失败轮廓"
+  ]
+}

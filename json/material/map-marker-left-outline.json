@@ -1,0 +1,15 @@
+{
+  "id": "0283CCF3-BC73-4642-92FA-38E62D635368",
+  "name": "map-marker-left-outline",
+  "codepoint": "F12DD",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "地图标记左侧轮廓"
+  ]
+}

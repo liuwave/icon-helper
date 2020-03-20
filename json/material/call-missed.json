@@ -1,0 +1,15 @@
+{
+  "id": "CA2546B9-70B0-4E1A-B646-17163B0C76E4",
+  "name": "call-missed",
+  "codepoint": "F00F9",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone",
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "未接电话"
+  ]
+}

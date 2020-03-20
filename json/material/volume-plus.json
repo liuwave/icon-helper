@@ -1,0 +1,18 @@
+{
+  "id": "DECF3A51-F972-4D34-815D-D103BCE3888B",
+  "name": "volume-plus",
+  "codepoint": "F075D",
+  "aliases": [
+    "volume-increase"
+  ],
+  "tags": [
+    "Audio",
+    "Home Automation",
+    "Cellphone / Phone"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "音量增加"
+  ]
+}

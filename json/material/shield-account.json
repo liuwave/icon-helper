@@ -1,0 +1,21 @@
+{
+  "id": "CA71D276-C056-45E5-883E-B3D15868D859",
+  "name": "shield-account",
+  "codepoint": "F088F",
+  "aliases": [
+    "security-account",
+    "shield-user",
+    "shield-person"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "屏蔽帐户",
+    "安全帐户",
+    "屏蔽用户",
+    "屏蔽人员"
+  ]
+}

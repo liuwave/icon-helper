@@ -1,0 +1,16 @@
+{
+  "id": "BEF1218E-7AF7-45F9-930E-915791D51EDC",
+  "name": "floor-lamp",
+  "codepoint": "F08DD",
+  "aliases": [
+    "floor-light"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.3.50",
+  "zhs": [
+    "落地灯"
+  ]
+}

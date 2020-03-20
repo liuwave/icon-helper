@@ -1,0 +1,21 @@
+{
+  "id": "EC642A5A-34A2-4E29-85F1-60ACAA546FB1",
+  "name": "cellphone-erase",
+  "codepoint": "F094D",
+  "aliases": [
+    "phonelink-erase",
+    "mobile-phone-erase",
+    "smartphone-erase"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "手机擦除",
+    "电话链接擦除",
+    "智能手机擦除"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "D02C7FA0-E8E6-48B7-BEB7-4678B8D9DCA1",
+  "name": "gesture-double-tap",
+  "codepoint": "F073C",
+  "aliases": [
+    "interaction-double-tap",
+    "hand-double-tap"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "1.9.32",
+  "zhs": [
+    "双击手势",
+    "双击交互",
+    "双击手"
+  ]
+}

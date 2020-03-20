@@ -1,0 +1,17 @@
+{
+  "id": "6949FE9A-5B8C-4EDF-B74E-E0268A4F69F1",
+  "name": "home-modern",
+  "codepoint": "F02DD",
+  "aliases": [
+    "house-modern"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "现代家庭",
+    "现代住宅"
+  ]
+}

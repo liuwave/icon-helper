@@ -1,0 +1,15 @@
+{
+  "id": "7EFAD89C-D84E-41F0-A8A4-F72AC8DB470C",
+  "name": "book-open",
+  "codepoint": "F00BD",
+  "aliases": [
+    "chrome-reader-mode"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "打开书本",
+    "Chrome阅读器模式"
+  ]
+}

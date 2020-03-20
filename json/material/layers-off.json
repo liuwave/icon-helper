@@ -1,0 +1,17 @@
+{
+  "id": "1ADB303D-B8D9-49EF-8EB0-C02AFD269F02",
+  "name": "layers-off",
+  "codepoint": "F0329",
+  "aliases": [
+    "layers-clear"
+  ],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "关闭图层",
+    "清除图层"
+  ]
+}

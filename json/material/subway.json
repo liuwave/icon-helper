@@ -1,0 +1,19 @@
+{
+  "id": "769FB684-BA81-4E2A-B623-4C8B6F3DCD2C",
+  "name": "subway",
+  "codepoint": "F06AC",
+  "aliases": [
+    "metro",
+    "tube",
+    "underground"
+  ],
+  "tags": [
+    "Transportation + Other"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "地铁",
+    "地下"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "AE2E869B-B420-4505-9EE0-EE3751478D64",
+  "name": "badge-account",
+  "codepoint": "F0DA7",
+  "aliases": [
+    "user-badge",
+    "person-badge"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Richins",
+  "version": "3.5.94",
+  "zhs": [
+    "徽章帐户",
+    "用户徽章",
+    "徽章人"
+  ]
+}

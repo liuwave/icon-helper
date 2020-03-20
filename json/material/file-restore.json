@@ -1,0 +1,17 @@
+{
+  "id": "EE0E5547-D368-43CB-8BDD-7F3774985BEF",
+  "name": "file-restore",
+  "codepoint": "F0670",
+  "aliases": [
+    "restore-page"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Google",
+  "version": "1.6.50",
+  "zhs": [
+    "文件还原",
+    "还原页面"
+  ]
+}

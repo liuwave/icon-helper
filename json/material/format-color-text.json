@@ -1,0 +1,17 @@
+{
+  "id": "D28EF658-3CE7-4F5B-99B3-50F60F5B0BA0",
+  "name": "format-color-text",
+  "codepoint": "F069E",
+  "aliases": [
+    "format-colour-text"
+  ],
+  "tags": [
+    "Text / Content / Format",
+    "Color"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "彩色文本格式"
+  ]
+}

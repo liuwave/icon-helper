@@ -1,0 +1,21 @@
+{
+  "id": "7EF95029-012C-456C-A1E8-BB96961071FD",
+  "name": "judaism",
+  "codepoint": "F097A",
+  "aliases": [
+    "jewish",
+    "religion-judaic",
+    "star-of-david",
+    "magen-david"
+  ],
+  "tags": [
+    "Religion"
+  ],
+  "author": "Nick",
+  "version": "2.4.85",
+  "zhs": [
+    "犹太教",
+    "大卫之星",
+    "大卫·马根"
+  ]
+}

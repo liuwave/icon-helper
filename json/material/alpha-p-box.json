@@ -1,0 +1,17 @@
+{
+  "id": "A2775802-5936-4F9A-9E7F-54D2EA8CC0E9",
+  "name": "alpha-p-box",
+  "codepoint": "F0B17",
+  "aliases": [
+    "alphabet-p-box",
+    "letter-p-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "字母p盒"
+  ]
+}

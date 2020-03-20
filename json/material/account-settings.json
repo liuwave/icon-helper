@@ -1,0 +1,20 @@
+{
+  "id": "A975CEEA-FDFD-49A2-A618-E74A3FF87A63",
+  "name": "account-settings",
+  "codepoint": "F0630",
+  "aliases": [
+    "user-settings",
+    "person-settings"
+  ],
+  "tags": [
+    "Account / User",
+    "Settings"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.6.50",
+  "zhs": [
+    "帐户设置",
+    "用户设置",
+    "人员设置"
+  ]
+}

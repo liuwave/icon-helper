@@ -1,0 +1,17 @@
+{
+  "id": "B05E458D-886A-491D-9969-156562C52105",
+  "name": "human",
+  "codepoint": "F02E6",
+  "aliases": [
+    "accessibility"
+  ],
+  "tags": [
+    "People / Family"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "人类",
+    "可访问性"
+  ]
+}

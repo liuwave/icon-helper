@@ -1,0 +1,14 @@
+{
+  "id": "043DEA8B-1F5B-49CE-BC9F-AA3FC802A58A",
+  "name": "flashlight-off",
+  "codepoint": "F0245",
+  "aliases": [
+    "torch-off"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "手电筒关闭"
+  ]
+}

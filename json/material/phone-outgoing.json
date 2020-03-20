@@ -1,0 +1,14 @@
+{
+  "id": "52280181-270B-4624-97FE-F46126C65BE7",
+  "name": "phone-outgoing",
+  "codepoint": "F03FB",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "电话外发"
+  ]
+}

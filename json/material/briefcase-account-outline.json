@@ -1,0 +1,19 @@
+{
+  "id": "F92EB0E4-257F-4200-A18E-0F0C02C8DB51",
+  "name": "briefcase-account-outline",
+  "codepoint": "F0CF1",
+  "aliases": [
+    "briefcase-person-outline",
+    "briefcase-user-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "公文包帐户轮廓",
+    "公文包人轮廓",
+    "公文包用户轮廓"
+  ]
+}

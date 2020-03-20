@@ -1,0 +1,14 @@
+{
+  "id": "910BCFA6-ED67-48A5-97EB-BA61969629E9",
+  "name": "battery-bluetooth-variant",
+  "codepoint": "F0949",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "电池蓝牙音调"
+  ]
+}

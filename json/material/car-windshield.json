@@ -1,0 +1,17 @@
+{
+  "id": "6E8AA995-39A0-44C4-A0FF-3BC1CA7787DE",
+  "name": "car-windshield",
+  "codepoint": "F101B",
+  "aliases": [
+    "car-front-glass"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "汽车挡风玻璃",
+    "汽车前玻璃"
+  ]
+}

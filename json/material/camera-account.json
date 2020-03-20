@@ -1,0 +1,18 @@
+{
+  "id": "E6F67D5D-0EED-450C-B39F-75D37E9B63CA",
+  "name": "camera-account",
+  "codepoint": "F08CB",
+  "aliases": [
+    "camera-user"
+  ],
+  "tags": [
+    "Account / User",
+    "Photography"
+  ],
+  "author": "Google",
+  "version": "2.3.50",
+  "zhs": [
+    "相机帐户",
+    "用户相机"
+  ]
+}

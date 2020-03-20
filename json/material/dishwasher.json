@@ -1,0 +1,14 @@
+{
+  "id": "41CB517E-41F5-47D4-A8A2-E9512CB065DD",
+  "name": "dishwasher",
+  "codepoint": "F0AAC",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "2.7.94",
+  "zhs": [
+    "洗碗机"
+  ]
+}

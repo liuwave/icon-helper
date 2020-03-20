@@ -1,0 +1,17 @@
+{
+  "id": "FF34C5A8-4433-4B47-A9E5-EB836CFFCEC9",
+  "name": "message-reply-text",
+  "codepoint": "F0368",
+  "aliases": [
+    "comment",
+    "insert-comment"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "消息回复文字",
+    "评论",
+    "插入评论"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4AA98685-EEBB-4816-801E-3B12DCB4413F",
+  "name": "format-list-bulleted-square",
+  "codepoint": "F0DD0",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "3.5.94",
+  "zhs": [
+    "格式列表项目符号正方形"
+  ]
+}

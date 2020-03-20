@@ -1,0 +1,17 @@
+{
+  "id": "EF6AC5FE-7E6E-47AC-B5D8-E802CBB94E3B",
+  "name": "calendar-heart",
+  "codepoint": "F09D2",
+  "aliases": [
+    "event-heart"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.5.94",
+  "zhs": [
+    "日历心",
+    "事件心"
+  ]
+}

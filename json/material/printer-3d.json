@@ -1,0 +1,15 @@
+{
+  "id": "86A3D6B7-6C8B-4883-B51B-753DEF0F4A62",
+  "name": "printer-3d",
+  "codepoint": "F042B",
+  "aliases": [],
+  "tags": [
+    "Printer",
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "3D打印机"
+  ]
+}

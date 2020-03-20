@@ -1,0 +1,17 @@
+{
+  "id": "50A773A8-4349-4B7F-A211-6CB14E9C090B",
+  "name": "fishbowl",
+  "codepoint": "F0EF3",
+  "aliases": [
+    "aquarium"
+  ],
+  "tags": [
+    "Animal"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "鱼缸",
+    "水族馆"
+  ]
+}

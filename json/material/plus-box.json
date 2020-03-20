@@ -1,0 +1,16 @@
+{
+  "id": "87EE041D-81D2-4F1A-A757-F76E9D8686EF",
+  "name": "plus-box",
+  "codepoint": "F0416",
+  "aliases": [
+    "add-box"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "加盒"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "DD218F3D-C302-477A-9B9F-482813328DE6",
+  "name": "format-underline",
+  "codepoint": "F0287",
+  "aliases": [
+    "format-underlined"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "下划线格式"
+  ]
+}

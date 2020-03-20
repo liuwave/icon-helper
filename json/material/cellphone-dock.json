@@ -1,0 +1,19 @@
+{
+  "id": "4FBBF196-CF97-436B-A3E6-A08D695E6986",
+  "name": "cellphone-dock",
+  "codepoint": "F011F",
+  "aliases": [
+    "mobile-phone-dock",
+    "smartphone-dock"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "手机底座",
+    "智能手机底座"
+  ]
+}

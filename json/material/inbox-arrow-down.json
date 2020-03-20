@@ -1,0 +1,15 @@
+{
+  "id": "A20D1ABC-DD99-404B-8BEE-967BB1C636B0",
+  "name": "inbox-arrow-down",
+  "codepoint": "F02FB",
+  "aliases": [
+    "move-to-inbox"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "收件箱向下箭头",
+    "移至收件箱"
+  ]
+}

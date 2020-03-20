@@ -1,0 +1,18 @@
+{
+  "id": "8EF337DF-4858-4BC2-8C48-BD0911AF0FEB",
+  "name": "credit-card-settings-outline",
+  "codepoint": "F08D7",
+  "aliases": [
+    "payment-settings"
+  ],
+  "tags": [
+    "Banking",
+    "Settings"
+  ],
+  "author": "Peter Noble",
+  "version": "2.3.50",
+  "zhs": [
+    "信用卡设置概述",
+    "付款设置"
+  ]
+}

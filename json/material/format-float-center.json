@@ -1,0 +1,16 @@
+{
+  "id": "3BC78F10-A7C3-4F15-9328-138E35CFC259",
+  "name": "format-float-center",
+  "codepoint": "F0267",
+  "aliases": [
+    "format-float-centre"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Andreas Gohr",
+  "version": "1.5.54",
+  "zhs": [
+    "格式浮动中心"
+  ]
+}

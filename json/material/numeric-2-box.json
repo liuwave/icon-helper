@@ -1,0 +1,19 @@
+{
+  "id": "0F35B058-84BF-42A1-8EC2-4DF8A5F2CB6D",
+  "name": "numeric-2-box",
+  "codepoint": "F03A7",
+  "aliases": [
+    "looks-two",
+    "numeric-two-box",
+    "number-2-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字2框",
+    "外观为2"
+  ]
+}

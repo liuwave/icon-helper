@@ -1,0 +1,14 @@
+{
+  "id": "BE1C767B-C032-487C-AB85-E2E960C9A89D",
+  "name": "camcorder-off",
+  "codepoint": "F00FF",
+  "aliases": [],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.5.54",
+  "zhs": [
+    "摄录机关闭"
+  ]
+}

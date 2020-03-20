@@ -1,0 +1,21 @@
+{
+  "id": "43A2B10E-F7DF-4181-B607-EC2039AFFA0D",
+  "name": "metronome-tick",
+  "codepoint": "F07DB",
+  "aliases": [
+    "tempo-tick",
+    "bpm-tick",
+    "beats-per-minute-tick"
+  ],
+  "tags": [
+    "Music"
+  ],
+  "author": "Haley Halcyon",
+  "version": "2.0.46",
+  "zhs": [
+    "节拍器刻度",
+    "速度刻度",
+    "bpm刻度",
+    "每分钟节拍数"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2D40D813-D1C8-4190-8010-012467F9E48F",
+  "name": "bag-checked",
+  "codepoint": "F0F3D",
+  "aliases": [
+    "luggage"
+  ],
+  "tags": [
+    "Transportation + Flying"
+  ],
+  "author": "Google",
+  "version": "3.9.97",
+  "zhs": [
+    "托运行李",
+    "行李"
+  ]
+}

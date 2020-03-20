@@ -1,0 +1,16 @@
+{
+  "id": "F9BA7066-C1F8-4B19-9860-37BDCEB6F11C",
+  "name": "phone-in-talk",
+  "codepoint": "F03F6",
+  "aliases": [
+    "telephone-in-talk"
+  ],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "通话中"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "738FB781-E590-444B-85B8-1773DDC814E9",
+  "name": "microsoft-xbox-controller-battery-charging",
+  "codepoint": "F0A22",
+  "aliases": [],
+  "tags": [
+    "Gaming / RPG",
+    "Battery"
+  ],
+  "author": "Contributors",
+  "version": "2.5.94",
+  "zhs": [
+    "Microsoft xbox控制器电池充电"
+  ]
+}

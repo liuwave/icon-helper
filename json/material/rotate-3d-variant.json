@@ -1,0 +1,15 @@
+{
+  "id": "D09D0551-14A0-470B-A24C-0AC38F739FFA",
+  "name": "rotate-3d-variant",
+  "codepoint": "F0464",
+  "aliases": [
+    "3d-rotation"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "旋转3d口音",
+    "3d旋转"
+  ]
+}

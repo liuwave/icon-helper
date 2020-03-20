@@ -1,0 +1,19 @@
+{
+  "id": "6487E4ED-C501-416C-9DCE-1B7C1F676050",
+  "name": "pill",
+  "codepoint": "F0402",
+  "aliases": [
+    "medicine",
+    "capsule"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "药片",
+    "女巫",
+    "胶囊"
+  ]
+}

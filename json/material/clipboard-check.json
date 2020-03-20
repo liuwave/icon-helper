@@ -1,0 +1,17 @@
+{
+  "id": "2FA574EF-C285-465F-A254-868506FA4273",
+  "name": "clipboard-check",
+  "codepoint": "F014E",
+  "aliases": [
+    "assignment-turned-in",
+    "clipboard-tick"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "剪贴板检查",
+    "作业已上交",
+    "剪贴板刻度"
+  ]
+}

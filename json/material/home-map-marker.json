@@ -1,0 +1,18 @@
+{
+  "id": "D543BDC6-BC40-4A36-B2F0-60313D8F4EEB",
+  "name": "home-map-marker",
+  "codepoint": "F05F8",
+  "aliases": [
+    "house-map-marker"
+  ],
+  "tags": [
+    "Home Automation",
+    "Navigation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "主页地图标记",
+    "房屋地图标记"
+  ]
+}

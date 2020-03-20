@@ -1,0 +1,17 @@
+{
+  "id": "1489D950-AD3A-47BD-A0CD-2E0A33943F54",
+  "name": "steering-off",
+  "codepoint": "F090E",
+  "aliases": [
+    "search-hands-free-off"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "2.3.50",
+  "zhs": [
+    "转向",
+    "免提搜索"
+  ]
+}

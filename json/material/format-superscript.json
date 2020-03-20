@@ -1,0 +1,18 @@
+{
+  "id": "41BF2594-97C2-481A-AA66-029CE1BF4C2D",
+  "name": "format-superscript",
+  "codepoint": "F0283",
+  "aliases": [
+    "exponent"
+  ],
+  "tags": [
+    "Text / Content / Format",
+    "Math"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "上标格式",
+    "指数"
+  ]
+}

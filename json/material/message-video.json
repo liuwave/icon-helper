@@ -1,0 +1,17 @@
+{
+  "id": "7AEB07C3-0EFC-4D74-BB5B-2EB1288DC27D",
+  "name": "message-video",
+  "codepoint": "F036B",
+  "aliases": [
+    "voice-chat"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "视频消息",
+    "语音聊天"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "B8D54537-7FBC-44B4-8091-2F85D8ACF05B",
+  "name": "folder-swap",
+  "codepoint": "F0FB6",
+  "aliases": [
+    "folder-transfer"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "交换文件夹",
+    "转移文件夹"
+  ]
+}

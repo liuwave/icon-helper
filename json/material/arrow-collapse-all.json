@@ -1,0 +1,17 @@
+{
+  "id": "54364780-8F31-4B23-8085-ABE21EA55926",
+  "name": "arrow-collapse-all",
+  "codepoint": "F0044",
+  "aliases": [
+    "arrow-compress-all"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "箭头全部折叠",
+    "箭头全部压缩"
+  ]
+}

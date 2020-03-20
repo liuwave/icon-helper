@@ -1,0 +1,17 @@
+{
+  "id": "FD797202-9EF1-407E-A290-97C014B8F37E",
+  "name": "basketball",
+  "codepoint": "F0806",
+  "aliases": [
+    "youtube-sports"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "篮球",
+    "YouTube体育"
+  ]
+}

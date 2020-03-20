@@ -1,0 +1,17 @@
+{
+  "id": "5E1EDFBD-2E67-41E1-8E23-F835614DBBD9",
+  "name": "alphabet-greek",
+  "codepoint": "F132E",
+  "aliases": [
+    "writing-system-greek"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "字母希腊语",
+    "希腊书写系统"
+  ]
+}

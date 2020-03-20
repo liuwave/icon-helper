@@ -1,0 +1,21 @@
+{
+  "id": "E3A4F70D-92EF-4115-BBB3-3BE68A788F5D",
+  "name": "clock-outline",
+  "codepoint": "F0150",
+  "aliases": [
+    "access-time",
+    "query-builder",
+    "schedule"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "时钟轮廓",
+    "访问时间",
+    "查询生成器",
+    "计划"
+  ]
+}

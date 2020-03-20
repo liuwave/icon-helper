@@ -1,0 +1,20 @@
+{
+  "id": "18EF6E1E-8EF9-4A62-AAB9-6E8BE591408A",
+  "name": "stove",
+  "codepoint": "F04DE",
+  "aliases": [
+    "cooker",
+    "oven"
+  ],
+  "tags": [
+    "Food / Drink",
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "火炉",
+    "炊具",
+    "烤箱"
+  ]
+}

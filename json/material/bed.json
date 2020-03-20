@@ -1,0 +1,18 @@
+{
+  "id": "EA62EF73-ACC7-4E54-87EF-D5E1683BE58F",
+  "name": "bed",
+  "codepoint": "F02E3",
+  "aliases": [
+    "hotel"
+  ],
+  "tags": [
+    "Home Automation",
+    "Holiday"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "床",
+    "酒店"
+  ]
+}

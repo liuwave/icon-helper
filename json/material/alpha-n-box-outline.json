@@ -1,0 +1,18 @@
+{
+  "id": "DF0B3005-5E38-4E53-9025-981EFA45D8FD",
+  "name": "alpha-n-box-outline",
+  "codepoint": "F0C12",
+  "aliases": [
+    "alphabet-n-box-outline",
+    "letter-n-box-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Contributors",
+  "version": "3.2.89",
+  "zhs": [
+    "alpha n框轮廓",
+    "字母n框轮廓"
+  ]
+}

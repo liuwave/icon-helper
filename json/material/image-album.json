@@ -1,0 +1,14 @@
+{
+  "id": "DD2262AA-A145-4788-899D-46D807B4FC0D",
+  "name": "image-album",
+  "codepoint": "F02EA",
+  "aliases": [
+    "photo-album"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "相册"
+  ]
+}

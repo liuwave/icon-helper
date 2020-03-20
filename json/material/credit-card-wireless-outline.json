@@ -1,0 +1,18 @@
+{
+  "id": "694399D0-1348-4EB0-BA34-ECD2FE4987C2",
+  "name": "credit-card-wireless-outline",
+  "codepoint": "F0D6C",
+  "aliases": [
+    "credit-card-contactless"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Michael Richins",
+  "version": "3.4.93",
+  "zhs": [
+    "信用卡无线轮廓",
+    "信用卡非接触式"
+  ]
+}

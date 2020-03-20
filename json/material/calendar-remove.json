@@ -1,0 +1,19 @@
+{
+  "id": "2FAF3098-4BD1-4C70-94A8-F75E1EA54F49",
+  "name": "calendar-remove",
+  "codepoint": "F00F4",
+  "aliases": [
+    "event-busy",
+    "event-remove"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "日历删除",
+    "事件忙",
+    "事件删除"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8C05288A-4D13-4252-ABD1-CB288AFE9B4E",
+  "name": "file-replace",
+  "codepoint": "F0B32",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Richins",
+  "version": "2.8.94",
+  "zhs": [
+    "文件替换"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2A5A98F5-ED95-40DE-8EC5-1293795CF661",
+  "name": "shield-home",
+  "codepoint": "F068A",
+  "aliases": [
+    "security-home",
+    "shield-house"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.7.12",
+  "zhs": [
+    "盾构房屋",
+    "家庭安全"
+  ]
+}

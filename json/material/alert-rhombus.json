@@ -1,0 +1,14 @@
+{
+  "id": "C8354F93-0DA4-48B4-97B3-4BDE2C0046AB",
+  "name": "alert-rhombus",
+  "codepoint": "F11CE",
+  "aliases": [],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Michael Richins",
+  "version": "4.5.95",
+  "zhs": [
+    "机敏菱形"
+  ]
+}

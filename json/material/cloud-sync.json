@@ -1,0 +1,14 @@
+{
+  "id": "BEA2DB85-AD43-4208-8F5E-5029997B23B7",
+  "name": "cloud-sync",
+  "codepoint": "F063F",
+  "aliases": [],
+  "tags": [
+    "Cloud"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.6.50",
+  "zhs": [
+    "云同步"
+  ]
+}

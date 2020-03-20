@@ -1,0 +1,15 @@
+{
+  "id": "A9EE1532-2932-4F71-95DC-1EFB56BA4DFC",
+  "name": "vpn",
+  "codepoint": "F0582",
+  "aliases": [
+    "virtual-private-network"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "VPN",
+    "虚拟专用网"
+  ]
+}

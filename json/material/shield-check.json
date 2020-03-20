@@ -1,0 +1,21 @@
+{
+  "id": "FC112FD8-5338-49C0-B4E0-FE1816A71E74",
+  "name": "shield-check",
+  "codepoint": "F0565",
+  "aliases": [
+    "verified-user",
+    "shield-tick",
+    "verified"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "屏蔽检查",
+    "用户验证",
+    "屏蔽刻度",
+    "已验证"
+  ]
+}

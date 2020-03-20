@@ -1,0 +1,15 @@
+{
+  "id": "F9EA980F-2C75-48DE-9D56-9A15CFE52865",
+  "name": "speaker-wireless",
+  "codepoint": "F071F",
+  "aliases": [],
+  "tags": [
+    "Audio",
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.8.36",
+  "zhs": [
+    "无线音箱"
+  ]
+}

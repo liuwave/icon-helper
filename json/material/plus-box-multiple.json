@@ -1,0 +1,20 @@
+{
+  "id": "BF1B666E-57AC-41B0-950B-4F4060BDF601",
+  "name": "plus-box-multiple",
+  "codepoint": "F0334",
+  "aliases": [
+    "add-to-photos",
+    "library-add",
+    "queue",
+    "library-plus"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "加多个框",
+    "添加到照片",
+    "添加图库",
+    "添加队列"
+  ]
+}

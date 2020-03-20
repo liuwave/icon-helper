@@ -1,0 +1,19 @@
+{
+  "id": "7837B9B7-2A6F-42E3-894D-C40D0080FB7B",
+  "name": "delete-restore",
+  "codepoint": "F0819",
+  "aliases": [
+    "trash-restore",
+    "bin-restore",
+    "restore-from-trash"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "删除还原",
+    "垃圾回收",
+    "bin还原",
+    "从垃圾回收"
+  ]
+}

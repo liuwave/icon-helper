@@ -1,0 +1,19 @@
+{
+  "id": "42C06A23-81D5-4EF6-8CFA-B4FBF66E7B17",
+  "name": "washing-machine",
+  "codepoint": "F072A",
+  "aliases": [
+    "laundrette",
+    "local-laundry-service"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.8.36",
+  "zhs": [
+    "洗衣机",
+    "自动洗衣店",
+    "当地洗衣服务"
+  ]
+}

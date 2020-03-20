@@ -1,0 +1,14 @@
+{
+  "id": "FF2BA1EF-7AAE-4271-B799-6A51FE84427E",
+  "name": "gate-nand",
+  "codepoint": "F08E2",
+  "aliases": [
+    "logic-gate-nand"
+  ],
+  "tags": [],
+  "author": "Nick",
+  "version": "2.3.50",
+  "zhs": [
+    "逻辑门nand"
+  ]
+}

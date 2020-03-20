@@ -1,0 +1,15 @@
+{
+  "id": "FABB67CE-5F69-4D45-95B9-02D7BFC9EABD",
+  "name": "folder-lock",
+  "codepoint": "F0250",
+  "aliases": [],
+  "tags": [
+    "Lock",
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文件夹锁"
+  ]
+}

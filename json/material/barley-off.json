@@ -1,0 +1,19 @@
+{
+  "id": "6627D247-B25C-48F3-925D-BF282D7B4295",
+  "name": "barley-off",
+  "codepoint": "F0B5D",
+  "aliases": [
+    "gluten-free",
+    "grain-off",
+    "wheat-off"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "3.0.39",
+  "zhs": [
+    "大麦关闭",
+    "无麸质",
+    "谷物关闭",
+    "小麦关闭"
+  ]
+}

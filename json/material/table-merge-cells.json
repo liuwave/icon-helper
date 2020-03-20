@@ -1,0 +1,14 @@
+{
+  "id": "BE891E33-2018-4619-BF4C-C006B4063785",
+  "name": "table-merge-cells",
+  "codepoint": "F09A6",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "表合并单元格"
+  ]
+}

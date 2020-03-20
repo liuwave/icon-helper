@@ -1,0 +1,18 @@
+{
+  "id": "9A7BCD6C-B4FB-4AE5-B22F-C5B8E2FB3B66",
+  "name": "home-account",
+  "codepoint": "F0826",
+  "aliases": [
+    "home-user"
+  ],
+  "tags": [
+    "Account / User",
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.1.19",
+  "zhs": [
+    "家庭帐户",
+    "家庭用户"
+  ]
+}

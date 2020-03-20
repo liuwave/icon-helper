@@ -1,0 +1,15 @@
+{
+  "id": "6F2EAC1C-802A-48CF-A9E1-7EBFD4893BAF",
+  "name": "dolly",
+  "codepoint": "F0E9E",
+  "aliases": [
+    "hand-truck",
+    "trolley"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.7.94",
+  "zhs": [
+    "手推车"
+  ]
+}

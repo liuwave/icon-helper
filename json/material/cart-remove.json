@@ -1,0 +1,17 @@
+{
+  "id": "DCB745AA-0ECB-4584-88DA-52CC447555A0",
+  "name": "cart-remove",
+  "codepoint": "F0D69",
+  "aliases": [
+    "trolley-remove",
+    "shopping-cart-remove"
+  ],
+  "tags": [
+    "Shopping"
+  ],
+  "author": "Cody",
+  "version": "3.4.93",
+  "zhs": [
+    "移除购物车"
+  ]
+}

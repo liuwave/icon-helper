@@ -1,0 +1,15 @@
+{
+  "id": "5DAB0112-3768-4ADC-8796-A88B4473FE56",
+  "name": "wall",
+  "codepoint": "F07FE",
+  "aliases": [
+    "bricks"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "2.0.46",
+  "zhs": [
+    "墙壁",
+    "砖头"
+  ]
+}

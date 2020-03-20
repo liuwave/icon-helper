@@ -1,0 +1,19 @@
+{
+  "id": "3C2B7DF3-97FE-4EC4-B6A9-69A75FB26B67",
+  "name": "eye",
+  "codepoint": "F0208",
+  "aliases": [
+    "show",
+    "visibility",
+    "remove-red-eye"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "眼睛",
+    "显示",
+    "可见度",
+    "消除红眼"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "3B348D41-66D2-4CC7-894A-1C2E9EE64C7F",
+  "name": "sprinkler",
+  "codepoint": "F105F",
+  "aliases": [
+    "irrigation"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.1.95",
+  "zhs": [
+    "喷灌",
+    "灌溉"
+  ]
+}

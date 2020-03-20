@@ -1,0 +1,17 @@
+{
+  "id": "C7938632-FA58-4686-9B82-5E9CCDD0EC83",
+  "name": "robot-vacuum-variant",
+  "codepoint": "F0908",
+  "aliases": [
+    "neato"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.3.50",
+  "zhs": [
+    "声学保险丝机器人",
+    "neato"
+  ]
+}

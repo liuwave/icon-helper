@@ -1,0 +1,17 @@
+{
+  "id": "017E0965-CD2E-4B39-B0C5-410335848B12",
+  "name": "timer-outline",
+  "codepoint": "F051B",
+  "aliases": [
+    "stopwatch-outline"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "计时器轮廓",
+    "秒表轮廓"
+  ]
+}

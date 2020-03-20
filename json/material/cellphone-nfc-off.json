@@ -1,0 +1,14 @@
+{
+  "id": "E036E842-B41C-410B-BF8A-85B10A7E26D0",
+  "name": "cellphone-nfc-off",
+  "codepoint": "F12D8",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "手机NFC关闭"
+  ]
+}

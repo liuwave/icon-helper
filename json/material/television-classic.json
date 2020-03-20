@@ -1,0 +1,17 @@
+{
+  "id": "EB7FD483-EAF9-4FEE-8B82-25186D26827A",
+  "name": "television-classic",
+  "codepoint": "F07F4",
+  "aliases": [
+    "tv-classic"
+  ],
+  "tags": [
+    "Device / Tech",
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.0.46",
+  "zhs": [
+    "电视经典"
+  ]
+}

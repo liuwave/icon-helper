@@ -1,0 +1,14 @@
+{
+  "id": "E4BAD28B-B196-42B5-BD4D-92C81A8EADAE",
+  "name": "content-save-alert",
+  "codepoint": "F0F42",
+  "aliases": [],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Michael Richins",
+  "version": "3.9.97",
+  "zhs": [
+    "内容保存警报"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "6FF18A17-48D4-4173-9CBD-8DB77F5A6E2A",
+  "name": "inbox-multiple",
+  "codepoint": "F08B0",
+  "aliases": [
+    "inboxes"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "2.2.43",
+  "zhs": [
+    "多个收件箱"
+  ]
+}

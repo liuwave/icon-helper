@@ -1,0 +1,18 @@
+{
+  "id": "40B89929-0709-461F-8C7A-ED94CDDCC4AC",
+  "name": "desktop-classic",
+  "codepoint": "F07C0",
+  "aliases": [
+    "computer-classic"
+  ],
+  "tags": [
+    "Device / Tech",
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.0.46",
+  "zhs": [
+    "台式机经典版",
+    "计算机经典版"
+  ]
+}

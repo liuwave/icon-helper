@@ -1,0 +1,14 @@
+{
+  "id": "9AF465C3-5FEF-48E4-8D38-5A5A3D2A9799",
+  "name": "format-pilcrow",
+  "codepoint": "F06D8",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Richins",
+  "version": "1.8.36",
+  "zhs": [
+    "格式pilcrow"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "142861F0-C930-43ED-B186-4BD97C175394",
+  "name": "zodiac-libra",
+  "codepoint": "F0A83",
+  "aliases": [
+    "horoscope-libra"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "黄道带天秤座",
+    "星座天秤座"
+  ]
+}

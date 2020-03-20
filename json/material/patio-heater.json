@@ -1,0 +1,14 @@
+{
+  "id": "03B35003-B782-475E-AE4C-13021109AD97",
+  "name": "patio-heater",
+  "codepoint": "F0F80",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.9.97",
+  "zhs": [
+    "露台加热器"
+  ]
+}

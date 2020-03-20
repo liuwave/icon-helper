@@ -1,0 +1,21 @@
+{
+  "id": "A0B91DEA-DB9A-4737-B2F4-26B805B88648",
+  "name": "truck",
+  "codepoint": "F053D",
+  "aliases": [
+    "lorry",
+    "local-shipping",
+    "courier"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "卡车",
+    "货车",
+    "当地运输",
+    "快递"
+  ]
+}

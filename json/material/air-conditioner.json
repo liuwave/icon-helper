@@ -1,0 +1,18 @@
+{
+  "id": "FACEA69B-49F0-4588-BDEC-693965AD4649",
+  "name": "air-conditioner",
+  "codepoint": "F001B",
+  "aliases": [
+    "ac-unit"
+  ],
+  "tags": [
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "空调",
+    "空调装置"
+  ]
+}

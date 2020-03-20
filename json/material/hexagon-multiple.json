@@ -1,0 +1,16 @@
+{
+  "id": "60636193-AC27-470B-BCA5-94CEA29719A8",
+  "name": "hexagon-multiple",
+  "codepoint": "F06E1",
+  "aliases": [
+    "hexagons"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.8.36",
+  "zhs": [
+    "六角形六边形"
+  ]
+}

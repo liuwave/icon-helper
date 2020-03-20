@@ -1,0 +1,16 @@
+{
+  "id": "EF2214BE-8126-4458-A17A-74C58B30C2C5",
+  "name": "weather-cloudy-alert",
+  "codepoint": "F0F2F",
+  "aliases": [],
+  "tags": [
+    "Weather",
+    "Alert / Error",
+    "Cloud"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "天气多云警报"
+  ]
+}

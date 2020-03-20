@@ -1,0 +1,12 @@
+{
+  "id": "3AB3C243-0FD3-4903-A6EA-B0B29ABFAD6C",
+  "name": "ethernet",
+  "codepoint": "F0200",
+  "aliases": [],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "以太网"
+  ]
+}

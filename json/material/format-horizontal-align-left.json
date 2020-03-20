@@ -1,0 +1,14 @@
+{
+  "id": "AEA5545F-4C74-4A14-8F9E-92CC258216AD",
+  "name": "format-horizontal-align-left",
+  "codepoint": "F061F",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.6.50",
+  "zhs": [
+    "格式水平左对齐"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "169593B8-F579-4167-B49C-5F353BBABB00",
+  "name": "alphabet-piqad",
+  "codepoint": "F1330",
+  "aliases": [
+    "writing-system-piqad"
+  ],
+  "tags": [
+    "Alpha / Numeric",
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "字母piqad",
+    "书写系统piqad"
+  ]
+}

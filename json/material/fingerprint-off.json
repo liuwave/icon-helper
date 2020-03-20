@@ -1,0 +1,12 @@
+{
+  "id": "EC570B4F-91D7-4478-9B9F-4C61BC709652",
+  "name": "fingerprint-off",
+  "codepoint": "F0EB1",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "指纹关闭"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "03ED4E2F-41CE-47D7-ABB4-C8515C202499",
+  "name": "garage-alert",
+  "codepoint": "F0872",
+  "aliases": [
+    "garage-warning"
+  ],
+  "tags": [
+    "Home Automation",
+    "Alert / Error"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "车库警报",
+    "车库警告"
+  ]
+}

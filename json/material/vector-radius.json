@@ -1,0 +1,15 @@
+{
+  "id": "1B112A31-E2A7-4BAD-B1F1-5289B8811F08",
+  "name": "vector-radius",
+  "codepoint": "F074A",
+  "aliases": [],
+  "tags": [
+    "Vector",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "向量半径"
+  ]
+}

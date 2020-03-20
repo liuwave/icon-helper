@@ -1,0 +1,17 @@
+{
+  "id": "2EFEE436-9663-4C09-AD65-6727A0ED2AFD",
+  "name": "film",
+  "codepoint": "F022F",
+  "aliases": [
+    "camera-roll"
+  ],
+  "tags": [
+    "Photography",
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "胶卷"
+  ]
+}

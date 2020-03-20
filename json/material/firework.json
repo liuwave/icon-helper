@@ -1,0 +1,17 @@
+{
+  "id": "6385008C-99E4-4459-8B18-0CD594EC5C7E",
+  "name": "firework",
+  "codepoint": "F0E30",
+  "aliases": [
+    "bottle-rocket"
+  ],
+  "tags": [
+    "Holiday"
+  ],
+  "author": "Augustin Ursu",
+  "version": "3.6.95",
+  "zhs": [
+    "烟火",
+    "火箭瓶"
+  ]
+}

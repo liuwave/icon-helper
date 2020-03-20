@@ -1,0 +1,16 @@
+{
+  "id": "5158D0E3-0E77-4CC3-A9A4-727825812D00",
+  "name": "checkbox-multiple-marked-circle-outline",
+  "codepoint": "F063E",
+  "aliases": [
+    "checkboxes-marked-circle-outline"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Cody",
+  "version": "1.6.50",
+  "zhs": [
+    "标记为圆形轮廓的复选框"
+  ]
+}

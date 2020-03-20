@@ -1,0 +1,21 @@
+{
+  "id": "5A227D09-2828-4606-81B8-7622D7C8724C",
+  "name": "home-floor-a",
+  "codepoint": "F0D83",
+  "aliases": [
+    "home-floor-attic",
+    "house-floor-a",
+    "house-floor-attic"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.4.93",
+  "zhs": [
+    "家用地板a",
+    "家用地板阁楼",
+    "房屋地板a",
+    "房屋地板阁楼"
+  ]
+}

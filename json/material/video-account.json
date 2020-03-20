@@ -1,0 +1,18 @@
+{
+  "id": "F02BE782-F323-40E5-B245-DF7B6AFB2B15",
+  "name": "video-account",
+  "codepoint": "F0919",
+  "aliases": [
+    "video-user"
+  ],
+  "tags": [
+    "Account / User",
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "2.3.50",
+  "zhs": [
+    "视频帐户",
+    "用户视频"
+  ]
+}

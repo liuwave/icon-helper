@@ -1,0 +1,16 @@
+{
+  "id": "C989421F-7F77-45D9-9BB4-97D3DE8C8FB4",
+  "name": "shape-circle-plus",
+  "codepoint": "F065D",
+  "aliases": [
+    "shape-circle-add"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Kai Faust",
+  "version": "1.6.50",
+  "zhs": [
+    "形状圆加"
+  ]
+}

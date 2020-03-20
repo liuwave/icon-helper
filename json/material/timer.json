@@ -1,0 +1,15 @@
+{
+  "id": "7F6AFDDE-8C90-44FB-A000-D5F6EF93A943",
+  "name": "timer",
+  "codepoint": "F13AB",
+  "aliases": [
+    "stopwatch"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "5.0.45",
+  "zhs": [
+    "计时器",
+    "秒表"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "E1733CFB-12E3-436F-A0EC-F75AE38BAEDB",
+  "name": "link-variant-remove",
+  "codepoint": "F1101",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.3.95",
+  "zhs": [
+    "删除链接变体"
+  ]
+}

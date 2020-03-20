@@ -1,0 +1,14 @@
+{
+  "id": "862F1CFE-643B-44BB-9B46-33BF1C75CEE2",
+  "name": "car-clutch",
+  "codepoint": "F1018",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.1.95",
+  "zhs": [
+    "离合器车"
+  ]
+}

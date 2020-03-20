@@ -1,0 +1,19 @@
+{
+  "id": "87A5BD64-6069-4C5B-8D50-69D9049B80BC",
+  "name": "peanut",
+  "codepoint": "F0FFC",
+  "aliases": [
+    "allergen",
+    "food-allergy"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "花生",
+    "过敏原",
+    "食物过敏"
+  ]
+}

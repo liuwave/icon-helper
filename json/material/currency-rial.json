@@ -1,0 +1,25 @@
+{
+  "id": "55D42287-2705-451B-B87A-91C23AF3A945",
+  "name": "currency-rial",
+  "codepoint": "F0E9C",
+  "aliases": [
+    "currency-riyal",
+    "currency-irr",
+    "currency-omr",
+    "currency-yer",
+    "currency-sar"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Haley Halcyon",
+  "version": "3.7.94",
+  "zhs": [
+    "货币里亚尔",
+    "货币irr",
+    "货币omr",
+    "货币yer",
+    "货币sar"
+  ]
+}

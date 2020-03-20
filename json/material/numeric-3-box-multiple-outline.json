@@ -1,0 +1,20 @@
+{
+  "id": "394B1DFD-7009-4057-AD14-7F7D99B3A658",
+  "name": "numeric-3-box-multiple-outline",
+  "codepoint": "F03AB",
+  "aliases": [
+    "filter-3",
+    "numeric-three-box-multiple-outline",
+    "numeric-3-boxes-outline",
+    "number-3-box-multiple-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字3框多重轮廓",
+    "过滤器3"
+  ]
+}

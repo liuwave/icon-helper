@@ -1,0 +1,22 @@
+{
+  "id": "2261E999-4B3A-4540-BB30-B4C130137916",
+  "name": "cellphone-lock",
+  "codepoint": "F094F",
+  "aliases": [
+    "phonelink-lock",
+    "mobile-phone-lock",
+    "smartphone-lock"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Lock",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "手机锁",
+    "手机链接锁",
+    "智能手机锁"
+  ]
+}

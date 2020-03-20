@@ -1,0 +1,21 @@
+{
+  "id": "F3AA6A15-D060-40D7-A301-9EB1BAAF2F12",
+  "name": "numeric-6-box-multiple-outline",
+  "codepoint": "F03B4",
+  "aliases": [
+    "filter-6",
+    "numeric-six-box-multiple-outline",
+    "numeric-6-boxes-outline",
+    "number-6-box-multiple-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字6框多个轮廓",
+    "过滤器6",
+    "数字6框轮廓"
+  ]
+}

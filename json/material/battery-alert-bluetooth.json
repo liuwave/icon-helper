@@ -1,0 +1,17 @@
+{
+  "id": "7C1C81FB-9E38-4220-B225-460056043383",
+  "name": "battery-alert-bluetooth",
+  "codepoint": "F0947",
+  "aliases": [
+    "battery-warning-bluetooth"
+  ],
+  "tags": [
+    "Alert / Error",
+    "Battery"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "电池警告蓝牙"
+  ]
+}

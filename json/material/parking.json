@@ -1,0 +1,19 @@
+{
+  "id": "07C8266A-A135-443C-B2DD-4148CD718C51",
+  "name": "parking",
+  "codepoint": "F03E3",
+  "aliases": [
+    "car-park",
+    "local-parking"
+  ],
+  "tags": [
+    "Places"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "停车",
+    "停车场",
+    "本地停车"
+  ]
+}

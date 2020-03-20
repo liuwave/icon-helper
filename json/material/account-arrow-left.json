@@ -1,0 +1,19 @@
+{
+  "id": "34EAE057-F0E4-476A-B988-9BD149263BDF",
+  "name": "account-arrow-left",
+  "codepoint": "F0B51",
+  "aliases": [
+    "user-arrow-left",
+    "person-arrow-left"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Coffeemate",
+  "version": "3.0.39",
+  "zhs": [
+    "帐户向左箭头",
+    "用户向左箭头",
+    "人向左箭头"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "833E3484-3C40-4F98-96CB-537FB6225711",
+  "name": "home-thermometer",
+  "codepoint": "F0F54",
+  "aliases": [
+    "home-climate",
+    "home-temperature"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Contributors",
+  "version": "3.9.97",
+  "zhs": [
+    "家庭温度计",
+    "家庭气候",
+    "家庭温度"
+  ]
+}

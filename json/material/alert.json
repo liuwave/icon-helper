@@ -1,0 +1,19 @@
+{
+  "id": "9FF7DF3F-D575-433B-9C9A-69C58363C186",
+  "name": "alert",
+  "codepoint": "F0026",
+  "aliases": [
+    "warning",
+    "report-problem"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "警报",
+    "警告",
+    "问题报告"
+  ]
+}

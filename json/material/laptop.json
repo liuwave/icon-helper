@@ -1,0 +1,18 @@
+{
+  "id": "A8B6481F-EE91-4F90-81AC-DEB8A096F45A",
+  "name": "laptop",
+  "codepoint": "F0322",
+  "aliases": [
+    "computer"
+  ],
+  "tags": [
+    "Device / Tech",
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "笔记本电脑",
+    "计算机"
+  ]
+}

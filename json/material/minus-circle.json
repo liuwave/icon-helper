@@ -1,0 +1,21 @@
+{
+  "id": "DDEB98E7-E016-44CA-8DE7-A31969C2CC04",
+  "name": "minus-circle",
+  "codepoint": "F0376",
+  "aliases": [
+    "do-not-disturb-on",
+    "remove-circle",
+    "do-not-enter"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "减号",
+    "请勿打扰",
+    "移出圆圈",
+    "请勿输入"
+  ]
+}

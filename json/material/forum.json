@@ -1,0 +1,19 @@
+{
+  "id": "3AC84477-2308-4445-868C-9666AE25B054",
+  "name": "forum",
+  "codepoint": "F028C",
+  "aliases": [
+    "message-group",
+    "question-answer",
+    "chat"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "论坛",
+    "消息组",
+    "问题答案",
+    "聊天"
+  ]
+}

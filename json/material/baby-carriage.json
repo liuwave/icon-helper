@@ -1,0 +1,21 @@
+{
+  "id": "FA711E97-6083-45AA-9C92-FCCDABC57D37",
+  "name": "baby-carriage",
+  "codepoint": "F068F",
+  "aliases": [
+    "child-friendly",
+    "stroller",
+    "pram",
+    "buggy"
+  ],
+  "tags": [
+    "People / Family"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "婴儿车",
+    "儿童友好",
+    "儿童车"
+  ]
+}

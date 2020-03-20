@@ -1,0 +1,27 @@
+{
+  "id": "4ACD18FB-87D4-46F1-9231-8BD0A91867A9",
+  "name": "card-account-details",
+  "codepoint": "F05D2",
+  "aliases": [
+    "identification-card",
+    "user-card-details",
+    "id-card",
+    "person-card-details",
+    "drivers-license",
+    "business-card"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Christopher Schreiner",
+  "version": "1.5.54",
+  "zhs": [
+    "卡帐户详细信息",
+    "卡识别",
+    "用户卡详细信息",
+    "身份证",
+    "人卡详细信息",
+    "驾驶执照",
+    "名片"
+  ]
+}

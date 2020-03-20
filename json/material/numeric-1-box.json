@@ -1,0 +1,20 @@
+{
+  "id": "0EF5316E-7978-4F6C-B38E-297837B3CFF5",
+  "name": "numeric-1-box",
+  "codepoint": "F03A4",
+  "aliases": [
+    "looks-one",
+    "numeric-one-box",
+    "number-1-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字1框",
+    "外观为1",
+    "数字为1框"
+  ]
+}

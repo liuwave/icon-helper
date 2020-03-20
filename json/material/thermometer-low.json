@@ -1,0 +1,14 @@
+{
+  "id": "DBD8C754-85C4-43C4-BEA8-BCFEDB30B382",
+  "name": "thermometer-low",
+  "codepoint": "F10C3",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "温度计低"
+  ]
+}

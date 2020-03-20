@@ -1,0 +1,23 @@
+{
+  "id": "48BA3B7B-1EF7-4160-A0BB-54EBCF999A13",
+  "name": "check-all",
+  "codepoint": "F012D",
+  "aliases": [
+    "tick-all",
+    "done-all",
+    "check-multiple",
+    "checks",
+    "ticks"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "检查所有",
+    "勾选所有",
+    "完成全部",
+    "检查多个",
+    "检查",
+    "勾选"
+  ]
+}

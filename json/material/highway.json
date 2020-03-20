@@ -1,0 +1,17 @@
+{
+  "id": "81E5D79D-2ECD-4040-9B07-3A0C19792348",
+  "name": "highway",
+  "codepoint": "F05F7",
+  "aliases": [
+    "autobahn",
+    "motorway"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Christopher Schreiner",
+  "version": "1.5.54",
+  "zhs": [
+    "高速公路"
+  ]
+}

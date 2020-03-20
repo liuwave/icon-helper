@@ -1,0 +1,17 @@
+{
+  "id": "BE74C70B-7E47-4E25-957C-C83CFEB73D6D",
+  "name": "timer-off-outline",
+  "codepoint": "F051E",
+  "aliases": [
+    "stopwatch-off-outline"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "计时器偏离轮廓",
+    "秒表偏离轮廓"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "3313CE4A-E2EF-4E46-8110-C0BF297D0C16",
+  "name": "regex",
+  "codepoint": "F0451",
+  "aliases": [
+    "regular-expression"
+  ],
+  "tags": [],
+  "author": "Doug C. Hardester",
+  "version": "1.5.54",
+  "zhs": [
+    "正则表达式"
+  ]
+}

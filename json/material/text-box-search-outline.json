@@ -1,0 +1,17 @@
+{
+  "id": "D32F390E-2888-4C63-99FA-9662902B6694",
+  "name": "text-box-search-outline",
+  "codepoint": "F0EAF",
+  "aliases": [
+    "file-document-box-search-outline"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.7.94",
+  "zhs": [
+    "文本框搜索轮廓",
+    "文件文档框搜索轮廓"
+  ]
+}

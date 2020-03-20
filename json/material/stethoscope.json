@@ -1,0 +1,14 @@
+{
+  "id": "641202BA-294A-4A0F-851D-FB83FEC9D7EE",
+  "name": "stethoscope",
+  "codepoint": "F04D9",
+  "aliases": [],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "听诊器"
+  ]
+}

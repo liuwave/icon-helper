@@ -1,0 +1,17 @@
+{
+  "id": "5324E881-FACF-4CAC-9118-FD963EDCDD27",
+  "name": "rotate-right",
+  "codepoint": "F0467",
+  "aliases": [
+    "arrow-rotate-right"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "向右旋转",
+    "箭头向右旋转"
+  ]
+}

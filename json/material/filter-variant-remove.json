@@ -1,0 +1,12 @@
+{
+  "id": "AE1B79F5-59D9-4FA4-8006-CE60BB5F5207",
+  "name": "filter-variant-remove",
+  "codepoint": "F103F",
+  "aliases": [],
+  "tags": [],
+  "author": "David Jackson",
+  "version": "4.1.95",
+  "zhs": [
+    "过滤器变体移除"
+  ]
+}

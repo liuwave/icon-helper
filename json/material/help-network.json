@@ -1,0 +1,15 @@
+{
+  "id": "FE0A3DAC-0D3D-4D49-A869-F78B44B26E35",
+  "name": "help-network",
+  "codepoint": "F06F5",
+  "aliases": [
+    "question-network"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.8.36",
+  "zhs": [
+    "帮助网络",
+    "问题网络"
+  ]
+}

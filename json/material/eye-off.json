@@ -1,0 +1,17 @@
+{
+  "id": "4D1385CF-1389-43D3-BD88-A83018434FB6",
+  "name": "eye-off",
+  "codepoint": "F0209",
+  "aliases": [
+    "hide",
+    "visibility-off"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "眼睛",
+    "隐藏",
+    "可见度关闭"
+  ]
+}

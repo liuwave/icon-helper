@@ -1,0 +1,19 @@
+{
+  "id": "F9BD830F-EBB6-45A4-A576-0DEC27084A95",
+  "name": "currency-gbp",
+  "codepoint": "F01AE",
+  "aliases": [
+    "pound",
+    "sterling"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "货币gbp",
+    "英镑"
+  ]
+}

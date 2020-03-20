@@ -1,0 +1,14 @@
+{
+  "id": "DFC698A7-3040-48F4-A341-C1E667A4FE22",
+  "name": "priority-low",
+  "codepoint": "F0604",
+  "aliases": [
+    "low-priority"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "低优先级"
+  ]
+}

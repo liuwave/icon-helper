@@ -1,0 +1,23 @@
+{
+  "id": "FCF4FF57-4547-4C11-A20A-3D26252780EC",
+  "name": "car",
+  "codepoint": "F010B",
+  "aliases": [
+    "directions-car",
+    "drive-eta",
+    "time-to-leave"
+  ],
+  "tags": [
+    "Transportation + Road",
+    "Navigation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "汽车",
+    "汽车方向",
+    "行车时间",
+    "离开时间"
+  ]
+}

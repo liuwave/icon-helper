@@ -1,0 +1,17 @@
+{
+  "id": "58C8B00C-897C-4381-9AD2-33B754B96865",
+  "name": "folder-star",
+  "codepoint": "F069D",
+  "aliases": [
+    "folder-special"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "文件夹星号",
+    "文件夹特殊"
+  ]
+}

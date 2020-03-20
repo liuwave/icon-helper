@@ -1,0 +1,18 @@
+{
+  "id": "39C645BD-15AE-42BE-B571-5744CB77E97D",
+  "name": "truck-check",
+  "codepoint": "F0CD4",
+  "aliases": [
+    "truck-tick",
+    "lorry-check",
+    "courier-check"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "3.2.89",
+  "zhs": [
+    "卡车检查",
+    "卡车刻度线",
+    "快递检查"
+  ]
+}

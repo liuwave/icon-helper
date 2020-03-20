@@ -1,0 +1,16 @@
+{
+  "id": "B4AFB6A4-C315-4B06-AE4D-AC633F3ED0A7",
+  "name": "soccer",
+  "codepoint": "F04B8",
+  "aliases": [
+    "football"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Christopher Schreiner",
+  "version": "1.5.54",
+  "zhs": [
+    "足球"
+  ]
+}

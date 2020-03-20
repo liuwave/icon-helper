@@ -1,0 +1,21 @@
+{
+  "id": "EE07113F-BD81-424C-B228-7EC802F7CFB2",
+  "name": "hvac",
+  "codepoint": "F1352",
+  "aliases": [
+    "heating",
+    "ventilation",
+    "air-conditioning"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "4.9.95",
+  "zhs": [
+    "暖通空调",
+    "暖气",
+    "通风",
+    "空调"
+  ]
+}

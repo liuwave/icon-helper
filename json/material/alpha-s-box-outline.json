@@ -1,0 +1,17 @@
+{
+  "id": "839A6E89-0555-4B05-BADA-B0D0C665E885",
+  "name": "alpha-s-box-outline",
+  "codepoint": "F0C21",
+  "aliases": [
+    "alphabet-s-box-outline",
+    "letter-s-box-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Contributors",
+  "version": "3.2.89",
+  "zhs": [
+    "字母s框轮廓"
+  ]
+}

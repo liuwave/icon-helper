@@ -1,0 +1,17 @@
+{
+  "id": "5A5AC571-1818-45D0-8259-A9177DBED615",
+  "name": "city",
+  "codepoint": "F0146",
+  "aliases": [
+    "location-city"
+  ],
+  "tags": [
+    "Places"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "城市",
+    "城市位置"
+  ]
+}

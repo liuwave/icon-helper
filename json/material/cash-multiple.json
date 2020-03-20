@@ -1,0 +1,18 @@
+{
+  "id": "80D4170E-FDA3-40D0-9B05-1020D5FCA817",
+  "name": "cash-multiple",
+  "codepoint": "F0116",
+  "aliases": [
+    "money"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "现金倍数",
+    "货币"
+  ]
+}

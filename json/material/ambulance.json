@@ -1,0 +1,15 @@
+{
+  "id": "B0DB559B-A9D4-473A-AF6D-C72559CCC9D9",
+  "name": "ambulance",
+  "codepoint": "F002F",
+  "aliases": [],
+  "tags": [
+    "Transportation + Road",
+    "Medical / Hospital"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "救护车"
+  ]
+}

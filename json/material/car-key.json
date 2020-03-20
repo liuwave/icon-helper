@@ -1,0 +1,19 @@
+{
+  "id": "3B659932-957C-4DD8-81CF-7ECABC572BFC",
+  "name": "car-key",
+  "codepoint": "F0B6D",
+  "aliases": [
+    "car-rental",
+    "rent-a-car"
+  ],
+  "tags": [
+    "Transportation + Road",
+    "Automotive"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.0.39",
+  "zhs": [
+    "车钥匙",
+    "租车"
+  ]
+}

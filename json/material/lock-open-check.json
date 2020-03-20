@@ -1,0 +1,12 @@
+{
+  "id": "5ED06AF8-75C7-4AC3-962E-F742236AFDA6",
+  "name": "lock-open-check",
+  "codepoint": "F139C",
+  "aliases": [],
+  "tags": [],
+  "author": "François Risoud",
+  "version": "5.0.45",
+  "zhs": [
+    "锁打开检查"
+  ]
+}

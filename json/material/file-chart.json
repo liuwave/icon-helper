@@ -1,0 +1,17 @@
+{
+  "id": "303BB890-634F-405C-B77C-4AC831BCAEC4",
+  "name": "file-chart",
+  "codepoint": "F0215",
+  "aliases": [
+    "file-report"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "文件图",
+    "文件报告"
+  ]
+}

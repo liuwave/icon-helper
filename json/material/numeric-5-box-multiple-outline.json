@@ -1,0 +1,21 @@
+{
+  "id": "A39788D6-B09D-42CF-ADC3-7575B14DBE79",
+  "name": "numeric-5-box-multiple-outline",
+  "codepoint": "F03AF",
+  "aliases": [
+    "filter-5",
+    "numeric-five-box-multiple-outline",
+    "numeric-5-boxes-outline",
+    "number-5-box-multiple-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字5框多个轮廓",
+    "过滤器5",
+    "数字5框轮廓"
+  ]
+}

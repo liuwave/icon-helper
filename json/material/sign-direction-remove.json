@@ -1,0 +1,15 @@
+{
+  "id": "93DA424E-0D38-4DD4-B06A-2E3D0754EEC0",
+  "name": "sign-direction-remove",
+  "codepoint": "F0FDD",
+  "aliases": [
+    "milestone-remove"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "删除方向标志",
+    "删除里程碑"
+  ]
+}

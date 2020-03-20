@@ -1,0 +1,17 @@
+{
+  "id": "45FA5A9C-DFF1-4D7E-B683-DB7DE2BAEFC7",
+  "name": "library",
+  "codepoint": "F0331",
+  "aliases": [
+    "local-library"
+  ],
+  "tags": [
+    "Places"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "图书馆",
+    "当地图书馆"
+  ]
+}

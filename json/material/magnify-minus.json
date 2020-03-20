@@ -1,0 +1,17 @@
+{
+  "id": "36D3966F-BFA2-407B-BF36-D21FBA930930",
+  "name": "magnify-minus",
+  "codepoint": "F034A",
+  "aliases": [
+    "zoom-out",
+    "search-minus"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "放大减号",
+    "缩小",
+    "搜索减号"
+  ]
+}

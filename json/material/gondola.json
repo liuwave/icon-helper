@@ -1,0 +1,16 @@
+{
+  "id": "9FE486F5-20A0-4CB5-A820-93AD82F52EB6",
+  "name": "gondola",
+  "codepoint": "F0686",
+  "aliases": [
+    "cable-car"
+  ],
+  "tags": [
+    "Transportation + Other"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.7.12",
+  "zhs": [
+    "缆车"
+  ]
+}

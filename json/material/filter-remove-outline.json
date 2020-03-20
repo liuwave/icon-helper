@@ -1,0 +1,15 @@
+{
+  "id": "C6DD0143-A7E3-464D-B0AC-F97E5C51F74C",
+  "name": "filter-remove-outline",
+  "codepoint": "F0235",
+  "aliases": [
+    "funnel-remove-outline"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "过滤器删除轮廓",
+    "漏斗删除轮廓"
+  ]
+}

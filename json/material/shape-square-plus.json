@@ -1,0 +1,16 @@
+{
+  "id": "56A31026-C5C6-45D5-A9D4-1C660357F430",
+  "name": "shape-square-plus",
+  "codepoint": "F0660",
+  "aliases": [
+    "shape-square-add"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Kai Faust",
+  "version": "1.6.50",
+  "zhs": [
+    "形状正方形加"
+  ]
+}

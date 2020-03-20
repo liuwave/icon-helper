@@ -1,0 +1,20 @@
+{
+  "id": "0C56278E-06DE-4D32-BA08-C78F3EB572CC",
+  "name": "folder-account",
+  "codepoint": "F024C",
+  "aliases": [
+    "folder-user",
+    "folder-shared"
+  ],
+  "tags": [
+    "Account / User",
+    "Files / Folders"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "文件夹帐户",
+    "用户文件夹",
+    "共享文件夹"
+  ]
+}

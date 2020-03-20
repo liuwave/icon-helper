@@ -1,0 +1,24 @@
+{
+  "id": "236D9E8E-E38C-4EA9-9539-0E8B1447003A",
+  "name": "camera",
+  "codepoint": "F0100",
+  "aliases": [
+    "photography",
+    "camera-alt",
+    "local-see",
+    "photo-camera"
+  ],
+  "tags": [
+    "Photography",
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "照相机",
+    "摄影",
+    "照相机alt",
+    "本地观看",
+    "照相照相机"
+  ]
+}

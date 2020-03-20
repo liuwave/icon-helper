@@ -1,0 +1,19 @@
+{
+  "id": "9F89EDE8-E95A-401D-9532-7F0DCD6AE321",
+  "name": "account-remove-outline",
+  "codepoint": "F0AED",
+  "aliases": [
+    "user-remove-outline",
+    "person-remove-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.8.94",
+  "zhs": [
+    "帐户删除轮廓",
+    "用户删除轮廓",
+    "人员删除轮廓"
+  ]
+}

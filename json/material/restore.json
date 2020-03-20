@@ -1,0 +1,15 @@
+{
+  "id": "FF1CAAB4-2192-442F-88F1-08DEB67E21F0",
+  "name": "restore",
+  "codepoint": "F099B",
+  "aliases": [
+    "loop"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "恢复",
+    "循环"
+  ]
+}

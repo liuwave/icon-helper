@@ -1,0 +1,17 @@
+{
+  "id": "376D7457-2DC3-463A-B4D9-4F170E0B19FB",
+  "name": "bell-alert",
+  "codepoint": "F0D59",
+  "aliases": [
+    "bell-warning"
+  ],
+  "tags": [
+    "Alert / Error",
+    "Notification"
+  ],
+  "author": "Cody",
+  "version": "3.4.93",
+  "zhs": [
+    "响铃警报"
+  ]
+}

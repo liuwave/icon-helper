@@ -1,0 +1,14 @@
+{
+  "id": "580E85A8-696F-46FE-B141-F13A94078F22",
+  "name": "format-text-rotation-down",
+  "codepoint": "F0D73",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "3.4.93",
+  "zhs": [
+    "向下格式化文本"
+  ]
+}

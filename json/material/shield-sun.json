@@ -1,0 +1,15 @@
+{
+  "id": "144E5B1F-A406-440D-B8B0-CC662F359D12",
+  "name": "shield-sun",
+  "codepoint": "F105D",
+  "aliases": [
+    "sun-protection"
+  ],
+  "tags": [],
+  "author": "Perth Totty",
+  "version": "4.1.95",
+  "zhs": [
+    "防晒罩",
+    "防晒"
+  ]
+}

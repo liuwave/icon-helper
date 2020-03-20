@@ -1,0 +1,17 @@
+{
+  "id": "DC3862AC-6945-4104-9F15-50BD46D13705",
+  "name": "delete-variant",
+  "codepoint": "F01B3",
+  "aliases": [
+    "trash-variant",
+    "bin-variant"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "删除口音",
+    "垃圾口音",
+    "口音容器"
+  ]
+}

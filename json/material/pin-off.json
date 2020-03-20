@@ -1,0 +1,15 @@
+{
+  "id": "8C59FE68-D89C-4A86-8E01-5C8109D1B028",
+  "name": "pin-off",
+  "codepoint": "F0404",
+  "aliases": [
+    "keep-off"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "固定",
+    "保持关闭"
+  ]
+}

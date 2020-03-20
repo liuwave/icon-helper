@@ -1,0 +1,15 @@
+{
+  "id": "D243B11E-D824-4185-B14F-B1C53DB11C24",
+  "name": "image-broken-variant",
+  "codepoint": "F02EE",
+  "aliases": [
+    "broken-image"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "图像重音符号",
+    "图像已损坏"
+  ]
+}

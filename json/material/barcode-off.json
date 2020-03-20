@@ -1,0 +1,12 @@
+{
+  "id": "AF7144E7-5004-4685-A100-78425F035F51",
+  "name": "barcode-off",
+  "codepoint": "F1236",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.6.95",
+  "zhs": [
+    "条码关闭"
+  ]
+}

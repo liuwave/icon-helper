@@ -1,0 +1,15 @@
+{
+  "id": "F1BF1F5D-82C7-41EA-B9CD-325265C3D760",
+  "name": "radiator-off",
+  "codepoint": "F0AD8",
+  "aliases": [
+    "heater-off"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "2.7.94",
+  "zhs": [
+    "散热器关闭",
+    "加热器关闭"
+  ]
+}

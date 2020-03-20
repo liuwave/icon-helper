@@ -1,0 +1,37 @@
+{
+  "id": "3B3E2DF7-1E21-476A-8473-7F1EAA514D1F",
+  "name": "account-multiple-check",
+  "codepoint": "F08C5",
+  "aliases": [
+    "user-multiple-check",
+    "account-multiple-tick",
+    "accounts-check",
+    "accounts-tick",
+    "users-check",
+    "users-tick",
+    "user-multiple-tick",
+    "person-multiple-check",
+    "person-multiple-tick",
+    "people-check",
+    "people-tick"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Roberto Graham",
+  "version": "2.3.50",
+  "zhs": [
+    "帐户多次检查",
+    "用户多次检查",
+    "帐户多次打勾",
+    "帐户检查",
+    "打勾帐户",
+    "用户检查",
+    "打勾用户",
+    "多用户打勾",
+    "人员多次检查",
+    "人员多次打钩",
+    "人员检查",
+    "人员打勾"
+  ]
+}

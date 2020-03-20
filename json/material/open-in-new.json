@@ -1,0 +1,14 @@
+{
+  "id": "12B95238-1D74-4C6C-9BBD-C055B4DD0E4D",
+  "name": "open-in-new",
+  "codepoint": "F03CC",
+  "aliases": [
+    "external-link"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "在新的外部链接中打开"
+  ]
+}

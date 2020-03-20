@@ -1,0 +1,14 @@
+{
+  "id": "E7D24172-A5A7-4BAE-A679-D2191E8E7F51",
+  "name": "contactless-payment-circle-outline",
+  "codepoint": "F0408",
+  "aliases": [],
+  "tags": [
+    "Currency"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.5.54",
+  "zhs": [
+    "非接触式支付圈轮廓"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "7AFA8EEF-6A41-4A7D-97D2-F9F03DB24DB0",
+  "name": "home-variant",
+  "codepoint": "F02DE",
+  "aliases": [
+    "house-variant"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "家用变型",
+    "房屋装饰"
+  ]
+}

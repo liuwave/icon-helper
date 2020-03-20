@@ -1,0 +1,14 @@
+{
+  "id": "DEF7F9EA-ACA8-452E-B587-6524BE7D67EE",
+  "name": "prescription",
+  "codepoint": "F0706",
+  "aliases": [],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Roberto Graham",
+  "version": "1.8.36",
+  "zhs": [
+    "处方"
+  ]
+}

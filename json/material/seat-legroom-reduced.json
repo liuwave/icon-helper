@@ -1,0 +1,15 @@
+{
+  "id": "4306743D-7833-44E7-88AB-659DD694C8B0",
+  "name": "seat-legroom-reduced",
+  "codepoint": "F0480",
+  "aliases": [
+    "airline-seat-legroom-reduced"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "腿部座位减少",
+    "航空公司腿部座位减少"
+  ]
+}

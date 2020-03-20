@@ -1,0 +1,14 @@
+{
+  "id": "CFE12054-7E04-4144-B0CA-0DA9FE494E82",
+  "name": "delete-alert-outline",
+  "codepoint": "F10A6",
+  "aliases": [],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "idevo89",
+  "version": "4.2.95",
+  "zhs": [
+    "删除警报轮廓"
+  ]
+}

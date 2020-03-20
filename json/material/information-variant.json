@@ -1,0 +1,16 @@
+{
+  "id": "D991D5FA-BD60-48E1-979D-A103D005725A",
+  "name": "information-variant",
+  "codepoint": "F064E",
+  "aliases": [
+    "info-variant",
+    "about-variant"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.6.50",
+  "zhs": [
+    "信息重音",
+    "关于重音"
+  ]
+}

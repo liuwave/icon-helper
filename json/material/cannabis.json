@@ -1,0 +1,21 @@
+{
+  "id": "4C2DC909-0C3F-431F-A37B-5B66C9F33E37",
+  "name": "cannabis",
+  "codepoint": "F07A6",
+  "aliases": [
+    "weed",
+    "pot",
+    "marijuana"
+  ],
+  "tags": [
+    "Nature",
+    "Medical / Hospital"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.0.46",
+  "zhs": [
+    "大麻",
+    "杂草",
+    "锅"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "D45D7513-AA4C-43CA-8435-CA6AD2B7F868",
+  "name": "table-column",
+  "codepoint": "F0835",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.1.19",
+  "zhs": [
+    "表列"
+  ]
+}

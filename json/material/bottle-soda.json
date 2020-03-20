@@ -1,0 +1,18 @@
+{
+  "id": "D938FAC2-CC48-431D-8019-FA41677470DD",
+  "name": "bottle-soda",
+  "codepoint": "F1070",
+  "aliases": [
+    "bottle-coke",
+    "bottle-pop"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "汽水瓶",
+    "可乐瓶"
+  ]
+}

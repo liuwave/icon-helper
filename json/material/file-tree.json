@@ -1,0 +1,17 @@
+{
+  "id": "FE2B1AE3-7158-473B-B1EE-45FB9CAE1137",
+  "name": "file-tree",
+  "codepoint": "F0645",
+  "aliases": [
+    "subtasks"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Kai Faust",
+  "version": "1.6.50",
+  "zhs": [
+    "文件树",
+    "子任务"
+  ]
+}

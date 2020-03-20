@@ -1,0 +1,14 @@
+{
+  "id": "FB05A4AF-E47A-4F82-BFFE-7C1F587839B6",
+  "name": "calculator-variant",
+  "codepoint": "F0A9A",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Richins",
+  "version": "2.7.94",
+  "zhs": [
+    "口音计算器"
+  ]
+}

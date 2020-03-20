@@ -1,0 +1,22 @@
+{
+  "id": "02F70DD2-E16E-43FD-9C2A-267C965E3919",
+  "name": "cancel",
+  "codepoint": "F073A",
+  "aliases": [
+    "prohibited",
+    "ban",
+    "do-not-disturb-alt",
+    "denied",
+    "block",
+    "forbid"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.9.32",
+  "zhs": [
+    "取消",
+    "禁止",
+    "请勿打扰",
+    "阻止"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "5FA4943E-5956-4668-ADDD-984914DD745C",
+  "name": "chart-sankey-variant",
+  "codepoint": "F11E0",
+  "aliases": [
+    "chart-snakey-variant"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Richins",
+  "version": "4.5.95",
+  "zhs": [
+    "图表sankey变体",
+    "图表蛇形变体"
+  ]
+}

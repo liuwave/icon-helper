@@ -1,0 +1,15 @@
+{
+  "id": "DAA46B9D-9215-4BF8-BDA7-52E575817ABC",
+  "name": "select-inverse",
+  "codepoint": "F0487",
+  "aliases": [
+    "selection-invert"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "选择反向",
+    "反向选择"
+  ]
+}

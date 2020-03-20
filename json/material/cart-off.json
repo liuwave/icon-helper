@@ -1,0 +1,19 @@
+{
+  "id": "05455801-C523-420A-A961-868ABA3DF636",
+  "name": "cart-off",
+  "codepoint": "F066B",
+  "aliases": [
+    "trolley-off",
+    "remove-shopping-cart",
+    "shopping-cart-off"
+  ],
+  "tags": [
+    "Shopping"
+  ],
+  "author": "Google",
+  "version": "1.6.50",
+  "zhs": [
+    "购物车关闭",
+    "卸下购物车"
+  ]
+}

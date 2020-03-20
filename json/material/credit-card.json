@@ -1,0 +1,15 @@
+{
+  "id": "91CCFF94-D3F6-48B2-B62C-02DC1B6DBC1E",
+  "name": "credit-card",
+  "codepoint": "F0FEF",
+  "aliases": [],
+  "tags": [
+    "Banking",
+    "Currency"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "信用卡"
+  ]
+}

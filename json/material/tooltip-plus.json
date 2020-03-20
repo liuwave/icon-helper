@@ -1,0 +1,16 @@
+{
+  "id": "E1ED044C-BD73-4844-A33D-7ED9A1D232F5",
+  "name": "tooltip-plus",
+  "codepoint": "F0BD6",
+  "aliases": [
+    "tooltip-add"
+  ],
+  "tags": [
+    "Tooltip"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.0.39",
+  "zhs": [
+    "工具提示加"
+  ]
+}

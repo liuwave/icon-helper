@@ -1,0 +1,14 @@
+{
+  "id": "5E954303-C1CF-406B-A9B5-A72E5C25E499",
+  "name": "database-sync",
+  "codepoint": "F0CFF",
+  "aliases": [],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Michael Richins",
+  "version": "3.3.92",
+  "zhs": [
+    "数据库同步"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "B4CA0FB9-D119-426C-9043-16D90F5086B8",
+  "name": "camera-rear",
+  "codepoint": "F0106",
+  "aliases": [],
+  "tags": [
+    "Photography"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "后置摄像头"
+  ]
+}

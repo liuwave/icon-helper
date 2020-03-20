@@ -1,0 +1,17 @@
+{
+  "id": "85DD64A3-9215-41F0-9C94-92C180D7BA05",
+  "name": "bus-alert",
+  "codepoint": "F0A99",
+  "aliases": [
+    "bus-warning"
+  ],
+  "tags": [
+    "Alert / Error",
+    "Transportation + Road"
+  ],
+  "author": "Google",
+  "version": "2.7.94",
+  "zhs": [
+    "公共汽车警告"
+  ]
+}

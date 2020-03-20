@@ -1,0 +1,15 @@
+{
+  "id": "62C9DAA4-6718-44A9-BCD3-2401D96BE1E7",
+  "name": "airport",
+  "codepoint": "F084B",
+  "aliases": [],
+  "tags": [
+    "Places",
+    "Transportation + Flying"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.1.99",
+  "zhs": [
+    "机场"
+  ]
+}

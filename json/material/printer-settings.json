@@ -1,0 +1,15 @@
+{
+  "id": "33E4D9A3-F8C1-4C58-9E88-977AE4F4E4CA",
+  "name": "printer-settings",
+  "codepoint": "F0707",
+  "aliases": [],
+  "tags": [
+    "Settings",
+    "Printer"
+  ],
+  "author": "Cody",
+  "version": "1.8.36",
+  "zhs": [
+    "打印机设置"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "094C9BF2-9EEE-434C-9CA9-8280FBDFBEF7",
+  "name": "bulletin-board",
+  "codepoint": "F00E5",
+  "aliases": [
+    "notice-board"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "公告栏",
+    "布告栏"
+  ]
+}

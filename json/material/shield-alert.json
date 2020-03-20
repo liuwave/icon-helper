@@ -1,0 +1,17 @@
+{
+  "id": "B5DC36AC-6F79-4CDE-B1CD-02F221BF8CE4",
+  "name": "shield-alert",
+  "codepoint": "F0ECC",
+  "aliases": [
+    "shield-warning"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Peter Noble",
+  "version": "3.7.94",
+  "zhs": [
+    "防护罩警报",
+    "防护罩警告"
+  ]
+}

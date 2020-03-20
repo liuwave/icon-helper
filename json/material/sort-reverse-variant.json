@@ -1,0 +1,14 @@
+{
+  "id": "A00FD3F3-01E7-489E-AB22-66F3B94AF6C0",
+  "name": "sort-reverse-variant",
+  "codepoint": "F033C",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "对反向重音进行排序"
+  ]
+}

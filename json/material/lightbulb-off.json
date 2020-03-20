@@ -1,0 +1,16 @@
+{
+  "id": "14D09F5A-C467-428B-9C5A-F2B3939D1678",
+  "name": "lightbulb-off",
+  "codepoint": "F0E4F",
+  "aliases": [
+    "bulb-off"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Contributors",
+  "version": "3.6.95",
+  "zhs": [
+    "灯泡关闭"
+  ]
+}

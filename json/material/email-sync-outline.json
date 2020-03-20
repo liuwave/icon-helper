@@ -1,0 +1,17 @@
+{
+  "id": "0FAB1B0E-FEAB-4F12-A7FC-58D48CB9682F",
+  "name": "email-sync-outline",
+  "codepoint": "F12C8",
+  "aliases": [
+    "email-refresh-outline",
+    "email-resend-outline"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "4.8.95",
+  "zhs": [
+    "电子邮件同步轮廓",
+    "电子邮件刷新轮廓",
+    "电子邮件重新发送轮廓"
+  ]
+}

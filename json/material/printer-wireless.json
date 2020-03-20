@@ -1,0 +1,14 @@
+{
+  "id": "E9B8B42B-CA7D-4499-B610-CABBDCF51C0E",
+  "name": "printer-wireless",
+  "codepoint": "F0A0B",
+  "aliases": [],
+  "tags": [
+    "Printer"
+  ],
+  "author": "Michael Richins",
+  "version": "2.5.94",
+  "zhs": [
+    "无线打印机"
+  ]
+}

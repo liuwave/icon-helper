@@ -1,0 +1,15 @@
+{
+  "id": "6A2BA297-7401-4727-B79F-8C8DD0F56FE7",
+  "name": "comment-quote",
+  "codepoint": "F1021",
+  "aliases": [
+    "feedback"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.1.95",
+  "zhs": [
+    "发表评论",
+    "反馈"
+  ]
+}

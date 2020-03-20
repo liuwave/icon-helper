@@ -1,0 +1,15 @@
+{
+  "id": "360866E5-D407-4E54-9470-7ECF6759F941",
+  "name": "map-marker-multiple-outline",
+  "codepoint": "F1277",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "4.7.95",
+  "zhs": [
+    "地图标记多个轮廓"
+  ]
+}

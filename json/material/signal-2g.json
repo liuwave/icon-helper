@@ -1,0 +1,14 @@
+{
+  "id": "C281EBBF-23FD-4F0A-8908-BFBA18F75FDD",
+  "name": "signal-2g",
+  "codepoint": "F0712",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "GreenTurtwig",
+  "version": "1.8.36",
+  "zhs": [
+    "2g信号"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "10475FB2-142C-48FF-AB95-B93CF2680208",
+  "name": "calendar-remove-outline",
+  "codepoint": "F0C45",
+  "aliases": [
+    "event-busy-outline",
+    "event-remove-outline"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "日历删除轮廓",
+    "事件繁忙轮廓",
+    "事件删除轮廓"
+  ]
+}

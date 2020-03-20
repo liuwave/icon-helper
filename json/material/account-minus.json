@@ -1,0 +1,19 @@
+{
+  "id": "9CF96408-1A24-4040-AD04-011183CC9ABC",
+  "name": "account-minus",
+  "codepoint": "F000D",
+  "aliases": [
+    "user-minus",
+    "person-minus"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "REJack",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户减号",
+    "用户减号",
+    "人减号"
+  ]
+}

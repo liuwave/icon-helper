@@ -1,0 +1,15 @@
+{
+  "id": "5367B460-F7E5-46C5-A4F5-40B339BF9DAD",
+  "name": "closed-caption",
+  "codepoint": "F015E",
+  "aliases": [
+    "cc"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "隐藏字幕",
+    "cc"
+  ]
+}

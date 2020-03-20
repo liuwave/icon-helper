@@ -1,0 +1,16 @@
+{
+  "id": "85C35F15-1AC0-407B-BCBF-AD79B6E6DDEA",
+  "name": "checkbox-multiple-marked-circle",
+  "codepoint": "F063D",
+  "aliases": [
+    "checkboxes-marked-circle"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Cody",
+  "version": "1.6.50",
+  "zhs": [
+    "带圆圈的复选框"
+  ]
+}

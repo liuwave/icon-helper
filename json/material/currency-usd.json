@@ -1,0 +1,20 @@
+{
+  "id": "3FA4946C-029B-42D3-AA31-3D607FB4A2F1",
+  "name": "currency-usd",
+  "codepoint": "F01C1",
+  "aliases": [
+    "attach-money",
+    "dollar"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "货币usd",
+    "附加钱",
+    "美元"
+  ]
+}

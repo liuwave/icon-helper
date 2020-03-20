@@ -1,0 +1,17 @@
+{
+  "id": "1AE8F7A9-5454-44D2-B16D-1D383E33978D",
+  "name": "text-to-speech-off",
+  "codepoint": "F050B",
+  "aliases": [
+    "tts-off",
+    "microphone-message-off"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文本到语音关闭",
+    "tts关闭",
+    "麦克风消息关闭"
+  ]
+}

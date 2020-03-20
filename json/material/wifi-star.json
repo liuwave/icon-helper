@@ -1,0 +1,17 @@
+{
+  "id": "30694858-4607-48C1-A533-861E4968A0CE",
+  "name": "wifi-star",
+  "codepoint": "F0E0B",
+  "aliases": [
+    "wifi-favourite",
+    "network-favourite"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "wifi上网星",
+    "wifi喜爱",
+    "网络最爱"
+  ]
+}

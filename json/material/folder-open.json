@@ -1,0 +1,14 @@
+{
+  "id": "7BBC57AE-0EBA-4198-8B85-5082A38522DE",
+  "name": "folder-open",
+  "codepoint": "F0770",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "文件夹打开"
+  ]
+}

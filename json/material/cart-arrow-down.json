@@ -1,0 +1,17 @@
+{
+  "id": "0DCB3032-271E-4522-ABEE-386F49E6B4ED",
+  "name": "cart-arrow-down",
+  "codepoint": "F0D66",
+  "aliases": [
+    "shopping-cart-arrow-down",
+    "trolley-arrow-down"
+  ],
+  "tags": [
+    "Shopping"
+  ],
+  "author": "Cody",
+  "version": "3.4.93",
+  "zhs": [
+    "购物车向下箭头"
+  ]
+}

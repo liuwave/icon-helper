@@ -1,0 +1,14 @@
+{
+  "id": "B01CFC20-40C4-4647-A20D-0181E5AB4952",
+  "name": "weather-partly-rainy",
+  "codepoint": "F0F33",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "部分阴雨天气"
+  ]
+}

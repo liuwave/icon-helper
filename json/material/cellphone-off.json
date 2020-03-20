@@ -1,0 +1,20 @@
+{
+  "id": "2AD1736A-2142-4E3D-BA70-9CF8584C366D",
+  "name": "cellphone-off",
+  "codepoint": "F0950",
+  "aliases": [
+    "mobile-phone-off",
+    "smartphone-off",
+    "mobile-off"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "手机已关闭",
+    "智能手机已关闭"
+  ]
+}

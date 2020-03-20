@@ -1,0 +1,20 @@
+{
+  "id": "17EEE663-92E4-4AB1-87FE-94F2CD296C4B",
+  "name": "water",
+  "codepoint": "F058C",
+  "aliases": [
+    "drop",
+    "blood",
+    "water-drop",
+    "trans-fat"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "水",
+    "水滴",
+    "血液",
+    "反式脂肪"
+  ]
+}

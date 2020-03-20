@@ -1,0 +1,15 @@
+{
+  "id": "E2A86F6D-6E4D-4C61-B54A-85BEDACA052F",
+  "name": "headset-off",
+  "codepoint": "F02D0",
+  "aliases": [],
+  "tags": [
+    "Audio",
+    "Device / Tech"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "耳机关闭"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4DD4EB10-012B-4A70-8C9A-256B3F575BD5",
+  "name": "signature-freehand",
+  "codepoint": "F0DFC",
+  "aliases": [],
+  "tags": [
+    "Form"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "徒手签名"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "39D94D7A-D161-409F-8FFC-889474A4DCE9",
+  "name": "map-check",
+  "codepoint": "F0EBC",
+  "aliases": [
+    "map-tick"
+  ],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Contributors",
+  "version": "3.7.94",
+  "zhs": [
+    "地图检查",
+    "刻度图"
+  ]
+}

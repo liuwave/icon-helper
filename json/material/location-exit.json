@@ -1,0 +1,17 @@
+{
+  "id": "83A1C782-63D7-476B-8A6D-A694F29AE3A9",
+  "name": "location-exit",
+  "codepoint": "F0FC5",
+  "aliases": [
+    "presence-exit"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "出口位置",
+    "存在出口"
+  ]
+}

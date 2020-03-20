@@ -1,0 +1,18 @@
+{
+  "id": "C0044FE0-893A-4429-A57F-9C58DFBE36CC",
+  "name": "alpha-l-box-outline",
+  "codepoint": "F0C0C",
+  "aliases": [
+    "alphabet-l-box-outline",
+    "letter-l-box-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Contributors",
+  "version": "3.2.89",
+  "zhs": [
+    "alpha l框轮廓",
+    "字母l框轮廓"
+  ]
+}

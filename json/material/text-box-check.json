@@ -1,0 +1,18 @@
+{
+  "id": "291424C4-8874-4D0D-8D89-0C3349C021ED",
+  "name": "text-box-check",
+  "codepoint": "F0EA6",
+  "aliases": [
+    "file-document-box-tick",
+    "file-document-box-check"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Contributors",
+  "version": "3.7.94",
+  "zhs": [
+    "文本复选框",
+    "文件文档框打勾"
+  ]
+}

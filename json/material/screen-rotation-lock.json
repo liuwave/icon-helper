@@ -1,0 +1,17 @@
+{
+  "id": "0C15E49D-5D29-4A3D-803B-0B9695295E04",
+  "name": "screen-rotation-lock",
+  "codepoint": "F0478",
+  "aliases": [
+    "screen-lock-rotation"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "屏幕旋转锁定",
+    "屏幕锁定旋转"
+  ]
+}

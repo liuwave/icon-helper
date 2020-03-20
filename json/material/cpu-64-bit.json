@@ -1,0 +1,12 @@
+{
+  "id": "BC47ABAD-66D6-4EEA-9512-CB33318F62EF",
+  "name": "cpu-64-bit",
+  "codepoint": "F0EE0",
+  "aliases": [],
+  "tags": [],
+  "author": "GreenTurtwig",
+  "version": "3.8.95",
+  "zhs": [
+    "CPU 64位"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "50B6D484-E7DC-4B88-9981-9C962C9A9EB6",
+  "name": "snowflake-variant",
+  "codepoint": "F0F2A",
+  "aliases": [],
+  "tags": [
+    "Holiday",
+    "Weather"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "雪花装饰"
+  ]
+}

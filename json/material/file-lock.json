@@ -1,0 +1,15 @@
+{
+  "id": "1D017133-E895-4103-98C1-E90D26126003",
+  "name": "file-lock",
+  "codepoint": "F0221",
+  "aliases": [],
+  "tags": [
+    "Lock",
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文件锁定"
+  ]
+}

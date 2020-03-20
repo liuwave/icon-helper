@@ -1,0 +1,21 @@
+{
+  "id": "79ECAAC6-71DC-406C-A9B7-57C5F0BAA9E0",
+  "name": "account-outline",
+  "codepoint": "F0013",
+  "aliases": [
+    "user-outline",
+    "perm-identity",
+    "person-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户轮廓",
+    "用户轮廓",
+    "烫发身份",
+    "人员轮廓"
+  ]
+}

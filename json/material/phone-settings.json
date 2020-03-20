@@ -1,0 +1,17 @@
+{
+  "id": "C9E81E97-C4DA-4612-AC4D-0F81C7986CD8",
+  "name": "phone-settings",
+  "codepoint": "F03FD",
+  "aliases": [
+    "settings-phone"
+  ],
+  "tags": [
+    "Settings",
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电话设置"
+  ]
+}

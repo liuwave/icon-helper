@@ -1,0 +1,17 @@
+{
+  "id": "549371B9-36F9-45E7-918A-72EEB98F9572",
+  "name": "sort-bool-descending-variant",
+  "codepoint": "F1388",
+  "aliases": [
+    "sort-checkbox-descending"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "frankgrinaert",
+  "version": "5.0.45",
+  "zhs": [
+    "对bool降序排序",
+    "对复选框降序排序"
+  ]
+}

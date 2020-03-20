@@ -1,0 +1,15 @@
+{
+  "id": "A72D6C1A-A953-4F9B-BD38-0E0ACF1A6C58",
+  "name": "dishwasher-alert",
+  "codepoint": "F11B8",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.5.95",
+  "zhs": [
+    "洗碗机警报"
+  ]
+}

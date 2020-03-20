@@ -1,0 +1,18 @@
+{
+  "id": "260712C5-252B-484C-B5A7-33827BBC5487",
+  "name": "trash-can",
+  "codepoint": "F0A79",
+  "aliases": [
+    "delete",
+    "rubbish-bin",
+    "trashcan",
+    "garbage-can"
+  ],
+  "tags": [],
+  "author": "GreenTurtwig",
+  "version": "2.6.95",
+  "zhs": [
+    "垃圾桶",
+    "删除"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "7F6FD88C-27A6-4E0D-BD8D-FDF34AAEB1A9",
+  "name": "video-input-scart",
+  "codepoint": "F0F8C",
+  "aliases": [],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.9.97",
+  "zhs": [
+    "Scart输入视频"
+  ]
+}

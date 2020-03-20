@@ -1,0 +1,17 @@
+{
+  "id": "F782C16A-0558-4347-AB62-3E4A8DD299AD",
+  "name": "abugida-thai",
+  "codepoint": "F132B",
+  "aliases": [
+    "writing-system-thai"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "abugida泰国文",
+    "泰国书写系统"
+  ]
+}

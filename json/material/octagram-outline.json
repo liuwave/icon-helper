@@ -1,0 +1,17 @@
+{
+  "id": "8316E0F1-5F66-4C4E-ACA8-EE61AD93A42A",
+  "name": "octagram-outline",
+  "codepoint": "F0775",
+  "aliases": [
+    "starburst-outline"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "八边形轮廓",
+    "爆炸形轮廓"
+  ]
+}

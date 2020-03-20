@@ -1,0 +1,17 @@
+{
+  "id": "845C7000-7198-490F-8043-EC1F61CE4F53",
+  "name": "handball",
+  "codepoint": "F0F53",
+  "aliases": [
+    "volleyball"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Google",
+  "version": "3.9.97",
+  "zhs": [
+    "手球",
+    "排球"
+  ]
+}

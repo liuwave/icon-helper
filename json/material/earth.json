@@ -1,0 +1,20 @@
+{
+  "id": "0D1618BF-A3AD-4B4A-92EA-5DBF93BF7625",
+  "name": "earth",
+  "codepoint": "F01E7",
+  "aliases": [
+    "globe",
+    "public",
+    "planet"
+  ],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "地球",
+    "公共",
+    "行星"
+  ]
+}

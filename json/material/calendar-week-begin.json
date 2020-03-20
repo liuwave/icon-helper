@@ -1,0 +1,17 @@
+{
+  "id": "7C244D7F-9332-4C73-AF3D-1DE3F6E365ED",
+  "name": "calendar-week-begin",
+  "codepoint": "F0A34",
+  "aliases": [
+    "event-week-begin"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Cody",
+  "version": "2.6.95",
+  "zhs": [
+    "日历周开始",
+    "活动周开始"
+  ]
+}

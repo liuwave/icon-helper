@@ -1,0 +1,14 @@
+{
+  "id": "1D2987A7-950D-45DF-AF0C-F465350C6374",
+  "name": "file-remove",
+  "codepoint": "F0B98",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Richins",
+  "version": "3.0.39",
+  "zhs": [
+    "文件删除"
+  ]
+}

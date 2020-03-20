@@ -1,0 +1,17 @@
+{
+  "id": "96505BCC-D522-45A6-A642-85F1B4248FAA",
+  "name": "calendar-star",
+  "codepoint": "F09D3",
+  "aliases": [
+    "event-star"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Michael Richins",
+  "version": "2.5.94",
+  "zhs": [
+    "日历星",
+    "活动星"
+  ]
+}

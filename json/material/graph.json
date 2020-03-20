@@ -1,0 +1,16 @@
+{
+  "id": "76AC59FA-C58D-4A55-AE8F-A351AF2CD43A",
+  "name": "graph",
+  "codepoint": "F1049",
+  "aliases": [
+    "dependency",
+    "dependencies"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "4.1.95",
+  "zhs": [
+    "图形",
+    "依赖项"
+  ]
+}

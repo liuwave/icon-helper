@@ -1,0 +1,19 @@
+{
+  "id": "B81435D3-9FE4-470D-A46A-7FEDA1773D15",
+  "name": "tray-full",
+  "codepoint": "F1296",
+  "aliases": [
+    "queue",
+    "printer",
+    "inbox"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "纸盒已满",
+    "队列",
+    "打印机",
+    "收件箱"
+  ]
+}

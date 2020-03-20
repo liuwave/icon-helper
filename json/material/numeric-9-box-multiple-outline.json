@@ -1,0 +1,21 @@
+{
+  "id": "A41F44A0-816E-497E-A08C-C9646FE161BE",
+  "name": "numeric-9-box-multiple-outline",
+  "codepoint": "F03BD",
+  "aliases": [
+    "filter-9",
+    "numeric-nine-box-multiple-outline",
+    "numeric-9-boxes-outline",
+    "number-9-box-multiple-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric",
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字9框多个轮廓线",
+    "过滤器9"
+  ]
+}

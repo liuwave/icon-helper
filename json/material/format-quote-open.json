@@ -1,0 +1,14 @@
+{
+  "id": "CF5D126B-7DC1-4BE7-B5A1-E31B715EDBAA",
+  "name": "format-quote-open",
+  "codepoint": "F0757",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "开放式报价格式"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "19D690AD-38F9-45CF-A092-D62A53098A68",
+  "name": "weather-night-partly-cloudy",
+  "codepoint": "F0F31",
+  "aliases": [],
+  "tags": [
+    "Weather",
+    "Weather",
+    "Cloud"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "多云的夜晚"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "F0F27B00-3C37-4AC0-B8D7-DB2554894079",
+  "name": "message-cog",
+  "codepoint": "F06F1",
+  "aliases": [],
+  "tags": [
+    "Settings"
+  ],
+  "author": "Michael Richins",
+  "version": "1.8.36",
+  "zhs": [
+    "消息齿轮"
+  ]
+}

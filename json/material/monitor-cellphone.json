@@ -1,0 +1,19 @@
+{
+  "id": "B2A9CF60-30E4-46DC-9116-ED206912B156",
+  "name": "monitor-cellphone",
+  "codepoint": "F0989",
+  "aliases": [
+    "monitor-mobile-phone",
+    "monitor-smartphone"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "手机监控器",
+    "智能手机监控器"
+  ]
+}

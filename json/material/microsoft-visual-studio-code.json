@@ -1,0 +1,15 @@
+{
+  "id": "6D1D5836-B731-41C4-A829-86E5741A0784",
+  "name": "microsoft-visual-studio-code",
+  "codepoint": "F0A1E",
+  "aliases": [
+    "vs-code"
+  ],
+  "tags": [],
+  "author": "Contributors",
+  "version": "2.5.94",
+  "zhs": [
+    "Microsoft Visual Studio代码",
+    "VS代码"
+  ]
+}

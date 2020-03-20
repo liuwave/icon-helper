@@ -1,0 +1,14 @@
+{
+  "id": "F5CC42C0-FA38-488C-AD3F-DCF5329DFBB8",
+  "name": "signal-cellular-1",
+  "codepoint": "F08BC",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Michael Richins",
+  "version": "2.2.43",
+  "zhs": [
+    "蜂窝信号1"
+  ]
+}

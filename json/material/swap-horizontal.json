@@ -1,0 +1,17 @@
+{
+  "id": "D1E543C5-6ECA-43AA-B04D-438319BC5562",
+  "name": "swap-horizontal",
+  "codepoint": "F04E1",
+  "aliases": [
+    "arrow-left-right"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "交换水平",
+    "向左箭头向右"
+  ]
+}

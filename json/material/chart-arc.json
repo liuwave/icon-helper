@@ -1,0 +1,14 @@
+{
+  "id": "98939E5B-1528-4A2F-B35A-C37C60C75D93",
+  "name": "chart-arc",
+  "codepoint": "F0126",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "图表弧"
+  ]
+}

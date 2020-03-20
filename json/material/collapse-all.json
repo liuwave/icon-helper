@@ -1,0 +1,15 @@
+{
+  "id": "C66052C9-BB2A-4E5F-A890-C6D8156E5621",
+  "name": "collapse-all",
+  "codepoint": "F0AA6",
+  "aliases": [
+    "animation-minus"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "2.7.94",
+  "zhs": [
+    "收合全部",
+    "减去动画"
+  ]
+}

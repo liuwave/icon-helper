@@ -1,0 +1,17 @@
+{
+  "id": "68B68EDB-6CDA-4488-A213-5E6DF4146EA6",
+  "name": "sd",
+  "codepoint": "F0479",
+  "aliases": [
+    "sd-card",
+    "sd-storage"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "SD",
+    "SD卡",
+    "SD存储"
+  ]
+}

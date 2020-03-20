@@ -1,0 +1,17 @@
+{
+  "id": "298F86D9-24E7-4780-A891-1A7C36D65D77",
+  "name": "sign-direction-plus",
+  "codepoint": "F0FDC",
+  "aliases": [
+    "milestone-plus",
+    "sign-direction-add",
+    "milestone-add"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "标志方向加",
+    "里程碑加"
+  ]
+}

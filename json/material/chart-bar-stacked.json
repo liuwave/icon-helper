@@ -1,0 +1,14 @@
+{
+  "id": "FAA40519-5517-44DF-AF2E-30D07874BEB7",
+  "name": "chart-bar-stacked",
+  "codepoint": "F076A",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "堆积条形图"
+  ]
+}

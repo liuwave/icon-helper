@@ -1,0 +1,17 @@
+{
+  "id": "0C255402-1176-46B5-B38C-60118732FCC7",
+  "name": "numeric-2-box-outline",
+  "codepoint": "F03A9",
+  "aliases": [
+    "numeric-two-box-outline",
+    "number-2-box-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字2框轮廓"
+  ]
+}

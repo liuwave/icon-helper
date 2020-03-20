@@ -1,0 +1,17 @@
+{
+  "id": "82312B48-E128-494E-9D84-DAACB41986F4",
+  "name": "lock-reset",
+  "codepoint": "F0773",
+  "aliases": [
+    "password-reset"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Google",
+  "version": "1.9.32",
+  "zhs": [
+    "锁定重置",
+    "密码重置"
+  ]
+}

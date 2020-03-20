@@ -1,0 +1,15 @@
+{
+  "id": "7BEB068A-898D-43FF-AAA6-BC239FBA74F2",
+  "name": "file-video",
+  "codepoint": "F022B",
+  "aliases": [],
+  "tags": [
+    "Video / Movie",
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "视频文件"
+  ]
+}

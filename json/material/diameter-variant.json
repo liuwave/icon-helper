@@ -1,0 +1,19 @@
+{
+  "id": "B1744A41-3289-4535-81F8-E23617C701FE",
+  "name": "diameter-variant",
+  "codepoint": "F0C65",
+  "aliases": [
+    "circle-diameter-variant",
+    "sphere-diameter-variant"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "直径重音",
+    "圆直径重音",
+    "球形直径重音"
+  ]
+}

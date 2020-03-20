@@ -1,0 +1,19 @@
+{
+  "id": "8F49C741-4ED8-4DD3-A22E-310C039EDDA6",
+  "name": "account-network",
+  "codepoint": "F0011",
+  "aliases": [
+    "user-network",
+    "person-network"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户网络",
+    "用户网络",
+    "人员网络"
+  ]
+}

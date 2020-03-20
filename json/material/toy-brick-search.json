@@ -1,0 +1,19 @@
+{
+  "id": "AEED3DA4-5EAF-4630-BA5B-6E4675E29FA1",
+  "name": "toy-brick-search",
+  "codepoint": "F1292",
+  "aliases": [
+    "lego",
+    "plugin",
+    "extension"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "玩具积木搜索",
+    "乐高玩具",
+    "插件",
+    "扩展"
+  ]
+}

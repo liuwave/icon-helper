@@ -1,0 +1,19 @@
+{
+  "id": "BCCF75AE-F73D-4B7A-BDFD-9E767DED0B28",
+  "name": "image-multiple-outline",
+  "codepoint": "F02EF",
+  "aliases": [
+    "image-filter",
+    "images-outline"
+  ],
+  "tags": [
+    "Photography"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "图像多个轮廓",
+    "图像滤镜",
+    "图像轮廓"
+  ]
+}

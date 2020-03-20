@@ -1,0 +1,15 @@
+{
+  "id": "6A8FC2AF-724C-46A2-9F04-C34E7D658679",
+  "name": "camera-timer",
+  "codepoint": "F0109",
+  "aliases": [],
+  "tags": [
+    "Date / Time",
+    "Photography"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "相机定时器"
+  ]
+}

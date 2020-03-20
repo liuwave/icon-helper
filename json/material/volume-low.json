@@ -1,0 +1,21 @@
+{
+  "id": "213621FE-E003-4B40-9385-B9BCE19DB035",
+  "name": "volume-low",
+  "codepoint": "F057F",
+  "aliases": [
+    "audio",
+    "speaker"
+  ],
+  "tags": [
+    "Audio",
+    "Home Automation",
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "低音量",
+    "音频",
+    "扬声器"
+  ]
+}

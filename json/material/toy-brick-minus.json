@@ -1,0 +1,19 @@
+{
+  "id": "03BB26E3-61C3-4FCF-9532-056FC8DC1E4D",
+  "name": "toy-brick-minus",
+  "codepoint": "F128B",
+  "aliases": [
+    "lego",
+    "plugin",
+    "extension"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "玩具砖减号",
+    "乐高",
+    "插件",
+    "扩展名"
+  ]
+}

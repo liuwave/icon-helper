@@ -1,0 +1,15 @@
+{
+  "id": "AECA1A18-D8EA-4130-B33C-86D608E030BB",
+  "name": "comment-arrow-left",
+  "codepoint": "F09E1",
+  "aliases": [
+    "comment-previous"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "2.5.94",
+  "zhs": [
+    "向左评论箭头",
+    "向前评论"
+  ]
+}

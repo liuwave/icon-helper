@@ -1,0 +1,15 @@
+{
+  "id": "790A03D3-B40A-468A-A6D6-CA3679FDBD8D",
+  "name": "wallet-travel",
+  "codepoint": "F0587",
+  "aliases": [
+    "card-travel"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "钱包旅行",
+    "卡旅行"
+  ]
+}

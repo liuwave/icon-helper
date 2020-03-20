@@ -1,0 +1,17 @@
+{
+  "id": "CCD99C36-5D88-4696-8193-56F11C4B20A7",
+  "name": "border-color",
+  "codepoint": "F00C9",
+  "aliases": [
+    "border-colour"
+  ],
+  "tags": [
+    "Color",
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "边框颜色"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "447DBB2A-31ED-4856-A7A2-A61BF0780C7B",
+  "name": "battery-negative",
+  "codepoint": "F008D",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "电池负极"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "9E6D217A-874E-4295-9F85-9490FF14201C",
+  "name": "go-kart",
+  "codepoint": "F0D79",
+  "aliases": [
+    "cart"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Michael Richins",
+  "version": "3.4.93",
+  "zhs": [
+    "对卡丁车",
+    "购物车"
+  ]
+}

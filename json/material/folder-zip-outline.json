@@ -1,0 +1,17 @@
+{
+  "id": "55AE86E1-C6DB-4F41-BC21-1750DB608D23",
+  "name": "folder-zip-outline",
+  "codepoint": "F07B9",
+  "aliases": [
+    "compressed-folder-outline"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.0.46",
+  "zhs": [
+    "zip轮廓文件夹",
+    "压缩文件夹轮廓"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "6F0198AB-0903-4B36-AC27-B72EBC7A8A83",
+  "name": "format-section",
+  "codepoint": "F069F",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Richins",
+  "version": "1.7.12",
+  "zhs": [
+    "格式部分"
+  ]
+}

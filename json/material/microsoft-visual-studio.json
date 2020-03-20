@@ -1,0 +1,17 @@
+{
+  "id": "E009DA08-136C-465C-8481-308E99BCA3BF",
+  "name": "microsoft-visual-studio",
+  "codepoint": "F0610",
+  "aliases": [
+    "visualstudio"
+  ],
+  "tags": [
+    "Brand / Logo"
+  ],
+  "author": "Contributors",
+  "version": "1.5.54",
+  "zhs": [
+    "Microsoft Visual Studio",
+    "VisualStudio"
+  ]
+}

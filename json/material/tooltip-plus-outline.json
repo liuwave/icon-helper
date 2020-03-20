@@ -1,0 +1,17 @@
+{
+  "id": "CAA5F3A3-2044-48AC-94CA-04899F9459ED",
+  "name": "tooltip-plus-outline",
+  "codepoint": "F0527",
+  "aliases": [
+    "tooltip-outline-plus",
+    "tooltip-add-outline"
+  ],
+  "tags": [
+    "Tooltip"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "工具提示加轮廓"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "7B5D47A1-5658-4169-94C7-0C41E7179DD2",
+  "name": "alert-box",
+  "codepoint": "F0027",
+  "aliases": [
+    "warning-box"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "警报框",
+    "警告框"
+  ]
+}

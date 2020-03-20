@@ -1,0 +1,14 @@
+{
+  "id": "D2BAA555-22F2-447F-89F1-95D11AE09126",
+  "name": "axis-lock",
+  "codepoint": "F0D4B",
+  "aliases": [],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.4.93",
+  "zhs": [
+    "轴锁"
+  ]
+}

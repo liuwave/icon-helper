@@ -1,0 +1,20 @@
+{
+  "id": "2770517A-B0A3-4AC5-A6E6-6EFD9DA2C3E5",
+  "name": "flash-alert-outline",
+  "codepoint": "F0EF8",
+  "aliases": [
+    "lightning-alert-outline",
+    "storm-advisory-outline"
+  ],
+  "tags": [
+    "Weather",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "闪光灯警报轮廓",
+    "雷电警报轮廓",
+    "风暴通报轮廓"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "68F19F47-B38B-4370-B299-4EE2BF2619A5",
+  "name": "alert-circle-check",
+  "codepoint": "F11ED",
+  "aliases": [],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "4.5.95",
+  "zhs": [
+    "提醒圈子检查"
+  ]
+}

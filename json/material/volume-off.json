@@ -1,0 +1,24 @@
+{
+  "id": "74834C94-6AE1-493B-A9FB-4EE2A8FD989C",
+  "name": "volume-off",
+  "codepoint": "F0581",
+  "aliases": [
+    "mute",
+    "audio-off",
+    "speaker-off",
+    "speakerphone-off"
+  ],
+  "tags": [
+    "Audio",
+    "Home Automation",
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "音量关闭",
+    "静音",
+    "音频关闭",
+    "扬声器关闭"
+  ]
+}

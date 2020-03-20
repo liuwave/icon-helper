@@ -1,0 +1,14 @@
+{
+  "id": "5BB3E0C6-278F-4008-8327-0124D7A209A6",
+  "name": "dishwasher-off",
+  "codepoint": "F11B9",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.5.95",
+  "zhs": [
+    "关闭洗碗机"
+  ]
+}

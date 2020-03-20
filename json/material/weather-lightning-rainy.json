@@ -1,0 +1,18 @@
+{
+  "id": "F69033FD-E6F0-48E7-ADA7-7CDF71B1673C",
+  "name": "weather-lightning-rainy",
+  "codepoint": "F067E",
+  "aliases": [
+    "weather-thunder-rainy",
+    "weather-storm"
+  ],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.7.12",
+  "zhs": [
+    "天气雷雨",
+    "天气风暴"
+  ]
+}

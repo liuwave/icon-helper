@@ -1,0 +1,19 @@
+{
+  "id": "E178F91C-A54C-41B1-892F-F17A96283D14",
+  "name": "toy-brick-outline",
+  "codepoint": "F128D",
+  "aliases": [
+    "lego",
+    "plugin",
+    "extension"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "玩具砖轮廓",
+    "乐高",
+    "插件",
+    "扩展"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2782AA6E-C46A-4CEC-B753-35768CA30163",
+  "name": "home-thermometer-outline",
+  "codepoint": "F0F55",
+  "aliases": [
+    "home-climate-outline",
+    "home-temperature-outline"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Contributors",
+  "version": "3.9.97",
+  "zhs": [
+    "家用温度计轮廓",
+    "家用气候轮廓",
+    "家用温度轮廓"
+  ]
+}

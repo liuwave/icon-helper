@@ -1,0 +1,17 @@
+{
+  "id": "E464AD1F-6036-43F9-9D9F-22390B2CBECB",
+  "name": "cast-audio",
+  "codepoint": "F101E",
+  "aliases": [
+    "cast-speaker"
+  ],
+  "tags": [
+    "Audio"
+  ],
+  "author": "Contributors",
+  "version": "4.1.95",
+  "zhs": [
+    "投放音频",
+    "投放扬声器"
+  ]
+}

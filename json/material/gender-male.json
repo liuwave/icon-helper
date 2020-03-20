@@ -1,0 +1,16 @@
+{
+  "id": "78C91AE2-F79B-48EF-9CCD-5E6874BA20CA",
+  "name": "gender-male",
+  "codepoint": "F029D",
+  "aliases": [
+    "mars"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "性别",
+    "男性",
+    "火星"
+  ]
+}

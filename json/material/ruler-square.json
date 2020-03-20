@@ -1,0 +1,22 @@
+{
+  "id": "A94D1ED1-576F-4E2C-B165-ABAD797E8192",
+  "name": "ruler-square",
+  "codepoint": "F0CC2",
+  "aliases": [
+    "square",
+    "carpentry",
+    "architecture"
+  ],
+  "tags": [
+    "Hardware / Tools",
+    "Drawing / Art"
+  ],
+  "author": "Michael Richins",
+  "version": "3.2.89",
+  "zhs": [
+    "直尺广场",
+    "广场",
+    "木工",
+    "建筑"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "F8E6FE4D-8CE9-41A5-A26A-FEC3A572DA3F",
+  "name": "bank-transfer-in",
+  "codepoint": "F0A28",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "SarinManS",
+  "version": "2.6.95",
+  "zhs": [
+    "银行转帐"
+  ]
+}

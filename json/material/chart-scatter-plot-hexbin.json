@@ -1,0 +1,16 @@
+{
+  "id": "852E3EF2-942E-42C5-87BB-E1193EBD3E0C",
+  "name": "chart-scatter-plot-hexbin",
+  "codepoint": "F066D",
+  "aliases": [
+    "chart-scatterplot-hexbin"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.6.50",
+  "zhs": [
+    "图表散点图混合格"
+  ]
+}

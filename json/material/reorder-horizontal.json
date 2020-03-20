@@ -1,0 +1,12 @@
+{
+  "id": "08CB23B7-EC19-4FE5-9CBB-C308CC89C10B",
+  "name": "reorder-horizontal",
+  "codepoint": "F0688",
+  "aliases": [],
+  "tags": [],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "水平重新排序"
+  ]
+}

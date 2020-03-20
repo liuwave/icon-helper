@@ -1,0 +1,20 @@
+{
+  "id": "D3A1EC2E-98D5-46B6-BF33-DECBBAACEFBE",
+  "name": "crosshairs-gps",
+  "codepoint": "F01A4",
+  "aliases": [
+    "gps-fixed",
+    "my-location"
+  ],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "十字准线gps",
+    "固定gps",
+    "我的位置"
+  ]
+}

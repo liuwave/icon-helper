@@ -1,0 +1,16 @@
+{
+  "id": "8B757895-25B7-4C24-B6A2-7C71C9C12138",
+  "name": "select-color",
+  "codepoint": "F0D31",
+  "aliases": [
+    "select-colour"
+  ],
+  "tags": [
+    "Color"
+  ],
+  "author": "Google",
+  "version": "3.3.92",
+  "zhs": [
+    "选择颜色"
+  ]
+}

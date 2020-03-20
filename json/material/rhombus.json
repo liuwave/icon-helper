@@ -1,0 +1,16 @@
+{
+  "id": "68CFD178-A6FE-4DB5-9C39-FCA6A3EA83A5",
+  "name": "rhombus",
+  "codepoint": "F070B",
+  "aliases": [
+    "diamond"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.8.36",
+  "zhs": [
+    "菱形菱形"
+  ]
+}

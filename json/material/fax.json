@@ -1,0 +1,15 @@
+{
+  "id": "2C398569-5DBF-4405-AF73-6F5CA629AEE1",
+  "name": "fax",
+  "codepoint": "F0212",
+  "aliases": [],
+  "tags": [
+    "Printer",
+    "Cellphone / Phone"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "传真"
+  ]
+}

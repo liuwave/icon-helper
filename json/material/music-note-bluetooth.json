@@ -1,0 +1,14 @@
+{
+  "id": "40A9BA37-B1BD-4869-A3F9-8F534258DB3F",
+  "name": "music-note-bluetooth",
+  "codepoint": "F05FE",
+  "aliases": [],
+  "tags": [
+    "Audio"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "蓝牙音符音乐"
+  ]
+}

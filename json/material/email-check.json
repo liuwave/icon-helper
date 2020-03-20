@@ -1,0 +1,15 @@
+{
+  "id": "04876E3C-0FEA-43D5-9B5C-9CFFC711B180",
+  "name": "email-check",
+  "codepoint": "F0AB1",
+  "aliases": [
+    "email-tick"
+  ],
+  "tags": [],
+  "author": "Andrew Nenakhov",
+  "version": "2.7.94",
+  "zhs": [
+    "电子邮件检查",
+    "电子邮件打勾"
+  ]
+}

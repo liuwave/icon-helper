@@ -1,0 +1,17 @@
+{
+  "id": "4EDBF232-461F-4F4C-82BB-64A89BA08405",
+  "name": "arrow-up-thick",
+  "codepoint": "F005E",
+  "aliases": [
+    "arrow-top-thick"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "向上箭头粗",
+    "顶部箭头粗"
+  ]
+}

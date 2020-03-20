@@ -1,0 +1,16 @@
+{
+  "id": "E3745997-1AD2-4D79-83FE-72ADE96E3C69",
+  "name": "image-filter-center-focus",
+  "codepoint": "F02F1",
+  "aliases": [
+    "image-filter-centre-focus"
+  ],
+  "tags": [
+    "Photography"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "图像滤镜中心焦点"
+  ]
+}

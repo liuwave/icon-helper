@@ -1,0 +1,18 @@
+{
+  "id": "D6A5CF49-38A9-4911-ACAC-FF9A09BBEC76",
+  "name": "slash-forward-box",
+  "codepoint": "F0FE0",
+  "aliases": [
+    "divide-box",
+    "division-box"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "斜线前进盒",
+    "分隔盒"
+  ]
+}

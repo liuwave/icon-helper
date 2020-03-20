@@ -1,0 +1,16 @@
+{
+  "id": "A4EFE1A4-034F-473F-9076-D8DFF6167067",
+  "name": "cellphone-nfc",
+  "codepoint": "F0E90",
+  "aliases": [],
+  "tags": [
+    "Automotive",
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "3.7.94",
+  "zhs": [
+    "手机NFC"
+  ]
+}

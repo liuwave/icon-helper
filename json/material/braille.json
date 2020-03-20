@@ -1,0 +1,12 @@
+{
+  "id": "3B62C43D-F1BC-45AB-AB68-B1B854009FD8",
+  "name": "braille",
+  "codepoint": "F09D0",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.5.94",
+  "zhs": [
+    "盲文"
+  ]
+}

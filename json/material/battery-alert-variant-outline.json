@@ -1,0 +1,15 @@
+{
+  "id": "C384D39D-C672-454D-964E-8AEF06C2381F",
+  "name": "battery-alert-variant-outline",
+  "codepoint": "F10CD",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "4.3.95",
+  "zhs": [
+    "电池警报变型概述"
+  ]
+}

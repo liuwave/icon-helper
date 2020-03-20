@@ -1,0 +1,14 @@
+{
+  "id": "350F115F-0C20-4AB3-8206-81D2A25A2EF4",
+  "name": "view-sequential",
+  "codepoint": "F0729",
+  "aliases": [],
+  "tags": [
+    "View"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.8.36",
+  "zhs": [
+    "顺序视图"
+  ]
+}

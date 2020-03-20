@@ -1,0 +1,14 @@
+{
+  "id": "B52D6944-3AC2-4113-A91C-199C0CD577A6",
+  "name": "lan-connect",
+  "codepoint": "F0318",
+  "aliases": [
+    "local-area-network-connect"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "局域网连接"
+  ]
+}

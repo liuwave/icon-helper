@@ -1,0 +1,17 @@
+{
+  "id": "5EF77B27-31D7-47F8-8D72-8BC040CD154E",
+  "name": "phone-forward",
+  "codepoint": "F03F4",
+  "aliases": [
+    "phone-forwarded",
+    "telephone-forward"
+  ],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电话转接"
+  ]
+}

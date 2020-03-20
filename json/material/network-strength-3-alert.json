@@ -1,0 +1,17 @@
+{
+  "id": "99771A39-B621-45BA-96BE-7589E5A85B9E",
+  "name": "network-strength-3-alert",
+  "codepoint": "F08F9",
+  "aliases": [
+    "network-strength-3-warning"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "网络强度3警报"
+  ]
+}

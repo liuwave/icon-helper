@@ -1,0 +1,17 @@
+{
+  "id": "3E7031C9-56EE-458C-BE57-B1A737E09998",
+  "name": "pencil-box-multiple",
+  "codepoint": "F1144",
+  "aliases": [
+    "library-edit"
+  ],
+  "tags": [
+    "Edit / Modify"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "多个铅笔盒",
+    "库编辑"
+  ]
+}

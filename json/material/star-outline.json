@@ -1,0 +1,17 @@
+{
+  "id": "D443AD2F-291D-496E-ACD2-109891446FF2",
+  "name": "star-outline",
+  "codepoint": "F04D2",
+  "aliases": [
+    "star-border"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "星形轮廓",
+    "星形边框"
+  ]
+}

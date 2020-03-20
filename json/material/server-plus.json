@@ -1,0 +1,15 @@
+{
+  "id": "99AC1D59-A2F0-4B53-872D-0374D0804E0A",
+  "name": "server-plus",
+  "codepoint": "F0490",
+  "aliases": [
+    "server-add"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "服务器加号",
+    "服务器添加"
+  ]
+}

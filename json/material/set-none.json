@@ -1,0 +1,16 @@
+{
+  "id": "9674B809-B544-45E8-BBD8-4E8D9E1A966E",
+  "name": "set-none",
+  "codepoint": "F077E",
+  "aliases": [
+    "set-null",
+    "set-not"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.9.32",
+  "zhs": [
+    "设置为空",
+    "不设置"
+  ]
+}

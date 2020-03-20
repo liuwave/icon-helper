@@ -1,0 +1,18 @@
+{
+  "id": "8E016660-0C3A-46EA-B3A5-8DC490238EC7",
+  "name": "fuel",
+  "codepoint": "F07CA",
+  "aliases": [
+    "petrol",
+    "gasoline"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Haley Halcyon",
+  "version": "2.0.46",
+  "zhs": [
+    "燃料",
+    "汽油"
+  ]
+}

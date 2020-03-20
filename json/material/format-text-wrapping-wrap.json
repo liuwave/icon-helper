@@ -1,0 +1,14 @@
+{
+  "id": "AB362496-50E2-4978-BA63-41F90057BB64",
+  "name": "format-text-wrapping-wrap",
+  "codepoint": "F0D10",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "3.3.92",
+  "zhs": [
+    "包装自动换行文字格式"
+  ]
+}

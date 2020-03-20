@@ -1,0 +1,14 @@
+{
+  "id": "4AA96763-2A6C-4BF0-BA64-32AD08B530F6",
+  "name": "format-wrap-tight",
+  "codepoint": "F028A",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Andreas Gohr",
+  "version": "1.5.54",
+  "zhs": [
+    "紧包格式"
+  ]
+}

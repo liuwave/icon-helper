@@ -1,0 +1,14 @@
+{
+  "id": "9E49D099-C7CD-42A3-BFA1-8AC8966898B5",
+  "name": "tooltip-image-outline",
+  "codepoint": "F0BD5",
+  "aliases": [],
+  "tags": [
+    "Tooltip"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.0.39",
+  "zhs": [
+    "工具提示图像轮廓"
+  ]
+}

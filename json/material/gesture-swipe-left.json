@@ -1,0 +1,12 @@
+{
+  "id": "D0887CD1-2BF1-4A5A-B573-2BA6FF8A6129",
+  "name": "gesture-swipe-left",
+  "codepoint": "F073E",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "1.9.32",
+  "zhs": [
+    "向左滑动手势"
+  ]
+}

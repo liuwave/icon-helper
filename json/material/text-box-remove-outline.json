@@ -1,0 +1,17 @@
+{
+  "id": "C822984D-33BC-4A48-A9A3-E679ABF13595",
+  "name": "text-box-remove-outline",
+  "codepoint": "F0EAD",
+  "aliases": [
+    "file-document-box-remove-outline"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.7.94",
+  "zhs": [
+    "文本框删除轮廓",
+    "文件文档框删除轮廓"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0CDAFE95-E28B-4A8D-9634-C6BBB99EE598",
+  "name": "spray",
+  "codepoint": "F0665",
+  "aliases": [
+    "paint",
+    "aerosol"
+  ],
+  "tags": [
+    "Agriculture"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.6.50",
+  "zhs": [
+    "喷雾",
+    "油漆",
+    "气雾剂"
+  ]
+}

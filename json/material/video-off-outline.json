@@ -1,0 +1,17 @@
+{
+  "id": "4CD11F14-5EB9-4532-910A-D9329CB1CE48",
+  "name": "video-off-outline",
+  "codepoint": "F0BDB",
+  "aliases": [
+    "videocam-off-outline"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "3.0.39",
+  "zhs": [
+    "视频偏离轮廓",
+    "摄像机偏离轮廓"
+  ]
+}

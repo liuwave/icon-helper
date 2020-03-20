@@ -1,0 +1,12 @@
+{
+  "id": "72253002-9545-40A4-95A4-49401269B553",
+  "name": "spellcheck",
+  "codepoint": "F04C6",
+  "aliases": [],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "拼写检查"
+  ]
+}

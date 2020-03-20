@@ -1,0 +1,18 @@
+{
+  "id": "AFF98802-E02B-4EC8-8AFF-F0F5373D86C5",
+  "name": "headset",
+  "codepoint": "F02CE",
+  "aliases": [
+    "headset-mic"
+  ],
+  "tags": [
+    "Audio",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "头戴式耳机",
+    "头戴式麦克风"
+  ]
+}

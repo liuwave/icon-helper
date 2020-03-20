@@ -1,0 +1,17 @@
+{
+  "id": "01F0C520-7626-4BA6-A678-1EAB14AE2C1B",
+  "name": "emoticon-kiss",
+  "codepoint": "F0C72",
+  "aliases": [
+    "smiley-kiss"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "表情吻",
+    "笑脸吻"
+  ]
+}

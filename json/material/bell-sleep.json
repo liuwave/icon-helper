@@ -1,0 +1,17 @@
+{
+  "id": "43BD9E91-2044-4B80-AF87-2FC810C42A1B",
+  "name": "bell-sleep",
+  "codepoint": "F00A0",
+  "aliases": [
+    "notifications-paused"
+  ],
+  "tags": [
+    "Notification"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "铃声睡眠",
+    "已暂停的通知"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "C38D6CEC-4D8E-44DB-B704-9A76552733D4",
+  "name": "thumbs-up-down",
+  "codepoint": "F0515",
+  "aliases": [
+    "like-dislike"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "竖起大拇指",
+    "不喜欢"
+  ]
+}

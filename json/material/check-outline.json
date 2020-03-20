@@ -1,0 +1,17 @@
+{
+  "id": "38BFE155-0352-4907-A578-B5D0D7F5B78D",
+  "name": "check-outline",
+  "codepoint": "F0855",
+  "aliases": [
+    "done-outline",
+    "tick-outline"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "2.1.99",
+  "zhs": [
+    "检查轮廓",
+    "完成轮廓",
+    "刻度线"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "BB4F16F6-B596-4725-8831-A794321542EB",
+  "name": "cloud-upload",
+  "codepoint": "F0167",
+  "aliases": [
+    "backup"
+  ],
+  "tags": [
+    "Cloud"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "云上传",
+    "备份"
+  ]
+}

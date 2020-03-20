@@ -1,0 +1,17 @@
+{
+  "id": "CD75C484-B1AD-492B-8CAA-9F002398C3CA",
+  "name": "bell-ring",
+  "codepoint": "F009E",
+  "aliases": [
+    "notifications-active"
+  ],
+  "tags": [
+    "Notification"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "铃声",
+    "活动通知"
+  ]
+}

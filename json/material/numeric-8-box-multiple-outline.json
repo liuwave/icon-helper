@@ -1,0 +1,21 @@
+{
+  "id": "869A508B-5F8E-41A7-BCE5-E205FC66C80F",
+  "name": "numeric-8-box-multiple-outline",
+  "codepoint": "F03BA",
+  "aliases": [
+    "filter-8",
+    "numeric-eight-box-multiple-outline",
+    "numeric-8-boxes-outline",
+    "number-8-box-multiple-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric",
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字8框多重轮廓",
+    "过滤器8"
+  ]
+}

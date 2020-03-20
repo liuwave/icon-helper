@@ -1,0 +1,14 @@
+{
+  "id": "CFB791C3-6476-418F-80D4-7B8C5A6D1350",
+  "name": "marker-cancel",
+  "codepoint": "F0DD9",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "标记取消"
+  ]
+}

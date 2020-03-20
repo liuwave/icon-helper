@@ -1,0 +1,21 @@
+{
+  "id": "C45D118E-4FFA-42E5-A18B-B8A7B58BF42F",
+  "name": "clipboard-account",
+  "codepoint": "F0148",
+  "aliases": [
+    "clipboard-user",
+    "assignment-ind",
+    "clipboard-person"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "剪贴板帐户",
+    "剪贴板用户",
+    "工作分配者",
+    "剪贴板人"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "017D1949-234A-4C27-A653-FF0EAF33AD92",
+  "name": "table-row-remove",
+  "codepoint": "F04F5",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "表格行删除"
+  ]
+}

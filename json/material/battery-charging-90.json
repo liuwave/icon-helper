@@ -1,0 +1,16 @@
+{
+  "id": "0EC45F7B-7A0A-43AD-ABD3-10E4209659C0",
+  "name": "battery-charging-90",
+  "codepoint": "F008B",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电池充电90"
+  ]
+}

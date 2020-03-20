@@ -1,0 +1,17 @@
+{
+  "id": "51157881-5A20-4D7D-8E5F-FB0E815C9B3D",
+  "name": "menu-right",
+  "codepoint": "F035F",
+  "aliases": [
+    "arrow-right"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "菜单右",
+    "右箭头"
+  ]
+}

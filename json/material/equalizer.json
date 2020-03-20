@@ -1,0 +1,14 @@
+{
+  "id": "4F6A532E-58ED-4CB5-9BBB-9E77C128D536",
+  "name": "equalizer",
+  "codepoint": "F0EA2",
+  "aliases": [],
+  "tags": [
+    "Audio"
+  ],
+  "author": "Google",
+  "version": "3.7.94",
+  "zhs": [
+    "均衡器"
+  ]
+}

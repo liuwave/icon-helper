@@ -1,0 +1,17 @@
+{
+  "id": "39F70CE8-5C56-4AAB-A4F7-93F871B1CB96",
+  "name": "trophy-award",
+  "codepoint": "F0539",
+  "aliases": [
+    "achievement-award"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Doug C. Hardester",
+  "version": "1.5.54",
+  "zhs": [
+    "奖杯",
+    "成就奖"
+  ]
+}

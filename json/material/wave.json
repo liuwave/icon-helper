@@ -1,0 +1,17 @@
+{
+  "id": "34D870BF-048B-44DF-93F9-8EBE7AF4C263",
+  "name": "wave",
+  "codepoint": "F0F2E",
+  "aliases": [
+    "water"
+  ],
+  "tags": [
+    "Transportation + Water"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "波浪",
+    "水"
+  ]
+}

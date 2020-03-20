@@ -1,0 +1,20 @@
+{
+  "id": "59E94B6E-589B-4DB9-AAB7-397E17E2B272",
+  "name": "flash-alert",
+  "codepoint": "F0EF7",
+  "aliases": [
+    "lightning-alert",
+    "storm-advisory"
+  ],
+  "tags": [
+    "Weather",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "闪光警报",
+    "闪电警报",
+    "咨询风暴"
+  ]
+}

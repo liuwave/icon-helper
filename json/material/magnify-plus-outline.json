@@ -1,0 +1,23 @@
+{
+  "id": "521EC414-ECAD-435D-BAE3-4CF772659845",
+  "name": "magnify-plus-outline",
+  "codepoint": "F06ED",
+  "aliases": [
+    "zoom-in-outline",
+    "magnify-add-outline",
+    "search-plus-outline",
+    "search-add-outline"
+  ],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "1.8.36",
+  "zhs": [
+    "放大加轮廓",
+    "放大轮廓",
+    "放大添加轮廓",
+    "搜索加轮廓",
+    "搜索添加轮廓"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "E9886955-5257-4E95-A017-C903F5F850C2",
+  "name": "pan-top-right",
+  "codepoint": "F0BBC",
+  "aliases": [
+    "pan-up-right"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "3.0.39",
+  "zhs": [
+    "向右平移"
+  ]
+}

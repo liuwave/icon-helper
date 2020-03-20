@@ -1,0 +1,15 @@
+{
+  "id": "DA84CDD7-3881-4DE0-8CEB-51F1BD086A3A",
+  "name": "disc-player",
+  "codepoint": "F0960",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Device / Tech"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.4.85",
+  "zhs": [
+    "光盘播放器"
+  ]
+}

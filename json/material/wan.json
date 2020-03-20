@@ -1,0 +1,15 @@
+{
+  "id": "0E468855-81AF-4CA1-ACF0-D166D07F188C",
+  "name": "wan",
+  "codepoint": "F0588",
+  "aliases": [
+    "wide-area-network"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "WAN",
+    "广域网"
+  ]
+}

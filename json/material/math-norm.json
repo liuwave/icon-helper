@@ -1,0 +1,19 @@
+{
+  "id": "6C9569E6-55F1-48AF-A11C-2284315D0CE6",
+  "name": "math-norm",
+  "codepoint": "F0FCA",
+  "aliases": [
+    "code-or",
+    "parallel"
+  ],
+  "tags": [
+    "Math",
+    "Developer / Languages"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "数学范式",
+    "代码或并行"
+  ]
+}

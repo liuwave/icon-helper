@@ -1,0 +1,17 @@
+{
+  "id": "FB55F27F-9D0D-4EA7-ACD7-22C85E799248",
+  "name": "bag-personal",
+  "codepoint": "F0E10",
+  "aliases": [
+    "backpack"
+  ],
+  "tags": [
+    "Transportation + Flying"
+  ],
+  "author": "Michael Richins",
+  "version": "3.6.95",
+  "zhs": [
+    "个人袋",
+    "背包"
+  ]
+}

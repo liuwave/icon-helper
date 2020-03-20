@@ -1,0 +1,15 @@
+{
+  "id": "65092A6A-E7E4-42BF-91F7-9AE7F50727D4",
+  "name": "file-edit",
+  "codepoint": "F11E7",
+  "aliases": [],
+  "tags": [
+    "Edit / Modify",
+    "Files / Folders"
+  ],
+  "author": "frankgrinaert",
+  "version": "4.5.95",
+  "zhs": [
+    "文件编辑"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "340B7941-DB9B-40A2-9968-100AB599F204",
+  "name": "gate",
+  "codepoint": "F0299",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "门"
+  ]
+}

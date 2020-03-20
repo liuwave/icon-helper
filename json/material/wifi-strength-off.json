@@ -1,0 +1,12 @@
+{
+  "id": "122332EC-08DD-438C-BD47-AB332E1E04F6",
+  "name": "wifi-strength-off",
+  "codepoint": "F092D",
+  "aliases": [],
+  "tags": [],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "wifi强度关闭"
+  ]
+}

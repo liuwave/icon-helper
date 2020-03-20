@@ -1,0 +1,12 @@
+{
+  "id": "BB1C669D-D6EA-47D7-B15C-10A236D214AA",
+  "name": "domain-remove",
+  "codepoint": "F10AE",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "域删除"
+  ]
+}

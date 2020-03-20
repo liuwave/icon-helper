@@ -1,0 +1,18 @@
+{
+  "id": "83E06672-D36B-41FF-8463-080EB639F00F",
+  "name": "file-document-edit",
+  "codepoint": "F0DC8",
+  "aliases": [
+    "contract"
+  ],
+  "tags": [
+    "Edit / Modify",
+    "Files / Folders"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.5.94",
+  "zhs": [
+    "文件文件编辑",
+    "合同"
+  ]
+}

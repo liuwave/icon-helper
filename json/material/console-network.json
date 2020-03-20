@@ -1,0 +1,15 @@
+{
+  "id": "19A41CF5-CA4E-411C-8C34-14895B4B90DD",
+  "name": "console-network",
+  "codepoint": "F08A9",
+  "aliases": [
+    "terminal-network"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.2.43",
+  "zhs": [
+    "控制台网络",
+    "终端网络"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2F091499-4472-423E-A0C5-8C96CDDE1ABF",
+  "name": "currency-ngn",
+  "codepoint": "F01B0",
+  "aliases": [
+    "naira"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "货币NGE",
+    "奈拉"
+  ]
+}

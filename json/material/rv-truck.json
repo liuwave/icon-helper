@@ -1,0 +1,19 @@
+{
+  "id": "43C3E250-2842-4973-8D19-CA1E48BCF61C",
+  "name": "rv-truck",
+  "codepoint": "F11D4",
+  "aliases": [
+    "recreational-vehicle",
+    "campervan"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Michael Richins",
+  "version": "4.5.95",
+  "zhs": [
+    "房车",
+    "休闲车",
+    "露营车"
+  ]
+}

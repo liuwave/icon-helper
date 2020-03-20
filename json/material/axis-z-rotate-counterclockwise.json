@@ -1,0 +1,15 @@
+{
+  "id": "DB0819A2-5E99-483B-BBC8-AEAD0DE9D196",
+  "name": "axis-z-rotate-counterclockwise",
+  "codepoint": "F0D58",
+  "aliases": [
+    "vertical-rotate-counterclockwise"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.4.93",
+  "zhs": [
+    "轴z逆时针旋转",
+    "垂直轴逆时针旋转"
+  ]
+}

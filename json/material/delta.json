@@ -1,0 +1,18 @@
+{
+  "id": "D4B29470-8EE3-4ED8-BB01-6C942CE7E748",
+  "name": "delta",
+  "codepoint": "F01C2",
+  "aliases": [
+    "change-history"
+  ],
+  "tags": [
+    "Math",
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "增量",
+    "更改历史记录"
+  ]
+}

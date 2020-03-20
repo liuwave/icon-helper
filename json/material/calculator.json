@@ -1,0 +1,14 @@
+{
+  "id": "3E9895C8-BCCB-464C-ACF1-CCA86113DA37",
+  "name": "calculator",
+  "codepoint": "F00EC",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "计算器"
+  ]
+}

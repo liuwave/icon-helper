@@ -1,0 +1,16 @@
+{
+  "id": "CB446614-AE63-403E-BBF8-0B0ED3E367AE",
+  "name": "television-box",
+  "codepoint": "F0839",
+  "aliases": [
+    "tv-box",
+    "tv-guide"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "电视盒",
+    "电视指南"
+  ]
+}

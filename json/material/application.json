@@ -1,0 +1,15 @@
+{
+  "id": "55C0C50F-9F4D-44C4-A84B-C79F645A8604",
+  "name": "application",
+  "codepoint": "F0614",
+  "aliases": [
+    "web-asset"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.6.50",
+  "zhs": [
+    "应用程序",
+    "网络资产"
+  ]
+}

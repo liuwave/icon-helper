@@ -1,0 +1,19 @@
+{
+  "id": "9426C325-5C35-40D8-9CA4-DA230CCC2736",
+  "name": "toy-brick-plus",
+  "codepoint": "F128E",
+  "aliases": [
+    "lego",
+    "plugin",
+    "extension"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "积木玩具",
+    "乐高",
+    "插件",
+    "扩展"
+  ]
+}

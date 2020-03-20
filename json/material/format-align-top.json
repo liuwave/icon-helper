@@ -1,0 +1,14 @@
+{
+  "id": "71140AD8-A0A6-45DD-9414-5DB2FBC875F1",
+  "name": "format-align-top",
+  "codepoint": "F0755",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "格式对齐顶部"
+  ]
+}

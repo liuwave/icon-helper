@@ -1,0 +1,15 @@
+{
+  "id": "FCAD03B0-9332-41AF-9992-AF53DDDF6BBA",
+  "name": "minus-box-multiple-outline",
+  "codepoint": "F1142",
+  "aliases": [
+    "library-minus-outline"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "负号框多个轮廓",
+    "库负号轮廓"
+  ]
+}

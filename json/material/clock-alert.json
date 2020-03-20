@@ -1,0 +1,18 @@
+{
+  "id": "A4250284-2784-405C-A62F-E6C546D66777",
+  "name": "clock-alert",
+  "codepoint": "F0955",
+  "aliases": [
+    "clock-warning"
+  ],
+  "tags": [
+    "Date / Time",
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "2.4.85",
+  "zhs": [
+    "时钟警报",
+    "时钟警告"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "D7A33F97-FA45-4719-901A-A1F91E671FC2",
+  "name": "progress-clock",
+  "codepoint": "F0996",
+  "aliases": [],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Peter Noble",
+  "version": "2.4.85",
+  "zhs": [
+    "时钟进度"
+  ]
+}

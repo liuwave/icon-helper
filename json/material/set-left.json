@@ -1,0 +1,14 @@
+{
+  "id": "FB4645C1-DF04-49E0-BA0B-7C02C87AF3A9",
+  "name": "set-left",
+  "codepoint": "F077B",
+  "aliases": [
+    "difference-left"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.9.32",
+  "zhs": [
+    "左移"
+  ]
+}

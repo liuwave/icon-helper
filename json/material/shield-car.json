@@ -1,0 +1,19 @@
+{
+  "id": "2A7B43E0-4BA1-41EB-9040-F943AA9FD02C",
+  "name": "shield-car",
+  "codepoint": "F0F83",
+  "aliases": [
+    "car-security",
+    "car-insurance"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Nick",
+  "version": "3.9.97",
+  "zhs": [
+    "盾构汽车",
+    "汽车安全",
+    "汽车保险"
+  ]
+}

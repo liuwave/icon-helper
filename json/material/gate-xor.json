@@ -1,0 +1,14 @@
+{
+  "id": "AFA3ABA2-1237-417E-8277-8509C7A58C1C",
+  "name": "gate-xor",
+  "codepoint": "F08E7",
+  "aliases": [
+    "logic-gate-xor"
+  ],
+  "tags": [],
+  "author": "Nick",
+  "version": "2.3.50",
+  "zhs": [
+    "逻辑门异或门"
+  ]
+}

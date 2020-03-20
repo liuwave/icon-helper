@@ -1,0 +1,19 @@
+{
+  "id": "32F3835A-EBD0-4927-9497-6F67F7075EAF",
+  "name": "taxi",
+  "codepoint": "F04FF",
+  "aliases": [
+    "local-taxi",
+    "cab"
+  ],
+  "tags": [
+    "Transportation + Road",
+    "Navigation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "出租车",
+    "当地出租车"
+  ]
+}

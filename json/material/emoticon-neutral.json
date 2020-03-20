@@ -1,0 +1,17 @@
+{
+  "id": "922B06B7-9C78-452C-AF29-79A47F0F6931",
+  "name": "emoticon-neutral",
+  "codepoint": "F0C74",
+  "aliases": [
+    "smiley-neutral"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "表情中性",
+    "笑脸中性"
+  ]
+}

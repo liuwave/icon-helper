@@ -1,0 +1,17 @@
+{
+  "id": "C241F52F-EA70-4784-9455-AA7D05663C90",
+  "name": "database-check",
+  "codepoint": "F0AA9",
+  "aliases": [
+    "database-tick"
+  ],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Andrew Nenakhov",
+  "version": "2.7.94",
+  "zhs": [
+    "数据库检查",
+    "数据库打勾"
+  ]
+}

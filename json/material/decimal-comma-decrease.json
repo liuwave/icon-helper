@@ -1,0 +1,14 @@
+{
+  "id": "E9237D99-5BD3-434A-B574-97C60B544EE1",
+  "name": "decimal-comma-decrease",
+  "codepoint": "F10A3",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "十进制逗号减少"
+  ]
+}

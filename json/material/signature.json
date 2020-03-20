@@ -1,0 +1,14 @@
+{
+  "id": "CA1E5FB5-D8FA-4B61-9C96-988F6829C4F5",
+  "name": "signature",
+  "codepoint": "F0DFB",
+  "aliases": [],
+  "tags": [
+    "Form"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "签名"
+  ]
+}

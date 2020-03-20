@@ -1,0 +1,15 @@
+{
+  "id": "943E027B-964A-4CE2-BDD7-44A9703A73B1",
+  "name": "progress-check",
+  "codepoint": "F0995",
+  "aliases": [
+    "progress-tick"
+  ],
+  "tags": [],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "进度检查",
+    "进度刻度"
+  ]
+}

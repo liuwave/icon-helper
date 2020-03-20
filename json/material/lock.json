@@ -1,0 +1,19 @@
+{
+  "id": "D711AFDE-2B8D-4932-82AC-A04E7B2810AE",
+  "name": "lock",
+  "codepoint": "F033E",
+  "aliases": [
+    "https"
+  ],
+  "tags": [
+    "Lock",
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "锁定",
+    "https"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "62006FDB-1540-4E32-B74D-A758C8974661",
+  "name": "order-bool-descending",
+  "codepoint": "F1384",
+  "aliases": [
+    "order-checkbox-descending"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Cody",
+  "version": "5.0.45",
+  "zhs": [
+    "订单布尔降序",
+    "订单复选框降序"
+  ]
+}

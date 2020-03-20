@@ -1,0 +1,14 @@
+{
+  "id": "B422BB57-AC2D-43C2-B7A0-67160D90519E",
+  "name": "battery-60-bluetooth",
+  "codepoint": "F0943",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "电池60蓝牙"
+  ]
+}

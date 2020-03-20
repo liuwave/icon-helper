@@ -1,0 +1,14 @@
+{
+  "id": "C0939A88-BF53-4323-A12F-E6A92F7BE327",
+  "name": "battery-off",
+  "codepoint": "F125D",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "电池没电了"
+  ]
+}

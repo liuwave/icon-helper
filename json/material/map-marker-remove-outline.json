@@ -1,0 +1,15 @@
+{
+  "id": "75FDE93C-EB66-4824-9F96-1B4212BDA785",
+  "name": "map-marker-remove-outline",
+  "codepoint": "F12FA",
+  "aliases": [],
+  "tags": [
+    "Geographic Information System",
+    "Navigation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "地图标记删除轮廓"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "61F84878-9DAD-45D9-8A79-65143EA32F37",
+  "name": "microphone-plus",
+  "codepoint": "F08B4",
+  "aliases": [
+    "microphone-add"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.2.43",
+  "zhs": [
+    "麦克风加"
+  ]
+}

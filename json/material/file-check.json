@@ -1,0 +1,17 @@
+{
+  "id": "9E66E6CF-74AD-4DB5-953B-DC135B4AD44C",
+  "name": "file-check",
+  "codepoint": "F0216",
+  "aliases": [
+    "file-tick"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "文件检查",
+    "文件打勾"
+  ]
+}

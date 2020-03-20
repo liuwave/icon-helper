@@ -1,0 +1,12 @@
+{
+  "id": "17A555A5-0518-42D0-87F8-6C332F81DF18",
+  "name": "gesture-pinch",
+  "codepoint": "F0ABD",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.7.94",
+  "zhs": [
+    "捏手势"
+  ]
+}

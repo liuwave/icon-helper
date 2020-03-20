@@ -1,0 +1,21 @@
+{
+  "id": "6DCCA48F-E413-4C45-BFE5-8E3C8BE61A4E",
+  "name": "alarm-check",
+  "codepoint": "F0021",
+  "aliases": [
+    "alarm-on",
+    "alarm-tick",
+    "alarm-clock-check",
+    "alarm-clock-tick"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "警报检查",
+    "警报开启",
+    "警报滴答",
+    "闹钟检查",
+    "闹钟滴答"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "E74ADD51-598F-4194-868C-3A9F7B62BCFA",
+  "name": "shield-account-outline",
+  "codepoint": "F0A12",
+  "aliases": [
+    "security-account-outline",
+    "shield-user-outline",
+    "shield-person-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.5.94",
+  "zhs": [
+    "屏蔽帐户轮廓",
+    "安全帐户轮廓",
+    "屏蔽用户轮廓",
+    "屏蔽人员轮廓"
+  ]
+}

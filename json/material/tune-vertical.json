@@ -1,0 +1,19 @@
+{
+  "id": "AB147073-9D20-4DA1-A108-3856FC1764C1",
+  "name": "tune-vertical",
+  "codepoint": "F066A",
+  "aliases": [
+    "equaliser-vertical",
+    "instant-mix"
+  ],
+  "tags": [
+    "Settings"
+  ],
+  "author": "Google",
+  "version": "1.6.50",
+  "zhs": [
+    "垂直调整",
+    "垂直均衡",
+    "即时混音"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "E844FA32-E45E-4D71-B74C-34DFAD7F6830",
+  "name": "home-plus",
+  "codepoint": "F0975",
+  "aliases": [
+    "home-add"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Peter Noble",
+  "version": "2.4.85",
+  "zhs": [
+    "home plus",
+    "首页添加"
+  ]
+}

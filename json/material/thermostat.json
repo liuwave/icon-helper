@@ -1,0 +1,18 @@
+{
+  "id": "628D16E2-7E57-43CA-8451-012B8AB852DA",
+  "name": "thermostat",
+  "codepoint": "F0393",
+  "aliases": [
+    "nest"
+  ],
+  "tags": [
+    "Device / Tech",
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "恒温器",
+    "巢式"
+  ]
+}

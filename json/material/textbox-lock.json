@@ -1,0 +1,12 @@
+{
+  "id": "32C3C391-9B80-4659-BCB3-6653FE4E5108",
+  "name": "textbox-lock",
+  "codepoint": "F135D",
+  "aliases": [],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "4.9.95",
+  "zhs": [
+    "文本框锁定"
+  ]
+}

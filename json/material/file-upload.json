@@ -1,0 +1,14 @@
+{
+  "id": "38FC6E1D-C2F0-4B73-BA30-2C7FAFC0C48E",
+  "name": "file-upload",
+  "codepoint": "F0A4D",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "文件上传"
+  ]
+}

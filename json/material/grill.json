@@ -1,0 +1,20 @@
+{
+  "id": "22C8B00E-9BA8-4C66-994B-A2F0B4D369DD",
+  "name": "grill",
+  "codepoint": "F0E45",
+  "aliases": [
+    "bbq",
+    "barbecue",
+    "charcoal"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Google",
+  "version": "3.6.95",
+  "zhs": [
+    "烧烤架",
+    "烧烤",
+    "木炭"
+  ]
+}

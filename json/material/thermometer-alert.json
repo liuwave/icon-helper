@@ -1,0 +1,18 @@
+{
+  "id": "DB3D5088-E7A7-47AD-87E3-43D5B41BF0C2",
+  "name": "thermometer-alert",
+  "codepoint": "F0E01",
+  "aliases": [
+    "thermometer-warning"
+  ],
+  "tags": [
+    "Home Automation",
+    "Weather",
+    "Alert / Error"
+  ],
+  "author": "Michael Richins",
+  "version": "3.5.94",
+  "zhs": [
+    "温度计警报"
+  ]
+}

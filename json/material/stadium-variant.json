@@ -1,0 +1,18 @@
+{
+  "id": "0407BE27-099D-4170-BA1C-A87A4239F9DA",
+  "name": "stadium-variant",
+  "codepoint": "F0720",
+  "aliases": [
+    "arena"
+  ],
+  "tags": [
+    "Places",
+    "Sport"
+  ],
+  "author": "Alex Efremo",
+  "version": "1.8.36",
+  "zhs": [
+    "体育馆变体",
+    "竞技场"
+  ]
+}

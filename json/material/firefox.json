@@ -1,0 +1,17 @@
+{
+  "id": "2A7EE574-62BE-4000-B8D8-B601C29D2960",
+  "name": "firefox",
+  "codepoint": "F0239",
+  "aliases": [
+    "mozilla-firefox"
+  ],
+  "tags": [
+    "Brand / Logo"
+  ],
+  "author": "Contributors",
+  "version": "1.5.54",
+  "zhs": [
+    "firefox",
+    "mozilla firefox"
+  ]
+}

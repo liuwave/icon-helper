@@ -1,0 +1,17 @@
+{
+  "id": "59803983-F6CE-4D40-B83C-36D42C9464A9",
+  "name": "circle",
+  "codepoint": "F0765",
+  "aliases": [
+    "lens"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "圆圈",
+    "镜头"
+  ]
+}

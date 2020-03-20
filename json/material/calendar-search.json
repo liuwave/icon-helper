@@ -1,0 +1,17 @@
+{
+  "id": "1C61A1FD-56B6-41F1-B677-84D32425225A",
+  "name": "calendar-search",
+  "codepoint": "F094C",
+  "aliases": [
+    "event-search"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "日历搜索",
+    "事件搜索"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "C008FBCE-4D0A-4003-8811-FF15D08C3313",
+  "name": "robot-industrial",
+  "codepoint": "F0B46",
+  "aliases": [
+    "autonomous",
+    "assembly"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.8.94",
+  "zhs": [
+    "工业",
+    "自主",
+    "装配机器人"
+  ]
+}

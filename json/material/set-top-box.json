@@ -1,0 +1,14 @@
+{
+  "id": "944304C3-3513-4544-8DC2-B14307049311",
+  "name": "set-top-box",
+  "codepoint": "F099F",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.4.85",
+  "zhs": [
+    "机顶盒"
+  ]
+}

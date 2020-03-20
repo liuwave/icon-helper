@@ -1,0 +1,12 @@
+{
+  "id": "F189DB12-9323-47A1-89C9-451EF2A886CB",
+  "name": "reorder-vertical",
+  "codepoint": "F0689",
+  "aliases": [],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.7.12",
+  "zhs": [
+    "垂直重新排序"
+  ]
+}

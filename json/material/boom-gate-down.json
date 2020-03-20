@@ -1,0 +1,24 @@
+{
+  "id": "D9BD19B7-12DD-4557-9DDA-998688CA3CB5",
+  "name": "boom-gate-down",
+  "codepoint": "F0E89",
+  "aliases": [
+    "boom-arm-down",
+    "boom-barrier-down",
+    "arm-barrier-down",
+    "barrier-down",
+    "automatic-gate-down"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "动臂浇口下降",
+    "动臂臂下降",
+    "动臂障碍向下",
+    "障碍障碍向下",
+    "自动浇口下降"
+  ]
+}

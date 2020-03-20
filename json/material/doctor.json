@@ -1,0 +1,14 @@
+{
+  "id": "3772A377-C71A-429B-A4A6-3979DA3BC588",
+  "name": "doctor",
+  "codepoint": "F0A42",
+  "aliases": [],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Augustin Ursu",
+  "version": "2.6.95",
+  "zhs": [
+    "医生"
+  ]
+}

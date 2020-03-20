@@ -1,0 +1,19 @@
+{
+  "id": "45260E4C-E8EB-4E35-85A8-F19A91FE1A2C",
+  "name": "skip-backward",
+  "codepoint": "F04AB",
+  "aliases": [
+    "title-backward",
+    "previous-title"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "向后跳",
+    "标题向后",
+    "上一个标题"
+  ]
+}

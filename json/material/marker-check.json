@@ -1,0 +1,17 @@
+{
+  "id": "74C5E15E-D227-4272-94E6-EDFDD0F66C9A",
+  "name": "marker-check",
+  "codepoint": "F0355",
+  "aliases": [
+    "beenhere",
+    "marker-tick"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "标记检查",
+    "behere",
+    "股票行情指示器"
+  ]
+}

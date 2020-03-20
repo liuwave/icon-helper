@@ -1,0 +1,14 @@
+{
+  "id": "9E27C6FE-B44C-4A92-BDD7-A546A4F83E9D",
+  "name": "transit-connection-variant",
+  "codepoint": "F0D3D",
+  "aliases": [],
+  "tags": [
+    "Navigation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "运输连接重音"
+  ]
+}

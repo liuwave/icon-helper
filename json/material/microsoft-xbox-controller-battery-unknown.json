@@ -1,0 +1,15 @@
+{
+  "id": "9CC18C3C-57B6-470C-9F09-80B62ECFABD7",
+  "name": "microsoft-xbox-controller-battery-unknown",
+  "codepoint": "F0750",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Gaming / RPG"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "微软xbox控制器电池未知"
+  ]
+}

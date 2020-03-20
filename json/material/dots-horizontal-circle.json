@@ -1,0 +1,19 @@
+{
+  "id": "2ED6A664-DAE9-427C-8810-496C331C9BE0",
+  "name": "dots-horizontal-circle",
+  "codepoint": "F07C3",
+  "aliases": [
+    "ellipsis-horizontal-circle",
+    "more-circle",
+    "menu"
+  ],
+  "tags": [],
+  "author": "Contributors",
+  "version": "2.0.46",
+  "zhs": [
+    "点水平圆",
+    "省略号水平圆",
+    "更多圆",
+    "菜单"
+  ]
+}

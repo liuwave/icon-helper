@@ -1,0 +1,15 @@
+{
+  "id": "34DD1168-3875-4F77-9C0B-5BCFFB80FBBD",
+  "name": "map-marker-minus",
+  "codepoint": "F0650",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Cody",
+  "version": "1.6.50",
+  "zhs": [
+    "减去地图标记"
+  ]
+}

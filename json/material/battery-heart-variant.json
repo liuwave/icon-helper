@@ -1,0 +1,14 @@
+{
+  "id": "2DE04585-054B-4E09-AC31-33E28DD80942",
+  "name": "battery-heart-variant",
+  "codepoint": "F1211",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "Michael Richins",
+  "version": "4.6.95",
+  "zhs": [
+    "电池心音"
+  ]
+}

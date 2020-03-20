@@ -1,0 +1,18 @@
+{
+  "id": "626FA95C-E655-44A6-BA6A-4B60CED44B6D",
+  "name": "medal",
+  "codepoint": "F0987",
+  "aliases": [
+    "award"
+  ],
+  "tags": [
+    "Gaming / RPG",
+    "Sport"
+  ],
+  "author": "Michael Richins",
+  "version": "2.4.85",
+  "zhs": [
+    "奖牌",
+    "奖励"
+  ]
+}

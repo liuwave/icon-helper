@@ -1,0 +1,14 @@
+{
+  "id": "8B6938C0-6C97-41A4-A22F-83D6A9F1AC3F",
+  "name": "car-defrost-rear",
+  "codepoint": "F0D62",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.4.93",
+  "zhs": [
+    "后除霜车"
+  ]
+}

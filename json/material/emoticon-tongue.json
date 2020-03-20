@@ -1,0 +1,17 @@
+{
+  "id": "57288378-59EE-4705-ACD5-3B424ACA70C1",
+  "name": "emoticon-tongue",
+  "codepoint": "F01F9",
+  "aliases": [
+    "smiley-tongue"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "表情符号的舌头",
+    "笑脸的舌头"
+  ]
+}

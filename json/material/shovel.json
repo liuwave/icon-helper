@@ -1,0 +1,14 @@
+{
+  "id": "16D35D19-90C2-42DD-9E83-8F47E21A53DF",
+  "name": "shovel",
+  "codepoint": "F0710",
+  "aliases": [],
+  "tags": [
+    "Hardware / Tools"
+  ],
+  "author": "Michael Richins",
+  "version": "1.8.36",
+  "zhs": [
+    "铲子"
+  ]
+}

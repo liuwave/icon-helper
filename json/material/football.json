@@ -1,0 +1,17 @@
+{
+  "id": "3C0488C6-E807-401D-9689-7770550EC2E7",
+  "name": "football",
+  "codepoint": "F025D",
+  "aliases": [
+    "football-american"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "足球",
+    "美式足球"
+  ]
+}

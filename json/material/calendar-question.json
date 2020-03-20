@@ -1,0 +1,19 @@
+{
+  "id": "1A7293FC-E6E7-4C86-8919-32D0C5F60B08",
+  "name": "calendar-question",
+  "codepoint": "F0692",
+  "aliases": [
+    "calendar-rsvp",
+    "event-question"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Cody",
+  "version": "1.7.12",
+  "zhs": [
+    "日历问题",
+    "日历rsvp",
+    "事件问题"
+  ]
+}

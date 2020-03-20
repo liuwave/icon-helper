@@ -1,0 +1,15 @@
+{
+  "id": "B31CB4B0-9987-4F99-8409-FA4601E34064",
+  "name": "car-multiple",
+  "codepoint": "F0B6E",
+  "aliases": [],
+  "tags": [
+    "Transportation + Road",
+    "Automotive"
+  ],
+  "author": "Michael Richins",
+  "version": "3.0.39",
+  "zhs": [
+    "多辆车"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "91D0BB43-E5D4-4F0B-89E7-B379A6F9A455",
+  "name": "doorbell",
+  "codepoint": "F12E6",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "门铃"
+  ]
+}

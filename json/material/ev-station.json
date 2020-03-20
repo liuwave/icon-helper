@@ -1,0 +1,18 @@
+{
+  "id": "7C859DE1-16F6-4EF2-9097-A1D0C14CC3A2",
+  "name": "ev-station",
+  "codepoint": "F05F1",
+  "aliases": [
+    "charging-station"
+  ],
+  "tags": [
+    "Places",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电动汽车站",
+    "充电站"
+  ]
+}

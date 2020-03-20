@@ -1,0 +1,15 @@
+{
+  "id": "BB761A30-6F3C-484D-A0C9-501972F544AB",
+  "name": "fan-off",
+  "codepoint": "F081D",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.1.19",
+  "zhs": [
+    "风扇关闭"
+  ]
+}

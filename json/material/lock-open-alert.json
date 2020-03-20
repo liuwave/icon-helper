@@ -1,0 +1,14 @@
+{
+  "id": "D8707612-8DFB-4F83-9FAE-2058254A651F",
+  "name": "lock-open-alert",
+  "codepoint": "F139B",
+  "aliases": [],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "François Risoud",
+  "version": "5.0.45",
+  "zhs": [
+    "锁打开警报"
+  ]
+}

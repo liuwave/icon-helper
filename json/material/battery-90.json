@@ -1,0 +1,16 @@
+{
+  "id": "58205285-7EAA-400A-A8E5-A9373E7D986A",
+  "name": "battery-90",
+  "codepoint": "F0082",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电池90"
+  ]
+}

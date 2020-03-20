@@ -1,0 +1,17 @@
+{
+  "id": "08C0F709-4E1C-4BFD-8CC6-BC12FE5CDD9B",
+  "name": "key-link",
+  "codepoint": "F119F",
+  "aliases": [
+    "foreign-key",
+    "sql-foreign-key"
+  ],
+  "tags": [],
+  "author": "Haley Halcyon",
+  "version": "4.4.95",
+  "zhs": [
+    "链接键",
+    "外键",
+    "sql外键"
+  ]
+}

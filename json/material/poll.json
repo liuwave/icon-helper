@@ -1,0 +1,15 @@
+{
+  "id": "C4A1DAE5-04E0-47EF-84D8-CB81FA58EF87",
+  "name": "poll",
+  "codepoint": "F041F",
+  "aliases": [
+    "bar-chart"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "孔",
+    "条形图"
+  ]
+}

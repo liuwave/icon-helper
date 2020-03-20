@@ -1,0 +1,16 @@
+{
+  "id": "B2984FA7-4B68-4191-8835-EB768C58DD10",
+  "name": "alert-decagram-outline",
+  "codepoint": "F0CE5",
+  "aliases": [
+    "warning-decagram-outline"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Peter Noble",
+  "version": "3.3.92",
+  "zhs": [
+    "警告十进制轮廓"
+  ]
+}

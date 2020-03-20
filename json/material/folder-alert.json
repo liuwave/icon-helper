@@ -1,0 +1,20 @@
+{
+  "id": "D26F1A90-B76E-4C13-A956-2EBA33493563",
+  "name": "folder-alert",
+  "codepoint": "F0DCC",
+  "aliases": [
+    "folder-warning"
+  ],
+  "tags": [
+    "Files / Folders",
+    "Alert / Error",
+    "Alert / Error",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "文件夹警报",
+    "文件夹警告"
+  ]
+}

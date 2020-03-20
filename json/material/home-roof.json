@@ -1,0 +1,17 @@
+{
+  "id": "32EF139A-14EB-4767-ADDD-08120FB530A0",
+  "name": "home-roof",
+  "codepoint": "F112B",
+  "aliases": [
+    "home-chimney"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.3.95",
+  "zhs": [
+    "家用屋顶",
+    "家用烟囱"
+  ]
+}

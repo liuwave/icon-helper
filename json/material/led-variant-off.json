@@ -1,0 +1,14 @@
+{
+  "id": "BBDD4244-D5C9-4150-9936-31C775AA463F",
+  "name": "led-variant-off",
+  "codepoint": "F032E",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "led重音符号关闭"
+  ]
+}

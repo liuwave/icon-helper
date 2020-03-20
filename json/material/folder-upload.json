@@ -1,0 +1,14 @@
+{
+  "id": "9F84EC25-D8C7-4BB0-B39F-E71919F4EE6D",
+  "name": "folder-upload",
+  "codepoint": "F0259",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文件夹上传"
+  ]
+}

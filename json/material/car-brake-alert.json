@@ -1,0 +1,26 @@
+{
+  "id": "843DC5E8-723D-44A1-A959-A49C662712D1",
+  "name": "car-brake-alert",
+  "codepoint": "F0C48",
+  "aliases": [
+    "car-parking-brake",
+    "car-handbrake",
+    "car-hand-brake",
+    "car-emergency-brake",
+    "car-brake-warning"
+  ],
+  "tags": [
+    "Automotive",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "汽车制动器警报",
+    "汽车驻车制动器",
+    "汽车手刹",
+    "汽车手制动器",
+    "汽车紧急制动器",
+    "汽车制动器警告"
+  ]
+}

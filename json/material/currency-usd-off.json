@@ -1,0 +1,19 @@
+{
+  "id": "5E9D35E4-9487-4A9B-9D4B-E1BBCA52AE0C",
+  "name": "currency-usd-off",
+  "codepoint": "F067A",
+  "aliases": [
+    "money-off",
+    "dollar-off"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "关闭货币",
+    "减少美元"
+  ]
+}

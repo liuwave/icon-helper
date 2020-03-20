@@ -1,0 +1,19 @@
+{
+  "id": "5CCC54A4-04AF-4241-80AB-177C8365A905",
+  "name": "file-undo",
+  "codepoint": "F08DC",
+  "aliases": [
+    "file-revert",
+    "file-discard"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Richins",
+  "version": "2.3.50",
+  "zhs": [
+    "文件撤消",
+    "文件还原",
+    "文件丢弃"
+  ]
+}

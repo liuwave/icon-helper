@@ -1,0 +1,14 @@
+{
+  "id": "04AE9704-928E-4272-B7FA-BD2ABC38ABE0",
+  "name": "align-vertical-center",
+  "codepoint": "F11C6",
+  "aliases": [
+    "align-vertical-centre"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.5.95",
+  "zhs": [
+    "对齐垂直中心"
+  ]
+}

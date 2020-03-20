@@ -1,0 +1,15 @@
+{
+  "id": "450895A4-8BFF-4F63-A567-2010226F7464",
+  "name": "sort-variant-lock",
+  "codepoint": "F0CCD",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format",
+    "Lock"
+  ],
+  "author": "Christopher Schreiner",
+  "version": "3.2.89",
+  "zhs": [
+    "一种重音符号"
+  ]
+}

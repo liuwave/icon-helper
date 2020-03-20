@@ -1,0 +1,16 @@
+{
+  "id": "2B8A2BB1-0887-493F-A644-88015BFA507A",
+  "name": "graph-outline",
+  "codepoint": "F104A",
+  "aliases": [
+    "dependency",
+    "dependencies"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "4.1.95",
+  "zhs": [
+    "图轮廓",
+    "依存关系"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "858CE593-C905-42C6-ABA5-99379EBD95AE",
+  "name": "account-alert-outline",
+  "codepoint": "F0B50",
+  "aliases": [
+    "user-alert-outline",
+    "account-warning-outline",
+    "user-warning-outline",
+    "person-warning-outline",
+    "person-alert-outline"
+  ],
+  "tags": [
+    "Account / User",
+    "Alert / Error"
+  ],
+  "author": "Coffeemate",
+  "version": "3.0.39",
+  "zhs": [
+    "帐户警报轮廓",
+    "用户警报轮廓",
+    "帐户警告轮廓",
+    "用户警告轮廓",
+    "人员警告轮廓",
+    "人员警报轮廓"
+  ]
+}

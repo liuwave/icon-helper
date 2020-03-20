@@ -1,0 +1,17 @@
+{
+  "id": "35CE4750-7CA9-4C9B-AB11-5C1F2A092C9C",
+  "name": "file-delimited-outline",
+  "codepoint": "F0EA5",
+  "aliases": [
+    "file-csv-outline"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Terren",
+  "version": "3.7.94",
+  "zhs": [
+    "文件定界轮廓",
+    "文件csv轮廓"
+  ]
+}

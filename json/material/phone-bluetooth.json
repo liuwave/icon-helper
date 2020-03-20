@@ -1,0 +1,18 @@
+{
+  "id": "34F52268-8571-4501-93C1-D4BF606BB10E",
+  "name": "phone-bluetooth",
+  "codepoint": "F03F3",
+  "aliases": [
+    "phone-bluetooth-speaker",
+    "telephone-bluetooth"
+  ],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "蓝牙电话",
+    "蓝牙电话扬声器"
+  ]
+}

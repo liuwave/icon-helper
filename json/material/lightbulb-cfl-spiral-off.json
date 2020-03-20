@@ -1,0 +1,16 @@
+{
+  "id": "49D60773-F400-491A-AD3F-B50110089F63",
+  "name": "lightbulb-cfl-spiral-off",
+  "codepoint": "F12C3",
+  "aliases": [
+    "bulb-cfl-spiral-off"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "灯泡关闭"
+  ]
+}

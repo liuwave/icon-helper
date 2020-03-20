@@ -1,0 +1,15 @@
+{
+  "id": "84916A68-B413-4D71-B4E7-5FD64914B354",
+  "name": "resize-bottom-right",
+  "codepoint": "F045D",
+  "aliases": [
+    "drag"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "调整右下角的大小",
+    "拖动"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "195F51E4-5B02-4BE3-B407-4B7FC1445F18",
+  "name": "battery-positive",
+  "codepoint": "F0090",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "电池正极"
+  ]
+}

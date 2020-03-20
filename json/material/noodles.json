@@ -1,0 +1,19 @@
+{
+  "id": "1655675D-A197-44BD-83E9-76E2BAD31740",
+  "name": "noodles",
+  "codepoint": "F117E",
+  "aliases": [
+    "food-ramen",
+    "asian-noodles"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Google",
+  "version": "4.4.95",
+  "zhs": [
+    "面条",
+    "食品拉面",
+    "亚洲面条"
+  ]
+}

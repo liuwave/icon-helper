@@ -1,0 +1,15 @@
+{
+  "id": "CBD96BE0-807C-4102-AC0B-AEFFE4D322F7",
+  "name": "database-settings",
+  "codepoint": "F0D01",
+  "aliases": [],
+  "tags": [
+    "Settings",
+    "Geographic Information System"
+  ],
+  "author": "Michael Richins",
+  "version": "3.3.92",
+  "zhs": [
+    "数据库设置"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "69AAECAA-0B17-4C53-8345-4F172B7FEF50",
+  "name": "emoticon-outline",
+  "codepoint": "F01F2",
+  "aliases": [
+    "insert-emoticon",
+    "mood",
+    "sentiment-very-satisfied",
+    "tag-faces",
+    "smiley-outline"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "表情符号轮廓",
+    "插入表情符号",
+    "心情",
+    "非常满意的情绪",
+    "标记面孔",
+    "笑脸轮廓"
+  ]
+}

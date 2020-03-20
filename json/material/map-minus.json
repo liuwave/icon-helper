@@ -1,0 +1,15 @@
+{
+  "id": "3C2F6429-F2F9-49A9-AF23-DD33413D2619",
+  "name": "map-minus",
+  "codepoint": "F0981",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Peter Noble",
+  "version": "2.4.85",
+  "zhs": [
+    "减去地图"
+  ]
+}

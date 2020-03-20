@@ -1,0 +1,17 @@
+{
+  "id": "014CCAA3-4B30-4C3D-921C-078A078A5198",
+  "name": "brightness-7",
+  "codepoint": "F00E0",
+  "aliases": [
+    "brightness-high"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "亮度7",
+    "亮度高"
+  ]
+}

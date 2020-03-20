@@ -1,0 +1,16 @@
+{
+  "id": "A94E333D-F8C5-4726-B81A-6DDF4CC37FD0",
+  "name": "temperature-celsius",
+  "codepoint": "F0504",
+  "aliases": [
+    "temperature-centigrade"
+  ],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "温度摄氏"
+  ]
+}

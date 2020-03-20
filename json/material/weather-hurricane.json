@@ -1,0 +1,14 @@
+{
+  "id": "880967C4-85F9-4953-A6D0-73C9370BC987",
+  "name": "weather-hurricane",
+  "codepoint": "F0898",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "天气飓风"
+  ]
+}

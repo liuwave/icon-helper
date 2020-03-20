@@ -1,0 +1,19 @@
+{
+  "id": "FACF04CD-2633-47EC-97BE-59A3341289C3",
+  "name": "tray-remove",
+  "codepoint": "F1299",
+  "aliases": [
+    "queue",
+    "printer",
+    "inbox"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "托盘取出",
+    "排队",
+    "打印机",
+    "收件箱"
+  ]
+}

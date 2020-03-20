@@ -1,0 +1,17 @@
+{
+  "id": "4147C0BC-E3AE-4324-AA38-D2EC7A7AAD5E",
+  "name": "calendar-refresh",
+  "codepoint": "F01E1",
+  "aliases": [
+    "calendar-repeat"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.5.54",
+  "zhs": [
+    "日历刷新",
+    "日历重复"
+  ]
+}

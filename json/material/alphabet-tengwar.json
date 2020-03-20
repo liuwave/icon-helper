@@ -1,0 +1,17 @@
+{
+  "id": "48C4C59F-80F3-454B-94B2-1951506F38C1",
+  "name": "alphabet-tengwar",
+  "codepoint": "F1337",
+  "aliases": [
+    "writing-system-tengwar"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "字母tengwar",
+    "书写系统tengwar"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "E758A025-3B14-4A2F-A1D7-2D12C38B47E4",
+  "name": "notification-clear-all",
+  "codepoint": "F039F",
+  "aliases": [],
+  "tags": [
+    "Notification"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "通知全部清除"
+  ]
+}

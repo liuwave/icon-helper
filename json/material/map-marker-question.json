@@ -1,0 +1,15 @@
+{
+  "id": "C9930FE9-E831-4194-A4FA-905CE141CFEA",
+  "name": "map-marker-question",
+  "codepoint": "F0F07",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "3.8.95",
+  "zhs": [
+    "地图标记问题"
+  ]
+}

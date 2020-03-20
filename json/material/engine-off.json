@@ -1,0 +1,17 @@
+{
+  "id": "114C29E0-B66E-49EF-8D45-77FF8EED43B1",
+  "name": "engine-off",
+  "codepoint": "F0A46",
+  "aliases": [
+    "motor-off"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.6.95",
+  "zhs": [
+    "发动机关闭",
+    "电动机关闭"
+  ]
+}

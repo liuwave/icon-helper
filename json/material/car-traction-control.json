@@ -1,0 +1,14 @@
+{
+  "id": "D9DC5111-14E6-4585-A79B-489FC04C1CE3",
+  "name": "car-traction-control",
+  "codepoint": "F0D64",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.4.93",
+  "zhs": [
+    "汽车牵引力控制"
+  ]
+}

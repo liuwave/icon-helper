@@ -1,0 +1,17 @@
+{
+  "id": "86D5756B-DE86-4273-A475-4E2D9856B0C3",
+  "name": "hammer-wrench",
+  "codepoint": "F1323",
+  "aliases": [
+    "tools"
+  ],
+  "tags": [
+    "Hardware / Tools"
+  ],
+  "author": "Google",
+  "version": "4.9.95",
+  "zhs": [
+    "锤扳手",
+    "工具"
+  ]
+}

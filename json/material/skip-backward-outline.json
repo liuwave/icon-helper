@@ -1,0 +1,12 @@
+{
+  "id": "22E55747-AE80-4DE9-8BC8-10B61C69F161",
+  "name": "skip-backward-outline",
+  "codepoint": "F0F25",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "向后跳过轮廓"
+  ]
+}

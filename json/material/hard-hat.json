@@ -1,0 +1,18 @@
+{
+  "id": "C0F69308-03DA-446D-9B7F-A5B2B5BF1D90",
+  "name": "hard-hat",
+  "codepoint": "F096F",
+  "aliases": [
+    "helmet"
+  ],
+  "tags": [
+    "Hardware / Tools",
+    "Clothing"
+  ],
+  "author": "Michael Richins",
+  "version": "2.4.85",
+  "zhs": [
+    "安全帽",
+    "头盔"
+  ]
+}

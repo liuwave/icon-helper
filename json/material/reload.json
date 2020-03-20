@@ -1,0 +1,19 @@
+{
+  "id": "8E25B2CE-4DAF-4BD1-9D3F-27F86DA55D21",
+  "name": "reload",
+  "codepoint": "F0453",
+  "aliases": [
+    "car-engine-start",
+    "loop"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "重新加载",
+    "汽车发动机启动",
+    "循环"
+  ]
+}

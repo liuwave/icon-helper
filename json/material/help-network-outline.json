@@ -1,0 +1,15 @@
+{
+  "id": "918BA71B-ED4F-4259-9089-0CF2A1EDCFD1",
+  "name": "help-network-outline",
+  "codepoint": "F0C8A",
+  "aliases": [
+    "question-network-outline"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "帮助网络概述",
+    "问题网络概述"
+  ]
+}

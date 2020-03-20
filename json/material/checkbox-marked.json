@@ -1,0 +1,17 @@
+{
+  "id": "C3E50D88-07AB-491F-B21E-9AA11A1E5886",
+  "name": "checkbox-marked",
+  "codepoint": "F0132",
+  "aliases": [
+    "check-box"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "复选框已标记",
+    "复选框"
+  ]
+}

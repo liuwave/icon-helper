@@ -1,0 +1,19 @@
+{
+  "id": "45fea174-07db-11e4-bf19-842b2b6cfe1b",
+  "name": "bell",
+  "codepoint": "F009A",
+  "aliases": [
+    "notifications"
+  ],
+  "tags": [
+    "Notification",
+    "Home Automation",
+    "Music"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "响铃",
+    "通知"
+  ]
+}

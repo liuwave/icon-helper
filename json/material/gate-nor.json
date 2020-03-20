@@ -1,0 +1,14 @@
+{
+  "id": "9BFED3B5-B327-480D-BFCD-18F9CC52D82A",
+  "name": "gate-nor",
+  "codepoint": "F08E3",
+  "aliases": [
+    "logic-gate-nor"
+  ],
+  "tags": [],
+  "author": "Nick",
+  "version": "2.3.50",
+  "zhs": [
+    "逻辑门或逻辑门"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "23F855E5-3F55-48BA-8C2A-7FBA5EAE8CED",
+  "name": "send-lock-outline",
+  "codepoint": "F1166",
+  "aliases": [],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "发送轮廓锁"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "FFF82791-D12F-4643-8128-71CF5FE38C9B",
+  "name": "book",
+  "codepoint": "F00BA",
+  "aliases": [
+    "git-repository"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "书籍",
+    "git存储库"
+  ]
+}

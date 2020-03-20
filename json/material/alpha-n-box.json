@@ -1,0 +1,17 @@
+{
+  "id": "8A547BE1-B4F5-4080-824D-998618AF2542",
+  "name": "alpha-n-box",
+  "codepoint": "F0B15",
+  "aliases": [
+    "alphabet-n-box",
+    "letter-n-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "字母n框"
+  ]
+}

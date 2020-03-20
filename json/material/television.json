@@ -1,0 +1,17 @@
+{
+  "id": "1B699A99-578E-450C-9523-934F4D281F72",
+  "name": "television",
+  "codepoint": "F0502",
+  "aliases": [
+    "tv"
+  ],
+  "tags": [
+    "Device / Tech",
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电视"
+  ]
+}

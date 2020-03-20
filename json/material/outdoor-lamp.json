@@ -1,0 +1,16 @@
+{
+  "id": "09F61849-C1AA-4755-B49E-75DB800B5273",
+  "name": "outdoor-lamp",
+  "codepoint": "F1054",
+  "aliases": [
+    "outdoor-light"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Borre Haugen",
+  "version": "4.1.95",
+  "zhs": [
+    "户外灯"
+  ]
+}

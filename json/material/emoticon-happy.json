@@ -1,0 +1,17 @@
+{
+  "id": "CCA0187D-B8BA-4AC3-8523-B6B8F05EA5BA",
+  "name": "emoticon-happy",
+  "codepoint": "F0C71",
+  "aliases": [
+    "smiley-happy"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "快乐的图释",
+    "笑脸快乐"
+  ]
+}

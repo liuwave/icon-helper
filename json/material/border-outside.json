@@ -1,0 +1,16 @@
+{
+  "id": "F8EA9B00-82F1-4DE8-B8B5-0A71B934C44D",
+  "name": "border-outside",
+  "codepoint": "F00CE",
+  "aliases": [
+    "border-outer"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "外部边框"
+  ]
+}

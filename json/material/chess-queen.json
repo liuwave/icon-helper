@@ -1,0 +1,14 @@
+{
+  "id": "0B9D0593-D546-4DDD-AEB1-289943FB12AE",
+  "name": "chess-queen",
+  "codepoint": "F085A",
+  "aliases": [],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "国际象棋皇后"
+  ]
+}

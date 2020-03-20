@@ -1,0 +1,17 @@
+{
+  "id": "FC508376-0233-498A-ABF8-B289241031FF",
+  "name": "abjad-hebrew",
+  "codepoint": "F1329",
+  "aliases": [
+    "writing-system-hebrew"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "abjad希伯来语",
+    "书写系统希伯来语"
+  ]
+}

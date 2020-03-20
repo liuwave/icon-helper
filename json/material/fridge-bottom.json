@@ -1,0 +1,18 @@
+{
+  "id": "F88B80D0-1521-48F8-BC15-94BA5F14BFC1",
+  "name": "fridge-bottom",
+  "codepoint": "F0292",
+  "aliases": [
+    "fridge-filled-top",
+    "refrigerator-bottom"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "冰箱底部",
+    "冰箱填充顶部"
+  ]
+}

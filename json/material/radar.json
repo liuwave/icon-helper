@@ -1,0 +1,15 @@
+{
+  "id": "73BD6C2A-0D5B-4DF6-9FA3-EC489AFBF947",
+  "name": "radar",
+  "codepoint": "F0437",
+  "aliases": [
+    "track-changes"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "雷达",
+    "航迹变化"
+  ]
+}

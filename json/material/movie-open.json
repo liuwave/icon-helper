@@ -1,0 +1,22 @@
+{
+  "id": "F23718ED-A1EE-42D7-84B2-773E110AAB63",
+  "name": "movie-open",
+  "codepoint": "F0FCE",
+  "aliases": [
+    "slate-open",
+    "clapperboard-open",
+    "film-open",
+    "movie-creation"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "GreenTurtwig",
+  "version": "4.0.96",
+  "zhs": [
+    "电影打开",
+    "板岩打开",
+    "clapperboard打开",
+    "电影创作"
+  ]
+}

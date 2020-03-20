@@ -1,0 +1,18 @@
+{
+  "id": "7B40CAE5-6B01-4E2E-8F23-60ECAB9DAC9F",
+  "name": "account-cog-outline",
+  "codepoint": "F1371",
+  "aliases": [
+    "account-settings-outline"
+  ],
+  "tags": [
+    "Account / User",
+    "Settings"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.9.95",
+  "zhs": [
+    "帐户齿轮轮廓",
+    "帐户设置轮廓"
+  ]
+}

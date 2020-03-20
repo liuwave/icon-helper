@@ -1,0 +1,14 @@
+{
+  "id": "746FB7AE-B8AC-4356-8B79-D95F54B410D7",
+  "name": "chart-multiline",
+  "codepoint": "F08D4",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Google",
+  "version": "2.3.50",
+  "zhs": [
+    "多折线图"
+  ]
+}

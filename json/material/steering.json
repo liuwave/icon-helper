@@ -1,0 +1,17 @@
+{
+  "id": "A2FE9DC5-BC17-4265-9D2C-4CA20135C4BB",
+  "name": "steering",
+  "codepoint": "F04D4",
+  "aliases": [
+    "search-hands-free"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "转向",
+    "免提搜索"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "00A83C35-A726-464B-ACEE-F0D690045C25",
+  "name": "zip-box",
+  "codepoint": "F05C4",
+  "aliases": [
+    "compressed-file"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "压缩包",
+    "压缩文件"
+  ]
+}

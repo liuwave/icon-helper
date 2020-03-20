@@ -1,0 +1,17 @@
+{
+  "id": "CDA3C920-C286-4000-A7FC-C530CBC62CF7",
+  "name": "emoticon-sad",
+  "codepoint": "F0C76",
+  "aliases": [
+    "smiley-sad"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "悲伤的图释",
+    "悲伤的笑脸"
+  ]
+}

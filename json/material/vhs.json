@@ -1,0 +1,18 @@
+{
+  "id": "551637A8-2091-4439-9710-71199B7AC0C1",
+  "name": "vhs",
+  "codepoint": "F0A1B",
+  "aliases": [
+    "video-home-system",
+    "vhs-cassette",
+    "vhs-tape"
+  ],
+  "tags": [],
+  "author": "GreenTurtwig",
+  "version": "2.5.94",
+  "zhs": [
+    "录像带",
+    "视频家庭系统",
+    "录像带卡带"
+  ]
+}

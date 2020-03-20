@@ -1,0 +1,14 @@
+{
+  "id": "24F69EED-721D-48A1-BA3C-3C1657B65C04",
+  "name": "format-line-spacing",
+  "codepoint": "F0278",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "间距行格式"
+  ]
+}

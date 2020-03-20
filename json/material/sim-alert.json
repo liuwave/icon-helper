@@ -1,0 +1,17 @@
+{
+  "id": "43CD286A-D183-474F-9B8A-93D43A355117",
+  "name": "sim-alert",
+  "codepoint": "F04A8",
+  "aliases": [
+    "sim-warning",
+    "sim-card-alert"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "SIM卡警报"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "7D633D1D-C265-4D2F-860E-43263B34A06F",
+  "name": "signal-4g",
+  "codepoint": "F0714",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "GreenTurtwig",
+  "version": "1.8.36",
+  "zhs": [
+    "4g信号"
+  ]
+}

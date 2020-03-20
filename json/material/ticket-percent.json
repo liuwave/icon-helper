@@ -1,0 +1,17 @@
+{
+  "id": "297864D0-935F-4EF0-9A2C-28F018544581",
+  "name": "ticket-percent",
+  "codepoint": "F0724",
+  "aliases": [
+    "coupon",
+    "voucher"
+  ],
+  "tags": [],
+  "author": "GreenTurtwig",
+  "version": "1.8.36",
+  "zhs": [
+    "机票百分比",
+    "优惠券",
+    "代金券"
+  ]
+}

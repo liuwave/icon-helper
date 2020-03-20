@@ -1,0 +1,19 @@
+{
+  "id": "741E5459-89DC-4045-B02E-3FB74F636143",
+  "name": "account-supervisor-circle",
+  "codepoint": "F0A8C",
+  "aliases": [
+    "user-supervisor-circle",
+    "person-supervisor-circle"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "2.7.94",
+  "zhs": [
+    "帐户主管圈子",
+    "用户主管圈子",
+    "人主管圈子"
+  ]
+}

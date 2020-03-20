@@ -1,0 +1,16 @@
+{
+  "id": "0C18B335-700A-4D68-BF88-C95A69479F2E",
+  "name": "package-down",
+  "codepoint": "F03D4",
+  "aliases": [
+    "archive",
+    "box-down"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "打包",
+    "存档"
+  ]
+}

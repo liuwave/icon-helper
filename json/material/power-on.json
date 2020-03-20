@@ -1,0 +1,12 @@
+{
+  "id": "566141F9-DB64-4210-8384-EB77CFA9E8A0",
+  "name": "power-on",
+  "codepoint": "F0903",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.3.50",
+  "zhs": [
+    "开机"
+  ]
+}

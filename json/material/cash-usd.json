@@ -1,0 +1,20 @@
+{
+  "id": "22ECB099-6A57-4DA8-9E42-0E3D8000C003",
+  "name": "cash-usd",
+  "codepoint": "F1176",
+  "aliases": [
+    "local-atm",
+    "money-usd"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "Cash USD",
+    "Local atm",
+    "money usd"
+  ]
+}

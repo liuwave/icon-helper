@@ -1,0 +1,17 @@
+{
+  "id": "0AF778AB-1048-4307-84AD-CB88D259DC02",
+  "name": "glass-wine",
+  "codepoint": "F0876",
+  "aliases": [
+    "bar"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "玻璃酒",
+    "酒吧"
+  ]
+}

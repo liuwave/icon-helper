@@ -1,0 +1,14 @@
+{
+  "id": "01D5FD19-E2FA-4BD0-9F6C-ECA058F469F1",
+  "name": "reload-alert",
+  "codepoint": "F110B",
+  "aliases": [],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.3.95",
+  "zhs": [
+    "重新加载警报"
+  ]
+}

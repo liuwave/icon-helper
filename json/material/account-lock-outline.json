@@ -1,0 +1,23 @@
+{
+  "id": "F0E25FF6-2E45-4F3D-B9E3-6F251A6B1651",
+  "name": "account-lock-outline",
+  "codepoint": "F115F",
+  "aliases": [
+    "account-security-outline",
+    "account-secure-outline",
+    "person-lock-outline",
+    "user-lock-outline"
+  ],
+  "tags": [
+    "Account / User",
+    "Lock"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "帐户锁定轮廓",
+    "帐户安全轮廓",
+    "人员锁定轮廓",
+    "用户锁定轮廓"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "29F42A3B-BCD5-45BA-9B87-35F97FE9438D",
+  "name": "blur-radial",
+  "codepoint": "F00B8",
+  "aliases": [
+    "blur-circular"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "径向模糊",
+    "圆形模糊"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "79B0F153-88BE-4FCD-94CB-E44D648DAAE2",
+  "name": "radiator-disabled",
+  "codepoint": "F0AD7",
+  "aliases": [
+    "heater-disabled"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "2.7.94",
+  "zhs": [
+    "禁用散热器",
+    "禁用加热器"
+  ]
+}

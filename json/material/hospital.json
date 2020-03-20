@@ -1,0 +1,16 @@
+{
+  "id": "D7402851-FBF5-4861-8B6E-D141EBBDBB70",
+  "name": "hospital",
+  "codepoint": "F0FF6",
+  "aliases": [
+    "swiss-cross"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "瑞士十字医院"
+  ]
+}

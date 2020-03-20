@@ -1,0 +1,17 @@
+{
+  "id": "00F06E5E-5A05-4D5E-9D07-0573CA62E0BA",
+  "name": "seatbelt",
+  "codepoint": "F0CC5",
+  "aliases": [
+    "seat-belt",
+    "safety-belt"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "安全带"
+  ]
+}

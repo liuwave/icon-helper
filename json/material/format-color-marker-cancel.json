@@ -1,0 +1,17 @@
+{
+  "id": "C6D32152-B2F3-43D3-A78E-D69CBDC5E054",
+  "name": "format-color-marker-cancel",
+  "codepoint": "F1313",
+  "aliases": [
+    "format-color-redact"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "取消设置颜色标记",
+    "格式化红色"
+  ]
+}

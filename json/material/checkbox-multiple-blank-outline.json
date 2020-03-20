@@ -1,0 +1,17 @@
+{
+  "id": "CA74F33C-3AEE-4EA9-93B4-643099DFD92D",
+  "name": "checkbox-multiple-blank-outline",
+  "codepoint": "F0137",
+  "aliases": [
+    "checkboxes-blank-outline"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "复选框多个空白轮廓",
+    "复选框空白轮廓"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4F013652-22DE-48CF-886B-A0FB995E8B41",
+  "name": "access-point",
+  "codepoint": "F0003",
+  "aliases": [
+    "wireless"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "无线接入点"
+  ]
+}

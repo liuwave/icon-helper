@@ -1,0 +1,19 @@
+{
+  "id": "66A07118-4C78-44D0-8B73-930144C74BD1",
+  "name": "sync-alert",
+  "codepoint": "F04E7",
+  "aliases": [
+    "sync-warning",
+    "sync-problem"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "同步警报",
+    "同步警告",
+    "同步问题"
+  ]
+}

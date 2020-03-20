@@ -1,0 +1,25 @@
+{
+  "id": "F9ADF5B2-435F-4820-8790-EAA72D6D5C75",
+  "name": "boom-gate-up",
+  "codepoint": "F0E8C",
+  "aliases": [
+    "boom-arm-up",
+    "boom-barrier-up",
+    "arm-barrier-up",
+    "barrier-up",
+    "automatic-gate-up"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "动臂闸向上",
+    "动臂臂向上",
+    "动臂屏障向上",
+    "屏障屏障向上",
+    "屏障向上",
+    "自动闸板向上"
+  ]
+}

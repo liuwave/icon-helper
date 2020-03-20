@@ -1,0 +1,17 @@
+{
+  "id": "34818392-81EE-4210-8F86-9C448596C912",
+  "name": "brightness-6",
+  "codepoint": "F00DF",
+  "aliases": [
+    "brightness-medium",
+    "theme-light-dark"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "亮度6",
+    "中等亮度",
+    "浅暗主题"
+  ]
+}

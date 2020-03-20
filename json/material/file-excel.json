@@ -1,0 +1,14 @@
+{
+  "id": "C3AADE94-4136-4D8E-8DFE-9AA7C88EE5D5",
+  "name": "file-excel",
+  "codepoint": "F021B",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "excel文件"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "B4EDBFFC-CF00-45F3-93A7-6ADD45108FEE",
+  "name": "camera-gopro",
+  "codepoint": "F07A1",
+  "aliases": [],
+  "tags": [
+    "Photography",
+    "Device / Tech"
+  ],
+  "author": "Michael Richins",
+  "version": "2.0.46",
+  "zhs": [
+    "相机gopro"
+  ]
+}

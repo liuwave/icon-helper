@@ -1,0 +1,17 @@
+{
+  "id": "2607909D-AA27-448A-B0E5-E5898790414A",
+  "name": "motion-sensor",
+  "codepoint": "F0D91",
+  "aliases": [
+    "motion-detector"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "3.4.93",
+  "zhs": [
+    "运动传感器",
+    "运动检测器"
+  ]
+}

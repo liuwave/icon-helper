@@ -1,0 +1,17 @@
+{
+  "id": "2FAF8E0B-5AB4-4914-A0A1-CECFFAF85427",
+  "name": "chart-line-variant",
+  "codepoint": "F07B1",
+  "aliases": [
+    "show-chart"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Google",
+  "version": "2.0.46",
+  "zhs": [
+    "图表线变体",
+    "显示图表"
+  ]
+}

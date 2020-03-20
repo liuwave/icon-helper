@@ -1,0 +1,21 @@
+{
+  "id": "F4851A5B-6F19-4C18-9A13-4BF2617FF0E0",
+  "name": "calendar-multiple",
+  "codepoint": "F00F1",
+  "aliases": [
+    "event-multiple",
+    "calendars",
+    "events"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "日历多个",
+    "多个事件",
+    "日历",
+    "事件"
+  ]
+}

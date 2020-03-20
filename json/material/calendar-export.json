@@ -1,0 +1,14 @@
+{
+  "id": "14692438-9215-4003-AF95-04AA7C27DA48",
+  "name": "calendar-export",
+  "codepoint": "F0B24",
+  "aliases": [],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Michael Richins",
+  "version": "2.8.94",
+  "zhs": [
+    "日历导出"
+  ]
+}

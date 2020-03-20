@@ -1,0 +1,14 @@
+{
+  "id": "BDB3C0CD-D017-4895-82AD-41FEE4351FA6",
+  "name": "sort-bool-ascending",
+  "codepoint": "F1385",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "frankgrinaert",
+  "version": "5.0.45",
+  "zhs": [
+    "升序排序"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "2ED0EE4C-D928-41C6-8D5D-3AA3A2DF7AF6",
+  "name": "billiards-rack",
+  "codepoint": "F0B62",
+  "aliases": [
+    "pool-table",
+    "pool-rack",
+    "snooker-rack",
+    "pool-triangle",
+    "billiards-triangle",
+    "snooker-triangle"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Michael Richins",
+  "version": "3.0.39",
+  "zhs": [
+    "台球架",
+    "台球桌",
+    "斯诺克台球架",
+    "三角台球",
+    "台球三角",
+    "斯诺克三角"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "3979C805-4C53-4F45-A6E5-9CAADE1C2D80",
+  "name": "order-numeric-descending",
+  "codepoint": "F0546",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "订购数字降序"
+  ]
+}

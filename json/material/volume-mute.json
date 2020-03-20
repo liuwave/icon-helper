@@ -1,0 +1,15 @@
+{
+  "id": "A78C1259-0DB5-4793-9EA9-DD69FEB337A8",
+  "name": "volume-mute",
+  "codepoint": "F075F",
+  "aliases": [],
+  "tags": [
+    "Audio",
+    "Cellphone / Phone"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "静音"
+  ]
+}

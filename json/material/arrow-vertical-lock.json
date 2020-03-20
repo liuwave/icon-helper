@@ -1,0 +1,18 @@
+{
+  "id": "8B00DF03-0754-4D7F-B0C9-8CF21D42989F",
+  "name": "arrow-vertical-lock",
+  "codepoint": "F115C",
+  "aliases": [
+    "scroll-vertical-lock"
+  ],
+  "tags": [
+    "Lock",
+    "Arrow"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "箭头垂直锁",
+    "滚动垂直锁"
+  ]
+}

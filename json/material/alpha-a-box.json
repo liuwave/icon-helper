@@ -1,0 +1,18 @@
+{
+  "id": "1AC5B76A-B93F-4F9B-851D-C3DAF9743046",
+  "name": "alpha-a-box",
+  "codepoint": "F0B08",
+  "aliases": [
+    "alphabet-a-box",
+    "letter-a-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "alpha一个框",
+    "字母一个框"
+  ]
+}

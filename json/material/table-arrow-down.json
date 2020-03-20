@@ -1,0 +1,15 @@
+{
+  "id": "846F0539-E30D-40E8-BC00-3F10A0C0321E",
+  "name": "table-arrow-down",
+  "codepoint": "F13BB",
+  "aliases": [
+    "table-download"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "5.1.45",
+  "zhs": [
+    "表格向下箭头",
+    "表格下载"
+  ]
+}

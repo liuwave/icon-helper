@@ -1,0 +1,18 @@
+{
+  "id": "F1EE1708-7EAF-4929-97AA-D4BAC093D157",
+  "name": "hinduism",
+  "codepoint": "F0973",
+  "aliases": [
+    "religion-hindu",
+    "om"
+  ],
+  "tags": [
+    "Religion"
+  ],
+  "author": "Nick",
+  "version": "2.4.85",
+  "zhs": [
+    "印度教",
+    "om"
+  ]
+}

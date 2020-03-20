@@ -1,0 +1,16 @@
+{
+  "id": "95AEB324-9D57-4D27-B463-0C8077C04E24",
+  "name": "battery-20",
+  "codepoint": "F007B",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电池20"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "07F4FD1C-A171-4088-BE30-53758CFF45E5",
+  "name": "power-socket-eu",
+  "codepoint": "F07E7",
+  "aliases": [
+    "plug-socket-eu",
+    "power-socket-europe"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.0.46",
+  "zhs": [
+    "电源插座欧盟",
+    "插头插座欧盟",
+    "欧洲电源插座"
+  ]
+}

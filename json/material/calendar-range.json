@@ -1,0 +1,21 @@
+{
+  "id": "740D7A91-7492-4922-96C7-A719E2BCD62A",
+  "name": "calendar-range",
+  "codepoint": "F0679",
+  "aliases": [
+    "date-range",
+    "calendar-week",
+    "event-range"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "日历范围",
+    "日期范围",
+    "日历周",
+    "事件范围"
+  ]
+}

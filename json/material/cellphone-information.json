@@ -1,0 +1,18 @@
+{
+  "id": "5B692392-DA8F-40F2-948F-D81832ABA465",
+  "name": "cellphone-information",
+  "codepoint": "F0F41",
+  "aliases": [
+    "mobile-phone-information",
+    "smartphone-information"
+  ],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "3.9.97",
+  "zhs": [
+    "手机信息",
+    "智能手机信息"
+  ]
+}

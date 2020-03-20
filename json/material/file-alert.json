@@ -1,0 +1,18 @@
+{
+  "id": "33050FDD-7F04-44B1-AF59-BFED56FE34CF",
+  "name": "file-alert",
+  "codepoint": "F0A4B",
+  "aliases": [
+    "file-warning"
+  ],
+  "tags": [
+    "Files / Folders",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.6.95",
+  "zhs": [
+    "文件警报",
+    "文件警告"
+  ]
+}

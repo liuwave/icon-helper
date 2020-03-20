@@ -1,0 +1,14 @@
+{
+  "id": "556AFB1F-1857-4CB9-94B8-2E7E8A8DD292",
+  "name": "format-wrap-inline",
+  "codepoint": "F0288",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Andreas Gohr",
+  "version": "1.5.54",
+  "zhs": [
+    "内联换行格式"
+  ]
+}

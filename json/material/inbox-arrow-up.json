@@ -1,0 +1,15 @@
+{
+  "id": "5317ED5A-9D37-4C50-AA7D-83491547D214",
+  "name": "inbox-arrow-up",
+  "codepoint": "F03D1",
+  "aliases": [
+    "move-from-inbox"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "收件箱向上箭头",
+    "从收件箱移动"
+  ]
+}

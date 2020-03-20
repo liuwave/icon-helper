@@ -1,0 +1,15 @@
+{
+  "id": "08305F79-B7E4-4FC9-9B5B-8E76920C3DCC",
+  "name": "music-note-off",
+  "codepoint": "F038A",
+  "aliases": [],
+  "tags": [
+    "Audio",
+    "Music"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "音乐笔记关闭"
+  ]
+}

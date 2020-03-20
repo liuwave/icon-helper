@@ -1,0 +1,18 @@
+{
+  "id": "4B3F67C4-02C3-4083-B47A-645AD24992FA",
+  "name": "lightbulb-on",
+  "codepoint": "F06E8",
+  "aliases": [
+    "idea",
+    "bulb-on"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.8.36",
+  "zhs": [
+    "开灯泡",
+    "想法"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "2B01AE9D-AFA4-4CDA-82BD-21076D27C006",
+  "name": "checkbox-multiple-blank",
+  "codepoint": "F0136",
+  "aliases": [
+    "checkboxes-blank"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "复选框多个空白",
+    "复选框空白"
+  ]
+}

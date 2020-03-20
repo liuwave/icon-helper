@@ -1,0 +1,16 @@
+{
+  "id": "DB32F759-BA18-488B-9260-9A38529BE7A8",
+  "name": "cloud-print",
+  "codepoint": "F0165",
+  "aliases": [],
+  "tags": [
+    "Cloud",
+    "Printer",
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "云打印"
+  ]
+}

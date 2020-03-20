@@ -1,0 +1,19 @@
+{
+  "id": "113768A1-5B09-41DD-9570-31434A34823D",
+  "name": "coach-lamp",
+  "codepoint": "F1020",
+  "aliases": [
+    "coach-light",
+    "carriage-lamp",
+    "carriage-light"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Borre Haugen",
+  "version": "4.1.95",
+  "zhs": [
+    "教练灯",
+    "马车灯"
+  ]
+}

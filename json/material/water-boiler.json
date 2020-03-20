@@ -1,0 +1,16 @@
+{
+  "id": "02A9C002-3B54-415E-8199-067139DF771A",
+  "name": "water-boiler",
+  "codepoint": "F0F92",
+  "aliases": [
+    "water-heater"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.9.97",
+  "zhs": [
+    "热水器"
+  ]
+}

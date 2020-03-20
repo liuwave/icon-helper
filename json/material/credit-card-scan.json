@@ -1,0 +1,14 @@
+{
+  "id": "A3BF84E0-A214-410C-9890-851855025247",
+  "name": "credit-card-scan",
+  "codepoint": "F0FF4",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "信用卡扫描"
+  ]
+}

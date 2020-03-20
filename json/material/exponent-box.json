@@ -1,0 +1,17 @@
+{
+  "id": "F061DE5C-F495-4EDF-BD16-DAD6B07605BC",
+  "name": "exponent-box",
+  "codepoint": "F0964",
+  "aliases": [
+    "power-box"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Nick",
+  "version": "2.4.85",
+  "zhs": [
+    "指数盒",
+    "电源盒"
+  ]
+}

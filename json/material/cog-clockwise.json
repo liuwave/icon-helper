@@ -1,0 +1,14 @@
+{
+  "id": "3E835EBE-D768-428D-8440-E162EC9F90E4",
+  "name": "cog-clockwise",
+  "codepoint": "F11DD",
+  "aliases": [],
+  "tags": [
+    "Settings"
+  ],
+  "author": "François Risoud",
+  "version": "4.5.95",
+  "zhs": [
+    "齿轮顺时针"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "71E6D8F0-A3D2-43CB-8940-16AA4E1D9825",
+  "name": "marker",
+  "codepoint": "F0652",
+  "aliases": [
+    "highlighter"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.6.50",
+  "zhs": [
+    "标记",
+    "荧光笔"
+  ]
+}

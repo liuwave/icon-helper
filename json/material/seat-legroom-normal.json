@@ -1,0 +1,15 @@
+{
+  "id": "1FC39B1E-567E-452C-B923-581F9A90F06D",
+  "name": "seat-legroom-normal",
+  "codepoint": "F047F",
+  "aliases": [
+    "airline-seat-legroom-normal"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "普通座椅",
+    "航空座椅"
+  ]
+}

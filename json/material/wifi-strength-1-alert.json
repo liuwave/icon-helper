@@ -1,0 +1,17 @@
+{
+  "id": "31F993F8-3BC0-4818-AE1C-91DF005766F3",
+  "name": "wifi-strength-1-alert",
+  "codepoint": "F0920",
+  "aliases": [
+    "wifi-strength-1-warning"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "wifi强度1警报",
+    "wifi强度1警告"
+  ]
+}

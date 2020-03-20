@@ -1,0 +1,14 @@
+{
+  "id": "058D5094-AB60-4412-8C71-6CF4A56784A6",
+  "name": "battery-40-bluetooth",
+  "codepoint": "F0941",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "电池40蓝牙"
+  ]
+}

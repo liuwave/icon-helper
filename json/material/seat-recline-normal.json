@@ -1,0 +1,15 @@
+{
+  "id": "B6642D7A-EE36-4C22-945E-88A218708CB6",
+  "name": "seat-recline-normal",
+  "codepoint": "F0482",
+  "aliases": [
+    "airline-seat-recline-normal"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "躺椅正常",
+    "航空公司躺椅正常"
+  ]
+}

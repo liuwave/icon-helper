@@ -1,0 +1,17 @@
+{
+  "id": "CEB97477-6633-4486-BDD4-9E7D7C747805",
+  "name": "file-send",
+  "codepoint": "F022A",
+  "aliases": [
+    "file-move"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文件发送",
+    "文件移动"
+  ]
+}

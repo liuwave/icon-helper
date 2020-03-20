@@ -1,0 +1,17 @@
+{
+  "id": "27BCEC7F-ABF8-4506-B339-EE2425E1BAF9",
+  "name": "paperclip",
+  "codepoint": "F03E2",
+  "aliases": [
+    "attachment-vertical",
+    "attach-file"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "回形针",
+    "垂直附件",
+    "文件附件"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "18E513D3-5D34-4A4B-B600-D7173CB30DDA",
+  "name": "cash-100",
+  "codepoint": "F0115",
+  "aliases": [
+    "money-100"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "现金100",
+    "金钱100"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "143C16AD-B22C-4E1D-915D-3FE9C962DD2F",
+  "name": "smart-card-reader",
+  "codepoint": "F10BF",
+  "aliases": [],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "智能卡读卡器"
+  ]
+}

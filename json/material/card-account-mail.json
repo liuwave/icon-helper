@@ -1,0 +1,17 @@
+{
+  "id": "81840940-8672-42C0-B657-15E94B3638D6",
+  "name": "card-account-mail",
+  "codepoint": "F018E",
+  "aliases": [
+    "contact-mail"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "卡帐户邮件",
+    "联系邮件"
+  ]
+}

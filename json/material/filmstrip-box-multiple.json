@@ -1,0 +1,17 @@
+{
+  "id": "392DCBD5-0766-4719-B198-42A9A66C18B4",
+  "name": "filmstrip-box-multiple",
+  "codepoint": "F0D18",
+  "aliases": [
+    "library-movie"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "3.3.92",
+  "zhs": [
+    "电影带盒多个",
+    "电影库"
+  ]
+}

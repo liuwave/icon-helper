@@ -1,0 +1,17 @@
+{
+  "id": "41DBDBBC-7E7A-4E2A-A7E9-A22707957334",
+  "name": "rotate-orbit",
+  "codepoint": "F0D98",
+  "aliases": [
+    "gyro",
+    "accelerometer"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.4.93",
+  "zhs": [
+    "旋转轨道",
+    "陀螺仪",
+    "加速度计"
+  ]
+}

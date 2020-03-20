@@ -1,0 +1,14 @@
+{
+  "id": "F29A47AC-C3B6-4568-8ADA-94C5F92F0DC0",
+  "name": "escalator-down",
+  "codepoint": "F12C0",
+  "aliases": [],
+  "tags": [
+    "Transportation + Other"
+  ],
+  "author": "Austin Andrews",
+  "version": "4.8.95",
+  "zhs": [
+    "自动扶梯下降"
+  ]
+}

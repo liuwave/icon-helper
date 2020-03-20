@@ -1,0 +1,14 @@
+{
+  "id": "3FF41316-69DC-4913-A299-84206E12FE42",
+  "name": "folder-remove",
+  "codepoint": "F0258",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "文件夹删除"
+  ]
+}

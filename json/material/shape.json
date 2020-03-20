@@ -1,0 +1,19 @@
+{
+  "id": "B29246C8-6014-4019-8CCC-F803DBC0FA95",
+  "name": "shape",
+  "codepoint": "F0831",
+  "aliases": [
+    "category",
+    "theme"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Google",
+  "version": "2.1.19",
+  "zhs": [
+    "形状",
+    "类别",
+    "主题"
+  ]
+}

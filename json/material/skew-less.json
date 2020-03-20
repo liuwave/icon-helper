@@ -1,0 +1,17 @@
+{
+  "id": "43E5E22F-AEEB-406D-BEF3-898BE3C91FC1",
+  "name": "skew-less",
+  "codepoint": "F0D36",
+  "aliases": [
+    "skew-decrease"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "较少偏斜",
+    "偏斜减少"
+  ]
+}

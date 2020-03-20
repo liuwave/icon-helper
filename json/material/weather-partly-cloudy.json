@@ -1,0 +1,17 @@
+{
+  "id": "80E6A6FB-1524-4A7D-9551-17D3BDFBD7C5",
+  "name": "weather-partly-cloudy",
+  "codepoint": "F0595",
+  "aliases": [
+    "weather-partlycloudy"
+  ],
+  "tags": [
+    "Weather",
+    "Cloud"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "多云转阴"
+  ]
+}

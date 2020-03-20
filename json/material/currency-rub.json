@@ -1,0 +1,18 @@
+{
+  "id": "57057EA1-1BA7-49F3-A8C7-51AF633DED68",
+  "name": "currency-rub",
+  "codepoint": "F01B1",
+  "aliases": [
+    "ruble"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "货币卢布",
+    "卢布"
+  ]
+}

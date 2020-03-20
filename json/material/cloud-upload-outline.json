@@ -1,0 +1,17 @@
+{
+  "id": "88ACA1F5-0FDE-4E89-8144-28BA5E5F1B51",
+  "name": "cloud-upload-outline",
+  "codepoint": "F0B7E",
+  "aliases": [
+    "backup-outline"
+  ],
+  "tags": [
+    "Cloud"
+  ],
+  "author": "Google",
+  "version": "3.0.39",
+  "zhs": [
+    "云上传概述",
+    "备份概述"
+  ]
+}

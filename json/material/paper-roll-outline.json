@@ -1,0 +1,28 @@
+{
+  "id": "2A7CBB78-4672-450C-8578-48AFB13243CD",
+  "name": "paper-roll-outline",
+  "codepoint": "F1158",
+  "aliases": [
+    "lavatory-roll-outline",
+    "bathroom-tissue-outline",
+    "kitchen-roll-outline",
+    "paper-towels-outline",
+    "toilet-paper-outline",
+    "receipt-roll-outline"
+  ],
+  "tags": [
+    "Home Automation",
+    "Printer"
+  ],
+  "author": "Cody",
+  "version": "4.4.95",
+  "zhs": [
+    "纸卷轮廓",
+    "洗手间卷轮廓",
+    "浴室纸巾轮廓",
+    "厨房纸卷轮廓",
+    "纸巾轮廓",
+    "卫生纸轮廓",
+    "收据卷轮廓"
+  ]
+}

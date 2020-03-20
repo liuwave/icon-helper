@@ -1,0 +1,14 @@
+{
+  "id": "BED775CF-13BD-4D5A-A06F-7B026E820CB1",
+  "name": "weather-hail",
+  "codepoint": "F0592",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "天气冰雹"
+  ]
+}

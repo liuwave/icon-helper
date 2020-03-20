@@ -1,0 +1,16 @@
+{
+  "id": "A7C08392-F82F-4910-8D0F-6A1907AE19E3",
+  "name": "ultra-high-definition",
+  "codepoint": "F07F9",
+  "aliases": [
+    "uhd"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.0.46",
+  "zhs": [
+    "超高清"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "FA5DB7BA-69CB-4DF5-9DE9-B0681889CB2D",
+  "name": "order-bool-ascending-variant",
+  "codepoint": "F098F",
+  "aliases": [
+    "order-checkbox-ascending"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Cody",
+  "version": "2.4.85",
+  "zhs": [
+    "订单布尔升序变体",
+    "订单复选框升序"
+  ]
+}

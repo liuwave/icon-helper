@@ -1,0 +1,15 @@
+{
+  "id": "80257130-A38B-4BC1-B194-2EB16048D763",
+  "name": "battery-unknown",
+  "codepoint": "F0091",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电池未知"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "B7DB5F20-5D64-4096-959F-60BB040B320F",
+  "name": "camera-rear-variant",
+  "codepoint": "F0107",
+  "aliases": [],
+  "tags": [
+    "Photography"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "后置摄像头配音"
+  ]
+}

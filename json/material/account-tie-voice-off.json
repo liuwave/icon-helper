@@ -1,0 +1,14 @@
+{
+  "id": "F835F775-8FC4-4E85-9B26-7C95F8F45B05",
+  "name": "account-tie-voice-off",
+  "codepoint": "F130A",
+  "aliases": [],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "帐户关闭语音提示"
+  ]
+}

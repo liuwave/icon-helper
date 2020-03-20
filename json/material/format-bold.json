@@ -1,0 +1,14 @@
+{
+  "id": "2107C153-0FEC-4171-8602-6549ACABA768",
+  "name": "format-bold",
+  "codepoint": "F0264",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "粗体格式"
+  ]
+}

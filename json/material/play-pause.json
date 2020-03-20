@@ -1,0 +1,14 @@
+{
+  "id": "93DAA69E-9A21-4D5A-B6B1-0AF0A24B7FEB",
+  "name": "play-pause",
+  "codepoint": "F040E",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "播放暂停"
+  ]
+}

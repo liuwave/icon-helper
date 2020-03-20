@@ -1,0 +1,17 @@
+{
+  "id": "5DD5C53F-8D3F-43DE-81B9-667A5372A808",
+  "name": "emoticon-angry",
+  "codepoint": "F0C69",
+  "aliases": [
+    "smiley-angry"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "愤怒的图释",
+    "愤怒的笑脸"
+  ]
+}

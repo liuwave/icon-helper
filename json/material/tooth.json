@@ -1,0 +1,17 @@
+{
+  "id": "486D33E1-B181-40D4-B088-BBB49221B91F",
+  "name": "tooth",
+  "codepoint": "F08C3",
+  "aliases": [
+    "dentist"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Christopher Schreiner",
+  "version": "2.2.43",
+  "zhs": [
+    "牙齿",
+    "牙医"
+  ]
+}

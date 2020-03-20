@@ -1,0 +1,15 @@
+{
+  "id": "C262C766-4474-4BC5-AE66-23E5735F86F1",
+  "name": "undo-variant",
+  "codepoint": "F054D",
+  "aliases": [
+    "arrow"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "撤消重音符号",
+    "箭头"
+  ]
+}

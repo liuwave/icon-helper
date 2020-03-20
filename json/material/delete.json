@@ -1,0 +1,22 @@
+{
+  "id": "71CD492D-A1E8-4A7A-961A-51DA30952BAD",
+  "name": "delete",
+  "codepoint": "F01B4",
+  "aliases": [
+    "trash",
+    "bin",
+    "rubbish",
+    "garbage",
+    "rubbish-bin",
+    "trash-can",
+    "garbage-can"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "删除",
+    "垃圾桶",
+    "垃圾"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "7A5ED547-B142-4921-8050-647B2B9F4DC0",
+  "name": "shopping",
+  "codepoint": "F049A",
+  "aliases": [
+    "local-mall",
+    "marketplace"
+  ],
+  "tags": [
+    "Shopping"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "购物",
+    "当地购物中心",
+    "市场"
+  ]
+}

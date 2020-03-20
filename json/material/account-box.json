@@ -1,0 +1,23 @@
+{
+  "id": "474D0A31-E56A-4780-9417-DCF8D9A38830",
+  "name": "account-box",
+  "codepoint": "F0006",
+  "aliases": [
+    "selfie",
+    "user-box",
+    "person-box",
+    "contact"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户框",
+    "自拍照",
+    "用户框",
+    "人员框",
+    "联系人"
+  ]
+}

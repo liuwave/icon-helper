@@ -1,0 +1,19 @@
+{
+  "id": "E489326F-90B9-43E6-91CF-9123E914E84F",
+  "name": "gas-station-outline",
+  "codepoint": "F0EB8",
+  "aliases": [
+    "gas-pump-outline",
+    "petrol-pump-outline",
+    "petrol-station-outline",
+    "fuel-station-outline",
+    "fuel-pump-outline"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "3.7.94",
+  "zhs": [
+    "加油站轮廓",
+    "燃油泵轮廓"
+  ]
+}

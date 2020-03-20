@@ -1,0 +1,17 @@
+{
+  "id": "4FCD7DBE-6B4C-41DB-BDD8-40ED820EC7F1",
+  "name": "camera-burst",
+  "codepoint": "F0693",
+  "aliases": [
+    "burst-mode"
+  ],
+  "tags": [
+    "Photography"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "相机连拍",
+    "连拍模式"
+  ]
+}

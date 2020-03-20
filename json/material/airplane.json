@@ -1,0 +1,26 @@
+{
+  "id": "5AE3D483-1E1C-49DE-92FF-21C6B93FD52F",
+  "name": "airplane",
+  "codepoint": "F001D",
+  "aliases": [
+    "aeroplane",
+    "airplanemode-active",
+    "flight",
+    "local-airport",
+    "flight-mode",
+    "plane"
+  ],
+  "tags": [
+    "Transportation + Flying",
+    "Navigation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "飞机",
+    "主动飞机模式",
+    "飞行",
+    "当地机场",
+    "飞行模式"
+  ]
+}

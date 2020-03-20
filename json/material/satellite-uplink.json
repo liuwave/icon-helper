@@ -1,0 +1,12 @@
+{
+  "id": "9627DDC0-A33C-4B0E-A14F-915809E377AA",
+  "name": "satellite-uplink",
+  "codepoint": "F0909",
+  "aliases": [],
+  "tags": [],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "卫星上行链路"
+  ]
+}

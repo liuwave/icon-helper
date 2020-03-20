@@ -1,0 +1,14 @@
+{
+  "id": "C9468BA3-4E63-41DB-BACE-4AED3A543147",
+  "name": "cog-counterclockwise",
+  "codepoint": "F11DE",
+  "aliases": [],
+  "tags": [
+    "Settings"
+  ],
+  "author": "François Risoud",
+  "version": "4.5.95",
+  "zhs": [
+    "齿轮为逆时针方向"
+  ]
+}

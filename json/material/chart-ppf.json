@@ -1,0 +1,17 @@
+{
+  "id": "42A6B073-CC7E-4539-9313-E60FAE81BC70",
+  "name": "chart-ppf",
+  "codepoint": "F1380",
+  "aliases": [
+    "chart-production-possibility-frontier"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Cody",
+  "version": "4.9.95",
+  "zhs": [
+    "图表PPF",
+    "图表生产潜力前沿"
+  ]
+}

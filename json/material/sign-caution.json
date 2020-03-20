@@ -1,0 +1,17 @@
+{
+  "id": "159F7B23-A336-4F8C-A3BB-D8AB143D6661",
+  "name": "sign-caution",
+  "codepoint": "F04A1",
+  "aliases": [
+    "barrier"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "签署警告",
+    "障碍"
+  ]
+}

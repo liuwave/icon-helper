@@ -1,0 +1,19 @@
+{
+  "id": "F6808872-4EB9-43AF-BD74-BDA6861E1862",
+  "name": "account-search-outline",
+  "codepoint": "F0935",
+  "aliases": [
+    "user-search-outline",
+    "person-search-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "帐户搜索轮廓",
+    "用户搜索轮廓",
+    "人员搜索轮廓"
+  ]
+}

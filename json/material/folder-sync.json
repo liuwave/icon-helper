@@ -1,0 +1,14 @@
+{
+  "id": "8E493781-E2CB-48C6-8C07-24BD1F5F3BF0",
+  "name": "folder-sync",
+  "codepoint": "F0D0B",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.3.92",
+  "zhs": [
+    "文件夹同步"
+  ]
+}

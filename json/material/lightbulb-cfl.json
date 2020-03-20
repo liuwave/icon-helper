@@ -1,0 +1,16 @@
+{
+  "id": "7D6FF098-D459-4B89-A13C-C9145A1EB992",
+  "name": "lightbulb-cfl",
+  "codepoint": "F1208",
+  "aliases": [
+    "bulb-cfl"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "4.6.95",
+  "zhs": [
+    "灯泡cfl"
+  ]
+}

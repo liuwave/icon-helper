@@ -1,0 +1,25 @@
+{
+  "id": "D24517D5-27A6-4BE4-B9C8-C575A1431310",
+  "name": "boom-gate",
+  "codepoint": "F0E86",
+  "aliases": [
+    "boom-arm",
+    "boom-barrier",
+    "arm-barrier",
+    "barrier",
+    "automatic-gate"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "动臂闸门",
+    "动臂臂",
+    "动臂护栏",
+    "斗臂护栏",
+    "护栏",
+    "自动门"
+  ]
+}

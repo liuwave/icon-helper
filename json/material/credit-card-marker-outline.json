@@ -1,0 +1,19 @@
+{
+  "id": "B026E6BC-FFD6-44FA-96AC-6F4A902FD596",
+  "name": "credit-card-marker-outline",
+  "codepoint": "F0DBE",
+  "aliases": [
+    "cod",
+    "payment-on-delivery"
+  ],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "信用卡标记轮廓",
+    "鳕鱼",
+    "货到付款"
+  ]
+}

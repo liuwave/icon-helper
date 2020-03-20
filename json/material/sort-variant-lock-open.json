@@ -1,0 +1,15 @@
+{
+  "id": "30DC202C-F695-4A76-B3BB-293BCC995A6E",
+  "name": "sort-variant-lock-open",
+  "codepoint": "F0CCE",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format",
+    "Lock"
+  ],
+  "author": "Christopher Schreiner",
+  "version": "3.2.89",
+  "zhs": [
+    "打开锁的重音符号"
+  ]
+}

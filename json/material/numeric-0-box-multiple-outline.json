@@ -1,0 +1,18 @@
+{
+  "id": "B3652E81-9CA5-4B7C-B603-FE94CB2D1323",
+  "name": "numeric-0-box-multiple-outline",
+  "codepoint": "F03A2",
+  "aliases": [
+    "numeric-zero-box-multiple-outline",
+    "numeric-0-boxes-outline",
+    "number-0-box-multiple-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字0框多个轮廓"
+  ]
+}

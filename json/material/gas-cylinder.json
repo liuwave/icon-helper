@@ -1,0 +1,17 @@
+{
+  "id": "7CEC48C5-3A70-4BA2-9FB8-A383387DC4A1",
+  "name": "gas-cylinder",
+  "codepoint": "F0647",
+  "aliases": [
+    "tank",
+    "oxygen-tank"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.6.50",
+  "zhs": [
+    "气瓶",
+    "气罐",
+    "氧气罐"
+  ]
+}

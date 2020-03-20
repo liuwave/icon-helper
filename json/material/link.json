@@ -1,0 +1,15 @@
+{
+  "id": "462769C2-0A30-4B31-B66C-55168B10D705",
+  "name": "link",
+  "codepoint": "F0337",
+  "aliases": [
+    "insert-link"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "链接",
+    "插入链接"
+  ]
+}

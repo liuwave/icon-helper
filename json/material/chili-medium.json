@@ -1,0 +1,20 @@
+{
+  "id": "C9DA0BF5-09DD-46A9-AE62-1612B26F0BB1",
+  "name": "chili-medium",
+  "codepoint": "F07B3",
+  "aliases": [
+    "chilli-medium",
+    "pepper",
+    "spicy"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Andy Martinez",
+  "version": "2.0.46",
+  "zhs": [
+    "辣椒中",
+    "胡椒",
+    "辛辣"
+  ]
+}

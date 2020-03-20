@@ -1,0 +1,15 @@
+{
+  "id": "865AB612-D546-431D-85A8-52C305B263F8",
+  "name": "map-marker-radius-outline",
+  "codepoint": "F12FC",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "地图标记半径轮廓"
+  ]
+}

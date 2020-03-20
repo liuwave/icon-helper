@@ -1,0 +1,15 @@
+{
+  "id": "40365CB0-4664-4648-8C51-2E6E20A0D096",
+  "name": "barcode-scan",
+  "codepoint": "F0072",
+  "aliases": [
+    "barcode-scanner"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "条码扫描",
+    "条码扫描器"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "88EDEE2E-AB1B-4287-A082-E3B139F8E69A",
+  "name": "comment-text-multiple",
+  "codepoint": "F0860",
+  "aliases": [
+    "comments-text"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "多个文本注释",
+    "文本注释"
+  ]
+}

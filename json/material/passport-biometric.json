@@ -1,0 +1,15 @@
+{
+  "id": "86A974C4-6E5A-48F6-A3B9-35B3DCD1DE7A",
+  "name": "passport-biometric",
+  "codepoint": "F0DE1",
+  "aliases": [
+    "passport-electronic"
+  ],
+  "tags": [],
+  "author": "GreenTurtwig",
+  "version": "3.5.94",
+  "zhs": [
+    "生物护照",
+    "电子护照"
+  ]
+}

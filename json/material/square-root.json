@@ -1,0 +1,14 @@
+{
+  "id": "D0835CDD-0255-4A0D-B86F-DAB300C5ADCC",
+  "name": "square-root",
+  "codepoint": "F0784",
+  "aliases": [],
+  "tags": [
+    "Math"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "平方根"
+  ]
+}

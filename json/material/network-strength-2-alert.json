@@ -1,0 +1,17 @@
+{
+  "id": "DB8EEB5C-3705-4DE7-A770-D63ACE14F1BD",
+  "name": "network-strength-2-alert",
+  "codepoint": "F08F7",
+  "aliases": [
+    "network-strength-2-warning"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Alert / Error"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "网络强度2警告"
+  ]
+}

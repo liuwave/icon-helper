@@ -1,0 +1,17 @@
+{
+  "id": "4F160BFE-433B-49D1-B2DC-E7F71AF7070B",
+  "name": "checkbox-multiple-marked",
+  "codepoint": "F0138",
+  "aliases": [
+    "checkboxes-marked"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "多个复选框已标记",
+    "复选框已标记"
+  ]
+}

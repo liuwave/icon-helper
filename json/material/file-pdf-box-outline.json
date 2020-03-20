@@ -1,0 +1,17 @@
+{
+  "id": "27B28F1C-C311-49C2-B3EE-6D288A9F1165",
+  "name": "file-pdf-box-outline",
+  "codepoint": "F0FB3",
+  "aliases": [
+    "file-acrobat-box-outline"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "文件pdf框概述",
+    "文件acrobat框概述"
+  ]
+}

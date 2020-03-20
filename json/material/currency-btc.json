@@ -1,0 +1,19 @@
+{
+  "id": "CCAF9A48-2989-47C7-B4A5-1CF424A339CC",
+  "name": "currency-btc",
+  "codepoint": "F01AC",
+  "aliases": [
+    "bitcoin"
+  ],
+  "tags": [
+    "Currency",
+    "Brand / Logo",
+    "Banking"
+  ],
+  "author": "Contributors",
+  "version": "1.5.54",
+  "zhs": [
+    "货币BTC",
+    "比特币"
+  ]
+}

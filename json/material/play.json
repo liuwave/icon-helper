@@ -1,0 +1,17 @@
+{
+  "id": "90AD6D2A-7986-49D0-8DA5-DC92F9F92A15",
+  "name": "play",
+  "codepoint": "F040A",
+  "aliases": [
+    "play-arrow"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "播放",
+    "播放箭头"
+  ]
+}

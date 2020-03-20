@@ -1,0 +1,14 @@
+{
+  "id": "DF51BF5D-831D-4FD1-8786-498CAC97DBB6",
+  "name": "thermometer-high",
+  "codepoint": "F10C2",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "温度计高"
+  ]
+}

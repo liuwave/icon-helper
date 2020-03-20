@@ -1,0 +1,17 @@
+{
+  "id": "86E664CC-39C1-4E36-81BB-AC3BFFE65281",
+  "name": "emoticon-excited",
+  "codepoint": "F0C70",
+  "aliases": [
+    "smiley-excited"
+  ],
+  "tags": [
+    "Emoji"
+  ],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "表情兴奋",
+    "笑脸兴奋"
+  ]
+}

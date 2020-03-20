@@ -1,0 +1,17 @@
+{
+  "id": "0B7D7D86-21E1-4759-8E4D-5D2BB291BB3F",
+  "name": "google-chrome",
+  "codepoint": "F02AF",
+  "aliases": [
+    "chromecast"
+  ],
+  "tags": [
+    "Brand / Logo"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "Google chrome",
+    "chromecast"
+  ]
+}

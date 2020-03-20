@@ -1,0 +1,15 @@
+{
+  "id": "D2AFF074-2CE4-442D-AF1A-64B168BC622A",
+  "name": "message-text",
+  "codepoint": "F0369",
+  "aliases": [
+    "chat"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "消息文字",
+    "聊天"
+  ]
+}

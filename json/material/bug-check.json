@@ -1,0 +1,15 @@
+{
+  "id": "3EDC1018-2B2B-4B3A-AE65-3C74678C807B",
+  "name": "bug-check",
+  "codepoint": "F0A2E",
+  "aliases": [
+    "bug-tick"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "错误检查",
+    "错误刻度"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "6B536CF6-98D8-44A5-9094-43C1BE41EC91",
+  "name": "book-minus-multiple",
+  "codepoint": "F0A94",
+  "aliases": [
+    "books-minus"
+  ],
+  "tags": [],
+  "author": "Perth Totty",
+  "version": "2.7.94",
+  "zhs": [
+    "减去本书的倍数"
+  ]
+}

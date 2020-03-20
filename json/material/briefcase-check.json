@@ -1,0 +1,15 @@
+{
+  "id": "4182182E-F79B-4153-B652-2A4B4AC231E1",
+  "name": "briefcase-check",
+  "codepoint": "F00D7",
+  "aliases": [
+    "briefcase-tick"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "检查公文包",
+    "公文包打勾"
+  ]
+}

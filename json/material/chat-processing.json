@@ -1,0 +1,15 @@
+{
+  "id": "95003FC4-C655-4687-AF82-660A49B95978",
+  "name": "chat-processing",
+  "codepoint": "F0B7B",
+  "aliases": [
+    "chat-typing"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "3.0.39",
+  "zhs": [
+    "聊天处理",
+    "聊天输入"
+  ]
+}

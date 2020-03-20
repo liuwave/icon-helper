@@ -1,0 +1,16 @@
+{
+  "id": "83EE24A9-9D1A-45AA-B4CD-F75F1174F0EB",
+  "name": "format-horizontal-align-center",
+  "codepoint": "F061E",
+  "aliases": [
+    "format-horizontal-align-centre"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.6.50",
+  "zhs": [
+    "格式化水平对齐中心"
+  ]
+}

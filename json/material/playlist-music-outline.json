@@ -1,0 +1,17 @@
+{
+  "id": "97526C1D-E3B9-4900-8C13-3969E80949B3",
+  "name": "playlist-music-outline",
+  "codepoint": "F0CB9",
+  "aliases": [
+    "playlist-note-outline",
+    "queue-music-outline"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "播放列表音乐轮廓",
+    "播放列表音符轮廓",
+    "队列音乐轮廓"
+  ]
+}

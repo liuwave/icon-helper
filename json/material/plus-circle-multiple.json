@@ -1,0 +1,15 @@
+{
+  "id": "93BBA1EA-76F8-4D2E-B4D0-98F684B15AC3",
+  "name": "plus-circle-multiple",
+  "codepoint": "F034C",
+  "aliases": [
+    "coins-plus"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "1.5.54",
+  "zhs": [
+    "加圈倍数",
+    "硬币加"
+  ]
+}

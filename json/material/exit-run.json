@@ -1,0 +1,15 @@
+{
+  "id": "9F68722F-B500-48AD-BE3A-EB7591496084",
+  "name": "exit-run",
+  "codepoint": "F0A48",
+  "aliases": [
+    "emergency-exit"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "2.6.95",
+  "zhs": [
+    "出口运行",
+    "紧急出口"
+  ]
+}

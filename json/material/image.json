@@ -1,0 +1,15 @@
+{
+  "id": "3238BA72-FEE8-4C90-A440-AD701359A7BC",
+  "name": "image",
+  "codepoint": "F02E9",
+  "aliases": [
+    "insert-photo"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "图片",
+    "插入照片"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "90DDBB60-0BBB-4DFA-9626-32D4D1FB34C5",
+  "name": "bicycle",
+  "codepoint": "F109C",
+  "aliases": [
+    "bike",
+    "cycling"
+  ],
+  "tags": [
+    "Transportation + Other"
+  ],
+  "author": "François Risoud",
+  "version": "4.2.95",
+  "zhs": [
+    "自行车",
+    "骑自行车"
+  ]
+}

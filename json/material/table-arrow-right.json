@@ -1,0 +1,17 @@
+{
+  "id": "A4A68FD7-82B8-4BE8-8110-DA54D1A888D4",
+  "name": "table-arrow-right",
+  "codepoint": "F13BD",
+  "aliases": [
+    "table-share",
+    "table-export"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "5.1.45",
+  "zhs": [
+    "表右箭头",
+    "表共享",
+    "表导出"
+  ]
+}

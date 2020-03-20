@@ -1,0 +1,17 @@
+{
+  "id": "591A45AB-511C-4791-957C-303186C666AA",
+  "name": "format-annotation-plus",
+  "codepoint": "F0646",
+  "aliases": [
+    "format-annotation-add"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Kai Faust",
+  "version": "1.6.50",
+  "zhs": [
+    "注释加",
+    "格式注释添加"
+  ]
+}

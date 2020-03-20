@@ -1,0 +1,14 @@
+{
+  "id": "A960C38F-7EFE-4FE6-94AB-C7B0CD07DD50",
+  "name": "signal-hspa",
+  "codepoint": "F0715",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "GreenTurtwig",
+  "version": "1.8.36",
+  "zhs": [
+    "hspa信号"
+  ]
+}

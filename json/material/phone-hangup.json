@@ -1,0 +1,18 @@
+{
+  "id": "2018B4C8-A296-4D62-A30A-85F988B206EA",
+  "name": "phone-hangup",
+  "codepoint": "F03F5",
+  "aliases": [
+    "call-end",
+    "telephone-hangup"
+  ],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电话挂断",
+    "通话结束"
+  ]
+}

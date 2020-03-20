@@ -1,0 +1,16 @@
+{
+  "id": "2AD21B3E-77C1-4027-9AE9-7655246D9DFF",
+  "name": "alert-octagram-outline",
+  "codepoint": "F0CE7",
+  "aliases": [
+    "warning-octagram-outline"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Peter Noble",
+  "version": "3.3.92",
+  "zhs": [
+    "警告八卦轮廓"
+  ]
+}

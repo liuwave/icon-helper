@@ -1,0 +1,14 @@
+{
+  "id": "C317FCCF-DCDB-4429-B1A7-850FED29F5B3",
+  "name": "format-textdirection-r-to-l",
+  "codepoint": "F0286",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "将文本方向r格式化为l"
+  ]
+}

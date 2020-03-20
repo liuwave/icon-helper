@@ -1,0 +1,20 @@
+{
+  "id": "62F4C783-4BE1-4EB6-B454-E41A50B91857",
+  "name": "coffee-maker",
+  "codepoint": "F109F",
+  "aliases": [
+    "espresso-maker",
+    "coffee-machine",
+    "espresso-machine"
+  ],
+  "tags": [
+    "Home Automation",
+    "Food / Drink"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.2.95",
+  "zhs": [
+    "咖啡机",
+    "浓缩咖啡机"
+  ]
+}

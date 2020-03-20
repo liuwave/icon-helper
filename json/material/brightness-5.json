@@ -1,0 +1,15 @@
+{
+  "id": "17314413-99ED-480C-B739-8572B6AE5477",
+  "name": "brightness-5",
+  "codepoint": "F00DE",
+  "aliases": [
+    "brightness-low"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "亮度5",
+    "亮度低"
+  ]
+}

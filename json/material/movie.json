@@ -1,0 +1,22 @@
+{
+  "id": "122C53AA-C8BC-41B3-89B2-B9A9F8BB56DC",
+  "name": "movie",
+  "codepoint": "F0381",
+  "aliases": [
+    "slate",
+    "clapperboard",
+    "film",
+    "movie-creation"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电影",
+    "板岩",
+    "clapperboard",
+    "电影创作"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "F5AFD529-AD6F-4A1B-AB69-E3E10FD0E654",
+  "name": "pan-bottom-left",
+  "codepoint": "F0BB5",
+  "aliases": [
+    "pan-down-left"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "3.0.39",
+  "zhs": [
+    "左下锅",
+    "左下时"
+  ]
+}

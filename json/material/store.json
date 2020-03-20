@@ -1,0 +1,19 @@
+{
+  "id": "3C3AEDE0-B6DA-4CB9-A686-869634678D5D",
+  "name": "store",
+  "codepoint": "F04DC",
+  "aliases": [
+    "shop",
+    "store-mall-directory"
+  ],
+  "tags": [
+    "Places",
+    "Shopping"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "商店",
+    "商店购物中心目录"
+  ]
+}

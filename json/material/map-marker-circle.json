@@ -1,0 +1,18 @@
+{
+  "id": "03F79839-314C-4F29-B3E3-43B97D7F7FA6",
+  "name": "map-marker-circle",
+  "codepoint": "F034F",
+  "aliases": [
+    "explore-nearby"
+  ],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "地图标记圈",
+    "探索附近"
+  ]
+}

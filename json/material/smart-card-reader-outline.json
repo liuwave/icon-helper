@@ -1,0 +1,14 @@
+{
+  "id": "FCC195C4-2DB3-45DE-B9D2-4535A63EDB0E",
+  "name": "smart-card-reader-outline",
+  "codepoint": "F10C0",
+  "aliases": [],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "智能卡读卡器概述"
+  ]
+}

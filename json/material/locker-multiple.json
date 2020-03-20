@@ -1,0 +1,15 @@
+{
+  "id": "4A5533A8-402C-45F2-9D7A-A8949C22C33B",
+  "name": "locker-multiple",
+  "codepoint": "F07D8",
+  "aliases": [
+    "lockers"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "2.0.46",
+  "zhs": [
+    "多个储物柜",
+    "储物柜"
+  ]
+}

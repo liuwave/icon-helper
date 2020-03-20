@@ -1,0 +1,17 @@
+{
+  "id": "A7147BE3-0B04-4B61-94F3-48B0D9C5551E",
+  "name": "tablet-ipad",
+  "codepoint": "F04F8",
+  "aliases": [
+    "tablet-mac"
+  ],
+  "tags": [
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "平板电脑ipad",
+    "平板电脑mac"
+  ]
+}

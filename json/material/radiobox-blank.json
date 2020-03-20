@@ -1,0 +1,17 @@
+{
+  "id": "10BF2326-3190-4C27-9040-E2F8F4961238",
+  "name": "radiobox-blank",
+  "codepoint": "F043D",
+  "aliases": [
+    "radio-button-unchecked"
+  ],
+  "tags": [
+    "Form"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "单选框为空白",
+    "未选中单选按钮"
+  ]
+}

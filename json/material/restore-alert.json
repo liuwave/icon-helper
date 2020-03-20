@@ -1,0 +1,14 @@
+{
+  "id": "A9EF3AB2-700F-422A-AE07-0F6C3DB5BDB6",
+  "name": "restore-alert",
+  "codepoint": "F110D",
+  "aliases": [],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.3.95",
+  "zhs": [
+    "恢复警报"
+  ]
+}

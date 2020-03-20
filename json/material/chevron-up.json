@@ -1,0 +1,22 @@
+{
+  "id": "AECCC94F-C38A-4A97-879E-ACD09F89169A",
+  "name": "chevron-up",
+  "codepoint": "F0143",
+  "aliases": [
+    "expand-less",
+    "keyboard-arrow-up",
+    "caret"
+  ],
+  "tags": [
+    "Arrow",
+    "Math"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "V形",
+    "向上缩小",
+    "键盘箭头向上",
+    "插入符号"
+  ]
+}

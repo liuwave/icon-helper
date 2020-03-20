@@ -1,0 +1,17 @@
+{
+  "id": "E007EC1E-915B-4A12-89A0-8F7249AEF9FC",
+  "name": "bus-multiple",
+  "codepoint": "F0F3F",
+  "aliases": [
+    "fleet"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Michael Richins",
+  "version": "3.9.97",
+  "zhs": [
+    "公交车",
+    "车队"
+  ]
+}

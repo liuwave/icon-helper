@@ -1,0 +1,14 @@
+{
+  "id": "36F33522-9167-42DD-BA0A-8920F480F38C",
+  "name": "headset-dock",
+  "codepoint": "F02CF",
+  "aliases": [],
+  "tags": [
+    "Audio"
+  ],
+  "author": "Chris Litherland",
+  "version": "1.5.54",
+  "zhs": [
+    "扩展坞耳机"
+  ]
+}

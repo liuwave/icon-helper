@@ -1,0 +1,14 @@
+{
+  "id": "9A1DF8BB-627A-47C9-B609-BAC145D320DF",
+  "name": "temperature-fahrenheit",
+  "codepoint": "F0505",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "华氏温度"
+  ]
+}

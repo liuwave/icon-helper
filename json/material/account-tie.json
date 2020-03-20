@@ -1,0 +1,19 @@
+{
+  "id": "5EF0B9EA-FECB-409C-999C-FE1ECF0C8B01",
+  "name": "account-tie",
+  "codepoint": "F0CE3",
+  "aliases": [
+    "person-tie",
+    "user-tie"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "帐户领带",
+    "人领带",
+    "用户领带"
+  ]
+}

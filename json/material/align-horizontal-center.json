@@ -1,0 +1,14 @@
+{
+  "id": "05901A9E-71D5-47D9-B5E1-DC55B687E8E0",
+  "name": "align-horizontal-center",
+  "codepoint": "F11C3",
+  "aliases": [
+    "align-horizontal-centre"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.5.95",
+  "zhs": [
+    "对齐水平中心"
+  ]
+}

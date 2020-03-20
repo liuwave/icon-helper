@@ -1,0 +1,19 @@
+{
+  "id": "D8BD17A2-5CE7-4219-8363-E87D80C2E7DF",
+  "name": "peanut-off",
+  "codepoint": "F0FFD",
+  "aliases": [
+    "allergen-off",
+    "food-allergy-off"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "花生关闭",
+    "过敏原关闭",
+    "食物过敏关闭"
+  ]
+}

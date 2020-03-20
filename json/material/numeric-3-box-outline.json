@@ -1,0 +1,17 @@
+{
+  "id": "0A0F7443-4234-4990-9C0B-A8AC88F924E5",
+  "name": "numeric-3-box-outline",
+  "codepoint": "F03AC",
+  "aliases": [
+    "numeric-three-box-outline",
+    "number-3-box-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字3框轮廓"
+  ]
+}

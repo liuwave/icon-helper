@@ -1,0 +1,23 @@
+{
+  "id": "213A797A-41C0-4804-A5B1-A841898CCC11",
+  "name": "message-alert",
+  "codepoint": "F0362",
+  "aliases": [
+    "feedback",
+    "message-warning",
+    "announcement",
+    "sms-failed"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "消息警报",
+    "反馈",
+    "消息警告",
+    "公告",
+    "短信失败"
+  ]
+}

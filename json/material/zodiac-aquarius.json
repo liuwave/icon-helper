@@ -1,0 +1,14 @@
+{
+  "id": "8E27593E-7C4E-41F7-A238-865DA00CDEE7",
+  "name": "zodiac-aquarius",
+  "codepoint": "F0A7D",
+  "aliases": [
+    "horoscope-aquarius"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "水瓶座星座"
+  ]
+}

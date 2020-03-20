@@ -1,0 +1,27 @@
+{
+  "id": "50F80B8D-C424-4FC1-9A2E-81715787C240",
+  "name": "account-check-outline",
+  "codepoint": "F0BE2",
+  "aliases": [
+    "account-tick-outline",
+    "user-check-outline",
+    "user-tick-outline",
+    "person-check-outline",
+    "person-tick-outline",
+    "how-to-reg-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "3.2.89",
+  "zhs": [
+    "检查帐户轮廓",
+    "帐户刻度线轮廓",
+    "用户检查轮廓",
+    "用户刻度线轮廓",
+    "人员检查轮廓",
+    "人员刻度线轮廓",
+    "如何注册轮廓"
+  ]
+}

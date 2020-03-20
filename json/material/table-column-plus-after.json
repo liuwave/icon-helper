@@ -1,0 +1,16 @@
+{
+  "id": "0EB91CE4-3223-4799-9BB7-3BA0C923BC40",
+  "name": "table-column-plus-after",
+  "codepoint": "F04EC",
+  "aliases": [
+    "table-column-add-after"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "表列加后"
+  ]
+}

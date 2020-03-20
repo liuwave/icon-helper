@@ -1,0 +1,19 @@
+{
+  "id": "9C9EEFA4-B764-41CE-A679-3927454AE59A",
+  "name": "numeric-4-box",
+  "codepoint": "F03AD",
+  "aliases": [
+    "looks-4",
+    "numeric-four-box",
+    "number-4-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字4框",
+    "外观4"
+  ]
+}

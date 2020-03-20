@@ -1,0 +1,17 @@
+{
+  "id": "7D3932BA-9061-40D7-B624-044EE7A7B445",
+  "name": "image-filter-black-white",
+  "codepoint": "F02F0",
+  "aliases": [
+    "filter-b-and-w"
+  ],
+  "tags": [
+    "Photography"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "图像滤镜黑白色",
+    "滤镜b和w"
+  ]
+}

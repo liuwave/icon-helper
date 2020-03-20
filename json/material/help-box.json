@@ -1,0 +1,15 @@
+{
+  "id": "6EFBBE96-37EA-4372-98CC-9B0D84B92C34",
+  "name": "help-box",
+  "codepoint": "F078B",
+  "aliases": [
+    "question-mark-box"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "帮助框",
+    "问号框"
+  ]
+}

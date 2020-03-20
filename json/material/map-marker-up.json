@@ -1,0 +1,15 @@
+{
+  "id": "0C1B9015-C0F4-4710-87D2-BA7B710943F2",
+  "name": "map-marker-up",
+  "codepoint": "F1103",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "François Risoud",
+  "version": "4.3.95",
+  "zhs": [
+    "将地图标记向上"
+  ]
+}

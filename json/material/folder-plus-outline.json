@@ -1,0 +1,19 @@
+{
+  "id": "5615B9DB-A490-4977-9513-B21B086BB542",
+  "name": "folder-plus-outline",
+  "codepoint": "F0B9D",
+  "aliases": [
+    "create-new-folder-outline",
+    "folder-add-outline"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Google",
+  "version": "3.0.39",
+  "zhs": [
+    "文件夹加轮廓",
+    "创建新的文件夹轮廓",
+    "文件夹添加轮廓"
+  ]
+}

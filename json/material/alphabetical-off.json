@@ -1,0 +1,14 @@
+{
+  "id": "5C6F0A6B-362A-4EBF-9E0C-57E7405429AE",
+  "name": "alphabetical-off",
+  "codepoint": "F100C",
+  "aliases": [],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "按字母顺序关闭"
+  ]
+}

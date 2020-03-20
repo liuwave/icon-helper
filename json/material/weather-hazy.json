@@ -1,0 +1,14 @@
+{
+  "id": "87410436-C351-4FF7-91E4-9A5F52D49F69",
+  "name": "weather-hazy",
+  "codepoint": "F0F30",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "朦胧的天气"
+  ]
+}

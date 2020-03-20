@@ -1,0 +1,14 @@
+{
+  "id": "CBFA6722-0EE6-49B4-B5C2-0B177A5523C2",
+  "name": "ab-testing",
+  "codepoint": "F01C9",
+  "aliases": [],
+  "tags": [
+    "Developer / Languages"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "AB测试"
+  ]
+}

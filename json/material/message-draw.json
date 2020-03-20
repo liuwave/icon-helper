@@ -1,0 +1,15 @@
+{
+  "id": "6434A4B3-F803-4C8B-A03C-BE39E947166B",
+  "name": "message-draw",
+  "codepoint": "F0363",
+  "aliases": [
+    "rate-review"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "留言",
+    "评价"
+  ]
+}

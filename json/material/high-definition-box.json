@@ -1,0 +1,18 @@
+{
+  "id": "BD1F0404-AA98-4FCF-8947-D0589C91A610",
+  "name": "high-definition-box",
+  "codepoint": "F0878",
+  "aliases": [
+    "hd-box",
+    "hd"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "2.1.99",
+  "zhs": [
+    "高清盒",
+    "高清"
+  ]
+}

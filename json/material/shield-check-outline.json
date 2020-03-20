@@ -1,0 +1,15 @@
+{
+  "id": "26E9DF2C-21C8-48FF-B402-733E33673C7E",
+  "name": "shield-check-outline",
+  "codepoint": "F0CC8",
+  "aliases": [
+    "shield-tick-outline"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "屏蔽检查轮廓",
+    "屏蔽刻度线轮廓"
+  ]
+}

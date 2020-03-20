@@ -1,0 +1,14 @@
+{
+  "id": "56879DCE-4616-45D0-A1C2-B9262776840B",
+  "name": "monitor-speaker-off",
+  "codepoint": "F0F60",
+  "aliases": [],
+  "tags": [
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "3.9.97",
+  "zhs": [
+    "监听扬声器关闭"
+  ]
+}

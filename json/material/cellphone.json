@@ -1,0 +1,23 @@
+{
+  "id": "8898488F-1BE6-40A0-84B7-1C0832AA4754",
+  "name": "cellphone",
+  "codepoint": "F011C",
+  "aliases": [
+    "mobile-phone",
+    "smartphone",
+    "stay-current-portrait",
+    "stay-primary-portrait"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Device / Tech"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "手机",
+    "智能手机",
+    "保持当前肖像",
+    "保持主要肖像"
+  ]
+}

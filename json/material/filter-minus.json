@@ -1,0 +1,15 @@
+{
+  "id": "BCA7EE0A-BADF-441A-B660-C37C0DFEF83A",
+  "name": "filter-minus",
+  "codepoint": "F0EEE",
+  "aliases": [
+    "funnel-minus"
+  ],
+  "tags": [],
+  "author": "GreenTurtwig",
+  "version": "3.8.95",
+  "zhs": [
+    "负号过滤器",
+    "负号漏斗"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "B7C380C9-13D8-4A0E-8EEC-1B4FB23F1FB9",
+  "name": "vector-selection",
+  "codepoint": "F0562",
+  "aliases": [],
+  "tags": [
+    "Vector",
+    "Geographic Information System"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "向量选择"
+  ]
+}

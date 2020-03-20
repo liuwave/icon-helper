@@ -1,0 +1,17 @@
+{
+  "id": "F0053E35-64B2-45D5-92D6-EE9F8A8839A1",
+  "name": "share",
+  "codepoint": "F0496",
+  "aliases": [
+    "forward"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "分享",
+    "转发"
+  ]
+}

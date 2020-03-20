@@ -1,0 +1,15 @@
+{
+  "id": "E7DA3CF2-C345-441D-BFC2-ABC4DB195A6A",
+  "name": "music",
+  "codepoint": "F075A",
+  "aliases": [],
+  "tags": [
+    "Audio",
+    "Music"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "音乐"
+  ]
+}

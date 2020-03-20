@@ -1,0 +1,14 @@
+{
+  "id": "6483D8DB-4170-4104-8A69-40D28401EF4C",
+  "name": "clock-in",
+  "codepoint": "F0153",
+  "aliases": [],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "输入时钟"
+  ]
+}

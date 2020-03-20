@@ -1,0 +1,19 @@
+{
+  "id": "6C9777A0-967D-4242-91B2-E4D6B5596498",
+  "name": "water-off",
+  "codepoint": "F058D",
+  "aliases": [
+    "format-color-reset",
+    "trans-fat-off",
+    "blood-off"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "不用水",
+    "不使用格式色彩复位",
+    "不使用反型脂肪",
+    "不使用血液"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6732D314-97CA-4433-9CB5-260359AC131F",
+  "name": "home-floor-0",
+  "codepoint": "F0DD2",
+  "aliases": [
+    "house-floor-0",
+    "home-floor-zero",
+    "house-floor-zero"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "家庭楼层0",
+    "房屋楼层0"
+  ]
+}

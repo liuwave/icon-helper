@@ -1,0 +1,14 @@
+{
+  "id": "3B0E25CE-ADB0-4601-BFBD-87C7B6D63E7F",
+  "name": "chess-bishop",
+  "codepoint": "F085C",
+  "aliases": [],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "国际象棋主教"
+  ]
+}

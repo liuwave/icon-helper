@@ -1,0 +1,15 @@
+{
+  "id": "40205151-C976-49D8-98F1-A0E120086E07",
+  "name": "zodiac-taurus",
+  "codepoint": "F0A87",
+  "aliases": [
+    "horoscope-taurus"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "生肖金牛座",
+    "金牛座星座"
+  ]
+}

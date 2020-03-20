@@ -1,0 +1,14 @@
+{
+  "id": "0378C7CD-8331-42A0-9C0F-114960FD5966",
+  "name": "format-wrap-top-bottom",
+  "codepoint": "F028B",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Andreas Gohr",
+  "version": "1.5.54",
+  "zhs": [
+    "将上下格式换行"
+  ]
+}

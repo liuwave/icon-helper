@@ -1,0 +1,14 @@
+{
+  "id": "DD6BADDA-B656-424C-AF6D-509CB7E382D2",
+  "name": "format-text-wrapping-clip",
+  "codepoint": "F0D0E",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "3.3.92",
+  "zhs": [
+    "格式文本换行夹"
+  ]
+}

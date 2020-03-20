@@ -1,0 +1,17 @@
+{
+  "id": "D6AADAF8-D44E-44C0-8647-E578B277441D",
+  "name": "motorbike",
+  "codepoint": "F037C",
+  "aliases": [
+    "motorcycle"
+  ],
+  "tags": [
+    "Transportation + Road",
+    "Sport"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "摩托车"
+  ]
+}

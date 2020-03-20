@@ -1,0 +1,24 @@
+{
+  "id": "2C3B8F49-7A38-49EE-8288-FDA6AC188727",
+  "name": "boom-gate-alert",
+  "codepoint": "F0E87",
+  "aliases": [
+    "boom-arm-alert",
+    "boom-barrier-alert",
+    "arm-barrier-alert",
+    "barrier-alert",
+    "automatic-gate-alert"
+  ],
+  "tags": [
+    "Alert / Error",
+    "Transportation + Road"
+  ],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "动臂闸门警报",
+    "动臂臂警报",
+    "障碍屏障警报",
+    "自动闸门警报"
+  ]
+}

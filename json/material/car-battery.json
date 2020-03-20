@@ -1,0 +1,15 @@
+{
+  "id": "4AF128D8-1E70-4396-BB5A-F96A7D0F9BCB",
+  "name": "car-battery",
+  "codepoint": "F010C",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Automotive"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "汽车电池"
+  ]
+}

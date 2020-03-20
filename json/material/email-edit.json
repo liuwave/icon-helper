@@ -1,0 +1,14 @@
+{
+  "id": "99DE8F28-37C2-4784-8B62-5E5FD499A664",
+  "name": "email-edit",
+  "codepoint": "F0EE3",
+  "aliases": [],
+  "tags": [
+    "Edit / Modify"
+  ],
+  "author": "Michael Richins",
+  "version": "3.8.95",
+  "zhs": [
+    "电子邮件编辑"
+  ]
+}

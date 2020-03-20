@@ -1,0 +1,16 @@
+{
+  "id": "37C83BAE-6330-4E45-A976-3E2642997035",
+  "name": "arrow-top-right-thick",
+  "codepoint": "F09C6",
+  "aliases": [
+    "arrow-up-right-thick"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.5.94",
+  "zhs": [
+    "右上粗箭头"
+  ]
+}

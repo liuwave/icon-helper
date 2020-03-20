@@ -1,0 +1,20 @@
+{
+  "id": "E76EC23F-AB71-49B3-9173-841544527A20",
+  "name": "account",
+  "codepoint": "F0004",
+  "aliases": [
+    "person",
+    "user"
+  ],
+  "tags": [
+    "Account / User",
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "帐户",
+    "个人",
+    "用户"
+  ]
+}

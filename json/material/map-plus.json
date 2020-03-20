@@ -1,0 +1,18 @@
+{
+  "id": "3D7A000E-3E94-4B9B-8CAB-2F6923D425B7",
+  "name": "map-plus",
+  "codepoint": "F0983",
+  "aliases": [
+    "map-add"
+  ],
+  "tags": [
+    "Navigation",
+    "Geographic Information System"
+  ],
+  "author": "Peter Noble",
+  "version": "2.4.85",
+  "zhs": [
+    "地图加",
+    "地图添加"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "BDC89918-A38F-41C6-997E-DE9F779D4435",
+  "name": "timer-10",
+  "codepoint": "F051C",
+  "aliases": [
+    "timer-ten"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "计时器10"
+  ]
+}

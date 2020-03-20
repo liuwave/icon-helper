@@ -1,0 +1,14 @@
+{
+  "id": "313BE145-A7FB-4620-915C-4B2298C70EA1",
+  "name": "battery-50-bluetooth",
+  "codepoint": "F0942",
+  "aliases": [],
+  "tags": [
+    "Battery"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.4.85",
+  "zhs": [
+    "电池50蓝牙"
+  ]
+}

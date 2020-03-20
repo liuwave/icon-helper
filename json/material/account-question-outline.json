@@ -1,0 +1,26 @@
+{
+  "id": "C5217A29-708E-4340-AE2D-89A33F364A97",
+  "name": "account-question-outline",
+  "codepoint": "F0B5A",
+  "aliases": [
+    "account-question-mark-outline",
+    "user-help-outline",
+    "account-help-outline",
+    "user-question-outline",
+    "person-question-outline",
+    "person-help-outline"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Coffeemate",
+  "version": "3.0.39",
+  "zhs": [
+    "帐户问题轮廓",
+    "帐户问号轮廓",
+    "用户帮助轮廓",
+    "用户问题轮廓",
+    "人员问题轮廓",
+    "人员帮助轮廓"
+  ]
+}

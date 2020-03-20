@@ -1,0 +1,17 @@
+{
+  "id": "73B211DB-05CF-4025-B035-AD03454C47A6",
+  "name": "arrow-up-drop-circle",
+  "codepoint": "F0062",
+  "aliases": [
+    "arrow-top-drop-circle"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "向上箭头放圆圈",
+    "顶部箭头放圆圈"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "EBDD7C45-CE9F-4503-9CE4-0682E4E8E6BF",
+  "name": "battery-charging-10",
+  "codepoint": "F089C",
+  "aliases": [],
+  "tags": [
+    "Automotive",
+    "Battery"
+  ],
+  "author": "Google",
+  "version": "2.2.43",
+  "zhs": [
+    "电池充电10"
+  ]
+}

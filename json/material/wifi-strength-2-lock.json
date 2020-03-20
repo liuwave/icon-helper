@@ -1,0 +1,14 @@
+{
+  "id": "CD7B760F-1A3C-4DDE-AB00-9EF11DF12073",
+  "name": "wifi-strength-2-lock",
+  "codepoint": "F0924",
+  "aliases": [],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "wifi强度2锁"
+  ]
+}

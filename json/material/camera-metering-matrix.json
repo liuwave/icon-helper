@@ -1,0 +1,14 @@
+{
+  "id": "700D143A-8347-4A79-9EF8-844E1B436524",
+  "name": "camera-metering-matrix",
+  "codepoint": "F07A3",
+  "aliases": [],
+  "tags": [
+    "Photography"
+  ],
+  "author": "Andy Martinez",
+  "version": "2.0.46",
+  "zhs": [
+    "相机测光矩阵"
+  ]
+}

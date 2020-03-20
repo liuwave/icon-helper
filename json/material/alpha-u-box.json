@@ -1,0 +1,17 @@
+{
+  "id": "B383312A-D001-4F27-95D9-9C705B7529E7",
+  "name": "alpha-u-box",
+  "codepoint": "F0B1C",
+  "aliases": [
+    "alphabet-u-box",
+    "letter-u-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.8.94",
+  "zhs": [
+    "字母u框"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "4986CAC4-4886-4868-8D81-28F00376536A",
+  "name": "grave-stone",
+  "codepoint": "F0BA2",
+  "aliases": [
+    "headstone",
+    "tombstone",
+    "cemetery",
+    "graveyard"
+  ],
+  "tags": [
+    "Holiday"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.0.39",
+  "zhs": [
+    "墓碑",
+    "墓石",
+    "公墓",
+    "墓地"
+  ]
+}

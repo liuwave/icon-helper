@@ -1,0 +1,12 @@
+{
+  "id": "D4A20191-F5B8-4323-A0A8-F4C15A86A83B",
+  "name": "dns",
+  "codepoint": "F01D6",
+  "aliases": [],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "DNS"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "1F91841C-B56D-486E-8113-187E28F1E53A",
+  "name": "numeric-5-box",
+  "codepoint": "F03B1",
+  "aliases": [
+    "looks-5",
+    "numeric-five-box",
+    "number-5-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字5框",
+    "外观5"
+  ]
+}

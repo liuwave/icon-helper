@@ -1,0 +1,17 @@
+{
+  "id": "49C7BBC2-6C7F-442E-A6EE-B58AB758A8D4",
+  "name": "remote",
+  "codepoint": "F0454",
+  "aliases": [
+    "settings-remote"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "远程",
+    "远程设置"
+  ]
+}

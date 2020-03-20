@@ -1,0 +1,15 @@
+{
+  "id": "D280F50D-92FC-4DA2-BBAD-CE93140E6FEA",
+  "name": "zodiac-leo",
+  "codepoint": "F0A82",
+  "aliases": [
+    "horoscope-leo"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "黄道十二宫狮子座",
+    "星座狮子座"
+  ]
+}

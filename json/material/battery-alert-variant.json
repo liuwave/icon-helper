@@ -1,0 +1,15 @@
+{
+  "id": "DD0191F8-8AE0-4D80-A29C-AB7451DAE464",
+  "name": "battery-alert-variant",
+  "codepoint": "F10CC",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "4.3.95",
+  "zhs": [
+    "电池警报口音"
+  ]
+}

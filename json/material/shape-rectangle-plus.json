@@ -1,0 +1,16 @@
+{
+  "id": "C92D4248-E908-4B39-A6D0-296E6FB5FFE1",
+  "name": "shape-rectangle-plus",
+  "codepoint": "F065F",
+  "aliases": [
+    "shape-rectangle-add"
+  ],
+  "tags": [
+    "Shape"
+  ],
+  "author": "Kai Faust",
+  "version": "1.6.50",
+  "zhs": [
+    "形状矩形加"
+  ]
+}

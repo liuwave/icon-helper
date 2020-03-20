@@ -1,0 +1,19 @@
+{
+  "id": "33D321D2-E427-469E-9646-D5758B4D5038",
+  "name": "lightbulb-multiple",
+  "codepoint": "F1255",
+  "aliases": [
+    "lightbulbs",
+    "bulb-multiple",
+    "bulbs"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.6.95",
+  "zhs": [
+    "灯泡",
+    "多个灯泡"
+  ]
+}

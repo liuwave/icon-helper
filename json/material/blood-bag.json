@@ -1,0 +1,14 @@
+{
+  "id": "FA540210-0F58-4D2A-86BA-E202B520C8DA",
+  "name": "blood-bag",
+  "codepoint": "F0CEC",
+  "aliases": [],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "血袋"
+  ]
+}

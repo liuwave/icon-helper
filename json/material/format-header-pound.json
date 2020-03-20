@@ -1,0 +1,17 @@
+{
+  "id": "C632F7EE-B560-4FAA-802E-968DAB3EA979",
+  "name": "format-header-pound",
+  "codepoint": "F0274",
+  "aliases": [
+    "format-header-hash"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "英镑标题格式",
+    "哈希标题格式"
+  ]
+}

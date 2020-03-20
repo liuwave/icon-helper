@@ -1,0 +1,18 @@
+{
+  "id": "2CE24A47-D798-4FFD-A53D-65FE9D452E2F",
+  "name": "water-percent",
+  "codepoint": "F058E",
+  "aliases": [
+    "humidity"
+  ],
+  "tags": [
+    "Weather",
+    "Home Automation"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "水百分比",
+    "湿度"
+  ]
+}

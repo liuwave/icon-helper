@@ -1,0 +1,19 @@
+{
+  "id": "1C9C326F-B0B6-41A9-825D-83A458689345",
+  "name": "file-cancel",
+  "codepoint": "F0DC6",
+  "aliases": [
+    "ban",
+    "forbid"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.5.94",
+  "zhs": [
+    "文件取消",
+    "女性",
+    "禁止"
+  ]
+}

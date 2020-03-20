@@ -1,0 +1,18 @@
+{
+  "id": "ACE8B129-F064-47BF-9FD5-AB472736ED43",
+  "name": "mother-nurse",
+  "codepoint": "F0D21",
+  "aliases": [
+    "breast-feed"
+  ],
+  "tags": [
+    "Medical / Hospital",
+    "People / Family"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "母亲护士",
+    "母乳喂养"
+  ]
+}

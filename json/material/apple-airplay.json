@@ -1,0 +1,17 @@
+{
+  "id": "CD5DD59A-965F-455E-912B-9535BFD134E0",
+  "name": "apple-airplay",
+  "codepoint": "F001F",
+  "aliases": [
+    "apple"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Contributors",
+  "version": "1.5.54",
+  "zhs": [
+    "苹果Airplay",
+    "苹果"
+  ]
+}

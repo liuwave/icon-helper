@@ -1,0 +1,15 @@
+{
+  "id": "A39F489B-ABB1-4420-A6DC-20AF0E2CF6DA",
+  "name": "trending-neutral",
+  "codepoint": "F0534",
+  "aliases": [
+    "trending-flat"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "中性趋势",
+    "持平趋势"
+  ]
+}

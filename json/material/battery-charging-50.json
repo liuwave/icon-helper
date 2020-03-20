@@ -1,0 +1,15 @@
+{
+  "id": "1681D3BD-4990-4571-87B0-1C846DC8D600",
+  "name": "battery-charging-50",
+  "codepoint": "F089D",
+  "aliases": [],
+  "tags": [
+    "Automotive",
+    "Battery"
+  ],
+  "author": "Google",
+  "version": "2.2.43",
+  "zhs": [
+    "电池充电50"
+  ]
+}

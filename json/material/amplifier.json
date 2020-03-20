@@ -1,0 +1,15 @@
+{
+  "id": "4A952C8C-7A6F-4028-A974-48E4DCE299CF",
+  "name": "amplifier",
+  "codepoint": "F0030",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Music"
+  ],
+  "author": "Christopher Schreiner",
+  "version": "1.5.54",
+  "zhs": [
+    "放大器"
+  ]
+}

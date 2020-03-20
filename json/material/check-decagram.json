@@ -1,0 +1,22 @@
+{
+  "id": "64E327CF-3FCB-4742-AB82-789B2C27D31B",
+  "name": "check-decagram",
+  "codepoint": "F0791",
+  "aliases": [
+    "verified",
+    "decagram-check",
+    "approve",
+    "approval",
+    "tick-decagram"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.0.46",
+  "zhs": [
+    "检查十进制",
+    "已验证",
+    "十进制检查",
+    "批准",
+    "勾号十进制"
+  ]
+}

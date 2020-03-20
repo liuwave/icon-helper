@@ -1,0 +1,15 @@
+{
+  "id": "9E877D76-9BC5-496D-99E4-1E6029DE1B4D",
+  "name": "rss",
+  "codepoint": "F046B",
+  "aliases": [
+    "rss-feed"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "RSS",
+    "RSS提要"
+  ]
+}

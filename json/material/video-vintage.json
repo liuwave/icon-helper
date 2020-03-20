@@ -1,0 +1,19 @@
+{
+  "id": "1A8E4CC1-97A7-4593-BE20-0E9C5686C2D3",
+  "name": "video-vintage",
+  "codepoint": "F0A1C",
+  "aliases": [
+    "video-film",
+    "video-classic"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Contributors",
+  "version": "2.5.94",
+  "zhs": [
+    "老式视频",
+    "电影视频",
+    "经典视频"
+  ]
+}

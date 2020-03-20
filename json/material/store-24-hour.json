@@ -1,0 +1,19 @@
+{
+  "id": "417393DA-3C7F-4BF2-9283-AB1429FFA068",
+  "name": "store-24-hour",
+  "codepoint": "F04DD",
+  "aliases": [
+    "local-convenience-store",
+    "shop-24-hour"
+  ],
+  "tags": [
+    "Places",
+    "Shopping"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "24小时商店",
+    "当地便利店"
+  ]
+}

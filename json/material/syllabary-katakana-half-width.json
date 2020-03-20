@@ -1,0 +1,17 @@
+{
+  "id": "BEDFC0D3-5AC2-46E4-BD69-07048CC47710",
+  "name": "syllabary-katakana-half-width",
+  "codepoint": "F1336",
+  "aliases": [
+    "writing-system-katakana-half-width"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "音节片假名半宽度",
+    "书写系统片假名半宽度"
+  ]
+}

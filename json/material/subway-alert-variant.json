@@ -1,0 +1,17 @@
+{
+  "id": "486507F3-9E59-4037-B0EA-8EE514AFFABB",
+  "name": "subway-alert-variant",
+  "codepoint": "F0D9D",
+  "aliases": [
+    "subway-warning-variant"
+  ],
+  "tags": [
+    "Alert / Error",
+    "Transportation + Other"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.4.93",
+  "zhs": [
+    "地铁警报变形"
+  ]
+}

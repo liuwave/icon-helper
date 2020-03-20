@@ -1,0 +1,17 @@
+{
+  "id": "3E0B74E0-1F0F-4820-A02F-B370CD56E463",
+  "name": "face-agent",
+  "codepoint": "F0D70",
+  "aliases": [
+    "customer-service",
+    "support"
+  ],
+  "tags": [],
+  "author": "Contributors",
+  "version": "3.4.93",
+  "zhs": [
+    "人脸代理",
+    "客户服务",
+    "支持"
+  ]
+}

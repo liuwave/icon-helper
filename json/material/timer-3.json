@@ -1,0 +1,16 @@
+{
+  "id": "3DEFEFB6-57CE-4C82-9D0C-16DBDBEF5950",
+  "name": "timer-3",
+  "codepoint": "F051D",
+  "aliases": [
+    "timer-three"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "计时器3"
+  ]
+}

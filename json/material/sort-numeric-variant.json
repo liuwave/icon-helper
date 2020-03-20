@@ -1,0 +1,17 @@
+{
+  "id": "2CD8E0F3-0AF4-4BBD-B1C8-EEF6391F62C3",
+  "name": "sort-numeric-variant",
+  "codepoint": "F04BE",
+  "aliases": [
+    "sort-numerically"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "对数字重音进行排序",
+    "对数字进行排序"
+  ]
+}

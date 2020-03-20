@@ -1,0 +1,17 @@
+{
+  "id": "FFED25A5-FD40-4274-9EE3-6B26F5C03584",
+  "name": "arrow-collapse-right",
+  "codepoint": "F0794",
+  "aliases": [
+    "arrow-compress-right"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Michael Richins",
+  "version": "2.0.46",
+  "zhs": [
+    "箭头向右折叠",
+    "箭头向右压缩"
+  ]
+}

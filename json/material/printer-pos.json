@@ -1,0 +1,17 @@
+{
+  "id": "F9D30BAE-7AF6-4C02-83AD-18045895B8B0",
+  "name": "printer-pos",
+  "codepoint": "F1057",
+  "aliases": [
+    "printer-point-of-sale"
+  ],
+  "tags": [
+    "Printer"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "打印机pos",
+    "打印机销售点"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "A9D2E13D-A9F6-48AC-9998-22756DA6C709",
+  "name": "file-find",
+  "codepoint": "F021E",
+  "aliases": [
+    "print-preview",
+    "find-in-page"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "查找文件",
+    "打印预览",
+    "在页面中查找"
+  ]
+}

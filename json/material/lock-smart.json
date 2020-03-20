@@ -1,0 +1,14 @@
+{
+  "id": "1D8C9A6B-26F4-45E1-B922-E0BAED0A5FBD",
+  "name": "lock-smart",
+  "codepoint": "F08B2",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.2.43",
+  "zhs": [
+    "智能锁"
+  ]
+}

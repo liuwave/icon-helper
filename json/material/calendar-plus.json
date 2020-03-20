@@ -1,0 +1,19 @@
+{
+  "id": "34AFE807-D724-4A5A-A3FE-910928179BE8",
+  "name": "calendar-plus",
+  "codepoint": "F00F3",
+  "aliases": [
+    "event-plus",
+    "calendar-add",
+    "event-add"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "日历加",
+    "事件加"
+  ]
+}

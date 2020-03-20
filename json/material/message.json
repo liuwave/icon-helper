@@ -1,0 +1,15 @@
+{
+  "id": "99DA4752-8C79-44D8-8286-6EBD696F0B45",
+  "name": "message",
+  "codepoint": "F0361",
+  "aliases": [
+    "chat-bubble"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "消息",
+    "聊天气泡"
+  ]
+}

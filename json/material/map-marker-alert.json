@@ -1,0 +1,16 @@
+{
+  "id": "DE87F14C-101D-47F2-87C5-118BE76F7C58",
+  "name": "map-marker-alert",
+  "codepoint": "F0F05",
+  "aliases": [],
+  "tags": [
+    "Navigation",
+    "Alert / Error",
+    "Geographic Information System"
+  ],
+  "author": "François Risoud",
+  "version": "3.8.95",
+  "zhs": [
+    "地图标记警报"
+  ]
+}

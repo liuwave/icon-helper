@@ -1,0 +1,20 @@
+{
+  "id": "6F15658D-723C-4BE9-85D1-F170E4B90281",
+  "name": "cog-box",
+  "codepoint": "F0494",
+  "aliases": [
+    "gear-box",
+    "settings-applications",
+    "settings-box"
+  ],
+  "tags": [
+    "Settings"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "齿轮箱",
+    "应用程序设置",
+    "框设置"
+  ]
+}

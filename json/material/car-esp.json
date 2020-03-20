@@ -1,0 +1,16 @@
+{
+  "id": "5BF118F1-1115-4928-8755-34AF926CF13D",
+  "name": "car-esp",
+  "codepoint": "F0C49",
+  "aliases": [
+    "electronic-stability-program"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "汽车特别是电子稳定程序"
+  ]
+}

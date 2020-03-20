@@ -1,0 +1,17 @@
+{
+  "id": "CDEA2CC8-FD08-49E6-AC29-A5DD70956C35",
+  "name": "link-lock",
+  "codepoint": "F10BA",
+  "aliases": [
+    "block-chain"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Michael Richins",
+  "version": "4.2.95",
+  "zhs": [
+    "链接锁",
+    "区块链"
+  ]
+}

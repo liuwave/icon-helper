@@ -1,0 +1,18 @@
+{
+  "id": "170D1972-AFA7-417C-BCC4-B07689D8B6F4",
+  "name": "car-brake-abs",
+  "codepoint": "F0C47",
+  "aliases": [
+    "anti-lock-brake-system",
+    "anti-lock-braking-system"
+  ],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "汽车制动abs",
+    "防抱死制动系统"
+  ]
+}

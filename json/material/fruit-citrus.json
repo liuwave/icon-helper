@@ -1,0 +1,19 @@
+{
+  "id": "1F2DF3F1-F380-491D-BC09-B3262612DF23",
+  "name": "fruit-citrus",
+  "codepoint": "F1043",
+  "aliases": [
+    "fruit-lemon",
+    "fruit-lime"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.1.95",
+  "zhs": [
+    "柑桔",
+    "柠檬果",
+    "酸橙果"
+  ]
+}

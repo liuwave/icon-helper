@@ -1,0 +1,21 @@
+{
+  "id": "EF3D6923-793B-410C-B349-90A6A338F06C",
+  "name": "flash",
+  "codepoint": "F0241",
+  "aliases": [
+    "lightning-bolt",
+    "flash-on",
+    "electricity"
+  ],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "闪光灯",
+    "闪电",
+    "闪光灯开启",
+    "通电"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "C95D04C5-F5EE-411A-88F7-A9872B2B4021",
+  "name": "coffee",
+  "codepoint": "F0176",
+  "aliases": [
+    "tea",
+    "cup",
+    "free-breakfast",
+    "local-cafe"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "咖啡",
+    "茶",
+    "杯子",
+    "免费早餐",
+    "当地咖啡馆"
+  ]
+}

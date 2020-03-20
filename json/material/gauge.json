@@ -1,0 +1,20 @@
+{
+  "id": "EC7B7499-25F1-43D4-9A09-9742F5B6D3F2",
+  "name": "gauge",
+  "codepoint": "F029A",
+  "aliases": [
+    "swap-driving-apps-wheel",
+    "barometer"
+  ],
+  "tags": [
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "仪表",
+    "交换驱动应用轮",
+    "气压计"
+  ]
+}

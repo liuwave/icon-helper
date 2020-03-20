@@ -1,0 +1,17 @@
+{
+  "id": "9E9D949B-13EC-43FB-9068-2BED76224BD8",
+  "name": "television-off",
+  "codepoint": "F083B",
+  "aliases": [
+    "tv-off"
+  ],
+  "tags": [
+    "Device / Tech",
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.1.19",
+  "zhs": [
+    "电视关闭"
+  ]
+}

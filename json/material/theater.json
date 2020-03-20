@@ -1,0 +1,18 @@
+{
+  "id": "37350655-CB4D-4D9F-8C90-B8049CA0E48E",
+  "name": "theater",
+  "codepoint": "F050D",
+  "aliases": [
+    "cinema",
+    "theatre"
+  ],
+  "tags": [
+    "Places"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "剧院",
+    "电影院"
+  ]
+}

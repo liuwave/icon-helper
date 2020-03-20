@@ -1,0 +1,14 @@
+{
+  "id": "68E64FD4-A020-4DEF-B2CB-5EA5BAA80E42",
+  "name": "vibrate",
+  "codepoint": "F0566",
+  "aliases": [
+    "vibration"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "振动"
+  ]
+}

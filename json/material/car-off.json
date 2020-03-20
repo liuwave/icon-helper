@@ -1,0 +1,14 @@
+{
+  "id": "5426595C-DCD3-4CFE-990E-775C80BDCDC6",
+  "name": "car-off",
+  "codepoint": "F0E1C",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Richins",
+  "version": "3.6.95",
+  "zhs": [
+    "下车"
+  ]
+}

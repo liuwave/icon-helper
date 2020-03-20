@@ -1,0 +1,14 @@
+{
+  "id": "51D1A98E-7CD7-4BD7-88C9-333B5435C580",
+  "name": "sort-variant-remove",
+  "codepoint": "F1147",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Contributors",
+  "version": "4.4.95",
+  "zhs": [
+    "删除重音符号"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "AA47E759-39DE-4A5C-B3CF-FAEB215EAB91",
+  "name": "gesture-two-tap",
+  "codepoint": "F0743",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "1.9.32",
+  "zhs": [
+    "手势二点击"
+  ]
+}

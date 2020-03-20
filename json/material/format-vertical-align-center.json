@@ -1,0 +1,16 @@
+{
+  "id": "4C8985BA-B48F-4015-9389-35672ECDE544",
+  "name": "format-vertical-align-center",
+  "codepoint": "F0622",
+  "aliases": [
+    "format-vertical-align-centre"
+  ],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.6.50",
+  "zhs": [
+    "格式化垂直对齐中心"
+  ]
+}

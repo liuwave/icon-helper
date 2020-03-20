@@ -1,0 +1,15 @@
+{
+  "id": "9E23B225-E972-4369-A94A-C2AAF4C93870",
+  "name": "tab-plus",
+  "codepoint": "F075C",
+  "aliases": [
+    "tab-add"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "选项卡加号",
+    "选项卡添加"
+  ]
+}

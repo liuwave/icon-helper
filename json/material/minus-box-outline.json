@@ -1,0 +1,17 @@
+{
+  "id": "D37AECEA-5BC3-4C57-8886-BC6C1A86987D",
+  "name": "minus-box-outline",
+  "codepoint": "F06F2",
+  "aliases": [
+    "checkbox-indeterminate-outline"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Google",
+  "version": "1.8.36",
+  "zhs": [
+    "减号框轮廓",
+    "复选框不确定的轮廓"
+  ]
+}

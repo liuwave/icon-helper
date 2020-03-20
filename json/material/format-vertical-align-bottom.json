@@ -1,0 +1,14 @@
+{
+  "id": "723F4461-61B3-4D53-A03D-302F5D9401E1",
+  "name": "format-vertical-align-bottom",
+  "codepoint": "F0621",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.6.50",
+  "zhs": [
+    "格式垂直对齐底部"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "E9E77FBB-F72A-4A82-9565-6BE2885D5138",
+  "name": "valve-open",
+  "codepoint": "F1068",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "阀门打开"
+  ]
+}

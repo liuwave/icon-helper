@@ -1,0 +1,15 @@
+{
+  "id": "8545C0A1-5625-422F-AF38-624FB54237D3",
+  "name": "keyboard-close",
+  "codepoint": "F030F",
+  "aliases": [
+    "keyboard-hide"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "键盘关闭",
+    "键盘隐藏"
+  ]
+}

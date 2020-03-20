@@ -1,0 +1,15 @@
+{
+  "id": "001157C4-1AAA-41FF-B204-906ACDB427C3",
+  "name": "nas",
+  "codepoint": "F08F3",
+  "aliases": [
+    "network-attached-storage"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "2.3.50",
+  "zhs": [
+    "NAS",
+    "网络连接的存储"
+  ]
+}

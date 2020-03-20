@@ -1,0 +1,19 @@
+{
+  "id": "BA71CE05-DEA6-4638-AF5C-2194D6FB946E",
+  "name": "toy-brick-minus-outline",
+  "codepoint": "F128C",
+  "aliases": [
+    "lego",
+    "plugin",
+    "extension"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "积木减去轮廓",
+    "乐高",
+    "插件",
+    "扩展名"
+  ]
+}

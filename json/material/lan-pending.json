@@ -1,0 +1,14 @@
+{
+  "id": "B5E302E3-DF81-430E-AAE0-4CAF44AFAD00",
+  "name": "lan-pending",
+  "codepoint": "F031A",
+  "aliases": [
+    "local-area-network-pending"
+  ],
+  "tags": [],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "局域网待处理"
+  ]
+}

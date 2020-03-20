@@ -1,0 +1,16 @@
+{
+  "id": "AF478988-12FA-460A-AE5B-01536D6D5B97",
+  "name": "badminton",
+  "codepoint": "F0851",
+  "aliases": [
+    "shuttlecock"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Nick",
+  "version": "2.1.99",
+  "zhs": [
+    "羽毛球"
+  ]
+}

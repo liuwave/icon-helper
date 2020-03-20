@@ -1,0 +1,17 @@
+{
+  "id": "DAAF6988-6EE9-4595-A758-294C83C7304B",
+  "name": "navigation",
+  "codepoint": "F0390",
+  "aliases": [
+    "arrow-compass"
+  ],
+  "tags": [
+    "Navigation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "导航",
+    "箭头罗盘"
+  ]
+}

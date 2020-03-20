@@ -1,0 +1,17 @@
+{
+  "id": "D37BD379-9466-4E87-AD27-087CF72F076D",
+  "name": "alert-box-outline",
+  "codepoint": "F0CE4",
+  "aliases": [
+    "warning-box-outline"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Peter Noble",
+  "version": "3.3.92",
+  "zhs": [
+    "警报框轮廓",
+    "警告框轮廓"
+  ]
+}

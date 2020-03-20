@@ -1,0 +1,14 @@
+{
+  "id": "5A1815F9-FC9E-4420-B723-AF4B324262A4",
+  "name": "toilet",
+  "codepoint": "F09AB",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Augustin Ursu",
+  "version": "2.4.85",
+  "zhs": [
+    "厕所"
+  ]
+}

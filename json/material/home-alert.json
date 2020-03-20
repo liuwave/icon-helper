@@ -1,0 +1,17 @@
+{
+  "id": "A13368F4-66F6-4014-968E-7A7B2D99F038",
+  "name": "home-alert",
+  "codepoint": "F087B",
+  "aliases": [
+    "home-warning"
+  ],
+  "tags": [
+    "Home Automation",
+    "Alert / Error"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "家庭警报"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "D4AF47D5-214B-4856-8450-0ED7C524991D",
+  "name": "cart-minus",
+  "codepoint": "F0D68",
+  "aliases": [
+    "shopping-cart-minus",
+    "trolley-minus"
+  ],
+  "tags": [
+    "Shopping"
+  ],
+  "author": "Cody",
+  "version": "3.4.93",
+  "zhs": [
+    "减去购物车",
+    "减少购物车"
+  ]
+}

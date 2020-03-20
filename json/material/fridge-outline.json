@@ -1,0 +1,18 @@
+{
+  "id": "214668FF-C50D-4D69-B916-AE66E73CB3B0",
+  "name": "fridge-outline",
+  "codepoint": "F028F",
+  "aliases": [
+    "kitchen",
+    "refrigerator-outline"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "冰箱轮廓",
+    "厨房"
+  ]
+}

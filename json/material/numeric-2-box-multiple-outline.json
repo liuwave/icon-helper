@@ -1,0 +1,20 @@
+{
+  "id": "989BAC0E-21F6-4AF2-849A-3DA35BA5958F",
+  "name": "numeric-2-box-multiple-outline",
+  "codepoint": "F03A8",
+  "aliases": [
+    "filter-2",
+    "numeric-two-box-multiple-outline",
+    "numeric-2-boxes-outline",
+    "number-2-box-multiple-outline"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字2框多重轮廓",
+    "过滤器2"
+  ]
+}

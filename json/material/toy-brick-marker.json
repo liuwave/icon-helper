@@ -1,0 +1,19 @@
+{
+  "id": "602DF6D1-21C6-4540-960D-79D7C37AECF9",
+  "name": "toy-brick-marker",
+  "codepoint": "F1289",
+  "aliases": [
+    "lego",
+    "plugin",
+    "extension"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "4.7.95",
+  "zhs": [
+    "积木玩具",
+    "乐高",
+    "插件",
+    "扩展"
+  ]
+}

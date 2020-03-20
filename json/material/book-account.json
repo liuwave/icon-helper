@@ -1,0 +1,14 @@
+{
+  "id": "D4247A9D-BD96-40AC-8C4E-A9A255DF5160",
+  "name": "book-account",
+  "codepoint": "F13AD",
+  "aliases": [],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Michael Richins",
+  "version": "5.0.45",
+  "zhs": [
+    "帐户"
+  ]
+}

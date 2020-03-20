@@ -1,0 +1,17 @@
+{
+  "id": "CB0C6DC2-0A4E-41C8-9E6A-9A8531F754CF",
+  "name": "skate",
+  "codepoint": "F0D35",
+  "aliases": [
+    "ice-skate"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Google",
+  "version": "3.3.92",
+  "zhs": [
+    "溜冰鞋",
+    "滑冰"
+  ]
+}

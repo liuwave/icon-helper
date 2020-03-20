@@ -1,0 +1,16 @@
+{
+  "id": "602EE454-C61C-4608-919E-FCCF3B58DE65",
+  "name": "message-processing",
+  "codepoint": "F0366",
+  "aliases": [
+    "sms",
+    "textsms"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "消息处理",
+    "短信"
+  ]
+}

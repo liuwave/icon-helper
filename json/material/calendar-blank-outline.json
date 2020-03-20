@@ -1,0 +1,17 @@
+{
+  "id": "9A461143-6DF3-49CB-A238-24CFE7181183",
+  "name": "calendar-blank-outline",
+  "codepoint": "F0B66",
+  "aliases": [
+    "event-blank-outline"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "3.0.39",
+  "zhs": [
+    "日历空白轮廓",
+    "事件空白轮廓"
+  ]
+}

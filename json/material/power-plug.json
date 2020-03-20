@@ -1,0 +1,14 @@
+{
+  "id": "60E77DB8-2D58-462F-8512-41D9E0E42795",
+  "name": "power-plug",
+  "codepoint": "F06A5",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "电源插头"
+  ]
+}

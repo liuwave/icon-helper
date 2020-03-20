@@ -1,0 +1,17 @@
+{
+  "id": "AC82F126-0773-44CE-A004-77E7DDD130C9",
+  "name": "weather-sunset-up",
+  "codepoint": "F059C",
+  "aliases": [
+    "sunrise"
+  ],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "天气日落",
+    "日出"
+  ]
+}

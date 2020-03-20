@@ -1,0 +1,19 @@
+{
+  "id": "1BA32EF0-94A2-4F7E-BD93-5A9102143F8E",
+  "name": "toothbrush",
+  "codepoint": "F1129",
+  "aliases": [
+    "dentist",
+    "oral-hygiene"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.3.95",
+  "zhs": [
+    "牙刷",
+    "牙医",
+    "口腔卫生"
+  ]
+}

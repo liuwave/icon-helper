@@ -1,0 +1,16 @@
+{
+  "id": "1C8EC9A6-0545-4A59-B9F8-5E498E40529D",
+  "name": "fire-truck",
+  "codepoint": "F08AB",
+  "aliases": [
+    "fire-engine"
+  ],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Nick",
+  "version": "2.2.43",
+  "zhs": [
+    "消防车"
+  ]
+}

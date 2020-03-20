@@ -1,0 +1,15 @@
+{
+  "id": "032BF3C7-46C6-40D8-BBD4-4CDE8CBCC48B",
+  "name": "fridge-alert",
+  "codepoint": "F11B1",
+  "aliases": [],
+  "tags": [
+    "Home Automation",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.5.95",
+  "zhs": [
+    "冰箱警报"
+  ]
+}

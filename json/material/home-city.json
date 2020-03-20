@@ -1,0 +1,15 @@
+{
+  "id": "4D49A420-B80E-48FA-A331-A556002EA46F",
+  "name": "home-city",
+  "codepoint": "F0D15",
+  "aliases": [
+    "house-city"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "3.3.92",
+  "zhs": [
+    "家乡",
+    "城市房屋"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "1AC4596D-76B2-4F11-AF23-157736CABB86",
+  "name": "language-xaml",
+  "codepoint": "F0673",
+  "aliases": [
+    "xaml",
+    "microsoft-xaml"
+  ],
+  "tags": [],
+  "author": "Contributors",
+  "version": "1.6.50",
+  "zhs": [
+    "语言xaml",
+    "xaml",
+    "Microsoft xaml"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "F11D5411-E08A-483D-B04C-A75B523C717C",
+  "name": "bag-carry-on-off",
+  "codepoint": "F0F3C",
+  "aliases": [
+    "carry-on-luggage-off"
+  ],
+  "tags": [
+    "Transportation + Flying"
+  ],
+  "author": "Google",
+  "version": "3.9.97",
+  "zhs": [
+    "提起行李箱",
+    "托运行李"
+  ]
+}

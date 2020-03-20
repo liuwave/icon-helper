@@ -1,0 +1,27 @@
+{
+  "id": "D612088F-9D2A-424A-9403-046993A3EB14",
+  "name": "account-box-multiple",
+  "codepoint": "F0934",
+  "aliases": [
+    "switch-account",
+    "user-box-multiple",
+    "account-boxes",
+    "user-boxes",
+    "person-box-multiple",
+    "person-boxes"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Google",
+  "version": "2.4.85",
+  "zhs": [
+    "帐户箱多个",
+    "切换帐户",
+    "用户箱多个",
+    "帐户箱",
+    "用户箱",
+    "人员箱多个",
+    "人员箱"
+  ]
+}

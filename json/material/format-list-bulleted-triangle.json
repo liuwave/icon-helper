@@ -1,0 +1,14 @@
+{
+  "id": "C436DF00-A54E-48D1-9A4A-EA21A90E4FF5",
+  "name": "format-list-bulleted-triangle",
+  "codepoint": "F0EB2",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "格式列表项目符号三角形"
+  ]
+}

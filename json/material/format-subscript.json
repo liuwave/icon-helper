@@ -1,0 +1,14 @@
+{
+  "id": "4765CE92-9095-4C00-9137-1C35761C7B59",
+  "name": "format-subscript",
+  "codepoint": "F0282",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "下标格式"
+  ]
+}

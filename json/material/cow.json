@@ -1,0 +1,15 @@
+{
+  "id": "1D459B7E-A98C-4E02-929B-FA0BA329B97F",
+  "name": "cow",
+  "codepoint": "F019A",
+  "aliases": [],
+  "tags": [
+    "Animal",
+    "Agriculture"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "牛"
+  ]
+}

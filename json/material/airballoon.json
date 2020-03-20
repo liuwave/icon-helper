@@ -1,0 +1,18 @@
+{
+  "id": "3E1D81B2-7DF1-4AAF-9598-4995B8D8E5CC",
+  "name": "airballoon",
+  "codepoint": "F001C",
+  "aliases": [
+    "hot-air-balloon"
+  ],
+  "tags": [
+    "Transportation + Other",
+    "Transportation + Flying"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "气球",
+    "热气球"
+  ]
+}

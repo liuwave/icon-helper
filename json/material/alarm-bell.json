@@ -1,0 +1,14 @@
+{
+  "id": "02423F51-52A3-4F45-8373-05CA8E8D57B7",
+  "name": "alarm-bell",
+  "codepoint": "F078E",
+  "aliases": [],
+  "tags": [
+    "Notification"
+  ],
+  "author": "Michael Richins",
+  "version": "2.0.46",
+  "zhs": [
+    "远程报警"
+  ]
+}

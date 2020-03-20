@@ -1,0 +1,18 @@
+{
+  "id": "9DA90BB6-B525-47A8-879F-66EC572FE31B",
+  "name": "currency-usd-circle",
+  "codepoint": "F116B",
+  "aliases": [
+    "coin"
+  ],
+  "tags": [
+    "Banking",
+    "Currency"
+  ],
+  "author": "Michael Richins",
+  "version": "4.4.95",
+  "zhs": [
+    "货币美元圆",
+    "硬币"
+  ]
+}

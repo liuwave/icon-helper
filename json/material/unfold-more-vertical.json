@@ -1,0 +1,17 @@
+{
+  "id": "AE8D43D2-00EC-46D9-A21C-4D0024A539D7",
+  "name": "unfold-more-vertical",
+  "codepoint": "F0761",
+  "aliases": [
+    "chevron-left-right",
+    "expand-vertical"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.9.32",
+  "zhs": [
+    "展开更多垂直",
+    "V形向左展开",
+    "垂直展开"
+  ]
+}

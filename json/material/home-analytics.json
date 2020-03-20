@@ -1,0 +1,19 @@
+{
+  "id": "381A61B9-0D73-4CB8-B525-C67697443F43",
+  "name": "home-analytics",
+  "codepoint": "F0EBA",
+  "aliases": [
+    "chart-home",
+    "home-chart"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "3.7.94",
+  "zhs": [
+    "家庭分析",
+    "图表家庭",
+    "主页图表"
+  ]
+}

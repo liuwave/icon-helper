@@ -1,0 +1,17 @@
+{
+  "id": "7B46F16A-AF86-4A7A-B3AB-1D2297831078",
+  "name": "texture-box",
+  "codepoint": "F0FE6",
+  "aliases": [
+    "surface-area"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.0.96",
+  "zhs": [
+    "纹理框",
+    "表面积"
+  ]
+}

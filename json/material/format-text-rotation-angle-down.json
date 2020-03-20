@@ -1,0 +1,14 @@
+{
+  "id": "C40131F3-E8A5-44CB-90A0-E230114C0DC3",
+  "name": "format-text-rotation-angle-down",
+  "codepoint": "F0FBB",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "4.0.96",
+  "zhs": [
+    "向下格式化文本旋转角度"
+  ]
+}

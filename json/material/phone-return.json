@@ -1,0 +1,14 @@
+{
+  "id": "B0FC2BB4-6C44-42CA-8F90-52CBCD0F1AD4",
+  "name": "phone-return",
+  "codepoint": "F082F",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.19",
+  "zhs": [
+    "电话退回"
+  ]
+}

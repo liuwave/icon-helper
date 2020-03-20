@@ -1,0 +1,17 @@
+{
+  "id": "7DFE345F-A336-43BC-89BE-18FE3C902BFC",
+  "name": "cached",
+  "codepoint": "F00E8",
+  "aliases": [
+    "counterclockwise-arrows",
+    "circular-arrows",
+    "circle-arrows"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "缓存的逆时针箭头",
+    "圆形箭头"
+  ]
+}

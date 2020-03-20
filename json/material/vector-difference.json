@@ -1,0 +1,15 @@
+{
+  "id": "C4CA626C-23C3-495A-A73B-4B55A6FBC1F9",
+  "name": "vector-difference",
+  "codepoint": "F055A",
+  "aliases": [],
+  "tags": [
+    "Vector",
+    "Geographic Information System"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "向量差"
+  ]
+}

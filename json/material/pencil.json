@@ -1,0 +1,22 @@
+{
+  "id": "BB27CE6C-769A-4C0C-A53C-F1B10B9C4423",
+  "name": "pencil",
+  "codepoint": "F03EB",
+  "aliases": [
+    "edit",
+    "create",
+    "mode-edit"
+  ],
+  "tags": [
+    "Drawing / Art",
+    "Edit / Modify"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "铅笔",
+    "编辑",
+    "创建",
+    "编辑模式"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "DAC4946E-1A07-44B4-977F-E51D740DA5FB",
+  "name": "bank-minus",
+  "codepoint": "F0DB0",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Austin Andrews",
+  "version": "3.5.94",
+  "zhs": [
+    "减去银行"
+  ]
+}

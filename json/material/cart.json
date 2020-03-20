@@ -1,0 +1,20 @@
+{
+  "id": "97563623-CF1C-43AE-87D8-DF54802D442B",
+  "name": "cart",
+  "codepoint": "F0110",
+  "aliases": [
+    "trolley",
+    "local-grocery-store",
+    "shopping-cart"
+  ],
+  "tags": [
+    "Shopping"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "购物车",
+    "手推车",
+    "当地杂货店"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6E5CAF6F-F00B-4613-B520-BDC1E5DD2832",
+  "name": "television-guide",
+  "codepoint": "F0503",
+  "aliases": [],
+  "tags": [
+    "Device / Tech",
+    "Home Automation"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "电视指南"
+  ]
+}

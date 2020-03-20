@@ -1,0 +1,14 @@
+{
+  "id": "5EF29669-A342-46D1-AE1B-47917E44311D",
+  "name": "weather-sunset",
+  "codepoint": "F059A",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "天气日落"
+  ]
+}

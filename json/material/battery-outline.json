@@ -1,0 +1,21 @@
+{
+  "id": "925B02B4-CA05-4545-A4E3-421F8412DA37",
+  "name": "battery-outline",
+  "codepoint": "F008E",
+  "aliases": [
+    "battery-0",
+    "battery-empty"
+  ],
+  "tags": [
+    "Battery",
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电池外形",
+    "电池0",
+    "电池已空"
+  ]
+}

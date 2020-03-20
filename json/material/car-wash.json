@@ -1,0 +1,19 @@
+{
+  "id": "95E617D7-9A48-458E-96C5-A8CBBEF3A852",
+  "name": "car-wash",
+  "codepoint": "F010E",
+  "aliases": [
+    "local-car-wash"
+  ],
+  "tags": [
+    "Transportation + Road",
+    "Places",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "洗车",
+    "本地洗车"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "DDC0FFBC-73D2-49E8-8B8C-22D65A5719A6",
+  "name": "table-edit",
+  "codepoint": "F04F0",
+  "aliases": [],
+  "tags": [
+    "Edit / Modify",
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "表格编辑"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "04CF8C3D-0D65-41CA-8D0D-53DD7EAB25B8",
+  "name": "comment-alert",
+  "codepoint": "F017D",
+  "aliases": [
+    "comment-warning"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "评论警报",
+    "评论警告"
+  ]
+}

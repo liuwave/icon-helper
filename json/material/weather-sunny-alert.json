@@ -1,0 +1,22 @@
+{
+  "id": "3AACF641-3923-4DBA-9568-0680999A6548",
+  "name": "weather-sunny-alert",
+  "codepoint": "F0F37",
+  "aliases": [
+    "heat-alert",
+    "heat-advisory",
+    "sun-advisory"
+  ],
+  "tags": [
+    "Weather",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "天气警报",
+    "热警报",
+    "热咨询",
+    "太阳咨询"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "03FA1C8F-8808-4293-A12A-7D9B7F8890D4",
+  "name": "transfer-left",
+  "codepoint": "F0DA2",
+  "aliases": [],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Michael Richins",
+  "version": "3.4.93",
+  "zhs": [
+    "左移"
+  ]
+}

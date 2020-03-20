@@ -1,0 +1,14 @@
+{
+  "id": "54AC2207-9F8D-4A1D-B8B4-ED626D0C8C38",
+  "name": "hydraulic-oil-temperature",
+  "codepoint": "F1325",
+  "aliases": [],
+  "tags": [
+    "Automotive"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.9.95",
+  "zhs": [
+    "液压油温度"
+  ]
+}

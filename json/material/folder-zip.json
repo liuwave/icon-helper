@@ -1,0 +1,17 @@
+{
+  "id": "1573C575-7FBA-4BCD-A960-02D42043FE6F",
+  "name": "folder-zip",
+  "codepoint": "F06EB",
+  "aliases": [
+    "compressed-folder"
+  ],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "1.8.36",
+  "zhs": [
+    "zip文件夹",
+    "压缩文件夹"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "A7928BA3-AC13-42A2-9AC2-5AFBD60E3243",
+  "name": "transfer-up",
+  "codepoint": "F0DA3",
+  "aliases": [],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Michael Richins",
+  "version": "3.4.93",
+  "zhs": [
+    "向上转移"
+  ]
+}

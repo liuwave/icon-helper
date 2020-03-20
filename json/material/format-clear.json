@@ -1,0 +1,14 @@
+{
+  "id": "D5213C5D-AC53-40A5-BBCC-C8B3F849D6B4",
+  "name": "format-clear",
+  "codepoint": "F0265",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "清除格式"
+  ]
+}

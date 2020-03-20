@@ -1,0 +1,15 @@
+{
+  "id": "09F53FF1-31D7-44CA-A00E-8CDDF55DB716",
+  "name": "server-minus",
+  "codepoint": "F048C",
+  "aliases": [
+    "server-remove"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "服务器减号",
+    "服务器删除"
+  ]
+}

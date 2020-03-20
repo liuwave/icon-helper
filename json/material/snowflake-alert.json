@@ -1,0 +1,22 @@
+{
+  "id": "5F856EA3-F987-439D-AAFF-ED545ECBBA75",
+  "name": "snowflake-alert",
+  "codepoint": "F0F29",
+  "aliases": [
+    "cold-alert",
+    "snow-advisory",
+    "freeze-advisory"
+  ],
+  "tags": [
+    "Weather",
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "雪花警报",
+    "寒冷警报",
+    "降雪咨询",
+    "冻结咨询"
+  ]
+}

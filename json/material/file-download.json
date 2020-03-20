@@ -1,0 +1,14 @@
+{
+  "id": "305DC085-34BD-4CC1-8943-E8A3B64FD110",
+  "name": "file-download",
+  "codepoint": "F0965",
+  "aliases": [],
+  "tags": [
+    "Files / Folders"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "2.4.85",
+  "zhs": [
+    "文件下载"
+  ]
+}

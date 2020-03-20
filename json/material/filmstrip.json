@@ -1,0 +1,19 @@
+{
+  "id": "10A06B6D-A551-425C-B084-DA3F2239DFA1",
+  "name": "filmstrip",
+  "codepoint": "F0230",
+  "aliases": [
+    "local-movies",
+    "theaters"
+  ],
+  "tags": [
+    "Video / Movie"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "幻灯片",
+    "本地电影",
+    "剧院"
+  ]
+}

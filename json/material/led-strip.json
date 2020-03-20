@@ -1,0 +1,17 @@
+{
+  "id": "F301BDB9-027C-40D0-A21F-3111A7AB218F",
+  "name": "led-strip",
+  "codepoint": "F07D6",
+  "aliases": [
+    "light-strip"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.0.46",
+  "zhs": [
+    "led灯带",
+    "灯带"
+  ]
+}

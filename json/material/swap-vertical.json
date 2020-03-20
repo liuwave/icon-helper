@@ -1,0 +1,19 @@
+{
+  "id": "DA7FB76D-58FA-4AED-9DF9-033E994AE000",
+  "name": "swap-vertical",
+  "codepoint": "F04E2",
+  "aliases": [
+    "import-export",
+    "arrow-up-down"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "垂直互换",
+    "进出口",
+    "向上箭头"
+  ]
+}

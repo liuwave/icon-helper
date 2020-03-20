@@ -1,0 +1,20 @@
+{
+  "id": "66271DF7-FF11-4998-9C03-F096CE407E4C",
+  "name": "account-edit",
+  "codepoint": "F06BC",
+  "aliases": [
+    "user-edit",
+    "person-edit"
+  ],
+  "tags": [
+    "Account / User",
+    "Edit / Modify"
+  ],
+  "author": "Michael Richins",
+  "version": "1.8.36",
+  "zhs": [
+    "帐户编辑",
+    "用户编辑",
+    "人员编辑"
+  ]
+}

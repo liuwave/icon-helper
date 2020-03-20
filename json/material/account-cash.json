@@ -1,0 +1,15 @@
+{
+  "id": "E3270EE8-3F41-481F-9B15-E8925C62A83C",
+  "name": "account-cash",
+  "codepoint": "F1097",
+  "aliases": [],
+  "tags": [
+    "Account / User",
+    "Banking"
+  ],
+  "author": "Contributors",
+  "version": "4.2.95",
+  "zhs": [
+    "现金帐户"
+  ]
+}

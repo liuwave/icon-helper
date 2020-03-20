@@ -1,0 +1,17 @@
+{
+  "id": "CDCAA6DE-0885-474F-992F-6A7F46563A15",
+  "name": "checkerboard-remove",
+  "codepoint": "F1203",
+  "aliases": [
+    "raster-remove"
+  ],
+  "tags": [
+    "Geographic Information System"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.6.95",
+  "zhs": [
+    "删除棋盘",
+    "删除栅格"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "790DAFDA-8291-47F5-A5B9-9563AE201832",
+  "name": "oil-lamp",
+  "codepoint": "F0F19",
+  "aliases": [
+    "wish",
+    "genie-lamp"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "3.8.95",
+  "zhs": [
+    "油灯",
+    "愿望灯",
+    "精灵灯"
+  ]
+}

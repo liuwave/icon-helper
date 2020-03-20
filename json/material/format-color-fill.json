@@ -1,0 +1,21 @@
+{
+  "id": "C4E2DE69-EC92-490F-814A-5D8A20E7E595",
+  "name": "format-color-fill",
+  "codepoint": "F0266",
+  "aliases": [
+    "format-colour-fill",
+    "paint",
+    "paint-bucket"
+  ],
+  "tags": [
+    "Text / Content / Format",
+    "Color"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "颜色填充格式",
+    "油漆",
+    "油漆桶"
+  ]
+}

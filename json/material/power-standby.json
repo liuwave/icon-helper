@@ -1,0 +1,12 @@
+{
+  "id": "3AC74CF9-0EC1-475D-A164-7C9CA0D48B58",
+  "name": "power-standby",
+  "codepoint": "F0906",
+  "aliases": [],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.3.50",
+  "zhs": [
+    "待机电源"
+  ]
+}

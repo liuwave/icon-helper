@@ -1,0 +1,18 @@
+{
+  "id": "BA4D2E1E-2BCB-4B17-AC02-52C8F34FAEAE",
+  "name": "lock-plus",
+  "codepoint": "F05FB",
+  "aliases": [
+    "enhanced-encryption",
+    "lock-add"
+  ],
+  "tags": [
+    "Lock"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "加锁",
+    "增强加密"
+  ]
+}

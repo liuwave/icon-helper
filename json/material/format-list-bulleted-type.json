@@ -1,0 +1,14 @@
+{
+  "id": "535ABAF7-65D8-4CAB-A3B0-D5B732B6C36F",
+  "name": "format-list-bulleted-type",
+  "codepoint": "F027A",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "格式列表项目符号类型"
+  ]
+}

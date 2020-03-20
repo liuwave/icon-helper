@@ -1,0 +1,18 @@
+{
+  "id": "F4C3A814-205E-4F0A-9B3D-34B5777A4237",
+  "name": "video-off",
+  "codepoint": "F0568",
+  "aliases": [
+    "videocam-off"
+  ],
+  "tags": [
+    "Video / Movie",
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "关闭视频",
+    "关闭摄像头"
+  ]
+}

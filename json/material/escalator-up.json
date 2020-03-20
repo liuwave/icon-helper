@@ -1,0 +1,14 @@
+{
+  "id": "4BA51088-9403-4E34-A829-1F31D8DE2646",
+  "name": "escalator-up",
+  "codepoint": "F12BF",
+  "aliases": [],
+  "tags": [
+    "Transportation + Other"
+  ],
+  "author": "Austin Andrews",
+  "version": "4.8.95",
+  "zhs": [
+    "自动扶梯向上"
+  ]
+}

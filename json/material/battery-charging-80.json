@@ -1,0 +1,16 @@
+{
+  "id": "20455031-CCDD-40F8-A7A4-5E1F9E55F20E",
+  "name": "battery-charging-80",
+  "codepoint": "F008A",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电池充电80"
+  ]
+}

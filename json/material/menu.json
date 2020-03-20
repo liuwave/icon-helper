@@ -1,0 +1,15 @@
+{
+  "id": "0BD2CD08-CCFB-4EC3-B96D-08B0B8230A91",
+  "name": "menu",
+  "codepoint": "F035C",
+  "aliases": [
+    "hamburger-menu"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "菜单",
+    "汉堡菜单"
+  ]
+}

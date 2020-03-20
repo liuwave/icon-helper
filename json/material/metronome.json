@@ -1,0 +1,21 @@
+{
+  "id": "13256CBF-E284-4229-AAB9-5612FBADD060",
+  "name": "metronome",
+  "codepoint": "F07DA",
+  "aliases": [
+    "tempo",
+    "bpm",
+    "beats-per-minute"
+  ],
+  "tags": [
+    "Music"
+  ],
+  "author": "Haley Halcyon",
+  "version": "2.0.46",
+  "zhs": [
+    "节拍器",
+    "速度",
+    "bpm",
+    "每分钟节拍"
+  ]
+}

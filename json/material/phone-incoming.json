@@ -1,0 +1,16 @@
+{
+  "id": "AA8EEDF8-EB34-46C5-8117-9258E1349197",
+  "name": "phone-incoming",
+  "codepoint": "F03F7",
+  "aliases": [
+    "telephone-incoming"
+  ],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "电话传入"
+  ]
+}

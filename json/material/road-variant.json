@@ -1,0 +1,14 @@
+{
+  "id": "0BBDD64A-3C67-43DD-9B3A-580E12DDA2D7",
+  "name": "road-variant",
+  "codepoint": "F0462",
+  "aliases": [],
+  "tags": [
+    "Transportation + Road"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "道路口音"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "D6FF21C5-201A-43E0-B8AF-276A6BED653A",
+  "name": "console-line",
+  "codepoint": "F07B7",
+  "aliases": [
+    "terminal-line"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "2.0.46",
+  "zhs": [
+    "控制台线",
+    "终端线"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "09A131FB-EE06-49B8-80C3-49B294BCA612",
+  "name": "bug",
+  "codepoint": "F00E4",
+  "aliases": [
+    "bug-report"
+  ],
+  "tags": [
+    "Nature"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "错误",
+    "错误报告"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "B83F1FBD-0D66-4CEE-91FC-640B78AABF4E",
+  "name": "home-floor-1",
+  "codepoint": "F0D80",
+  "aliases": [
+    "house-floor-1",
+    "home-floor-one",
+    "house-floor-one",
+    "home-floor-first",
+    "house-floor-first"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.4.93",
+  "zhs": [
+    "房屋1层"
+  ]
+}

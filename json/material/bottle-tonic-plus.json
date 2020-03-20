@@ -1,0 +1,17 @@
+{
+  "id": "9524D285-4F39-4FEA-9EC1-9F4B6ACB6615",
+  "name": "bottle-tonic-plus",
+  "codepoint": "F1130",
+  "aliases": [
+    "health-potion"
+  ],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "补品一瓶",
+    "健康药水"
+  ]
+}

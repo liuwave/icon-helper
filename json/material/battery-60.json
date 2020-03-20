@@ -1,0 +1,16 @@
+{
+  "id": "B6EB700B-9288-474C-9A5C-C269680BFC5F",
+  "name": "battery-60",
+  "codepoint": "F007F",
+  "aliases": [],
+  "tags": [
+    "Battery",
+    "Home Automation",
+    "Automotive"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电池60"
+  ]
+}

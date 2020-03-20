@@ -1,0 +1,17 @@
+{
+  "id": "06E68A9B-2ED4-4697-82A2-02F1FA342D55",
+  "name": "exclamation",
+  "codepoint": "F0205",
+  "aliases": [
+    "factorial"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "感叹号",
+    "析因"
+  ]
+}

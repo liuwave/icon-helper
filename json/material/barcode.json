@@ -1,0 +1,12 @@
+{
+  "id": "5231CD58-9C30-40A8-993C-A24C6B70F6B8",
+  "name": "barcode",
+  "codepoint": "F0071",
+  "aliases": [],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "条码"
+  ]
+}

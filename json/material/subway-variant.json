@@ -1,0 +1,24 @@
+{
+  "id": "EBD55581-BE34-4D0D-A151-974FD5FD7D92",
+  "name": "subway-variant",
+  "codepoint": "F04DF",
+  "aliases": [
+    "metro-variant",
+    "tube-variant",
+    "underground-variant",
+    "directions-subway",
+    "directions-transit"
+  ],
+  "tags": [
+    "Transportation + Other"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "地铁口音",
+    "地铁变体",
+    "地下口音",
+    "地铁路线",
+    "公交路线"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4C2390EF-6AE7-4868-945B-AACD2E581F46",
+  "name": "format-page-break",
+  "codepoint": "F06D7",
+  "aliases": [],
+  "tags": [
+    "Text / Content / Format"
+  ],
+  "author": "Google",
+  "version": "1.8.36",
+  "zhs": [
+    "分页符格式"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8672E491-9415-4259-A9E5-E0E3552187CB",
+  "name": "collapse-all-outline",
+  "codepoint": "F0AA7",
+  "aliases": [
+    "animation-minus-outline"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "2.7.94",
+  "zhs": [
+    "折叠所有轮廓",
+    "减去动画轮廓"
+  ]
+}

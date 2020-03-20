@@ -1,0 +1,14 @@
+{
+  "id": "DFE96305-5114-4F53-AB08-08F99F37C2FE",
+  "name": "door-closed",
+  "codepoint": "F081B",
+  "aliases": [],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "Haley Halcyon",
+  "version": "2.1.19",
+  "zhs": [
+    "闭门"
+  ]
+}

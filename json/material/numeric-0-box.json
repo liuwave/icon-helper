@@ -1,0 +1,17 @@
+{
+  "id": "C676CDFC-A808-4BCA-A670-49EE8478ED32",
+  "name": "numeric-0-box",
+  "codepoint": "F03A1",
+  "aliases": [
+    "numeric-zero-box",
+    "number-0-box"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "数字0框"
+  ]
+}

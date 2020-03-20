@@ -1,0 +1,15 @@
+{
+  "id": "BBE325B3-416A-4160-8E95-162B076B8839",
+  "name": "wallet-membership",
+  "codepoint": "F0586",
+  "aliases": [
+    "card-membership"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "钱包会员",
+    "会员卡"
+  ]
+}

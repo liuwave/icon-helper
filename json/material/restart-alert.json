@@ -1,0 +1,14 @@
+{
+  "id": "08CBB3AA-B72C-4381-A295-37EC2550AF63",
+  "name": "restart-alert",
+  "codepoint": "F110C",
+  "aliases": [],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.3.95",
+  "zhs": [
+    "重新启动警报"
+  ]
+}

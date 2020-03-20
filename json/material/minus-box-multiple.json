@@ -1,0 +1,15 @@
+{
+  "id": "8B150753-A2AC-4750-B6EC-686D213805DE",
+  "name": "minus-box-multiple",
+  "codepoint": "F1141",
+  "aliases": [
+    "library-minus"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "减号倍数",
+    "库减号"
+  ]
+}

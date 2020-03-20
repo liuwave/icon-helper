@@ -1,0 +1,12 @@
+{
+  "id": "779E7DDE-0ACE-4752-9966-22761E2A128A",
+  "name": "qrcode",
+  "codepoint": "F0432",
+  "aliases": [],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "qrcode"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "7F6DF58A-C9A3-4CE7-9664-28C04218C628",
+  "name": "medical-bag",
+  "codepoint": "F06EF",
+  "aliases": [
+    "first-aid-kit"
+  ],
+  "tags": [
+    "Medical / Hospital"
+  ],
+  "author": "Thomas Hunsaker",
+  "version": "1.8.36",
+  "zhs": [
+    "医疗袋",
+    "急救箱"
+  ]
+}

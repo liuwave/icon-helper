@@ -1,0 +1,15 @@
+{
+  "id": "F33DB278-2B2B-4731-9FDD-6D053EC2CBAB",
+  "name": "do-not-disturb",
+  "codepoint": "F0698",
+  "aliases": [
+    "no-entry"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.7.12",
+  "zhs": [
+    "请勿打扰",
+    "请勿进入"
+  ]
+}

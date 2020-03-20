@@ -1,0 +1,18 @@
+{
+  "id": "17CFE8D4-18D7-4414-B8EE-244D5A8FF791",
+  "name": "currency-sign",
+  "codepoint": "F07BE",
+  "aliases": [
+    "currency-scarab"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Michael Richins",
+  "version": "2.0.46",
+  "zhs": [
+    "货币符号",
+    "圣甲虫"
+  ]
+}

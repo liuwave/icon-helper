@@ -1,0 +1,19 @@
+{
+  "id": "4ECFBE4E-52B2-4A60-BD6C-9B7DAB38E7A5",
+  "name": "weight-lifter",
+  "codepoint": "F115D",
+  "aliases": [
+    "barbell",
+    "crossfit"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.4.95",
+  "zhs": [
+    "举重运动员",
+    "杠铃",
+    "运动量来找到"
+  ]
+}

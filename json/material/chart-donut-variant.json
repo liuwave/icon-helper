@@ -1,0 +1,16 @@
+{
+  "id": "FE9CBE2A-4D6F-4A1F-B817-26607BB9561B",
+  "name": "chart-donut-variant",
+  "codepoint": "F07B0",
+  "aliases": [
+    "chart-doughnut-variant"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Austin Andrews",
+  "version": "2.0.46",
+  "zhs": [
+    "图表甜甜圈口音"
+  ]
+}

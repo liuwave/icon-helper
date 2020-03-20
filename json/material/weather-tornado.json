@@ -1,0 +1,14 @@
+{
+  "id": "BE149D04-25E9-4CE8-BD75-2D6D49A03FEA",
+  "name": "weather-tornado",
+  "codepoint": "F0F38",
+  "aliases": [],
+  "tags": [
+    "Weather"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.8.95",
+  "zhs": [
+    "龙卷风天气"
+  ]
+}

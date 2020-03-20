@@ -1,0 +1,14 @@
+{
+  "id": "CDCB7012-AD69-4B80-A64E-FDA1375271AD",
+  "name": "signal-hspa-plus",
+  "codepoint": "F0716",
+  "aliases": [],
+  "tags": [
+    "Cellphone / Phone"
+  ],
+  "author": "GreenTurtwig",
+  "version": "1.8.36",
+  "zhs": [
+    "hspa plus信号"
+  ]
+}

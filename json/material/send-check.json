@@ -1,0 +1,12 @@
+{
+  "id": "688C66E3-B436-4900-83EF-ADCEBBEDE627",
+  "name": "send-check",
+  "codepoint": "F1161",
+  "aliases": [],
+  "tags": [],
+  "author": "Cody",
+  "version": "4.4.95",
+  "zhs": [
+    "发送支票"
+  ]
+}

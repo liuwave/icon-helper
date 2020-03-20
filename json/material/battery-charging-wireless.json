@@ -1,0 +1,20 @@
+{
+  "id": "60EEA5B6-8070-482D-ABE3-54A9D2A80875",
+  "name": "battery-charging-wireless",
+  "codepoint": "F0807",
+  "aliases": [
+    "battery-charging-wireless-full",
+    "battery-charging-wireless-100"
+  ],
+  "tags": [
+    "Battery",
+    "Home Automation"
+  ],
+  "author": "Michael Richins",
+  "version": "2.1.19",
+  "zhs": [
+    "电池充电无线",
+    "电池充电无线完全",
+    "电池充电无线100"
+  ]
+}

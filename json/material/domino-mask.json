@@ -1,0 +1,15 @@
+{
+  "id": "4621ACB1-6F3D-414D-8724-B276982DB087",
+  "name": "domino-mask",
+  "codepoint": "F1023",
+  "aliases": [
+    "robber-mask"
+  ],
+  "tags": [],
+  "author": "Andrew Nenakhov",
+  "version": "4.1.95",
+  "zhs": [
+    "多米诺骨牌面具",
+    "强盗面具"
+  ]
+}

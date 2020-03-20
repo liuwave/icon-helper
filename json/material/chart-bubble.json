@@ -1,0 +1,16 @@
+{
+  "id": "9D79A433-CF5A-45A2-971F-4FBF72DB9821",
+  "name": "chart-bubble",
+  "codepoint": "F05E3",
+  "aliases": [
+    "bubble-chart"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "气泡图"
+  ]
+}

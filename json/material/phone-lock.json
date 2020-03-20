@@ -1,0 +1,19 @@
+{
+  "id": "31349A83-A803-48DF-98C8-55D5E27B81E4",
+  "name": "phone-lock",
+  "codepoint": "F03F8",
+  "aliases": [
+    "telephone-locked",
+    "phone-locked",
+    "telephone-lock"
+  ],
+  "tags": [
+    "Cellphone / Phone",
+    "Lock"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "电话锁"
+  ]
+}

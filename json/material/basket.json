@@ -1,0 +1,17 @@
+{
+  "id": "4E334FE9-DF93-469A-B7D7-AC88BBF25D84",
+  "name": "basket",
+  "codepoint": "F0076",
+  "aliases": [
+    "shopping-basket"
+  ],
+  "tags": [
+    "Shopping"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "篮子",
+    "购物篮"
+  ]
+}

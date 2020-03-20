@@ -1,0 +1,22 @@
+{
+  "id": "E39FB607-9058-4C00-840C-AF666F372071",
+  "name": "delete-empty",
+  "codepoint": "F06CC",
+  "aliases": [
+    "trash-empty",
+    "bin-empty",
+    "rubbish-empty",
+    "rubbish-bin-empty",
+    "trash-can-empty",
+    "garbage-empty",
+    "garbage-can-empty"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.8.36",
+  "zhs": [
+    "删除为空",
+    "垃圾为空",
+    "垃圾箱为空"
+  ]
+}

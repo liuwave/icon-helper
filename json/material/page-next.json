@@ -1,0 +1,15 @@
+{
+  "id": "760D3DDF-F710-4BE1-A4E6-CC5AD6AF49DB",
+  "name": "page-next",
+  "codepoint": "F0BB0",
+  "aliases": [
+    "read-more"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "3.0.39",
+  "zhs": [
+    "下一页",
+    "更多"
+  ]
+}

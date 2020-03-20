@@ -1,0 +1,15 @@
+{
+  "id": "63D8BFA5-7AE4-4002-A4C2-C464638C38FC",
+  "name": "login",
+  "codepoint": "F0342",
+  "aliases": [
+    "log-in",
+    "sign-in"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "登录"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "5B10237B-B7AA-4B35-B8C0-C97747F1E3E7",
+  "name": "play-network",
+  "codepoint": "F088B",
+  "aliases": [
+    "media-network"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.1.99",
+  "zhs": [
+    "播放网络",
+    "媒体网络"
+  ]
+}

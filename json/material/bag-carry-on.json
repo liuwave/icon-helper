@@ -1,0 +1,17 @@
+{
+  "id": "0B935A7D-05EB-4687-8E4B-BC075AA2FA85",
+  "name": "bag-carry-on",
+  "codepoint": "F0F3B",
+  "aliases": [
+    "carry-on-luggage"
+  ],
+  "tags": [
+    "Transportation + Flying"
+  ],
+  "author": "Google",
+  "version": "3.9.97",
+  "zhs": [
+    "手提袋",
+    "随身携带的行李"
+  ]
+}

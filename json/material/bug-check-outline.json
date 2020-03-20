@@ -1,0 +1,15 @@
+{
+  "id": "1DF96664-B3AE-4028-BB22-C9DE9273A641",
+  "name": "bug-check-outline",
+  "codepoint": "F0A2F",
+  "aliases": [
+    "bug-tick-outline"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.6.95",
+  "zhs": [
+    "错误检查概述",
+    "错误刻度概述"
+  ]
+}

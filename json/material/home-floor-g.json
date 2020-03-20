@@ -1,0 +1,21 @@
+{
+  "id": "B2D19D07-ACC6-462B-BD11-50CC805E104B",
+  "name": "home-floor-g",
+  "codepoint": "F0D85",
+  "aliases": [
+    "home-floor-ground",
+    "house-floor-g",
+    "house-floor-ground"
+  ],
+  "tags": [
+    "Home Automation"
+  ],
+  "author": "GreenTurtwig",
+  "version": "3.4.93",
+  "zhs": [
+    "家庭地板g",
+    "家庭地板地面",
+    "房屋地板g",
+    "地面房屋"
+  ]
+}

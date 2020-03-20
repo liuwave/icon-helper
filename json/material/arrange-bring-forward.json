@@ -1,0 +1,15 @@
+{
+  "id": "7F57A003-5F4E-46CF-9099-51B8D05381F8",
+  "name": "arrange-bring-forward",
+  "codepoint": "F003D",
+  "aliases": [],
+  "tags": [
+    "Arrange",
+    "Geographic Information System"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "安排提出"
+  ]
+}

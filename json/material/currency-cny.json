@@ -1,0 +1,19 @@
+{
+  "id": "0F5809A3-18DD-4B42-9A7E-B35B65EF3751",
+  "name": "currency-cny",
+  "codepoint": "F07BA",
+  "aliases": [
+    "yuan",
+    "renminbi"
+  ],
+  "tags": [
+    "Currency",
+    "Banking"
+  ],
+  "author": "Haley Halcyon",
+  "version": "2.0.46",
+  "zhs": [
+    "货币CNY",
+    "人民币"
+  ]
+}

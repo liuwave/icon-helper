@@ -1,0 +1,23 @@
+{
+  "id": "854068FB-F9DA-40B4-A427-F2317075CD95",
+  "name": "delete-circle-outline",
+  "codepoint": "F0B88",
+  "aliases": [
+    "bin-circle-outline",
+    "garbage-can-circle-outline",
+    "garbage-circle-outline",
+    "rubbish-bin-circle-outline",
+    "rubbish-circle-outline",
+    "trash-can-circle-outline",
+    "trash-circle-outline"
+  ],
+  "tags": [],
+  "author": "TheChilliPL",
+  "version": "3.0.39",
+  "zhs": [
+    "删除圆圈轮廓",
+    "垃圾桶圆圈轮廓",
+    "垃圾垃圾桶圆圈轮廓",
+    "垃圾圆圈轮廓"
+  ]
+}

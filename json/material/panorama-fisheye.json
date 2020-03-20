@@ -1,0 +1,15 @@
+{
+  "id": "6D0BD840-6985-440A-9C55-782B5C3F4F9C",
+  "name": "panorama-fisheye",
+  "codepoint": "F03DD",
+  "aliases": [
+    "panorama-fish-eye"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "panhema鱼眼镜头",
+    "全景鱼眼镜头"
+  ]
+}

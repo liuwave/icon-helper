@@ -1,0 +1,16 @@
+{
+  "id": "C987C0CA-2D23-427B-8F9C-F3E10B32156C",
+  "name": "quality-medium",
+  "codepoint": "F0A0D",
+  "aliases": [
+    "medium-quality",
+    "mq"
+  ],
+  "tags": [],
+  "author": "Michael Irigoyen",
+  "version": "2.5.94",
+  "zhs": [
+    "中等质量",
+    "平方米"
+  ]
+}

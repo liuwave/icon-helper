@@ -1,0 +1,15 @@
+{
+  "id": "39CAC4E6-CC95-42C8-94E9-E29089F1E91E",
+  "name": "filter",
+  "codepoint": "F0232",
+  "aliases": [
+    "funnel"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "过滤器",
+    "漏斗"
+  ]
+}

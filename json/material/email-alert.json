@@ -1,0 +1,21 @@
+{
+  "id": "8031577D-2528-4278-9F7B-93BD5DED18E3",
+  "name": "email-alert",
+  "codepoint": "F06CF",
+  "aliases": [
+    "email-warning",
+    "envelope-alert",
+    "envelope-warning"
+  ],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.8.36",
+  "zhs": [
+    "电子邮件警报",
+    "电子邮件警告",
+    "信封警报",
+    "信封警告"
+  ]
+}

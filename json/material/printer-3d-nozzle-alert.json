@@ -1,0 +1,14 @@
+{
+  "id": "5AB50A00-46F7-4294-8462-EDD32EA7309A",
+  "name": "printer-3d-nozzle-alert",
+  "codepoint": "F11C0",
+  "aliases": [],
+  "tags": [
+    "Alert / Error"
+  ],
+  "author": "Austin Andrews",
+  "version": "4.5.95",
+  "zhs": [
+    "打印机3D喷嘴警报"
+  ]
+}

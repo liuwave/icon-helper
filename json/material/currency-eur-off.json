@@ -1,0 +1,14 @@
+{
+  "id": "010841EE-1569-425A-9849-9FC6E4D05C3B",
+  "name": "currency-eur-off",
+  "codepoint": "F1315",
+  "aliases": [],
+  "tags": [
+    "Currency"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "4.8.95",
+  "zhs": [
+    "关闭欧元"
+  ]
+}

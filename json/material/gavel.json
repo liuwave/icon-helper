@@ -1,0 +1,15 @@
+{
+  "id": "AB600896-534E-4A82-8E7F-99E0F22B54AE",
+  "name": "gavel",
+  "codepoint": "F029B",
+  "aliases": [
+    "court-hammer"
+  ],
+  "tags": [],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "木槌",
+    "法院锤"
+  ]
+}

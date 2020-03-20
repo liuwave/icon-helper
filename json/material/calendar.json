@@ -1,0 +1,19 @@
+{
+  "id": "23C8742A-612C-4C55-B184-2A0ABB387746",
+  "name": "calendar",
+  "codepoint": "F00ED",
+  "aliases": [
+    "event",
+    "insert-invitation"
+  ],
+  "tags": [
+    "Date / Time"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "日历",
+    "活动",
+    "插入邀请"
+  ]
+}

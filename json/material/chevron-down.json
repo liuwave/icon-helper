@@ -1,0 +1,19 @@
+{
+  "id": "84FE90C1-076D-4EA1-B56F-4C2582A39AC3",
+  "name": "chevron-down",
+  "codepoint": "F0140",
+  "aliases": [
+    "expand-more",
+    "keyboard-arrow-down"
+  ],
+  "tags": [
+    "Arrow"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "V形向下",
+    "展开更多",
+    "键盘向下箭头"
+  ]
+}

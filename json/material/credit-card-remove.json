@@ -1,0 +1,14 @@
+{
+  "id": "6CD92C52-D816-4930-B504-ECB4B8744CEA",
+  "name": "credit-card-remove",
+  "codepoint": "F0FAE",
+  "aliases": [],
+  "tags": [
+    "Banking"
+  ],
+  "author": "Michael Richins",
+  "version": "4.0.96",
+  "zhs": [
+    "信用卡删除"
+  ]
+}

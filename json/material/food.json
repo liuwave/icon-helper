@@ -1,0 +1,17 @@
+{
+  "id": "140954DE-20F5-4A8B-BFC3-DB8E49922AF3",
+  "name": "food",
+  "codepoint": "F025A",
+  "aliases": [
+    "fast-food"
+  ],
+  "tags": [
+    "Food / Drink"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "食品",
+    "快餐"
+  ]
+}

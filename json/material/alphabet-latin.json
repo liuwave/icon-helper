@@ -1,0 +1,17 @@
+{
+  "id": "07851190-1E8F-43D3-A5BF-01A120C0A3FB",
+  "name": "alphabet-latin",
+  "codepoint": "F132F",
+  "aliases": [
+    "writing-system-latin"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Haley Halcyon",
+  "version": "4.9.95",
+  "zhs": [
+    "拉丁字母",
+    "书写系统拉丁"
+  ]
+}

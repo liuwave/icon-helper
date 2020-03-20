@@ -1,0 +1,14 @@
+{
+  "id": "B2E1C852-B55A-40D0-969B-0CD7389660A4",
+  "name": "scanner-off",
+  "codepoint": "F090A",
+  "aliases": [],
+  "tags": [
+    "Device / Tech"
+  ],
+  "author": "GreenTurtwig",
+  "version": "2.3.50",
+  "zhs": [
+    "扫描仪关闭"
+  ]
+}

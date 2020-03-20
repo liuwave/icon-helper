@@ -1,0 +1,15 @@
+{
+  "id": "3A6B098D-F7AD-4D2C-A039-201319B5FDD7",
+  "name": "database-lock",
+  "codepoint": "F0AAA",
+  "aliases": [],
+  "tags": [
+    "Lock",
+    "Geographic Information System"
+  ],
+  "author": "Andrew Nenakhov",
+  "version": "2.7.94",
+  "zhs": [
+    "数据库锁定"
+  ]
+}

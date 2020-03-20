@@ -1,0 +1,15 @@
+{
+  "id": "DEA01DF4-6FBD-45B7-AC58-CBF70545FBBA",
+  "name": "sheep",
+  "codepoint": "F0CC6",
+  "aliases": [],
+  "tags": [
+    "Animal",
+    "Agriculture"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.2.89",
+  "zhs": [
+    "羊"
+  ]
+}

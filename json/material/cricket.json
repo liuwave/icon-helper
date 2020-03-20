@@ -1,0 +1,17 @@
+{
+  "id": "9C7DBA7B-099C-460D-BD51-2B2F70EBE39A",
+  "name": "cricket",
+  "codepoint": "F0D6D",
+  "aliases": [
+    "cricket-bat"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Google",
+  "version": "3.4.93",
+  "zhs": [
+    "板球",
+    "板球拍"
+  ]
+}

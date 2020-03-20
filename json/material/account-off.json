@@ -1,0 +1,19 @@
+{
+  "id": "2306EFC9-3375-4D03-A631-A32BD72075EC",
+  "name": "account-off",
+  "codepoint": "F0012",
+  "aliases": [
+    "user-off",
+    "person-off"
+  ],
+  "tags": [
+    "Account / User"
+  ],
+  "author": "Cody",
+  "version": "1.5.54",
+  "zhs": [
+    "关闭帐户",
+    "关闭用户",
+    "关闭人员"
+  ]
+}

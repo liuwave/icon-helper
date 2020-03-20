@@ -1,0 +1,20 @@
+{
+  "id": "1DDC71A0-A86A-4E8F-BF1D-CD33C0B0BEA4",
+  "name": "smoke-detector",
+  "codepoint": "F0392",
+  "aliases": [
+    "nest-protect",
+    "subwoofer"
+  ],
+  "tags": [
+    "Device / Tech",
+    "Home Automation"
+  ],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "烟雾探测器",
+    "防鸟巢",
+    "低音炮"
+  ]
+}

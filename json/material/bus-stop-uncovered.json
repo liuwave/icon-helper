@@ -1,0 +1,15 @@
+{
+  "id": "E1CA2856-1C0E-4487-BAF3-C64A4EA94C45",
+  "name": "bus-stop-uncovered",
+  "codepoint": "F1014",
+  "aliases": [],
+  "tags": [
+    "Transportation + Road",
+    "Navigation"
+  ],
+  "author": "Michael Richins",
+  "version": "4.1.95",
+  "zhs": [
+    "未发现公交车站"
+  ]
+}

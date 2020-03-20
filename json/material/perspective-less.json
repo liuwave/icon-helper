@@ -1,0 +1,16 @@
+{
+  "id": "408FA22D-2054-4579-A991-DF061CDE5A00",
+  "name": "perspective-less",
+  "codepoint": "F0D23",
+  "aliases": [
+    "perspective-decrease"
+  ],
+  "tags": [
+    "Math"
+  ],
+  "author": "Michael Irigoyen",
+  "version": "3.3.92",
+  "zhs": [
+    "透视图减少"
+  ]
+}

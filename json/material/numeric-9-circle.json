@@ -1,0 +1,18 @@
+{
+  "id": "FB06011B-B2CC-4F3A-8ADE-2F7E78F0AE7C",
+  "name": "numeric-9-circle",
+  "codepoint": "F0CB0",
+  "aliases": [
+    "numeric-nine-circle",
+    "number-9-circle",
+    "number-nine-circle"
+  ],
+  "tags": [
+    "Alpha / Numeric"
+  ],
+  "author": "Contributors",
+  "version": "3.2.89",
+  "zhs": [
+    "数字9圈"
+  ]
+}

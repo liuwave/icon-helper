@@ -1,0 +1,15 @@
+{
+  "id": "CD7D41D2-4BD2-4482-85C2-314A283EB57F",
+  "name": "calendar-account",
+  "codepoint": "F0ED7",
+  "aliases": [],
+  "tags": [
+    "Date / Time",
+    "Account / User"
+  ],
+  "author": "Michael Richins",
+  "version": "3.8.95",
+  "zhs": [
+    "日历帐户"
+  ]
+}

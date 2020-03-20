@@ -1,0 +1,15 @@
+{
+  "id": "AF69E2E1-8119-49A2-8E24-915E2254522A",
+  "name": "open-in-app",
+  "codepoint": "F03CB",
+  "aliases": [
+    "open-in-browser"
+  ],
+  "tags": [],
+  "author": "Google",
+  "version": "1.5.54",
+  "zhs": [
+    "在应用程序中打开",
+    "在浏览器中打开"
+  ]
+}

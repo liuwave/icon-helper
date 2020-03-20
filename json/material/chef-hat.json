@@ -1,0 +1,19 @@
+{
+  "id": "E22BD22B-9748-4CA8-A748-B5598B08A7DE",
+  "name": "chef-hat",
+  "codepoint": "F0B7C",
+  "aliases": [
+    "toque",
+    "cook"
+  ],
+  "tags": [
+    "Clothing"
+  ],
+  "author": "Cody",
+  "version": "3.0.39",
+  "zhs": [
+    "厨师帽",
+    "无边帽",
+    "厨师"
+  ]
+}

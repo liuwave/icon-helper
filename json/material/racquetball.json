@@ -1,0 +1,18 @@
+{
+  "id": "0E46DC98-E185-4B26-A4E9-FC1CEC750172",
+  "name": "racquetball",
+  "codepoint": "F0D94",
+  "aliases": [
+    "lacrosse",
+    "squash"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Google",
+  "version": "3.4.93",
+  "zhs": [
+    "壁球",
+    "曲棍球"
+  ]
+}

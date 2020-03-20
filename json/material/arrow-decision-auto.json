@@ -1,0 +1,15 @@
+{
+  "id": "B115DB5B-AAF9-4C39-BC44-9E573E3154A1",
+  "name": "arrow-decision-auto",
+  "codepoint": "F09BC",
+  "aliases": [
+    "proxy-auto"
+  ],
+  "tags": [],
+  "author": "Michael Richins",
+  "version": "2.5.94",
+  "zhs": [
+    "箭头决策自动",
+    "代理自动"
+  ]
+}

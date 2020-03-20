@@ -1,0 +1,19 @@
+{
+  "id": "4ACCBA06-78DB-492F-98F6-08AEE743744A",
+  "name": "cloud-alert",
+  "codepoint": "F09E0",
+  "aliases": [
+    "cloud-warning"
+  ],
+  "tags": [
+    "Alert / Error",
+    "Cloud",
+    "Weather"
+  ],
+  "author": "TheChilliPL",
+  "version": "2.5.94",
+  "zhs": [
+    "云警报",
+    "云警告"
+  ]
+}

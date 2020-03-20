@@ -1,0 +1,17 @@
+{
+  "id": "C6664923-EE26-4175-90CB-AD87B517F2FF",
+  "name": "trophy-variant",
+  "codepoint": "F053B",
+  "aliases": [
+    "achievement-variant"
+  ],
+  "tags": [
+    "Sport"
+  ],
+  "author": "Doug C. Hardester",
+  "version": "1.5.54",
+  "zhs": [
+    "奖杯变体",
+    "成就重音"
+  ]
+}

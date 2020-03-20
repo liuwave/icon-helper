@@ -1,0 +1,14 @@
+{
+  "id": "74BB58AC-EF8B-447C-A15D-C444F1F67D93",
+  "name": "microsoft-xbox-controller",
+  "codepoint": "F05BA",
+  "aliases": [],
+  "tags": [
+    "Gaming / RPG"
+  ],
+  "author": "Austin Andrews",
+  "version": "1.5.54",
+  "zhs": [
+    "Microsoft xbox控制器"
+  ]
+}
