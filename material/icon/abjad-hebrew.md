@@ -38,7 +38,7 @@ version：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Haley Halcyon</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">writing-system-hebrew</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">abjad希伯来语</span><span class="badge-primary badge">书写系统希伯来语</span><a href="https://gitee.com/liuwave/icon-helper/edit/master/material/icon/mdi-abjad-hebrew.md" target="_blank" rel="noopener noreferrer">帮助改进</a></span><br/>
+<span>别名：<span class="badge-light badge">writing-system-hebrew</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">abjad希伯来语</span><span class="badge-primary badge">书写系统希伯来语</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/abjad-hebrew.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/abjad-hebrew.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -38,7 +38,7 @@ version：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">user-child</span><span class="badge-light badge">person-child</span><span class="badge-light badge">guardian</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">帐户孩子</span><span class="badge-primary badge">用户孩子</span><span class="badge-primary badge">个人孩子</span><span class="badge-primary badge">监护人</span><a href="https://gitee.com/liuwave/icon-helper/edit/master/material/icon/mdi-account-child.md" target="_blank" rel="noopener noreferrer">帮助改进</a></span><br/>
+<span>别名：<span class="badge-light badge">user-child</span><span class="badge-light badge">person-child</span><span class="badge-light badge">guardian</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">帐户孩子</span><span class="badge-primary badge">用户孩子</span><span class="badge-primary badge">个人孩子</span><span class="badge-primary badge">监护人</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/account-child.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/account-child.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

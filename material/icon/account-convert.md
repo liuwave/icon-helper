@@ -38,7 +38,7 @@ version：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">user-convert</span><span class="badge-light badge">person-convert</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">帐户转换</span><span class="badge-primary badge">用户转换</span><span class="badge-primary badge">人转换</span><a href="https://gitee.com/liuwave/icon-helper/edit/master/material/icon/mdi-account-convert.md" target="_blank" rel="noopener noreferrer">帮助改进</a></span><br/>
+<span>别名：<span class="badge-light badge">user-convert</span><span class="badge-light badge">person-convert</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">帐户转换</span><span class="badge-primary badge">用户转换</span><span class="badge-primary badge">人转换</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/account-convert.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/account-convert.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">
