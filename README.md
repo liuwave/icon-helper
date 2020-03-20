@@ -1,39 +1,27 @@
-# icon-helper
 
-#### 介绍
-{**以下是码云平台说明，您可以替换此简介**
-码云是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
+# Icon Helper
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+这是[iconhelper.cn](https://iconhelpler.cn)ICON中文搜索助手源码。
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+iconhelpler.cn是用vuepress搭建，是一个查找、转换ICON图标的工具。
 
 
-#### 码云特技
+作为一个不专业的前端开发者，我常常为了在Material Design Icon中找一个合适的图标发愁，总是想不出一个合适的单词来搜索想要的ICON图标，于是就有了做一个用中文搜索ICON工具的想法。
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+当前，icon中文名称是通过工具批量翻译而来，比较简单粗暴，后续需要陆续矫正，欢迎有兴趣的同学参与（页面底部的“帮助改进”链接）
+
+这个工具是通过vuepress搭建的，最后需要打包编译成静态文件，而Material Design Icon 最新版本有5000+的ICON图标，如果和其它库打包在一起，打包后页面太大，所以我是按照每个ICON库分开打包，放在分站：
+
+[https://material.iconhelper.cn](https://material.iconhelper.cn) ：Material Design Icon 中文搜索助手
+
+[https://fontawesome.iconhelper.cn](https://fontawesome.iconhelper.cn) ：Font Awesome (正在整理中...)
+
+....
+
+
+首页是svg转png的工具。 
+
+[iconhelper.cn](https://iconhelpler.cn)
