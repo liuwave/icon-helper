@@ -1,0 +1,70 @@
+---
+
+title: patio heater(露台加热器) ICON转svg、png下载
+name: patio-heater
+zhTips: 露台加热器
+unicode: F0F80
+
+---
+
+# patio-heater  <small style="font-size: 60%;font-weight: 100">露台加热器</small>
+
+
+<div class="detail-page">
+<p>
+<span>
+ICON库：
+<span class="badge-secondary badge">Material Design Icons</span> 
+</span>
+<br/>
+<span>
+CSS名称：
+<span class="badge-secondary badge">mdi-patio-heater</span> 
+</span>
+<br/>
+<span>
+unicode：
+<span class="badge-secondary badge">F0F80</span> 
+</span>
+<br/>
+<span>
+version：
+<span class="badge-secondary badge">3.9.97</span> 
+</span>
+<br/>
+<span>Tag：
+<span class="badge-light badge">Home Automation</span>
+</span>
+<br/>
+<span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
+<br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">露台加热器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/patio-heater.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/patio-heater.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+</p>
+</div>
+<div class="alert alert-dark">
+  <i class="mdi mdi-patio-heater mdi-48px"></i>
+  <i class="mdi mdi-patio-heater mdi-36px"></i>
+  <i class="mdi mdi-patio-heater mdi-24px"></i>
+  <i class="mdi mdi-patio-heater mdi-18px"></i>
+</div>
+<div>
+  <p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;span class="mdi mdi-patio-heater" aria-hidden="true"&gt;&lt;/span&gt;
+    <copy-btn content='<span class="mdi mdi-patio-heater" aria-hidden="true"></span>'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <i class="mdi mdi-patio-heater"
+    style="font-size: 24px"
+    aria-hidden="true"></i> mdi-patio-heater
+    <copy-btn content="mdi-patio-heater" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+<div id="svg" class="svg-wrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 22H9V21H15V22M19 4L15 2H9L5 4H19M8 5L8.4 6H15.6L16 5H8M10 10H11V15C10.4 15 10 15.4 10 16V20H14V16C14 15.4 13.6 15 13 15V10H14L14.4 9H9.6L10 10M9.2 8H14.8L15.2 7H8.8L9.2 8Z" /></svg>
+</div>
+<detail full-name='mdi-patio-heater'></detail>
+    
+<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+</p></div>

@@ -13,5 +13,7 @@
   "zhs": [
     "消息锁定",
     "消息安全"
-  ]
+  ],
+  "description": "",
+  "comments": []
 }

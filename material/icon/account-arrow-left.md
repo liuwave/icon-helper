@@ -1,6 +1,6 @@
 ---
 
-title: account-arrow-left(帐户向左箭头) ICON转svg、png下载
+title: account arrow left(帐户向左箭头) ICON转svg、png下载
 name: account-arrow-left
 zhTips: 帐户向左箭头,用户向左箭头,人向左箭头
 unicode: F0B51
@@ -48,16 +48,23 @@ version：
   <i class="mdi mdi-account-arrow-left mdi-18px"></i>
 </div>
 <div>
-<p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
-</p>
-</div>   
-<detail full-name='mdi-account-arrow-left'
-svg='<path d="M18,21L15,18L18,15V17H22V19H18V21M10,4A4,4 0 0,1 14,8A4,4 0 0,1 10,12A4,4 0 0,1 6,8A4,4 0 0,1 10,4M10,14C11.15,14 12.25,14.12 13.24,14.34C12.46,15.35 12,16.62 12,18C12,18.7 12.12,19.37 12.34,20H2V18C2,15.79 5.58,14 10,14Z" />'
-pre='mdi'
-type='material'
-wrap='span'></detail>   
+  <p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;span class="mdi mdi-account-arrow-left" aria-hidden="true"&gt;&lt;/span&gt;
+    <copy-btn content='<span class="mdi mdi-account-arrow-left" aria-hidden="true"></span>'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <i class="mdi mdi-account-arrow-left"
+    style="font-size: 24px"
+    aria-hidden="true"></i> mdi-account-arrow-left
+    <copy-btn content="mdi-account-arrow-left" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+<div id="svg" class="svg-wrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,21L15,18L18,15V17H22V19H18V21M10,4A4,4 0 0,1 14,8A4,4 0 0,1 10,12A4,4 0 0,1 6,8A4,4 0 0,1 10,4M10,14C11.15,14 12.25,14.12 13.24,14.34C12.46,15.35 12,16.62 12,18C12,18.7 12.12,19.37 12.34,20H2V18C2,15.79 5.58,14 10,14Z" /></svg>
+</div>
+<detail full-name='mdi-account-arrow-left'></detail>
     
-<div><p>更多关于 Material Design Icons的信息，参见：<a href="/material.html"> Material Design Icons</a>
+<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
-
-    

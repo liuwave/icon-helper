@@ -1,0 +1,70 @@
+---
+
+title: folder google drive(文件夹google驱动器) ICON转svg、png下载
+name: folder-google-drive
+zhTips: 文件夹google驱动器,文件夹mydrive
+unicode: F024E
+
+---
+
+# folder-google-drive  <small style="font-size: 60%;font-weight: 100">文件夹google驱动器</small>
+
+
+<div class="detail-page">
+<p>
+<span>
+ICON库：
+<span class="badge-secondary badge">Material Design Icons</span> 
+</span>
+<br/>
+<span>
+CSS名称：
+<span class="badge-secondary badge">mdi-folder-google-drive</span> 
+</span>
+<br/>
+<span>
+unicode：
+<span class="badge-secondary badge">F024E</span> 
+</span>
+<br/>
+<span>
+version：
+<span class="badge-secondary badge">1.5.54</span> 
+</span>
+<br/>
+<span>Tag：
+<span class="badge-light badge">Files / Folders</span>
+</span>
+<br/>
+<span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
+<br/>
+<span>别名：<span class="badge-light badge">folder-mydrive</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">文件夹google驱动器</span><span class="badge-primary badge">文件夹mydrive</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/folder-google-drive.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/folder-google-drive.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+</p>
+</div>
+<div class="alert alert-dark">
+  <i class="mdi mdi-folder-google-drive mdi-48px"></i>
+  <i class="mdi mdi-folder-google-drive mdi-36px"></i>
+  <i class="mdi mdi-folder-google-drive mdi-24px"></i>
+  <i class="mdi mdi-folder-google-drive mdi-18px"></i>
+</div>
+<div>
+  <p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;span class="mdi mdi-folder-google-drive" aria-hidden="true"&gt;&lt;/span&gt;
+    <copy-btn content='<span class="mdi mdi-folder-google-drive" aria-hidden="true"></span>'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <i class="mdi mdi-folder-google-drive"
+    style="font-size: 24px"
+    aria-hidden="true"></i> mdi-folder-google-drive
+    <copy-btn content="mdi-folder-google-drive" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+<div id="svg" class="svg-wrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.75,9H16.14L19,14H16.05L13.5,9.46M18.3,17H12.75L14.15,14.5H19.27L19.53,14.96M11.5,17L10.4,14.86L13.24,9.9L14.74,12.56L12.25,17M20,6H12L10,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V8C22,6.89 21.1,6 20,6Z" /></svg>
+</div>
+<detail full-name='mdi-folder-google-drive'></detail>
+    
+<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+</p></div>

@@ -1,6 +1,6 @@
 ---
 
-title: account-arrow-left-outline(帐户箭头左轮廓) ICON转svg、png下载
+title: account arrow left outline(帐户箭头左轮廓) ICON转svg、png下载
 name: account-arrow-left-outline
 zhTips: 帐户箭头左轮廓,用户箭头左轮廓,人箭头左轮廓
 unicode: F0B52
@@ -48,16 +48,23 @@ version：
   <i class="mdi mdi-account-arrow-left-outline mdi-18px"></i>
 </div>
 <div>
-<p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
-</p>
-</div>   
-<detail full-name='mdi-account-arrow-left-outline'
-svg='<path d="M18,21L15,18L18,15V17H22V19H18V21M13,18C13,18.71 13.15,19.39 13.42,20H2V17C2,14.79 5.58,13 10,13C11,13 11.96,13.09 12.85,13.26C13.68,13.42 14.44,13.64 15.11,13.92C13.83,14.83 13,16.32 13,18M4,17V18H11C11,16.96 11.23,15.97 11.64,15.08L10,15C6.69,15 4,15.9 4,17M10,4A4,4 0 0,1 14,8A4,4 0 0,1 10,12A4,4 0 0,1 6,8A4,4 0 0,1 10,4M10,6A2,2 0 0,0 8,8A2,2 0 0,0 10,10A2,2 0 0,0 12,8A2,2 0 0,0 10,6Z" />'
-pre='mdi'
-type='material'
-wrap='span'></detail>   
+  <p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;span class="mdi mdi-account-arrow-left-outline" aria-hidden="true"&gt;&lt;/span&gt;
+    <copy-btn content='<span class="mdi mdi-account-arrow-left-outline" aria-hidden="true"></span>'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <i class="mdi mdi-account-arrow-left-outline"
+    style="font-size: 24px"
+    aria-hidden="true"></i> mdi-account-arrow-left-outline
+    <copy-btn content="mdi-account-arrow-left-outline" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+<div id="svg" class="svg-wrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,21L15,18L18,15V17H22V19H18V21M13,18C13,18.71 13.15,19.39 13.42,20H2V17C2,14.79 5.58,13 10,13C11,13 11.96,13.09 12.85,13.26C13.68,13.42 14.44,13.64 15.11,13.92C13.83,14.83 13,16.32 13,18M4,17V18H11C11,16.96 11.23,15.97 11.64,15.08L10,15C6.69,15 4,15.9 4,17M10,4A4,4 0 0,1 14,8A4,4 0 0,1 10,12A4,4 0 0,1 6,8A4,4 0 0,1 10,4M10,6A2,2 0 0,0 8,8A2,2 0 0,0 10,10A2,2 0 0,0 12,8A2,2 0 0,0 10,6Z" /></svg>
+</div>
+<detail full-name='mdi-account-arrow-left-outline'></detail>
     
-<div><p>更多关于 Material Design Icons的信息，参见：<a href="/material.html"> Material Design Icons</a>
+<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
-
-    

@@ -1,0 +1,70 @@
+---
+
+title: knife military(匕首匕首) ICON转svg、png下载
+name: knife-military
+zhTips: 匕首匕首
+unicode: F09FC
+
+---
+
+# knife-military  <small style="font-size: 60%;font-weight: 100">匕首匕首</small>
+
+
+<div class="detail-page">
+<p>
+<span>
+ICON库：
+<span class="badge-secondary badge">Material Design Icons</span> 
+</span>
+<br/>
+<span>
+CSS名称：
+<span class="badge-secondary badge">mdi-knife-military</span> 
+</span>
+<br/>
+<span>
+unicode：
+<span class="badge-secondary badge">F09FC</span> 
+</span>
+<br/>
+<span>
+version：
+<span class="badge-secondary badge">2.5.94</span> 
+</span>
+<br/>
+<span>Tag：
+<span class="badge-light badge">Gaming / RPG</span>
+</span>
+<br/>
+<span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
+<br/>
+<span>别名：<span class="badge-light badge">dagger</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">匕首匕首</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/knife-military.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/knife-military.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+</p>
+</div>
+<div class="alert alert-dark">
+  <i class="mdi mdi-knife-military mdi-48px"></i>
+  <i class="mdi mdi-knife-military mdi-36px"></i>
+  <i class="mdi mdi-knife-military mdi-24px"></i>
+  <i class="mdi mdi-knife-military mdi-18px"></i>
+</div>
+<div>
+  <p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;span class="mdi mdi-knife-military" aria-hidden="true"&gt;&lt;/span&gt;
+    <copy-btn content='<span class="mdi mdi-knife-military" aria-hidden="true"></span>'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <i class="mdi mdi-knife-military"
+    style="font-size: 24px"
+    aria-hidden="true"></i> mdi-knife-military
+    <copy-btn content="mdi-knife-military" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+<div id="svg" class="svg-wrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,2L17.39,3.75L10.46,10.68L14,14.22L20.92,7.29C22.43,5.78 22,2 22,2M8.33,10L6.92,11.39L8.33,12.8L2.68,18.46L6.21,22L11.87,16.34L13.28,17.76L14.7,16.34L8.33,10Z" /></svg>
+</div>
+<detail full-name='mdi-knife-military'></detail>
+    
+<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+</p></div>

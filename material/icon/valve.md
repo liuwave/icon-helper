@@ -1,0 +1,70 @@
+---
+
+title: valve(阀门) ICON转svg、png下载
+name: valve
+zhTips: 阀门
+unicode: F1066
+
+---
+
+# valve  <small style="font-size: 60%;font-weight: 100">阀门</small>
+
+
+<div class="detail-page">
+<p>
+<span>
+ICON库：
+<span class="badge-secondary badge">Material Design Icons</span> 
+</span>
+<br/>
+<span>
+CSS名称：
+<span class="badge-secondary badge">mdi-valve</span> 
+</span>
+<br/>
+<span>
+unicode：
+<span class="badge-secondary badge">F1066</span> 
+</span>
+<br/>
+<span>
+version：
+<span class="badge-secondary badge">4.1.95</span> 
+</span>
+<br/>
+<span>Tag：
+<span class="badge-light badge">Home Automation</span>
+</span>
+<br/>
+<span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
+<br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">阀门</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/valve.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/valve.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+</p>
+</div>
+<div class="alert alert-dark">
+  <i class="mdi mdi-valve mdi-48px"></i>
+  <i class="mdi mdi-valve mdi-36px"></i>
+  <i class="mdi mdi-valve mdi-24px"></i>
+  <i class="mdi mdi-valve mdi-18px"></i>
+</div>
+<div>
+  <p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;span class="mdi mdi-valve" aria-hidden="true"&gt;&lt;/span&gt;
+    <copy-btn content='<span class="mdi mdi-valve" aria-hidden="true"></span>'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <i class="mdi mdi-valve"
+    style="font-size: 24px"
+    aria-hidden="true"></i> mdi-valve
+    <copy-btn content="mdi-valve" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+<div id="svg" class="svg-wrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 22H2V2H4M22 2H20V22H22M17.24 5.34L13.24 9.34A3 3 0 0 0 9.24 13.34L5.24 17.34L6.66 18.76L10.66 14.76A3 3 0 0 0 14.66 10.76L18.66 6.76Z" /></svg>
+</div>
+<detail full-name='mdi-valve'></detail>
+    
+<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+</p></div>

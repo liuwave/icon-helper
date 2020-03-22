@@ -1,0 +1,70 @@
+---
+
+title: chair school(椅子学校) ICON转svg、png下载
+name: chair-school
+zhTips: 椅子学校,书桌
+unicode: F0125
+
+---
+
+# chair-school  <small style="font-size: 60%;font-weight: 100">椅子学校</small>
+
+
+<div class="detail-page">
+<p>
+<span>
+ICON库：
+<span class="badge-secondary badge">Material Design Icons</span> 
+</span>
+<br/>
+<span>
+CSS名称：
+<span class="badge-secondary badge">mdi-chair-school</span> 
+</span>
+<br/>
+<span>
+unicode：
+<span class="badge-secondary badge">F0125</span> 
+</span>
+<br/>
+<span>
+version：
+<span class="badge-secondary badge">1.5.54</span> 
+</span>
+<br/>
+<span>Tag：
+<span class="badge-light badge">暂无</span>
+</span>
+<br/>
+<span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
+<br/>
+<span>别名：<span class="badge-light badge">desk</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">椅子学校</span><span class="badge-primary badge">书桌</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/chair-school.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/chair-school.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+</p>
+</div>
+<div class="alert alert-dark">
+  <i class="mdi mdi-chair-school mdi-48px"></i>
+  <i class="mdi mdi-chair-school mdi-36px"></i>
+  <i class="mdi mdi-chair-school mdi-24px"></i>
+  <i class="mdi mdi-chair-school mdi-18px"></i>
+</div>
+<div>
+  <p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;span class="mdi mdi-chair-school" aria-hidden="true"&gt;&lt;/span&gt;
+    <copy-btn content='<span class="mdi mdi-chair-school" aria-hidden="true"></span>'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <i class="mdi mdi-chair-school"
+    style="font-size: 24px"
+    aria-hidden="true"></i> mdi-chair-school
+    <copy-btn content="mdi-chair-school" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+<div id="svg" class="svg-wrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,5V7H17L13.53,12H16V14H14.46L18.17,22H15.97L15.04,20H6.38L5.35,22H3.1L7.23,14H7C6.55,14 6.17,13.7 6.04,13.3L2.87,3.84L3.82,3.5C4.34,3.34 4.91,3.63 5.08,4.15L7.72,12H12.1L15.57,7H12V5H22M9.5,14L7.42,18H14.11L12.26,14H9.5Z" /></svg>
+</div>
+<detail full-name='mdi-chair-school'></detail>
+    
+<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+</p></div>

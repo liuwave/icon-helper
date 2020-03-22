@@ -1,6 +1,6 @@
 ---
 
-title: account-check-outline(检查帐户轮廓) ICON转svg、png下载
+title: account check outline(检查帐户轮廓) ICON转svg、png下载
 name: account-check-outline
 zhTips: 检查帐户轮廓,帐户刻度线轮廓,用户检查轮廓,用户刻度线轮廓,人员检查轮廓,人员刻度线轮廓,如何注册轮廓
 unicode: F0BE2
@@ -48,16 +48,23 @@ version：
   <i class="mdi mdi-account-check-outline mdi-18px"></i>
 </div>
 <div>
-<p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
-</p>
-</div>   
-<detail full-name='mdi-account-check-outline'
-svg='<path d="M21.1,12.5L22.5,13.91L15.97,20.5L12.5,17L13.9,15.59L15.97,17.67L21.1,12.5M11,4A4,4 0 0,1 15,8A4,4 0 0,1 11,12A4,4 0 0,1 7,8A4,4 0 0,1 11,4M11,6A2,2 0 0,0 9,8A2,2 0 0,0 11,10A2,2 0 0,0 13,8A2,2 0 0,0 11,6M11,13C11.68,13 12.5,13.09 13.41,13.26L11.74,14.93L11,14.9C8.03,14.9 4.9,16.36 4.9,17V18.1H11.1L13,20H3V17C3,14.34 8.33,13 11,13Z" />'
-pre='mdi'
-type='material'
-wrap='span'></detail>   
+  <p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;span class="mdi mdi-account-check-outline" aria-hidden="true"&gt;&lt;/span&gt;
+    <copy-btn content='<span class="mdi mdi-account-check-outline" aria-hidden="true"></span>'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <i class="mdi mdi-account-check-outline"
+    style="font-size: 24px"
+    aria-hidden="true"></i> mdi-account-check-outline
+    <copy-btn content="mdi-account-check-outline" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+<div id="svg" class="svg-wrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.1,12.5L22.5,13.91L15.97,20.5L12.5,17L13.9,15.59L15.97,17.67L21.1,12.5M11,4A4,4 0 0,1 15,8A4,4 0 0,1 11,12A4,4 0 0,1 7,8A4,4 0 0,1 11,4M11,6A2,2 0 0,0 9,8A2,2 0 0,0 11,10A2,2 0 0,0 13,8A2,2 0 0,0 11,6M11,13C11.68,13 12.5,13.09 13.41,13.26L11.74,14.93L11,14.9C8.03,14.9 4.9,16.36 4.9,17V18.1H11.1L13,20H3V17C3,14.34 8.33,13 11,13Z" /></svg>
+</div>
+<detail full-name='mdi-account-check-outline'></detail>
     
-<div><p>更多关于 Material Design Icons的信息，参见：<a href="/material.html"> Material Design Icons</a>
+<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
-
-    

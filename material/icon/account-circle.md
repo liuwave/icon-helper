@@ -1,6 +1,6 @@
 ---
 
-title: account-circle(帐户圈) ICON转svg、png下载
+title: account circle(帐户圈) ICON转svg、png下载
 name: account-circle
 zhTips: 帐户圈,用户圈,人圈
 unicode: F0009
@@ -48,16 +48,23 @@ version：
   <i class="mdi mdi-account-circle mdi-18px"></i>
 </div>
 <div>
-<p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
-</p>
-</div>   
-<detail full-name='mdi-account-circle'
-svg='<path d="M12,19.2C9.5,19.2 7.29,17.92 6,16C6.03,14 10,12.9 12,12.9C14,12.9 17.97,14 18,16C16.71,17.92 14.5,19.2 12,19.2M12,5A3,3 0 0,1 15,8A3,3 0 0,1 12,11A3,3 0 0,1 9,8A3,3 0 0,1 12,5M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12C22,6.47 17.5,2 12,2Z" />'
-pre='mdi'
-type='material'
-wrap='span'></detail>   
+  <p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;span class="mdi mdi-account-circle" aria-hidden="true"&gt;&lt;/span&gt;
+    <copy-btn content='<span class="mdi mdi-account-circle" aria-hidden="true"></span>'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <i class="mdi mdi-account-circle"
+    style="font-size: 24px"
+    aria-hidden="true"></i> mdi-account-circle
+    <copy-btn content="mdi-account-circle" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+<div id="svg" class="svg-wrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,19.2C9.5,19.2 7.29,17.92 6,16C6.03,14 10,12.9 12,12.9C14,12.9 17.97,14 18,16C16.71,17.92 14.5,19.2 12,19.2M12,5A3,3 0 0,1 15,8A3,3 0 0,1 12,11A3,3 0 0,1 9,8A3,3 0 0,1 12,5M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12C22,6.47 17.5,2 12,2Z" /></svg>
+</div>
+<detail full-name='mdi-account-circle'></detail>
     
-<div><p>更多关于 Material Design Icons的信息，参见：<a href="/material.html"> Material Design Icons</a>
+<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
-
-    

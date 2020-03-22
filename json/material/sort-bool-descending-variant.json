@@ -13,5 +13,7 @@
   "zhs": [
     "对bool降序排序",
     "对复选框降序排序"
-  ]
+  ],
+  "description": "",
+  "comments": []
 }

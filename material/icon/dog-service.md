@@ -1,0 +1,70 @@
+---
+
+title: dog service(导盲犬服务) ICON转svg、png下载
+name: dog-service
+zhTips: 导盲犬服务
+unicode: F0AAD
+
+---
+
+# dog-service  <small style="font-size: 60%;font-weight: 100">导盲犬服务</small>
+
+
+<div class="detail-page">
+<p>
+<span>
+ICON库：
+<span class="badge-secondary badge">Material Design Icons</span> 
+</span>
+<br/>
+<span>
+CSS名称：
+<span class="badge-secondary badge">mdi-dog-service</span> 
+</span>
+<br/>
+<span>
+unicode：
+<span class="badge-secondary badge">F0AAD</span> 
+</span>
+<br/>
+<span>
+version：
+<span class="badge-secondary badge">2.7.94</span> 
+</span>
+<br/>
+<span>Tag：
+<span class="badge-light badge">Animal</span>
+</span>
+<br/>
+<span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
+<br/>
+<span>别名：<span class="badge-light badge">guide-dog</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">导盲犬服务</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/dog-service.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/dog-service.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+</p>
+</div>
+<div class="alert alert-dark">
+  <i class="mdi mdi-dog-service mdi-48px"></i>
+  <i class="mdi mdi-dog-service mdi-36px"></i>
+  <i class="mdi mdi-dog-service mdi-24px"></i>
+  <i class="mdi mdi-dog-service mdi-18px"></i>
+</div>
+<div>
+  <p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;span class="mdi mdi-dog-service" aria-hidden="true"&gt;&lt;/span&gt;
+    <copy-btn content='<span class="mdi mdi-dog-service" aria-hidden="true"></span>'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <i class="mdi mdi-dog-service"
+    style="font-size: 24px"
+    aria-hidden="true"></i> mdi-dog-service
+    <copy-btn content="mdi-dog-service" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+<div id="svg" class="svg-wrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,8L17,11V21H15V15H8L6,18V21H4V15L5,14V11L2,8L3,7L5,9H7V12A1,1 0 0,0 8,13H12A1,1 0 0,0 13,12V9L14,8M19,5V3L15,7L18,10L19,9L20,10L22,8L19,5M11.5,9.5L4.5,2.5C4.23,2.22 3.79,2.22 3.5,2.5V2.5C3.22,2.77 3.22,3.21 3.5,3.5L10.5,10.5C10.77,10.78 11.21,10.78 11.5,10.5V10.5C11.78,10.23 11.78,9.79 11.5,9.5Z" /></svg>
+</div>
+<detail full-name='mdi-dog-service'></detail>
+    
+<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+</p></div>

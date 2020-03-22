@@ -13,5 +13,7 @@
   "zhs": [
     "Android调试桥",
     "adb"
-  ]
+  ],
+  "description": "",
+  "comments": []
 }
