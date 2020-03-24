@@ -3,7 +3,7 @@
 title: radio fm(无线电调频) ICON转svg、png下载
 name: radio-fm
 zhTips: 无线电调频
-unicode: F0CBF
+tags: ["audio"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CBF</span> 
+<copy-btn content='F0CBF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CBF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

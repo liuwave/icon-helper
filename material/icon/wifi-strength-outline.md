@@ -3,7 +3,7 @@
 title: wifi strength outline(wifi强度概述) ICON转svg、png下载
 name: wifi-strength-outline
 zhTips: wifi强度概述,wifi强度0
-unicode: F092F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F092F</span> 
+<copy-btn content='F092F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F092F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

@@ -3,7 +3,7 @@
 title: home heart(家庭之心) ICON转svg、png下载
 name: home-heart
 zhTips: 家庭之心,家庭
-unicode: F0827
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0827</span> 
+<copy-btn content='F0827' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0827", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

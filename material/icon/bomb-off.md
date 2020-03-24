@@ -3,7 +3,7 @@
 title: bomb off(炸弹关闭) ICON转svg、png下载
 name: bomb-off
 zhTips: 炸弹关闭
-unicode: F06C5
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06C5</span> 
+<copy-btn content='F06C5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06C5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Roberto Graham</span></span> 

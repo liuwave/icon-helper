@@ -3,7 +3,7 @@
 title: file upload outline(文件上传概述) ICON转svg、png下载
 name: file-upload-outline
 zhTips: 文件上传概述
-unicode: F0A4E
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A4E</span> 
+<copy-btn content='F0A4E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A4E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

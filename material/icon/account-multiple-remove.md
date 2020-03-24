@@ -3,7 +3,7 @@
 title: account multiple remove(帐户多个删除) ICON转svg、png下载
 name: account-multiple-remove
 zhTips: 帐户多个删除,用户多个删除,人多个删除
-unicode: F120A
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F120A</span> 
+<copy-btn content='F120A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F120A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

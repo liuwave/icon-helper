@@ -3,7 +3,7 @@
 title: play protected content(播放受保护的内容) ICON转svg、png下载
 name: play-protected-content
 zhTips: 播放受保护的内容
-unicode: F040F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F040F</span> 
+<copy-btn content='F040F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F040F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

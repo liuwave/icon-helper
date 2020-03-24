@@ -3,7 +3,7 @@
 title: calendar week begin(日历周开始) ICON转svg、png下载
 name: calendar-week-begin
 zhTips: 日历周开始,活动周开始
-unicode: F0A34
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A34</span> 
+<copy-btn content='F0A34' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A34", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

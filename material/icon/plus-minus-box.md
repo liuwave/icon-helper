@@ -3,7 +3,7 @@
 title: plus minus box(加减号框) ICON转svg、png下载
 name: plus-minus-box
 zhTips: 加减号框
-unicode: F0993
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0993</span> 
+<copy-btn content='F0993' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0993", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 
 <br/>

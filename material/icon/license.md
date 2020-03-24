@@ -3,7 +3,7 @@
 title: license(许可证) ICON转svg、png下载
 name: license
 zhTips: 许可证,色带,奖品,奖励,图章
-unicode: F0FC3
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FC3</span> 
+<copy-btn content='F0FC3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FC3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

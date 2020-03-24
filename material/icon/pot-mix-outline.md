@@ -3,7 +3,7 @@
 title: pot mix outline(锅混合轮廓) ICON转svg、png下载
 name: pot-mix-outline
 zhTips: 锅混合轮廓
-unicode: F0677
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0677</span> 
+<copy-btn content='F0677' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0677", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

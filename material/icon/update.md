@@ -3,7 +3,7 @@
 title: update(更新) ICON转svg、png下载
 name: update
 zhTips: 更新,顺时针,时钟箭头
-unicode: F06B0
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06B0</span> 
+<copy-btn content='F06B0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06B0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

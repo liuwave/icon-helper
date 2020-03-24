@@ -3,7 +3,7 @@
 title: gas station(加油站) ICON转svg、png下载
 name: gas-station
 zhTips: 加油站,当地加油站
-unicode: F0298
+tags: ["places","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0298</span> 
+<copy-btn content='F0298' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0298", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Places,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

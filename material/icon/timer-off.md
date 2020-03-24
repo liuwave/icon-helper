@@ -3,7 +3,7 @@
 title: timer off(计时器关闭) ICON转svg、png下载
 name: timer-off
 zhTips: 计时器关闭,秒表关闭
-unicode: F13AC
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13AC</span> 
+<copy-btn content='F13AC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13AC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

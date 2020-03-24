@@ -3,7 +3,7 @@
 title: rowing(划船) ICON转svg、png下载
 name: rowing
 zhTips: 划船
-unicode: F0608
+tags: ["sport","transportation-water"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0608</span> 
+<copy-btn content='F0608' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0608", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport,Transportation + Water</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span><span class="badge-light badge"><router-link to="/tags/transportation-water.html">运输+水路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: message image(消息图像) ICON转svg、png下载
 name: message-image
 zhTips: 消息图像,彩信
-unicode: F0364
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0364</span> 
+<copy-btn content='F0364' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0364", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

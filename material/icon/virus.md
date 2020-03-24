@@ -3,7 +3,7 @@
 title: virus(病毒) ICON转svg、png下载
 name: virus
 zhTips: 病毒
-unicode: F13B6
+tags: ["science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13B6</span> 
+<copy-btn content='F13B6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13B6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

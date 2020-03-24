@@ -3,7 +3,7 @@
 title: target account(目标帐户) ICON转svg、png下载
 name: target-account
 zhTips: 目标帐户,十字准线帐户,目标用户
-unicode: F0BD0
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BD0</span> 
+<copy-btn content='F0BD0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BD0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

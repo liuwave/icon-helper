@@ -3,7 +3,7 @@
 title: book minus multiple outline(减去多个轮廓的书) ICON转svg、png下载
 name: book-minus-multiple-outline
 zhTips: 减去多个轮廓的书
-unicode: F090B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F090B</span> 
+<copy-btn content='F090B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F090B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

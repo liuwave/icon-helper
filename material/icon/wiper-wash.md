@@ -3,7 +3,7 @@
 title: wiper wash(刮水器清洗液) ICON转svg、png下载
 name: wiper-wash
 zhTips: 刮水器清洗液,刮水器,液洗器
-unicode: F0DA6
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DA6</span> 
+<copy-btn content='F0DA6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DA6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

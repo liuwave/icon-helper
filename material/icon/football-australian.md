@@ -3,7 +3,7 @@
 title: football australian(澳大利亚足球) ICON转svg、png下载
 name: football-australian
 zhTips: 澳大利亚足球
-unicode: F025E
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F025E</span> 
+<copy-btn content='F025E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F025E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

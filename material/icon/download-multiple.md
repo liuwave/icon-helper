@@ -3,7 +3,7 @@
 title: download multiple(多次下载) ICON转svg、png下载
 name: download-multiple
 zhTips: 多次下载,下载
-unicode: F09E9
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09E9</span> 
+<copy-btn content='F09E9' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09E9", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

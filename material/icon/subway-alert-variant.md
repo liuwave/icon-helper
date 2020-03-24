@@ -3,7 +3,7 @@
 title: subway alert variant(地铁警报变形) ICON转svg、png下载
 name: subway-alert-variant
 zhTips: 地铁警报变形
-unicode: F0D9D
+tags: ["alert-error","transportation-other"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D9D</span> 
+<copy-btn content='F0D9D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D9D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error,Transportation + Other</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span><span class="badge-light badge"><router-link to="/tags/transportation-other.html">运输+其他</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

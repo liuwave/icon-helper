@@ -3,7 +3,7 @@
 title: cellphone basic(手机基本型) ICON转svg、png下载
 name: cellphone-basic
 zhTips: 手机基本型
-unicode: F011E
+tags: ["cellphone-phone","device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F011E</span> 
+<copy-btn content='F011E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F011E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone,Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span><span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

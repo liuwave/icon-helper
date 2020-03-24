@@ -3,7 +3,7 @@
 title: currency usd(货币usd) ICON转svg、png下载
 name: currency-usd
 zhTips: 货币usd,附加钱,美元
-unicode: F01C1
+tags: ["currency","banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01C1</span> 
+<copy-btn content='F01C1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01C1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Currency,Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/currency.html">货币</router-link></span><span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

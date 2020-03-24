@@ -3,7 +3,7 @@
 title: select place(选择地方) ICON转svg、png下载
 name: select-place
 zhTips: 选择地方
-unicode: F0FDA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FDA</span> 
+<copy-btn content='F0FDA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FDA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

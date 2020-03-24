@@ -3,7 +3,7 @@
 title: weather sunset down(天气日落下来) ICON转svg、png下载
 name: weather-sunset-down
 zhTips: 天气日落下来
-unicode: F059B
+tags: ["weather"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F059B</span> 
+<copy-btn content='F059B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F059B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

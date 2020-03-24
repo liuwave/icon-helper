@@ -3,7 +3,7 @@
 title: church(教堂) ICON转svg、png下载
 name: church
 zhTips: 教堂
-unicode: F0144
+tags: ["religion","places"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0144</span> 
+<copy-btn content='F0144' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0144", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Religion,Places</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/religion.html">宗教</router-link></span><span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

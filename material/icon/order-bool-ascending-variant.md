@@ -3,7 +3,7 @@
 title: order bool ascending variant(订单布尔升序变体) ICON转svg、png下载
 name: order-bool-ascending-variant
 zhTips: 订单布尔升序变体,订单复选框升序
-unicode: F098F
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F098F</span> 
+<copy-btn content='F098F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F098F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

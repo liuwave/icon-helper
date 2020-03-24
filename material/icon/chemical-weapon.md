@@ -3,7 +3,7 @@
 title: chemical weapon(化学武器) ICON转svg、png下载
 name: chemical-weapon
 zhTips: 化学武器
-unicode: F013B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F013B</span> 
+<copy-btn content='F013B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F013B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

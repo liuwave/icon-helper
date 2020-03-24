@@ -3,7 +3,7 @@
 title: do not disturb(请勿打扰) ICON转svg、png下载
 name: do-not-disturb
 zhTips: 请勿打扰,请勿进入
-unicode: F0698
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0698</span> 
+<copy-btn content='F0698' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0698", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

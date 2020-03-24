@@ -3,7 +3,7 @@
 title: account alert(帐户警报) ICON转svg、png下载
 name: account-alert
 zhTips: 帐户警报,用户警报,帐户警告,用户警告,人员警报,人员警告
-unicode: F0005
+tags: ["account-user","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0005</span> 
+<copy-btn content='F0005' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0005", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

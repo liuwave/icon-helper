@@ -3,7 +3,7 @@
 title: store outline(商店轮廓) ICON转svg、png下载
 name: store-outline
 zhTips: 商店轮廓,商店购物中心目录轮廓
-unicode: F1361
+tags: ["places","shopping"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1361</span> 
+<copy-btn content='F1361' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1361", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Places,Shopping</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span><span class="badge-light badge"><router-link to="/tags/shopping.html">购物</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

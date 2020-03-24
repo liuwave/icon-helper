@@ -3,7 +3,7 @@
 title: bullseye arrow(靶心箭) ICON转svg、png下载
 name: bullseye-arrow
 zhTips: 靶心箭,目标箭
-unicode: F08C9
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08C9</span> 
+<copy-btn content='F08C9' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08C9", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: head flash outline(头部闪光轮廓) ICON转svg、png下载
 name: head-flash-outline
 zhTips: 头部闪光轮廓,头痛部位
-unicode: F1341
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1341</span> 
+<copy-btn content='F1341' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1341", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

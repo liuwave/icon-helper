@@ -3,7 +3,7 @@
 title: bus articulated end(铰接式巴士总站) ICON转svg、png下载
 name: bus-articulated-end
 zhTips: 铰接式巴士总站
-unicode: F079C
+tags: ["transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F079C</span> 
+<copy-btn content='F079C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F079C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

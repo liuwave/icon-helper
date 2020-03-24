@@ -3,7 +3,7 @@
 title: music note whole(全音符音乐) ICON转svg、png下载
 name: music-note-whole
 zhTips: 全音符音乐
-unicode: F038D
+tags: ["audio","music"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F038D</span> 
+<copy-btn content='F038D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F038D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio,Music</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span><span class="badge-light badge"><router-link to="/tags/music.html">音乐</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

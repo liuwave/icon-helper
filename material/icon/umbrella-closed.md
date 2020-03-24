@@ -3,7 +3,7 @@
 title: umbrella closed(雨伞关闭) ICON转svg、png下载
 name: umbrella-closed
 zhTips: 雨伞关闭
-unicode: F09B0
+tags: ["weather"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09B0</span> 
+<copy-btn content='F09B0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09B0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

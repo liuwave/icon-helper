@@ -3,7 +3,7 @@
 title: boom gate up(动臂闸向上) ICON转svg、png下载
 name: boom-gate-up
 zhTips: 动臂闸向上,动臂臂向上,动臂屏障向上,屏障屏障向上,屏障向上,自动闸板向上
-unicode: F0E8C
+tags: ["transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E8C</span> 
+<copy-btn content='F0E8C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E8C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: ufo(不明飞行物) ICON转svg、png下载
 name: ufo
 zhTips: 不明飞行物,不明飞行物外星人
-unicode: F10C4
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10C4</span> 
+<copy-btn content='F10C4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10C4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

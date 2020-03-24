@@ -3,7 +3,7 @@
 title: clipboard arrow right outline(剪贴板箭头右轮廓) ICON转svg、png下载
 name: clipboard-arrow-right-outline
 zhTips: 剪贴板箭头右轮廓
-unicode: F0CFA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CFA</span> 
+<copy-btn content='F0CFA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CFA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">James Coyle</span></span> 

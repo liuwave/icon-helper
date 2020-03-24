@@ -3,7 +3,7 @@
 title: trademark(商标) ICON转svg、png下载
 name: trademark
 zhTips: 商标,TM
-unicode: F0A78
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A78</span> 
+<copy-btn content='F0A78' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A78", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

@@ -3,7 +3,7 @@
 title: cellphone information(手机信息) ICON转svg、png下载
 name: cellphone-information
 zhTips: 手机信息,智能手机信息
-unicode: F0F41
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F41</span> 
+<copy-btn content='F0F41' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F41", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

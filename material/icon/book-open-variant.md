@@ -3,7 +3,7 @@
 title: book open variant(书籍打开变式) ICON转svg、png下载
 name: book-open-variant
 zhTips: 书籍打开变式,导入联系人
-unicode: F00BE
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00BE</span> 
+<copy-btn content='F00BE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00BE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

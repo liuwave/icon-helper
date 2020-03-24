@@ -3,7 +3,7 @@
 title: bookmark off outline(取消轮廓书签) ICON转svg、png下载
 name: bookmark-off-outline
 zhTips: 取消轮廓书签
-unicode: F09CF
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09CF</span> 
+<copy-btn content='F09CF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09CF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

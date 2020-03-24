@@ -3,7 +3,7 @@
 title: movie open outline(电影开放轮廓) ICON转svg、png下载
 name: movie-open-outline
 zhTips: 电影开放轮廓,板岩开放轮廓,clapperboard开放轮廓,电影创作
-unicode: F0FCF
+tags: ["video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FCF</span> 
+<copy-btn content='F0FCF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FCF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

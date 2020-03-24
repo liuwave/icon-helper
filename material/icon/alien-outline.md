@@ -3,7 +3,7 @@
 title: alien outline(外星人轮廓) ICON转svg、png下载
 name: alien-outline
 zhTips: 外星人轮廓
-unicode: F10CB
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10CB</span> 
+<copy-btn content='F10CB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10CB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Sascha Wohlgemuth</span></span> 

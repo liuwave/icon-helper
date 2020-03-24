@@ -3,7 +3,7 @@
 title: globe model(地球仪模型) ICON转svg、png下载
 name: globe-model
 zhTips: 地球仪模型
-unicode: F08E9
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08E9</span> 
+<copy-btn content='F08E9' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08E9", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

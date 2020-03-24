@@ -3,7 +3,7 @@
 title: briefcase search(公文包搜索) ICON转svg、png下载
 name: briefcase-search
 zhTips: 公文包搜索
-unicode: F0A2D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A2D</span> 
+<copy-btn content='F0A2D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A2D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

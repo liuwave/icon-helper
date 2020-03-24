@@ -3,7 +3,7 @@
 title: function variant(口音功能) ICON转svg、png下载
 name: function-variant
 zhTips: 口音功能
-unicode: F0871
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0871</span> 
+<copy-btn content='F0871' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0871", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

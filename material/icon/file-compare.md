@@ -3,7 +3,7 @@
 title: file compare(文件比较) ICON转svg、png下载
 name: file-compare
 zhTips: 文件比较
-unicode: F08AA
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08AA</span> 
+<copy-btn content='F08AA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08AA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

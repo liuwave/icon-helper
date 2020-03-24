@@ -3,7 +3,7 @@
 title: swim(游泳) ICON转svg、png下载
 name: swim
 zhTips: 游泳
-unicode: F04E3
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04E3</span> 
+<copy-btn content='F04E3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04E3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

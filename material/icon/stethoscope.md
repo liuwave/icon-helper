@@ -3,7 +3,7 @@
 title: stethoscope(听诊器) ICON转svg、png下载
 name: stethoscope
 zhTips: 听诊器
-unicode: F04D9
+tags: ["medical-hospital"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04D9</span> 
+<copy-btn content='F04D9' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04D9", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Medical / Hospital</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/medical-hospital.html">医学、医院</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

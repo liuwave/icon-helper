@@ -3,7 +3,7 @@
 title: video vintage(老式视频) ICON转svg、png下载
 name: video-vintage
 zhTips: 老式视频,电影视频,经典视频
-unicode: F0A1C
+tags: ["video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A1C</span> 
+<copy-btn content='F0A1C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A1C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

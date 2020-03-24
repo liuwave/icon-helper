@@ -3,7 +3,7 @@
 title: shower head(花洒头) ICON转svg、png下载
 name: shower-head
 zhTips: 花洒头
-unicode: F09A1
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09A1</span> 
+<copy-btn content='F09A1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09A1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Augustin Ursu</span></span> 
 <br/>

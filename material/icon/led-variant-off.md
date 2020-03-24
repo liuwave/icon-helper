@@ -3,7 +3,7 @@
 title: led variant off(led重音符号关闭) ICON转svg、png下载
 name: led-variant-off
 zhTips: led重音符号关闭
-unicode: F032E
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F032E</span> 
+<copy-btn content='F032E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F032E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: file edit(文件编辑) ICON转svg、png下载
 name: file-edit
 zhTips: 文件编辑
-unicode: F11E7
+tags: ["edit-modify","files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11E7</span> 
+<copy-btn content='F11E7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11E7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Edit / Modify,Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/edit-modify.html">编辑、修改</router-link></span><span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">frankgrinaert</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: account switch(帐户切换) ICON转svg、png下载
 name: account-switch
 zhTips: 帐户切换,用户切换,切换帐户,切换用户,切换人
-unicode: F0019
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0019</span> 
+<copy-btn content='F0019' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0019", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

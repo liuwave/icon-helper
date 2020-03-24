@@ -3,7 +3,7 @@
 title: printer settings(打印机设置) ICON转svg、png下载
 name: printer-settings
 zhTips: 打印机设置
-unicode: F0707
+tags: ["settings","printer"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0707</span> 
+<copy-btn content='F0707' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0707", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Settings,Printer</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span><span class="badge-light badge"><router-link to="/tags/printer.html">打印机</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

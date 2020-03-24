@@ -3,7 +3,7 @@
 title: hydraulic oil level(液压油位) ICON转svg、png下载
 name: hydraulic-oil-level
 zhTips: 液压油位
-unicode: F1324
+tags: ["automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1324</span> 
+<copy-btn content='F1324' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1324", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

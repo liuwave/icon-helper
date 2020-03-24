@@ -3,7 +3,7 @@
 title: bag personal outline(包袋个人轮廓) ICON转svg、png下载
 name: bag-personal-outline
 zhTips: 包袋个人轮廓,背包轮廓
-unicode: F0E13
+tags: ["transportation-flying"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E13</span> 
+<copy-btn content='F0E13' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E13", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Flying</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-flying.html">运输+飞行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

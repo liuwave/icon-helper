@@ -3,7 +3,7 @@
 title: roman numeral 8(罗马数字8) ICON转svg、png下载
 name: roman-numeral-8
 zhTips: 罗马数字8
-unicode: F108F
+tags: ["alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F108F</span> 
+<copy-btn content='F108F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F108F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

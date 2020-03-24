@@ -3,7 +3,7 @@
 title: table account(表帐户) ICON转svg、png下载
 name: table-account
 zhTips: 表帐户,表用户
-unicode: F13B9
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13B9</span> 
+<copy-btn content='F13B9' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13B9", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

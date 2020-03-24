@@ -3,7 +3,7 @@
 title: current dc(直流电流) ICON转svg、png下载
 name: current-dc
 zhTips: 直流电流,直流
-unicode: F095C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F095C</span> 
+<copy-btn content='F095C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F095C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 

@@ -3,7 +3,7 @@
 title: fish(鱼) ICON转svg、png下载
 name: fish
 zhTips: 鱼
-unicode: F023A
+tags: ["animal","food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F023A</span> 
+<copy-btn content='F023A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F023A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Animal,Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/animal.html">动物</router-link></span><span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

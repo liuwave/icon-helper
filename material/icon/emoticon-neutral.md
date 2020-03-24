@@ -3,7 +3,7 @@
 title: emoticon neutral(表情中性) ICON转svg、png下载
 name: emoticon-neutral
 zhTips: 表情中性,笑脸中性
-unicode: F0C74
+tags: ["emoji"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C74</span> 
+<copy-btn content='F0C74' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C74", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Emoji</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/emoji.html">表情符号</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

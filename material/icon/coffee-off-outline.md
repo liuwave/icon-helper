@@ -3,7 +3,7 @@
 title: coffee off outline(超出轮廓的咖啡) ICON转svg、png下载
 name: coffee-off-outline
 zhTips: 超出轮廓的咖啡
-unicode: F0FAB
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FAB</span> 
+<copy-btn content='F0FAB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FAB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

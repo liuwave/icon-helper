@@ -3,7 +3,7 @@
 title: cellphone lock(手机锁) ICON转svg、png下载
 name: cellphone-lock
 zhTips: 手机锁,手机链接锁,智能手机锁
-unicode: F094F
+tags: ["cellphone-phone","lock","device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F094F</span> 
+<copy-btn content='F094F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F094F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone,Lock,Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span><span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span><span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

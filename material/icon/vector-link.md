@@ -3,7 +3,7 @@
 title: vector link(矢量链接) ICON转svg、png下载
 name: vector-link
 zhTips: 矢量链接
-unicode: F0FE8
+tags: ["vector","geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FE8</span> 
+<copy-btn content='F0FE8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FE8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Vector,Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/vector.html">矢量</router-link></span><span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

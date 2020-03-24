@@ -3,7 +3,7 @@
 title: microsoft xbox controller battery alert(Microsoft xbox控制器电池警报) ICON转svg、png下载
 name: microsoft-xbox-controller-battery-alert
 zhTips: Microsoft xbox控制器电池警报,xbox控制器电池警告
-unicode: F074B
+tags: ["battery","gaming-rpg","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F074B</span> 
+<copy-btn content='F074B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F074B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery,Gaming / RPG,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span><span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

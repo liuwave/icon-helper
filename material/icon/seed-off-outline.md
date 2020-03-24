@@ -3,7 +3,7 @@
 title: seed off outline(勾勒出轮廓) ICON转svg、png下载
 name: seed-off-outline
 zhTips: 勾勒出轮廓
-unicode: F13FE
+tags: ["nature","food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13FE</span> 
+<copy-btn content='F13FE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13FE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Nature,Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/nature.html">自然</router-link></span><span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

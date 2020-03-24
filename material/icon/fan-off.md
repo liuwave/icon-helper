@@ -3,7 +3,7 @@
 title: fan off(风扇关闭) ICON转svg、png下载
 name: fan-off
 zhTips: 风扇关闭
-unicode: F081D
+tags: ["home-automation","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F081D</span> 
+<copy-btn content='F081D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F081D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

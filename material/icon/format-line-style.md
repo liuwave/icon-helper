@@ -3,7 +3,7 @@
 title: format line style(设置线条样式) ICON转svg、png下载
 name: format-line-style
 zhTips: 设置线条样式
-unicode: F05C8
+tags: ["text-content-format","drawing-art"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05C8</span> 
+<copy-btn content='F05C8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05C8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format,Drawing / Art</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span><span class="badge-light badge"><router-link to="/tags/drawing-art.html">绘画、艺术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

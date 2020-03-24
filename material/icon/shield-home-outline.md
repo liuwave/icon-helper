@@ -3,7 +3,7 @@
 title: shield home outline(盾构房屋轮廓) ICON转svg、png下载
 name: shield-home-outline
 zhTips: 盾构房屋轮廓
-unicode: F0CCB
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CCB</span> 
+<copy-btn content='F0CCB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CCB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

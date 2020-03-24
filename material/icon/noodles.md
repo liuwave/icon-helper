@@ -3,7 +3,7 @@
 title: noodles(面条) ICON转svg、png下载
 name: noodles
 zhTips: 面条,食品拉面,亚洲面条
-unicode: F117E
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F117E</span> 
+<copy-btn content='F117E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F117E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

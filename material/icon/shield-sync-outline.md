@@ -3,7 +3,7 @@
 title: shield sync outline(屏蔽同步轮廓) ICON转svg、png下载
 name: shield-sync-outline
 zhTips: 屏蔽同步轮廓
-unicode: F11A3
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11A3</span> 
+<copy-btn content='F11A3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11A3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">François Risoud</span></span> 

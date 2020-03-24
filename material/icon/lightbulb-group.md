@@ -3,7 +3,7 @@
 title: lightbulb group(灯泡组) ICON转svg、png下载
 name: lightbulb-group
 zhTips: 灯泡组
-unicode: F1253
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1253</span> 
+<copy-btn content='F1253' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1253", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

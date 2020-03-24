@@ -3,7 +3,7 @@
 title: watch vibrate(手表振动) ICON转svg、png下载
 name: watch-vibrate
 zhTips: 手表振动
-unicode: F06B1
+tags: ["device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06B1</span> 
+<copy-btn content='F06B1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06B1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: progress alert(进度警报) ICON转svg、png下载
 name: progress-alert
 zhTips: 进度警报,进度警告
-unicode: F0CBC
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CBC</span> 
+<copy-btn content='F0CBC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CBC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

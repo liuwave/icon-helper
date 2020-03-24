@@ -3,7 +3,7 @@
 title: toy brick minus outline(积木减去轮廓) ICON转svg、png下载
 name: toy-brick-minus-outline
 zhTips: 积木减去轮廓,乐高,插件,扩展名
-unicode: F128C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F128C</span> 
+<copy-btn content='F128C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F128C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

@@ -3,7 +3,7 @@
 title: map marker outline(地图标记轮廓) ICON转svg、png下载
 name: map-marker-outline
 zhTips: 地图标记轮廓
-unicode: F07D9
+tags: ["navigation","geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07D9</span> 
+<copy-btn content='F07D9' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07D9", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Navigation,Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span><span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: camera(照相机) ICON转svg、png下载
 name: camera
 zhTips: 照相机,摄影,照相机alt,本地观看,照相照相机
-unicode: F0100
+tags: ["photography","home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0100</span> 
+<copy-btn content='F0100' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0100", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Photography,Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/photography.html">摄影</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

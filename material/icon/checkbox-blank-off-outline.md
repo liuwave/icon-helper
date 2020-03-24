@@ -3,7 +3,7 @@
 title: checkbox blank off outline(复选框为空白轮廓) ICON转svg、png下载
 name: checkbox-blank-off-outline
 zhTips: 复选框为空白轮廓
-unicode: F12ED
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F12ED</span> 
+<copy-btn content='F12ED' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F12ED", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

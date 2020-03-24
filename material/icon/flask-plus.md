@@ -3,7 +3,7 @@
 title: flask plus(烧瓶加) ICON转svg、png下载
 name: flask-plus
 zhTips: 烧瓶加
-unicode: F1242
+tags: ["science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1242</span> 
+<copy-btn content='F1242' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1242", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

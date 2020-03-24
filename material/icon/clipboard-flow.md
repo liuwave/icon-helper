@@ -3,7 +3,7 @@
 title: clipboard flow(剪贴板流程) ICON转svg、png下载
 name: clipboard-flow
 zhTips: 剪贴板流程
-unicode: F06C8
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06C8</span> 
+<copy-btn content='F06C8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06C8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

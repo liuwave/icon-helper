@@ -3,7 +3,7 @@
 title: marker(标记) ICON转svg、png下载
 name: marker
 zhTips: 标记,荧光笔
-unicode: F0652
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0652</span> 
+<copy-btn content='F0652' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0652", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

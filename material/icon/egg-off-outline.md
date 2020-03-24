@@ -3,7 +3,7 @@
 title: egg off outline(鸡蛋掉轮廓) ICON转svg、png下载
 name: egg-off-outline
 zhTips: 鸡蛋掉轮廓
-unicode: F13F1
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13F1</span> 
+<copy-btn content='F13F1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13F1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

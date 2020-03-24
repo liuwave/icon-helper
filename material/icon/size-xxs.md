@@ -3,7 +3,7 @@
 title: size xxs(尺寸xxs) ICON转svg、png下载
 name: size-xxs
 zhTips: 尺寸xxs,超小尺寸
-unicode: F13A2
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13A2</span> 
+<copy-btn content='F13A2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13A2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

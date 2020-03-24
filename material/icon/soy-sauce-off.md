@@ -3,7 +3,7 @@
 title: soy sauce off(酱油掉) ICON转svg、png下载
 name: soy-sauce-off
 zhTips: 酱油掉
-unicode: F13FC
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13FC</span> 
+<copy-btn content='F13FC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13FC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

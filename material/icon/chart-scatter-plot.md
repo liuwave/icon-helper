@@ -3,7 +3,7 @@
 title: chart scatter plot(图表散点图) ICON转svg、png下载
 name: chart-scatter-plot
 zhTips: 图表散点图
-unicode: F0E92
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E92</span> 
+<copy-btn content='F0E92' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E92", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: chevron right box(V形人字形右框) ICON转svg、png下载
 name: chevron-right-box
 zhTips: V形人字形右框
-unicode: F09DA
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09DA</span> 
+<copy-btn content='F09DA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09DA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

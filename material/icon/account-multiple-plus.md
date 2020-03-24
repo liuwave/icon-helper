@@ -3,7 +3,7 @@
 title: account multiple plus(帐户多个加号) ICON转svg、png下载
 name: account-multiple-plus
 zhTips: 帐户多个加号,多个用户加号,组添加,帐户加号,用户加号,多个人加号,人员加号,多个人添加,多个帐户添加,用户添加,用户多个添加,邀请
-unicode: F0010
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0010</span> 
+<copy-btn content='F0010' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0010", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

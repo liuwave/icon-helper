@@ -3,7 +3,7 @@
 title: pier(码头) ICON转svg、png下载
 name: pier
 zhTips: 码头
-unicode: F0887
+tags: ["places","transportation-water"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0887</span> 
+<copy-btn content='F0887' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0887", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Places,Transportation + Water</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span><span class="badge-light badge"><router-link to="/tags/transportation-water.html">运输+水路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: water outline(水轮廓) ICON转svg、png下载
 name: water-outline
 zhTips: 水轮廓,滴轮廓,血液轮廓,水滴轮廓
-unicode: F0E0A
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E0A</span> 
+<copy-btn content='F0E0A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E0A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

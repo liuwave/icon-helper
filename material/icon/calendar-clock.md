@@ -3,7 +3,7 @@
 title: calendar clock(日历时钟) ICON转svg、png下载
 name: calendar-clock
 zhTips: 日历时钟,事件时钟,事件时间,日历时间
-unicode: F00F0
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00F0</span> 
+<copy-btn content='F00F0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00F0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

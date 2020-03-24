@@ -3,7 +3,7 @@
 title: arrow left bold(向左箭头加粗) ICON转svg、png下载
 name: arrow-left-bold
 zhTips: 向左箭头加粗
-unicode: F0731
+tags: ["arrow","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0731</span> 
+<copy-btn content='F0731' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0731", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

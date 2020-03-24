@@ -3,7 +3,7 @@
 title: lungs(肺) ICON转svg、png下载
 name: lungs
 zhTips: 肺
-unicode: F1084
+tags: ["medical-hospital"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1084</span> 
+<copy-btn content='F1084' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1084", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Medical / Hospital</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/medical-hospital.html">医学、医院</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

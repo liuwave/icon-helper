@@ -3,7 +3,7 @@
 title: sign text(标志文字) ICON转svg、png下载
 name: sign-text
 zhTips: 标志文字
-unicode: F0782
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0782</span> 
+<copy-btn content='F0782' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0782", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

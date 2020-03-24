@@ -3,7 +3,7 @@
 title: domain off(域关闭) ICON转svg、png下载
 name: domain-off
 zhTips: 域关闭
-unicode: F0D6F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D6F</span> 
+<copy-btn content='F0D6F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D6F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

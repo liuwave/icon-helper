@@ -3,7 +3,7 @@
 title: doorbell video(门铃视频) ICON转svg、png下载
 name: doorbell-video
 zhTips: 门铃视频
-unicode: F0869
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0869</span> 
+<copy-btn content='F0869' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0869", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

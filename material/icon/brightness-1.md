@@ -3,7 +3,7 @@
 title: brightness 1(亮度1) ICON转svg、png下载
 name: brightness-1
 zhTips: 亮度1
-unicode: F00DA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00DA</span> 
+<copy-btn content='F00DA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00DA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

@@ -3,7 +3,7 @@
 title: bed outline(床轮廓) ICON转svg、png下载
 name: bed-outline
 zhTips: 床轮廓,酒店轮廓
-unicode: F0099
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0099</span> 
+<copy-btn content='F0099' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0099", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

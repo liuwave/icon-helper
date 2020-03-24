@@ -3,7 +3,7 @@
 title: language haskell(语言haskell) ICON转svg、png下载
 name: language-haskell
 zhTips: 语言haskell
-unicode: F0C92
+tags: ["developer-languages"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C92</span> 
+<copy-btn content='F0C92' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C92", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Developer / Languages</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

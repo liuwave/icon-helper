@@ -3,7 +3,7 @@
 title: shield edit outline(盾牌编辑轮廓) ICON转svg、png下载
 name: shield-edit-outline
 zhTips: 盾牌编辑轮廓
-unicode: F11A1
+tags: ["edit-modify"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11A1</span> 
+<copy-btn content='F11A1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11A1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Edit / Modify</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/edit-modify.html">编辑、修改</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">François Risoud</span></span> 
 <br/>

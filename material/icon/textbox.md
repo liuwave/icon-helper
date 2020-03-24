@@ -3,7 +3,7 @@
 title: textbox(文本框) ICON转svg、png下载
 name: textbox
 zhTips: 文本框,重命名
-unicode: F060E
+tags: ["form"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F060E</span> 
+<copy-btn content='F060E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F060E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Form</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/form.html">表单</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

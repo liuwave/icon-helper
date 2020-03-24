@@ -3,7 +3,7 @@
 title: ticket confirmation outline(票务确认轮廓) ICON转svg、png下载
 name: ticket-confirmation-outline
 zhTips: 票务确认轮廓,确认号轮廓
-unicode: F13AA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13AA</span> 
+<copy-btn content='F13AA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13AA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

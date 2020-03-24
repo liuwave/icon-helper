@@ -3,7 +3,7 @@
 title: grain(谷物) ICON转svg、png下载
 name: grain
 zhTips: 谷物
-unicode: F0D7C
+tags: ["photography","video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D7C</span> 
+<copy-btn content='F0D7C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D7C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Photography,Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/photography.html">摄影</router-link></span><span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

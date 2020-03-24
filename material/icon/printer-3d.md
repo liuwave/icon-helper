@@ -3,7 +3,7 @@
 title: printer 3d(3D打印机) ICON转svg、png下载
 name: printer-3d
 zhTips: 3D打印机
-unicode: F042B
+tags: ["printer","home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F042B</span> 
+<copy-btn content='F042B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F042B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Printer,Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/printer.html">打印机</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

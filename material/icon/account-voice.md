@@ -3,7 +3,7 @@
 title: account voice(语音记录) ICON转svg、png下载
 name: account-voice
 zhTips: 语音记录,语音记录结束,说
-unicode: F05CB
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05CB</span> 
+<copy-btn content='F05CB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05CB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

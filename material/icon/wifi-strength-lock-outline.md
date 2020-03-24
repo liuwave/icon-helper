@@ -3,7 +3,7 @@
 title: wifi strength lock outline(wifi强度锁定概述) ICON转svg、png下载
 name: wifi-strength-lock-outline
 zhTips: wifi强度锁定概述,wifi强度0锁定
-unicode: F092C
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F092C</span> 
+<copy-btn content='F092C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F092C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

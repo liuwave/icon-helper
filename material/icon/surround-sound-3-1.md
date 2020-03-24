@@ -3,7 +3,7 @@
 title: surround sound 3 1(环绕声3 1) ICON转svg、png下载
 name: surround-sound-3-1
 zhTips: 环绕声3 1
-unicode: F07F1
+tags: ["audio"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07F1</span> 
+<copy-btn content='F07F1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07F1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: rabbit(兔子) ICON转svg、png下载
 name: rabbit
 zhTips: 兔子
-unicode: F0907
+tags: ["animal"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0907</span> 
+<copy-btn content='F0907' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0907", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Animal</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/animal.html">动物</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Augustin Ursu</span></span> 
 <br/>

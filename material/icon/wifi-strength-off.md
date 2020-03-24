@@ -3,7 +3,7 @@
 title: wifi strength off(wifi强度关闭) ICON转svg、png下载
 name: wifi-strength-off
 zhTips: wifi强度关闭
-unicode: F092D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F092D</span> 
+<copy-btn content='F092D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F092D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

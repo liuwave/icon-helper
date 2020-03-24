@@ -3,7 +3,7 @@
 title: peanut(花生) ICON转svg、png下载
 name: peanut
 zhTips: 花生,过敏原,食物过敏
-unicode: F0FFC
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FFC</span> 
+<copy-btn content='F0FFC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FFC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

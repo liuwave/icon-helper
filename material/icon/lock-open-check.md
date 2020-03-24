@@ -3,7 +3,7 @@
 title: lock open check(锁打开检查) ICON转svg、png下载
 name: lock-open-check
 zhTips: 锁打开检查
-unicode: F139C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F139C</span> 
+<copy-btn content='F139C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F139C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">François Risoud</span></span> 

@@ -3,7 +3,7 @@
 title: clipboard account outline(剪贴板帐户轮廓) ICON转svg、png下载
 name: clipboard-account-outline
 zhTips: 剪贴板帐户轮廓,剪贴板用户轮廓,剪贴板人轮廓,工作分配轮廓
-unicode: F0C55
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C55</span> 
+<copy-btn content='F0C55' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C55", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">James Coyle</span></span> 
 <br/>

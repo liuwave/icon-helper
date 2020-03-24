@@ -3,7 +3,7 @@
 title: folder star outline(星形轮廓文件夹) ICON转svg、png下载
 name: folder-star-outline
 zhTips: 星形轮廓文件夹,特殊轮廓文件夹
-unicode: F0B9F
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B9F</span> 
+<copy-btn content='F0B9F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B9F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

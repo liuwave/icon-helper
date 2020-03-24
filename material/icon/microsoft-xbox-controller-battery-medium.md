@@ -3,7 +3,7 @@
 title: microsoft xbox controller battery medium(Microsoft xbox控制器电池介质) ICON转svg、png下载
 name: microsoft-xbox-controller-battery-medium
 zhTips: Microsoft xbox控制器电池介质
-unicode: F074F
+tags: ["battery","gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F074F</span> 
+<copy-btn content='F074F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F074F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery,Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span><span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

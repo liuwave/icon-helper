@@ -3,7 +3,7 @@
 title: test tube empty(空管测试) ICON转svg、png下载
 name: test-tube-empty
 zhTips: 空管测试
-unicode: F0911
+tags: ["science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0911</span> 
+<copy-btn content='F0911' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0911", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

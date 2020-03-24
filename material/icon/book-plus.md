@@ -3,7 +3,7 @@
 title: book plus(预订加号) ICON转svg、png下载
 name: book-plus
 zhTips: 预订加号
-unicode: F05DB
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05DB</span> 
+<copy-btn content='F05DB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05DB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

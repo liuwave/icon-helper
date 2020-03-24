@@ -3,7 +3,7 @@
 title: printer pos(打印机pos) ICON转svg、png下载
 name: printer-pos
 zhTips: 打印机pos,打印机销售点
-unicode: F1057
+tags: ["printer"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1057</span> 
+<copy-btn content='F1057' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1057", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Printer</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/printer.html">打印机</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

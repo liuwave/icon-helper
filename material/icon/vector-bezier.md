@@ -3,7 +3,7 @@
 title: vector bezier(矢量贝塞尔曲线) ICON转svg、png下载
 name: vector-bezier
 zhTips: 矢量贝塞尔曲线
-unicode: F0AE8
+tags: ["vector"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0AE8</span> 
+<copy-btn content='F0AE8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0AE8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Vector</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/vector.html">矢量</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Louistwee</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: arrow right(向右箭头) ICON转svg、png下载
 name: arrow-right
 zhTips: 向右箭头,向前箭头
-unicode: F0054
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0054</span> 
+<copy-btn content='F0054' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0054", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

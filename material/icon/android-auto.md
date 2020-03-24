@@ -3,7 +3,7 @@
 title: android auto(android auto) ICON转svg、png下载
 name: android-auto
 zhTips: android auto
-unicode: F0A8E
+tags: ["automotive","brand-logo"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A8E</span> 
+<copy-btn content='F0A8E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A8E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive,Brand / Logo</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span><span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

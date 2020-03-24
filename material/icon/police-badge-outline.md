@@ -3,7 +3,7 @@
 title: police badge outline(警察徽章轮廓) ICON转svg、png下载
 name: police-badge-outline
 zhTips: 警察徽章轮廓
-unicode: F1168
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1168</span> 
+<copy-btn content='F1168' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1168", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

@@ -3,7 +3,7 @@
 title: passport(护照) ICON转svg、png下载
 name: passport
 zhTips: 护照
-unicode: F07E3
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07E3</span> 
+<copy-btn content='F07E3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07E3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

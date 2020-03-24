@@ -3,7 +3,7 @@
 title: plus circle multiple outline(加圆圈多个轮廓) ICON转svg、png下载
 name: plus-circle-multiple-outline
 zhTips: 加圆圈多个轮廓,控制点重复,加圆圈轮廓,硬币加轮廓
-unicode: F0418
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0418</span> 
+<copy-btn content='F0418' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0418", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

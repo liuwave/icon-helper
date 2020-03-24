@@ -3,7 +3,7 @@
 title: format color marker cancel(取消设置颜色标记) ICON转svg、png下载
 name: format-color-marker-cancel
 zhTips: 取消设置颜色标记,格式化红色
-unicode: F1313
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1313</span> 
+<copy-btn content='F1313' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1313", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

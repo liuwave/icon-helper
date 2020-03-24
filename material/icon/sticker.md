@@ -3,7 +3,7 @@
 title: sticker(贴纸) ICON转svg、png下载
 name: sticker
 zhTips: 贴纸
-unicode: F1364
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1364</span> 
+<copy-btn content='F1364' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1364", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Colton Wiscombe</span></span> 

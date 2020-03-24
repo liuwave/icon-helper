@@ -3,7 +3,7 @@
 title: speaker(扬声器) ICON转svg、png下载
 name: speaker
 zhTips: 扬声器
-unicode: F04C3
+tags: ["audio","home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04C3</span> 
+<copy-btn content='F04C3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04C3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio,Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

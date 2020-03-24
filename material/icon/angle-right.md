@@ -3,7 +3,7 @@
 title: angle right(直角) ICON转svg、png下载
 name: angle-right
 zhTips: 直角
-unicode: F0939
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0939</span> 
+<copy-btn content='F0939' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0939", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Haley Halcyon</span></span> 
 <br/>

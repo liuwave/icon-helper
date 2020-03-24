@@ -3,7 +3,7 @@
 title: format color highlight(格式颜色突出显示) ICON转svg、png下载
 name: format-color-highlight
 zhTips: 格式颜色突出显示,颜色格式突出显示
-unicode: F0E31
+tags: ["color","text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E31</span> 
+<copy-btn content='F0E31' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E31", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Color,Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/color.html">颜色</router-link></span><span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: waze(位) ICON转svg、png下载
 name: waze
 zhTips: 位
-unicode: F0BDE
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BDE</span> 
+<copy-btn content='F0BDE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BDE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 

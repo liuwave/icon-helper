@@ -3,7 +3,7 @@
 title: open in app(在应用程序中打开) ICON转svg、png下载
 name: open-in-app
 zhTips: 在应用程序中打开,在浏览器中打开
-unicode: F03CB
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F03CB</span> 
+<copy-btn content='F03CB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F03CB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

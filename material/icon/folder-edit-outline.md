@@ -3,7 +3,7 @@
 title: folder edit outline(文件夹编辑轮廓) ICON转svg、png下载
 name: folder-edit-outline
 zhTips: 文件夹编辑轮廓
-unicode: F0DCE
+tags: ["edit-modify","files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DCE</span> 
+<copy-btn content='F0DCE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DCE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Edit / Modify,Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/edit-modify.html">编辑、修改</router-link></span><span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

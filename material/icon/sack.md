@@ -3,7 +3,7 @@
 title: sack(麻袋) ICON转svg、png下载
 name: sack
 zhTips: 麻袋
-unicode: F0D2E
+tags: ["gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D2E</span> 
+<copy-btn content='F0D2E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D2E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

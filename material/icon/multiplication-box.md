@@ -3,7 +3,7 @@
 title: multiplication box(乘法盒) ICON转svg、png下载
 name: multiplication-box
 zhTips: 乘法盒
-unicode: F0383
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0383</span> 
+<copy-btn content='F0383' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0383", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

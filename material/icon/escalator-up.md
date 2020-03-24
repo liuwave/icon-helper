@@ -3,7 +3,7 @@
 title: escalator up(自动扶梯向上) ICON转svg、png下载
 name: escalator-up
 zhTips: 自动扶梯向上
-unicode: F12BF
+tags: ["transportation-other"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F12BF</span> 
+<copy-btn content='F12BF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F12BF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Other</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-other.html">运输+其他</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

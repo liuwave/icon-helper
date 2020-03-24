@@ -3,7 +3,7 @@
 title: information variant(信息重音) ICON转svg、png下载
 name: information-variant
 zhTips: 信息重音,关于重音
-unicode: F064E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F064E</span> 
+<copy-btn content='F064E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F064E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

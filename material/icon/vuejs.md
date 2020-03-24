@@ -3,7 +3,7 @@
 title: vuejs(vuejs) ICON转svg、png下载
 name: vuejs
 zhTips: vuejs,vue js
-unicode: F0844
+tags: ["brand-logo","developer-languages"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0844</span> 
+<copy-btn content='F0844' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0844", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Brand / Logo,Developer / Languages</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span><span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

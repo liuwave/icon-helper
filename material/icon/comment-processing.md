@@ -3,7 +3,7 @@
 title: comment processing(评论处理) ICON转svg、png下载
 name: comment-processing
 zhTips: 评论处理
-unicode: F0184
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0184</span> 
+<copy-btn content='F0184' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0184", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

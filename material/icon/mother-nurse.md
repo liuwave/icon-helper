@@ -3,7 +3,7 @@
 title: mother nurse(母亲护士) ICON转svg、png下载
 name: mother-nurse
 zhTips: 母亲护士,母乳喂养
-unicode: F0D21
+tags: ["medical-hospital","people-family"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D21</span> 
+<copy-btn content='F0D21' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D21", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Medical / Hospital,People / Family</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/medical-hospital.html">医学、医院</router-link></span><span class="badge-light badge"><router-link to="/tags/people-family.html">朋友、家庭</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

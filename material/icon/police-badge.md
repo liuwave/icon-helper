@@ -3,7 +3,7 @@
 title: police badge(警察徽章) ICON转svg、png下载
 name: police-badge
 zhTips: 警察徽章
-unicode: F1167
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1167</span> 
+<copy-btn content='F1167' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1167", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

@@ -3,7 +3,7 @@
 title: beach(海滩) ICON转svg、png下载
 name: beach
 zhTips: 海滩,阳伞
-unicode: F0092
+tags: ["places"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0092</span> 
+<copy-btn content='F0092' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0092", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Places</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

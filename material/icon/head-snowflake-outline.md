@@ -3,7 +3,7 @@
 title: head snowflake outline(头部雪花轮廓) ICON转svg、png下载
 name: head-snowflake-outline
 zhTips: 头部雪花轮廓,头部冻结轮廓,大脑冻结轮廓
-unicode: F134F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F134F</span> 
+<copy-btn content='F134F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F134F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

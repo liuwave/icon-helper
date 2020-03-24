@@ -3,7 +3,7 @@
 title: close octagon outline(关闭八角形轮廓) ICON转svg、png下载
 name: close-octagon-outline
 zhTips: 关闭八角形轮廓
-unicode: F015D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F015D</span> 
+<copy-btn content='F015D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F015D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

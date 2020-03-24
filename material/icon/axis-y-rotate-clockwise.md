@@ -3,7 +3,7 @@
 title: axis y rotate clockwise(顺时针旋转轴) ICON转svg、png下载
 name: axis-y-rotate-clockwise
 zhTips: 顺时针旋转轴
-unicode: F0D53
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D53</span> 
+<copy-btn content='F0D53' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D53", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

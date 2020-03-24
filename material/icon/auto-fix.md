@@ -3,7 +3,7 @@
 title: auto fix(自动修复) ICON转svg、png下载
 name: auto-fix
 zhTips: 自动修复,魔术,魔杖,自动修复高
-unicode: F0068
+tags: ["photography"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0068</span> 
+<copy-btn content='F0068' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0068", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Photography</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/photography.html">摄影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

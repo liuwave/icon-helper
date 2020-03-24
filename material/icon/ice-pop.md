@@ -3,7 +3,7 @@
 title: ice pop(冰棒) ICON转svg、png下载
 name: ice-pop
 zhTips: 冰棒
-unicode: F0EFD
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EFD</span> 
+<copy-btn content='F0EFD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EFD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: battery bluetooth variant(电池蓝牙音调) ICON转svg、png下载
 name: battery-bluetooth-variant
 zhTips: 电池蓝牙音调
-unicode: F0949
+tags: ["battery"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0949</span> 
+<copy-btn content='F0949' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0949", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

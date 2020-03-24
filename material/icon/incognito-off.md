@@ -3,7 +3,7 @@
 title: incognito off(隐身关闭) ICON转svg、png下载
 name: incognito-off
 zhTips: 隐身关闭
-unicode: F0075
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0075</span> 
+<copy-btn content='F0075' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0075", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">nilsfast</span></span> 

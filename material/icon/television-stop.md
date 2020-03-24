@@ -3,7 +3,7 @@
 title: television stop(电视台) ICON转svg、png下载
 name: television-stop
 zhTips: 电视台
-unicode: F0F8A
+tags: ["device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F8A</span> 
+<copy-btn content='F0F8A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F8A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: pencil outline(铅笔轮廓) ICON转svg、png下载
 name: pencil-outline
 zhTips: 铅笔轮廓,编辑轮廓,创建轮廓,模式编辑轮廓
-unicode: F0CB6
+tags: ["drawing-art","edit-modify"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CB6</span> 
+<copy-btn content='F0CB6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CB6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Drawing / Art,Edit / Modify</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/drawing-art.html">绘画、艺术</router-link></span><span class="badge-light badge"><router-link to="/tags/edit-modify.html">编辑、修改</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: emoticon lol(图释大声笑) ICON转svg、png下载
 name: emoticon-lol
 zhTips: 图释大声笑
-unicode: F1214
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1214</span> 
+<copy-btn content='F1214' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1214", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

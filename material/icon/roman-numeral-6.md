@@ -3,7 +3,7 @@
 title: roman numeral 6(罗马数字6) ICON转svg、png下载
 name: roman-numeral-6
 zhTips: 罗马数字6
-unicode: F108D
+tags: ["alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F108D</span> 
+<copy-btn content='F108D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F108D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

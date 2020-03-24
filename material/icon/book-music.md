@@ -3,7 +3,7 @@
 title: book music(音乐书籍) ICON转svg、png下载
 name: book-music
 zhTips: 音乐书籍,有声书籍
-unicode: F0067
+tags: ["audio"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0067</span> 
+<copy-btn content='F0067' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0067", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

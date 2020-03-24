@@ -3,7 +3,7 @@
 title: shield lock(屏蔽锁) ICON转svg、png下载
 name: shield-lock
 zhTips: 屏蔽锁,安全锁
-unicode: F099D
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F099D</span> 
+<copy-btn content='F099D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F099D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

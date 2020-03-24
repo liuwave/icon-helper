@@ -3,7 +3,7 @@
 title: ferry(轮渡) ICON转svg、png下载
 name: ferry
 zhTips: 轮渡,货船,船,轮船,方向船,方向
-unicode: F0213
+tags: ["transportation-water","navigation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0213</span> 
+<copy-btn content='F0213' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0213", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Water,Navigation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-water.html">运输+水路</router-link></span><span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

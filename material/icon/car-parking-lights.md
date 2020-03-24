@@ -3,7 +3,7 @@
 title: car parking lights(停车场灯) ICON转svg、png下载
 name: car-parking-lights
 zhTips: 停车场灯
-unicode: F0D63
+tags: ["automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D63</span> 
+<copy-btn content='F0D63' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D63", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

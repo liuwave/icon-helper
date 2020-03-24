@@ -3,7 +3,7 @@
 title: weather lightning rainy(天气雷雨) ICON转svg、png下载
 name: weather-lightning-rainy
 zhTips: 天气雷雨,天气风暴
-unicode: F067E
+tags: ["weather"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F067E</span> 
+<copy-btn content='F067E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F067E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

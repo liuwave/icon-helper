@@ -3,7 +3,7 @@
 title: ice cream(冰淇淋) ICON转svg、png下载
 name: ice-cream
 zhTips: 冰淇淋
-unicode: F082A
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F082A</span> 
+<copy-btn content='F082A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F082A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

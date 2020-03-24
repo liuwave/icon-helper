@@ -3,7 +3,7 @@
 title: delete alert outline(删除警报轮廓) ICON转svg、png下载
 name: delete-alert-outline
 zhTips: 删除警报轮廓
-unicode: F10A6
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10A6</span> 
+<copy-btn content='F10A6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10A6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">idevo89</span></span> 
 <br/>

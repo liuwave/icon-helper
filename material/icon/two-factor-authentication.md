@@ -3,7 +3,7 @@
 title: two factor authentication(两步验证) ICON转svg、png下载
 name: two-factor-authentication
 zhTips: 两步验证
-unicode: F09AF
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09AF</span> 
+<copy-btn content='F09AF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09AF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

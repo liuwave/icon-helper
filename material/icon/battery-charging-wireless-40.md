@@ -3,7 +3,7 @@
 title: battery charging wireless 40(无线充电电池40) ICON转svg、png下载
 name: battery-charging-wireless-40
 zhTips: 无线充电电池40
-unicode: F080B
+tags: ["battery","home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F080B</span> 
+<copy-btn content='F080B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F080B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery,Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

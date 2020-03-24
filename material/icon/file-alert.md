@@ -3,7 +3,7 @@
 title: file alert(文件警报) ICON转svg、png下载
 name: file-alert
 zhTips: 文件警报,文件警告
-unicode: F0A4B
+tags: ["files-folders","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A4B</span> 
+<copy-btn content='F0A4B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A4B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

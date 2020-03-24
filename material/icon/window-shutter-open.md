@@ -3,7 +3,7 @@
 title: window shutter open(百叶窗打开) ICON转svg、png下载
 name: window-shutter-open
 zhTips: 百叶窗打开
-unicode: F111E
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F111E</span> 
+<copy-btn content='F111E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F111E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">idevo89</span></span> 
 <br/>

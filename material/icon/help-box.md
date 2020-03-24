@@ -3,7 +3,7 @@
 title: help box(帮助框) ICON转svg、png下载
 name: help-box
 zhTips: 帮助框,问号框
-unicode: F078B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F078B</span> 
+<copy-btn content='F078B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F078B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

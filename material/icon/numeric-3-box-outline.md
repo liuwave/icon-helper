@@ -3,7 +3,7 @@
 title: numeric 3 box outline(数字3框轮廓) ICON转svg、png下载
 name: numeric-3-box-outline
 zhTips: 数字3框轮廓
-unicode: F03AC
+tags: ["alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F03AC</span> 
+<copy-btn content='F03AC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F03AC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

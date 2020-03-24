@@ -3,7 +3,7 @@
 title: folder marker(文件夹标记) ICON转svg、png下载
 name: folder-marker
 zhTips: 文件夹标记
-unicode: F126D
+tags: ["geographic-information-system","files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F126D</span> 
+<copy-btn content='F126D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F126D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Geographic Information System,Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span><span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

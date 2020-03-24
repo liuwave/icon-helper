@@ -3,7 +3,7 @@
 title: island(岛) ICON转svg、png下载
 name: island
 zhTips: 岛
-unicode: F104F
+tags: ["places"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F104F</span> 
+<copy-btn content='F104F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F104F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Places</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: transit detour(中转弯路) ICON转svg、png下载
 name: transit-detour
 zhTips: 中转弯路
-unicode: F0F8B
+tags: ["navigation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F8B</span> 
+<copy-btn content='F0F8B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F8B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Navigation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

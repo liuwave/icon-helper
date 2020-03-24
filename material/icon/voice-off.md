@@ -3,7 +3,7 @@
 title: voice off(语音关闭) ICON转svg、png下载
 name: voice-off
 zhTips: 语音关闭
-unicode: F0ED4
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0ED4</span> 
+<copy-btn content='F0ED4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0ED4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

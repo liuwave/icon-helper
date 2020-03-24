@@ -3,7 +3,7 @@
 title: chess king(国际象棋王) ICON转svg、png下载
 name: chess-king
 zhTips: 国际象棋王
-unicode: F0857
+tags: ["gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0857</span> 
+<copy-btn content='F0857' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0857", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

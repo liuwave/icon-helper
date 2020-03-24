@@ -3,7 +3,7 @@
 title: certificate outline(证书轮廓) ICON转svg、png下载
 name: certificate-outline
 zhTips: 证书轮廓,文凭轮廓,印章轮廓
-unicode: F1188
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1188</span> 
+<copy-btn content='F1188' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1188", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

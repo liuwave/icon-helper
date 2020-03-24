@@ -3,7 +3,7 @@
 title: briefcase plus(公文包加) ICON转svg、png下载
 name: briefcase-plus
 zhTips: 公文包加
-unicode: F0A2B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A2B</span> 
+<copy-btn content='F0A2B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A2B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

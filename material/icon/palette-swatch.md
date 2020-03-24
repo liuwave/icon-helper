@@ -3,7 +3,7 @@
 title: palette swatch(调色板色板) ICON转svg、png下载
 name: palette-swatch
 zhTips: 调色板色板,样式
-unicode: F08B5
+tags: ["drawing-art","color"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08B5</span> 
+<copy-btn content='F08B5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08B5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Drawing / Art,Color</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/drawing-art.html">绘画、艺术</router-link></span><span class="badge-light badge"><router-link to="/tags/color.html">颜色</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

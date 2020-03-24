@@ -3,7 +3,7 @@
 title: moon new(月亮新) ICON转svg、png下载
 name: moon-new
 zhTips: 月亮新
-unicode: F0F64
+tags: ["weather"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F64</span> 
+<copy-btn content='F0F64' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F64", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

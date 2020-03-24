@@ -3,7 +3,7 @@
 title: speaker bluetooth(蓝牙音箱) ICON转svg、png下载
 name: speaker-bluetooth
 zhTips: 蓝牙音箱
-unicode: F09A2
+tags: ["audio"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09A2</span> 
+<copy-btn content='F09A2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09A2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

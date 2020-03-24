@@ -3,7 +3,7 @@
 title: play box outline(播放框轮廓) ICON转svg、png下载
 name: play-box-outline
 zhTips: 播放框轮廓,幻灯片
-unicode: F040B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F040B</span> 
+<copy-btn content='F040B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F040B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

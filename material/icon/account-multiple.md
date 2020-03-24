@@ -3,7 +3,7 @@
 title: account multiple(帐户多个) ICON转svg、png下载
 name: account-multiple
 zhTips: 帐户多个,人员,多个用户,组,帐户,用户,多个人
-unicode: F000E
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F000E</span> 
+<copy-btn content='F000E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F000E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

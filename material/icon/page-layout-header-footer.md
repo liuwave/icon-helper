@@ -3,7 +3,7 @@
 title: page layout header footer(页面布局页眉页脚) ICON转svg、png下载
 name: page-layout-header-footer
 zhTips: 页面布局页眉页脚,页面布局页边距
-unicode: F0F7F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F7F</span> 
+<copy-btn content='F0F7F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F7F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

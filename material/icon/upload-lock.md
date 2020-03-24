@@ -3,7 +3,7 @@
 title: upload lock(上传锁定) ICON转svg、png下载
 name: upload-lock
 zhTips: 上传锁定
-unicode: F1373
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1373</span> 
+<copy-btn content='F1373' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1373", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

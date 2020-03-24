@@ -3,7 +3,7 @@
 title: umbrella closed variant(雨伞封闭式) ICON转svg、png下载
 name: umbrella-closed-variant
 zhTips: 雨伞封闭式
-unicode: F13E1
+tags: ["weather"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13E1</span> 
+<copy-btn content='F13E1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13E1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Moma Design Studio</span></span> 
 <br/>

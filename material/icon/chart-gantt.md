@@ -3,7 +3,7 @@
 title: chart gantt(甘特图) ICON转svg、png下载
 name: chart-gantt
 zhTips: 甘特图
-unicode: F066C
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F066C</span> 
+<copy-btn content='F066C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F066C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

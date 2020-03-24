@@ -3,7 +3,7 @@
 title: fruit grapes outline(水果葡萄轮廓) ICON转svg、png下载
 name: fruit-grapes-outline
 zhTips: 水果葡萄轮廓
-unicode: F1045
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1045</span> 
+<copy-btn content='F1045' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1045", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

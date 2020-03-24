@@ -3,7 +3,7 @@
 title: card account details(卡帐户详细信息) ICON转svg、png下载
 name: card-account-details
 zhTips: 卡帐户详细信息,卡识别,用户卡详细信息,身份证,人卡详细信息,驾驶执照,名片
-unicode: F05D2
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05D2</span> 
+<copy-btn content='F05D2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05D2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Christopher Schreiner</span></span> 
 <br/>

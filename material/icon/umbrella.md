@@ -3,7 +3,7 @@
 title: umbrella(雨伞) ICON转svg、png下载
 name: umbrella
 zhTips: 雨伞
-unicode: F054A
+tags: ["weather"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F054A</span> 
+<copy-btn content='F054A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F054A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

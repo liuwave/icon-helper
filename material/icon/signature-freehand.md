@@ -3,7 +3,7 @@
 title: signature freehand(徒手签名) ICON转svg、png下载
 name: signature-freehand
 zhTips: 徒手签名
-unicode: F0DFC
+tags: ["form"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DFC</span> 
+<copy-btn content='F0DFC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DFC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Form</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/form.html">表单</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

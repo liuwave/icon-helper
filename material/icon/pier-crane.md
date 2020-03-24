@@ -3,7 +3,7 @@
 title: pier crane(码头起重机) ICON转svg、png下载
 name: pier-crane
 zhTips: 码头起重机
-unicode: F0888
+tags: ["transportation-water"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0888</span> 
+<copy-btn content='F0888' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0888", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Water</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-water.html">运输+水路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

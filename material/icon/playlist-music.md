@@ -3,7 +3,7 @@
 title: playlist music(音乐播放列表) ICON转svg、png下载
 name: playlist-music
 zhTips: 音乐播放列表,笔记播放列表,音乐队列
-unicode: F0CB8
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CB8</span> 
+<copy-btn content='F0CB8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CB8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

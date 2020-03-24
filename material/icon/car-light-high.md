@@ -3,7 +3,7 @@
 title: car light high(汽车灯高) ICON转svg、png下载
 name: car-light-high
 zhTips: 汽车灯高,头灯高,远光
-unicode: F0C4C
+tags: ["automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C4C</span> 
+<copy-btn content='F0C4C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C4C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: bus multiple(公交车) ICON转svg、png下载
 name: bus-multiple
 zhTips: 公交车,车队
-unicode: F0F3F
+tags: ["transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F3F</span> 
+<copy-btn content='F0F3F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F3F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

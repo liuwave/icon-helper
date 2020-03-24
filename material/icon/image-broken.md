@@ -3,7 +3,7 @@
 title: image broken(损坏的图像) ICON转svg、png下载
 name: image-broken
 zhTips: 损坏的图像
-unicode: F02ED
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02ED</span> 
+<copy-btn content='F02ED' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02ED", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

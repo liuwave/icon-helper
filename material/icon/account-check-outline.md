@@ -3,7 +3,7 @@
 title: account check outline(检查帐户轮廓) ICON转svg、png下载
 name: account-check-outline
 zhTips: 检查帐户轮廓,帐户刻度线轮廓,用户检查轮廓,用户刻度线轮廓,人员检查轮廓,人员刻度线轮廓,如何注册轮廓
-unicode: F0BE2
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BE2</span> 
+<copy-btn content='F0BE2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BE2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

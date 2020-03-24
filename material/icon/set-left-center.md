@@ -3,7 +3,7 @@
 title: set left center(设置左中心) ICON转svg、png下载
 name: set-left-center
 zhTips: 设置左中心,左外部联接,sql左外部联接
-unicode: F077C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F077C</span> 
+<copy-btn content='F077C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F077C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

@@ -3,7 +3,7 @@
 title: bell off(响铃) ICON转svg、png下载
 name: bell-off
 zhTips: 响铃,通知关闭
-unicode: F009B
+tags: ["notification"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F009B</span> 
+<copy-btn content='F009B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F009B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Notification</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/notification.html">通知</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

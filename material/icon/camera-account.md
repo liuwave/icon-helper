@@ -3,7 +3,7 @@
 title: camera account(相机帐户) ICON转svg、png下载
 name: camera-account
 zhTips: 相机帐户,用户相机
-unicode: F08CB
+tags: ["account-user","photography"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08CB</span> 
+<copy-btn content='F08CB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08CB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Photography</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/photography.html">摄影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: calendar range(日历范围) ICON转svg、png下载
 name: calendar-range
 zhTips: 日历范围,日期范围,日历周,事件范围
-unicode: F0679
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0679</span> 
+<copy-btn content='F0679' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0679", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

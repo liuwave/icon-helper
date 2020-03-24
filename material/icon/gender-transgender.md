@@ -3,7 +3,7 @@
 title: gender transgender(性别变性) ICON转svg、png下载
 name: gender-transgender
 zhTips: 性别变性
-unicode: F029F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F029F</span> 
+<copy-btn content='F029F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F029F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

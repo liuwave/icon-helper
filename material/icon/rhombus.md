@@ -3,7 +3,7 @@
 title: rhombus(菱形菱形) ICON转svg、png下载
 name: rhombus
 zhTips: 菱形菱形
-unicode: F070B
+tags: ["shape"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F070B</span> 
+<copy-btn content='F070B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F070B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shape</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shape.html">Shape</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

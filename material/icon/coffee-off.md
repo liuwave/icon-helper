@@ -3,7 +3,7 @@
 title: coffee off(关闭咖啡) ICON转svg、png下载
 name: coffee-off
 zhTips: 关闭咖啡
-unicode: F0FAA
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FAA</span> 
+<copy-btn content='F0FAA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FAA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

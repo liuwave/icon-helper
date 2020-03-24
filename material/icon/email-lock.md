@@ -3,7 +3,7 @@
 title: email lock(电子邮件锁) ICON转svg、png下载
 name: email-lock
 zhTips: 电子邮件锁,信封安全,电子邮件安全,信封锁
-unicode: F01F1
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01F1</span> 
+<copy-btn content='F01F1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01F1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

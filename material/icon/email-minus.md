@@ -3,7 +3,7 @@
 title: email minus(电子邮件减号) ICON转svg、png下载
 name: email-minus
 zhTips: 电子邮件减号
-unicode: F0EE5
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EE5</span> 
+<copy-btn content='F0EE5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EE5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

@@ -3,7 +3,7 @@
 title: folder clock outline(文件夹时钟轮廓) ICON转svg、png下载
 name: folder-clock-outline
 zhTips: 文件夹时钟轮廓
-unicode: F0ABB
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0ABB</span> 
+<copy-btn content='F0ABB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0ABB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

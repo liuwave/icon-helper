@@ -3,7 +3,7 @@
 title: diameter variant(直径重音) ICON转svg、png下载
 name: diameter-variant
 zhTips: 直径重音,圆直径重音,球形直径重音
-unicode: F0C65
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C65</span> 
+<copy-btn content='F0C65' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C65", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

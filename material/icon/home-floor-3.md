@@ -3,7 +3,7 @@
 title: home floor 3(家庭地板3) ICON转svg、png下载
 name: home-floor-3
 zhTips: 家庭地板3,房屋地板3,房屋地板三
-unicode: F0D82
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D82</span> 
+<copy-btn content='F0D82' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D82", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

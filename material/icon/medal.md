@@ -3,7 +3,7 @@
 title: medal(奖牌) ICON转svg、png下载
 name: medal
 zhTips: 奖牌,奖励
-unicode: F0987
+tags: ["gaming-rpg","sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0987</span> 
+<copy-btn content='F0987' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0987", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG,Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span><span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

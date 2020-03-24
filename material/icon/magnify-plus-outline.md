@@ -3,7 +3,7 @@
 title: magnify plus outline(放大加轮廓) ICON转svg、png下载
 name: magnify-plus-outline
 zhTips: 放大加轮廓,放大轮廓,放大添加轮廓,搜索加轮廓,搜索添加轮廓
-unicode: F06ED
+tags: ["geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06ED</span> 
+<copy-btn content='F06ED' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06ED", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

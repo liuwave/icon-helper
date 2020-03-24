@@ -3,7 +3,7 @@
 title: identifier(标识符) ICON转svg、png下载
 name: identifier
 zhTips: 标识符
-unicode: F0EFE
+tags: ["developer-languages"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EFE</span> 
+<copy-btn content='F0EFE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EFE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Developer / Languages</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

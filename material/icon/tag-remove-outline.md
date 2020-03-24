@@ -3,7 +3,7 @@
 title: tag remove outline(标签去除轮廓) ICON转svg、png下载
 name: tag-remove-outline
 zhTips: 标签去除轮廓
-unicode: F1223
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1223</span> 
+<copy-btn content='F1223' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1223", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

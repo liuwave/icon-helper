@@ -3,7 +3,7 @@
 title: video input hdmi(视频输入HDMI) ICON转svg、png下载
 name: video-input-hdmi
 zhTips: 视频输入HDMI,设置输入HDMI
-unicode: F0841
+tags: ["video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0841</span> 
+<copy-btn content='F0841' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0841", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

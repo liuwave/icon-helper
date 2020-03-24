@@ -3,7 +3,7 @@
 title: battery 80 bluetooth(电池80蓝牙) ICON转svg、png下载
 name: battery-80-bluetooth
 zhTips: 电池80蓝牙
-unicode: F0945
+tags: ["battery"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0945</span> 
+<copy-btn content='F0945' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0945", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

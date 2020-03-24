@@ -3,7 +3,7 @@
 title: paper roll outline(纸卷轮廓) ICON转svg、png下载
 name: paper-roll-outline
 zhTips: 纸卷轮廓,洗手间卷轮廓,浴室纸巾轮廓,厨房纸卷轮廓,纸巾轮廓,卫生纸轮廓,收据卷轮廓
-unicode: F1158
+tags: ["home-automation","printer"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1158</span> 
+<copy-btn content='F1158' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1158", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation,Printer</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/printer.html">打印机</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

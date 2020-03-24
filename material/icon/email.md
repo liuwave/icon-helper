@@ -3,7 +3,7 @@
 title: email(电子邮件) ICON转svg、png下载
 name: email
 zhTips: 电子邮件,当地邮局,邮件,markunread,信封
-unicode: F01EE
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01EE</span> 
+<copy-btn content='F01EE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01EE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

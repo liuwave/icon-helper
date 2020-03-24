@@ -3,7 +3,7 @@
 title: view dashboard outline(查看仪表板轮廓) ICON转svg、png下载
 name: view-dashboard-outline
 zhTips: 查看仪表板轮廓
-unicode: F0A1D
+tags: ["view"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A1D</span> 
+<copy-btn content='F0A1D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A1D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">View</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/view.html">视图</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

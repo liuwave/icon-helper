@@ -3,7 +3,7 @@
 title: fridge alert outline(冰箱警报轮廓) ICON转svg、png下载
 name: fridge-alert-outline
 zhTips: 冰箱警报轮廓
-unicode: F11B2
+tags: ["home-automation","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11B2</span> 
+<copy-btn content='F11B2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11B2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: radioactive(放射性) ICON转svg、png下载
 name: radioactive
 zhTips: 放射性,辐射
-unicode: F043C
+tags: ["science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F043C</span> 
+<copy-btn content='F043C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F043C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Yasmina Lembachar</span></span> 
 <br/>

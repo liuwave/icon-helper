@@ -3,7 +3,7 @@
 title: elephant(大象) ICON转svg、png下载
 name: elephant
 zhTips: 大象
-unicode: F07C6
+tags: ["animal"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07C6</span> 
+<copy-btn content='F07C6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07C6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Animal</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/animal.html">动物</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: dolby(杜比) ICON转svg、png下载
 name: dolby
 zhTips: 杜比
-unicode: F06B3
+tags: ["audio","brand-logo","home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06B3</span> 
+<copy-btn content='F06B3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06B3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.22</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio,Brand / Logo,Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span><span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: fit to page outline(适合页面轮廓) ICON转svg、png下载
 name: fit-to-page-outline
 zhTips: 适合页面轮廓
-unicode: F0EF6
+tags: ["text-content-format","arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EF6</span> 
+<copy-btn content='F0EF6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EF6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format,Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span><span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

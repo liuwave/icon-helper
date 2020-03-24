@@ -3,7 +3,7 @@
 title: peanut off outline(花生未定轮廓) ICON转svg、png下载
 name: peanut-off-outline
 zhTips: 花生未定轮廓,过敏原未定轮廓,食物过敏未定轮廓
-unicode: F0FFF
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FFF</span> 
+<copy-btn content='F0FFF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FFF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

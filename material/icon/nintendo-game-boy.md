@@ -3,7 +3,7 @@
 title: nintendo game boy(任天堂游戏男孩) ICON转svg、png下载
 name: nintendo-game-boy
 zhTips: 任天堂游戏男孩
-unicode: F1393
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1393</span> 
+<copy-btn content='F1393' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1393", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

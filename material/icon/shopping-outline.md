@@ -3,7 +3,7 @@
 title: shopping outline(购物轮廓) ICON转svg、png下载
 name: shopping-outline
 zhTips: 购物轮廓,当地购物中心轮廓,市场轮廓
-unicode: F11D5
+tags: ["shopping"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11D5</span> 
+<copy-btn content='F11D5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11D5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shopping</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shopping.html">购物</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

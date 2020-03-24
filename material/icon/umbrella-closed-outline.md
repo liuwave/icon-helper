@@ -3,7 +3,7 @@
 title: umbrella closed outline(雨伞封闭轮廓) ICON转svg、png下载
 name: umbrella-closed-outline
 zhTips: 雨伞封闭轮廓
-unicode: F13E2
+tags: ["weather"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13E2</span> 
+<copy-btn content='F13E2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13E2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: tooltip account(工具提示帐户) ICON转svg、png下载
 name: tooltip-account
 zhTips: 工具提示帐户,工具提示用户,工具提示人员,帐户位置
-unicode: F000C
+tags: ["account-user","tooltip"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F000C</span> 
+<copy-btn content='F000C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F000C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Tooltip</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/tooltip.html">提示条</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

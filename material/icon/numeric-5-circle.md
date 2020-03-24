@@ -3,7 +3,7 @@
 title: numeric 5 circle(数字5圈) ICON转svg、png下载
 name: numeric-5-circle
 zhTips: 数字5圈
-unicode: F0CA8
+tags: ["alpha-numeric","alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CA8</span> 
+<copy-btn content='F0CA8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CA8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric,Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span><span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

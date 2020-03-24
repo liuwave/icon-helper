@@ -3,7 +3,7 @@
 title: hospital box(医院医疗箱) ICON转svg、png下载
 name: hospital-box
 zhTips: 医院医疗箱,当地医院,瑞士十字医疗箱
-unicode: F02E0
+tags: ["medical-hospital"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02E0</span> 
+<copy-btn content='F02E0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02E0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Medical / Hospital</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/medical-hospital.html">医学、医院</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

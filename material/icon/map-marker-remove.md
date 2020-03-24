@@ -3,7 +3,7 @@
 title: map marker remove(删除地图标记) ICON转svg、png下载
 name: map-marker-remove
 zhTips: 删除地图标记
-unicode: F0F09
+tags: ["navigation","geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F09</span> 
+<copy-btn content='F0F09' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F09", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Navigation,Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span><span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

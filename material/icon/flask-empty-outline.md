@@ -3,7 +3,7 @@
 title: flask empty outline(烧瓶空轮廓) ICON转svg、png下载
 name: flask-empty-outline
 zhTips: 烧瓶空轮廓
-unicode: F0095
+tags: ["science","gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0095</span> 
+<copy-btn content='F0095' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0095", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science,Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span><span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

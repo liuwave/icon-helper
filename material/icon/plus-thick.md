@@ -3,7 +3,7 @@
 title: plus thick(加粗) ICON转svg、png下载
 name: plus-thick
 zhTips: 加粗
-unicode: F11EC
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11EC</span> 
+<copy-btn content='F11EC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11EC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

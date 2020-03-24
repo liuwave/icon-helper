@@ -3,7 +3,7 @@
 title: volume medium(音量中等) ICON转svg、png下载
 name: volume-medium
 zhTips: 音量中等,音频,扬声器
-unicode: F0580
+tags: ["audio","home-automation","cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0580</span> 
+<copy-btn content='F0580' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0580", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio,Home Automation,Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

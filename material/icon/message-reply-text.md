@@ -3,7 +3,7 @@
 title: message reply text(消息回复文字) ICON转svg、png下载
 name: message-reply-text
 zhTips: 消息回复文字,评论,插入评论
-unicode: F0368
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0368</span> 
+<copy-btn content='F0368' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0368", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

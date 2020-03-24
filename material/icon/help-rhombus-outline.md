@@ -3,7 +3,7 @@
 title: help rhombus outline(帮助菱形轮廓) ICON转svg、png下载
 name: help-rhombus-outline
 zhTips: 帮助菱形轮廓,问号菱形轮廓
-unicode: F0BA6
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BA6</span> 
+<copy-btn content='F0BA6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BA6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

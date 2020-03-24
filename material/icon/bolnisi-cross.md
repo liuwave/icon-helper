@@ -3,7 +3,7 @@
 title: bolnisi cross(博尼西十字架) ICON转svg、png下载
 name: bolnisi-cross
 zhTips: 博尼西十字架
-unicode: F0CED
+tags: ["religion"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CED</span> 
+<copy-btn content='F0CED' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CED", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Religion</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/religion.html">宗教</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

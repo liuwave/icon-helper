@@ -3,7 +3,7 @@
 title: credit card multiple(信用卡多个) ICON转svg、png下载
 name: credit-card-multiple
 zhTips: 信用卡多个
-unicode: F0FF0
+tags: ["banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FF0</span> 
+<copy-btn content='F0FF0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FF0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

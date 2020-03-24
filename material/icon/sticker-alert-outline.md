@@ -3,7 +3,7 @@
 title: sticker alert outline(贴纸提醒轮廓) ICON转svg、png下载
 name: sticker-alert-outline
 zhTips: 贴纸提醒轮廓
-unicode: F1366
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1366</span> 
+<copy-btn content='F1366' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1366", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Colton Wiscombe</span></span> 
 <br/>

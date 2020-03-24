@@ -3,7 +3,7 @@
 title: weight lifter(举重运动员) ICON转svg、png下载
 name: weight-lifter
 zhTips: 举重运动员,杠铃,运动量来找到
-unicode: F115D
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F115D</span> 
+<copy-btn content='F115D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F115D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

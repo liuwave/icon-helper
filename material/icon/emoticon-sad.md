@@ -3,7 +3,7 @@
 title: emoticon sad(悲伤的图释) ICON转svg、png下载
 name: emoticon-sad
 zhTips: 悲伤的图释,悲伤的笑脸
-unicode: F0C76
+tags: ["emoji"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C76</span> 
+<copy-btn content='F0C76' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C76", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Emoji</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/emoji.html">表情符号</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

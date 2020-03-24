@@ -3,7 +3,7 @@
 title: billiards(台球) ICON转svg、png下载
 name: billiards
 zhTips: 台球,桌球,八人
-unicode: F0B61
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B61</span> 
+<copy-btn content='F0B61' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B61", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

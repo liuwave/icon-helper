@@ -3,7 +3,7 @@
 title: floor lamp dual(落地灯双) ICON转svg、png下载
 name: floor-lamp-dual
 zhTips: 落地灯双
-unicode: F1040
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1040</span> 
+<copy-btn content='F1040' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1040", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Borre Haugen</span></span> 
 <br/>

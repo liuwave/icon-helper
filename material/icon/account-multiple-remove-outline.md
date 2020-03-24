@@ -3,7 +3,7 @@
 title: account multiple remove outline(多个帐户删除轮廓) ICON转svg、png下载
 name: account-multiple-remove-outline
 zhTips: 多个帐户删除轮廓,多个用户删除轮廓
-unicode: F120B
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F120B</span> 
+<copy-btn content='F120B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F120B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

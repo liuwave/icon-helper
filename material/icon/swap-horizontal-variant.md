@@ -3,7 +3,7 @@
 title: swap horizontal variant(互换水平型) ICON转svg、png下载
 name: swap-horizontal-variant
 zhTips: 互换水平型
-unicode: F08C1
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08C1</span> 
+<copy-btn content='F08C1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08C1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

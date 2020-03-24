@@ -3,7 +3,7 @@
 title: view compact outline(查看紧凑型轮廓) ICON转svg、png下载
 name: view-compact-outline
 zhTips: 查看紧凑型轮廓
-unicode: F0E6C
+tags: ["view"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E6C</span> 
+<copy-btn content='F0E6C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E6C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">View</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/view.html">视图</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

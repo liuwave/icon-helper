@@ -3,7 +3,7 @@
 title: crop free(无作物) ICON转svg、png下载
 name: crop-free
 zhTips: 无作物
-unicode: F019F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F019F</span> 
+<copy-btn content='F019F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F019F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

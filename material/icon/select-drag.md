@@ -3,7 +3,7 @@
 title: select drag(选择拖动) ICON转svg、png下载
 name: select-drag
 zhTips: 选择拖动
-unicode: F0A6C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A6C</span> 
+<copy-btn content='F0A6C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A6C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 

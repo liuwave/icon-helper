@@ -3,7 +3,7 @@
 title: circle slice 1(圆形切片1) ICON转svg、png下载
 name: circle-slice-1
 zhTips: 圆形切片1
-unicode: F0A9E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A9E</span> 
+<copy-btn content='F0A9E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A9E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">SarinManS</span></span> 

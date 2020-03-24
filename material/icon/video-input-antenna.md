@@ -3,7 +3,7 @@
 title: video input antenna(视频输入天线) ICON转svg、png下载
 name: video-input-antenna
 zhTips: 视频输入天线,天线输入设置
-unicode: F083F
+tags: ["video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F083F</span> 
+<copy-btn content='F083F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F083F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

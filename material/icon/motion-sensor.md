@@ -3,7 +3,7 @@
 title: motion sensor(运动传感器) ICON转svg、png下载
 name: motion-sensor
 zhTips: 运动传感器,运动检测器
-unicode: F0D91
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D91</span> 
+<copy-btn content='F0D91' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D91", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

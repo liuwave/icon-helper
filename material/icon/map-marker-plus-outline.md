@@ -3,7 +3,7 @@
 title: map marker plus outline(地图标记加轮廓) ICON转svg、png下载
 name: map-marker-plus-outline
 zhTips: 地图标记加轮廓
-unicode: F12F8
+tags: ["geographic-information-system","navigation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F12F8</span> 
+<copy-btn content='F12F8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F12F8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Geographic Information System,Navigation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span><span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

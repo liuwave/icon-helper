@@ -3,7 +3,7 @@
 title: crosshairs(十字准线) ICON转svg、png下载
 name: crosshairs
 zhTips: 十字准线,GPS不固定,搜索位置
-unicode: F01A3
+tags: ["geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01A3</span> 
+<copy-btn content='F01A3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01A3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: dice 5(骰子5) ICON转svg、png下载
 name: dice-5
 zhTips: 骰子5
-unicode: F01CE
+tags: ["gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01CE</span> 
+<copy-btn content='F01CE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01CE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Yasmina Lembachar</span></span> 
 <br/>

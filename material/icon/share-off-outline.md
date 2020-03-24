@@ -3,7 +3,7 @@
 title: share off outline(分享轮廓) ICON转svg、png下载
 name: share-off-outline
 zhTips: 分享轮廓,转发轮廓
-unicode: F0F24
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F24</span> 
+<copy-btn content='F0F24' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F24", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

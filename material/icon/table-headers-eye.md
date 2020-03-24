@@ -3,7 +3,7 @@
 title: table headers eye(表头眼) ICON转svg、png下载
 name: table-headers-eye
 zhTips: 表头眼
-unicode: F121D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F121D</span> 
+<copy-btn content='F121D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F121D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

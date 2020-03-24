@@ -3,7 +3,7 @@
 title: sign direction plus(标志方向加) ICON转svg、png下载
 name: sign-direction-plus
 zhTips: 标志方向加,里程碑加
-unicode: F0FDC
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FDC</span> 
+<copy-btn content='F0FDC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FDC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

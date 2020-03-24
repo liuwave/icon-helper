@@ -3,7 +3,7 @@
 title: cloud sync outline(云同步概述) ICON转svg、png下载
 name: cloud-sync-outline
 zhTips: 云同步概述
-unicode: F12D6
+tags: ["cloud"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F12D6</span> 
+<copy-btn content='F12D6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F12D6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cloud</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cloud.html">云</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

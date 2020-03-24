@@ -3,7 +3,7 @@
 title: folder edit(文件夹编辑) ICON转svg、png下载
 name: folder-edit
 zhTips: 文件夹编辑
-unicode: F08DE
+tags: ["files-folders","edit-modify"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08DE</span> 
+<copy-btn content='F08DE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08DE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders,Edit / Modify</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span><span class="badge-light badge"><router-link to="/tags/edit-modify.html">编辑、修改</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

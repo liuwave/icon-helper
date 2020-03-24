@@ -3,7 +3,7 @@
 title: folder refresh(刷新文件夹) ICON转svg、png下载
 name: folder-refresh
 zhTips: 刷新文件夹
-unicode: F0749
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0749</span> 
+<copy-btn content='F0749' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0749", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

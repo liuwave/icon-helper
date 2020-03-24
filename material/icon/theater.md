@@ -3,7 +3,7 @@
 title: theater(剧院) ICON转svg、png下载
 name: theater
 zhTips: 剧院,电影院
-unicode: F050D
+tags: ["places"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F050D</span> 
+<copy-btn content='F050D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F050D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Places</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

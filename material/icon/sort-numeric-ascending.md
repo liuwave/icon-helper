@@ -3,7 +3,7 @@
 title: sort numeric ascending(按数字升序排序) ICON转svg、png下载
 name: sort-numeric-ascending
 zhTips: 按数字升序排序
-unicode: F1389
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1389</span> 
+<copy-btn content='F1389' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1389", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">frankgrinaert</span></span> 
 <br/>

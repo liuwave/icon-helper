@@ -3,7 +3,7 @@
 title: account lock(帐户锁定) ICON转svg、png下载
 name: account-lock
 zhTips: 帐户锁定,帐户安全,用户锁定,人员锁定
-unicode: F115E
+tags: ["account-user","lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F115E</span> 
+<copy-btn content='F115E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F115E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

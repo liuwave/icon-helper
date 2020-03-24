@@ -3,7 +3,7 @@
 title: move resize variant(移动调整大小的重音符号) ICON转svg、png下载
 name: move-resize-variant
 zhTips: 移动调整大小的重音符号
-unicode: F0656
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0656</span> 
+<copy-btn content='F0656' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0656", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

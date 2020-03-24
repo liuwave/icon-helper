@@ -3,7 +3,7 @@
 title: flask round bottom empty(烧瓶圆底空) ICON转svg、png下载
 name: flask-round-bottom-empty
 zhTips: 烧瓶圆底空
-unicode: F124C
+tags: ["science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F124C</span> 
+<copy-btn content='F124C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F124C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: window close(窗口关闭) ICON转svg、png下载
 name: window-close
 zhTips: 窗口关闭
-unicode: F05AD
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05AD</span> 
+<copy-btn content='F05AD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05AD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

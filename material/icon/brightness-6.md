@@ -3,7 +3,7 @@
 title: brightness 6(亮度6) ICON转svg、png下载
 name: brightness-6
 zhTips: 亮度6,中等亮度,浅暗主题
-unicode: F00DF
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00DF</span> 
+<copy-btn content='F00DF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00DF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

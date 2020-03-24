@@ -3,7 +3,7 @@
 title: format list text(格式列表文本) ICON转svg、png下载
 name: format-list-text
 zhTips: 格式列表文本
-unicode: F126F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F126F</span> 
+<copy-btn content='F126F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F126F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Yaroslav Bandura</span></span> 

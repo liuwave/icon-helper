@@ -3,7 +3,7 @@
 title: calendar text outline(日历文本轮廓) ICON转svg、png下载
 name: calendar-text-outline
 zhTips: 日历文本轮廓,事件文本轮廓,事件注释轮廓
-unicode: F0C46
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C46</span> 
+<copy-btn content='F0C46' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C46", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

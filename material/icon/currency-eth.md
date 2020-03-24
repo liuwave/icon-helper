@@ -3,7 +3,7 @@
 title: currency eth(货币ETH) ICON转svg、png下载
 name: currency-eth
 zhTips: 货币ETH,以太坊,西
-unicode: F07BB
+tags: ["currency","brand-logo","banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07BB</span> 
+<copy-btn content='F07BB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07BB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Currency,Brand / Logo,Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/currency.html">货币</router-link></span><span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span><span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Peter Noble</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: network strength 4(网络实力4) ICON转svg、png下载
 name: network-strength-4
 zhTips: 网络实力4
-unicode: F08FA
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08FA</span> 
+<copy-btn content='F08FA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08FA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

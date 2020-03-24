@@ -3,7 +3,7 @@
 title: book information variant(各种信息书) ICON转svg、png下载
 name: book-information-variant
 zhTips: 各种信息书,百科全书
-unicode: F106F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F106F</span> 
+<copy-btn content='F106F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F106F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Terren</span></span> 

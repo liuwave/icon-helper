@@ -3,7 +3,7 @@
 title: camera switch outline(相机开关概述) ICON转svg、png下载
 name: camera-switch-outline
 zhTips: 相机开关概述
-unicode: F084A
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F084A</span> 
+<copy-btn content='F084A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F084A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

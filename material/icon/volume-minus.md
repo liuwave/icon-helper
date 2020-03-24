@@ -3,7 +3,7 @@
 title: volume minus(体积减) ICON转svg、png下载
 name: volume-minus
 zhTips: 体积减,体积减少
-unicode: F075E
+tags: ["audio","home-automation","cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F075E</span> 
+<copy-btn content='F075E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F075E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio,Home Automation,Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

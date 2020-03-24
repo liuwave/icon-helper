@@ -3,7 +3,7 @@
 title: bell plus outline(铃声加上轮廓) ICON转svg、png下载
 name: bell-plus-outline
 zhTips: 铃声加上轮廓,铃声添加轮廓,添加警报轮廓
-unicode: F0A92
+tags: ["notification"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A92</span> 
+<copy-btn content='F0A92' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A92", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Notification</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/notification.html">通知</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: math compass(数学罗盘) ICON转svg、png下载
 name: math-compass
 zhTips: 数学罗盘
-unicode: F0358
+tags: ["math","drawing-art"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0358</span> 
+<copy-btn content='F0358' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0358", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math,Drawing / Art</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span><span class="badge-light badge"><router-link to="/tags/drawing-art.html">绘画、艺术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Gabriel</span></span> 
 <br/>

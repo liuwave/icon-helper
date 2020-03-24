@@ -3,7 +3,7 @@
 title: looks(看起来) ICON转svg、png下载
 name: looks
 zhTips: 看起来,彩虹
-unicode: F0344
+tags: ["weather","color"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0344</span> 
+<copy-btn content='F0344' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0344", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather,Color</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span><span class="badge-light badge"><router-link to="/tags/color.html">颜色</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: lava lamp(熔岩灯) ICON转svg、png下载
 name: lava-lamp
 zhTips: 熔岩灯
-unicode: F07D5
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07D5</span> 
+<copy-btn content='F07D5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07D5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

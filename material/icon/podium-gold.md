@@ -3,7 +3,7 @@
 title: podium gold(登上领奖台的金色) ICON转svg、png下载
 name: podium-gold
 zhTips: 登上领奖台的金色,领奖台优先
-unicode: F0D27
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D27</span> 
+<copy-btn content='F0D27' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D27", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

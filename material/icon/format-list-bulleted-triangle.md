@@ -3,7 +3,7 @@
 title: format list bulleted triangle(格式列表项目符号三角形) ICON转svg、png下载
 name: format-list-bulleted-triangle
 zhTips: 格式列表项目符号三角形
-unicode: F0EB2
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EB2</span> 
+<copy-btn content='F0EB2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EB2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: invert colors(反转颜色) ICON转svg、png下载
 name: invert-colors
 zhTips: 反转颜色
-unicode: F0301
+tags: ["color"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0301</span> 
+<copy-btn content='F0301' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0301", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Color</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/color.html">颜色</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

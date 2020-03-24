@@ -3,7 +3,7 @@
 title: pencil off outline(铅笔勾勒轮廓) ICON转svg、png下载
 name: pencil-off-outline
 zhTips: 铅笔勾勒轮廓,编辑勾勒轮廓
-unicode: F0DEA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DEA</span> 
+<copy-btn content='F0DEA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DEA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

@@ -3,7 +3,7 @@
 title: emoticon excited outline(表情兴奋轮廓) ICON转svg、png下载
 name: emoticon-excited-outline
 zhTips: 表情兴奋轮廓,笑脸兴奋轮廓
-unicode: F069C
+tags: ["emoji"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F069C</span> 
+<copy-btn content='F069C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F069C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Emoji</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/emoji.html">表情符号</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

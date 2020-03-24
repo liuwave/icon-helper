@@ -3,7 +3,7 @@
 title: axis lock(轴锁) ICON转svg、png下载
 name: axis-lock
 zhTips: 轴锁
-unicode: F0D4B
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D4B</span> 
+<copy-btn content='F0D4B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D4B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

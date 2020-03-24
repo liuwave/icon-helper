@@ -3,7 +3,7 @@
 title: wallet giftcard(钱包giftcard) ICON转svg、png下载
 name: wallet-giftcard
 zhTips: 钱包giftcard,giftcard卡,兑换
-unicode: F0585
+tags: ["shopping","banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0585</span> 
+<copy-btn content='F0585' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0585", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shopping,Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shopping.html">购物</router-link></span><span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

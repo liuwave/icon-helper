@@ -3,7 +3,7 @@
 title: credit card off outline(信用卡已取消轮廓) ICON转svg、png下载
 name: credit-card-off-outline
 zhTips: 信用卡已取消轮廓
-unicode: F05E4
+tags: ["banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05E4</span> 
+<copy-btn content='F05E4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05E4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: shield airplane(飞机护盾) ICON转svg、png下载
 name: shield-airplane
 zhTips: 飞机护盾
-unicode: F06BB
+tags: ["transportation-flying"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06BB</span> 
+<copy-btn content='F06BB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06BB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.22</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Flying</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-flying.html">运输+飞行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

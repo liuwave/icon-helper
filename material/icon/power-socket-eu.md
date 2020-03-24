@@ -3,7 +3,7 @@
 title: power socket eu(电源插座欧盟) ICON转svg、png下载
 name: power-socket-eu
 zhTips: 电源插座欧盟,插头插座欧盟,欧洲电源插座
-unicode: F07E7
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07E7</span> 
+<copy-btn content='F07E7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07E7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

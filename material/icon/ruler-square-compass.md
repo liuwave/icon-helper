@@ -3,7 +3,7 @@
 title: ruler square compass(标尺方形指南针) ICON转svg、png下载
 name: ruler-square-compass
 zhTips: 标尺方形指南针,梅森,共济会
-unicode: F0EBE
+tags: ["hardware-tools"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EBE</span> 
+<copy-btn content='F0EBE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EBE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Hardware / Tools</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/hardware-tools.html">硬件、工具</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

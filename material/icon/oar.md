@@ -3,7 +3,7 @@
 title: oar(桨) ICON转svg、png下载
 name: oar
 zhTips: 桨
-unicode: F067C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F067C</span> 
+<copy-btn content='F067C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F067C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Thomas Hunsaker</span></span> 

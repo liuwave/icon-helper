@@ -3,7 +3,7 @@
 title: check all(检查所有) ICON转svg、png下载
 name: check-all
 zhTips: 检查所有,勾选所有,完成全部,检查多个,检查,勾选
-unicode: F012D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F012D</span> 
+<copy-btn content='F012D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F012D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

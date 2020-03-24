@@ -3,7 +3,7 @@
 title: signal 2g(2g信号) ICON转svg、png下载
 name: signal-2g
 zhTips: 2g信号
-unicode: F0712
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0712</span> 
+<copy-btn content='F0712' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0712", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

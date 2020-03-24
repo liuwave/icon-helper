@@ -3,7 +3,7 @@
 title: tractor(农用拖拉机) ICON转svg、png下载
 name: tractor
 zhTips: 农用拖拉机
-unicode: F0892
+tags: ["agriculture","transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0892</span> 
+<copy-btn content='F0892' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0892", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Agriculture,Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/agriculture.html">农业</router-link></span><span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

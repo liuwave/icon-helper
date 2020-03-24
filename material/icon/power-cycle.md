@@ -3,7 +3,7 @@
 title: power cycle(关机后再开机) ICON转svg、png下载
 name: power-cycle
 zhTips: 关机后再开机
-unicode: F0901
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0901</span> 
+<copy-btn content='F0901' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0901", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

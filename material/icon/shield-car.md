@@ -3,7 +3,7 @@
 title: shield car(盾构汽车) ICON转svg、png下载
 name: shield-car
 zhTips: 盾构汽车,汽车安全,汽车保险
-unicode: F0F83
+tags: ["automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F83</span> 
+<copy-btn content='F0F83' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F83", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 
 <br/>

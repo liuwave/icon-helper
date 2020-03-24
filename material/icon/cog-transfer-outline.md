@@ -3,7 +3,7 @@
 title: cog transfer outline(齿轮传输轮廓) ICON转svg、png下载
 name: cog-transfer-outline
 zhTips: 齿轮传输轮廓,轮廓传输设置
-unicode: F105C
+tags: ["settings"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F105C</span> 
+<copy-btn content='F105C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F105C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Settings</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: radiator(暖气片) ICON转svg、png下载
 name: radiator
 zhTips: 暖气片,加热器
-unicode: F0438
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0438</span> 
+<copy-btn content='F0438' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0438", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

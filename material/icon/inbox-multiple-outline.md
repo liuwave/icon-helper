@@ -3,7 +3,7 @@
 title: inbox multiple outline(收件箱多个轮廓) ICON转svg、png下载
 name: inbox-multiple-outline
 zhTips: 收件箱多个轮廓,收件箱轮廓
-unicode: F0BA8
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BA8</span> 
+<copy-btn content='F0BA8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BA8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

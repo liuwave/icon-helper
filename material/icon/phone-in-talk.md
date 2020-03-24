@@ -3,7 +3,7 @@
 title: phone in talk(通话中) ICON转svg、png下载
 name: phone-in-talk
 zhTips: 通话中
-unicode: F03F6
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F03F6</span> 
+<copy-btn content='F03F6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F03F6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

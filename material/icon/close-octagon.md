@@ -3,7 +3,7 @@
 title: close octagon(关闭八角形) ICON转svg、png下载
 name: close-octagon
 zhTips: 关闭八角形,危险,乘以八边形
-unicode: F015C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F015C</span> 
+<copy-btn content='F015C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F015C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

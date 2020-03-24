@@ -3,7 +3,7 @@
 title: folder key(文件夹密钥) ICON转svg、png下载
 name: folder-key
 zhTips: 文件夹密钥
-unicode: F08AC
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08AC</span> 
+<copy-btn content='F08AC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08AC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

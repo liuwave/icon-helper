@@ -3,7 +3,7 @@
 title: glasses(眼镜) ICON转svg、png下载
 name: glasses
 zhTips: 眼镜
-unicode: F02AA
+tags: ["clothing"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02AA</span> 
+<copy-btn content='F02AA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02AA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Clothing</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/clothing.html">服装</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

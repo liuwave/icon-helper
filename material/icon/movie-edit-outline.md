@@ -3,7 +3,7 @@
 title: movie edit outline(电影编辑轮廓) ICON转svg、png下载
 name: movie-edit-outline
 zhTips: 电影编辑轮廓
-unicode: F1123
+tags: ["video-movie","edit-modify"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1123</span> 
+<copy-btn content='F1123' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1123", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie,Edit / Modify</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span><span class="badge-light badge"><router-link to="/tags/edit-modify.html">编辑、修改</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Christopher Schreiner</span></span> 
 <br/>

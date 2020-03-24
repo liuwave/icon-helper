@@ -3,7 +3,7 @@
 title: network strength 4 alert(网络强度4警报) ICON转svg、png下载
 name: network-strength-4-alert
 zhTips: 网络强度4警报
-unicode: F08FB
+tags: ["cellphone-phone","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08FB</span> 
+<copy-btn content='F08FB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08FB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

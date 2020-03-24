@@ -3,7 +3,7 @@
 title: beaker question outline(烧杯问题轮廓) ICON转svg、png下载
 name: beaker-question-outline
 zhTips: 烧杯问题轮廓
-unicode: F1232
+tags: ["science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1232</span> 
+<copy-btn content='F1232' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1232", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

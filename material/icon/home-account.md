@@ -3,7 +3,7 @@
 title: home account(家庭帐户) ICON转svg、png下载
 name: home-account
 zhTips: 家庭帐户,家庭用户
-unicode: F0826
+tags: ["account-user","home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0826</span> 
+<copy-btn content='F0826' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0826", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

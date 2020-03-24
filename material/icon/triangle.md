@@ -3,7 +3,7 @@
 title: triangle(三角形) ICON转svg、png下载
 name: triangle
 zhTips: 三角形
-unicode: F0536
+tags: ["shape"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0536</span> 
+<copy-btn content='F0536' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0536", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shape</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shape.html">Shape</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

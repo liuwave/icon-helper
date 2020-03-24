@@ -3,7 +3,7 @@
 title: leak(泄漏) ICON转svg、png下载
 name: leak
 zhTips: 泄漏,传感器接近
-unicode: F0DD7
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DD7</span> 
+<copy-btn content='F0DD7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DD7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

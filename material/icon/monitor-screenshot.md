@@ -3,7 +3,7 @@
 title: monitor screenshot(监视器屏幕截图) ICON转svg、png下载
 name: monitor-screenshot
 zhTips: 监视器屏幕截图
-unicode: F0E51
+tags: ["device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E51</span> 
+<copy-btn content='F0E51' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E51", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

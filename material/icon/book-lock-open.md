@@ -3,7 +3,7 @@
 title: book lock open(开锁书) ICON转svg、png下载
 name: book-lock-open
 zhTips: 开锁书,书不安全
-unicode: F079B
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F079B</span> 
+<copy-btn content='F079B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F079B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

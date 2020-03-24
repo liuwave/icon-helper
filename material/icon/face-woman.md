@@ -3,7 +3,7 @@
 title: face woman(面对女人) ICON转svg、png下载
 name: face-woman
 zhTips: 面对女人
-unicode: F1077
+tags: ["people-family"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1077</span> 
+<copy-btn content='F1077' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1077", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">People / Family</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/people-family.html">朋友、家庭</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

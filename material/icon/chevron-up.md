@@ -3,7 +3,7 @@
 title: chevron up(V形) ICON转svg、png下载
 name: chevron-up
 zhTips: V形,向上缩小,键盘箭头向上,插入符号
-unicode: F0143
+tags: ["arrow","math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0143</span> 
+<copy-btn content='F0143' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0143", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow,Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span><span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

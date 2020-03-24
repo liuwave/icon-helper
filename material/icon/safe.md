@@ -3,7 +3,7 @@
 title: safe(安全) ICON转svg、png下载
 name: safe
 zhTips: 安全
-unicode: F0A6A
+tags: ["banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A6A</span> 
+<copy-btn content='F0A6A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A6A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

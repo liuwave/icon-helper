@@ -3,7 +3,7 @@
 title: beaker(烧杯) ICON转svg、png下载
 name: beaker
 zhTips: 烧杯
-unicode: F0CEA
+tags: ["science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CEA</span> 
+<copy-btn content='F0CEA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CEA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

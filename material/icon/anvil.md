@@ -3,7 +3,7 @@
 title: anvil(铁砧) ICON转svg、png下载
 name: anvil
 zhTips: 铁砧
-unicode: F089B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F089B</span> 
+<copy-btn content='F089B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F089B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 

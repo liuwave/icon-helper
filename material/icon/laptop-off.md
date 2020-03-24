@@ -3,7 +3,7 @@
 title: laptop off(笔记本电脑关闭) ICON转svg、png下载
 name: laptop-off
 zhTips: 笔记本电脑关闭
-unicode: F06E7
+tags: ["device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06E7</span> 
+<copy-btn content='F06E7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06E7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

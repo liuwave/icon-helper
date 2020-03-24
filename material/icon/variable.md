@@ -3,7 +3,7 @@
 title: variable(变量) ICON转svg、png下载
 name: variable
 zhTips: 变量
-unicode: F0AE7
+tags: ["developer-languages","math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0AE7</span> 
+<copy-btn content='F0AE7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0AE7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Developer / Languages,Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span><span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

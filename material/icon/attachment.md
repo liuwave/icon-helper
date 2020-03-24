@@ -3,7 +3,7 @@
 title: attachment(附件) ICON转svg、png下载
 name: attachment
 zhTips: 附件,水平回形针
-unicode: F0066
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0066</span> 
+<copy-btn content='F0066' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0066", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

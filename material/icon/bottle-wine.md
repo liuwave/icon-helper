@@ -3,7 +3,7 @@
 title: bottle wine(瓶酒) ICON转svg、png下载
 name: bottle-wine
 zhTips: 瓶酒
-unicode: F0854
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0854</span> 
+<copy-btn content='F0854' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0854", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">James Coyle</span></span> 
 <br/>

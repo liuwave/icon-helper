@@ -3,7 +3,7 @@
 title: plus network outline(添加网络轮廓) ICON转svg、png下载
 name: plus-network-outline
 zhTips: 添加网络轮廓
-unicode: F0CBA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CBA</span> 
+<copy-btn content='F0CBA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CBA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

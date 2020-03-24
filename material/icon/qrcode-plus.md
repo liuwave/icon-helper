@@ -3,7 +3,7 @@
 title: qrcode plus(二维码加) ICON转svg、png下载
 name: qrcode-plus
 zhTips: 二维码加
-unicode: F118B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F118B</span> 
+<copy-btn content='F118B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F118B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Peter Noble</span></span> 

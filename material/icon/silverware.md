@@ -3,7 +3,7 @@
 title: silverware(银器) ICON转svg、png下载
 name: silverware
 zhTips: 银器,当地就餐,餐厅菜单,当地餐厅
-unicode: F04A3
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04A3</span> 
+<copy-btn content='F04A3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04A3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

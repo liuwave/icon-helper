@@ -3,7 +3,7 @@
 title: restore(恢复) ICON转svg、png下载
 name: restore
 zhTips: 恢复,循环
-unicode: F099B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F099B</span> 
+<copy-btn content='F099B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F099B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

@@ -3,7 +3,7 @@
 title: engine outline(发动机轮廓) ICON转svg、png下载
 name: engine-outline
 zhTips: 发动机轮廓,电动机轮廓
-unicode: F01FB
+tags: ["automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01FB</span> 
+<copy-btn content='F01FB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01FB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

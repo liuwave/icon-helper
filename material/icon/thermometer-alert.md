@@ -3,7 +3,7 @@
 title: thermometer alert(温度计警报) ICON转svg、png下载
 name: thermometer-alert
 zhTips: 温度计警报
-unicode: F0E01
+tags: ["home-automation","weather","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E01</span> 
+<copy-btn content='F0E01' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E01", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation,Weather,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

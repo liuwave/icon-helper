@@ -3,7 +3,7 @@
 title: view split vertical(垂直剖视图) ICON转svg、png下载
 name: view-split-vertical
 zhTips: 垂直剖视图
-unicode: F0BCC
+tags: ["view"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BCC</span> 
+<copy-btn content='F0BCC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BCC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">View</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/view.html">视图</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

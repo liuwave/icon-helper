@@ -3,7 +3,7 @@
 title: image broken variant(图像重音符号) ICON转svg、png下载
 name: image-broken-variant
 zhTips: 图像重音符号,图像已损坏
-unicode: F02EE
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02EE</span> 
+<copy-btn content='F02EE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02EE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

@@ -3,7 +3,7 @@
 title: home alert(家庭警报) ICON转svg、png下载
 name: home-alert
 zhTips: 家庭警报
-unicode: F087B
+tags: ["home-automation","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F087B</span> 
+<copy-btn content='F087B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F087B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

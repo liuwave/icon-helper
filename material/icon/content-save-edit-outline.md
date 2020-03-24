@@ -3,7 +3,7 @@
 title: content save edit outline(内容保存编辑轮廓) ICON转svg、png下载
 name: content-save-edit-outline
 zhTips: 内容保存编辑轮廓
-unicode: F0CFC
+tags: ["edit-modify"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CFC</span> 
+<copy-btn content='F0CFC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CFC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Edit / Modify</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/edit-modify.html">编辑、修改</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

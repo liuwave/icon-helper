@@ -3,7 +3,7 @@
 title: car(汽车) ICON转svg、png下载
 name: car
 zhTips: 汽车,汽车方向,行车时间,离开时间
-unicode: F010B
+tags: ["transportation-road","navigation","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F010B</span> 
+<copy-btn content='F010B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F010B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road,Navigation,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span><span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

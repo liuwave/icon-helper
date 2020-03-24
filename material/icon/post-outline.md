@@ -3,7 +3,7 @@
 title: post outline(帖子轮廓) ICON转svg、png下载
 name: post-outline
 zhTips: 帖子轮廓,博客轮廓
-unicode: F1009
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1009</span> 
+<copy-btn content='F1009' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1009", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

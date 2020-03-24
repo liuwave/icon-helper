@@ -3,7 +3,7 @@
 title: bowl mix(碗混合) ICON转svg、png下载
 name: bowl-mix
 zhTips: 碗混合,搅拌碗
-unicode: F0617
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0617</span> 
+<copy-btn content='F0617' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0617", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

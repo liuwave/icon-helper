@@ -3,7 +3,7 @@
 title: clipboard(剪贴板) ICON转svg、png下载
 name: clipboard
 zhTips: 剪贴板
-unicode: F0147
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0147</span> 
+<copy-btn content='F0147' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0147", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

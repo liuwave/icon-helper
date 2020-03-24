@@ -3,7 +3,7 @@
 title: silverware variant(银器配件) ICON转svg、png下载
 name: silverware-variant
 zhTips: 银器配件
-unicode: F04A6
+tags: ["food-drink","places"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04A6</span> 
+<copy-btn content='F04A6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04A6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink,Places</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span><span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

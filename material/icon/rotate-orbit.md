@@ -3,7 +3,7 @@
 title: rotate orbit(旋转轨道) ICON转svg、png下载
 name: rotate-orbit
 zhTips: 旋转轨道,陀螺仪,加速度计
-unicode: F0D98
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D98</span> 
+<copy-btn content='F0D98' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D98", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

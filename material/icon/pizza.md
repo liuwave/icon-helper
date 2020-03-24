@@ -3,7 +3,7 @@
 title: pizza(披萨) ICON转svg、png下载
 name: pizza
 zhTips: 披萨,比萨饼店,当地披萨
-unicode: F0409
+tags: ["food-drink","places"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0409</span> 
+<copy-btn content='F0409' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0409", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink,Places</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span><span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

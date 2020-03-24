@@ -3,7 +3,7 @@
 title: power plug(电源插头) ICON转svg、png下载
 name: power-plug
 zhTips: 电源插头
-unicode: F06A5
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06A5</span> 
+<copy-btn content='F06A5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06A5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

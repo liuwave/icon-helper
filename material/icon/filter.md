@@ -3,7 +3,7 @@
 title: filter(过滤器) ICON转svg、png下载
 name: filter
 zhTips: 过滤器,漏斗
-unicode: F0232
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0232</span> 
+<copy-btn content='F0232' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0232", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

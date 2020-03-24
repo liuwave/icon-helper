@@ -3,7 +3,7 @@
 title: eject outline(弹出轮廓) ICON转svg、png下载
 name: eject-outline
 zhTips: 弹出轮廓
-unicode: F0B91
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B91</span> 
+<copy-btn content='F0B91' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B91", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

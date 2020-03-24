@@ -3,7 +3,7 @@
 title: account tie voice outline(帐户领带语音轮廓) ICON转svg、png下载
 name: account-tie-voice-outline
 zhTips: 帐户领带语音轮廓
-unicode: F1309
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1309</span> 
+<copy-btn content='F1309' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1309", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

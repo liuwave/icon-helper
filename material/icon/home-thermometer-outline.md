@@ -3,7 +3,7 @@
 title: home thermometer outline(家用温度计轮廓) ICON转svg、png下载
 name: home-thermometer-outline
 zhTips: 家用温度计轮廓,家用气候轮廓,家用温度轮廓
-unicode: F0F55
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F55</span> 
+<copy-btn content='F0F55' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F55", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

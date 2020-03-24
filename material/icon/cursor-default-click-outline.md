@@ -3,7 +3,7 @@
 title: cursor default click outline(光标默认单击轮廓) ICON转svg、png下载
 name: cursor-default-click-outline
 zhTips: 光标默认单击轮廓
-unicode: F0CFE
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CFE</span> 
+<copy-btn content='F0CFE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CFE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

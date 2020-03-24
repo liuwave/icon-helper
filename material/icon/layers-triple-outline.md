@@ -3,7 +3,7 @@
 title: layers triple outline(图层三重轮廓) ICON转svg、png下载
 name: layers-triple-outline
 zhTips: 图层三重轮廓
-unicode: F0F59
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F59</span> 
+<copy-btn content='F0F59' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F59", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

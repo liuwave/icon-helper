@@ -3,7 +3,7 @@
 title: hand water(洗手水) ICON转svg、png下载
 name: hand-water
 zhTips: 洗手水,洗手液
-unicode: F139F
+tags: ["medical-hospital"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F139F</span> 
+<copy-btn content='F139F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F139F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Medical / Hospital</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/medical-hospital.html">医学、医院</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Moma Design Studio</span></span> 
 <br/>

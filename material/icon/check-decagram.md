@@ -3,7 +3,7 @@
 title: check decagram(检查十进制) ICON转svg、png下载
 name: check-decagram
 zhTips: 检查十进制,已验证,十进制检查,批准,勾号十进制
-unicode: F0791
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0791</span> 
+<copy-btn content='F0791' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0791", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

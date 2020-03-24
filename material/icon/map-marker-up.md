@@ -3,7 +3,7 @@
 title: map marker up(将地图标记向上) ICON转svg、png下载
 name: map-marker-up
 zhTips: 将地图标记向上
-unicode: F1103
+tags: ["navigation","geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1103</span> 
+<copy-btn content='F1103' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1103", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Navigation,Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span><span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">François Risoud</span></span> 
 <br/>

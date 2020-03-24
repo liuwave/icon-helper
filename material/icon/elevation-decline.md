@@ -3,7 +3,7 @@
 title: elevation decline(海拔下降) ICON转svg、png下载
 name: elevation-decline
 zhTips: 海拔下降
-unicode: F01EB
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01EB</span> 
+<copy-btn content='F01EB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01EB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

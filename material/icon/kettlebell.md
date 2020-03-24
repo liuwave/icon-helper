@@ -3,7 +3,7 @@
 title: kettlebell(壶铃) ICON转svg、png下载
 name: kettlebell
 zhTips: 壶铃
-unicode: F1300
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1300</span> 
+<copy-btn content='F1300' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1300", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

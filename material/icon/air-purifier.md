@@ -3,7 +3,7 @@
 title: air purifier(在净化器上) ICON转svg、png下载
 name: air-purifier
 zhTips: 在净化器上
-unicode: F0D44
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D44</span> 
+<copy-btn content='F0D44' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D44", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

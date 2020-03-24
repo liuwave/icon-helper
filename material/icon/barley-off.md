@@ -3,7 +3,7 @@
 title: barley off(大麦关闭) ICON转svg、png下载
 name: barley-off
 zhTips: 大麦关闭,无麸质,谷物关闭,小麦关闭
-unicode: F0B5D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B5D</span> 
+<copy-btn content='F0B5D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B5D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

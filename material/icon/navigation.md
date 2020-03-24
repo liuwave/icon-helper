@@ -3,7 +3,7 @@
 title: navigation(导航) ICON转svg、png下载
 name: navigation
 zhTips: 导航,箭头罗盘
-unicode: F0390
+tags: ["navigation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0390</span> 
+<copy-btn content='F0390' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0390", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Navigation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

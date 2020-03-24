@@ -3,7 +3,7 @@
 title: shield alert(防护罩警报) ICON转svg、png下载
 name: shield-alert
 zhTips: 防护罩警报,防护罩警告
-unicode: F0ECC
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0ECC</span> 
+<copy-btn content='F0ECC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0ECC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Peter Noble</span></span> 
 <br/>

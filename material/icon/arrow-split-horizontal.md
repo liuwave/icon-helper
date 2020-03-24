@@ -3,7 +3,7 @@
 title: arrow split horizontal(箭头水平分割) ICON转svg、png下载
 name: arrow-split-horizontal
 zhTips: 箭头水平分割,垂直调整大小,调整大小
-unicode: F093B
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F093B</span> 
+<copy-btn content='F093B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F093B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: pencil circle outline(铅笔圈轮廓) ICON转svg、png下载
 name: pencil-circle-outline
 zhTips: 铅笔圈轮廓
-unicode: F0776
+tags: ["drawing-art"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0776</span> 
+<copy-btn content='F0776' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0776", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Drawing / Art</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/drawing-art.html">绘画、艺术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

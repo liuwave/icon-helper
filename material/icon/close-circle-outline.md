@@ -3,7 +3,7 @@
 title: close circle outline(关闭圆圈轮廓) ICON转svg、png下载
 name: close-circle-outline
 zhTips: 关闭圆圈轮廓,突出显示
-unicode: F015A
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F015A</span> 
+<copy-btn content='F015A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F015A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

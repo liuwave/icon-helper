@@ -3,7 +3,7 @@
 title: graph(图形) ICON转svg、png下载
 name: graph
 zhTips: 图形,依赖项
-unicode: F1049
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1049</span> 
+<copy-btn content='F1049' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1049", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

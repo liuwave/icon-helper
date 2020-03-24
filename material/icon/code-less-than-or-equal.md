@@ -3,7 +3,7 @@
 title: code less than or equal(代码小于或等于) ICON转svg、png下载
 name: code-less-than-or-equal
 zhTips: 代码小于或等于
-unicode: F016F
+tags: ["developer-languages","math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F016F</span> 
+<copy-btn content='F016F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F016F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Developer / Languages,Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span><span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

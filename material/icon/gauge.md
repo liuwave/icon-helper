@@ -3,7 +3,7 @@
 title: gauge(仪表) ICON转svg、png下载
 name: gauge
 zhTips: 仪表,交换驱动应用轮,气压计
-unicode: F029A
+tags: ["home-automation","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F029A</span> 
+<copy-btn content='F029A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F029A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

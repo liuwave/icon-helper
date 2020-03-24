@@ -3,7 +3,7 @@
 title: dump truck(自卸车) ICON转svg、png下载
 name: dump-truck
 zhTips: 自卸车
-unicode: F0C67
+tags: ["transportation-road","hardware-tools"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C67</span> 
+<copy-btn content='F0C67' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C67", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road,Hardware / Tools</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span><span class="badge-light badge"><router-link to="/tags/hardware-tools.html">硬件、工具</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

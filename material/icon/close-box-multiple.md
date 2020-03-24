@@ -3,7 +3,7 @@
 title: close box multiple(关闭多个框) ICON转svg、png下载
 name: close-box-multiple
 zhTips: 关闭多个框,删除库,关闭库
-unicode: F0C5D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C5D</span> 
+<copy-btn content='F0C5D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C5D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

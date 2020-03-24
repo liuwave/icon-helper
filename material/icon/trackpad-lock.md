@@ -3,7 +3,7 @@
 title: trackpad lock(触控板锁) ICON转svg、png下载
 name: trackpad-lock
 zhTips: 触控板锁
-unicode: F0933
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0933</span> 
+<copy-btn content='F0933' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0933", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

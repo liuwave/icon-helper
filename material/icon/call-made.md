@@ -3,7 +3,7 @@
 title: call made(已致电) ICON转svg、png下载
 name: call-made
 zhTips: 已致电
-unicode: F00F7
+tags: ["cellphone-phone","arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00F7</span> 
+<copy-btn content='F00F7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00F7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone,Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span><span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

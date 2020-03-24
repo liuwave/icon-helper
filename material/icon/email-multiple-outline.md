@@ -3,7 +3,7 @@
 title: email multiple outline(通过电子邮件发送多个轮廓) ICON转svg、png下载
 name: email-multiple-outline
 zhTips: 通过电子邮件发送多个轮廓
-unicode: F0EE8
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EE8</span> 
+<copy-btn content='F0EE8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EE8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

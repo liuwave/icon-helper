@@ -3,7 +3,7 @@
 title: power socket au(电源插座au) ICON转svg、png下载
 name: power-socket-au
 zhTips: 电源插座au,插头插座au,电源插座类型i,电源插座cn,电源插座ar,电源插座nz,电源插座pg,电源插座澳大利亚,电源插座中国,电源插座阿根廷,电源插座新西兰,电源插座巴布亚新几内亚
-unicode: F0905
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0905</span> 
+<copy-btn content='F0905' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0905", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

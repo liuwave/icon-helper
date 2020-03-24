@@ -3,7 +3,7 @@
 title: ev station(电动汽车站) ICON转svg、png下载
 name: ev-station
 zhTips: 电动汽车站,充电站
-unicode: F05F1
+tags: ["places","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05F1</span> 
+<copy-btn content='F05F1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05F1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Places,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

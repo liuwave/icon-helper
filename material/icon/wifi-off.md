@@ -3,7 +3,7 @@
 title: wifi off(关闭无线网络) ICON转svg、png下载
 name: wifi-off
 zhTips: 关闭无线网络
-unicode: F05AA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05AA</span> 
+<copy-btn content='F05AA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05AA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

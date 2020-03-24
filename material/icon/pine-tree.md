@@ -3,7 +3,7 @@
 title: pine tree(松树) ICON转svg、png下载
 name: pine-tree
 zhTips: 松树,森林,植物
-unicode: F0405
+tags: ["holiday","nature","places"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0405</span> 
+<copy-btn content='F0405' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0405", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Holiday,Nature,Places</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/holiday.html">假日</router-link></span><span class="badge-light badge"><router-link to="/tags/nature.html">自然</router-link></span><span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

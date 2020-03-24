@@ -3,7 +3,7 @@
 title: slash forward(斜线前进) ICON转svg、png下载
 name: slash-forward
 zhTips: 斜线前进,划分
-unicode: F0FDF
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FDF</span> 
+<copy-btn content='F0FDF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FDF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

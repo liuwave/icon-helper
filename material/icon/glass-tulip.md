@@ -3,7 +3,7 @@
 title: glass tulip(玻璃郁金香) ICON转svg、png下载
 name: glass-tulip
 zhTips: 玻璃郁金香,酒吧
-unicode: F02A8
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02A8</span> 
+<copy-btn content='F02A8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02A8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

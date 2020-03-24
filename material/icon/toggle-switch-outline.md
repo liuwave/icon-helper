@@ -3,7 +3,7 @@
 title: toggle switch outline(拨动开关概述) ICON转svg、png下载
 name: toggle-switch-outline
 zhTips: 拨动开关概述
-unicode: F0A1A
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A1A</span> 
+<copy-btn content='F0A1A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A1A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

@@ -3,7 +3,7 @@
 title: math norm(数学范式) ICON转svg、png下载
 name: math-norm
 zhTips: 数学范式,代码或并行
-unicode: F0FCA
+tags: ["math","developer-languages"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FCA</span> 
+<copy-btn content='F0FCA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FCA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math,Developer / Languages</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span><span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

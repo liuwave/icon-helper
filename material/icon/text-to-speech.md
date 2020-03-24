@@ -3,7 +3,7 @@
 title: text to speech(文字转语音) ICON转svg、png下载
 name: text-to-speech
 zhTips: 文字转语音,tts,麦克风信息
-unicode: F050A
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F050A</span> 
+<copy-btn content='F050A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F050A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

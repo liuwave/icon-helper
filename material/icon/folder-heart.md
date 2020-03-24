@@ -3,7 +3,7 @@
 title: folder heart(夹心) ICON转svg、png下载
 name: folder-heart
 zhTips: 夹心
-unicode: F10EA
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10EA</span> 
+<copy-btn content='F10EA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10EA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

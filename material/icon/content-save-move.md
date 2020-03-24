@@ -3,7 +3,7 @@
 title: content save move(内容保存移动) ICON转svg、png下载
 name: content-save-move
 zhTips: 内容保存移动
-unicode: F0E27
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E27</span> 
+<copy-btn content='F0E27' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E27", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

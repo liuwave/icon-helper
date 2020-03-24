@@ -3,7 +3,7 @@
 title: battery heart variant(电池心音) ICON转svg、png下载
 name: battery-heart-variant
 zhTips: 电池心音
-unicode: F1211
+tags: ["battery"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1211</span> 
+<copy-btn content='F1211' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1211", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

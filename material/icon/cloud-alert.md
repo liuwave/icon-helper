@@ -3,7 +3,7 @@
 title: cloud alert(云警报) ICON转svg、png下载
 name: cloud-alert
 zhTips: 云警报,云警告
-unicode: F09E0
+tags: ["alert-error","cloud","weather"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09E0</span> 
+<copy-btn content='F09E0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09E0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error,Cloud,Weather</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span><span class="badge-light badge"><router-link to="/tags/cloud.html">云</router-link></span><span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">TheChilliPL</span></span> 
 <br/>

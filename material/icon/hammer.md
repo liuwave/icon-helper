@@ -3,7 +3,7 @@
 title: hammer(锤子) ICON转svg、png下载
 name: hammer
 zhTips: 锤子
-unicode: F08EA
+tags: ["hardware-tools"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08EA</span> 
+<copy-btn content='F08EA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08EA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Hardware / Tools</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/hardware-tools.html">硬件、工具</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

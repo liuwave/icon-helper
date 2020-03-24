@@ -3,7 +3,7 @@
 title: table clock(座钟) ICON转svg、png下载
 name: table-clock
 zhTips: 座钟
-unicode: F13C1
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13C1</span> 
+<copy-btn content='F13C1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13C1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

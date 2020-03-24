@@ -3,7 +3,7 @@
 title: page next outline(页下一个轮廓) ICON转svg、png下载
 name: page-next-outline
 zhTips: 页下一个轮廓,了解更多轮廓
-unicode: F0BB1
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BB1</span> 
+<copy-btn content='F0BB1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BB1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

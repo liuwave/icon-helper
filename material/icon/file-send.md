@@ -3,7 +3,7 @@
 title: file send(文件发送) ICON转svg、png下载
 name: file-send
 zhTips: 文件发送,文件移动
-unicode: F022A
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F022A</span> 
+<copy-btn content='F022A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F022A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

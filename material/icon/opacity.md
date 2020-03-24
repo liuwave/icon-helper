@@ -3,7 +3,7 @@
 title: opacity(不透明度) ICON转svg、png下载
 name: opacity
 zhTips: 不透明度
-unicode: F05CC
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05CC</span> 
+<copy-btn content='F05CC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05CC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

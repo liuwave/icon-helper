@@ -3,7 +3,7 @@
 title: lan check(局域网检查) ICON转svg、png下载
 name: lan-check
 zhTips: 局域网检查
-unicode: F12AA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F12AA</span> 
+<copy-btn content='F12AA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F12AA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

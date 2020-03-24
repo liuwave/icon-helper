@@ -3,7 +3,7 @@
 title: play speed(快速播放) ICON转svg、png下载
 name: play-speed
 zhTips: 快速播放
-unicode: F08FF
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08FF</span> 
+<copy-btn content='F08FF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08FF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

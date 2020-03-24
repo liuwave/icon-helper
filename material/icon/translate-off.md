@@ -3,7 +3,7 @@
 title: translate off(翻译) ICON转svg、png下载
 name: translate-off
 zhTips: 翻译
-unicode: F0E06
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E06</span> 
+<copy-btn content='F0E06' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E06", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 

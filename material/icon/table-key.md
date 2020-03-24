@@ -3,7 +3,7 @@
 title: table key(表键) ICON转svg、png下载
 name: table-key
 zhTips: 表键
-unicode: F13C5
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13C5</span> 
+<copy-btn content='F13C5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13C5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

@@ -3,7 +3,7 @@
 title: close box multiple outline(关闭框多个轮廓) ICON转svg、png下载
 name: close-box-multiple-outline
 zhTips: 关闭框多个轮廓,关闭框轮廓,库删除轮廓,库关闭轮廓
-unicode: F0C5E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C5E</span> 
+<copy-btn content='F0C5E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C5E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

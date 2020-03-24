@@ -3,7 +3,7 @@
 title: sync alert(同步警报) ICON转svg、png下载
 name: sync-alert
 zhTips: 同步警报,同步警告,同步问题
-unicode: F04E7
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04E7</span> 
+<copy-btn content='F04E7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04E7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

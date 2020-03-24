@@ -3,7 +3,7 @@
 title: cash multiple(现金倍数) ICON转svg、png下载
 name: cash-multiple
 zhTips: 现金倍数,货币
-unicode: F0116
+tags: ["currency","banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0116</span> 
+<copy-btn content='F0116' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0116", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Currency,Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/currency.html">货币</router-link></span><span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

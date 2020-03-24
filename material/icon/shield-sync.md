@@ -3,7 +3,7 @@
 title: shield sync(屏蔽同步) ICON转svg、png下载
 name: shield-sync
 zhTips: 屏蔽同步
-unicode: F11A2
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11A2</span> 
+<copy-btn content='F11A2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11A2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">François Risoud</span></span> 

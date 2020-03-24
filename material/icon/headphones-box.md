@@ -3,7 +3,7 @@
 title: headphones box(耳机盒) ICON转svg、png下载
 name: headphones-box
 zhTips: 耳机盒
-unicode: F02CC
+tags: ["audio","music"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02CC</span> 
+<copy-btn content='F02CC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02CC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio,Music</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span><span class="badge-light badge"><router-link to="/tags/music.html">音乐</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

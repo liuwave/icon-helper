@@ -3,7 +3,7 @@
 title: airballoon outline(气球轮廓) ICON转svg、png下载
 name: airballoon-outline
 zhTips: 气球轮廓,热气球轮廓
-unicode: F100B
+tags: ["transportation-flying"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F100B</span> 
+<copy-btn content='F100B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F100B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Flying</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-flying.html">运输+飞行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

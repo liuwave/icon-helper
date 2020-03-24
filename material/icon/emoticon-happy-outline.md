@@ -3,7 +3,7 @@
 title: emoticon happy outline(表情符号快乐轮廓) ICON转svg、png下载
 name: emoticon-happy-outline
 zhTips: 表情符号快乐轮廓,笑脸快乐轮廓
-unicode: F01F5
+tags: ["emoji"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01F5</span> 
+<copy-btn content='F01F5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01F5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Emoji</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/emoji.html">表情符号</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Gabriel</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: filter variant remove(过滤器变体移除) ICON转svg、png下载
 name: filter-variant-remove
 zhTips: 过滤器变体移除
-unicode: F103F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F103F</span> 
+<copy-btn content='F103F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F103F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">David Jackson</span></span> 

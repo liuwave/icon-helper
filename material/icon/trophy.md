@@ -3,7 +3,7 @@
 title: trophy(奖杯) ICON转svg、png下载
 name: trophy
 zhTips: 奖杯,成就
-unicode: F0538
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0538</span> 
+<copy-btn content='F0538' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0538", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Doug C. Hardester</span></span> 
 <br/>

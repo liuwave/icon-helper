@@ -3,7 +3,7 @@
 title: eye settings outline(眼睛设置概述) ICON转svg、png下载
 name: eye-settings-outline
 zhTips: 眼睛设置概述
-unicode: F086E
+tags: ["settings"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F086E</span> 
+<copy-btn content='F086E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F086E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Settings</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

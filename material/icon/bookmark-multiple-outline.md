@@ -3,7 +3,7 @@
 title: bookmark multiple outline(收藏多个轮廓) ICON转svg、png下载
 name: bookmark-multiple-outline
 zhTips: 收藏多个轮廓
-unicode: F0E16
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E16</span> 
+<copy-btn content='F0E16' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E16", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

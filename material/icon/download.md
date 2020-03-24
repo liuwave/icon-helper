@@ -3,7 +3,7 @@
 title: download(下载) ICON转svg、png下载
 name: download
 zhTips: 下载,文件下载,获取应用
-unicode: F01DA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01DA</span> 
+<copy-btn content='F01DA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01DA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

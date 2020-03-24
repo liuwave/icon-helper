@@ -3,7 +3,7 @@
 title: arrow collapse down(箭头向下折叠) ICON转svg、png下载
 name: arrow-collapse-down
 zhTips: 箭头向下折叠,箭头向下压缩
-unicode: F0792
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0792</span> 
+<copy-btn content='F0792' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0792", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

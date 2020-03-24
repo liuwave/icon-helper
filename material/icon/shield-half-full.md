@@ -3,7 +3,7 @@
 title: shield half full(盾半满) ICON转svg、png下载
 name: shield-half-full
 zhTips: 盾半满
-unicode: F0780
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0780</span> 
+<copy-btn content='F0780' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0780", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

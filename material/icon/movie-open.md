@@ -3,7 +3,7 @@
 title: movie open(电影打开) ICON转svg、png下载
 name: movie-open
 zhTips: 电影打开,板岩打开,clapperboard打开,电影创作
-unicode: F0FCE
+tags: ["video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FCE</span> 
+<copy-btn content='F0FCE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FCE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

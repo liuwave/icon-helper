@@ -3,7 +3,7 @@
 title: palette outline(调色板轮廓) ICON转svg、png下载
 name: palette-outline
 zhTips: 调色板轮廓
-unicode: F0E0C
+tags: ["drawing-art","color","geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E0C</span> 
+<copy-btn content='F0E0C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E0C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Drawing / Art,Color,Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/drawing-art.html">绘画、艺术</router-link></span><span class="badge-light badge"><router-link to="/tags/color.html">颜色</router-link></span><span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

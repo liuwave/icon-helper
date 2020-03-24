@@ -3,7 +3,7 @@
 title: cube unfolded(展开的立方体) ICON转svg、png下载
 name: cube-unfolded
 zhTips: 展开的立方体
-unicode: F01A9
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01A9</span> 
+<copy-btn content='F01A9' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01A9", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

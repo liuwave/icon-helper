@@ -3,7 +3,7 @@
 title: step forward 2(前进2) ICON转svg、png下载
 name: step-forward-2
 zhTips: 前进2,前进框架
-unicode: F04D8
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04D8</span> 
+<copy-btn content='F04D8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04D8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

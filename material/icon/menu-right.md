@@ -3,7 +3,7 @@
 title: menu right(菜单右) ICON转svg、png下载
 name: menu-right
 zhTips: 菜单右,右箭头
-unicode: F035F
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F035F</span> 
+<copy-btn content='F035F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F035F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: router wireless(无线路由器) ICON转svg、png下载
 name: router-wireless
 zhTips: 无线路由器
-unicode: F0469
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0469</span> 
+<copy-btn content='F0469' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0469", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

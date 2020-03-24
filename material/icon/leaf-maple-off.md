@@ -3,7 +3,7 @@
 title: leaf maple off(离开枫叶) ICON转svg、png下载
 name: leaf-maple-off
 zhTips: 离开枫叶
-unicode: F12DA
+tags: ["nature"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F12DA</span> 
+<copy-btn content='F12DA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F12DA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Nature</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/nature.html">自然</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

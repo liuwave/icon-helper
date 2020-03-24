@@ -3,7 +3,7 @@
 title: calendar account outline(日历帐户轮廓) ICON转svg、png下载
 name: calendar-account-outline
 zhTips: 日历帐户轮廓
-unicode: F0ED8
+tags: ["date-time","account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0ED8</span> 
+<copy-btn content='F0ED8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0ED8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time,Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span><span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

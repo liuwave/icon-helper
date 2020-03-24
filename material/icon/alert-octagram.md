@@ -3,7 +3,7 @@
 title: alert octagram(警报八字) ICON转svg、png下载
 name: alert-octagram
 zhTips: 警报八字,警告八字
-unicode: F0767
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0767</span> 
+<copy-btn content='F0767' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0767", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

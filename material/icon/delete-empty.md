@@ -3,7 +3,7 @@
 title: delete empty(删除为空) ICON转svg、png下载
 name: delete-empty
 zhTips: 删除为空,垃圾为空,垃圾箱为空
-unicode: F06CC
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06CC</span> 
+<copy-btn content='F06CC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06CC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

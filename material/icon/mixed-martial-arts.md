@@ -3,7 +3,7 @@
 title: mixed martial arts(混合武术) ICON转svg、png下载
 name: mixed-martial-arts
 zhTips: 混合武术,mma,手套
-unicode: F0D8F
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D8F</span> 
+<copy-btn content='F0D8F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D8F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

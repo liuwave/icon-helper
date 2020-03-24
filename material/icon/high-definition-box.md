@@ -3,7 +3,7 @@
 title: high definition box(高清盒) ICON转svg、png下载
 name: high-definition-box
 zhTips: 高清盒,高清
-unicode: F0878
+tags: ["video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0878</span> 
+<copy-btn content='F0878' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0878", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

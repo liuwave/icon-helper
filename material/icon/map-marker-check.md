@@ -3,7 +3,7 @@
 title: map marker check(地图标记检查) ICON转svg、png下载
 name: map-marker-check
 zhTips: 地图标记检查,地图标记刻度线,投票位置
-unicode: F0C95
+tags: ["navigation","geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C95</span> 
+<copy-btn content='F0C95' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C95", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Navigation,Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span><span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

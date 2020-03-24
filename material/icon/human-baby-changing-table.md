@@ -3,7 +3,7 @@
 title: human baby changing table(人类婴儿尿布台) ICON转svg、png下载
 name: human-baby-changing-table
 zhTips: 人类婴儿尿布台
-unicode: F138B
+tags: ["people-family"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F138B</span> 
+<copy-btn content='F138B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F138B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">People / Family</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/people-family.html">朋友、家庭</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Moma Design Studio</span></span> 
 <br/>

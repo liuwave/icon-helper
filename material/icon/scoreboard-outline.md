@@ -3,7 +3,7 @@
 title: scoreboard outline(计分板轮廓) ICON转svg、png下载
 name: scoreboard-outline
 zhTips: 计分板轮廓
-unicode: F127F
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F127F</span> 
+<copy-btn content='F127F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F127F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Yaroslav Bandura</span></span> 
 <br/>

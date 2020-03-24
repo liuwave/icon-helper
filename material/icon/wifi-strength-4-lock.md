@@ -3,7 +3,7 @@
 title: wifi strength 4 lock(wifi强度4锁) ICON转svg、png下载
 name: wifi-strength-4-lock
 zhTips: wifi强度4锁
-unicode: F092A
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F092A</span> 
+<copy-btn content='F092A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F092A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

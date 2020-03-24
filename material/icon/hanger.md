@@ -3,7 +3,7 @@
 title: hanger(衣架) ICON转svg、png下载
 name: hanger
 zhTips: 衣架,衣帽架
-unicode: F02C8
+tags: ["clothing"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02C8</span> 
+<copy-btn content='F02C8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02C8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Clothing</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/clothing.html">服装</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Moma Design Studio</span></span> 
 <br/>

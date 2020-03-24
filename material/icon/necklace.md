@@ -3,7 +3,7 @@
 title: necklace(项链) ICON转svg、png下载
 name: necklace
 zhTips: 项链
-unicode: F0F0B
+tags: ["clothing"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F0B</span> 
+<copy-btn content='F0F0B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F0B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Clothing</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/clothing.html">服装</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

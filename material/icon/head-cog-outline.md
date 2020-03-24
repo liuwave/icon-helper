@@ -3,7 +3,7 @@
 title: head cog outline(头部轮廓) ICON转svg、png下载
 name: head-cog-outline
 zhTips: 头部轮廓,心理学轮廓
-unicode: F133D
+tags: ["settings"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F133D</span> 
+<copy-btn content='F133D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F133D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Settings</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

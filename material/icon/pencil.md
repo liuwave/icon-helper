@@ -3,7 +3,7 @@
 title: pencil(铅笔) ICON转svg、png下载
 name: pencil
 zhTips: 铅笔,编辑,创建,编辑模式
-unicode: F03EB
+tags: ["drawing-art","edit-modify"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F03EB</span> 
+<copy-btn content='F03EB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F03EB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Drawing / Art,Edit / Modify</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/drawing-art.html">绘画、艺术</router-link></span><span class="badge-light badge"><router-link to="/tags/edit-modify.html">编辑、修改</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

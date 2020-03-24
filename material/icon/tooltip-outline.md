@@ -3,7 +3,7 @@
 title: tooltip outline(工具提示轮廓) ICON转svg、png下载
 name: tooltip-outline
 zhTips: 工具提示轮廓
-unicode: F0526
+tags: ["tooltip"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0526</span> 
+<copy-btn content='F0526' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0526", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Tooltip</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/tooltip.html">提示条</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

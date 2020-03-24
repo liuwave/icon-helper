@@ -3,7 +3,7 @@
 title: cards heart(卡心) ICON转svg、png下载
 name: cards-heart
 zhTips: 卡心,西装心
-unicode: F08D0
+tags: ["gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08D0</span> 
+<copy-btn content='F08D0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08D0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 
 <br/>

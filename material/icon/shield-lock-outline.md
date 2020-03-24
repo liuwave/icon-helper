@@ -3,7 +3,7 @@
 title: shield lock outline(盾牌锁概述) ICON转svg、png下载
 name: shield-lock-outline
 zhTips: 盾牌锁概述
-unicode: F0CCC
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CCC</span> 
+<copy-btn content='F0CCC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CCC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

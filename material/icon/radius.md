@@ -3,7 +3,7 @@
 title: radius(半径) ICON转svg、png下载
 name: radius
 zhTips: 半径,圆半径,球体半径
-unicode: F0CC0
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CC0</span> 
+<copy-btn content='F0CC0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CC0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

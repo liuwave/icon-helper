@@ -3,7 +3,7 @@
 title: send lock(发送锁) ICON转svg、png下载
 name: send-lock
 zhTips: 发送锁,发送安全
-unicode: F07ED
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07ED</span> 
+<copy-btn content='F07ED' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07ED", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

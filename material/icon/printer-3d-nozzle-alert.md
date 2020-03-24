@@ -3,7 +3,7 @@
 title: printer 3d nozzle alert(打印机3D喷嘴警报) ICON转svg、png下载
 name: printer-3d-nozzle-alert
 zhTips: 打印机3D喷嘴警报
-unicode: F11C0
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11C0</span> 
+<copy-btn content='F11C0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11C0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

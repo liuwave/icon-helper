@@ -3,7 +3,7 @@
 title: message minus(减号消息) ICON转svg、png下载
 name: message-minus
 zhTips: 减号消息
-unicode: F116E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F116E</span> 
+<copy-btn content='F116E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F116E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

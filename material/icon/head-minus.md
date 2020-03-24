@@ -3,7 +3,7 @@
 title: head minus(负号) ICON转svg、png下载
 name: head-minus
 zhTips: 负号
-unicode: F1346
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1346</span> 
+<copy-btn content='F1346' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1346", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

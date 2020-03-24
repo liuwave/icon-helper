@@ -3,7 +3,7 @@
 title: tumble dryer alert(烘干机警报) ICON转svg、png下载
 name: tumble-dryer-alert
 zhTips: 烘干机警报
-unicode: F11BA
+tags: ["home-automation","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11BA</span> 
+<copy-btn content='F11BA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11BA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

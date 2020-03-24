@@ -3,7 +3,7 @@
 title: spider(蜘蛛) ICON转svg、png下载
 name: spider
 zhTips: 蜘蛛
-unicode: F11EA
+tags: ["holiday","nature"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11EA</span> 
+<copy-btn content='F11EA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11EA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Holiday,Nature</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/holiday.html">假日</router-link></span><span class="badge-light badge"><router-link to="/tags/nature.html">自然</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

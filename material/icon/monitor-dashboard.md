@@ -3,7 +3,7 @@
 title: monitor dashboard(仪表板监视器) ICON转svg、png下载
 name: monitor-dashboard
 zhTips: 仪表板监视器
-unicode: F0A07
+tags: ["device-tech","device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A07</span> 
+<copy-btn content='F0A07' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A07", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Device / Tech,Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span><span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

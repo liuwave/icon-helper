@@ -3,7 +3,7 @@
 title: headset dock(扩展坞耳机) ICON转svg、png下载
 name: headset-dock
 zhTips: 扩展坞耳机
-unicode: F02CF
+tags: ["audio"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02CF</span> 
+<copy-btn content='F02CF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02CF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Chris Litherland</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: debug step into(调试进入) ICON转svg、png下载
 name: debug-step-into
 zhTips: 调试进入
-unicode: F01B9
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01B9</span> 
+<copy-btn content='F01B9' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01B9", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

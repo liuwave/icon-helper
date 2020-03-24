@@ -3,7 +3,7 @@
 title: cloud search(云搜索) ICON转svg、png下载
 name: cloud-search
 zhTips: 云搜索
-unicode: F0956
+tags: ["cloud"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0956</span> 
+<copy-btn content='F0956' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0956", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cloud</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cloud.html">云</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

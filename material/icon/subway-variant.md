@@ -3,7 +3,7 @@
 title: subway variant(地铁口音) ICON转svg、png下载
 name: subway-variant
 zhTips: 地铁口音,地铁变体,地下口音,地铁路线,公交路线
-unicode: F04DF
+tags: ["transportation-other"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04DF</span> 
+<copy-btn content='F04DF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04DF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Other</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-other.html">运输+其他</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

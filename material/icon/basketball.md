@@ -3,7 +3,7 @@
 title: basketball(篮球) ICON转svg、png下载
 name: basketball
 zhTips: 篮球,YouTube体育
-unicode: F0806
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0806</span> 
+<copy-btn content='F0806' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0806", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

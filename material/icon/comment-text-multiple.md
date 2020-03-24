@@ -3,7 +3,7 @@
 title: comment text multiple(多个文本注释) ICON转svg、png下载
 name: comment-text-multiple
 zhTips: 多个文本注释,文本注释
-unicode: F0860
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0860</span> 
+<copy-btn content='F0860' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0860", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

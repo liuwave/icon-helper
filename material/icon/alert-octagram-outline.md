@@ -3,7 +3,7 @@
 title: alert octagram outline(警告八卦轮廓) ICON转svg、png下载
 name: alert-octagram-outline
 zhTips: 警告八卦轮廓
-unicode: F0CE7
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CE7</span> 
+<copy-btn content='F0CE7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CE7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Peter Noble</span></span> 
 <br/>

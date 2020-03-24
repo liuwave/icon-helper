@@ -3,7 +3,7 @@
 title: go kart track(至卡丁车赛道) ICON转svg、png下载
 name: go-kart-track
 zhTips: 至卡丁车赛道
-unicode: F0D7A
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D7A</span> 
+<copy-btn content='F0D7A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D7A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

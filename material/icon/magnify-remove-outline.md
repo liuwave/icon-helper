@@ -3,7 +3,7 @@
 title: magnify remove outline(放大删除轮廓) ICON转svg、png下载
 name: magnify-remove-outline
 zhTips: 放大删除轮廓
-unicode: F120D
+tags: ["geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F120D</span> 
+<copy-btn content='F120D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F120D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

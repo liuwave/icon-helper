@@ -3,7 +3,7 @@
 title: car settings(汽车设置) ICON转svg、png下载
 name: car-settings
 zhTips: 汽车设置
-unicode: F13CD
+tags: ["automotive","settings"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13CD</span> 
+<copy-btn content='F13CD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13CD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive,Settings</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span><span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

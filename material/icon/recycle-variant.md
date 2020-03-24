@@ -3,7 +3,7 @@
 title: recycle variant(回收口音) ICON转svg、png下载
 name: recycle-variant
 zhTips: 回收口音
-unicode: F139D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F139D</span> 
+<copy-btn content='F139D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F139D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Moma Design Studio</span></span> 

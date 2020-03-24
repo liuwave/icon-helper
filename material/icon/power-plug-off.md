@@ -3,7 +3,7 @@
 title: power plug off(电源插头关闭) ICON转svg、png下载
 name: power-plug-off
 zhTips: 电源插头关闭,电源关闭
-unicode: F06A6
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06A6</span> 
+<copy-btn content='F06A6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06A6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

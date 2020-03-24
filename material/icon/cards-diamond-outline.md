@@ -3,7 +3,7 @@
 title: cards diamond outline(菱形卡轮廓) ICON转svg、png下载
 name: cards-diamond-outline
 zhTips: 菱形卡轮廓,高架车道轮廓,高占用车辆车道轮廓,拼车车道轮廓
-unicode: F101D
+tags: ["transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F101D</span> 
+<copy-btn content='F101D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F101D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: security(安全) ICON转svg、png下载
 name: security
 zhTips: 安全
-unicode: F0483
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0483</span> 
+<copy-btn content='F0483' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0483", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

@@ -3,7 +3,7 @@
 title: emoticon dead outline(表情符号轮廓轮廓) ICON转svg、png下载
 name: emoticon-dead-outline
 zhTips: 表情符号轮廓轮廓,笑脸轮廓轮廓
-unicode: F069B
+tags: ["emoji"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F069B</span> 
+<copy-btn content='F069B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F069B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Emoji</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/emoji.html">表情符号</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

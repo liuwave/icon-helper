@@ -3,7 +3,7 @@
 title: order bool descending(订单布尔降序) ICON转svg、png下载
 name: order-bool-descending
 zhTips: 订单布尔降序,订单复选框降序
-unicode: F1384
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1384</span> 
+<copy-btn content='F1384' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1384", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

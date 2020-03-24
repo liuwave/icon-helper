@@ -3,7 +3,7 @@
 title: battery charging 30(电池充电30) ICON转svg、png下载
 name: battery-charging-30
 zhTips: 电池充电30
-unicode: F0087
+tags: ["battery","home-automation","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0087</span> 
+<copy-btn content='F0087' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0087", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery,Home Automation,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

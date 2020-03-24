@@ -3,7 +3,7 @@
 title: radar(雷达) ICON转svg、png下载
 name: radar
 zhTips: 雷达,航迹变化
-unicode: F0437
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0437</span> 
+<copy-btn content='F0437' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0437", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

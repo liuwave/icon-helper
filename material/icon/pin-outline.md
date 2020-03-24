@@ -3,7 +3,7 @@
 title: pin outline(引脚轮廓) ICON转svg、png下载
 name: pin-outline
 zhTips: 引脚轮廓,保持轮廓
-unicode: F0931
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0931</span> 
+<copy-btn content='F0931' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0931", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

@@ -3,7 +3,7 @@
 title: fishbowl(鱼缸) ICON转svg、png下载
 name: fishbowl
 zhTips: 鱼缸,水族馆
-unicode: F0EF3
+tags: ["animal"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EF3</span> 
+<copy-btn content='F0EF3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EF3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Animal</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/animal.html">动物</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

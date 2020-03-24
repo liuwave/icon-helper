@@ -3,7 +3,7 @@
 title: linux(Linux) ICON转svg、png下载
 name: linux
 zhTips: Linux,无尾礼服
-unicode: F033D
+tags: ["animal","brand-logo"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F033D</span> 
+<copy-btn content='F033D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F033D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Animal,Brand / Logo</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/animal.html">动物</router-link></span><span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

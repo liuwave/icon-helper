@@ -3,7 +3,7 @@
 title: text subject(文字主题) ICON转svg、png下载
 name: text-subject
 zhTips: 文字主题
-unicode: F09AA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09AA</span> 
+<copy-btn content='F09AA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09AA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

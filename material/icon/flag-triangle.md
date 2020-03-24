@@ -3,7 +3,7 @@
 title: flag triangle(标志三角形) ICON转svg、png下载
 name: flag-triangle
 zhTips: 标志三角形,里程碑
-unicode: F023F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F023F</span> 
+<copy-btn content='F023F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F023F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

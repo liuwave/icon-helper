@@ -3,7 +3,7 @@
 title: message bulleted(消息项目符号) ICON转svg、png下载
 name: message-bulleted
 zhTips: 消息项目符号,演讲者备注
-unicode: F06A2
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06A2</span> 
+<copy-btn content='F06A2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06A2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

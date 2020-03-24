@@ -3,7 +3,7 @@
 title: account supervisor outline(客户主管概述) ICON转svg、png下载
 name: account-supervisor-outline
 zhTips: 客户主管概述
-unicode: F112D
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F112D</span> 
+<copy-btn content='F112D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F112D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Sascha Wohlgemuth</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: set none(设置为空) ICON转svg、png下载
 name: set-none
 zhTips: 设置为空,不设置
-unicode: F077E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F077E</span> 
+<copy-btn content='F077E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F077E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

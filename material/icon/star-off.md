@@ -3,7 +3,7 @@
 title: star off(星关闭) ICON转svg、png下载
 name: star-off
 zhTips: 星关闭
-unicode: F04D1
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04D1</span> 
+<copy-btn content='F04D1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04D1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

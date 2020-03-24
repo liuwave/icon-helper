@@ -3,7 +3,7 @@
 title: water(水) ICON转svg、png下载
 name: water
 zhTips: 水,水滴,血液,反式脂肪
-unicode: F058C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F058C</span> 
+<copy-btn content='F058C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F058C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

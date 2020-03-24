@@ -3,7 +3,7 @@
 title: mixed reality(混合现实) ICON转svg、png下载
 name: mixed-reality
 zhTips: 混合现实
-unicode: F087F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F087F</span> 
+<copy-btn content='F087F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F087F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

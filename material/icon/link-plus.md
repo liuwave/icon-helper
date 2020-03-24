@@ -3,7 +3,7 @@
 title: link plus(链接加) ICON转svg、png下载
 name: link-plus
 zhTips: 链接加,链接添加
-unicode: F0C94
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C94</span> 
+<copy-btn content='F0C94' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C94", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

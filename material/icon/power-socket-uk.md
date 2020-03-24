@@ -3,7 +3,7 @@
 title: power socket uk(英国电源插座) ICON转svg、png下载
 name: power-socket-uk
 zhTips: 英国电源插座,英国插头插座,类型g的电源插座,即电源插座hk,电源插座my,电源插座cy,电源插座mt,联合电源插座,爱尔兰电源插座,电源插座香港,马来西亚的电源插座,塞浦路斯的电源插座,马耳他的电源插座,新加坡的电源插座
-unicode: F07E8
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07E8</span> 
+<copy-btn content='F07E8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07E8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

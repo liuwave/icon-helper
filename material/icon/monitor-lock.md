@@ -3,7 +3,7 @@
 title: monitor lock(显示器锁) ICON转svg、png下载
 name: monitor-lock
 zhTips: 显示器锁
-unicode: F0DDB
+tags: ["device-tech","lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DDB</span> 
+<copy-btn content='F0DDB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DDB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Device / Tech,Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span><span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

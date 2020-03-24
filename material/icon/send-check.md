@@ -3,7 +3,7 @@
 title: send check(发送支票) ICON转svg、png下载
 name: send-check
 zhTips: 发送支票
-unicode: F1161
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1161</span> 
+<copy-btn content='F1161' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1161", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

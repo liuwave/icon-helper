@@ -3,7 +3,7 @@
 title: account plus(帐户加号) ICON转svg、png下载
 name: account-plus
 zhTips: 帐户加号,注册,用户加号,人员添加,人员加号,用户添加,邀请
-unicode: F0014
+tags: ["account-user","home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0014</span> 
+<copy-btn content='F0014' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0014", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: shoe heel(鞋跟) ICON转svg、png下载
 name: shoe-heel
 zhTips: 鞋跟
-unicode: F0B48
+tags: ["clothing"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B48</span> 
+<copy-btn content='F0B48' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B48", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.8.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Clothing</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/clothing.html">服装</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">SarinManS</span></span> 
 <br/>

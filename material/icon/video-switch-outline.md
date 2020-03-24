@@ -3,7 +3,7 @@
 title: video switch outline(视频开关概述) ICON转svg、png下载
 name: video-switch-outline
 zhTips: 视频开关概述
-unicode: F0790
+tags: ["video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0790</span> 
+<copy-btn content='F0790' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0790", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

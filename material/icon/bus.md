@@ -3,7 +3,7 @@
 title: bus(公交) ICON转svg、png下载
 name: bus
 zhTips: 公交,公交路线
-unicode: F00E7
+tags: ["navigation","transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00E7</span> 
+<copy-btn content='F00E7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00E7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Navigation,Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span><span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

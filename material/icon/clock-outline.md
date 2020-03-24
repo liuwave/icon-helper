@@ -3,7 +3,7 @@
 title: clock outline(时钟轮廓) ICON转svg、png下载
 name: clock-outline
 zhTips: 时钟轮廓,访问时间,查询生成器,计划
-unicode: F0150
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0150</span> 
+<copy-btn content='F0150' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0150", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

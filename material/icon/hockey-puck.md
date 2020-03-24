@@ -3,7 +3,7 @@
 title: hockey puck(冰球) ICON转svg、png下载
 name: hockey-puck
 zhTips: 冰球
-unicode: F0879
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0879</span> 
+<copy-btn content='F0879' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0879", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: credit card outline(信用卡轮廓) ICON转svg、png下载
 name: credit-card-outline
 zhTips: 信用卡轮廓,付款
-unicode: F019B
+tags: ["shopping","banking","currency"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F019B</span> 
+<copy-btn content='F019B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F019B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shopping,Banking,Currency</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shopping.html">购物</router-link></span><span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span><span class="badge-light badge"><router-link to="/tags/currency.html">货币</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

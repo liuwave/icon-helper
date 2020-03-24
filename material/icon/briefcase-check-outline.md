@@ -3,7 +3,7 @@
 title: briefcase check outline(轮廓检查公文包) ICON转svg、png下载
 name: briefcase-check-outline
 zhTips: 轮廓检查公文包
-unicode: F131E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F131E</span> 
+<copy-btn content='F131E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F131E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

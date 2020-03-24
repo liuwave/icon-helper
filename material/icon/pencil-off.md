@@ -3,7 +3,7 @@
 title: pencil off(铅笔关闭) ICON转svg、png下载
 name: pencil-off
 zhTips: 铅笔关闭,编辑关闭
-unicode: F03EF
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F03EF</span> 
+<copy-btn content='F03EF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F03EF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

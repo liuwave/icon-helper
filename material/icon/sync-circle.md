@@ -3,7 +3,7 @@
 title: sync circle(同步圈) ICON转svg、png下载
 name: sync-circle
 zhTips: 同步圈
-unicode: F1378
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1378</span> 
+<copy-btn content='F1378' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1378", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">François Risoud</span></span> 

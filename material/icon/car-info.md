@@ -3,7 +3,7 @@
 title: car info(汽车信息) ICON转svg、png下载
 name: car-info
 zhTips: 汽车信息
-unicode: F11BE
+tags: ["automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11BE</span> 
+<copy-btn content='F11BE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11BE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

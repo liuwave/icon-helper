@@ -3,7 +3,7 @@
 title: rotate 3d variant(旋转3d口音) ICON转svg、png下载
 name: rotate-3d-variant
 zhTips: 旋转3d口音,3d旋转
-unicode: F0464
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0464</span> 
+<copy-btn content='F0464' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0464", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

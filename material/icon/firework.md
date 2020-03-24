@@ -3,7 +3,7 @@
 title: firework(烟火) ICON转svg、png下载
 name: firework
 zhTips: 烟火,火箭瓶
-unicode: F0E30
+tags: ["holiday"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E30</span> 
+<copy-btn content='F0E30' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E30", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Holiday</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/holiday.html">假日</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Augustin Ursu</span></span> 
 <br/>

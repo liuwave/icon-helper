@@ -3,7 +3,7 @@
 title: arrange bring forward(安排提出) ICON转svg、png下载
 name: arrange-bring-forward
 zhTips: 安排提出
-unicode: F003D
+tags: ["arrange","geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F003D</span> 
+<copy-btn content='F003D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F003D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrange,Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrange.html">排列</router-link></span><span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

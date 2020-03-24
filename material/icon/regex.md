@@ -3,7 +3,7 @@
 title: regex(正则表达式) ICON转svg、png下载
 name: regex
 zhTips: 正则表达式
-unicode: F0451
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0451</span> 
+<copy-btn content='F0451' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0451", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Doug C. Hardester</span></span> 

@@ -3,7 +3,7 @@
 title: badge account alert(徽章帐户警报) ICON转svg、png下载
 name: badge-account-alert
 zhTips: 徽章帐户警报,用户徽章警报,人员徽章警报,帐户徽章警告,用户徽章警告,人员徽章警告
-unicode: F0DA8
+tags: ["account-user","alert-error","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DA8</span> 
+<copy-btn content='F0DA8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DA8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Alert / Error,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

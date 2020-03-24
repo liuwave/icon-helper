@@ -3,7 +3,7 @@
 title: eject(弹出) ICON转svg、png下载
 name: eject
 zhTips: 弹出
-unicode: F01EA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01EA</span> 
+<copy-btn content='F01EA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01EA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

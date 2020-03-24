@@ -3,7 +3,7 @@
 title: bottle soda classic(瓶汽水经典) ICON转svg、png下载
 name: bottle-soda-classic
 zhTips: 瓶汽水经典,瓶可乐经典,瓶流行经典
-unicode: F1071
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1071</span> 
+<copy-btn content='F1071' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1071", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

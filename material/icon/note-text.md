@@ -3,7 +3,7 @@
 title: note text(注释文字) ICON转svg、png下载
 name: note-text
 zhTips: 注释文字
-unicode: F039E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F039E</span> 
+<copy-btn content='F039E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F039E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

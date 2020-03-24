@@ -3,7 +3,7 @@
 title: heart half full(心半满) ICON转svg、png下载
 name: heart-half-full
 zhTips: 心半满
-unicode: F06DE
+tags: ["gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06DE</span> 
+<copy-btn content='F06DE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06DE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Case Sandberg</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: account question outline(帐户问题轮廓) ICON转svg、png下载
 name: account-question-outline
 zhTips: 帐户问题轮廓,帐户问号轮廓,用户帮助轮廓,用户问题轮廓,人员问题轮廓,人员帮助轮廓
-unicode: F0B5A
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B5A</span> 
+<copy-btn content='F0B5A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B5A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Coffeemate</span></span> 
 <br/>

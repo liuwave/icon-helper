@@ -3,7 +3,7 @@
 title: check outline(检查轮廓) ICON转svg、png下载
 name: check-outline
 zhTips: 检查轮廓,完成轮廓,刻度线
-unicode: F0855
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0855</span> 
+<copy-btn content='F0855' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0855", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

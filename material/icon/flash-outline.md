@@ -3,7 +3,7 @@
 title: flash outline(闪光灯轮廓) ICON转svg、png下载
 name: flash-outline
 zhTips: 闪光灯轮廓,闪电轮廓
-unicode: F06D5
+tags: ["weather"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06D5</span> 
+<copy-btn content='F06D5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06D5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

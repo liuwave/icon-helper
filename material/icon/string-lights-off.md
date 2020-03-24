@@ -3,7 +3,7 @@
 title: string lights off(灯串关闭) ICON转svg、png下载
 name: string-lights-off
 zhTips: 灯串关闭,意大利灯关闭,圣诞节灯关闭,仙女灯关闭
-unicode: F12BB
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F12BB</span> 
+<copy-btn content='F12BB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F12BB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

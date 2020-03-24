@@ -3,7 +3,7 @@
 title: label multiple outline(标签多个轮廓) ICON转svg、png下载
 name: label-multiple-outline
 zhTips: 标签多个轮廓
-unicode: F1376
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1376</span> 
+<copy-btn content='F1376' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1376", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">nilsfast</span></span> 

@@ -3,7 +3,7 @@
 title: shield account outline(屏蔽帐户轮廓) ICON转svg、png下载
 name: shield-account-outline
 zhTips: 屏蔽帐户轮廓,安全帐户轮廓,屏蔽用户轮廓,屏蔽人员轮廓
-unicode: F0A12
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A12</span> 
+<copy-btn content='F0A12' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A12", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: panorama vertical(垂直全景) ICON转svg、png下载
 name: panorama-vertical
 zhTips: 垂直全景
-unicode: F03DF
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F03DF</span> 
+<copy-btn content='F03DF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F03DF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

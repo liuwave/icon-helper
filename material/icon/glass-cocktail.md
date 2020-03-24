@@ -3,7 +3,7 @@
 title: glass cocktail(玻璃鸡尾酒) ICON转svg、png下载
 name: glass-cocktail
 zhTips: 玻璃鸡尾酒,当地酒吧,鸡尾酒,马提尼酒
-unicode: F0356
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0356</span> 
+<copy-btn content='F0356' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0356", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

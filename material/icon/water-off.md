@@ -3,7 +3,7 @@
 title: water off(不用水) ICON转svg、png下载
 name: water-off
 zhTips: 不用水,不使用格式色彩复位,不使用反型脂肪,不使用血液
-unicode: F058D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F058D</span> 
+<copy-btn content='F058D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F058D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

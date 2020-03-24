@@ -3,7 +3,7 @@
 title: stop circle(停止圈) ICON转svg、png下载
 name: stop-circle
 zhTips: 停止圈
-unicode: F0666
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0666</span> 
+<copy-btn content='F0666' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0666", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

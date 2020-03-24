@@ -3,7 +3,7 @@
 title: clover(三叶草) ICON转svg、png下载
 name: clover
 zhTips: 三叶草,运气
-unicode: F0816
+tags: ["nature"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0816</span> 
+<copy-btn content='F0816' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0816", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Nature</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/nature.html">自然</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

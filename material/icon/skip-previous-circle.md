@@ -3,7 +3,7 @@
 title: skip previous circle(跳过上一个圈子) ICON转svg、png下载
 name: skip-previous-circle
 zhTips: 跳过上一个圈子
-unicode: F0663
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0663</span> 
+<copy-btn content='F0663' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0663", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

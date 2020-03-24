@@ -3,7 +3,7 @@
 title: thumb down outline(拇指向下轮廓) ICON转svg、png下载
 name: thumb-down-outline
 zhTips: 拇指向下轮廓,不喜欢轮廓
-unicode: F0512
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0512</span> 
+<copy-btn content='F0512' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0512", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

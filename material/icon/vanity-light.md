@@ -3,7 +3,7 @@
 title: vanity light(轻虚荣) ICON转svg、png下载
 name: vanity-light
 zhTips: 轻虚荣
-unicode: F11E1
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11E1</span> 
+<copy-btn content='F11E1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11E1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

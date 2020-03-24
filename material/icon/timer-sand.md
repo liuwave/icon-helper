@@ -3,7 +3,7 @@
 title: timer sand(沙漏计时器) ICON转svg、png下载
 name: timer-sand
 zhTips: 沙漏计时器,沙漏
-unicode: F051F
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F051F</span> 
+<copy-btn content='F051F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F051F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

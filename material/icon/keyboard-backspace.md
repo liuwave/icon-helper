@@ -3,7 +3,7 @@
 title: keyboard backspace(键盘退格键) ICON转svg、png下载
 name: keyboard-backspace
 zhTips: 键盘退格键
-unicode: F030D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F030D</span> 
+<copy-btn content='F030D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F030D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

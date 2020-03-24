@@ -3,7 +3,7 @@
 title: tooltip text(工具提示文字) ICON转svg、png下载
 name: tooltip-text
 zhTips: 工具提示文字
-unicode: F0528
+tags: ["tooltip"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0528</span> 
+<copy-btn content='F0528' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0528", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Tooltip</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/tooltip.html">提示条</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

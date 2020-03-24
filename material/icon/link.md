@@ -3,7 +3,7 @@
 title: link(链接) ICON转svg、png下载
 name: link
 zhTips: 链接,插入链接
-unicode: F0337
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0337</span> 
+<copy-btn content='F0337' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0337", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

@@ -3,7 +3,7 @@
 title: cast audio(投放音频) ICON转svg、png下载
 name: cast-audio
 zhTips: 投放音频,投放扬声器
-unicode: F101E
+tags: ["audio"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F101E</span> 
+<copy-btn content='F101E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F101E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

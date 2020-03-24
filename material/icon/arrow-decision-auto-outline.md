@@ -3,7 +3,7 @@
 title: arrow decision auto outline(箭头决策自动轮廓) ICON转svg、png下载
 name: arrow-decision-auto-outline
 zhTips: 箭头决策自动轮廓,代理自动轮廓
-unicode: F09BD
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09BD</span> 
+<copy-btn content='F09BD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09BD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

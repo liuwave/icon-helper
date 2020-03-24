@@ -3,7 +3,7 @@
 title: resistor(电阻) ICON转svg、png下载
 name: resistor
 zhTips: 电阻
-unicode: F0B44
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B44</span> 
+<copy-btn content='F0B44' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B44", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.8.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Louistwee</span></span> 

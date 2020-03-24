@@ -3,7 +3,7 @@
 title: slope downhill(下坡) ICON转svg、png下载
 name: slope-downhill
 zhTips: 下坡
-unicode: F0DFF
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DFF</span> 
+<copy-btn content='F0DFF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DFF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

@@ -3,7 +3,7 @@
 title: white balance iridescent(白平衡彩虹色) ICON转svg、png下载
 name: white-balance-iridescent
 zhTips: 白平衡彩虹色,wb彩虹色
-unicode: F05A7
+tags: ["photography"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05A7</span> 
+<copy-btn content='F05A7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05A7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Photography</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/photography.html">摄影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

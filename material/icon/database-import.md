@@ -3,7 +3,7 @@
 title: database import(数据库导入) ICON转svg、png下载
 name: database-import
 zhTips: 数据库导入
-unicode: F095D
+tags: ["geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F095D</span> 
+<copy-btn content='F095D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F095D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

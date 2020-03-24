@@ -3,7 +3,7 @@
 title: text box remove outline(文本框删除轮廓) ICON转svg、png下载
 name: text-box-remove-outline
 zhTips: 文本框删除轮廓,文件文档框删除轮廓
-unicode: F0EAD
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EAD</span> 
+<copy-btn content='F0EAD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EAD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

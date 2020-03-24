@@ -3,7 +3,7 @@
 title: arrow collapse horizontal(箭头水平折叠) ICON转svg、png下载
 name: arrow-collapse-horizontal
 zhTips: 箭头水平折叠
-unicode: F084C
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F084C</span> 
+<copy-btn content='F084C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F084C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

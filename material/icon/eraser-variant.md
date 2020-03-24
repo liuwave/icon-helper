@@ -3,7 +3,7 @@
 title: eraser variant(橡皮擦重音) ICON转svg、png下载
 name: eraser-variant
 zhTips: 橡皮擦重音
-unicode: F0642
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0642</span> 
+<copy-btn content='F0642' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0642", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

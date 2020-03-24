@@ -3,7 +3,7 @@
 title: filter plus outline(过滤器加轮廓) ICON转svg、png下载
 name: filter-plus-outline
 zhTips: 过滤器加轮廓,漏斗加轮廓
-unicode: F0EF1
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EF1</span> 
+<copy-btn content='F0EF1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EF1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

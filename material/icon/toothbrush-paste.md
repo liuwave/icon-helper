@@ -3,7 +3,7 @@
 title: toothbrush paste(牙刷膏) ICON转svg、png下载
 name: toothbrush-paste
 zhTips: 牙刷膏,牙医,口腔卫生
-unicode: F112A
+tags: ["medical-hospital"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F112A</span> 
+<copy-btn content='F112A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F112A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Medical / Hospital</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/medical-hospital.html">医学、医院</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

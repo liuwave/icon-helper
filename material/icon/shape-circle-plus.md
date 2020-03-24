@@ -3,7 +3,7 @@
 title: shape circle plus(形状圆加) ICON转svg、png下载
 name: shape-circle-plus
 zhTips: 形状圆加
-unicode: F065D
+tags: ["shape"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F065D</span> 
+<copy-btn content='F065D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F065D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shape</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shape.html">Shape</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Kai Faust</span></span> 
 <br/>

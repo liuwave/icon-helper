@@ -3,7 +3,7 @@
 title: timer(计时器) ICON转svg、png下载
 name: timer
 zhTips: 计时器,秒表
-unicode: F13AB
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13AB</span> 
+<copy-btn content='F13AB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13AB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

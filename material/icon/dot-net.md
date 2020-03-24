@@ -3,7 +3,7 @@
 title: dot net(点网) ICON转svg、png下载
 name: dot-net
 zhTips: 点网,微软点网
-unicode: F0AAE
+tags: ["developer-languages"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0AAE</span> 
+<copy-btn content='F0AAE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0AAE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Developer / Languages</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

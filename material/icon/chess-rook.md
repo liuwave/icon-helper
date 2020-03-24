@@ -3,7 +3,7 @@
 title: chess rook(国际象棋车) ICON转svg、png下载
 name: chess-rook
 zhTips: 国际象棋车,国际象棋城堡
-unicode: F085B
+tags: ["gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F085B</span> 
+<copy-btn content='F085B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F085B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: database check(数据库检查) ICON转svg、png下载
 name: database-check
 zhTips: 数据库检查,数据库打勾
-unicode: F0AA9
+tags: ["geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0AA9</span> 
+<copy-btn content='F0AA9' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0AA9", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Andrew Nenakhov</span></span> 
 <br/>

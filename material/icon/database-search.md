@@ -3,7 +3,7 @@
 title: database search(数据库搜索) ICON转svg、png下载
 name: database-search
 zhTips: 数据库搜索
-unicode: F0866
+tags: ["geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0866</span> 
+<copy-btn content='F0866' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0866", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

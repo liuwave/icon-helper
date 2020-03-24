@@ -3,7 +3,7 @@
 title: code array(代码数组) ICON转svg、png下载
 name: code-array
 zhTips: 代码数组
-unicode: F0168
+tags: ["developer-languages"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0168</span> 
+<copy-btn content='F0168' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0168", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Developer / Languages</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

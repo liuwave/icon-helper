@@ -3,7 +3,7 @@
 title: send clock(发送时钟) ICON转svg、png下载
 name: send-clock
 zhTips: 发送时钟
-unicode: F1163
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1163</span> 
+<copy-btn content='F1163' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1163", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

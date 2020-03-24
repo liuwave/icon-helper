@@ -3,7 +3,7 @@
 title: air conditioner(空调) ICON转svg、png下载
 name: air-conditioner
 zhTips: 空调,空调装置
-unicode: F001B
+tags: ["home-automation","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F001B</span> 
+<copy-btn content='F001B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F001B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

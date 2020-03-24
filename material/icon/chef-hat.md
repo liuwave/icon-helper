@@ -3,7 +3,7 @@
 title: chef hat(厨师帽) ICON转svg、png下载
 name: chef-hat
 zhTips: 厨师帽,无边帽,厨师
-unicode: F0B7C
+tags: ["clothing"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B7C</span> 
+<copy-btn content='F0B7C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B7C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Clothing</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/clothing.html">服装</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

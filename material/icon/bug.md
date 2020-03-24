@@ -3,7 +3,7 @@
 title: bug(错误) ICON转svg、png下载
 name: bug
 zhTips: 错误,错误报告
-unicode: F00E4
+tags: ["nature"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00E4</span> 
+<copy-btn content='F00E4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00E4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Nature</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/nature.html">自然</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

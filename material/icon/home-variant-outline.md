@@ -3,7 +3,7 @@
 title: home variant outline(房屋简介) ICON转svg、png下载
 name: home-variant-outline
 zhTips: 房屋简介
-unicode: F0BA7
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BA7</span> 
+<copy-btn content='F0BA7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BA7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

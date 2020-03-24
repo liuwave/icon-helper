@@ -3,7 +3,7 @@
 title: contactless payment circle(非接触式支付圈) ICON转svg、png下载
 name: contactless-payment-circle
 zhTips: 非接触式支付圈
-unicode: F0321
+tags: ["currency"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0321</span> 
+<copy-btn content='F0321' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0321", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Currency</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/currency.html">货币</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

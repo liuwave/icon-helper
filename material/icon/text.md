@@ -3,7 +3,7 @@
 title: text(文字) ICON转svg、png下载
 name: text
 zhTips: 文字,笔记
-unicode: F09A8
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09A8</span> 
+<copy-btn content='F09A8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09A8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

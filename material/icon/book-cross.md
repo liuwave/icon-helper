@@ -3,7 +3,7 @@
 title: book cross(书本十字架) ICON转svg、png下载
 name: book-cross
 zhTips: 书本十字架,圣经
-unicode: F00A2
+tags: ["religion"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00A2</span> 
+<copy-btn content='F00A2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00A2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Religion</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/religion.html">宗教</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Christopher Schreiner</span></span> 
 <br/>

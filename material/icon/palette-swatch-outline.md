@@ -3,7 +3,7 @@
 title: palette swatch outline(调色板色板轮廓) ICON转svg、png下载
 name: palette-swatch-outline
 zhTips: 调色板色板轮廓,样式轮廓
-unicode: F135C
+tags: ["drawing-art","color"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F135C</span> 
+<copy-btn content='F135C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F135C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Drawing / Art,Color</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/drawing-art.html">绘画、艺术</router-link></span><span class="badge-light badge"><router-link to="/tags/color.html">颜色</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

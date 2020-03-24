@@ -3,7 +3,7 @@
 title: camera metering partial(照相机测光部分) ICON转svg、png下载
 name: camera-metering-partial
 zhTips: 照相机测光部分
-unicode: F07A4
+tags: ["photography"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07A4</span> 
+<copy-btn content='F07A4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07A4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Photography</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/photography.html">摄影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Andy Martinez</span></span> 
 <br/>

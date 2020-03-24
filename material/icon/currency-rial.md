@@ -3,7 +3,7 @@
 title: currency rial(货币里亚尔) ICON转svg、png下载
 name: currency-rial
 zhTips: 货币里亚尔,货币irr,货币omr,货币yer,货币sar
-unicode: F0E9C
+tags: ["currency","banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E9C</span> 
+<copy-btn content='F0E9C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E9C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Currency,Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/currency.html">货币</router-link></span><span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Haley Halcyon</span></span> 
 <br/>

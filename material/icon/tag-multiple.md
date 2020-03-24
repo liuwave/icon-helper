@@ -3,7 +3,7 @@
 title: tag multiple(标签多个) ICON转svg、png下载
 name: tag-multiple
 zhTips: 标签多个,标签
-unicode: F04FB
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04FB</span> 
+<copy-btn content='F04FB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04FB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

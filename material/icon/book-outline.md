@@ -3,7 +3,7 @@
 title: book outline(书籍轮廓) ICON转svg、png下载
 name: book-outline
 zhTips: 书籍轮廓
-unicode: F0B64
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B64</span> 
+<copy-btn content='F0B64' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B64", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

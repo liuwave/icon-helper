@@ -3,7 +3,7 @@
 title: shield search(盾牌搜索) ICON转svg、png下载
 name: shield-search
 zhTips: 盾牌搜索
-unicode: F0D9A
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D9A</span> 
+<copy-btn content='F0D9A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D9A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

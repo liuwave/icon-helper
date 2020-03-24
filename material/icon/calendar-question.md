@@ -3,7 +3,7 @@
 title: calendar question(日历问题) ICON转svg、png下载
 name: calendar-question
 zhTips: 日历问题,日历rsvp,事件问题
-unicode: F0692
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0692</span> 
+<copy-btn content='F0692' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0692", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

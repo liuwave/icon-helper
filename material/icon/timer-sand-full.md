@@ -3,7 +3,7 @@
 title: timer sand full(计时器沙子已满) ICON转svg、png下载
 name: timer-sand-full
 zhTips: 计时器沙子已满,沙漏已满
-unicode: F078C
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F078C</span> 
+<copy-btn content='F078C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F078C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

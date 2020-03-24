@@ -3,7 +3,7 @@
 title: target(目标) ICON转svg、png下载
 name: target
 zhTips: 目标,注册标记
-unicode: F04FE
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04FE</span> 
+<copy-btn content='F04FE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04FE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Doug C. Hardester</span></span> 

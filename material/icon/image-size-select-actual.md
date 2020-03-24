@@ -3,7 +3,7 @@
 title: image size select actual(图像大小选择实际) ICON转svg、png下载
 name: image-size-select-actual
 zhTips: 图像大小选择实际
-unicode: F0C8D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C8D</span> 
+<copy-btn content='F0C8D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C8D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

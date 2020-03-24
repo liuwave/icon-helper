@@ -3,7 +3,7 @@
 title: facebook messenger(Facebook Messenger) ICON转svg、png下载
 name: facebook-messenger
 zhTips: Facebook Messenger
-unicode: F020E
+tags: ["brand-logo","social-media"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F020E</span> 
+<copy-btn content='F020E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F020E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Brand / Logo,Social Media</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span><span class="badge-light badge"><router-link to="/tags/social-media.html">社交媒体</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

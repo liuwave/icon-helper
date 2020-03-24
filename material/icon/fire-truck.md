@@ -3,7 +3,7 @@
 title: fire truck(消防车) ICON转svg、png下载
 name: fire-truck
 zhTips: 消防车
-unicode: F08AB
+tags: ["transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08AB</span> 
+<copy-btn content='F08AB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08AB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 
 <br/>

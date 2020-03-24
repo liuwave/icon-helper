@@ -3,7 +3,7 @@
 title: store(商店) ICON转svg、png下载
 name: store
 zhTips: 商店,商店购物中心目录
-unicode: F04DC
+tags: ["places","shopping"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04DC</span> 
+<copy-btn content='F04DC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04DC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Places,Shopping</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span><span class="badge-light badge"><router-link to="/tags/shopping.html">购物</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: camera off(相机已关闭) ICON转svg、png下载
 name: camera-off
 zhTips: 相机已关闭
-unicode: F05DF
+tags: ["photography"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05DF</span> 
+<copy-btn content='F05DF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05DF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Photography</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/photography.html">摄影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

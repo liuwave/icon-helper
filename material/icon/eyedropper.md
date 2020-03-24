@@ -3,7 +3,7 @@
 title: eyedropper(吸管) ICON转svg、png下载
 name: eyedropper
 zhTips: 吸管
-unicode: F020A
+tags: ["color","drawing-art","science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F020A</span> 
+<copy-btn content='F020A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F020A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Color,Drawing / Art,Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/color.html">颜色</router-link></span><span class="badge-light badge"><router-link to="/tags/drawing-art.html">绘画、艺术</router-link></span><span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

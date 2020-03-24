@@ -3,7 +3,7 @@
 title: face profile(脸部轮廓) ICON转svg、png下载
 name: face-profile
 zhTips: 脸部轮廓
-unicode: F0644
+tags: ["people-family"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0644</span> 
+<copy-btn content='F0644' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0644", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">People / Family</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/people-family.html">朋友、家庭</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

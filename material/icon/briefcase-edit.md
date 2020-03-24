@@ -3,7 +3,7 @@
 title: briefcase edit(公文包) ICON转svg、png下载
 name: briefcase-edit
 zhTips: 公文包
-unicode: F0A98
+tags: ["edit-modify"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A98</span> 
+<copy-btn content='F0A98' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A98", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Edit / Modify</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/edit-modify.html">编辑、修改</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

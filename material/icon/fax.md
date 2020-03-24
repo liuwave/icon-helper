@@ -3,7 +3,7 @@
 title: fax(传真) ICON转svg、png下载
 name: fax
 zhTips: 传真
-unicode: F0212
+tags: ["printer","cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0212</span> 
+<copy-btn content='F0212' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0212", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Printer,Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/printer.html">打印机</router-link></span><span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

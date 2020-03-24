@@ -3,7 +3,7 @@
 title: light switch(电灯开关) ICON转svg、png下载
 name: light-switch
 zhTips: 电灯开关
-unicode: F097E
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F097E</span> 
+<copy-btn content='F097E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F097E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

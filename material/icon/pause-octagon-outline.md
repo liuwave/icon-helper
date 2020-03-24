@@ -3,7 +3,7 @@
 title: pause octagon outline(暂停八边形轮廓) ICON转svg、png下载
 name: pause-octagon-outline
 zhTips: 暂停八边形轮廓
-unicode: F03E8
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F03E8</span> 
+<copy-btn content='F03E8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F03E8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

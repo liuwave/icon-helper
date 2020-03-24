@@ -3,7 +3,7 @@
 title: boom gate down(动臂浇口下降) ICON转svg、png下载
 name: boom-gate-down
 zhTips: 动臂浇口下降,动臂臂下降,动臂障碍向下,障碍障碍向下,自动浇口下降
-unicode: F0E89
+tags: ["transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E89</span> 
+<copy-btn content='F0E89' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E89", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

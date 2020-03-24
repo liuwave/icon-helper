@@ -3,7 +3,7 @@
 title: unfold less horizontal(展开较少水平) ICON转svg、png下载
 name: unfold-less-horizontal
 zhTips: 展开较少水平,人字形向下,折叠水平
-unicode: F054E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F054E</span> 
+<copy-btn content='F054E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F054E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

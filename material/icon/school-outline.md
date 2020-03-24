@@ -3,7 +3,7 @@
 title: school outline(学校轮廓) ICON转svg、png下载
 name: school-outline
 zhTips: 学校轮廓,学术帽轮廓,大学轮廓,毕业帽轮廓
-unicode: F1180
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1180</span> 
+<copy-btn content='F1180' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1180", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

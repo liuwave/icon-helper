@@ -3,7 +3,7 @@
 title: gauge empty(仪表空) ICON转svg、png下载
 name: gauge-empty
 zhTips: 仪表空
-unicode: F0873
+tags: ["automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0873</span> 
+<copy-btn content='F0873' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0873", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

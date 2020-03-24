@@ -3,7 +3,7 @@
 title: set all(设置所有) ICON转svg、png下载
 name: set-all
 zhTips: 设置所有,精确设置,设置或,完全外部联接,sql完全外部联接
-unicode: F0778
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0778</span> 
+<copy-btn content='F0778' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0778", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

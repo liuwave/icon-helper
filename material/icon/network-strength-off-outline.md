@@ -3,7 +3,7 @@
 title: network strength off outline(网络强度超标) ICON转svg、png下载
 name: network-strength-off-outline
 zhTips: 网络强度超标
-unicode: F08FD
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08FD</span> 
+<copy-btn content='F08FD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08FD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

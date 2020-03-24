@@ -3,7 +3,7 @@
 title: fleur de lis(鸢尾花) ICON转svg、png下载
 name: fleur-de-lis
 zhTips: 鸢尾花
-unicode: F1303
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1303</span> 
+<copy-btn content='F1303' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1303", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 

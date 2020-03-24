@@ -3,7 +3,7 @@
 title: lan connect(局域网连接) ICON转svg、png下载
 name: lan-connect
 zhTips: 局域网连接
-unicode: F0318
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0318</span> 
+<copy-btn content='F0318' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0318", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

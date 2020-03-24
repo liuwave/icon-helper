@@ -3,7 +3,7 @@
 title: axis z rotate clockwise(轴z顺时针旋转) ICON转svg、png下载
 name: axis-z-rotate-clockwise
 zhTips: 轴z顺时针旋转,垂直轴顺时针旋转
-unicode: F0D57
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D57</span> 
+<copy-btn content='F0D57' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D57", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

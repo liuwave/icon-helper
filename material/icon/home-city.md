@@ -3,7 +3,7 @@
 title: home city(家乡) ICON转svg、png下载
 name: home-city
 zhTips: 家乡,城市房屋
-unicode: F0D15
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D15</span> 
+<copy-btn content='F0D15' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D15", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

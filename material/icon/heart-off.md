@@ -3,7 +3,7 @@
 title: heart off(心动) ICON转svg、png下载
 name: heart-off
 zhTips: 心动
-unicode: F0759
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0759</span> 
+<copy-btn content='F0759' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0759", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

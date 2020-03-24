@@ -3,7 +3,7 @@
 title: tag remove(标记删除) ICON转svg、png下载
 name: tag-remove
 zhTips: 标记删除
-unicode: F0723
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0723</span> 
+<copy-btn content='F0723' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0723", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

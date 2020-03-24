@@ -3,7 +3,7 @@
 title: checkbox blank(复选框为空白) ICON转svg、png下载
 name: checkbox-blank
 zhTips: 复选框为空白
-unicode: F012E
+tags: ["form"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F012E</span> 
+<copy-btn content='F012E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F012E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Form</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/form.html">表单</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

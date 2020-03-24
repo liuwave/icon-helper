@@ -3,7 +3,7 @@
 title: peanut outline(花生轮廓) ICON转svg、png下载
 name: peanut-outline
 zhTips: 花生轮廓,过敏原轮廓,食物过敏轮廓
-unicode: F0FFE
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FFE</span> 
+<copy-btn content='F0FFE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FFE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

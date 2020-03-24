@@ -3,7 +3,7 @@
 title: chess bishop(国际象棋主教) ICON转svg、png下载
 name: chess-bishop
 zhTips: 国际象棋主教
-unicode: F085C
+tags: ["gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F085C</span> 
+<copy-btn content='F085C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F085C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

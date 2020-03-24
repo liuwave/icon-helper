@@ -3,7 +3,7 @@
 title: sort variant lock(一种重音符号) ICON转svg、png下载
 name: sort-variant-lock
 zhTips: 一种重音符号
-unicode: F0CCD
+tags: ["text-content-format","lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CCD</span> 
+<copy-btn content='F0CCD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CCD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format,Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span><span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Christopher Schreiner</span></span> 
 <br/>

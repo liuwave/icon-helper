@@ -3,7 +3,7 @@
 title: account music(音乐人) ICON转svg、png下载
 name: account-music
 zhTips: 音乐人,歌手
-unicode: F0803
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0803</span> 
+<copy-btn content='F0803' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0803", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

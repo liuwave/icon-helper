@@ -3,7 +3,7 @@
 title: hard hat(安全帽) ICON转svg、png下载
 name: hard-hat
 zhTips: 安全帽,头盔
-unicode: F096F
+tags: ["hardware-tools","clothing"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F096F</span> 
+<copy-btn content='F096F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F096F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Hardware / Tools,Clothing</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/hardware-tools.html">硬件、工具</router-link></span><span class="badge-light badge"><router-link to="/tags/clothing.html">服装</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

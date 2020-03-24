@@ -3,7 +3,7 @@
 title: cellphone link off(手机链接关闭) ICON转svg、png下载
 name: cellphone-link-off
 zhTips: 手机链接关闭,智能手机链接关闭,phonelink关闭
-unicode: F0122
+tags: ["cellphone-phone","device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0122</span> 
+<copy-btn content='F0122' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0122", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone,Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span><span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

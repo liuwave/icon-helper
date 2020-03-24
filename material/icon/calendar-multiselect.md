@@ -3,7 +3,7 @@
 title: calendar multiselect(多选日历) ICON转svg、png下载
 name: calendar-multiselect
 zhTips: 多选日历
-unicode: F0A32
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A32</span> 
+<copy-btn content='F0A32' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A32", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

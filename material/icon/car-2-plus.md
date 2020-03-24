@@ -3,7 +3,7 @@
 title: car 2 plus(2辆以上汽车) ICON转svg、png下载
 name: car-2-plus
 zhTips: 2辆以上汽车,高架车道,高占用车道,拼车车道
-unicode: F1015
+tags: ["transportation-road","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1015</span> 
+<copy-btn content='F1015' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1015", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

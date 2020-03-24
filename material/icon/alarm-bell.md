@@ -3,7 +3,7 @@
 title: alarm bell(远程报警) ICON转svg、png下载
 name: alarm-bell
 zhTips: 远程报警
-unicode: F078E
+tags: ["notification"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F078E</span> 
+<copy-btn content='F078E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F078E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Notification</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/notification.html">通知</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: qrcode remove(移除QR码) ICON转svg、png下载
 name: qrcode-remove
 zhTips: 移除QR码
-unicode: F118D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F118D</span> 
+<copy-btn content='F118D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F118D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Peter Noble</span></span> 

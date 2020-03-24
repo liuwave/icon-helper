@@ -3,7 +3,7 @@
 title: file plus outline(文件加轮廓) ICON转svg、png下载
 name: file-plus-outline
 zhTips: 文件加轮廓
-unicode: F0EED
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EED</span> 
+<copy-btn content='F0EED' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EED", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Terren</span></span> 
 <br/>

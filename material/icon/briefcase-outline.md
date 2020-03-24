@@ -3,7 +3,7 @@
 title: briefcase outline(公文包轮廓) ICON转svg、png下载
 name: briefcase-outline
 zhTips: 公文包轮廓,工作轮廓
-unicode: F0814
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0814</span> 
+<copy-btn content='F0814' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0814", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

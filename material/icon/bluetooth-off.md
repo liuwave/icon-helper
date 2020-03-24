@@ -3,7 +3,7 @@
 title: bluetooth off(蓝牙关闭) ICON转svg、png下载
 name: bluetooth-off
 zhTips: 蓝牙关闭,蓝牙已禁用
-unicode: F00B2
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00B2</span> 
+<copy-btn content='F00B2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00B2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

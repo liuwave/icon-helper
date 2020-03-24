@@ -3,7 +3,7 @@
 title: battery charging 70(电池充电70) ICON转svg、png下载
 name: battery-charging-70
 zhTips: 电池充电70
-unicode: F089E
+tags: ["automotive","battery"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F089E</span> 
+<copy-btn content='F089E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F089E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive,Battery</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span><span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

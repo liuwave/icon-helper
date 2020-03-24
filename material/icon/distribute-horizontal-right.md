@@ -3,7 +3,7 @@
 title: distribute horizontal right(分配水平右) ICON转svg、png下载
 name: distribute-horizontal-right
 zhTips: 分配水平右
-unicode: F11CA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11CA</span> 
+<copy-btn content='F11CA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11CA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

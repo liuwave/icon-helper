@@ -3,7 +3,7 @@
 title: bed double(双人床) ICON转svg、png下载
 name: bed-double
 zhTips: 双人床
-unicode: F0FD4
+tags: ["home-automation","holiday"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FD4</span> 
+<copy-btn content='F0FD4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FD4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation,Holiday</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/holiday.html">假日</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

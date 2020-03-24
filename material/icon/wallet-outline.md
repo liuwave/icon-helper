@@ -3,7 +3,7 @@
 title: wallet outline(钱包轮廓) ICON转svg、png下载
 name: wallet-outline
 zhTips: 钱包轮廓,帐户余额钱包轮廓
-unicode: F0BDD
+tags: ["currency","banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BDD</span> 
+<copy-btn content='F0BDD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BDD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Currency,Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/currency.html">货币</router-link></span><span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

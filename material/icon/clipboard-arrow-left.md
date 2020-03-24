@@ -3,7 +3,7 @@
 title: clipboard arrow left(向左剪贴板箭头) ICON转svg、png下载
 name: clipboard-arrow-left
 zhTips: 向左剪贴板箭头,任务返回
-unicode: F014B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F014B</span> 
+<copy-btn content='F014B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F014B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

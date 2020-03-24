@@ -3,7 +3,7 @@
 title: account supervisor circle(帐户主管圈子) ICON转svg、png下载
 name: account-supervisor-circle
 zhTips: 帐户主管圈子,用户主管圈子,人主管圈子
-unicode: F0A8C
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A8C</span> 
+<copy-btn content='F0A8C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A8C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

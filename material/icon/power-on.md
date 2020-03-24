@@ -3,7 +3,7 @@
 title: power on(开机) ICON转svg、png下载
 name: power-on
 zhTips: 开机
-unicode: F0903
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0903</span> 
+<copy-btn content='F0903' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0903", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

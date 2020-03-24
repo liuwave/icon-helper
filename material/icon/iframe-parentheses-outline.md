@@ -3,7 +3,7 @@
 title: iframe parentheses outline(iframe括号概述) ICON转svg、png下载
 name: iframe-parentheses-outline
 zhTips: iframe括号概述
-unicode: F10FA
+tags: ["developer-languages"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10FA</span> 
+<copy-btn content='F10FA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10FA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Developer / Languages</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

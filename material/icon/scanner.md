@@ -3,7 +3,7 @@
 title: scanner(扫描仪) ICON转svg、png下载
 name: scanner
 zhTips: 扫描仪
-unicode: F06AB
+tags: ["device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06AB</span> 
+<copy-btn content='F06AB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06AB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

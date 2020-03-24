@@ -3,7 +3,7 @@
 title: view day(天视图) ICON转svg、png下载
 name: view-day
 zhTips: 天视图
-unicode: F056F
+tags: ["view"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F056F</span> 
+<copy-btn content='F056F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F056F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">View</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/view.html">视图</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: cloud(云) ICON转svg、png下载
 name: cloud
 zhTips: 云,wb多云
-unicode: F015F
+tags: ["cloud","weather"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F015F</span> 
+<copy-btn content='F015F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F015F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cloud,Weather</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cloud.html">云</router-link></span><span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

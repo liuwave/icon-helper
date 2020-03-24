@@ -3,7 +3,7 @@
 title: exponent box(指数盒) ICON转svg、png下载
 name: exponent-box
 zhTips: 指数盒,电源盒
-unicode: F0964
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0964</span> 
+<copy-btn content='F0964' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0964", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 
 <br/>

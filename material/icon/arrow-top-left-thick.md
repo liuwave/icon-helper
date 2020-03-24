@@ -3,7 +3,7 @@
 title: arrow top left thick(左上箭头粗) ICON转svg、png下载
 name: arrow-top-left-thick
 zhTips: 左上箭头粗
-unicode: F09C4
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09C4</span> 
+<copy-btn content='F09C4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09C4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

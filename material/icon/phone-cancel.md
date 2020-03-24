@@ -3,7 +3,7 @@
 title: phone cancel(电话取消) ICON转svg、png下载
 name: phone-cancel
 zhTips: 电话取消,电话屏蔽
-unicode: F10BC
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10BC</span> 
+<copy-btn content='F10BC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10BC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

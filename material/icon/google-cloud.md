@@ -3,7 +3,7 @@
 title: google cloud(谷歌云) ICON转svg、png下载
 name: google-cloud
 zhTips: 谷歌云
-unicode: F11F6
+tags: ["brand-logo"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11F6</span> 
+<copy-btn content='F11F6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11F6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Brand / Logo</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

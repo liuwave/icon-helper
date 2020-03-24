@@ -3,7 +3,7 @@
 title: wrench outline(扳手轮廓) ICON转svg、png下载
 name: wrench-outline
 zhTips: 扳手轮廓,内部轮廓
-unicode: F0BE0
+tags: ["hardware-tools"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BE0</span> 
+<copy-btn content='F0BE0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BE0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Hardware / Tools</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/hardware-tools.html">硬件、工具</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

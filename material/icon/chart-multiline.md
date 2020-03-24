@@ -3,7 +3,7 @@
 title: chart multiline(多折线图) ICON转svg、png下载
 name: chart-multiline
 zhTips: 多折线图
-unicode: F08D4
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08D4</span> 
+<copy-btn content='F08D4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08D4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: account multiple check(帐户多次检查) ICON转svg、png下载
 name: account-multiple-check
 zhTips: 帐户多次检查,用户多次检查,帐户多次打勾,帐户检查,打勾帐户,用户检查,打勾用户,多用户打勾,人员多次检查,人员多次打钩,人员检查,人员打勾
-unicode: F08C5
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08C5</span> 
+<copy-btn content='F08C5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08C5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Roberto Graham</span></span> 
 <br/>

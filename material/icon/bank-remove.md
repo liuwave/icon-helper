@@ -3,7 +3,7 @@
 title: bank remove(银行删除) ICON转svg、png下载
 name: bank-remove
 zhTips: 银行删除
-unicode: F0DB2
+tags: ["banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DB2</span> 
+<copy-btn content='F0DB2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DB2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: car brake alert(汽车制动器警报) ICON转svg、png下载
 name: car-brake-alert
 zhTips: 汽车制动器警报,汽车驻车制动器,汽车手刹,汽车手制动器,汽车紧急制动器,汽车制动器警告
-unicode: F0C48
+tags: ["automotive","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C48</span> 
+<copy-btn content='F0C48' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C48", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: folder account outline(文件夹帐户轮廓) ICON转svg、png下载
 name: folder-account-outline
 zhTips: 文件夹帐户轮廓,文件夹用户轮廓,文件夹共享轮廓
-unicode: F0B9C
+tags: ["files-folders","account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B9C</span> 
+<copy-btn content='F0B9C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B9C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders,Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span><span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: emoticon outline(表情符号轮廓) ICON转svg、png下载
 name: emoticon-outline
 zhTips: 表情符号轮廓,插入表情符号,心情,非常满意的情绪,标记面孔,笑脸轮廓
-unicode: F01F2
+tags: ["emoji"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01F2</span> 
+<copy-btn content='F01F2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01F2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Emoji</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/emoji.html">表情符号</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

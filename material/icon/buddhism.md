@@ -3,7 +3,7 @@
 title: buddhism(佛教) ICON转svg、png下载
 name: buddhism
 zhTips: 佛教,佛法,佛轮,佛教宗教
-unicode: F094B
+tags: ["religion"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F094B</span> 
+<copy-btn content='F094B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F094B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Religion</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/religion.html">宗教</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 
 <br/>

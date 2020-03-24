@@ -3,7 +3,7 @@
 title: bee flower(蜜蜂花) ICON转svg、png下载
 name: bee-flower
 zhTips: 蜜蜂花,鲜花,自然
-unicode: F0FA2
+tags: ["nature"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FA2</span> 
+<copy-btn content='F0FA2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FA2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Nature</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/nature.html">自然</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

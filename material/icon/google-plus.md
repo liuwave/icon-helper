@@ -3,7 +3,7 @@
 title: google plus(Google Plus) ICON转svg、png下载
 name: google-plus
 zhTips: Google Plus
-unicode: F02BD
+tags: ["brand-logo","social-media"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02BD</span> 
+<copy-btn content='F02BD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02BD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Brand / Logo,Social Media</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span><span class="badge-light badge"><router-link to="/tags/social-media.html">社交媒体</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

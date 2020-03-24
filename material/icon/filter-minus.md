@@ -3,7 +3,7 @@
 title: filter minus(负号过滤器) ICON转svg、png下载
 name: filter-minus
 zhTips: 负号过滤器,负号漏斗
-unicode: F0EEE
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EEE</span> 
+<copy-btn content='F0EEE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EEE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

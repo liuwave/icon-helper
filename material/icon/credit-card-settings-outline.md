@@ -3,7 +3,7 @@
 title: credit card settings outline(信用卡设置概述) ICON转svg、png下载
 name: credit-card-settings-outline
 zhTips: 信用卡设置概述,付款设置
-unicode: F08D7
+tags: ["banking","settings"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08D7</span> 
+<copy-btn content='F08D7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08D7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Banking,Settings</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span><span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Peter Noble</span></span> 
 <br/>

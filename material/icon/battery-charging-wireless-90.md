@@ -3,7 +3,7 @@
 title: battery charging wireless 90(无线充电电池90) ICON转svg、png下载
 name: battery-charging-wireless-90
 zhTips: 无线充电电池90
-unicode: F0810
+tags: ["battery","home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0810</span> 
+<copy-btn content='F0810' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0810", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery,Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

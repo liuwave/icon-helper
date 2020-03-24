@@ -3,7 +3,7 @@
 title: wifi strength 3 lock(wifi强度3锁) ICON转svg、png下载
 name: wifi-strength-3-lock
 zhTips: wifi强度3锁
-unicode: F0927
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0927</span> 
+<copy-btn content='F0927' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0927", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

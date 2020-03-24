@@ -3,7 +3,7 @@
 title: nintendo wii(任天堂Wii) ICON转svg、png下载
 name: nintendo-wii
 zhTips: 任天堂Wii
-unicode: F05AB
+tags: ["brand-logo","gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05AB</span> 
+<copy-btn content='F05AB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05AB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Brand / Logo,Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span><span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

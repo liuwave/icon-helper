@@ -3,7 +3,7 @@
 title: source commit end local(源代码提交结束本地) ICON转svg、png下载
 name: source-commit-end-local
 zhTips: 源代码提交结束本地
-unicode: F071A
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F071A</span> 
+<copy-btn content='F071A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F071A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Case Sandberg</span></span> 

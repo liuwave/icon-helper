@@ -3,7 +3,7 @@
 title: video plus(视频加) ICON转svg、png下载
 name: video-plus
 zhTips: 视频加,视频通话,视频添加
-unicode: F09B3
+tags: ["video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09B3</span> 
+<copy-btn content='F09B3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09B3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

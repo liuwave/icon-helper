@@ -3,7 +3,7 @@
 title: clipboard account(剪贴板帐户) ICON转svg、png下载
 name: clipboard-account
 zhTips: 剪贴板帐户,剪贴板用户,工作分配者,剪贴板人
-unicode: F0148
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0148</span> 
+<copy-btn content='F0148' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0148", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

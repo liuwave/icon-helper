@@ -3,7 +3,7 @@
 title: calendar arrow right(日历右箭头) ICON转svg、png下载
 name: calendar-arrow-right
 zhTips: 日历右箭头,重新安排
-unicode: F1135
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1135</span> 
+<copy-btn content='F1135' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1135", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Terren</span></span> 
 <br/>

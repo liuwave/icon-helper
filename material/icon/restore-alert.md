@@ -3,7 +3,7 @@
 title: restore alert(恢复警报) ICON转svg、png下载
 name: restore-alert
 zhTips: 恢复警报
-unicode: F110D
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F110D</span> 
+<copy-btn content='F110D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F110D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: diamond outline(钻石轮廓) ICON转svg、png下载
 name: diamond-outline
 zhTips: 钻石轮廓
-unicode: F0B8B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B8B</span> 
+<copy-btn content='F0B8B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B8B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

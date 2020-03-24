@@ -3,7 +3,7 @@
 title: flip to back(向后翻转) ICON转svg、png下载
 name: flip-to-back
 zhTips: 向后翻转
-unicode: F0247
+tags: ["arrange"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0247</span> 
+<copy-btn content='F0247' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0247", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrange</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrange.html">排列</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

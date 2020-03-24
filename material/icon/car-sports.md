@@ -3,7 +3,7 @@
 title: car sports(汽车运动) ICON转svg、png下载
 name: car-sports
 zhTips: 汽车运动
-unicode: F07AC
+tags: ["transportation-road","sport","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07AC</span> 
+<copy-btn content='F07AC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07AC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road,Sport,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span><span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

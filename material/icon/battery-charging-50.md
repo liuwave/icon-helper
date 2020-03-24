@@ -3,7 +3,7 @@
 title: battery charging 50(电池充电50) ICON转svg、png下载
 name: battery-charging-50
 zhTips: 电池充电50
-unicode: F089D
+tags: ["automotive","battery"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F089D</span> 
+<copy-btn content='F089D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F089D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive,Battery</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span><span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

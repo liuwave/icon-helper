@@ -3,7 +3,7 @@
 title: spray(喷雾) ICON转svg、png下载
 name: spray
 zhTips: 喷雾,油漆,气雾剂
-unicode: F0665
+tags: ["agriculture"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0665</span> 
+<copy-btn content='F0665' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0665", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Agriculture</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/agriculture.html">农业</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

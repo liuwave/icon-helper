@@ -3,7 +3,7 @@
 title: mouse bluetooth(鼠标蓝牙) ICON转svg、png下载
 name: mouse-bluetooth
 zhTips: 鼠标蓝牙
-unicode: F098B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F098B</span> 
+<copy-btn content='F098B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F098B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

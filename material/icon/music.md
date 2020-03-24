@@ -3,7 +3,7 @@
 title: music(音乐) ICON转svg、png下载
 name: music
 zhTips: 音乐
-unicode: F075A
+tags: ["audio","music"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F075A</span> 
+<copy-btn content='F075A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F075A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio,Music</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span><span class="badge-light badge"><router-link to="/tags/music.html">音乐</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

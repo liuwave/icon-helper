@@ -3,7 +3,7 @@
 title: home(房屋) ICON转svg、png下载
 name: home
 zhTips: 房屋
-unicode: F02DC
+tags: ["home-automation","places"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02DC</span> 
+<copy-btn content='F02DC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02DC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation,Places</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

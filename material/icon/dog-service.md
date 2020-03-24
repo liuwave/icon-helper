@@ -3,7 +3,7 @@
 title: dog service(导盲犬服务) ICON转svg、png下载
 name: dog-service
 zhTips: 导盲犬服务
-unicode: F0AAD
+tags: ["animal"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0AAD</span> 
+<copy-btn content='F0AAD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0AAD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Animal</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/animal.html">动物</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

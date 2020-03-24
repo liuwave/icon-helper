@@ -3,7 +3,7 @@
 title: exponent(指数) ICON转svg、png下载
 name: exponent
 zhTips: 指数,幂
-unicode: F0963
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0963</span> 
+<copy-btn content='F0963' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0963", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 
 <br/>

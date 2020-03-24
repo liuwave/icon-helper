@@ -3,7 +3,7 @@
 title: sign direction remove(删除方向标志) ICON转svg、png下载
 name: sign-direction-remove
 zhTips: 删除方向标志,删除里程碑
-unicode: F0FDD
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FDD</span> 
+<copy-btn content='F0FDD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FDD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

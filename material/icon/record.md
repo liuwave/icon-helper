@@ -3,7 +3,7 @@
 title: record(记录) ICON转svg、png下载
 name: record
 zhTips: 记录,光纤手动记录
-unicode: F044A
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F044A</span> 
+<copy-btn content='F044A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F044A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: wallet plus outline(钱包加轮廓) ICON转svg、png下载
 name: wallet-plus-outline
 zhTips: 钱包加轮廓
-unicode: F0F8F
+tags: ["banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F8F</span> 
+<copy-btn content='F0F8F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F8F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

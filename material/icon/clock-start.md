@@ -3,7 +3,7 @@
 title: clock start(时钟开始) ICON转svg、png下载
 name: clock-start
 zhTips: 时钟开始
-unicode: F0155
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0155</span> 
+<copy-btn content='F0155' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0155", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

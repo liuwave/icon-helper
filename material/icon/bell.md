@@ -3,7 +3,7 @@
 title: bell(响铃) ICON转svg、png下载
 name: bell
 zhTips: 响铃,通知
-unicode: F009A
+tags: ["notification","home-automation","music"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F009A</span> 
+<copy-btn content='F009A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F009A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Notification,Home Automation,Music</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/notification.html">通知</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/music.html">音乐</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: thought bubble(思想泡泡) ICON转svg、png下载
 name: thought-bubble
 zhTips: 思想泡泡,漫画泡泡,思考
-unicode: F07F6
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07F6</span> 
+<copy-btn content='F07F6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07F6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

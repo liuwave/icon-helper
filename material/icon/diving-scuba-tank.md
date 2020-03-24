@@ -3,7 +3,7 @@
 title: diving scuba tank(潜水水肺坦克) ICON转svg、png下载
 name: diving-scuba-tank
 zhTips: 潜水水肺坦克
-unicode: F0DC3
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DC3</span> 
+<copy-btn content='F0DC3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DC3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

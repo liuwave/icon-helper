@@ -3,7 +3,7 @@
 title: skip forward outline(略过轮廓) ICON转svg、png下载
 name: skip-forward-outline
 zhTips: 略过轮廓
-unicode: F0F26
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F26</span> 
+<copy-btn content='F0F26' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F26", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

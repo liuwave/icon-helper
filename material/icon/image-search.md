@@ -3,7 +3,7 @@
 title: image search(图像搜索) ICON转svg、png下载
 name: image-search
 zhTips: 图像搜索
-unicode: F0977
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0977</span> 
+<copy-btn content='F0977' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0977", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

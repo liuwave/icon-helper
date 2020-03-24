@@ -3,7 +3,7 @@
 title: serial port(串行端口) ICON转svg、png下载
 name: serial-port
 zhTips: 串行端口
-unicode: F065C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F065C</span> 
+<copy-btn content='F065C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F065C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

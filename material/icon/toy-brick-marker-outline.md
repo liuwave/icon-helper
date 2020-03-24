@@ -3,7 +3,7 @@
 title: toy brick marker outline(玩具砖标记轮廓) ICON转svg、png下载
 name: toy-brick-marker-outline
 zhTips: 玩具砖标记轮廓,乐高,插件,扩展
-unicode: F128A
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F128A</span> 
+<copy-btn content='F128A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F128A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

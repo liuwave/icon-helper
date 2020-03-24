@@ -3,7 +3,7 @@
 title: lightbulb multiple off(灯泡多个关闭) ICON转svg、png下载
 name: lightbulb-multiple-off
 zhTips: 灯泡多个关闭,灯泡关闭,多个灯泡关闭
-unicode: F12CF
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F12CF</span> 
+<copy-btn content='F12CF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F12CF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

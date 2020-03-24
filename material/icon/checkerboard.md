@@ -3,7 +3,7 @@
 title: checkerboard(棋盘格) ICON转svg、png下载
 name: checkerboard
 zhTips: 棋盘格,栅格
-unicode: F013A
+tags: ["gaming-rpg","geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F013A</span> 
+<copy-btn content='F013A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F013A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG,Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span><span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

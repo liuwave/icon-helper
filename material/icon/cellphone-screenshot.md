@@ -3,7 +3,7 @@
 title: cellphone screenshot(手机屏幕截图) ICON转svg、png下载
 name: cellphone-screenshot
 zhTips: 手机屏幕截图
-unicode: F0A35
+tags: ["cellphone-phone","device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A35</span> 
+<copy-btn content='F0A35' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A35", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone,Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span><span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

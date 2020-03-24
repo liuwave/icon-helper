@@ -3,7 +3,7 @@
 title: head sync(磁头同步) ICON转svg、png下载
 name: head-sync
 zhTips: 磁头同步,磁头重新加载,磁头刷新
-unicode: F1350
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1350</span> 
+<copy-btn content='F1350' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1350", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

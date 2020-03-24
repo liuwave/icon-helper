@@ -3,7 +3,7 @@
 title: cellphone nfc off(手机NFC关闭) ICON转svg、png下载
 name: cellphone-nfc-off
 zhTips: 手机NFC关闭
-unicode: F12D8
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F12D8</span> 
+<copy-btn content='F12D8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F12D8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

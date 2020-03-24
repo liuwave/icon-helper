@@ -3,7 +3,7 @@
 title: cheese off(脱掉奶酪) ICON转svg、png下载
 name: cheese-off
 zhTips: 脱掉奶酪
-unicode: F13EE
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13EE</span> 
+<copy-btn content='F13EE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13EE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

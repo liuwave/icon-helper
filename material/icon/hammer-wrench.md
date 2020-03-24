@@ -3,7 +3,7 @@
 title: hammer wrench(锤扳手) ICON转svg、png下载
 name: hammer-wrench
 zhTips: 锤扳手,工具
-unicode: F1323
+tags: ["hardware-tools"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1323</span> 
+<copy-btn content='F1323' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1323", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Hardware / Tools</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/hardware-tools.html">硬件、工具</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

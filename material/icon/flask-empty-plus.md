@@ -3,7 +3,7 @@
 title: flask empty plus(烧瓶空加) ICON转svg、png下载
 name: flask-empty-plus
 zhTips: 烧瓶空加
-unicode: F123C
+tags: ["science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F123C</span> 
+<copy-btn content='F123C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F123C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

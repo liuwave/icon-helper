@@ -3,7 +3,7 @@
 title: decimal decrease(十进制减少) ICON转svg、png下载
 name: decimal-decrease
 zhTips: 十进制减少
-unicode: F01B6
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01B6</span> 
+<copy-btn content='F01B6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01B6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

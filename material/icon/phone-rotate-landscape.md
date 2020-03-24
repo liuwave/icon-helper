@@ -3,7 +3,7 @@
 title: phone rotate landscape(手机旋转风景) ICON转svg、png下载
 name: phone-rotate-landscape
 zhTips: 手机旋转风景
-unicode: F0885
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0885</span> 
+<copy-btn content='F0885' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0885", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

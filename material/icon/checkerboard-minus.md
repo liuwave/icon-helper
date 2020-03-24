@@ -3,7 +3,7 @@
 title: checkerboard minus(棋盘减) ICON转svg、png下载
 name: checkerboard-minus
 zhTips: 棋盘减,栅格减
-unicode: F1202
+tags: ["geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1202</span> 
+<copy-btn content='F1202' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1202", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

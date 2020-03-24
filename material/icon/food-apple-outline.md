@@ -3,7 +3,7 @@
 title: food apple outline(食品苹果轮廓) ICON转svg、png下载
 name: food-apple-outline
 zhTips: 食品苹果轮廓
-unicode: F0C84
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C84</span> 
+<copy-btn content='F0C84' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C84", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

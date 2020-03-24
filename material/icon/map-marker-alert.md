@@ -3,7 +3,7 @@
 title: map marker alert(地图标记警报) ICON转svg、png下载
 name: map-marker-alert
 zhTips: 地图标记警报
-unicode: F0F05
+tags: ["navigation","alert-error","geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F05</span> 
+<copy-btn content='F0F05' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F05", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Navigation,Alert / Error,Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span><span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">François Risoud</span></span> 
 <br/>

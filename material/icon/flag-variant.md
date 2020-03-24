@@ -3,7 +3,7 @@
 title: flag variant(口音) ICON转svg、png下载
 name: flag-variant
 zhTips: 口音
-unicode: F0240
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0240</span> 
+<copy-btn content='F0240' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0240", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

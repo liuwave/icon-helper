@@ -3,7 +3,7 @@
 title: ocarina(ocarina) ICON转svg、png下载
 name: ocarina
 zhTips: ocarina
-unicode: F0DE0
+tags: ["music","gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DE0</span> 
+<copy-btn content='F0DE0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DE0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Music,Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/music.html">音乐</router-link></span><span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

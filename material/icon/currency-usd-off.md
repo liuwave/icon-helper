@@ -3,7 +3,7 @@
 title: currency usd off(关闭货币) ICON转svg、png下载
 name: currency-usd-off
 zhTips: 关闭货币,减少美元
-unicode: F067A
+tags: ["currency","banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F067A</span> 
+<copy-btn content='F067A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F067A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Currency,Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/currency.html">货币</router-link></span><span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

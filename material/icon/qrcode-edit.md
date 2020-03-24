@@ -3,7 +3,7 @@
 title: qrcode edit(qrcode编辑) ICON转svg、png下载
 name: qrcode-edit
 zhTips: qrcode编辑
-unicode: F08B8
+tags: ["edit-modify"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08B8</span> 
+<copy-btn content='F08B8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08B8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Edit / Modify</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/edit-modify.html">编辑、修改</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

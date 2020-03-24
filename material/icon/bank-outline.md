@@ -3,7 +3,7 @@
 title: bank outline(银行轮廓) ICON转svg、png下载
 name: bank-outline
 zhTips: 银行轮廓,博物馆轮廓
-unicode: F0E80
+tags: ["banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E80</span> 
+<copy-btn content='F0E80' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E80", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

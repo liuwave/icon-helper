@@ -3,7 +3,7 @@
 title: bell circle(铃铛圈) ICON转svg、png下载
 name: bell-circle
 zhTips: 铃铛圈
-unicode: F0D5A
+tags: ["notification"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D5A</span> 
+<copy-btn content='F0D5A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D5A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Notification</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/notification.html">通知</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

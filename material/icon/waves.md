@@ -3,7 +3,7 @@
 title: waves(波浪) ICON转svg、png下载
 name: waves
 zhTips: 波浪,海洋,湖泊,洪水,水
-unicode: F078D
+tags: ["weather","transportation-water"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F078D</span> 
+<copy-btn content='F078D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F078D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather,Transportation + Water</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span><span class="badge-light badge"><router-link to="/tags/transportation-water.html">运输+水路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

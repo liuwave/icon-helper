@@ -3,7 +3,7 @@
 title: diameter outline(直径轮廓) ICON转svg、png下载
 name: diameter-outline
 zhTips: 直径轮廓,圆直径轮廓,球体直径轮廓
-unicode: F0C64
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C64</span> 
+<copy-btn content='F0C64' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C64", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

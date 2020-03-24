@@ -3,7 +3,7 @@
 title: math tan(棕褐色类型) ICON转svg、png下载
 name: math-tan
 zhTips: 棕褐色类型,切线类型,棕褐色数学
-unicode: F0C98
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C98</span> 
+<copy-btn content='F0C98' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C98", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

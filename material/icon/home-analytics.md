@@ -3,7 +3,7 @@
 title: home analytics(家庭分析) ICON转svg、png下载
 name: home-analytics
 zhTips: 家庭分析,图表家庭,主页图表
-unicode: F0EBA
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EBA</span> 
+<copy-btn content='F0EBA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EBA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

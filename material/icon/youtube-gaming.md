@@ -3,7 +3,7 @@
 title: youtube gaming(YouTube游戏) ICON转svg、png下载
 name: youtube-gaming
 zhTips: YouTube游戏
-unicode: F0848
+tags: ["brand-logo"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0848</span> 
+<copy-btn content='F0848' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0848", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Brand / Logo</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

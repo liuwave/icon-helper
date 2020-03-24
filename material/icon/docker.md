@@ -3,7 +3,7 @@
 title: docker(码头工人) ICON转svg、png下载
 name: docker
 zhTips: 码头工人
-unicode: F0868
+tags: ["brand-logo"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0868</span> 
+<copy-btn content='F0868' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0868", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Brand / Logo</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

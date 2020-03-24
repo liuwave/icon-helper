@@ -3,7 +3,7 @@
 title: graph outline(图轮廓) ICON转svg、png下载
 name: graph-outline
 zhTips: 图轮廓,依存关系
-unicode: F104A
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F104A</span> 
+<copy-btn content='F104A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F104A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

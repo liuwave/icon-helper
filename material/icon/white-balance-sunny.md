@@ -3,7 +3,7 @@
 title: white balance sunny(白平衡晴天) ICON转svg、png下载
 name: white-balance-sunny
 zhTips: 白平衡晴天,wb晴天
-unicode: F05A8
+tags: ["photography"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05A8</span> 
+<copy-btn content='F05A8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05A8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Photography</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/photography.html">摄影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

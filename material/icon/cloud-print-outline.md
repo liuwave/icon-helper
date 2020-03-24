@@ -3,7 +3,7 @@
 title: cloud print outline(云打印轮廓) ICON转svg、png下载
 name: cloud-print-outline
 zhTips: 云打印轮廓
-unicode: F0166
+tags: ["cloud","printer","home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0166</span> 
+<copy-btn content='F0166' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0166", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cloud,Printer,Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cloud.html">云</router-link></span><span class="badge-light badge"><router-link to="/tags/printer.html">打印机</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

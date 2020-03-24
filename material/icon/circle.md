@@ -3,7 +3,7 @@
 title: circle(圆圈) ICON转svg、png下载
 name: circle
 zhTips: 圆圈,镜头
-unicode: F0765
+tags: ["shape"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0765</span> 
+<copy-btn content='F0765' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0765", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shape</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shape.html">Shape</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

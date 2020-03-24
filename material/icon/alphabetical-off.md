@@ -3,7 +3,7 @@
 title: alphabetical off(按字母顺序关闭) ICON转svg、png下载
 name: alphabetical-off
 zhTips: 按字母顺序关闭
-unicode: F100C
+tags: ["alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F100C</span> 
+<copy-btn content='F100C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F100C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

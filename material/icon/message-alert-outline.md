@@ -3,7 +3,7 @@
 title: message alert outline(邮件警报轮廓) ICON转svg、png下载
 name: message-alert-outline
 zhTips: 邮件警报轮廓,公告轮廓,反馈轮廓,邮件警告轮廓,短信失败轮廓
-unicode: F0A04
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A04</span> 
+<copy-btn content='F0A04' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A04", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Colton Wiscombe</span></span> 
 <br/>

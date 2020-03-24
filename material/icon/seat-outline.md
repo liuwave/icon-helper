@@ -3,7 +3,7 @@
 title: seat outline(座椅轮廓) ICON转svg、png下载
 name: seat-outline
 zhTips: 座椅轮廓,活动座椅轮廓,椅子轮廓
-unicode: F0CC4
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CC4</span> 
+<copy-btn content='F0CC4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CC4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

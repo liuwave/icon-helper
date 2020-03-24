@@ -3,7 +3,7 @@
 title: lock open alert(锁打开警报) ICON转svg、png下载
 name: lock-open-alert
 zhTips: 锁打开警报
-unicode: F139B
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F139B</span> 
+<copy-btn content='F139B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F139B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">François Risoud</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: numeric 9 box multiple outline(数字9框多个轮廓线) ICON转svg、png下载
 name: numeric-9-box-multiple-outline
 zhTips: 数字9框多个轮廓线,过滤器9
-unicode: F03BD
+tags: ["alpha-numeric","alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F03BD</span> 
+<copy-btn content='F03BD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F03BD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric,Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span><span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

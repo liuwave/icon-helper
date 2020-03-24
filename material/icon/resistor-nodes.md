@@ -3,7 +3,7 @@
 title: resistor nodes(电阻节点) ICON转svg、png下载
 name: resistor-nodes
 zhTips: 电阻节点
-unicode: F0B45
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B45</span> 
+<copy-btn content='F0B45' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B45", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.8.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Louistwee</span></span> 

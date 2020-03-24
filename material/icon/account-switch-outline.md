@@ -3,7 +3,7 @@
 title: account switch outline(帐户切换概述) ICON转svg、png下载
 name: account-switch-outline
 zhTips: 帐户切换概述
-unicode: F04CB
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04CB</span> 
+<copy-btn content='F04CB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04CB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: monitor clean(清洁的显示器) ICON转svg、png下载
 name: monitor-clean
 zhTips: 清洁的显示器
-unicode: F1104
+tags: ["device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1104</span> 
+<copy-btn content='F1104' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1104", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

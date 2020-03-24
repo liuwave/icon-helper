@@ -3,7 +3,7 @@
 title: delete outline(删除轮廓) ICON转svg、png下载
 name: delete-outline
 zhTips: 删除轮廓,垃圾轮廓,垃圾箱轮廓
-unicode: F09E7
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09E7</span> 
+<copy-btn content='F09E7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09E7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

@@ -3,7 +3,7 @@
 title: stadium variant(体育馆变体) ICON转svg、png下载
 name: stadium-variant
 zhTips: 体育馆变体,竞技场
-unicode: F0720
+tags: ["places","sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0720</span> 
+<copy-btn content='F0720' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0720", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Places,Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/places.html">地点</router-link></span><span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Alex Efremo</span></span> 
 <br/>

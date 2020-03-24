@@ -3,7 +3,7 @@
 title: timer sand empty(计时器沙子为空) ICON转svg、png下载
 name: timer-sand-empty
 zhTips: 计时器沙子为空,沙漏为空
-unicode: F06AD
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06AD</span> 
+<copy-btn content='F06AD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06AD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

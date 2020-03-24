@@ -3,7 +3,7 @@
 title: seat legroom reduced(腿部座位减少) ICON转svg、png下载
 name: seat-legroom-reduced
 zhTips: 腿部座位减少,航空公司腿部座位减少
-unicode: F0480
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0480</span> 
+<copy-btn content='F0480' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0480", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

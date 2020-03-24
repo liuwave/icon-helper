@@ -3,7 +3,7 @@
 title: message arrow left outline(消息箭头左侧轮廓) ICON转svg、png下载
 name: message-arrow-left-outline
 zhTips: 消息箭头左侧轮廓
-unicode: F12F3
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F12F3</span> 
+<copy-btn content='F12F3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F12F3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

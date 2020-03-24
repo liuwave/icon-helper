@@ -3,7 +3,7 @@
 title: label variant(标签重音) ICON转svg、png下载
 name: label-variant
 zhTips: 标签重音
-unicode: F0ACD
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0ACD</span> 
+<copy-btn content='F0ACD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0ACD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

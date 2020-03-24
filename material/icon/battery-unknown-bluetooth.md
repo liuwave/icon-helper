@@ -3,7 +3,7 @@
 title: battery unknown bluetooth(电池未知的蓝牙) ICON转svg、png下载
 name: battery-unknown-bluetooth
 zhTips: 电池未知的蓝牙
-unicode: F094A
+tags: ["battery"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F094A</span> 
+<copy-btn content='F094A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F094A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: boom gate alert(动臂闸门警报) ICON转svg、png下载
 name: boom-gate-alert
 zhTips: 动臂闸门警报,动臂臂警报,障碍屏障警报,自动闸门警报
-unicode: F0E87
+tags: ["alert-error","transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E87</span> 
+<copy-btn content='F0E87' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E87", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error,Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span><span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

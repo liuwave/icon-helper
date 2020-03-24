@@ -3,7 +3,7 @@
 title: diabetes(糖尿病) ICON转svg、png下载
 name: diabetes
 zhTips: 糖尿病,手血
-unicode: F1126
+tags: ["medical-hospital"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1126</span> 
+<copy-btn content='F1126' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1126", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Medical / Hospital</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/medical-hospital.html">医学、医院</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

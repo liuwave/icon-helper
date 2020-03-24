@@ -3,7 +3,7 @@
 title: calendar alert(日历警报) ICON转svg、png下载
 name: calendar-alert
 zhTips: 日历警报,事件警报,日历警告
-unicode: F0A31
+tags: ["date-time","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A31</span> 
+<copy-btn content='F0A31' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A31", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

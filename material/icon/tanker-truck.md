@@ -3,7 +3,7 @@
 title: tanker truck(油罐车) ICON转svg、png下载
 name: tanker-truck
 zhTips: 油罐车,加油车,油卡车,水车,油轮
-unicode: F0FE5
+tags: ["transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FE5</span> 
+<copy-btn content='F0FE5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FE5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

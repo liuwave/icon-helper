@@ -3,7 +3,7 @@
 title: file cog(文件齿轮) ICON转svg、png下载
 name: file-cog
 zhTips: 文件齿轮,文件设置齿轮
-unicode: F107B
+tags: ["settings","files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F107B</span> 
+<copy-btn content='F107B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F107B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Settings,Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span><span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: shield sun(防晒罩) ICON转svg、png下载
 name: shield-sun
 zhTips: 防晒罩,防晒
-unicode: F105D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F105D</span> 
+<copy-btn content='F105D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F105D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Perth Totty</span></span> 

@@ -3,7 +3,7 @@
 title: camera timer(相机定时器) ICON转svg、png下载
 name: camera-timer
 zhTips: 相机定时器
-unicode: F0109
+tags: ["date-time","photography"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0109</span> 
+<copy-btn content='F0109' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0109", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time,Photography</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span><span class="badge-light badge"><router-link to="/tags/photography.html">摄影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

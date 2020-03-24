@@ -3,7 +3,7 @@
 title: checkerboard remove(删除棋盘) ICON转svg、png下载
 name: checkerboard-remove
 zhTips: 删除棋盘,删除栅格
-unicode: F1203
+tags: ["geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1203</span> 
+<copy-btn content='F1203' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1203", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

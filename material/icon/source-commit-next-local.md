@@ -3,7 +3,7 @@
 title: source commit next local(源提交下一个本地) ICON转svg、png下载
 name: source-commit-next-local
 zhTips: 源提交下一个本地
-unicode: F071C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F071C</span> 
+<copy-btn content='F071C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F071C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Case Sandberg</span></span> 

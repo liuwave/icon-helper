@@ -3,7 +3,7 @@
 title: reply(回复) ICON转svg、png下载
 name: reply
 zhTips: 回复
-unicode: F045A
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F045A</span> 
+<copy-btn content='F045A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F045A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

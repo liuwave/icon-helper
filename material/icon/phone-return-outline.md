@@ -3,7 +3,7 @@
 title: phone return outline(电话退货轮廓) ICON转svg、png下载
 name: phone-return-outline
 zhTips: 电话退货轮廓
-unicode: F119C
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F119C</span> 
+<copy-btn content='F119C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F119C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: chart sankey(图表桑基) ICON转svg、png下载
 name: chart-sankey
 zhTips: 图表桑基,图表曲折
-unicode: F11DF
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11DF</span> 
+<copy-btn content='F11DF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11DF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

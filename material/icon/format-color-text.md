@@ -3,7 +3,7 @@
 title: format color text(彩色文本格式) ICON转svg、png下载
 name: format-color-text
 zhTips: 彩色文本格式
-unicode: F069E
+tags: ["text-content-format","color"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F069E</span> 
+<copy-btn content='F069E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F069E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format,Color</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span><span class="badge-light badge"><router-link to="/tags/color.html">颜色</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

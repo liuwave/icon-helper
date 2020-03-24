@@ -3,7 +3,7 @@
 title: transfer down(向下转移) ICON转svg、png下载
 name: transfer-down
 zhTips: 向下转移
-unicode: F0DA1
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DA1</span> 
+<copy-btn content='F0DA1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DA1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

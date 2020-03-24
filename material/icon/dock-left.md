@@ -3,7 +3,7 @@
 title: dock left(向左停靠) ICON转svg、png下载
 name: dock-left
 zhTips: 向左停靠
-unicode: F10AA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10AA</span> 
+<copy-btn content='F10AA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10AA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

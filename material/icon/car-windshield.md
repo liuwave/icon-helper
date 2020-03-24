@@ -3,7 +3,7 @@
 title: car windshield(汽车挡风玻璃) ICON转svg、png下载
 name: car-windshield
 zhTips: 汽车挡风玻璃,汽车前玻璃
-unicode: F101B
+tags: ["automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F101B</span> 
+<copy-btn content='F101B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F101B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

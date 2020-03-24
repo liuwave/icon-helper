@@ -3,7 +3,7 @@
 title: pencil box outline(铅笔盒轮廓) ICON转svg、png下载
 name: pencil-box-outline
 zhTips: 铅笔盒轮廓
-unicode: F03ED
+tags: ["drawing-art"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F03ED</span> 
+<copy-btn content='F03ED' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F03ED", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Drawing / Art</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/drawing-art.html">绘画、艺术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

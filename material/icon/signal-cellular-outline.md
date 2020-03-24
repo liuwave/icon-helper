@@ -3,7 +3,7 @@
 title: signal cellular outline(蜂窝信号轮廓) ICON转svg、png下载
 name: signal-cellular-outline
 zhTips: 蜂窝信号轮廓,蜂窝信号0
-unicode: F08BF
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08BF</span> 
+<copy-btn content='F08BF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08BF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

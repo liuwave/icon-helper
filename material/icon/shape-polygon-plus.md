@@ -3,7 +3,7 @@
 title: shape polygon plus(形状多边形加) ICON转svg、png下载
 name: shape-polygon-plus
 zhTips: 形状多边形加
-unicode: F065E
+tags: ["shape"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F065E</span> 
+<copy-btn content='F065E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F065E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shape</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shape.html">Shape</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Kai Faust</span></span> 
 <br/>

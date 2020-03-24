@@ -1,7 +1,10 @@
 {
   "name": "icon-helper",
   "description": "Icon助手 ICON转svg、png下载",
-  "keywords": ["icon","svg"],
+  "keywords": [
+    "icon",
+    "svg"
+  ],
   "private": true,
   "homepage": "https://gitee.com/liuwave/icon-helper",
   "license": "MIT",
@@ -26,6 +29,7 @@
     "@vuepress/theme-default": "^1.3.1",
     "canvg": "^3.0.5",
     "file-saver": "^2.0.2",
+    "lodash": "^4.17.15",
     "vue": "^2.6.11",
     "vue-tippy": "^4.4.0",
     "vue-toasted": "^1.1.28"

@@ -3,7 +3,7 @@
 title: screw flat top(螺钉平顶) ICON转svg、png下载
 name: screw-flat-top
 zhTips: 螺钉平顶
-unicode: F0DF3
+tags: ["hardware-tools"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DF3</span> 
+<copy-btn content='F0DF3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DF3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Hardware / Tools</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/hardware-tools.html">硬件、工具</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

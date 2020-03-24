@@ -3,7 +3,7 @@
 title: numeric 10 box(数字10盒) ICON转svg、png下载
 name: numeric-10-box
 zhTips: 数字10盒
-unicode: F0F7D
+tags: ["alpha-numeric","alpha-numeric","alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F7D</span> 
+<copy-btn content='F0F7D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F7D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric,Alpha / Numeric,Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span><span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span><span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: battery 10 bluetooth(电池10蓝牙) ICON转svg、png下载
 name: battery-10-bluetooth
 zhTips: 电池10蓝牙
-unicode: F093E
+tags: ["battery"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F093E</span> 
+<copy-btn content='F093E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F093E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

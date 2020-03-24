@@ -3,7 +3,7 @@
 title: keyboard close(键盘关闭) ICON转svg、png下载
 name: keyboard-close
 zhTips: 键盘关闭,键盘隐藏
-unicode: F030F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F030F</span> 
+<copy-btn content='F030F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F030F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

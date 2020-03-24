@@ -3,7 +3,7 @@
 title: chart ppf(图表PPF) ICON转svg、png下载
 name: chart-ppf
 zhTips: 图表PPF,图表生产潜力前沿
-unicode: F1380
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1380</span> 
+<copy-btn content='F1380' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1380", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

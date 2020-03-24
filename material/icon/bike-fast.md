@@ -3,7 +3,7 @@
 title: bike fast(快速骑行) ICON转svg、png下载
 name: bike-fast
 zhTips: 快速骑行
-unicode: F111F
+tags: ["transportation-other"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F111F</span> 
+<copy-btn content='F111F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F111F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Other</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-other.html">运输+其他</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

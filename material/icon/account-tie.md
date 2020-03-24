@@ -3,7 +3,7 @@
 title: account tie(帐户领带) ICON转svg、png下载
 name: account-tie
 zhTips: 帐户领带,人领带,用户领带
-unicode: F0CE3
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0CE3</span> 
+<copy-btn content='F0CE3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0CE3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

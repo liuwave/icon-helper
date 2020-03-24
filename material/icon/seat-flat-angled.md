@@ -3,7 +3,7 @@
 title: seat flat angled(斜的扁平座椅) ICON转svg、png下载
 name: seat-flat-angled
 zhTips: 斜的扁平座椅,航空公司的直角
-unicode: F047C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F047C</span> 
+<copy-btn content='F047C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F047C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

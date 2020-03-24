@@ -3,7 +3,7 @@
 title: video input component(视频输入组件) ICON转svg、png下载
 name: video-input-component
 zhTips: 视频输入组件,视频输入复合,设置输入组件,设置输入复合,视频输入ypbpr,rca
-unicode: F0840
+tags: ["video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0840</span> 
+<copy-btn content='F0840' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0840", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

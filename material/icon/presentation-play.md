@@ -3,7 +3,7 @@
 title: presentation play(演示播放) ICON转svg、png下载
 name: presentation-play
 zhTips: 演示播放
-unicode: F0429
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0429</span> 
+<copy-btn content='F0429' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0429", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

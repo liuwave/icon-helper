@@ -3,7 +3,7 @@
 title: star circle outline(星形圆圈轮廓) ICON转svg、png下载
 name: star-circle-outline
 zhTips: 星形圆圈轮廓,功能突出
-unicode: F09A4
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09A4</span> 
+<copy-btn content='F09A4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09A4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

@@ -3,7 +3,7 @@
 title: forum(论坛) ICON转svg、png下载
 name: forum
 zhTips: 论坛,消息组,问题答案,聊天
-unicode: F028C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F028C</span> 
+<copy-btn content='F028C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F028C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

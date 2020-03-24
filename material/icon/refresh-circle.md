@@ -3,7 +3,7 @@
 title: refresh circle(刷新圈子) ICON转svg、png下载
 name: refresh-circle
 zhTips: 刷新圈子
-unicode: F1377
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1377</span> 
+<copy-btn content='F1377' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1377", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">François Risoud</span></span> 

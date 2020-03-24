@@ -3,7 +3,7 @@
 title: file delimited(文件定界) ICON转svg、png下载
 name: file-delimited
 zhTips: 文件定界,文件csv
-unicode: F0218
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0218</span> 
+<copy-btn content='F0218' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0218", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

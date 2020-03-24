@@ -3,7 +3,7 @@
 title: decagram outline(十角轮廓) ICON转svg、png下载
 name: decagram-outline
 zhTips: 十角轮廓,爆炸形轮廓
-unicode: F076D
+tags: ["shape"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F076D</span> 
+<copy-btn content='F076D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F076D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shape</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shape.html">Shape</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

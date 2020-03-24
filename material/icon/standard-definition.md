@@ -3,7 +3,7 @@
 title: standard definition(标准清晰度) ICON转svg、png下载
 name: standard-definition
 zhTips: 标准清晰度
-unicode: F07EF
+tags: ["video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07EF</span> 
+<copy-btn content='F07EF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07EF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

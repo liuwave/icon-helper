@@ -3,7 +3,7 @@
 title: mushroom outline(蘑菇轮廓) ICON转svg、png下载
 name: mushroom-outline
 zhTips: 蘑菇轮廓,木耳轮廓
-unicode: F07E0
+tags: ["nature","food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07E0</span> 
+<copy-btn content='F07E0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07E0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Nature,Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/nature.html">自然</router-link></span><span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

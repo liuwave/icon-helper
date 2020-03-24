@@ -3,7 +3,7 @@
 title: archive outline(存档概述) ICON转svg、png下载
 name: archive-outline
 zhTips: 存档概述
-unicode: F120E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F120E</span> 
+<copy-btn content='F120E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F120E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">James Coyle</span></span> 

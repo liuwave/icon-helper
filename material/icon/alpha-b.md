@@ -3,7 +3,7 @@
 title: alpha b(alpha b) ICON转svg、png下载
 name: alpha-b
 zhTips: alpha b,字母b
-unicode: F0AEF
+tags: ["alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0AEF</span> 
+<copy-btn content='F0AEF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0AEF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.8.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

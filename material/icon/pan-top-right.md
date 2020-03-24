@@ -3,7 +3,7 @@
 title: pan top right(向右平移) ICON转svg、png下载
 name: pan-top-right
 zhTips: 向右平移
-unicode: F0BBC
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BBC</span> 
+<copy-btn content='F0BBC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BBC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

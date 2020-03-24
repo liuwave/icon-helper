@@ -3,7 +3,7 @@
 title: poker chip(筹码扑克) ICON转svg、png下载
 name: poker-chip
 zhTips: 筹码扑克
-unicode: F0830
+tags: ["gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0830</span> 
+<copy-btn content='F0830' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0830", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

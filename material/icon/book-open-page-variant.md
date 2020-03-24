@@ -3,7 +3,7 @@
 title: book open page variant(书籍打开页面变体形式) ICON转svg、png下载
 name: book-open-page-variant
 zhTips: 书籍打开页面变体形式,自动故事
-unicode: F05DA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05DA</span> 
+<copy-btn content='F05DA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05DA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

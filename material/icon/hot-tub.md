@@ -3,7 +3,7 @@
 title: hot tub(热水浴缸) ICON转svg、png下载
 name: hot-tub
 zhTips: 热水浴缸
-unicode: F0828
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0828</span> 
+<copy-btn content='F0828' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0828", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

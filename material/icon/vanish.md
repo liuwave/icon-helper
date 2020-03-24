@@ -3,7 +3,7 @@
 title: vanish(消失) ICON转svg、png下载
 name: vanish
 zhTips: 消失
-unicode: F07FC
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07FC</span> 
+<copy-btn content='F07FC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07FC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">ginlime</span></span> 

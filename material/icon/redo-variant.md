@@ -3,7 +3,7 @@
 title: redo variant(重做变体) ICON转svg、png下载
 name: redo-variant
 zhTips: 重做变体,箭头
-unicode: F044F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F044F</span> 
+<copy-btn content='F044F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F044F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

@@ -3,7 +3,7 @@
 title: horizontal rotate clockwise(顺时针水平旋转) ICON转svg、png下载
 name: horizontal-rotate-clockwise
 zhTips: 顺时针水平旋转
-unicode: F10F3
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10F3</span> 
+<copy-btn content='F10F3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10F3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

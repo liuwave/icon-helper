@@ -3,7 +3,7 @@
 title: rss box(rss盒) ICON转svg、png下载
 name: rss-box
 zhTips: rss盒,rss提要盒
-unicode: F046C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F046C</span> 
+<copy-btn content='F046C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F046C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Gabriel</span></span> 

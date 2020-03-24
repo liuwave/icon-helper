@@ -3,7 +3,7 @@
 title: format list numbered rtl(格式编号列表rtl) ICON转svg、png下载
 name: format-list-numbered-rtl
 zhTips: 格式编号列表rtl,格式编号列表从右到左
-unicode: F0D0D
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D0D</span> 
+<copy-btn content='F0D0D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D0D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

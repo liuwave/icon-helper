@@ -3,7 +3,7 @@
 title: headset(头戴式耳机) ICON转svg、png下载
 name: headset
 zhTips: 头戴式耳机,头戴式麦克风
-unicode: F02CE
+tags: ["audio","device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02CE</span> 
+<copy-btn content='F02CE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02CE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Audio,Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span><span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

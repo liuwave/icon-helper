@@ -3,7 +3,7 @@
 title: video account(视频帐户) ICON转svg、png下载
 name: video-account
 zhTips: 视频帐户,用户视频
-unicode: F0919
+tags: ["account-user","video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0919</span> 
+<copy-btn content='F0919' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0919", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

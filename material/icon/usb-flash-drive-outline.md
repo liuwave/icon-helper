@@ -3,7 +3,7 @@
 title: usb flash drive outline(USB闪存驱动器概述) ICON转svg、png下载
 name: usb-flash-drive-outline
 zhTips: USB闪存驱动器概述
-unicode: F129F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F129F</span> 
+<copy-btn content='F129F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F129F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Yaroslav Bandura</span></span> 

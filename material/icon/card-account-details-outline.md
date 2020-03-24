@@ -3,7 +3,7 @@
 title: card account details outline(卡帐户详细信息轮廓) ICON转svg、png下载
 name: card-account-details-outline
 zhTips: 卡帐户详细信息轮廓,识别卡概述,用户卡概述轮廓,人卡详细说明轮廓,驾驶执照轮廓,名片轮廓
-unicode: F0DAB
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DAB</span> 
+<copy-btn content='F0DAB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DAB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

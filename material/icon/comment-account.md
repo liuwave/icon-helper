@@ -3,7 +3,7 @@
 title: comment account(评论帐户) ICON转svg、png下载
 name: comment-account
 zhTips: 评论帐户,用户评论,个人评论
-unicode: F017B
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F017B</span> 
+<copy-btn content='F017B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F017B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: content save outline(内容保存轮廓) ICON转svg、png下载
 name: content-save-outline
 zhTips: 内容保存轮廓
-unicode: F0818
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0818</span> 
+<copy-btn content='F0818' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0818", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

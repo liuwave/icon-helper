@@ -3,7 +3,7 @@
 title: camera plus(相机加) ICON转svg、png下载
 name: camera-plus
 zhTips: 相机加
-unicode: F0EDB
+tags: ["photography"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EDB</span> 
+<copy-btn content='F0EDB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EDB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Photography</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/photography.html">摄影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: file import outline(文件导入概述) ICON转svg、png下载
 name: file-import-outline
 zhTips: 文件导入概述
-unicode: F102F
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F102F</span> 
+<copy-btn content='F102F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F102F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Terren</span></span> 
 <br/>

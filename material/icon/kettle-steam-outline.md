@@ -3,7 +3,7 @@
 title: kettle steam outline(水壶蒸汽轮廓) ICON转svg、png下载
 name: kettle-steam-outline
 zhTips: 水壶蒸汽轮廓,茶壶蒸汽轮廓,水壶空蒸汽,茶壶空蒸汽
-unicode: F131A
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F131A</span> 
+<copy-btn content='F131A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F131A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

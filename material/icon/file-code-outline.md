@@ -3,7 +3,7 @@
 title: file code outline(文件代码概述) ICON转svg、png下载
 name: file-code-outline
 zhTips: 文件代码概述
-unicode: F102B
+tags: ["files-folders","developer-languages"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F102B</span> 
+<copy-btn content='F102B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F102B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders,Developer / Languages</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span><span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Terren</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: tab remove(移除标签) ICON转svg、png下载
 name: tab-remove
 zhTips: 移除标签
-unicode: F0B4C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B4C</span> 
+<copy-btn content='F0B4C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B4C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.8.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

@@ -3,7 +3,7 @@
 title: rectangle outline(矩形轮廓) ICON转svg、png下载
 name: rectangle-outline
 zhTips: 矩形轮廓
-unicode: F0E5F
+tags: ["shape"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E5F</span> 
+<copy-btn content='F0E5F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E5F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shape</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shape.html">Shape</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Terren</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: alpha y(字母y) ICON转svg、png下载
 name: alpha-y
 zhTips: 字母y
-unicode: F0B06
+tags: ["alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B06</span> 
+<copy-btn content='F0B06' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B06", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.8.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

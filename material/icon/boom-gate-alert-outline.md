@@ -3,7 +3,7 @@
 title: boom gate alert outline(动臂浇口警报轮廓) ICON转svg、png下载
 name: boom-gate-alert-outline
 zhTips: 动臂浇口警报轮廓,障碍物障碍轮廓轮廓,自动浇口警报轮廓
-unicode: F0E88
+tags: ["alert-error","transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E88</span> 
+<copy-btn content='F0E88' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E88", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error,Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span><span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: alarm multiple(多个警报) ICON转svg、png下载
 name: alarm-multiple
 zhTips: 多个警报,警报,多个时钟警报,闹钟
-unicode: F0022
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0022</span> 
+<copy-btn content='F0022' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0022", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

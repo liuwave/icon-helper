@@ -3,7 +3,7 @@
 title: minus box outline(减号框轮廓) ICON转svg、png下载
 name: minus-box-outline
 zhTips: 减号框轮廓,复选框不确定的轮廓
-unicode: F06F2
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06F2</span> 
+<copy-btn content='F06F2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06F2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

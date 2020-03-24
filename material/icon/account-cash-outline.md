@@ -3,7 +3,7 @@
 title: account cash outline(现金轮廓帐户) ICON转svg、png下载
 name: account-cash-outline
 zhTips: 现金轮廓帐户
-unicode: F1098
+tags: ["account-user","banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1098</span> 
+<copy-btn content='F1098' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1098", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: contain start(包含开始) ICON转svg、png下载
 name: contain-start
 zhTips: 包含开始
-unicode: F0A40
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A40</span> 
+<copy-btn content='F0A40' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A40", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

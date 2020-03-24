@@ -3,7 +3,7 @@
 title: calculator(计算器) ICON转svg、png下载
 name: calculator
 zhTips: 计算器
-unicode: F00EC
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00EC</span> 
+<copy-btn content='F00EC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00EC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

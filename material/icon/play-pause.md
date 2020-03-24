@@ -3,7 +3,7 @@
 title: play pause(播放暂停) ICON转svg、png下载
 name: play-pause
 zhTips: 播放暂停
-unicode: F040E
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F040E</span> 
+<copy-btn content='F040E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F040E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

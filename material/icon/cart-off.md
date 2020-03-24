@@ -3,7 +3,7 @@
 title: cart off(购物车关闭) ICON转svg、png下载
 name: cart-off
 zhTips: 购物车关闭,卸下购物车
-unicode: F066B
+tags: ["shopping"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F066B</span> 
+<copy-btn content='F066B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F066B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shopping</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shopping.html">购物</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: more(更多) ICON转svg、png下载
 name: more
 zhTips: 更多
-unicode: F037B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F037B</span> 
+<copy-btn content='F037B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F037B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

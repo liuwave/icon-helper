@@ -3,7 +3,7 @@
 title: battery alert variant(电池警报口音) ICON转svg、png下载
 name: battery-alert-variant
 zhTips: 电池警报口音
-unicode: F10CC
+tags: ["battery","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10CC</span> 
+<copy-btn content='F10CC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10CC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

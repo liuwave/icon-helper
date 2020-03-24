@@ -3,7 +3,7 @@
 title: note(笔记) ICON转svg、png下载
 name: note
 zhTips: 笔记,纸
-unicode: F039A
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F039A</span> 
+<copy-btn content='F039A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F039A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

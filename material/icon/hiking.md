@@ -3,7 +3,7 @@
 title: hiking(远足) ICON转svg、png下载
 name: hiking
 zhTips: 远足
-unicode: F0D7F
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D7F</span> 
+<copy-btn content='F0D7F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D7F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

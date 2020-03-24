@@ -3,7 +3,7 @@
 title: greater than(大于) ICON转svg、png下载
 name: greater-than
 zhTips: 大于
-unicode: F096D
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F096D</span> 
+<copy-btn content='F096D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F096D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 
 <br/>

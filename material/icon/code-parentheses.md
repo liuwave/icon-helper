@@ -3,7 +3,7 @@
 title: code parentheses(代码括号) ICON转svg、png下载
 name: code-parentheses
 zhTips: 代码括号
-unicode: F0172
+tags: ["developer-languages"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0172</span> 
+<copy-btn content='F0172' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0172", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Developer / Languages</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

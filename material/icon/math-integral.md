@@ -3,7 +3,7 @@
 title: math integral(数学积分) ICON转svg、png下载
 name: math-integral
 zhTips: 数学积分
-unicode: F0FC8
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FC8</span> 
+<copy-btn content='F0FC8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FC8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.0.96</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

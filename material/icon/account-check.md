@@ -3,7 +3,7 @@
 title: account check(帐户检查) ICON转svg、png下载
 name: account-check
 zhTips: 帐户检查,用户检查,帐户刻度,用户刻度,人员检查,人员刻度,如何注册
-unicode: F0008
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0008</span> 
+<copy-btn content='F0008' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0008", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

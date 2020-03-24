@@ -3,7 +3,7 @@
 title: phone return(电话退回) ICON转svg、png下载
 name: phone-return
 zhTips: 电话退回
-unicode: F082F
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F082F</span> 
+<copy-btn content='F082F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F082F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

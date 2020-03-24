@@ -3,7 +3,7 @@
 title: account group outline(帐户组轮廓) ICON转svg、png下载
 name: account-group-outline
 zhTips: 帐户组轮廓,用户组轮廓,人员组轮廓
-unicode: F0B58
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0B58</span> 
+<copy-btn content='F0B58' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0B58", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

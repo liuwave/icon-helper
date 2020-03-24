@@ -3,7 +3,7 @@
 title: emoticon frown(棕色的图释) ICON转svg、png下载
 name: emoticon-frown
 zhTips: 棕色的图释
-unicode: F0F4C
+tags: ["emoji"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F4C</span> 
+<copy-btn content='F0F4C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F4C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Emoji</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/emoji.html">表情符号</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: subway(地铁) ICON转svg、png下载
 name: subway
 zhTips: 地铁,地下
-unicode: F06AC
+tags: ["transportation-other"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06AC</span> 
+<copy-btn content='F06AC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06AC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Other</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-other.html">运输+其他</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

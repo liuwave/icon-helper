@@ -3,7 +3,7 @@
 title: calendar search(日历搜索) ICON转svg、png下载
 name: calendar-search
 zhTips: 日历搜索,事件搜索
-unicode: F094C
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F094C</span> 
+<copy-btn content='F094C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F094C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: shield off outline(屏蔽轮廓) ICON转svg、png下载
 name: shield-off-outline
 zhTips: 屏蔽轮廓
-unicode: F099C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F099C</span> 
+<copy-btn content='F099C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F099C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

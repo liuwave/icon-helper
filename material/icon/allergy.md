@@ -3,7 +3,7 @@
 title: allergy(过敏) ICON转svg、png下载
 name: allergy
 zhTips: 过敏,手,皮疹,细菌
-unicode: F1258
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1258</span> 
+<copy-btn content='F1258' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1258", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

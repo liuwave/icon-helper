@@ -3,7 +3,7 @@
 title: speedometer slow(慢速里程表) ICON转svg、png下载
 name: speedometer-slow
 zhTips: 慢速里程表
-unicode: F0F86
+tags: ["automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F86</span> 
+<copy-btn content='F0F86' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F86", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

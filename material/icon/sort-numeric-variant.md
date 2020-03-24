@@ -3,7 +3,7 @@
 title: sort numeric variant(对数字重音进行排序) ICON转svg、png下载
 name: sort-numeric-variant
 zhTips: 对数字重音进行排序,对数字进行排序
-unicode: F04BE
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F04BE</span> 
+<copy-btn content='F04BE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F04BE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

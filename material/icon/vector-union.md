@@ -3,7 +3,7 @@
 title: vector union(矢量精确) ICON转svg、png下载
 name: vector-union
 zhTips: 矢量精确
-unicode: F0564
+tags: ["vector","geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0564</span> 
+<copy-btn content='F0564' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0564", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Vector,Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/vector.html">矢量</router-link></span><span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

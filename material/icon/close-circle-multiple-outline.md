@@ -3,7 +3,7 @@
 title: close circle multiple outline(关闭圆形多个轮廓) ICON转svg、png下载
 name: close-circle-multiple-outline
 zhTips: 关闭圆形多个轮廓,移除圆形多个轮廓,硬币关闭轮廓,硬币移除轮廓
-unicode: F0883
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0883</span> 
+<copy-btn content='F0883' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0883", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

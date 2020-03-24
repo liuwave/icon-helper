@@ -3,7 +3,7 @@
 title: badge account horizontal(徽章帐户水平) ICON转svg、png下载
 name: badge-account-horizontal
 zhTips: 徽章帐户水平
-unicode: F0E0D
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E0D</span> 
+<copy-btn content='F0E0D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E0D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

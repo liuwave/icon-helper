@@ -3,7 +3,7 @@
 title: book open(打开书本) ICON转svg、png下载
 name: book-open
 zhTips: 打开书本,Chrome阅读器模式
-unicode: F00BD
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00BD</span> 
+<copy-btn content='F00BD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00BD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

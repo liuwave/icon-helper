@@ -3,7 +3,7 @@
 title: arrow right bold circle outline(箭头右粗体圆圈轮廓) ICON转svg、png下载
 name: arrow-right-bold-circle-outline
 zhTips: 箭头右粗体圆圈轮廓
-unicode: F0057
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0057</span> 
+<copy-btn content='F0057' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0057", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

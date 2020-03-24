@@ -3,7 +3,7 @@
 title: email receive(电子邮件接收) ICON转svg、png下载
 name: email-receive
 zhTips: 电子邮件接收
-unicode: F10DA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10DA</span> 
+<copy-btn content='F10DA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10DA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

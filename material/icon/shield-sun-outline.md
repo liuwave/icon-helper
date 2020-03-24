@@ -3,7 +3,7 @@
 title: shield sun outline(防护罩轮廓) ICON转svg、png下载
 name: shield-sun-outline
 zhTips: 防护罩轮廓,防晒轮廓
-unicode: F105E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F105E</span> 
+<copy-btn content='F105E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F105E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Perth Totty</span></span> 

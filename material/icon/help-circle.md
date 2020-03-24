@@ -3,7 +3,7 @@
 title: help circle(帮助圈) ICON转svg、png下载
 name: help-circle
 zhTips: 帮助圈,问号圈
-unicode: F02D7
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02D7</span> 
+<copy-btn content='F02D7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02D7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

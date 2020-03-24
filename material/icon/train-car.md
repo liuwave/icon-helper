@@ -3,7 +3,7 @@
 title: train car(火车) ICON转svg、png下载
 name: train-car
 zhTips: 火车,通勤,运输,旅行
-unicode: F0BD8
+tags: ["transportation-other"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BD8</span> 
+<copy-btn content='F0BD8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BD8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Other</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-other.html">运输+其他</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

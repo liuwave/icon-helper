@@ -3,7 +3,7 @@
 title: seed off(种子关闭) ICON转svg、png下载
 name: seed-off
 zhTips: 种子关闭
-unicode: F13FD
+tags: ["nature","food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F13FD</span> 
+<copy-btn content='F13FD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F13FD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.1.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Nature,Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/nature.html">自然</router-link></span><span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

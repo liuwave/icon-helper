@@ -3,7 +3,7 @@
 title: snowflake(雪花) ICON转svg、png下载
 name: snowflake
 zhTips: 雪花
-unicode: F0717
+tags: ["weather","holiday","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0717</span> 
+<copy-btn content='F0717' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0717", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather,Holiday,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span><span class="badge-light badge"><router-link to="/tags/holiday.html">假日</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

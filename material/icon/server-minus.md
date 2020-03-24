@@ -3,7 +3,7 @@
 title: server minus(服务器减号) ICON转svg、png下载
 name: server-minus
 zhTips: 服务器减号,服务器删除
-unicode: F048C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F048C</span> 
+<copy-btn content='F048C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F048C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

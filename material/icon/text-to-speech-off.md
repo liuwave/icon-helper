@@ -3,7 +3,7 @@
 title: text to speech off(文本到语音关闭) ICON转svg、png下载
 name: text-to-speech-off
 zhTips: 文本到语音关闭,tts关闭,麦克风消息关闭
-unicode: F050B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F050B</span> 
+<copy-btn content='F050B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F050B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

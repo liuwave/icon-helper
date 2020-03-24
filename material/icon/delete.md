@@ -3,7 +3,7 @@
 title: delete(删除) ICON转svg、png下载
 name: delete
 zhTips: 删除,垃圾桶,垃圾
-unicode: F01B4
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01B4</span> 
+<copy-btn content='F01B4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01B4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

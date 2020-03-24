@@ -3,7 +3,7 @@
 title: room service(客房服务) ICON转svg、png下载
 name: room-service
 zhTips: 客房服务
-unicode: F088D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F088D</span> 
+<copy-btn content='F088D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F088D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

@@ -3,7 +3,7 @@
 title: heart(心) ICON转svg、png下载
 name: heart
 zhTips: 心,最爱
-unicode: F02D1
+tags: ["shape","gaming-rpg","medical-hospital"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02D1</span> 
+<copy-btn content='F02D1' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02D1", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shape,Gaming / RPG,Medical / Hospital</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shape.html">Shape</router-link></span><span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span><span class="badge-light badge"><router-link to="/tags/medical-hospital.html">医学、医院</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

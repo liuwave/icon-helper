@@ -3,7 +3,7 @@
 title: safety goggles(护目镜) ICON转svg、png下载
 name: safety-goggles
 zhTips: 护目镜
-unicode: F0D30
+tags: ["science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D30</span> 
+<copy-btn content='F0D30' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D30", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

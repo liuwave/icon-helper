@@ -3,7 +3,7 @@
 title: dice multiple outline(骰子多个轮廓) ICON转svg、png下载
 name: dice-multiple-outline
 zhTips: 骰子多个轮廓
-unicode: F1156
+tags: ["gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1156</span> 
+<copy-btn content='F1156' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1156", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

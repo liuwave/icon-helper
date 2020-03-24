@@ -3,7 +3,7 @@
 title: human female boy(人类女性男孩) ICON转svg、png下载
 name: human-female-boy
 zhTips: 人类女性男孩,母亲,妈妈,女童
-unicode: F0A59
+tags: ["people-family"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A59</span> 
+<copy-btn content='F0A59' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A59", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">People / Family</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/people-family.html">朋友、家庭</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Henrique César Madeira</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: phone ring outline(手机铃声轮廓) ICON转svg、png下载
 name: phone-ring-outline
 zhTips: 手机铃声轮廓
-unicode: F11AC
+tags: ["cellphone-phone"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11AC</span> 
+<copy-btn content='F11AC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11AC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

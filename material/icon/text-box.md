@@ -3,7 +3,7 @@
 title: text box(文本框) ICON转svg、png下载
 name: text-box
 zhTips: 文本框,文档驱动器,文件文档框
-unicode: F021A
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F021A</span> 
+<copy-btn content='F021A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F021A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

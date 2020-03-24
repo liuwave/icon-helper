@@ -3,7 +3,7 @@
 title: scoreboard(计分板) ICON转svg、png下载
 name: scoreboard
 zhTips: 计分板
-unicode: F127E
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F127E</span> 
+<copy-btn content='F127E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F127E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Yaroslav Bandura</span></span> 
 <br/>

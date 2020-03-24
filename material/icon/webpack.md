@@ -3,7 +3,7 @@
 title: webpack(webpack) ICON转svg、png下载
 name: webpack
 zhTips: webpack
-unicode: F072B
+tags: ["brand-logo","developer-languages"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F072B</span> 
+<copy-btn content='F072B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F072B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Brand / Logo,Developer / Languages</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span><span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

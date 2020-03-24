@@ -3,7 +3,7 @@
 title: chart bubble(气泡图) ICON转svg、png下载
 name: chart-bubble
 zhTips: 气泡图
-unicode: F05E3
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05E3</span> 
+<copy-btn content='F05E3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05E3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

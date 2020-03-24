@@ -3,7 +3,7 @@
 title: hexagon slice 5(六角形切片5) ICON转svg、png下载
 name: hexagon-slice-5
 zhTips: 六角形切片5
-unicode: F0AC7
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0AC7</span> 
+<copy-btn content='F0AC7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0AC7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">SarinManS</span></span> 

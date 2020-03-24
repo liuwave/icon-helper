@@ -3,7 +3,7 @@
 title: expansion card(卡扩展) ICON转svg、png下载
 name: expansion-card
 zhTips: 卡扩展,GPU,图形处理单元,NIC,网络接口卡
-unicode: F08AE
+tags: ["gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08AE</span> 
+<copy-btn content='F08AE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08AE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

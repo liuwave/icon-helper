@@ -3,7 +3,7 @@
 title: wrench(扳手) ICON转svg、png下载
 name: wrench
 zhTips: 扳手,组装
-unicode: F05B7
+tags: ["hardware-tools"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05B7</span> 
+<copy-btn content='F05B7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05B7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Hardware / Tools</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/hardware-tools.html">硬件、工具</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

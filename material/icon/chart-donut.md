@@ -3,7 +3,7 @@
 title: chart donut(图表甜甜圈) ICON转svg、png下载
 name: chart-donut
 zhTips: 图表甜甜圈,甜甜圈图,数据使用情况
-unicode: F07AF
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07AF</span> 
+<copy-btn content='F07AF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07AF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

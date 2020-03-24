@@ -3,7 +3,7 @@
 title: magnify plus(放大) ICON转svg、png下载
 name: magnify-plus
 zhTips: 放大,搜索加,搜索添加
-unicode: F034B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F034B</span> 
+<copy-btn content='F034B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F034B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

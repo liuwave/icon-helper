@@ -3,7 +3,7 @@
 title: periodic table(周期表) ICON转svg、png下载
 name: periodic-table
 zhTips: 周期表
-unicode: F08B6
+tags: ["science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08B6</span> 
+<copy-btn content='F08B6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08B6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

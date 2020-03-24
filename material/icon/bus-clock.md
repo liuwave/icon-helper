@@ -3,7 +3,7 @@
 title: bus clock(公交车时钟) ICON转svg、png下载
 name: bus-clock
 zhTips: 公交车时钟,出发板
-unicode: F08CA
+tags: ["date-time","transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08CA</span> 
+<copy-btn content='F08CA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08CA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time,Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span><span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

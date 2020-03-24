@@ -3,7 +3,7 @@
 title: numeric 7 box multiple(数字7框倍数) ICON转svg、png下载
 name: numeric-7-box-multiple
 zhTips: 数字7框倍数
-unicode: F0F15
+tags: ["alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F15</span> 
+<copy-btn content='F0F15' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F15", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

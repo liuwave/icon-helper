@@ -3,7 +3,7 @@
 title: calendar sync(日历同步) ICON转svg、png下载
 name: calendar-sync
 zhTips: 日历同步,日历重复
-unicode: F0E8E
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E8E</span> 
+<copy-btn content='F0E8E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E8E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

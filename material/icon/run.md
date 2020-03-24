@@ -3,7 +3,7 @@
 title: run(运行) ICON转svg、png下载
 name: run
 zhTips: 运行,运行说明
-unicode: F070E
+tags: ["sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F070E</span> 
+<copy-btn content='F070E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F070E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

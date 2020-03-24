@@ -3,7 +3,7 @@
 title: truck delivery(卡车交付) ICON转svg、png下载
 name: truck-delivery
 zhTips: 卡车交付
-unicode: F053E
+tags: ["transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F053E</span> 
+<copy-btn content='F053E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F053E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

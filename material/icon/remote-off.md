@@ -3,7 +3,7 @@
 title: remote off(遥控器已关闭) ICON转svg、png下载
 name: remote-off
 zhTips: 遥控器已关闭
-unicode: F0EC4
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EC4</span> 
+<copy-btn content='F0EC4' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EC4", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">idevo89</span></span> 

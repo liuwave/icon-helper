@@ -3,7 +3,7 @@
 title: flash red eye(闪红眼) ICON转svg、png下载
 name: flash-red-eye
 zhTips: 闪红眼
-unicode: F067B
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F067B</span> 
+<copy-btn content='F067B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F067B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

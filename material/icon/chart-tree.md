@@ -3,7 +3,7 @@
 title: chart tree(图表树) ICON转svg、png下载
 name: chart-tree
 zhTips: 图表树
-unicode: F0E94
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E94</span> 
+<copy-btn content='F0E94' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E94", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

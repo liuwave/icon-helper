@@ -3,7 +3,7 @@
 title: tab plus(选项卡加号) ICON转svg、png下载
 name: tab-plus
 zhTips: 选项卡加号,选项卡添加
-unicode: F075C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F075C</span> 
+<copy-btn content='F075C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F075C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

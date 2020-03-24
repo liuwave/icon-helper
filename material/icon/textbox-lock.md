@@ -3,7 +3,7 @@
 title: textbox lock(文本框锁定) ICON转svg、png下载
 name: textbox-lock
 zhTips: 文本框锁定
-unicode: F135D
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F135D</span> 
+<copy-btn content='F135D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F135D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

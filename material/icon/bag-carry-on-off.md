@@ -3,7 +3,7 @@
 title: bag carry on off(提起行李箱) ICON转svg、png下载
 name: bag-carry-on-off
 zhTips: 提起行李箱,托运行李
-unicode: F0F3C
+tags: ["transportation-flying"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F3C</span> 
+<copy-btn content='F0F3C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F3C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Flying</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-flying.html">运输+飞行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

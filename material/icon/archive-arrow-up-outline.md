@@ -3,7 +3,7 @@
 title: archive arrow up outline(存档向上箭头) ICON转svg、png下载
 name: archive-arrow-up-outline
 zhTips: 存档向上箭头
-unicode: F125C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F125C</span> 
+<copy-btn content='F125C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F125C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">frankgrinaert</span></span> 

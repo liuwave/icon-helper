@@ -3,7 +3,7 @@
 title: email alert outline(电子邮件警报概述) ICON转svg、png下载
 name: email-alert-outline
 zhTips: 电子邮件警报概述
-unicode: F0D42
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D42</span> 
+<copy-btn content='F0D42' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D42", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

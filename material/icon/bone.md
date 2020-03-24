@@ -3,7 +3,7 @@
 title: bone(骨头) ICON转svg、png下载
 name: bone
 zhTips: 骨头
-unicode: F00B9
+tags: ["animal"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00B9</span> 
+<copy-btn content='F00B9' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00B9", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Animal</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/animal.html">动物</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

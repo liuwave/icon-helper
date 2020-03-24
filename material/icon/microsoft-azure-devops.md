@@ -3,7 +3,7 @@
 title: microsoft azure devops(微软天蓝色devops) ICON转svg、png下载
 name: microsoft-azure-devops
 zhTips: 微软天蓝色devops
-unicode: F0FD5
+tags: ["brand-logo"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0FD5</span> 
+<copy-btn content='F0FD5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0FD5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Brand / Logo</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

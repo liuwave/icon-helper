@@ -3,7 +3,7 @@
 title: human handsdown(人类的双手) ICON转svg、png下载
 name: human-handsdown
 zhTips: 人类的双手
-unicode: F064B
+tags: ["people-family"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F064B</span> 
+<copy-btn content='F064B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F064B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">People / Family</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/people-family.html">朋友、家庭</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: head snowflake(头雪花) ICON转svg、png下载
 name: head-snowflake
 zhTips: 头雪花,头冻结,大脑冻结
-unicode: F134E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F134E</span> 
+<copy-btn content='F134E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F134E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

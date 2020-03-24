@@ -3,7 +3,7 @@
 title: emoticon confused outline(表情混淆轮廓) ICON转svg、png下载
 name: emoticon-confused-outline
 zhTips: 表情混淆轮廓
-unicode: F10DF
+tags: ["emoji"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10DF</span> 
+<copy-btn content='F10DF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10DF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Emoji</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/emoji.html">表情符号</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

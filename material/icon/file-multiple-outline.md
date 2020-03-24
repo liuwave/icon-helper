@@ -3,7 +3,7 @@
 title: file multiple outline(归档多个轮廓) ICON转svg、png下载
 name: file-multiple-outline
 zhTips: 归档多个轮廓
-unicode: F1032
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1032</span> 
+<copy-btn content='F1032' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1032", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Terren</span></span> 
 <br/>

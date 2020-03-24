@@ -3,7 +3,7 @@
 title: account remove(帐户删除) ICON转svg、png下载
 name: account-remove
 zhTips: 帐户删除,用户删除,人员删除
-unicode: F0015
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0015</span> 
+<copy-btn content='F0015' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0015", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">REJack</span></span> 
 <br/>

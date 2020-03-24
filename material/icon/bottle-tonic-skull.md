@@ -3,7 +3,7 @@
 title: bottle tonic skull(瓶补品头骨) ICON转svg、png下载
 name: bottle-tonic-skull
 zhTips: 瓶补品头骨,毒药,月光
-unicode: F1132
+tags: ["gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1132</span> 
+<copy-btn content='F1132' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1132", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: remote tv off(远程电视关闭) ICON转svg、png下载
 name: remote-tv-off
 zhTips: 远程电视关闭
-unicode: F0EC6
+tags: ["device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EC6</span> 
+<copy-btn content='F0EC6' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EC6", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">idevo89</span></span> 
 <br/>

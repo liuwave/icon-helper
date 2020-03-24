@@ -3,7 +3,7 @@
 title: wallet plus(皮夹加) ICON转svg、png下载
 name: wallet-plus
 zhTips: 皮夹加
-unicode: F0F8E
+tags: ["banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F8E</span> 
+<copy-btn content='F0F8E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F8E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

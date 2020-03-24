@@ -3,7 +3,7 @@
 title: hexagram(卦) ICON转svg、png下载
 name: hexagram
 zhTips: 卦
-unicode: F0AC9
+tags: ["shape"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0AC9</span> 
+<copy-btn content='F0AC9' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0AC9", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shape</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shape.html">Shape</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

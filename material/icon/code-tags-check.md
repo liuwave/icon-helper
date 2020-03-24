@@ -3,7 +3,7 @@
 title: code tags check(代码标签检查) ICON转svg、png下载
 name: code-tags-check
 zhTips: 代码标签检查,代码标签打勾
-unicode: F0694
+tags: ["developer-languages"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0694</span> 
+<copy-btn content='F0694' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0694", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.12</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Developer / Languages</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: delete alert(删除警报) ICON转svg、png下载
 name: delete-alert
 zhTips: 删除警报
-unicode: F10A5
+tags: ["alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10A5</span> 
+<copy-btn content='F10A5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10A5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">idevo89</span></span> 
 <br/>

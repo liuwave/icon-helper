@@ -3,7 +3,7 @@
 title: arrow decision auto(箭头决策自动) ICON转svg、png下载
 name: arrow-decision-auto
 zhTips: 箭头决策自动,代理自动
-unicode: F09BC
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09BC</span> 
+<copy-btn content='F09BC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09BC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

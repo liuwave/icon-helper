@@ -3,7 +3,7 @@
 title: access point network(接入点网络) ICON转svg、png下载
 name: access-point-network
 zhTips: 接入点网络
-unicode: F0002
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0002</span> 
+<copy-btn content='F0002' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0002", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

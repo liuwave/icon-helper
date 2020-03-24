@@ -3,7 +3,7 @@
 title: eye plus outline(眼睛加轮廓) ICON转svg、png下载
 name: eye-plus-outline
 zhTips: 眼睛加轮廓
-unicode: F086C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F086C</span> 
+<copy-btn content='F086C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F086C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

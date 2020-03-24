@@ -3,7 +3,7 @@
 title: cog counterclockwise(齿轮为逆时针方向) ICON转svg、png下载
 name: cog-counterclockwise
 zhTips: 齿轮为逆时针方向
-unicode: F11DE
+tags: ["settings"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11DE</span> 
+<copy-btn content='F11DE' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11DE", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Settings</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">François Risoud</span></span> 
 <br/>

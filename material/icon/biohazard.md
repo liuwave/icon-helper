@@ -3,7 +3,7 @@
 title: biohazard(生物危害) ICON转svg、png下载
 name: biohazard
 zhTips: 生物危害
-unicode: F00A7
+tags: ["science"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00A7</span> 
+<copy-btn content='F00A7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00A7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Science</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/science.html">可选</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Yasmina Lembachar</span></span> 
 <br/>

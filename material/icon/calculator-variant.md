@@ -3,7 +3,7 @@
 title: calculator variant(口音计算器) ICON转svg、png下载
 name: calculator-variant
 zhTips: 口音计算器
-unicode: F0A9A
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A9A</span> 
+<copy-btn content='F0A9A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A9A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

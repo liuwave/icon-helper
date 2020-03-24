@@ -3,7 +3,7 @@
 title: box cutter(箱刀) ICON转svg、png下载
 name: box-cutter
 zhTips: 箱刀,史丹利刀
-unicode: F00D5
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00D5</span> 
+<copy-btn content='F00D5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00D5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

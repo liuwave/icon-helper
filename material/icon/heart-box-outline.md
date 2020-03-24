@@ -3,7 +3,7 @@
 title: heart box outline(心脏盒轮廓) ICON转svg、png下载
 name: heart-box-outline
 zhTips: 心脏盒轮廓
-unicode: F02D3
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02D3</span> 
+<copy-btn content='F02D3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02D3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

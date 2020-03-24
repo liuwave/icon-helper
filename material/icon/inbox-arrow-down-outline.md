@@ -3,7 +3,7 @@
 title: inbox arrow down outline(收件箱向下箭头轮廓) ICON转svg、png下载
 name: inbox-arrow-down-outline
 zhTips: 收件箱向下箭头轮廓
-unicode: F1270
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1270</span> 
+<copy-btn content='F1270' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1270", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

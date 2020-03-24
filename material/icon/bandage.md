@@ -3,7 +3,7 @@
 title: bandage(绷带) ICON转svg、png下载
 name: bandage
 zhTips: 绷带,创可贴,石膏
-unicode: F0DAF
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DAF</span> 
+<copy-btn content='F0DAF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DAF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

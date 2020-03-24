@@ -3,7 +3,7 @@
 title: smart card(智能卡) ICON转svg、png下载
 name: smart-card
 zhTips: 智能卡
-unicode: F10BD
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F10BD</span> 
+<copy-btn content='F10BD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F10BD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

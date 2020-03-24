@@ -3,7 +3,7 @@
 title: information outline(信息轮廓) ICON转svg、png下载
 name: information-outline
 zhTips: 信息轮廓,关于轮廓,信息圆圈轮廓,关于圆圈轮廓
-unicode: F02FD
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02FD</span> 
+<copy-btn content='F02FD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02FD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

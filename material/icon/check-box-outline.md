@@ -3,7 +3,7 @@
 title: check box outline(复选框轮廓) ICON转svg、png下载
 name: check-box-outline
 zhTips: 复选框轮廓
-unicode: F0C52
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C52</span> 
+<copy-btn content='F0C52' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C52", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

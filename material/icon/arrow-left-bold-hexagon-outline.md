@@ -3,7 +3,7 @@
 title: arrow left bold hexagon outline(左箭头加粗六角形轮廓) ICON转svg、png下载
 name: arrow-left-bold-hexagon-outline
 zhTips: 左箭头加粗六角形轮廓
-unicode: F0051
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0051</span> 
+<copy-btn content='F0051' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0051", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: video plus outline(视频加轮廓) ICON转svg、png下载
 name: video-plus-outline
 zhTips: 视频加轮廓
-unicode: F01D3
+tags: ["video-movie"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F01D3</span> 
+<copy-btn content='F01D3' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F01D3", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Video / Movie</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/video-movie.html">视频、电影</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

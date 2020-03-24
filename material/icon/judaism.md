@@ -3,7 +3,7 @@
 title: judaism(犹太教) ICON转svg、png下载
 name: judaism
 zhTips: 犹太教,大卫之星,大卫·马根
-unicode: F097A
+tags: ["religion"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F097A</span> 
+<copy-btn content='F097A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F097A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Religion</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/religion.html">宗教</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 
 <br/>

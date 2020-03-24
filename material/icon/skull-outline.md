@@ -3,7 +3,7 @@
 title: skull outline(头骨轮廓) ICON转svg、png下载
 name: skull-outline
 zhTips: 头骨轮廓
-unicode: F0BC8
+tags: ["holiday","gaming-rpg"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BC8</span> 
+<copy-btn content='F0BC8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BC8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Holiday,Gaming / RPG</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/holiday.html">假日</router-link></span><span class="badge-light badge"><router-link to="/tags/gaming-rpg.html">游戏、角色扮演</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

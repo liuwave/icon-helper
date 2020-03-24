@@ -3,7 +3,7 @@
 title: anchor(锚点) ICON转svg、png下载
 name: anchor
 zhTips: 锚点
-unicode: F0031
+tags: ["transportation-water"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0031</span> 
+<copy-btn content='F0031' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0031", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Water</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-water.html">运输+水路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

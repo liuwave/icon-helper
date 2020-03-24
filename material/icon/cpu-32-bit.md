@@ -3,7 +3,7 @@
 title: cpu 32 bit(cpu 32位) ICON转svg、png下载
 name: cpu-32-bit
 zhTips: cpu 32位
-unicode: F0EDF
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EDF</span> 
+<copy-btn content='F0EDF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EDF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 

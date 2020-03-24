@@ -3,7 +3,7 @@
 title: account details(帐户详细信息) ICON转svg、png下载
 name: account-details
 zhTips: 帐户详细信息,用户详细信息,个人详细信息
-unicode: F0631
+tags: ["account-user","settings"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0631</span> 
+<copy-btn content='F0631' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0631", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Settings</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

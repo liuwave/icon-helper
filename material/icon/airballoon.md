@@ -3,7 +3,7 @@
 title: airballoon(气球) ICON转svg、png下载
 name: airballoon
 zhTips: 气球,热气球
-unicode: F001C
+tags: ["transportation-other","transportation-flying"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F001C</span> 
+<copy-btn content='F001C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F001C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Other,Transportation + Flying</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-other.html">运输+其他</router-link></span><span class="badge-light badge"><router-link to="/tags/transportation-flying.html">运输+飞行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

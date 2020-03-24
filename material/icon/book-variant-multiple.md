@@ -3,7 +3,7 @@
 title: book variant multiple(多种口音书) ICON转svg、png下载
 name: book-variant-multiple
 zhTips: 多种口音书,变形书
-unicode: F00BC
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00BC</span> 
+<copy-btn content='F00BC' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00BC", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

@@ -3,7 +3,7 @@
 title: human female girl(人类女性女孩) ICON转svg、png下载
 name: human-female-girl
 zhTips: 人类女性女孩,母亲,妈妈,女童
-unicode: F0A5B
+tags: ["people-family"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A5B</span> 
+<copy-btn content='F0A5B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A5B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">People / Family</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/people-family.html">朋友、家庭</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Henrique César Madeira</span></span> 
 <br/>

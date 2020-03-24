@@ -3,7 +3,7 @@
 title: kettle outline(烧水壶轮廓) ICON转svg、png下载
 name: kettle-outline
 zhTips: 烧水壶轮廓,烧水壶空
-unicode: F0F56
+tags: ["food-drink","home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F56</span> 
+<copy-btn content='F0F56' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F56", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink,Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Nick</span></span> 
 <br/>

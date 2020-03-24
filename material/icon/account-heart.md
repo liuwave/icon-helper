@@ -3,7 +3,7 @@
 title: account heart(帐户心) ICON转svg、png下载
 name: account-heart
 zhTips: 帐户心,用户心,人心
-unicode: F0899
+tags: ["account-user","medical-hospital"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0899</span> 
+<copy-btn content='F0899' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0899", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Medical / Hospital</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/medical-hospital.html">医学、医院</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

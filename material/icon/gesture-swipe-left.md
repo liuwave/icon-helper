@@ -3,7 +3,7 @@
 title: gesture swipe left(向左滑动手势) ICON转svg、png下载
 name: gesture-swipe-left
 zhTips: 向左滑动手势
-unicode: F073E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F073E</span> 
+<copy-btn content='F073E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F073E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

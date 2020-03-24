@@ -3,7 +3,7 @@
 title: format quote open outline(引用引用打开轮廓) ICON转svg、png下载
 name: format-quote-open-outline
 zhTips: 引用引用打开轮廓
-unicode: F11A7
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11A7</span> 
+<copy-btn content='F11A7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11A7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

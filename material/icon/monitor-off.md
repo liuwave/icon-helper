@@ -3,7 +3,7 @@
 title: monitor off(显示器关闭) ICON转svg、png下载
 name: monitor-off
 zhTips: 显示器关闭
-unicode: F0D90
+tags: ["device-tech"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D90</span> 
+<copy-btn content='F0D90' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D90", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Device / Tech</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

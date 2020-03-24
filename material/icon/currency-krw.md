@@ -3,7 +3,7 @@
 title: currency krw(货币韩元) ICON转svg、png下载
 name: currency-krw
 zhTips: 货币韩元,韩元
-unicode: F07BD
+tags: ["currency","banking"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F07BD</span> 
+<copy-btn content='F07BD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F07BD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Currency,Banking</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/currency.html">货币</router-link></span><span class="badge-light badge"><router-link to="/tags/banking.html">银行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Haley Halcyon</span></span> 
 <br/>

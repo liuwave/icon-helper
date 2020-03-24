@@ -3,7 +3,7 @@
 title: airplane off(飞机已关闭) ICON转svg、png下载
 name: airplane-off
 zhTips: 飞机已关闭,空中飞机已关闭,飞机模式无效,飞行模式已关闭
-unicode: F001E
+tags: ["transportation-flying"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F001E</span> 
+<copy-btn content='F001E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F001E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Flying</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-flying.html">运输+飞行</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: history(历史记录) ICON转svg、png下载
 name: history
 zhTips: 历史记录,最近,最新,时钟箭头,逆时针,恢复时钟
-unicode: F02DA
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02DA</span> 
+<copy-btn content='F02DA' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02DA", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

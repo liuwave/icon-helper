@@ -3,7 +3,7 @@
 title: alpha q circle(字母q圈) ICON转svg、png下载
 name: alpha-q-circle
 zhTips: 字母q圈
-unicode: F0C1C
+tags: ["alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0C1C</span> 
+<copy-btn content='F0C1C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0C1C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.2.89</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

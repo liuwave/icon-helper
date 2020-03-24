@@ -3,7 +3,7 @@
 title: vector square(向量广场) ICON转svg、png下载
 name: vector-square
 zhTips: 向量广场,mdi
-unicode: F0001
+tags: ["vector","geographic-information-system"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0001</span> 
+<copy-btn content='F0001' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0001", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Vector,Geographic Information System</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/vector.html">矢量</router-link></span><span class="badge-light badge"><router-link to="/tags/geographic-information-system.html">地理信息系统</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

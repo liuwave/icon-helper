@@ -3,7 +3,7 @@
 title: comment quote outline(评论报价轮廓) ICON转svg、png下载
 name: comment-quote-outline
 zhTips: 评论报价轮廓,反馈轮廓
-unicode: F1022
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1022</span> 
+<copy-btn content='F1022' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1022", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

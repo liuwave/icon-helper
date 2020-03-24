@@ -3,7 +3,7 @@
 title: account child circle(帐户子圈子) ICON转svg、png下载
 name: account-child-circle
 zhTips: 帐户子圈子,用户子圈子,人子圈子,监护人圈子
-unicode: F0A8A
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A8A</span> 
+<copy-btn content='F0A8A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A8A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: account multiple plus outline(多个帐户加轮廓) ICON转svg、png下载
 name: account-multiple-plus-outline
 zhTips: 多个帐户加轮廓,组添加轮廓,多个用户轮廓,用户加轮廓,人员加轮廓,多个添加轮廓,人员添加轮廓,多个帐户添加轮廓,帐户添加轮廓,用户多个添加轮廓,用户添加轮廓,邀请
-unicode: F0800
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0800</span> 
+<copy-btn content='F0800' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0800", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

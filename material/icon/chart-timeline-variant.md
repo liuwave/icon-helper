@@ -3,7 +3,7 @@
 title: chart timeline variant(图表时间线重音) ICON转svg、png下载
 name: chart-timeline-variant
 zhTips: 图表时间线重音
-unicode: F0E93
+tags: ["math"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E93</span> 
+<copy-btn content='F0E93' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E93", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Math</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

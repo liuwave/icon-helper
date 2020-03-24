@@ -3,7 +3,7 @@
 title: axis x rotate clockwise(轴x顺时针旋转) ICON转svg、png下载
 name: axis-x-rotate-clockwise
 zhTips: 轴x顺时针旋转
-unicode: F0D4E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D4E</span> 
+<copy-btn content='F0D4E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D4E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

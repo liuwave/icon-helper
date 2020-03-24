@@ -3,7 +3,7 @@
 title: ethernet cable off(断开以太网电缆) ICON转svg、png下载
 name: ethernet-cable-off
 zhTips: 断开以太网电缆
-unicode: F0202
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0202</span> 
+<copy-btn content='F0202' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0202", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 

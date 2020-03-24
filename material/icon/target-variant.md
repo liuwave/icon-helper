@@ -3,7 +3,7 @@
 title: target variant(目标变体) ICON转svg、png下载
 name: target-variant
 zhTips: 目标变体,注册标记
-unicode: F0A77
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A77</span> 
+<copy-btn content='F0A77' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A77", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

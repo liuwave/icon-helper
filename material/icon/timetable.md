@@ -3,7 +3,7 @@
 title: timetable(时刻表) ICON转svg、png下载
 name: timetable
 zhTips: 时刻表
-unicode: F0520
+tags: ["date-time"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0520</span> 
+<copy-btn content='F0520' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0520", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

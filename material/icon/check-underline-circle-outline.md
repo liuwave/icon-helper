@@ -3,7 +3,7 @@
 title: check underline circle outline(检查下划线圆圈轮廓) ICON转svg、png下载
 name: check-underline-circle-outline
 zhTips: 检查下划线圆圈轮廓
-unicode: F0E21
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E21</span> 
+<copy-btn content='F0E21' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E21", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

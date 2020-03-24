@@ -3,7 +3,7 @@
 title: sort alphabetical ascending(按字母顺序递增) ICON转svg、png下载
 name: sort-alphabetical-ascending
 zhTips: 按字母顺序递增
-unicode: F05BD
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05BD</span> 
+<copy-btn content='F05BD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05BD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">frankgrinaert</span></span> 
 <br/>

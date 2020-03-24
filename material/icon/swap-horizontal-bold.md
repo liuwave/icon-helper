@@ -3,7 +3,7 @@
 title: swap horizontal bold(交换水平粗体) ICON转svg、png下载
 name: swap-horizontal-bold
 zhTips: 交换水平粗体,向左箭头粗体
-unicode: F0BCD
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0BCD</span> 
+<copy-btn content='F0BCD' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0BCD", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.0.39</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

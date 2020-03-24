@@ -3,7 +3,7 @@
 title: sort bool descending variant(对bool降序排序) ICON转svg、png下载
 name: sort-bool-descending-variant
 zhTips: 对bool降序排序,对复选框降序排序
-unicode: F1388
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1388</span> 
+<copy-btn content='F1388' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1388", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">5.0.45</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">frankgrinaert</span></span> 
 <br/>

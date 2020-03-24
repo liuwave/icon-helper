@@ -3,7 +3,7 @@
 title: bicycle(自行车) ICON转svg、png下载
 name: bicycle
 zhTips: 自行车,骑自行车
-unicode: F109C
+tags: ["transportation-other"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F109C</span> 
+<copy-btn content='F109C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F109C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.2.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Other</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-other.html">运输+其他</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">François Risoud</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: motorbike(摩托车) ICON转svg、png下载
 name: motorbike
 zhTips: 摩托车
-unicode: F037C
+tags: ["transportation-road","sport"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F037C</span> 
+<copy-btn content='F037C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F037C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road,Sport</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span><span class="badge-light badge"><router-link to="/tags/sport.html">运动</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

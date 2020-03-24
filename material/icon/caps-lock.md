@@ -3,7 +3,7 @@
 title: caps lock(大写锁定) ICON转svg、png下载
 name: caps-lock
 zhTips: 大写锁定
-unicode: F0A9B
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A9B</span> 
+<copy-btn content='F0A9B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A9B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: inbox arrow down(收件箱向下箭头) ICON转svg、png下载
 name: inbox-arrow-down
 zhTips: 收件箱向下箭头,移至收件箱
-unicode: F02FB
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F02FB</span> 
+<copy-btn content='F02FB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F02FB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 

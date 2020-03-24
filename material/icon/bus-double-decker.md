@@ -3,7 +3,7 @@
 title: bus double decker(双层巴士) ICON转svg、png下载
 name: bus-double-decker
 zhTips: 双层巴士
-unicode: F079E
+tags: ["transportation-road"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F079E</span> 
+<copy-btn content='F079E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F079E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.0.46</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Road</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

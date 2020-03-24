@@ -3,7 +3,7 @@
 title: window closed variant(窗口关闭的变体) ICON转svg、png下载
 name: window-closed-variant
 zhTips: 窗口关闭的变体
-unicode: F11DB
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F11DB</span> 
+<copy-btn content='F11DB' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F11DB", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.5.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

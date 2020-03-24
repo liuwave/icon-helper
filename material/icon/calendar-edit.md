@@ -3,7 +3,7 @@
 title: calendar edit(日历编辑) ICON转svg、png下载
 name: calendar-edit
 zhTips: 日历编辑,事件编辑
-unicode: F08A7
+tags: ["date-time","edit-modify"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F08A7</span> 
+<copy-btn content='F08A7' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F08A7", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.2.43</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Date / Time,Edit / Modify</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/date-time.html">日期、时间</router-link></span><span class="badge-light badge"><router-link to="/tags/edit-modify.html">编辑、修改</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

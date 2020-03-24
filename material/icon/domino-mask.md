@@ -3,7 +3,7 @@
 title: domino mask(多米诺骨牌面具) ICON转svg、png下载
 name: domino-mask
 zhTips: 多米诺骨牌面具,强盗面具
-unicode: F1023
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1023</span> 
+<copy-btn content='F1023' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1023", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Andrew Nenakhov</span></span> 

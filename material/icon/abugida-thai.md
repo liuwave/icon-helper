@@ -3,7 +3,7 @@
 title: abugida thai(abugida泰国文) ICON转svg、png下载
 name: abugida-thai
 zhTips: abugida泰国文,泰国书写系统
-unicode: F132B
+tags: ["alpha-numeric"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F132B</span> 
+<copy-btn content='F132B' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F132B", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Alpha / Numeric</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/alpha-numeric.html">字母、数字</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Haley Halcyon</span></span> 
 <br/>

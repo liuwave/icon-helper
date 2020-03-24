@@ -3,7 +3,7 @@
 title: account plus outline(帐户加轮廓) ICON转svg、png下载
 name: account-plus-outline
 zhTips: 帐户加轮廓,人员加轮廓,注册轮廓,用户加轮廓,邀请
-unicode: F0801
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0801</span> 
+<copy-btn content='F0801' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0801", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.19</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

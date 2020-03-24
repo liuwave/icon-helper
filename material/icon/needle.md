@@ -3,7 +3,7 @@
 title: needle(针头) ICON转svg、png下载
 name: needle
 zhTips: 针头,注射器,注射
-unicode: F0391
+tags: ["medical-hospital"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0391</span> 
+<copy-btn content='F0391' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0391", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Medical / Hospital</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/medical-hospital.html">医学、医院</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>

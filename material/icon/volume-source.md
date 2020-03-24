@@ -3,7 +3,7 @@
 title: volume source(体积来源) ICON转svg、png下载
 name: volume-source
 zhTips: 体积来源
-unicode: F1120
+tags: ["cellphone-phone","audio"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1120</span> 
+<copy-btn content='F1120' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1120", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.3.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Cellphone / Phone,Audio</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span><span class="badge-light badge"><router-link to="/tags/audio.html">音频</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

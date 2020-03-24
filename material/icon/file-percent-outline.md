@@ -3,7 +3,7 @@
 title: file percent outline(文件百分比轮廓) ICON转svg、png下载
 name: file-percent-outline
 zhTips: 文件百分比轮廓
-unicode: F1033
+tags: ["files-folders"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1033</span> 
+<copy-btn content='F1033' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1033", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.1.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Files / Folders</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/files-folders.html">文件、文件夹</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Terren</span></span> 
 <br/>

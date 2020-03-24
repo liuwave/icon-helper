@@ -3,7 +3,7 @@
 title: bell sleep(铃声睡眠) ICON转svg、png下载
 name: bell-sleep
 zhTips: 铃声睡眠,已暂停的通知
-unicode: F00A0
+tags: ["notification"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F00A0</span> 
+<copy-btn content='F00A0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F00A0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Notification</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/notification.html">通知</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

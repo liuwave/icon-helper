@@ -3,7 +3,7 @@
 title: cart plus(加购物车) ICON转svg、png下载
 name: cart-plus
 zhTips: 加购物车,添加购物车
-unicode: F0112
+tags: ["shopping"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0112</span> 
+<copy-btn content='F0112' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0112", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Shopping</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/shopping.html">购物</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

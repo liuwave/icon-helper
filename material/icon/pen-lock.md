@@ -3,7 +3,7 @@
 title: pen lock(笔锁) ICON转svg、png下载
 name: pen-lock
 zhTips: 笔锁
-unicode: F0DE2
+tags: ["lock"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0DE2</span> 
+<copy-btn content='F0DE2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0DE2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Lock</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/lock.html">锁定</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

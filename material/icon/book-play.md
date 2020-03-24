@@ -3,7 +3,7 @@
 title: book play(书本游戏) ICON转svg、png下载
 name: book-play
 zhTips: 书本游戏
-unicode: F0E82
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E82</span> 
+<copy-btn content='F0E82' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E82", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

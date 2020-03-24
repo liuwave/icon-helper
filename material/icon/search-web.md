@@ -3,7 +3,7 @@
 title: search web(网页搜索) ICON转svg、png下载
 name: search-web
 zhTips: 网页搜索
-unicode: F070F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F070F</span> 
+<copy-btn content='F070F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F070F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

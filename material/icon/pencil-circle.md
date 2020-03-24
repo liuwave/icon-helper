@@ -3,7 +3,7 @@
 title: pencil circle(铅笔圈) ICON转svg、png下载
 name: pencil-circle
 zhTips: 铅笔圈
-unicode: F06FF
+tags: ["drawing-art"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06FF</span> 
+<copy-btn content='F06FF' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06FF", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.8.36</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Drawing / Art</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/drawing-art.html">绘画、艺术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

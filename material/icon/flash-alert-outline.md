@@ -3,7 +3,7 @@
 title: flash alert outline(闪光灯警报轮廓) ICON转svg、png下载
 name: flash-alert-outline
 zhTips: 闪光灯警报轮廓,雷电警报轮廓,风暴通报轮廓
-unicode: F0EF8
+tags: ["weather","alert-error"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0EF8</span> 
+<copy-btn content='F0EF8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0EF8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Weather,Alert / Error</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/weather.html">天气</router-link></span><span class="badge-light badge"><router-link to="/tags/alert-error.html">警告、错误</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

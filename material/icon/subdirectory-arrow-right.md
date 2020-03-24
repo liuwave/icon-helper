@@ -3,7 +3,7 @@
 title: subdirectory arrow right(右箭头子目录) ICON转svg、png下载
 name: subdirectory-arrow-right
 zhTips: 右箭头子目录
-unicode: F060D
+tags: ["arrow"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F060D</span> 
+<copy-btn content='F060D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F060D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

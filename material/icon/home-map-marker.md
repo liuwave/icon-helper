@@ -3,7 +3,7 @@
 title: home map marker(主页地图标记) ICON转svg、png下载
 name: home-map-marker
 zhTips: 主页地图标记,房屋地图标记
-unicode: F05F8
+tags: ["home-automation","navigation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05F8</span> 
+<copy-btn content='F05F8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05F8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation,Navigation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

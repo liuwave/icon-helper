@@ -3,7 +3,7 @@
 title: account details outline(帐户详细信息轮廓) ICON转svg、png下载
 name: account-details-outline
 zhTips: 帐户详细信息轮廓,人员详细信息轮廓,用户详细信息轮廓
-unicode: F1372
+tags: ["account-user","settings"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1372</span> 
+<copy-btn content='F1372' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1372", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.9.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User,Settings</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span><span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

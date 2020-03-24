@@ -3,7 +3,7 @@
 title: checkbox multiple blank circle outline(复选框空白圆圈轮廓) ICON转svg、png下载
 name: checkbox-multiple-blank-circle-outline
 zhTips: 复选框空白圆圈轮廓
-unicode: F063C
+tags: ["form"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F063C</span> 
+<copy-btn content='F063C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F063C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.6.50</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Form</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/form.html">表单</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

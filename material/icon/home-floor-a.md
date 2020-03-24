@@ -3,7 +3,7 @@
 title: home floor a(家用地板a) ICON转svg、png下载
 name: home-floor-a
 zhTips: 家用地板a,家用地板阁楼,房屋地板a,房屋地板阁楼
-unicode: F0D83
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D83</span> 
+<copy-btn content='F0D83' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D83", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.4.93</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

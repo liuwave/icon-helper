@@ -3,7 +3,7 @@
 title: lamp(灯) ICON转svg、png下载
 name: lamp
 zhTips: 灯
-unicode: F06B5
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F06B5</span> 
+<copy-btn content='F06B5' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F06B5", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.7.22</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">GreenTurtwig</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: fire hydrant off(消火栓) ICON转svg、png下载
 name: fire-hydrant-off
 zhTips: 消火栓
-unicode: F1139
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1139</span> 
+<copy-btn content='F1139' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1139", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.4.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

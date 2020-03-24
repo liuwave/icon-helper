@@ -3,7 +3,7 @@
 title: printer 3d nozzle outline(打印机3D喷嘴轮廓) ICON转svg、png下载
 name: printer-3d-nozzle-outline
 zhTips: 打印机3D喷嘴轮廓
-unicode: F0E5C
+tags: ["printer"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0E5C</span> 
+<copy-btn content='F0E5C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0E5C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Printer</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/printer.html">打印机</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

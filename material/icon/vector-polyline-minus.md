@@ -3,7 +3,7 @@
 title: vector polyline minus(减去矢量多义线) ICON转svg、png下载
 name: vector-polyline-minus
 zhTips: 减去矢量多义线
-unicode: F1226
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1226</span> 
+<copy-btn content='F1226' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1226", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 

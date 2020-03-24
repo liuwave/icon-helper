@@ -3,7 +3,7 @@
 title: lifebuoy(救生圈) ICON转svg、png下载
 name: lifebuoy
 zhTips: 救生圈,支持,帮助
-unicode: F087E
+tags: ["transportation-water"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F087E</span> 
+<copy-btn content='F087E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F087E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.1.99</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Transportation + Water</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-water.html">运输+水路</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>

@@ -3,7 +3,7 @@
 title: window restore(窗口还原) ICON转svg、png下载
 name: window-restore
 zhTips: 窗口还原
-unicode: F05B2
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F05B2</span> 
+<copy-btn content='F05B2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F05B2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

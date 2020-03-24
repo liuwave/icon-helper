@@ -3,7 +3,7 @@
 title: arrow left bold outline(左箭头加粗轮廓) ICON转svg、png下载
 name: arrow-left-bold-outline
 zhTips: 左箭头加粗轮廓
-unicode: F09C0
+tags: ["arrow","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F09C0</span> 
+<copy-btn content='F09C0' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F09C0", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.5.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Arrow,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/arrow.html">箭头</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

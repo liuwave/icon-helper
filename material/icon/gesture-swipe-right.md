@@ -3,7 +3,7 @@
 title: gesture swipe right(手势向右滑动) ICON转svg、png下载
 name: gesture-swipe-right
 zhTips: 手势向右滑动
-unicode: F073F
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F073F</span> 
+<copy-btn content='F073F' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F073F", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.9.32</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 

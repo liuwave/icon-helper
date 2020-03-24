@@ -3,7 +3,7 @@
 title: gender female(性别) ICON转svg、png下载
 name: gender-female
 zhTips: 性别,女性,维纳斯
-unicode: F029C
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F029C</span> 
+<copy-btn content='F029C' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F029C", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 

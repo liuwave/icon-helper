@@ -3,7 +3,7 @@
 title: music accidental sharp(音乐意外尖锐) ICON转svg、png下载
 name: music-accidental-sharp
 zhTips: 音乐意外尖锐
-unicode: F0F6D
+tags: ["music"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0F6D</span> 
+<copy-btn content='F0F6D' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0F6D", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.9.97</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Music</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/music.html">音乐</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>

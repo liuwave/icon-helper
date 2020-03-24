@@ -3,7 +3,7 @@
 title: account box multiple(帐户箱多个) ICON转svg、png下载
 name: account-box-multiple
 zhTips: 帐户箱多个,切换帐户,用户箱多个,帐户箱,用户箱,人员箱多个,人员箱
-unicode: F0934
+tags: ["account-user"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0934</span> 
+<copy-btn content='F0934' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0934", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.4.85</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Account / User</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/account-user.html">账号、用户</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

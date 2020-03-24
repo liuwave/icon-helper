@@ -3,7 +3,7 @@
 title: battery outline(电池外形) ICON转svg、png下载
 name: battery-outline
 zhTips: 电池外形,电池0,电池已空
-unicode: F008E
+tags: ["battery","home-automation","automotive"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F008E</span> 
+<copy-btn content='F008E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F008E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Battery,Home Automation,Automotive</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/battery.html">电池</router-link></span><span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span><span class="badge-light badge"><router-link to="/tags/automotive.html">汽车</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

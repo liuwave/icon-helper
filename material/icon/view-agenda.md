@@ -3,7 +3,7 @@
 title: view agenda(议程视图) ICON转svg、png下载
 name: view-agenda
 zhTips: 议程视图
-unicode: F056A
+tags: ["view"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F056A</span> 
+<copy-btn content='F056A' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F056A", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">View</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/view.html">视图</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

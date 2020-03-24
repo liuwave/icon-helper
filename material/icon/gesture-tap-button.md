@@ -3,7 +3,7 @@
 title: gesture tap button(手势点击按钮) ICON转svg、png下载
 name: gesture-tap-button
 zhTips: 手势点击按钮,号召性用语,cta
-unicode: F12A8
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F12A8</span> 
+<copy-btn content='F12A8' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F12A8", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.7.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

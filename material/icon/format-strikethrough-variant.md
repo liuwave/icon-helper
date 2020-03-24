@@ -3,7 +3,7 @@
 title: format strikethrough variant(格式删除线变体) ICON转svg、png下载
 name: format-strikethrough-variant
 zhTips: 格式删除线变体,删除线s
-unicode: F0281
+tags: ["text-content-format"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0281</span> 
+<copy-btn content='F0281' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0281", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">1.5.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Text / Content / Format</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/text-content-format.html">文字、内容、格式</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

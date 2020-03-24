@@ -3,7 +3,7 @@
 title: silverware fork knife(银器叉子刀) ICON转svg、png下载
 name: silverware-fork-knife
 zhTips: 银器叉子刀,餐厅,要塞
-unicode: F0A70
+tags: ["food-drink"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0A70</span> 
+<copy-btn content='F0A70' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0A70", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.6.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Food / Drink</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/food-drink.html">食物、酒水</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

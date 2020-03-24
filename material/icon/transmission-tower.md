@@ -3,7 +3,7 @@
 title: transmission tower(输电塔) ICON转svg、png下载
 name: transmission-tower
 zhTips: 输电塔,铁塔,电力线
-unicode: F0D3E
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0D3E</span> 
+<copy-btn content='F0D3E' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0D3E", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">3.3.92</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 

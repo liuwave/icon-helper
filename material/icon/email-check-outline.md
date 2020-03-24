@@ -3,7 +3,7 @@
 title: email check outline(电子邮件检查轮廓) ICON转svg、png下载
 name: email-check-outline
 zhTips: 电子邮件检查轮廓,电子邮件刻度线轮廓
-unicode: F0AB2
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0AB2</span> 
+<copy-btn content='F0AB2' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0AB2", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.7.94</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Andrew Nenakhov</span></span> 

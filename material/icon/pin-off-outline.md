@@ -3,7 +3,7 @@
 title: pin off outline(固定轮廓) ICON转svg、png下载
 name: pin-off-outline
 zhTips: 固定轮廓,保持轮廓
-unicode: F0930
+tags: []
 
 ---
 
@@ -25,15 +25,13 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F0930</span> 
+<copy-btn content='F0930' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F0930", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">2.3.54</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">暂无</span>
 </span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 

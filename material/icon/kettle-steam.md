@@ -3,7 +3,7 @@
 title: kettle steam(蒸汽烧水壶) ICON转svg、png下载
 name: kettle-steam
 zhTips: 蒸汽烧水壶,蒸汽烧水壶茶,蒸汽烧水壶全蒸,茶水壶全蒸
-unicode: F1319
+tags: ["home-automation"]
 
 ---
 
@@ -25,16 +25,14 @@ CSS名称：
 <span>
 unicode：
 <span class="badge-secondary badge">F1319</span> 
+<copy-btn content='F1319' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("F1319", 16))' btn-title="复制U"></copy-btn>
 </span>
 <br/>
 <span>
 version：
 <span class="badge-secondary badge">4.8.95</span> 
-</span>
-<br/>
-<span>Tag：
-<span class="badge-light badge">Home Automation</span>
-</span>
+</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/home-automation.html">家、自动化</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>
