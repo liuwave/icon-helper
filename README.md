@@ -22,7 +22,7 @@ iconhelpler.cn是用vuepress搭建，是一个查找、转换ICON图标的工具
 
 [https://material.iconhelper.cn](https://material.iconhelper.cn) ：Material Design Icon 中文搜索助手
 
-[https://fontawesome.iconhelper.cn](https://fontawesome.iconhelper.cn) ：Font Awesome (正在整理中...)
+[https://fontawesome.iconhelper.cn](https://fontawesome.iconhelper.cn) ：Font Awesome 中文搜索助手
 
 ....
 
