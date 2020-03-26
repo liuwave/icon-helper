@@ -1,0 +1,33 @@
+{
+  "name": "equals",
+  "codepoint": "f52c",
+  "title": "Equals",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path d=\"M416 304H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32zm0-192H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"/></svg>",
+  "aliases": [
+    "arithmetic",
+    "even",
+    "match",
+    "math"
+  ],
+  "tags": [
+    {
+      "title": "Mathematics",
+      "titleZh": "数学",
+      "name": "mathematics",
+      "count": 17
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.13",
+  "zhs": [
+    "等于",
+    "算术",
+    "偶数",
+    "匹配",
+    "数学"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,46 @@
+{
+  "name": "ellipsis-h",
+  "codepoint": "f141",
+  "title": "Horizontal Ellipsis",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M328 256c0 39.8-32.2 72-72 72s-72-32.2-72-72 32.2-72 72-72 72 32.2 72 72zm104-72c-39.8 0-72 32.2-72 72s32.2 72 72 72 72-32.2 72-72-32.2-72-72-72zm-352 0c-39.8 0-72 32.2-72 72s32.2 72 72 72 72-32.2 72-72-32.2-72-72-72z\"/></svg>",
+  "aliases": [
+    "dots",
+    "drag",
+    "kebab",
+    "list",
+    "menu",
+    "nav",
+    "navigation",
+    "ol",
+    "reorder",
+    "settings",
+    "ul"
+  ],
+  "tags": [
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.0",
+  "zhs": [
+    "水平省略号",
+    "圆点",
+    "拖动",
+    "烤肉串",
+    "列表",
+    "菜单",
+    "导航",
+    "ol",
+    "重新排序",
+    "设置",
+    "ul"
+  ],
+  "description": "",
+  "comments": []
+}

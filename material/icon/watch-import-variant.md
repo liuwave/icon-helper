@@ -30,9 +30,9 @@ unicode：
 </span>
 <br/>
 <span>
-version：
+版本：
 <span class="badge-secondary badge">2.1.99</span> 
-</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
+</span><br/><span>标签：<span class="badge-light badge"><router-link to="/tags/device-tech.html">设备、技术</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

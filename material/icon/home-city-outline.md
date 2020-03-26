@@ -30,7 +30,7 @@ unicode：
 </span>
 <br/>
 <span>
-version：
+版本：
 <span class="badge-secondary badge">3.3.92</span> 
 </span>
 <br/>

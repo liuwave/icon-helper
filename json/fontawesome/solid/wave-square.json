@@ -1,0 +1,31 @@
+{
+  "name": "wave-square",
+  "codepoint": "f83e",
+  "title": "Square Wave",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path d=\"M476 480H324a36 36 0 0 1-36-36V96h-96v156a36 36 0 0 1-36 36H16a16 16 0 0 1-16-16v-32a16 16 0 0 1 16-16h112V68a36 36 0 0 1 36-36h152a36 36 0 0 1 36 36v348h96V260a36 36 0 0 1 36-36h140a16 16 0 0 1 16 16v32a16 16 0 0 1-16 16H512v156a36 36 0 0 1-36 36z\"/></svg>",
+  "aliases": [
+    "frequency",
+    "pulse",
+    "signal"
+  ],
+  "tags": [
+    {
+      "title": "Mathematics",
+      "titleZh": "数学",
+      "name": "mathematics",
+      "count": 17
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.8.0",
+  "zhs": [
+    "方波",
+    "频率",
+    "脉冲",
+    "信号"
+  ],
+  "description": "",
+  "comments": []
+}

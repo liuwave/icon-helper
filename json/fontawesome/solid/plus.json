@@ -1,0 +1,61 @@
+{
+  "name": "plus",
+  "codepoint": "f067",
+  "title": "plus",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path d=\"M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z\"/></svg>",
+  "aliases": [
+    "add",
+    "create",
+    "expand",
+    "new",
+    "positive",
+    "shape"
+  ],
+  "tags": [
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    },
+    {
+      "title": "Maps",
+      "titleZh": "地图",
+      "name": "maps",
+      "count": 124
+    },
+    {
+      "title": "Mathematics",
+      "titleZh": "数学",
+      "name": "mathematics",
+      "count": 17
+    },
+    {
+      "title": "Medical",
+      "titleZh": "医学",
+      "name": "medical",
+      "count": 72
+    },
+    {
+      "title": "Status",
+      "titleZh": "状态",
+      "name": "status",
+      "count": 92
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.13",
+  "zhs": [
+    "plus",
+    "add",
+    "create",
+    "expand",
+    "new",
+    "positive",
+    "shape"
+  ],
+  "description": "",
+  "comments": []
+}

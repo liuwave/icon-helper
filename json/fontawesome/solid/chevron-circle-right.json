@@ -1,0 +1,31 @@
+{
+  "name": "chevron-circle-right",
+  "codepoint": "f138",
+  "title": "Chevron Circle Right",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm113.9 231L234.4 103.5c-9.4-9.4-24.6-9.4-33.9 0l-17 17c-9.4 9.4-9.4 24.6 0 33.9L285.1 256 183.5 357.6c-9.4 9.4-9.4 24.6 0 33.9l17 17c9.4 9.4 24.6 9.4 33.9 0L369.9 273c9.4-9.4 9.4-24.6 0-34z\"/></svg>",
+  "aliases": [
+    "arrow",
+    "forward",
+    "next"
+  ],
+  "tags": [
+    {
+      "title": "Arrows",
+      "titleZh": "箭头",
+      "name": "arrows",
+      "count": 99
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.0",
+  "zhs": [
+    "雪佛龙圆形向右",
+    "箭头",
+    "前进",
+    "下一个"
+  ],
+  "description": "",
+  "comments": []
+}

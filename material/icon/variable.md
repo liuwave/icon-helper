@@ -30,9 +30,9 @@ unicode：
 </span>
 <br/>
 <span>
-version：
+版本：
 <span class="badge-secondary badge">2.7.94</span> 
-</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span><span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
+</span><br/><span>标签：<span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span><span class="badge-light badge"><router-link to="/tags/math.html">数学</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

@@ -1,0 +1,95 @@
+{
+  "name": "heart",
+  "codepoint": "f004",
+  "title": "Heart",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z\"/></svg>",
+  "aliases": [
+    "favorite",
+    "like",
+    "love",
+    "relationship",
+    "valentine"
+  ],
+  "tags": [
+    {
+      "title": "Charity",
+      "titleZh": "慈善",
+      "name": "charity",
+      "count": 16
+    },
+    {
+      "title": "Fitness",
+      "titleZh": "健身",
+      "name": "fitness",
+      "count": 16
+    },
+    {
+      "title": "Games",
+      "titleZh": "游戏",
+      "name": "games",
+      "count": 28
+    },
+    {
+      "title": "Health",
+      "titleZh": "健康",
+      "name": "health",
+      "count": 12
+    },
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    },
+    {
+      "title": "Maps",
+      "titleZh": "地图",
+      "name": "maps",
+      "count": 124
+    },
+    {
+      "title": "Medical",
+      "titleZh": "医学",
+      "name": "medical",
+      "count": 72
+    },
+    {
+      "title": "Objects",
+      "titleZh": "物体",
+      "name": "objects",
+      "count": 223
+    },
+    {
+      "title": "Payments & Shopping",
+      "titleZh": "支付&购物",
+      "name": "payments-shopping",
+      "count": 46
+    },
+    {
+      "title": "Shapes",
+      "titleZh": "形状",
+      "name": "shapes",
+      "count": 15
+    },
+    {
+      "title": "Social",
+      "titleZh": "社交",
+      "name": "social",
+      "count": 30
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.10.2",
+  "zhs": [
+    "心脏",
+    "收藏夹",
+    "喜欢",
+    "爱情",
+    "关系",
+    "情人节"
+  ],
+  "description": "",
+  "comments": []
+}

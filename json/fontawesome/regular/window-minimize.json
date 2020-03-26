@@ -1,0 +1,33 @@
+{
+  "name": "window-minimize",
+  "codepoint": "f2d1",
+  "title": "Window Minimize",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M480 480H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h448c17.7 0 32 14.3 32 32s-14.3 32-32 32z\"/></svg>",
+  "aliases": [
+    "browser",
+    "collapse",
+    "computer",
+    "development"
+  ],
+  "tags": [
+    {
+      "title": "Code",
+      "titleZh": "代码",
+      "name": "code",
+      "count": 28
+    }
+  ],
+  "style": "regular",
+  "pre": "far",
+  "author": "fontawesome",
+  "version": "5.0.0",
+  "zhs": [
+    "窗口最小化",
+    "浏览器",
+    "崩溃",
+    "计算机",
+    "开发"
+  ],
+  "description": "",
+  "comments": []
+}

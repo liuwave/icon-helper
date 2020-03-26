@@ -1,0 +1,78 @@
+{
+  "name": "map-marker",
+  "codepoint": "f041",
+  "title": "map-marker",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path d=\"M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0z\"/></svg>",
+  "aliases": [
+    "address",
+    "coordinates",
+    "destination",
+    "gps",
+    "localize",
+    "location",
+    "map",
+    "navigation",
+    "paper",
+    "pin",
+    "place",
+    "point of interest",
+    "position",
+    "route",
+    "travel"
+  ],
+  "tags": [
+    {
+      "title": "Maps",
+      "titleZh": "地图",
+      "name": "maps",
+      "count": 124
+    },
+    {
+      "title": "Objects",
+      "titleZh": "物体",
+      "name": "objects",
+      "count": 223
+    },
+    {
+      "title": "Shapes",
+      "titleZh": "形状",
+      "name": "shapes",
+      "count": 15
+    },
+    {
+      "title": "Social",
+      "titleZh": "社交",
+      "name": "social",
+      "count": 30
+    },
+    {
+      "title": "Status",
+      "titleZh": "状态",
+      "name": "status",
+      "count": 92
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.0",
+  "zhs": [
+    "地图标记",
+    "地址",
+    "坐标",
+    "目的地",
+    "gps",
+    "本地化",
+    "位置",
+    "地图",
+    "导航",
+    "纸张",
+    "pin",
+    "地方",
+    "兴趣点",
+    "路线",
+    "旅行"
+  ],
+  "description": "",
+  "comments": []
+}

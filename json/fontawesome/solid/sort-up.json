@@ -1,0 +1,41 @@
+{
+  "name": "sort-up",
+  "codepoint": "f0de",
+  "title": "Sort Up (Ascending)",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 512\"><path d=\"M279 224H41c-21.4 0-32.1-25.9-17-41L143 64c9.4-9.4 24.6-9.4 33.9 0l119 119c15.2 15.1 4.5 41-16.9 41z\"/></svg>",
+  "aliases": [
+    "arrow",
+    "ascending",
+    "filter",
+    "order",
+    "sort-asc"
+  ],
+  "tags": [
+    {
+      "title": "Arrows",
+      "titleZh": "箭头",
+      "name": "arrows",
+      "count": 99
+    },
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.10.2",
+  "zhs": [
+    "排序（升序）",
+    "箭头",
+    "升序",
+    "过滤器",
+    "顺序",
+    "升序排序"
+  ],
+  "description": "",
+  "comments": []
+}

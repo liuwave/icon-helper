@@ -1,0 +1,57 @@
+{
+  "name": "clone",
+  "codepoint": "f24d",
+  "title": "Clone",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M464 0c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48H176c-26.51 0-48-21.49-48-48V48c0-26.51 21.49-48 48-48h288M176 416c-44.112 0-80-35.888-80-80V128H48c-26.51 0-48 21.49-48 48v288c0 26.51 21.49 48 48 48h288c26.51 0 48-21.49 48-48v-48H176z\"/></svg>",
+  "aliases": [
+    "arrange",
+    "copy",
+    "duplicate",
+    "paste"
+  ],
+  "tags": [
+    {
+      "title": "Design",
+      "titleZh": "设计",
+      "name": "design",
+      "count": 46
+    },
+    {
+      "title": "Editors",
+      "titleZh": "编辑器",
+      "name": "editors",
+      "count": 74
+    },
+    {
+      "title": "Files",
+      "titleZh": "文件",
+      "name": "files",
+      "count": 21
+    },
+    {
+      "title": "Images",
+      "titleZh": "图像",
+      "name": "images",
+      "count": 22
+    },
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.11.0",
+  "zhs": [
+    "克隆",
+    "排列",
+    "复制",
+    "重复",
+    "粘贴"
+  ],
+  "description": "",
+  "comments": []
+}

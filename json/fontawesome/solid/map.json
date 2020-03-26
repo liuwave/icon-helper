@@ -1,0 +1,71 @@
+{
+  "name": "map",
+  "codepoint": "f279",
+  "title": "Map",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\"><path d=\"M0 117.66v346.32c0 11.32 11.43 19.06 21.94 14.86L160 416V32L20.12 87.95A32.006 32.006 0 0 0 0 117.66zM192 416l192 64V96L192 32v384zM554.06 33.16L416 96v384l139.88-55.95A31.996 31.996 0 0 0 576 394.34V48.02c0-11.32-11.43-19.06-21.94-14.86z\"/></svg>",
+  "aliases": [
+    "address",
+    "coordinates",
+    "destination",
+    "gps",
+    "localize",
+    "location",
+    "map",
+    "navigation",
+    "paper",
+    "pin",
+    "place",
+    "point of interest",
+    "position",
+    "route",
+    "travel"
+  ],
+  "tags": [
+    {
+      "title": "Camping",
+      "titleZh": "露营",
+      "name": "camping",
+      "count": 19
+    },
+    {
+      "title": "Maps",
+      "titleZh": "地图",
+      "name": "maps",
+      "count": 124
+    },
+    {
+      "title": "Objects",
+      "titleZh": "物体",
+      "name": "objects",
+      "count": 223
+    },
+    {
+      "title": "Travel",
+      "titleZh": "旅行",
+      "name": "travel",
+      "count": 38
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.1.0",
+  "zhs": [
+    "地图",
+    "地址",
+    "坐标",
+    "目的地",
+    "gps",
+    "本地化",
+    "位置",
+    "导航",
+    "纸张",
+    "pin",
+    "地方",
+    "兴趣点",
+    "路线",
+    "旅行"
+  ],
+  "description": "",
+  "comments": []
+}

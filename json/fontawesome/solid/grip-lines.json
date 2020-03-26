@@ -1,0 +1,35 @@
+{
+  "name": "grip-lines",
+  "codepoint": "f7a4",
+  "title": "Grip Lines",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M496 288H16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h480c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zm0-128H16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h480c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16z\"/></svg>",
+  "aliases": [
+    "affordance",
+    "drag",
+    "drop",
+    "grab",
+    "handle"
+  ],
+  "tags": [
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.6.0",
+  "zhs": [
+    "握线",
+    "负担",
+    "拖动",
+    "拖放",
+    "抓斗",
+    "手柄"
+  ],
+  "description": "",
+  "comments": []
+}

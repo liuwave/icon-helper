@@ -1,0 +1,56 @@
+{
+  "name": "glass-whiskey",
+  "codepoint": "f7a0",
+  "title": "Glass Whiskey",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M480 32H32C12.5 32-2.4 49.2.3 68.5l56 356.5c4.5 31.5 31.5 54.9 63.4 54.9h273c31.8 0 58.9-23.4 63.4-54.9l55.6-356.5C514.4 49.2 499.5 32 480 32zm-37.4 64l-30 192h-313L69.4 96h373.2z\"/></svg>",
+  "aliases": [
+    "alcohol",
+    "bar",
+    "beverage",
+    "bourbon",
+    "drink",
+    "liquor",
+    "neat",
+    "rye",
+    "scotch",
+    "whisky"
+  ],
+  "tags": [
+    {
+      "title": "Beverage",
+      "titleZh": "饮料",
+      "name": "beverage",
+      "count": 13
+    },
+    {
+      "title": "Objects",
+      "titleZh": "物体",
+      "name": "objects",
+      "count": 223
+    },
+    {
+      "title": "Winter",
+      "titleZh": "冬天",
+      "name": "winter",
+      "count": 10
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.6.0",
+  "zhs": [
+    "玻璃威士忌酒",
+    "酒精",
+    "酒吧",
+    "饮料",
+    "波旁酒",
+    "酒",
+    "整洁",
+    "黑麦",
+    "苏格兰威士忌",
+    "威士忌酒"
+  ],
+  "description": "",
+  "comments": []
+}

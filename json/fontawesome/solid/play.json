@@ -1,0 +1,54 @@
+{
+  "name": "play",
+  "codepoint": "f04b",
+  "title": "play",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path d=\"M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z\"/></svg>",
+  "aliases": [
+    "audio",
+    "music",
+    "playing",
+    "sound",
+    "start",
+    "video"
+  ],
+  "tags": [
+    {
+      "title": "Arrows",
+      "titleZh": "箭头",
+      "name": "arrows",
+      "count": 99
+    },
+    {
+      "title": "Audio & Video",
+      "titleZh": "音频&视频",
+      "name": "audio-video",
+      "count": 51
+    },
+    {
+      "title": "Music",
+      "titleZh": "音乐",
+      "name": "music",
+      "count": 21
+    },
+    {
+      "title": "Shapes",
+      "titleZh": "形状",
+      "name": "shapes",
+      "count": 15
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.10.2",
+  "zhs": [
+    "播放",
+    "音频",
+    "音乐",
+    "声音",
+    "开始",
+    "视频"
+  ],
+  "description": "",
+  "comments": []
+}

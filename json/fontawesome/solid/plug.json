@@ -1,0 +1,57 @@
+{
+  "name": "plug",
+  "codepoint": "f1e6",
+  "title": "Plug",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path d=\"M320,32a32,32,0,0,0-64,0v96h64Zm48,128H16A16,16,0,0,0,0,176v32a16,16,0,0,0,16,16H32v32A160.07,160.07,0,0,0,160,412.8V512h64V412.8A160.07,160.07,0,0,0,352,256V224h16a16,16,0,0,0,16-16V176A16,16,0,0,0,368,160ZM128,32a32,32,0,0,0-64,0v96h64Z\"/></svg>",
+  "aliases": [
+    "connect",
+    "electric",
+    "online",
+    "power"
+  ],
+  "tags": [
+    {
+      "title": "Computers",
+      "titleZh": "计算机",
+      "name": "computers",
+      "count": 28
+    },
+    {
+      "title": "Energy",
+      "titleZh": "能量",
+      "name": "energy",
+      "count": 26
+    },
+    {
+      "title": "Household",
+      "titleZh": "家庭",
+      "name": "household",
+      "count": 24
+    },
+    {
+      "title": "Maps",
+      "titleZh": "地图",
+      "name": "maps",
+      "count": 124
+    },
+    {
+      "title": "Objects",
+      "titleZh": "物体",
+      "name": "objects",
+      "count": 223
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.12.0",
+  "zhs": [
+    "插头",
+    "连接",
+    "电气",
+    "在线",
+    "电源"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,83 @@
+{
+  "name": "file",
+  "codepoint": "f15b",
+  "title": "File",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path d=\"M369.9 97.9L286 14C277 5 264.8-.1 252.1-.1H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48V131.9c0-12.7-5.1-25-14.1-34zM332.1 128H256V51.9l76.1 76.1zM48 464V48h160v104c0 13.3 10.7 24 24 24h104v288H48z\"/></svg>",
+  "aliases": [
+    "document",
+    "new",
+    "page",
+    "pdf",
+    "resume"
+  ],
+  "tags": [
+    {
+      "title": "Business",
+      "titleZh": "商业",
+      "name": "business",
+      "count": 78
+    },
+    {
+      "title": "Code",
+      "titleZh": "代码",
+      "name": "code",
+      "count": 28
+    },
+    {
+      "title": "Editors",
+      "titleZh": "编辑器",
+      "name": "editors",
+      "count": 74
+    },
+    {
+      "title": "Files",
+      "titleZh": "文件",
+      "name": "files",
+      "count": 21
+    },
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    },
+    {
+      "title": "Objects",
+      "titleZh": "物体",
+      "name": "objects",
+      "count": 223
+    },
+    {
+      "title": "Shapes",
+      "titleZh": "形状",
+      "name": "shapes",
+      "count": 15
+    },
+    {
+      "title": "Status",
+      "titleZh": "状态",
+      "name": "status",
+      "count": 92
+    },
+    {
+      "title": "Writing",
+      "titleZh": "写作",
+      "name": "writing",
+      "count": 25
+    }
+  ],
+  "style": "regular",
+  "pre": "far",
+  "author": "fontawesome",
+  "version": "5.10.1",
+  "zhs": [
+    "文件",
+    "文档",
+    "新文件",
+    "页面",
+    "pdf",
+    "简历"
+  ],
+  "description": "",
+  "comments": []
+}

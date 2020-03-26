@@ -1,0 +1,71 @@
+{
+  "name": "hat-wizard",
+  "codepoint": "f6e8",
+  "title": "Wizard's Hat",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M496 448H16c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h480c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16zm-304-64l-64-32 64-32 32-64 32 64 64 32-64 32-16 32h208l-86.41-201.63a63.955 63.955 0 0 1-1.89-45.45L416 0 228.42 107.19a127.989 127.989 0 0 0-53.46 59.15L64 416h144l-16-32zm64-224l16-32 16 32 32 16-32 16-16 32-16-32-32-16 32-16z\"/></svg>",
+  "aliases": [
+    "Dungeons & Dragons",
+    "accessory",
+    "buckle",
+    "clothing",
+    "d&d",
+    "dnd",
+    "fantasy",
+    "halloween",
+    "head",
+    "holiday",
+    "mage",
+    "magic",
+    "pointy",
+    "witch"
+  ],
+  "tags": [
+    {
+      "title": "Clothing",
+      "titleZh": "服装",
+      "name": "clothing",
+      "count": 9
+    },
+    {
+      "title": "Tabletop Gaming",
+      "titleZh": "桌面游戏",
+      "name": "gaming-tabletop",
+      "count": 17
+    },
+    {
+      "title": "Halloween",
+      "titleZh": "万圣节",
+      "name": "halloween",
+      "count": 11
+    },
+    {
+      "title": "Objects",
+      "titleZh": "物体",
+      "name": "objects",
+      "count": 223
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.11.0",
+  "zhs": [
+    "向导帽子",
+    "地牢与龙",
+    "配件",
+    "带扣",
+    "服装",
+    "d＆d",
+    "dnd",
+    "幻想",
+    "万圣节",
+    "头",
+    "假日",
+    "法师",
+    "魔术",
+    "尖尖",
+    "女巫"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,56 @@
+{
+  "name": "volume-off",
+  "codepoint": "f026",
+  "title": "Volume Off",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 512\"><path d=\"M215 71l-89 89H24a24 24 0 0 0-24 24v144a24 24 0 0 0 24 24h102.06L215 441c15 15 41 4.47 41-17V88c0-21.47-26-32-41-17z\"/></svg>",
+  "aliases": [
+    "audio",
+    "ban",
+    "music",
+    "mute",
+    "quiet",
+    "silent",
+    "sound"
+  ],
+  "tags": [
+    {
+      "title": "Audio & Video",
+      "titleZh": "音频&视频",
+      "name": "audio-video",
+      "count": 51
+    },
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    },
+    {
+      "title": "Music",
+      "titleZh": "音乐",
+      "name": "music",
+      "count": 21
+    },
+    {
+      "title": "Status",
+      "titleZh": "状态",
+      "name": "status",
+      "count": 92
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.8.0",
+  "zhs": [
+    "关闭音量",
+    "音频",
+    "禁令",
+    "音乐",
+    "静音",
+    "安静",
+    "声音"
+  ],
+  "description": "",
+  "comments": []
+}

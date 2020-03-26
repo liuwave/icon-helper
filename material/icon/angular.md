@@ -30,9 +30,9 @@ unicode：
 </span>
 <br/>
 <span>
-version：
+版本：
 <span class="badge-secondary badge">1.7.22</span> 
-</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span><span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
+</span><br/><span>标签：<span class="badge-light badge"><router-link to="/tags/brand-logo.html">商标、logo</router-link></span><span class="badge-light badge"><router-link to="/tags/developer-languages.html">开发人员 、语言</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>

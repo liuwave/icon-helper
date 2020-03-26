@@ -30,9 +30,9 @@ unicode：
 </span>
 <br/>
 <span>
-version：
+版本：
 <span class="badge-secondary badge">2.7.94</span> 
-</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span><span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span></span>
+</span><br/><span>标签：<span class="badge-light badge"><router-link to="/tags/transportation-road.html">运输+公路</router-link></span><span class="badge-light badge"><router-link to="/tags/navigation.html">导航</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

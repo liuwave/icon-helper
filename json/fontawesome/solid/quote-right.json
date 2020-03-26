@@ -1,0 +1,53 @@
+{
+  "name": "quote-right",
+  "codepoint": "f10e",
+  "title": "quote-right",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M464 32H336c-26.5 0-48 21.5-48 48v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48zm-288 0H48C21.5 32 0 53.5 0 80v128c0 26.5 21.5 48 48 48h80v64c0 35.3-28.7 64-64 64h-8c-13.3 0-24 10.7-24 24v48c0 13.3 10.7 24 24 24h8c88.4 0 160-71.6 160-160V80c0-26.5-21.5-48-48-48z\"/></svg>",
+  "aliases": [
+    "mention",
+    "note",
+    "phrase",
+    "text",
+    "type"
+  ],
+  "tags": [
+    {
+      "title": "Chat",
+      "titleZh": "聊天",
+      "name": "chat",
+      "count": 19
+    },
+    {
+      "title": "Editors",
+      "titleZh": "编辑器",
+      "name": "editors",
+      "count": 74
+    },
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    },
+    {
+      "title": "Writing",
+      "titleZh": "写作",
+      "name": "writing",
+      "count": 25
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.9",
+  "zhs": [
+    "引用权",
+    "提及",
+    "注释",
+    "短语",
+    "文本",
+    "类型"
+  ],
+  "description": "",
+  "comments": []
+}

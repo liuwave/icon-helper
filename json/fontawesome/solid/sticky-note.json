@@ -1,0 +1,53 @@
+{
+  "name": "sticky-note",
+  "codepoint": "f249",
+  "title": "Sticky Note",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path d=\"M312 320h136V56c0-13.3-10.7-24-24-24H24C10.7 32 0 42.7 0 56v400c0 13.3 10.7 24 24 24h264V344c0-13.2 10.8-24 24-24zm129 55l-98 98c-4.5 4.5-10.6 7-17 7h-6V352h128v6.1c0 6.3-2.5 12.4-7 16.9z\"/></svg>",
+  "aliases": [
+    "message",
+    "note",
+    "paper",
+    "reminder",
+    "sticker"
+  ],
+  "tags": [
+    {
+      "title": "Business",
+      "titleZh": "商业",
+      "name": "business",
+      "count": 78
+    },
+    {
+      "title": "Files",
+      "titleZh": "文件",
+      "name": "files",
+      "count": 21
+    },
+    {
+      "title": "Objects",
+      "titleZh": "物体",
+      "name": "objects",
+      "count": 223
+    },
+    {
+      "title": "Writing",
+      "titleZh": "写作",
+      "name": "writing",
+      "count": 25
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.10.2",
+  "zhs": [
+    "粘滞便笺",
+    "消息",
+    "便条",
+    "纸张",
+    "提醒",
+    "贴纸"
+  ],
+  "description": "",
+  "comments": []
+}

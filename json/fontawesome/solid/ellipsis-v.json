@@ -1,0 +1,46 @@
+{
+  "name": "ellipsis-v",
+  "codepoint": "f142",
+  "title": "Vertical Ellipsis",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 192 512\"><path d=\"M96 184c39.8 0 72 32.2 72 72s-32.2 72-72 72-72-32.2-72-72 32.2-72 72-72zM24 80c0 39.8 32.2 72 72 72s72-32.2 72-72S135.8 8 96 8 24 40.2 24 80zm0 352c0 39.8 32.2 72 72 72s72-32.2 72-72-32.2-72-72-72-72 32.2-72 72z\"/></svg>",
+  "aliases": [
+    "dots",
+    "drag",
+    "kebab",
+    "list",
+    "menu",
+    "nav",
+    "navigation",
+    "ol",
+    "reorder",
+    "settings",
+    "ul"
+  ],
+  "tags": [
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.0",
+  "zhs": [
+    "垂直椭圆",
+    "圆点",
+    "拖动",
+    "烤肉串",
+    "列表",
+    "菜单",
+    "导航",
+    "ol",
+    "重新排序",
+    "设置",
+    "ul"
+  ],
+  "description": "",
+  "comments": []
+}

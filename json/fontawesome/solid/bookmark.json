@@ -1,0 +1,59 @@
+{
+  "name": "bookmark",
+  "codepoint": "f02e",
+  "title": "bookmark",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path d=\"M0 512V48C0 21.49 21.49 0 48 0h288c26.51 0 48 21.49 48 48v464L192 400 0 512z\"/></svg>",
+  "aliases": [
+    "favorite",
+    "marker",
+    "read",
+    "remember",
+    "save"
+  ],
+  "tags": [
+    {
+      "title": "Maps",
+      "titleZh": "地图",
+      "name": "maps",
+      "count": 124
+    },
+    {
+      "title": "Objects",
+      "titleZh": "物体",
+      "name": "objects",
+      "count": 223
+    },
+    {
+      "title": "Payments & Shopping",
+      "titleZh": "支付&购物",
+      "name": "payments-shopping",
+      "count": 46
+    },
+    {
+      "title": "Shapes",
+      "titleZh": "形状",
+      "name": "shapes",
+      "count": 15
+    },
+    {
+      "title": "Writing",
+      "titleZh": "写作",
+      "name": "writing",
+      "count": 25
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.10.2",
+  "zhs": [
+    "书签",
+    "收藏夹",
+    "标记",
+    "阅读",
+    "记住",
+    "保存"
+  ],
+  "description": "",
+  "comments": []
+}

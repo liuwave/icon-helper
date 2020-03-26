@@ -1,0 +1,59 @@
+{
+  "name": "comment-medical",
+  "codepoint": "f7f5",
+  "title": "Alternate Medical Chat",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M256 32C114.62 32 0 125.12 0 240c0 49.56 21.41 95 57 130.74C44.46 421.05 2.7 466 2.2 466.5A8 8 0 0 0 8 480c66.26 0 116-31.75 140.6-51.38A304.66 304.66 0 0 0 256 448c141.39 0 256-93.12 256-208S397.39 32 256 32zm96 232a8 8 0 0 1-8 8h-56v56a8 8 0 0 1-8 8h-48a8 8 0 0 1-8-8v-56h-56a8 8 0 0 1-8-8v-48a8 8 0 0 1 8-8h56v-56a8 8 0 0 1 8-8h48a8 8 0 0 1 8 8v56h56a8 8 0 0 1 8 8z\"/></svg>",
+  "aliases": [
+    "advice",
+    "bubble",
+    "chat",
+    "commenting",
+    "conversation",
+    "diagnose",
+    "feedback",
+    "message",
+    "note",
+    "notification",
+    "prescription",
+    "sms",
+    "speech",
+    "texting"
+  ],
+  "tags": [
+    {
+      "title": "Chat",
+      "titleZh": "聊天",
+      "name": "chat",
+      "count": 19
+    },
+    {
+      "title": "Medical",
+      "titleZh": "医学",
+      "name": "medical",
+      "count": 72
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.7.0",
+  "zhs": [
+    "备用医疗聊天",
+    "建议",
+    "泡沫",
+    "聊天",
+    "评论",
+    "对话",
+    "诊断",
+    "反馈",
+    "消息",
+    "请注意",
+    "通知",
+    "处方",
+    "短信",
+    "语音",
+    "发短信"
+  ],
+  "description": "",
+  "comments": []
+}

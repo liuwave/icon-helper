@@ -1,0 +1,35 @@
+{
+  "name": "egg",
+  "codepoint": "f7fb",
+  "title": "Egg",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 384 512\"><path d=\"M192 0C86 0 0 214 0 320s86 192 192 192 192-86 192-192S298 0 192 0z\"/></svg>",
+  "aliases": [
+    "breakfast",
+    "chicken",
+    "easter",
+    "shell",
+    "yolk"
+  ],
+  "tags": [
+    {
+      "title": "Food",
+      "titleZh": "食物",
+      "name": "food",
+      "count": 20
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.7.0",
+  "zhs": [
+    "鸡蛋",
+    "早餐",
+    "鸡肉",
+    "复活节",
+    "贝壳",
+    "蛋黄"
+  ],
+  "description": "",
+  "comments": []
+}

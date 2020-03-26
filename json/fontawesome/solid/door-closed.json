@@ -1,0 +1,55 @@
+{
+  "name": "door-closed",
+  "codepoint": "f52a",
+  "title": "Door Closed",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><path d=\"M624 448H512V50.8C512 22.78 490.47 0 464 0H175.99c-26.47 0-48 22.78-48 50.8V448H16c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h608c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16zM415.99 288c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32c.01 17.67-14.32 32-32 32z\"/></svg>",
+  "aliases": [
+    "enter",
+    "exit",
+    "locked"
+  ],
+  "tags": [
+    {
+      "title": "Hotel",
+      "titleZh": "酒店",
+      "name": "hotel",
+      "count": 35
+    },
+    {
+      "title": "Household",
+      "titleZh": "家庭",
+      "name": "household",
+      "count": 24
+    },
+    {
+      "title": "Objects",
+      "titleZh": "物体",
+      "name": "objects",
+      "count": 223
+    },
+    {
+      "title": "Security",
+      "titleZh": "安全",
+      "name": "security",
+      "count": 24
+    },
+    {
+      "title": "Status",
+      "titleZh": "状态",
+      "name": "status",
+      "count": 92
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.13",
+  "zhs": [
+    "门关闭",
+    "进入",
+    "出口",
+    "上锁"
+  ],
+  "description": "",
+  "comments": []
+}

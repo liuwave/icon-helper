@@ -1,0 +1,28 @@
+{
+  "name": "chevron-circle-up",
+  "codepoint": "f139",
+  "title": "Chevron Circle Up",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm231-113.9L103.5 277.6c-9.4 9.4-9.4 24.6 0 33.9l17 17c9.4 9.4 24.6 9.4 33.9 0L256 226.9l101.6 101.6c9.4 9.4 24.6 9.4 33.9 0l17-17c9.4-9.4 9.4-24.6 0-33.9L273 142.1c-9.4-9.4-24.6-9.4-34 0z\"/></svg>",
+  "aliases": [
+    "arrow",
+    "collapse",
+    "upload"
+  ],
+  "tags": [
+    {
+      "title": "Arrows",
+      "titleZh": "箭头",
+      "name": "arrows",
+      "count": 99
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.0",
+  "zhs": [
+    "雪佛龙（Chevron）向上旋转"
+  ],
+  "description": "",
+  "comments": []
+}

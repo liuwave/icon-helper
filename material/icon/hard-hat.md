@@ -30,9 +30,9 @@ unicode：
 </span>
 <br/>
 <span>
-version：
+版本：
 <span class="badge-secondary badge">2.4.85</span> 
-</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/hardware-tools.html">硬件、工具</router-link></span><span class="badge-light badge"><router-link to="/tags/clothing.html">服装</router-link></span></span>
+</span><br/><span>标签：<span class="badge-light badge"><router-link to="/tags/hardware-tools.html">硬件、工具</router-link></span><span class="badge-light badge"><router-link to="/tags/clothing.html">服装</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>

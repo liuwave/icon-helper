@@ -1,0 +1,37 @@
+{
+  "name": "bowling-ball",
+  "codepoint": "f436",
+  "title": "Bowling Ball",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 496 512\"><path d=\"M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zM120 192c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm64-96c0-17.7 14.3-32 32-32s32 14.3 32 32-14.3 32-32 32-32-14.3-32-32zm48 144c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z\"/></svg>",
+  "aliases": [
+    "alley",
+    "candlepin",
+    "gutter",
+    "lane",
+    "strike",
+    "tenpin"
+  ],
+  "tags": [
+    {
+      "title": "Sports",
+      "titleZh": "运动",
+      "name": "sports",
+      "count": 18
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.11.1",
+  "zhs": [
+    "保龄球",
+    "胡同",
+    "烛台",
+    "装订线",
+    "车道",
+    "打击",
+    "帐篷"
+  ],
+  "description": "",
+  "comments": []
+}

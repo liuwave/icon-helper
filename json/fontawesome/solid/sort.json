@@ -1,0 +1,35 @@
+{
+  "name": "sort",
+  "codepoint": "f0dc",
+  "title": "Sort",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 512\"><path d=\"M41 288h238c21.4 0 32.1 25.9 17 41L177 448c-9.4 9.4-24.6 9.4-33.9 0L24 329c-15.1-15.1-4.4-41 17-41zm255-105L177 64c-9.4-9.4-24.6-9.4-33.9 0L24 183c-15.1 15.1-4.4 41 17 41h238c21.4 0 32.1-25.9 17-41z\"/></svg>",
+  "aliases": [
+    "filter",
+    "order"
+  ],
+  "tags": [
+    {
+      "title": "Arrows",
+      "titleZh": "箭头",
+      "name": "arrows",
+      "count": 99
+    },
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.10.2",
+  "zhs": [
+    "排序",
+    "过滤器",
+    "订单"
+  ],
+  "description": "",
+  "comments": []
+}

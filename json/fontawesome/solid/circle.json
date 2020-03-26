@@ -1,0 +1,54 @@
+{
+  "name": "circle",
+  "codepoint": "f111",
+  "title": "Circle",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\"/></svg>",
+  "aliases": [
+    "circle-thin",
+    "diameter",
+    "dot",
+    "ellipse",
+    "notification",
+    "round"
+  ],
+  "tags": [
+    {
+      "title": "Audio & Video",
+      "titleZh": "音频&视频",
+      "name": "audio-video",
+      "count": 51
+    },
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    },
+    {
+      "title": "Shapes",
+      "titleZh": "形状",
+      "name": "shapes",
+      "count": 15
+    },
+    {
+      "title": "Toggle",
+      "titleZh": "切换",
+      "name": "toggle",
+      "count": 12
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.10.2",
+  "zhs": [
+    "圆形",
+    "圆形薄",
+    "直径",
+    "点",
+    "椭圆",
+    "通知"
+  ],
+  "description": "",
+  "comments": []
+}

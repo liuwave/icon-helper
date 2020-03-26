@@ -1,0 +1,53 @@
+{
+  "name": "ice-cream",
+  "codepoint": "f810",
+  "title": "Ice Cream",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path d=\"M368 160h-.94a144 144 0 1 0-286.12 0H80a48 48 0 0 0 0 96h288a48 48 0 0 0 0-96zM195.38 493.69a31.52 31.52 0 0 0 57.24 0L352 288H96z\"/></svg>",
+  "aliases": [
+    "chocolate",
+    "cone",
+    "dessert",
+    "frozen",
+    "scoop",
+    "sorbet",
+    "vanilla",
+    "yogurt"
+  ],
+  "tags": [
+    {
+      "title": "Childhood",
+      "titleZh": "童年",
+      "name": "childhood",
+      "count": 15
+    },
+    {
+      "title": "Food",
+      "titleZh": "食物",
+      "name": "food",
+      "count": 20
+    },
+    {
+      "title": "Summer",
+      "titleZh": "夏天",
+      "name": "summer",
+      "count": 12
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.11.1",
+  "zhs": [
+    "冰淇淋",
+    "巧克力",
+    "甜筒",
+    "甜点",
+    "冰冻",
+    "浓汤",
+    "冰沙",
+    "香草",
+    "酸奶"
+  ],
+  "description": "",
+  "comments": []
+}

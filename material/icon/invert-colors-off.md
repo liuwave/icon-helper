@@ -30,9 +30,9 @@ unicode：
 </span>
 <br/>
 <span>
-version：
+版本：
 <span class="badge-secondary badge">3.6.95</span> 
-</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/color.html">颜色</router-link></span></span>
+</span><br/><span>标签：<span class="badge-light badge"><router-link to="/tags/color.html">颜色</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

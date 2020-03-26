@@ -1,0 +1,41 @@
+{
+  "name": "ethernet",
+  "codepoint": "f796",
+  "title": "Ethernet",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M496 192h-48v-48c0-8.8-7.2-16-16-16h-48V80c0-8.8-7.2-16-16-16H144c-8.8 0-16 7.2-16 16v48H80c-8.8 0-16 7.2-16 16v48H16c-8.8 0-16 7.2-16 16v224c0 8.8 7.2 16 16 16h80V320h32v128h64V320h32v128h64V320h32v128h64V320h32v128h80c8.8 0 16-7.2 16-16V208c0-8.8-7.2-16-16-16z\"/></svg>",
+  "aliases": [
+    "cable",
+    "cat 5",
+    "cat 6",
+    "connection",
+    "hardware",
+    "internet",
+    "network",
+    "wired"
+  ],
+  "tags": [
+    {
+      "title": "Computers",
+      "titleZh": "计算机",
+      "name": "computers",
+      "count": 28
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.6.0",
+  "zhs": [
+    "以太网",
+    "电缆",
+    "5类",
+    "6类",
+    "连接",
+    "硬件",
+    "互联网",
+    "网络",
+    "有线"
+  ],
+  "description": "",
+  "comments": []
+}

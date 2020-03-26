@@ -1,0 +1,31 @@
+{
+  "name": "square-full",
+  "codepoint": "f45c",
+  "title": "Square Full",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M512 512H0V0h512v512z\"/></svg>",
+  "aliases": [
+    "block",
+    "box",
+    "shape"
+  ],
+  "tags": [
+    {
+      "title": "Chess",
+      "titleZh": "象棋",
+      "name": "chess",
+      "count": 9
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.10.2",
+  "zhs": [
+    "平方满",
+    "块",
+    "框",
+    "形状"
+  ],
+  "description": "",
+  "comments": []
+}

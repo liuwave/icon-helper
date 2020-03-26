@@ -1,0 +1,37 @@
+{
+  "name": "italic",
+  "codepoint": "f033",
+  "title": "italic",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 512\"><path d=\"M320 48v32a16 16 0 0 1-16 16h-62.76l-80 320H208a16 16 0 0 1 16 16v32a16 16 0 0 1-16 16H16a16 16 0 0 1-16-16v-32a16 16 0 0 1 16-16h62.76l80-320H112a16 16 0 0 1-16-16V48a16 16 0 0 1 16-16h192a16 16 0 0 1 16 16z\"/></svg>",
+  "aliases": [
+    "edit",
+    "emphasis",
+    "font",
+    "format",
+    "text",
+    "type"
+  ],
+  "tags": [
+    {
+      "title": "Editors",
+      "titleZh": "编辑器",
+      "name": "editors",
+      "count": 74
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.10.2",
+  "zhs": [
+    "斜体",
+    "编辑",
+    "重点",
+    "字体",
+    "格式",
+    "文本",
+    "类型"
+  ],
+  "description": "",
+  "comments": []
+}

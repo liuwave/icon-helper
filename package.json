@@ -22,6 +22,8 @@
   "scripts": {
     "m:dev": "vuepress dev material",
     "m:build": "vuepress build material",
+    "f:dev": "vuepress dev fontawesome",
+    "f:build": "vuepress build fontawesome",
     "i:dev": "vuepress dev index",
     "i:build": "vuepress build index"
   },

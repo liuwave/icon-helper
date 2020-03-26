@@ -1,0 +1,41 @@
+{
+  "name": "subscript",
+  "codepoint": "f12c",
+  "title": "subscript",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M496 448h-16V304a16 16 0 0 0-16-16h-48a16 16 0 0 0-14.29 8.83l-16 32A16 16 0 0 0 400 352h16v96h-16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h96a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM336 64h-67a16 16 0 0 0-13.14 6.87l-79.9 115-79.9-115A16 16 0 0 0 83 64H16A16 16 0 0 0 0 80v48a16 16 0 0 0 16 16h33.48l77.81 112-77.81 112H16a16 16 0 0 0-16 16v48a16 16 0 0 0 16 16h67a16 16 0 0 0 13.14-6.87l79.9-115 79.9 115A16 16 0 0 0 269 448h67a16 16 0 0 0 16-16v-48a16 16 0 0 0-16-16h-33.48l-77.81-112 77.81-112H336a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16z\"/></svg>",
+  "aliases": [
+    "edit",
+    "font",
+    "format",
+    "text",
+    "type"
+  ],
+  "tags": [
+    {
+      "title": "Editors",
+      "titleZh": "编辑器",
+      "name": "editors",
+      "count": 74
+    },
+    {
+      "title": "Mathematics",
+      "titleZh": "数学",
+      "name": "mathematics",
+      "count": 17
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.10.2",
+  "zhs": [
+    "下标",
+    "编辑",
+    "字体",
+    "格式",
+    "文本",
+    "类型"
+  ],
+  "description": "",
+  "comments": []
+}

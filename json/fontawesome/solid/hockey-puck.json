@@ -1,0 +1,31 @@
+{
+  "name": "hockey-puck",
+  "codepoint": "f453",
+  "title": "Hockey Puck",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M0 160c0-53 114.6-96 256-96s256 43 256 96-114.6 96-256 96S0 213 0 160zm0 82.2V352c0 53 114.6 96 256 96s256-43 256-96V242.2c-113.4 82.3-398.5 82.4-512 0z\"/></svg>",
+  "aliases": [
+    "ice",
+    "nhl",
+    "sport"
+  ],
+  "tags": [
+    {
+      "title": "Sports",
+      "titleZh": "运动",
+      "name": "sports",
+      "count": 18
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.5",
+  "zhs": [
+    "冰球",
+    "冰",
+    "NHL",
+    "运动"
+  ],
+  "description": "",
+  "comments": []
+}

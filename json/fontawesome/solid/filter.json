@@ -1,0 +1,45 @@
+{
+  "name": "filter",
+  "codepoint": "f0b0",
+  "title": "Filter",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M487.976 0H24.028C2.71 0-8.047 25.866 7.058 40.971L192 225.941V432c0 7.831 3.821 15.17 10.237 19.662l80 55.98C298.02 518.69 320 507.493 320 487.98V225.941l184.947-184.97C520.021 25.896 509.338 0 487.976 0z\"/></svg>",
+  "aliases": [
+    "funnel",
+    "options",
+    "separate",
+    "sort"
+  ],
+  "tags": [
+    {
+      "title": "Code",
+      "titleZh": "代码",
+      "name": "code",
+      "count": 28
+    },
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    },
+    {
+      "title": "Science",
+      "titleZh": "科学",
+      "name": "science",
+      "count": 29
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.11.1",
+  "zhs": [
+    "过滤器",
+    "渠道",
+    "选项",
+    "单独",
+    "排序"
+  ],
+  "description": "",
+  "comments": []
+}

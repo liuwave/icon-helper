@@ -1,0 +1,29 @@
+{
+  "name": "adobe",
+  "codepoint": "f778",
+  "title": "Adobe",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M315.5 64h170.9v384L315.5 64zm-119 0H25.6v384L196.5 64zM256 206.1L363.5 448h-73l-30.7-76.8h-78.7L256 206.1z\"/></svg>",
+  "aliases": [
+    "acrobat",
+    "app",
+    "design",
+    "illustrator",
+    "indesign",
+    "photoshop"
+  ],
+  "tags": [],
+  "style": "brands",
+  "pre": "fab",
+  "author": "fontawesome",
+  "version": "5.8.0",
+  "zhs": [
+    "Adob​​e",
+    "acrobat",
+    "应用程序",
+    "设计",
+    "插画",
+    "photoshop"
+  ],
+  "description": "",
+  "comments": []
+}

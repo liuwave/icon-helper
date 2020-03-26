@@ -30,9 +30,9 @@ unicode：
 </span>
 <br/>
 <span>
-version：
+版本：
 <span class="badge-secondary badge">4.5.95</span> 
-</span><br/><span>Tag：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span><span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span></span>
+</span><br/><span>标签：<span class="badge-light badge"><router-link to="/tags/cellphone-phone.html">手机、电话</router-link></span><span class="badge-light badge"><router-link to="/tags/settings.html">设置</router-link></span></span>
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>

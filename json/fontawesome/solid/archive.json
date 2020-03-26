@@ -1,0 +1,63 @@
+{
+  "name": "archive",
+  "codepoint": "f187",
+  "title": "Archive",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M32 448c0 17.7 14.3 32 32 32h384c17.7 0 32-14.3 32-32V160H32v288zm160-212c0-6.6 5.4-12 12-12h104c6.6 0 12 5.4 12 12v8c0 6.6-5.4 12-12 12H204c-6.6 0-12-5.4-12-12v-8zM480 32H32C14.3 32 0 46.3 0 64v48c0 8.8 7.2 16 16 16h480c8.8 0 16-7.2 16-16V64c0-17.7-14.3-32-32-32z\"/></svg>",
+  "aliases": [
+    "box",
+    "package",
+    "save",
+    "storage"
+  ],
+  "tags": [
+    {
+      "title": "Business",
+      "titleZh": "商业",
+      "name": "business",
+      "count": 78
+    },
+    {
+      "title": "Code",
+      "titleZh": "代码",
+      "name": "code",
+      "count": 28
+    },
+    {
+      "title": "Files",
+      "titleZh": "文件",
+      "name": "files",
+      "count": 21
+    },
+    {
+      "title": "Moving",
+      "titleZh": "动作",
+      "name": "moving",
+      "count": 14
+    },
+    {
+      "title": "Objects",
+      "titleZh": "物体",
+      "name": "objects",
+      "count": 223
+    },
+    {
+      "title": "Writing",
+      "titleZh": "写作",
+      "name": "writing",
+      "count": 25
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.9",
+  "zhs": [
+    "存档",
+    "框",
+    "包装",
+    "保存",
+    "存储"
+  ],
+  "description": "",
+  "comments": []
+}

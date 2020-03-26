@@ -1,0 +1,48 @@
+{
+  "name": "stream",
+  "codepoint": "f550",
+  "title": "Stream",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M16 128h416c8.84 0 16-7.16 16-16V48c0-8.84-7.16-16-16-16H16C7.16 32 0 39.16 0 48v64c0 8.84 7.16 16 16 16zm480 80H80c-8.84 0-16 7.16-16 16v64c0 8.84 7.16 16 16 16h416c8.84 0 16-7.16 16-16v-64c0-8.84-7.16-16-16-16zm-64 176H16c-8.84 0-16 7.16-16 16v64c0 8.84 7.16 16 16 16h416c8.84 0 16-7.16 16-16v-64c0-8.84-7.16-16-16-16z\"/></svg>",
+  "aliases": [
+    "flow",
+    "list",
+    "timeline"
+  ],
+  "tags": [
+    {
+      "title": "Business",
+      "titleZh": "商业",
+      "name": "business",
+      "count": 78
+    },
+    {
+      "title": "Code",
+      "titleZh": "代码",
+      "name": "code",
+      "count": 28
+    },
+    {
+      "title": "Computers",
+      "titleZh": "计算机",
+      "name": "computers",
+      "count": 28
+    },
+    {
+      "title": "Status",
+      "titleZh": "状态",
+      "name": "status",
+      "count": 92
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.13",
+  "zhs": [
+    "流",
+    "列表",
+    "时间轴"
+  ],
+  "description": "",
+  "comments": []
+}

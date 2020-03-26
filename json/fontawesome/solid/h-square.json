@@ -1,0 +1,41 @@
+{
+  "name": "h-square",
+  "codepoint": "f0fd",
+  "title": "H Square",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path d=\"M448 80v352c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h352c26.51 0 48 21.49 48 48zm-112 48h-32c-8.837 0-16 7.163-16 16v80H160v-80c0-8.837-7.163-16-16-16h-32c-8.837 0-16 7.163-16 16v224c0 8.837 7.163 16 16 16h32c8.837 0 16-7.163 16-16v-80h128v80c0 8.837 7.163 16 16 16h32c8.837 0 16-7.163 16-16V144c0-8.837-7.163-16-16-16z\"/></svg>",
+  "aliases": [
+    "directions",
+    "emergency",
+    "hospital",
+    "hotel",
+    "map"
+  ],
+  "tags": [
+    {
+      "title": "Health",
+      "titleZh": "健康",
+      "name": "health",
+      "count": 12
+    },
+    {
+      "title": "Maps",
+      "titleZh": "地图",
+      "name": "maps",
+      "count": 124
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.0.0",
+  "zhs": [
+    "H广场",
+    "方向",
+    "紧急情况",
+    "医院",
+    "酒店",
+    "地图"
+  ],
+  "description": "",
+  "comments": []
+}

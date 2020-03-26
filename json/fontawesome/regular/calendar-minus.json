@@ -1,0 +1,54 @@
+{
+  "name": "calendar-minus",
+  "codepoint": "f272",
+  "title": "Calendar Minus",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\"><path d=\"M124 328c-6.6 0-12-5.4-12-12v-24c0-6.6 5.4-12 12-12h200c6.6 0 12 5.4 12 12v24c0 6.6-5.4 12-12 12H124zm324-216v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z\"/></svg>",
+  "aliases": [
+    "calendar",
+    "date",
+    "delete",
+    "event",
+    "negative",
+    "remove",
+    "schedule",
+    "time",
+    "when"
+  ],
+  "tags": [
+    {
+      "title": "Date & Time",
+      "titleZh": "日期&时间",
+      "name": "date-time",
+      "count": 14
+    },
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    },
+    {
+      "title": "Status",
+      "titleZh": "状态",
+      "name": "status",
+      "count": 92
+    }
+  ],
+  "style": "regular",
+  "pre": "far",
+  "author": "fontawesome",
+  "version": "5.0.0",
+  "zhs": [
+    "日历减号",
+    "日历",
+    "日期",
+    "删除",
+    "事件",
+    "负数",
+    "时间表",
+    "时间",
+    "何时"
+  ],
+  "description": "",
+  "comments": []
+}

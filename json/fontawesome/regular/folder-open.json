@@ -1,0 +1,67 @@
+{
+  "name": "folder-open",
+  "codepoint": "f07c",
+  "title": "Folder Open",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\"><path d=\"M527.9 224H480v-48c0-26.5-21.5-48-48-48H272l-64-64H48C21.5 64 0 85.5 0 112v288c0 26.5 21.5 48 48 48h400c16.5 0 31.9-8.5 40.7-22.6l79.9-128c20-31.9-3-73.4-40.7-73.4zM48 118c0-3.3 2.7-6 6-6h134.1l64 64H426c3.3 0 6 2.7 6 6v42H152c-16.8 0-32.4 8.8-41.1 23.2L48 351.4zm400 282H72l77.2-128H528z\"/></svg>",
+  "aliases": [
+    "archive",
+    "directory",
+    "document",
+    "empty",
+    "file",
+    "new"
+  ],
+  "tags": [
+    {
+      "title": "Business",
+      "titleZh": "商业",
+      "name": "business",
+      "count": 78
+    },
+    {
+      "title": "Code",
+      "titleZh": "代码",
+      "name": "code",
+      "count": 28
+    },
+    {
+      "title": "Files",
+      "titleZh": "文件",
+      "name": "files",
+      "count": 21
+    },
+    {
+      "title": "Interfaces",
+      "titleZh": "接口",
+      "name": "interfaces",
+      "count": 165
+    },
+    {
+      "title": "Status",
+      "titleZh": "状态",
+      "name": "status",
+      "count": 92
+    },
+    {
+      "title": "Writing",
+      "titleZh": "写作",
+      "name": "writing",
+      "count": 25
+    }
+  ],
+  "style": "regular",
+  "pre": "far",
+  "author": "fontawesome",
+  "version": "1",
+  "zhs": [
+    "文件夹打开",
+    "归档",
+    "目录",
+    "文档",
+    "空",
+    "文件",
+    "新"
+  ],
+  "description": "",
+  "comments": []
+}

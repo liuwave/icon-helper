@@ -1,0 +1,37 @@
+{
+  "name": "play-circle",
+  "codepoint": "f144",
+  "title": "Play Circle",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm115.7 272l-176 101c-15.8 8.8-35.7-2.5-35.7-21V152c0-18.4 19.8-29.8 35.7-21l176 107c16.4 9.2 16.4 32.9 0 42z\"/></svg>",
+  "aliases": [
+    "audio",
+    "music",
+    "playing",
+    "sound",
+    "start",
+    "video"
+  ],
+  "tags": [
+    {
+      "title": "Audio & Video",
+      "titleZh": "音频&视频",
+      "name": "audio-video",
+      "count": 51
+    }
+  ],
+  "style": "solid",
+  "pre": "fas",
+  "author": "fontawesome",
+  "version": "5.10.2",
+  "zhs": [
+    "播放圈子",
+    "音频",
+    "音乐",
+    "播放",
+    "声音",
+    "开始",
+    "视频"
+  ],
+  "description": "",
+  "comments": []
+}
