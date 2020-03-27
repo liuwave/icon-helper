@@ -21,6 +21,7 @@
   "scripts": {
     "m:dev": "vuepress dev material",
     "m:build": "vuepress build material",
+    "m:build-fix": "node --max_old_space_size=819200 ./node_modules/vuepress/cli.js build material",
     "f:dev": "vuepress dev fontawesome",
     "f:build": "vuepress build fontawesome",
     "i:dev": "vuepress dev index",
