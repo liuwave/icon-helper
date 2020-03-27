@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "iTunes"
+    "iTunes",
+    "爱思"
   ],
-  "description": "",
+  "description": "iTunes是一款专供Mac和PC使用、能管理和播放数字音乐和视频的免费应用程序",
   "comments": []
 }

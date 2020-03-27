@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "飞"
+    "飞",
+    "fly"
   ],
-  "description": "",
+  "description": "Fly是跨设备模块化前端框架layui的官网社区",
   "comments": []
 }

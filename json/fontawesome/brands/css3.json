@@ -13,8 +13,9 @@
   "version": "5.0.0",
   "zhs": [
     "CSS 3徽标",
-    "代码"
+    "代码",
+    "css3"
   ],
-  "description": "",
+  "description": "css3是一种用于控制网页的样式和布局的语言。",
   "comments": []
 }

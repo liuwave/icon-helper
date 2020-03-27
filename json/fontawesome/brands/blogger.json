@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "博客"
+    "博客",
+    "网络日志"
   ],
-  "description": "",
+  "description": " Blogger是一个Google提供的个人博客平台",
   "comments": []
 }

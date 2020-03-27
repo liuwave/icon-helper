@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.3",
   "zhs": [
-    "灰烬"
+    "灰烬",
+    "ember"
   ],
-  "description": "",
+  "description": "Ember是一个开源的JavaScript客户端框架。",
   "comments": []
 }

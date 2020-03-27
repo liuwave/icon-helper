@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "Instagram"
+    "照片墙",
+    "IG"
   ],
-  "description": "",
+  "description": "Instagram一款运行在移动端上的社交应用,可以快速进行照片分享。",
   "comments": []
 }

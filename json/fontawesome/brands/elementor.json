@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.3",
   "zhs": [
-    "元素"
+    "元素",
+    "elementor"
   ],
-  "description": "",
+  "description": "elementor是一款WordPress页面生成器",
   "comments": []
 }

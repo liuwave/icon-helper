@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.7.0",
   "zhs": [
-    "eBay"
+    "eBay",
+    "易趣"
   ],
-  "description": "",
+  "description": "易趣是一家电商，提供类似淘宝的服务。",
   "comments": []
 }

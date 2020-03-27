@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "盘带"
+    "盘带",
+    "dribbble"
   ],
-  "description": "",
+  "description": "dribbble是一个分享作品截图的社区。",
   "comments": []
 }

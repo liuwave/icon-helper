@@ -23,8 +23,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "比特币"
+    "比特币",
+    "btc"
   ],
-  "description": "",
+  "description": "比特币是一种P2P形式的数字货币，去中心化的支付系统",
   "comments": []
 }

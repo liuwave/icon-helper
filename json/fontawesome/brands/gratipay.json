@@ -15,12 +15,12 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "Gratipay（Gittip）",
     "最喜欢",
     "心",
     "喜欢",
-    "爱"
+    "爱",
+    "gratipay"
   ],
-  "description": "",
+  "description": "gratipay是免费的支付平台（已关闭）。",
   "comments": []
 }

@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "Google徽标"
+    "Google徽标",
+    "google"
   ],
-  "description": "",
+  "description": "google是全球最大的搜索引擎。",
   "comments": []
 }

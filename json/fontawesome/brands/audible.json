@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "有声"
+    "有声",
+    "audible"
   ],
-  "description": "",
+  "description": "有声是一个可以帮助那些有听力问题的人的应用程序，是你的Android设备上的一个方便的助听器",
   "comments": []
 }

@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "Joomla徽标"
+    "Joomla徽标",
+    "joomla"
   ],
-  "description": "",
+  "description": "joomla是一个使用PHP开发的内容管理系统。",
   "comments": []
 }

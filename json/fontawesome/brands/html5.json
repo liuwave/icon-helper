@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "HTML 5徽标"
+    "HTML 5徽标",
+    "html5"
   ],
-  "description": "",
+  "description": "html指的是超文本标记语。 而HTML5是HTML最新的修订版本",
   "comments": []
 }

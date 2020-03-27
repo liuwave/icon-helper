@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.9",
   "zhs": [
-    "Flipboard"
+    "Flipboard",
+    "红板报"
   ],
-  "description": "",
+  "description": "红板报是一款免费的应用程序，将社交媒体上的内容整合起来供用户阅览。",
   "comments": []
 }

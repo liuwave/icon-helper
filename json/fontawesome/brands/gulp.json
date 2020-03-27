@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "吞咽"
+    "吞咽",
+    "gulp"
   ],
-  "description": "",
+  "description": "Gulp.js是一个是基于 Node.js 构建的自动化构建工具,开发者可以使用它在项目开发过程中自动执行常见任务。",
   "comments": []
 }

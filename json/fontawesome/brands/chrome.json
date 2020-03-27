@@ -13,8 +13,9 @@
   "version": "5.0.0",
   "zhs": [
     "Chrome",
-    "浏览器"
+    "浏览器",
+    "谷歌浏览器"
   ],
-  "description": "",
+  "description": "Google Chrome是一款由Google公司开发的网页浏览器。",
   "comments": []
 }

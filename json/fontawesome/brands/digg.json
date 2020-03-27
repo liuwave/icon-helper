@@ -10,8 +10,10 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "Digg徽标"
+    "Digg徽标",
+    "点赞",
+    "掘客网"
   ],
-  "description": "",
+  "description": "掘客网是一家美国社交新闻网站，结合了书签、博客、RSS 以及无等级的评论控制。官网：digg.com",
   "comments": []
 }

@@ -17,8 +17,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "蓝牙"
+    "蓝牙",
+    "蓝牙黑"
   ],
-  "description": "",
+  "description": "蓝牙是一种无线传输标准，在电子产品上有广泛的应用。",
   "comments": []
 }

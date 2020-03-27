@@ -10,8 +10,10 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "银河帝国"
+    "银河帝国",
+    "EmpireCMS",
+    "帝国网站管理系统"
   ],
-  "description": "",
+  "description": "empire是帝国网站管理系统，一款PHP开发的CMS系统。",
   "comments": []
 }

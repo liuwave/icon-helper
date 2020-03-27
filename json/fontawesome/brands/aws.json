@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.1.0",
   "zhs": [
-    "Amazon Web Services（AWS）"
+    "Amazon Web Services（AWS）",
+    "aws"
   ],
-  "description": "",
+  "description": "aws是亚马逊公司旗下云计算服务平台，为全世界各个国家和地区的客户提供一整套基础设施和云解决方案",
   "comments": []
 }

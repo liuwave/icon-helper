@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "四方"
+    "四方",
+    "foursquare"
   ],
-  "description": "",
+  "description": "四方是一家基于用户地理位置信息(LBS)的手机服务网站。",
   "comments": []
 }

@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "重力"
+    "重力",
+    "grav"
   ],
-  "description": "",
+  "description": "Grav是一个现代开源的flat-file 内容管理系统CMS。",
   "comments": []
 }

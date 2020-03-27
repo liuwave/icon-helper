@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.3",
   "zhs": [
-    "话语"
+    "话语",
+    "discourse"
   ],
-  "description": "",
+  "description": "discourse是一个简洁、平面化的论坛。",
   "comments": []
 }

@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.7.0",
   "zhs": [
-    "美味"
+    "美味",
+    "delicious"
   ],
-  "description": "",
+  "description": "delicious是目前网络上最大的书签类站点",
   "comments": []
 }

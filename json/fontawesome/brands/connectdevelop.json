@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "连接开发"
+    "连接开发",
+    "connectdevelop"
   ],
-  "description": "",
+  "description": "连接开发是用户登录应用程序的一种快速而简单的方法",
   "comments": []
 }

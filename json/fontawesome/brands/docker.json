@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "Docker"
+    "Docker",
+    "容器"
   ],
-  "description": "",
+  "description": "容器是一个开源的应用容器引擎，让开发者可以打包镜像，获得一个相对独立的运行环境",
   "comments": []
 }

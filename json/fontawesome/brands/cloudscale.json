@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "cloudscale.ch"
+    "cloudscale.ch",
+    "cloudscale"
   ],
-  "description": "",
+  "description": "cloudscale是一个基于Swiss的自助云平台，允许您在几秒钟内启动虚拟机，云迁移、数字转换和UX设计服务的获奖者和全球公认的领导者。",
   "comments": []
 }
