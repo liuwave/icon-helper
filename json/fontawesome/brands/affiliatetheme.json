@@ -10,8 +10,10 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "会员主题"
+    "会员主题",
+    "Affiliate主题",
+    "WordPress主题模板"
   ],
-  "description": "",
+  "description": "Affiliate Theme 是一家提供WordPress收费主题模板及建站的网站，由Amazon Associates项目建立。官网地址是：https://affiliatetheme.io/",
   "comments": []
 }
