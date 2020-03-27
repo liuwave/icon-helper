@@ -4,6 +4,7 @@ title: lightbulb group(灯泡组) ICON转svg、png下载
 name: lightbulb-group
 zhTips: 灯泡组
 tags: ["home-automation"]
+search: bulb-group
 
 ---
 

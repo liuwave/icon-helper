@@ -4,6 +4,7 @@ title: ship wheel(旅行者轮船) ICON转svg、png下载
 name: ship-wheel
 zhTips: 旅行者轮船
 tags: ["transportation-water"]
+search: voyager
 
 ---
 

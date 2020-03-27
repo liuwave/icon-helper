@@ -5,6 +5,7 @@ name: burn
 zhTips: 燃烧,卡路里,能量,火,火焰,气体,热
 tags: ["energy","fitness","medical","science"]
 pre: fas
+search: caliente,energy,fire,flame,gas,heat,hot
 
 ---
 

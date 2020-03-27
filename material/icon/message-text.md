@@ -4,6 +4,7 @@ title: message text(消息文字) ICON转svg、png下载
 name: message-text
 zhTips: 消息文字,聊天
 tags: []
+search: chat
 
 ---
 

@@ -5,6 +5,7 @@ name: volume-off
 zhTips: 关闭音量,音频,禁令,音乐,静音,安静,声音
 tags: ["audio-video","interfaces","music","status"]
 pre: fas
+search: audio,ban,music,mute,quiet,silent,sound
 
 ---
 

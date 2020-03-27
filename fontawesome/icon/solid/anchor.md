@@ -5,6 +5,7 @@ name: anchor
 zhTips: 锚点,泊位,船,码头,嵌入式,链接,海事,系泊,安全
 tags: ["maps","maritime","objects","summer"]
 pre: fas
+search: berth,boat,dock,embed,link,maritime,moor,secure
 
 ---
 

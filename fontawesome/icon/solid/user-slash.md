@@ -5,6 +5,7 @@ name: user-slash
 zhTips: 用户斜杠,禁止,删除
 tags: ["status","users-people"]
 pre: fas
+search: ban,delete,remove
 
 ---
 

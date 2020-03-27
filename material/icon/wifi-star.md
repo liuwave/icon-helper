@@ -4,6 +4,7 @@ title: wifi star(wifi上网星) ICON转svg、png下载
 name: wifi-star
 zhTips: wifi上网星,wifi喜爱,网络最爱
 tags: []
+search: wifi-favourite,network-favourite
 
 ---
 

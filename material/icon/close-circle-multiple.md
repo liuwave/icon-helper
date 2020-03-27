@@ -4,6 +4,7 @@ title: close circle multiple(关闭多圈) ICON转svg、png下载
 name: close-circle-multiple
 zhTips: 关闭多圈,删除多圈,关闭硬币,删除硬币
 tags: []
+search: remove-circle-multiple,coins-close,coins-remove
 
 ---
 

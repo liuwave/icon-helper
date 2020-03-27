@@ -5,6 +5,7 @@ name: road
 zhTips: 道路,高速公路,地图,路面,路线,街道,旅行
 tags: ["maps","objects"]
 pre: fas
+search: highway,map,pavement,route,street,travel
 
 ---
 

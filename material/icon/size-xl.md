@@ -4,6 +4,7 @@ title: size xl(尺寸xl) ICON转svg、png下载
 name: size-xl
 zhTips: 尺寸xl,尺寸超大
 tags: []
+search: size-extra-large
 
 ---
 

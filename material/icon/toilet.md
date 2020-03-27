@@ -4,6 +4,7 @@ title: toilet(厕所) ICON转svg、png下载
 name: toilet
 zhTips: 厕所
 tags: ["home-automation"]
+search: 
 
 ---
 

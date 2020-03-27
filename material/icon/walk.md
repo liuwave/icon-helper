@@ -4,6 +4,7 @@ title: walk(步行) ICON转svg、png下载
 name: walk
 zhTips: 步行,步行路线,步行者
 tags: ["sport","transportation-other"]
+search: directions-walk,walker,walking
 
 ---
 

@@ -4,6 +4,7 @@ title: emoticon devil outline(图释魔鬼轮廓) ICON转svg、png下载
 name: emoticon-devil-outline
 zhTips: 图释魔鬼轮廓,笑脸魔鬼轮廓
 tags: ["emoji"]
+search: smiley-devil-outline
 
 ---
 

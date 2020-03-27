@@ -4,6 +4,7 @@ title: power plug(电源插头) ICON转svg、png下载
 name: power-plug
 zhTips: 电源插头
 tags: ["home-automation"]
+search: 
 
 ---
 

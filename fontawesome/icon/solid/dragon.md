@@ -5,6 +5,7 @@ name: dragon
 zhTips: 龙,地牢与龙,d＆d,dnd,幻想,火,蜥蜴,蛇
 tags: ["animals","gaming-tabletop"]
 pre: fas
+search: Dungeons & Dragons,d&d,dnd,fantasy,fire,lizard,serpent
 
 ---
 

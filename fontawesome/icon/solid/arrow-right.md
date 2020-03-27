@@ -5,6 +5,7 @@ name: arrow-right
 zhTips: 右下,前进,下一页
 tags: ["arrows"]
 pre: fas
+search: forward,next
 
 ---
 

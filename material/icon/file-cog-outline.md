@@ -4,6 +4,7 @@ title: file cog outline(文件齿轮轮廓) ICON转svg、png下载
 name: file-cog-outline
 zhTips: 文件齿轮轮廓,文件设置齿轮轮廓
 tags: ["settings","files-folders"]
+search: file-settings-cog-outline
 
 ---
 

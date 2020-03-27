@@ -4,6 +4,7 @@ title: floor lamp(落地灯) ICON转svg、png下载
 name: floor-lamp
 zhTips: 落地灯
 tags: ["home-automation"]
+search: floor-light
 
 ---
 

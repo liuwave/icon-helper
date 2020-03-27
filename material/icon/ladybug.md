@@ -4,6 +4,7 @@ title: ladybug(瓢虫) ICON转svg、png下载
 name: ladybug
 zhTips: 瓢虫,bugfood
 tags: ["nature"]
+search: bugfood,ladybird
 
 ---
 

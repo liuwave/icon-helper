@@ -4,6 +4,7 @@ title: calendar range outline(日历范围轮廓) ICON转svg、png下载
 name: calendar-range-outline
 zhTips: 日历范围轮廓,事件范围轮廓
 tags: ["date-time"]
+search: event-range-outline
 
 ---
 

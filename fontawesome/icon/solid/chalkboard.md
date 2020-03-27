@@ -5,6 +5,7 @@ name: chalkboard
 zhTips: 黑板,学习,学校,教学,白板,写作
 tags: ["communication","education","images"]
 pre: fas
+search: blackboard,learning,school,teaching,whiteboard,writing
 
 ---
 

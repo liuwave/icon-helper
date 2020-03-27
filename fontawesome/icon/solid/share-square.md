@@ -5,6 +5,7 @@ name: share-square
 zhTips: 分享广场,转发,保存,发送,社交
 tags: ["arrows","interfaces","social"]
 pre: fas
+search: forward,save,send,social
 
 ---
 

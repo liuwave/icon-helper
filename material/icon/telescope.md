@@ -4,6 +4,7 @@ title: telescope(望远镜) ICON转svg、png下载
 name: telescope
 zhTips: 望远镜
 tags: ["science"]
+search: 
 
 ---
 

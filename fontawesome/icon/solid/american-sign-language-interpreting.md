@@ -5,6 +5,7 @@ name: american-sign-language-interpreting
 zhTips: 美国手语翻译,英语,聋哑,聋人,手指,手,口译,说
 tags: ["accessibility","communication"]
 pre: fas
+search: asl,deaf,finger,hand,interpret,speak
 
 ---
 

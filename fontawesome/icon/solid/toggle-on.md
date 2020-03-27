@@ -5,6 +5,7 @@ name: toggle-on
 zhTips: 切换打开,切换
 tags: ["interfaces","status","toggle"]
 pre: fas
+search: switch
 
 ---
 

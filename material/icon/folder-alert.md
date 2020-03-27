@@ -4,6 +4,7 @@ title: folder alert(文件夹警报) ICON转svg、png下载
 name: folder-alert
 zhTips: 文件夹警报,文件夹警告
 tags: ["files-folders","alert-error","alert-error","alert-error"]
+search: folder-warning
 
 ---
 

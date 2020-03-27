@@ -4,6 +4,7 @@ title: sigma(sigma) ICON转svg、png下载
 name: sigma
 zhTips: sigma,求和
 tags: ["math"]
+search: summation
 
 ---
 

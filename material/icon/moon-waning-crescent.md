@@ -4,6 +4,7 @@ title: moon waning crescent(月亮减弱的新月) ICON转svg、png下载
 name: moon-waning-crescent
 zhTips: 月亮减弱的新月
 tags: ["weather"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: bulletin board(公告栏) ICON转svg、png下载
 name: bulletin-board
 zhTips: 公告栏,布告栏
 tags: []
+search: notice-board
 
 ---
 

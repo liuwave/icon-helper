@@ -4,6 +4,7 @@ title: khanda(锡克教徒) ICON转svg、png下载
 name: khanda
 zhTips: 锡克教徒
 tags: ["religion"]
+search: sikh
 
 ---
 

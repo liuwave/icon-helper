@@ -5,6 +5,7 @@ name: charging-station
 zhTips: 充电站,电动,特斯拉,车辆
 tags: ["automotive","energy"]
 pre: fas
+search: electric,ev,tesla,vehicle
 
 ---
 

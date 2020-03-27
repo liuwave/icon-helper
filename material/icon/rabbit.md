@@ -4,6 +4,7 @@ title: rabbit(兔子) ICON转svg、png下载
 name: rabbit
 zhTips: 兔子
 tags: ["animal"]
+search: bunny
 
 ---
 

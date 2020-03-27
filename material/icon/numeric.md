@@ -4,6 +4,7 @@ title: numeric(数字) ICON转svg、png下载
 name: numeric
 zhTips: 数字,1 2 3,一二三,123
 tags: ["alpha-numeric"]
+search: numbers,1-2-3,one-two-three,123
 
 ---
 

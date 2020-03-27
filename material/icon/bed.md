@@ -4,6 +4,7 @@ title: bed(床) ICON转svg、png下载
 name: bed
 zhTips: 床,酒店
 tags: ["home-automation","holiday"]
+search: hotel
 
 ---
 

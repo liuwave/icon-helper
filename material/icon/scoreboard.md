@@ -4,6 +4,7 @@ title: scoreboard(计分板) ICON转svg、png下载
 name: scoreboard
 zhTips: 计分板
 tags: ["sport"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: angle-double-right
 zhTips: Angle Double Right,箭头,插入符号,向前,更多,下一个,引用,raquo
 tags: ["arrows"]
 pre: fas
+search: arrows,caret,forward,more,next,quote,raquo
 
 ---
 

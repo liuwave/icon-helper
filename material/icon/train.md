@@ -4,6 +4,7 @@ title: train(火车) ICON转svg、png下载
 name: train
 zhTips: 火车,方向铁路
 tags: ["navigation","transportation-other"]
+search: directions-railway
 
 ---
 

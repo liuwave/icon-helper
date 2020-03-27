@@ -4,6 +4,7 @@ title: forum(论坛) ICON转svg、png下载
 name: forum
 zhTips: 论坛,消息组,问题答案,聊天
 tags: []
+search: message-group,question-answer,chat
 
 ---
 

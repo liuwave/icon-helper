@@ -4,6 +4,7 @@ title: octagram(八卦) ICON转svg、png下载
 name: octagram
 zhTips: 八卦,爆炸形
 tags: ["shape"]
+search: starburst
 
 ---
 

@@ -5,6 +5,7 @@ name: bug
 zhTips: 错误,甲虫,昆虫,报告
 tags: ["code","interfaces","objects","security"]
 pre: fas
+search: beetle,error,insect,report
 
 ---
 

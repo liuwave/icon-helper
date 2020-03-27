@@ -4,6 +4,7 @@ title: lungs(肺) ICON转svg、png下载
 name: lungs
 zhTips: 肺
 tags: ["medical-hospital"]
+search: 
 
 ---
 

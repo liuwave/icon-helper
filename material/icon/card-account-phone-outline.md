@@ -4,6 +4,7 @@ title: card account phone outline(卡帐户电话轮廓) ICON转svg、png下载
 name: card-account-phone-outline
 zhTips: 卡帐户电话轮廓,联系电话轮廓
 tags: ["account-user"]
+search: contact-phone-outline
 
 ---
 

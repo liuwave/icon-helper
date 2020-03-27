@@ -4,6 +4,7 @@ title: compass rose(罗盘玫瑰) ICON转svg、png下载
 name: compass-rose
 zhTips: 罗盘玫瑰
 tags: ["navigation"]
+search: 
 
 ---
 

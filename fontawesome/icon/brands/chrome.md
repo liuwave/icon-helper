@@ -5,6 +5,7 @@ name: chrome
 zhTips: Chrome,浏览器
 tags: []
 pre: fab
+search: browser
 
 ---
 

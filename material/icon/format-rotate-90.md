@@ -4,6 +4,7 @@ title: format rotate 90(格式旋转90) ICON转svg、png下载
 name: format-rotate-90
 zhTips: 格式旋转90,逆时针旋转90度
 tags: ["text-content-format"]
+search: rotate-90-degrees-ccw,format-rotate-ninety
 
 ---
 

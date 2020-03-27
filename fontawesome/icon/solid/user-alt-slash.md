@@ -5,6 +5,7 @@ name: user-alt-slash
 zhTips: 备用用户斜杠,帐户,头像,头,人,个人资料
 tags: ["status","users-people"]
 pre: fas
+search: account,avatar,head,human,man,person,profile
 
 ---
 

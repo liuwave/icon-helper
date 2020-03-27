@@ -4,6 +4,7 @@ title: table clock(座钟) ICON转svg、png下载
 name: table-clock
 zhTips: 座钟
 tags: ["date-time"]
+search: 
 
 ---
 

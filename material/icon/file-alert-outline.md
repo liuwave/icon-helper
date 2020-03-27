@@ -4,6 +4,7 @@ title: file alert outline(文件警报轮廓) ICON转svg、png下载
 name: file-alert-outline
 zhTips: 文件警报轮廓,文件警告轮廓
 tags: ["files-folders","alert-error"]
+search: file-warning-outline
 
 ---
 

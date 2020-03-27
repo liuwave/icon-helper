@@ -4,6 +4,7 @@ title: pencil(铅笔) ICON转svg、png下载
 name: pencil
 zhTips: 铅笔,编辑,创建,编辑模式
 tags: ["drawing-art","edit-modify"]
+search: edit,create,mode-edit
 
 ---
 

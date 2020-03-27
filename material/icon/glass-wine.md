@@ -4,6 +4,7 @@ title: glass wine(玻璃酒) ICON转svg、png下载
 name: glass-wine
 zhTips: 玻璃酒,酒吧
 tags: ["food-drink"]
+search: bar
 
 ---
 

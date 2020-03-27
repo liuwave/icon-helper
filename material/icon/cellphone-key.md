@@ -4,6 +4,7 @@ title: cellphone key(手机钥匙) ICON转svg、png下载
 name: cellphone-key
 zhTips: 手机钥匙,智能手机钥匙
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone-key,smartphone-key
 
 ---
 

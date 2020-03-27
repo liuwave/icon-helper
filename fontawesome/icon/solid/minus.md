@@ -5,6 +5,7 @@ name: minus
 zhTips: 减号,崩溃,删除,隐藏,最小化,负数,垃圾箱
 tags: ["interfaces","mathematics","status"]
 pre: fas
+search: collapse,delete,hide,minify,negative,remove,trash
 
 ---
 

@@ -4,6 +4,7 @@ title: airplane(飞机) ICON转svg、png下载
 name: airplane
 zhTips: 飞机,主动飞机模式,飞行,当地机场,飞行模式
 tags: ["transportation-flying","navigation"]
+search: aeroplane,airplanemode-active,flight,local-airport,flight-mode,plane
 
 ---
 

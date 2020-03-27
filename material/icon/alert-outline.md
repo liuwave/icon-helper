@@ -4,6 +4,7 @@ title: alert outline(警报轮廓) ICON转svg、png下载
 name: alert-outline
 zhTips: 警报轮廓,警告轮廓
 tags: ["alert-error"]
+search: warning-outline
 
 ---
 

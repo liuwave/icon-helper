@@ -5,6 +5,7 @@ name: image
 zhTips: 图像,相册,风景,照片,图片
 tags: ["images","maps","objects","social"]
 pre: far
+search: album,landscape,photo,picture
 
 ---
 

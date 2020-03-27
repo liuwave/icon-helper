@@ -4,6 +4,7 @@ title: book plus(预订加号) ICON转svg、png下载
 name: book-plus
 zhTips: 预订加号
 tags: []
+search: book-add
 
 ---
 

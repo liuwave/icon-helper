@@ -5,6 +5,7 @@ name: file-video
 zhTips: 视频文件,文档,m4v,电影,mp4,播放
 tags: ["audio-video","files"]
 pre: far
+search: document,m4v,movie,mp4,play
 
 ---
 

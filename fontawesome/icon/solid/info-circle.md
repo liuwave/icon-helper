@@ -5,6 +5,7 @@ name: info-circle
 zhTips: 信息圈,详细信息,帮助,信息,更多,支持
 tags: ["interfaces","maps","status"]
 pre: fas
+search: details,help,information,more,support
 
 ---
 

@@ -4,6 +4,7 @@ title: arrow left bold hexagon outline(左箭头加粗六角形轮廓) ICON转sv
 name: arrow-left-bold-hexagon-outline
 zhTips: 左箭头加粗六角形轮廓
 tags: ["arrow"]
+search: 
 
 ---
 

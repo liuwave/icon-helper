@@ -4,6 +4,7 @@ title: map marker minus outline(地图标记减去轮廓) ICON转svg、png下载
 name: map-marker-minus-outline
 zhTips: 地图标记减去轮廓
 tags: ["geographic-information-system","navigation"]
+search: 
 
 ---
 

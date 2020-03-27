@@ -5,6 +5,7 @@ name: landmark
 zhTips: 地标,建筑,历史,值得纪念的,纪念碑,政治
 tags: ["buildings","business","finance","maps"]
 pre: fas
+search: building,historic,memorable,monument,politics
 
 ---
 

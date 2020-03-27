@@ -4,6 +4,7 @@ title: sort alphabetical ascending variant(按字母升序排列) ICON转svg、p
 name: sort-alphabetical-ascending-variant
 zhTips: 按字母升序排列
 tags: ["text-content-format"]
+search: 
 
 ---
 

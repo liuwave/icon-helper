@@ -4,6 +4,7 @@ title: file clock outline(文件时钟轮廓) ICON转svg、png下载
 name: file-clock-outline
 zhTips: 文件时钟轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

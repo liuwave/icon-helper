@@ -5,6 +5,7 @@ name: virus-slash
 zhTips: Virus Slash,bug,covid 19,治愈,消除,流感,健康,生病,病毒
 tags: ["medical"]
 pre: fas
+search: bug,covid-19,cure,eliminate,flu,health,sick,viral
 
 ---
 

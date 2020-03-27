@@ -5,6 +5,7 @@ name: search-dollar
 zhTips: 搜索美元,更大,放大,查找,钱,预览,缩放
 tags: ["marketing"]
 pre: fas
+search: bigger,enlarge,find,magnify,money,preview,zoom
 
 ---
 

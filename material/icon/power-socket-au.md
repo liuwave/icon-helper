@@ -4,6 +4,7 @@ title: power socket au(电源插座au) ICON转svg、png下载
 name: power-socket-au
 zhTips: 电源插座au,插头插座au,电源插座类型i,电源插座cn,电源插座ar,电源插座nz,电源插座pg,电源插座澳大利亚,电源插座中国,电源插座阿根廷,电源插座新西兰,电源插座巴布亚新几内亚
 tags: ["home-automation"]
+search: plug-socket-au,power-socket-type-i,power-socket-cn,power-socket-ar,power-socket-nz,power-socket-pg,power-socket-australia,power-socket-china,power-socket-argentina,power-socket-new-zealand,power-socket-papua-new-guinea
 
 ---
 

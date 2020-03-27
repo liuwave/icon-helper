@@ -4,6 +4,7 @@ title: wallet plus(皮夹加) ICON转svg、png下载
 name: wallet-plus
 zhTips: 皮夹加
 tags: ["banking"]
+search: wallet-add
 
 ---
 

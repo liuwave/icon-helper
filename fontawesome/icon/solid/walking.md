@@ -5,6 +5,7 @@ name: walking
 zhTips: 步行,运动,健康,计步器,人,步骤
 tags: ["fitness","users-people"]
 pre: fas
+search: exercise,health,pedometer,person,steps
 
 ---
 

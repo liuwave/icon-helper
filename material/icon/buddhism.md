@@ -4,6 +4,7 @@ title: buddhism(佛教) ICON转svg、png下载
 name: buddhism
 zhTips: 佛教,佛法,佛轮,佛教宗教
 tags: ["religion"]
+search: dharmachakra,dharma-wheel,religion-buddhist
 
 ---
 

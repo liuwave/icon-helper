@@ -5,6 +5,7 @@ name: faucet
 zhTips: 水龙头,covid 19,滴水,房子,卫生,厨房,水槽,水
 tags: ["camping","household"]
 pre: fas
+search: covid-19,drip,house,hygiene,kitchen,sink,water
 
 ---
 

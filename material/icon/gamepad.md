@@ -4,6 +4,7 @@ title: gamepad(游戏手柄) ICON转svg、png下载
 name: gamepad
 zhTips: 游戏手柄,游戏
 tags: ["home-automation","gaming-rpg"]
+search: games
 
 ---
 

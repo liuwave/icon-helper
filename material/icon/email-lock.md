@@ -4,6 +4,7 @@ title: email lock(电子邮件锁) ICON转svg、png下载
 name: email-lock
 zhTips: 电子邮件锁,信封安全,电子邮件安全,信封锁
 tags: ["lock"]
+search: envelope-secure,email-secure,envelope-lock
 
 ---
 

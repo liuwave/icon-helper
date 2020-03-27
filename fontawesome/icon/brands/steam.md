@@ -5,6 +5,7 @@ name: steam
 zhTips: 蒸汽
 tags: ["games"]
 pre: fab
+search: 
 
 ---
 

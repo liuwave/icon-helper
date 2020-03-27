@@ -4,6 +4,7 @@ title: hospital(瑞士十字医院) ICON转svg、png下载
 name: hospital
 zhTips: 瑞士十字医院
 tags: ["medical-hospital"]
+search: swiss-cross
 
 ---
 

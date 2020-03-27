@@ -4,6 +4,7 @@ title: lock alert(警报锁) ICON转svg、png下载
 name: lock-alert
 zhTips: 警报锁,警告锁
 tags: ["lock","alert-error"]
+search: lock-warning
 
 ---
 

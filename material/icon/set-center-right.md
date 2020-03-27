@@ -4,6 +4,7 @@ title: set center right(设置中心右) ICON转svg、png下载
 name: set-center-right
 zhTips: 设置中心右,外连接右,sql右外连接
 tags: []
+search: set-centre-right,outer-join-right,sql-right-outer-join
 
 ---
 

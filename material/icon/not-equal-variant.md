@@ -4,6 +4,7 @@ title: not equal variant(不相等) ICON转svg、png下载
 name: not-equal-variant
 zhTips: 不相等
 tags: ["math"]
+search: 
 
 ---
 

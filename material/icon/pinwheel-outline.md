@@ -4,6 +4,7 @@ title: pinwheel outline(风车轮廓) ICON转svg、png下载
 name: pinwheel-outline
 zhTips: 风车轮廓,玩具轮廓
 tags: []
+search: toys-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: stack exchange(堆栈交换) ICON转svg、png下载
 name: stack-exchange
 zhTips: 堆栈交换,stackexchange
 tags: ["brand-logo"]
+search: stackexchange
 
 ---
 

@@ -4,6 +4,7 @@ title: folder cog outline(文件夹齿轮轮廓) ICON转svg、png下载
 name: folder-cog-outline
 zhTips: 文件夹齿轮轮廓
 tags: ["settings","files-folders"]
+search: folder-cog-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: comment alert outline(评论警告轮廓) ICON转svg、png下载
 name: comment-alert-outline
 zhTips: 评论警告轮廓
 tags: ["alert-error"]
+search: comment-warning-outline
 
 ---
 

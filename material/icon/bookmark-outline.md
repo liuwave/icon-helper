@@ -4,6 +4,7 @@ title: bookmark outline(书签轮廓) ICON转svg、png下载
 name: bookmark-outline
 zhTips: 书签轮廓,书签边框,未打开
 tags: []
+search: bookmark-border,turned-in-not
 
 ---
 

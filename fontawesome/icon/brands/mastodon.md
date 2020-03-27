@@ -5,6 +5,7 @@ name: mastodon
 zhTips: 马斯托登
 tags: []
 pre: fab
+search: 
 
 ---
 

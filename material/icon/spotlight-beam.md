@@ -4,6 +4,7 @@ title: spotlight beam(光束射灯) ICON转svg、png下载
 name: spotlight-beam
 zhTips: 光束射灯
 tags: ["home-automation"]
+search: 
 
 ---
 

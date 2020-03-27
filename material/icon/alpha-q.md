@@ -4,6 +4,7 @@ title: alpha q(alpha q) ICON转svg、png下载
 name: alpha-q
 zhTips: alpha q,字母q
 tags: ["alpha-numeric"]
+search: alphabet-q,letter-q
 
 ---
 

@@ -5,6 +5,7 @@ name: thermometer-full
 zhTips: 温度计充满,发烧,热,汞,状态,温度
 tags: ["status"]
 pre: fas
+search: fever,hot,mercury,status,temperature
 
 ---
 

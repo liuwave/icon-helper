@@ -4,6 +4,7 @@ title: border none(边框无) ICON转svg、png下载
 name: border-none
 zhTips: 边框无,边框清晰
 tags: ["text-content-format"]
+search: border-clear
 
 ---
 

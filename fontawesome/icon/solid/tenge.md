@@ -5,6 +5,7 @@ name: tenge
 zhTips: Tenge,货币,哈萨克斯坦,价格
 tags: ["currency"]
 pre: fas
+search: currency,kazakhstan,money,price
 
 ---
 

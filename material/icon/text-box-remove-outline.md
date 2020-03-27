@@ -4,6 +4,7 @@ title: text box remove outline(文本框删除轮廓) ICON转svg、png下载
 name: text-box-remove-outline
 zhTips: 文本框删除轮廓,文件文档框删除轮廓
 tags: ["files-folders"]
+search: file-document-box-remove-outline
 
 ---
 

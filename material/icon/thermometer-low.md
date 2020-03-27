@@ -4,6 +4,7 @@ title: thermometer low(温度计低) ICON转svg、png下载
 name: thermometer-low
 zhTips: 温度计低
 tags: ["home-automation"]
+search: 
 
 ---
 

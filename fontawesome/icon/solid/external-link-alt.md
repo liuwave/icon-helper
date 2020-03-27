@@ -5,6 +5,7 @@ name: external-link-alt
 zhTips: 备用外部链接,外部链接,新的,打开的,共享的
 tags: ["arrows","interfaces"]
 pre: fas
+search: external-link,new,open,share
 
 ---
 

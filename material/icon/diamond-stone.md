@@ -4,6 +4,7 @@ title: diamond stone(钻石) ICON转svg、png下载
 name: diamond-stone
 zhTips: 钻石,珠宝
 tags: []
+search: jewel
 
 ---
 

@@ -4,6 +4,7 @@ title: phone outline(电话轮廓) ICON转svg、png下载
 name: phone-outline
 zhTips: 电话轮廓
 tags: ["cellphone-phone"]
+search: telephone-outline,call-outline
 
 ---
 

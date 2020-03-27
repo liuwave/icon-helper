@@ -5,6 +5,7 @@ name: train
 zhTips: 火车,子弹头,通勤,机车,铁路,地铁
 tags: ["maps","objects","vehicles"]
 pre: fas
+search: bullet,commute,locomotive,railway,subway
 
 ---
 

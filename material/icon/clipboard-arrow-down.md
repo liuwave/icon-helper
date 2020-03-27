@@ -4,6 +4,7 @@ title: clipboard arrow down(剪贴板箭头向下) ICON转svg、png下载
 name: clipboard-arrow-down
 zhTips: 剪贴板箭头向下,分配返回,剪贴板箭头底部
 tags: []
+search: assignment-returned,clipboard-arrow-bottom
 
 ---
 

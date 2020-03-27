@@ -4,6 +4,7 @@ title: weather partly cloudy(多云转阴) ICON转svg、png下载
 name: weather-partly-cloudy
 zhTips: 多云转阴
 tags: ["weather","cloud"]
+search: weather-partlycloudy
 
 ---
 

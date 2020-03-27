@@ -4,6 +4,7 @@ title: arrow right bold box(右箭头加粗框) ICON转svg、png下载
 name: arrow-right-bold-box
 zhTips: 右箭头加粗框
 tags: ["arrow"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: text to speech(文字转语音) ICON转svg、png下载
 name: text-to-speech
 zhTips: 文字转语音,tts,麦克风信息
 tags: []
+search: tts,microphone-message
 
 ---
 

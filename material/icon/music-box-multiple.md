@@ -4,6 +4,7 @@ title: music box multiple(音乐盒复数) ICON转svg、png下载
 name: music-box-multiple
 zhTips: 音乐盒复数,音乐库
 tags: ["music"]
+search: library-music
 
 ---
 

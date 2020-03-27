@@ -5,6 +5,7 @@ name: audio-description
 zhTips: 音频描述,盲目,旁白,视频,视觉
 tags: ["accessibility","audio-video"]
 pre: fas
+search: blind,narration,video,visual
 
 ---
 

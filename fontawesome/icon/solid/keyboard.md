@@ -5,6 +5,7 @@ name: keyboard
 zhTips: 键盘,附件,编辑,输入,文本,类型,写
 tags: ["code","computers","objects","writing"]
 pre: fas
+search: accessory,edit,input,text,type,write
 
 ---
 

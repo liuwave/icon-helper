@@ -4,6 +4,7 @@ title: seat legroom extra(腿部额外座位) ICON转svg、png下载
 name: seat-legroom-extra
 zhTips: 腿部额外座位,航空公司腿部额外座位
 tags: []
+search: airline-seat-legroom-extra
 
 ---
 

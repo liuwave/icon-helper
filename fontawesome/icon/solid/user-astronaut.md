@@ -5,6 +5,7 @@ name: user-astronaut
 zhTips: 用户宇航员,化身,服装,宇航员,美国国家航空航天局,太空服
 tags: ["science-fiction","users-people"]
 pre: fas
+search: avatar,clothing,cosmonaut,nasa,space,suit
 
 ---
 

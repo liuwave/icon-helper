@@ -4,6 +4,7 @@ title: alpha o(alpha o) ICON转svg、png下载
 name: alpha-o
 zhTips: alpha o,字母o
 tags: ["alpha-numeric"]
+search: alphabet-o,letter-o
 
 ---
 

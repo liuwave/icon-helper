@@ -4,6 +4,7 @@ title: checkbox multiple blank circle(复选框多个空白圆圈) ICON转svg、
 name: checkbox-multiple-blank-circle
 zhTips: 复选框多个空白圆圈,复选框空白圆圈
 tags: ["form"]
+search: checkboxes-blank-circle
 
 ---
 

@@ -5,6 +5,7 @@ name: truck
 zhTips: 卡车,货物,交付,运输,车辆
 tags: ["automotive","logistics","maps","objects","shopping","vehicles"]
 pre: fas
+search: cargo,delivery,shipping,vehicle
 
 ---
 

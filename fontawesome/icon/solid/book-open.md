@@ -5,6 +5,7 @@ name: book-open
 zhTips: 打开书本,传单,图书馆,笔记本,本打开的书,小册子,阅读
 tags: ["education"]
 pre: fas
+search: flyer,library,notebook,open book,pamphlet,reading
 
 ---
 

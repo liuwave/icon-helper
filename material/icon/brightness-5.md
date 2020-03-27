@@ -4,6 +4,7 @@ title: brightness 5(亮度5) ICON转svg、png下载
 name: brightness-5
 zhTips: 亮度5,亮度低
 tags: []
+search: brightness-low
 
 ---
 

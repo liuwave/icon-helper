@@ -5,6 +5,7 @@ name: hamburger
 zhTips: 汉堡包,培根,牛肉,汉堡,汉堡王,芝士汉堡,快餐,烧烤,碎牛肉,麦当劳,三明治
 tags: ["food"]
 pre: fas
+search: bacon,beef,burger,burger king,cheeseburger,fast food,grill,ground beef,mcdonalds,sandwich
 
 ---
 

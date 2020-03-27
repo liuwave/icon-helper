@@ -4,6 +4,7 @@ title: bag personal off outline(个人提包轮廓) ICON转svg、png下载
 name: bag-personal-off-outline
 zhTips: 个人提包轮廓,背包提轮廓
 tags: ["transportation-flying"]
+search: backpack-off-outline
 
 ---
 

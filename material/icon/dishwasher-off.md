@@ -4,6 +4,7 @@ title: dishwasher off(关闭洗碗机) ICON转svg、png下载
 name: dishwasher-off
 zhTips: 关闭洗碗机
 tags: ["home-automation"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: tray minus(托盘减号) ICON转svg、png下载
 name: tray-minus
 zhTips: 托盘减号,队列,打印机,收件箱
 tags: []
+search: queue,printer,inbox
 
 ---
 

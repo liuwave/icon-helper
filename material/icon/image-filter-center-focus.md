@@ -4,6 +4,7 @@ title: image filter center focus(图像滤镜中心焦点) ICON转svg、png下�
 name: image-filter-center-focus
 zhTips: 图像滤镜中心焦点
 tags: ["photography"]
+search: image-filter-centre-focus
 
 ---
 

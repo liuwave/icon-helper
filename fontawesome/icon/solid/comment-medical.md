@@ -5,6 +5,7 @@ name: comment-medical
 zhTips: 备用医疗聊天,建议,泡沫,聊天,评论,对话,诊断,反馈,消息,请注意,通知,处方,短信,语音,发短信
 tags: ["chat","medical"]
 pre: fas
+search: advice,bubble,chat,commenting,conversation,diagnose,feedback,message,note,notification,prescription,sms,speech,texting
 
 ---
 

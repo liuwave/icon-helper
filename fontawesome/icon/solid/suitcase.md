@@ -5,6 +5,7 @@ name: suitcase
 zhTips: 旅行箱,行李,移动,手提箱,旅行
 tags: ["hotel","maps","moving","objects","travel"]
 pre: fas
+search: baggage,luggage,move,suitcase,travel,trip
 
 ---
 

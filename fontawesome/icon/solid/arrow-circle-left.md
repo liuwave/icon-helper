@@ -5,6 +5,7 @@ name: arrow-circle-left
 zhTips: 箭头圈左,上
 tags: ["arrows"]
 pre: fas
+search: back,previous
 
 ---
 

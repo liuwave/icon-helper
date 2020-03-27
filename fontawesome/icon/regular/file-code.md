@@ -5,6 +5,7 @@ name: file-code
 zhTips: 代码文件,css,开发,文档,html
 tags: ["code","files"]
 pre: far
+search: css,development,document,html
 
 ---
 

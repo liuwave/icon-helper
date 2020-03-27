@@ -4,6 +4,7 @@ title: power socket eu(电源插座欧盟) ICON转svg、png下载
 name: power-socket-eu
 zhTips: 电源插座欧盟,插头插座欧盟,欧洲电源插座
 tags: ["home-automation"]
+search: plug-socket-eu,power-socket-europe
 
 ---
 

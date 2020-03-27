@@ -4,6 +4,7 @@ title: folder star outline(星形轮廓文件夹) ICON转svg、png下载
 name: folder-star-outline
 zhTips: 星形轮廓文件夹,特殊轮廓文件夹
 tags: ["files-folders"]
+search: folder-special-outline
 
 ---
 

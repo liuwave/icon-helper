@@ -4,6 +4,7 @@ title: file table(文件表) ICON转svg、png下载
 name: file-table
 zhTips: 文件表
 tags: ["files-folders"]
+search: 
 
 ---
 

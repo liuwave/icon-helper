@@ -4,6 +4,7 @@ title: bank outline(银行轮廓) ICON转svg、png下载
 name: bank-outline
 zhTips: 银行轮廓,博物馆轮廓
 tags: ["banking"]
+search: museum-outline
 
 ---
 

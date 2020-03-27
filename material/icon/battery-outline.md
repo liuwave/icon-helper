@@ -4,6 +4,7 @@ title: battery outline(电池外形) ICON转svg、png下载
 name: battery-outline
 zhTips: 电池外形,电池0,电池已空
 tags: ["battery","home-automation","automotive"]
+search: battery-0,battery-empty
 
 ---
 

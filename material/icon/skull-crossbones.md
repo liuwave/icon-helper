@@ -4,6 +4,7 @@ title: skull crossbones(骷髅骷髅) ICON转svg、png下载
 name: skull-crossbones
 zhTips: 骷髅骷髅,海盗旗
 tags: ["gaming-rpg","holiday"]
+search: jolly-roger
 
 ---
 

@@ -5,6 +5,7 @@ name: sign-out-alt
 zhTips: 备用注销,箭头,退出,离开,注销
 tags: ["arrows","interfaces","status"]
 pre: fas
+search: arrow,exit,leave,log out,logout,sign-out
 
 ---
 

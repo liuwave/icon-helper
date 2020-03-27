@@ -4,6 +4,7 @@ title: arrow split horizontal(箭头水平分割) ICON转svg、png下载
 name: arrow-split-horizontal
 zhTips: 箭头水平分割,垂直调整大小,调整大小
 tags: ["arrow"]
+search: resize-vertical,resize
 
 ---
 

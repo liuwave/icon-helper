@@ -5,6 +5,7 @@ name: pencil-ruler
 zhTips: 铅笔尺,设计,起草,绘制,铅笔
 tags: ["construction","design"]
 pre: fas
+search: design,draft,draw,pencil
 
 ---
 

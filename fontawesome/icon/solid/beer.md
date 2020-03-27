@@ -5,6 +5,7 @@ name: beer
 zhTips: 啤酒,酒精,酒吧,饮料,啤酒厂,酒,杯子,斯坦
 tags: ["beverage","interfaces","maps","objects"]
 pre: fas
+search: alcohol,ale,bar,beverage,brewery,drink,lager,liquor,mug,stein
 
 ---
 

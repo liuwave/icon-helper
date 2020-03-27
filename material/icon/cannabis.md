@@ -4,6 +4,7 @@ title: cannabis(大麻) ICON转svg、png下载
 name: cannabis
 zhTips: 大麻,杂草,锅
 tags: ["nature","medical-hospital"]
+search: weed,pot,marijuana
 
 ---
 

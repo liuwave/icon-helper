@@ -5,6 +5,7 @@ name: smoking-ban
 zhTips: 禁止吸烟,禁止,取消
 tags: ["hotel","medical","status"]
 pre: fas
+search: ban,cancel,no smoking,non-smoking
 
 ---
 

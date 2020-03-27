@@ -4,6 +4,7 @@ title: message outline(消息轮廓) ICON转svg、png下载
 name: message-outline
 zhTips: 消息轮廓,聊天气泡轮廓
 tags: []
+search: chat-bubble-outline
 
 ---
 

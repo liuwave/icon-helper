@@ -4,6 +4,7 @@ title: cog transfer(齿轮传输) ICON转svg、png下载
 name: cog-transfer
 zhTips: 齿轮传输,传输设置
 tags: ["settings"]
+search: settings-transfer
 
 ---
 

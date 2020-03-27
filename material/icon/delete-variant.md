@@ -4,6 +4,7 @@ title: delete variant(删除口音) ICON转svg、png下载
 name: delete-variant
 zhTips: 删除口音,垃圾口音,口音容器
 tags: []
+search: trash-variant,bin-variant
 
 ---
 

@@ -4,6 +4,7 @@ title: bed outline(床轮廓) ICON转svg、png下载
 name: bed-outline
 zhTips: 床轮廓,酒店轮廓
 tags: []
+search: hotel-outline
 
 ---
 

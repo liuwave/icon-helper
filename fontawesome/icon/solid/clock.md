@@ -5,6 +5,7 @@ name: clock
 zhTips: 时钟,日期,时间,时间表,计时器,时间戳,手表
 tags: ["date-time"]
 pre: fas
+search: date,late,schedule,time,timer,timestamp,watch
 
 ---
 

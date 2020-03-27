@@ -4,6 +4,7 @@ title: details(详细信息) ICON转svg、png下载
 name: details
 zhTips: 详细信息
 tags: []
+search: 
 
 ---
 

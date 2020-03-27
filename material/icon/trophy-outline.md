@@ -4,6 +4,7 @@ title: trophy outline(奖杯轮廓) ICON转svg、png下载
 name: trophy-outline
 zhTips: 奖杯轮廓,成就轮廓
 tags: ["sport"]
+search: achievement-outline
 
 ---
 

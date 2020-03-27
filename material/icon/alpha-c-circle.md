@@ -4,6 +4,7 @@ title: alpha c circle(字母c圈) ICON转svg、png下载
 name: alpha-c-circle
 zhTips: 字母c圈
 tags: ["alpha-numeric"]
+search: alphabet-c-circle,letter-c-circle
 
 ---
 

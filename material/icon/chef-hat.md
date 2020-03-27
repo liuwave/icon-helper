@@ -4,6 +4,7 @@ title: chef hat(厨师帽) ICON转svg、png下载
 name: chef-hat
 zhTips: 厨师帽,无边帽,厨师
 tags: ["clothing"]
+search: toque,cook
 
 ---
 

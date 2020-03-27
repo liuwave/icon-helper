@@ -5,6 +5,7 @@ name: sleigh
 zhTips: 雪橇,圣诞节,克劳斯,飞,假日,圣诞老人,雪
 tags: ["holiday","objects","vehicles"]
 pre: fas
+search: christmas,claus,fly,holiday,santa,sled,snow,xmas
 
 ---
 

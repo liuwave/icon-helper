@@ -4,6 +4,7 @@ title: bell minus(钟减号) ICON转svg、png下载
 name: bell-minus
 zhTips: 钟减号
 tags: ["notification"]
+search: 
 
 ---
 

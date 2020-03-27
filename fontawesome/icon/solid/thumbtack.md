@@ -5,6 +5,7 @@ name: thumbtack
 zhTips: 图钉,坐标,位置,标记,大头钉
 tags: ["business","maps","objects","social","writing"]
 pre: fas
+search: coordinates,location,marker,pin,thumb-tack
 
 ---
 

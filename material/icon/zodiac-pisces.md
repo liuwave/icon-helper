@@ -4,6 +4,7 @@ title: zodiac pisces(双鱼座) ICON转svg、png下载
 name: zodiac-pisces
 zhTips: 双鱼座,星座双鱼座
 tags: []
+search: horoscope-pisces
 
 ---
 

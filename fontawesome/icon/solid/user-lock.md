@@ -5,6 +5,7 @@ name: user-lock
 zhTips: 用户锁定,管理员,锁定,人,私人,解锁
 tags: ["security","users-people"]
 pre: fas
+search: admin,lock,person,private,unlock
 
 ---
 

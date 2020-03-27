@@ -4,6 +4,7 @@ title: store(商店) ICON转svg、png下载
 name: store
 zhTips: 商店,商店购物中心目录
 tags: ["places","shopping"]
+search: shop,store-mall-directory
 
 ---
 

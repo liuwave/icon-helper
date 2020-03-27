@@ -4,6 +4,7 @@ title: account search(帐户搜索) ICON转svg、png下载
 name: account-search
 zhTips: 帐户搜索,用户搜索,人员搜索
 tags: ["account-user"]
+search: user-search,person-search
 
 ---
 

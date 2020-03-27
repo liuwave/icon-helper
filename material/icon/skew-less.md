@@ -4,6 +4,7 @@ title: skew less(较少偏斜) ICON转svg、png下载
 name: skew-less
 zhTips: 较少偏斜,偏斜减少
 tags: ["math"]
+search: skew-decrease
 
 ---
 

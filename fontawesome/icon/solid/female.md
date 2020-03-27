@@ -5,6 +5,7 @@ name: female
 zhTips: 女性,人类,人物,个人资料,用户
 tags: ["users-people"]
 pre: fas
+search: human,person,profile,user,woman
 
 ---
 

@@ -5,6 +5,7 @@ name: chess-bishop
 zhTips: 国际象棋主教,棋盘,将死,游戏,策略
 tags: ["chess","games"]
 pre: fas
+search: board,checkmate,game,strategy
 
 ---
 

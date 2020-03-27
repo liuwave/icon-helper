@@ -4,6 +4,7 @@ title: lightbulb group outline(灯泡组轮廓) ICON转svg、png下载
 name: lightbulb-group-outline
 zhTips: 灯泡组轮廓
 tags: ["home-automation"]
+search: bulb-group-outline
 
 ---
 

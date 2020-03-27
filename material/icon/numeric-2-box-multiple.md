@@ -4,6 +4,7 @@ title: numeric 2 box multiple(数字2框倍数) ICON转svg、png下载
 name: numeric-2-box-multiple
 zhTips: 数字2框倍数
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

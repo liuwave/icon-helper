@@ -4,6 +4,7 @@ title: dice 3(骰子3) ICON转svg、png下载
 name: dice-3
 zhTips: 骰子3
 tags: ["gaming-rpg"]
+search: die-3,dice-three
 
 ---
 

@@ -4,6 +4,7 @@ title: seal variant(密封口音) ICON转svg、png下载
 name: seal-variant
 zhTips: 密封口音,丝带,奖品,奖状
 tags: []
+search: ribbon,prize,award
 
 ---
 

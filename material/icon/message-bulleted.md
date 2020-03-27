@@ -4,6 +4,7 @@ title: message bulleted(消息项目符号) ICON转svg、png下载
 name: message-bulleted
 zhTips: 消息项目符号,演讲者备注
 tags: []
+search: speaker-notes
 
 ---
 

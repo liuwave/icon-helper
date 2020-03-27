@@ -5,6 +5,7 @@ name: fire-extinguisher
 zhTips: 灭火器,烧伤,口径,消防员,火焰,热,救援
 tags: ["code","maps","objects"]
 pre: fas
+search: burn,caliente,fire fighter,flame,heat,hot,rescue
 
 ---
 

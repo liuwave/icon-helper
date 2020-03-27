@@ -4,6 +4,7 @@ title: paper roll outline(纸卷轮廓) ICON转svg、png下载
 name: paper-roll-outline
 zhTips: 纸卷轮廓,洗手间卷轮廓,浴室纸巾轮廓,厨房纸卷轮廓,纸巾轮廓,卫生纸轮廓,收据卷轮廓
 tags: ["home-automation","printer"]
+search: lavatory-roll-outline,bathroom-tissue-outline,kitchen-roll-outline,paper-towels-outline,toilet-paper-outline,receipt-roll-outline
 
 ---
 

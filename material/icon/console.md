@@ -4,6 +4,7 @@ title: console(控制台) ICON转svg、png下载
 name: console
 zhTips: 控制台,终端
 tags: []
+search: terminal
 
 ---
 

@@ -5,6 +5,7 @@ name: pause
 zhTips: 暂停,按住,等待
 tags: ["audio-video"]
 pre: fas
+search: hold,wait
 
 ---
 

@@ -4,6 +4,7 @@ title: arrow collapse all(箭头全部折叠) ICON转svg、png下载
 name: arrow-collapse-all
 zhTips: 箭头全部折叠,箭头全部压缩
 tags: ["arrow"]
+search: arrow-compress-all
 
 ---
 

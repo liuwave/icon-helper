@@ -5,6 +5,7 @@ name: heartbeat
 zhTips: 心跳,心电图,健康,生命线,生命体征
 tags: ["fitness","health","maps","medical"]
 pre: fas
+search: ekg,electrocardiogram,health,lifeline,vital signs
 
 ---
 

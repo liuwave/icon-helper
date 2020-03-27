@@ -5,6 +5,7 @@ name: crow
 zhTips: 乌鸦,鸟,牛蛙,动物区系,万圣节,假日,蟾蜍
 tags: ["animals","halloween"]
 pre: fas
+search: bird,bullfrog,fauna,halloween,holiday,toad
 
 ---
 

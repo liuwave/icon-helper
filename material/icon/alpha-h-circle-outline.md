@@ -4,6 +4,7 @@ title: alpha h circle outline(字母h圆圈轮廓) ICON转svg、png下载
 name: alpha-h-circle-outline
 zhTips: 字母h圆圈轮廓,停机坪
 tags: ["alpha-numeric"]
+search: alphabet-h-circle-outline,letter-h-circle-outline,helipad
 
 ---
 

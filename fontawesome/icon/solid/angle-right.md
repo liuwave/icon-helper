@@ -5,6 +5,7 @@ name: angle-right
 zhTips: 右转角,箭头,护理,向前,更多,下一个
 tags: ["arrows"]
 pre: fas
+search: arrow,care,forward,more,next
 
 ---
 

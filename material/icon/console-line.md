@@ -4,6 +4,7 @@ title: console line(控制台线) ICON转svg、png下载
 name: console-line
 zhTips: 控制台线,终端线
 tags: []
+search: terminal-line
 
 ---
 

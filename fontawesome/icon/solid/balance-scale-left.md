@@ -5,6 +5,7 @@ name: balance-scale-left
 zhTips: 平衡秤（左加权）,司法,法律,措施,不平衡,重量
 tags: ["business","finance","maps","objects","political"]
 pre: fas
+search: justice,legal,measure,unbalanced,weight
 
 ---
 

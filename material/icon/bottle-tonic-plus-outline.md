@@ -4,6 +4,7 @@ title: bottle tonic plus outline(瓶补品加轮廓) ICON转svg、png下载
 name: bottle-tonic-plus-outline
 zhTips: 瓶补品加轮廓,健康药水轮廓
 tags: ["gaming-rpg"]
+search: health-potion-outline
 
 ---
 

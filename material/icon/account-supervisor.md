@@ -4,6 +4,7 @@ title: account supervisor(客户主管) ICON转svg、png下载
 name: account-supervisor
 zhTips: 客户主管,用户主管,人事主管
 tags: ["account-user"]
+search: user-supervisor,person-supervisor
 
 ---
 

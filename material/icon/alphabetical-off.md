@@ -4,6 +4,7 @@ title: alphabetical off(按字母顺序关闭) ICON转svg、png下载
 name: alphabetical-off
 zhTips: 按字母顺序关闭
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: chart histogram(直方图) ICON转svg、png下载
 name: chart-histogram
 zhTips: 直方图
 tags: ["math","math"]
+search: 
 
 ---
 

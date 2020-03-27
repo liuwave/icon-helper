@@ -4,6 +4,7 @@ title: floor lamp dual(落地灯双) ICON转svg、png下载
 name: floor-lamp-dual
 zhTips: 落地灯双
 tags: ["home-automation"]
+search: floor-light-dual
 
 ---
 

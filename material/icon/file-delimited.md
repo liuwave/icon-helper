@@ -4,6 +4,7 @@ title: file delimited(文件定界) ICON转svg、png下载
 name: file-delimited
 zhTips: 文件定界,文件csv
 tags: ["files-folders"]
+search: file-csv
 
 ---
 

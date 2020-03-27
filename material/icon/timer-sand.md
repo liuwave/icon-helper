@@ -4,6 +4,7 @@ title: timer sand(沙漏计时器) ICON转svg、png下载
 name: timer-sand
 zhTips: 沙漏计时器,沙漏
 tags: ["date-time"]
+search: hourglass
 
 ---
 

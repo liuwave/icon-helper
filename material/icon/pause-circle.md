@@ -4,6 +4,7 @@ title: pause circle(暂停圈) ICON转svg、png下载
 name: pause-circle
 zhTips: 暂停圈,已填充暂停圈
 tags: []
+search: pause-circle-filled
 
 ---
 

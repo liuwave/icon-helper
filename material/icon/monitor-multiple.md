@@ -4,6 +4,7 @@ title: monitor multiple(多台监视器) ICON转svg、png下载
 name: monitor-multiple
 zhTips: 多台监视器
 tags: ["device-tech"]
+search: monitors
 
 ---
 

@@ -4,6 +4,7 @@ title: file clock(文件时钟) ICON转svg、png下载
 name: file-clock
 zhTips: 文件时钟
 tags: ["files-folders"]
+search: 
 
 ---
 

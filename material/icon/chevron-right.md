@@ -4,6 +4,7 @@ title: chevron right(V形向右) ICON转svg、png下载
 name: chevron-right
 zhTips: V形向右,键盘向右箭头,下一步导航
 tags: ["arrow"]
+search: keyboard-arrow-right,navigate-next
 
 ---
 

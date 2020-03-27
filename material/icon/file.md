@@ -4,6 +4,7 @@ title: file(文件) ICON转svg、png下载
 name: file
 zhTips: 文件,插入驱动器文件,草稿,纸张
 tags: ["files-folders"]
+search: insert-drive-file,draft,paper
 
 ---
 

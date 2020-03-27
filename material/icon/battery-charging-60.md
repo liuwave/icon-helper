@@ -4,6 +4,7 @@ title: battery charging 60(电池充电60) ICON转svg、png下载
 name: battery-charging-60
 zhTips: 电池充电60
 tags: ["battery","home-automation","automotive"]
+search: 
 
 ---
 

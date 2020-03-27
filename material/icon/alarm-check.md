@@ -4,6 +4,7 @@ title: alarm check(警报检查) ICON转svg、png下载
 name: alarm-check
 zhTips: 警报检查,警报开启,警报滴答,闹钟检查,闹钟滴答
 tags: []
+search: alarm-on,alarm-tick,alarm-clock-check,alarm-clock-tick
 
 ---
 

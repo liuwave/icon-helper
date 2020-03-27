@@ -4,6 +4,7 @@ title: swap horizontal(交换水平) ICON转svg、png下载
 name: swap-horizontal
 zhTips: 交换水平,向左箭头向右
 tags: ["arrow"]
+search: arrow-left-right
 
 ---
 

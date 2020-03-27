@@ -4,6 +4,7 @@ title: border horizontal(水平边框) ICON转svg、png下载
 name: border-horizontal
 zhTips: 水平边框
 tags: ["text-content-format"]
+search: 
 
 ---
 

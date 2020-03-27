@@ -5,6 +5,7 @@ name: filter
 zhTips: 过滤器,渠道,选项,单独,排序
 tags: ["code","interfaces","science"]
 pre: fas
+search: funnel,options,separate,sort
 
 ---
 

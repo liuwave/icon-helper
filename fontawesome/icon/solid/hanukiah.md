@@ -5,6 +5,7 @@ name: hanukiah
 zhTips: Hanukiah,蜡烛,光明节,犹太人,犹太教,轻
 tags: ["religion"]
 pre: fas
+search: candle,hanukkah,jewish,judaism,light
 
 ---
 

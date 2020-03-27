@@ -4,6 +4,7 @@ title: frequently asked questions(常见问题解答) ICON转svg、png下载
 name: frequently-asked-questions
 zhTips: 常见问题解答
 tags: []
+search: faq
 
 ---
 

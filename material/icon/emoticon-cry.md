@@ -4,6 +4,7 @@ title: emoticon cry(图释哭泣) ICON转svg、png下载
 name: emoticon-cry
 zhTips: 图释哭泣,笑脸哭泣
 tags: ["emoji"]
+search: smiley-cry
 
 ---
 

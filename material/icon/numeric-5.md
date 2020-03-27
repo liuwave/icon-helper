@@ -4,6 +4,7 @@ title: numeric 5(数字5) ICON转svg、png下载
 name: numeric-5
 zhTips: 数字5
 tags: ["alpha-numeric"]
+search: number-5,numeric-five
 
 ---
 

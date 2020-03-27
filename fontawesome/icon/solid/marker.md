@@ -5,6 +5,7 @@ name: marker
 zhTips: 标记,设计,编辑,夏普,更新,编写
 tags: ["business","design","editors","interfaces","objects"]
 pre: fas
+search: design,edit,sharpie,update,write
 
 ---
 

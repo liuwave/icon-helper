@@ -4,6 +4,7 @@ title: gate xnor(门xnor) ICON转svg、png下载
 name: gate-xnor
 zhTips: 门xnor,逻辑门xnor
 tags: []
+search: logic-gate-xnor
 
 ---
 

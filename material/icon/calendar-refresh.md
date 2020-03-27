@@ -4,6 +4,7 @@ title: calendar refresh(日历刷新) ICON转svg、png下载
 name: calendar-refresh
 zhTips: 日历刷新,日历重复
 tags: ["date-time"]
+search: calendar-repeat
 
 ---
 

@@ -4,6 +4,7 @@ title: transit transfer(过境转移) ICON转svg、png下载
 name: transit-transfer
 zhTips: 过境转移,车站内转移
 tags: ["transportation-other","navigation"]
+search: transfer-within-a-station
 
 ---
 

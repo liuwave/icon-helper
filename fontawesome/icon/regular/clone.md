@@ -5,6 +5,7 @@ name: clone
 zhTips: 克隆,排列,复制,重复,粘贴
 tags: ["design","editors","files","images","interfaces"]
 pre: far
+search: arrange,copy,duplicate,paste
 
 ---
 

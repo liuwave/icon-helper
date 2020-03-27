@@ -4,6 +4,7 @@ title: chili medium(辣椒中) ICON转svg、png下载
 name: chili-medium
 zhTips: 辣椒中,胡椒,辛辣
 tags: ["food-drink"]
+search: chilli-medium,pepper,spicy
 
 ---
 

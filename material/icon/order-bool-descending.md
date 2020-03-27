@@ -4,6 +4,7 @@ title: order bool descending(订单布尔降序) ICON转svg、png下载
 name: order-bool-descending
 zhTips: 订单布尔降序,订单复选框降序
 tags: ["text-content-format"]
+search: order-checkbox-descending
 
 ---
 

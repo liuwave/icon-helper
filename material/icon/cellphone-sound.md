@@ -4,6 +4,7 @@ title: cellphone sound(手机声音) ICON转svg、png下载
 name: cellphone-sound
 zhTips: 手机声音,phonelink铃声,智能手机声音
 tags: ["cellphone-phone","device-tech"]
+search: phonelink-ring,mobile-phone-sound,smartphone-sound
 
 ---
 

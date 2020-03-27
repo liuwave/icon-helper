@@ -4,6 +4,7 @@ title: image filter hdr(图像过滤器hdr) ICON转svg、png下载
 name: image-filter-hdr
 zhTips: 图像过滤器hdr,山脉,风景
 tags: ["photography","nature"]
+search: mountain,landscape
 
 ---
 

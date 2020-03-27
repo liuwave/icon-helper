@@ -4,6 +4,7 @@ title: map check(地图检查) ICON转svg、png下载
 name: map-check
 zhTips: 地图检查,刻度图
 tags: ["navigation","geographic-information-system"]
+search: map-tick
 
 ---
 

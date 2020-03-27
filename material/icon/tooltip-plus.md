@@ -4,6 +4,7 @@ title: tooltip plus(工具提示加) ICON转svg、png下载
 name: tooltip-plus
 zhTips: 工具提示加
 tags: ["tooltip"]
+search: tooltip-add
 
 ---
 

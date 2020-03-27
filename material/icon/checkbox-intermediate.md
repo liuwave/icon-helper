@@ -4,6 +4,7 @@ title: checkbox intermediate(中间复选框) ICON转svg、png下载
 name: checkbox-intermediate
 zhTips: 中间复选框
 tags: ["form"]
+search: 
 
 ---
 

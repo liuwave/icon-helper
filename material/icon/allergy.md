@@ -4,6 +4,7 @@ title: allergy(过敏) ICON转svg、png下载
 name: allergy
 zhTips: 过敏,手,皮疹,细菌
 tags: []
+search: hand,rash,germ
 
 ---
 

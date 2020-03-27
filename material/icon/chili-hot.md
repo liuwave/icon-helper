@@ -4,6 +4,7 @@ title: chili hot(辣椒热) ICON转svg、png下载
 name: chili-hot
 zhTips: 辣椒热,胡椒粉,辛辣
 tags: ["food-drink"]
+search: chilli-hot,pepper,spicy
 
 ---
 

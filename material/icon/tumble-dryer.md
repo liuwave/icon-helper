@@ -4,6 +4,7 @@ title: tumble dryer(烘干机) ICON转svg、png下载
 name: tumble-dryer
 zhTips: 烘干机
 tags: ["home-automation"]
+search: 
 
 ---
 

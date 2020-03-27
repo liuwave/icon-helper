@@ -4,6 +4,7 @@ title: account arrow right outline(帐户箭头右轮廓) ICON转svg、png下载
 name: account-arrow-right-outline
 zhTips: 帐户箭头右轮廓,用户箭头右轮廓,人箭头右轮廓
 tags: ["account-user"]
+search: user-arrow-right-outline,person-arrow-right-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: user-shield
 zhTips: 用户防护,管理员,人,私人,保护,安全
 tags: ["security","users-people"]
 pre: fas
+search: admin,person,private,protect,safe
 
 ---
 

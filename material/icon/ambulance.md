@@ -4,6 +4,7 @@ title: ambulance(救护车) ICON转svg、png下载
 name: ambulance
 zhTips: 救护车
 tags: ["transportation-road","medical-hospital"]
+search: 
 
 ---
 

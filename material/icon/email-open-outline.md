@@ -4,6 +4,7 @@ title: email open outline(电子邮件打开轮廓) ICON转svg、png下载
 name: email-open-outline
 zhTips: 电子邮件打开轮廓,信封打开轮廓
 tags: []
+search: envelope-open-outline
 
 ---
 

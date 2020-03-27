@@ -4,6 +4,7 @@ title: infinity(无限) ICON转svg、png下载
 name: infinity
 zhTips: 无限
 tags: ["math"]
+search: 
 
 ---
 

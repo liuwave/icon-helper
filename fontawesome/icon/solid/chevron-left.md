@@ -5,6 +5,7 @@ name: chevron-left
 zhTips: 雪佛龙左,箭,后,括号,上一个
 tags: ["arrows"]
 pre: fas
+search: arrow,back,bracket,previous
 
 ---
 

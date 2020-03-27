@@ -5,6 +5,7 @@ name: grin-beam-sweat
 zhTips: 发汗的咧着嘴笑,表情,脸,微笑
 tags: ["emoji"]
 pre: far
+search: embarass,emoticon,face,smile
 
 ---
 

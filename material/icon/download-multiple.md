@@ -4,6 +4,7 @@ title: download multiple(多次下载) ICON转svg、png下载
 name: download-multiple
 zhTips: 多次下载,下载
 tags: []
+search: downloads
 
 ---
 

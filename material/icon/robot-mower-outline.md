@@ -4,6 +4,7 @@ title: robot mower outline(机器人割草机轮廓) ICON转svg、png下载
 name: robot-mower-outline
 zhTips: 机器人割草机轮廓,割草机轮廓
 tags: ["home-automation"]
+search: lawn-mower-outline
 
 ---
 

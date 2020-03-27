@@ -4,6 +4,7 @@ title: seat recline normal(躺椅正常) ICON转svg、png下载
 name: seat-recline-normal
 zhTips: 躺椅正常,航空公司躺椅正常
 tags: []
+search: airline-seat-recline-normal
 
 ---
 

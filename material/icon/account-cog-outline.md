@@ -4,6 +4,7 @@ title: account cog outline(帐户齿轮轮廓) ICON转svg、png下载
 name: account-cog-outline
 zhTips: 帐户齿轮轮廓,帐户设置轮廓
 tags: ["account-user","settings"]
+search: account-settings-outline
 
 ---
 

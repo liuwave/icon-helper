@@ -5,6 +5,7 @@ name: hryvnia
 zhTips: 格里夫纳汇率,货币,乌克兰语
 tags: ["currency"]
 pre: fas
+search: currency,money,ukraine,ukrainian
 
 ---
 

@@ -4,6 +4,7 @@ title: clipboard plus(剪贴板加) ICON转svg、png下载
 name: clipboard-plus
 zhTips: 剪贴板加,剪贴板添加
 tags: []
+search: clipboard-add
 
 ---
 

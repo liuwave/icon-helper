@@ -4,6 +4,7 @@ title: pencil box multiple outline(铅笔盒多个轮廓) ICON转svg、png下载
 name: pencil-box-multiple-outline
 zhTips: 铅笔盒多个轮廓,库编辑轮廓
 tags: ["edit-modify"]
+search: library-edit-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: compass
 zhTips: 指南针,方向,目录,位置,菜单,导航,野生动物园,旅行
 tags: ["business","camping","maritime","objects","spinners","status"]
 pre: far
+search: directions,directory,location,menu,navigation,safari,travel
 
 ---
 

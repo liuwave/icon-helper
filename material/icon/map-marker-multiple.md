@@ -4,6 +4,7 @@ title: map marker multiple(地图多个标记) ICON转svg、png下载
 name: map-marker-multiple
 zhTips: 地图多个标记,地图标记
 tags: ["navigation","geographic-information-system"]
+search: map-markers
 
 ---
 

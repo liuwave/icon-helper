@@ -4,6 +4,7 @@ title: stretch to page outline(拉伸到页面轮廓) ICON转svg、png下载
 name: stretch-to-page-outline
 zhTips: 拉伸到页面轮廓
 tags: ["text-content-format","arrow"]
+search: 
 
 ---
 

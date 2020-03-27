@@ -5,6 +5,7 @@ name: book
 zhTips: 书籍,日记,文档,期刊,图书馆,阅读
 tags: ["business","finance","maps","objects","writing"]
 pre: fas
+search: diary,documentation,journal,library,read
 
 ---
 

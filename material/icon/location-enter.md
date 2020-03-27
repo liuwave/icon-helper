@@ -4,6 +4,7 @@ title: location enter(位置输入) ICON转svg、png下载
 name: location-enter
 zhTips: 位置输入,状态输入
 tags: ["home-automation"]
+search: presence-enter
 
 ---
 

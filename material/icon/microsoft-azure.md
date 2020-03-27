@@ -4,6 +4,7 @@ title: microsoft azure(Microsoft Azure) ICON转svg、png下载
 name: microsoft-azure
 zhTips: Microsoft Azure
 tags: ["brand-logo"]
+search: 
 
 ---
 

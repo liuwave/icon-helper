@@ -5,6 +5,7 @@ name: child
 zhTips: 儿童,男孩,女孩,孩子,小孩,年轻
 tags: ["users-people"]
 pre: fas
+search: boy,girl,kid,toddler,young
 
 ---
 

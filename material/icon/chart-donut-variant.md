@@ -4,6 +4,7 @@ title: chart donut variant(图表甜甜圈口音) ICON转svg、png下载
 name: chart-donut-variant
 zhTips: 图表甜甜圈口音
 tags: ["math"]
+search: chart-doughnut-variant
 
 ---
 

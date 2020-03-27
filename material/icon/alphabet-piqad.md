@@ -4,6 +4,7 @@ title: alphabet piqad(字母piqad) ICON转svg、png下载
 name: alphabet-piqad
 zhTips: 字母piqad,书写系统piqad
 tags: ["alpha-numeric","alpha-numeric"]
+search: writing-system-piqad
 
 ---
 

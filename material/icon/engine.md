@@ -4,6 +4,7 @@ title: engine(发动机) ICON转svg、png下载
 name: engine
 zhTips: 发动机,马达
 tags: ["automotive"]
+search: motor
 
 ---
 

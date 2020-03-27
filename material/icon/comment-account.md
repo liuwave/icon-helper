@@ -4,6 +4,7 @@ title: comment account(评论帐户) ICON转svg、png下载
 name: comment-account
 zhTips: 评论帐户,用户评论,个人评论
 tags: ["account-user"]
+search: comment-user,comment-person
 
 ---
 

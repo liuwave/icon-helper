@@ -5,6 +5,7 @@ name: figma
 zhTips: Figma,app,设计,界面
 tags: []
 pre: fab
+search: app,design,interface
 
 ---
 

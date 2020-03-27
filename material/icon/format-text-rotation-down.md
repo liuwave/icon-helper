@@ -4,6 +4,7 @@ title: format text rotation down(向下格式化文本) ICON转svg、png下载
 name: format-text-rotation-down
 zhTips: 向下格式化文本
 tags: ["text-content-format"]
+search: 
 
 ---
 

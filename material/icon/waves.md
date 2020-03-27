@@ -4,6 +4,7 @@ title: waves(波浪) ICON转svg、png下载
 name: waves
 zhTips: 波浪,海洋,湖泊,洪水,水
 tags: ["weather","transportation-water"]
+search: ocean,lake,flood,water
 
 ---
 

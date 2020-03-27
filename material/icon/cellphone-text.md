@@ -4,6 +4,7 @@ title: cellphone text(手机文字) ICON转svg、png下载
 name: cellphone-text
 zhTips: 手机文字,智能手机文字
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone-text,smartphone-text
 
 ---
 

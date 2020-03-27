@@ -4,6 +4,7 @@ title: movie roll(电影胶卷) ICON转svg、png下载
 name: movie-roll
 zhTips: 电影胶卷,电影卷轴
 tags: ["video-movie"]
+search: film-reel
 
 ---
 

@@ -4,6 +4,7 @@ title: alpha w circle(字母w圈) ICON转svg、png下载
 name: alpha-w-circle
 zhTips: 字母w圈
 tags: ["alpha-numeric"]
+search: alphabet-w-circle,letter-w-circle
 
 ---
 

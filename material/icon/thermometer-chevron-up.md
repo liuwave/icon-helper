@@ -4,6 +4,7 @@ title: thermometer chevron up(人字形向上温度计) ICON转svg、png下载
 name: thermometer-chevron-up
 zhTips: 人字形向上温度计
 tags: ["home-automation"]
+search: 
 
 ---
 

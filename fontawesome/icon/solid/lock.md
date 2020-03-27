@@ -5,6 +5,7 @@ name: lock
 zhTips: 锁定,管理,打开,密码,私有,保护,安全
 tags: ["objects","security","status"]
 pre: fas
+search: admin,lock,open,password,private,protect,security
 
 ---
 

@@ -4,6 +4,7 @@ title: home minus outline(主页减轮廓) ICON转svg、png下载
 name: home-minus-outline
 zhTips: 主页减轮廓
 tags: ["home-automation"]
+search: 
 
 ---
 

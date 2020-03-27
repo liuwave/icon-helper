@@ -5,6 +5,7 @@ name: spider
 zhTips: 蜘蛛,bug,夏洛特,爬行,八,万圣节
 tags: ["animals","halloween"]
 pre: fas
+search: arachnid,bug,charlotte,crawl,eight,halloween
 
 ---
 

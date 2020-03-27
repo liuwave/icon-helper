@@ -5,6 +5,7 @@ name: bus
 zhTips: 公共汽车,公共交通,运输,旅行,车辆
 tags: ["automotive","objects","travel","vehicles"]
 pre: fas
+search: public transportation,transportation,travel,vehicle
 
 ---
 

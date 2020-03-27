@@ -4,6 +4,7 @@ title: alpha y circle(字母y圈) ICON转svg、png下载
 name: alpha-y-circle
 zhTips: 字母y圈
 tags: ["alpha-numeric"]
+search: alphabet-y-circle,letter-y-circle
 
 ---
 

@@ -5,6 +5,7 @@ name: smoking
 zhTips: 吸烟,癌症,香烟,尼古丁,吸烟状态,烟草
 tags: ["hotel","medical"]
 pre: fas
+search: cancer,cigarette,nicotine,smoking status,tobacco
 
 ---
 

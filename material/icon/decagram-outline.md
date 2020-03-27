@@ -4,6 +4,7 @@ title: decagram outline(十角轮廓) ICON转svg、png下载
 name: decagram-outline
 zhTips: 十角轮廓,爆炸形轮廓
 tags: ["shape"]
+search: starburst-outline
 
 ---
 

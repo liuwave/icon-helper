@@ -4,6 +4,7 @@ title: hvac(暖通空调) ICON转svg、png下载
 name: hvac
 zhTips: 暖通空调,暖气,通风,空调
 tags: ["home-automation"]
+search: heating,ventilation,air-conditioning
 
 ---
 

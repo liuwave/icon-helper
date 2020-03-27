@@ -5,6 +5,7 @@ name: table-tennis
 zhTips: 乒乓球,球,球拍
 tags: ["sports"]
 pre: fas
+search: ball,paddle,ping pong
 
 ---
 

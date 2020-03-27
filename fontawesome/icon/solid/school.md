@@ -5,6 +5,7 @@ name: school
 zhTips: 学校,建筑,教育,学习,学生,老师
 tags: ["buildings","childhood","education","objects"]
 pre: fas
+search: building,education,learn,student,teacher
 
 ---
 

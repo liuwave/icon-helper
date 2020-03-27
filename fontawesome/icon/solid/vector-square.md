@@ -5,6 +5,7 @@ name: vector-square
 zhTips: 矢量正方形,锚,线,对象,渲染,形状
 tags: ["design"]
 pre: fas
+search: anchors,lines,object,render,shape
 
 ---
 

@@ -4,6 +4,7 @@ title: math sin(好吧) ICON转svg、png下载
 name: math-sin
 zhTips: 好吧,善罪,那就是好
 tags: ["math"]
+search: math-sine,maths-sin
 
 ---
 

@@ -4,6 +4,7 @@ title: xamarin outline(xamarin轮廓) ICON转svg、png下载
 name: xamarin-outline
 zhTips: xamarin轮廓,Microsoft xamarin轮廓
 tags: ["brand-logo"]
+search: microsoft-xamarin-outline
 
 ---
 

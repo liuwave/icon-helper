@@ -4,6 +4,7 @@ title: battlenet(战网) ICON转svg、png下载
 name: battlenet
 zhTips: 战网
 tags: ["brand-logo","gaming-rpg"]
+search: battle-net
 
 ---
 

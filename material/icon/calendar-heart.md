@@ -4,6 +4,7 @@ title: calendar heart(日历心) ICON转svg、png下载
 name: calendar-heart
 zhTips: 日历心,事件心
 tags: ["date-time"]
+search: event-heart
 
 ---
 

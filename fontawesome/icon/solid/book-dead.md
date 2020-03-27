@@ -5,6 +5,7 @@ name: book-dead
 zhTips: 死者之书,地牢与龙,骷髅,d＆d,黑暗艺术,死亡,dnd,文档,邪恶,幻想,万圣节,假日,死灵书,阅读,头骨,咒语
 tags: ["gaming-tabletop","halloween","objects"]
 pre: fas
+search: Dungeons & Dragons,crossbones,d&d,dark arts,death,dnd,documentation,evil,fantasy,halloween,holiday,necronomicon,read,skull,spell
 
 ---
 

@@ -4,6 +4,7 @@ title: emoticon wink(表情眨眼) ICON转svg、png下载
 name: emoticon-wink
 zhTips: 表情眨眼,笑脸眨眼
 tags: ["emoji"]
+search: smiley-wink
 
 ---
 

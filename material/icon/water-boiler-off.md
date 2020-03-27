@@ -4,6 +4,7 @@ title: water boiler off(开水器关闭) ICON转svg、png下载
 name: water-boiler-off
 zhTips: 开水器关闭
 tags: ["home-automation"]
+search: 
 
 ---
 

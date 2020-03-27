@@ -4,6 +4,7 @@ title: table remove(表删除) ICON转svg、png下载
 name: table-remove
 zhTips: 表删除
 tags: ["text-content-format"]
+search: 
 
 ---
 

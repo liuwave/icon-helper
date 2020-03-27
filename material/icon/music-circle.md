@@ -4,6 +4,7 @@ title: music circle(音乐圈) ICON转svg、png下载
 name: music-circle
 zhTips: 音乐圈,笔记圈
 tags: ["audio","music"]
+search: note-circle
 
 ---
 

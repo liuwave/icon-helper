@@ -4,6 +4,7 @@ title: message alert(消息警报) ICON转svg、png下载
 name: message-alert
 zhTips: 消息警报,反馈,消息警告,公告,短信失败
 tags: ["alert-error"]
+search: feedback,message-warning,announcement,sms-failed
 
 ---
 

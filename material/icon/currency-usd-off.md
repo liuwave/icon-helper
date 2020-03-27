@@ -4,6 +4,7 @@ title: currency usd off(关闭货币) ICON转svg、png下载
 name: currency-usd-off
 zhTips: 关闭货币,减少美元
 tags: ["currency","banking"]
+search: money-off,dollar-off
 
 ---
 

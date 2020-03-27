@@ -4,6 +4,7 @@ title: high definition box(高清盒) ICON转svg、png下载
 name: high-definition-box
 zhTips: 高清盒,高清
 tags: ["video-movie"]
+search: hd-box,hd
 
 ---
 

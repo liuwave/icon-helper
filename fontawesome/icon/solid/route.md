@@ -5,6 +5,7 @@ name: route
 zhTips: 路线,方向,导航,旅行
 tags: ["camping","maps","moving"]
 pre: fas
+search: directions,navigation,travel
 
 ---
 

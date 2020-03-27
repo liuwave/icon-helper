@@ -5,6 +5,7 @@ name: address-card
 zhTips: 地址卡,关于,联系方式,ID,身份,明信片,个人资料
 tags: ["business","communication","users-people"]
 pre: fas
+search: about,contact,id,identification,postcard,profile
 
 ---
 

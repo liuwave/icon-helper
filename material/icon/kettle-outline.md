@@ -4,6 +4,7 @@ title: kettle outline(烧水壶轮廓) ICON转svg、png下载
 name: kettle-outline
 zhTips: 烧水壶轮廓,烧水壶空
 tags: ["food-drink","home-automation"]
+search: tea-kettle-outline,kettle-empty,tea-kettle-empty
 
 ---
 

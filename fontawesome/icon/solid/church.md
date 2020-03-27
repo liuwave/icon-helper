@@ -5,6 +5,7 @@ name: church
 zhTips: 教堂,建筑,大教堂,社区,宗教
 tags: ["buildings","objects","religion"]
 pre: fas
+search: building,cathedral,chapel,community,religion
 
 ---
 

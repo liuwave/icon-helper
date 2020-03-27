@@ -5,6 +5,7 @@ name: pump-medical
 zhTips: 泵医疗,抗细菌,清洁,covid 19,消毒,卫生,医疗级,消毒剂,肥皂
 tags: ["medical"]
 pre: fas
+search: anti-bacterial,clean,covid-19,disinfect,hygiene,medical grade,sanitizer,soap
 
 ---
 

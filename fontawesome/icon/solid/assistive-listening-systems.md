@@ -5,6 +5,7 @@ name: assistive-listening-systems
 zhTips: 辅助听力系统,放大,音频,聋哑,耳朵,耳机,听力,声音
 tags: ["accessibility","communication"]
 pre: fas
+search: amplify,audio,deaf,ear,headset,hearing,sound
 
 ---
 

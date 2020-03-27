@@ -5,6 +5,7 @@ name: arrow-alt-circle-down
 zhTips: 备用箭头向下,箭头向下,下载
 tags: ["arrows"]
 pre: fas
+search: arrow-circle-o-down,download
 
 ---
 

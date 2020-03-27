@@ -4,6 +4,7 @@ title: tag heart(标签心) ICON转svg、png下载
 name: tag-heart
 zhTips: 标签心,忠诚度
 tags: []
+search: loyalty
 
 ---
 

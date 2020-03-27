@@ -4,6 +4,7 @@ title: pi(pi) ICON转svg、png下载
 name: pi
 zhTips: pi
 tags: ["math"]
+search: 
 
 ---
 

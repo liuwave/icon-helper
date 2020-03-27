@@ -5,6 +5,7 @@ name: trash-alt
 zhTips: 备用垃圾,删除,垃圾,隐藏,垃圾o
 tags: ["editors","interfaces","objects"]
 pre: far
+search: delete,garbage,hide,remove,trash-o
 
 ---
 

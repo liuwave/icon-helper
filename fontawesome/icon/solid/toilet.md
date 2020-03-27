@@ -5,6 +5,7 @@ name: toilet
 zhTips: 厕所,浴室,冲洗,约翰,小便,水暖,大便,瓷,便盆,宝座,洗手间,废物
 tags: ["objects"]
 pre: fas
+search: bathroom,flush,john,loo,pee,plumbing,poop,porcelain,potty,restroom,throne,washroom,waste,wc
 
 ---
 

@@ -4,6 +4,7 @@ title: tumble dryer off(烘干机关闭) ICON转svg、png下载
 name: tumble-dryer-off
 zhTips: 烘干机关闭
 tags: ["home-automation"]
+search: 
 
 ---
 

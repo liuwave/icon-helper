@@ -5,6 +5,7 @@ name: caravan
 zhTips: 旅行车,露营车,汽车房车,房车,拖车,旅行
 tags: ["automotive","camping","moving","travel"]
 pre: fas
+search: camper,motor home,rv,trailer,travel
 
 ---
 

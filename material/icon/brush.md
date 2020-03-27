@@ -4,6 +4,7 @@ title: brush(刷子) ICON转svg、png下载
 name: brush
 zhTips: 刷子,画笔
 tags: ["drawing-art"]
+search: paintbrush
 
 ---
 

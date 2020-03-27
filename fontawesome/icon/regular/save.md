@@ -5,6 +5,7 @@ name: save
 zhTips: 保存,磁盘,下载,软盘,软盘o
 tags: ["business","computers","design","files","interfaces","objects"]
 pre: far
+search: disk,download,floppy,floppy-o
 
 ---
 

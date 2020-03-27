@@ -4,6 +4,7 @@ title: account music outline(音乐概述帐户) ICON转svg、png下载
 name: account-music-outline
 zhTips: 音乐概述帐户,艺术家概述
 tags: ["account-user"]
+search: artist-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: trophy award(奖杯) ICON转svg、png下载
 name: trophy-award
 zhTips: 奖杯,成就奖
 tags: ["sport"]
+search: achievement-award
 
 ---
 

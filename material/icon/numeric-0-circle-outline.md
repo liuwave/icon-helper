@@ -4,6 +4,7 @@ title: numeric 0 circle outline(数字0圆圈轮廓) ICON转svg、png下载
 name: numeric-0-circle-outline
 zhTips: 数字0圆圈轮廓
 tags: ["alpha-numeric"]
+search: numeric-zero-circle-outline,number-0-circle-outline,number-zero-circle-outline
 
 ---
 

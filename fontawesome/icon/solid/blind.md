@@ -5,6 +5,7 @@ name: blind
 zhTips: 盲人,手杖,残疾人,人,视线
 tags: ["accessibility","maps","users-people"]
 pre: fas
+search: cane,disability,person,sight
 
 ---
 

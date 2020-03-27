@@ -4,6 +4,7 @@ title: chart line variant(图表线变体) ICON转svg、png下载
 name: chart-line-variant
 zhTips: 图表线变体,显示图表
 tags: ["math"]
+search: show-chart
 
 ---
 

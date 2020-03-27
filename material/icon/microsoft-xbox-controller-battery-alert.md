@@ -4,6 +4,7 @@ title: microsoft xbox controller battery alert(Microsoft xbox控制器电池警�
 name: microsoft-xbox-controller-battery-alert
 zhTips: Microsoft xbox控制器电池警报,xbox控制器电池警告
 tags: ["battery","gaming-rpg","alert-error"]
+search: xbox-controller-battery-warning
 
 ---
 

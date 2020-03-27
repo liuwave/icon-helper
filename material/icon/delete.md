@@ -4,6 +4,7 @@ title: delete(删除) ICON转svg、png下载
 name: delete
 zhTips: 删除,垃圾桶,垃圾
 tags: []
+search: trash,bin,rubbish,garbage,rubbish-bin,trash-can,garbage-can
 
 ---
 

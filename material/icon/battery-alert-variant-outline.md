@@ -4,6 +4,7 @@ title: battery alert variant outline(电池警报变型概述) ICON转svg、png�
 name: battery-alert-variant-outline
 zhTips: 电池警报变型概述
 tags: ["battery","alert-error"]
+search: 
 
 ---
 

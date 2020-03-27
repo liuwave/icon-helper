@@ -4,6 +4,7 @@ title: smoking off(禁止吸烟) ICON转svg、png下载
 name: smoking-off
 zhTips: 禁止吸烟
 tags: []
+search: no-smoking,cigarette-off,smoke-free
 
 ---
 

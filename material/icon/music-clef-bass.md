@@ -4,6 +4,7 @@ title: music clef bass(音乐谱号低音) ICON转svg、png下载
 name: music-clef-bass
 zhTips: 音乐谱号低音,音乐谱号
 tags: ["music"]
+search: music-f-clef
 
 ---
 

@@ -4,6 +4,7 @@ title: account arrow left(帐户向左箭头) ICON转svg、png下载
 name: account-arrow-left
 zhTips: 帐户向左箭头,用户向左箭头,人向左箭头
 tags: ["account-user"]
+search: user-arrow-left,person-arrow-left
 
 ---
 

@@ -4,6 +4,7 @@ title: google street view(Google街景) ICON转svg、png下载
 name: google-street-view
 zhTips: Google街景,衣夹人
 tags: []
+search: pegman
 
 ---
 

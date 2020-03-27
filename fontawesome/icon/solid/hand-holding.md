@@ -5,6 +5,7 @@ name: hand-holding
 zhTips: 手持,搬运,提起
 tags: ["hands"]
 pre: fas
+search: carry,lift
 
 ---
 

@@ -4,6 +4,7 @@ title: run(运行) ICON转svg、png下载
 name: run
 zhTips: 运行,运行说明
 tags: ["sport"]
+search: directions-run
 
 ---
 

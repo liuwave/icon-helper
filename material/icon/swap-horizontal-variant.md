@@ -4,6 +4,7 @@ title: swap horizontal variant(互换水平型) ICON转svg、png下载
 name: swap-horizontal-variant
 zhTips: 互换水平型
 tags: ["arrow"]
+search: 
 
 ---
 

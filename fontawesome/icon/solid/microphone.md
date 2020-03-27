@@ -5,6 +5,7 @@ name: microphone
 zhTips: 麦克风,音频,播客,唱片,唱歌,声音
 tags: ["audio-video","communication","interfaces","music","objects","status","toggle"]
 pre: fas
+search: audio,podcast,record,sing,sound,voice
 
 ---
 

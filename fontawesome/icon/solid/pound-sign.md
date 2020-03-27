@@ -5,6 +5,7 @@ name: pound-sign
 zhTips: 英镑符号,货币,英镑
 tags: ["currency"]
 pre: fas
+search: currency,gbp,money
 
 ---
 

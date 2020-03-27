@@ -5,6 +5,7 @@ name: intercom
 zhTips: 对讲机,应用程序,客户,信使
 tags: []
 pre: fab
+search: app,customer,messenger
 
 ---
 

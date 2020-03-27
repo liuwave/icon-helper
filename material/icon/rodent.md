@@ -4,6 +4,7 @@ title: rodent(啮齿动物) ICON转svg、png下载
 name: rodent
 zhTips: 啮齿动物,小鼠,大鼠
 tags: ["animal"]
+search: mouse,rat
 
 ---
 

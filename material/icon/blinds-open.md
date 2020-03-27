@@ -4,6 +4,7 @@ title: blinds open(百叶窗打开) ICON转svg、png下载
 name: blinds-open
 zhTips: 百叶窗打开
 tags: ["home-automation"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: transfer left(左移) ICON转svg、png下载
 name: transfer-left
 zhTips: 左移
 tags: ["arrow"]
+search: 
 
 ---
 

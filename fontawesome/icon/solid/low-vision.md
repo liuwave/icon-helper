@@ -5,6 +5,7 @@ name: low-vision
 zhTips: 弱视,盲目,视力
 tags: ["accessibility","maps"]
 pre: fas
+search: blind,eye,sight
 
 ---
 

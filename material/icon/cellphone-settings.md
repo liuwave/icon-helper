@@ -4,6 +4,7 @@ title: cellphone settings(手机设置) ICON转svg、png下载
 name: cellphone-settings
 zhTips: 手机设置,智能手机设置
 tags: ["cellphone-phone","settings","device-tech"]
+search: mobile-phone-settings,smartphone-settings,settings-cell
 
 ---
 

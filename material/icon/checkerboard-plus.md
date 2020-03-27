@@ -4,6 +4,7 @@ title: checkerboard plus(棋盘加) ICON转svg、png下载
 name: checkerboard-plus
 zhTips: 棋盘加,光栅加
 tags: ["geographic-information-system"]
+search: raster-plus
 
 ---
 

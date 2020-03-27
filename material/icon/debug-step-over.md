@@ -4,6 +4,7 @@ title: debug step over(调试跳过) ICON转svg、png下载
 name: debug-step-over
 zhTips: 调试跳过,跳过,跳转
 tags: []
+search: skip,jump
 
 ---
 

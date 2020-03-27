@@ -4,6 +4,7 @@ title: cached(缓存的逆时针箭头) ICON转svg、png下载
 name: cached
 zhTips: 缓存的逆时针箭头,圆形箭头
 tags: []
+search: counterclockwise-arrows,circular-arrows,circle-arrows
 
 ---
 

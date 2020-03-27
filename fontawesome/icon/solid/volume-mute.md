@@ -5,6 +5,7 @@ name: volume-mute
 zhTips: 音量静音,音频,音乐,安静,声音,扬声器
 tags: ["audio-video","interfaces","music","status"]
 pre: fas
+search: audio,music,quiet,sound,speaker
 
 ---
 

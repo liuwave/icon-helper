@@ -4,6 +4,7 @@ title: alpha l circle outline(字母l圆圈轮廓) ICON转svg、png下载
 name: alpha-l-circle-outline
 zhTips: 字母l圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-l-circle-outline,letter-l-circle-outline
 
 ---
 

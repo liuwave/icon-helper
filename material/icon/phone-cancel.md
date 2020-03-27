@@ -4,6 +4,7 @@ title: phone cancel(电话取消) ICON转svg、png下载
 name: phone-cancel
 zhTips: 电话取消,电话屏蔽
 tags: ["cellphone-phone"]
+search: phone-block
 
 ---
 

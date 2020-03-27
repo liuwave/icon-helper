@@ -4,6 +4,7 @@ title: gas station outline(加油站轮廓) ICON转svg、png下载
 name: gas-station-outline
 zhTips: 加油站轮廓,燃油泵轮廓
 tags: []
+search: gas-pump-outline,petrol-pump-outline,petrol-station-outline,fuel-station-outline,fuel-pump-outline
 
 ---
 

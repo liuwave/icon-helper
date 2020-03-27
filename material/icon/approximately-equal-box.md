@@ -4,6 +4,7 @@ title: approximately equal box(近似等于的盒子) ICON转svg、png下载
 name: approximately-equal-box
 zhTips: 近似等于的盒子
 tags: ["math"]
+search: 
 
 ---
 

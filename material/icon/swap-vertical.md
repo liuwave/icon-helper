@@ -4,6 +4,7 @@ title: swap vertical(垂直互换) ICON转svg、png下载
 name: swap-vertical
 zhTips: 垂直互换,进出口,向上箭头
 tags: ["arrow"]
+search: import-export,arrow-up-down
 
 ---
 

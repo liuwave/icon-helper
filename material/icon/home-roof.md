@@ -4,6 +4,7 @@ title: home roof(家用屋顶) ICON转svg、png下载
 name: home-roof
 zhTips: 家用屋顶,家用烟囱
 tags: ["home-automation"]
+search: home-chimney
 
 ---
 

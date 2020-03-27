@@ -4,6 +4,7 @@ title: alarm off(闹钟关闭) ICON转svg、png下载
 name: alarm-off
 zhTips: 闹钟关闭
 tags: []
+search: alarm-clock-off
 
 ---
 

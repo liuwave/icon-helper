@@ -4,6 +4,7 @@ title: arrow down bold hexagon outline(向下箭头) ICON转svg、png下载
 name: arrow-down-bold-hexagon-outline
 zhTips: 向下箭头,加粗六边形轮廓
 tags: ["arrow"]
+search: arrow-bottom-bold-hexagon-outline
 
 ---
 

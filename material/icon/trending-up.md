@@ -4,6 +4,7 @@ title: trending up(呈上升趋势) ICON转svg、png下载
 name: trending-up
 zhTips: 呈上升趋势
 tags: []
+search: 
 
 ---
 

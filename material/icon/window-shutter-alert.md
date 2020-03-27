@@ -4,6 +4,7 @@ title: window shutter alert(百叶窗警报) ICON转svg、png下载
 name: window-shutter-alert
 zhTips: 百叶窗警报
 tags: ["home-automation","alert-error"]
+search: 
 
 ---
 

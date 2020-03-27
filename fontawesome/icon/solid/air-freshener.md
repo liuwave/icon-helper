@@ -5,6 +5,7 @@ name: air-freshener
 zhTips: 空气清新剂,汽车,除臭,新鲜,松木,气味
 tags: ["automotive"]
 pre: fas
+search: car,deodorize,fresh,pine,scent
 
 ---
 

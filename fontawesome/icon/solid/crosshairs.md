@@ -5,6 +5,7 @@ name: crosshairs
 zhTips: 十字准线,目标,靶心,gpd,拾取器,位置
 tags: ["design","maps","spinners"]
 pre: fas
+search: aim,bullseye,gpd,picker,position
 
 ---
 

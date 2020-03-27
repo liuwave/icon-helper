@@ -5,6 +5,7 @@ name: jedi
 zhTips: Jedi,波峰,力量,西斯,天行者,星球大战,尤达
 tags: ["religion","science-fiction"]
 pre: fas
+search: crest,force,sith,skywalker,star wars,yoda
 
 ---
 

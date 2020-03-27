@@ -5,6 +5,7 @@ name: folder-plus
 zhTips: 文件夹加,添加,归档,创建,目录,文档,文件,新,正
 tags: ["business"]
 pre: fas
+search: add,archive,create,directory,document,file,new,positive
 
 ---
 

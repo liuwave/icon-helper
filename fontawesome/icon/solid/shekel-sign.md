@@ -5,6 +5,7 @@ name: shekel-sign
 zhTips: Shekel Sign,货币,病,钱
 tags: ["currency"]
 pre: fas
+search: currency,ils,money
 
 ---
 

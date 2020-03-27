@@ -5,6 +5,7 @@ name: plane-slash
 zhTips: 飞机斜线,飞机模式,取消,covid 19,延迟,着陆,行驶
 tags: []
 pre: fas
+search: airplane mode,canceled,covid-19,delayed,grounded,travel
 
 ---
 

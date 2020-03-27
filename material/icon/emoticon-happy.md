@@ -4,6 +4,7 @@ title: emoticon happy(快乐的图释) ICON转svg、png下载
 name: emoticon-happy
 zhTips: 快乐的图释,笑脸快乐
 tags: ["emoji"]
+search: smiley-happy
 
 ---
 

@@ -4,6 +4,7 @@ title: seed(种子) ICON转svg、png下载
 name: seed
 zhTips: 种子
 tags: ["agriculture","nature","food-drink"]
+search: 
 
 ---
 

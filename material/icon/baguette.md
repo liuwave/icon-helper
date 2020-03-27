@@ -4,6 +4,7 @@ title: baguette(法式面包) ICON转svg、png下载
 name: baguette
 zhTips: 法式面包,面包,面包店
 tags: ["food-drink"]
+search: bread,bakery,french-baguette,loaf
 
 ---
 

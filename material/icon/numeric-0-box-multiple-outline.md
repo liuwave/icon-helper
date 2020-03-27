@@ -4,6 +4,7 @@ title: numeric 0 box multiple outline(数字0框多个轮廓) ICON转svg、png�
 name: numeric-0-box-multiple-outline
 zhTips: 数字0框多个轮廓
 tags: ["alpha-numeric"]
+search: numeric-zero-box-multiple-outline,numeric-0-boxes-outline,number-0-box-multiple-outline
 
 ---
 

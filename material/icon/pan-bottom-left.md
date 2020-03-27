@@ -4,6 +4,7 @@ title: pan bottom left(左下锅) ICON转svg、png下载
 name: pan-bottom-left
 zhTips: 左下锅,左下时
 tags: []
+search: pan-down-left
 
 ---
 

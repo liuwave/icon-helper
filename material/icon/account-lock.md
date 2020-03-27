@@ -4,6 +4,7 @@ title: account lock(帐户锁定) ICON转svg、png下载
 name: account-lock
 zhTips: 帐户锁定,帐户安全,用户锁定,人员锁定
 tags: ["account-user","lock"]
+search: account-security,account-secure,user-lock,person-lock
 
 ---
 

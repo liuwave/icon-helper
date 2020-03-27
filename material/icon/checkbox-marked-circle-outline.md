@@ -4,6 +4,7 @@ title: checkbox marked circle outline(复选框标记了圆圈轮廓) ICON转svg
 name: checkbox-marked-circle-outline
 zhTips: 复选框标记了圆圈轮廓
 tags: ["form"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: folder-open
 zhTips: 文件夹打开,归档,目录,文档,空,文件,新
 tags: ["business","code","files","interfaces","status","writing"]
 pre: far
+search: archive,directory,document,empty,file,new
 
 ---
 

@@ -4,6 +4,7 @@ title: wrap disabled(禁止包装) ICON转svg、png下载
 name: wrap-disabled
 zhTips: 禁止包装,展开
 tags: []
+search: unwrap
 
 ---
 

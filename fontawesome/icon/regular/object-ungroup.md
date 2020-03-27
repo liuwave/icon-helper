@@ -5,6 +5,7 @@ name: object-ungroup
 zhTips: 对象取消分组,复制,设计,合并,选择,分离
 tags: ["design"]
 pre: far
+search: copy,design,merge,select,separate
 
 ---
 

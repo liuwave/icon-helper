@@ -4,6 +4,7 @@ title: arrow down(向下箭头) ICON转svg、png下载
 name: arrow-down
 zhTips: 向下箭头,底部箭头
 tags: ["arrow"]
+search: arrow-downward,arrow-bottom
 
 ---
 

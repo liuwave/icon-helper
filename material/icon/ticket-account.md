@@ -4,6 +4,7 @@ title: ticket account(票务帐户) ICON转svg、png下载
 name: ticket-account
 zhTips: 票务帐户,用户票证
 tags: ["account-user"]
+search: ticket-user
 
 ---
 

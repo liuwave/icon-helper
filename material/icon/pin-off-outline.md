@@ -4,6 +4,7 @@ title: pin off outline(固定轮廓) ICON转svg、png下载
 name: pin-off-outline
 zhTips: 固定轮廓,保持轮廓
 tags: []
+search: keep-off-outline
 
 ---
 

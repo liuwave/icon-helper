@@ -4,6 +4,7 @@ title: gas station(加油站) ICON转svg、png下载
 name: gas-station
 zhTips: 加油站,当地加油站
 tags: ["places","automotive"]
+search: gas-pump,petrol-pump,petrol-station,local-gas-station,fuel-station,fuel-pump
 
 ---
 

@@ -5,6 +5,7 @@ name: skull
 zhTips: 头骨,骨头,骨骼,x射线,yo
 tags: []
 pre: fas
+search: bones,skeleton,x-ray,yorick
 
 ---
 

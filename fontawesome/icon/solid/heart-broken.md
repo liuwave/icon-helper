@@ -5,6 +5,7 @@ name: heart-broken
 zhTips: 心碎了,分手,压碎,不喜欢,倾销,悲伤,爱,相思,关系
 tags: ["objects","shapes"]
 pre: fas
+search: breakup,crushed,dislike,dumped,grief,love,lovesick,relationship,sad
 
 ---
 

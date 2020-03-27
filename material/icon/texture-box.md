@@ -4,6 +4,7 @@ title: texture box(纹理框) ICON转svg、png下载
 name: texture-box
 zhTips: 纹理框,表面积
 tags: ["math"]
+search: surface-area
 
 ---
 

@@ -5,6 +5,7 @@ name: grin-stars
 zhTips: 星际大战,图释,脸
 tags: ["emoji"]
 pre: far
+search: emoticon,face,star-struck
 
 ---
 

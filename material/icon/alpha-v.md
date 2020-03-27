@@ -4,6 +4,7 @@ title: alpha v(字母v) ICON转svg、png下载
 name: alpha-v
 zhTips: 字母v,罗马数字5
 tags: ["alpha-numeric"]
+search: alphabet-v,letter-v,roman-numeral-5
 
 ---
 

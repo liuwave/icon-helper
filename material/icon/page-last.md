@@ -4,6 +4,7 @@ title: page last(最后一页) ICON转svg、png下载
 name: page-last
 zhTips: 最后一页
 tags: []
+search: last-page
 
 ---
 

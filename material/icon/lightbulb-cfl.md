@@ -4,6 +4,7 @@ title: lightbulb cfl(灯泡cfl) ICON转svg、png下载
 name: lightbulb-cfl
 zhTips: 灯泡cfl
 tags: ["home-automation"]
+search: bulb-cfl
 
 ---
 

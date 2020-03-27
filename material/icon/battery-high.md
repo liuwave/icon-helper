@@ -4,6 +4,7 @@ title: battery high(电池电量高) ICON转svg、png下载
 name: battery-high
 zhTips: 电池电量高
 tags: ["battery"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: fridge off(关闭冰箱) ICON转svg、png下载
 name: fridge-off
 zhTips: 关闭冰箱
 tags: ["home-automation"]
+search: 
 
 ---
 

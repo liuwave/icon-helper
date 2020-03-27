@@ -5,6 +5,7 @@ name: drum-steelpan
 zhTips: 鼓Steelpan,calypso,乐器,音乐,打击乐,雷鬼舞,军鼓,声音,钢,热带
 tags: ["music","objects"]
 pre: fas
+search: calypso,instrument,music,percussion,reggae,snare,sound,steel,tropical
 
 ---
 

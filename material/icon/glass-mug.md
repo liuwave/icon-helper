@@ -4,6 +4,7 @@ title: glass mug(玻璃杯) ICON转svg、png下载
 name: glass-mug
 zhTips: 玻璃杯,酒吧,啤酒
 tags: ["food-drink"]
+search: pub,bar,beer
 
 ---
 

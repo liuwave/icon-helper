@@ -5,6 +5,7 @@ name: file-import
 zhTips: 文件导入,复制,文档,发送,上传
 tags: ["interfaces"]
 pre: fas
+search: copy,document,send,upload
 
 ---
 

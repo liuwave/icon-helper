@@ -4,6 +4,7 @@ title: alpha h circle(字母h圈) ICON转svg、png下载
 name: alpha-h-circle
 zhTips: 字母h圈
 tags: ["alpha-numeric"]
+search: alphabet-h-circle,letter-h-circle
 
 ---
 

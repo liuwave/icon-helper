@@ -4,6 +4,7 @@ title: thumb up outline(大拇指轮廓) ICON转svg、png下载
 name: thumb-up-outline
 zhTips: 大拇指轮廓,像轮廓
 tags: []
+search: like-outline,thumbs-up-outline
 
 ---
 

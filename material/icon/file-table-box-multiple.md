@@ -4,6 +4,7 @@ title: file table box multiple(文件表框多个) ICON转svg、png下载
 name: file-table-box-multiple
 zhTips: 文件表框多个
 tags: ["files-folders"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: emoticon kiss(表情吻) ICON转svg、png下载
 name: emoticon-kiss
 zhTips: 表情吻,笑脸吻
 tags: ["emoji"]
+search: smiley-kiss
 
 ---
 

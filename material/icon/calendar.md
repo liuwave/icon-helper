@@ -4,6 +4,7 @@ title: calendar(日历) ICON转svg、png下载
 name: calendar
 zhTips: 日历,活动,插入邀请
 tags: ["date-time"]
+search: event,insert-invitation
 
 ---
 

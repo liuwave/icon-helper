@@ -4,6 +4,7 @@ title: cart minus(减去购物车) ICON转svg、png下载
 name: cart-minus
 zhTips: 减去购物车,减少购物车
 tags: ["shopping"]
+search: shopping-cart-minus,trolley-minus
 
 ---
 

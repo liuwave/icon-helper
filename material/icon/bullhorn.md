@@ -4,6 +4,7 @@ title: bullhorn(扩音器) ICON转svg、png下载
 name: bullhorn
 zhTips: 扩音器,公告
 tags: []
+search: announcement,megaphone
 
 ---
 

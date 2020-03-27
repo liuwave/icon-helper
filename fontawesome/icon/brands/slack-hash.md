@@ -5,6 +5,7 @@ name: slack-hash
 zhTips: Slack Hashtag,anchor,hash,hashtag
 tags: []
 pre: fab
+search: anchor,hash,hashtag
 
 ---
 

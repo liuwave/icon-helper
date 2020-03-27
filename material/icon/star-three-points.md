@@ -4,6 +4,7 @@ title: star three points(星三点) ICON转svg、png下载
 name: star-three-points
 zhTips: 星三点
 tags: ["shape"]
+search: 
 
 ---
 

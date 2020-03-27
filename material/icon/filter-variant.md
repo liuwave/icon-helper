@@ -4,6 +4,7 @@ title: filter variant(过滤器变量) ICON转svg、png下载
 name: filter-variant
 zhTips: 过滤器变量,过滤器列表
 tags: []
+search: filter-list
 
 ---
 

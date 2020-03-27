@@ -4,6 +4,7 @@ title: briefcase account outline(公文包帐户轮廓) ICON转svg、png下载
 name: briefcase-account-outline
 zhTips: 公文包帐户轮廓,公文包人轮廓,公文包用户轮廓
 tags: ["account-user"]
+search: briefcase-person-outline,briefcase-user-outline
 
 ---
 

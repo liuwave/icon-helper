@@ -5,6 +5,7 @@ name: flushed
 zhTips: 脸红了,表情尴尬,表情脸
 tags: ["emoji"]
 pre: fas
+search: embarrassed,emoticon,face
 
 ---
 

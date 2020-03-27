@@ -4,6 +4,7 @@ title: playlist music(音乐播放列表) ICON转svg、png下载
 name: playlist-music
 zhTips: 音乐播放列表,笔记播放列表,音乐队列
 tags: []
+search: playlist-note,queue-music
 
 ---
 

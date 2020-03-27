@@ -4,6 +4,7 @@ title: chevron right box(V形人字形右框) ICON转svg、png下载
 name: chevron-right-box
 zhTips: V形人字形右框
 tags: ["arrow"]
+search: 
 
 ---
 

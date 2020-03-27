@@ -4,6 +4,7 @@ title: keyboard settings(键盘设置) ICON转svg、png下载
 name: keyboard-settings
 zhTips: 键盘设置
 tags: ["settings"]
+search: 
 
 ---
 

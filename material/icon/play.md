@@ -4,6 +4,7 @@ title: play(播放) ICON转svg、png下载
 name: play
 zhTips: 播放,播放箭头
 tags: ["home-automation"]
+search: play-arrow
 
 ---
 

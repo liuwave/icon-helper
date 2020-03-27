@@ -4,6 +4,7 @@ title: airplane landing(飞机着陆) ICON转svg、png下载
 name: airplane-landing
 zhTips: 飞机着陆,飞行着陆
 tags: ["transportation-flying"]
+search: aeroplane-landing,flight-land,plane-landing
 
 ---
 

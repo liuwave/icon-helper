@@ -4,6 +4,7 @@ title: set left(左移) ICON转svg、png下载
 name: set-left
 zhTips: 左移
 tags: []
+search: difference-left
 
 ---
 

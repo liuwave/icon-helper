@@ -4,6 +4,7 @@ title: poll box(民意调查箱) ICON转svg、png下载
 name: poll-box
 zhTips: 民意调查箱,评估,插入图表
 tags: []
+search: assessment,insert-chart
 
 ---
 

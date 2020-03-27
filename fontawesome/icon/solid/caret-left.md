@@ -5,6 +5,7 @@ name: caret-left
 zhTips: Caret左,箭,后,上一个,三角形
 tags: ["arrows"]
 pre: fas
+search: arrow,back,previous,triangle
 
 ---
 

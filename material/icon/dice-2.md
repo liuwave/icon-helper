@@ -4,6 +4,7 @@ title: dice 2(骰子2) ICON转svg、png下载
 name: dice-2
 zhTips: 骰子2,骰子两个
 tags: ["gaming-rpg"]
+search: die-2,dice-two
 
 ---
 

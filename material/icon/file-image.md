@@ -4,6 +4,7 @@ title: file image(文件图像) ICON转svg、png下载
 name: file-image
 zhTips: 文件图像
 tags: ["files-folders"]
+search: 
 
 ---
 

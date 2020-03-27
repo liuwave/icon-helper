@@ -4,6 +4,7 @@ title: credit card multiple outline(信用卡多个轮廓) ICON转svg、png下�
 name: credit-card-multiple-outline
 zhTips: 信用卡多个轮廓,信用卡
 tags: ["banking"]
+search: credit-cards
 
 ---
 

@@ -5,6 +5,7 @@ name: expand
 zhTips: 展开,箭头,更大,放大,调整大小
 tags: ["audio-video","images"]
 pre: fas
+search: arrow,bigger,enlarge,resize
 
 ---
 

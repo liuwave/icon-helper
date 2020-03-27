@@ -4,6 +4,7 @@ title: arrow up bold circle(向上的粗体箭头) ICON转svg、png下载
 name: arrow-up-bold-circle
 zhTips: 向上的粗体箭头
 tags: ["arrow"]
+search: arrow-top-bold-circle
 
 ---
 

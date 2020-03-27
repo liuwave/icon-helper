@@ -4,6 +4,7 @@ title: currency bdt(货币bdt) ICON转svg、png下载
 name: currency-bdt
 zhTips: 货币bdt,塔卡,孟加拉塔卡
 tags: ["banking","currency"]
+search: taka,bangladeshi-taka
 
 ---
 

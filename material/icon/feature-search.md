@@ -4,6 +4,7 @@ title: feature search(特征搜索) ICON转svg、png下载
 name: feature-search
 zhTips: 特征搜索,方框,方框搜索
 tags: []
+search: box,box-search
 
 ---
 

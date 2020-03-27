@@ -4,6 +4,7 @@ title: alpha j box outline(alpha j框轮廓) ICON转svg、png下载
 name: alpha-j-box-outline
 zhTips: alpha j框轮廓,字母j框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-j-box-outline,letter-j-box-outline
 
 ---
 

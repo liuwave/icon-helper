@@ -5,6 +5,7 @@ name: share-alt
 zhTips: 备用共享,转发,保存,发送,社交
 tags: ["interfaces","social"]
 pre: fas
+search: forward,save,send,social
 
 ---
 

@@ -4,6 +4,7 @@ title: arrow collapse down(箭头向下折叠) ICON转svg、png下载
 name: arrow-collapse-down
 zhTips: 箭头向下折叠,箭头向下压缩
 tags: ["arrow"]
+search: arrow-compress-down
 
 ---
 

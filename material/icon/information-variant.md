@@ -4,6 +4,7 @@ title: information variant(信息重音) ICON转svg、png下载
 name: information-variant
 zhTips: 信息重音,关于重音
 tags: []
+search: info-variant,about-variant
 
 ---
 

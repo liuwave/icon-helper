@@ -5,6 +5,7 @@ name: cloud-meatball
 zhTips: 云（有）肉丸,FLDSMDFR,食品,意大利面条,暴风雨
 tags: ["food","weather"]
 pre: fas
+search: FLDSMDFR,food,spaghetti,storm
 
 ---
 

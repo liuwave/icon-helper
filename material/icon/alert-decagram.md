@@ -4,6 +4,7 @@ title: alert decagram(警告提示) ICON转svg、png下载
 name: alert-decagram
 zhTips: 警告提示,新发行版
 tags: ["alert-error"]
+search: new-releases,warning-decagram
 
 ---
 

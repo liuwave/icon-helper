@@ -4,6 +4,7 @@ title: apple airplay(苹果Airplay) ICON转svg、png下载
 name: apple-airplay
 zhTips: 苹果Airplay,苹果
 tags: ["home-automation"]
+search: apple
 
 ---
 

@@ -4,6 +4,7 @@ title: perspective less(透视图减少) ICON转svg、png下载
 name: perspective-less
 zhTips: 透视图减少
 tags: ["math"]
+search: perspective-decrease
 
 ---
 

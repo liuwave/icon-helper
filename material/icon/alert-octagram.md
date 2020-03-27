@@ -4,6 +4,7 @@ title: alert octagram(警报八字) ICON转svg、png下载
 name: alert-octagram
 zhTips: 警报八字,警告八字
 tags: ["alert-error"]
+search: warning-octagram
 
 ---
 

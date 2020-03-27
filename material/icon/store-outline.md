@@ -4,6 +4,7 @@ title: store outline(商店轮廓) ICON转svg、png下载
 name: store-outline
 zhTips: 商店轮廓,商店购物中心目录轮廓
 tags: ["places","shopping"]
+search: shop-outline,store-mall-directory-outline
 
 ---
 

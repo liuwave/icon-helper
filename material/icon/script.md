@@ -4,6 +4,7 @@ title: script(脚本滚动) ICON转svg、png下载
 name: script
 zhTips: 脚本滚动
 tags: ["gaming-rpg"]
+search: scroll
 
 ---
 

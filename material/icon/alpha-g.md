@@ -4,6 +4,7 @@ title: alpha g(alpha g) ICON转svg、png下载
 name: alpha-g
 zhTips: alpha g,字母g
 tags: ["alpha-numeric"]
+search: alphabet-g,letter-g
 
 ---
 

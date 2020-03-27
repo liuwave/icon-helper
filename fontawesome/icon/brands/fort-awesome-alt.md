@@ -5,6 +5,7 @@ name: fort-awesome-alt
 zhTips: Awesome堡,城堡
 tags: []
 pre: fab
+search: castle
 
 ---
 

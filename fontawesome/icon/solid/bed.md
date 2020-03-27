@@ -5,6 +5,7 @@ name: bed
 zhTips: 床,住宿,床垫,休息,睡眠,旅行
 tags: ["hotel","household","maps","objects","travel","users-people"]
 pre: fas
+search: lodging,mattress,rest,sleep,travel
 
 ---
 

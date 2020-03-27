@@ -4,6 +4,7 @@ title: city(城市) ICON转svg、png下载
 name: city
 zhTips: 城市,城市位置
 tags: ["places"]
+search: location-city
 
 ---
 

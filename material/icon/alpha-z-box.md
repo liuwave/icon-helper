@@ -4,6 +4,7 @@ title: alpha z box(alpha z框) ICON转svg、png下载
 name: alpha-z-box
 zhTips: alpha z框,字母z框
 tags: ["alpha-numeric"]
+search: alphabet-z-box,letter-z-box
 
 ---
 

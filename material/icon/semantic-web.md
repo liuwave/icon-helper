@@ -4,6 +4,7 @@ title: semantic web(语义网) ICON转svg、png下载
 name: semantic-web
 zhTips: 语义网,rdf,资源描述框架,owl,网络本体语言,w3c
 tags: ["developer-languages","brand-logo"]
+search: rdf,resource-description-framework,owl,web-ontology-language,w3c
 
 ---
 

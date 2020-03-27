@@ -4,6 +4,7 @@ title: alpha q circle(字母q圈) ICON转svg、png下载
 name: alpha-q-circle
 zhTips: 字母q圈
 tags: ["alpha-numeric"]
+search: alphabet-q-circle,letter-q-circle
 
 ---
 

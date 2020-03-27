@@ -4,6 +4,7 @@ title: open in app(在应用程序中打开) ICON转svg、png下载
 name: open-in-app
 zhTips: 在应用程序中打开,在浏览器中打开
 tags: []
+search: open-in-browser
 
 ---
 

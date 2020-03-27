@@ -5,6 +5,7 @@ name: reply
 zhTips: 回复,邮件,消息,响应
 tags: ["arrows","editors","interfaces"]
 pre: fas
+search: mail,message,respond
 
 ---
 

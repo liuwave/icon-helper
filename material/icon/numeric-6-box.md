@@ -4,6 +4,7 @@ title: numeric 6 box(数字6框) ICON转svg、png下载
 name: numeric-6-box
 zhTips: 数字6框,外观6
 tags: ["alpha-numeric"]
+search: looks-6,numeric-six-box,number-6-box
 
 ---
 

@@ -4,6 +4,7 @@ title: home variant(家用变型) ICON转svg、png下载
 name: home-variant
 zhTips: 家用变型,房屋装饰
 tags: ["home-automation"]
+search: house-variant
 
 ---
 

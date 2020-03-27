@@ -4,6 +4,7 @@ title: chart bubble(气泡图) ICON转svg、png下载
 name: chart-bubble
 zhTips: 气泡图
 tags: ["math"]
+search: bubble-chart
 
 ---
 

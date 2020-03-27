@@ -4,6 +4,7 @@ title: music clef alto(中音谱号) ICON转svg、png下载
 name: music-clef-alto
 zhTips: 中音谱号,男高音谱号,女高音谱号,男中音谱号
 tags: ["music"]
+search: music-c-clef,music-clef-tenor,music-clef-soprano,music-clef-baritone
 
 ---
 

@@ -4,6 +4,7 @@ title: sort alphabetical variant(按字母顺序排序) ICON转svg、png下载
 name: sort-alphabetical-variant
 zhTips: 按字母顺序排序,按字母排序
 tags: ["text-content-format"]
+search: sort-by-alpha,sort-alphabetically
 
 ---
 

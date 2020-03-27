@@ -4,6 +4,7 @@ title: barley(大麦) ICON转svg、png下载
 name: barley
 zhTips: 大麦,谷物,小麦,面筋
 tags: ["agriculture","food-drink"]
+search: grain,wheat,gluten
 
 ---
 

@@ -5,6 +5,7 @@ name: pen-nib
 zhTips: 笔尖,设计,编辑,钢笔,更新,编写
 tags: ["business","design","editors","objects"]
 pre: fas
+search: design,edit,fountain pen,update,write
 
 ---
 

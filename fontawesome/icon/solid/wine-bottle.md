@@ -5,6 +5,7 @@ name: wine-bottle
 zhTips: 葡萄酒瓶,酒精,饮料,赤霞珠,玻璃,葡萄​​,梅洛,长相思
 tags: ["autumn","beverage"]
 pre: fas
+search: alcohol,beverage,cabernet,drink,glass,grapes,merlot,sauvignon
 
 ---
 

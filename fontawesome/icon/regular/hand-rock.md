@@ -5,6 +5,7 @@ name: hand-rock
 zhTips: Rock（Hand）,拳头,游戏,roshambo
 tags: ["hands"]
 pre: far
+search: fist,game,roshambo
 
 ---
 

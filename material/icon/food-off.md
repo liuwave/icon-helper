@@ -4,6 +4,7 @@ title: food off(快餐) ICON转svg、png下载
 name: food-off
 zhTips: 快餐
 tags: ["food-drink"]
+search: fast-food-off
 
 ---
 

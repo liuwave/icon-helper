@@ -5,6 +5,7 @@ name: people-carry
 zhTips: 人员携带,盒子,携带,脆弱,帮助,搬运工,包裹
 tags: ["moving","users-people"]
 pre: fas
+search: box,carry,fragile,help,movers,package
 
 ---
 

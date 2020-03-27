@@ -4,6 +4,7 @@ title: video off(关闭视频) ICON转svg、png下载
 name: video-off
 zhTips: 关闭视频,关闭摄像头
 tags: ["video-movie","home-automation"]
+search: videocam-off
 
 ---
 

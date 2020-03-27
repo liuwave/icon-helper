@@ -4,6 +4,7 @@ title: play pause(播放暂停) ICON转svg、png下载
 name: play-pause
 zhTips: 播放暂停
 tags: ["home-automation"]
+search: 
 
 ---
 

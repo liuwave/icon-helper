@@ -4,6 +4,7 @@ title: folder text outline(文件夹文本轮廓) ICON转svg、png下载
 name: folder-text-outline
 zhTips: 文件夹文本轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

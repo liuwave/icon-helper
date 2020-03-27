@@ -4,6 +4,7 @@ title: calendar week begin(日历周开始) ICON转svg、png下载
 name: calendar-week-begin
 zhTips: 日历周开始,活动周开始
 tags: ["date-time"]
+search: event-week-begin
 
 ---
 

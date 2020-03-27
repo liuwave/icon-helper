@@ -4,6 +4,7 @@ title: radiator off(散热器关闭) ICON转svg、png下载
 name: radiator-off
 zhTips: 散热器关闭,加热器关闭
 tags: []
+search: heater-off
 
 ---
 

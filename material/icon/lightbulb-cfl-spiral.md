@@ -4,6 +4,7 @@ title: lightbulb cfl spiral(灯泡cfl螺旋) ICON转svg、png下载
 name: lightbulb-cfl-spiral
 zhTips: 灯泡cfl螺旋
 tags: ["home-automation"]
+search: bulb-cfl-spiral
 
 ---
 

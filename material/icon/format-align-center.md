@@ -4,6 +4,7 @@ title: format align center(格式对齐中心) ICON转svg、png下载
 name: format-align-center
 zhTips: 格式对齐中心
 tags: ["text-content-format"]
+search: format-align-centre
 
 ---
 

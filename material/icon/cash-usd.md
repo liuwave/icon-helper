@@ -4,6 +4,7 @@ title: cash usd(Cash USD) ICON转svg、png下载
 name: cash-usd
 zhTips: Cash USD,Local atm,money usd
 tags: ["currency","banking"]
+search: local-atm,money-usd
 
 ---
 

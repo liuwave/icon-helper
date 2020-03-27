@@ -4,6 +4,7 @@ title: format font size increase(格式字体大小增加) ICON转svg、png下�
 name: format-font-size-increase
 zhTips: 格式字体大小增加
 tags: ["text-content-format"]
+search: 
 
 ---
 

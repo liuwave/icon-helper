@@ -5,6 +5,7 @@ name: balance-scale
 zhTips: 平衡秤,平衡,正义,法律,措施,重量
 tags: ["business","finance","maps","objects","political"]
 pre: fas
+search: balanced,justice,legal,measure,weight
 
 ---
 

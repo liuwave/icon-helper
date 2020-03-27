@@ -4,6 +4,7 @@ title: cellphone link off(手机链接关闭) ICON转svg、png下载
 name: cellphone-link-off
 zhTips: 手机链接关闭,智能手机链接关闭,phonelink关闭
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone-link-off,smartphone-link-off,phonelink-off
 
 ---
 

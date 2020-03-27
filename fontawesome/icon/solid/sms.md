@@ -5,6 +5,7 @@ name: sms
 zhTips: 短信,聊天,对话,消息,移动,通知,电话
 tags: ["chat"]
 pre: fas
+search: chat,conversation,message,mobile,notification,phone,sms,texting
 
 ---
 

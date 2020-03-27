@@ -4,6 +4,7 @@ title: card account details(卡帐户详细信息) ICON转svg、png下载
 name: card-account-details
 zhTips: 卡帐户详细信息,卡识别,用户卡详细信息,身份证,人卡详细信息,驾驶执照,名片
 tags: ["account-user"]
+search: identification-card,user-card-details,id-card,person-card-details,drivers-license,business-card
 
 ---
 

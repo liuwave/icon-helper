@@ -5,6 +5,7 @@ name: hand-holding-heart
 zhTips: 手持心,携带,慈善,礼物,举升,包装
 tags: ["charity","hands"]
 pre: fas
+search: carry,charity,gift,lift,package
 
 ---
 

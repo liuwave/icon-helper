@@ -4,6 +4,7 @@ title: calendar week(日历周) ICON转svg、png下载
 name: calendar-week
 zhTips: 日历周,活动周
 tags: ["date-time"]
+search: event-week
 
 ---
 

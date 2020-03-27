@@ -4,6 +4,7 @@ title: card account mail(卡帐户邮件) ICON转svg、png下载
 name: card-account-mail
 zhTips: 卡帐户邮件,联系邮件
 tags: ["account-user"]
+search: contact-mail
 
 ---
 

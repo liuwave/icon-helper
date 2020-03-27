@@ -4,6 +4,7 @@ title: hammer screwdriver(螺丝刀锤) ICON转svg、png下载
 name: hammer-screwdriver
 zhTips: 螺丝刀锤,工具
 tags: ["hardware-tools"]
+search: tools
 
 ---
 

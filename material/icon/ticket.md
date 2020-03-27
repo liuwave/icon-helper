@@ -4,6 +4,7 @@ title: ticket(门票) ICON转svg、png下载
 name: ticket
 zhTips: 门票,当地活动,当地玩乐,当地景点
 tags: []
+search: local-activity,local-play,local-attraction
 
 ---
 

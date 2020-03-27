@@ -4,6 +4,7 @@ title: code braces(代码花括号) ICON转svg、png下载
 name: code-braces
 zhTips: 代码花括号,设置
 tags: ["developer-languages","math"]
+search: set
 
 ---
 

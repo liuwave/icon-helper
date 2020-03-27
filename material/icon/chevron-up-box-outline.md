@@ -4,6 +4,7 @@ title: chevron up box outline(V形框轮廓) ICON转svg、png下载
 name: chevron-up-box-outline
 zhTips: V形框轮廓
 tags: ["arrow"]
+search: 
 
 ---
 

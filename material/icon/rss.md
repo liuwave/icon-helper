@@ -4,6 +4,7 @@ title: rss(RSS) ICON转svg、png下载
 name: rss
 zhTips: RSS,RSS提要
 tags: []
+search: rss-feed
 
 ---
 

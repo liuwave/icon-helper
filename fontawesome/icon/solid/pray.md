@@ -5,6 +5,7 @@ name: pray
 zhTips: 祈祷,跪下,敬拜,宗教,崇拜
 tags: ["religion","users-people"]
 pre: fas
+search: kneel,preach,religion,worship
 
 ---
 

@@ -4,6 +4,7 @@ title: application(应用程序) ICON转svg、png下载
 name: application
 zhTips: 应用程序,网络资产
 tags: []
+search: web-asset
 
 ---
 

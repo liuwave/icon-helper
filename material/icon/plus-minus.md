@@ -4,6 +4,7 @@ title: plus minus(加号) ICON转svg、png下载
 name: plus-minus
 zhTips: 加号
 tags: ["math"]
+search: 
 
 ---
 

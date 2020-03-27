@@ -5,6 +5,7 @@ name: book-medical
 zhTips: 医学书籍,日记,文档,健康,历史,新闻,图书馆,阅读,记录
 tags: ["medical","pharmacy"]
 pre: fas
+search: diary,documentation,health,history,journal,library,read,record
 
 ---
 

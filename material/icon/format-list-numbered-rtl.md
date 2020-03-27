@@ -4,6 +4,7 @@ title: format list numbered rtl(格式编号列表rtl) ICON转svg、png下载
 name: format-list-numbered-rtl
 zhTips: 格式编号列表rtl,格式编号列表从右到左
 tags: ["text-content-format"]
+search: format-list-numbered-right-to-left
 
 ---
 

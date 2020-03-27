@@ -4,6 +4,7 @@ title: grill outline(烧烤轮廓) ICON转svg、png下载
 name: grill-outline
 zhTips: 烧烤轮廓,木炭轮廓
 tags: ["food-drink"]
+search: barbecue-outline,bbq-outline,charcoal-outline
 
 ---
 

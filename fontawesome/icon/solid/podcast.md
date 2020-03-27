@@ -5,6 +5,7 @@ name: podcast
 zhTips: 播客,音频,广播,音乐,声音
 tags: ["audio-video"]
 pre: fas
+search: audio,broadcast,music,sound
 
 ---
 

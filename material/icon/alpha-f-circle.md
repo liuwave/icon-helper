@@ -4,6 +4,7 @@ title: alpha f circle(alpha f圈) ICON转svg、png下载
 name: alpha-f-circle
 zhTips: alpha f圈,字母f圈
 tags: ["alpha-numeric"]
+search: alphabet-f-circle,letter-f-circle
 
 ---
 

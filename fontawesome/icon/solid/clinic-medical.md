@@ -5,6 +5,7 @@ name: clinic-medical
 zhTips: 医疗诊所,covid 19,医生,普通科医生,医院,医务室,医学,办公室,门诊
 tags: ["buildings","medical","pharmacy"]
 pre: fas
+search: covid-19,doctor,general practitioner,hospital,infirmary,medicine,office,outpatient
 
 ---
 

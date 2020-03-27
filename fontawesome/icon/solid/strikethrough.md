@@ -5,6 +5,7 @@ name: strikethrough
 zhTips: 删除线,取消,编辑,字体,格式,文本,类型
 tags: ["editors"]
 pre: fas
+search: cancel,edit,font,format,text,type
 
 ---
 

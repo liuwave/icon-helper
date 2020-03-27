@@ -4,6 +4,7 @@ title: shield alert outline(防护罩警告轮廓) ICON转svg、png下载
 name: shield-alert-outline
 zhTips: 防护罩警告轮廓
 tags: ["alert-error"]
+search: shield-warning-outline
 
 ---
 

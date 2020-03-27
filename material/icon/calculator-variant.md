@@ -4,6 +4,7 @@ title: calculator variant(口音计算器) ICON转svg、png下载
 name: calculator-variant
 zhTips: 口音计算器
 tags: ["math"]
+search: 
 
 ---
 

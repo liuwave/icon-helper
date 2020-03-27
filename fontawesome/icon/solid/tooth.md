@@ -5,6 +5,7 @@ name: tooth
 zhTips: 牙齿,二头肌,牙医,磨牙,嘴巴
 tags: ["medical"]
 pre: fas
+search: bicuspid,dental,dentist,molar,mouth,teeth
 
 ---
 

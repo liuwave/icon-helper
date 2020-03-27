@@ -4,6 +4,7 @@ title: image multiple(图像多个) ICON转svg、png下载
 name: image-multiple
 zhTips: 图像多个,收藏集,图片库,图像
 tags: []
+search: collections,photo-library,images
 
 ---
 

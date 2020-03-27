@@ -4,6 +4,7 @@ title: radiator(暖气片) ICON转svg、png下载
 name: radiator
 zhTips: 暖气片,加热器
 tags: ["home-automation"]
+search: heater
 
 ---
 

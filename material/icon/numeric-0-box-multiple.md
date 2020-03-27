@@ -4,6 +4,7 @@ title: numeric 0 box multiple(数字0框倍数) ICON转svg、png下载
 name: numeric-0-box-multiple
 zhTips: 数字0框倍数
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

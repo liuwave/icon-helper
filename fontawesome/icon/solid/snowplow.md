@@ -5,6 +5,7 @@ name: snowplow
 zhTips: 扫雪机,清理,冷,路,暴风雨,冬天
 tags: ["maps","objects","vehicles","winter"]
 pre: fas
+search: clean up,cold,road,storm,winter
 
 ---
 

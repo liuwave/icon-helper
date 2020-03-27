@@ -4,6 +4,7 @@ title: temperature kelvin(温度开尔文) ICON转svg、png下载
 name: temperature-kelvin
 zhTips: 温度开尔文
 tags: ["weather"]
+search: 
 
 ---
 

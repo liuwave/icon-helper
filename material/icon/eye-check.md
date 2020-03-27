@@ -4,6 +4,7 @@ title: eye check(眼部检查) ICON转svg、png下载
 name: eye-check
 zhTips: 眼部检查,眼剔
 tags: []
+search: eye-tick
 
 ---
 

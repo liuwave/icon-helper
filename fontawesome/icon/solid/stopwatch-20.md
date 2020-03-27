@@ -5,6 +5,7 @@ name: stopwatch-20
 zhTips: Stopwatch 20,ABC,倒计时,covid 19,生日快乐,我将生存,提醒,秒,时间,计时器
 tags: []
 pre: fas
+search: ABCs,countdown,covid-19,happy birthday,i will survive,reminder,seconds,time,timer
 
 ---
 

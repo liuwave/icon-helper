@@ -5,6 +5,7 @@ name: dog
 zhTips: 狗,动物,犬,哺乳动物,宠物,小狗,低音
 tags: ["animals"]
 pre: fas
+search: animal,canine,fauna,mammal,pet,pooch,puppy,woof
 
 ---
 

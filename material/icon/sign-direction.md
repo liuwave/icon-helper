@@ -4,6 +4,7 @@ title: sign direction(标志方向) ICON转svg、png下载
 name: sign-direction
 zhTips: 标志方向,里程碑
 tags: []
+search: milestone
 
 ---
 

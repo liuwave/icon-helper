@@ -5,6 +5,7 @@ name: bread-slice
 zhTips: 面包切片,烘烤,面包店,面团,面粉,面筋,谷物,三明治,酸面团,吐司,小麦,酵母
 tags: ["food"]
 pre: fas
+search: bake,bakery,baking,dough,flour,gluten,grain,sandwich,sourdough,toast,wheat,yeast
 
 ---
 

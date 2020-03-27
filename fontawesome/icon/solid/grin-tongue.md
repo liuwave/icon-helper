@@ -5,6 +5,7 @@ name: grin-tongue
 zhTips: 面对舌头,笑,表情符号,脸部
 tags: ["emoji"]
 pre: fas
+search: LOL,emoticon,face
 
 ---
 

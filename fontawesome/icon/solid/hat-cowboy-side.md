@@ -5,6 +5,7 @@ name: hat-cowboy-side
 zhTips: 牛仔帽帽,袋鼠,马,jackeroo,约翰·b。,老西部,帕德纳,牧场,牧场主,牛仔竞技表演,西方,牧马人
 tags: ["clothing"]
 pre: fas
+search: buckaroo,horse,jackeroo,john b.,old west,pardner,ranch,rancher,rodeo,western,wrangler
 
 ---
 

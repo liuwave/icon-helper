@@ -5,6 +5,7 @@ name: folder
 zhTips: 文件夹,存档,目录,文档,文件
 tags: ["business","code","files","interfaces","shapes","status","writing"]
 pre: far
+search: archive,directory,document,file
 
 ---
 

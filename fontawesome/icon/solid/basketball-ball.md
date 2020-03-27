@@ -5,6 +5,7 @@ name: basketball-ball
 zhTips: 篮球,运球,扣篮
 tags: ["sports"]
 pre: fas
+search: dribble,dunk,hoop,nba
 
 ---
 

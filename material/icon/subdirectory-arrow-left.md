@@ -4,6 +4,7 @@ title: subdirectory arrow left(子目录向左箭头) ICON转svg、png下载
 name: subdirectory-arrow-left
 zhTips: 子目录向左箭头
 tags: ["arrow"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: stopwatch
 zhTips: 秒表,时钟,提醒,时间
 tags: ["date-time","objects"]
 pre: fas
+search: clock,reminder,time
 
 ---
 

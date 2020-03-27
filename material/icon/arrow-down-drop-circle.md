@@ -4,6 +4,7 @@ title: arrow down drop circle(向下箭头放圆圈) ICON转svg、png下载
 name: arrow-down-drop-circle
 zhTips: 向下箭头放圆圈,底部箭头放圆圈
 tags: ["arrow"]
+search: arrow-drop-down-circle,arrow-bottom-drop-circle
 
 ---
 

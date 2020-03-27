@@ -4,6 +4,7 @@ title: close circle(关闭圈) ICON转svg、png下载
 name: close-circle
 zhTips: 关闭圈,删除圈,取消,乘以圈
 tags: []
+search: remove-circle,cancel,multiply-circle
 
 ---
 

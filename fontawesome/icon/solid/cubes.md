@@ -5,6 +5,7 @@ name: cubes
 zhTips: 多维数据集,3d,块,骰子,包,金字塔,方形,堆栈,tesseract
 tags: ["objects"]
 pre: fas
+search: 3d,block,dice,package,pyramid,square,stack,tesseract
 
 ---
 

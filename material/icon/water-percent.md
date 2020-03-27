@@ -4,6 +4,7 @@ title: water percent(水百分比) ICON转svg、png下载
 name: water-percent
 zhTips: 水百分比,湿度
 tags: ["weather","home-automation"]
+search: humidity
 
 ---
 

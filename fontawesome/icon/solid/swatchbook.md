@@ -5,6 +5,7 @@ name: swatchbook
 zhTips: Swatchbook,Pantone,颜色,设计,色相,调色板
 tags: ["design"]
 pre: fas
+search: Pantone,color,design,hue,palette
 
 ---
 

@@ -4,6 +4,7 @@ title: bash(bash) ICON转svg、png下载
 name: bash
 zhTips: bash
 tags: ["developer-languages"]
+search: 
 
 ---
 

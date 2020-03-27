@@ -5,6 +5,7 @@ name: th-large
 zhTips: th大块,块,框,网格,正方形
 tags: ["editors"]
 pre: fas
+search: blocks,boxes,grid,squares
 
 ---
 

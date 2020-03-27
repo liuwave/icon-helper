@@ -5,6 +5,7 @@ name: rupee-sign
 zhTips: 印度卢比符号,货币,印度卢比
 tags: ["currency"]
 pre: fas
+search: currency,indian,inr,money
 
 ---
 

@@ -4,6 +4,7 @@ title: math norm box(数学范数框) ICON转svg、png下载
 name: math-norm-box
 zhTips: 数学范数框,代码或框,并行框
 tags: ["math","developer-languages"]
+search: code-or-box,parallel-box
 
 ---
 

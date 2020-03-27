@@ -4,6 +4,7 @@ title: pharmacy(药房) ICON转svg、png下载
 name: pharmacy
 zhTips: 药房,本地药房
 tags: ["medical-hospital"]
+search: chemist,local-pharmacy
 
 ---
 

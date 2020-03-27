@@ -5,6 +5,7 @@ name: grin-squint
 zhTips: 咧着嘴笑着脸,图释,脸,笑,微笑
 tags: ["emoji"]
 pre: far
+search: emoticon,face,laugh,smile
 
 ---
 

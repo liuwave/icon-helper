@@ -4,6 +4,7 @@ title: lighthouse(灯塔) ICON转svg、png下载
 name: lighthouse
 zhTips: 灯塔
 tags: []
+search: beacon
 
 ---
 

@@ -5,6 +5,7 @@ name: cotton-bureau
 zhTips: 棉花局,服装,t恤
 tags: []
 pre: fab
+search: clothing,t-shirts,tshirts
 
 ---
 

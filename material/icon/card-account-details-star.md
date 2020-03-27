@@ -4,6 +4,7 @@ title: card account details star(卡帐户详细信息明星) ICON转svg、png�
 name: card-account-details-star
 zhTips: 卡帐户详细信息明星
 tags: ["account-user"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: medkit
 zhTips: medkit,急救,健康,帮助,支持
 tags: ["health","maps","objects"]
 pre: fas
+search: first aid,firstaid,health,help,support
 
 ---
 

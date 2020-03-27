@@ -5,6 +5,7 @@ name: chess-board
 zhTips: 棋盘,棋子,游戏,策略
 tags: ["chess","games"]
 pre: fas
+search: board,checkmate,game,strategy
 
 ---
 

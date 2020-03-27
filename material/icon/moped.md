@@ -4,6 +4,7 @@ title: moped(轻便摩托车) ICON转svg、png下载
 name: moped
 zhTips: 轻便摩托车,踏板车,大黄蜂,送餐
 tags: ["transportation-road","transportation-other"]
+search: scooter,vespa,delivery-dining
 
 ---
 

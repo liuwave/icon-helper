@@ -4,6 +4,7 @@ title: alpha l circle(字母l圈) ICON转svg、png下载
 name: alpha-l-circle
 zhTips: 字母l圈
 tags: ["alpha-numeric"]
+search: alphabet-l-circle,letter-l-circle
 
 ---
 

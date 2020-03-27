@@ -4,6 +4,7 @@ title: google chrome(Google chrome) ICON转svg、png下载
 name: google-chrome
 zhTips: Google chrome,chromecast
 tags: ["brand-logo"]
+search: chromecast
 
 ---
 

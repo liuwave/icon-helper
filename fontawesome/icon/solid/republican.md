@@ -5,6 +5,7 @@ name: republican
 zhTips: 共和党人,美国,保守派,选举,大象,政治,共和党,右,右翼
 tags: ["political"]
 pre: fas
+search: american,conservative,election,elephant,politics,republican party,right,right-wing,usa
 
 ---
 

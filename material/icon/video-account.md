@@ -4,6 +4,7 @@ title: video account(视频帐户) ICON转svg、png下载
 name: video-account
 zhTips: 视频帐户,用户视频
 tags: ["account-user","video-movie"]
+search: video-user
 
 ---
 

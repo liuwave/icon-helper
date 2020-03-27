@@ -4,6 +4,7 @@ title: outdoor lamp(户外灯) ICON转svg、png下载
 name: outdoor-lamp
 zhTips: 户外灯
 tags: ["home-automation"]
+search: outdoor-light
 
 ---
 

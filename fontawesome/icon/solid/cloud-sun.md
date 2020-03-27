@@ -5,6 +5,7 @@ name: cloud-sun
 zhTips: 乌云密布,晴天,白天,秋天,户外,阴天,部分多云
 tags: ["autumn","spring","weather"]
 pre: fas
+search: clear,day,daytime,fall,outdoors,overcast,partly cloudy
 
 ---
 

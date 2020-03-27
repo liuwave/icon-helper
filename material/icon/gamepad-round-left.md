@@ -4,6 +4,7 @@ title: gamepad round left(游戏手柄向左圆) ICON转svg、png下载
 name: gamepad-round-left
 zhTips: 游戏手柄向左圆
 tags: ["gaming-rpg"]
+search: 
 
 ---
 

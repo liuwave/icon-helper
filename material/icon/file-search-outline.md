@@ -4,6 +4,7 @@ title: file search outline(文件搜索概述) ICON转svg、png下载
 name: file-search-outline
 zhTips: 文件搜索概述
 tags: ["files-folders"]
+search: 
 
 ---
 

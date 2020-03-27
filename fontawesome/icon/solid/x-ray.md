@@ -5,6 +5,7 @@ name: x-ray
 zhTips: X射线,健康,医学,放射线图像,放射线,骨骼
 tags: ["medical"]
 pre: fas
+search: health,medical,radiological images,radiology,skeleton
 
 ---
 

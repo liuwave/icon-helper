@@ -5,6 +5,7 @@ name: blender-phone
 zhTips: 搅拌器电话,家电,鸡尾酒,通信,幻想,奶昔,搅拌机,浓汤,傻
 tags: []
 pre: fas
+search: appliance,cocktail,communication,fantasy,milkshake,mixer,puree,silly,smoothie
 
 ---
 

@@ -4,6 +4,7 @@ title: table arrow up(表格向上箭头) ICON转svg、png下载
 name: table-arrow-up
 zhTips: 表格向上箭头,表格上传
 tags: []
+search: table-upload
 
 ---
 

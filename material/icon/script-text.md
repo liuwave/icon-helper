@@ -4,6 +4,7 @@ title: script text(脚本文本) ICON转svg、png下载
 name: script-text
 zhTips: 脚本文本,滚动文本
 tags: ["gaming-rpg"]
+search: scroll-text
 
 ---
 

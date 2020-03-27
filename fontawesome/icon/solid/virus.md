@@ -5,6 +5,7 @@ name: virus
 zhTips: 病毒,错误,covid 19,流感,健康,生病
 tags: ["medical"]
 pre: fas
+search: bug,covid-19,flu,health,sick,viral
 
 ---
 

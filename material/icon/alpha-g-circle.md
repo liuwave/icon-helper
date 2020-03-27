@@ -4,6 +4,7 @@ title: alpha g circle(字母g圈) ICON转svg、png下载
 name: alpha-g-circle
 zhTips: 字母g圈
 tags: ["alpha-numeric"]
+search: alphabet-g-circle,letter-g-circle
 
 ---
 

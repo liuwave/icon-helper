@@ -5,6 +5,7 @@ name: calendar-minus
 zhTips: 日历减号,日历,日期,删除,事件,负数,时间表,时间,何时
 tags: ["date-time","interfaces","status"]
 pre: far
+search: calendar,date,delete,event,negative,remove,schedule,time,when
 
 ---
 

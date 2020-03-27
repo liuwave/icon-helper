@@ -4,6 +4,7 @@ title: volume plus(音量增加) ICON转svg、png下载
 name: volume-plus
 zhTips: 音量增加
 tags: ["audio","home-automation","cellphone-phone"]
+search: volume-increase
 
 ---
 

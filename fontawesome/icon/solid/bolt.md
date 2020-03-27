@@ -5,6 +5,7 @@ name: bolt
 zhTips: 闪电,电力,天气,zap
 tags: ["images","weather"]
 pre: fas
+search: electricity,lightning,weather,zap
 
 ---
 

@@ -5,6 +5,7 @@ name: temperature-low
 zhTips: 低温,冷,凉,阴暗19,汞,温度计,冬天
 tags: ["science","weather"]
 pre: fas
+search: cold,cool,covid-19,mercury,thermometer,winter
 
 ---
 

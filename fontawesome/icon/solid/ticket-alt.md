@@ -5,6 +5,7 @@ name: ticket-alt
 zhTips: 备用票,电影,通行证,支持,票
 tags: ["maps","objects"]
 pre: fas
+search: movie,pass,support,ticket
 
 ---
 

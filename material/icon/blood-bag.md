@@ -4,6 +4,7 @@ title: blood bag(血袋) ICON转svg、png下载
 name: blood-bag
 zhTips: 血袋
 tags: ["medical-hospital"]
+search: 
 
 ---
 

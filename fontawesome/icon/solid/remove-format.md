@@ -5,6 +5,7 @@ name: remove-format
 zhTips: 删除格式,取消,字体,格式,删除,样式,文本
 tags: ["editors"]
 pre: fas
+search: cancel,font,format,remove,style,text
 
 ---
 

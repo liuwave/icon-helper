@@ -5,6 +5,7 @@ name: temperature-high
 zhTips: 高温,烹饪,19,水银,夏季,温度计,温暖
 tags: ["science","weather"]
 pre: fas
+search: cook,covid-19,mercury,summer,thermometer,warm
 
 ---
 

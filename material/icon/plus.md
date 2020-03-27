@@ -4,6 +4,7 @@ title: plus(加) ICON转svg、png下载
 name: plus
 zhTips: 加
 tags: ["math"]
+search: add
 
 ---
 

@@ -5,6 +5,7 @@ name: internet-explorer
 zhTips: Internet Explorer,浏览器,即
 tags: []
 pre: fab
+search: browser,ie
 
 ---
 

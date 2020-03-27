@@ -4,6 +4,7 @@ title: nfc(nfc) ICON转svg、png下载
 name: nfc
 zhTips: nfc,近距离通讯
 tags: []
+search: near-field-communication
 
 ---
 

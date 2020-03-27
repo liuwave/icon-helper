@@ -5,6 +5,7 @@ name: arrow-up
 zhTips: 箭头向上,向前,上载
 tags: ["arrows"]
 pre: fas
+search: forward,upload
 
 ---
 

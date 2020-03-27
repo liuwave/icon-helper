@@ -4,6 +4,7 @@ title: cash 100(现金100) ICON转svg、png下载
 name: cash-100
 zhTips: 现金100,金钱100
 tags: ["currency","banking"]
+search: money-100
 
 ---
 

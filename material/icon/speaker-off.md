@@ -4,6 +4,7 @@ title: speaker off(扬声器关闭) ICON转svg、png下载
 name: speaker-off
 zhTips: 扬声器关闭
 tags: ["audio","home-automation"]
+search: 
 
 ---
 

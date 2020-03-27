@@ -5,6 +5,7 @@ name: truck-loading
 zhTips: 卡车装载,箱,货物,交付,库存,移动,租赁,车辆
 tags: ["moving"]
 pre: fas
+search: box,cargo,delivery,inventory,moving,rental,vehicle
 
 ---
 

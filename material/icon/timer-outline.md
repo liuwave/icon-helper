@@ -4,6 +4,7 @@ title: timer outline(计时器轮廓) ICON转svg、png下载
 name: timer-outline
 zhTips: 计时器轮廓,秒表轮廓
 tags: ["date-time"]
+search: stopwatch-outline
 
 ---
 

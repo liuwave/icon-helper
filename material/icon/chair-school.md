@@ -4,6 +4,7 @@ title: chair school(椅子学校) ICON转svg、png下载
 name: chair-school
 zhTips: 椅子学校,书桌
 tags: []
+search: desk
 
 ---
 

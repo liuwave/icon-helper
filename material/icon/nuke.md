@@ -4,6 +4,7 @@ title: nuke(核弹) ICON转svg、png下载
 name: nuke
 zhTips: 核弹,原子弹
 tags: []
+search: nuclear,atomic-bomb
 
 ---
 

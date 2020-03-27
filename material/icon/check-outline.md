@@ -4,6 +4,7 @@ title: check outline(检查轮廓) ICON转svg、png下载
 name: check-outline
 zhTips: 检查轮廓,完成轮廓,刻度线
 tags: []
+search: done-outline,tick-outline
 
 ---
 

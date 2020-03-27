@@ -4,6 +4,7 @@ title: card account details star outline(卡帐户详细信息星空轮廓) ICON
 name: card-account-details-star-outline
 zhTips: 卡帐户详细信息星空轮廓
 tags: ["account-user"]
+search: 
 
 ---
 

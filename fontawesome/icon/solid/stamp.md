@@ -5,6 +5,7 @@ name: stamp
 zhTips: 邮票,艺术品,证书,烙印,橡胶,密封
 tags: ["design","finance"]
 pre: fas
+search: art,certificate,imprint,rubber,seal
 
 ---
 

@@ -4,6 +4,7 @@ title: table column plus after(表列加后) ICON转svg、png下载
 name: table-column-plus-after
 zhTips: 表列加后
 tags: ["text-content-format"]
+search: table-column-add-after
 
 ---
 

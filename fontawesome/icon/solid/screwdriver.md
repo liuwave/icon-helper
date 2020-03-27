@@ -5,6 +5,7 @@ name: screwdriver
 zhTips: 螺丝刀,管理员,修复,机械,维修,设置,工具
 tags: ["construction","editors","interfaces","objects"]
 pre: fas
+search: admin,fix,mechanic,repair,settings,tool
 
 ---
 

@@ -4,6 +4,7 @@ title: clipboard pulse outline(剪贴板脉冲轮廓) ICON转svg、png下载
 name: clipboard-pulse-outline
 zhTips: 剪贴板脉冲轮廓,剪贴板要点轮廓
 tags: ["medical-hospital"]
+search: clipboard-vitals-outline
 
 ---
 

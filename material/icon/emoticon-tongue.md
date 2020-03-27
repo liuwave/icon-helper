@@ -4,6 +4,7 @@ title: emoticon tongue(表情符号的舌头) ICON转svg、png下载
 name: emoticon-tongue
 zhTips: 表情符号的舌头,笑脸的舌头
 tags: ["emoji"]
+search: smiley-tongue
 
 ---
 

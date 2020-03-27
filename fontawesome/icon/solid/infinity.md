@@ -5,6 +5,7 @@ name: infinity
 zhTips: 无限,永恒,永远,数学
 tags: ["hotel","mathematics"]
 pre: fas
+search: eternity,forever,math
 
 ---
 

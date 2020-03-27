@@ -5,6 +5,7 @@ name: link
 zhTips: 链接,附件,链条,连接
 tags: ["editors"]
 pre: fas
+search: attach,attachment,chain,connect
 
 ---
 

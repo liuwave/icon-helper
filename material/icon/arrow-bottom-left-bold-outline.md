@@ -4,6 +4,7 @@ title: arrow bottom left bold outline(左下箭头为粗体) ICON转svg、png下
 name: arrow-bottom-left-bold-outline
 zhTips: 左下箭头为粗体
 tags: ["arrow"]
+search: arrow-down-left-bold-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: cc-mastercard
 zhTips: 万事达信用卡
 tags: ["payments-shopping"]
 pre: fab
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: brain
 zhTips: 脑,小脑,灰质,智力,长延髓,头脑,面条,机智
 tags: ["medical","science"]
 pre: fas
+search: cerebellum,gray matter,intellect,medulla oblongata,mind,noodle,wit
 
 ---
 

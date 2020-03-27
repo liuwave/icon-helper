@@ -4,6 +4,7 @@ title: regex(正则表达式) ICON转svg、png下载
 name: regex
 zhTips: 正则表达式
 tags: []
+search: regular-expression
 
 ---
 

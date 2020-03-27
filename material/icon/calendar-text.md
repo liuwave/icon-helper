@@ -4,6 +4,7 @@ title: calendar text(日历文本) ICON转svg、png下载
 name: calendar-text
 zhTips: 日历文本,事件备忘,事件文本
 tags: ["date-time"]
+search: event-note,event-text
 
 ---
 

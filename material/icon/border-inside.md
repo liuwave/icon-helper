@@ -4,6 +4,7 @@ title: border inside(边框内) ICON转svg、png下载
 name: border-inside
 zhTips: 边框内
 tags: ["text-content-format"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: lightbulb multiple off outline(灯泡偏离轮廓) ICON转svg、png下载
 name: lightbulb-multiple-off-outline
 zhTips: 灯泡偏离轮廓
 tags: ["home-automation"]
+search: lightbulbs-off-outline,bulb-multiple-off-outline,bulbs-off-outline
 
 ---
 

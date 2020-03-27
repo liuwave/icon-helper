@@ -4,6 +4,7 @@ title: file swap(文件交换) ICON转svg、png下载
 name: file-swap
 zhTips: 文件交换,文件传输
 tags: ["files-folders"]
+search: file-transfer
 
 ---
 

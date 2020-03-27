@@ -5,6 +5,7 @@ name: cogs
 zhTips: 嵌齿轮,齿轮,机械,设置,链轮,轮
 tags: ["interfaces","objects"]
 pre: fas
+search: gears,mechanical,settings,sprocket,wheel
 
 ---
 

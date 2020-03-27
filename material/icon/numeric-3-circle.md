@@ -4,6 +4,7 @@ title: numeric 3 circle(数字3圈) ICON转svg、png下载
 name: numeric-3-circle
 zhTips: 数字3圈
 tags: ["alpha-numeric"]
+search: numeric-three-circle,number-3-circle,number-three-circle
 
 ---
 

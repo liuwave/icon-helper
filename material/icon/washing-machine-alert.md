@@ -4,6 +4,7 @@ title: washing machine alert(洗衣机警报) ICON转svg、png下载
 name: washing-machine-alert
 zhTips: 洗衣机警报
 tags: ["home-automation","alert-error"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: select multiple marker(选择多个标记) ICON转svg、png下载
 name: select-multiple-marker
 zhTips: 选择多个标记
 tags: []
+search: 
 
 ---
 

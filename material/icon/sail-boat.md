@@ -4,6 +4,7 @@ title: sail boat(帆船) ICON转svg、png下载
 name: sail-boat
 zhTips: 帆船,船
 tags: ["sport","transportation-water"]
+search: boat
 
 ---
 

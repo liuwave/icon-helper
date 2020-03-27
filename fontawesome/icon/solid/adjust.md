@@ -5,6 +5,7 @@ name: adjust
 zhTips: 调整,对比,深色,浅色,饱和度
 tags: ["design","images"]
 pre: fas
+search: contrast,dark,light,saturation
 
 ---
 

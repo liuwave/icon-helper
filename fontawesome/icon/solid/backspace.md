@@ -5,6 +5,7 @@ name: backspace
 zhTips: 退格,命令,删除,擦除,键盘,撤消
 tags: []
 pre: fas
+search: command,delete,erase,keyboard,undo
 
 ---
 

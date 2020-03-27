@@ -4,6 +4,7 @@ title: receipt(收据) ICON转svg、png下载
 name: receipt
 zhTips: 收据,发票
 tags: []
+search: invoice
 
 ---
 

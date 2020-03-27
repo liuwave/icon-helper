@@ -4,6 +4,7 @@ title: plus circle multiple(加圈倍数) ICON转svg、png下载
 name: plus-circle-multiple
 zhTips: 加圈倍数,硬币加
 tags: []
+search: coins-plus
 
 ---
 

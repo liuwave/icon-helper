@@ -5,6 +5,7 @@ name: hotdog
 zhTips: 热狗,小圆面包,辣椒,法兰克福,犹太洁食,抛光,三明治,香肠,维也纳,韦纳
 tags: ["food","summer"]
 pre: fas
+search: bun,chili,frankfurt,frankfurter,kosher,polish,sandwich,sausage,vienna,weiner
 
 ---
 

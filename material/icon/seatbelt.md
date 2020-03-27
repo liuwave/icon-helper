@@ -4,6 +4,7 @@ title: seatbelt(安全带) ICON转svg、png下载
 name: seatbelt
 zhTips: 安全带
 tags: ["automotive"]
+search: seat-belt,safety-belt
 
 ---
 

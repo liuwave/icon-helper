@@ -4,6 +4,7 @@ title: table chair(桌椅) ICON转svg、png下载
 name: table-chair
 zhTips: 桌椅,餐厅,厨房
 tags: ["home-automation"]
+search: restaurant,kitchen,dining
 
 ---
 

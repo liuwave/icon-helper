@@ -4,6 +4,7 @@ title: pencil minus(减去铅笔) ICON转svg、png下载
 name: pencil-minus
 zhTips: 减去铅笔
 tags: []
+search: 
 
 ---
 

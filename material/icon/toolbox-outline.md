@@ -4,6 +4,7 @@ title: toolbox outline(工具箱概述) ICON转svg、png下载
 name: toolbox-outline
 zhTips: 工具箱概述,服务工具箱
 tags: ["hardware-tools"]
+search: service-toolbox
 
 ---
 

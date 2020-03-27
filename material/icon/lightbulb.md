@@ -4,6 +4,7 @@ title: lightbulb(灯泡) ICON转svg、png下载
 name: lightbulb
 zhTips: 灯泡,主意
 tags: ["home-automation"]
+search: idea,bulb
 
 ---
 

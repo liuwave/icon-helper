@@ -5,6 +5,7 @@ name: percent
 zhTips: 百分比,折扣,分数,比例,比率
 tags: ["business"]
 pre: fas
+search: discount,fraction,proportion,rate,ratio
 
 ---
 

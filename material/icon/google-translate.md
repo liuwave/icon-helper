@@ -4,6 +4,7 @@ title: google translate(Google翻译) ICON转svg、png下载
 name: google-translate
 zhTips: Google翻译,g翻译
 tags: ["brand-logo"]
+search: g-translate
 
 ---
 

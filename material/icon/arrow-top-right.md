@@ -4,6 +4,7 @@ title: arrow top right(右上箭头) ICON转svg、png下载
 name: arrow-top-right
 zhTips: 右上箭头
 tags: ["arrow"]
+search: arrow-up-right
 
 ---
 

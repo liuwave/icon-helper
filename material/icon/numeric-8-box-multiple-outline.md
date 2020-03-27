@@ -4,6 +4,7 @@ title: numeric 8 box multiple outline(数字8框多重轮廓) ICON转svg、png�
 name: numeric-8-box-multiple-outline
 zhTips: 数字8框多重轮廓,过滤器8
 tags: ["alpha-numeric","alpha-numeric"]
+search: filter-8,numeric-eight-box-multiple-outline,numeric-8-boxes-outline,number-8-box-multiple-outline
 
 ---
 

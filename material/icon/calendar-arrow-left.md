@@ -4,6 +4,7 @@ title: calendar arrow left(日历左箭头) ICON转svg、png下载
 name: calendar-arrow-left
 zhTips: 日历左箭头,重新安排
 tags: ["date-time"]
+search: reschedule
 
 ---
 

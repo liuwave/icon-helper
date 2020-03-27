@@ -5,6 +5,7 @@ name: list-ul
 zhTips: 清单ul,清单,已完成,ol,待办事项,ul
 tags: ["editors"]
 pre: fas
+search: checklist,completed,done,finished,ol,todo,ul
 
 ---
 

@@ -5,6 +5,7 @@ name: quran
 zhTips: 古兰经,书,伊斯兰教,穆斯林,宗教
 tags: ["religion"]
 pre: fas
+search: book,islam,muslim,religion
 
 ---
 

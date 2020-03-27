@@ -4,6 +4,7 @@ title: map marker minus(减去地图标记) ICON转svg、png下载
 name: map-marker-minus
 zhTips: 减去地图标记
 tags: ["navigation","geographic-information-system"]
+search: 
 
 ---
 

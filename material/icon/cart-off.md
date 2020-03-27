@@ -4,6 +4,7 @@ title: cart off(购物车关闭) ICON转svg、png下载
 name: cart-off
 zhTips: 购物车关闭,卸下购物车
 tags: ["shopping"]
+search: trolley-off,remove-shopping-cart,shopping-cart-off
 
 ---
 

@@ -5,6 +5,7 @@ name: file-medical
 zhTips: 医疗文件,文档,健康,历史记录,处方,记录
 tags: ["medical","pharmacy"]
 pre: fas
+search: document,health,history,prescription,record
 
 ---
 

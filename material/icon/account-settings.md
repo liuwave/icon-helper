@@ -4,6 +4,7 @@ title: account settings(帐户设置) ICON转svg、png下载
 name: account-settings
 zhTips: 帐户设置,用户设置,人员设置
 tags: ["account-user","settings"]
+search: user-settings,person-settings
 
 ---
 

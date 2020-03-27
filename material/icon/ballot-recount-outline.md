@@ -4,6 +4,7 @@ title: ballot recount outline(选票复数轮廓) ICON转svg、png下载
 name: ballot-recount-outline
 zhTips: 选票复数轮廓,投票复数轮廓
 tags: []
+search: vote-recount-outline
 
 ---
 

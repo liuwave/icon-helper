@@ -5,6 +5,7 @@ name: print
 zhTips: 打印,业务,副本,文档,办公室,纸张
 tags: ["business","computers","editors","maps","objects","status"]
 pre: fas
+search: business,copy,document,office,paper
 
 ---
 

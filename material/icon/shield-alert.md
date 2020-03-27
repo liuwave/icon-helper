@@ -4,6 +4,7 @@ title: shield alert(防护罩警报) ICON转svg、png下载
 name: shield-alert
 zhTips: 防护罩警报,防护罩警告
 tags: ["alert-error"]
+search: shield-warning
 
 ---
 

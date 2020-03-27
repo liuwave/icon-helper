@@ -4,6 +4,7 @@ title: flash alert(闪光警报) ICON转svg、png下载
 name: flash-alert
 zhTips: 闪光警报,闪电警报,咨询风暴
 tags: ["weather","alert-error"]
+search: lightning-alert,storm-advisory
 
 ---
 

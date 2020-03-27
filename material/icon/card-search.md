@@ -4,6 +4,7 @@ title: card search(卡片搜索) ICON转svg、png下载
 name: card-search
 zhTips: 卡片搜索,综合浏览量
 tags: []
+search: pageview
 
 ---
 

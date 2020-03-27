@@ -5,6 +5,7 @@ name: signal
 zhTips: 信号,条形图,图形,在线,接收,状态
 tags: ["interfaces","status"]
 pre: fas
+search: bars,graph,online,reception,status
 
 ---
 

@@ -4,6 +4,7 @@ title: volume high(高音量) ICON转svg、png下载
 name: volume-high
 zhTips: 高音量,音频,扬声器,免提电话
 tags: ["audio","home-automation","cellphone-phone"]
+search: audio,speaker,speakerphone
 
 ---
 

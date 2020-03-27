@@ -4,6 +4,7 @@ title: format text variant(设置文字口音格式) ICON转svg、png下载
 name: format-text-variant
 zhTips: 设置文字口音格式
 tags: ["text-content-format"]
+search: 
 
 ---
 

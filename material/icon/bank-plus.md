@@ -4,6 +4,7 @@ title: bank plus(银行加号) ICON转svg、png下载
 name: bank-plus
 zhTips: 银行加号
 tags: ["banking"]
+search: bank-add
 
 ---
 

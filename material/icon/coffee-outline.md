@@ -4,6 +4,7 @@ title: coffee outline(咖啡轮廓) ICON转svg、png下载
 name: coffee-outline
 zhTips: 咖啡轮廓,茶轮廓,杯子轮廓
 tags: ["food-drink"]
+search: tea-outline,cup-outline
 
 ---
 

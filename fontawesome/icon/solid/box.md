@@ -5,6 +5,7 @@ name: box
 zhTips: 盒,归档,容器,包装,存储
 tags: ["logistics"]
 pre: fas
+search: archive,container,package,storage
 
 ---
 

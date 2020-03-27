@@ -4,6 +4,7 @@ title: wechat(微信) ICON转svg、png下载
 name: wechat
 zhTips: 微信
 tags: ["brand-logo"]
+search: 
 
 ---
 

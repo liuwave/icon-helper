@@ -4,6 +4,7 @@ title: microphone plus(麦克风加) ICON转svg、png下载
 name: microphone-plus
 zhTips: 麦克风加
 tags: []
+search: microphone-add
 
 ---
 

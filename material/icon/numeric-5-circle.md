@@ -4,6 +4,7 @@ title: numeric 5 circle(数字5圈) ICON转svg、png下载
 name: numeric-5-circle
 zhTips: 数字5圈
 tags: ["alpha-numeric","alpha-numeric"]
+search: numeric-five-circle,number-5-circle,number-five-circle
 
 ---
 

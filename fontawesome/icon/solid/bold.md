@@ -5,6 +5,7 @@ name: bold
 zhTips: 粗体,强调,格式,文本
 tags: ["editors"]
 pre: fas
+search: emphasis,format,text
 
 ---
 

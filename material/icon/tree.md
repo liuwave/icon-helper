@@ -4,6 +4,7 @@ title: tree(树) ICON转svg、png下载
 name: tree
 zhTips: 树,儿童
 tags: ["nature"]
+search: plant
 
 ---
 

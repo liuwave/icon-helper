@@ -4,6 +4,7 @@ title: adobe acrobat(Adob​​e Acrobat) ICON转svg、png下载
 name: adobe-acrobat
 zhTips: Adob​​e Acrobat,pdf
 tags: ["brand-logo"]
+search: pdf
 
 ---
 

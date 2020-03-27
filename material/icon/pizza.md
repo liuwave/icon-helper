@@ -4,6 +4,7 @@ title: pizza(披萨) ICON转svg、png下载
 name: pizza
 zhTips: 披萨,比萨饼店,当地披萨
 tags: ["food-drink","places"]
+search: pizzeria,local-pizza
 
 ---
 

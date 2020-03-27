@@ -5,6 +5,7 @@ name: crop
 zhTips: 作物,设计,框架,蒙版,调整大小,缩小
 tags: ["design"]
 pre: fas
+search: design,frame,mask,resize,shrink
 
 ---
 

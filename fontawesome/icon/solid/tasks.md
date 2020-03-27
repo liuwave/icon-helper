@@ -5,6 +5,7 @@ name: tasks
 zhTips: 任务,清单,下载,加载,进度,项目管理,设置,待办事项
 tags: ["business","editors"]
 pre: fas
+search: checklist,downloading,downloads,loading,progress,project management,settings,to do
 
 ---
 

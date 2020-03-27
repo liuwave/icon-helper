@@ -5,6 +5,7 @@ name: wizards-of-the-coast
 zhTips: 海岸,地牢与龙,d＆d,dnd,幻想,游戏,桌面的向导
 tags: ["gaming-tabletop"]
 pre: fab
+search: Dungeons & Dragons,d&d,dnd,fantasy,game,gaming,tabletop
 
 ---
 

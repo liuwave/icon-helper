@@ -4,6 +4,7 @@ title: arrow up bold box outline(向上箭头) ICON转svg、png下载
 name: arrow-up-bold-box-outline
 zhTips: 向上箭头,加粗框轮廓
 tags: ["arrow"]
+search: arrow-top-bold-box-outline
 
 ---
 

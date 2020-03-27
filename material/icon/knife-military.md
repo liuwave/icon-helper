@@ -4,6 +4,7 @@ title: knife military(匕首匕首) ICON转svg、png下载
 name: knife-military
 zhTips: 匕首匕首
 tags: ["gaming-rpg"]
+search: dagger
 
 ---
 

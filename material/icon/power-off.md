@@ -4,6 +4,7 @@ title: power off(关机) ICON转svg、png下载
 name: power-off
 zhTips: 关机
 tags: []
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: power socket fr(电源插座fr) ICON转svg、png下载
 name: power-socket-fr
 zhTips: 电源插座fr
 tags: ["home-automation"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: alert decagram outline(警告十进制轮廓) ICON转svg、png下载
 name: alert-decagram-outline
 zhTips: 警告十进制轮廓
 tags: ["alert-error"]
+search: warning-decagram-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: bug check(错误检查) ICON转svg、png下载
 name: bug-check
 zhTips: 错误检查,错误刻度
 tags: []
+search: bug-tick
 
 ---
 

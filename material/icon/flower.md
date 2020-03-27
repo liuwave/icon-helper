@@ -4,6 +4,7 @@ title: flower(花卉) ICON转svg、png下载
 name: flower
 zhTips: 花卉,当地花店,儿童
 tags: ["nature"]
+search: local-florist,plant
 
 ---
 

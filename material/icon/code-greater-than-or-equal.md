@@ -4,6 +4,7 @@ title: code greater than or equal(代码大于或等于) ICON转svg、png下载
 name: code-greater-than-or-equal
 zhTips: 代码大于或等于
 tags: ["developer-languages","math"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: phone-slash
 zhTips: 电话斜线,通话,取消,耳机,静音,号码,支持,电话,语音
 tags: ["business","chat","communication","status"]
 pre: fas
+search: call,cancel,earphone,mute,number,support,telephone,voice
 
 ---
 

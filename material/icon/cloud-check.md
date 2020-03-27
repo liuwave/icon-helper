@@ -4,6 +4,7 @@ title: cloud check(云检查) ICON转svg、png下载
 name: cloud-check
 zhTips: 云检查,云完成,云滴答
 tags: ["cloud"]
+search: cloud-done,cloud-tick
 
 ---
 

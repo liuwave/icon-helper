@@ -4,6 +4,7 @@ title: alpha l(alpha l) ICON转svg、png下载
 name: alpha-l
 zhTips: alpha l,字母l
 tags: ["alpha-numeric"]
+search: alphabet-l,letter-l
 
 ---
 

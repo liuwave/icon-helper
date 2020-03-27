@@ -4,6 +4,7 @@ title: numeric 9 box outline(数字9框轮廓) ICON转svg、png下载
 name: numeric-9-box-outline
 zhTips: 数字9框轮廓
 tags: ["alpha-numeric","alpha-numeric"]
+search: numeric-nine-box-outline,number-9-box-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: camera
 zhTips: 相机,图像,镜头,照片,图片,记录,快门,视频
 tags: ["images","objects","payments-shopping","social"]
 pre: fas
+search: image,lens,photo,picture,record,shutter,video
 
 ---
 

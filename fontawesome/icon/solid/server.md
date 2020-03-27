@@ -5,6 +5,7 @@ name: server
 zhTips: 服务器,计算机,CPU,数据库,硬件,网络
 tags: ["computers"]
 pre: fas
+search: computer,cpu,database,hardware,network
 
 ---
 

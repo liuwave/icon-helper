@@ -4,6 +4,7 @@ title: server minus(服务器减号) ICON转svg、png下载
 name: server-minus
 zhTips: 服务器减号,服务器删除
 tags: []
+search: server-remove
 
 ---
 

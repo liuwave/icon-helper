@@ -4,6 +4,7 @@ title: home automation(家庭自动化) ICON转svg、png下载
 name: home-automation
 zhTips: 家庭自动化
 tags: ["home-automation"]
+search: 
 
 ---
 

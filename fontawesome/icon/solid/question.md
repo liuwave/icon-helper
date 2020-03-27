@@ -5,6 +5,7 @@ name: question
 zhTips: 问题,帮助,信息,支持,未知
 tags: ["interfaces","status"]
 pre: fas
+search: help,information,support,unknown
 
 ---
 

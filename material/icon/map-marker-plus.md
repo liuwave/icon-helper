@@ -4,6 +4,7 @@ title: map marker plus(加地图标记) ICON转svg、png下载
 name: map-marker-plus
 zhTips: 加地图标记,添加位置
 tags: ["navigation","geographic-information-system"]
+search: add-location
 
 ---
 

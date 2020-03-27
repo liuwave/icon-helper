@@ -5,6 +5,7 @@ name: tty
 zhTips: TTY,通信,聋人,电话,打字机,文本
 tags: ["accessibility","communication","maps"]
 pre: fas
+search: communication,deaf,telephone,teletypewriter,text
 
 ---
 

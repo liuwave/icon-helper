@@ -4,6 +4,7 @@ title: numeric 5 box outline(数字5框轮廓) ICON转svg、png下载
 name: numeric-5-box-outline
 zhTips: 数字5框轮廓
 tags: ["alpha-numeric"]
+search: numeric-five-box-outline,number-5-box-outline
 
 ---
 

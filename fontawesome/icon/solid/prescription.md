@@ -5,6 +5,7 @@ name: prescription
 zhTips: 处方,药品,医疗,药物,药房,处方药
 tags: ["health","medical","pharmacy"]
 pre: fas
+search: drugs,medical,medicine,pharmacy,rx
 
 ---
 

@@ -4,6 +4,7 @@ title: autorenew(自动更新) ICON转svg、png下载
 name: autorenew
 zhTips: 自动更新,顺时针箭头,圆形箭头
 tags: []
+search: clockwise-arrows,circular-arrows,circle-arrows
 
 ---
 

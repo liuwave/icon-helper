@@ -4,6 +4,7 @@ title: palm tree(棕榈树) ICON转svg、png下载
 name: palm-tree
 zhTips: 棕榈树
 tags: ["nature"]
+search: 
 
 ---
 

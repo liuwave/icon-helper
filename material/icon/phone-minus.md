@@ -4,6 +4,7 @@ title: phone minus(手机减号) ICON转svg、png下载
 name: phone-minus
 zhTips: 手机减号
 tags: ["cellphone-phone"]
+search: 
 
 ---
 

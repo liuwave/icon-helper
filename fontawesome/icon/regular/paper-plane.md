@@ -5,6 +5,7 @@ name: paper-plane
 zhTips: 纸飞机,空气,漂浮物,折叠,邮件,纸张,发送
 tags: ["communication","editors","objects","vehicles","writing"]
 pre: far
+search: air,float,fold,mail,paper,send
 
 ---
 

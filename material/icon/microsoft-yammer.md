@@ -4,6 +4,7 @@ title: microsoft yammer(Microsoft Yammer) ICON转svg、png下载
 name: microsoft-yammer
 zhTips: Microsoft Yammer
 tags: ["brand-logo"]
+search: 
 
 ---
 

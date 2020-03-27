@@ -4,6 +4,7 @@ title: table settings(表设置) ICON转svg、png下载
 name: table-settings
 zhTips: 表设置
 tags: ["settings"]
+search: 
 
 ---
 

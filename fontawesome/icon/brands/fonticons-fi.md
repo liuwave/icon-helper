@@ -5,6 +5,7 @@ name: fonticons-fi
 zhTips: Fonticons Fi
 tags: []
 pre: fab
+search: 
 
 ---
 

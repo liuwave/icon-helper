@@ -4,6 +4,7 @@ title: inbox arrow up(收件箱向上箭头) ICON转svg、png下载
 name: inbox-arrow-up
 zhTips: 收件箱向上箭头,从收件箱移动
 tags: []
+search: move-from-inbox
 
 ---
 

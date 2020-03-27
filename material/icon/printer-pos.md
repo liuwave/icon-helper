@@ -4,6 +4,7 @@ title: printer pos(打印机pos) ICON转svg、png下载
 name: printer-pos
 zhTips: 打印机pos,打印机销售点
 tags: ["printer"]
+search: printer-point-of-sale
 
 ---
 

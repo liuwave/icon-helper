@@ -5,6 +5,7 @@ name: chevron-circle-up
 zhTips: 雪佛龙（Chevron）向上旋转
 tags: ["arrows"]
 pre: fas
+search: arrow,collapse,upload
 
 ---
 

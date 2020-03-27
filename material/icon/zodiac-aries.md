@@ -4,6 +4,7 @@ title: zodiac aries(黄道十二宫) ICON转svg、png下载
 name: zodiac-aries
 zhTips: 黄道十二宫,星座白羊座
 tags: []
+search: horoscope-aries
 
 ---
 

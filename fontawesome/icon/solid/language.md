@@ -5,6 +5,7 @@ name: language
 zhTips: 语言,方言,成语,本地化,语音,翻译,白话
 tags: ["communication","interfaces"]
 pre: fas
+search: dialect,idiom,localize,speech,translate,vernacular
 
 ---
 

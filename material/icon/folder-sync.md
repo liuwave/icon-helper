@@ -4,6 +4,7 @@ title: folder sync(文件夹同步) ICON转svg、png下载
 name: folder-sync
 zhTips: 文件夹同步
 tags: ["files-folders"]
+search: 
 
 ---
 

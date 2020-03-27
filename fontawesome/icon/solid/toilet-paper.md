@@ -5,6 +5,7 @@ name: toilet-paper
 zhTips: 卫生纸,浴室,covid 19,万圣节,假日,厕所,胡闹,卷
 tags: ["camping","halloween","household"]
 pre: fas
+search: bathroom,covid-19,halloween,holiday,lavatory,prank,restroom,roll
 
 ---
 

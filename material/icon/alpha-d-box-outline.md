@@ -4,6 +4,7 @@ title: alpha d box outline(字母d框轮廓) ICON转svg、png下载
 name: alpha-d-box-outline
 zhTips: 字母d框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-d-box-outline,letter-d-box-outline
 
 ---
 

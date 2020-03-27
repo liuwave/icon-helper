@@ -5,6 +5,7 @@ name: cloud-sun-rain
 zhTips: 乌云密布,天,阴,降水,暴风雨,夏季,太阳阵雨
 tags: ["spring","weather"]
 pre: fas
+search: day,overcast,precipitation,storm,summer,sunshower
 
 ---
 

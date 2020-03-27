@@ -4,6 +4,7 @@ title: emoticon cool(表情符号很酷) ICON转svg、png下载
 name: emoticon-cool
 zhTips: 表情符号很酷,笑脸很酷
 tags: ["emoji"]
+search: smiley-cool
 
 ---
 

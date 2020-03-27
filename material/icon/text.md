@@ -4,6 +4,7 @@ title: text(文字) ICON转svg、png下载
 name: text
 zhTips: 文字,笔记
 tags: []
+search: notes
 
 ---
 

@@ -4,6 +4,7 @@ title: map marker(地图标记) ICON转svg、png下载
 name: map-marker
 zhTips: 地图标记,位置,地址标记,房间
 tags: ["navigation","geographic-information-system"]
+search: location,address-marker,location-on,place,room
 
 ---
 

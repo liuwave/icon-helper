@@ -5,6 +5,7 @@ name: skiing-nordic
 zhTips: 滑雪北欧人,活动,越野,健身,户外,人,季节性
 tags: ["fitness","sports","users-people","winter"]
 pre: fas
+search: activity,cross country,fitness,outdoors,person,seasonal
 
 ---
 

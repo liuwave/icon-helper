@@ -4,6 +4,7 @@ title: soccer field(足球场) ICON转svg、png下载
 name: soccer-field
 zhTips: 足球场
 tags: ["sport"]
+search: football-pitch
 
 ---
 

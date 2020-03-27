@@ -4,6 +4,7 @@ title: gate and(门与) ICON转svg、png下载
 name: gate-and
 zhTips: 门与,逻辑门与
 tags: []
+search: logic-gate-and
 
 ---
 

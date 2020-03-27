@@ -4,6 +4,7 @@ title: shield star outline(盾牌星星轮廓) ICON转svg、png下载
 name: shield-star-outline
 zhTips: 盾牌星星轮廓,徽章轮廓
 tags: []
+search: badge-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: delete alert(删除警报) ICON转svg、png下载
 name: delete-alert
 zhTips: 删除警报
 tags: ["alert-error"]
+search: 
 
 ---
 

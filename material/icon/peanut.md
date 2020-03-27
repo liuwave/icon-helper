@@ -4,6 +4,7 @@ title: peanut(花生) ICON转svg、png下载
 name: peanut
 zhTips: 花生,过敏原,食物过敏
 tags: ["food-drink"]
+search: allergen,food-allergy
 
 ---
 

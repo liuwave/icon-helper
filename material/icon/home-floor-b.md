@@ -4,6 +4,7 @@ title: home floor b(家庭地板b) ICON转svg、png下载
 name: home-floor-b
 zhTips: 家庭地板b,家庭地板地下室,房屋地板b,房屋地板地下室
 tags: ["home-automation"]
+search: home-floor-basement,house-floor-b,house-floor-basement
 
 ---
 

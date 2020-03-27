@@ -4,6 +4,7 @@ title: folder open(文件夹打开) ICON转svg、png下载
 name: folder-open
 zhTips: 文件夹打开
 tags: ["files-folders"]
+search: 
 
 ---
 

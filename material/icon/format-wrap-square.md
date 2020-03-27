@@ -4,6 +4,7 @@ title: format wrap square(方格格式) ICON转svg、png下载
 name: format-wrap-square
 zhTips: 方格格式
 tags: ["text-content-format"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: thermometer-three-quarters
 zhTips: 温度计3/4满,汞,状态,温度
 tags: ["status"]
 pre: fas
+search: mercury,status,temperature
 
 ---
 

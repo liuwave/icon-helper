@@ -4,6 +4,7 @@ title: keyboard settings outline(键盘设置概述) ICON转svg、png下载
 name: keyboard-settings-outline
 zhTips: 键盘设置概述
 tags: ["settings"]
+search: 
 
 ---
 

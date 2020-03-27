@@ -5,6 +5,7 @@ name: tv
 zhTips: 电视,计算机,显示器
 tags: ["audio-video","computers","hotel","household","objects","travel"]
 pre: fas
+search: computer,display,monitor,television
 
 ---
 

@@ -5,6 +5,7 @@ name: bowling-ball
 zhTips: 保龄球,胡同,烛台,装订线,车道,打击,帐篷
 tags: ["sports"]
 pre: fas
+search: alley,candlepin,gutter,lane,strike,tenpin
 
 ---
 

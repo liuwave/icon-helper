@@ -5,6 +5,7 @@ name: baby-carriage
 zhTips: 婴儿车,儿童车,承运人,婴儿,推,运输,步行,车轮
 tags: ["childhood","hotel","objects","vehicles"]
 pre: fas
+search: buggy,carrier,infant,push,stroller,transportation,walk,wheels
 
 ---
 

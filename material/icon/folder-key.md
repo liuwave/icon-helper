@@ -4,6 +4,7 @@ title: folder key(文件夹密钥) ICON转svg、png下载
 name: folder-key
 zhTips: 文件夹密钥
 tags: ["files-folders"]
+search: 
 
 ---
 

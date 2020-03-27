@@ -4,6 +4,7 @@ title: dumbbell(哑铃) ICON转svg、png下载
 name: dumbbell
 zhTips: 哑铃,举重,健身中心
 tags: ["sport"]
+search: weights,fitness-center
 
 ---
 

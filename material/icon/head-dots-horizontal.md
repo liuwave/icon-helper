@@ -4,6 +4,7 @@ title: head dots horizontal(水平的头点) ICON转svg、png下载
 name: head-dots-horizontal
 zhTips: 水平的头点,头脑思考
 tags: []
+search: head-thinking
 
 ---
 

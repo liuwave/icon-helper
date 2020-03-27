@@ -5,6 +5,7 @@ name: desktop
 zhTips: 桌面,计算机,cpu,演示,设备,imac,机,显示器,pc,屏幕
 tags: ["computers"]
 pre: fas
+search: computer,cpu,demo,desktop,device,imac,machine,monitor,pc,screen
 
 ---
 

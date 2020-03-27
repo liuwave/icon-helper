@@ -4,6 +4,7 @@ title: sync off(同步关闭) ICON转svg、png下载
 name: sync-off
 zhTips: 同步关闭,同步已禁用
 tags: []
+search: sync-disabled
 
 ---
 

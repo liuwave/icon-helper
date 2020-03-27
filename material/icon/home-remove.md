@@ -4,6 +4,7 @@ title: home remove(主页删除) ICON转svg、png下载
 name: home-remove
 zhTips: 主页删除
 tags: ["home-automation"]
+search: 
 
 ---
 

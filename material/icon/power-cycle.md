@@ -4,6 +4,7 @@ title: power cycle(关机后再开机) ICON转svg、png下载
 name: power-cycle
 zhTips: 关机后再开机
 tags: []
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: eye
 zhTips: 眼睛,看,光学,看到,显示,视线,视图,可见
 tags: ["design","images","interfaces","maps","objects","security","status"]
 pre: far
+search: look,optic,see,seen,show,sight,views,visible
 
 ---
 

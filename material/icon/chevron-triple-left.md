@@ -4,6 +4,7 @@ title: chevron triple left(人字形三联左) ICON转svg、png下载
 name: chevron-triple-left
 zhTips: 人字形三联左
 tags: []
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: file document edit outline(文件文档编辑轮廓) ICON转svg、png下�
 name: file-document-edit-outline
 zhTips: 文件文档编辑轮廓,合同轮廓
 tags: ["edit-modify","files-folders"]
+search: contract-outline
 
 ---
 

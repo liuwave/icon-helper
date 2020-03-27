@@ -4,6 +4,7 @@ title: message processing(消息处理) ICON转svg、png下载
 name: message-processing
 zhTips: 消息处理,短信
 tags: []
+search: sms,textsms
 
 ---
 

@@ -5,6 +5,7 @@ name: file-csv
 zhTips: 文件CSV,文档,excel,数字,电子表格,表格
 tags: []
 pre: fas
+search: document,excel,numbers,spreadsheets,table
 
 ---
 

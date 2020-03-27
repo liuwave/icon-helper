@@ -4,6 +4,7 @@ title: layers off(关闭图层) ICON转svg、png下载
 name: layers-off
 zhTips: 关闭图层,清除图层
 tags: ["geographic-information-system"]
+search: layers-clear
 
 ---
 

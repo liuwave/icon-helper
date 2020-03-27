@@ -4,6 +4,7 @@ title: github(github) ICON转svg、png下载
 name: github
 zhTips: github,微软github
 tags: ["developer-languages","brand-logo"]
+search: microsoft-github
 
 ---
 

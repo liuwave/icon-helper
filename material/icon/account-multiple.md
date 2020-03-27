@@ -4,6 +4,7 @@ title: account multiple(帐户多个) ICON转svg、png下载
 name: account-multiple
 zhTips: 帐户多个,人员,多个用户,组,帐户,用户,多个人
 tags: ["account-user"]
+search: people,user-multiple,group,accounts,users,person-multiple
 
 ---
 

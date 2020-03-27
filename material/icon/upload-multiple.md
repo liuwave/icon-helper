@@ -4,6 +4,7 @@ title: upload multiple(多个上传) ICON转svg、png下载
 name: upload-multiple
 zhTips: 多个上传
 tags: []
+search: uploads
 
 ---
 

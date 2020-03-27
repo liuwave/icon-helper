@@ -4,6 +4,7 @@ title: bolnisi cross(博尼西十字架) ICON转svg、png下载
 name: bolnisi-cross
 zhTips: 博尼西十字架
 tags: ["religion"]
+search: 
 
 ---
 

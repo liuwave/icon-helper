@@ -4,6 +4,7 @@ title: raspberry pi(树莓派) ICON转svg、png下载
 name: raspberry-pi
 zhTips: 树莓派
 tags: []
+search: raspberrypi
 
 ---
 

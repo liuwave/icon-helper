@@ -4,6 +4,7 @@ title: cloud tags(云标记) ICON转svg、png下载
 name: cloud-tags
 zhTips: 云标记,云xml
 tags: ["cloud"]
+search: cloud-xml
 
 ---
 

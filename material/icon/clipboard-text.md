@@ -4,6 +4,7 @@ title: clipboard text(剪贴板文本) ICON转svg、png下载
 name: clipboard-text
 zhTips: 剪贴板文本,作业
 tags: []
+search: assignment
 
 ---
 

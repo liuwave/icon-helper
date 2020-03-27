@@ -4,6 +4,7 @@ title: account search outline(帐户搜索轮廓) ICON转svg、png下载
 name: account-search-outline
 zhTips: 帐户搜索轮廓,用户搜索轮廓,人员搜索轮廓
 tags: ["account-user"]
+search: user-search-outline,person-search-outline
 
 ---
 

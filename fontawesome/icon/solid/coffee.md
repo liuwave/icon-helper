@@ -5,6 +5,7 @@ name: coffee
 zhTips: 咖啡,饮料,早餐,咖啡厅,秋天,早上,杯子,季节性,茶
 tags: ["beverage","business","code","hotel","household","interfaces","maps","objects"]
 pre: fas
+search: beverage,breakfast,cafe,drink,fall,morning,mug,seasonal,tea
 
 ---
 

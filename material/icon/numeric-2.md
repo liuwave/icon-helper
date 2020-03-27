@@ -4,6 +4,7 @@ title: numeric 2(数字2) ICON转svg、png下载
 name: numeric-2
 zhTips: 数字2
 tags: ["alpha-numeric"]
+search: number-2,numeric-two
 
 ---
 

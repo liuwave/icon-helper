@@ -5,6 +5,7 @@ name: code
 zhTips: 代码,括号,开发,html
 tags: ["code"]
 pre: fas
+search: brackets,code,development,html
 
 ---
 

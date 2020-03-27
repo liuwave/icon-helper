@@ -4,6 +4,7 @@ title: cloud(云) ICON转svg、png下载
 name: cloud
 zhTips: 云,wb多云
 tags: ["cloud","weather"]
+search: wb-cloudy
 
 ---
 

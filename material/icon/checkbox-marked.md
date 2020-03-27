@@ -4,6 +4,7 @@ title: checkbox marked(复选框已标记) ICON转svg、png下载
 name: checkbox-marked
 zhTips: 复选框已标记,复选框
 tags: ["form"]
+search: check-box
 
 ---
 

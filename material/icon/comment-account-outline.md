@@ -4,6 +4,7 @@ title: comment account outline(评论帐户轮廓) ICON转svg、png下载
 name: comment-account-outline
 zhTips: 评论帐户轮廓,评论用户轮廓,评论人轮廓
 tags: ["account-user"]
+search: comment-user-outline,comment-person-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: spotlight(聚光灯) ICON转svg、png下载
 name: spotlight
 zhTips: 聚光灯
 tags: ["home-automation"]
+search: 
 
 ---
 

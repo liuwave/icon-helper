@@ -4,6 +4,7 @@ title: cellphone off(手机已关闭) ICON转svg、png下载
 name: cellphone-off
 zhTips: 手机已关闭,智能手机已关闭
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone-off,smartphone-off,mobile-off
 
 ---
 

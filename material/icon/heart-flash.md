@@ -4,6 +4,7 @@ title: heart flash(心脏闪光灯) ICON转svg、png下载
 name: heart-flash
 zhTips: 心脏闪光灯,AED,除颤器
 tags: ["medical-hospital"]
+search: aed,defibrillator
 
 ---
 

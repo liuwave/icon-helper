@@ -5,6 +5,7 @@ name: chevron-circle-down
 zhTips: Chevron Circle Down,箭头,下载,下拉菜单,更多
 tags: ["arrows"]
 pre: fas
+search: arrow,download,dropdown,menu,more
 
 ---
 

@@ -5,6 +5,7 @@ name: clipboard
 zhTips: 剪贴板,副本,笔记,粘贴,记录
 tags: ["business","editors","interfaces","objects"]
 pre: far
+search: copy,notes,paste,record
 
 ---
 

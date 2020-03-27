@@ -4,6 +4,7 @@ title: size m(尺寸m) ICON转svg、png下载
 name: size-m
 zhTips: 尺寸m,中号
 tags: []
+search: size-medium
 
 ---
 

@@ -4,6 +4,7 @@ title: beehive outline(蜂巢轮廓) ICON转svg、png下载
 name: beehive-outline
 zhTips: 蜂巢轮廓,蜂蜜轮廓
 tags: ["nature"]
+search: honey-outline
 
 ---
 

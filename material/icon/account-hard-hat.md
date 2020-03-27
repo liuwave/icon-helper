@@ -4,6 +4,7 @@ title: account hard hat(帐户安全帽) ICON转svg、png下载
 name: account-hard-hat
 zhTips: 帐户安全帽,工人,建筑
 tags: ["account-user"]
+search: worker,construction
 
 ---
 

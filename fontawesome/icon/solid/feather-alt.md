@@ -5,6 +5,7 @@ name: feather-alt
 zhTips: 备用羽毛,鸟,光,弹拨,羽毛笔,书写
 tags: ["animals","objects"]
 pre: fas
+search: bird,light,plucked,quill,write
 
 ---
 

@@ -4,6 +4,7 @@ title: led strip(led灯带) ICON转svg、png下载
 name: led-strip
 zhTips: led灯带,灯带
 tags: ["home-automation"]
+search: light-strip
 
 ---
 

@@ -4,6 +4,7 @@ title: book open page variant(书籍打开页面变体形式) ICON转svg、png�
 name: book-open-page-variant
 zhTips: 书籍打开页面变体形式,自动故事
 tags: []
+search: auto-stories
 
 ---
 

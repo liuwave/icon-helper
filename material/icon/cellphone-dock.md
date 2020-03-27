@@ -4,6 +4,7 @@ title: cellphone dock(手机底座) ICON转svg、png下载
 name: cellphone-dock
 zhTips: 手机底座,智能手机底座
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone-dock,smartphone-dock
 
 ---
 

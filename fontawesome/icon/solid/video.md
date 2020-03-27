@@ -5,6 +5,7 @@ name: video
 zhTips: 视频,照相机,电影,唱片,摄像机
 tags: ["audio-video","chat","social","status"]
 pre: fas
+search: camera,film,movie,record,video-camera
 
 ---
 

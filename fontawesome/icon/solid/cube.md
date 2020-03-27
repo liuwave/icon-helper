@@ -5,6 +5,7 @@ name: cube
 zhTips: Cube,3d,block,dice,package,square,tesseract
 tags: ["objects"]
 pre: fas
+search: 3d,block,dice,package,square,tesseract
 
 ---
 

@@ -4,6 +4,7 @@ title: alert octagon outline(警报八边形轮廓) ICON转svg、png下载
 name: alert-octagon-outline
 zhTips: 警报八边形轮廓,警告八边形轮廓
 tags: ["alert-error"]
+search: warning-octagon-outline
 
 ---
 

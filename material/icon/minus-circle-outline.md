@@ -4,6 +4,7 @@ title: minus circle outline(减去圆圈轮廓) ICON转svg、png下载
 name: minus-circle-outline
 zhTips: 减去圆圈轮廓,删除圆圈轮廓,不输入轮廓
 tags: ["transportation-road"]
+search: remove-circle-outline,do-not-enter-outline
 
 ---
 

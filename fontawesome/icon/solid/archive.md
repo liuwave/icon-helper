@@ -5,6 +5,7 @@ name: archive
 zhTips: 存档,框,包装,保存,存储
 tags: ["business","code","files","moving","objects","writing"]
 pre: fas
+search: box,package,save,storage
 
 ---
 

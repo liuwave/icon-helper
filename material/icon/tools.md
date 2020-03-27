@@ -4,6 +4,7 @@ title: tools(工具) ICON转svg、png下载
 name: tools
 zhTips: 工具,扳手,螺丝刀
 tags: ["hardware-tools"]
+search: wrench,screwdriver
 
 ---
 

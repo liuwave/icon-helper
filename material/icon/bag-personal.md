@@ -4,6 +4,7 @@ title: bag personal(个人袋) ICON转svg、png下载
 name: bag-personal
 zhTips: 个人袋,背包
 tags: ["transportation-flying"]
+search: backpack
 
 ---
 

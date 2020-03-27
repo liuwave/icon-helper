@@ -4,6 +4,7 @@ title: window closed variant(窗口关闭的变体) ICON转svg、png下载
 name: window-closed-variant
 zhTips: 窗口关闭的变体
 tags: ["home-automation"]
+search: 
 
 ---
 

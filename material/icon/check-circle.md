@@ -4,6 +4,7 @@ title: check circle(检查圆圈) ICON转svg、png下载
 name: check-circle
 zhTips: 检查圆圈,刻度线
 tags: []
+search: tick-circle
 
 ---
 

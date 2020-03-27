@@ -5,6 +5,7 @@ name: ruble-sign
 zhTips: 卢布符号,货币,擦
 tags: ["currency"]
 pre: fas
+search: currency,money,rub
 
 ---
 

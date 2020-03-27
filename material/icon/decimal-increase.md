@@ -4,6 +4,7 @@ title: decimal increase(十进制增加) ICON转svg、png下载
 name: decimal-increase
 zhTips: 十进制增加
 tags: ["math"]
+search: 
 
 ---
 

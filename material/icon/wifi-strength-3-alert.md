@@ -4,6 +4,7 @@ title: wifi strength 3 alert(wifi强度3警报) ICON转svg、png下载
 name: wifi-strength-3-alert
 zhTips: wifi强度3警报,wifi强度3警告
 tags: ["alert-error"]
+search: wifi-strength-3-warning
 
 ---
 

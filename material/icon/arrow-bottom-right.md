@@ -4,6 +4,7 @@ title: arrow bottom right(右下箭头) ICON转svg、png下载
 name: arrow-bottom-right
 zhTips: 右下箭头
 tags: ["arrow"]
+search: arrow-down-right
 
 ---
 

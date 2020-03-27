@@ -4,6 +4,7 @@ title: alpha r circle(字母r圈) ICON转svg、png下载
 name: alpha-r-circle
 zhTips: 字母r圈
 tags: ["alpha-numeric"]
+search: alphabet-r-circle,letter-r-circle
 
 ---
 

@@ -4,6 +4,7 @@ title: transfer right(转让权) ICON转svg、png下载
 name: transfer-right
 zhTips: 转让权
 tags: ["arrow"]
+search: 
 
 ---
 

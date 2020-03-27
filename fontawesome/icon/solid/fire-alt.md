@@ -5,6 +5,7 @@ name: fire-alt
 zhTips: 备用火,烧伤,卡路里,火焰,热,受欢迎
 tags: ["camping","energy","fitness","maps","objects","science"]
 pre: fas
+search: burn,caliente,flame,heat,hot,popular
 
 ---
 

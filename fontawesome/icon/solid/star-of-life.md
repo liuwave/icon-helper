@@ -5,6 +5,7 @@ name: star-of-life
 zhTips: 生命之星,医生,emt,急救,健康,医疗
 tags: ["medical"]
 pre: fas
+search: doctor,emt,first aid,health,medical
 
 ---
 

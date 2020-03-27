@@ -4,6 +4,7 @@ title: message lock(消息锁定) ICON转svg、png下载
 name: message-lock
 zhTips: 消息锁定,消息安全
 tags: ["lock"]
+search: message-secure
 
 ---
 

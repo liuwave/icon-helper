@@ -4,6 +4,7 @@ title: phone bluetooth(蓝牙电话) ICON转svg、png下载
 name: phone-bluetooth
 zhTips: 蓝牙电话,蓝牙电话扬声器
 tags: ["cellphone-phone"]
+search: phone-bluetooth-speaker,telephone-bluetooth
 
 ---
 

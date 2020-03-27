@@ -5,6 +5,7 @@ name: door-closed
 zhTips: 门关闭,进入,出口,上锁
 tags: ["hotel","household","objects","security","status"]
 pre: fas
+search: enter,exit,locked
 
 ---
 

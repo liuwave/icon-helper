@@ -4,6 +4,7 @@ title: account details outline(帐户详细信息轮廓) ICON转svg、png下载
 name: account-details-outline
 zhTips: 帐户详细信息轮廓,人员详细信息轮廓,用户详细信息轮廓
 tags: ["account-user","settings"]
+search: person-details-outline,user-details-outline
 
 ---
 

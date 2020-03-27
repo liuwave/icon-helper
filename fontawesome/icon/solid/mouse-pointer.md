@@ -5,6 +5,7 @@ name: mouse-pointer
 zhTips: 鼠标指针,箭头,光标,选择
 tags: ["arrows"]
 pre: fas
+search: arrow,cursor,select
 
 ---
 

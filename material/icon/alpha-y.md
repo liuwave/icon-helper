@@ -4,6 +4,7 @@ title: alpha y(字母y) ICON转svg、png下载
 name: alpha-y
 zhTips: 字母y
 tags: ["alpha-numeric"]
+search: alphabet-y,letter-y
 
 ---
 

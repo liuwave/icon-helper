@@ -4,6 +4,7 @@ title: diameter(直径) ICON转svg、png下载
 name: diameter
 zhTips: 直径,圆直径,球体直径
 tags: ["math"]
+search: circle-diameter,sphere-diameter
 
 ---
 

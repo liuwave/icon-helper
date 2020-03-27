@@ -4,6 +4,7 @@ title: closed caption(隐藏字幕) ICON转svg、png下载
 name: closed-caption
 zhTips: 隐藏字幕,cc
 tags: []
+search: cc
 
 ---
 

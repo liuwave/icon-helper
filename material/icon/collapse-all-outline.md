@@ -4,6 +4,7 @@ title: collapse all outline(折叠所有轮廓) ICON转svg、png下载
 name: collapse-all-outline
 zhTips: 折叠所有轮廓,减去动画轮廓
 tags: []
+search: animation-minus-outline
 
 ---
 

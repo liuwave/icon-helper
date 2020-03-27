@@ -4,6 +4,7 @@ title: onepassword(onepassword) ICON转svg、png下载
 name: onepassword
 zhTips: onepassword,1password
 tags: ["brand-logo"]
+search: 1password
 
 ---
 

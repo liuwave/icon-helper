@@ -5,6 +5,7 @@ name: ghost
 zhTips: 鬼魂,幻影,眨眼,克莱德,浮动,万圣节,假日,墨水,粉红色,精神
 tags: ["games","halloween"]
 pre: fas
+search: apparition,blinky,clyde,floating,halloween,holiday,inky,pinky,spirit
 
 ---
 

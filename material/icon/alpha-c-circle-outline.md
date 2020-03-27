@@ -4,6 +4,7 @@ title: alpha c circle outline(字母c圆圈轮廓) ICON转svg、png下载
 name: alpha-c-circle-outline
 zhTips: 字母c圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-c-circle-outline,letter-c-circle-outline
 
 ---
 

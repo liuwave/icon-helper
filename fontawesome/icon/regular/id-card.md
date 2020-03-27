@@ -5,6 +5,7 @@ name: id-card
 zhTips: 身份证,联系方式,人口统计学,文件,身份证明,已发布,个人资料
 tags: ["images","security","users-people"]
 pre: far
+search: contact,demographics,document,identification,issued,profile
 
 ---
 

@@ -4,6 +4,7 @@ title: nix(nix) ICON转svg、png下载
 name: nix
 zhTips: nix
 tags: ["developer-languages","brand-logo"]
+search: 
 
 ---
 

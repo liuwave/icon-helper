@@ -4,6 +4,7 @@ title: comment check outline(评论检查轮廓) ICON转svg、png下载
 name: comment-check-outline
 zhTips: 评论检查轮廓,评论刻度线
 tags: []
+search: comment-tick-outline
 
 ---
 

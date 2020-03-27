@@ -4,6 +4,7 @@ title: pistol(手枪) ICON转svg、png下载
 name: pistol
 zhTips: 手枪,无
 tags: []
+search: gun
 
 ---
 

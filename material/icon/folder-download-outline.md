@@ -4,6 +4,7 @@ title: folder download outline(文件夹下载轮廓) ICON转svg、png下载
 name: folder-download-outline
 zhTips: 文件夹下载轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

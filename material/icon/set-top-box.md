@@ -4,6 +4,7 @@ title: set top box(机顶盒) ICON转svg、png下载
 name: set-top-box
 zhTips: 机顶盒
 tags: ["home-automation"]
+search: 
 
 ---
 

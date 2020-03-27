@@ -4,6 +4,7 @@ title: fire extinguisher(灭火器) ICON转svg、png下载
 name: fire-extinguisher
 zhTips: 灭火器
 tags: ["hardware-tools"]
+search: 
 
 ---
 

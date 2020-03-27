@@ -4,6 +4,7 @@ title: tray alert(托盘警报) ICON转svg、png下载
 name: tray-alert
 zhTips: 托盘警报,队列,打印机,收件箱
 tags: ["alert-error"]
+search: queue,printer,inbox
 
 ---
 

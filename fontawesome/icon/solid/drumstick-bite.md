@@ -5,6 +5,7 @@ name: drumstick-bite
 zhTips: 鸡腿取出,骨头,鸡肉,腿,肉,家禽,火鸡
 tags: ["autumn","food"]
 pre: fas
+search: bone,chicken,leg,meat,poultry,turkey
 
 ---
 

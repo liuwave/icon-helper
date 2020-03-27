@@ -5,6 +5,7 @@ name: scroll
 zhTips: 滚动,地牢与龙,公告,d＆d,dnd,幻想,纸张,脚本
 tags: ["gaming-tabletop","objects"]
 pre: fas
+search: Dungeons & Dragons,announcement,d&d,dnd,fantasy,paper,script
 
 ---
 

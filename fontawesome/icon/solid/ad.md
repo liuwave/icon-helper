@@ -5,6 +5,7 @@ name: ad
 zhTips: 广告,媒体,报纸,促销,宣传
 tags: ["marketing"]
 pre: fas
+search: advertisement,media,newspaper,promotion,publicity
 
 ---
 

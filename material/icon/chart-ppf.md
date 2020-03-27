@@ -4,6 +4,7 @@ title: chart ppf(图表PPF) ICON转svg、png下载
 name: chart-ppf
 zhTips: 图表PPF,图表生产潜力前沿
 tags: ["math"]
+search: chart-production-possibility-frontier
 
 ---
 

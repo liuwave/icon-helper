@@ -4,6 +4,7 @@ title: home floor g(家庭地板g) ICON转svg、png下载
 name: home-floor-g
 zhTips: 家庭地板g,家庭地板地面,房屋地板g,地面房屋
 tags: ["home-automation"]
+search: home-floor-ground,house-floor-g,house-floor-ground
 
 ---
 

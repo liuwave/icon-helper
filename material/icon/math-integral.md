@@ -4,6 +4,7 @@ title: math integral(数学积分) ICON转svg、png下载
 name: math-integral
 zhTips: 数学积分
 tags: ["math"]
+search: 
 
 ---
 

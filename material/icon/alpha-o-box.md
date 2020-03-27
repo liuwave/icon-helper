@@ -4,6 +4,7 @@ title: alpha o box(字母o框) ICON转svg、png下载
 name: alpha-o-box
 zhTips: 字母o框
 tags: ["alpha-numeric"]
+search: alphabet-o-box,letter-o-box
 
 ---
 

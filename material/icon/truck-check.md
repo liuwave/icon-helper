@@ -4,6 +4,7 @@ title: truck check(卡车检查) ICON转svg、png下载
 name: truck-check
 zhTips: 卡车检查,卡车刻度线,快递检查
 tags: []
+search: truck-tick,lorry-check,courier-check
 
 ---
 

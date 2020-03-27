@@ -5,6 +5,7 @@ name: angle-left
 zhTips: 左上角,箭头,后退,尖号,较少,上一个
 tags: ["arrows"]
 pre: fas
+search: arrow,back,caret,less,previous
 
 ---
 

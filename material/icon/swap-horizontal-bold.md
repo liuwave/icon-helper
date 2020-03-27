@@ -4,6 +4,7 @@ title: swap horizontal bold(交换水平粗体) ICON转svg、png下载
 name: swap-horizontal-bold
 zhTips: 交换水平粗体,向左箭头粗体
 tags: ["arrow"]
+search: arrow-left-right-bold
 
 ---
 

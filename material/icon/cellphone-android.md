@@ -4,6 +4,7 @@ title: cellphone android(手机android) ICON转svg、png下载
 name: cellphone-android
 zhTips: 手机android,智能手机android
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone-android,smartphone-android
 
 ---
 

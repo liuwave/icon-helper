@@ -4,6 +4,7 @@ title: account multiple check(帐户多次检查) ICON转svg、png下载
 name: account-multiple-check
 zhTips: 帐户多次检查,用户多次检查,帐户多次打勾,帐户检查,打勾帐户,用户检查,打勾用户,多用户打勾,人员多次检查,人员多次打钩,人员检查,人员打勾
 tags: ["account-user"]
+search: user-multiple-check,account-multiple-tick,accounts-check,accounts-tick,users-check,users-tick,user-multiple-tick,person-multiple-check,person-multiple-tick,people-check,people-tick
 
 ---
 

@@ -4,6 +4,7 @@ title: keyboard close(键盘关闭) ICON转svg、png下载
 name: keyboard-close
 zhTips: 键盘关闭,键盘隐藏
 tags: []
+search: keyboard-hide
 
 ---
 

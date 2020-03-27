@@ -4,6 +4,7 @@ title: set left center(设置左中心) ICON转svg、png下载
 name: set-left-center
 zhTips: 设置左中心,左外部联接,sql左外部联接
 tags: []
+search: set-left-centre,outer-join-left,sql-left-outer-join
 
 ---
 

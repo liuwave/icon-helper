@@ -4,6 +4,7 @@ title: console network outline(控制台网络轮廓) ICON转svg、png下载
 name: console-network-outline
 zhTips: 控制台网络轮廓,终端网络轮廓
 tags: []
+search: terminal-network-outline
 
 ---
 

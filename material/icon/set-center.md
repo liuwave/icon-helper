@@ -4,6 +4,7 @@ title: set center(设置中心) ICON转svg、png下载
 name: set-center
 zhTips: 设置中心,设置交集,设置和,内部联接,SQL内部联接
 tags: []
+search: set-centre,set-intersection,set-and,inner-join,sql-inner-join
 
 ---
 

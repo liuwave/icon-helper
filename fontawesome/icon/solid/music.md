@@ -5,6 +5,7 @@ name: music
 zhTips: 音乐,歌词,旋律,注释,唱歌,声音
 tags: ["audio-video","education","maps","music"]
 pre: fas
+search: lyrics,melody,note,sing,sound
 
 ---
 

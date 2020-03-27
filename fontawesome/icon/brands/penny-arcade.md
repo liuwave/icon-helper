@@ -5,6 +5,7 @@ name: penny-arcade
 zhTips: Penny Arcade,地下城与龙,d＆d,dnd,幻想,游戏,pax,桌面
 tags: ["gaming-tabletop"]
 pre: fab
+search: Dungeons & Dragons,d&d,dnd,fantasy,game,gaming,pax,tabletop
 
 ---
 

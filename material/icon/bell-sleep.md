@@ -4,6 +4,7 @@ title: bell sleep(铃声睡眠) ICON转svg、png下载
 name: bell-sleep
 zhTips: 铃声睡眠,已暂停的通知
 tags: ["notification"]
+search: notifications-paused
 
 ---
 

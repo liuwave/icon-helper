@@ -4,6 +4,7 @@ title: car shift pattern(换挡车) ICON转svg、png下载
 name: car-shift-pattern
 zhTips: 换挡车,变速箱车,手动变速箱车
 tags: ["automotive"]
+search: car-transmission,car-manual-transmission
 
 ---
 

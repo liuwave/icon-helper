@@ -4,6 +4,7 @@ title: console network(控制台网络) ICON转svg、png下载
 name: console-network
 zhTips: 控制台网络,终端网络
 tags: []
+search: terminal-network
 
 ---
 

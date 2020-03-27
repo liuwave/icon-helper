@@ -5,6 +5,7 @@ name: shapes
 zhTips: 形状,块,构建,圆形,正方形,三角形
 tags: ["childhood","education","shapes"]
 pre: fas
+search: blocks,build,circle,square,triangle
 
 ---
 

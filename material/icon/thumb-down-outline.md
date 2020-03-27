@@ -4,6 +4,7 @@ title: thumb down outline(拇指向下轮廓) ICON转svg、png下载
 name: thumb-down-outline
 zhTips: 拇指向下轮廓,不喜欢轮廓
 tags: []
+search: dislike-outline,thumbs-down-outline
 
 ---
 

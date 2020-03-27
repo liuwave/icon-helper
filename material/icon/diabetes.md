@@ -4,6 +4,7 @@ title: diabetes(糖尿病) ICON转svg、png下载
 name: diabetes
 zhTips: 糖尿病,手血
 tags: ["medical-hospital"]
+search: hand-blood
 
 ---
 

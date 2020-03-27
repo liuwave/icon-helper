@@ -4,6 +4,7 @@ title: school outline(学校轮廓) ICON转svg、png下载
 name: school-outline
 zhTips: 学校轮廓,学术帽轮廓,大学轮廓,毕业帽轮廓
 tags: []
+search: academic-cap-outline,college-outline,graduation-cap-outline,university-outline
 
 ---
 

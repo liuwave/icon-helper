@@ -5,6 +5,7 @@ name: thumbs-up
 zhTips: 竖起大拇指,同意,批准,收藏夹,手,像,好,社会,成功,是的,你知道了
 tags: ["hands","interfaces","payments-shopping","social","status"]
 pre: far
+search: agree,approve,favorite,hand,like,ok,okay,social,success,thumbs-o-up,yes,you got it dude
 
 ---
 

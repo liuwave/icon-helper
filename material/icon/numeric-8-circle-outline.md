@@ -4,6 +4,7 @@ title: numeric 8 circle outline(数字8圆轮廓) ICON转svg、png下载
 name: numeric-8-circle-outline
 zhTips: 数字8圆轮廓
 tags: ["alpha-numeric"]
+search: numeric-eight-circle-outline,number-8-circle-outline,number-eight-circle-outline
 
 ---
 

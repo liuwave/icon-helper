@@ -4,6 +4,7 @@ title: open in new(在新的外部链接中打开) ICON转svg、png下载
 name: open-in-new
 zhTips: 在新的外部链接中打开
 tags: []
+search: external-link
 
 ---
 

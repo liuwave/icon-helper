@@ -4,6 +4,7 @@ title: y combinator(Y组合器) ICON转svg、png下载
 name: y-combinator
 zhTips: Y组合器,hackernews
 tags: ["brand-logo"]
+search: hackernews
 
 ---
 

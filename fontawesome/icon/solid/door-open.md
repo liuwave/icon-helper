@@ -5,6 +5,7 @@ name: door-open
 zhTips: 门打开,进入,退出,欢迎
 tags: ["hotel","household","objects","security","status"]
 pre: fas
+search: enter,exit,welcome
 
 ---
 

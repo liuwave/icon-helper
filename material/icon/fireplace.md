@@ -4,6 +4,7 @@ title: fireplace(壁炉) ICON转svg、png下载
 name: fireplace
 zhTips: 壁炉
 tags: ["home-automation"]
+search: 
 
 ---
 

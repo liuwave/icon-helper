@@ -4,6 +4,7 @@ title: alpha k circle(alpha k圈) ICON转svg、png下载
 name: alpha-k-circle
 zhTips: alpha k圈,字母k圈
 tags: ["alpha-numeric"]
+search: alphabet-k-circle,letter-k-circle
 
 ---
 

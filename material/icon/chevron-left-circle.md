@@ -4,6 +4,7 @@ title: chevron left circle(V形左圆) ICON转svg、png下载
 name: chevron-left-circle
 zhTips: V形左圆
 tags: ["arrow"]
+search: 
 
 ---
 

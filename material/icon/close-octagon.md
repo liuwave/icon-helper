@@ -4,6 +4,7 @@ title: close octagon(关闭八角形) ICON转svg、png下载
 name: close-octagon
 zhTips: 关闭八角形,危险,乘以八边形
 tags: []
+search: dangerous,multiply-octagon
 
 ---
 

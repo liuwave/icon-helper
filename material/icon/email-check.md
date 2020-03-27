@@ -4,6 +4,7 @@ title: email check(电子邮件检查) ICON转svg、png下载
 name: email-check
 zhTips: 电子邮件检查,电子邮件打勾
 tags: []
+search: email-tick
 
 ---
 

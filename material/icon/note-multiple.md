@@ -4,6 +4,7 @@ title: note multiple(备忘) ICON转svg、png下载
 name: note-multiple
 zhTips: 备忘,笔记
 tags: []
+search: notes
 
 ---
 

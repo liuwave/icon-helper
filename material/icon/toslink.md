@@ -4,6 +4,7 @@ title: toslink(toslink) ICON转svg、png下载
 name: toslink
 zhTips: toslink,光学音频
 tags: ["audio"]
+search: optical-audio
 
 ---
 

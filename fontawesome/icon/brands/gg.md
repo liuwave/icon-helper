@@ -5,6 +5,7 @@ name: gg
 zhTips: GG货币
 tags: ["currency"]
 pre: fab
+search: 
 
 ---
 

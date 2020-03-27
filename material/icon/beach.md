@@ -4,6 +4,7 @@ title: beach(海滩) ICON转svg、png下载
 name: beach
 zhTips: 海滩,阳伞
 tags: ["places"]
+search: parasol
 
 ---
 

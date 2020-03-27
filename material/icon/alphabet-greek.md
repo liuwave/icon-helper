@@ -4,6 +4,7 @@ title: alphabet greek(字母希腊语) ICON转svg、png下载
 name: alphabet-greek
 zhTips: 字母希腊语,希腊书写系统
 tags: ["alpha-numeric"]
+search: writing-system-greek
 
 ---
 

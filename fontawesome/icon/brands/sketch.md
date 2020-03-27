@@ -5,6 +5,7 @@ name: sketch
 zhTips: 草图,应用程序,设计,界面
 tags: []
 pre: fab
+search: app,design,interface
 
 ---
 

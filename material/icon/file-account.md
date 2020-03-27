@@ -4,6 +4,7 @@ title: file account(文件帐户) ICON转svg、png下载
 name: file-account
 zhTips: 文件帐户,用户文件,简历
 tags: ["account-user","files-folders"]
+search: file-user,resume
 
 ---
 

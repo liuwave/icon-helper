@@ -4,6 +4,7 @@ title: earth(地球) ICON转svg、png下载
 name: earth
 zhTips: 地球,公共,行星
 tags: ["geographic-information-system"]
+search: globe,public,planet
 
 ---
 

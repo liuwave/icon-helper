@@ -4,6 +4,7 @@ title: plus circle multiple outline(加圆圈多个轮廓) ICON转svg、png下�
 name: plus-circle-multiple-outline
 zhTips: 加圆圈多个轮廓,控制点重复,加圆圈轮廓,硬币加轮廓
 tags: []
+search: control-point-duplicate,plus-circles-outline,coins-plus-outline
 
 ---
 

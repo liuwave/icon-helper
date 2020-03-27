@@ -4,6 +4,7 @@ title: folder marker(文件夹标记) ICON转svg、png下载
 name: folder-marker
 zhTips: 文件夹标记
 tags: ["geographic-information-system","files-folders"]
+search: 
 
 ---
 

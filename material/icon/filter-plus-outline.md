@@ -4,6 +4,7 @@ title: filter plus outline(过滤器加轮廓) ICON转svg、png下载
 name: filter-plus-outline
 zhTips: 过滤器加轮廓,漏斗加轮廓
 tags: []
+search: funnel-plus-outline
 
 ---
 

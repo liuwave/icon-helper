@@ -5,6 +5,7 @@ name: bible
 zhTips: 圣经,书,天主教,基督教,神,圣
 tags: ["religion"]
 pre: fas
+search: book,catholicism,christianity,god,holy
 
 ---
 

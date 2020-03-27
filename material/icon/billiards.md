@@ -4,6 +4,7 @@ title: billiards(台球) ICON转svg、png下载
 name: billiards
 zhTips: 台球,桌球,八人
 tags: ["sport"]
+search: pool,eight-ball
 
 ---
 

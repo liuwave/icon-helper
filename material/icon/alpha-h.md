@@ -4,6 +4,7 @@ title: alpha h(alpha h) ICON转svg、png下载
 name: alpha-h
 zhTips: alpha h,字母h
 tags: ["alpha-numeric"]
+search: alphabet-h,letter-h
 
 ---
 

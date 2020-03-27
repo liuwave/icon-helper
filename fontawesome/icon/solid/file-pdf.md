@@ -5,6 +5,7 @@ name: file-pdf
 zhTips: PDF文件,acrobat,文档,预览,保存
 tags: ["files"]
 pre: fas
+search: acrobat,document,preview,save
 
 ---
 

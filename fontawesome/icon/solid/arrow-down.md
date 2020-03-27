@@ -5,6 +5,7 @@ name: arrow-down
 zhTips: 向下箭头,下载
 tags: ["arrows"]
 pre: fas
+search: download
 
 ---
 

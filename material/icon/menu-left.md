@@ -4,6 +4,7 @@ title: menu left(菜单左) ICON转svg、png下载
 name: menu-left
 zhTips: 菜单左,左箭头
 tags: ["arrow"]
+search: arrow-left
 
 ---
 

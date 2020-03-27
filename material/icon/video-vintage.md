@@ -4,6 +4,7 @@ title: video vintage(老式视频) ICON转svg、png下载
 name: video-vintage
 zhTips: 老式视频,电影视频,经典视频
 tags: ["video-movie"]
+search: video-film,video-classic
 
 ---
 

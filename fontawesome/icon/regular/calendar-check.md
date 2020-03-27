@@ -5,6 +5,7 @@ name: calendar-check
 zhTips: 日历检查,接受,同意,任命,确认,正确,日期,完成,事件,确定,时间表,选择,成功,刻度线,时间,待办事项,何时
 tags: ["date-time","interfaces","status"]
 pre: far
+search: accept,agree,appointment,confirm,correct,date,done,event,ok,schedule,select,success,tick,time,todo,when
 
 ---
 

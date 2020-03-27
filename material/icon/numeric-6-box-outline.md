@@ -4,6 +4,7 @@ title: numeric 6 box outline(数字6框轮廓) ICON转svg、png下载
 name: numeric-6-box-outline
 zhTips: 数字6框轮廓
 tags: ["alpha-numeric"]
+search: numeric-six-box-outline,number-6-box-outline
 
 ---
 

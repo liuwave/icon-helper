@@ -4,6 +4,7 @@ title: account group(帐户组) ICON转svg、png下载
 name: account-group
 zhTips: 帐户组,用户组,人员组
 tags: ["account-user"]
+search: user-group,users-group,person-group,people-group,accounts-group
 
 ---
 

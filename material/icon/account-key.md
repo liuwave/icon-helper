@@ -4,6 +4,7 @@ title: account key(帐户密钥) ICON转svg、png下载
 name: account-key
 zhTips: 帐户密钥,用户密钥,人员密钥
 tags: ["account-user"]
+search: user-key,person-key
 
 ---
 

@@ -4,6 +4,7 @@ title: islam(伊斯兰教) ICON转svg、png下载
 name: islam
 zhTips: 伊斯兰教,星月,穆斯林
 tags: ["religion"]
+search: religion-islamic,star-and-crescent,religion-muslim
 
 ---
 

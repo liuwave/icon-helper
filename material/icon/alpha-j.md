@@ -4,6 +4,7 @@ title: alpha j(alpha j) ICON转svg、png下载
 name: alpha-j
 zhTips: alpha j,字母j
 tags: ["alpha-numeric"]
+search: alphabet-j,letter-j
 
 ---
 

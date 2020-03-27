@@ -5,6 +5,7 @@ name: bahai
 zhTips: 巴哈洛克,巴哈伊,星
 tags: ["religion","spinners"]
 pre: fas
+search: bahai,bahá'í,star
 
 ---
 

@@ -4,6 +4,7 @@ title: checkerboard minus(棋盘减) ICON转svg、png下载
 name: checkerboard-minus
 zhTips: 棋盘减,栅格减
 tags: ["geographic-information-system"]
+search: raster-minus
 
 ---
 

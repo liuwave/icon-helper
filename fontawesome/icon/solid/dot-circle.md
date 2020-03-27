@@ -5,6 +5,7 @@ name: dot-circle
 zhTips: 圆点,靶心,通知,目标
 tags: ["interfaces","toggle"]
 pre: fas
+search: bullseye,notification,target
 
 ---
 

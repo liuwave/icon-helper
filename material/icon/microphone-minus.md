@@ -4,6 +4,7 @@ title: microphone minus(减去麦克风) ICON转svg、png下载
 name: microphone-minus
 zhTips: 减去麦克风,取下麦克风
 tags: []
+search: microphone-remove
 
 ---
 

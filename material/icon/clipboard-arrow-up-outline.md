@@ -4,6 +4,7 @@ title: clipboard arrow up outline(剪贴板上轮廓箭头) ICON转svg、png下�
 name: clipboard-arrow-up-outline
 zhTips: 剪贴板上轮廓箭头
 tags: []
+search: clipboard-arrow-top-outline
 
 ---
 

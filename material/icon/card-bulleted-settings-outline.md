@@ -4,6 +4,7 @@ title: card bulleted settings outline(卡项目符号设置概述) ICON转svg、
 name: card-bulleted-settings-outline
 zhTips: 卡项目符号设置概述
 tags: ["settings"]
+search: 
 
 ---
 

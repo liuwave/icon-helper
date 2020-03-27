@@ -4,6 +4,7 @@ title: help rhombus(帮助菱形) ICON转svg、png下载
 name: help-rhombus
 zhTips: 帮助菱形,问号菱形
 tags: []
+search: question-mark-rhombus
 
 ---
 

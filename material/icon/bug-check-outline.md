@@ -4,6 +4,7 @@ title: bug check outline(错误检查概述) ICON转svg、png下载
 name: bug-check-outline
 zhTips: 错误检查概述,错误刻度概述
 tags: []
+search: bug-tick-outline
 
 ---
 

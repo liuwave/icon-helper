@@ -4,6 +4,7 @@ title: collage(拼贴) ICON转svg、png下载
 name: collage
 zhTips: 拼贴,超赞的自动镶嵌
 tags: []
+search: auto-awesome-mosaic
 
 ---
 

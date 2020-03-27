@@ -4,6 +4,7 @@ title: map marker check(地图标记检查) ICON转svg、png下载
 name: map-marker-check
 zhTips: 地图标记检查,地图标记刻度线,投票位置
 tags: ["navigation","geographic-information-system"]
+search: map-marker-tick,where-to-vote
 
 ---
 

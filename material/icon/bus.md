@@ -4,6 +4,7 @@ title: bus(公交) ICON转svg、png下载
 name: bus
 zhTips: 公交,公交路线
 tags: ["navigation","transportation-road"]
+search: directions-bus
 
 ---
 

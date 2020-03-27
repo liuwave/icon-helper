@@ -4,6 +4,7 @@ title: stairs(楼梯) ICON转svg、png下载
 name: stairs
 zhTips: 楼梯
 tags: ["transportation-other"]
+search: 
 
 ---
 

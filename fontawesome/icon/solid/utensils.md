@@ -5,6 +5,7 @@ name: utensils
 zhTips: 餐具,餐厅,晚餐,吃,食品,叉,刀
 tags: ["hotel","maps","objects"]
 pre: fas
+search: cutlery,dining,dinner,eat,food,fork,knife,restaurant
 
 ---
 

@@ -5,6 +5,7 @@ name: cloud-showers-heavy
 zhTips: 多云,有阵雨,降雨,雨,天,暴风雨
 tags: ["weather"]
 pre: fas
+search: precipitation,rain,sky,storm
 
 ---
 

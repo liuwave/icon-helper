@@ -4,6 +4,7 @@ title: magnify minus cursor(放大减号光标) ICON转svg、png下载
 name: magnify-minus-cursor
 zhTips: 放大减号光标,缩小光标
 tags: []
+search: zoom-out-cursor
 
 ---
 

@@ -4,6 +4,7 @@ title: alpha b box outline(alpha b框轮廓) ICON转svg、png下载
 name: alpha-b-box-outline
 zhTips: alpha b框轮廓,字母b框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-b-box-outline,letter-b-box-outline
 
 ---
 

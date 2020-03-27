@@ -4,6 +4,7 @@ title: arrow split vertical(垂直拆分箭头) ICON转svg、png下载
 name: arrow-split-vertical
 zhTips: 垂直拆分箭头,水平调整大小,重新调整大小
 tags: ["arrow"]
+search: resize-horizontal,resize
 
 ---
 

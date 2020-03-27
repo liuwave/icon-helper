@@ -4,6 +4,7 @@ title: sticker alert(贴纸提醒) ICON转svg、png下载
 name: sticker-alert
 zhTips: 贴纸提醒
 tags: ["alert-error"]
+search: 
 
 ---
 

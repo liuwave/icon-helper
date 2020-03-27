@@ -4,6 +4,7 @@ title: zip box(压缩包) ICON转svg、png下载
 name: zip-box
 zhTips: 压缩包,压缩文件
 tags: ["files-folders"]
+search: compressed-file
 
 ---
 

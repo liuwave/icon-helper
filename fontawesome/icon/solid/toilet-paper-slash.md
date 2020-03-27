@@ -5,6 +5,7 @@ name: toilet-paper-slash
 zhTips: 马桶纸斜线,浴室,covid 19,万圣节,假日,厕所,叶子,恶作剧,卷,麻烦,所以哦
 tags: ["household"]
 pre: fas
+search: bathroom,covid-19,halloween,holiday,lavatory,leaves,prank,restroom,roll,trouble,ut oh
 
 ---
 

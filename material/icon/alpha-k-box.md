@@ -4,6 +4,7 @@ title: alpha k box(字母k框) ICON转svg、png下载
 name: alpha-k-box
 zhTips: 字母k框
 tags: ["alpha-numeric"]
+search: alphabet-k-box,letter-k-box
 
 ---
 

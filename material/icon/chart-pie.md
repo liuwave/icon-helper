@@ -4,6 +4,7 @@ title: chart pie(派) ICON转svg、png下载
 name: chart-pie
 zhTips: 派
 tags: ["math"]
+search: 
 
 ---
 

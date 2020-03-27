@@ -5,6 +5,7 @@ name: pastafarianism
 zhTips: Pastafarianism,不可知论,无神论,意大利面条怪物,fsm
 tags: ["religion"]
 pre: fas
+search: agnosticism,atheism,flying spaghetti monster,fsm
 
 ---
 

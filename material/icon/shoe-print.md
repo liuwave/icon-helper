@@ -4,6 +4,7 @@ title: shoe print(鞋印) ICON转svg、png下载
 name: shoe-print
 zhTips: 鞋印,脚印
 tags: []
+search: footprints
 
 ---
 

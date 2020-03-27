@@ -4,6 +4,7 @@ title: shield bug outline(防护错误概述) ICON转svg、png下载
 name: shield-bug-outline
 zhTips: 防护错误概述,防病毒概述
 tags: []
+search: antivirus-outline
 
 ---
 

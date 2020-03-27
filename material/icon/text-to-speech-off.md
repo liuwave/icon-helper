@@ -4,6 +4,7 @@ title: text to speech off(文本到语音关闭) ICON转svg、png下载
 name: text-to-speech-off
 zhTips: 文本到语音关闭,tts关闭,麦克风消息关闭
 tags: []
+search: tts-off,microphone-message-off
 
 ---
 

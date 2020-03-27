@@ -4,6 +4,7 @@ title: alpha t(alpha t) ICON转svg、png下载
 name: alpha-t
 zhTips: alpha t,字母t
 tags: ["alpha-numeric"]
+search: alphabet-t,letter-t
 
 ---
 

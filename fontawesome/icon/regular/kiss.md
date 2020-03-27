@@ -5,6 +5,7 @@ name: kiss
 zhTips: 接吻的脸,所以,图释,脸,爱,柔和
 tags: ["emoji"]
 pre: far
+search: beso,emoticon,face,love,smooch
 
 ---
 

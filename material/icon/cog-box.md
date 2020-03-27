@@ -4,6 +4,7 @@ title: cog box(齿轮箱) ICON转svg、png下载
 name: cog-box
 zhTips: 齿轮箱,应用程序设置,框设置
 tags: ["settings"]
+search: gear-box,settings-applications,settings-box
 
 ---
 

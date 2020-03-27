@@ -4,6 +4,7 @@ title: wifi strength 4 alert(wifi强度4警报) ICON转svg、png下载
 name: wifi-strength-4-alert
 zhTips: wifi强度4警报,wifi强度4警告
 tags: ["alert-error"]
+search: wifi-strength-4-warning
 
 ---
 

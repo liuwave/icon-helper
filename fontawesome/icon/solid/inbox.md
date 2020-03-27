@@ -5,6 +5,7 @@ name: inbox
 zhTips: 收件箱,归档,办公桌,电子邮件,邮件,消息
 tags: ["communication"]
 pre: fas
+search: archive,desk,email,mail,message
 
 ---
 

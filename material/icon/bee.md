@@ -4,6 +4,7 @@ title: bee(蜜蜂) ICON转svg、png下载
 name: bee
 zhTips: 蜜蜂,苍蝇,昆虫
 tags: ["nature"]
+search: fly,insect
 
 ---
 

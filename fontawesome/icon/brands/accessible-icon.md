@@ -2,9 +2,10 @@
 
 title: Accessible Icon(辅助功能图标) ICON转svg、png下载
 name: accessible-icon
-zhTips: 辅助功能图标,辅助功能,障碍,人,轮椅,轮椅alt
+zhTips: 辅助功能图标,辅助功能,障碍,残疾人,轮椅,轮椅alt
 tags: ["accessibility","health","users-people","vehicles"]
 pre: fab
+search: accessibility,handicap,person,wheelchair,wheelchair-alt
 
 ---
 
@@ -37,9 +38,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">accessibility</span><span class="badge-light badge">handicap</span><span class="badge-light badge">person</span><span class="badge-light badge">wheelchair</span><span class="badge-light badge">wheelchair-alt</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">辅助功能图标</span><span class="badge-primary badge">辅助功能</span><span class="badge-primary badge">障碍</span><span class="badge-primary badge">人</span><span class="badge-primary badge">轮椅</span><span class="badge-primary badge">轮椅alt</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/accessible-icon.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/accessible-icon.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">accessibility</span><span class="badge-light badge">handicap</span><span class="badge-light badge">person</span><span class="badge-light badge">wheelchair</span><span class="badge-light badge">wheelchair-alt</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">辅助功能图标</span><span class="badge-primary badge">辅助功能</span><span class="badge-primary badge">障碍</span><span class="badge-primary badge">残疾人</span><span class="badge-primary badge">轮椅</span><span class="badge-primary badge">轮椅alt</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/accessible-icon.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/accessible-icon.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">这是表示可访问性的图标，图标主体是做轮椅行进的残疾人。</div>
 <div class="alert alert-dark">
   <i class="fab fa-accessible-icon fa-xs"></i>
   <i class="fab fa-accessible-icon fa-sm"></i>

@@ -4,6 +4,7 @@ title: alpha a(alpha a) ICON转svg、png下载
 name: alpha-a
 zhTips: alpha a,字母a
 tags: ["alpha-numeric"]
+search: alphabet-a,letter-a
 
 ---
 

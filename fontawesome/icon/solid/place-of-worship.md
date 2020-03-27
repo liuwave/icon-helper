@@ -5,6 +5,7 @@ name: place-of-worship
 zhTips: 教堂,建筑,圣洁,清真寺,犹太教堂
 tags: ["buildings","religion"]
 pre: fas
+search: building,church,holy,mosque,synagogue
 
 ---
 

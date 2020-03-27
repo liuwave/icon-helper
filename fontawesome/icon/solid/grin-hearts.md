@@ -5,6 +5,7 @@ name: grin-hearts
 zhTips: 心眼的笑脸,图释,脸,爱,微笑
 tags: ["emoji"]
 pre: fas
+search: emoticon,face,love,smile
 
 ---
 

@@ -4,6 +4,7 @@ title: comment text multiple(多个文本注释) ICON转svg、png下载
 name: comment-text-multiple
 zhTips: 多个文本注释,文本注释
 tags: []
+search: comments-text
 
 ---
 

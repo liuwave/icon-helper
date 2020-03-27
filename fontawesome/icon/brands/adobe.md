@@ -5,6 +5,7 @@ name: adobe
 zhTips: Adob​​e,acrobat,应用程序,设计,插画,photoshop
 tags: []
 pre: fab
+search: acrobat,app,design,illustrator,indesign,photoshop
 
 ---
 

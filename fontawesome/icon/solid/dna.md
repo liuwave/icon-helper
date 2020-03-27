@@ -5,6 +5,7 @@ name: dna
 zhTips: DNA,双螺旋,遗传,螺旋,分子,蛋白质
 tags: ["medical","science"]
 pre: fas
+search: double helix,genetic,helix,molecule,protein
 
 ---
 

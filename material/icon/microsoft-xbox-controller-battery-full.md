@@ -4,6 +4,7 @@ title: microsoft xbox controller battery full(Microsoft xbox控制器电池已�
 name: microsoft-xbox-controller-battery-full
 zhTips: Microsoft xbox控制器电池已满
 tags: ["battery","gaming-rpg"]
+search: 
 
 ---
 

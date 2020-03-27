@@ -4,6 +4,7 @@ title: folder refresh outline(文件夹刷新轮廓) ICON转svg、png下载
 name: folder-refresh-outline
 zhTips: 文件夹刷新轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: weather night(天气夜) ICON转svg、png下载
 name: weather-night
 zhTips: 天气夜,月亮和星星,夜空
 tags: ["weather"]
+search: moon-and-stars,night-sky
 
 ---
 

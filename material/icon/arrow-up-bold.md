@@ -4,6 +4,7 @@ title: arrow up bold(上箭头加粗) ICON转svg、png下载
 name: arrow-up-bold
 zhTips: 上箭头加粗
 tags: ["arrow"]
+search: arrow-top-bold
 
 ---
 

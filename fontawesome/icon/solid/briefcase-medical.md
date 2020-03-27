@@ -5,6 +5,7 @@ name: briefcase-medical
 zhTips: 医疗公文包,医生,emt,急救,健康
 tags: ["medical"]
 pre: fas
+search: doctor,emt,first aid,health
 
 ---
 

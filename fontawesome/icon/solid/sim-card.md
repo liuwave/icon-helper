@@ -5,6 +5,7 @@ name: sim-card
 zhTips: SIM卡,硬盘驱动器,硬件,便携式,存储,技术,微型
 tags: ["computers","objects"]
 pre: fas
+search: hard drive,hardware,portable,storage,technology,tiny
 
 ---
 

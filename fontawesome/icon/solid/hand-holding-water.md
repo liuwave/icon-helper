@@ -5,6 +5,7 @@ name: hand-holding-water
 zhTips: 手持水,搬运,舒适19,干旱,生长,举升
 tags: ["charity","hands"]
 pre: fas
+search: carry,covid-19,drought,grow,lift
 
 ---
 

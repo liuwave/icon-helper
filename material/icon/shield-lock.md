@@ -4,6 +4,7 @@ title: shield lock(屏蔽锁) ICON转svg、png下载
 name: shield-lock
 zhTips: 屏蔽锁,安全锁
 tags: ["lock"]
+search: security-lock
 
 ---
 

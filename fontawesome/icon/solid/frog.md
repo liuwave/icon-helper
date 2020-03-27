@@ -5,6 +5,7 @@ name: frog
 zhTips: 青蛙,两栖动物,牛蛙,动物区系,蛇麻草,kermit,吻,王子,兔子,蟾蜍,疣
 tags: ["animals","camping","maritime","science","spring"]
 pre: fas
+search: amphibian,bullfrog,fauna,hop,kermit,kiss,prince,ribbit,toad,wart
 
 ---
 

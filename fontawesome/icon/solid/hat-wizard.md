@@ -5,6 +5,7 @@ name: hat-wizard
 zhTips: 向导帽子,地牢与龙,配件,带扣,服装,d＆d,dnd,幻想,万圣节,头,假日,法师,魔术,尖尖,女巫
 tags: ["clothing","gaming-tabletop","halloween","objects"]
 pre: fas
+search: Dungeons & Dragons,accessory,buckle,clothing,d&d,dnd,fantasy,halloween,head,holiday,mage,magic,pointy,witch
 
 ---
 

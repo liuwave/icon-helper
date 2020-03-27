@@ -5,6 +5,7 @@ name: location-arrow
 zhTips: 位置箭头,地址,指南针,坐标,方向,gps,地图,导航,位置
 tags: ["arrows","maps"]
 pre: fas
+search: address,compass,coordinate,direction,gps,map,navigation,place
 
 ---
 

@@ -4,6 +4,7 @@ title: caps lock(大写锁定) ICON转svg、png下载
 name: caps-lock
 zhTips: 大写锁定
 tags: ["text-content-format"]
+search: 
 
 ---
 

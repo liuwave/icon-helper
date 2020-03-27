@@ -4,6 +4,7 @@ title: pinterest(pinterest) ICON转svg、png下载
 name: pinterest
 zhTips: pinterest
 tags: ["brand-logo"]
+search: 
 
 ---
 

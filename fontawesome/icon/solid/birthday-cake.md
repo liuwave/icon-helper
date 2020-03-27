@@ -5,6 +5,7 @@ name: birthday-cake
 zhTips: 生日蛋糕,周年纪念日,面包店,蜡烛,庆祝活动,甜点,糖霜,假日,聚会,糕点
 tags: ["business","childhood","maps","objects","social"]
 pre: fas
+search: anniversary,bakery,candles,celebration,dessert,frosting,holiday,party,pastry
 
 ---
 

@@ -4,6 +4,7 @@ title: cog transfer outline(齿轮传输轮廓) ICON转svg、png下载
 name: cog-transfer-outline
 zhTips: 齿轮传输轮廓,轮廓传输设置
 tags: ["settings"]
+search: settings-transfer-outline
 
 ---
 

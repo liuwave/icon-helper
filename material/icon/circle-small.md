@@ -4,6 +4,7 @@ title: circle small(小圆圈) ICON转svg、png下载
 name: circle-small
 zhTips: 小圆圈,子弹,乘法
 tags: ["math"]
+search: bullet,multiplication
 
 ---
 

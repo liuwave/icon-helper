@@ -4,6 +4,7 @@ title: cellphone arrow down(手机向下箭头) ICON转svg、png下载
 name: cellphone-arrow-down
 zhTips: 手机向下箭头,手机系统更新,智能手机向下箭头
 tags: ["cellphone-phone","device-tech"]
+search: cellphone-system-update,mobile-phone-arrow-down,smartphone-arrow-down
 
 ---
 

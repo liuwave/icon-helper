@@ -5,6 +5,7 @@ name: compress-alt
 zhTips: 备用压缩,折叠,全屏,最小化,移动,调整大小,缩小,更小
 tags: ["arrows","audio-video"]
 pre: fas
+search: collapse,fullscreen,minimize,move,resize,shrink,smaller
 
 ---
 

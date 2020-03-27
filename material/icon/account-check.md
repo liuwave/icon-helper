@@ -4,6 +4,7 @@ title: account check(帐户检查) ICON转svg、png下载
 name: account-check
 zhTips: 帐户检查,用户检查,帐户刻度,用户刻度,人员检查,人员刻度,如何注册
 tags: ["account-user"]
+search: user-check,account-tick,user-tick,person-check,person-tick,how-to-reg
 
 ---
 

@@ -4,6 +4,7 @@ title: camera switch(摄像机开关) ICON转svg、png下载
 name: camera-switch
 zhTips: 摄像机开关
 tags: ["photography"]
+search: switch-camera
 
 ---
 

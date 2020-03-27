@@ -5,6 +5,7 @@ name: sort-up
 zhTips: 排序（升序）,箭头,升序,过滤器,顺序,升序排序
 tags: ["arrows","interfaces"]
 pre: fas
+search: arrow,ascending,filter,order,sort-asc
 
 ---
 

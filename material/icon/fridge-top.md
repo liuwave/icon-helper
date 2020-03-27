@@ -4,6 +4,7 @@ title: fridge top(冰箱顶部) ICON转svg、png下载
 name: fridge-top
 zhTips: 冰箱顶部,冰箱底部
 tags: ["home-automation"]
+search: fridge-filled-bottom,refrigerator-top
 
 ---
 

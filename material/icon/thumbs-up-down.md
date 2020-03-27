@@ -4,6 +4,7 @@ title: thumbs up down(竖起大拇指) ICON转svg、png下载
 name: thumbs-up-down
 zhTips: 竖起大拇指,不喜欢
 tags: []
+search: like-dislike
 
 ---
 

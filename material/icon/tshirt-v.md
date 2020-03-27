@@ -4,6 +4,7 @@ title: tshirt v(T恤v) ICON转svg、png下载
 name: tshirt-v
 zhTips: T恤v,t恤v
 tags: ["clothing"]
+search: t-shirt-v
 
 ---
 

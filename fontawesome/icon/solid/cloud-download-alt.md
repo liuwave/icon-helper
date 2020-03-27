@@ -5,6 +5,7 @@ name: cloud-download-alt
 zhTips: 备用云下载,下载,导出,保存
 tags: ["arrows","interfaces"]
 pre: fas
+search: download,export,save
 
 ---
 

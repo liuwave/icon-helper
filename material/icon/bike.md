@@ -4,6 +4,7 @@ title: bike(自行车) ICON转svg、png下载
 name: bike
 zhTips: 自行车,单车,自行车路线
 tags: ["transportation-other","sport"]
+search: bicycle,cycling,directions-bike
 
 ---
 

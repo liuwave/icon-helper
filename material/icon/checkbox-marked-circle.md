@@ -4,6 +4,7 @@ title: checkbox marked circle(复选框标记为圆形) ICON转svg、png下载
 name: checkbox-marked-circle
 zhTips: 复选框标记为圆形
 tags: ["form"]
+search: 
 
 ---
 

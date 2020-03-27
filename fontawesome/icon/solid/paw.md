@@ -5,6 +5,7 @@ name: paw
 zhTips: 爪子,动物,猫,狗,宠物,打印
 tags: ["animals","maps","objects"]
 pre: fas
+search: animal,cat,dog,pet,print
 
 ---
 

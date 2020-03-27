@@ -5,6 +5,7 @@ name: transgender
 zhTips: 变性者,中性
 tags: ["gender"]
 pre: fas
+search: intersex
 
 ---
 

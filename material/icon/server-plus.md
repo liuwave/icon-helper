@@ -4,6 +4,7 @@ title: server plus(服务器加号) ICON转svg、png下载
 name: server-plus
 zhTips: 服务器加号,服务器添加
 tags: []
+search: server-add
 
 ---
 

@@ -5,6 +5,7 @@ name: steam-square
 zhTips: 蒸汽广场
 tags: ["games"]
 pre: fab
+search: 
 
 ---
 

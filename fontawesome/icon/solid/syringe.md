@@ -5,6 +5,7 @@ name: syringe
 zhTips: 注射器,covid 19,医生,免疫,医疗,针
 tags: ["medical","pharmacy","science"]
 pre: fas
+search: covid-19,doctor,immunizations,medical,needle
 
 ---
 

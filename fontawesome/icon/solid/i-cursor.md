@@ -5,6 +5,7 @@ name: i-cursor
 zhTips: I Beam光标,编辑,i Beam,类型,书写
 tags: ["editors","interfaces"]
 pre: fas
+search: editing,i-beam,type,writing
 
 ---
 

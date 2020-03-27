@@ -5,6 +5,7 @@ name: kaaba
 zhTips: 天房,建筑,立方体,伊斯兰教,穆斯林
 tags: ["buildings","religion"]
 pre: fas
+search: building,cube,islam,muslim
 
 ---
 

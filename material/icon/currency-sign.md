@@ -4,6 +4,7 @@ title: currency sign(货币符号) ICON转svg、png下载
 name: currency-sign
 zhTips: 货币符号,圣甲虫
 tags: ["currency","banking"]
+search: currency-scarab
 
 ---
 

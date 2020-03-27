@@ -4,6 +4,7 @@ title: file undo(文件撤消) ICON转svg、png下载
 name: file-undo
 zhTips: 文件撤消,文件还原,文件丢弃
 tags: ["files-folders"]
+search: file-revert,file-discard
 
 ---
 

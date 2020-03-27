@@ -4,6 +4,7 @@ title: circle multiple outline(圈出多个轮廓) ICON转svg、png下载
 name: circle-multiple-outline
 zhTips: 圈出多个轮廓,孔,硬币轮廓
 tags: ["currency","banking"]
+search: toll,coins-outline
 
 ---
 

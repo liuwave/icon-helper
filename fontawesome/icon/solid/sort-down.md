@@ -5,6 +5,7 @@ name: sort-down
 zhTips: 排序（降序）,箭头,降序,过滤器,顺序
 tags: ["arrows","interfaces"]
 pre: fas
+search: arrow,descending,filter,order,sort-desc
 
 ---
 

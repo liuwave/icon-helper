@@ -4,6 +4,7 @@ title: coffee(咖啡) ICON转svg、png下载
 name: coffee
 zhTips: 咖啡,茶,杯子,免费早餐,当地咖啡馆
 tags: ["food-drink"]
+search: tea,cup,free-breakfast,local-cafe
 
 ---
 

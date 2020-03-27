@@ -4,6 +4,7 @@ title: sync(同步) ICON转svg、png下载
 name: sync
 zhTips: 同步,循环,逆时针箭头,圆形箭头
 tags: []
+search: loop,counterclockwise-arrows,circular-arrows,circle-arrows
 
 ---
 

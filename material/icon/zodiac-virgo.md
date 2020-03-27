@@ -4,6 +4,7 @@ title: zodiac virgo(处女座) ICON转svg、png下载
 name: zodiac-virgo
 zhTips: 处女座
 tags: []
+search: horoscope-virgo
 
 ---
 

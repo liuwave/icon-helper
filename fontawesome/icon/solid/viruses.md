@@ -5,6 +5,7 @@ name: viruses
 zhTips: 病毒,bug,covid 19,流感,健康,乘法,病,传播
 tags: ["medical"]
 pre: fas
+search: bugs,covid-19,flu,health,multiply,sick,spread,viral
 
 ---
 

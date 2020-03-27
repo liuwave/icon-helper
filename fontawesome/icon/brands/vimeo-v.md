@@ -5,6 +5,7 @@ name: vimeo-v
 zhTips: Vimeo,vimeo
 tags: []
 pre: fab
+search: vimeo
 
 ---
 

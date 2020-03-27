@@ -5,6 +5,7 @@ name: fedex
 zhTips: FedEx,联邦快递,包裹,运输
 tags: []
 pre: fab
+search: Federal Express,package,shipping
 
 ---
 

@@ -4,6 +4,7 @@ title: fuel(燃料) ICON转svg、png下载
 name: fuel
 zhTips: 燃料,汽油
 tags: ["automotive"]
+search: petrol,gasoline
 
 ---
 

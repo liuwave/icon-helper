@@ -5,6 +5,7 @@ name: tint
 zhTips: 色调,颜色,拖放,水滴,雨滴
 tags: ["design","images","maps","status"]
 pre: fas
+search: color,drop,droplet,raindrop,waterdrop
 
 ---
 

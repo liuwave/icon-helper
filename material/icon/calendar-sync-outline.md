@@ -4,6 +4,7 @@ title: calendar sync outline(日历同步轮廓) ICON转svg、png下载
 name: calendar-sync-outline
 zhTips: 日历同步轮廓,日历重复轮廓
 tags: ["date-time"]
+search: calendar-repeat-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: mosque
 zhTips: 清真寺,建筑,伊斯兰教,地标,穆斯林
 tags: ["buildings","religion"]
 pre: fas
+search: building,islam,landmark,muslim
 
 ---
 

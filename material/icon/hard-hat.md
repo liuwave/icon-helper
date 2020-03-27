@@ -4,6 +4,7 @@ title: hard hat(安全帽) ICON转svg、png下载
 name: hard-hat
 zhTips: 安全帽,头盔
 tags: ["hardware-tools","clothing"]
+search: helmet
 
 ---
 

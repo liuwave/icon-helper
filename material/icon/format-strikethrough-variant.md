@@ -4,6 +4,7 @@ title: format strikethrough variant(格式删除线变体) ICON转svg、png下�
 name: format-strikethrough-variant
 zhTips: 格式删除线变体,删除线s
 tags: ["text-content-format"]
+search: strikethrough-s
 
 ---
 

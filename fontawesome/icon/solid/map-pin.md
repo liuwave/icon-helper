@@ -5,6 +5,7 @@ name: map-pin
 zhTips: 地图图钉,地址,同意,坐标,目的地,gps,本地化,位置,地图,标记,导航,图钉,旅行
 tags: ["maps","objects"]
 pre: fas
+search: address,agree,coordinates,destination,gps,localize,location,map,marker,navigation,pin,place,position,travel
 
 ---
 

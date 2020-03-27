@@ -4,6 +4,7 @@ title: help circle(帮助圈) ICON转svg、png下载
 name: help-circle
 zhTips: 帮助圈,问号圈
 tags: []
+search: question-mark-circle
 
 ---
 

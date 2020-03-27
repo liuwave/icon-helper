@@ -4,6 +4,7 @@ title: attachment(附件) ICON转svg、png下载
 name: attachment
 zhTips: 附件,水平回形针
 tags: []
+search: paperclip-horizontal
 
 ---
 

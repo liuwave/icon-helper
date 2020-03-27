@@ -4,6 +4,7 @@ title: zodiac sagittarius(射手座十二生肖) ICON转svg、png下载
 name: zodiac-sagittarius
 zhTips: 射手座十二生肖
 tags: []
+search: horoscope-sagittarius
 
 ---
 

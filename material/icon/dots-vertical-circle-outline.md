@@ -4,6 +4,7 @@ title: dots vertical circle outline(点垂直圆轮廓) ICON转svg、png下载
 name: dots-vertical-circle-outline
 zhTips: 点垂直圆轮廓,省略号垂直圆轮廓,菜单
 tags: []
+search: ellipsis-vertical-circle-outline,menu
 
 ---
 

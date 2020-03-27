@@ -4,6 +4,7 @@ title: code brackets(代码括号) ICON转svg、png下载
 name: code-brackets
 zhTips: 代码括号,方括号
 tags: ["developer-languages","math"]
+search: square-brackets
 
 ---
 

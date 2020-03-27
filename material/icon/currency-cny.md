@@ -4,6 +4,7 @@ title: currency cny(货币CNY) ICON转svg、png下载
 name: currency-cny
 zhTips: 货币CNY,人民币
 tags: ["currency","banking"]
+search: yuan,renminbi
 
 ---
 

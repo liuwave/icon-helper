@@ -4,6 +4,7 @@ title: comment plus(加评论) ICON转svg、png下载
 name: comment-plus
 zhTips: 加评论
 tags: []
+search: comment-add
 
 ---
 

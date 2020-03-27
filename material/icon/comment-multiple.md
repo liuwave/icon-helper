@@ -4,6 +4,7 @@ title: comment multiple(评论多个) ICON转svg、png下载
 name: comment-multiple
 zhTips: 评论多个,评论
 tags: []
+search: comments
 
 ---
 

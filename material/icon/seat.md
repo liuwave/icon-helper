@@ -4,6 +4,7 @@ title: seat(座椅) ICON转svg、png下载
 name: seat
 zhTips: 座椅,活动座椅,椅子
 tags: []
+search: event-seat,chair
 
 ---
 

@@ -5,6 +5,7 @@ name: record-vinyl
 zhTips: 记录乙烯基,LP,专辑,模拟,音乐,留声机,声音
 tags: ["music"]
 pre: fas
+search: LP,album,analog,music,phonograph,sound
 
 ---
 

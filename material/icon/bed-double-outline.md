@@ -4,6 +4,7 @@ title: bed double outline(双人床) ICON转svg、png下载
 name: bed-double-outline
 zhTips: 双人床
 tags: ["home-automation","holiday"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: clover(三叶草) ICON转svg、png下载
 name: clover
 zhTips: 三叶草,运气
 tags: ["nature"]
+search: luck
 
 ---
 

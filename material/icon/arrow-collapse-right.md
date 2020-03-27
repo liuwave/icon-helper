@@ -4,6 +4,7 @@ title: arrow collapse right(箭头向右折叠) ICON转svg、png下载
 name: arrow-collapse-right
 zhTips: 箭头向右折叠,箭头向右压缩
 tags: ["arrow"]
+search: arrow-compress-right
 
 ---
 

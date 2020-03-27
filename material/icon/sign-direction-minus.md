@@ -4,6 +4,7 @@ title: sign direction minus(标志方向为负) ICON转svg、png下载
 name: sign-direction-minus
 zhTips: 标志方向为负,里程碑为负
 tags: []
+search: milestone-minus
 
 ---
 

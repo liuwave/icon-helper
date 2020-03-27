@@ -4,6 +4,7 @@ title: alpha f circle outline(alpha f圆圈轮廓) ICON转svg、png下载
 name: alpha-f-circle-outline
 zhTips: alpha f圆圈轮廓,字母f圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-f-circle-outline,letter-f-circle-outline
 
 ---
 

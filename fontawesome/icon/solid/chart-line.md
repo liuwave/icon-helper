@@ -5,6 +5,7 @@ name: chart-line
 zhTips: 折线图,活动,分析,图表,仪表板,增益,图形,增加,线
 tags: ["arrows","business","finance"]
 pre: fas
+search: activity,analytics,chart,dashboard,gain,graph,increase,line
 
 ---
 

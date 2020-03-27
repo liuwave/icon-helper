@@ -4,6 +4,7 @@ title: file code(文件代码) ICON转svg、png下载
 name: file-code
 zhTips: 文件代码
 tags: ["files-folders"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: escalator up(自动扶梯向上) ICON转svg、png下载
 name: escalator-up
 zhTips: 自动扶梯向上
 tags: ["transportation-other"]
+search: 
 
 ---
 

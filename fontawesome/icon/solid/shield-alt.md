@@ -5,6 +5,7 @@ name: shield-alt
 zhTips: 备用盾牌,成就,奖励,阻止,防御,安全,获胜者
 tags: ["code","interfaces","objects","security","status"]
 pre: fas
+search: achievement,award,block,defend,security,winner
 
 ---
 

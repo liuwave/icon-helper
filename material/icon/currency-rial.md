@@ -4,6 +4,7 @@ title: currency rial(货币里亚尔) ICON转svg、png下载
 name: currency-rial
 zhTips: 货币里亚尔,货币irr,货币omr,货币yer,货币sar
 tags: ["currency","banking"]
+search: currency-riyal,currency-irr,currency-omr,currency-yer,currency-sar
 
 ---
 

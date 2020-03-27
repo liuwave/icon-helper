@@ -5,6 +5,7 @@ name: brush
 zhTips: 画笔,艺术,鬃毛,颜色,手柄,油漆
 tags: ["construction","design"]
 pre: fas
+search: art,bristles,color,handle,paint
 
 ---
 

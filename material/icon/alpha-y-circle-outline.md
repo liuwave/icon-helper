@@ -4,6 +4,7 @@ title: alpha y circle outline(字母y圆圈轮廓) ICON转svg、png下载
 name: alpha-y-circle-outline
 zhTips: 字母y圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-y-circle-outline,letter-y-circle-outline
 
 ---
 

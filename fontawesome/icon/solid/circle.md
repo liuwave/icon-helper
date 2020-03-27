@@ -5,6 +5,7 @@ name: circle
 zhTips: 圆形,圆形薄,直径,点,椭圆,通知
 tags: ["audio-video","interfaces","shapes","toggle"]
 pre: fas
+search: circle-thin,diameter,dot,ellipse,notification,round
 
 ---
 

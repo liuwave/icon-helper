@@ -4,6 +4,7 @@ title: clipboard check(剪贴板检查) ICON转svg、png下载
 name: clipboard-check
 zhTips: 剪贴板检查,作业已上交,剪贴板刻度
 tags: []
+search: assignment-turned-in,clipboard-tick
 
 ---
 

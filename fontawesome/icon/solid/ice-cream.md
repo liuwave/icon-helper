@@ -5,6 +5,7 @@ name: ice-cream
 zhTips: 冰淇淋,巧克力,甜筒,甜点,冰冻,浓汤,冰沙,香草,酸奶
 tags: ["childhood","food","summer"]
 pre: fas
+search: chocolate,cone,dessert,frozen,scoop,sorbet,vanilla,yogurt
 
 ---
 

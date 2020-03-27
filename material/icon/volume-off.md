@@ -4,6 +4,7 @@ title: volume off(音量关闭) ICON转svg、png下载
 name: volume-off
 zhTips: 音量关闭,静音,音频关闭,扬声器关闭
 tags: ["audio","home-automation","cellphone-phone"]
+search: mute,audio-off,speaker-off,speakerphone-off
 
 ---
 

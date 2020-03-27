@@ -4,6 +4,7 @@ title: weather snowy rainy(多雨的下雪天气) ICON转svg、png下载
 name: weather-snowy-rainy
 zhTips: 多雨的下雪天气,雨夹雪的天气
 tags: ["weather"]
+search: weather-sleet
 
 ---
 

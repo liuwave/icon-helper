@@ -5,6 +5,7 @@ name: align-left
 zhTips: 左对齐,格式,段落,文本
 tags: ["editors"]
 pre: fas
+search: format,paragraph,text
 
 ---
 

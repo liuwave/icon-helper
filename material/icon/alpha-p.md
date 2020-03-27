@@ -4,6 +4,7 @@ title: alpha p(alpha p) ICON转svg、png下载
 name: alpha-p
 zhTips: alpha p,字母p,公园
 tags: ["automotive","alpha-numeric"]
+search: alphabet-p,letter-p,park
 
 ---
 

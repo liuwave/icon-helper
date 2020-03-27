@@ -4,6 +4,7 @@ title: textarea(textarea) ICON转svg、png下载
 name: textarea
 zhTips: textarea
 tags: ["form"]
+search: 
 
 ---
 

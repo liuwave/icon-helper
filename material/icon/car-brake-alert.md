@@ -4,6 +4,7 @@ title: car brake alert(汽车制动器警报) ICON转svg、png下载
 name: car-brake-alert
 zhTips: 汽车制动器警报,汽车驻车制动器,汽车手刹,汽车手制动器,汽车紧急制动器,汽车制动器警告
 tags: ["automotive","alert-error"]
+search: car-parking-brake,car-handbrake,car-hand-brake,car-emergency-brake,car-brake-warning
 
 ---
 

@@ -4,6 +4,7 @@ title: cart arrow up(购物车向上箭头) ICON转svg、png下载
 name: cart-arrow-up
 zhTips: 购物车向上箭头
 tags: ["shopping"]
+search: shopping-cart-arrow-up,trolley-arrow-up
 
 ---
 

@@ -5,6 +5,7 @@ name: allergies
 zhTips: 过敏,雀斑,手,荨麻疹,痘,皮肤,斑点
 tags: ["hands","medical","spring"]
 pre: fas
+search: allergy,freckles,hand,hives,pox,skin,spots
 
 ---
 

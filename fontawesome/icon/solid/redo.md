@@ -5,6 +5,7 @@ name: redo
 zhTips: 重做,转发,刷新,重新加载,重复
 tags: ["arrows","audio-video","editors","interfaces"]
 pre: fas
+search: forward,refresh,reload,repeat
 
 ---
 

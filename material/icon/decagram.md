@@ -4,6 +4,7 @@ title: decagram(十角星) ICON转svg、png下载
 name: decagram
 zhTips: 十角星,爆星
 tags: ["shape"]
+search: starburst
 
 ---
 

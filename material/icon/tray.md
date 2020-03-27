@@ -4,6 +4,7 @@ title: tray(托盘) ICON转svg、png下载
 name: tray
 zhTips: 托盘,队列,打印机,收件箱
 tags: []
+search: queue,printer,inbox
 
 ---
 

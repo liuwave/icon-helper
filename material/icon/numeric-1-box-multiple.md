@@ -4,6 +4,7 @@ title: numeric 1 box multiple(数字1盒多个) ICON转svg、png下载
 name: numeric-1-box-multiple
 zhTips: 数字1盒多个
 tags: ["alpha-numeric","alpha-numeric"]
+search: 
 
 ---
 

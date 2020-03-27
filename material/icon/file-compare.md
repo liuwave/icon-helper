@@ -4,6 +4,7 @@ title: file compare(文件比较) ICON转svg、png下载
 name: file-compare
 zhTips: 文件比较
 tags: ["files-folders"]
+search: 
 
 ---
 

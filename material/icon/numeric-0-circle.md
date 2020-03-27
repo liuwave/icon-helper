@@ -4,6 +4,7 @@ title: numeric 0 circle(数字0圈) ICON转svg、png下载
 name: numeric-0-circle
 zhTips: 数字0圈
 tags: ["alpha-numeric"]
+search: numeric-zero-circle,number-0-circle,number-zero-circle
 
 ---
 

@@ -5,6 +5,7 @@ name: baby
 zhTips: 婴儿,儿童,尿布,娃娃,人类,孩子,后代,人,新芽
 tags: ["childhood","users-people"]
 pre: fas
+search: child,diaper,doll,human,infant,kid,offspring,person,sprout
 
 ---
 

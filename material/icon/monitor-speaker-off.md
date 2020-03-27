@@ -4,6 +4,7 @@ title: monitor speaker off(监听扬声器关闭) ICON转svg、png下载
 name: monitor-speaker-off
 zhTips: 监听扬声器关闭
 tags: ["device-tech"]
+search: 
 
 ---
 

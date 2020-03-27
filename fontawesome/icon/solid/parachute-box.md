@@ -5,6 +5,7 @@ name: parachute-box
 zhTips: 降落伞箱,援助,救援,用品
 tags: ["charity"]
 pre: fas
+search: aid,assistance,rescue,supplies
 
 ---
 

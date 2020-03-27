@@ -4,6 +4,7 @@ title: alphabet latin(拉丁字母) ICON转svg、png下载
 name: alphabet-latin
 zhTips: 拉丁字母,书写系统拉丁
 tags: ["alpha-numeric"]
+search: writing-system-latin
 
 ---
 

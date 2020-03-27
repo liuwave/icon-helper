@@ -4,6 +4,7 @@ title: arrow collapse horizontal(箭头水平折叠) ICON转svg、png下载
 name: arrow-collapse-horizontal
 zhTips: 箭头水平折叠
 tags: ["arrow"]
+search: 
 
 ---
 

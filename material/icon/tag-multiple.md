@@ -4,6 +4,7 @@ title: tag multiple(标签多个) ICON转svg、png下载
 name: tag-multiple
 zhTips: 标签多个,标签
 tags: []
+search: tags
 
 ---
 

@@ -4,6 +4,7 @@ title: clipboard check outline(剪贴板检查轮廓) ICON转svg、png下载
 name: clipboard-check-outline
 zhTips: 剪贴板检查轮廓,剪贴板刻度线
 tags: []
+search: clipboard-tick-outline
 
 ---
 

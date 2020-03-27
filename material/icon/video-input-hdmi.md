@@ -4,6 +4,7 @@ title: video input hdmi(视频输入HDMI) ICON转svg、png下载
 name: video-input-hdmi
 zhTips: 视频输入HDMI,设置输入HDMI
 tags: ["video-movie"]
+search: settings-input-hdmi
 
 ---
 

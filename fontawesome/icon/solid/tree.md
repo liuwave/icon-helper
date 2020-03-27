@@ -5,6 +5,7 @@ name: tree
 zhTips: 树,树皮,秋天,植物区系,森林,自然,植物,季节性
 tags: ["autumn","camping","maps","objects"]
 pre: fas
+search: bark,fall,flora,forest,nature,plant,seasonal
 
 ---
 

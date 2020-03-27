@@ -4,6 +4,7 @@ title: alpha b(alpha b) ICON转svg、png下载
 name: alpha-b
 zhTips: alpha b,字母b
 tags: ["alpha-numeric"]
+search: alphabet-b,letter-b
 
 ---
 

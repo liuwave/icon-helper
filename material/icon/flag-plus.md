@@ -4,6 +4,7 @@ title: flag plus(标志加号) ICON转svg、png下载
 name: flag-plus
 zhTips: 标志加号
 tags: []
+search: flag-add
 
 ---
 

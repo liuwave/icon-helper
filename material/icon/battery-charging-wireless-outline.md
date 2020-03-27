@@ -4,6 +4,7 @@ title: battery charging wireless outline(电池充电无线轮廓) ICON转svg、
 name: battery-charging-wireless-outline
 zhTips: 电池充电无线轮廓,电池充电无线空,电池充电无线0
 tags: ["battery","home-automation"]
+search: battery-charging-wireless-empty,battery-charging-wireless-0
 
 ---
 

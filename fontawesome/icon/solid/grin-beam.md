@@ -5,6 +5,7 @@ name: grin-beam
 zhTips: 笑脸咧着嘴笑,图释,脸,笑,微笑
 tags: ["emoji"]
 pre: fas
+search: emoticon,face,laugh,smile
 
 ---
 

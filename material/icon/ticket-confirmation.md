@@ -4,6 +4,7 @@ title: ticket confirmation(票证确认) ICON转svg、png下载
 name: ticket-confirmation
 zhTips: 票证确认,确认号
 tags: []
+search: confirmation-number
 
 ---
 

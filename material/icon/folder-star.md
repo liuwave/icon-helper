@@ -4,6 +4,7 @@ title: folder star(文件夹星号) ICON转svg、png下载
 name: folder-star
 zhTips: 文件夹星号,文件夹特殊
 tags: ["files-folders"]
+search: folder-special
 
 ---
 

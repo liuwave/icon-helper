@@ -4,6 +4,7 @@ title: food(食品) ICON转svg、png下载
 name: food
 zhTips: 食品,快餐
 tags: ["food-drink"]
+search: fast-food
 
 ---
 

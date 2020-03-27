@@ -5,6 +5,7 @@ name: money-check
 zhTips: 支票,银行支票,购买,结帐,钱,付款,价格
 tags: ["currency","finance","objects","payments-shopping"]
 pre: fas
+search: bank check,buy,checkout,cheque,money,payment,price,purchase
 
 ---
 

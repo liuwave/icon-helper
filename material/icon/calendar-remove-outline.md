@@ -4,6 +4,7 @@ title: calendar remove outline(日历删除轮廓) ICON转svg、png下载
 name: calendar-remove-outline
 zhTips: 日历删除轮廓,事件繁忙轮廓,事件删除轮廓
 tags: ["date-time"]
+search: event-busy-outline,event-remove-outline
 
 ---
 

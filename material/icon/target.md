@@ -4,6 +4,7 @@ title: target(目标) ICON转svg、png下载
 name: target
 zhTips: 目标,注册标记
 tags: []
+search: registration-mark
 
 ---
 

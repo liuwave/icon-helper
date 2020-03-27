@@ -4,6 +4,7 @@ title: dump truck(自卸车) ICON转svg、png下载
 name: dump-truck
 zhTips: 自卸车
 tags: ["transportation-road","hardware-tools"]
+search: tipper-lorry
 
 ---
 

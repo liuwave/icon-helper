@@ -4,6 +4,7 @@ title: beer(啤酒) ICON转svg、png下载
 name: beer
 zhTips: 啤酒,品脱,酒吧
 tags: ["food-drink"]
+search: pint,pub,bar
 
 ---
 

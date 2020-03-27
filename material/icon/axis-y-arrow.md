@@ -4,6 +4,7 @@ title: axis y arrow(箭头轴) ICON转svg、png下载
 name: axis-y-arrow
 zhTips: 箭头轴
 tags: ["arrow"]
+search: 
 
 ---
 

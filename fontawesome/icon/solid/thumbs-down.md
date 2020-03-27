@@ -5,6 +5,7 @@ name: thumbs-down
 zhTips: 竖起大拇指,不同意,不喜欢,手,社交
 tags: ["hands","interfaces","payments-shopping","social","status"]
 pre: fas
+search: disagree,disapprove,dislike,hand,social,thumbs-o-down
 
 ---
 

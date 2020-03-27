@@ -5,6 +5,7 @@ name: user-minus
 zhTips: 用户减号,删除,负号
 tags: ["users-people"]
 pre: fas
+search: delete,negative,remove
 
 ---
 

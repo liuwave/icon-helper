@@ -4,6 +4,7 @@ title: one up(一上一上) ICON转svg、png下载
 name: one-up
 zhTips: 一上一上,超长寿命
 tags: ["gaming-rpg"]
+search: 1up,extra-life
 
 ---
 

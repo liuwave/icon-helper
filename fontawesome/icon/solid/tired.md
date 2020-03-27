@@ -5,6 +5,7 @@ name: tired
 zhTips: 疲倦的脸,生气,图释,脸,脾气暴躁,心烦
 tags: ["emoji"]
 pre: fas
+search: angry,emoticon,face,grumpy,upset
 
 ---
 

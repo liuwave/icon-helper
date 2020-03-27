@@ -5,6 +5,7 @@ name: venus-mars
 zhTips: 金星火星,性别
 tags: ["gender"]
 pre: fas
+search: Gender
 
 ---
 

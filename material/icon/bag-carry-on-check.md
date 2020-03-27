@@ -4,6 +4,7 @@ title: bag carry on check(携带行李托运) ICON转svg、png下载
 name: bag-carry-on-check
 zhTips: 携带行李托运
 tags: ["transportation-flying"]
+search: carry-on-bag-tick,carry-on-bag-check
 
 ---
 

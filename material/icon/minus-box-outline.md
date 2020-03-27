@@ -4,6 +4,7 @@ title: minus box outline(减号框轮廓) ICON转svg、png下载
 name: minus-box-outline
 zhTips: 减号框轮廓,复选框不确定的轮廓
 tags: ["math"]
+search: checkbox-indeterminate-outline
 
 ---
 

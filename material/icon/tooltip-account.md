@@ -4,6 +4,7 @@ title: tooltip account(工具提示帐户) ICON转svg、png下载
 name: tooltip-account
 zhTips: 工具提示帐户,工具提示用户,工具提示人员,帐户位置
 tags: ["account-user","tooltip"]
+search: tooltip-user,tooltip-person,account-location
 
 ---
 

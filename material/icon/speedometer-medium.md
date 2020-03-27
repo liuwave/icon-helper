@@ -4,6 +4,7 @@ title: speedometer medium(中速表) ICON转svg、png下载
 name: speedometer-medium
 zhTips: 中速表
 tags: ["automotive"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: text box minus(减去文本框) ICON转svg、png下载
 name: text-box-minus
 zhTips: 减去文本框,减去文件文档框
 tags: ["files-folders"]
+search: file-document-box-minus
 
 ---
 

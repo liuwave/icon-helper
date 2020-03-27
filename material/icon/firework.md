@@ -4,6 +4,7 @@ title: firework(烟火) ICON转svg、png下载
 name: firework
 zhTips: 烟火,火箭瓶
 tags: ["holiday"]
+search: bottle-rocket
 
 ---
 

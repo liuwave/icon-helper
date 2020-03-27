@@ -4,6 +4,7 @@ title: link(链接) ICON转svg、png下载
 name: link
 zhTips: 链接,插入链接
 tags: []
+search: insert-link
 
 ---
 

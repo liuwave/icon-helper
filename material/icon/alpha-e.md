@@ -4,6 +4,7 @@ title: alpha e(alpha e) ICON转svg、png下载
 name: alpha-e
 zhTips: alpha e,字母e
 tags: ["alpha-numeric"]
+search: alphabet-e,letter-e
 
 ---
 

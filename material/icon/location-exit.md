@@ -4,6 +4,7 @@ title: location exit(出口位置) ICON转svg、png下载
 name: location-exit
 zhTips: 出口位置,存在出口
 tags: ["home-automation"]
+search: presence-exit
 
 ---
 

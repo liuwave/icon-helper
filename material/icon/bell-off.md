@@ -4,6 +4,7 @@ title: bell off(响铃) ICON转svg、png下载
 name: bell-off
 zhTips: 响铃,通知关闭
 tags: ["notification"]
+search: notifications-off
 
 ---
 

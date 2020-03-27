@@ -5,6 +5,7 @@ name: gratipay
 zhTips: Gratipay（Gittip）,最喜欢,心,喜欢,爱
 tags: []
 pre: fab
+search: favorite,heart,like,love
 
 ---
 

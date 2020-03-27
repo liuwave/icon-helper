@@ -4,6 +4,7 @@ title: folder download(文件夹下载) ICON转svg、png下载
 name: folder-download
 zhTips: 文件夹下载
 tags: ["files-folders"]
+search: 
 
 ---
 

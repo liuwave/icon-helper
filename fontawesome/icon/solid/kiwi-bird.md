@@ -5,6 +5,7 @@ name: kiwi-bird
 zhTips: 猕猴桃鸟,鸟,动物区系,新西兰
 tags: ["animals"]
 pre: fas
+search: bird,fauna,new zealand
 
 ---
 

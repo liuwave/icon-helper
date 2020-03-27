@@ -5,6 +5,7 @@ name: monument
 zhTips: 纪念碑,建筑,历史,地标,令人难忘
 tags: ["buildings","travel"]
 pre: fas
+search: building,historic,landmark,memorable
 
 ---
 

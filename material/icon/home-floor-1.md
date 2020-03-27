@@ -4,6 +4,7 @@ title: home floor 1(房屋1层) ICON转svg、png下载
 name: home-floor-1
 zhTips: 房屋1层
 tags: ["home-automation"]
+search: house-floor-1,home-floor-one,house-floor-one,home-floor-first,house-floor-first
 
 ---
 

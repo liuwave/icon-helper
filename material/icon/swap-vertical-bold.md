@@ -4,6 +4,7 @@ title: swap vertical bold(交换垂直粗体) ICON转svg、png下载
 name: swap-vertical-bold
 zhTips: 交换垂直粗体,向上箭头粗体,导入导出粗体
 tags: ["arrow"]
+search: arrow-up-down-bold,import-export-bold
 
 ---
 

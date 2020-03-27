@@ -5,6 +5,7 @@ name: thermometer-half
 zhTips: 温度计1/2满,汞,状态,温度
 tags: ["status"]
 pre: fas
+search: mercury,status,temperature
 
 ---
 

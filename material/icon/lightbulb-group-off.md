@@ -4,6 +4,7 @@ title: lightbulb group off(灯泡熄灭) ICON转svg、png下载
 name: lightbulb-group-off
 zhTips: 灯泡熄灭
 tags: ["home-automation"]
+search: bulb-group-off
 
 ---
 

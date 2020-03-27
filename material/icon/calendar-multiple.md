@@ -4,6 +4,7 @@ title: calendar multiple(日历多个) ICON转svg、png下载
 name: calendar-multiple
 zhTips: 日历多个,多个事件,日历,事件
 tags: ["date-time"]
+search: event-multiple,calendars,events
 
 ---
 

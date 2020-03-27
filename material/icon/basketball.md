@@ -4,6 +4,7 @@ title: basketball(篮球) ICON转svg、png下载
 name: basketball
 zhTips: 篮球,YouTube体育
 tags: ["sport"]
+search: youtube-sports
 
 ---
 

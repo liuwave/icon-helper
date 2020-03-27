@@ -4,6 +4,7 @@ title: overscan(过扫描) ICON转svg、png下载
 name: overscan
 zhTips: 过扫描,全屏
 tags: []
+search: fullscreen
 
 ---
 

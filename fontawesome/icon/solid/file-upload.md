@@ -5,6 +5,7 @@ name: file-upload
 zhTips: 文件上传,文档,导入,页面,保存
 tags: ["interfaces"]
 pre: fas
+search: document,import,page,save
 
 ---
 

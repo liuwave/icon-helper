@@ -4,6 +4,7 @@ title: dice 4(骰子4) ICON转svg、png下载
 name: dice-4
 zhTips: 骰子4,骰子四
 tags: ["gaming-rpg"]
+search: die-4,dice-four
 
 ---
 

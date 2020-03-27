@@ -4,6 +4,7 @@ title: monitor screenshot(监视器屏幕截图) ICON转svg、png下载
 name: monitor-screenshot
 zhTips: 监视器屏幕截图
 tags: ["device-tech"]
+search: 
 
 ---
 

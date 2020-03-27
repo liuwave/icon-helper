@@ -4,6 +4,7 @@ title: seat flat(飞机座位) ICON转svg、png下载
 name: seat-flat
 zhTips: 飞机座位
 tags: []
+search: airline-seat-flat
 
 ---
 

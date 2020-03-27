@@ -4,6 +4,7 @@ title: record rec(记录记录) ICON转svg、png下载
 name: record-rec
 zhTips: 记录记录
 tags: ["home-automation"]
+search: 
 
 ---
 

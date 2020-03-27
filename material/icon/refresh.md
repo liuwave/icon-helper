@@ -4,6 +4,7 @@ title: refresh(刷新) ICON转svg、png下载
 name: refresh
 zhTips: 刷新,循环
 tags: []
+search: loop
 
 ---
 

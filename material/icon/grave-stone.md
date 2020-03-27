@@ -4,6 +4,7 @@ title: grave stone(墓碑) ICON转svg、png下载
 name: grave-stone
 zhTips: 墓碑,墓石,公墓,墓地
 tags: ["holiday"]
+search: headstone,tombstone,cemetery,graveyard
 
 ---
 

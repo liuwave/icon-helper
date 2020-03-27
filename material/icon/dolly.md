@@ -4,6 +4,7 @@ title: dolly(手推车) ICON转svg、png下载
 name: dolly
 zhTips: 手推车
 tags: []
+search: hand-truck,trolley
 
 ---
 

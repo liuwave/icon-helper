@@ -5,6 +5,7 @@ name: unlock-alt
 zhTips: 备用解锁,管理,锁定,密码,私有,保护
 tags: ["objects","security","status"]
 pre: fas
+search: admin,lock,password,private,protect
 
 ---
 

@@ -5,6 +5,7 @@ name: icons
 zhTips: 图标,螺栓,表情符号,心,图像,音乐,照片,符号
 tags: ["chat","design","editors","social"]
 pre: fas
+search: bolt,emoji,heart,image,music,photo,symbols
 
 ---
 

@@ -4,6 +4,7 @@ title: numeric 5 box multiple outline(数字5框多个轮廓) ICON转svg、png�
 name: numeric-5-box-multiple-outline
 zhTips: 数字5框多个轮廓,过滤器5,数字5框轮廓
 tags: ["alpha-numeric"]
+search: filter-5,numeric-five-box-multiple-outline,numeric-5-boxes-outline,number-5-box-multiple-outline
 
 ---
 

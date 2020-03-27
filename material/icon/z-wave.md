@@ -4,6 +4,7 @@ title: z wave(z Wave) ICON转svg、png下载
 name: z-wave
 zhTips: z Wave,zwave
 tags: []
+search: zwave
 
 ---
 

@@ -4,6 +4,7 @@ title: library(图书馆) ICON转svg、png下载
 name: library
 zhTips: 图书馆,当地图书馆
 tags: ["places"]
+search: local-library
 
 ---
 

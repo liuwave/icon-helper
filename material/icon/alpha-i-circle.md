@@ -4,6 +4,7 @@ title: alpha i circle(alpha我圈) ICON转svg、png下载
 name: alpha-i-circle
 zhTips: alpha我圈,字母i圈
 tags: ["alpha-numeric"]
+search: alphabet-i-circle,letter-i-circle
 
 ---
 

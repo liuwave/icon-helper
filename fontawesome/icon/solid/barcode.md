@@ -5,6 +5,7 @@ name: barcode
 zhTips: 条形码,信息,激光,价格,扫描,upc
 tags: ["code","interfaces","shopping"]
 pre: fas
+search: info,laser,price,scan,upc
 
 ---
 

@@ -4,6 +4,7 @@ title: omega(Ω) ICON转svg、png下载
 name: omega
 zhTips: Ω,欧姆,电阻
 tags: []
+search: ohm,electrical-resistance
 
 ---
 

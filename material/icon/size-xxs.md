@@ -4,6 +4,7 @@ title: size xxs(尺寸xxs) ICON转svg、png下载
 name: size-xxs
 zhTips: 尺寸xxs,超小尺寸
 tags: []
+search: size-extra-extra-small
 
 ---
 

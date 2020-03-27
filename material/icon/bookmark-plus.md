@@ -4,6 +4,7 @@ title: bookmark plus(书签加) ICON转svg、png下载
 name: bookmark-plus
 zhTips: 书签加,书签添加
 tags: []
+search: bookmark-add
 
 ---
 

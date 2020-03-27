@@ -4,6 +4,7 @@ title: chart sankey variant(图表sankey变体) ICON转svg、png下载
 name: chart-sankey-variant
 zhTips: 图表sankey变体,图表蛇形变体
 tags: ["math"]
+search: chart-snakey-variant
 
 ---
 

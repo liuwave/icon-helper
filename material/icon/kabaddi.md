@@ -4,6 +4,7 @@ title: kabaddi(摔跤的卡巴迪) ICON转svg、png下载
 name: kabaddi
 zhTips: 摔跤的卡巴迪
 tags: ["sport"]
+search: wrestling
 
 ---
 

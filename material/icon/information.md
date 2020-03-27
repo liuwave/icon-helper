@@ -4,6 +4,7 @@ title: information(信息) ICON转svg、png下载
 name: information
 zhTips: 信息,关于,信息圈,关于圈
 tags: []
+search: about,information-circle,info-circle,about-circle
 
 ---
 

@@ -4,6 +4,7 @@ title: globe light(地球灯) ICON转svg、png下载
 name: globe-light
 zhTips: 地球灯
 tags: ["home-automation"]
+search: 
 
 ---
 

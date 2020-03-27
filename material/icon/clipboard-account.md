@@ -4,6 +4,7 @@ title: clipboard account(剪贴板帐户) ICON转svg、png下载
 name: clipboard-account
 zhTips: 剪贴板帐户,剪贴板用户,工作分配者,剪贴板人
 tags: ["account-user"]
+search: clipboard-user,assignment-ind,clipboard-person
 
 ---
 

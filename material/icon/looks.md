@@ -4,6 +4,7 @@ title: looks(看起来) ICON转svg、png下载
 name: looks
 zhTips: 看起来,彩虹
 tags: ["weather","color"]
+search: rainbow
 
 ---
 

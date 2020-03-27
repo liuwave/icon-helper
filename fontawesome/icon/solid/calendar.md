@@ -5,6 +5,7 @@ name: calendar
 zhTips: 日历,日历o,日期,事件,时间表,时间
 tags: ["business","date-time","interfaces","objects","shapes","status"]
 pre: fas
+search: calendar-o,date,event,schedule,time,when
 
 ---
 

@@ -5,6 +5,7 @@ name: money-bill
 zhTips: 钱条例草案,买,现金,结帐,钱,付款,价格,购买
 tags: ["currency","finance","maps","objects"]
 pre: fas
+search: buy,cash,checkout,money,payment,price,purchase
 
 ---
 

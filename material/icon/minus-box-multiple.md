@@ -4,6 +4,7 @@ title: minus box multiple(减号倍数) ICON转svg、png下载
 name: minus-box-multiple
 zhTips: 减号倍数,库减号
 tags: []
+search: library-minus
 
 ---
 

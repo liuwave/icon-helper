@@ -5,6 +5,7 @@ name: search-location
 zhTips: 搜索位置,更大,放大,查找,预览,缩放
 tags: ["marketing"]
 pre: fas
+search: bigger,enlarge,find,magnify,preview,zoom
 
 ---
 

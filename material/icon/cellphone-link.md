@@ -4,6 +4,7 @@ title: cellphone link(手机链接) ICON转svg、png下载
 name: cellphone-link
 zhTips: 手机链接,智能手机链接,设备
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone-link,smartphone-link,devices
 
 ---
 

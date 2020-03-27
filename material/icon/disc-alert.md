@@ -4,6 +4,7 @@ title: disc alert(光盘警报) ICON转svg、png下载
 name: disc-alert
 zhTips: 光盘警报,完整光盘,光盘警告
 tags: ["alert-error"]
+search: disc-full,disc-warning
 
 ---
 

@@ -4,6 +4,7 @@ title: umbrella closed(雨伞关闭) ICON转svg、png下载
 name: umbrella-closed
 zhTips: 雨伞关闭
 tags: ["weather"]
+search: 
 
 ---
 

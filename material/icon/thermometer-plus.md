@@ -4,6 +4,7 @@ title: thermometer plus(温度计加) ICON转svg、png下载
 name: thermometer-plus
 zhTips: 温度计加
 tags: ["home-automation"]
+search: thermometer-add
 
 ---
 

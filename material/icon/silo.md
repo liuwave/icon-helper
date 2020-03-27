@@ -4,6 +4,7 @@ title: silo(农用仓) ICON转svg、png下载
 name: silo
 zhTips: 农用仓
 tags: ["agriculture"]
+search: farm
 
 ---
 

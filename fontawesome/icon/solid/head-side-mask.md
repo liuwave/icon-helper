@@ -5,6 +5,7 @@ name: head-side-mask
 zhTips: 头罩,呼吸,covid 19,过滤器,呼吸器,病毒
 tags: ["medical"]
 pre: fas
+search: breath,covid-19,filter,respirator,virus
 
 ---
 

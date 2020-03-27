@@ -5,6 +5,7 @@ name: stethoscope
 zhTips: 听诊器,covid 19,诊断,医生,普通科医生,医院,医务室,医学,办公室,门诊
 tags: ["health","medical"]
 pre: fas
+search: covid-19,diagnosis,doctor,general practitioner,hospital,infirmary,medicine,office,outpatient
 
 ---
 

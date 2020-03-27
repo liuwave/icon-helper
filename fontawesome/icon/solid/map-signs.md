@@ -5,6 +5,7 @@ name: map-signs
 zhTips: 地图标志,方向,目录,地图,标志,寻路
 tags: ["camping","maps","objects"]
 pre: fas
+search: directions,directory,map,signage,wayfinding
 
 ---
 

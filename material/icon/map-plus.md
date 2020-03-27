@@ -4,6 +4,7 @@ title: map plus(地图加) ICON转svg、png下载
 name: map-plus
 zhTips: 地图加,地图添加
 tags: ["navigation","geographic-information-system"]
+search: map-add
 
 ---
 

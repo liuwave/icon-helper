@@ -4,6 +4,7 @@ title: file pdf outline(文件pdf轮廓) ICON转svg、png下载
 name: file-pdf-outline
 zhTips: 文件pdf轮廓,文件acrobat轮廓
 tags: ["files-folders"]
+search: file-acrobat-outline
 
 ---
 

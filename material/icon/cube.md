@@ -4,6 +4,7 @@ title: cube(立方体) ICON转svg、png下载
 name: cube
 zhTips: 立方体
 tags: ["shape"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: chevron triple up(人字形三重向上) ICON转svg、png下载
 name: chevron-triple-up
 zhTips: 人字形三重向上,排名
 tags: []
+search: rank
 
 ---
 

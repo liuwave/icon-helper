@@ -4,6 +4,7 @@ title: battery low(电池电量低) ICON转svg、png下载
 name: battery-low
 zhTips: 电池电量低
 tags: ["battery"]
+search: 
 
 ---
 

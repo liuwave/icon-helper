@@ -5,6 +5,7 @@ name: genderless
 zhTips: 无性别,雌雄同体,无性
 tags: ["gender"]
 pre: fas
+search: androgynous,asexual,sexless
 
 ---
 

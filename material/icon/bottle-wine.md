@@ -4,6 +4,7 @@ title: bottle wine(瓶酒) ICON转svg、png下载
 name: bottle-wine
 zhTips: 瓶酒
 tags: ["food-drink"]
+search: 
 
 ---
 

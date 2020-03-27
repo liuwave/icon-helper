@@ -4,6 +4,7 @@ title: alpha w(alpha w) ICON转svg、png下载
 name: alpha-w
 zhTips: alpha w,字母w
 tags: ["alpha-numeric"]
+search: alphabet-w,letter-w
 
 ---
 

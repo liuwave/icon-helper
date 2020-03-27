@@ -4,6 +4,7 @@ title: send lock(发送锁) ICON转svg、png下载
 name: send-lock
 zhTips: 发送锁,发送安全
 tags: ["lock"]
+search: send-secure
 
 ---
 

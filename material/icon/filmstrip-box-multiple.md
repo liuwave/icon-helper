@@ -4,6 +4,7 @@ title: filmstrip box multiple(电影带盒多个) ICON转svg、png下载
 name: filmstrip-box-multiple
 zhTips: 电影带盒多个,电影库
 tags: ["video-movie"]
+search: library-movie
 
 ---
 

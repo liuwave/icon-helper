@@ -4,6 +4,7 @@ title: toaster(烤面包机) ICON转svg、png下载
 name: toaster
 zhTips: 烤面包机
 tags: ["home-automation"]
+search: 
 
 ---
 

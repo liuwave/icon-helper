@@ -5,6 +5,7 @@ name: snowflake
 zhTips: 雪花,降水,雨,冬天
 tags: ["hotel","household","objects","spinners","weather"]
 pre: far
+search: precipitation,rain,winter
 
 ---
 

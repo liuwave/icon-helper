@@ -5,6 +5,7 @@ name: arrow-alt-circle-left
 zhTips: 备用箭头向左圆,箭头向左圆,后退,上一个
 tags: ["arrows"]
 pre: far
+search: arrow-circle-o-left,back,previous
 
 ---
 

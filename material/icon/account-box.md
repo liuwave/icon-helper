@@ -4,6 +4,7 @@ title: account box(帐户框) ICON转svg、png下载
 name: account-box
 zhTips: 帐户框,自拍照,用户框,人员框,联系人
 tags: ["account-user"]
+search: selfie,user-box,person-box,contact
 
 ---
 

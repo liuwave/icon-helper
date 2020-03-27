@@ -4,6 +4,7 @@ title: bullseye arrow(靶心箭) ICON转svg、png下载
 name: bullseye-arrow
 zhTips: 靶心箭,目标箭
 tags: ["sport"]
+search: target-arrow
 
 ---
 

@@ -4,6 +4,7 @@ title: record player(电唱机) ICON转svg、png下载
 name: record-player
 zhTips: 电唱机
 tags: ["home-automation"]
+search: 
 
 ---
 

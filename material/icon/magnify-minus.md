@@ -4,6 +4,7 @@ title: magnify minus(放大减号) ICON转svg、png下载
 name: magnify-minus
 zhTips: 放大减号,缩小,搜索减号
 tags: []
+search: zoom-out,search-minus
 
 ---
 

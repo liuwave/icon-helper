@@ -4,6 +4,7 @@ title: head snowflake(头雪花) ICON转svg、png下载
 name: head-snowflake
 zhTips: 头雪花,头冻结,大脑冻结
 tags: []
+search: head-freeze,brain-freeze
 
 ---
 

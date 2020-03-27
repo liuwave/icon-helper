@@ -4,6 +4,7 @@ title: alpha i box(字母i框) ICON转svg、png下载
 name: alpha-i-box
 zhTips: 字母i框
 tags: ["alpha-numeric"]
+search: alphabet-i-box,letter-i-box
 
 ---
 

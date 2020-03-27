@@ -4,6 +4,7 @@ title: dice multiple(多个骰子) ICON转svg、png下载
 name: dice-multiple
 zhTips: 多个骰子
 tags: ["gaming-rpg"]
+search: die-multiple
 
 ---
 

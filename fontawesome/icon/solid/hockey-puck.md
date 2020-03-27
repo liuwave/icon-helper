@@ -5,6 +5,7 @@ name: hockey-puck
 zhTips: 冰球,冰,NHL,运动
 tags: ["sports"]
 pre: fas
+search: ice,nhl,sport
 
 ---
 

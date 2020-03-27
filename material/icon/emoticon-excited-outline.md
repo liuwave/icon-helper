@@ -4,6 +4,7 @@ title: emoticon excited outline(表情兴奋轮廓) ICON转svg、png下载
 name: emoticon-excited-outline
 zhTips: 表情兴奋轮廓,笑脸兴奋轮廓
 tags: ["emoji"]
+search: smiley-excited-outline
 
 ---
 

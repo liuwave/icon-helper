@@ -5,6 +5,7 @@ name: chalkboard-teacher
 zhTips: 黑板老师,黑板,讲师,学习,教授,学校,白板,写作
 tags: ["education","users-people"]
 pre: fas
+search: blackboard,instructor,learning,professor,school,whiteboard,writing
 
 ---
 

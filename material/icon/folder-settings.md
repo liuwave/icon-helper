@@ -4,6 +4,7 @@ title: folder settings(文件夹设置) ICON转svg、png下载
 name: folder-settings
 zhTips: 文件夹设置
 tags: ["settings","files-folders"]
+search: 
 
 ---
 

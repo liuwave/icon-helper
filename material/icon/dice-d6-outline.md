@@ -4,6 +4,7 @@ title: dice d6 outline(骰子d6轮廓) ICON转svg、png下载
 name: dice-d6-outline
 zhTips: 骰子d6轮廓,骰子d6
 tags: ["gaming-rpg"]
+search: die-d6
 
 ---
 

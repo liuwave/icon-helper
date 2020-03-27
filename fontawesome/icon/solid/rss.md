@@ -5,6 +5,7 @@ name: rss
 zhTips: RSS,博客,提要,新闻,写作
 tags: ["audio-video","communication","interfaces"]
 pre: fas
+search: blog,feed,journal,news,writing
 
 ---
 

@@ -4,6 +4,7 @@ title: logout(注销) ICON转svg、png下载
 name: logout
 zhTips: 注销
 tags: []
+search: log-out,sign-out
 
 ---
 

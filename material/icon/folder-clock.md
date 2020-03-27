@@ -4,6 +4,7 @@ title: folder clock(文件夹时钟) ICON转svg、png下载
 name: folder-clock
 zhTips: 文件夹时钟
 tags: ["files-folders"]
+search: 
 
 ---
 

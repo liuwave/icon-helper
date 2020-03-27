@@ -4,6 +4,7 @@ title: fridge(冰箱) ICON转svg、png下载
 name: fridge
 zhTips: 冰箱,装有冰箱的冰箱
 tags: ["home-automation"]
+search: fridge-filled,refrigerator
 
 ---
 

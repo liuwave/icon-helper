@@ -5,6 +5,7 @@ name: democrat
 zhTips: 民主人士,美国,民主政党,驴,选举,左,左翼,自由主义,政治
 tags: ["political"]
 pre: fas
+search: american,democratic party,donkey,election,left,left-wing,liberal,politics,usa
 
 ---
 

@@ -4,6 +4,7 @@ title: white balance incandescent(白平衡白炽灯) ICON转svg、png下载
 name: white-balance-incandescent
 zhTips: 白平衡白炽灯,wb白炽灯
 tags: ["photography"]
+search: wb-incandescent
 
 ---
 

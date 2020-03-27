@@ -4,6 +4,7 @@ title: filter remove outline(过滤器删除轮廓) ICON转svg、png下载
 name: filter-remove-outline
 zhTips: 过滤器删除轮廓,漏斗删除轮廓
 tags: []
+search: funnel-remove-outline
 
 ---
 

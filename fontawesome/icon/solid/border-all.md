@@ -5,6 +5,7 @@ name: border-all
 zhTips: 边框全部,单元格,网格,轮廓,描边,表
 tags: ["editors"]
 pre: fas
+search: cell,grid,outline,stroke,table
 
 ---
 

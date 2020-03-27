@@ -4,6 +4,7 @@ title: home floor l(家用地板l) ICON转svg、png下载
 name: home-floor-l
 zhTips: 家用地板l,家用地板阁楼,房屋地板l,房屋地板阁楼,房屋地板下部
 tags: ["home-automation"]
+search: home-floor-loft,home-floor-lower,house-floor-l,house-floor-loft,house-floor-lower
 
 ---
 

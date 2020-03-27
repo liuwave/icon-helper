@@ -4,6 +4,7 @@ title: badminton(羽毛球) ICON转svg、png下载
 name: badminton
 zhTips: 羽毛球
 tags: ["sport"]
+search: shuttlecock
 
 ---
 

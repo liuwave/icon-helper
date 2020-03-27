@@ -4,6 +4,7 @@ title: numeric 4 box(数字4框) ICON转svg、png下载
 name: numeric-4-box
 zhTips: 数字4框,外观4
 tags: ["alpha-numeric"]
+search: looks-4,numeric-four-box,number-4-box
 
 ---
 

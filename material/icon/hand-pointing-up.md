@@ -4,6 +4,7 @@ title: hand pointing up(向上指的手) ICON转svg、png下载
 name: hand-pointing-up
 zhTips: 向上指的手
 tags: []
+search: 
 
 ---
 

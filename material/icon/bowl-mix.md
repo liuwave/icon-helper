@@ -4,6 +4,7 @@ title: bowl mix(碗混合) ICON转svg、png下载
 name: bowl-mix
 zhTips: 碗混合,搅拌碗
 tags: ["food-drink"]
+search: mixing-bowl
 
 ---
 

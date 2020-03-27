@@ -5,6 +5,7 @@ name: snowboarding
 zhTips: 单板滑雪,活动,健身,奥运会,户外活动,人
 tags: ["fitness","sports","users-people","winter"]
 pre: fas
+search: activity,fitness,olympics,outdoors,person
 
 ---
 

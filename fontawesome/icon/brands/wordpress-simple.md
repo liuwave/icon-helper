@@ -5,6 +5,7 @@ name: wordpress-simple
 zhTips: Wordpress简单
 tags: []
 pre: fab
+search: 
 
 ---
 

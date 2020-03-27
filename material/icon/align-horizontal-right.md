@@ -4,6 +4,7 @@ title: align horizontal right(右对齐) ICON转svg、png下载
 name: align-horizontal-right
 zhTips: 右对齐
 tags: []
+search: 
 
 ---
 

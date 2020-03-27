@@ -4,6 +4,7 @@ title: file word box outline(文件字框概述) ICON转svg、png下载
 name: file-word-box-outline
 zhTips: 文件字框概述
 tags: ["files-folders"]
+search: 
 
 ---
 

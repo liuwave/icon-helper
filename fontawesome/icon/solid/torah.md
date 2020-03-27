@@ -5,6 +5,7 @@ name: torah
 zhTips: 摩西五经,书,犹太人,犹太教,宗教,卷轴
 tags: ["religion"]
 pre: fas
+search: book,jewish,judaism,religion,scroll
 
 ---
 

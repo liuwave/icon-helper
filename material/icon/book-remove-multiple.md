@@ -4,6 +4,7 @@ title: book remove multiple(书本删除多个) ICON转svg、png下载
 name: book-remove-multiple
 zhTips: 书本删除多个,书本删除
 tags: []
+search: books-remove
 
 ---
 

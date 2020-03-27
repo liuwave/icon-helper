@@ -5,6 +5,7 @@ name: grin-squint-tears
 zhTips: 在地板上滚动笑,图释,脸,快乐,微笑
 tags: ["emoji"]
 pre: far
+search: emoticon,face,happy,smile
 
 ---
 

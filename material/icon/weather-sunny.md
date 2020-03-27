@@ -4,6 +4,7 @@ title: weather sunny(天气晴朗) ICON转svg、png下载
 name: weather-sunny
 zhTips: 天气晴朗
 tags: ["weather"]
+search: 
 
 ---
 

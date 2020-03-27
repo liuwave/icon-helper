@@ -4,6 +4,7 @@ title: temperature celsius(温度摄氏) ICON转svg、png下载
 name: temperature-celsius
 zhTips: 温度摄氏
 tags: ["weather"]
+search: temperature-centigrade
 
 ---
 

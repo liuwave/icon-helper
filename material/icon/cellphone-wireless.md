@@ -4,6 +4,7 @@ title: cellphone wireless(手机无线) ICON转svg、png下载
 name: cellphone-wireless
 zhTips: 手机无线,智能手机无线
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone-wireless,smartphone-wireless
 
 ---
 

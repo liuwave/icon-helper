@@ -4,6 +4,7 @@ title: human pregnant(人类孕妇) ICON转svg、png下载
 name: human-pregnant
 zhTips: 人类孕妇,孕妇
 tags: ["people-family"]
+search: pregnant-woman
 
 ---
 

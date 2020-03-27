@@ -4,6 +4,7 @@ title: remote tv off(远程电视关闭) ICON转svg、png下载
 name: remote-tv-off
 zhTips: 远程电视关闭
 tags: ["device-tech"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: object-group
 zhTips: 对象组,组合,复制,设计,合并,选择
 tags: ["design"]
 pre: fas
+search: combine,copy,design,merge,select
 
 ---
 

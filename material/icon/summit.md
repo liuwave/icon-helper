@@ -4,6 +4,7 @@ title: summit(高峰) ICON转svg、png下载
 name: summit
 zhTips: 高峰,顶峰
 tags: []
+search: peak
 
 ---
 

@@ -4,6 +4,7 @@ title: gamepad down(游戏手柄向下) ICON转svg、png下载
 name: gamepad-down
 zhTips: 游戏手柄向下
 tags: ["gaming-rpg"]
+search: 
 
 ---
 

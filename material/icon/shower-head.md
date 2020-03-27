@@ -4,6 +4,7 @@ title: shower head(花洒头) ICON转svg、png下载
 name: shower-head
 zhTips: 花洒头
 tags: ["home-automation"]
+search: 
 
 ---
 

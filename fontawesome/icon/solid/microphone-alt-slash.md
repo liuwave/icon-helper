@@ -5,6 +5,7 @@ name: microphone-alt-slash
 zhTips: 备用麦克风斜线,音频,禁用,静音,播客,记录,唱歌,声音,语音
 tags: ["audio-video","communication","music","status"]
 pre: fas
+search: audio,disable,mute,podcast,record,sing,sound,voice
 
 ---
 

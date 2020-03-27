@@ -4,6 +4,7 @@ title: check all(检查所有) ICON转svg、png下载
 name: check-all
 zhTips: 检查所有,勾选所有,完成全部,检查多个,检查,勾选
 tags: []
+search: tick-all,done-all,check-multiple,checks,ticks
 
 ---
 

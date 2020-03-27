@@ -4,6 +4,7 @@ title: checkbox multiple marked circle outline(标记为圆形轮廓的复选框
 name: checkbox-multiple-marked-circle-outline
 zhTips: 标记为圆形轮廓的复选框
 tags: ["form"]
+search: checkboxes-marked-circle-outline
 
 ---
 

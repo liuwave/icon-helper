@@ -4,6 +4,7 @@ title: clipboard alert(剪贴板警报) ICON转svg、png下载
 name: clipboard-alert
 zhTips: 剪贴板警报,剪贴板警告,后期分配
 tags: ["alert-error"]
+search: clipboard-warning,assignment-late
 
 ---
 

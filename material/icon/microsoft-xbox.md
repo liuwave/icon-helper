@@ -4,6 +4,7 @@ title: microsoft xbox(Microsoft xbox) ICON转svg、png下载
 name: microsoft-xbox
 zhTips: Microsoft xbox,xbox live,Microsoft
 tags: ["social-media","brand-logo","gaming-rpg"]
+search: xbox-live,microsoft
 
 ---
 

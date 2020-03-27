@@ -4,6 +4,7 @@ title: database check(数据库检查) ICON转svg、png下载
 name: database-check
 zhTips: 数据库检查,数据库打勾
 tags: ["geographic-information-system"]
+search: database-tick
 
 ---
 

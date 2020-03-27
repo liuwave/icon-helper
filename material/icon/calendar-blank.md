@@ -4,6 +4,7 @@ title: calendar blank(日历空白) ICON转svg、png下载
 name: calendar-blank
 zhTips: 日历空白,今天的日历
 tags: ["date-time"]
+search: calendar-today
 
 ---
 

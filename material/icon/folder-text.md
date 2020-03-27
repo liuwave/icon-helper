@@ -4,6 +4,7 @@ title: folder text(文本文件夹) ICON转svg、png下载
 name: folder-text
 zhTips: 文本文件夹
 tags: ["files-folders"]
+search: 
 
 ---
 

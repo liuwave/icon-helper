@@ -4,6 +4,7 @@ title: transmission tower(输电塔) ICON转svg、png下载
 name: transmission-tower
 zhTips: 输电塔,铁塔,电力线
 tags: []
+search: pylon,powerline
 
 ---
 

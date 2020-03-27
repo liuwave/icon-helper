@@ -5,6 +5,7 @@ name: hand-peace
 zhTips: 和平（手）,休息,休战
 tags: ["hands"]
 pre: far
+search: rest,truce
 
 ---
 

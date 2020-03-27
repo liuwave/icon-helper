@@ -5,6 +5,7 @@ name: undo-alt
 zhTips: 备用撤消,返回,控制z,交换,oops
 tags: ["arrows","audio-video","editors","interfaces"]
 pre: fas
+search: back,control z,exchange,oops,return,swap
 
 ---
 

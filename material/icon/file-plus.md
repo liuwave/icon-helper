@@ -4,6 +4,7 @@ title: file plus(文件加) ICON转svg、png下载
 name: file-plus
 zhTips: 文件加,注意添加
 tags: ["files-folders"]
+search: note-add
 
 ---
 

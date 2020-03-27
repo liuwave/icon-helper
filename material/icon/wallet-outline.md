@@ -4,6 +4,7 @@ title: wallet outline(钱包轮廓) ICON转svg、png下载
 name: wallet-outline
 zhTips: 钱包轮廓,帐户余额钱包轮廓
 tags: ["currency","banking"]
+search: account-balance-wallet-outline
 
 ---
 

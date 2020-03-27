@@ -4,6 +4,7 @@ title: numeric 7 box multiple outline(数字7框多个轮廓) ICON转svg、png�
 name: numeric-7-box-multiple-outline
 zhTips: 数字7框多个轮廓,过滤器7
 tags: ["alpha-numeric","alpha-numeric"]
+search: filter-7,numeric-seven-box-multiple-outline,numeric-7-boxes-outline,number-7-box-multiple-outline
 
 ---
 

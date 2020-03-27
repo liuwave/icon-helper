@@ -5,6 +5,7 @@ name: file-contract
 zhTips: 文件合同,协议,绑定,文件,法律,签名
 tags: ["security"]
 pre: fas
+search: agreement,binding,document,legal,signature
 
 ---
 

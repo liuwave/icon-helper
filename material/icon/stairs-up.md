@@ -4,6 +4,7 @@ title: stairs up(上楼梯) ICON转svg、png下载
 name: stairs-up
 zhTips: 上楼梯
 tags: ["transportation-other"]
+search: 
 
 ---
 

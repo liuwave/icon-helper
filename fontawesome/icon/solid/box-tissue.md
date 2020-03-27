@@ -5,6 +5,7 @@ name: box-tissue
 zhTips: 纸巾盒,咳嗽,子宫炎19,面巾纸,粘液,鼻子,喷嚏,鼻涕
 tags: ["household"]
 pre: fas
+search: cough,covid-19,kleenex,mucus,nose,sneeze,snot
 
 ---
 

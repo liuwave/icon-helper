@@ -4,6 +4,7 @@ title: numeric 1 box outline(数字1框轮廓) ICON转svg、png下载
 name: numeric-1-box-outline
 zhTips: 数字1框轮廓
 tags: ["alpha-numeric"]
+search: numeric-one-box-outline,number-1-box-outline
 
 ---
 

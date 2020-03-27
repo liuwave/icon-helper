@@ -4,6 +4,7 @@ title: timer off outline(计时器偏离轮廓) ICON转svg、png下载
 name: timer-off-outline
 zhTips: 计时器偏离轮廓,秒表偏离轮廓
 tags: ["date-time"]
+search: stopwatch-off-outline
 
 ---
 

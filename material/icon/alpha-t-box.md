@@ -4,6 +4,7 @@ title: alpha t box(字母T盒) ICON转svg、png下载
 name: alpha-t-box
 zhTips: 字母T盒
 tags: ["alpha-numeric"]
+search: alphabet-t-box,letter-t-box
 
 ---
 

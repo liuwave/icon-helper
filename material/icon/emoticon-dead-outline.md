@@ -4,6 +4,7 @@ title: emoticon dead outline(表情符号轮廓轮廓) ICON转svg、png下载
 name: emoticon-dead-outline
 zhTips: 表情符号轮廓轮廓,笑脸轮廓轮廓
 tags: ["emoji"]
+search: smiley-dead-outline
 
 ---
 

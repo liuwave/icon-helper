@@ -5,6 +5,7 @@ name: window-restore
 zhTips: 窗口还原,浏览器,计算机,开发
 tags: ["code"]
 pre: fas
+search: browser,computer,development
 
 ---
 

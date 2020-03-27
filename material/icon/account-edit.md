@@ -4,6 +4,7 @@ title: account edit(帐户编辑) ICON转svg、png下载
 name: account-edit
 zhTips: 帐户编辑,用户编辑,人员编辑
 tags: ["account-user","edit-modify"]
+search: user-edit,person-edit
 
 ---
 

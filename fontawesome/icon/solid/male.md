@@ -5,6 +5,7 @@ name: male
 zhTips: 男性,人类,男人,人,个人资料,用户
 tags: ["maps","users-people"]
 pre: fas
+search: human,man,person,profile,user
 
 ---
 

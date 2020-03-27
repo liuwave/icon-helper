@@ -4,6 +4,7 @@ title: home floor a(家用地板a) ICON转svg、png下载
 name: home-floor-a
 zhTips: 家用地板a,家用地板阁楼,房屋地板a,房屋地板阁楼
 tags: ["home-automation"]
+search: home-floor-attic,house-floor-a,house-floor-attic
 
 ---
 

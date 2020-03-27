@@ -5,6 +5,7 @@ name: atlas
 zhTips: 地图集,书籍,方向,地理,地球仪,地图,旅行,寻路
 tags: ["travel"]
 pre: fas
+search: book,directions,geography,globe,map,travel,wayfinding
 
 ---
 

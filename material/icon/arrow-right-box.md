@@ -4,6 +4,7 @@ title: arrow right box(右箭头框) ICON转svg、png下载
 name: arrow-right-box
 zhTips: 右箭头框
 tags: ["arrow"]
+search: 
 
 ---
 

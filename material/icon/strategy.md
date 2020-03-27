@@ -4,6 +4,7 @@ title: strategy(策略) ICON转svg、png下载
 name: strategy
 zhTips: 策略,足球比赛
 tags: ["sport"]
+search: football-play
 
 ---
 

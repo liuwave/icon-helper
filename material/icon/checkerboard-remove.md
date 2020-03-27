@@ -4,6 +4,7 @@ title: checkerboard remove(删除棋盘) ICON转svg、png下载
 name: checkerboard-remove
 zhTips: 删除棋盘,删除栅格
 tags: ["geographic-information-system"]
+search: raster-remove
 
 ---
 

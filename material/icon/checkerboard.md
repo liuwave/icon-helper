@@ -4,6 +4,7 @@ title: checkerboard(棋盘格) ICON转svg、png下载
 name: checkerboard
 zhTips: 棋盘格,栅格
 tags: ["gaming-rpg","geographic-information-system"]
+search: raster
 
 ---
 

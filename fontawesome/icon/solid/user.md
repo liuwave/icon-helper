@@ -5,6 +5,7 @@ name: user
 zhTips: 用户,帐户,头像,头,人,个人资料
 tags: ["interfaces","social","status","users-people"]
 pre: fas
+search: account,avatar,head,human,man,person,profile
 
 ---
 

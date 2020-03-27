@@ -4,6 +4,7 @@ title: christianity(基督教) ICON转svg、png下载
 name: christianity
 zhTips: 基督教,宗教基督教徒,十字架
 tags: ["religion"]
+search: religion-christian,cross
 
 ---
 

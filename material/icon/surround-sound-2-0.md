@@ -4,6 +4,7 @@ title: surround sound 2 0(环绕声2 0) ICON转svg、png下载
 name: surround-sound-2-0
 zhTips: 环绕声2 0,立体声
 tags: ["audio"]
+search: stereo
 
 ---
 

@@ -4,6 +4,7 @@ title: home minus(减去家) ICON转svg、png下载
 name: home-minus
 zhTips: 减去家
 tags: ["home-automation"]
+search: 
 
 ---
 

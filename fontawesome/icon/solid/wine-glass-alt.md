@@ -5,6 +5,7 @@ name: wine-glass-alt
 zhTips: 备用酒类,酒精,饮料,赤霞珠,葡萄,梅洛,长相思
 tags: ["beverage","travel"]
 pre: fas
+search: alcohol,beverage,cabernet,drink,grapes,merlot,sauvignon
 
 ---
 

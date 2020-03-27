@@ -4,6 +4,7 @@ title: chat processing(聊天处理) ICON转svg、png下载
 name: chat-processing
 zhTips: 聊天处理,聊天输入
 tags: []
+search: chat-typing
 
 ---
 

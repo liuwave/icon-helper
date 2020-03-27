@@ -4,6 +4,7 @@ title: counter(计数器) ICON转svg、png下载
 name: counter
 zhTips: 计数器,分数,数字,里程表
 tags: ["automotive"]
+search: score,numbers,odometer
 
 ---
 

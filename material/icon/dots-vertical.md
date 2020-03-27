@@ -4,6 +4,7 @@ title: dots vertical(点垂直) ICON转svg、png下载
 name: dots-vertical
 zhTips: 点垂直,省略号垂直,更多垂直,菜单
 tags: []
+search: ellipsis-vertical,more-vert,menu
 
 ---
 

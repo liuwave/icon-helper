@@ -4,6 +4,7 @@ title: current ac(交流电流) ICON转svg、png下载
 name: current-ac
 zhTips: 交流电流,交流电,正弦波,波动,模拟
 tags: []
+search: alternating-current,sine-wave,wave,analog
 
 ---
 

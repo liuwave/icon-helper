@@ -4,6 +4,7 @@ title: arrow bottom left thick(左下箭头粗) ICON转svg、png下载
 name: arrow-bottom-left-thick
 zhTips: 左下箭头粗
 tags: ["arrow"]
+search: arrow-down-left-thick
 
 ---
 

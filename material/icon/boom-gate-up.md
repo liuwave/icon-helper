@@ -4,6 +4,7 @@ title: boom gate up(动臂闸向上) ICON转svg、png下载
 name: boom-gate-up
 zhTips: 动臂闸向上,动臂臂向上,动臂屏障向上,屏障屏障向上,屏障向上,自动闸板向上
 tags: ["transportation-road"]
+search: boom-arm-up,boom-barrier-up,arm-barrier-up,barrier-up,automatic-gate-up
 
 ---
 

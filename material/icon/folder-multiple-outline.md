@@ -4,6 +4,7 @@ title: folder multiple outline(文件夹多个轮廓) ICON转svg、png下载
 name: folder-multiple-outline
 zhTips: 文件夹多个轮廓,文件夹轮廓
 tags: ["files-folders"]
+search: folders-outline
 
 ---
 

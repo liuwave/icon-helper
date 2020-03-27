@@ -4,6 +4,7 @@ title: abjad arabic(abjad阿拉伯语) ICON转svg、png下载
 name: abjad-arabic
 zhTips: abjad阿拉伯语,书写阿拉伯语系统
 tags: ["alpha-numeric"]
+search: writing-system-arabic
 
 ---
 

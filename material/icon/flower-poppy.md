@@ -4,6 +4,7 @@ title: flower poppy(花卉罂粟) ICON转svg、png下载
 name: flower-poppy
 zhTips: 花卉罂粟,孩子们
 tags: ["nature"]
+search: plant
 
 ---
 

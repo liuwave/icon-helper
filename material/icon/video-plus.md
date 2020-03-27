@@ -4,6 +4,7 @@ title: video plus(视频加) ICON转svg、png下载
 name: video-plus
 zhTips: 视频加,视频通话,视频添加
 tags: ["video-movie"]
+search: video-call,video-add
 
 ---
 

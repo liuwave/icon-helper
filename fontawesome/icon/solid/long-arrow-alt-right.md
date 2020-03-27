@@ -5,6 +5,7 @@ name: long-arrow-alt-right
 zhTips: 备用长箭头右,向前,长箭头右,下一个
 tags: ["arrows"]
 pre: fas
+search: forward,long-arrow-right,next
 
 ---
 

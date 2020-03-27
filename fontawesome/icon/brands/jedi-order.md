@@ -5,6 +5,7 @@ name: jedi-order
 zhTips: 绝地武士,星球大战
 tags: ["science-fiction"]
 pre: fab
+search: star wars
 
 ---
 

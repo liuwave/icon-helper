@@ -4,6 +4,7 @@ title: abjad hebrew(abjad希伯来语) ICON转svg、png下载
 name: abjad-hebrew
 zhTips: abjad希伯来语,书写系统希伯来语
 tags: ["alpha-numeric"]
+search: writing-system-hebrew
 
 ---
 

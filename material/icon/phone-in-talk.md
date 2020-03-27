@@ -4,6 +4,7 @@ title: phone in talk(通话中) ICON转svg、png下载
 name: phone-in-talk
 zhTips: 通话中
 tags: ["cellphone-phone"]
+search: telephone-in-talk
 
 ---
 

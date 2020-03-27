@@ -4,6 +4,7 @@ title: sort alphabetical descending variant(按字母降序排列) ICON转svg、
 name: sort-alphabetical-descending-variant
 zhTips: 按字母降序排列
 tags: ["text-content-format"]
+search: 
 
 ---
 

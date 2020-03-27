@@ -5,6 +5,7 @@ name: dove
 zhTips: 鸽子,鸟,动物区系,飞行,和平,战争
 tags: ["animals","charity","political","religion"]
 pre: fas
+search: bird,fauna,flying,peace,war
 
 ---
 

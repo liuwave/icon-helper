@@ -4,6 +4,7 @@ title: numeric 2 circle outline(数字2圆圈轮廓) ICON转svg、png下载
 name: numeric-2-circle-outline
 zhTips: 数字2圆圈轮廓
 tags: ["alpha-numeric"]
+search: numeric-two-circle-outline,number-2-circle-outline,number-two-circle-outline
 
 ---
 

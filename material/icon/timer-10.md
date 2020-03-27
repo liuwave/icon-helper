@@ -4,6 +4,7 @@ title: timer 10(计时器10) ICON转svg、png下载
 name: timer-10
 zhTips: 计时器10
 tags: ["date-time"]
+search: timer-ten
 
 ---
 

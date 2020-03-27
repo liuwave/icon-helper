@@ -5,6 +5,7 @@ name: map-marked-alt
 zhTips: 标记的备用地图,地址,坐标,目的地,gps,本地化,位置,地图,导航,纸张,pin,兴趣点,路线,旅行
 tags: ["camping","travel"]
 pre: fas
+search: address,coordinates,destination,gps,localize,location,map,navigation,paper,pin,place,point of interest,position,route,travel
 
 ---
 

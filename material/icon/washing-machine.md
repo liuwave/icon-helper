@@ -4,6 +4,7 @@ title: washing machine(洗衣机) ICON转svg、png下载
 name: washing-machine
 zhTips: 洗衣机,自动洗衣店,当地洗衣服务
 tags: ["home-automation"]
+search: laundrette,local-laundry-service
 
 ---
 

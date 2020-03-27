@@ -4,6 +4,7 @@ title: hospital box outline(医院包装盒轮廓) ICON转svg、png下载
 name: hospital-box-outline
 zhTips: 医院包装盒轮廓,瑞士十字包装盒轮廓
 tags: ["medical-hospital"]
+search: swiss-cross-box-outline
 
 ---
 

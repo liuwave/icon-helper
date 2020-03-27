@@ -4,6 +4,7 @@ title: chevron left box outline(人字形左框轮廓) ICON转svg、png下载
 name: chevron-left-box-outline
 zhTips: 人字形左框轮廓
 tags: ["arrow"]
+search: 
 
 ---
 

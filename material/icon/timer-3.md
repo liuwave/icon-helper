@@ -4,6 +4,7 @@ title: timer 3(计时器3) ICON转svg、png下载
 name: timer-3
 zhTips: 计时器3
 tags: ["date-time"]
+search: timer-three
 
 ---
 

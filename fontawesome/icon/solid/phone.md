@@ -5,6 +5,7 @@ name: phone
 zhTips: 电话,耳机,号码,支持,语音
 tags: ["business","chat","communication","maps","objects","status"]
 pre: fas
+search: call,earphone,number,support,telephone,voice
 
 ---
 

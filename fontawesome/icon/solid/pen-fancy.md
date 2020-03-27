@@ -5,6 +5,7 @@ name: pen-fancy
 zhTips: 笔花式,设计,编辑,钢笔,更新,书写
 tags: ["business","design","editors","interfaces","objects"]
 pre: fas
+search: design,edit,fountain pen,update,write
 
 ---
 

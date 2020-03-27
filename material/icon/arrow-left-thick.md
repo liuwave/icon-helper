@@ -4,6 +4,7 @@ title: arrow left thick(左粗箭头) ICON转svg、png下载
 name: arrow-left-thick
 zhTips: 左粗箭头
 tags: ["arrow"]
+search: 
 
 ---
 

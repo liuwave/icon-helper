@@ -4,6 +4,7 @@ title: dog service(导盲犬服务) ICON转svg、png下载
 name: dog-service
 zhTips: 导盲犬服务
 tags: ["animal"]
+search: guide-dog
 
 ---
 

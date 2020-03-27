@@ -4,6 +4,7 @@ title: shape(形状) ICON转svg、png下载
 name: shape
 zhTips: 形状,类别,主题
 tags: ["shape"]
+search: category,theme
 
 ---
 

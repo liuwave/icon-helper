@@ -4,6 +4,7 @@ title: unfold more vertical(展开更多垂直) ICON转svg、png下载
 name: unfold-more-vertical
 zhTips: 展开更多垂直,V形向左展开,垂直展开
 tags: []
+search: chevron-left-right,expand-vertical
 
 ---
 

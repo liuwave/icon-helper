@@ -5,6 +5,7 @@ name: microscope
 zhTips: 显微镜,covid 19,电子,透镜,光学,科学,收缩
 tags: ["education","medical","science"]
 pre: fas
+search: covid-19,electron,lens,optics,science,shrink
 
 ---
 

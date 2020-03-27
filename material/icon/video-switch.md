@@ -4,6 +4,7 @@ title: video switch(视频开关) ICON转svg、png下载
 name: video-switch
 zhTips: 视频开关
 tags: ["video-movie"]
+search: switch-video
 
 ---
 

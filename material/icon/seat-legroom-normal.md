@@ -4,6 +4,7 @@ title: seat legroom normal(普通座椅) ICON转svg、png下载
 name: seat-legroom-normal
 zhTips: 普通座椅,航空座椅
 tags: []
+search: airline-seat-legroom-normal
 
 ---
 

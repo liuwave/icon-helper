@@ -4,6 +4,7 @@ title: folder plus(文件夹加上) ICON转svg、png下载
 name: folder-plus
 zhTips: 文件夹加上,创建新文件夹,文件夹添加
 tags: ["files-folders"]
+search: create-new-folder,folder-add
 
 ---
 

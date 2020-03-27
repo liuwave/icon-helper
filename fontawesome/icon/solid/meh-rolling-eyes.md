@@ -5,6 +5,7 @@ name: meh-rolling-eyes
 zhTips: 面部表情,表情,面部,中性,评分
 tags: ["emoji"]
 pre: fas
+search: emoticon,face,neutral,rating
 
 ---
 

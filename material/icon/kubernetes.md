@@ -4,6 +4,7 @@ title: kubernetes(kubernetes) ICON转svg、png下载
 name: kubernetes
 zhTips: kubernetes
 tags: ["developer-languages","brand-logo"]
+search: 
 
 ---
 

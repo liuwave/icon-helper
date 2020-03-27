@@ -4,6 +4,7 @@ title: file remove(文件删除) ICON转svg、png下载
 name: file-remove
 zhTips: 文件删除
 tags: ["files-folders"]
+search: 
 
 ---
 

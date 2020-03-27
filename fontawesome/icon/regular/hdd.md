@@ -5,6 +5,7 @@ name: hdd
 zhTips: HDD,cpu,硬盘驱动器,机器,保存,存储
 tags: ["computers","objects"]
 pre: far
+search: cpu,hard drive,harddrive,machine,save,storage
 
 ---
 

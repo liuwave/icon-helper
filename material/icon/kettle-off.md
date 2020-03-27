@@ -4,6 +4,7 @@ title: kettle off(关闭水壶) ICON转svg、png下载
 name: kettle-off
 zhTips: 关闭水壶,关闭茶壶
 tags: ["home-automation"]
+search: tea-kettle-off,tea-kettle-full-off,kettle-full-off
 
 ---
 

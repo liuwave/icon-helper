@@ -4,6 +4,7 @@ title: monitor speaker(监听音箱) ICON转svg、png下载
 name: monitor-speaker
 zhTips: 监听音箱
 tags: ["device-tech"]
+search: 
 
 ---
 

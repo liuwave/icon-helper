@@ -4,6 +4,7 @@ title: currency eur off(关闭欧元) ICON转svg、png下载
 name: currency-eur-off
 zhTips: 关闭欧元
 tags: ["currency"]
+search: 
 
 ---
 

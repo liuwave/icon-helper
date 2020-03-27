@@ -4,6 +4,7 @@ title: close box multiple outline(关闭框多个轮廓) ICON转svg、png下载
 name: close-box-multiple-outline
 zhTips: 关闭框多个轮廓,关闭框轮廓,库删除轮廓,库关闭轮廓
 tags: []
+search: close-boxes-outline,library-remove-outline,library-close-outline
 
 ---
 

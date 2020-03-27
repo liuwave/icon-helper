@@ -4,6 +4,7 @@ title: compare(比较) ICON转svg、png下载
 name: compare
 zhTips: 比较,浅黑主题
 tags: []
+search: theme-light-dark
 
 ---
 

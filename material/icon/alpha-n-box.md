@@ -4,6 +4,7 @@ title: alpha n box(字母n框) ICON转svg、png下载
 name: alpha-n-box
 zhTips: 字母n框
 tags: ["alpha-numeric"]
+search: alphabet-n-box,letter-n-box
 
 ---
 

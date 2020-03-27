@@ -4,6 +4,7 @@ title: battery off(电池没电了) ICON转svg、png下载
 name: battery-off
 zhTips: 电池没电了
 tags: ["battery"]
+search: 
 
 ---
 

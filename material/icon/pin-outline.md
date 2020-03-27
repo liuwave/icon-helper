@@ -4,6 +4,7 @@ title: pin outline(引脚轮廓) ICON转svg、png下载
 name: pin-outline
 zhTips: 引脚轮廓,保持轮廓
 tags: []
+search: keep-outline
 
 ---
 

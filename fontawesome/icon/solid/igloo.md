@@ -5,6 +5,7 @@ name: igloo
 zhTips: 冰屋,圆顶,住宅,斯基摩,家庭,房子,冰,雪
 tags: ["buildings","objects","winter"]
 pre: fas
+search: dome,dwelling,eskimo,home,house,ice,snow
 
 ---
 

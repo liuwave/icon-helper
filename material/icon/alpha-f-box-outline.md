@@ -4,6 +4,7 @@ title: alpha f box outline(alpha f框轮廓) ICON转svg、png下载
 name: alpha-f-box-outline
 zhTips: alpha f框轮廓,字母f框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-f-box-outline,letter-f-box-outline
 
 ---
 

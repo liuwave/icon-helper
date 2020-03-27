@@ -4,6 +4,7 @@ title: lightbulb multiple outline(灯泡多个轮廓) ICON转svg、png下载
 name: lightbulb-multiple-outline
 zhTips: 灯泡多个轮廓,灯泡轮廓
 tags: ["home-automation"]
+search: lightbulbs-outline,bulb-multiple-outline,bulbs-outline
 
 ---
 

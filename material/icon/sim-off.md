@@ -4,6 +4,7 @@ title: sim off(SIM卡关闭) ICON转svg、png下载
 name: sim-off
 zhTips: SIM卡关闭,蜂窝信号或SIM卡
 tags: ["cellphone-phone"]
+search: signal-cellular-no-sim
 
 ---
 

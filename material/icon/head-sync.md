@@ -4,6 +4,7 @@ title: head sync(磁头同步) ICON转svg、png下载
 name: head-sync
 zhTips: 磁头同步,磁头重新加载,磁头刷新
 tags: []
+search: head-reload,head-refresh
 
 ---
 

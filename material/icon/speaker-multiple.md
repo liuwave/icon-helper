@@ -4,6 +4,7 @@ title: speaker multiple(多个扬声器) ICON转svg、png下载
 name: speaker-multiple
 zhTips: 多个扬声器
 tags: ["audio"]
+search: speakers
 
 ---
 

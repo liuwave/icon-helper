@@ -4,6 +4,7 @@ title: home floor 2(房屋2层) ICON转svg、png下载
 name: home-floor-2
 zhTips: 房屋2层
 tags: ["home-automation"]
+search: house-floor-2,home-floor-two,house-floor-two,home-floor-second,house-floor-second
 
 ---
 

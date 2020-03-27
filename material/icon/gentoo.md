@@ -4,6 +4,7 @@ title: gentoo(gentoo) ICON转svg、png下载
 name: gentoo
 zhTips: gentoo
 tags: ["brand-logo"]
+search: 
 
 ---
 

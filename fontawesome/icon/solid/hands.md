@@ -5,6 +5,7 @@ name: hands
 zhTips: 手,搬运,持有,抬起
 tags: ["hands"]
 pre: fas
+search: carry,hold,lift
 
 ---
 

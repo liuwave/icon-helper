@@ -5,6 +5,7 @@ name: glass-martini-alt
 zhTips: 马提尼酒替代玻璃,酒精,酒吧,饮料,酒
 tags: ["beverage","hotel","travel"]
 pre: fas
+search: alcohol,bar,beverage,drink,liquor
 
 ---
 

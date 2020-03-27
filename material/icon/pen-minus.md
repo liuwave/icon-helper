@@ -4,6 +4,7 @@ title: pen minus(减号笔) ICON转svg、png下载
 name: pen-minus
 zhTips: 减号笔
 tags: []
+search: 
 
 ---
 

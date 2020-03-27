@@ -4,6 +4,7 @@ title: file outline(文件轮廓) ICON转svg、png下载
 name: file-outline
 zhTips: 文件轮廓,论文轮廓
 tags: ["files-folders"]
+search: paper-outline
 
 ---
 

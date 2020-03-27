@@ -4,6 +4,7 @@ title: movie outline(电影轮廓) ICON转svg、png下载
 name: movie-outline
 zhTips: 电影轮廓,板岩轮廓,clapperboard轮廓
 tags: ["video-movie"]
+search: slate-outline,clapperboard-outline,film-outline
 
 ---
 

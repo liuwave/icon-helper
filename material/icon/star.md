@@ -4,6 +4,7 @@ title: star(星级) ICON转svg、png下载
 name: star
 zhTips: 星级,等级
 tags: ["shape"]
+search: grade,star-rate
 
 ---
 

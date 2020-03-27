@@ -4,6 +4,7 @@ title: linux mint(Linux薄荷) ICON转svg、png下载
 name: linux-mint
 zhTips: Linux薄荷
 tags: ["brand-logo"]
+search: 
 
 ---
 

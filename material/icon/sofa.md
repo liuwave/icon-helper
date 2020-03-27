@@ -4,6 +4,7 @@ title: sofa(沙发) ICON转svg、png下载
 name: sofa
 zhTips: 沙发
 tags: []
+search: couch
 
 ---
 

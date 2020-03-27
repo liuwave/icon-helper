@@ -5,6 +5,7 @@ name: globe
 zhTips: 地球,所有,坐标,国家,全球,全球定位系统,语言,本地化,位置,地图,在线,地方,行星,翻译,旅行,世界
 tags: ["business","charity","maps","objects","science-fiction"]
 pre: fas
+search: all,coordinates,country,earth,global,gps,language,localize,location,map,online,place,planet,translate,travel,world
 
 ---
 

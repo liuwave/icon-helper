@@ -5,6 +5,7 @@ name: laugh
 zhTips: 大眼睛的笑脸,笑声,表情符号,脸,笑,微笑
 tags: ["emoji"]
 pre: far
+search: LOL,emoticon,face,laugh,smile
 
 ---
 

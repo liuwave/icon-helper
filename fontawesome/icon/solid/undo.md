@@ -5,6 +5,7 @@ name: undo
 zhTips: 撤消,返回,控制z,交换,oops,旋转
 tags: ["arrows","audio-video","editors","interfaces"]
 pre: fas
+search: back,control z,exchange,oops,return,rotate,swap
 
 ---
 

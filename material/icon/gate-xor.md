@@ -4,6 +4,7 @@ title: gate xor(逻辑门异或门) ICON转svg、png下载
 name: gate-xor
 zhTips: 逻辑门异或门
 tags: []
+search: logic-gate-xor
 
 ---
 

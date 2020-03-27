@@ -4,6 +4,7 @@ title: syllabary hiragana(音节平假名) ICON转svg、png下载
 name: syllabary-hiragana
 zhTips: 音节平假名,书写系统平假名
 tags: ["alpha-numeric"]
+search: writing-system-hiragana
 
 ---
 

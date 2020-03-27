@@ -4,6 +4,7 @@ title: checkbox multiple blank(复选框多个空白) ICON转svg、png下载
 name: checkbox-multiple-blank
 zhTips: 复选框多个空白,复选框空白
 tags: ["form"]
+search: checkboxes-blank
 
 ---
 

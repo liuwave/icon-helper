@@ -5,6 +5,7 @@ name: text-height
 zhTips: 文本高度,编辑,字体,格式,文本,类型
 tags: ["arrows","editors"]
 pre: fas
+search: edit,font,format,text,type
 
 ---
 

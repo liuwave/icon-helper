@@ -4,6 +4,7 @@ title: chart areaspline variant(图表区域) ICON转svg、png下载
 name: chart-areaspline-variant
 zhTips: 图表区域
 tags: ["math"]
+search: 
 
 ---
 

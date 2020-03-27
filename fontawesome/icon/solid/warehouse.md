@@ -5,6 +5,7 @@ name: warehouse
 zhTips: 仓库,建筑物,容量,车库,库存,存储
 tags: ["buildings","logistics"]
 pre: fas
+search: building,capacity,garage,inventory,storage
 
 ---
 

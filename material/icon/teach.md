@@ -4,6 +4,7 @@ title: teach(房子) ICON转svg、png下载
 name: teach
 zhTips: 房子,老师,教学,演讲,大学,黑板,白板,人类男性议会
 tags: []
+search: teacher,teaching,lecture,college,blackboard,whiteboard,human-male-board
 
 ---
 

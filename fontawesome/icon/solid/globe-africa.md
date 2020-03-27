@@ -5,6 +5,7 @@ name: globe-africa
 zhTips: 显示的非洲地球,所有,国家,地球,全球,gps,语言,本地化,位置,地图,在线,放置,行星,翻译,旅行,世界
 tags: ["travel"]
 pre: fas
+search: all,country,earth,global,gps,language,localize,location,map,online,place,planet,translate,travel,world
 
 ---
 

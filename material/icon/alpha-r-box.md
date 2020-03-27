@@ -4,6 +4,7 @@ title: alpha r box(字母r盒) ICON转svg、png下载
 name: alpha-r-box
 zhTips: 字母r盒
 tags: ["alpha-numeric"]
+search: alphabet-r-box,letter-r-box
 
 ---
 

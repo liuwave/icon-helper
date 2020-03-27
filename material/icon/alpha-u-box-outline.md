@@ -4,6 +4,7 @@ title: alpha u box outline(字母u框轮廓) ICON转svg、png下载
 name: alpha-u-box-outline
 zhTips: 字母u框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-u-box-outline,letter-u-box-outline
 
 ---
 

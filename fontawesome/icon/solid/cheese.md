@@ -5,6 +5,7 @@ name: cheese
 zhTips: 奶酪,切达干酪,豆腐,干酪,融化,巴马干酪,三明治,瑞士人,楔子
 tags: ["food"]
 pre: fas
+search: cheddar,curd,gouda,melt,parmesan,sandwich,swiss,wedge
 
 ---
 

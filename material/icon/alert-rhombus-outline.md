@@ -4,6 +4,7 @@ title: alert rhombus outline(菱形警戒线) ICON转svg、png下载
 name: alert-rhombus-outline
 zhTips: 菱形警戒线
 tags: ["alert-error"]
+search: 
 
 ---
 

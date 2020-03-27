@@ -5,6 +5,7 @@ name: atom
 zhTips: 原子,无神论,化学,电子,离子,同位素,中子,核,质子,科学
 tags: ["education","energy","religion","science","science-fiction","spinners"]
 pre: fas
+search: atheism,chemistry,electron,ion,isotope,neutron,nuclear,proton,science
 
 ---
 

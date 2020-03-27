@@ -5,6 +5,7 @@ name: universal-access
 zhTips: 通用访问,可访问性,听力,人,视力,视觉障碍
 tags: ["accessibility"]
 pre: fas
+search: accessibility,hearing,person,seeing,visual impairment
 
 ---
 

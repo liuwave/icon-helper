@@ -4,6 +4,7 @@ title: dice d4 outline(骰子d4轮廓) ICON转svg、png下载
 name: dice-d4-outline
 zhTips: 骰子d4轮廓,骰子d4
 tags: ["gaming-rpg"]
+search: die-d4
 
 ---
 

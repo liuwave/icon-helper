@@ -5,6 +5,7 @@ name: golf-ball
 zhTips: 高尔夫球,球童,鹰,推杆,三通
 tags: ["sports"]
 pre: fas
+search: caddy,eagle,putt,tee
 
 ---
 

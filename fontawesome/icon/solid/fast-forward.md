@@ -5,6 +5,7 @@ name: fast-forward
 zhTips: 快进,结束,最后,下一个
 tags: ["audio-video"]
 pre: fas
+search: end,last,next
 
 ---
 

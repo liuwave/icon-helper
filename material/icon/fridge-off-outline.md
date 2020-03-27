@@ -4,6 +4,7 @@ title: fridge off outline(冰箱偏离轮廓) ICON转svg、png下载
 name: fridge-off-outline
 zhTips: 冰箱偏离轮廓
 tags: ["home-automation"]
+search: 
 
 ---
 

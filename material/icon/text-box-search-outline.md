@@ -4,6 +4,7 @@ title: text box search outline(文本框搜索轮廓) ICON转svg、png下载
 name: text-box-search-outline
 zhTips: 文本框搜索轮廓,文件文档框搜索轮廓
 tags: ["files-folders"]
+search: file-document-box-search-outline
 
 ---
 

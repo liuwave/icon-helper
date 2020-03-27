@@ -4,6 +4,7 @@ title: fruit citrus(柑桔) ICON转svg、png下载
 name: fruit-citrus
 zhTips: 柑桔,柠檬果,酸橙果
 tags: ["food-drink"]
+search: fruit-lemon,fruit-lime
 
 ---
 

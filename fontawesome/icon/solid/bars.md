@@ -5,6 +5,7 @@ name: bars
 zhTips: 酒吧,清单,拖动,汉堡包,列表,菜单,导航,ol,重新排序,设置,待办事项,ul
 tags: ["interfaces"]
 pre: fas
+search: checklist,drag,hamburger,list,menu,nav,navigation,ol,reorder,settings,todo,ul
 
 ---
 

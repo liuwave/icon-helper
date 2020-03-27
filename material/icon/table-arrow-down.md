@@ -4,6 +4,7 @@ title: table arrow down(表格向下箭头) ICON转svg、png下载
 name: table-arrow-down
 zhTips: 表格向下箭头,表格下载
 tags: []
+search: table-download
 
 ---
 

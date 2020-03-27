@@ -5,6 +5,7 @@ name: sign-in-alt
 zhTips: 备用登录,箭头,输入,加入,登录,注册
 tags: ["arrows","interfaces","status"]
 pre: fas
+search: arrow,enter,join,log in,login,sign in,sign up,sign-in,signin,signup
 
 ---
 

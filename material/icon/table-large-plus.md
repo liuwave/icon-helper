@@ -4,6 +4,7 @@ title: table large plus(表大号加) ICON转svg、png下载
 name: table-large-plus
 zhTips: 表大号加
 tags: ["text-content-format","geographic-information-system"]
+search: table-large-add
 
 ---
 

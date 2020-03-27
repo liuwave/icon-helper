@@ -5,6 +5,7 @@ name: hand-point-right
 zhTips: 手指向右,手指,向前,下一个,点,右
 tags: ["arrows","hands"]
 pre: far
+search: finger,forward,hand-o-right,next,point,right
 
 ---
 

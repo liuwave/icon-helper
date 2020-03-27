@@ -4,6 +4,7 @@ title: format color marker cancel(取消设置颜色标记) ICON转svg、png下�
 name: format-color-marker-cancel
 zhTips: 取消设置颜色标记,格式化红色
 tags: ["text-content-format"]
+search: format-color-redact
 
 ---
 

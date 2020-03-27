@@ -5,6 +5,7 @@ name: store-slash
 zhTips: 商店Slash,建筑,购买,关闭,covid 19,购物
 tags: ["shopping"]
 pre: fas
+search: building,buy,closed,covid-19,purchase,shopping
 
 ---
 

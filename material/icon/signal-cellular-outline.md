@@ -4,6 +4,7 @@ title: signal cellular outline(蜂窝信号轮廓) ICON转svg、png下载
 name: signal-cellular-outline
 zhTips: 蜂窝信号轮廓,蜂窝信号0
 tags: ["cellphone-phone"]
+search: signal-cellular-0
 
 ---
 

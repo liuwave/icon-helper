@@ -5,6 +5,7 @@ name: unlink
 zhTips: 取消链接,附件,链条,断链,删除
 tags: ["editors"]
 pre: fas
+search: attachment,chain,chain-broken,remove
 
 ---
 

@@ -4,6 +4,7 @@ title: email box(邮箱) ICON转svg、png下载
 name: email-box
 zhTips: 邮箱,信封盒
 tags: []
+search: envelope-box
 
 ---
 

@@ -5,6 +5,7 @@ name: napster
 zhTips: 小睡
 tags: ["music"]
 pre: fab
+search: 
 
 ---
 

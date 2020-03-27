@@ -4,6 +4,7 @@ title: comment arrow left(向左评论箭头) ICON转svg、png下载
 name: comment-arrow-left
 zhTips: 向左评论箭头,向前评论
 tags: []
+search: comment-previous
 
 ---
 

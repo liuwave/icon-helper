@@ -5,6 +5,7 @@ name: spray-can
 zhTips: 喷雾罐,油漆,喷雾,设计,涂鸦,标签
 tags: ["design"]
 pre: fas
+search: Paint,aerosol,design,graffiti,tag
 
 ---
 

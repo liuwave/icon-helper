@@ -4,6 +4,7 @@ title: paw(爪子) ICON转svg、png下载
 name: paw
 zhTips: 爪子,宠物
 tags: ["animal","nature"]
+search: pets
 
 ---
 

@@ -5,6 +5,7 @@ name: puzzle-piece
 zhTips: 拼图,附加,附件,游戏,部分
 tags: ["games","objects"]
 pre: fas
+search: add-on,addon,game,section
 
 ---
 

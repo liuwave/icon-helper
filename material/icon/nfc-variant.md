@@ -4,6 +4,7 @@ title: nfc variant(NFC变型) ICON转svg、png下载
 name: nfc-variant
 zhTips: NFC变型,近场通信变型
 tags: []
+search: near-field-communication-variant
 
 ---
 

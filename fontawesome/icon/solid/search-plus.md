@@ -5,6 +5,7 @@ name: search-plus
 zhTips: Search Plus,更大,放大,正数
 tags: ["interfaces","maps"]
 pre: fas
+search: bigger,enlarge,magnify,positive,zoom,zoom in
 
 ---
 

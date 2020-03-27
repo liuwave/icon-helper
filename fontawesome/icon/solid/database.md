@@ -5,6 +5,7 @@ name: database
 zhTips: 数据库,计算机,开发,目录,内存,存储
 tags: ["computers","interfaces"]
 pre: fas
+search: computer,development,directory,memory,storage
 
 ---
 

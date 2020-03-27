@@ -4,6 +4,7 @@ title: map marker remove(删除地图标记) ICON转svg、png下载
 name: map-marker-remove
 zhTips: 删除地图标记
 tags: ["navigation","geographic-information-system"]
+search: 
 
 ---
 

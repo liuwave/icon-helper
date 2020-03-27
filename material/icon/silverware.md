@@ -4,6 +4,7 @@ title: silverware(银器) ICON转svg、png下载
 name: silverware
 zhTips: 银器,当地就餐,餐厅菜单,当地餐厅
 tags: ["food-drink"]
+search: local-dining,restaurant-menu,local-restaurant
 
 ---
 

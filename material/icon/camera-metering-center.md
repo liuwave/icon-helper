@@ -4,6 +4,7 @@ title: camera metering center(相机测光中心) ICON转svg、png下载
 name: camera-metering-center
 zhTips: 相机测光中心
 tags: ["photography"]
+search: camera-metering-centre
 
 ---
 

@@ -5,6 +5,7 @@ name: cart-arrow-down
 zhTips: 购物车Arrow Down,下载,保存,购物
 tags: ["arrows","payments-shopping","shopping","status"]
 pre: fas
+search: download,save,shopping
 
 ---
 

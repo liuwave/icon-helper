@@ -4,6 +4,7 @@ title: minus(减去) ICON转svg、png下载
 name: minus
 zhTips: 减去,移除,水平线
 tags: ["math"]
+search: remove,horizontal-line
 
 ---
 

@@ -5,6 +5,7 @@ name: flag-checkered
 zhTips: 方格旗,通知,杆,竞赛,报告,符号
 tags: ["interfaces","maps","objects"]
 pre: fas
+search: notice,notification,notify,pole,racing,report,symbol
 
 ---
 

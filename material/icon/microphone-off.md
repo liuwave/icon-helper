@@ -4,6 +4,7 @@ title: microphone off(麦克风关闭) ICON转svg、png下载
 name: microphone-off
 zhTips: 麦克风关闭
 tags: ["music"]
+search: mic-off
 
 ---
 

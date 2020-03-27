@@ -4,6 +4,7 @@ title: collapse all(收合全部) ICON转svg、png下载
 name: collapse-all
 zhTips: 收合全部,减去动画
 tags: []
+search: animation-minus
 
 ---
 

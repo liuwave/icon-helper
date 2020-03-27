@@ -5,6 +5,7 @@ name: mercury
 zhTips: 汞,变性
 tags: ["gender"]
 pre: fas
+search: transgender
 
 ---
 

@@ -5,6 +5,7 @@ name: ethernet
 zhTips: 以太网,电缆,5类,6类,连接,硬件,互联网,网络,有线
 tags: ["computers"]
 pre: fas
+search: cable,cat 5,cat 6,connection,hardware,internet,network,wired
 
 ---
 

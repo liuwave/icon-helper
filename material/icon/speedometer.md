@@ -4,6 +4,7 @@ title: speedometer(车速表) ICON转svg、png下载
 name: speedometer
 zhTips: 车速表
 tags: ["automotive"]
+search: 
 
 ---
 

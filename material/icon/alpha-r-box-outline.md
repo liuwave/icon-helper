@@ -4,6 +4,7 @@ title: alpha r box outline(字母r框轮廓) ICON转svg、png下载
 name: alpha-r-box-outline
 zhTips: 字母r框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-r-box-outline,letter-r-box-outline
 
 ---
 

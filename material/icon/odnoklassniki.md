@@ -4,6 +4,7 @@ title: odnoklassniki(odnoklassniki) ICON转svg、png下载
 name: odnoklassniki
 zhTips: odnoklassniki,俄克拉荷马州
 tags: ["brand-logo"]
+search: ok-ru
 
 ---
 

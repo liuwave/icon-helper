@@ -4,6 +4,7 @@ title: football(足球) ICON转svg、png下载
 name: football
 zhTips: 足球,美式足球
 tags: ["sport"]
+search: football-american
 
 ---
 

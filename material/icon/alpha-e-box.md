@@ -4,6 +4,7 @@ title: alpha e box(字母e框) ICON转svg、png下载
 name: alpha-e-box
 zhTips: 字母e框
 tags: ["alpha-numeric"]
+search: alphabet-e-box,letter-e-box
 
 ---
 

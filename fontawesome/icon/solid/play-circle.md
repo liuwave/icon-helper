@@ -5,6 +5,7 @@ name: play-circle
 zhTips: 播放圈子,音频,音乐,播放,声音,开始,视频
 tags: ["audio-video"]
 pre: fas
+search: audio,music,playing,sound,start,video
 
 ---
 

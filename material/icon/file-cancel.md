@@ -4,6 +4,7 @@ title: file cancel(文件取消) ICON转svg、png下载
 name: file-cancel
 zhTips: 文件取消,女性,禁止
 tags: ["files-folders"]
+search: ban,forbid
 
 ---
 

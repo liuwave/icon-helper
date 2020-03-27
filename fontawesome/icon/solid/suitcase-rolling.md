@@ -5,6 +5,7 @@ name: suitcase-rolling
 zhTips: 手提箱滚动,行李,移动,手提箱,旅行
 tags: ["hotel","travel"]
 pre: fas
+search: baggage,luggage,move,suitcase,travel,trip
 
 ---
 

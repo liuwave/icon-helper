@@ -4,6 +4,7 @@ title: calendar minus(日历减) ICON转svg、png下载
 name: calendar-minus
 zhTips: 日历减,事件减
 tags: ["date-time"]
+search: event-minus
 
 ---
 

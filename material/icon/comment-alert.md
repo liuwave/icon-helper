@@ -4,6 +4,7 @@ title: comment alert(评论警报) ICON转svg、png下载
 name: comment-alert
 zhTips: 评论警报,评论警告
 tags: ["alert-error"]
+search: comment-warning
 
 ---
 

@@ -4,6 +4,7 @@ title: file percent(档案百分比) ICON转svg、png下载
 name: file-percent
 zhTips: 档案百分比
 tags: ["files-folders"]
+search: 
 
 ---
 

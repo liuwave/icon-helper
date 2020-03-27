@@ -4,6 +4,7 @@ title: account clock(帐户时钟) ICON转svg、png下载
 name: account-clock
 zhTips: 帐户时钟,用户时钟,帐户待处理,人时钟
 tags: ["account-user"]
+search: user-clock,account-pending,person-clock
 
 ---
 

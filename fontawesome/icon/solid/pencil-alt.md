@@ -5,6 +5,7 @@ name: pencil-alt
 zhTips: 替代铅笔,设计,编辑,铅笔,更新,编写
 tags: ["business","construction","design","editors","interfaces","objects","writing"]
 pre: fas
+search: design,edit,pencil,update,write
 
 ---
 

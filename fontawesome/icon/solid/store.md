@@ -5,6 +5,7 @@ name: store
 zhTips: 商店,建筑,购买,购物
 tags: ["buildings","shopping"]
 pre: fas
+search: building,buy,purchase,shopping
 
 ---
 

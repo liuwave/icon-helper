@@ -4,6 +4,7 @@ title: chart bell curve cumulative(累积钟形曲线) ICON转svg、png下载
 name: chart-bell-curve-cumulative
 zhTips: 累积钟形曲线
 tags: ["math"]
+search: 
 
 ---
 

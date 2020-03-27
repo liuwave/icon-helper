@@ -5,6 +5,7 @@ name: hand-point-down
 zhTips: 手指指向下方,手指,手指向下指向
 tags: ["arrows","hands"]
 pre: fas
+search: finger,hand-o-down,point
 
 ---
 

@@ -4,6 +4,7 @@ title: battery charging(电池正在充电) ICON转svg、png下载
 name: battery-charging
 zhTips: 电池正在充电,电池已充满
 tags: ["battery","home-automation","automotive"]
+search: battery-charging-full
 
 ---
 

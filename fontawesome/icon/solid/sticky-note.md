@@ -5,6 +5,7 @@ name: sticky-note
 zhTips: 粘滞便笺,消息,便条,纸张,提醒,贴纸
 tags: ["business","files","objects","writing"]
 pre: fas
+search: message,note,paper,reminder,sticker
 
 ---
 

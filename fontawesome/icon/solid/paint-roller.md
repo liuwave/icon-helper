@@ -5,6 +5,7 @@ name: paint-roller
 zhTips: 油漆滚筒,丙烯酸,艺术,画笔,颜色,填充,油漆,颜料,水彩
 tags: ["construction","design"]
 pre: fas
+search: acrylic,art,brush,color,fill,paint,pigment,watercolor
 
 ---
 

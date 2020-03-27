@@ -4,6 +4,7 @@ title: music clef treble(音乐谱号高音) ICON转svg、png下载
 name: music-clef-treble
 zhTips: 音乐谱号高音,音乐谱号
 tags: ["music"]
+search: music-g-clef
 
 ---
 

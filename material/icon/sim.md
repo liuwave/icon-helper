@@ -4,6 +4,7 @@ title: sim(sim) ICON转svg、png下载
 name: sim
 zhTips: sim,sim卡,用户识别模块
 tags: []
+search: sim-card,subscriber-identity-module,subscriber-identification-module
 
 ---
 

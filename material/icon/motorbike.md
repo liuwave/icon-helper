@@ -4,6 +4,7 @@ title: motorbike(摩托车) ICON转svg、png下载
 name: motorbike
 zhTips: 摩托车
 tags: ["transportation-road","sport"]
+search: motorcycle
 
 ---
 

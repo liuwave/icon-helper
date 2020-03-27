@@ -4,6 +4,7 @@ title: account switch(帐户切换) ICON转svg、png下载
 name: account-switch
 zhTips: 帐户切换,用户切换,切换帐户,切换用户,切换人
 tags: ["account-user"]
+search: user-switch,accounts-switch,users-switch,person-switch,people-switch
 
 ---
 

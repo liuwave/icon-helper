@@ -5,6 +5,7 @@ name: google-wallet
 zhTips: Google电子钱包
 tags: ["payments-shopping"]
 pre: fab
+search: 
 
 ---
 

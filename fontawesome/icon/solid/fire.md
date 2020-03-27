@@ -5,6 +5,7 @@ name: fire
 zhTips: 火,烧伤,卡路里,火焰,热,受欢迎
 tags: ["camping","energy","maps","objects","science"]
 pre: fas
+search: burn,caliente,flame,heat,hot,popular
 
 ---
 

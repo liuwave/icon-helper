@@ -4,6 +4,7 @@ title: smoking(吸烟) ICON转svg、png下载
 name: smoking
 zhTips: 吸烟,香烟,吸烟区,吸烟室
 tags: ["automotive"]
+search: cigarette,smoking-area,smoking-rooms
 
 ---
 

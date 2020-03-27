@@ -4,6 +4,7 @@ title: alert rhombus(机敏菱形) ICON转svg、png下载
 name: alert-rhombus
 zhTips: 机敏菱形
 tags: ["alert-error"]
+search: 
 
 ---
 

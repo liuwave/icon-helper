@@ -5,6 +5,7 @@ name: swimming-pool
 zhTips: 游泳池,阶梯,娱乐,游泳,水
 tags: ["hotel","summer","travel"]
 pre: fas
+search: ladder,recreation,swim,water
 
 ---
 

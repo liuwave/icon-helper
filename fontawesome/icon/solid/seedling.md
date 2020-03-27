@@ -5,6 +5,7 @@ name: seedling
 zhTips: 苗木,植物区系,生长,植物,素食主义者
 tags: ["charity","energy","food","fruit-vegetable","science","spring"]
 pre: fas
+search: flora,grow,plant,vegan
 
 ---
 

@@ -5,6 +5,7 @@ name: hot-tub
 zhTips: 热水浴缸,浴,按摩浴缸,按摩,桑拿,水疗
 tags: ["hotel","travel"]
 pre: fas
+search: bath,jacuzzi,massage,sauna,spa
 
 ---
 

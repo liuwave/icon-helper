@@ -5,6 +5,7 @@ name: terminal
 zhTips: 端子,代码,命令,控制台,开发,提示
 tags: ["code"]
 pre: fas
+search: code,command,console,development,prompt
 
 ---
 

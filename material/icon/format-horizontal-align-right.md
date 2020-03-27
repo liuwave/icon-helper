@@ -4,6 +4,7 @@ title: format horizontal align right(格式水平右对齐) ICON转svg、png下�
 name: format-horizontal-align-right
 zhTips: 格式水平右对齐
 tags: ["text-content-format"]
+search: 
 
 ---
 

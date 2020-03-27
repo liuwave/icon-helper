@@ -4,6 +4,7 @@ title: exit run(出口运行) ICON转svg、png下载
 name: exit-run
 zhTips: 出口运行,紧急出口
 tags: []
+search: emergency-exit
 
 ---
 

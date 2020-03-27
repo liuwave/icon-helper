@@ -5,6 +5,7 @@ name: vials
 zhTips: 样品瓶,实验,实验室,样品,科学,测试,试管
 tags: ["medical","pharmacy","science"]
 pre: fas
+search: experiment,lab,sample,science,test,test tube
 
 ---
 

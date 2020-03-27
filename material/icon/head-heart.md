@@ -4,6 +4,7 @@ title: head heart(头心) ICON转svg、png下载
 name: head-heart
 zhTips: 头心,爱头
 tags: []
+search: head-love
 
 ---
 

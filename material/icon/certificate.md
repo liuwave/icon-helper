@@ -4,6 +4,7 @@ title: certificate(证书) ICON转svg、png下载
 name: certificate
 zhTips: 证书,文凭,图章
 tags: []
+search: diploma,seal
 
 ---
 

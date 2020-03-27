@@ -5,6 +5,7 @@ name: money-bill-wave
 zhTips: Wavey Bill,购买,现金,结帐,钱,付款,价格
 tags: ["currency","finance"]
 pre: fas
+search: buy,cash,checkout,money,payment,price,purchase
 
 ---
 

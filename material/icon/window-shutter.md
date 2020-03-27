@@ -4,6 +4,7 @@ title: window shutter(百叶窗) ICON转svg、png下载
 name: window-shutter
 zhTips: 百叶窗
 tags: ["home-automation"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: head flash(头闪) ICON转svg、png下载
 name: head-flash
 zhTips: 头闪,头痛
 tags: []
+search: head-ache
 
 ---
 

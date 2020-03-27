@@ -4,6 +4,7 @@ title: baby buggy(婴儿车) ICON转svg、png下载
 name: baby-buggy
 zhTips: 婴儿车,马车
 tags: ["people-family"]
+search: stroller,pram,carriage
 
 ---
 

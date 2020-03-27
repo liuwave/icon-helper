@@ -4,6 +4,7 @@ title: firefox(firefox) ICON转svg、png下载
 name: firefox
 zhTips: firefox,mozilla firefox
 tags: ["brand-logo"]
+search: mozilla-firefox
 
 ---
 

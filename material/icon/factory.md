@@ -4,6 +4,7 @@ title: factory(工业厂房) ICON转svg、png下载
 name: factory
 zhTips: 工业厂房
 tags: ["places"]
+search: industrial
 
 ---
 

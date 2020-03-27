@@ -4,6 +4,7 @@ title: account circle(帐户圈) ICON转svg、png下载
 name: account-circle
 zhTips: 帐户圈,用户圈,人圈
 tags: ["account-user"]
+search: user-circle,person-circle
 
 ---
 

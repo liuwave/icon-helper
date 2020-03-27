@@ -4,6 +4,7 @@ title: shield cross(盾牌十字架) ICON转svg、png下载
 name: shield-cross
 zhTips: 盾牌十字架,盾牌圣堂武士,盾牌基督教
 tags: ["gaming-rpg","religion"]
+search: shield-templar,shield-christianity
 
 ---
 

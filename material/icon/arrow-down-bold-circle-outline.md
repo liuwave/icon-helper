@@ -4,6 +4,7 @@ title: arrow down bold circle outline(向下箭头加粗圆圈轮廓) ICON转svg
 name: arrow-down-bold-circle-outline
 zhTips: 向下箭头加粗圆圈轮廓
 tags: ["arrow"]
+search: arrow-bottom-bold-circle-outline
 
 ---
 

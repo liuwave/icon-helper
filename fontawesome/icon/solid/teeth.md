@@ -5,6 +5,7 @@ name: teeth
 zhTips: 牙齿,咬伤,牙医,口香糖,嘴,微笑
 tags: ["medical"]
 pre: fas
+search: bite,dental,dentist,gums,mouth,smile,tooth
 
 ---
 

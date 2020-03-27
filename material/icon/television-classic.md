@@ -4,6 +4,7 @@ title: television classic(电视经典) ICON转svg、png下载
 name: television-classic
 zhTips: 电视经典
 tags: ["device-tech","home-automation"]
+search: tv-classic
 
 ---
 

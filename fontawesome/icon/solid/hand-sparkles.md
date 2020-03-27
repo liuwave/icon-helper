@@ -5,6 +5,7 @@ name: hand-sparkles
 zhTips: 洗手液,清洁,舒适,卫生,魔术,肥皂,洗
 tags: ["hands"]
 pre: fas
+search: clean,covid-19,hygiene,magic,soap,wash
 
 ---
 

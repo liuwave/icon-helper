@@ -5,6 +5,7 @@ name: file-excel
 zhTips: Excel文件,CSV,文档,数字,电子表格,表格
 tags: ["files"]
 pre: far
+search: csv,document,numbers,spreadsheets,table
 
 ---
 

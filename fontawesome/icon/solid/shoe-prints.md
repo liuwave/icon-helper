@@ -5,6 +5,7 @@ name: shoe-prints
 zhTips: 鞋印,脚,脚印,台阶,步行
 tags: ["clothing","fitness","maps"]
 pre: fas
+search: feet,footprints,steps,walk
 
 ---
 

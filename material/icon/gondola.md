@@ -4,6 +4,7 @@ title: gondola(缆车) ICON转svg、png下载
 name: gondola
 zhTips: 缆车
 tags: ["transportation-other"]
+search: cable-car
 
 ---
 

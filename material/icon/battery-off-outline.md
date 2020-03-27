@@ -4,6 +4,7 @@ title: battery off outline(电池电量不足) ICON转svg、png下载
 name: battery-off-outline
 zhTips: 电池电量不足
 tags: ["battery"]
+search: 
 
 ---
 

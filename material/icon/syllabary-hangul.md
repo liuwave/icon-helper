@@ -4,6 +4,7 @@ title: syllabary hangul(音节韩文) ICON转svg、png下载
 name: syllabary-hangul
 zhTips: 音节韩文,书写系统中文
 tags: ["alpha-numeric"]
+search: writing-system-hangul
 
 ---
 

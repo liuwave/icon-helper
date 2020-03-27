@@ -4,6 +4,7 @@ title: octagram outline(八边形轮廓) ICON转svg、png下载
 name: octagram-outline
 zhTips: 八边形轮廓,爆炸形轮廓
 tags: ["shape"]
+search: starburst-outline
 
 ---
 

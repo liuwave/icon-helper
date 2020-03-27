@@ -5,6 +5,7 @@ name: star-and-crescent
 zhTips: 星与月,伊斯兰教,穆斯林,宗教
 tags: ["religion"]
 pre: fas
+search: islam,muslim,religion
 
 ---
 

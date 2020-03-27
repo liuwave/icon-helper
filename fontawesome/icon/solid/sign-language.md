@@ -5,6 +5,7 @@ name: sign-language
 zhTips: 手语,翻译,asl,聋人,手
 tags: ["accessibility"]
 pre: fas
+search: Translate,asl,deaf,hands
 
 ---
 

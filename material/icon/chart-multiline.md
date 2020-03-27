@@ -4,6 +4,7 @@ title: chart multiline(多折线图) ICON转svg、png下载
 name: chart-multiline
 zhTips: 多折线图
 tags: ["math"]
+search: 
 
 ---
 

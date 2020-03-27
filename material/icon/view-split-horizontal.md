@@ -4,6 +4,7 @@ title: view split horizontal(视图水平拆分) ICON转svg、png下载
 name: view-split-horizontal
 zhTips: 视图水平拆分
 tags: ["view"]
+search: 
 
 ---
 

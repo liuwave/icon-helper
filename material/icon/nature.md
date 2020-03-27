@@ -4,6 +4,7 @@ title: nature(大自然) ICON转svg、png下载
 name: nature
 zhTips: 大自然,儿童
 tags: ["nature"]
+search: plant
 
 ---
 

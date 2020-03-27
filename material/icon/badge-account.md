@@ -4,6 +4,7 @@ title: badge account(徽章帐户) ICON转svg、png下载
 name: badge-account
 zhTips: 徽章帐户,用户徽章,徽章人
 tags: ["account-user"]
+search: user-badge,person-badge
 
 ---
 

@@ -5,6 +5,7 @@ name: running
 zhTips: 跑步,运动,健康,慢跑,人,运行,冲刺
 tags: ["fitness","sports","users-people"]
 pre: fas
+search: exercise,health,jog,person,run,sport,sprint
 
 ---
 

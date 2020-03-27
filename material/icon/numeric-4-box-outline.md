@@ -4,6 +4,7 @@ title: numeric 4 box outline(数字4框轮廓) ICON转svg、png下载
 name: numeric-4-box-outline
 zhTips: 数字4框轮廓
 tags: ["alpha-numeric"]
+search: numeric-four-box-outline,number-4-box-outline
 
 ---
 

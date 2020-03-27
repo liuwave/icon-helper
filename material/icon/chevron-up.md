@@ -4,6 +4,7 @@ title: chevron up(V形) ICON转svg、png下载
 name: chevron-up
 zhTips: V形,向上缩小,键盘箭头向上,插入符号
 tags: ["arrow","math"]
+search: expand-less,keyboard-arrow-up,caret
 
 ---
 

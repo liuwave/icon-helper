@@ -5,6 +5,7 @@ name: times-circle
 zhTips: Times Circle,关闭,交叉,退出,错误,通知,问题,x
 tags: ["interfaces"]
 pre: fas
+search: close,cross,exit,incorrect,notice,notification,notify,problem,wrong,x
 
 ---
 

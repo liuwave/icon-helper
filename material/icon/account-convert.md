@@ -4,6 +4,7 @@ title: account convert(帐户转换) ICON转svg、png下载
 name: account-convert
 zhTips: 帐户转换,用户转换,人转换
 tags: ["account-user"]
+search: user-convert,person-convert
 
 ---
 

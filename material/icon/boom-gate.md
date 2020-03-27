@@ -4,6 +4,7 @@ title: boom gate(动臂闸门) ICON转svg、png下载
 name: boom-gate
 zhTips: 动臂闸门,动臂臂,动臂护栏,斗臂护栏,护栏,自动门
 tags: ["transportation-road"]
+search: boom-arm,boom-barrier,arm-barrier,barrier,automatic-gate
 
 ---
 

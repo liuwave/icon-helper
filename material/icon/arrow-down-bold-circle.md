@@ -4,6 +4,7 @@ title: arrow down bold circle(向下的粗体箭头) ICON转svg、png下载
 name: arrow-down-bold-circle
 zhTips: 向下的粗体箭头,底部的粗体箭头
 tags: ["arrow"]
+search: arrow-bottom-bold-circle
 
 ---
 

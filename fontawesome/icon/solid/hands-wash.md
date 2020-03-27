@@ -5,6 +5,7 @@ name: hands-wash
 zhTips: 洗手液,covid 19,卫生,肥皂,洗手
 tags: ["hands"]
 pre: fas
+search: covid-19,hygiene,soap,wash
 
 ---
 

@@ -5,6 +5,7 @@ name: city
 zhTips: 城市,建筑物,繁忙,摩天大楼,窗户
 tags: ["buildings","business"]
 pre: fas
+search: buildings,busy,skyscrapers,urban,windows
 
 ---
 

@@ -4,6 +4,7 @@ title: close circle multiple outline(关闭圆形多个轮廓) ICON转svg、png�
 name: close-circle-multiple-outline
 zhTips: 关闭圆形多个轮廓,移除圆形多个轮廓,硬币关闭轮廓,硬币移除轮廓
 tags: []
+search: remove-circle-multiple-outline,coins-close-outline,coins-remove-outline
 
 ---
 

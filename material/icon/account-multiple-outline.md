@@ -4,6 +4,7 @@ title: account multiple outline(帐户多个轮廓) ICON转svg、png下载
 name: account-multiple-outline
 zhTips: 帐户多个轮廓,用户多个轮廓,人员轮廓,帐户轮廓,用户轮廓
 tags: ["account-user"]
+search: user-multiple-outline,people-outline,accounts-outline,users-outline
 
 ---
 

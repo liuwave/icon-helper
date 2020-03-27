@@ -4,6 +4,7 @@ title: arrow up drop circle outline(向上箭头放圆圈轮廓) ICON转svg、pn
 name: arrow-up-drop-circle-outline
 zhTips: 向上箭头放圆圈轮廓
 tags: ["arrow"]
+search: arrow-top-drop-circle-outline
 
 ---
 

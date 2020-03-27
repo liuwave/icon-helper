@@ -4,6 +4,7 @@ title: robot vacuum variant(声学保险丝机器人) ICON转svg、png下载
 name: robot-vacuum-variant
 zhTips: 声学保险丝机器人,neato
 tags: ["home-automation"]
+search: neato
 
 ---
 

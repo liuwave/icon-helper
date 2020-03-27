@@ -4,6 +4,7 @@ title: currency ils(货币ils) ICON转svg、png下载
 name: currency-ils
 zhTips: 货币ils
 tags: ["banking","currency"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: share off outline(分享轮廓) ICON转svg、png下载
 name: share-off-outline
 zhTips: 分享轮廓,转发轮廓
 tags: ["arrow"]
+search: forward-off-outline
 
 ---
 

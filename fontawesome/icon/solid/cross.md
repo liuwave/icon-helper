@@ -5,6 +5,7 @@ name: cross
 zhTips: 十字架,天主教,基督教,教堂,耶稣
 tags: ["religion"]
 pre: fas
+search: catholicism,christianity,church,jesus
 
 ---
 

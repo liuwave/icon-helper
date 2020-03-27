@@ -4,6 +4,7 @@ title: thumb down(拇指向下) ICON转svg、png下载
 name: thumb-down
 zhTips: 拇指向下,不喜欢
 tags: []
+search: dislike,thumbs-down
 
 ---
 

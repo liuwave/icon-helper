@@ -4,6 +4,7 @@ title: medical bag(医疗袋) ICON转svg、png下载
 name: medical-bag
 zhTips: 医疗袋,急救箱
 tags: ["medical-hospital"]
+search: first-aid-kit
 
 ---
 

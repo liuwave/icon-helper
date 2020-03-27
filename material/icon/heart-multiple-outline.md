@@ -4,6 +4,7 @@ title: heart multiple outline(心形多个轮廓) ICON转svg、png下载
 name: heart-multiple-outline
 zhTips: 心形多个轮廓,心形轮廓
 tags: []
+search: hearts-outline
 
 ---
 

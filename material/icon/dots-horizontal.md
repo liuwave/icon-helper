@@ -4,6 +4,7 @@ title: dots horizontal(水平的点) ICON转svg、png下载
 name: dots-horizontal
 zhTips: 水平的点,更多,省略号,水平,菜单
 tags: []
+search: more,ellipsis-horizontal,more-horiz,menu
 
 ---
 

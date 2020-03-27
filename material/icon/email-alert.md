@@ -4,6 +4,7 @@ title: email alert(电子邮件警报) ICON转svg、png下载
 name: email-alert
 zhTips: 电子邮件警报,电子邮件警告,信封警报,信封警告
 tags: ["alert-error"]
+search: email-warning,envelope-alert,envelope-warning
 
 ---
 

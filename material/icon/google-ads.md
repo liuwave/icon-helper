@@ -4,6 +4,7 @@ title: google ads(谷歌广告) ICON转svg、png下载
 name: google-ads
 zhTips: 谷歌广告,谷歌adwords
 tags: ["brand-logo"]
+search: google-adwords
 
 ---
 

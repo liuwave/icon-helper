@@ -4,6 +4,7 @@ title: lightbulb on(开灯泡) ICON转svg、png下载
 name: lightbulb-on
 zhTips: 开灯泡,想法
 tags: ["home-automation"]
+search: idea,bulb-on
 
 ---
 

@@ -5,6 +5,7 @@ name: copy
 zhTips: 复制,克隆,重复,文件,文件o,纸张,粘贴
 tags: ["business","design","editors","files","interfaces","objects"]
 pre: far
+search: clone,duplicate,file,files-o,paper,paste
 
 ---
 

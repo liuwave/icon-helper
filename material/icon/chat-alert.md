@@ -4,6 +4,7 @@ title: chat alert(聊天提醒) ICON转svg、png下载
 name: chat-alert
 zhTips: 聊天提醒,聊天警告
 tags: ["alert-error"]
+search: chat-warning
 
 ---
 

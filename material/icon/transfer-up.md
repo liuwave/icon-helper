@@ -4,6 +4,7 @@ title: transfer up(向上转移) ICON转svg、png下载
 name: transfer-up
 zhTips: 向上转移
 tags: ["arrow"]
+search: 
 
 ---
 

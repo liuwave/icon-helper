@@ -4,6 +4,7 @@ title: calendar sync(日历同步) ICON转svg、png下载
 name: calendar-sync
 zhTips: 日历同步,日历重复
 tags: ["date-time"]
+search: calendar-repeat
 
 ---
 

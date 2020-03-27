@@ -5,6 +5,7 @@ name: dumbbell
 zhTips: 哑铃,运动,健身操,力量,举重
 tags: ["hotel","sports","travel"]
 pre: fas
+search: exercise,gym,strength,weight,weight-lifting
 
 ---
 

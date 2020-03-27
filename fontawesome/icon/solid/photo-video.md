@@ -5,6 +5,7 @@ name: photo-video
 zhTips: 摄影视频,影音,电影,图像,图书馆,媒体
 tags: ["audio-video","files","images","social"]
 pre: fas
+search: av,film,image,library,media
 
 ---
 

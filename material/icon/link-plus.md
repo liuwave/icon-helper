@@ -4,6 +4,7 @@ title: link plus(链接加) ICON转svg、png下载
 name: link-plus
 zhTips: 链接加,链接添加
 tags: []
+search: link-add
 
 ---
 

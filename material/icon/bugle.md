@@ -4,6 +4,7 @@ title: bugle(号角) ICON转svg、png下载
 name: bugle
 zhTips: 号角,号角车
 tags: ["automotive","music"]
+search: car-horn
 
 ---
 

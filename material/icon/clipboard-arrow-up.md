@@ -4,6 +4,7 @@ title: clipboard arrow up(剪贴板向上箭头) ICON转svg、png下载
 name: clipboard-arrow-up
 zhTips: 剪贴板向上箭头,剪贴板顶部箭头
 tags: []
+search: clipboard-arrow-top
 
 ---
 

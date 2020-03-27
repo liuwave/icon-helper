@@ -5,6 +5,7 @@ name: soundcloud
 zhTips: SoundCloud
 tags: ["music"]
 pre: fab
+search: 
 
 ---
 

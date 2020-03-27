@@ -4,6 +4,7 @@ title: format annotation plus(注释加) ICON转svg、png下载
 name: format-annotation-plus
 zhTips: 注释加,格式注释添加
 tags: ["text-content-format"]
+search: format-annotation-add
 
 ---
 

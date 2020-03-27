@@ -4,6 +4,7 @@ title: tooltip text(工具提示文字) ICON转svg、png下载
 name: tooltip-text
 zhTips: 工具提示文字
 tags: ["tooltip"]
+search: 
 
 ---
 

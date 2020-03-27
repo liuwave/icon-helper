@@ -4,6 +4,7 @@ title: smoke detector(烟雾探测器) ICON转svg、png下载
 name: smoke-detector
 zhTips: 烟雾探测器,防鸟巢,低音炮
 tags: ["device-tech","home-automation"]
+search: nest-protect,subwoofer
 
 ---
 

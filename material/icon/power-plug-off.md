@@ -4,6 +4,7 @@ title: power plug off(电源插头关闭) ICON转svg、png下载
 name: power-plug-off
 zhTips: 电源插头关闭,电源关闭
 tags: ["home-automation"]
+search: power-off
 
 ---
 

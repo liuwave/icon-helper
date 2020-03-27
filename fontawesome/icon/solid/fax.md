@@ -5,6 +5,7 @@ name: fax
 zhTips: 传真,业务,通信,副本,发送
 tags: ["business","communication","objects"]
 pre: fas
+search: business,communicate,copy,facsimile,send
 
 ---
 

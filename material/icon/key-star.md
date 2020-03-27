@@ -4,6 +4,7 @@ title: key star(星号键) ICON转svg、png下载
 name: key-star
 zhTips: 星号键,主键,sql主键
 tags: []
+search: primary-key,sql-primary-key
 
 ---
 

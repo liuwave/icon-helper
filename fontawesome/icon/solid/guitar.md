@@ -5,6 +5,7 @@ name: guitar
 zhTips: 吉他,声学,乐器,音乐,摇滚,歌曲,弦
 tags: ["music","objects"]
 pre: fas
+search: acoustic,instrument,music,rock,rock and roll,song,strings
 
 ---
 

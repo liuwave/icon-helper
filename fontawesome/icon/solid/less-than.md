@@ -5,6 +5,7 @@ name: less-than
 zhTips: 小于,算术,比较
 tags: ["mathematics"]
 pre: fas
+search: arithmetic,compare,math
 
 ---
 

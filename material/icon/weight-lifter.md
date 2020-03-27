@@ -4,6 +4,7 @@ title: weight lifter(举重运动员) ICON转svg、png下载
 name: weight-lifter
 zhTips: 举重运动员,杠铃,运动量来找到
 tags: ["sport"]
+search: barbell,crossfit
 
 ---
 

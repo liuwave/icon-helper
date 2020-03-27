@@ -4,6 +4,7 @@ title: rhombus outline(菱形轮廓) ICON转svg、png下载
 name: rhombus-outline
 zhTips: 菱形轮廓,钻石轮廓
 tags: ["shape"]
+search: diamond-outline
 
 ---
 

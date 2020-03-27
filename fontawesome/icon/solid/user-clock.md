@@ -5,6 +5,7 @@ name: user-clock
 zhTips: 用户时钟,警报,人员,提醒,时间
 tags: ["users-people"]
 pre: fas
+search: alert,person,remind,time
 
 ---
 

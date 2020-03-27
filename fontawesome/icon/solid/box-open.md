@@ -5,6 +5,7 @@ name: box-open
 zhTips: 开箱,存档,容器,包装,存储,拆箱
 tags: ["moving"]
 pre: fas
+search: archive,container,package,storage,unpack
 
 ---
 

@@ -4,6 +4,7 @@ title: numeric 8 box multiple(数字8框倍数) ICON转svg、png下载
 name: numeric-8-box-multiple
 zhTips: 数字8框倍数
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

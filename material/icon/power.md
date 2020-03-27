@@ -4,6 +4,7 @@ title: power(电源) ICON转svg、png下载
 name: power
 zhTips: 电源,新的电源设置,关闭
 tags: ["home-automation"]
+search: power-settings-new,shutdown
 
 ---
 

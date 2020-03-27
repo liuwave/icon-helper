@@ -5,6 +5,7 @@ name: phone-square-alt
 zhTips: 备用电话广场,呼叫,耳机,号码,支持,电话,语音
 tags: ["business","communication","maps"]
 pre: fas
+search: call,earphone,number,support,telephone,voice
 
 ---
 

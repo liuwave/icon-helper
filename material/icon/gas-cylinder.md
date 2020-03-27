@@ -4,6 +4,7 @@ title: gas cylinder(气瓶) ICON转svg、png下载
 name: gas-cylinder
 zhTips: 气瓶,气罐,氧气罐
 tags: []
+search: tank,oxygen-tank
 
 ---
 

@@ -5,6 +5,7 @@ name: volume-up
 zhTips: 提高音量,音频,较高,大声,音乐,声音,扬声器
 tags: ["audio-video","interfaces","music","status"]
 pre: fas
+search: audio,higher,louder,music,sound,speaker
 
 ---
 

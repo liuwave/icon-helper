@@ -4,6 +4,7 @@ title: remote(远程) ICON转svg、png下载
 name: remote
 zhTips: 远程,远程设置
 tags: ["home-automation"]
+search: settings-remote
 
 ---
 

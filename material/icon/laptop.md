@@ -4,6 +4,7 @@ title: laptop(笔记本电脑) ICON转svg、png下载
 name: laptop
 zhTips: 笔记本电脑,计算机
 tags: ["device-tech","home-automation"]
+search: computer
 
 ---
 

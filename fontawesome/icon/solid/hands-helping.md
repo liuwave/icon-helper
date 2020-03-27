@@ -5,6 +5,7 @@ name: hands-helping
 zhTips: 援助之手,援助,握手,伙伴关系,志愿服务
 tags: ["charity","hands"]
 pre: fas
+search: aid,assistance,handshake,partnership,volunteering
 
 ---
 

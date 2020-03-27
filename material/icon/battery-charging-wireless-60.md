@@ -4,6 +4,7 @@ title: battery charging wireless 60(无线充电电池60) ICON转svg、png下载
 name: battery-charging-wireless-60
 zhTips: 无线充电电池60
 tags: ["battery","home-automation"]
+search: 
 
 ---
 

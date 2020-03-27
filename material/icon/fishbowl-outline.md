@@ -4,6 +4,7 @@ title: fishbowl outline(鱼缸轮廓) ICON转svg、png下载
 name: fishbowl-outline
 zhTips: 鱼缸轮廓,水族馆轮廓
 tags: ["animal"]
+search: aquarium-outline
 
 ---
 

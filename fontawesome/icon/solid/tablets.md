@@ -5,6 +5,7 @@ name: tablets
 zhTips: 平板电脑,药品,药物,药丸,处方
 tags: ["medical","pharmacy","science"]
 pre: fas
+search: drugs,medicine,pills,prescription
 
 ---
 

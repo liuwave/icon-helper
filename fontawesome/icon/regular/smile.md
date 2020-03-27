@@ -5,6 +5,7 @@ name: smile
 zhTips: 微笑的脸,批准,图释,脸,快乐,评分,满意
 tags: ["chat","emoji","interfaces","users-people"]
 pre: far
+search: approve,emoticon,face,happy,rating,satisfied
 
 ---
 

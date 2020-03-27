@@ -5,6 +5,7 @@ name: meh-blank
 zhTips: 无嘴脸,图释,脸,中立,评级
 tags: ["emoji"]
 pre: fas
+search: emoticon,face,neutral,rating
 
 ---
 

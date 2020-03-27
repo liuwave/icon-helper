@@ -5,6 +5,7 @@ name: radiation
 zhTips: 辐射,危险,致命,核,放射性,警告
 tags: ["alert","energy","medical","science"]
 pre: fas
+search: danger,dangerous,deadly,hazard,nuclear,radioactive,warning
 
 ---
 

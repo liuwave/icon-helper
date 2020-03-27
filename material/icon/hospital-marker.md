@@ -4,6 +4,7 @@ title: hospital marker(医院标记) ICON转svg、png下载
 name: hospital-marker
 zhTips: 医院标记
 tags: ["medical-hospital"]
+search: 
 
 ---
 

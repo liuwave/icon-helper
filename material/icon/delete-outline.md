@@ -4,6 +4,7 @@ title: delete outline(删除轮廓) ICON转svg、png下载
 name: delete-outline
 zhTips: 删除轮廓,垃圾轮廓,垃圾箱轮廓
 tags: []
+search: garbage-outline,bin-outline,rubbish-outline,garbage-can-outline,rubbish-bin-outline,trash-outline,trash-can-outline
 
 ---
 

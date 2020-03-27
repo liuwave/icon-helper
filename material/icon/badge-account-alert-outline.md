@@ -4,6 +4,7 @@ title: badge account alert outline(徽章警告提示轮廓) ICON转svg、png下
 name: badge-account-alert-outline
 zhTips: 徽章警告提示轮廓,用户徽章警告轮廓,徽章警告轮廓
 tags: ["account-user","alert-error"]
+search: user-badge-alert-outline,person-badge-alert-outline,account-badge-warning-outline,user-badge-warning-outline,person-badge-warning-outline
 
 ---
 

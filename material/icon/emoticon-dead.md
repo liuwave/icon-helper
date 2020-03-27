@@ -4,6 +4,7 @@ title: emoticon dead(表情符号已死) ICON转svg、png下载
 name: emoticon-dead
 zhTips: 表情符号已死,笑脸已死
 tags: ["emoji"]
+search: smiley-dead
 
 ---
 

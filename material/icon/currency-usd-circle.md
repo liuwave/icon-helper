@@ -4,6 +4,7 @@ title: currency usd circle(货币美元圆) ICON转svg、png下载
 name: currency-usd-circle
 zhTips: 货币美元圆,硬币
 tags: ["banking","currency"]
+search: coin
 
 ---
 

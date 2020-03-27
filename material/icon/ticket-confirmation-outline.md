@@ -4,6 +4,7 @@ title: ticket confirmation outline(票务确认轮廓) ICON转svg、png下载
 name: ticket-confirmation-outline
 zhTips: 票务确认轮廓,确认号轮廓
 tags: []
+search: confirmation-number-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: lightbulb on outline(轮廓上的灯泡) ICON转svg、png下载
 name: lightbulb-on-outline
 zhTips: 轮廓上的灯泡,想法
 tags: ["home-automation"]
+search: idea,bulb-on-outline
 
 ---
 

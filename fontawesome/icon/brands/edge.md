@@ -5,6 +5,7 @@ name: edge
 zhTips: 边缘浏览器,浏览器,即
 tags: []
 pre: fab
+search: browser,ie
 
 ---
 

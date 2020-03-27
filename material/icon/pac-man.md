@@ -4,6 +4,7 @@ title: pac man(吃豆人) ICON转svg、png下载
 name: pac-man
 zhTips: 吃豆人
 tags: ["gaming-rpg"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: file word box(文件字框) ICON转svg、png下载
 name: file-word-box
 zhTips: 文件字框
 tags: ["files-folders"]
+search: 
 
 ---
 

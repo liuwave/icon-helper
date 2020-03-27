@@ -5,6 +5,7 @@ name: pause-circle
 zhTips: 暂停圈,等待
 tags: ["audio-video"]
 pre: fas
+search: hold,wait
 
 ---
 

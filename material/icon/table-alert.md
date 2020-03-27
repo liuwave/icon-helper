@@ -4,6 +4,7 @@ title: table alert(表格警报) ICON转svg、png下载
 name: table-alert
 zhTips: 表格警报
 tags: ["alert-error"]
+search: 
 
 ---
 

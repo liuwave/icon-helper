@@ -4,6 +4,7 @@ title: marker check(标记检查) ICON转svg、png下载
 name: marker-check
 zhTips: 标记检查,behere,股票行情指示器
 tags: []
+search: beenhere,marker-tick
 
 ---
 

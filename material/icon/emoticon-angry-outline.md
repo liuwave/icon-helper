@@ -4,6 +4,7 @@ title: emoticon angry outline(图释愤怒的轮廓) ICON转svg、png下载
 name: emoticon-angry-outline
 zhTips: 图释愤怒的轮廓,笑脸愤怒的轮廓
 tags: ["emoji"]
+search: smiley-angry-outline
 
 ---
 

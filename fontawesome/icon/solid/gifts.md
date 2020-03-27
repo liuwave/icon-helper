@@ -5,6 +5,7 @@ name: gifts
 zhTips: 礼物,圣诞节,慷慨,给予,假日,聚会,包裹
 tags: ["holiday","objects","shopping"]
 pre: fas
+search: christmas,generosity,giving,holiday,party,present,wrapped,xmas
 
 ---
 

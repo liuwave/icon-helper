@@ -4,6 +4,7 @@ title: numeric 2 box(数字2框) ICON转svg、png下载
 name: numeric-2-box
 zhTips: 数字2框,外观为2
 tags: ["alpha-numeric"]
+search: looks-two,numeric-two-box,number-2-box
 
 ---
 

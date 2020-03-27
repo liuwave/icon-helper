@@ -4,6 +4,7 @@ title: battery 60(电池60) ICON转svg、png下载
 name: battery-60
 zhTips: 电池60
 tags: ["battery","home-automation","automotive"]
+search: 
 
 ---
 

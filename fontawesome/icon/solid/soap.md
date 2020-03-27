@@ -5,6 +5,7 @@ name: soap
 zhTips: 肥皂,起泡,清洁,干净,卫生19,卫生,洗涤
 tags: ["household"]
 pre: fas
+search: bubbles,clean,covid-19,hygiene,wash
 
 ---
 

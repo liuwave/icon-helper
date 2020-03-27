@@ -5,6 +5,7 @@ name: pizza-slice
 zhTips: 比萨饼切片,奶酪,芝加哥,意大利语,马苏里拉,纽约,意大利辣味香肠,派,切片,少年忍者神龟,番茄
 tags: ["food"]
 pre: fas
+search: cheese,chicago,italian,mozzarella,new york,pepperoni,pie,slice,teenage mutant ninja turtles,tomato
 
 ---
 

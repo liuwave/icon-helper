@@ -5,6 +5,7 @@ name: toolbox
 zhTips: 工具箱,管理员,容器,修复,设置,工具
 tags: ["construction","objects"]
 pre: fas
+search: admin,container,fix,repair,settings,tools
 
 ---
 

@@ -4,6 +4,7 @@ title: alpha p circle outline(alpha p圆圈轮廓) ICON转svg、png下载
 name: alpha-p-circle-outline
 zhTips: alpha p圆圈轮廓,字母p圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-p-circle-outline,letter-p-circle-outline
 
 ---
 

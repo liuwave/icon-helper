@@ -5,6 +5,7 @@ name: grin-alt
 zhTips: 备用笑脸,图释,脸,笑,微笑
 tags: ["emoji"]
 pre: far
+search: emoticon,face,laugh,smile
 
 ---
 

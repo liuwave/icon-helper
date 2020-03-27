@@ -4,6 +4,7 @@ title: skype(Skype) ICON转svg、png下载
 name: skype
 zhTips: Skype,Microsoft Skype
 tags: ["brand-logo"]
+search: microsoft-skype
 
 ---
 

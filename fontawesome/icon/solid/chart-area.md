@@ -5,6 +5,7 @@ name: chart-area
 zhTips: 面积图,分析图,区域,图表,图形
 tags: ["business"]
 pre: fas
+search: analytics,area,chart,graph
 
 ---
 

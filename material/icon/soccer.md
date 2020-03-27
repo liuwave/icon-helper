@@ -4,6 +4,7 @@ title: soccer(足球) ICON转svg、png下载
 name: soccer
 zhTips: 足球
 tags: ["sport"]
+search: football
 
 ---
 

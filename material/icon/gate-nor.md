@@ -4,6 +4,7 @@ title: gate nor(逻辑门或逻辑门) ICON转svg、png下载
 name: gate-nor
 zhTips: 逻辑门或逻辑门
 tags: []
+search: logic-gate-nor
 
 ---
 

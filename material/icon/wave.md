@@ -4,6 +4,7 @@ title: wave(波浪) ICON转svg、png下载
 name: wave
 zhTips: 波浪,水
 tags: ["transportation-water"]
+search: water
 
 ---
 

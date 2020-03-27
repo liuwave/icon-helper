@@ -4,6 +4,7 @@ title: math log(好日志) ICON转svg、png下载
 name: math-log
 zhTips: 好日志
 tags: ["math"]
+search: 
 
 ---
 

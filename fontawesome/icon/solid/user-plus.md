@@ -5,6 +5,7 @@ name: user-plus
 zhTips: 用户加,添加,头像,正,注册,团队
 tags: ["social","users-people"]
 pre: fas
+search: add,avatar,positive,sign up,signup,team
 
 ---
 

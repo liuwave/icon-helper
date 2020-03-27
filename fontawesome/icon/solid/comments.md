@@ -5,6 +5,7 @@ name: comments
 zhTips: 评论,泡沫,聊天,对话,反馈,消息,请注意,通知,短信,语音,发短信
 tags: ["chat","communication"]
 pre: fas
+search: bubble,chat,commenting,conversation,feedback,message,note,notification,sms,speech,texting
 
 ---
 

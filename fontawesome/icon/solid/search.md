@@ -5,6 +5,7 @@ name: search
 zhTips: 搜索,更大,放大,查找,预览,缩放
 tags: ["interfaces","maps","objects"]
 pre: fas
+search: bigger,enlarge,find,magnify,preview,zoom
 
 ---
 

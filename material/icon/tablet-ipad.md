@@ -4,6 +4,7 @@ title: tablet ipad(平板电脑ipad) ICON转svg、png下载
 name: tablet-ipad
 zhTips: 平板电脑ipad,平板电脑mac
 tags: ["device-tech"]
+search: tablet-mac
 
 ---
 

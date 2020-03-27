@@ -5,6 +5,7 @@ name: dice-three
 zhTips: 骰子三,机会,赌博,游戏,掷骰子
 tags: ["games","objects"]
 pre: fas
+search: chance,gambling,game,roll
 
 ---
 

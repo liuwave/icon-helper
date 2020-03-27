@@ -4,6 +4,7 @@ title: radiobox marked(标记为单选框) ICON转svg、png下载
 name: radiobox-marked
 zhTips: 标记为单选框,选中单选按钮,记录
 tags: ["form"]
+search: radio-button-checked,record
 
 ---
 

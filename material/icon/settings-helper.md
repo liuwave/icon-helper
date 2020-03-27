@@ -4,6 +4,7 @@ title: settings helper(助手设置) ICON转svg、png下载
 name: settings-helper
 zhTips: 助手设置
 tags: ["settings"]
+search: 
 
 ---
 

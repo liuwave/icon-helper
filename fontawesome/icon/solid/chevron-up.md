@@ -5,6 +5,7 @@ name: chevron-up
 zhTips: V形,箭头,崩溃,上载
 tags: ["arrows"]
 pre: fas
+search: arrow,collapse,upload
 
 ---
 

@@ -5,6 +5,7 @@ name: power-off
 zhTips: 关机,取消,计算机,开机,重新启动
 tags: ["computers","energy","users-people"]
 pre: fas
+search: cancel,computer,on,reboot,restart
 
 ---
 

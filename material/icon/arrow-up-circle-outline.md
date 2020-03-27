@@ -4,6 +4,7 @@ title: arrow up circle outline(向上箭头圆圈轮廓) ICON转svg、png下载
 name: arrow-up-circle-outline
 zhTips: 向上箭头圆圈轮廓,顶部箭头圆圈轮廓
 tags: ["arrow"]
+search: arrow-top-circle-outline
 
 ---
 

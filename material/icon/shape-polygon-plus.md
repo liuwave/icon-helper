@@ -4,6 +4,7 @@ title: shape polygon plus(形状多边形加) ICON转svg、png下载
 name: shape-polygon-plus
 zhTips: 形状多边形加
 tags: ["shape"]
+search: shape-polygon-add
 
 ---
 

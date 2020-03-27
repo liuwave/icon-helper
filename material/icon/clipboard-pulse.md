@@ -4,6 +4,7 @@ title: clipboard pulse(脉冲剪贴板) ICON转svg、png下载
 name: clipboard-pulse
 zhTips: 脉冲剪贴板,剪贴板要点
 tags: ["medical-hospital"]
+search: clipboard-vitals
 
 ---
 

@@ -5,6 +5,7 @@ name: tshirt
 zhTips: T恤衫,服装,时尚,衬衫
 tags: ["clothing","shopping"]
 pre: fas
+search: clothing,fashion,garment,shirt
 
 ---
 

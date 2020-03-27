@@ -4,6 +4,7 @@ title: bag personal off(关闭个人包) ICON转svg、png下载
 name: bag-personal-off
 zhTips: 关闭个人包,关闭背包
 tags: ["transportation-flying"]
+search: backpack-off
 
 ---
 

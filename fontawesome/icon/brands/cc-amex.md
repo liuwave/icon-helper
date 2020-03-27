@@ -5,6 +5,7 @@ name: cc-amex
 zhTips: 美国运通信用卡,美国运通卡
 tags: ["payments-shopping"]
 pre: fab
+search: amex
 
 ---
 

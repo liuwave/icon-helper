@@ -4,6 +4,7 @@ title: thought bubble(思想泡泡) ICON转svg、png下载
 name: thought-bubble
 zhTips: 思想泡泡,漫画泡泡,思考
 tags: []
+search: comic-bubble,thinking
 
 ---
 

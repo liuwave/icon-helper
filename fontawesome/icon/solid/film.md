@@ -5,6 +5,7 @@ name: film
 zhTips: 电影,带,视频
 tags: ["audio-video","images","objects"]
 pre: fas
+search: cinema,movie,strip,video
 
 ---
 

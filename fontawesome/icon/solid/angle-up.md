@@ -5,6 +5,7 @@ name: angle-up
 zhTips: 向上倾斜,箭头,插入符号,崩溃,上载
 tags: ["arrows"]
 pre: fas
+search: arrow,caret,collapse,upload
 
 ---
 

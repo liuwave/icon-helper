@@ -5,6 +5,7 @@ name: step-backward
 zhTips: 后退,开始,第一,上一个,倒带
 tags: ["audio-video"]
 pre: fas
+search: beginning,first,previous,rewind,start
 
 ---
 

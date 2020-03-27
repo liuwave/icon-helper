@@ -4,6 +4,7 @@ title: checkbox multiple marked circle(带圆圈的复选框) ICON转svg、png�
 name: checkbox-multiple-marked-circle
 zhTips: 带圆圈的复选框
 tags: ["form"]
+search: checkboxes-marked-circle
 
 ---
 

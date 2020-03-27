@@ -4,6 +4,7 @@ title: molecule co(分子co) ICON转svg、png下载
 name: molecule-co
 zhTips: 分子co,一氧化碳
 tags: ["home-automation","science"]
+search: carbon-monoxide
 
 ---
 

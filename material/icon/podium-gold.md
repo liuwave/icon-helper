@@ -4,6 +4,7 @@ title: podium gold(登上领奖台的金色) ICON转svg、png下载
 name: podium-gold
 zhTips: 登上领奖台的金色,领奖台优先
 tags: ["sport"]
+search: podium-first
 
 ---
 

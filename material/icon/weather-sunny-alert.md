@@ -4,6 +4,7 @@ title: weather sunny alert(天气警报) ICON转svg、png下载
 name: weather-sunny-alert
 zhTips: 天气警报,热警报,热咨询,太阳咨询
 tags: ["weather","alert-error"]
+search: heat-alert,heat-advisory,sun-advisory
 
 ---
 

@@ -4,6 +4,7 @@ title: check network(检查网络) ICON转svg、png下载
 name: check-network
 zhTips: 检查网络,刻度网络
 tags: []
+search: tick-network
 
 ---
 

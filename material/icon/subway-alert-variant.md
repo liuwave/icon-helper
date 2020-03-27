@@ -4,6 +4,7 @@ title: subway alert variant(地铁警报变形) ICON转svg、png下载
 name: subway-alert-variant
 zhTips: 地铁警报变形
 tags: ["alert-error","transportation-other"]
+search: subway-warning-variant
 
 ---
 

@@ -5,6 +5,7 @@ name: sort-amount-down
 zhTips: 排序减少,排列,过滤器,数量,顺序,排序数量asc
 tags: ["arrows","interfaces"]
 pre: fas
+search: arrange,filter,number,order,sort-amount-asc
 
 ---
 

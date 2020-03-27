@@ -5,6 +5,7 @@ name: file-signature
 zhTips: 文件签名,约翰·汉考克,合同,文件,名称
 tags: ["security"]
 pre: fas
+search: John Hancock,contract,document,name
 
 ---
 

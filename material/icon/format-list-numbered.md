@@ -4,6 +4,7 @@ title: format list numbered(格式编号列表) ICON转svg、png下载
 name: format-list-numbered
 zhTips: 格式编号列表,格式列表编号
 tags: ["text-content-format"]
+search: format-list-numbers
 
 ---
 

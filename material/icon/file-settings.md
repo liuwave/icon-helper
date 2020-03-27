@@ -4,6 +4,7 @@ title: file settings(文件设置) ICON转svg、png下载
 name: file-settings
 zhTips: 文件设置
 tags: ["settings","files-folders"]
+search: 
 
 ---
 

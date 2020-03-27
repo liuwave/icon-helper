@@ -4,6 +4,7 @@ title: washing machine off(洗衣机关闭) ICON转svg、png下载
 name: washing-machine-off
 zhTips: 洗衣机关闭
 tags: ["home-automation"]
+search: 
 
 ---
 

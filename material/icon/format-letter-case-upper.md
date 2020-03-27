@@ -4,6 +4,7 @@ title: format letter case upper(大写字母格式) ICON转svg、png下载
 name: format-letter-case-upper
 zhTips: 大写字母格式,大写格式
 tags: ["text-content-format"]
+search: format-uppercase
 
 ---
 

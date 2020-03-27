@@ -5,6 +5,7 @@ name: kiss-beam
 zhTips: 接吻的笑脸,脸,表情,爱,柔和
 tags: ["emoji"]
 pre: fas
+search: beso,emoticon,face,love,smooch
 
 ---
 

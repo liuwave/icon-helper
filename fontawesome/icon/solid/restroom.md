@@ -5,6 +5,7 @@ name: restroom
 zhTips: 洗手间,浴室,约翰,厕所,便盆,废物
 tags: ["maps","users-people"]
 pre: fas
+search: bathroom,john,loo,potty,washroom,waste,wc
 
 ---
 

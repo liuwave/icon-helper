@@ -5,6 +5,7 @@ name: arrows-alt
 zhTips: 备用箭头,箭头,更大,放大,展开,全屏,移动,位置,重新排序,调整大小
 tags: ["arrows"]
 pre: fas
+search: arrow,arrows,bigger,enlarge,expand,fullscreen,move,position,reorder,resize
 
 ---
 

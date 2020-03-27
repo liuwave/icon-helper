@@ -4,6 +4,7 @@ title: vector square(向量广场) ICON转svg、png下载
 name: vector-square
 zhTips: 向量广场,mdi
 tags: ["vector","geographic-information-system"]
+search: mdi
 
 ---
 

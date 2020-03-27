@@ -4,6 +4,7 @@ title: account music(音乐人) ICON转svg、png下载
 name: account-music
 zhTips: 音乐人,歌手
 tags: ["account-user"]
+search: artist
 
 ---
 

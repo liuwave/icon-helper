@@ -4,6 +4,7 @@ title: dice d8 outline(骰子d8轮廓) ICON转svg、png下载
 name: dice-d8-outline
 zhTips: 骰子d8轮廓,骰子d8
 tags: ["gaming-rpg"]
+search: die-d8
 
 ---
 

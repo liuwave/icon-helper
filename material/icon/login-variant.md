@@ -4,6 +4,7 @@ title: login variant(登录变量) ICON转svg、png下载
 name: login-variant
 zhTips: 登录变量
 tags: []
+search: log-in-variant,sign-in-variant
 
 ---
 

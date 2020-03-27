@@ -4,6 +4,7 @@ title: bullhorn outline(扩音器轮廓) ICON转svg、png下载
 name: bullhorn-outline
 zhTips: 扩音器轮廓,公告轮廓
 tags: []
+search: announcement-outline,megaphone-outline
 
 ---
 

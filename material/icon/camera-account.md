@@ -4,6 +4,7 @@ title: camera account(相机帐户) ICON转svg、png下载
 name: camera-account
 zhTips: 相机帐户,用户相机
 tags: ["account-user","photography"]
+search: camera-user
 
 ---
 

@@ -4,6 +4,7 @@ title: table row plus before(表行加前) ICON转svg、png下载
 name: table-row-plus-before
 zhTips: 表行加前
 tags: ["text-content-format"]
+search: table-row-add-before
 
 ---
 

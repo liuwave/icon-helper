@@ -5,6 +5,7 @@ name: divide
 zhTips: 分度,算术,微积分,除法,数学
 tags: ["mathematics"]
 pre: fas
+search: arithmetic,calculus,division,math
 
 ---
 

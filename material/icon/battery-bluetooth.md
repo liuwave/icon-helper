@@ -4,6 +4,7 @@ title: battery bluetooth(电池蓝牙) ICON转svg、png下载
 name: battery-bluetooth
 zhTips: 电池蓝牙,电池蓝牙100,电池蓝牙已满
 tags: ["battery"]
+search: battery-bluetooth-100,battery-bluetooth-full
 
 ---
 

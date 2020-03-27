@@ -5,6 +5,7 @@ name: address-book
 zhTips: 通讯录,联系人,目录,索引,小黑皮书,rolodex
 tags: ["business","communication","users-people"]
 pre: fas
+search: contact,directory,index,little black book,rolodex
 
 ---
 

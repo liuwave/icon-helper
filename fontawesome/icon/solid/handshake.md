@@ -5,6 +5,7 @@ name: handshake
 zhTips: 握手,协议,问候,会议,伙伴关系
 tags: ["charity","hands","payments-shopping","political"]
 pre: fas
+search: agreement,greeting,meeting,partnership
 
 ---
 

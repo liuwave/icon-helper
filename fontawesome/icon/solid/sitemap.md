@@ -5,6 +5,7 @@ name: sitemap
 zhTips: 站点地图,目录,层次结构,信息系统,组织
 tags: ["business","code","interfaces"]
 pre: fas
+search: directory,hierarchy,ia,information architecture,organization
 
 ---
 

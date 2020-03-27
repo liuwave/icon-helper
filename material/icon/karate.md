@@ -4,6 +4,7 @@ title: karate(空手道) ICON转svg、png下载
 name: karate
 zhTips: 空手道,武术,跆拳道
 tags: ["sport"]
+search: martial-arts,kickboxing
 
 ---
 

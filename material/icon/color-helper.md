@@ -4,6 +4,7 @@ title: color helper(颜色助手) ICON转svg、png下载
 name: color-helper
 zhTips: 颜色助手
 tags: ["text-content-format","color"]
+search: colour-helper
 
 ---
 

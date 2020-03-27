@@ -4,6 +4,7 @@ title: alpha b circle(字母b圈) ICON转svg、png下载
 name: alpha-b-circle
 zhTips: 字母b圈
 tags: ["alpha-numeric"]
+search: alphabet-b-circle,letter-b-circle
 
 ---
 

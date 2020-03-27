@@ -5,6 +5,7 @@ name: utensil-spoon
 zhTips: 餐具勺子,餐具,餐厅,勺子,银器
 tags: ["maps","objects"]
 pre: fas
+search: cutlery,dining,scoop,silverware,spoon
 
 ---
 

@@ -5,6 +5,7 @@ name: search-minus
 zhTips: 搜索减号,缩小号,负号,较小,放大,缩小
 tags: ["interfaces","maps"]
 pre: fas
+search: minify,negative,smaller,zoom,zoom out
 
 ---
 

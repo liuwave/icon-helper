@@ -4,6 +4,7 @@ title: fire(火) ICON转svg、png下载
 name: fire
 zhTips: 火,火焰
 tags: ["home-automation"]
+search: whatshot,flame
 
 ---
 

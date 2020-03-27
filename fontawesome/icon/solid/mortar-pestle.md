@@ -5,6 +5,7 @@ name: mortar-pestle
 zhTips: 砂浆,粉碎,烹饪,研磨,医疗,混合,药学,处方,香料
 tags: ["medical","pharmacy","science"]
 pre: fas
+search: crush,culinary,grind,medical,mix,pharmacy,prescription,spices
 
 ---
 

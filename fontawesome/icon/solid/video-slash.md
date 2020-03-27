@@ -5,6 +5,7 @@ name: video-slash
 zhTips: 视频斜线,添加,创建,电影,新,正,记录,视频
 tags: ["chat","status"]
 pre: fas
+search: add,create,film,new,positive,record,video
 
 ---
 

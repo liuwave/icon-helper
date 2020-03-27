@@ -5,6 +5,7 @@ name: hand-point-up
 zhTips: 手指向上指
 tags: ["arrows","hands"]
 pre: fas
+search: finger,hand-o-up,point
 
 ---
 

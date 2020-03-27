@@ -4,6 +4,7 @@ title: account(帐户) ICON转svg、png下载
 name: account
 zhTips: 帐户,个人,用户
 tags: ["account-user","home-automation"]
+search: person,user
 
 ---
 

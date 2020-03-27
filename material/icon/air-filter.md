@@ -4,6 +4,7 @@ title: air filter(空气过滤器) ICON转svg、png下载
 name: air-filter
 zhTips: 空气过滤器,水过滤器,过滤器
 tags: ["home-automation"]
+search: water-filter,filter
 
 ---
 

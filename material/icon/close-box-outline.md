@@ -4,6 +4,7 @@ title: close box outline(关闭框的轮廓) ICON转svg、png下载
 name: close-box-outline
 zhTips: 关闭框的轮廓
 tags: ["math"]
+search: 
 
 ---
 

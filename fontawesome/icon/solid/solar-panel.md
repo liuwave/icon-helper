@@ -5,6 +5,7 @@ name: solar-panel
 zhTips: 太阳能板,清洁,生态友好,能源,绿色,阳光
 tags: ["energy"]
 pre: fas
+search: clean,eco-friendly,energy,green,sun
 
 ---
 

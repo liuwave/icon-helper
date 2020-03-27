@@ -4,6 +4,7 @@ title: calendar clock(日历时钟) ICON转svg、png下载
 name: calendar-clock
 zhTips: 日历时钟,事件时钟,事件时间,日历时间
 tags: ["date-time"]
+search: event-clock,event-time,calendar-time
 
 ---
 

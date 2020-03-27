@@ -5,6 +5,7 @@ name: users
 zhTips: 用户,朋友,组,人,个人资料,团队
 tags: ["social","users-people"]
 pre: fas
+search: friends,group,people,persons,profiles,team
 
 ---
 

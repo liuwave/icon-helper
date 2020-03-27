@@ -4,6 +4,7 @@ title: wifi strength 2 alert(wifi强度2警报) ICON转svg、png下载
 name: wifi-strength-2-alert
 zhTips: wifi强度2警报,wifi强度2警告
 tags: ["alert-error"]
+search: wifi-strength-2-warning
 
 ---
 

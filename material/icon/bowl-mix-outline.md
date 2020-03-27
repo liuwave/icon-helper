@@ -4,6 +4,7 @@ title: bowl mix outline(搅拌碗轮廓) ICON转svg、png下载
 name: bowl-mix-outline
 zhTips: 搅拌碗轮廓
 tags: ["food-drink"]
+search: mixing-bowl-outline
 
 ---
 

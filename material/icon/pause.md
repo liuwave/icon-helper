@@ -4,6 +4,7 @@ title: pause(暂停) ICON转svg、png下载
 name: pause
 zhTips: 暂停
 tags: ["home-automation"]
+search: 
 
 ---
 

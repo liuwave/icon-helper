@@ -4,6 +4,7 @@ title: emoticon sad outline(表情符号悲伤轮廓) ICON转svg、png下载
 name: emoticon-sad-outline
 zhTips: 表情符号悲伤轮廓,笑脸悲伤轮廓
 tags: ["emoji"]
+search: smiley-sad-outline
 
 ---
 

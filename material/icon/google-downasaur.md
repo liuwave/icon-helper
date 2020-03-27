@@ -4,6 +4,7 @@ title: google downasaur(Google downasaur) ICON转svg、png下载
 name: google-downasaur
 zhTips: Google downasaur,恐龙像素,霸王龙
 tags: ["animal","gaming-rpg"]
+search: dinosaur-pixel,t-rex,tyrannosaurus-rex
 
 ---
 

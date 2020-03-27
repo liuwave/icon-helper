@@ -4,6 +4,7 @@ title: numeric 8 box(数字8框) ICON转svg、png下载
 name: numeric-8-box
 zhTips: 数字8框
 tags: ["alpha-numeric","alpha-numeric"]
+search: numeric-eight-box,number-8-box
 
 ---
 

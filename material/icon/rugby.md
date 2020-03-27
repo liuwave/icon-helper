@@ -4,6 +4,7 @@ title: rugby(橄榄球) ICON转svg、png下载
 name: rugby
 zhTips: 橄榄球
 tags: ["sport"]
+search: rugby-ball
 
 ---
 

@@ -4,6 +4,7 @@ title: battery unknown(电池未知) ICON转svg、png下载
 name: battery-unknown
 zhTips: 电池未知
 tags: ["battery","home-automation"]
+search: 
 
 ---
 

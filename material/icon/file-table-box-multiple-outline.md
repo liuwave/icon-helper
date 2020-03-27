@@ -4,6 +4,7 @@ title: file table box multiple outline(文件表框多个轮廓) ICON转svg、pn
 name: file-table-box-multiple-outline
 zhTips: 文件表框多个轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

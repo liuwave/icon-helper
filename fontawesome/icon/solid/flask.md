@@ -5,6 +5,7 @@ name: flask
 zhTips: 烧瓶,烧杯,实验,实验室,科学
 tags: ["beverage","maps","objects","pharmacy","science"]
 pre: fas
+search: beaker,experimental,labs,science
 
 ---
 

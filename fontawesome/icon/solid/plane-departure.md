@@ -5,6 +5,7 @@ name: plane-departure
 zhTips: 飞机起飞,飞机,离境,目的地,飞行,位置,模式,起飞,旅行
 tags: ["travel"]
 pre: fas
+search: airplane,departing,destination,fly,location,mode,take off,taking off,travel,trip
 
 ---
 

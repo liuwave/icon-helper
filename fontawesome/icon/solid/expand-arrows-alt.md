@@ -5,6 +5,7 @@ name: expand-arrows-alt
 zhTips: Alternate Expand Arrows,alt alt,bigger,enlarge,move,resize
 tags: ["arrows","audio-video"]
 pre: fas
+search: arrows-alt,bigger,enlarge,move,resize
 
 ---
 

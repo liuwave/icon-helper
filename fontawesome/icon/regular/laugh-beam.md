@@ -5,6 +5,7 @@ name: laugh-beam
 zhTips: 笑Beam的眼睛,笑声,表情符号,脸部,快乐,微笑
 tags: ["emoji"]
 pre: far
+search: LOL,emoticon,face,happy,smile
 
 ---
 

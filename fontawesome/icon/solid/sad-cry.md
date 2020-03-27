@@ -5,6 +5,7 @@ name: sad-cry
 zhTips: 哭泣的脸,图释,脸,眼泪
 tags: ["emoji"]
 pre: fas
+search: emoticon,face,tear,tears
 
 ---
 

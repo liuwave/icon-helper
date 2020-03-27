@@ -5,6 +5,7 @@ name: project-diagram
 zhTips: 项目图,图表,图形,网络,性能
 tags: ["business","code"]
 pre: fas
+search: chart,graph,network,pert
 
 ---
 

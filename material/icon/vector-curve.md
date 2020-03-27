@@ -4,6 +4,7 @@ title: vector curve(矢量曲线) ICON转svg、png下载
 name: vector-curve
 zhTips: 矢量曲线,贝塞尔曲线
 tags: ["vector","geographic-information-system"]
+search: bezier
 
 ---
 

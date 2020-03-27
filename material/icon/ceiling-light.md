@@ -4,6 +4,7 @@ title: ceiling light(吸顶灯) ICON转svg、png下载
 name: ceiling-light
 zhTips: 吸顶灯
 tags: ["home-automation"]
+search: ceiling-lamp
 
 ---
 

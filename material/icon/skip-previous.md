@@ -4,6 +4,7 @@ title: skip previous(跳过上一个) ICON转svg、png下载
 name: skip-previous
 zhTips: 跳过上一个
 tags: ["home-automation"]
+search: 
 
 ---
 

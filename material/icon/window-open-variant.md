@@ -4,6 +4,7 @@ title: window open variant(敞开的口音) ICON转svg、png下载
 name: window-open-variant
 zhTips: 敞开的口音
 tags: ["home-automation"]
+search: 
 
 ---
 

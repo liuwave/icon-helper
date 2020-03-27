@@ -5,6 +5,7 @@ name: joint
 zhTips: 关节,钝器,大麻,杜比,毒品,蟑螂,烟,吸烟,杂物
 tags: ["medical","pharmacy"]
 pre: fas
+search: blunt,cannabis,doobie,drugs,marijuana,roach,smoke,smoking,spliff
 
 ---
 

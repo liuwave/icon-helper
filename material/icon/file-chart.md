@@ -4,6 +4,7 @@ title: file chart(文件图) ICON转svg、png下载
 name: file-chart
 zhTips: 文件图,文件报告
 tags: ["files-folders"]
+search: file-report
 
 ---
 

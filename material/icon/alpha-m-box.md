@@ -4,6 +4,7 @@ title: alpha m box(字母m框) ICON转svg、png下载
 name: alpha-m-box
 zhTips: 字母m框
 tags: ["alpha-numeric"]
+search: alphabet-m-box,letter-m-box
 
 ---
 

@@ -4,6 +4,7 @@ title: briefcase check(检查公文包) ICON转svg、png下载
 name: briefcase-check
 zhTips: 检查公文包,公文包打勾
 tags: []
+search: briefcase-tick
 
 ---
 

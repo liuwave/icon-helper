@@ -4,6 +4,7 @@ title: simple icons(简单的图标) ICON转svg、png下载
 name: simple-icons
 zhTips: 简单的图标
 tags: ["brand-logo"]
+search: 
 
 ---
 

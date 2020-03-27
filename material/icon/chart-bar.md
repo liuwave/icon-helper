@@ -4,6 +4,7 @@ title: chart bar(条形图) ICON转svg、png下载
 name: chart-bar
 zhTips: 条形图
 tags: ["math"]
+search: 
 
 ---
 

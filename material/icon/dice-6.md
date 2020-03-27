@@ -4,6 +4,7 @@ title: dice 6(骰子6) ICON转svg、png下载
 name: dice-6
 zhTips: 骰子6
 tags: ["gaming-rpg"]
+search: die-6,dice-six
 
 ---
 

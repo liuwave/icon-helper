@@ -4,6 +4,7 @@ title: format color text(彩色文本格式) ICON转svg、png下载
 name: format-color-text
 zhTips: 彩色文本格式
 tags: ["text-content-format","color"]
+search: format-colour-text
 
 ---
 

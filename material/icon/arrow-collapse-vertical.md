@@ -4,6 +4,7 @@ title: arrow collapse vertical(箭头垂直折叠) ICON转svg、png下载
 name: arrow-collapse-vertical
 zhTips: 箭头垂直折叠,压缩
 tags: ["arrow"]
+search: compress
 
 ---
 

@@ -4,6 +4,7 @@ title: cog off outline(齿轮轮廓不对) ICON转svg、png下载
 name: cog-off-outline
 zhTips: 齿轮轮廓不对,轮廓设置不对
 tags: ["settings"]
+search: settings-off-outline
 
 ---
 

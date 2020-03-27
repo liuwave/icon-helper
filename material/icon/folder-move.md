@@ -4,6 +4,7 @@ title: folder move(文件夹移动) ICON转svg、png下载
 name: folder-move
 zhTips: 文件夹移动
 tags: ["files-folders"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: scale bathroom(浴室秤) ICON转svg、png下载
 name: scale-bathroom
 zhTips: 浴室秤
 tags: ["home-automation","medical-hospital"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: angle-double-down
 zhTips: Angle Double Down,箭头,插入号,下载,展开
 tags: ["arrows"]
 pre: fas
+search: arrows,caret,download,expand
 
 ---
 

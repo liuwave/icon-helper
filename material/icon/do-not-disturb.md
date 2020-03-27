@@ -4,6 +4,7 @@ title: do not disturb(请勿打扰) ICON转svg、png下载
 name: do-not-disturb
 zhTips: 请勿打扰,请勿进入
 tags: []
+search: no-entry
 
 ---
 

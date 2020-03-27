@@ -4,6 +4,7 @@ title: flashlight off(手电筒关闭) ICON转svg、png下载
 name: flashlight-off
 zhTips: 手电筒关闭
 tags: []
+search: torch-off
 
 ---
 

@@ -5,6 +5,7 @@ name: surprise
 zhTips: 安静的脸,图释,脸,震惊
 tags: ["emoji"]
 pre: far
+search: emoticon,face,shocked
 
 ---
 

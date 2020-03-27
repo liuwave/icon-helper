@@ -4,6 +4,7 @@ title: window open(打开窗口) ICON转svg、png下载
 name: window-open
 zhTips: 打开窗口
 tags: ["home-automation"]
+search: 
 
 ---
 

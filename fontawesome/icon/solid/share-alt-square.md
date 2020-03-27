@@ -5,6 +5,7 @@ name: share-alt-square
 zhTips: 备用共享广场,转发,保存,发送,社交
 tags: ["interfaces"]
 pre: fas
+search: forward,save,send,social
 
 ---
 

@@ -4,6 +4,7 @@ title: file delimited outline(文件定界轮廓) ICON转svg、png下载
 name: file-delimited-outline
 zhTips: 文件定界轮廓,文件csv轮廓
 tags: ["files-folders"]
+search: file-csv-outline
 
 ---
 

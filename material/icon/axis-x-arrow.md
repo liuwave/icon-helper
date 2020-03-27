@@ -4,6 +4,7 @@ title: axis x arrow(轴x箭头) ICON转svg、png下载
 name: axis-x-arrow
 zhTips: 轴x箭头
 tags: ["arrow"]
+search: 
 
 ---
 

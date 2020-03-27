@@ -4,6 +4,7 @@ title: engine off(发动机关闭) ICON转svg、png下载
 name: engine-off
 zhTips: 发动机关闭,电动机关闭
 tags: ["automotive"]
+search: motor-off
 
 ---
 

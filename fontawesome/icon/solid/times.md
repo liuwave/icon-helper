@@ -5,6 +5,7 @@ name: times
 zhTips: 时间,关闭,交叉,错误,退出,通知,问题,x
 tags: ["interfaces","mathematics"]
 pre: fas
+search: close,cross,error,exit,incorrect,notice,notification,notify,problem,wrong,x
 
 ---
 

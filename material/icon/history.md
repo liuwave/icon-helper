@@ -4,6 +4,7 @@ title: history(历史记录) ICON转svg、png下载
 name: history
 zhTips: 历史记录,最近,最新,时钟箭头,逆时针,恢复时钟
 tags: []
+search: recent,latest,clock-arrow,counterclockwise,restore-clock
 
 ---
 

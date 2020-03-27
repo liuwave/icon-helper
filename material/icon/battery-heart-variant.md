@@ -4,6 +4,7 @@ title: battery heart variant(电池心音) ICON转svg、png下载
 name: battery-heart-variant
 zhTips: 电池心音
 tags: ["battery"]
+search: 
 
 ---
 

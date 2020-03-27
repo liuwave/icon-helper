@@ -5,6 +5,7 @@ name: laptop-house
 zhTips: Laptop House,计算机,covid 19,设备,办公室,远程,在家工作
 tags: ["business","computers","household"]
 pre: fas
+search: computer,covid-19,device,office,remote,work from home
 
 ---
 

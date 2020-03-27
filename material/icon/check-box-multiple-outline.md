@@ -4,6 +4,7 @@ title: check box multiple outline(复选框多个轮廓) ICON转svg、png下载
 name: check-box-multiple-outline
 zhTips: 复选框多个轮廓,复选框轮廓,勾选框多个轮廓
 tags: []
+search: check-boxes-outline,tick-box-multiple-outline
 
 ---
 

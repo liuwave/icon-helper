@@ -4,6 +4,7 @@ title: currency rub(货币卢布) ICON转svg、png下载
 name: currency-rub
 zhTips: 货币卢布,卢布
 tags: ["currency","banking"]
+search: ruble
 
 ---
 

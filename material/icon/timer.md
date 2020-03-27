@@ -4,6 +4,7 @@ title: timer(计时器) ICON转svg、png下载
 name: timer
 zhTips: 计时器,秒表
 tags: []
+search: stopwatch
 
 ---
 

@@ -5,6 +5,7 @@ name: gamepad
 zhTips: 游戏手柄,街机,控制器,d垫,游戏杆,视频,视频游戏
 tags: ["childhood","games","maps","objects"]
 pre: fas
+search: arcade,controller,d-pad,joystick,video,video game
 
 ---
 

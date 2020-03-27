@@ -5,6 +5,7 @@ name: football-ball
 zhTips: 橄榄球,球,秋天,猪皮,季节性
 tags: ["autumn","sports"]
 pre: fas
+search: ball,fall,nfl,pigskin,seasonal
 
 ---
 

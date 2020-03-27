@@ -4,6 +4,7 @@ title: alpha w box outline(alpha w框轮廓) ICON转svg、png下载
 name: alpha-w-box-outline
 zhTips: alpha w框轮廓,字母w框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-w-box-outline,letter-w-box-outline
 
 ---
 

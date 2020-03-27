@@ -4,6 +4,7 @@ title: home assistant(家庭助理) ICON转svg、png下载
 name: home-assistant
 zhTips: 家庭助理
 tags: ["brand-logo","home-automation"]
+search: 
 
 ---
 

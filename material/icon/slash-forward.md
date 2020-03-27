@@ -4,6 +4,7 @@ title: slash forward(斜线前进) ICON转svg、png下载
 name: slash-forward
 zhTips: 斜线前进,划分
 tags: ["math"]
+search: divide,division
 
 ---
 

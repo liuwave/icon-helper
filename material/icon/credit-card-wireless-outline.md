@@ -4,6 +4,7 @@ title: credit card wireless outline(信用卡无线轮廓) ICON转svg、png下�
 name: credit-card-wireless-outline
 zhTips: 信用卡无线轮廓,信用卡非接触式
 tags: ["currency","banking"]
+search: credit-card-contactless
 
 ---
 

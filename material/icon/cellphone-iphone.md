@@ -4,6 +4,7 @@ title: cellphone iphone(手机iphone) ICON转svg、png下载
 name: cellphone-iphone
 zhTips: 手机iphone,智能手机iphone
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone-iphone,smartphone-iphone
 
 ---
 

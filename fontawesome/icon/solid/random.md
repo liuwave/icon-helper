@@ -5,6 +5,7 @@ name: random
 zhTips: 随机,箭头,排序,交换,开关,转移
 tags: ["arrows","audio-video"]
 pre: fas
+search: arrows,shuffle,sort,swap,switch,transfer
 
 ---
 

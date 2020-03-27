@@ -4,6 +4,7 @@ title: vote(投票) ICON转svg、png下载
 name: vote
 zhTips: 投票,如何投票
 tags: []
+search: how-to-vote
 
 ---
 

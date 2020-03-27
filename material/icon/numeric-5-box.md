@@ -4,6 +4,7 @@ title: numeric 5 box(数字5框) ICON转svg、png下载
 name: numeric-5-box
 zhTips: 数字5框,外观5
 tags: ["alpha-numeric"]
+search: looks-5,numeric-five-box,number-5-box
 
 ---
 

@@ -5,6 +5,7 @@ name: water
 zhTips: 水,湖,液体,海洋,游泳,湿
 tags: ["energy","maritime","summer","weather"]
 pre: fas
+search: lake,liquid,ocean,sea,swim,wet
 
 ---
 

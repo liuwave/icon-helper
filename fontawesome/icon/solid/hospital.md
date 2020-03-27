@@ -5,6 +5,7 @@ name: hospital
 zhTips: 医院,建筑,covid 19,急诊室,医疗中心
 tags: ["buildings","health","maps","medical","objects"]
 pre: fas
+search: building,covid-19,emergency room,medical center
 
 ---
 

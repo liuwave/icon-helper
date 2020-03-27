@@ -4,6 +4,7 @@ title: window shutter open(百叶窗打开) ICON转svg、png下载
 name: window-shutter-open
 zhTips: 百叶窗打开
 tags: ["home-automation"]
+search: 
 
 ---
 

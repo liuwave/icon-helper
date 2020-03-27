@@ -4,6 +4,7 @@ title: numeric 2 box outline(数字2框轮廓) ICON转svg、png下载
 name: numeric-2-box-outline
 zhTips: 数字2框轮廓
 tags: ["alpha-numeric"]
+search: numeric-two-box-outline,number-2-box-outline
 
 ---
 

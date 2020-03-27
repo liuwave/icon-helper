@@ -4,6 +4,7 @@ title: currency kzt(货币哈萨克斯坦坚戈) ICON转svg、png下载
 name: currency-kzt
 zhTips: 货币哈萨克斯坦坚戈
 tags: ["banking","currency"]
+search: kazakhstani-tenge
 
 ---
 

@@ -4,6 +4,7 @@ title: pound box(磅盒) ICON转svg、png下载
 name: pound-box
 zhTips: 磅盒,标签盒
 tags: []
+search: hashtag-box
 
 ---
 

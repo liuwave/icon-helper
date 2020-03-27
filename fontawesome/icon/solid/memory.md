@@ -5,6 +5,7 @@ name: memory
 zhTips: 内存,DIMM,RAM,硬件,存储,技术
 tags: ["computers","objects"]
 pre: fas
+search: DIMM,RAM,hardware,storage,technology
 
 ---
 

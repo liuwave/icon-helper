@@ -4,6 +4,7 @@ title: crosshairs(十字准线) ICON转svg、png下载
 name: crosshairs
 zhTips: 十字准线,GPS不固定,搜索位置
 tags: ["geographic-information-system"]
+search: gps-not-fixed,location-searching
 
 ---
 

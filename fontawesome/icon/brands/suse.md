@@ -5,6 +5,7 @@ name: suse
 zhTips: Suse,Linux,操作系统
 tags: []
 pre: fab
+search: linux,operating system,os
 
 ---
 

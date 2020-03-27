@@ -4,6 +4,7 @@ title: calendar search(日历搜索) ICON转svg、png下载
 name: calendar-search
 zhTips: 日历搜索,事件搜索
 tags: ["date-time"]
+search: event-search
 
 ---
 

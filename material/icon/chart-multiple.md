@@ -4,6 +4,7 @@ title: chart multiple(图表的倍数) ICON转svg、png下载
 name: chart-multiple
 zhTips: 图表的倍数
 tags: ["math"]
+search: 
 
 ---
 

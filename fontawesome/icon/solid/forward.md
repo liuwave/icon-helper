@@ -5,6 +5,7 @@ name: forward
 zhTips: 转发,下一个,跳过
 tags: ["audio-video"]
 pre: fas
+search: forward,next,skip
 
 ---
 

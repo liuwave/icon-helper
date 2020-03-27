@@ -5,6 +5,7 @@ name: boxes
 zhTips: 箱子,档案,库存,存储,仓库
 tags: ["logistics"]
 pre: fas
+search: archives,inventory,storage,warehouse
 
 ---
 

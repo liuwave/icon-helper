@@ -4,6 +4,7 @@ title: battery 70(电池70) ICON转svg、png下载
 name: battery-70
 zhTips: 电池70
 tags: ["battery","home-automation","automotive"]
+search: 
 
 ---
 

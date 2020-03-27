@@ -5,6 +5,7 @@ name: industry
 zhTips: 工业,建筑,工厂,制造,磨房,仓库
 tags: ["buildings","business","energy","maps","objects"]
 pre: fas
+search: building,factory,industrial,manufacturing,mill,warehouse
 
 ---
 

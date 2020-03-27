@@ -5,6 +5,7 @@ name: theater-masks
 zhTips: 剧院面具,喜剧,表演,剧院,悲剧
 tags: ["education"]
 pre: fas
+search: comedy,perform,theatre,tragedy
 
 ---
 

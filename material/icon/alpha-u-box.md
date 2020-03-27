@@ -4,6 +4,7 @@ title: alpha u box(字母u框) ICON转svg、png下载
 name: alpha-u-box
 zhTips: 字母u框
 tags: ["alpha-numeric"]
+search: alphabet-u-box,letter-u-box
 
 ---
 

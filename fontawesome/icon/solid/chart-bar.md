@@ -5,6 +5,7 @@ name: chart-bar
 zhTips: 条形图,分析,图
 tags: ["business"]
 pre: fas
+search: analytics,bar,chart,graph
 
 ---
 

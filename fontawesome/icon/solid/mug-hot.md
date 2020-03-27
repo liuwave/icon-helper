@@ -5,6 +5,7 @@ name: mug-hot
 zhTips: 马克杯热,卡伦特,可可,咖啡,杯子,饮料,假日,热巧克力,蒸汽,茶,温暖
 tags: ["beverage","holiday","objects"]
 pre: fas
+search: caliente,cocoa,coffee,cup,drink,holiday,hot chocolate,steam,tea,warmth
 
 ---
 

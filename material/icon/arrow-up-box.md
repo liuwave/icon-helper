@@ -4,6 +4,7 @@ title: arrow up box(向上箭头框) ICON转svg、png下载
 name: arrow-up-box
 zhTips: 向上箭头框
 tags: ["arrow"]
+search: 
 
 ---
 

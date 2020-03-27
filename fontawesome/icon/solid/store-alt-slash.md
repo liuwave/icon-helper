@@ -5,6 +5,7 @@ name: store-alt-slash
 zhTips: 备用商店大幅削减,建筑,购买,关闭,covid 19,购物
 tags: ["shopping"]
 pre: fas
+search: building,buy,closed,covid-19,purchase,shopping
 
 ---
 

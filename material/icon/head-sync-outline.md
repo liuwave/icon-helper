@@ -4,6 +4,7 @@ title: head sync outline(磁头同步轮廓) ICON转svg、png下载
 name: head-sync-outline
 zhTips: 磁头同步轮廓,磁头重新加载轮廓,磁头刷新轮廓
 tags: []
+search: head-reload-outline,head-refresh-outline
 
 ---
 

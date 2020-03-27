@@ -4,6 +4,7 @@ title: card account details outline(卡帐户详细信息轮廓) ICON转svg、pn
 name: card-account-details-outline
 zhTips: 卡帐户详细信息轮廓,识别卡概述,用户卡概述轮廓,人卡详细说明轮廓,驾驶执照轮廓,名片轮廓
 tags: ["account-user"]
+search: identification-card-outline,user-card-details-outline,id-card-outline,person-card-details-outline,drivers-license-outline,business-card-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: call merge(呼叫合并) ICON转svg、png下载
 name: call-merge
 zhTips: 呼叫合并,合并类型
 tags: ["cellphone-phone","arrow"]
+search: merge-type
 
 ---
 

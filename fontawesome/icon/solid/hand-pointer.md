@@ -5,6 +5,7 @@ name: hand-pointer
 zhTips: 指针（手）,箭头,光标,选择
 tags: ["arrows","hands"]
 pre: fas
+search: arrow,cursor,select
 
 ---
 

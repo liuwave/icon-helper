@@ -4,6 +4,7 @@ title: bluetooth off(蓝牙关闭) ICON转svg、png下载
 name: bluetooth-off
 zhTips: 蓝牙关闭,蓝牙已禁用
 tags: []
+search: bluetooth-disabled
 
 ---
 

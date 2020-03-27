@@ -4,6 +4,7 @@ title: numeric 7(数字7) ICON转svg、png下载
 name: numeric-7
 zhTips: 数字7
 tags: ["alpha-numeric"]
+search: number-7,numeric-seven
 
 ---
 

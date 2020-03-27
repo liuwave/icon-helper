@@ -4,6 +4,7 @@ title: alpha s(alpha s) ICON转svg、png下载
 name: alpha-s
 zhTips: alpha s,字母s
 tags: ["alpha-numeric"]
+search: alphabet-s,letter-s
 
 ---
 

@@ -4,6 +4,7 @@ title: checkbox blank outline(复选框空白轮廓) ICON转svg、png下载
 name: checkbox-blank-outline
 zhTips: 复选框空白轮廓
 tags: ["form"]
+search: check-box-outline-blank
 
 ---
 

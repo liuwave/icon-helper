@@ -4,6 +4,7 @@ title: language typescript(语言打字稿) ICON转svg、png下载
 name: language-typescript
 zhTips: 语言打字稿
 tags: ["developer-languages"]
+search: 
 
 ---
 

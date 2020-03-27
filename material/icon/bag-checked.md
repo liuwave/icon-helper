@@ -4,6 +4,7 @@ title: bag checked(托运行李) ICON转svg、png下载
 name: bag-checked
 zhTips: 托运行李,行李
 tags: ["transportation-flying"]
+search: luggage
 
 ---
 

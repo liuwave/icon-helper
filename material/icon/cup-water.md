@@ -4,6 +4,7 @@ title: cup water(杯水) ICON转svg、png下载
 name: cup-water
 zhTips: 杯水,本地饮料
 tags: ["food-drink"]
+search: local-drink
 
 ---
 

@@ -4,6 +4,7 @@ title: numeric 1 circle(数字1圈) ICON转svg、png下载
 name: numeric-1-circle
 zhTips: 数字1圈
 tags: ["alpha-numeric"]
+search: numeric-one-circle,number-1-circle,number-one-circle
 
 ---
 

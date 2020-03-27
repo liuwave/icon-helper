@@ -4,6 +4,7 @@ title: chart bar stacked(堆积条形图) ICON转svg、png下载
 name: chart-bar-stacked
 zhTips: 堆积条形图
 tags: ["math"]
+search: 
 
 ---
 

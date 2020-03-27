@@ -4,6 +4,7 @@ title: furigana vertical(furigana垂直) ICON转svg、png下载
 name: furigana-vertical
 zhTips: furigana垂直,注音,红宝石垂直
 tags: ["text-content-format"]
+search: zhuyin,ruby-vertical
 
 ---
 

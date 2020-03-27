@@ -5,6 +5,7 @@ name: comment-dots
 zhTips: 评论点,泡沫,聊天,评论,对话,反馈,消息,更多,请注意,通知,回复,短信,语音,发短信
 tags: ["chat"]
 pre: fas
+search: bubble,chat,commenting,conversation,feedback,message,more,note,notification,reply,sms,speech,texting
 
 ---
 

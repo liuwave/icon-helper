@@ -4,6 +4,7 @@ title: billiards rack(台球架) ICON转svg、png下载
 name: billiards-rack
 zhTips: 台球架,台球桌,斯诺克台球架,三角台球,台球三角,斯诺克三角
 tags: ["sport"]
+search: pool-table,pool-rack,snooker-rack,pool-triangle,billiards-triangle,snooker-triangle
 
 ---
 

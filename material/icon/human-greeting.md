@@ -4,6 +4,7 @@ title: human greeting(人类的问候) ICON转svg、png下载
 name: human-greeting
 zhTips: 人类的问候
 tags: ["people-family"]
+search: 
 
 ---
 

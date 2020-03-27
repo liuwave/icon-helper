@@ -4,6 +4,7 @@ title: chess knight(国际象棋骑士) ICON转svg、png下载
 name: chess-knight
 zhTips: 国际象棋骑士,国际象棋马
 tags: ["gaming-rpg"]
+search: chess-horse
 
 ---
 

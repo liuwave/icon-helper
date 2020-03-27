@@ -4,6 +4,7 @@ title: restore(恢复) ICON转svg、png下载
 name: restore
 zhTips: 恢复,循环
 tags: []
+search: loop
 
 ---
 

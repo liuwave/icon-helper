@@ -4,6 +4,7 @@ title: radioactive(放射性) ICON转svg、png下载
 name: radioactive
 zhTips: 放射性,辐射
 tags: ["science"]
+search: radiation
 
 ---
 

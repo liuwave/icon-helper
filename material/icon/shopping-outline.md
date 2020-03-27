@@ -4,6 +4,7 @@ title: shopping outline(购物轮廓) ICON转svg、png下载
 name: shopping-outline
 zhTips: 购物轮廓,当地购物中心轮廓,市场轮廓
 tags: ["shopping"]
+search: local-mall-outline,marketplace-outline
 
 ---
 

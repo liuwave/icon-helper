@@ -4,6 +4,7 @@ title: account minus(帐户减号) ICON转svg、png下载
 name: account-minus
 zhTips: 帐户减号,用户减号,人减号
 tags: ["account-user"]
+search: user-minus,person-minus
 
 ---
 

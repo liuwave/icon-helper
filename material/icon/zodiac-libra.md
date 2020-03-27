@@ -4,6 +4,7 @@ title: zodiac libra(黄道带天秤座) ICON转svg、png下载
 name: zodiac-libra
 zhTips: 黄道带天秤座,星座天秤座
 tags: []
+search: horoscope-libra
 
 ---
 

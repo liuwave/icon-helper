@@ -5,6 +5,7 @@ name: info
 zhTips: 信息,详细信息,帮助,更多,支持
 tags: ["interfaces","maps","status"]
 pre: fas
+search: details,help,information,more,support
 
 ---
 

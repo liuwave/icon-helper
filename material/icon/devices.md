@@ -4,6 +4,7 @@ title: devices(设备) ICON转svg、png下载
 name: devices
 zhTips: 设备,监视器,手表,智能手表,智能手机,手机,电视
 tags: ["device-tech"]
+search: monitor,watch,smartwatch,smartphone,cellphone,television
 
 ---
 

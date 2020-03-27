@@ -5,6 +5,7 @@ name: campground
 zhTips: 露营地,露营,秋天,户外,帐篷
 tags: ["autumn","buildings","camping"]
 pre: fas
+search: camping,fall,outdoors,teepee,tent,tipi
 
 ---
 

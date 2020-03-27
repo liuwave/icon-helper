@@ -4,6 +4,7 @@ title: file table box(文件表框) ICON转svg、png下载
 name: file-table-box
 zhTips: 文件表框
 tags: ["files-folders"]
+search: 
 
 ---
 

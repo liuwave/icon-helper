@@ -4,6 +4,7 @@ title: resize bottom right(调整右下角的大小) ICON转svg、png下载
 name: resize-bottom-right
 zhTips: 调整右下角的大小,拖动
 tags: []
+search: drag
 
 ---
 

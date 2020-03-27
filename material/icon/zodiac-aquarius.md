@@ -4,6 +4,7 @@ title: zodiac aquarius(水瓶座星座) ICON转svg、png下载
 name: zodiac-aquarius
 zhTips: 水瓶座星座
 tags: []
+search: horoscope-aquarius
 
 ---
 

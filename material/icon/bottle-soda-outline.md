@@ -4,6 +4,7 @@ title: bottle soda outline(瓶汽水轮廓) ICON转svg、png下载
 name: bottle-soda-outline
 zhTips: 瓶汽水轮廓,瓶可乐轮廓,瓶弹出轮廓
 tags: ["food-drink"]
+search: bottle-coke-outline,bottle-pop-outline
 
 ---
 

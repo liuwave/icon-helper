@@ -4,6 +4,7 @@ title: file table box outline(文件表框概述) ICON转svg、png下载
 name: file-table-box-outline
 zhTips: 文件表框概述
 tags: ["files-folders"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: shield-virus
 zhTips: Shield Virus,抗体,屏障,covid 19,健康,保护
 tags: ["medical"]
 pre: fas
+search: antibodies,barrier,covid-19,health,protect
 
 ---
 

@@ -5,6 +5,7 @@ name: toggle-off
 zhTips: 切换关闭,切换
 tags: ["interfaces","status","toggle"]
 pre: fas
+search: switch
 
 ---
 

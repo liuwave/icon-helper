@@ -4,6 +4,7 @@ title: delete sweep(删除扫描) ICON转svg、png下载
 name: delete-sweep
 zhTips: 删除扫描
 tags: []
+search: 
 
 ---
 

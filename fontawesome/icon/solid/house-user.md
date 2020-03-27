@@ -5,6 +5,7 @@ name: house-user
 zhTips: 家庭用户,covid 19,家庭,隔离
 tags: ["household"]
 pre: fas
+search: covid-19,home,isolation,quarantine
 
 ---
 

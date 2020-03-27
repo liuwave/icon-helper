@@ -5,6 +5,7 @@ name: bus-alt
 zhTips: Bus Alt,mta,公共交通,运输,旅行,车辆
 tags: ["automotive","travel","vehicles"]
 pre: fas
+search: mta,public transportation,transportation,travel,vehicle
 
 ---
 

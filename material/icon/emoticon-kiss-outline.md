@@ -4,6 +4,7 @@ title: emoticon kiss outline(表情吻轮廓) ICON转svg、png下载
 name: emoticon-kiss-outline
 zhTips: 表情吻轮廓,笑脸吻轮廓
 tags: ["emoji"]
+search: smiley-kiss-outline
 
 ---
 

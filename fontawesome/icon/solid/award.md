@@ -5,6 +5,7 @@ name: award
 zhTips: 奖项,荣誉,称赞,奖赏,认可,丝带,奖杯
 tags: ["education","interfaces","objects","political"]
 pre: fas
+search: honor,praise,prize,recognition,ribbon,trophy
 
 ---
 

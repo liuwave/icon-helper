@@ -4,6 +4,7 @@ title: weather hurricane(天气飓风) ICON转svg、png下载
 name: weather-hurricane
 zhTips: 天气飓风
 tags: ["weather"]
+search: 
 
 ---
 

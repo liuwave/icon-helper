@@ -4,6 +4,7 @@ title: flash outline(闪光灯轮廓) ICON转svg、png下载
 name: flash-outline
 zhTips: 闪光灯轮廓,闪电轮廓
 tags: ["weather"]
+search: lightning-bolt-outline
 
 ---
 

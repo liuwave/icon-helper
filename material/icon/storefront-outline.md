@@ -4,6 +4,7 @@ title: storefront outline(店面轮廓) ICON转svg、png下载
 name: storefront-outline
 zhTips: 店面轮廓,遮阳篷
 tags: ["shopping"]
+search: awning
 
 ---
 

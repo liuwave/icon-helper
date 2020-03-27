@@ -4,6 +4,7 @@ title: file powerpoint box(文件PowerPoint框) ICON转svg、png下载
 name: file-powerpoint-box
 zhTips: 文件PowerPoint框
 tags: ["files-folders"]
+search: 
 
 ---
 

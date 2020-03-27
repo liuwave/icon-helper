@@ -5,6 +5,7 @@ name: arrow-alt-circle-right
 zhTips: 交替箭头右转,箭头右转,向前,下一个
 tags: ["arrows"]
 pre: fas
+search: arrow-circle-o-right,forward,next
 
 ---
 

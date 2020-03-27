@@ -4,6 +4,7 @@ title: home account(家庭帐户) ICON转svg、png下载
 name: home-account
 zhTips: 家庭帐户,家庭用户
 tags: ["account-user","home-automation"]
+search: home-user
 
 ---
 

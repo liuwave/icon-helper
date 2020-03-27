@@ -4,6 +4,7 @@ title: microsoft visual studio code(Microsoft Visual Studio代码) ICON转svg、
 name: microsoft-visual-studio-code
 zhTips: Microsoft Visual Studio代码,VS代码
 tags: []
+search: vs-code
 
 ---
 

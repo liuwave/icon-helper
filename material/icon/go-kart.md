@@ -4,6 +4,7 @@ title: go kart(对卡丁车) ICON转svg、png下载
 name: go-kart
 zhTips: 对卡丁车,购物车
 tags: ["sport"]
+search: cart
 
 ---
 

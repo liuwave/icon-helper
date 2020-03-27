@@ -4,6 +4,7 @@ title: emoticon neutral outline(表情中性轮廓) ICON转svg、png下载
 name: emoticon-neutral-outline
 zhTips: 表情中性轮廓,笑脸中性轮廓
 tags: ["emoji"]
+search: smiley-neutral-outline
 
 ---
 

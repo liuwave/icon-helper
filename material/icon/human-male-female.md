@@ -4,6 +4,7 @@ title: human male female(人类男性) ICON转svg、png下载
 name: human-male-female
 zhTips: 人类男性,女性,男人,女人
 tags: ["people-family"]
+search: wc,man-woman
 
 ---
 

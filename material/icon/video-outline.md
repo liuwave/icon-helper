@@ -4,6 +4,7 @@ title: video outline(视频轮廓) ICON转svg、png下载
 name: video-outline
 zhTips: 视频轮廓,摄像机轮廓
 tags: ["video-movie"]
+search: videocam-outline
 
 ---
 

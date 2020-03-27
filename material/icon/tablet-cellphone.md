@@ -4,6 +4,7 @@ title: tablet cellphone(平板电脑手机) ICON转svg、png下载
 name: tablet-cellphone
 zhTips: 平板电脑手机,移动设备,平板电脑智能手机
 tags: ["cellphone-phone","device-tech"]
+search: mobile-devices,tablet-mobile-phone,tablet-smartphone
 
 ---
 

@@ -4,6 +4,7 @@ title: television classic off(电视经典关闭) ICON转svg、png下载
 name: television-classic-off
 zhTips: 电视经典关闭
 tags: ["device-tech","home-automation"]
+search: tv-classic-off
 
 ---
 

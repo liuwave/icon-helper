@@ -4,6 +4,7 @@ title: account multiple remove outline(多个帐户删除轮廓) ICON转svg、pn
 name: account-multiple-remove-outline
 zhTips: 多个帐户删除轮廓,多个用户删除轮廓
 tags: ["account-user"]
+search: user-multiple-remove-outline,person-multiple-remove-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: eye off(眼睛) ICON转svg、png下载
 name: eye-off
 zhTips: 眼睛,隐藏,可见度关闭
 tags: []
+search: hide,visibility-off
 
 ---
 

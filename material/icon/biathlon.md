@@ -4,6 +4,7 @@ title: biathlon(冬季两项) ICON转svg、png下载
 name: biathlon
 zhTips: 冬季两项
 tags: ["sport"]
+search: 
 
 ---
 

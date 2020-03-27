@@ -5,6 +5,7 @@ name: star-half
 zhTips: 星级一半,成就,奖项,评分,星级一半空,星级一半满
 tags: ["interfaces","status","toggle"]
 pre: far
+search: achievement,award,rating,score,star-half-empty,star-half-full
 
 ---
 

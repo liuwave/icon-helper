@@ -5,6 +5,7 @@ name: robot
 zhTips: 机器人,android,自动化,计算机,半机械人
 tags: ["childhood","science-fiction"]
 pre: fas
+search: android,automate,computer,cyborg
 
 ---
 

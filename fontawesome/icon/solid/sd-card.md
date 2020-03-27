@@ -5,6 +5,7 @@ name: sd-card
 zhTips: SD卡,图像,内存,照片,保存
 tags: ["computers","objects"]
 pre: fas
+search: image,memory,photo,save
 
 ---
 

@@ -5,6 +5,7 @@ name: dizzy
 zhTips: 头昏眼花,晕眩,死亡,不赞成,表情符号,脸部
 tags: ["emoji"]
 pre: far
+search: dazed,dead,disapprove,emoticon,face
 
 ---
 

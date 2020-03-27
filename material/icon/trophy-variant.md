@@ -4,6 +4,7 @@ title: trophy variant(奖杯变体) ICON转svg、png下载
 name: trophy-variant
 zhTips: 奖杯变体,成就重音
 tags: ["sport"]
+search: achievement-variant
 
 ---
 

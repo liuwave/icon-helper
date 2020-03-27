@@ -4,6 +4,7 @@ title: alpha x box(字母x框) ICON转svg、png下载
 name: alpha-x-box
 zhTips: 字母x框
 tags: ["alpha-numeric"]
+search: alphabet-x-box,letter-x-box
 
 ---
 

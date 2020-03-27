@@ -4,6 +4,7 @@ title: cricket(板球) ICON转svg、png下载
 name: cricket
 zhTips: 板球,板球拍
 tags: ["sport"]
+search: cricket-bat
 
 ---
 

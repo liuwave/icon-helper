@@ -4,6 +4,7 @@ title: relative scale(相对比例) ICON转svg、png下载
 name: relative-scale
 zhTips: 相对比例,图像长宽比
 tags: []
+search: image-aspect-ratio
 
 ---
 

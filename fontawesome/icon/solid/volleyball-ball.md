@@ -5,6 +5,7 @@ name: volleyball-ball
 zhTips: 排球,沙滩,奥运会,体育
 tags: ["sports","summer"]
 pre: fas
+search: beach,olympics,sport
 
 ---
 

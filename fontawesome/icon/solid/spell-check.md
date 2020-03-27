@@ -5,6 +5,7 @@ name: spell-check
 zhTips: 拼写检查,字典,编辑,编辑器,语法,文本
 tags: ["editors"]
 pre: fas
+search: dictionary,edit,editor,grammar,text
 
 ---
 

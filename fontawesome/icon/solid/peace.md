@@ -5,6 +5,7 @@ name: peace
 zhTips: 和平,宁静,休战,战争
 tags: ["religion"]
 pre: fas
+search: serenity,tranquility,truce,war
 
 ---
 

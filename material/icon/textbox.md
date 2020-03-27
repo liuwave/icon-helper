@@ -4,6 +4,7 @@ title: textbox(文本框) ICON转svg、png下载
 name: textbox
 zhTips: 文本框,重命名
 tags: ["form"]
+search: rename
 
 ---
 

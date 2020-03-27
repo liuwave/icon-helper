@@ -5,6 +5,7 @@ name: facebook-f
 zhTips: Facebook F,facebook
 tags: []
 pre: fab
+search: facebook
 
 ---
 

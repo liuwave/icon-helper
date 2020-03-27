@@ -4,6 +4,7 @@ title: numeric 2 circle(数字2圈) ICON转svg、png下载
 name: numeric-2-circle
 zhTips: 数字2圈
 tags: ["alpha-numeric"]
+search: numeric-two-circle,number-2-circle,number-two-circle
 
 ---
 

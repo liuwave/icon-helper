@@ -4,6 +4,7 @@ title: stadium variant(体育馆变体) ICON转svg、png下载
 name: stadium-variant
 zhTips: 体育馆变体,竞技场
 tags: ["places","sport"]
+search: arena
 
 ---
 

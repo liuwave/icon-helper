@@ -4,6 +4,7 @@ title: gesture double tap(双击手势) ICON转svg、png下载
 name: gesture-double-tap
 zhTips: 双击手势,双击交互,双击手
 tags: []
+search: interaction-double-tap,hand-double-tap
 
 ---
 

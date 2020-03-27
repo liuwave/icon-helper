@@ -5,6 +5,7 @@ name: user-tie
 zhTips: 用户领带,头像,业务,服装,正式,专业,西装
 tags: ["clothing","users-people"]
 pre: fas
+search: avatar,business,clothing,formal,professional,suit
 
 ---
 

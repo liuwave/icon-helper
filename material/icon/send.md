@@ -4,6 +4,7 @@ title: send(发送) ICON转svg、png下载
 name: send
 zhTips: 发送,纸飞机
 tags: []
+search: paper-airplane
 
 ---
 

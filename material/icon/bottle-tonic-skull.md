@@ -4,6 +4,7 @@ title: bottle tonic skull(瓶补品头骨) ICON转svg、png下载
 name: bottle-tonic-skull
 zhTips: 瓶补品头骨,毒药,月光
 tags: ["gaming-rpg"]
+search: poison,moonshine
 
 ---
 

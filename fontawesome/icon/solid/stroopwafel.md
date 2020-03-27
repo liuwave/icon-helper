@@ -5,6 +5,7 @@ name: stroopwafel
 zhTips: Stroopwafel,焦糖,饼干,甜点,甜食,华夫饼干
 tags: ["food","objects","spinners"]
 pre: fas
+search: caramel,cookie,dessert,sweets,waffle
 
 ---
 

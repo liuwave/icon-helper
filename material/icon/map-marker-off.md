@@ -4,6 +4,7 @@ title: map marker off(关闭地图标记) ICON转svg、png下载
 name: map-marker-off
 zhTips: 关闭地图标记,关闭位置
 tags: ["navigation","geographic-information-system"]
+search: location-off
 
 ---
 

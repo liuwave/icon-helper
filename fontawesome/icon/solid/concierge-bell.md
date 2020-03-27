@@ -5,6 +5,7 @@ name: concierge-bell
 zhTips: 礼宾贝尔,注意,酒店,接待员,服务,支持
 tags: ["hotel","travel"]
 pre: fas
+search: attention,hotel,receptionist,service,support
 
 ---
 

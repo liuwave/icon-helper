@@ -5,6 +5,7 @@ name: paint-brush
 zhTips: 画笔,丙烯酸,艺术,颜色,填充,油漆,颜料,水彩
 tags: ["design","objects"]
 pre: fas
+search: acrylic,art,brush,color,fill,paint,pigment,watercolor
 
 ---
 

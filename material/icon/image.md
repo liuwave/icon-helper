@@ -4,6 +4,7 @@ title: image(图片) ICON转svg、png下载
 name: image
 zhTips: 图片,插入照片
 tags: []
+search: insert-photo
 
 ---
 

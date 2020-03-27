@@ -5,6 +5,7 @@ name: dice-d20
 zhTips: Dice D20,Dungeons＆Dragons,机会,d＆d,dnd,幻想,赌博,游戏,卷
 tags: ["games","gaming-tabletop","objects"]
 pre: fas
+search: Dungeons & Dragons,chance,d&d,dnd,fantasy,gambling,game,roll
 
 ---
 

@@ -5,6 +5,7 @@ name: portrait
 zhTips: 肖像,id,图像,照片,图片,自拍照
 tags: ["images","users-people"]
 pre: fas
+search: id,image,photo,picture,selfie
 
 ---
 

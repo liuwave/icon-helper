@@ -4,6 +4,7 @@ title: rename box(重命名框) ICON转svg、png下载
 name: rename-box
 zhTips: 重命名框
 tags: []
+search: 
 
 ---
 

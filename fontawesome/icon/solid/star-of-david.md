@@ -5,6 +5,7 @@ name: star-of-david
 zhTips: 大卫之星,犹太人,犹太教,宗教
 tags: ["religion"]
 pre: fas
+search: jewish,judaism,religion
 
 ---
 

@@ -5,6 +5,7 @@ name: cannabis
 zhTips: 大麻,芽,慢性,药物,内分泌,内藤,甘加,玛丽·简,锅,冷藏箱,苜蓿,杂草,古怪的塔巴基
 tags: ["medical","pharmacy"]
 pre: fas
+search: bud,chronic,drugs,endica,endo,ganja,marijuana,mary jane,pot,reefer,sativa,spliff,weed,whacky-tabacky
 
 ---
 

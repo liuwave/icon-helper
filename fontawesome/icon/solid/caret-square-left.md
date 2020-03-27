@@ -5,6 +5,7 @@ name: caret-square-left
 zhTips: Caret Square Left,箭头,后退,Caret square o left,上一个,三角形
 tags: ["arrows"]
 pre: fas
+search: arrow,back,caret-square-o-left,previous,triangle
 
 ---
 

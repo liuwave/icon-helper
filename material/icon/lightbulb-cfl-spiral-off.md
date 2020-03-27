@@ -4,6 +4,7 @@ title: lightbulb cfl spiral off(灯泡关闭) ICON转svg、png下载
 name: lightbulb-cfl-spiral-off
 zhTips: 灯泡关闭
 tags: ["home-automation"]
+search: bulb-cfl-spiral-off
 
 ---
 

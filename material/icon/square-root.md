@@ -4,6 +4,7 @@ title: square root(平方根) ICON转svg、png下载
 name: square-root
 zhTips: 平方根
 tags: ["math"]
+search: 
 
 ---
 

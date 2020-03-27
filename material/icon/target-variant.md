@@ -4,6 +4,7 @@ title: target variant(目标变体) ICON转svg、png下载
 name: target-variant
 zhTips: 目标变体,注册标记
 tags: []
+search: registration-mark
 
 ---
 

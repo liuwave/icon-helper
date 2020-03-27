@@ -5,6 +5,7 @@ name: arrows-alt-h
 zhTips: 水平交替箭头,h箭头,展开,水平,横向,调整大小,宽
 tags: ["arrows"]
 pre: fas
+search: arrows-h,expand,horizontal,landscape,resize,wide
 
 ---
 

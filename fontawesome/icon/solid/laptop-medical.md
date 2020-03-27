@@ -5,6 +5,7 @@ name: laptop-medical
 zhTips: 便携式医疗,计算机,设备,电子病历,历史记录
 tags: ["medical","pharmacy"]
 pre: fas
+search: computer,device,ehr,electronic health records,history
 
 ---
 

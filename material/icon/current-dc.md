@@ -4,6 +4,7 @@ title: current dc(直流电流) ICON转svg、png下载
 name: current-dc
 zhTips: 直流电流,直流
 tags: []
+search: direct-current
 
 ---
 

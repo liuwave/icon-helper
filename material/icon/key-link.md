@@ -4,6 +4,7 @@ title: key link(链接键) ICON转svg、png下载
 name: key-link
 zhTips: 链接键,外键,sql外键
 tags: []
+search: foreign-key,sql-foreign-key
 
 ---
 

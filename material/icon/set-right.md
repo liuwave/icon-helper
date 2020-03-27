@@ -4,6 +4,7 @@ title: set right(设置权) ICON转svg、png下载
 name: set-right
 zhTips: 设置权,差价权
 tags: []
+search: difference-right
 
 ---
 

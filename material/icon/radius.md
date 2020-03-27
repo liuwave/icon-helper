@@ -4,6 +4,7 @@ title: radius(半径) ICON转svg、png下载
 name: radius
 zhTips: 半径,圆半径,球体半径
 tags: ["math"]
+search: circle-radius,sphere-radius
 
 ---
 

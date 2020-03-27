@@ -4,6 +4,7 @@ title: theme light dark(主题浅黑) ICON转svg、png下载
 name: theme-light-dark
 zhTips: 主题浅黑,日月星辰
 tags: []
+search: sun-moon-stars
 
 ---
 

@@ -5,6 +5,7 @@ name: hand-point-left
 zhTips: 指向左,后,手指,左,点,上一个的手
 tags: ["arrows","hands"]
 pre: fas
+search: back,finger,hand-o-left,left,point,previous
 
 ---
 

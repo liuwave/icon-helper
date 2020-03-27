@@ -4,6 +4,7 @@ title: instrument triangle(三角餐具) ICON转svg、png下载
 name: instrument-triangle
 zhTips: 三角餐具,晚餐钟
 tags: ["music"]
+search: dinner-bell
 
 ---
 

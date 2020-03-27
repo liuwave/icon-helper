@@ -4,6 +4,7 @@ title: microphone(麦克风) ICON转svg、png下载
 name: microphone
 zhTips: 麦克风,键盘声音
 tags: ["music"]
+search: keyboard-voice
 
 ---
 

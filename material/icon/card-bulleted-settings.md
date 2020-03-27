@@ -4,6 +4,7 @@ title: card bulleted settings(卡项目符号设置) ICON转svg、png下载
 name: card-bulleted-settings
 zhTips: 卡项目符号设置
 tags: ["settings"]
+search: 
 
 ---
 

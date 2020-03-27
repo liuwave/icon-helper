@@ -4,6 +4,7 @@ title: delta(增量) ICON转svg、png下载
 name: delta
 zhTips: 增量,更改历史记录
 tags: ["math","alpha-numeric"]
+search: change-history
 
 ---
 

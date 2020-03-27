@@ -5,6 +5,7 @@ name: head-side-cough-slash
 zhTips: 头侧咳嗽斜线,咳嗽,妊娠19,病菌,肺,呼吸道,病
 tags: ["medical"]
 pre: fas
+search: cough,covid-19,germs,lungs,respiratory,sick
 
 ---
 

@@ -4,6 +4,7 @@ title: cube scan(多维数据集扫描) ICON转svg、png下载
 name: cube-scan
 zhTips: 多维数据集扫描,在ar中查看,在增强现实中查看
 tags: []
+search: view-in-ar,view-in-augmented-reality
 
 ---
 

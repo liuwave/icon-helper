@@ -5,6 +5,7 @@ name: poll-h
 zhTips: 投票H,结果,调查,趋势,投票
 tags: ["marketing","social"]
 pre: fas
+search: results,survey,trend,vote,voting
 
 ---
 

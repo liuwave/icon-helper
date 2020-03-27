@@ -4,6 +4,7 @@ title: file download(文件下载) ICON转svg、png下载
 name: file-download
 zhTips: 文件下载
 tags: ["files-folders"]
+search: 
 
 ---
 

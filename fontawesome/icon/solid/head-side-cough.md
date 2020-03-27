@@ -5,6 +5,7 @@ name: head-side-cough
 zhTips: 头侧咳嗽,咳嗽,剧烈的19,细菌,肺,呼吸道,病
 tags: ["medical"]
 pre: fas
+search: cough,covid-19,germs,lungs,respiratory,sick
 
 ---
 

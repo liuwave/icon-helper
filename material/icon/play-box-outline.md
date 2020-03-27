@@ -4,6 +4,7 @@ title: play box outline(播放框轮廓) ICON转svg、png下载
 name: play-box-outline
 zhTips: 播放框轮廓,幻灯片
 tags: []
+search: slideshow
 
 ---
 

@@ -5,6 +5,7 @@ name: chess-rook
 zhTips: 国际象棋车,板,城堡,将死,游戏,策略
 tags: ["chess","games"]
 pre: fas
+search: board,castle,checkmate,game,strategy
 
 ---
 

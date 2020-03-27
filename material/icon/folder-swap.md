@@ -4,6 +4,7 @@ title: folder swap(交换文件夹) ICON转svg、png下载
 name: folder-swap
 zhTips: 交换文件夹,转移文件夹
 tags: ["files-folders"]
+search: folder-transfer
 
 ---
 

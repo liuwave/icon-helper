@@ -4,6 +4,7 @@ title: alpha g circle outline(alpha g圆圈轮廓) ICON转svg、png下载
 name: alpha-g-circle-outline
 zhTips: alpha g圆圈轮廓,字母g圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-g-circle-outline,letter-g-circle-outline
 
 ---
 

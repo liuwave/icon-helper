@@ -4,6 +4,7 @@ title: table column plus before(表列加之前) ICON转svg、png下载
 name: table-column-plus-before
 zhTips: 表列加之前
 tags: ["text-content-format"]
+search: table-column-add-before
 
 ---
 

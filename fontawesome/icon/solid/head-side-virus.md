@@ -5,6 +5,7 @@ name: head-side-virus
 zhTips: Head Side Virus,冷,covid 19,流感,病
 tags: ["medical"]
 pre: fas
+search: cold,covid-19,flu,sick
 
 ---
 

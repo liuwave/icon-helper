@@ -4,6 +4,7 @@ title: pin off(固定) ICON转svg、png下载
 name: pin-off
 zhTips: 固定,保持关闭
 tags: []
+search: keep-off
 
 ---
 

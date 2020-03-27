@@ -4,6 +4,7 @@ title: folder home(文件夹主页) ICON转svg、png下载
 name: folder-home
 zhTips: 文件夹主页
 tags: ["files-folders"]
+search: 
 
 ---
 

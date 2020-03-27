@@ -4,6 +4,7 @@ title: treasure chest(百宝箱) ICON转svg、png下载
 name: treasure-chest
 zhTips: 百宝箱
 tags: ["gaming-rpg"]
+search: 
 
 ---
 

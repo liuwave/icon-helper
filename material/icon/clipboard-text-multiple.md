@@ -4,6 +4,7 @@ title: clipboard text multiple(多个文本剪贴板) ICON转svg、png下载
 name: clipboard-text-multiple
 zhTips: 多个文本剪贴板
 tags: []
+search: 
 
 ---
 

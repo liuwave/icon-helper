@@ -4,6 +4,7 @@ title: account multiple check outline(多重多重检查轮廓轮廓) ICON转svg
 name: account-multiple-check-outline
 zhTips: 多重多重检查轮廓轮廓,人勾轮廓
 tags: ["account-user"]
+search: user-multiple-check-outline,account-multiple-tick-outline,accounts-check-outline,accounts-tick-outline,users-check-outline,users-tick-outline,user-multiple-tick-outline,person-multiple-check-outline,person-multiple-tick-outline,people-check-outline,people-tick-outline
 
 ---
 

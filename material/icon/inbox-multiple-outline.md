@@ -4,6 +4,7 @@ title: inbox multiple outline(收件箱多个轮廓) ICON转svg、png下载
 name: inbox-multiple-outline
 zhTips: 收件箱多个轮廓,收件箱轮廓
 tags: []
+search: inboxes-outline
 
 ---
 

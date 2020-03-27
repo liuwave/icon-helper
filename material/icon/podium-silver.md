@@ -4,6 +4,7 @@ title: podium silver(登上领奖台的银牌) ICON转svg、png下载
 name: podium-silver
 zhTips: 登上领奖台的银牌,领奖台第二名
 tags: ["sport"]
+search: podium-second
 
 ---
 

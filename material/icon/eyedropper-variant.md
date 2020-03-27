@@ -4,6 +4,7 @@ title: eyedropper variant(滴管口音) ICON转svg、png下载
 name: eyedropper-variant
 zhTips: 滴管口音,着色,移液器口音
 tags: ["color","science"]
+search: colorize,colourise,pipette-variant
 
 ---
 

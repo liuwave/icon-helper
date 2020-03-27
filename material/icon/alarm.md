@@ -4,6 +4,7 @@ title: alarm(警报) ICON转svg、png下载
 name: alarm
 zhTips: 警报,访问警报,闹钟
 tags: []
+search: access-alarms,alarm-clock
 
 ---
 

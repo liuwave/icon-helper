@@ -5,6 +5,7 @@ name: lungs
 zhTips: 肺,空气,呼吸,阴部19,器官
 tags: ["medical"]
 pre: fas
+search: air,breath,covid-19,organ,respiratory
 
 ---
 

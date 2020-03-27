@@ -5,6 +5,7 @@ name: splotch
 zhTips: 污点,墨水,斑点,水珠
 tags: ["design"]
 pre: fas
+search: Ink,blob,blotch,glob,stain
 
 ---
 

@@ -5,6 +5,7 @@ name: calendar-week
 zhTips: 具有每周焦点的日历,日期,详细信息,事件,焦点,时间表,单周,时间,今天,何时
 tags: ["status"]
 pre: fas
+search: date,detail,event,focus,schedule,single week,time,today,when
 
 ---
 

@@ -4,6 +4,7 @@ title: division(分区) ICON转svg、png下载
 name: division
 zhTips: 分区,方尖碑
 tags: ["math"]
+search: obelus
 
 ---
 

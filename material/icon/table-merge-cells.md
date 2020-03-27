@@ -4,6 +4,7 @@ title: table merge cells(表合并单元格) ICON转svg、png下载
 name: table-merge-cells
 zhTips: 表合并单元格
 tags: ["text-content-format"]
+search: 
 
 ---
 

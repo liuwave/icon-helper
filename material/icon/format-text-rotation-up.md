@@ -4,6 +4,7 @@ title: format text rotation up(向上格式化文本) ICON转svg、png下载
 name: format-text-rotation-up
 zhTips: 向上格式化文本
 tags: ["text-content-format"]
+search: 
 
 ---
 

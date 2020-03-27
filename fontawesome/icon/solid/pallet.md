@@ -5,6 +5,7 @@ name: pallet
 zhTips: 托盘,归档,框,库存,运输,仓库
 tags: ["logistics"]
 pre: fas
+search: archive,box,inventory,shipping,warehouse
 
 ---
 

@@ -4,6 +4,7 @@ title: alphabet tengwar(字母tengwar) ICON转svg、png下载
 name: alphabet-tengwar
 zhTips: 字母tengwar,书写系统tengwar
 tags: ["alpha-numeric"]
+search: writing-system-tengwar
 
 ---
 

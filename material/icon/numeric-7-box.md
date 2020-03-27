@@ -4,6 +4,7 @@ title: numeric 7 box(数字7框) ICON转svg、png下载
 name: numeric-7-box
 zhTips: 数字7框
 tags: ["alpha-numeric"]
+search: numeric-seven-box,number-7-box
 
 ---
 

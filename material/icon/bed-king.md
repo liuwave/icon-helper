@@ -4,6 +4,7 @@ title: bed king(床王) ICON转svg、png下载
 name: bed-king
 zhTips: 床王
 tags: ["home-automation","holiday"]
+search: 
 
 ---
 

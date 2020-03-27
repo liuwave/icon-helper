@@ -5,6 +5,7 @@ name: github-alt
 zhTips: 备用GitHub,octocat
 tags: []
 pre: fab
+search: octocat
 
 ---
 

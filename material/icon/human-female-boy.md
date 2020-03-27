@@ -4,6 +4,7 @@ title: human female boy(人类女性男孩) ICON转svg、png下载
 name: human-female-boy
 zhTips: 人类女性男孩,母亲,妈妈,女童
 tags: ["people-family"]
+search: mother,mom,woman-child,mum
 
 ---
 

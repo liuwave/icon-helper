@@ -4,6 +4,7 @@ title: golf(高尔夫球场) ICON转svg、png下载
 name: golf
 zhTips: 高尔夫球场
 tags: ["sport"]
+search: golf-course
 
 ---
 

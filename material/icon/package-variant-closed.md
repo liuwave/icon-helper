@@ -4,6 +4,7 @@ title: package variant closed(封闭包装形式) ICON转svg、png下载
 name: package-variant-closed
 zhTips: 封闭包装形式,封闭包装盒
 tags: []
+search: box-variant-closed
 
 ---
 

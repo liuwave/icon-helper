@@ -4,6 +4,7 @@ title: zip box outline(拉链盒轮廓) ICON转svg、png下载
 name: zip-box-outline
 zhTips: 拉链盒轮廓,压缩文件轮廓
 tags: ["files-folders"]
+search: compressed-file-outline
 
 ---
 

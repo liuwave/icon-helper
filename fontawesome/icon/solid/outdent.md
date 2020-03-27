@@ -5,6 +5,7 @@ name: outdent
 zhTips: Outdent,align,justify,paragraph,tab
 tags: ["editors"]
 pre: fas
+search: align,justify,paragraph,tab
 
 ---
 

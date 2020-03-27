@@ -5,6 +5,7 @@ name: laptop
 zhTips: 笔记本电脑,计算机,cpu,戴尔,演示,设备,mac,macbook,机器,pc
 tags: ["computers","objects"]
 pre: fas
+search: computer,cpu,dell,demo,device,mac,macbook,machine,pc
 
 ---
 

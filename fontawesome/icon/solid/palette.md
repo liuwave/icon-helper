@@ -5,6 +5,7 @@ name: palette
 zhTips: 调色板,丙烯酸,艺术,画笔,颜色,填充,油漆,颜料,水彩
 tags: ["design","spinners"]
 pre: fas
+search: acrylic,art,brush,color,fill,paint,pigment,watercolor
 
 ---
 

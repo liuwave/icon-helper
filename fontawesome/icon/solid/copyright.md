@@ -5,6 +5,7 @@ name: copyright
 zhTips: 版权,商标,注册
 tags: ["business"]
 pre: fas
+search: brand,mark,register,trademark
 
 ---
 

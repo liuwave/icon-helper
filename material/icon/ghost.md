@@ -4,6 +4,7 @@ title: ghost(鬼) ICON转svg、png下载
 name: ghost
 zhTips: 鬼,漆黑,眨眼,小指,克莱德
 tags: ["gaming-rpg"]
+search: inky,blinky,pinky,clyde
 
 ---
 

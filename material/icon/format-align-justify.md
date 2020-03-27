@@ -4,6 +4,7 @@ title: format align justify(格式对齐对齐) ICON转svg、png下载
 name: format-align-justify
 zhTips: 格式对齐对齐
 tags: ["text-content-format"]
+search: 
 
 ---
 

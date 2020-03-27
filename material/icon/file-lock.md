@@ -4,6 +4,7 @@ title: file lock(文件锁定) ICON转svg、png下载
 name: file-lock
 zhTips: 文件锁定
 tags: ["lock","files-folders"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: bottle soda(汽水瓶) ICON转svg、png下载
 name: bottle-soda
 zhTips: 汽水瓶,可乐瓶
 tags: ["food-drink"]
+search: bottle-coke,bottle-pop
 
 ---
 

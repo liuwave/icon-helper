@@ -4,6 +4,7 @@ title: rotate right(向右旋转) ICON转svg、png下载
 name: rotate-right
 zhTips: 向右旋转,箭头向右旋转
 tags: ["arrow"]
+search: arrow-rotate-right
 
 ---
 

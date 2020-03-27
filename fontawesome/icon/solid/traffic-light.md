@@ -5,6 +5,7 @@ name: traffic-light
 zhTips: 交通信号灯,方向,道路,信号,旅行
 tags: ["maps"]
 pre: fas
+search: direction,road,signal,travel
 
 ---
 

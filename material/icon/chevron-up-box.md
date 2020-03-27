@@ -4,6 +4,7 @@ title: chevron up box(V形框) ICON转svg、png下载
 name: chevron-up-box
 zhTips: V形框
 tags: ["arrow"]
+search: 
 
 ---
 

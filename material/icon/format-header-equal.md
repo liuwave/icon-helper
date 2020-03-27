@@ -4,6 +4,7 @@ title: format header equal(格式标题相等) ICON转svg、png下载
 name: format-header-equal
 zhTips: 格式标题相等
 tags: ["text-content-format"]
+search: 
 
 ---
 

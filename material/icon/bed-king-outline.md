@@ -4,6 +4,7 @@ title: bed king outline(床王概述) ICON转svg、png下载
 name: bed-king-outline
 zhTips: 床王概述
 tags: ["home-automation","holiday"]
+search: 
 
 ---
 

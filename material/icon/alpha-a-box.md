@@ -4,6 +4,7 @@ title: alpha a box(alpha一个框) ICON转svg、png下载
 name: alpha-a-box
 zhTips: alpha一个框,字母一个框
 tags: ["alpha-numeric"]
+search: alphabet-a-box,letter-a-box
 
 ---
 

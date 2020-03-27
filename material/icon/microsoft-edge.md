@@ -4,6 +4,7 @@ title: microsoft edge(Microsoft Edge) ICON转svg、png下载
 name: microsoft-edge
 zhTips: Microsoft Edge
 tags: ["brand-logo"]
+search: microsoft-edge
 
 ---
 

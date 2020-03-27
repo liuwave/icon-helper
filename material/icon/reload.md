@@ -4,6 +4,7 @@ title: reload(重新加载) ICON转svg、png下载
 name: reload
 zhTips: 重新加载,汽车发动机启动,循环
 tags: ["automotive"]
+search: car-engine-start,loop
 
 ---
 

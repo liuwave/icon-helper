@@ -4,6 +4,7 @@ title: syllabary katakana half width(音节片假名半宽度) ICON转svg、png�
 name: syllabary-katakana-half-width
 zhTips: 音节片假名半宽度,书写系统片假名半宽度
 tags: ["alpha-numeric"]
+search: writing-system-katakana-half-width
 
 ---
 

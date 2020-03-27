@@ -4,6 +4,7 @@ title: diameter variant(直径重音) ICON转svg、png下载
 name: diameter-variant
 zhTips: 直径重音,圆直径重音,球形直径重音
 tags: ["math"]
+search: circle-diameter-variant,sphere-diameter-variant
 
 ---
 

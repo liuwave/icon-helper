@@ -4,6 +4,7 @@ title: fishbowl(鱼缸) ICON转svg、png下载
 name: fishbowl
 zhTips: 鱼缸,水族馆
 tags: ["animal"]
+search: aquarium
 
 ---
 

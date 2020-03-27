@@ -5,6 +5,7 @@ name: truck-pickup
 zhTips: 卡车侧面,货物,车辆
 tags: ["automotive","construction","vehicles"]
 pre: fas
+search: cargo,vehicle
 
 ---
 

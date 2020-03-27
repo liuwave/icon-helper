@@ -4,6 +4,7 @@ title: flask empty minus(烧瓶空负号) ICON转svg、png下载
 name: flask-empty-minus
 zhTips: 烧瓶空负号
 tags: ["science"]
+search: 
 
 ---
 

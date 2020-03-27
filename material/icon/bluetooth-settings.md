@@ -4,6 +4,7 @@ title: bluetooth settings(蓝牙设置) ICON转svg、png下载
 name: bluetooth-settings
 zhTips: 蓝牙设置
 tags: ["settings"]
+search: settings-bluetooth
 
 ---
 

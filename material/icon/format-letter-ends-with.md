@@ -4,6 +4,7 @@ title: format letter ends with(字母格式结尾为) ICON转svg、png下载
 name: format-letter-ends-with
 zhTips: 字母格式结尾为
 tags: ["text-content-format"]
+search: 
 
 ---
 

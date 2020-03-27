@@ -4,6 +4,7 @@ title: furigana horizontal(furigana水平) ICON转svg、png下载
 name: furigana-horizontal
 zhTips: furigana水平,红宝石水平
 tags: ["text-content-format"]
+search: ruby-horizontal
 
 ---
 

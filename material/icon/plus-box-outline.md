@@ -4,6 +4,7 @@ title: plus box outline(加框轮廓) ICON转svg、png下载
 name: plus-box-outline
 zhTips: 加框轮廓
 tags: ["math"]
+search: 
 
 ---
 

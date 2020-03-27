@@ -5,6 +5,7 @@ name: glass-cheers
 zhTips: 玻璃干杯,酒,酒吧,饮料,庆祝活动,香槟,碰杯,假日,除夕,聚会,烤面包
 tags: ["beverage","holiday","objects"]
 pre: fas
+search: alcohol,bar,beverage,celebration,champagne,clink,drink,holiday,new year's eve,party,toast
 
 ---
 

@@ -4,6 +4,7 @@ title: sprinkler(喷灌) ICON转svg、png下载
 name: sprinkler
 zhTips: 喷灌,灌溉
 tags: ["home-automation"]
+search: irrigation
 
 ---
 

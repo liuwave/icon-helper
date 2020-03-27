@@ -4,6 +4,7 @@ title: plus thick(加粗) ICON转svg、png下载
 name: plus-thick
 zhTips: 加粗
 tags: ["math"]
+search: add-thick
 
 ---
 

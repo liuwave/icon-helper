@@ -4,6 +4,7 @@ title: video minus(视频减) ICON转svg、png下载
 name: video-minus
 zhTips: 视频减,视频删除
 tags: ["video-movie"]
+search: video-remove
 
 ---
 

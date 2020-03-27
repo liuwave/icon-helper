@@ -4,6 +4,7 @@ title: align horizontal center(对齐水平中心) ICON转svg、png下载
 name: align-horizontal-center
 zhTips: 对齐水平中心
 tags: []
+search: align-horizontal-centre
 
 ---
 

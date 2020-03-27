@@ -4,6 +4,7 @@ title: shuffle(随机播放) ICON转svg、png下载
 name: shuffle
 zhTips: 随机播放
 tags: ["arrow"]
+search: 
 
 ---
 

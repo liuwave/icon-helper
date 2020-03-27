@@ -4,6 +4,7 @@ title: fireplace off(壁炉关闭) ICON转svg、png下载
 name: fireplace-off
 zhTips: 壁炉关闭
 tags: ["home-automation"]
+search: 
 
 ---
 

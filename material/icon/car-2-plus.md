@@ -4,6 +4,7 @@ title: car 2 plus(2辆以上汽车) ICON转svg、png下载
 name: car-2-plus
 zhTips: 2辆以上汽车,高架车道,高占用车道,拼车车道
 tags: ["transportation-road","automotive"]
+search: hov-lane,high-occupancy-vehicle-lane,carpool-lane
 
 ---
 

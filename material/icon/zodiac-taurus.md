@@ -4,6 +4,7 @@ title: zodiac taurus(生肖金牛座) ICON转svg、png下载
 name: zodiac-taurus
 zhTips: 生肖金牛座,金牛座星座
 tags: []
+search: horoscope-taurus
 
 ---
 

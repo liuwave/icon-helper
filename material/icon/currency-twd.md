@@ -4,6 +4,7 @@ title: currency twd(货币TWD) ICON转svg、png下载
 name: currency-twd
 zhTips: 货币TWD,新台币
 tags: ["currency","banking"]
+search: new-taiwan-dollar
 
 ---
 

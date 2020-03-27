@@ -5,6 +5,7 @@ name: amazon-pay
 zhTips: Amazon Pay
 tags: ["payments-shopping"]
 pre: fab
+search: 
 
 ---
 

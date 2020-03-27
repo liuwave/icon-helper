@@ -4,6 +4,7 @@ title: folder pound(英镑文件夹) ICON转svg、png下载
 name: folder-pound
 zhTips: 英镑文件夹,哈希文件夹
 tags: ["files-folders"]
+search: folder-hash
 
 ---
 

@@ -4,6 +4,7 @@ title: view column(列视图) ICON转svg、png下载
 name: view-column
 zhTips: 列视图
 tags: ["view"]
+search: 
 
 ---
 

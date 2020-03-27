@@ -4,6 +4,7 @@ title: set all(设置所有) ICON转svg、png下载
 name: set-all
 zhTips: 设置所有,精确设置,设置或,完全外部联接,sql完全外部联接
 tags: []
+search: set-union,set-or,full-outer-join,sql-full-outer-join
 
 ---
 

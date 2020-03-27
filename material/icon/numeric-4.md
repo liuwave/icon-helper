@@ -4,6 +4,7 @@ title: numeric 4(数字4) ICON转svg、png下载
 name: numeric-4
 zhTips: 数字4
 tags: ["alpha-numeric"]
+search: number-4,numeric-four
 
 ---
 

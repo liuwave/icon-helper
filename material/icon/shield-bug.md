@@ -4,6 +4,7 @@ title: shield bug(屏蔽错误) ICON转svg、png下载
 name: shield-bug
 zhTips: 屏蔽错误,防病毒
 tags: []
+search: antivirus
 
 ---
 

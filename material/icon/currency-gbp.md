@@ -4,6 +4,7 @@ title: currency gbp(货币gbp) ICON转svg、png下载
 name: currency-gbp
 zhTips: 货币gbp,英镑
 tags: ["currency","banking"]
+search: pound,sterling
 
 ---
 

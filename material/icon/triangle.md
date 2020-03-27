@@ -4,6 +4,7 @@ title: triangle(三角形) ICON转svg、png下载
 name: triangle
 zhTips: 三角形
 tags: ["shape"]
+search: 
 
 ---
 

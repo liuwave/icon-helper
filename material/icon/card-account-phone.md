@@ -4,6 +4,7 @@ title: card account phone(卡账户电话) ICON转svg、png下载
 name: card-account-phone
 zhTips: 卡账户电话,联系电话
 tags: ["account-user"]
+search: contact-phone
 
 ---
 

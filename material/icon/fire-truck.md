@@ -4,6 +4,7 @@ title: fire truck(消防车) ICON转svg、png下载
 name: fire-truck
 zhTips: 消防车
 tags: ["transportation-road"]
+search: fire-engine
 
 ---
 

@@ -5,6 +5,7 @@ name: sort-numeric-down
 zhTips: 对数字向下排序,排列,过滤器,数字,顺序,对数字升序排序
 tags: ["arrows","interfaces"]
 pre: fas
+search: arrange,filter,numbers,order,sort-numeric-asc
 
 ---
 

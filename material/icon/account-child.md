@@ -4,6 +4,7 @@ title: account child(帐户孩子) ICON转svg、png下载
 name: account-child
 zhTips: 帐户孩子,用户孩子,个人孩子,监护人
 tags: ["account-user"]
+search: user-child,person-child,guardian
 
 ---
 

@@ -4,6 +4,7 @@ title: playlist plus(播放列表加) ICON转svg、png下载
 name: playlist-plus
 zhTips: 播放列表加,播放列表添加
 tags: []
+search: playlist-add
 
 ---
 

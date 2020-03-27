@@ -5,6 +5,7 @@ name: car-alt
 zhTips: 替代汽车,汽车,轿车,运输,旅行,车辆
 tags: ["automotive","vehicles"]
 pre: fas
+search: auto,automobile,sedan,transportation,travel,vehicle
 
 ---
 

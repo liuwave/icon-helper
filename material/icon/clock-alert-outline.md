@@ -4,6 +4,7 @@ title: clock alert outline(时钟警报轮廓) ICON转svg、png下载
 name: clock-alert-outline
 zhTips: 时钟警报轮廓,时钟警告
 tags: ["date-time","alert-error"]
+search: clock-warning
 
 ---
 

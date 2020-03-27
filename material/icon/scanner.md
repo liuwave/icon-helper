@@ -4,6 +4,7 @@ title: scanner(扫描仪) ICON转svg、png下载
 name: scanner
 zhTips: 扫描仪
 tags: ["device-tech"]
+search: 
 
 ---
 

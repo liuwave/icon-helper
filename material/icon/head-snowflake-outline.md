@@ -4,6 +4,7 @@ title: head snowflake outline(头部雪花轮廓) ICON转svg、png下载
 name: head-snowflake-outline
 zhTips: 头部雪花轮廓,头部冻结轮廓,大脑冻结轮廓
 tags: []
+search: head-freeze-outline,brain-freeze-outline
 
 ---
 

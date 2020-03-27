@@ -4,6 +4,7 @@ title: alpha c(alpha c) ICON转svg、png下载
 name: alpha-c
 zhTips: alpha c,字母c
 tags: ["alpha-numeric"]
+search: alphabet-c,letter-c
 
 ---
 

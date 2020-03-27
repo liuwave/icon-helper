@@ -4,6 +4,7 @@ title: format indent decrease(格式缩进减少) ICON转svg、png下载
 name: format-indent-decrease
 zhTips: 格式缩进减少
 tags: ["text-content-format"]
+search: 
 
 ---
 

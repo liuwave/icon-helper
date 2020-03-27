@@ -5,6 +5,7 @@ name: superscript
 zhTips: 上标,编辑,指数,字体,格式,文本,类型
 tags: ["editors","mathematics"]
 pre: fas
+search: edit,exponential,font,format,text,type
 
 ---
 

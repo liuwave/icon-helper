@@ -5,6 +5,7 @@ name: vihara
 zhTips: 维哈拉（Vihara）,佛教,佛教徒,建筑,修道院
 tags: ["buildings","religion"]
 pre: fas
+search: buddhism,buddhist,building,monastery
 
 ---
 

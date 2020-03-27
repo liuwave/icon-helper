@@ -4,6 +4,7 @@ title: folder multiple image(多个图像文件夹) ICON转svg、png下载
 name: folder-multiple-image
 zhTips: 多个图像文件夹,烫发媒体,图像文件夹
 tags: ["files-folders"]
+search: perm-media,folders-image
 
 ---
 

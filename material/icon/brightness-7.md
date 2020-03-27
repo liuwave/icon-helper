@@ -4,6 +4,7 @@ title: brightness 7(亮度7) ICON转svg、png下载
 name: brightness-7
 zhTips: 亮度7,亮度高
 tags: ["home-automation"]
+search: brightness-high
 
 ---
 

@@ -4,6 +4,7 @@ title: nintendo wii(任天堂Wii) ICON转svg、png下载
 name: nintendo-wii
 zhTips: 任天堂Wii
 tags: ["brand-logo","gaming-rpg"]
+search: nintendo-wii
 
 ---
 

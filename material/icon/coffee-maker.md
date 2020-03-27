@@ -4,6 +4,7 @@ title: coffee maker(咖啡机) ICON转svg、png下载
 name: coffee-maker
 zhTips: 咖啡机,浓缩咖啡机
 tags: ["home-automation","food-drink"]
+search: espresso-maker,coffee-machine,espresso-machine
 
 ---
 

@@ -4,6 +4,7 @@ title: numeric 9 plus box multiple(数字9加框倍数) ICON转svg、png下载
 name: numeric-9-plus-box-multiple
 zhTips: 数字9加框倍数
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

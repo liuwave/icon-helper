@@ -4,6 +4,7 @@ title: alpha g box(字母g框) ICON转svg、png下载
 name: alpha-g-box
 zhTips: 字母g框
 tags: ["alpha-numeric"]
+search: alphabet-g-box,letter-g-box
 
 ---
 

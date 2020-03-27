@@ -5,6 +5,7 @@ name: square
 zhTips: 正方形,块状,盒子,形状
 tags: ["shapes"]
 pre: fas
+search: block,box,shape
 
 ---
 

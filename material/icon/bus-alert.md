@@ -4,6 +4,7 @@ title: bus alert(公共汽车警告) ICON转svg、png下载
 name: bus-alert
 zhTips: 公共汽车警告
 tags: ["alert-error","transportation-road"]
+search: bus-warning
 
 ---
 

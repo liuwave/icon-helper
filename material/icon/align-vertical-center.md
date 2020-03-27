@@ -4,6 +4,7 @@ title: align vertical center(对齐垂直中心) ICON转svg、png下载
 name: align-vertical-center
 zhTips: 对齐垂直中心
 tags: []
+search: align-vertical-centre
 
 ---
 

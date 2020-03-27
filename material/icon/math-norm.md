@@ -4,6 +4,7 @@ title: math norm(数学范式) ICON转svg、png下载
 name: math-norm
 zhTips: 数学范式,代码或并行
 tags: ["math","developer-languages"]
+search: code-or,parallel
 
 ---
 

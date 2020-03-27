@@ -4,6 +4,7 @@ title: prescription(处方) ICON转svg、png下载
 name: prescription
 zhTips: 处方
 tags: ["medical-hospital"]
+search: 
 
 ---
 

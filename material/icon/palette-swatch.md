@@ -4,6 +4,7 @@ title: palette swatch(调色板色板) ICON转svg、png下载
 name: palette-swatch
 zhTips: 调色板色板,样式
 tags: ["drawing-art","color"]
+search: style
 
 ---
 

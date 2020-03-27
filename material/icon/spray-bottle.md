@@ -4,6 +4,7 @@ title: spray bottle(喷雾瓶) ICON转svg、png下载
 name: spray-bottle
 zhTips: 喷雾瓶,清洁
 tags: []
+search: cleaning
 
 ---
 

@@ -4,6 +4,7 @@ title: crosshairs off(十字准线关闭) ICON转svg、png下载
 name: crosshairs-off
 zhTips: 十字准线关闭
 tags: ["geographic-information-system"]
+search: 
 
 ---
 

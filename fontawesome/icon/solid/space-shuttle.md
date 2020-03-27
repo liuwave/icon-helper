@@ -5,6 +5,7 @@ name: space-shuttle
 zhTips: 航天飞机,宇航员,机械,美国国家航空航天局,火箭,太空,运输
 tags: ["objects","science-fiction","vehicles"]
 pre: fas
+search: astronaut,machine,nasa,rocket,space,transportation
 
 ---
 

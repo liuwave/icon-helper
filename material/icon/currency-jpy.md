@@ -4,6 +4,7 @@ title: currency jpy(日元) ICON转svg、png下载
 name: currency-jpy
 zhTips: 日元
 tags: ["currency","banking"]
+search: yen
 
 ---
 

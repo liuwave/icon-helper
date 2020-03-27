@@ -5,6 +5,7 @@ name: gavel
 zhTips: 木槌,锤子,法官,法律,律师,意见
 tags: ["maps","objects"]
 pre: fas
+search: hammer,judge,law,lawyer,opinion
 
 ---
 

@@ -5,6 +5,7 @@ name: hand-spock
 zhTips: Spock（手）,寿命长,繁荣,敬礼,星际迷航,火神
 tags: ["hands","science-fiction"]
 pre: fas
+search: live long,prosper,salute,star trek,vulcan
 
 ---
 

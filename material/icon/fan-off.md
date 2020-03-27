@@ -4,6 +4,7 @@ title: fan off(风扇关闭) ICON转svg、png下载
 name: fan-off
 zhTips: 风扇关闭
 tags: ["home-automation","automotive"]
+search: 
 
 ---
 

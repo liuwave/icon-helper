@@ -4,6 +4,7 @@ title: currency krw(货币韩元) ICON转svg、png下载
 name: currency-krw
 zhTips: 货币韩元,韩元
 tags: ["currency","banking"]
+search: won
 
 ---
 

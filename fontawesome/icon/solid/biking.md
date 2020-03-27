@@ -5,6 +5,7 @@ name: biking
 zhTips: 自行车,周期,骑自行车,骑行,车轮
 tags: ["childhood","fitness","sports","summer","users-people"]
 pre: fas
+search: bicycle,bike,cycle,cycling,ride,wheel
 
 ---
 

@@ -4,6 +4,7 @@ title: emoticon poop(图释便便) ICON转svg、png下载
 name: emoticon-poop
 zhTips: 图释便便,笑脸便便
 tags: ["emoji"]
+search: smiley-poop
 
 ---
 

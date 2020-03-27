@@ -5,6 +5,7 @@ name: plug
 zhTips: 插头,连接,电气,在线,电源
 tags: ["computers","energy","household","maps","objects"]
 pre: fas
+search: connect,electric,online,power
 
 ---
 

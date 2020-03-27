@@ -4,6 +4,7 @@ title: microphone outline(麦克风轮廓) ICON转svg、png下载
 name: microphone-outline
 zhTips: 麦克风轮廓,麦克风无
 tags: ["music"]
+search: mic-none
 
 ---
 

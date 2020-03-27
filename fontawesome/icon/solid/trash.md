@@ -5,6 +5,7 @@ name: trash
 zhTips: 废纸,、删除,垃圾,隐藏,删除
 tags: ["editors","interfaces","objects"]
 pre: fas
+search: delete,garbage,hide,remove
 
 ---
 

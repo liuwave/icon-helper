@@ -5,6 +5,7 @@ name: gem
 zhTips: 宝石,钻石,珠宝,蓝宝石,石头,宝藏
 tags: ["objects","payments-shopping"]
 pre: fas
+search: diamond,jewelry,sapphire,stone,treasure
 
 ---
 

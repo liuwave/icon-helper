@@ -5,6 +5,7 @@ name: file-image
 zhTips: 图像文件,文档,图像,jpg,照片,png
 tags: ["files","images"]
 pre: fas
+search: document,image,jpg,photo,png
 
 ---
 

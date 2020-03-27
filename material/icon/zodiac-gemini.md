@@ -4,6 +4,7 @@ title: zodiac gemini(黄道带双子座) ICON转svg、png下载
 name: zodiac-gemini
 zhTips: 黄道带双子座,星座双子座
 tags: []
+search: horoscope-gemini
 
 ---
 

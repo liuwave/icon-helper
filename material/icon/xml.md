@@ -4,6 +4,7 @@ title: xml(xml) ICON转svg、png下载
 name: xml
 zhTips: xml,代码
 tags: ["developer-languages"]
+search: code
 
 ---
 

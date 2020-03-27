@@ -4,6 +4,7 @@ title: dialpad(拨号盘) ICON转svg、png下载
 name: dialpad
 zhTips: 拨号盘,键盘
 tags: []
+search: keypad
 
 ---
 

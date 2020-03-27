@@ -5,6 +5,7 @@ name: ship
 zhTips: 船,海,水
 tags: ["maps","maritime","vehicles"]
 pre: fas
+search: boat,sea,water
 
 ---
 

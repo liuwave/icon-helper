@@ -5,6 +5,7 @@ name: dice-six
 zhTips: 骰子六,机会,赌博,游戏,滚动
 tags: ["games","objects"]
 pre: fas
+search: chance,gambling,game,roll
 
 ---
 

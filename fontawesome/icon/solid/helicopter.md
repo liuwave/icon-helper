@@ -5,6 +5,7 @@ name: helicopter
 zhTips: 直升机,空军,阿帕奇,飞行,旅行
 tags: ["maps","objects","vehicles"]
 pre: fas
+search: airwolf,apache,chopper,flight,fly,travel
 
 ---
 

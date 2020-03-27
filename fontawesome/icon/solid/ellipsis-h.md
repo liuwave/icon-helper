@@ -5,6 +5,7 @@ name: ellipsis-h
 zhTips: 水平省略号,圆点,拖动,烤肉串,列表,菜单,导航,ol,重新排序,设置,ul
 tags: ["interfaces"]
 pre: fas
+search: dots,drag,kebab,list,menu,nav,navigation,ol,reorder,settings,ul
 
 ---
 

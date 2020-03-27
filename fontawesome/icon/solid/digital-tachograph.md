@@ -5,6 +5,7 @@ name: digital-tachograph
 zhTips: 数字行驶记录仪,数据,距离,速度,转速表
 tags: ["objects"]
 pre: fas
+search: data,distance,speed,tachometer
 
 ---
 

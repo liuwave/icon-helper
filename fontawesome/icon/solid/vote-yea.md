@@ -5,6 +5,7 @@ name: vote-yea
 zhTips: 投票赞成,接受,广播,选举,政治,积极,是
 tags: ["political"]
 pre: fas
+search: accept,cast,election,politics,positive,yes
 
 ---
 

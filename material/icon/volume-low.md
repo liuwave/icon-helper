@@ -4,6 +4,7 @@ title: volume low(低音量) ICON转svg、png下载
 name: volume-low
 zhTips: 低音量,音频,扬声器
 tags: ["audio","home-automation","cellphone-phone"]
+search: audio,speaker
 
 ---
 

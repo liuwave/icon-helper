@@ -5,6 +5,7 @@ name: comment-dollar
 zhTips: 美元评论,泡沫,聊天,评论,对话,反馈,消息,钱,请注意,通知,支付,短信,语音,花费,发短信,转让
 tags: ["finance","marketing"]
 pre: fas
+search: bubble,chat,commenting,conversation,feedback,message,money,note,notification,pay,sms,speech,spend,texting,transfer
 
 ---
 

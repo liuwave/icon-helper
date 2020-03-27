@@ -4,6 +4,7 @@ title: account multiple plus outline(多个帐户加轮廓) ICON转svg、png下�
 name: account-multiple-plus-outline
 zhTips: 多个帐户加轮廓,组添加轮廓,多个用户轮廓,用户加轮廓,人员加轮廓,多个添加轮廓,人员添加轮廓,多个帐户添加轮廓,帐户添加轮廓,用户多个添加轮廓,用户添加轮廓,邀请
 tags: ["account-user"]
+search: group-add-outline,user-multiple-plus-outline,accounts-plus-outline,users-plus-outline,person-multiple-plus-outline,people-plus-outline,person-multiple-add-outline,people-add-outline,account-multiple-add-outline,accounts-add-outline,user-multiple-add-outline,users-add-outline,invite
 
 ---
 

@@ -4,6 +4,7 @@ title: close box multiple(关闭多个框) ICON转svg、png下载
 name: close-box-multiple
 zhTips: 关闭多个框,删除库,关闭库
 tags: []
+search: close-boxes,library-remove,library-close
 
 ---
 

@@ -5,6 +5,7 @@ name: tools
 zhTips: 工具,管理员,修复,螺丝刀,设置,扳手
 tags: ["construction","editors","interfaces","objects"]
 pre: fas
+search: admin,fix,repair,screwdriver,settings,tools,wrench
 
 ---
 

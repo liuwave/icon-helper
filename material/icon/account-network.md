@@ -4,6 +4,7 @@ title: account network(帐户网络) ICON转svg、png下载
 name: account-network
 zhTips: 帐户网络,用户网络,人员网络
 tags: ["account-user"]
+search: user-network,person-network
 
 ---
 

@@ -4,6 +4,7 @@ title: bandage(绷带) ICON转svg、png下载
 name: bandage
 zhTips: 绷带,创可贴,石膏
 tags: []
+search: band-aid,plaster
 
 ---
 

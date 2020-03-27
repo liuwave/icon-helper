@@ -4,6 +4,7 @@ title: arrow up bold box(向上箭头加粗框) ICON转svg、png下载
 name: arrow-up-bold-box
 zhTips: 向上箭头加粗框,顶部箭头加粗框
 tags: ["arrow"]
+search: arrow-top-bold-box
 
 ---
 

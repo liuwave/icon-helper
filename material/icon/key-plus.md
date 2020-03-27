@@ -4,6 +4,7 @@ title: key plus(键加) ICON转svg、png下载
 name: key-plus
 zhTips: 键加
 tags: []
+search: key-add
 
 ---
 

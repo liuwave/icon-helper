@@ -5,6 +5,7 @@ name: calendar-plus
 zhTips: Calendar Plus,添加,日历,创建,日期,事件,新,正,计划,时间
 tags: ["date-time","interfaces","status"]
 pre: fas
+search: add,calendar,create,date,event,new,positive,schedule,time,when
 
 ---
 

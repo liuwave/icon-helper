@@ -4,6 +4,7 @@ title: numeric 1 box(数字1框) ICON转svg、png下载
 name: numeric-1-box
 zhTips: 数字1框,外观为1,数字为1框
 tags: ["alpha-numeric"]
+search: looks-one,numeric-one-box,number-1-box
 
 ---
 

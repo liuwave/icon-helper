@@ -4,6 +4,7 @@ title: code less than or equal(代码小于或等于) ICON转svg、png下载
 name: code-less-than-or-equal
 zhTips: 代码小于或等于
 tags: ["developer-languages","math"]
+search: 
 
 ---
 

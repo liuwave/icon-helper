@@ -4,6 +4,7 @@ title: home thermometer(家庭温度计) ICON转svg、png下载
 name: home-thermometer
 zhTips: 家庭温度计,家庭气候,家庭温度
 tags: ["home-automation"]
+search: home-climate,home-temperature
 
 ---
 

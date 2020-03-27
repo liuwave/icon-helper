@@ -4,6 +4,7 @@ title: youtube(youtube) ICON转svg、png下载
 name: youtube
 zhTips: youtube,youtube视频,youtube播放
 tags: ["brand-logo","social-media"]
+search: video-youtube,youtube-play
 
 ---
 

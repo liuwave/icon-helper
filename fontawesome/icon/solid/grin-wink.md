@@ -5,6 +5,7 @@ name: grin-wink
 zhTips: 笑嘻嘻的脸,图释,脸,调情,笑,微笑
 tags: ["emoji"]
 pre: fas
+search: emoticon,face,flirt,laugh,smile
 
 ---
 

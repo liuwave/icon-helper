@@ -4,6 +4,7 @@ title: cellphone cog(手机嵌齿轮) ICON转svg、png下载
 name: cellphone-cog
 zhTips: 手机嵌齿轮,phonelink设置,手机设置重点,智能手机设置重点
 tags: ["settings","cellphone-phone","device-tech"]
+search: phonelink-setup,mobile-phone-settings-variant,smartphone-settings-variant
 
 ---
 

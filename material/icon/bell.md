@@ -4,6 +4,7 @@ title: bell(响铃) ICON转svg、png下载
 name: bell
 zhTips: 响铃,通知
 tags: ["notification","home-automation","music"]
+search: notifications
 
 ---
 

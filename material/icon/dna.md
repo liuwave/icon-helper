@@ -4,6 +4,7 @@ title: dna(dna) ICON转svg、png下载
 name: dna
 zhTips: dna,螺旋
 tags: ["science"]
+search: helix
 
 ---
 

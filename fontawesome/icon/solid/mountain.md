@@ -5,6 +5,7 @@ name: mountain
 zhTips: 山,冰川,徒步旅行,景观,旅行,视图
 tags: ["autumn","camping"]
 pre: fas
+search: glacier,hiking,hill,landscape,travel,view
 
 ---
 

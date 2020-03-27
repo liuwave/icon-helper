@@ -4,6 +4,7 @@ title: skew more(偏斜更多) ICON转svg、png下载
 name: skew-more
 zhTips: 偏斜更多,偏斜增加
 tags: ["math"]
+search: skew-increase
 
 ---
 

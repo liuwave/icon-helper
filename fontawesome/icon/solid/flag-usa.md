@@ -5,6 +5,7 @@ name: flag-usa
 zhTips: 美国国旗,贝西·罗斯,国家,旧荣耀,星星,条纹,符号
 tags: ["political"]
 pre: fas
+search: betsy ross,country,old glory,stars,stripes,symbol
 
 ---
 

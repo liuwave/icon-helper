@@ -4,6 +4,7 @@ title: shield star(盾牌星) ICON转svg、png下载
 name: shield-star
 zhTips: 盾牌星,徽章
 tags: []
+search: badge
 
 ---
 

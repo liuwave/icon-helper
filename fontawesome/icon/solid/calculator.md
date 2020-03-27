@@ -5,6 +5,7 @@ name: calculator
 zhTips: 计算器,算盘,加法,算术,计数,数学,乘法,减法
 tags: ["business","interfaces","mathematics","objects"]
 pre: fas
+search: abacus,addition,arithmetic,counting,math,multiplication,subtraction
 
 ---
 

@@ -4,6 +4,7 @@ title: file certificate(证书文件) ICON转svg、png下载
 name: file-certificate
 zhTips: 证书文件
 tags: ["files-folders"]
+search: 
 
 ---
 

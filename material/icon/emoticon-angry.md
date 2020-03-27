@@ -4,6 +4,7 @@ title: emoticon angry(愤怒的图释) ICON转svg、png下载
 name: emoticon-angry
 zhTips: 愤怒的图释,愤怒的笑脸
 tags: ["emoji"]
+search: smiley-angry
 
 ---
 

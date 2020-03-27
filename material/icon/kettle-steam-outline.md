@@ -4,6 +4,7 @@ title: kettle steam outline(水壶蒸汽轮廓) ICON转svg、png下载
 name: kettle-steam-outline
 zhTips: 水壶蒸汽轮廓,茶壶蒸汽轮廓,水壶空蒸汽,茶壶空蒸汽
 tags: ["home-automation"]
+search: tea-kettle-steam-outline,kettle-empty-steam,tea-kettle-empty-steam
 
 ---
 

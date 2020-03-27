@@ -5,6 +5,7 @@ name: arrows-alt-v
 zhTips: 垂直的替代箭头,箭头v,展开,人像,调整大小,高,垂直
 tags: ["arrows"]
 pre: fas
+search: arrows-v,expand,portrait,resize,tall,vertical
 
 ---
 

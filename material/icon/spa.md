@@ -4,6 +4,7 @@ title: spa(spa) ICON转svg、png下载
 name: spa
 zhTips: spa,莲花,儿童
 tags: ["nature"]
+search: flower-lotus,plant
 
 ---
 

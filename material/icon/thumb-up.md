@@ -4,6 +4,7 @@ title: thumb up(大拇指) ICON转svg、png下载
 name: thumb-up
 zhTips: 大拇指,喜欢
 tags: []
+search: like,thumbs-up
 
 ---
 

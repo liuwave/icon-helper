@@ -4,6 +4,7 @@ title: ideogram cjk variant(表意文字cjk变体) ICON转svg、png下载
 name: ideogram-cjk-variant
 zhTips: 表意文字cjk变体,表意文字中文日韩变体,书写系统cjk变体
 tags: ["alpha-numeric"]
+search: ideogram-chinese-japanese-korean-variant,writing-system-cjk-variant
 
 ---
 

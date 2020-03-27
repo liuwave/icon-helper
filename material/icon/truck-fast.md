@@ -4,6 +4,7 @@ title: truck fast(快速卡车) ICON转svg、png下载
 name: truck-fast
 zhTips: 快速卡车,快速快递
 tags: ["transportation-road"]
+search: lorry-fast,courier-fast
 
 ---
 

@@ -4,6 +4,7 @@ title: map marker circle(地图标记圈) ICON转svg、png下载
 name: map-marker-circle
 zhTips: 地图标记圈,探索附近
 tags: ["navigation","geographic-information-system"]
+search: explore-nearby
 
 ---
 

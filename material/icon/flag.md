@@ -4,6 +4,7 @@ title: flag(标记) ICON转svg、png下载
 name: flag
 zhTips: 标记,助理照片
 tags: []
+search: assistant-photo
 
 ---
 

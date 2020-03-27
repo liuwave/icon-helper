@@ -5,6 +5,7 @@ name: github
 zhTips: GitHub,octocat
 tags: []
 pre: fab
+search: octocat
 
 ---
 

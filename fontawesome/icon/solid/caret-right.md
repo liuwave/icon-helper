@@ -5,6 +5,7 @@ name: caret-right
 zhTips: 右右,箭头,前进,下一个,三角形
 tags: ["arrows"]
 pre: fas
+search: arrow,forward,next,triangle
 
 ---
 

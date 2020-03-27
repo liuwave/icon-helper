@@ -4,6 +4,7 @@ title: zodiac cancer(生肖癌症) ICON转svg、png下载
 name: zodiac-cancer
 zhTips: 生肖癌症,星座癌症
 tags: []
+search: horoscope-cancer
 
 ---
 

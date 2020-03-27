@@ -5,6 +5,7 @@ name: fingerprint
 zhTips: 指纹,人类,id,标识,锁定,涂抹,触摸,独特,解锁
 tags: ["interfaces","security"]
 pre: fas
+search: human,id,identification,lock,smudge,touch,unique,unlock
 
 ---
 

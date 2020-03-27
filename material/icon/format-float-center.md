@@ -4,6 +4,7 @@ title: format float center(格式浮动中心) ICON转svg、png下载
 name: format-float-center
 zhTips: 格式浮动中心
 tags: ["text-content-format"]
+search: format-float-centre
 
 ---
 

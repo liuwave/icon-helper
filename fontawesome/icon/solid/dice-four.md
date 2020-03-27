@@ -5,6 +5,7 @@ name: dice-four
 zhTips: 骰子四,机会,赌博,游戏,掷骰子
 tags: ["games","objects"]
 pre: fas
+search: chance,gambling,game,roll
 
 ---
 

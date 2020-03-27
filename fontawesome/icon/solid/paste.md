@@ -5,6 +5,7 @@ name: paste
 zhTips: 粘贴,剪贴板,副本,文档,纸张
 tags: ["business","design","editors","files","interfaces","objects"]
 pre: fas
+search: clipboard,copy,document,paper
 
 ---
 

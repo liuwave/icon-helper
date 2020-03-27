@@ -4,6 +4,7 @@ title: folder outline(文件夹轮廓) ICON转svg、png下载
 name: folder-outline
 zhTips: 文件夹轮廓,打开文件夹
 tags: ["files-folders"]
+search: folder-open
 
 ---
 

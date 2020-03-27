@@ -4,6 +4,7 @@ title: battery minus(减去电池) ICON转svg、png下载
 name: battery-minus
 zhTips: 减去电池
 tags: ["battery","home-automation"]
+search: 
 
 ---
 

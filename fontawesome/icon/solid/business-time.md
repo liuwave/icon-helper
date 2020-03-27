@@ -5,6 +5,7 @@ name: business-time
 zhTips: 营业时间,警报,公文包,商务袜,时钟,领航员的飞行,提醒,星期三
 tags: ["business"]
 pre: fas
+search: alarm,briefcase,business socks,clock,flight of the conchords,reminder,wednesday
 
 ---
 

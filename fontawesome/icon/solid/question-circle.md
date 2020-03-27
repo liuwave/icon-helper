@@ -5,6 +5,7 @@ name: question-circle
 zhTips: 问题圈,帮助,信息,支持,未知
 tags: ["accessibility","interfaces","status"]
 pre: fas
+search: help,information,support,unknown
 
 ---
 

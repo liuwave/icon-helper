@@ -5,6 +5,7 @@ name: venus-double
 zhTips: 金星双,女
 tags: ["gender"]
 pre: fas
+search: female
 
 ---
 

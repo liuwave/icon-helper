@@ -4,6 +4,7 @@ title: card account mail outline(卡帐户邮件轮廓) ICON转svg、png下载
 name: card-account-mail-outline
 zhTips: 卡帐户邮件轮廓,联系邮件轮廓
 tags: ["account-user"]
+search: contact-mail-outline
 
 ---
 

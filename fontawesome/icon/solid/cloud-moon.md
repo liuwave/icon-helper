@@ -5,6 +5,7 @@ name: cloud-moon
 zhTips: 云与月亮,新月,晚上,月球,夜晚,部分多云,天空
 tags: ["halloween","weather"]
 pre: fas
+search: crescent,evening,lunar,night,partly cloudy,sky
 
 ---
 

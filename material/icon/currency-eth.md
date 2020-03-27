@@ -4,6 +4,7 @@ title: currency eth(货币ETH) ICON转svg、png下载
 name: currency-eth
 zhTips: 货币ETH,以太坊,西
 tags: ["currency","brand-logo","banking"]
+search: ethereum,xi
 
 ---
 

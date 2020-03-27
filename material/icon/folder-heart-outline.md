@@ -4,6 +4,7 @@ title: folder heart outline(文件夹心形轮廓) ICON转svg、png下载
 name: folder-heart-outline
 zhTips: 文件夹心形轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: arrow up circle(向上箭头) ICON转svg、png下载
 name: arrow-up-circle
 zhTips: 向上箭头,顶部箭头
 tags: ["arrow"]
+search: arrow-top-circle
 
 ---
 

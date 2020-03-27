@@ -4,6 +4,7 @@ title: pulse(脉搏) ICON转svg、png下载
 name: pulse
 zhTips: 脉搏,生命
 tags: ["medical-hospital"]
+search: vitals
 
 ---
 

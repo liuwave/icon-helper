@@ -4,6 +4,7 @@ title: file pdf box(文件pdf框) ICON转svg、png下载
 name: file-pdf-box
 zhTips: 文件pdf框,文件acrobat框
 tags: ["files-folders"]
+search: file-acrobat-box
 
 ---
 

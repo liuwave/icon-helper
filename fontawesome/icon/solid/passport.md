@@ -5,6 +5,7 @@ name: passport
 zhTips: 护照,文件,身份证,身份证明,已签发,旅行
 tags: ["security","travel"]
 pre: fas
+search: document,id,identification,issued,travel
 
 ---
 

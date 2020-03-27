@@ -4,6 +4,7 @@ title: view list(查看列表) ICON转svg、png下载
 name: view-list
 zhTips: 查看列表
 tags: ["view"]
+search: 
 
 ---
 

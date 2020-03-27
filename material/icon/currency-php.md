@@ -4,6 +4,7 @@ title: currency php(货币php) ICON转svg、png下载
 name: currency-php
 zhTips: 货币php,菲律宾比索
 tags: ["banking","currency"]
+search: philippine-peso
 
 ---
 

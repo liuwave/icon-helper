@@ -4,6 +4,7 @@ title: flag triangle(标志三角形) ICON转svg、png下载
 name: flag-triangle
 zhTips: 标志三角形,里程碑
 tags: []
+search: milestone
 
 ---
 

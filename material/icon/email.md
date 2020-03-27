@@ -4,6 +4,7 @@ title: email(电子邮件) ICON转svg、png下载
 name: email
 zhTips: 电子邮件,当地邮局,邮件,markunread,信封
 tags: []
+search: local-post-office,mail,markunread,envelope
 
 ---
 

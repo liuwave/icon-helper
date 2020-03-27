@@ -5,6 +5,7 @@ name: fan
 zhTips: 风扇,空调,刀片,风机,凉爽,热
 tags: ["energy","household","spinners"]
 pre: fas
+search: ac,air conditioning,blade,blower,cool,hot
 
 ---
 

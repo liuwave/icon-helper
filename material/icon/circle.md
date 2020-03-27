@@ -4,6 +4,7 @@ title: circle(圆圈) ICON转svg、png下载
 name: circle
 zhTips: 圆圈,镜头
 tags: ["shape"]
+search: lens
 
 ---
 

@@ -5,6 +5,7 @@ name: transgender-alt
 zhTips: 替代跨性别
 tags: ["gender"]
 pre: fas
+search: intersex
 
 ---
 

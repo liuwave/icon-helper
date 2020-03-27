@@ -5,6 +5,7 @@ name: hiking
 zhTips: 远足,活动,背包,秋天,健身,户外,人,季节性,步行
 tags: ["autumn","camping","fitness","users-people"]
 pre: fas
+search: activity,backpack,fall,fitness,outdoors,person,seasonal,walking
 
 ---
 

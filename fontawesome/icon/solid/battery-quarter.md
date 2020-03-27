@@ -5,6 +5,7 @@ name: battery-quarter
 zhTips: 电池1/4充满,充电,低,功率,状态
 tags: ["energy","status"]
 pre: fas
+search: charge,low,power,status
 
 ---
 

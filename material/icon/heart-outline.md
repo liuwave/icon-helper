@@ -4,6 +4,7 @@ title: heart outline(心形轮廓) ICON转svg、png下载
 name: heart-outline
 zhTips: 心形轮廓,收藏夹边框,收藏夹轮廓
 tags: ["shape","gaming-rpg"]
+search: favorite-border,favourite-border,favorite-outline,favourite-outline
 
 ---
 

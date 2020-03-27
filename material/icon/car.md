@@ -4,6 +4,7 @@ title: car(汽车) ICON转svg、png下载
 name: car
 zhTips: 汽车,汽车方向,行车时间,离开时间
 tags: ["transportation-road","navigation","automotive"]
+search: directions-car,drive-eta,time-to-leave
 
 ---
 

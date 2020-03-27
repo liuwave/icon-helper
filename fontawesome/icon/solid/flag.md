@@ -5,6 +5,7 @@ name: flag
 zhTips: 标志,国家,通知,杆,报告,符号
 tags: ["interfaces","maps","objects"]
 pre: fas
+search: country,notice,notification,notify,pole,report,symbol
 
 ---
 

@@ -4,6 +4,7 @@ title: shower(淋浴) ICON转svg、png下载
 name: shower
 zhTips: 淋浴
 tags: ["home-automation"]
+search: 
 
 ---
 

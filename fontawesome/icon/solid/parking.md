@@ -5,6 +5,7 @@ name: parking
 zhTips: 停车场,汽车,车库,仪表
 tags: ["maps","status"]
 pre: fas
+search: auto,car,garage,meter
 
 ---
 

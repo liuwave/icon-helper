@@ -5,6 +5,7 @@ name: carrot
 zhTips: 胡萝卜,小兔子,橙色,素食主义者,蔬菜
 tags: ["food","fruit-vegetable","holiday","objects"]
 pre: fas
+search: bugs bunny,orange,vegan,vegetable
 
 ---
 

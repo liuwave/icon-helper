@@ -5,6 +5,7 @@ name: long-arrow-alt-up
 zhTips: 备用长箭头向上,长箭头向上,上传
 tags: ["arrows"]
 pre: fas
+search: long-arrow-up,upload
 
 ---
 

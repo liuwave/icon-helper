@@ -4,6 +4,7 @@ title: border outside(外部边框) ICON转svg、png下载
 name: border-outside
 zhTips: 外部边框
 tags: ["text-content-format"]
+search: border-outer
 
 ---
 

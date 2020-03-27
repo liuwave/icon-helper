@@ -4,6 +4,7 @@ title: chart scatter plot(图表散点图) ICON转svg、png下载
 name: chart-scatter-plot
 zhTips: 图表散点图
 tags: ["math"]
+search: 
 
 ---
 

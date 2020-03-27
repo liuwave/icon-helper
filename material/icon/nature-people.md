@@ -4,6 +4,7 @@ title: nature people(大自然的人) ICON转svg、png下载
 name: nature-people
 zhTips: 大自然的人,孩子
 tags: ["account-user"]
+search: plant
 
 ---
 

@@ -4,6 +4,7 @@ title: alpha j circle(alpha j圈) ICON转svg、png下载
 name: alpha-j-circle
 zhTips: alpha j圈,字母j圈
 tags: ["alpha-numeric"]
+search: alphabet-j-circle,letter-j-circle
 
 ---
 

@@ -4,6 +4,7 @@ title: stove(火炉) ICON转svg、png下载
 name: stove
 zhTips: 火炉,炊具,烤箱
 tags: ["food-drink","home-automation"]
+search: cooker,oven
 
 ---
 

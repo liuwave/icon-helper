@@ -4,6 +4,7 @@ title: exponent box(指数盒) ICON转svg、png下载
 name: exponent-box
 zhTips: 指数盒,电源盒
 tags: ["math"]
+search: power-box
 
 ---
 

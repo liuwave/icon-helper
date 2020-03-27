@@ -5,6 +5,7 @@ name: bicycle
 zhTips: 自行车,齿轮,踏板,运输,车辆
 tags: ["fitness","maps","objects","vehicles"]
 pre: fas
+search: bike,gears,pedal,transportation,vehicle
 
 ---
 

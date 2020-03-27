@@ -4,6 +4,7 @@ title: alert box outline(警报框轮廓) ICON转svg、png下载
 name: alert-box-outline
 zhTips: 警报框轮廓,警告框轮廓
 tags: ["alert-error"]
+search: warning-box-outline
 
 ---
 

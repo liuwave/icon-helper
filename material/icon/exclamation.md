@@ -4,6 +4,7 @@ title: exclamation(感叹号) ICON转svg、png下载
 name: exclamation
 zhTips: 感叹号,析因
 tags: ["math"]
+search: factorial
 
 ---
 

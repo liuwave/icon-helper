@@ -4,6 +4,7 @@ title: hand pointing right(右手指向) ICON转svg、png下载
 name: hand-pointing-right
 zhTips: 右手指向
 tags: []
+search: 
 
 ---
 

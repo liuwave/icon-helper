@@ -5,6 +5,7 @@ name: newspaper
 zhTips: 报纸,文章,社论,标题,新闻
 tags: ["maps","objects","writing"]
 pre: far
+search: article,editorial,headline,journal,journalism,news,press
 
 ---
 

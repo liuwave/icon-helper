@@ -5,6 +5,7 @@ name: headphones-alt
 zhTips: 备用耳机,音频,听音乐,音乐,声音,扬声器
 tags: ["music","objects"]
 pre: fas
+search: audio,listen,music,sound,speaker
 
 ---
 

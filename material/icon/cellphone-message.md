@@ -4,6 +4,7 @@ title: cellphone message(手机短信) ICON转svg、png下载
 name: cellphone-message
 zhTips: 手机短信,智能手机短信
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone-message,smartphone-message
 
 ---
 

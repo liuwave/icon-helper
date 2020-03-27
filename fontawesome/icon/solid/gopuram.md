@@ -5,6 +5,7 @@ name: gopuram
 zhTips: Gopuram,建筑,入口,印度教,寺庙,塔
 tags: ["buildings","religion"]
 pre: fas
+search: building,entrance,hinduism,temple,tower
 
 ---
 

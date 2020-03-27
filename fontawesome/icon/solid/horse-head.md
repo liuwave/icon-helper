@@ -5,6 +5,7 @@ name: horse-head
 zhTips: 马头,马,动物群,哺乳动物,母马,邻居,小马
 tags: ["animals"]
 pre: fas
+search: equus,fauna,mammmal,mare,neigh,pony
 
 ---
 

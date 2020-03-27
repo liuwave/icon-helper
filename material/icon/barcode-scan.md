@@ -4,6 +4,7 @@ title: barcode scan(条码扫描) ICON转svg、png下载
 name: barcode-scan
 zhTips: 条码扫描,条码扫描器
 tags: []
+search: barcode-scanner
 
 ---
 

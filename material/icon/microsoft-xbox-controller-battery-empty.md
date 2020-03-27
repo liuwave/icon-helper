@@ -4,6 +4,7 @@ title: microsoft xbox controller battery empty(Microsoft xbox控制器电池已�
 name: microsoft-xbox-controller-battery-empty
 zhTips: Microsoft xbox控制器电池已耗尽
 tags: ["battery","gaming-rpg"]
+search: 
 
 ---
 

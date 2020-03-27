@@ -4,6 +4,7 @@ title: trophy(奖杯) ICON转svg、png下载
 name: trophy
 zhTips: 奖杯,成就
 tags: ["sport"]
+search: achievement
 
 ---
 

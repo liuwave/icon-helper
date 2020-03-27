@@ -4,6 +4,7 @@ title: headset(头戴式耳机) ICON转svg、png下载
 name: headset
 zhTips: 头戴式耳机,头戴式麦克风
 tags: ["audio","device-tech"]
+search: headset-mic
 
 ---
 

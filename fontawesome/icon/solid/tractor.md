@@ -5,6 +5,7 @@ name: tractor
 zhTips: 拖拉机,农业,农场,车辆
 tags: ["autumn","vehicles"]
 pre: fas
+search: agriculture,farm,vehicle
 
 ---
 

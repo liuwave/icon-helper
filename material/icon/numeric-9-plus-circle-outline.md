@@ -4,6 +4,7 @@ title: numeric 9 plus circle outline(数字9加圆圈轮廓) ICON转svg、png下
 name: numeric-9-plus-circle-outline
 zhTips: 数字9加圆圈轮廓
 tags: ["alpha-numeric"]
+search: numeric-nine-plus-circle-outline,number-9-plus-circle-outline,number-nine-plus-circle-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: chevron-right
 zhTips: 人字形右,箭头,括号,前进,下一个
 tags: ["arrows"]
 pre: fas
+search: arrow,bracket,forward,next
 
 ---
 

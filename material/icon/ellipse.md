@@ -4,6 +4,7 @@ title: ellipse(椭圆) ICON转svg、png下载
 name: ellipse
 zhTips: 椭圆
 tags: ["shape"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: box cutter(箱刀) ICON转svg、png下载
 name: box-cutter
 zhTips: 箱刀,史丹利刀
 tags: []
+search: stanley-knife
 
 ---
 

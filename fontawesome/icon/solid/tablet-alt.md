@@ -5,6 +5,7 @@ name: tablet-alt
 zhTips: 备用平板电脑,苹果,设备,ipad,kindle,屏幕
 tags: ["computers","objects"]
 pre: fas
+search: apple,device,ipad,kindle,screen
 
 ---
 

@@ -4,6 +4,7 @@ title: cast audio(投放音频) ICON转svg、png下载
 name: cast-audio
 zhTips: 投放音频,投放扬声器
 tags: ["audio"]
+search: cast-speaker
 
 ---
 

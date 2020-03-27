@@ -4,6 +4,7 @@ title: invert colors off(关闭颜色) ICON转svg、png下载
 name: invert-colors-off
 zhTips: 关闭颜色
 tags: ["color"]
+search: invert-colours-off
 
 ---
 

@@ -5,6 +5,7 @@ name: laugh-squint
 zhTips: 笑着S着眼睛,笑声,表情符号,脸,快乐,微笑
 tags: ["emoji"]
 pre: fas
+search: LOL,emoticon,face,happy,smile
 
 ---
 

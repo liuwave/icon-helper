@@ -4,6 +4,7 @@ title: phone in talk outline(电话中的谈话轮廓) ICON转svg、png下载
 name: phone-in-talk-outline
 zhTips: 电话中的谈话轮廓
 tags: ["cellphone-phone"]
+search: telephone-in-talk-outline
 
 ---
 

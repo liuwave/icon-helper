@@ -4,6 +4,7 @@ title: folder remove outline(文件夹删除轮廓) ICON转svg、png下载
 name: folder-remove-outline
 zhTips: 文件夹删除轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

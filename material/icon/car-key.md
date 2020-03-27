@@ -4,6 +4,7 @@ title: car key(车钥匙) ICON转svg、png下载
 name: car-key
 zhTips: 车钥匙,租车
 tags: ["transportation-road","automotive"]
+search: car-rental,rent-a-car
 
 ---
 

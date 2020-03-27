@@ -4,6 +4,7 @@ title: quality high(高品质) ICON转svg、png下载
 name: quality-high
 zhTips: 高品质,总部
 tags: ["video-movie"]
+search: high-quality,hq
 
 ---
 

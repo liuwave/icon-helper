@@ -5,6 +5,7 @@ name: glass-martini
 zhTips: 马提尼酒杯,酒精,酒吧,饮料,酒
 tags: ["beverage","hotel","maps","objects","travel"]
 pre: fas
+search: alcohol,bar,beverage,drink,liquor
 
 ---
 

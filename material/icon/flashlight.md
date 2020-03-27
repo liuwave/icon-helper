@@ -4,6 +4,7 @@ title: flashlight(手电) ICON转svg、png下载
 name: flashlight
 zhTips: 手电,手电筒
 tags: []
+search: torch
 
 ---
 

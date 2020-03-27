@@ -4,6 +4,7 @@ title: diameter outline(直径轮廓) ICON转svg、png下载
 name: diameter-outline
 zhTips: 直径轮廓,圆直径轮廓,球体直径轮廓
 tags: ["math"]
+search: circle-diameter-outline,sphere-diameter-outline
 
 ---
 

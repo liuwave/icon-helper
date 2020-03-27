@@ -4,6 +4,7 @@ title: sprinkler variant(洒水口) ICON转svg、png下载
 name: sprinkler-variant
 zhTips: 洒水口,灌溉
 tags: ["home-automation"]
+search: irrigation
 
 ---
 

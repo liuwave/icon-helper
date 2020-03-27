@@ -4,6 +4,7 @@ title: judaism(犹太教) ICON转svg、png下载
 name: judaism
 zhTips: 犹太教,大卫之星,大卫·马根
 tags: ["religion"]
+search: jewish,religion-judaic,star-of-david,magen-david
 
 ---
 

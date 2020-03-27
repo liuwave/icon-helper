@@ -4,6 +4,7 @@ title: shield car(盾构汽车) ICON转svg、png下载
 name: shield-car
 zhTips: 盾构汽车,汽车安全,汽车保险
 tags: ["automotive"]
+search: car-security,car-insurance
 
 ---
 

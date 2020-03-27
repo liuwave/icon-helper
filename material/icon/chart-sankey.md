@@ -4,6 +4,7 @@ title: chart sankey(图表桑基) ICON转svg、png下载
 name: chart-sankey
 zhTips: 图表桑基,图表曲折
 tags: ["math"]
+search: chart-snakey
 
 ---
 

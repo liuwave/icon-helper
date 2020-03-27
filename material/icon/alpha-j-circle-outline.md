@@ -4,6 +4,7 @@ title: alpha j circle outline(alpha j圆圈轮廓) ICON转svg、png下载
 name: alpha-j-circle-outline
 zhTips: alpha j圆圈轮廓,字母j圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-j-circle-outline,letter-j-circle-outline
 
 ---
 

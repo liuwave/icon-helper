@@ -5,6 +5,7 @@ name: candy-cane
 zhTips: Candy Cane,糖果,圣诞节,假日,薄荷,条纹
 tags: ["food","holiday","objects"]
 pre: fas
+search: candy,christmas,holiday,mint,peppermint,striped,xmas
 
 ---
 

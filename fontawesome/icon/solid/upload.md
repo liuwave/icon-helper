@@ -5,6 +5,7 @@ name: upload
 zhTips: 上传,硬盘驱动器,导入,发布
 tags: ["arrows","computers","interfaces"]
 pre: fas
+search: hard drive,import,publish
 
 ---
 

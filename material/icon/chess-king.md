@@ -4,6 +4,7 @@ title: chess king(国际象棋王) ICON转svg、png下载
 name: chess-king
 zhTips: 国际象棋王
 tags: ["gaming-rpg"]
+search: 
 
 ---
 

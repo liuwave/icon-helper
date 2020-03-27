@@ -4,6 +4,7 @@ title: book open(打开书本) ICON转svg、png下载
 name: book-open
 zhTips: 打开书本,Chrome阅读器模式
 tags: []
+search: chrome-reader-mode
 
 ---
 

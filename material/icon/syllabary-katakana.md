@@ -4,6 +4,7 @@ title: syllabary katakana(音节片假名) ICON转svg、png下载
 name: syllabary-katakana
 zhTips: 音节片假名,书写系统片假名
 tags: ["alpha-numeric"]
+search: writing-system-katakana
 
 ---
 

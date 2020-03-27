@@ -4,6 +4,7 @@ title: format color fill(颜色填充格式) ICON转svg、png下载
 name: format-color-fill
 zhTips: 颜色填充格式,油漆,油漆桶
 tags: ["text-content-format","color"]
+search: format-colour-fill,paint,paint-bucket
 
 ---
 

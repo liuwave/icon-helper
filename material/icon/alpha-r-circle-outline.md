@@ -4,6 +4,7 @@ title: alpha r circle outline(字母r圆圈轮廓) ICON转svg、png下载
 name: alpha-r-circle-outline
 zhTips: 字母r圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-r-circle-outline,letter-r-circle-outline
 
 ---
 

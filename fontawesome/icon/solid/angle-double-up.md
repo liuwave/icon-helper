@@ -5,6 +5,7 @@ name: angle-double-up
 zhTips: Angle Double Up,箭头,插入符号,崩溃,上载
 tags: ["arrows"]
 pre: fas
+search: arrows,caret,collapse,upload
 
 ---
 

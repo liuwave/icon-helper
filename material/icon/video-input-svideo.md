@@ -4,6 +4,7 @@ title: video input svideo(视频输入svideo) ICON转svg、png下载
 name: video-input-svideo
 zhTips: 视频输入svideo,svideo输入设置
 tags: ["video-movie"]
+search: settings-input-svideo
 
 ---
 

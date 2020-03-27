@@ -4,6 +4,7 @@ title: brightness 6(亮度6) ICON转svg、png下载
 name: brightness-6
 zhTips: 亮度6,中等亮度,浅暗主题
 tags: []
+search: brightness-medium,theme-light-dark
 
 ---
 

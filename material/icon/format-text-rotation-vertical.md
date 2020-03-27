@@ -4,6 +4,7 @@ title: format text rotation vertical(垂直旋转文本格式) ICON转svg、png�
 name: format-text-rotation-vertical
 zhTips: 垂直旋转文本格式
 tags: ["text-content-format"]
+search: 
 
 ---
 

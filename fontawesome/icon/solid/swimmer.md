@@ -5,6 +5,7 @@ name: swimmer
 zhTips: 游泳者,运动员,头,之一,奥运会,人,游泳池,水
 tags: ["fitness","hotel","maritime","sports","summer","travel","users-people"]
 pre: fas
+search: athlete,head,man,olympics,person,pool,water
 
 ---
 

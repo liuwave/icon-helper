@@ -5,6 +5,7 @@ name: map
 zhTips: 地图,地址,坐标,目的地,gps,本地化,位置,导航,纸张,pin,地方,兴趣点,路线,旅行
 tags: ["camping","maps","objects","travel"]
 pre: far
+search: address,coordinates,destination,gps,localize,location,map,navigation,paper,pin,place,point of interest,position,route,travel
 
 ---
 

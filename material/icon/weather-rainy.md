@@ -4,6 +4,7 @@ title: weather rainy(阴雨天气) ICON转svg、png下载
 name: weather-rainy
 zhTips: 阴雨天气,毛毛雨天气,随地吐痰的天气
 tags: ["weather"]
+search: weather-drizzle,weather-spitting
 
 ---
 

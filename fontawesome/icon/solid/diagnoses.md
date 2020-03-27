@@ -5,6 +5,7 @@ name: diagnoses
 zhTips: 诊断,分析,检测,检查,医学
 tags: ["medical"]
 pre: fas
+search: analyze,detect,diagnosis,examine,medicine
 
 ---
 

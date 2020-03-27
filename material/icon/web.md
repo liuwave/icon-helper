@@ -4,6 +4,7 @@ title: web(网络) ICON转svg、png下载
 name: web
 zhTips: 网络,语言
 tags: ["geographic-information-system"]
+search: language
 
 ---
 

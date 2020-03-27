@@ -4,6 +4,7 @@ title: motion sensor(运动传感器) ICON转svg、png下载
 name: motion-sensor
 zhTips: 运动传感器,运动检测器
 tags: ["home-automation"]
+search: motion-detector
 
 ---
 

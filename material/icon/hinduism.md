@@ -4,6 +4,7 @@ title: hinduism(印度教) ICON转svg、png下载
 name: hinduism
 zhTips: 印度教,om
 tags: ["religion"]
+search: religion-hindu,om
 
 ---
 

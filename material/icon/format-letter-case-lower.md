@@ -4,6 +4,7 @@ title: format letter case lower(小写字母格式) ICON转svg、png下载
 name: format-letter-case-lower
 zhTips: 小写字母格式,小写格式
 tags: ["text-content-format"]
+search: format-lowercase
 
 ---
 

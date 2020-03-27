@@ -4,6 +4,7 @@ title: music note plus(加上音符) ICON转svg、png下载
 name: music-note-plus
 zhTips: 加上音符
 tags: ["audio","music"]
+search: music-note-add
 
 ---
 

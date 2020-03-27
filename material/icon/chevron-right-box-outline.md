@@ -4,6 +4,7 @@ title: chevron right box outline(人字形右框的轮廓) ICON转svg、png下�
 name: chevron-right-box-outline
 zhTips: 人字形右框的轮廓
 tags: ["arrow"]
+search: 
 
 ---
 

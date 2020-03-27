@@ -4,6 +4,7 @@ title: chevron down(V形向下) ICON转svg、png下载
 name: chevron-down
 zhTips: V形向下,展开更多,键盘向下箭头
 tags: ["arrow"]
+search: expand-more,keyboard-arrow-down
 
 ---
 

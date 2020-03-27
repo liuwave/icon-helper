@@ -4,6 +4,7 @@ title: emoticon devil(表情魔鬼) ICON转svg、png下载
 name: emoticon-devil
 zhTips: 表情魔鬼,笑脸魔鬼
 tags: ["emoji"]
+search: smiley-devil
 
 ---
 

@@ -5,6 +5,7 @@ name: voicemail
 zhTips: 语音邮件,应答,收件箱,消息,电话
 tags: ["communication"]
 pre: fas
+search: answer,inbox,message,phone
 
 ---
 

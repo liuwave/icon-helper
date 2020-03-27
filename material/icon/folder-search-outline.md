@@ -4,6 +4,7 @@ title: folder search outline(文件夹搜索轮廓) ICON转svg、png下载
 name: folder-search-outline
 zhTips: 文件夹搜索轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

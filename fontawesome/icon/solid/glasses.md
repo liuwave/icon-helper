@@ -5,6 +5,7 @@ name: glasses
 zhTips: 眼镜,时髦,书呆子,阅读,视线,视觉
 tags: ["business","editors","interfaces","objects"]
 pre: fas
+search: hipster,nerd,reading,sight,spectacles,vision
 
 ---
 

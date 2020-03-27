@@ -4,6 +4,7 @@ title: alpha o circle(字母o圈) ICON转svg、png下载
 name: alpha-o-circle
 zhTips: 字母o圈
 tags: ["alpha-numeric"]
+search: alphabet-o-circle,letter-o-circle
 
 ---
 

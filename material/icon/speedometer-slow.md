@@ -4,6 +4,7 @@ title: speedometer slow(慢速里程表) ICON转svg、png下载
 name: speedometer-slow
 zhTips: 慢速里程表
 tags: ["automotive"]
+search: 
 
 ---
 

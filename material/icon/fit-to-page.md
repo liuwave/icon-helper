@@ -4,6 +4,7 @@ title: fit to page(适合页面) ICON转svg、png下载
 name: fit-to-page
 zhTips: 适合页面
 tags: ["text-content-format","arrow"]
+search: 
 
 ---
 

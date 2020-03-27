@@ -4,6 +4,7 @@ title: glass tulip(玻璃郁金香) ICON转svg、png下载
 name: glass-tulip
 zhTips: 玻璃郁金香,酒吧
 tags: ["food-drink"]
+search: bar
 
 ---
 

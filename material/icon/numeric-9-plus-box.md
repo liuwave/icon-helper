@@ -4,6 +4,7 @@ title: numeric 9 plus box(数字9加号框) ICON转svg、png下载
 name: numeric-9-plus-box
 zhTips: 数字9加号框
 tags: ["alpha-numeric"]
+search: numeric-nine-plus-box,number-9-plus-box
 
 ---
 

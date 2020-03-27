@@ -5,6 +5,7 @@ name: angle-double-left
 zhTips: Angle Double Left,箭头,后退,插入符号,laquo,上一个,引用
 tags: ["arrows"]
 pre: fas
+search: arrows,back,caret,laquo,previous,quote
 
 ---
 

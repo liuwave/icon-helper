@@ -4,6 +4,7 @@ title: battery(电池) ICON转svg、png下载
 name: battery
 zhTips: 电池,电池已充满,电池标准,电池100
 tags: ["battery","home-automation","automotive"]
+search: battery-full,battery-std,battery-100
 
 ---
 

@@ -5,6 +5,7 @@ name: ups
 zhTips: UPS,联合包裹服务,包裹,运输
 tags: []
 pre: fab
+search: United Parcel Service,package,shipping
 
 ---
 

@@ -4,6 +4,7 @@ title: table large remove(表大号删除) ICON转svg、png下载
 name: table-large-remove
 zhTips: 表大号删除
 tags: ["text-content-format","geographic-information-system"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: menu up(菜单向上) ICON转svg、png下载
 name: menu-up
 zhTips: 菜单向上,箭头下拉
 tags: ["arrow"]
+search: arrow-drop-up
 
 ---
 

@@ -4,6 +4,7 @@ title: monitor cellphone(手机监控器) ICON转svg、png下载
 name: monitor-cellphone
 zhTips: 手机监控器,智能手机监控器
 tags: ["cellphone-phone","device-tech"]
+search: monitor-mobile-phone,monitor-smartphone
 
 ---
 

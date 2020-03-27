@@ -4,6 +4,7 @@ title: printer alert(打印机警报) ICON转svg、png下载
 name: printer-alert
 zhTips: 打印机警报,打印机警告
 tags: ["printer","home-automation","alert-error"]
+search: printer-warning
 
 ---
 

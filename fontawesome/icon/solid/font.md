@@ -5,6 +5,7 @@ name: font
 zhTips: 字体,字母,字形,文本,类型
 tags: ["editors"]
 pre: fas
+search: alphabet,glyph,text,type,typeface
 
 ---
 

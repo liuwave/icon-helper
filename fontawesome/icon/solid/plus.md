@@ -5,6 +5,7 @@ name: plus
 zhTips: plus,add,create,expand,new,positive,shape
 tags: ["interfaces","maps","mathematics","medical","status"]
 pre: fas
+search: add,create,expand,new,positive,shape
 
 ---
 

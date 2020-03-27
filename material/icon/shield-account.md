@@ -4,6 +4,7 @@ title: shield account(屏蔽帐户) ICON转svg、png下载
 name: shield-account
 zhTips: 屏蔽帐户,安全帐户,屏蔽用户,屏蔽人员
 tags: ["account-user"]
+search: security-account,shield-user,shield-person
 
 ---
 

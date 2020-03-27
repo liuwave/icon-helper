@@ -4,6 +4,7 @@ title: sony playstation(索尼playstation) ICON转svg、png下载
 name: sony-playstation
 zhTips: 索尼playstation,playstation网络
 tags: ["brand-logo","gaming-rpg"]
+search: sony-playstation,playstation-network
 
 ---
 

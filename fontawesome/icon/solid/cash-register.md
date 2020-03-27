@@ -5,6 +5,7 @@ name: cash-register
 zhTips: 收银机,购买,查清,更改,结帐,商务,剪贴板,机器,支付,付款,存储
 tags: ["finance","shopping"]
 pre: fas
+search: buy,cha-ching,change,checkout,commerce,leaerboard,machine,pay,payment,purchase,store
 
 ---
 

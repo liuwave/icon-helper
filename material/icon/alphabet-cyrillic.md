@@ -4,6 +4,7 @@ title: alphabet cyrillic(字母西里尔文) ICON转svg、png下载
 name: alphabet-cyrillic
 zhTips: 字母西里尔文,写作西里尔文系统
 tags: ["alpha-numeric"]
+search: writing-system-cyrillic
 
 ---
 

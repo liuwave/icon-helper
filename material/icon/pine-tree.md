@@ -4,6 +4,7 @@ title: pine tree(松树) ICON转svg、png下载
 name: pine-tree
 zhTips: 松树,森林,植物
 tags: ["holiday","nature","places"]
+search: forest,plant
 
 ---
 

@@ -5,6 +5,7 @@ name: person-booth
 zhTips: 人员进入展位,更衣室,选举,人类,人,投票
 tags: ["political","shopping","users-people"]
 pre: fas
+search: changing,changing room,election,human,person,vote,voting
 
 ---
 

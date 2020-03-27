@@ -4,6 +4,7 @@ title: cellphone(手机) ICON转svg、png下载
 name: cellphone
 zhTips: 手机,智能手机,保持当前肖像,保持主要肖像
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone,smartphone,stay-current-portrait,stay-primary-portrait
 
 ---
 

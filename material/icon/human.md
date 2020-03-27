@@ -4,6 +4,7 @@ title: human(人类) ICON转svg、png下载
 name: human
 zhTips: 人类,可访问性
 tags: ["people-family"]
+search: accessibility
 
 ---
 

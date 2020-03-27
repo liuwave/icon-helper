@@ -4,6 +4,7 @@ title: alpha y box outline(字母y框轮廓) ICON转svg、png下载
 name: alpha-y-box-outline
 zhTips: 字母y框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-y-box-outline,letter-y-box-outline
 
 ---
 

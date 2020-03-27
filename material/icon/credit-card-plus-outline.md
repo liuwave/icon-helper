@@ -4,6 +4,7 @@ title: credit card plus outline(信用卡加轮廓) ICON转svg、png下载
 name: credit-card-plus-outline
 zhTips: 信用卡加轮廓,信用卡添加
 tags: ["banking"]
+search: credit-card-add
 
 ---
 

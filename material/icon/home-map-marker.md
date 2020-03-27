@@ -4,6 +4,7 @@ title: home map marker(主页地图标记) ICON转svg、png下载
 name: home-map-marker
 zhTips: 主页地图标记,房屋地图标记
 tags: ["home-automation","navigation"]
+search: house-map-marker
 
 ---
 

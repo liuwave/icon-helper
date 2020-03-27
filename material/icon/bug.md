@@ -4,6 +4,7 @@ title: bug(错误) ICON转svg、png下载
 name: bug
 zhTips: 错误,错误报告
 tags: ["nature"]
+search: bug-report
 
 ---
 

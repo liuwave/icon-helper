@@ -4,6 +4,7 @@ title: google drive(Google驱动器) ICON转svg、png下载
 name: google-drive
 zhTips: Google驱动器,附加驱动器
 tags: ["brand-logo"]
+search: attach-drive
 
 ---
 

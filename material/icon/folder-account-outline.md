@@ -4,6 +4,7 @@ title: folder account outline(文件夹帐户轮廓) ICON转svg、png下载
 name: folder-account-outline
 zhTips: 文件夹帐户轮廓,文件夹用户轮廓,文件夹共享轮廓
 tags: ["files-folders","account-user"]
+search: folder-user-outline,folder-shared-outline
 
 ---
 

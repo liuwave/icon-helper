@@ -5,6 +5,7 @@ name: arrow-circle-down
 zhTips: 向下箭头下载
 tags: ["arrows"]
 pre: fas
+search: download
 
 ---
 

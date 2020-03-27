@@ -5,6 +5,7 @@ name: caret-up
 zhTips: 放大,箭头,折叠,三角形
 tags: ["arrows"]
 pre: fas
+search: arrow,collapse,triangle
 
 ---
 

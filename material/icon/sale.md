@@ -4,6 +4,7 @@ title: sale(销售) ICON转svg、png下载
 name: sale
 zhTips: 销售,折扣
 tags: []
+search: discount
 
 ---
 

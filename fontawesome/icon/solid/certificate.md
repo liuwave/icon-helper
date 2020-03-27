@@ -5,6 +5,7 @@ name: certificate
 zhTips: 证书,徽章,星级,已验证
 tags: ["business","interfaces","payments-shopping","shapes","spinners"]
 pre: fas
+search: badge,star,verified
 
 ---
 

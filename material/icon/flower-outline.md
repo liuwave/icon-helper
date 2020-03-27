@@ -4,6 +4,7 @@ title: flower outline(花卉轮廓) ICON转svg、png下载
 name: flower-outline
 zhTips: 花卉轮廓,当地花店轮廓,儿童
 tags: ["nature"]
+search: local-florist-outline,plant
 
 ---
 

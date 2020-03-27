@@ -5,6 +5,7 @@ name: headset
 zhTips: 耳机,音频,游戏,听,实时聊天,麦克风,主叫方,声音,支持,电话推销员
 tags: ["games","objects"]
 pre: fas
+search: audio,gamer,gaming,listen,live chat,microphone,shot caller,sound,support,telemarketer
 
 ---
 

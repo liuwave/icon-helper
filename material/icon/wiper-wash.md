@@ -4,6 +4,7 @@ title: wiper wash(刮水器清洗液) ICON转svg、png下载
 name: wiper-wash
 zhTips: 刮水器清洗液,刮水器,液洗器
 tags: []
+search: wiper-fluid,washer-fluid
 
 ---
 

@@ -4,6 +4,7 @@ title: progress check(进度检查) ICON转svg、png下载
 name: progress-check
 zhTips: 进度检查,进度刻度
 tags: []
+search: progress-tick
 
 ---
 

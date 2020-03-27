@@ -5,6 +5,7 @@ name: pepper-hot
 zhTips: 辣椒,水牛城的翅膀,哈瓦那人,墨西哥胡椒,墨西哥,辣,塔巴斯科,蔬菜
 tags: ["food","fruit-vegetable"]
 pre: fas
+search: buffalo wings,capsicum,chili,chilli,habanero,jalapeno,mexican,spicy,tabasco,vegetable
 
 ---
 

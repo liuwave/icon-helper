@@ -4,6 +4,7 @@ title: screen rotation lock(屏幕旋转锁定) ICON转svg、png下载
 name: screen-rotation-lock
 zhTips: 屏幕旋转锁定,屏幕锁定旋转
 tags: ["lock"]
+search: screen-lock-rotation
 
 ---
 

@@ -4,6 +4,7 @@ title: table account(表帐户) ICON转svg、png下载
 name: table-account
 zhTips: 表帐户,表用户
 tags: ["account-user"]
+search: table-user
 
 ---
 

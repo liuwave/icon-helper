@@ -5,6 +5,7 @@ name: linux
 zhTips: Linux,tux
 tags: []
 pre: fab
+search: tux
 
 ---
 

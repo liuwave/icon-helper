@@ -4,6 +4,7 @@ title: human wheelchair(轮椅) ICON转svg、png下载
 name: human-wheelchair
 zhTips: 轮椅
 tags: ["people-family"]
+search: 
 
 ---
 

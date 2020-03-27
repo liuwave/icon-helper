@@ -4,6 +4,7 @@ title: toothbrush electric(电动牙刷) ICON转svg、png下载
 name: toothbrush-electric
 zhTips: 电动牙刷,牙医,口腔卫生
 tags: ["medical-hospital"]
+search: dentist,oral-hygiene
 
 ---
 

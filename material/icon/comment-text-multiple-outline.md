@@ -4,6 +4,7 @@ title: comment text multiple outline(评论文本多个轮廓) ICON转svg、png�
 name: comment-text-multiple-outline
 zhTips: 评论文本多个轮廓,评论文本轮廓
 tags: []
+search: comments-text-outline
 
 ---
 

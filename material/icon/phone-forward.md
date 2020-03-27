@@ -4,6 +4,7 @@ title: phone forward(电话转接) ICON转svg、png下载
 name: phone-forward
 zhTips: 电话转接
 tags: ["cellphone-phone"]
+search: phone-forwarded,telephone-forward
 
 ---
 

@@ -4,6 +4,7 @@ title: calculator(计算器) ICON转svg、png下载
 name: calculator
 zhTips: 计算器
 tags: ["math"]
+search: 
 
 ---
 

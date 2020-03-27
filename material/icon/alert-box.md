@@ -4,6 +4,7 @@ title: alert box(警报框) ICON转svg、png下载
 name: alert-box
 zhTips: 警报框,警告框
 tags: ["alert-error"]
+search: warning-box
 
 ---
 

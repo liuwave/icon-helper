@@ -4,6 +4,7 @@ title: power settings(电源设置) ICON转svg、png下载
 name: power-settings
 zhTips: 电源设置
 tags: ["settings"]
+search: settings-power
 
 ---
 

@@ -4,6 +4,7 @@ title: tumble dryer alert(烘干机警报) ICON转svg、png下载
 name: tumble-dryer-alert
 zhTips: 烘干机警报
 tags: ["home-automation","alert-error"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: chart timeline variant(图表时间线重音) ICON转svg、png下载
 name: chart-timeline-variant
 zhTips: 图表时间线重音
 tags: ["math"]
+search: 
 
 ---
 

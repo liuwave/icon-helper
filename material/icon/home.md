@@ -4,6 +4,7 @@ title: home(房屋) ICON转svg、png下载
 name: home
 zhTips: 房屋
 tags: ["home-automation","places"]
+search: house
 
 ---
 

@@ -5,6 +5,7 @@ name: motorcycle
 zhTips: 摩托车,自行车,机械,运输,车辆
 tags: ["automotive","maps","objects","vehicles"]
 pre: fas
+search: bike,machine,transportation,vehicle
 
 ---
 

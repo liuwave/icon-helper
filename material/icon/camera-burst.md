@@ -4,6 +4,7 @@ title: camera burst(相机连拍) ICON转svg、png下载
 name: camera-burst
 zhTips: 相机连拍,连拍模式
 tags: ["photography"]
+search: burst-mode
 
 ---
 

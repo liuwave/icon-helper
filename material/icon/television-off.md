@@ -4,6 +4,7 @@ title: television off(电视关闭) ICON转svg、png下载
 name: television-off
 zhTips: 电视关闭
 tags: ["device-tech","home-automation"]
+search: tv-off
 
 ---
 

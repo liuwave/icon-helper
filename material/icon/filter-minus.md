@@ -4,6 +4,7 @@ title: filter minus(负号过滤器) ICON转svg、png下载
 name: filter-minus
 zhTips: 负号过滤器,负号漏斗
 tags: []
+search: funnel-minus
 
 ---
 

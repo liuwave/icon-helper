@@ -5,6 +5,7 @@ name: window-maximize
 zhTips: 最大化窗口,浏览器,计算机,开发,扩展
 tags: ["code"]
 pre: fas
+search: browser,computer,development,expand
 
 ---
 

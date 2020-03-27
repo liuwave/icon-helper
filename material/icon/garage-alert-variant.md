@@ -4,6 +4,7 @@ title: garage alert variant(车库警报口音) ICON转svg、png下载
 name: garage-alert-variant
 zhTips: 车库警报口音
 tags: ["home-automation","alert-error"]
+search: 
 
 ---
 

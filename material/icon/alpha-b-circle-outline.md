@@ -4,6 +4,7 @@ title: alpha b circle outline(字母b圆圈轮廓) ICON转svg、png下载
 name: alpha-b-circle-outline
 zhTips: 字母b圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-b-circle-outline,letter-b-circle-outline
 
 ---
 

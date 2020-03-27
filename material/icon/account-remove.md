@@ -4,6 +4,7 @@ title: account remove(帐户删除) ICON转svg、png下载
 name: account-remove
 zhTips: 帐户删除,用户删除,人员删除
 tags: ["account-user"]
+search: user-remove,person-remove
 
 ---
 

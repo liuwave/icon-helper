@@ -4,6 +4,7 @@ title: sd(SD) ICON转svg、png下载
 name: sd
 zhTips: SD,SD卡,SD存储
 tags: []
+search: sd-card,sd-storage
 
 ---
 

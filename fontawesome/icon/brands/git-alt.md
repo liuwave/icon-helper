@@ -5,6 +5,7 @@ name: git-alt
 zhTips: Git Alt
 tags: []
 pre: fab
+search: 
 
 ---
 

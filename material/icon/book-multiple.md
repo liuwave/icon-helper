@@ -4,6 +4,7 @@ title: book multiple(多本书籍) ICON转svg、png下载
 name: book-multiple
 zhTips: 多本书籍
 tags: []
+search: books
 
 ---
 

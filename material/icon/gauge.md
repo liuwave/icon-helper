@@ -4,6 +4,7 @@ title: gauge(仪表) ICON转svg、png下载
 name: gauge
 zhTips: 仪表,交换驱动应用轮,气压计
 tags: ["home-automation","automotive"]
+search: swap-driving-apps-wheel,barometer
 
 ---
 

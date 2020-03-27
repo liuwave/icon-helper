@@ -5,6 +5,7 @@ name: dollar-sign
 zhTips: 美元符号,$,费用,货币,价格,美元
 tags: ["charity","currency","maps"]
 pre: fas
+search: $,cost,dollar-sign,money,price,usd
 
 ---
 

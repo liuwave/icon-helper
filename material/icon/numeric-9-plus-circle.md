@@ -4,6 +4,7 @@ title: numeric 9 plus circle(数字9加圆圈) ICON转svg、png下载
 name: numeric-9-plus-circle
 zhTips: 数字9加圆圈
 tags: ["alpha-numeric"]
+search: numeric-nine-plus-circle,number-9-plus-circle,number-nine-plus-circle
 
 ---
 

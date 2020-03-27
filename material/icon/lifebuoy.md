@@ -4,6 +4,7 @@ title: lifebuoy(救生圈) ICON转svg、png下载
 name: lifebuoy
 zhTips: 救生圈,支持,帮助
 tags: ["transportation-water"]
+search: life-preserver,support,help
 
 ---
 

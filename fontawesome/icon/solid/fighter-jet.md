@@ -5,6 +5,7 @@ name: fighter-jet
 zhTips: 喷气式战斗机,飞机,快速,飞,鹅,特立独行者,顶枪,运输,旅行
 tags: ["maps","objects","vehicles"]
 pre: fas
+search: airplane,fast,fly,goose,maverick,plane,quick,top gun,transportation,travel
 
 ---
 

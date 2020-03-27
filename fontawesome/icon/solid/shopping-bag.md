@@ -5,6 +5,7 @@ name: shopping-bag
 zhTips: 购物袋,购买,结帐,杂货,付款
 tags: ["maps","objects","payments-shopping","shopping"]
 pre: fas
+search: buy,checkout,grocery,payment,purchase
 
 ---
 

@@ -5,6 +5,7 @@ name: drafting-compass
 zhTips: 起草罗盘,设计,地图,机械制图,图解,绘图
 tags: ["construction","design"]
 pre: fas
+search: design,map,mechanical drawing,plot,plotting
 
 ---
 

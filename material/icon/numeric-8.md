@@ -4,6 +4,7 @@ title: numeric 8(数字8) ICON转svg、png下载
 name: numeric-8
 zhTips: 数字8
 tags: ["alpha-numeric","alpha-numeric"]
+search: number-8,numeric-eight
 
 ---
 

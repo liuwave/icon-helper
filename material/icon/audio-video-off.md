@@ -4,6 +4,7 @@ title: audio video off(关闭音频视频) ICON转svg、png下载
 name: audio-video-off
 zhTips: 关闭音频视频
 tags: ["home-automation"]
+search: 
 
 ---
 

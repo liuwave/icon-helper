@@ -5,6 +5,7 @@ name: hourglass-end
 zhTips: 沙漏结束,时,分,沙,秒表,时间
 tags: ["date-time"]
 pre: fas
+search: hour,minute,sand,stopwatch,time
 
 ---
 

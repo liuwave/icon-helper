@@ -4,6 +4,7 @@ title: school(学校) ICON转svg、png下载
 name: school
 zhTips: 学校,毕业帽,大学,学院,学术帽
 tags: []
+search: graduation-cap,university,college,academic-cap
 
 ---
 

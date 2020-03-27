@@ -4,6 +4,7 @@ title: fish(鱼) ICON转svg、png下载
 name: fish
 zhTips: 鱼
 tags: ["animal","food-drink"]
+search: 
 
 ---
 

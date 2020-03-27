@@ -4,6 +4,7 @@ title: alpha e circle(字母e圈) ICON转svg、png下载
 name: alpha-e-circle
 zhTips: 字母e圈
 tags: ["alpha-numeric"]
+search: alphabet-e-circle,letter-e-circle
 
 ---
 

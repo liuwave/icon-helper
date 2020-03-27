@@ -4,6 +4,7 @@ title: file remove outline(文件删除轮廓) ICON转svg、png下载
 name: file-remove-outline
 zhTips: 文件删除轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

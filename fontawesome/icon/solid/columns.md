@@ -5,6 +5,7 @@ name: columns
 zhTips: 列,浏览器,仪表板,组织,窗格,拆分
 tags: ["business","editors"]
 pre: fas
+search: browser,dashboard,organize,panes,split
 
 ---
 

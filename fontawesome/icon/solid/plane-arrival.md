@@ -5,6 +5,7 @@ name: plane-arrival
 zhTips: 飞机抵达,飞机,到达,目的地,飞行,着陆,位置,模式,旅行
 tags: ["travel"]
 pre: fas
+search: airplane,arriving,destination,fly,land,landing,location,mode,travel,trip
 
 ---
 

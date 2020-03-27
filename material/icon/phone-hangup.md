@@ -4,6 +4,7 @@ title: phone hangup(电话挂断) ICON转svg、png下载
 name: phone-hangup
 zhTips: 电话挂断,通话结束
 tags: ["cellphone-phone"]
+search: call-end,telephone-hangup
 
 ---
 

@@ -4,6 +4,7 @@ title: clipboard arrow down outline(剪贴板箭头向下轮廓) ICON转svg、pn
 name: clipboard-arrow-down-outline
 zhTips: 剪贴板箭头向下轮廓,分配返回的轮廓,剪贴板箭头底部轮廓
 tags: []
+search: assignment-returned-outline,clipboard-arrow-bottom-outline
 
 ---
 

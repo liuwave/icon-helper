@@ -4,6 +4,7 @@ title: alpha o circle outline(字母o圆圈轮廓) ICON转svg、png下载
 name: alpha-o-circle-outline
 zhTips: 字母o圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-o-circle-outline,letter-o-circle-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: monitor(监视器) ICON转svg、png下载
 name: monitor
 zhTips: 监视器,桌面窗口
 tags: ["device-tech"]
+search: desktop-windows
 
 ---
 

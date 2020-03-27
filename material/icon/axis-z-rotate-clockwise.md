@@ -4,6 +4,7 @@ title: axis z rotate clockwise(轴z顺时针旋转) ICON转svg、png下载
 name: axis-z-rotate-clockwise
 zhTips: 轴z顺时针旋转,垂直轴顺时针旋转
 tags: []
+search: vertical-rotate-clockwise
 
 ---
 

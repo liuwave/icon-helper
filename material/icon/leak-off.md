@@ -4,6 +4,7 @@ title: leak off(泄漏) ICON转svg、png下载
 name: leak-off
 zhTips: 泄漏,接近传感器关闭
 tags: []
+search: proximity-sensor-off
 
 ---
 

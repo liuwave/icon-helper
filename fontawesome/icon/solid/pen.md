@@ -5,6 +5,7 @@ name: pen
 zhTips: 笔,设计,编辑,更新,编写
 tags: ["business","design","editors","interfaces","objects","writing"]
 pre: fas
+search: design,edit,update,write
 
 ---
 

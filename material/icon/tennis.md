@@ -4,6 +4,7 @@ title: tennis(网球) ICON转svg、png下载
 name: tennis
 zhTips: 网球,球拍网球,网球拍
 tags: ["sport"]
+search: tennis-racquet,tennis-racket
 
 ---
 

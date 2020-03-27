@@ -5,6 +5,7 @@ name: blog
 zhTips: 博客,新闻稿,日志,在线,个人,发布,web 2.0,wordpress,写作
 tags: ["interfaces","writing"]
 pre: fas
+search: journal,log,online,personal,post,web 2.0,wordpress,writing
 
 ---
 

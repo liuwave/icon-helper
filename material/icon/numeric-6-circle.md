@@ -4,6 +4,7 @@ title: numeric 6 circle(数字6圈) ICON转svg、png下载
 name: numeric-6-circle
 zhTips: 数字6圈
 tags: ["alpha-numeric"]
+search: numeric-six-circle,number-6-circle,number-six-circle
 
 ---
 

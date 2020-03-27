@@ -4,6 +4,7 @@ title: shape rectangle plus(形状矩形加) ICON转svg、png下载
 name: shape-rectangle-plus
 zhTips: 形状矩形加
 tags: ["shape"]
+search: shape-rectangle-add
 
 ---
 

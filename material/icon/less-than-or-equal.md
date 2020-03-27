@@ -4,6 +4,7 @@ title: less than or equal(小于或等于) ICON转svg、png下载
 name: less-than-or-equal
 zhTips: 小于或等于
 tags: ["math"]
+search: 
 
 ---
 

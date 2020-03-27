@@ -5,6 +5,7 @@ name: pager
 zhTips: 传呼机,蜂鸣器,手机,通信
 tags: ["medical"]
 pre: fas
+search: beeper,cellphone,communication
 
 ---
 

@@ -4,6 +4,7 @@ title: marker(标记) ICON转svg、png下载
 name: marker
 zhTips: 标记,荧光笔
 tags: ["text-content-format"]
+search: highlighter
 
 ---
 

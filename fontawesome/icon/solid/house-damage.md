@@ -5,6 +5,7 @@ name: house-damage
 zhTips: 损坏的房屋,建筑物,破坏,灾难,房屋,保险
 tags: ["buildings"]
 pre: fas
+search: building,devastation,disaster,home,insurance
 
 ---
 

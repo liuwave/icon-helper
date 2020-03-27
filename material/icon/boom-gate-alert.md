@@ -4,6 +4,7 @@ title: boom gate alert(动臂闸门警报) ICON转svg、png下载
 name: boom-gate-alert
 zhTips: 动臂闸门警报,动臂臂警报,障碍屏障警报,自动闸门警报
 tags: ["alert-error","transportation-road"]
+search: boom-arm-alert,boom-barrier-alert,arm-barrier-alert,barrier-alert,automatic-gate-alert
 
 ---
 

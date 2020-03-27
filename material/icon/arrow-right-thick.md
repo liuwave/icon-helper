@@ -4,6 +4,7 @@ title: arrow right thick(右箭头粗) ICON转svg、png下载
 name: arrow-right-thick
 zhTips: 右箭头粗
 tags: ["arrow"]
+search: 
 
 ---
 

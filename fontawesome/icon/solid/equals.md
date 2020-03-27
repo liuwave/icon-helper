@@ -5,6 +5,7 @@ name: equals
 zhTips: 等于,算术,偶数,匹配,数学
 tags: ["mathematics"]
 pre: fas
+search: arithmetic,even,match,math
 
 ---
 

@@ -5,6 +5,7 @@ name: calendar-day
 zhTips: 日历与日焦点,日期,详细信息,事件,焦点,时间表,单日,时间,今天,何时
 tags: ["status"]
 pre: fas
+search: date,detail,event,focus,schedule,single day,time,today,when
 
 ---
 

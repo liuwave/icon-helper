@@ -4,6 +4,7 @@ title: peanut off(花生关闭) ICON转svg、png下载
 name: peanut-off
 zhTips: 花生关闭,过敏原关闭,食物过敏关闭
 tags: ["food-drink"]
+search: allergen-off,food-allergy-off
 
 ---
 

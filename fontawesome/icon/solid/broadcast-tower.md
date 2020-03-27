@@ -5,6 +5,7 @@ name: broadcast-tower
 zhTips: 广播塔,电波,天线,无线电,接收
 tags: ["audio-video","communication","energy","objects"]
 pre: fas
+search: airwaves,antenna,radio,reception,waves
 
 ---
 

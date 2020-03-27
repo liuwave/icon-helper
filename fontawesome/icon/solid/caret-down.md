@@ -5,6 +5,7 @@ name: caret-down
 zhTips: 向下跳动,箭头,下拉菜单,展开,菜单,更多,三角形
 tags: ["arrows"]
 pre: fas
+search: arrow,dropdown,expand,menu,more,triangle
 
 ---
 

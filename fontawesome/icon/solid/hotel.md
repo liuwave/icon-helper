@@ -5,6 +5,7 @@ name: hotel
 zhTips: 酒店,建筑,旅馆,住宿,汽车旅馆,度假村,旅行
 tags: ["buildings","hotel","travel"]
 pre: fas
+search: building,inn,lodging,motel,resort,travel
 
 ---
 

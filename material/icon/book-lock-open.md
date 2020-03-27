@@ -4,6 +4,7 @@ title: book lock open(开锁书) ICON转svg、png下载
 name: book-lock-open
 zhTips: 开锁书,书不安全
 tags: ["lock"]
+search: book-unsecure
 
 ---
 

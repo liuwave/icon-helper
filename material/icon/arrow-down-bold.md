@@ -4,6 +4,7 @@ title: arrow down bold(向下箭头加粗) ICON转svg、png下载
 name: arrow-down-bold
 zhTips: 向下箭头加粗
 tags: ["arrow"]
+search: arrow-bottom-bold
 
 ---
 

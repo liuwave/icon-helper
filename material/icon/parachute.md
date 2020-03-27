@@ -4,6 +4,7 @@ title: parachute(降落伞) ICON转svg、png下载
 name: parachute
 zhTips: 降落伞
 tags: ["transportation-flying"]
+search: 
 
 ---
 

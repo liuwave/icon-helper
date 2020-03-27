@@ -5,6 +5,7 @@ name: eye-dropper
 zhTips: 吸管,烧杯,克隆,颜色,副本,移液器
 tags: ["design","images","objects","pharmacy","science"]
 pre: fas
+search: beaker,clone,color,copy,eyedropper,pipette
 
 ---
 

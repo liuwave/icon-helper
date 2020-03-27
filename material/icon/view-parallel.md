@@ -4,6 +4,7 @@ title: view parallel(平行视图) ICON转svg、png下载
 name: view-parallel
 zhTips: 平行视图
 tags: ["view"]
+search: 
 
 ---
 

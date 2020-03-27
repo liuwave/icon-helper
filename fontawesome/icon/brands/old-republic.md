@@ -5,6 +5,7 @@ name: old-republic
 zhTips: 旧共和国,政治,星球大战
 tags: ["science-fiction"]
 pre: fab
+search: politics,star wars
 
 ---
 

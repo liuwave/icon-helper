@@ -5,6 +5,7 @@ name: quote-left
 zhTips: quote左,提,注,词组,文本,类型
 tags: ["chat","editors","interfaces","writing"]
 pre: fas
+search: mention,note,phrase,text,type
 
 ---
 

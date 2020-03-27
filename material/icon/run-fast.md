@@ -4,6 +4,7 @@ title: run fast(快速运行) ICON转svg、png下载
 name: run-fast
 zhTips: 快速运行
 tags: ["home-automation","sport"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: hard-hat
 zhTips: 安全帽,建筑,头盔,安全
 tags: ["construction","logistics"]
 pre: fas
+search: construction,hardhat,helmet,safety
 
 ---
 

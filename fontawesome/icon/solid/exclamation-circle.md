@@ -5,6 +5,7 @@ name: exclamation-circle
 zhTips: 感叹号,警报,危险,错误,重要,通知,问题,警告
 tags: ["alert","interfaces","status"]
 pre: fas
+search: alert,danger,error,important,notice,notification,notify,problem,warning
 
 ---
 

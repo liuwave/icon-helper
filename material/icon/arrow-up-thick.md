@@ -4,6 +4,7 @@ title: arrow up thick(向上箭头粗) ICON转svg、png下载
 name: arrow-up-thick
 zhTips: 向上箭头粗,顶部箭头粗
 tags: ["arrow"]
+search: arrow-top-thick
 
 ---
 

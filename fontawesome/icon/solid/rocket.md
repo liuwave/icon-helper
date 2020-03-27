@@ -5,6 +5,7 @@ name: rocket
 zhTips: 火箭,飞机,应用,喷射,发射,美国国家航空航天局,空间
 tags: ["maps","objects","science-fiction","vehicles"]
 pre: fas
+search: aircraft,app,jet,launch,nasa,space
 
 ---
 

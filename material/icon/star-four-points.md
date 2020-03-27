@@ -4,6 +4,7 @@ title: star four points(星四点) ICON转svg、png下载
 name: star-four-points
 zhTips: 星四点
 tags: ["shape"]
+search: 
 
 ---
 

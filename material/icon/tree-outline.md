@@ -4,6 +4,7 @@ title: tree outline(儿童树轮廓) ICON转svg、png下载
 name: tree-outline
 zhTips: 儿童树轮廓
 tags: ["nature"]
+search: plant
 
 ---
 

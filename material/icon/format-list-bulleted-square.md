@@ -4,6 +4,7 @@ title: format list bulleted square(格式列表项目符号正方形) ICON转svg
 name: format-list-bulleted-square
 zhTips: 格式列表项目符号正方形
 tags: ["text-content-format"]
+search: 
 
 ---
 

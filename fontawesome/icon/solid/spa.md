@@ -5,6 +5,7 @@ name: spa
 zhTips: 水疗中心,植物区系,按摩,正念,植物,健康
 tags: ["fitness","hotel","travel"]
 pre: fas
+search: flora,massage,mindfulness,plant,wellness
 
 ---
 

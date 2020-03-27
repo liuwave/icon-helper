@@ -4,6 +4,7 @@ title: printer(打印机) ICON转svg、png下载
 name: printer
 zhTips: 打印机,本地打印店
 tags: ["printer","home-automation"]
+search: local-printshop,local-print-shop
 
 ---
 

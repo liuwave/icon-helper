@@ -4,6 +4,7 @@ title: monitor dashboard(仪表板监视器) ICON转svg、png下载
 name: monitor-dashboard
 zhTips: 仪表板监视器
 tags: ["device-tech","device-tech"]
+search: 
 
 ---
 

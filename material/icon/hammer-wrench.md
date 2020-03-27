@@ -4,6 +4,7 @@ title: hammer wrench(锤扳手) ICON转svg、png下载
 name: hammer-wrench
 zhTips: 锤扳手,工具
 tags: ["hardware-tools"]
+search: tools
 
 ---
 

@@ -4,6 +4,7 @@ title: plus minus box(加减号框) ICON转svg、png下载
 name: plus-minus-box
 zhTips: 加减号框
 tags: ["math"]
+search: 
 
 ---
 

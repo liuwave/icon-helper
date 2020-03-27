@@ -4,6 +4,7 @@ title: view compact(紧凑型视图) ICON转svg、png下载
 name: view-compact
 zhTips: 紧凑型视图
 tags: ["view"]
+search: 
 
 ---
 

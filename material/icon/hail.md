@@ -4,6 +4,7 @@ title: hail(冰雹) ICON转svg、png下载
 name: hail
 zhTips: 冰雹,冰雹出租车
 tags: ["transportation-road","navigation"]
+search: hail-taxi,hail-cab
 
 ---
 

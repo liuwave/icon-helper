@@ -5,6 +5,7 @@ name: graduation-cap
 zhTips: 毕业帽,仪式,学院,研究生,学习,学校,学生
 tags: ["clothing","education","maps","objects"]
 pre: fas
+search: ceremony,college,graduate,learning,school,student
 
 ---
 

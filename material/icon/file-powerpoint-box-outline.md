@@ -4,6 +4,7 @@ title: file powerpoint box outline(文件PowerPoint框概述) ICON转svg、png�
 name: file-powerpoint-box-outline
 zhTips: 文件PowerPoint框概述
 tags: ["files-folders"]
+search: 
 
 ---
 

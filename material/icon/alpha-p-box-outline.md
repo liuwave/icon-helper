@@ -4,6 +4,7 @@ title: alpha p box outline(alpha p框轮廓) ICON转svg、png下载
 name: alpha-p-box-outline
 zhTips: alpha p框轮廓,字母p框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-p-box-outline,letter-p-box-outline
 
 ---
 

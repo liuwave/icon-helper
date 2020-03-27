@@ -4,6 +4,7 @@ title: set left right(设置左右) ICON转svg、png下载
 name: set-left-right
 zhTips: 设置左右,排除,设置异或
 tags: []
+search: exclusion,set-xor
 
 ---
 

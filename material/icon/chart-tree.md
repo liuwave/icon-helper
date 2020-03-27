@@ -4,6 +4,7 @@ title: chart tree(图表树) ICON转svg、png下载
 name: chart-tree
 zhTips: 图表树
 tags: ["math"]
+search: 
 
 ---
 

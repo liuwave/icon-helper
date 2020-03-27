@@ -4,6 +4,7 @@ title: hazard lights(危险灯) ICON转svg、png下载
 name: hazard-lights
 zhTips: 危险灯,警告灯
 tags: ["automotive"]
+search: warning-lights
 
 ---
 

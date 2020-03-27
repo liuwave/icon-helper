@@ -4,6 +4,7 @@ title: emoticon tongue outline(表情符号舌轮廓) ICON转svg、png下载
 name: emoticon-tongue-outline
 zhTips: 表情符号舌轮廓,笑脸舌轮廓
 tags: ["emoji"]
+search: smiley-tongue-outline
 
 ---
 

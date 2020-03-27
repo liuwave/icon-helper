@@ -4,6 +4,7 @@ title: message video(视频消息) ICON转svg、png下载
 name: message-video
 zhTips: 视频消息,语音聊天
 tags: ["video-movie"]
+search: voice-chat
 
 ---
 

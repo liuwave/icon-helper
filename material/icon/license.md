@@ -4,6 +4,7 @@ title: license(许可证) ICON转svg、png下载
 name: license
 zhTips: 许可证,色带,奖品,奖励,图章
 tags: []
+search: ribbon,prize,award,seal
 
 ---
 

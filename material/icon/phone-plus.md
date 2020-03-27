@@ -4,6 +4,7 @@ title: phone plus(电话加) ICON转svg、png下载
 name: phone-plus
 zhTips: 电话加,添加通话
 tags: ["cellphone-phone"]
+search: add-call
 
 ---
 

@@ -5,6 +5,7 @@ name: circle-notch
 zhTips: 圆形凹口,直径,圆点,椭圆,圆形,旋转
 tags: ["spinners"]
 pre: fas
+search: circle-o-notch,diameter,dot,ellipse,round,spinner
 
 ---
 

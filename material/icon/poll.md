@@ -4,6 +4,7 @@ title: poll(孔) ICON转svg、png下载
 name: poll
 zhTips: 孔,条形图
 tags: []
+search: bar-chart
 
 ---
 

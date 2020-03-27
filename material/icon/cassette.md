@@ -4,6 +4,7 @@ title: cassette(盒式磁带) ICON转svg、png下载
 name: cassette
 zhTips: 盒式磁带,胶带
 tags: ["music"]
+search: tape
 
 ---
 

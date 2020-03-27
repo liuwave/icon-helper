@@ -4,6 +4,7 @@ title: oil lamp(油灯) ICON转svg、png下载
 name: oil-lamp
 zhTips: 油灯,愿望灯,精灵灯
 tags: []
+search: wish,genie-lamp
 
 ---
 

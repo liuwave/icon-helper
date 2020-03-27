@@ -4,6 +4,7 @@ title: filmstrip(幻灯片) ICON转svg、png下载
 name: filmstrip
 zhTips: 幻灯片,本地电影,剧院
 tags: ["video-movie"]
+search: local-movies,theaters
 
 ---
 

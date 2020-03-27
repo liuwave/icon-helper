@@ -4,6 +4,7 @@ title: arrow down circle outline(向下箭头圆圈轮廓) ICON转svg、png下�
 name: arrow-down-circle-outline
 zhTips: 向下箭头圆圈轮廓
 tags: ["arrow"]
+search: arrow-bottom-circle-outline
 
 ---
 

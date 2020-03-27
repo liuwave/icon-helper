@@ -5,6 +5,7 @@ name: otter
 zhTips: 水獭,动物,bad,动物区系,毛皮,哺乳动物,马丁
 tags: ["animals"]
 pre: fas
+search: animal,badger,fauna,fur,mammal,marten
 
 ---
 

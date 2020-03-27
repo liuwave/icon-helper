@@ -4,6 +4,7 @@ title: plus box multiple(加多个框) ICON转svg、png下载
 name: plus-box-multiple
 zhTips: 加多个框,添加到照片,添加图库,添加队列
 tags: []
+search: add-to-photos,library-add,queue,library-plus
 
 ---
 

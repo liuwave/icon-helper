@@ -4,6 +4,7 @@ title: shape outline(形状轮廓) ICON转svg、png下载
 name: shape-outline
 zhTips: 形状轮廓,主题轮廓,类别轮廓
 tags: ["shape"]
+search: theme-outline,category-outline
 
 ---
 

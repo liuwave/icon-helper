@@ -4,6 +4,7 @@ title: folder star multiple outline(文件夹星多个轮廓) ICON转svg、png�
 name: folder-star-multiple-outline
 zhTips: 文件夹星多个轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

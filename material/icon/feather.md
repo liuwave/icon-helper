@@ -4,6 +4,7 @@ title: feather(羽毛) ICON转svg、png下载
 name: feather
 zhTips: 羽毛,鹅毛笔
 tags: ["nature"]
+search: quill
 
 ---
 

@@ -4,6 +4,7 @@ title: seat outline(座椅轮廓) ICON转svg、png下载
 name: seat-outline
 zhTips: 座椅轮廓,活动座椅轮廓,椅子轮廓
 tags: []
+search: event-seat-outline,chair-outline
 
 ---
 

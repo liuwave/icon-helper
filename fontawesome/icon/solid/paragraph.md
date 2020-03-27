@@ -5,6 +5,7 @@ name: paragraph
 zhTips: 段落,编辑,格式,文本,写作
 tags: ["editors","writing"]
 pre: fas
+search: edit,format,text,writing
 
 ---
 

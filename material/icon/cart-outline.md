@@ -4,6 +4,7 @@ title: cart outline(购物车轮廓) ICON转svg、png下载
 name: cart-outline
 zhTips: 购物车轮廓,购物车购物
 tags: ["shopping"]
+search: trolley-outline,shopping-cart-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: bone
 zhTips: 骨,钙,狗,骨骼,胫骨
 tags: ["food","medical"]
 pre: fas
+search: calcium,dog,skeletal,skeleton,tibia
 
 ---
 

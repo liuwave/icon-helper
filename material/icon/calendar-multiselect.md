@@ -4,6 +4,7 @@ title: calendar multiselect(多选日历) ICON转svg、png下载
 name: calendar-multiselect
 zhTips: 多选日历
 tags: ["date-time"]
+search: 
 
 ---
 

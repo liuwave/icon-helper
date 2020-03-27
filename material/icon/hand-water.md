@@ -4,6 +4,7 @@ title: hand water(洗手水) ICON转svg、png下载
 name: hand-water
 zhTips: 洗手水,洗手液
 tags: ["medical-hospital"]
+search: hand-wash
 
 ---
 

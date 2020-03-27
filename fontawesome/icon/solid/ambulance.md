@@ -5,6 +5,7 @@ name: ambulance
 zhTips: 救护车,covid 19,紧急情况,emt,er,帮助,医院,支持,车辆
 tags: ["automotive","health","maps","medical","objects","vehicles"]
 pre: fas
+search: covid-19,emergency,emt,er,help,hospital,support,vehicle
 
 ---
 

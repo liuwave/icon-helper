@@ -4,6 +4,7 @@ title: car cog(汽车齿轮) ICON转svg、png下载
 name: car-cog
 zhTips: 汽车齿轮,汽车设置
 tags: ["automotive","settings"]
+search: car-settings
 
 ---
 

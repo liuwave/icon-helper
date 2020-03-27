@@ -5,6 +5,7 @@ name: arrow-circle-up
 zhTips: 箭头圈向上,上传
 tags: ["arrows"]
 pre: fas
+search: upload
 
 ---
 

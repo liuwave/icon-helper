@@ -5,6 +5,7 @@ name: skull-crossbones
 zhTips: 头骨和骷髅,地牢与龙,警报,骨骼,d＆d,危险,死亡,致命,dnd,幻想,万圣节,假日,欢乐罗杰,海盗,毒药,骨架,警告
 tags: ["alert","gaming-tabletop","halloween","maritime","objects","pharmacy","science"]
 pre: fas
+search: Dungeons & Dragons,alert,bones,d&d,danger,dead,deadly,death,dnd,fantasy,halloween,holiday,jolly-roger,pirate,poison,skeleton,warning
 
 ---
 

@@ -4,6 +4,7 @@ title: star circle(星星圈) ICON转svg、png下载
 name: star-circle
 zhTips: 星星圈,星星
 tags: []
+search: stars
 
 ---
 

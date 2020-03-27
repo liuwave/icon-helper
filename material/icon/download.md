@@ -4,6 +4,7 @@ title: download(下载) ICON转svg、png下载
 name: download
 zhTips: 下载,文件下载,获取应用
 tags: []
+search: file-download,get-app
 
 ---
 

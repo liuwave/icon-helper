@@ -4,6 +4,7 @@ title: wifi strength 1 alert(wifi强度1警报) ICON转svg、png下载
 name: wifi-strength-1-alert
 zhTips: wifi强度1警报,wifi强度1警告
 tags: ["alert-error"]
+search: wifi-strength-1-warning
 
 ---
 

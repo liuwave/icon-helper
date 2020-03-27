@@ -4,6 +4,7 @@ title: axis arrow(轴箭头) ICON转svg、png下载
 name: axis-arrow
 zhTips: 轴箭头,加速度计,陀螺仪
 tags: ["arrow"]
+search: accelerometer,gyro
 
 ---
 

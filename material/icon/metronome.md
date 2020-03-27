@@ -4,6 +4,7 @@ title: metronome(节拍器) ICON转svg、png下载
 name: metronome
 zhTips: 节拍器,速度,bpm,每分钟节拍
 tags: ["music"]
+search: tempo,bpm,beats-per-minute
 
 ---
 

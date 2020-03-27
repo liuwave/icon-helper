@@ -5,6 +5,7 @@ name: grin-tongue-wink
 zhTips: 眨眼与舌头,笑声,表情符号,脸部
 tags: ["emoji"]
 pre: far
+search: LOL,emoticon,face
 
 ---
 

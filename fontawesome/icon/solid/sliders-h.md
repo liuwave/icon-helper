@@ -5,6 +5,7 @@ name: sliders-h
 zhTips: 水平滑块,调节器,设置,滑块,切换
 tags: ["images","interfaces","music"]
 pre: fas
+search: adjust,settings,sliders,toggle
 
 ---
 

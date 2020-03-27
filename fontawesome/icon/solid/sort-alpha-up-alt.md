@@ -5,6 +5,7 @@ name: sort-alpha-up-alt
 zhTips: Alternate Sort按字母顺序向上,按字母顺序排列,排列,过滤器,顺序,按字母顺序排序
 tags: ["arrows","interfaces"]
 pre: fas
+search: alphabetical,arrange,filter,order,sort-alpha-desc
 
 ---
 

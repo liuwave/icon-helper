@@ -4,6 +4,7 @@ title: apple icloud(苹果icloud) ICON转svg、png下载
 name: apple-icloud
 zhTips: 苹果icloud,苹果mobileme
 tags: ["brand-logo"]
+search: apple-mobileme
 
 ---
 

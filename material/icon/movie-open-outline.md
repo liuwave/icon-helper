@@ -4,6 +4,7 @@ title: movie open outline(电影开放轮廓) ICON转svg、png下载
 name: movie-open-outline
 zhTips: 电影开放轮廓,板岩开放轮廓,clapperboard开放轮廓,电影创作
 tags: ["video-movie"]
+search: slate-open-outline,clapperboard-open-outline,film-open-outline,movie-creation
 
 ---
 

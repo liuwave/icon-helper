@@ -4,6 +4,7 @@ title: shield airplane(飞机护盾) ICON转svg、png下载
 name: shield-airplane
 zhTips: 飞机护盾
 tags: ["transportation-flying"]
+search: shield-aeroplane,shield-plane,plane-shield
 
 ---
 

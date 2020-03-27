@@ -4,6 +4,7 @@ title: alpha m circle(字母m圈) ICON转svg、png下载
 name: alpha-m-circle
 zhTips: 字母m圈
 tags: ["alpha-numeric"]
+search: alphabet-m-circle,letter-m-circle
 
 ---
 

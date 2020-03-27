@@ -5,6 +5,7 @@ name: code-branch
 zhTips: 代码分支,分支,代码叉,叉,git,github,rebase,svn,vcs,版本
 tags: ["code"]
 pre: fas
+search: branch,code-fork,fork,git,github,rebase,svn,vcs,version
 
 ---
 

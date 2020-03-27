@@ -4,6 +4,7 @@ title: basket(篮子) ICON转svg、png下载
 name: basket
 zhTips: 篮子,购物篮
 tags: ["shopping"]
+search: shopping-basket
 
 ---
 

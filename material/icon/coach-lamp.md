@@ -4,6 +4,7 @@ title: coach lamp(教练灯) ICON转svg、png下载
 name: coach-lamp
 zhTips: 教练灯,马车灯
 tags: ["home-automation"]
+search: coach-light,carriage-lamp,carriage-light
 
 ---
 

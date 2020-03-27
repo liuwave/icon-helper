@@ -4,6 +4,7 @@ title: molecule co2(分子二氧化碳) ICON转svg、png下载
 name: molecule-co2
 zhTips: 分子二氧化碳,周期表中的二氧化碳
 tags: ["science","home-automation"]
+search: periodic-table-carbon-dioxide
 
 ---
 

@@ -4,6 +4,7 @@ title: text box plus(文本框加) ICON转svg、png下载
 name: text-box-plus
 zhTips: 文本框加,文件文档框加
 tags: ["files-folders"]
+search: file-document-box-plus
 
 ---
 

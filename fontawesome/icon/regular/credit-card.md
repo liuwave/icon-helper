@@ -5,6 +5,7 @@ name: credit-card
 zhTips: 信用卡,购买,结帐,信用卡余额,借方,钱,付款
 tags: ["finance","payments-shopping"]
 pre: far
+search: buy,checkout,credit-card-alt,debit,money,payment,purchase
 
 ---
 

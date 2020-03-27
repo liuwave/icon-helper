@@ -4,6 +4,7 @@ title: storefront(店面) ICON转svg、png下载
 name: storefront
 zhTips: 店面,遮阳篷
 tags: []
+search: awning
 
 ---
 

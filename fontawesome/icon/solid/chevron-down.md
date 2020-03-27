@@ -5,6 +5,7 @@ name: chevron-down
 zhTips: 雪佛龙向下,箭头,下载,展开
 tags: ["arrows"]
 pre: fas
+search: arrow,download,expand
 
 ---
 

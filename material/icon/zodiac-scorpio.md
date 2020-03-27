@@ -4,6 +4,7 @@ title: zodiac scorpio(天蝎座) ICON转svg、png下载
 name: zodiac-scorpio
 zhTips: 天蝎座
 tags: []
+search: horoscope-scorpio
 
 ---
 

@@ -4,6 +4,7 @@ title: home group(家庭组) ICON转svg、png下载
 name: home-group
 zhTips: 家庭组,房屋组,邻里,房地产,房屋
 tags: ["home-automation"]
+search: house-group,neighbourhood,estate,housing-estate
 
 ---
 

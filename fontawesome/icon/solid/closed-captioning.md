@@ -5,6 +5,7 @@ name: closed-captioning
 zhTips: 隐藏式字幕,抄送,聋人,听力,字幕,文本,视频
 tags: ["accessibility","audio-video"]
 pre: fas
+search: cc,deaf,hearing,subtitle,subtitling,text,video
 
 ---
 

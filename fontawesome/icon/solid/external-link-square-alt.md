@@ -5,6 +5,7 @@ name: external-link-square-alt
 zhTips: 备用外部链接广场,外部链接广场,新的,打开的,共享的
 tags: ["arrows","interfaces"]
 pre: fas
+search: external-link-square,new,open,share
 
 ---
 

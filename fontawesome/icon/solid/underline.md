@@ -5,6 +5,7 @@ name: underline
 zhTips: 下划线,编辑,重点,格式,文本,写作
 tags: ["editors"]
 pre: fas
+search: edit,emphasis,format,text,writing
 
 ---
 

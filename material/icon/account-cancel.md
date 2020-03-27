@@ -4,6 +4,7 @@ title: account cancel(帐户取消) ICON转svg、png下载
 name: account-cancel
 zhTips: 帐户取消,用户取消,用户阻止,人员取消,人员阻止
 tags: ["account-user"]
+search: user-cancel,user-block,person-cancel,person-block
 
 ---
 

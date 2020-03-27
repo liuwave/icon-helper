@@ -5,6 +5,7 @@ name: smile-beam
 zhTips: 微笑的双眼,表情符号,脸,快乐,积极
 tags: ["emoji"]
 pre: fas
+search: emoticon,face,happy,positive
 
 ---
 

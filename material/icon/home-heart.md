@@ -4,6 +4,7 @@ title: home heart(家庭之心) ICON转svg、png下载
 name: home-heart
 zhTips: 家庭之心,家庭
 tags: ["home-automation"]
+search: family
 
 ---
 

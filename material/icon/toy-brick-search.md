@@ -4,6 +4,7 @@ title: toy brick search(玩具积木搜索) ICON转svg、png下载
 name: toy-brick-search
 zhTips: 玩具积木搜索,乐高玩具,插件,扩展
 tags: []
+search: lego,plugin,extension
 
 ---
 

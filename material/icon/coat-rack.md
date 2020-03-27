@@ -4,6 +4,7 @@ title: coat rack(衣帽架) ICON转svg、png下载
 name: coat-rack
 zhTips: 衣帽架
 tags: ["home-automation","clothing"]
+search: 
 
 ---
 

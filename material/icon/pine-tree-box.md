@@ -4,6 +4,7 @@ title: pine tree box(松树树箱) ICON转svg、png下载
 name: pine-tree-box
 zhTips: 松树树箱,儿童
 tags: ["holiday","nature"]
+search: plant
 
 ---
 

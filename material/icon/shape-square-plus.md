@@ -4,6 +4,7 @@ title: shape square plus(形状正方形加) ICON转svg、png下载
 name: shape-square-plus
 zhTips: 形状正方形加
 tags: ["shape"]
+search: shape-square-add
 
 ---
 

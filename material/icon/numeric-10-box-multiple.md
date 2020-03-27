@@ -4,6 +4,7 @@ title: numeric 10 box multiple(数字10框倍数) ICON转svg、png下载
 name: numeric-10-box-multiple
 zhTips: 数字10框倍数
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: bank remove(银行删除) ICON转svg、png下载
 name: bank-remove
 zhTips: 银行删除
 tags: ["banking"]
+search: 
 
 ---
 

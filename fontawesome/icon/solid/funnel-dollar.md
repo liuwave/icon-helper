@@ -5,6 +5,7 @@ name: funnel-dollar
 zhTips: 货币单位,过滤器,货币,选项,单独,排序
 tags: ["marketing"]
 pre: fas
+search: filter,money,options,separate,sort
 
 ---
 

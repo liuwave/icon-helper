@@ -4,6 +4,7 @@ title: stack overflow(堆栈溢出) ICON转svg、png下载
 name: stack-overflow
 zhTips: 堆栈溢出
 tags: ["brand-logo"]
+search: stackoverflow
 
 ---
 

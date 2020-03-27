@@ -4,6 +4,7 @@ title: skip backward(向后跳) ICON转svg、png下载
 name: skip-backward
 zhTips: 向后跳,标题向后,上一个标题
 tags: ["home-automation"]
+search: title-backward,previous-title
 
 ---
 

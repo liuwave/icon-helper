@@ -4,6 +4,7 @@ title: numeric 2 box multiple outline(数字2框多重轮廓) ICON转svg、png�
 name: numeric-2-box-multiple-outline
 zhTips: 数字2框多重轮廓,过滤器2
 tags: ["alpha-numeric"]
+search: filter-2,numeric-two-box-multiple-outline,numeric-2-boxes-outline,number-2-box-multiple-outline
 
 ---
 

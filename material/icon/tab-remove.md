@@ -4,6 +4,7 @@ title: tab remove(移除标签) ICON转svg、png下载
 name: tab-remove
 zhTips: 移除标签
 tags: []
+search: 
 
 ---
 

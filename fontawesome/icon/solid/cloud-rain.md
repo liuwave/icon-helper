@@ -5,6 +5,7 @@ name: cloud-rain
 zhTips: 乌云密布,有雨,降水,雨,天空,暴风雨
 tags: ["weather"]
 pre: fas
+search: precipitation,rain,sky,storm
 
 ---
 

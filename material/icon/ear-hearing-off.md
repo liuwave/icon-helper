@@ -4,6 +4,7 @@ title: ear hearing off(耳朵听不见) ICON转svg、png下载
 name: ear-hearing-off
 zhTips: 耳朵听不见,听力受损
 tags: []
+search: hearing-impaired
 
 ---
 

@@ -5,6 +5,7 @@ name: fill-drip
 zhTips: 填充滴灌,桶,颜色,拖放,油漆,油漆桶,溢出
 tags: ["design"]
 pre: fas
+search: bucket,color,drop,paint,paint bucket,spill
 
 ---
 

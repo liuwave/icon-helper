@@ -5,6 +5,7 @@ name: shipping-fast
 zhTips: 快速发货,快递,联邦快递,邮件,通宵,包裹,UPS
 tags: ["logistics","shopping"]
 pre: fas
+search: express,fedex,mail,overnight,package,ups
 
 ---
 

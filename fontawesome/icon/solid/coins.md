@@ -5,6 +5,7 @@ name: coins
 zhTips: 硬币,货币,毛钱,金融,黄金,钱,便士
 tags: ["finance"]
 pre: fas
+search: currency,dime,financial,gold,money,penny
 
 ---
 

@@ -4,6 +4,7 @@ title: numeric 8 box outline(数字8框轮廓) ICON转svg、png下载
 name: numeric-8-box-outline
 zhTips: 数字8框轮廓
 tags: ["alpha-numeric"]
+search: numeric-eight-box-outline,number-8-box-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: yen-sign
 zhTips: 日元符号,货币,日元
 tags: ["currency"]
 pre: fas
+search: currency,jpy,money
 
 ---
 

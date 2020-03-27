@@ -5,6 +5,7 @@ name: dumpster
 zhTips: 垃圾箱,小巷,商业,垃圾,废物
 tags: ["construction"]
 pre: fas
+search: alley,bin,commercial,trash,waste
 
 ---
 

@@ -5,6 +5,7 @@ name: font-awesome
 zhTips: Font Awesome,meanpath
 tags: []
 pre: fab
+search: meanpath
 
 ---
 

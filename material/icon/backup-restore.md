@@ -4,6 +4,7 @@ title: backup restore(备份还原) ICON转svg、png下载
 name: backup-restore
 zhTips: 备份还原,备份还原设置
 tags: []
+search: settings-backup-restore
 
 ---
 

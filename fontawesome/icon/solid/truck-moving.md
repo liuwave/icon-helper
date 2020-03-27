@@ -5,6 +5,7 @@ name: truck-moving
 zhTips: 卡车移动,货物,库存,租赁,车辆
 tags: ["moving"]
 pre: fas
+search: cargo,inventory,rental,vehicle
 
 ---
 

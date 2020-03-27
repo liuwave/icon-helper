@@ -4,6 +4,7 @@ title: book variant(书籍) ICON转svg、png下载
 name: book-variant
 zhTips: 书籍,类
 tags: []
+search: class
 
 ---
 

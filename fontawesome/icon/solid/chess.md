@@ -5,6 +5,7 @@ name: chess
 zhTips: 国际象棋,棋盘,城堡,将军,游戏,国王,白嘴鸦,战略,锦标赛
 tags: ["chess","games"]
 pre: fas
+search: board,castle,checkmate,game,king,rook,strategy,tournament
 
 ---
 

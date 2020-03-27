@@ -4,6 +4,7 @@ title: greater than or equal(大于或等于) ICON转svg、png下载
 name: greater-than-or-equal
 zhTips: 大于或等于
 tags: ["math"]
+search: 
 
 ---
 

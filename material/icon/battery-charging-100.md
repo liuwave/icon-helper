@@ -4,6 +4,7 @@ title: battery charging 100(电池充电100) ICON转svg、png下载
 name: battery-charging-100
 zhTips: 电池充电100
 tags: ["battery","home-automation","automotive"]
+search: 
 
 ---
 

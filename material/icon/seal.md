@@ -4,6 +4,7 @@ title: seal(封条) ICON转svg、png下载
 name: seal
 zhTips: 封条,丝带,奖品,奖励
 tags: []
+search: ribbon,prize,award
 
 ---
 

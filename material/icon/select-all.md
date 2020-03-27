@@ -4,6 +4,7 @@ title: select all(全选) ICON转svg、png下载
 name: select-all
 zhTips: 全选
 tags: []
+search: 
 
 ---
 

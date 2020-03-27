@@ -4,6 +4,7 @@ title: table plus(表加) ICON转svg、png下载
 name: table-plus
 zhTips: 表加
 tags: ["text-content-format"]
+search: table-add
 
 ---
 

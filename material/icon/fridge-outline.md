@@ -4,6 +4,7 @@ title: fridge outline(冰箱轮廓) ICON转svg、png下载
 name: fridge-outline
 zhTips: 冰箱轮廓,厨房
 tags: ["home-automation"]
+search: kitchen,refrigerator-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: badge account horizontal(徽章帐户水平) ICON转svg、png下载
 name: badge-account-horizontal
 zhTips: 徽章帐户水平
 tags: ["account-user"]
+search: 
 
 ---
 

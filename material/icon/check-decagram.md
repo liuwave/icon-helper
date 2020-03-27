@@ -4,6 +4,7 @@ title: check decagram(检查十进制) ICON转svg、png下载
 name: check-decagram
 zhTips: 检查十进制,已验证,十进制检查,批准,勾号十进制
 tags: []
+search: verified,decagram-check,approve,approval,tick-decagram
 
 ---
 

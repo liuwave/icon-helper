@@ -5,6 +5,7 @@ name: usps
 zhTips: 美国邮政服务,美国,包裹,运输
 tags: []
 pre: fab
+search: american,package,shipping,usa
 
 ---
 

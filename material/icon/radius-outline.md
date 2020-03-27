@@ -4,6 +4,7 @@ title: radius outline(半径轮廓) ICON转svg、png下载
 name: radius-outline
 zhTips: 半径轮廓,圆半径轮廓,球体半径轮廓
 tags: ["math"]
+search: circle-radius-outline,sphere-radius-outline
 
 ---
 

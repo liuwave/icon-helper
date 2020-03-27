@@ -4,6 +4,7 @@ title: video(视频) ICON转svg、png下载
 name: video
 zhTips: 视频,摄像机
 tags: ["video-movie","home-automation"]
+search: videocam
 
 ---
 

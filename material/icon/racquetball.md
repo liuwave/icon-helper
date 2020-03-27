@@ -4,6 +4,7 @@ title: racquetball(壁球) ICON转svg、png下载
 name: racquetball
 zhTips: 壁球,曲棍球
 tags: ["sport"]
+search: lacrosse,squash
 
 ---
 

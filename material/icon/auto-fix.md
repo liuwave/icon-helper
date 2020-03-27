@@ -4,6 +4,7 @@ title: auto fix(自动修复) ICON转svg、png下载
 name: auto-fix
 zhTips: 自动修复,魔术,魔杖,自动修复高
 tags: ["photography"]
+search: magic,wand,auto-fix-high
 
 ---
 

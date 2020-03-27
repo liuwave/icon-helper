@@ -4,6 +4,7 @@ title: numeric 3 box outline(数字3框轮廓) ICON转svg、png下载
 name: numeric-3-box-outline
 zhTips: 数字3框轮廓
 tags: ["alpha-numeric"]
+search: numeric-three-box-outline,number-3-box-outline
 
 ---
 

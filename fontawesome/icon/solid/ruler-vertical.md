@@ -5,6 +5,7 @@ name: ruler-vertical
 zhTips: 尺子垂直,设计,草稿,长度,尺寸,计划
 tags: ["construction","design","objects"]
 pre: fas
+search: design,draft,length,measure,planning
 
 ---
 

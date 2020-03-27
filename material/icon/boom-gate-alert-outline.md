@@ -4,6 +4,7 @@ title: boom gate alert outline(动臂浇口警报轮廓) ICON转svg、png下载
 name: boom-gate-alert-outline
 zhTips: 动臂浇口警报轮廓,障碍物障碍轮廓轮廓,自动浇口警报轮廓
 tags: ["alert-error","transportation-road"]
+search: boom-arm-alert-outline,boom-barrier-alert-outline,arm-barrier-alert-outline,barrier-alert-outline,automatic-gate-alert-outline
 
 ---
 

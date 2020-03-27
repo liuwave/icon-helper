@@ -4,6 +4,7 @@ title: trophy variant outline(奖杯变化轮廓) ICON转svg、png下载
 name: trophy-variant-outline
 zhTips: 奖杯变化轮廓,成就变化轮廓
 tags: ["sport"]
+search: achievement-variant-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: water boiler alert(热水器警报) ICON转svg、png下载
 name: water-boiler-alert
 zhTips: 热水器警报
 tags: ["home-automation","alert-error"]
+search: 
 
 ---
 

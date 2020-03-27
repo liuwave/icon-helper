@@ -4,6 +4,7 @@ title: toothbrush(牙刷) ICON转svg、png下载
 name: toothbrush
 zhTips: 牙刷,牙医,口腔卫生
 tags: ["medical-hospital"]
+search: dentist,oral-hygiene
 
 ---
 

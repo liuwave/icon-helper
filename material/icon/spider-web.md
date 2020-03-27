@@ -4,6 +4,7 @@ title: spider web(蜘蛛网) ICON转svg、png下载
 name: spider-web
 zhTips: 蜘蛛网
 tags: ["holiday"]
+search: cobweb,arachnid-web
 
 ---
 

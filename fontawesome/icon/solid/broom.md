@@ -5,6 +5,7 @@ name: broom
 zhTips: 扫帚,清洁,喷火,飞,万圣节,雨云2000,魁地奇,扫地,女巫
 tags: ["halloween","spring"]
 pre: fas
+search: clean,firebolt,fly,halloween,nimbus 2000,quidditch,sweep,witch
 
 ---
 

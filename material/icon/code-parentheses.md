@@ -4,6 +4,7 @@ title: code parentheses(代码括号) ICON转svg、png下载
 name: code-parentheses
 zhTips: 代码括号
 tags: ["developer-languages"]
+search: 
 
 ---
 

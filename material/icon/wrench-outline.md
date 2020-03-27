@@ -4,6 +4,7 @@ title: wrench outline(扳手轮廓) ICON转svg、png下载
 name: wrench-outline
 zhTips: 扳手轮廓,内部轮廓
 tags: ["hardware-tools"]
+search: build-outline,spanner-outline
 
 ---
 

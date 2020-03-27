@@ -5,6 +5,7 @@ name: star
 zhTips: 星级,成就,奖项,最喜欢的,重要的,晚上,评分
 tags: ["interfaces","objects","payments-shopping","shapes","social","status","toggle"]
 pre: fas
+search: achievement,award,favorite,important,night,rating,score
 
 ---
 

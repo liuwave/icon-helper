@@ -4,6 +4,7 @@ title: grill(烧烤架) ICON转svg、png下载
 name: grill
 zhTips: 烧烤架,烧烤,木炭
 tags: ["food-drink"]
+search: bbq,barbecue,charcoal
 
 ---
 

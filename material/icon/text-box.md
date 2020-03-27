@@ -4,6 +4,7 @@ title: text box(文本框) ICON转svg、png下载
 name: text-box
 zhTips: 文本框,文档驱动器,文件文档框
 tags: ["files-folders"]
+search: drive-document,file-document-box
 
 ---
 

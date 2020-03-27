@@ -5,6 +5,7 @@ name: shopping-basket
 zhTips: 购物篮,购买,结帐,杂货,付款
 tags: ["maps","objects","payments-shopping","shopping"]
 pre: fas
+search: buy,checkout,grocery,payment,purchase
 
 ---
 

@@ -4,6 +4,7 @@ title: file multiple(文件多个) ICON转svg、png下载
 name: file-multiple
 zhTips: 文件多个,文件
 tags: ["files-folders"]
+search: files
 
 ---
 

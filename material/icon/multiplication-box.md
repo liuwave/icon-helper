@@ -4,6 +4,7 @@ title: multiplication box(乘法盒) ICON转svg、png下载
 name: multiplication-box
 zhTips: 乘法盒
 tags: ["math"]
+search: 
 
 ---
 

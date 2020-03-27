@@ -4,6 +4,7 @@ title: account box multiple(帐户箱多个) ICON转svg、png下载
 name: account-box-multiple
 zhTips: 帐户箱多个,切换帐户,用户箱多个,帐户箱,用户箱,人员箱多个,人员箱
 tags: ["account-user"]
+search: switch-account,user-box-multiple,account-boxes,user-boxes,person-box-multiple,person-boxes
 
 ---
 

@@ -4,6 +4,7 @@ title: comment check(评论检查) ICON转svg、png下载
 name: comment-check
 zhTips: 评论检查,评论打勾
 tags: []
+search: comment-tick
 
 ---
 

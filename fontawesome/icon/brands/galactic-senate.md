@@ -5,6 +5,7 @@ name: galactic-senate
 zhTips: 银河参议院,星球大战
 tags: ["science-fiction"]
 pre: fab
+search: star wars
 
 ---
 

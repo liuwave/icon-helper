@@ -5,6 +5,7 @@ name: icicles
 zhTips: 冰柱,冰冷,冻结,悬挂,冰,季节性,锋利
 tags: ["winter"]
 pre: fas
+search: cold,frozen,hanging,ice,seasonal,sharp
 
 ---
 

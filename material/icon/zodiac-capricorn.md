@@ -4,6 +4,7 @@ title: zodiac capricorn(摩cap座十二生肖) ICON转svg、png下载
 name: zodiac-capricorn
 zhTips: 摩cap座十二生肖
 tags: []
+search: horoscope-capricorn
 
 ---
 

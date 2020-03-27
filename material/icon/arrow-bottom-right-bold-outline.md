@@ -4,6 +4,7 @@ title: arrow bottom right bold outline(箭头右下加粗轮廓) ICON转svg、pn
 name: arrow-bottom-right-bold-outline
 zhTips: 箭头右下加粗轮廓,箭头下右加粗轮廓
 tags: ["arrow"]
+search: arrow-down-right-bold-outline
 
 ---
 

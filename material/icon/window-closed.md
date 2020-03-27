@@ -4,6 +4,7 @@ title: window closed(窗口关闭) ICON转svg、png下载
 name: window-closed
 zhTips: 窗口关闭
 tags: ["home-automation"]
+search: 
 
 ---
 

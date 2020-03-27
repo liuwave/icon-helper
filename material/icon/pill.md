@@ -4,6 +4,7 @@ title: pill(药片) ICON转svg、png下载
 name: pill
 zhTips: 药片,女巫,胶囊
 tags: ["medical-hospital"]
+search: medicine,capsule
 
 ---
 

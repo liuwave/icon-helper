@@ -4,6 +4,7 @@ title: math tan(棕褐色类型) ICON转svg、png下载
 name: math-tan
 zhTips: 棕褐色类型,切线类型,棕褐色数学
 tags: ["math"]
+search: math-tangent,maths-tan
 
 ---
 

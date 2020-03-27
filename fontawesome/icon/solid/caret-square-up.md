@@ -5,6 +5,7 @@ name: caret-square-up
 zhTips: Caret Square Up,箭头,Caret square o up,崩溃,三角形,上载
 tags: ["arrows"]
 pre: fas
+search: arrow,caret-square-o-up,collapse,triangle,upload
 
 ---
 

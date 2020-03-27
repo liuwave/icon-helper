@@ -5,6 +5,7 @@ name: horse
 zhTips: 马,动物,哺乳动物,母马,邻居,小马
 tags: ["animals","vehicles"]
 pre: fas
+search: equus,fauna,mammmal,mare,neigh,pony
 
 ---
 

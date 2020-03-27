@@ -4,6 +4,7 @@ title: youtube studio(YouTube Studio) ICON转svg、png下载
 name: youtube-studio
 zhTips: YouTube Studio,YouTube Creator Studio
 tags: ["brand-logo"]
+search: youtube-creator-studio
 
 ---
 

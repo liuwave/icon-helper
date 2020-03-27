@@ -4,6 +4,7 @@ title: unfold less vertical(展开较少垂直) ICON转svg、png下载
 name: unfold-less-vertical
 zhTips: 展开较少垂直,人字形,垂直折叠
 tags: []
+search: chevron-right-left,collapse-vertical
 
 ---
 

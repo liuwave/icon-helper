@@ -4,6 +4,7 @@ title: numeric 4 circle(数字4圈) ICON转svg、png下载
 name: numeric-4-circle
 zhTips: 数字4圈
 tags: ["alpha-numeric","alpha-numeric"]
+search: numeric-four-circle,number-4-circle,number-four-circle
 
 ---
 

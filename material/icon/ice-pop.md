@@ -4,6 +4,7 @@ title: ice pop(冰棒) ICON转svg、png下载
 name: ice-pop
 zhTips: 冰棒
 tags: ["food-drink"]
+search: popsicle
 
 ---
 

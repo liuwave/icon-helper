@@ -4,6 +4,7 @@ title: skip forward(向前跳过) ICON转svg、png下载
 name: skip-forward
 zhTips: 向前跳过,标题向前,下一个标题
 tags: ["home-automation"]
+search: title-forward,next-title
 
 ---
 

@@ -5,6 +5,7 @@ name: highlighter
 zhTips: 突出显示,编辑,标记,Sharpie,更新,写入
 tags: ["business","design","editors","objects"]
 pre: fas
+search: edit,marker,sharpie,update,write
 
 ---
 

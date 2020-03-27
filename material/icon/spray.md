@@ -4,6 +4,7 @@ title: spray(喷雾) ICON转svg、png下载
 name: spray
 zhTips: 喷雾,油漆,气雾剂
 tags: ["agriculture"]
+search: paint,aerosol
 
 ---
 

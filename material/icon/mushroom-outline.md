@@ -4,6 +4,7 @@ title: mushroom outline(蘑菇轮廓) ICON转svg、png下载
 name: mushroom-outline
 zhTips: 蘑菇轮廓,木耳轮廓
 tags: ["nature","food-drink"]
+search: fungus-outline
 
 ---
 

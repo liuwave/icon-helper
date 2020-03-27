@@ -4,6 +4,7 @@ title: alarm snooze(闹钟小睡) ICON转svg、png下载
 name: alarm-snooze
 zhTips: 闹钟小睡
 tags: []
+search: alarm-clock-snooze
 
 ---
 

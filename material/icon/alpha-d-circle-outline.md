@@ -4,6 +4,7 @@ title: alpha d circle outline(字母d圆圈轮廓) ICON转svg、png下载
 name: alpha-d-circle-outline
 zhTips: 字母d圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-d-circle-outline,letter-d-circle-outline
 
 ---
 

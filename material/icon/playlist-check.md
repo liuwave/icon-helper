@@ -4,6 +4,7 @@ title: playlist check(播放列表检查) ICON转svg、png下载
 name: playlist-check
 zhTips: 播放列表检查,订阅,播放列表添加检查,播放列表刻度
 tags: []
+search: subscriptions,playlist-add-check,playlist-tick
 
 ---
 

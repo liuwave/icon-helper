@@ -4,6 +4,7 @@ title: cash register(收银机) ICON转svg、png下载
 name: cash-register
 zhTips: 收银机,退货
 tags: ["shopping"]
+search: till
 
 ---
 

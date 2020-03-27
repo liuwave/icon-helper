@@ -4,6 +4,7 @@ title: alert octagon(警报八角形) ICON转svg、png下载
 name: alert-octagon
 zhTips: 警报八角形,警告八角形,报告
 tags: ["alert-error"]
+search: warning-octagon,report
 
 ---
 

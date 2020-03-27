@@ -4,6 +4,7 @@ title: cellphone information(手机信息) ICON转svg、png下载
 name: cellphone-information
 zhTips: 手机信息,智能手机信息
 tags: ["cellphone-phone"]
+search: mobile-phone-information,smartphone-information
 
 ---
 

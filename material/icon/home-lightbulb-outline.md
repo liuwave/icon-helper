@@ -4,6 +4,7 @@ title: home lightbulb outline(家用灯泡轮廓) ICON转svg、png下载
 name: home-lightbulb-outline
 zhTips: 家用灯泡轮廓
 tags: ["home-automation"]
+search: home-bulb-outline
 
 ---
 

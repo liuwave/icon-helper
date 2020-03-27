@@ -4,6 +4,7 @@ title: tray plus(托盘加) ICON转svg、png下载
 name: tray-plus
 zhTips: 托盘加,队列,打印机,收件箱
 tags: []
+search: queue,printer,inbox
 
 ---
 

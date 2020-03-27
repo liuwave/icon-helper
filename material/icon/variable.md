@@ -4,6 +4,7 @@ title: variable(变量) ICON转svg、png下载
 name: variable
 zhTips: 变量
 tags: ["developer-languages","math"]
+search: 
 
 ---
 

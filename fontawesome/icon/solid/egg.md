@@ -5,6 +5,7 @@ name: egg
 zhTips: 鸡蛋,早餐,鸡肉,复活节,贝壳,蛋黄
 tags: ["food"]
 pre: fas
+search: breakfast,chicken,easter,shell,yolk
 
 ---
 

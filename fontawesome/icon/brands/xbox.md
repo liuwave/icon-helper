@@ -5,6 +5,7 @@ name: xbox
 zhTips: Xbox
 tags: ["games"]
 pre: fab
+search: 
 
 ---
 

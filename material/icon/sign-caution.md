@@ -4,6 +4,7 @@ title: sign caution(签署警告) ICON转svg、png下载
 name: sign-caution
 zhTips: 签署警告,障碍
 tags: ["transportation-road"]
+search: barrier
 
 ---
 

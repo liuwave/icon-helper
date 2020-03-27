@@ -4,6 +4,7 @@ title: minus circle multiple(负圆倍数) ICON转svg、png下载
 name: minus-circle-multiple
 zhTips: 负圆倍数,负硬币
 tags: []
+search: coins-minus
 
 ---
 

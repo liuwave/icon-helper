@@ -4,6 +4,7 @@ title: sync alert(同步警报) ICON转svg、png下载
 name: sync-alert
 zhTips: 同步警报,同步警告,同步问题
 tags: ["alert-error"]
+search: sync-warning,sync-problem
 
 ---
 

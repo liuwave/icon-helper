@@ -4,6 +4,7 @@ title: angle acute(锐角) ICON转svg、png下载
 name: angle-acute
 zhTips: 锐角
 tags: ["math"]
+search: 
 
 ---
 

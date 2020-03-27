@@ -4,6 +4,7 @@ title: battery charging wireless(电池充电无线) ICON转svg、png下载
 name: battery-charging-wireless
 zhTips: 电池充电无线,电池充电无线完全,电池充电无线100
 tags: ["battery","home-automation"]
+search: battery-charging-wireless-full,battery-charging-wireless-100
 
 ---
 

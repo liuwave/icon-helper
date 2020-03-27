@@ -4,6 +4,7 @@ title: chart donut(图表甜甜圈) ICON转svg、png下载
 name: chart-donut
 zhTips: 图表甜甜圈,甜甜圈图,数据使用情况
 tags: ["math"]
+search: chart-doughnut,data-usage
 
 ---
 

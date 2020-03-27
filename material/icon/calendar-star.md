@@ -4,6 +4,7 @@ title: calendar star(日历星) ICON转svg、png下载
 name: calendar-star
 zhTips: 日历星,活动星
 tags: ["date-time"]
+search: event-star
 
 ---
 

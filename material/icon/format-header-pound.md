@@ -4,6 +4,7 @@ title: format header pound(英镑标题格式) ICON转svg、png下载
 name: format-header-pound
 zhTips: 英镑标题格式,哈希标题格式
 tags: ["text-content-format"]
+search: format-header-hash
 
 ---
 

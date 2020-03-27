@@ -5,6 +5,7 @@ name: file-export
 zhTips: 文件导出,下载,保存
 tags: ["interfaces"]
 pre: fas
+search: download,save
 
 ---
 

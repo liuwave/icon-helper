@@ -4,6 +4,7 @@ title: sign direction remove(删除方向标志) ICON转svg、png下载
 name: sign-direction-remove
 zhTips: 删除方向标志,删除里程碑
 tags: []
+search: milestone-remove
 
 ---
 

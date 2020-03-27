@@ -5,6 +5,7 @@ name: hand-holding-medical
 zhTips: Hand Holding Medical Cross,护理,covid 19,捐赠,帮助
 tags: ["hands","medical"]
 pre: fas
+search: care,covid-19,donate,help
 
 ---
 

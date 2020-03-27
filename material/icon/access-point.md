@@ -4,6 +4,7 @@ title: access point(无线接入点) ICON转svg、png下载
 name: access-point
 zhTips: 无线接入点
 tags: []
+search: wireless
 
 ---
 

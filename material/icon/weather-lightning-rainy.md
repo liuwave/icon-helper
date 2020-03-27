@@ -4,6 +4,7 @@ title: weather lightning rainy(天气雷雨) ICON转svg、png下载
 name: weather-lightning-rainy
 zhTips: 天气雷雨,天气风暴
 tags: ["weather"]
+search: weather-thunder-rainy,weather-storm
 
 ---
 

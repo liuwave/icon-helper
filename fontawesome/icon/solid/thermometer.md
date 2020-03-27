@@ -5,6 +5,7 @@ name: thermometer
 zhTips: 温度计,covid 19,汞,状态,温度
 tags: ["medical","pharmacy"]
 pre: fas
+search: covid-19,mercury,status,temperature
 
 ---
 

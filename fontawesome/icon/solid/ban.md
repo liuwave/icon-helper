@@ -5,6 +5,7 @@ name: ban
 zhTips: 禁止,中止,阻止,取消,删除,隐藏,停止,垃圾
 tags: ["interfaces","security","status"]
 pre: fas
+search: abort,ban,block,cancel,delete,hide,prohibit,remove,stop,trash
 
 ---
 

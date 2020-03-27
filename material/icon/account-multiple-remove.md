@@ -4,6 +4,7 @@ title: account multiple remove(帐户多个删除) ICON转svg、png下载
 name: account-multiple-remove
 zhTips: 帐户多个删除,用户多个删除,人多个删除
 tags: ["account-user"]
+search: user-multiple-remove,person-multiple-remove
 
 ---
 

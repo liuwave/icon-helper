@@ -4,6 +4,7 @@ title: select inverse(选择反向) ICON转svg、png下载
 name: select-inverse
 zhTips: 选择反向,反向选择
 tags: []
+search: selection-invert
 
 ---
 

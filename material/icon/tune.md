@@ -4,6 +4,7 @@ title: tune(调谐) ICON转svg、png下载
 name: tune
 zhTips: 调谐,混音器设置,均衡器
 tags: ["settings"]
+search: mixer-settings,equaliser
 
 ---
 

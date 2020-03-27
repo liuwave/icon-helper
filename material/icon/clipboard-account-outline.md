@@ -4,6 +4,7 @@ title: clipboard account outline(剪贴板帐户轮廓) ICON转svg、png下载
 name: clipboard-account-outline
 zhTips: 剪贴板帐户轮廓,剪贴板用户轮廓,剪贴板人轮廓,工作分配轮廓
 tags: ["account-user"]
+search: clipboard-user-outline,clipboard-person-outline,assignment-ind-outline
 
 ---
 

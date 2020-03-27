@@ -4,6 +4,7 @@ title: alpha d(字母d) ICON转svg、png下载
 name: alpha-d
 zhTips: 字母d,驱动器
 tags: ["automotive","alpha-numeric"]
+search: alphabet-d,letter-d,drive
 
 ---
 

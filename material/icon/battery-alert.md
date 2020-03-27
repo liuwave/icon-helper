@@ -4,6 +4,7 @@ title: battery alert(电池警报) ICON转svg、png下载
 name: battery-alert
 zhTips: 电池警报,电池警告
 tags: ["battery","home-automation","alert-error"]
+search: battery-warning
 
 ---
 

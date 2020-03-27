@@ -4,6 +4,7 @@ title: bell minus outline(钟形减号) ICON转svg、png下载
 name: bell-minus-outline
 zhTips: 钟形减号
 tags: ["notification"]
+search: 
 
 ---
 

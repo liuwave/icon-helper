@@ -4,6 +4,7 @@ title: pillar(柱子) ICON转svg、png下载
 name: pillar
 zhTips: 柱子,历史性,圆柱
 tags: []
+search: historic,column
 
 ---
 

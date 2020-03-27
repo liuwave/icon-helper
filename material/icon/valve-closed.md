@@ -4,6 +4,7 @@ title: valve closed(阀门关闭) ICON转svg、png下载
 name: valve-closed
 zhTips: 阀门关闭
 tags: ["home-automation"]
+search: 
 
 ---
 

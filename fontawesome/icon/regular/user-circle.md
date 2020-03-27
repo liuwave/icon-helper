@@ -5,6 +5,7 @@ name: user-circle
 zhTips: 用户圈,帐户,头像,头,人,个人资料
 tags: ["interfaces","social","users-people"]
 pre: far
+search: account,avatar,head,human,man,person,profile
 
 ---
 

@@ -5,6 +5,7 @@ name: frown-open
 zhTips: 皱着眉头张开嘴的脸,不赞成,图释,脸,评分,悲伤
 tags: ["emoji"]
 pre: fas
+search: disapprove,emoticon,face,rating,sad
 
 ---
 

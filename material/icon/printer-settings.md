@@ -4,6 +4,7 @@ title: printer settings(打印机设置) ICON转svg、png下载
 name: printer-settings
 zhTips: 打印机设置
 tags: ["settings","printer"]
+search: 
 
 ---
 

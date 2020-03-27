@@ -4,6 +4,7 @@ title: pentagon outline(五边形轮廓) ICON转svg、png下载
 name: pentagon-outline
 zhTips: 五边形轮廓
 tags: ["shape"]
+search: 
 
 ---
 

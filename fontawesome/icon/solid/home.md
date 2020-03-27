@@ -5,6 +5,7 @@ name: home
 zhTips: 家庭,住所,建筑,房屋,主要
 tags: ["buildings","interfaces","maps","objects"]
 pre: fas
+search: abode,building,house,main
 
 ---
 

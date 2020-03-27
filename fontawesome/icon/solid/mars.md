@@ -5,6 +5,7 @@ name: mars
 zhTips: 火星,男
 tags: ["gender"]
 pre: fas
+search: male
 
 ---
 

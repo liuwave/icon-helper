@@ -4,6 +4,7 @@ title: tag plus(标签加上) ICON转svg、png下载
 name: tag-plus
 zhTips: 标签加上,标签添加
 tags: []
+search: tag-add
 
 ---
 

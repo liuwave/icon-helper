@@ -4,6 +4,7 @@ title: toaster oven(电烤箱) ICON转svg、png下载
 name: toaster-oven
 zhTips: 电烤箱
 tags: ["home-automation","food-drink"]
+search: 
 
 ---
 

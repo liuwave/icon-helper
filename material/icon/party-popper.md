@@ -4,6 +4,7 @@ title: party popper(庆祝聚会) ICON转svg、png下载
 name: party-popper
 zhTips: 庆祝聚会,庆祝活动
 tags: ["holiday"]
+search: celebration
 
 ---
 

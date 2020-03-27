@@ -4,6 +4,7 @@ title: bed double(双人床) ICON转svg、png下载
 name: bed-double
 zhTips: 双人床
 tags: ["home-automation","holiday"]
+search: 
 
 ---
 

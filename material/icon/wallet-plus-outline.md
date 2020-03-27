@@ -4,6 +4,7 @@ title: wallet plus outline(钱包加轮廓) ICON转svg、png下载
 name: wallet-plus-outline
 zhTips: 钱包加轮廓
 tags: ["banking"]
+search: wallet-add-outline
 
 ---
 

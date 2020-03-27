@@ -4,6 +4,7 @@ title: file cabinet(文件柜) ICON转svg、png下载
 name: file-cabinet
 zhTips: 文件柜
 tags: ["files-folders"]
+search: filing-cabinet
 
 ---
 

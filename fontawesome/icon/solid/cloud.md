@@ -5,6 +5,7 @@ name: cloud
 zhTips: 云,大气,雾,阴,保存,上传,天气
 tags: ["interfaces","objects","shapes","weather"]
 pre: fas
+search: atmosphere,fog,overcast,save,upload,weather
 
 ---
 

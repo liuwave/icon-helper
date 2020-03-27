@@ -5,6 +5,7 @@ name: teeth-open
 zhTips: 牙齿张开,牙齿,牙医,口香糖,嘴巴,微笑
 tags: ["medical"]
 pre: fas
+search: dental,dentist,gums bite,mouth,smile,tooth
 
 ---
 

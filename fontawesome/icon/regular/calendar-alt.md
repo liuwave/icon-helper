@@ -5,6 +5,7 @@ name: calendar-alt
 zhTips: 备用日历,日历,日期,事件,时间表,时间
 tags: ["business","date-time","interfaces","objects","status"]
 pre: far
+search: calendar,date,event,schedule,time,when
 
 ---
 

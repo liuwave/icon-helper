@@ -4,6 +4,7 @@ title: plus circle(加圆圈) ICON转svg、png下载
 name: plus-circle
 zhTips: 加圆圈
 tags: []
+search: add-circle
 
 ---
 

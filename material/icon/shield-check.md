@@ -4,6 +4,7 @@ title: shield check(屏蔽检查) ICON转svg、png下载
 name: shield-check
 zhTips: 屏蔽检查,用户验证,屏蔽刻度,已验证
 tags: ["account-user"]
+search: verified-user,shield-tick,verified
 
 ---
 

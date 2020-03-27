@@ -4,6 +4,7 @@ title: video stabilization(视频稳定) ICON转svg、png下载
 name: video-stabilization
 zhTips: 视频稳定
 tags: []
+search: video-stabilisation
 
 ---
 

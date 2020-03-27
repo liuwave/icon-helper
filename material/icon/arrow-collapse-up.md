@@ -4,6 +4,7 @@ title: arrow collapse up(箭头收起) ICON转svg、png下载
 name: arrow-collapse-up
 zhTips: 箭头收起,箭头压缩
 tags: ["arrow"]
+search: arrow-compress-up
 
 ---
 

@@ -5,6 +5,7 @@ name: laugh-wink
 zhTips: 笑眨眼的脸,笑声,表情符号,脸,快乐,微笑
 tags: ["emoji"]
 pre: far
+search: LOL,emoticon,face,happy,smile
 
 ---
 

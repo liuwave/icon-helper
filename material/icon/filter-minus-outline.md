@@ -4,6 +4,7 @@ title: filter minus outline(过滤器减轮廓) ICON转svg、png下载
 name: filter-minus-outline
 zhTips: 过滤器减轮廓,漏斗减轮廓
 tags: []
+search: funnel-minus-outline
 
 ---
 

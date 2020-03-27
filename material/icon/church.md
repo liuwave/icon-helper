@@ -4,6 +4,7 @@ title: church(教堂) ICON转svg、png下载
 name: church
 zhTips: 教堂
 tags: ["religion","places"]
+search: 
 
 ---
 

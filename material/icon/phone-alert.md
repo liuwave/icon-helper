@@ -4,6 +4,7 @@ title: phone alert(电话提醒) ICON转svg、png下载
 name: phone-alert
 zhTips: 电话提醒
 tags: ["cellphone-phone","alert-error"]
+search: 
 
 ---
 

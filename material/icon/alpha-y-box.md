@@ -4,6 +4,7 @@ title: alpha y box(字母y框) ICON转svg、png下载
 name: alpha-y-box
 zhTips: 字母y框
 tags: ["alpha-numeric"]
+search: alphabet-y-box,letter-y-box
 
 ---
 

@@ -5,6 +5,7 @@ name: journal-whills
 zhTips: 丘陵杂志,书,力,绝地,西斯,星球大战,尤达
 tags: ["religion","science-fiction"]
 pre: fas
+search: book,force,jedi,sith,star wars,yoda
 
 ---
 

@@ -5,6 +5,7 @@ name: skating
 zhTips: 滑冰,活动,花样滑冰,健身,冰,人,冬季
 tags: ["fitness","sports","users-people","winter"]
 pre: fas
+search: activity,figure skating,fitness,ice,person,winter
 
 ---
 

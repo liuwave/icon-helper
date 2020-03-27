@@ -4,6 +4,7 @@ title: format clear(清除格式) ICON转svg、png下载
 name: format-clear
 zhTips: 清除格式
 tags: ["text-content-format"]
+search: 
 
 ---
 

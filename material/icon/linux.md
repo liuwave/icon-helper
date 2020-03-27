@@ -4,6 +4,7 @@ title: linux(Linux) ICON转svg、png下载
 name: linux
 zhTips: Linux,无尾礼服
 tags: ["animal","brand-logo"]
+search: tux
 
 ---
 

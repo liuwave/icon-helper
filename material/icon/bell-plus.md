@@ -4,6 +4,7 @@ title: bell plus(铃声加上) ICON转svg、png下载
 name: bell-plus
 zhTips: 铃声加上,添加提醒,铃声添加
 tags: ["notification"]
+search: add-alert,bell-add
 
 ---
 

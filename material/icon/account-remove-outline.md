@@ -4,6 +4,7 @@ title: account remove outline(帐户删除轮廓) ICON转svg、png下载
 name: account-remove-outline
 zhTips: 帐户删除轮廓,用户删除轮廓,人员删除轮廓
 tags: ["account-user"]
+search: user-remove-outline,person-remove-outline
 
 ---
 

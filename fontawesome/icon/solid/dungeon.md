@@ -5,6 +5,7 @@ name: dungeon
 zhTips: Dungeon,Dungeons and Dragons,建筑物,d＆d,dnd,门,入口,幻想
 tags: ["buildings","gaming-tabletop","household","security"]
 pre: fas
+search: Dungeons & Dragons,building,d&d,dnd,door,entrance,fantasy,gate
 
 ---
 

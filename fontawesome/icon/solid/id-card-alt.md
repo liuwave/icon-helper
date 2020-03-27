@@ -5,6 +5,7 @@ name: id-card-alt
 zhTips: 备用身份证,联系人,人口统计,文件,身份证明,已签发,个人资料
 tags: ["medical","security","users-people"]
 pre: fas
+search: contact,demographics,document,identification,issued,profile
 
 ---
 

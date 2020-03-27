@@ -5,6 +5,7 @@ name: eject
 zhTips: 弹出,中止,取消,cd,放电
 tags: ["audio-video"]
 pre: fas
+search: abort,cancel,cd,discharge
 
 ---
 

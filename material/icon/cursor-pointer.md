@@ -4,6 +4,7 @@ title: cursor pointer(cuinter指针) ICON转svg、png下载
 name: cursor-pointer
 zhTips: cuinter指针,光标手
 tags: []
+search: cursor-hand
 
 ---
 

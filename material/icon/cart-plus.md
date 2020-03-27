@@ -4,6 +4,7 @@ title: cart plus(加购物车) ICON转svg、png下载
 name: cart-plus
 zhTips: 加购物车,添加购物车
 tags: ["shopping"]
+search: trolley-plus,add-shopping-cart,shopping-cart-plus,cart-add,trolley-add,shopping-cart-add
 
 ---
 

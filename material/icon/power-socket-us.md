@@ -4,6 +4,7 @@ title: power socket us(电源插座美国) ICON转svg、png下载
 name: power-socket-us
 zhTips: 电源插座美国,插头插座我们,电源插座ca,电源插座mx,电源插座类型b,电源插座日本,电源插座加拿大,电源插座墨西哥
 tags: ["home-automation"]
+search: plug-socket-us,power-socket-ca,power-socket-mx,power-socket-type-b,power-socket-united-states,power-socket-japan,power-socket-canada,power-socket-mexico
 
 ---
 

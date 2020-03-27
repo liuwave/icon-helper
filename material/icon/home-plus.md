@@ -4,6 +4,7 @@ title: home plus(home plus) ICON转svg、png下载
 name: home-plus
 zhTips: home plus,首页添加
 tags: ["home-automation"]
+search: home-add
 
 ---
 

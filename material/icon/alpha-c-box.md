@@ -4,6 +4,7 @@ title: alpha c box(字母C框) ICON转svg、png下载
 name: alpha-c-box
 zhTips: 字母C框
 tags: ["alpha-numeric"]
+search: alphabet-c-box,letter-c-box
 
 ---
 

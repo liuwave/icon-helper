@@ -4,6 +4,7 @@ title: mixed martial arts(混合武术) ICON转svg、png下载
 name: mixed-martial-arts
 zhTips: 混合武术,mma,手套
 tags: ["sport"]
+search: mma,glove
 
 ---
 

@@ -5,6 +5,7 @@ name: ubuntu
 zhTips: Ubuntu,Linux,操作系统
 tags: []
 pre: fab
+search: linux,operating system,os
 
 ---
 

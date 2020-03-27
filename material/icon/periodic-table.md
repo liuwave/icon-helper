@@ -4,6 +4,7 @@ title: periodic table(周期表) ICON转svg、png下载
 name: periodic-table
 zhTips: 周期表
 tags: ["science"]
+search: 
 
 ---
 

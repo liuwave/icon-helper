@@ -5,6 +5,7 @@ name: deaf
 zhTips: 聋,耳,听,手语
 tags: ["accessibility"]
 pre: fas
+search: ear,hearing,sign language
 
 ---
 

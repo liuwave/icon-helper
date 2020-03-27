@@ -4,6 +4,7 @@ title: bee flower(蜜蜂花) ICON转svg、png下载
 name: bee-flower
 zhTips: 蜜蜂花,鲜花,自然
 tags: ["nature"]
+search: fly-flower,nature
 
 ---
 

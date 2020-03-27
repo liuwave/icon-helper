@@ -4,6 +4,7 @@ title: sort bool descending variant(对bool降序排序) ICON转svg、png下载
 name: sort-bool-descending-variant
 zhTips: 对bool降序排序,对复选框降序排序
 tags: ["text-content-format"]
+search: sort-checkbox-descending
 
 ---
 

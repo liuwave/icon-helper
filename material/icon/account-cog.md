@@ -4,6 +4,7 @@ title: account cog(帐户嵌齿轮) ICON转svg、png下载
 name: account-cog
 zhTips: 帐户嵌齿轮,帐户设置
 tags: ["account-user","settings"]
+search: account-settings
 
 ---
 

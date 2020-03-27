@@ -4,6 +4,7 @@ title: cogs(嵌齿轮) ICON转svg、png下载
 name: cogs
 zhTips: 嵌齿轮,设定,制造
 tags: ["settings"]
+search: settings,manufacturing
 
 ---
 

@@ -4,6 +4,7 @@ title: tune vertical(垂直调整) ICON转svg、png下载
 name: tune-vertical
 zhTips: 垂直调整,垂直均衡,即时混音
 tags: ["settings"]
+search: equaliser-vertical,instant-mix
 
 ---
 

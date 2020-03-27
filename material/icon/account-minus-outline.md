@@ -4,6 +4,7 @@ title: account minus outline(帐户减轮廓) ICON转svg、png下载
 name: account-minus-outline
 zhTips: 帐户减轮廓,用户减轮廓,人减轮廓
 tags: ["account-user"]
+search: user-minus-outline,person-minus-outline
 
 ---
 

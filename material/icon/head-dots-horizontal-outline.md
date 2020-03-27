@@ -4,6 +4,7 @@ title: head dots horizontal outline(头部圆点水平轮廓) ICON转svg、png�
 name: head-dots-horizontal-outline
 zhTips: 头部圆点水平轮廓,头部思维轮廓
 tags: []
+search: head-thinking-outline
 
 ---
 

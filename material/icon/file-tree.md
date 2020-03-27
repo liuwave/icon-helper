@@ -4,6 +4,7 @@ title: file tree(文件树) ICON转svg、png下载
 name: file-tree
 zhTips: 文件树,子任务
 tags: ["files-folders"]
+search: subtasks
 
 ---
 

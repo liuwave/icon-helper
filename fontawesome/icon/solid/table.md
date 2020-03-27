@@ -5,6 +5,7 @@ name: table
 zhTips: 表格,数据,Excel,电子表格
 tags: ["business","editors"]
 pre: fas
+search: data,excel,spreadsheet
 
 ---
 

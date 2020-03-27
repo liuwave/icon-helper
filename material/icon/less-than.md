@@ -4,6 +4,7 @@ title: less than(小于) ICON转svg、png下载
 name: less-than
 zhTips: 小于
 tags: ["math"]
+search: 
 
 ---
 

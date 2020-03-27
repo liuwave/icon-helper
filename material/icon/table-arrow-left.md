@@ -4,6 +4,7 @@ title: table arrow left(表格左箭头) ICON转svg、png下载
 name: table-arrow-left
 zhTips: 表格左箭头,表格导入
 tags: []
+search: table-import
 
 ---
 

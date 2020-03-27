@@ -5,6 +5,7 @@ name: rainbow
 zhTips: 彩虹,黄金,妖精,棱镜,雨,天空
 tags: ["spring","weather"]
 pre: fas
+search: gold,leprechaun,prism,rain,sky
 
 ---
 

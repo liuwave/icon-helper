@@ -4,6 +4,7 @@ title: leak(泄漏) ICON转svg、png下载
 name: leak
 zhTips: 泄漏,传感器接近
 tags: []
+search: proximity-sensor
 
 ---
 

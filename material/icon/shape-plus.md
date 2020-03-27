@@ -4,6 +4,7 @@ title: shape plus(形状加) ICON转svg、png下载
 name: shape-plus
 zhTips: 形状加
 tags: ["shape"]
+search: shape-add
 
 ---
 

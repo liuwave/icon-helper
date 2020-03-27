@@ -4,6 +4,7 @@ title: minus box multiple outline(负号框多个轮廓) ICON转svg、png下载
 name: minus-box-multiple-outline
 zhTips: 负号框多个轮廓,库负号轮廓
 tags: []
+search: library-minus-outline
 
 ---
 

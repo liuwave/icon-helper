@@ -4,6 +4,7 @@ title: cash multiple(现金倍数) ICON转svg、png下载
 name: cash-multiple
 zhTips: 现金倍数,货币
 tags: ["currency","banking"]
+search: money
 
 ---
 

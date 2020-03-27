@@ -4,6 +4,7 @@ title: boom gate outline(动臂浇口轮廓) ICON转svg、png下载
 name: boom-gate-outline
 zhTips: 动臂浇口轮廓,动臂轮廓,障碍物障碍轮廓,自动浇口轮廓
 tags: ["transportation-road"]
+search: boom-arm-outline,boom-barrier-outline,arm-barrier-outline,barrier-outline,automatic-gate-outline
 
 ---
 

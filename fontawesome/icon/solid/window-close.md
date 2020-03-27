@@ -5,6 +5,7 @@ name: window-close
 zhTips: 关闭窗口,浏览器,取消,计算机,开发
 tags: ["code"]
 pre: fas
+search: browser,cancel,computer,development
 
 ---
 

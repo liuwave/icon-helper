@@ -4,6 +4,7 @@ title: alpha g box outline(alpha g框轮廓) ICON转svg、png下载
 name: alpha-g-box-outline
 zhTips: alpha g框轮廓,字母g框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-g-box-outline,letter-g-box-outline
 
 ---
 

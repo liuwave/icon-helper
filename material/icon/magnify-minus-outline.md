@@ -4,6 +4,7 @@ title: magnify minus outline(放大减轮廓) ICON转svg、png下载
 name: magnify-minus-outline
 zhTips: 放大减轮廓,缩小轮廓,搜索减轮廓
 tags: ["geographic-information-system"]
+search: zoom-out-outline,search-minus-outline
 
 ---
 

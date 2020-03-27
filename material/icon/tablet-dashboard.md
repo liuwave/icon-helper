@@ -4,6 +4,7 @@ title: tablet dashboard(仪表板平板) ICON转svg、png下载
 name: tablet-dashboard
 zhTips: 仪表板平板
 tags: ["device-tech"]
+search: 
 
 ---
 

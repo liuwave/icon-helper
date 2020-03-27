@@ -4,6 +4,7 @@ title: checkbox multiple blank circle outline(复选框空白圆圈轮廓) ICON�
 name: checkbox-multiple-blank-circle-outline
 zhTips: 复选框空白圆圈轮廓
 tags: ["form"]
+search: checkboxes-blank-circle-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: car brake abs(汽车制动abs) ICON转svg、png下载
 name: car-brake-abs
 zhTips: 汽车制动abs,防抱死制动系统
 tags: ["automotive"]
+search: anti-lock-brake-system,anti-lock-braking-system
 
 ---
 

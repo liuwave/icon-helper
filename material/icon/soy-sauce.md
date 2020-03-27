@@ -4,6 +4,7 @@ title: soy sauce(酱油) ICON转svg、png下载
 name: soy-sauce
 zhTips: 酱油
 tags: ["food-drink"]
+search: soya-sauce
 
 ---
 

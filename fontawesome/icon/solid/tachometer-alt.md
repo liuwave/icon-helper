@@ -5,6 +5,7 @@ name: tachometer-alt
 zhTips: 备用转速表,仪表板,快速,里程表,速度,车速表
 tags: ["automotive","objects"]
 pre: fas
+search: dashboard,fast,odometer,speed,speedometer
 
 ---
 

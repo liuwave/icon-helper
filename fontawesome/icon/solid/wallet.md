@@ -5,6 +5,7 @@ name: wallet
 zhTips: 钱包,现金,货币,钱
 tags: ["business","finance","objects"]
 pre: fas
+search: billfold,cash,currency,money
 
 ---
 

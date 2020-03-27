@@ -5,6 +5,7 @@ name: edit
 zhTips: 编辑,笔,铅笔,更新,编写
 tags: ["business","design","editors","interfaces","writing"]
 pre: far
+search: edit,pen,pencil,update,write
 
 ---
 

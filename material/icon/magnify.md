@@ -4,6 +4,7 @@ title: magnify(放大) ICON转svg、png下载
 name: magnify
 zhTips: 放大,搜索
 tags: ["geographic-information-system"]
+search: search
 
 ---
 

@@ -4,6 +4,7 @@ title: arrow left bold box outline(左箭头加粗框轮廓) ICON转svg、png下
 name: arrow-left-bold-box-outline
 zhTips: 左箭头加粗框轮廓
 tags: ["arrow"]
+search: 
 
 ---
 

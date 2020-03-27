@@ -4,6 +4,7 @@ title: credit card settings outline(信用卡设置概述) ICON转svg、png下�
 name: credit-card-settings-outline
 zhTips: 信用卡设置概述,付款设置
 tags: ["banking","settings"]
+search: payment-settings
 
 ---
 

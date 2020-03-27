@@ -4,6 +4,7 @@ title: numeric negative 1(负数1) ICON转svg、png下载
 name: numeric-negative-1
 zhTips: 负数1
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

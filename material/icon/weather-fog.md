@@ -4,6 +4,7 @@ title: weather fog(天气雾) ICON转svg、png下载
 name: weather-fog
 zhTips: 天气雾
 tags: ["weather"]
+search: weather-mist
 
 ---
 

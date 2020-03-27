@@ -5,6 +5,7 @@ name: expand-alt
 zhTips: 替代展开,箭头,更大,放大,调整大小
 tags: ["arrows","audio-video"]
 pre: fas
+search: arrow,bigger,enlarge,resize
 
 ---
 

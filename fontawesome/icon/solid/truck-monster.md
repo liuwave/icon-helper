@@ -5,6 +5,7 @@ name: truck-monster
 zhTips: 卡车怪物,越野,车辆,车轮
 tags: ["automotive","vehicles"]
 pre: fas
+search: offroad,vehicle,wheel
 
 ---
 

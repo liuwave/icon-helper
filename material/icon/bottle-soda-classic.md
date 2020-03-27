@@ -4,6 +4,7 @@ title: bottle soda classic(瓶汽水经典) ICON转svg、png下载
 name: bottle-soda-classic
 zhTips: 瓶汽水经典,瓶可乐经典,瓶流行经典
 tags: ["food-drink"]
+search: bottle-coke-classic,bottle-pop-classic
 
 ---
 

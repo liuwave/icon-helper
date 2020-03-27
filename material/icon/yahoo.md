@@ -4,6 +4,7 @@ title: yahoo(雅虎) ICON转svg、png下载
 name: yahoo
 zhTips: 雅虎
 tags: ["brand-logo"]
+search: 
 
 ---
 

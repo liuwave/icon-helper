@@ -4,6 +4,7 @@ title: folder information outline(信息文件夹概述) ICON转svg、png下载
 name: folder-information-outline
 zhTips: 信息文件夹概述
 tags: ["files-folders"]
+search: 
 
 ---
 

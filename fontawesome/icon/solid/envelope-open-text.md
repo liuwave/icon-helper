@@ -5,6 +5,7 @@ name: envelope-open-text
 zhTips: 信封打开文本,电子邮件,信件,邮件,消息,通知,支持
 tags: ["marketing"]
 pre: fas
+search: e-mail,email,letter,mail,message,notification,support
 
 ---
 

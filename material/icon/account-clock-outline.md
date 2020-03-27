@@ -4,6 +4,7 @@ title: account clock outline(帐户时钟轮廓) ICON转svg、png下载
 name: account-clock-outline
 zhTips: 帐户时钟轮廓,用户时钟轮廓,帐户待处理轮廓,个人时钟轮廓
 tags: ["account-user"]
+search: user-clock-outline,account-pending-outline,person-clock-outline
 
 ---
 

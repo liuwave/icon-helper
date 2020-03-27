@@ -5,6 +5,7 @@ name: satellite-dish
 zhTips: 卫星天线,SETI,通讯,硬件,接收器,碟,信号,空间
 tags: ["computers","objects","science-fiction"]
 pre: fas
+search: SETI,communications,hardware,receiver,saucer,signal,space
 
 ---
 

@@ -5,6 +5,7 @@ name: mobile-alt
 zhTips: 备用手机,苹果,电话,手机,设备,iphone,数字,屏幕
 tags: ["communication","computers","objects"]
 pre: fas
+search: apple,call,cell phone,cellphone,device,iphone,number,screen,telephone
 
 ---
 

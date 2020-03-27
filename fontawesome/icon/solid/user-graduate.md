@@ -5,6 +5,7 @@ name: user-graduate
 zhTips: 用户毕业生,帽子,服装,结业,礼服,毕业,人,学生
 tags: ["education","users-people"]
 pre: fas
+search: cap,clothing,commencement,gown,graduation,person,student
 
 ---
 

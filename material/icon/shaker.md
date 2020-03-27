@@ -4,6 +4,7 @@ title: shaker(振动筛) ICON转svg、png下载
 name: shaker
 zhTips: 振动筛,胡椒粉,鱼类食品
 tags: ["food-drink"]
+search: pepper,fish-food
 
 ---
 

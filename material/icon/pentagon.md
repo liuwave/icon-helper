@@ -4,6 +4,7 @@ title: pentagon(五边形) ICON转svg、png下载
 name: pentagon
 zhTips: 五边形
 tags: ["shape"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: currency inr(货币inr) ICON转svg、png下载
 name: currency-inr
 zhTips: 货币inr,卢比
 tags: ["currency","banking"]
+search: rupee
 
 ---
 

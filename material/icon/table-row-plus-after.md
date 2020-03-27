@@ -4,6 +4,7 @@ title: table row plus after(表行加后) ICON转svg、png下载
 name: table-row-plus-after
 zhTips: 表行加后
 tags: ["text-content-format"]
+search: table-row-add-after
 
 ---
 

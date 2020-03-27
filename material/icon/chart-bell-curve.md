@@ -4,6 +4,7 @@ title: chart bell curve(图表钟形曲线) ICON转svg、png下载
 name: chart-bell-curve
 zhTips: 图表钟形曲线
 tags: ["math"]
+search: 
 
 ---
 

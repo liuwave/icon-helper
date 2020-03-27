@@ -4,6 +4,7 @@ title: post(帖子) ICON转svg、png下载
 name: post
 zhTips: 帖子,博客
 tags: []
+search: blog
 
 ---
 

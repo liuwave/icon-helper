@@ -5,6 +5,7 @@ name: notes-medical
 zhTips: 医学笔记,剪贴板,医生,健康,历史,记录
 tags: ["medical","pharmacy"]
 pre: fas
+search: clipboard,doctor,ehr,health,history,records
 
 ---
 

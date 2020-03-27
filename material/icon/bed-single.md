@@ -4,6 +4,7 @@ title: bed single(单人床) ICON转svg、png下载
 name: bed-single
 zhTips: 单人床
 tags: ["home-automation","holiday"]
+search: 
 
 ---
 

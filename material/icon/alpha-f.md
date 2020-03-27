@@ -4,6 +4,7 @@ title: alpha f(alpha f) ICON转svg、png下载
 name: alpha-f
 zhTips: alpha f,字母f
 tags: ["alpha-numeric"]
+search: alphabet-f,letter-f
 
 ---
 

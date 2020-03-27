@@ -4,6 +4,7 @@ title: amplifier(放大器) ICON转svg、png下载
 name: amplifier
 zhTips: 放大器
 tags: ["home-automation","music"]
+search: 
 
 ---
 

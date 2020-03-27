@@ -4,6 +4,7 @@ title: home outline(家庭轮廓) ICON转svg、png下载
 name: home-outline
 zhTips: 家庭轮廓,轮廓房子
 tags: ["home-automation"]
+search: house-outline
 
 ---
 

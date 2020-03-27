@@ -4,6 +4,7 @@ title: home analytics(家庭分析) ICON转svg、png下载
 name: home-analytics
 zhTips: 家庭分析,图表家庭,主页图表
 tags: ["home-automation"]
+search: chart-home,home-chart
 
 ---
 

@@ -4,6 +4,7 @@ title: lava lamp(熔岩灯) ICON转svg、png下载
 name: lava-lamp
 zhTips: 熔岩灯
 tags: ["home-automation"]
+search: 
 
 ---
 

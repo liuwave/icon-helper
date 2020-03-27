@@ -4,6 +4,7 @@ title: numeric 1(数字1) ICON转svg、png下载
 name: numeric-1
 zhTips: 数字1
 tags: ["alpha-numeric"]
+search: number-1,numeric-one
 
 ---
 

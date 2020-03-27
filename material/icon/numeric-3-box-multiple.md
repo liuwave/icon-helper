@@ -4,6 +4,7 @@ title: numeric 3 box multiple(数字3框倍数) ICON转svg、png下载
 name: numeric-3-box-multiple
 zhTips: 数字3框倍数
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

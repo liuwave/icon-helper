@@ -5,6 +5,7 @@ name: backward
 zhTips: 向后,上一个,倒带
 tags: ["audio-video"]
 pre: fas
+search: previous,rewind
 
 ---
 

@@ -4,6 +4,7 @@ title: ballot outline(投票轮廓) ICON转svg、png下载
 name: ballot-outline
 zhTips: 投票轮廓
 tags: []
+search: vote-outline
 
 ---
 

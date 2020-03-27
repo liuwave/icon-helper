@@ -4,6 +4,7 @@ title: text box outline(文本框轮廓) ICON转svg、png下载
 name: text-box-outline
 zhTips: 文本框轮廓,文件文档框轮廓
 tags: ["files-folders"]
+search: file-document-box-outline
 
 ---
 

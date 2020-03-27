@@ -4,6 +4,7 @@ title: folder information(文件夹信息) ICON转svg、png下载
 name: folder-information
 zhTips: 文件夹信息
 tags: ["files-folders"]
+search: 
 
 ---
 

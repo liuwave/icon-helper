@@ -4,6 +4,7 @@ title: alpha r(字母r) ICON转svg、png下载
 name: alpha-r
 zhTips: 字母r,反向
 tags: ["automotive","alpha-numeric"]
+search: alphabet-r,letter-r,reverse
 
 ---
 

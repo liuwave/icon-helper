@@ -5,6 +5,7 @@ name: headphones
 zhTips: 耳机,音频,听音乐,音乐,声音,扬声器
 tags: ["audio-video","computers","music","objects"]
 pre: fas
+search: audio,listen,music,sound,speaker
 
 ---
 

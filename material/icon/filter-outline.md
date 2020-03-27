@@ -4,6 +4,7 @@ title: filter outline(过滤器轮廓) ICON转svg、png下载
 name: filter-outline
 zhTips: 过滤器轮廓,漏斗轮廓
 tags: []
+search: funnel-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: highway(高速公路) ICON转svg、png下载
 name: highway
 zhTips: 高速公路
 tags: ["transportation-road"]
+search: autobahn,motorway
 
 ---
 

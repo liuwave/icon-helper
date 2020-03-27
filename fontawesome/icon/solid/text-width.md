@@ -5,6 +5,7 @@ name: text-width
 zhTips: 文本宽度,编辑,字体,格式,文本,类型
 tags: ["arrows","editors"]
 pre: fas
+search: edit,font,format,text,type
 
 ---
 

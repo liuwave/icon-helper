@@ -4,6 +4,7 @@ title: table cog(表齿轮) ICON转svg、png下载
 name: table-cog
 zhTips: 表齿轮,表设置
 tags: ["settings"]
+search: table-settings
 
 ---
 

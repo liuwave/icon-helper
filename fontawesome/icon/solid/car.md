@@ -5,6 +5,7 @@ name: car
 zhTips: 汽车,轿车,运输,旅行,车辆
 tags: ["automotive","hotel","maps","objects","vehicles"]
 pre: fas
+search: auto,automobile,sedan,transportation,travel,vehicle
 
 ---
 

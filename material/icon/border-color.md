@@ -4,6 +4,7 @@ title: border color(边框颜色) ICON转svg、png下载
 name: border-color
 zhTips: 边框颜色
 tags: ["color","text-content-format"]
+search: border-colour
 
 ---
 

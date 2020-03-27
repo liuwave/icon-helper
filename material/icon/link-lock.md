@@ -4,6 +4,7 @@ title: link lock(链接锁) ICON转svg、png下载
 name: link-lock
 zhTips: 链接锁,区块链
 tags: ["lock"]
+search: block-chain
 
 ---
 

@@ -4,6 +4,7 @@ title: menu down(菜单向下) ICON转svg、png下载
 name: menu-down
 zhTips: 菜单向下,箭头下拉
 tags: ["arrow"]
+search: arrow-drop-down
 
 ---
 

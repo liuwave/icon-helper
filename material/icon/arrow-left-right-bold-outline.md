@@ -4,6 +4,7 @@ title: arrow left right bold outline(箭头左) ICON转svg、png下载
 name: arrow-left-right-bold-outline
 zhTips: 箭头左,右,粗体轮廓
 tags: ["arrow"]
+search: 
 
 ---
 

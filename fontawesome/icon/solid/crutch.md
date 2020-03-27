@@ -5,6 +5,7 @@ name: crutch
 zhTips: 拐杖,手杖,伤害,机动性,轮椅
 tags: ["medical"]
 pre: fas
+search: cane,injury,mobility,wheelchair
 
 ---
 

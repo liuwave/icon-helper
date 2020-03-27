@@ -4,6 +4,7 @@ title: account star outline(帐户星号轮廓) ICON转svg、png下载
 name: account-star-outline
 zhTips: 帐户星号轮廓,用户星号轮廓,人星号轮廓
 tags: ["account-user"]
+search: user-star-outline,person-star-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: fish
 zhTips: 鱼,动物区系,黄金,海鲜,游泳
 tags: ["animals","food","summer"]
 pre: fas
+search: fauna,gold,seafood,swimming
 
 ---
 

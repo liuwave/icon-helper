@@ -5,6 +5,7 @@ name: building
 zhTips: 建筑,公寓,业务,城市,公司,办公室,工作
 tags: ["buildings","business","maps","objects"]
 pre: fas
+search: apartment,business,city,company,office,work
 
 ---
 

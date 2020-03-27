@@ -4,6 +4,7 @@ title: text box minus outline(文本框减去轮廓) ICON转svg、png下载
 name: text-box-minus-outline
 zhTips: 文本框减去轮廓,文件文档框减去轮廓
 tags: ["files-folders"]
+search: file-document-box-minus-outline
 
 ---
 

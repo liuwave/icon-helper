@@ -4,6 +4,7 @@ title: math integral box(数学积分盒) ICON转svg、png下载
 name: math-integral-box
 zhTips: 数学积分盒
 tags: ["math"]
+search: 
 
 ---
 

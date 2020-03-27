@@ -5,6 +5,7 @@ name: level-down-alt
 zhTips: 备用水平下降,箭头,水平下降
 tags: ["arrows"]
 pre: fas
+search: arrow,level-down
 
 ---
 

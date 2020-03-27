@@ -5,6 +5,7 @@ name: sort-amount-down-alt
 zhTips: 备用分类金额降低,排列,过滤器,订单,分类金额升序
 tags: ["arrows","interfaces"]
 pre: fas
+search: arrange,filter,order,sort-amount-asc
 
 ---
 

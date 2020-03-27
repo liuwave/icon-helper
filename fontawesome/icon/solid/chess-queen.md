@@ -5,6 +5,7 @@ name: chess-queen
 zhTips: 国际象棋皇后,棋盘,将死,游戏,策略
 tags: ["chess","games"]
 pre: fas
+search: board,checkmate,game,strategy
 
 ---
 

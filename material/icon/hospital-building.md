@@ -4,6 +4,7 @@ title: hospital building(医院大楼) ICON转svg、png下载
 name: hospital-building
 zhTips: 医院大楼
 tags: ["places","medical-hospital"]
+search: 
 
 ---
 

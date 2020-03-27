@@ -4,6 +4,7 @@ title: magnify plus(放大) ICON转svg、png下载
 name: magnify-plus
 zhTips: 放大,搜索加,搜索添加
 tags: []
+search: zoom-in,magnify-add,search-plus,search-add
 
 ---
 

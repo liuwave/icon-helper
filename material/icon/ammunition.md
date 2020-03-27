@@ -4,6 +4,7 @@ title: ammunition(弹药) ICON转svg、png下载
 name: ammunition
 zhTips: 弹药,子弹
 tags: []
+search: bullets
 
 ---
 

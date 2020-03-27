@@ -4,6 +4,7 @@ title: alpha k box outline(alpha k框轮廓) ICON转svg、png下载
 name: alpha-k-box-outline
 zhTips: alpha k框轮廓,字母k框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-k-box-outline,letter-k-box-outline
 
 ---
 

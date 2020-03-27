@@ -5,6 +5,7 @@ name: trash-restore-alt
 zhTips: 备用垃圾还原,返回,控制z,oops,撤消
 tags: ["editors","interfaces"]
 pre: fas
+search: back,control z,oops,undo
 
 ---
 

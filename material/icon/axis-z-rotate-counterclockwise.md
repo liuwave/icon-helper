@@ -4,6 +4,7 @@ title: axis z rotate counterclockwise(轴z逆时针旋转) ICON转svg、png下�
 name: axis-z-rotate-counterclockwise
 zhTips: 轴z逆时针旋转,垂直轴逆时针旋转
 tags: []
+search: vertical-rotate-counterclockwise
 
 ---
 

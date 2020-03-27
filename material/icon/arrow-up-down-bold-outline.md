@@ -4,6 +4,7 @@ title: arrow up down bold outline(粗体向上箭头) ICON转svg、png下载
 name: arrow-up-down-bold-outline
 zhTips: 粗体向上箭头
 tags: ["arrow"]
+search: 
 
 ---
 

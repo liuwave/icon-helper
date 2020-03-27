@@ -4,6 +4,7 @@ title: file pdf box outline(文件pdf框概述) ICON转svg、png下载
 name: file-pdf-box-outline
 zhTips: 文件pdf框概述,文件acrobat框概述
 tags: ["files-folders"]
+search: file-acrobat-box-outline
 
 ---
 

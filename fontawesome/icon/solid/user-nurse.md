@@ -5,6 +5,7 @@ name: user-nurse
 zhTips: 护士,covid 19,医生,助产士,外科医生
 tags: ["medical","users-people"]
 pre: fas
+search: covid-19,doctor,midwife,practitioner,surgeon
 
 ---
 

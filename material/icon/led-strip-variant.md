@@ -4,6 +4,7 @@ title: led strip variant(led带装饰物) ICON转svg、png下载
 name: led-strip-variant
 zhTips: led带装饰物,light strip accents
 tags: ["home-automation"]
+search: light-strip-variant
 
 ---
 

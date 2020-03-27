@@ -4,6 +4,7 @@ title: invert colors(反转颜色) ICON转svg、png下载
 name: invert-colors
 zhTips: 反转颜色
 tags: ["color"]
+search: invert-colours
 
 ---
 

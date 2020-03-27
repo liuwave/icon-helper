@@ -4,6 +4,7 @@ title: numeric 1 circle outline(数字1圆轮廓) ICON转svg、png下载
 name: numeric-1-circle-outline
 zhTips: 数字1圆轮廓
 tags: ["alpha-numeric"]
+search: numeric-one-circle-outline,number-1-circle-outline,number-one-circle-outline
 
 ---
 

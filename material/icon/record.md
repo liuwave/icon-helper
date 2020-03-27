@@ -4,6 +4,7 @@ title: record(记录) ICON转svg、png下载
 name: record
 zhTips: 记录,光纤手动记录
 tags: ["home-automation"]
+search: fiber-manual-record
 
 ---
 

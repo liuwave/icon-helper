@@ -4,6 +4,7 @@ title: head cog(齿轮) ICON转svg、png下载
 name: head-cog
 zhTips: 齿轮,心理学
 tags: ["settings"]
+search: psychology
 
 ---
 

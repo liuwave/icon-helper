@@ -5,6 +5,7 @@ name: hourglass
 zhTips: 沙漏,时,分,沙,秒表,时间
 tags: ["date-time","objects"]
 pre: fas
+search: hour,minute,sand,stopwatch,time
 
 ---
 

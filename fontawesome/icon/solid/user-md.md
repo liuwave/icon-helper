@@ -5,6 +5,7 @@ name: user-md
 zhTips: 医生,covid 19,作业,医疗,护士,职业,医师,配置文件,外科医生
 tags: ["health","medical","users-people"]
 pre: fas
+search: covid-19,job,medical,nurse,occupation,physician,profile,surgeon
 
 ---
 

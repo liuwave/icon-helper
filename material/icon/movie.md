@@ -4,6 +4,7 @@ title: movie(电影) ICON转svg、png下载
 name: movie
 zhTips: 电影,板岩,clapperboard,电影创作
 tags: ["video-movie"]
+search: slate,clapperboard,film,movie-creation
 
 ---
 

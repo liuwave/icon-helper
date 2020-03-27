@@ -4,6 +4,7 @@ title: swap vertical variant(交换垂直变体) ICON转svg、png下载
 name: swap-vertical-variant
 zhTips: 交换垂直变体,交换呼叫
 tags: ["arrow"]
+search: swap-calls
 
 ---
 

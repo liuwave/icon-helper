@@ -5,6 +5,7 @@ name: network-wired
 zhTips: 有线网络,计算机,连接,以太网,互联网,内联网
 tags: []
 pre: fas
+search: computer,connect,ethernet,internet,intranet
 
 ---
 

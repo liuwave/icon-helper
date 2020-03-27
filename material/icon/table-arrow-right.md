@@ -4,6 +4,7 @@ title: table arrow right(表右箭头) ICON转svg、png下载
 name: table-arrow-right
 zhTips: 表右箭头,表共享,表导出
 tags: []
+search: table-share,table-export
 
 ---
 

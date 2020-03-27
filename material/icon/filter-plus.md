@@ -4,6 +4,7 @@ title: filter plus(过滤器加) ICON转svg、png下载
 name: filter-plus
 zhTips: 过滤器加,漏斗加
 tags: []
+search: funnel-plus
 
 ---
 

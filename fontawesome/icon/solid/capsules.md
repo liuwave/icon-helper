@@ -5,6 +5,7 @@ name: capsules
 zhTips: 胶囊,药物,药品,药丸,处方
 tags: ["medical","pharmacy","science"]
 pre: fas
+search: drugs,medicine,pills,prescription
 
 ---
 

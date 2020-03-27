@@ -4,6 +4,7 @@ title: account multiple minus(帐户多个减号) ICON转svg、png下载
 name: account-multiple-minus
 zhTips: 帐户多个减号,用户多个减号,帐户减号,用户减号,人员减号,人员多个减号
 tags: ["account-user"]
+search: user-multiple-minus,accounts-minus,users-minus,people-minus,person-multiple-minus
 
 ---
 

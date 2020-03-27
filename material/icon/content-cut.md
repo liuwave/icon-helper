@@ -4,6 +4,7 @@ title: content cut(内容剪) ICON转svg、png下载
 name: content-cut
 zhTips: 内容剪,剪刀,夹子
 tags: []
+search: scissors,clip
 
 ---
 

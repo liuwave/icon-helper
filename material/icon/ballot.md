@@ -4,6 +4,7 @@ title: ballot(投票) ICON转svg、png下载
 name: ballot
 zhTips: 投票
 tags: []
+search: vote
 
 ---
 

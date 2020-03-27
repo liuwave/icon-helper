@@ -5,6 +5,7 @@ name: receipt
 zhTips: 收据,支票,发票,货币,付款,表
 tags: ["finance","payments-shopping","pharmacy","shopping"]
 pre: fas
+search: check,invoice,money,pay,table
 
 ---
 

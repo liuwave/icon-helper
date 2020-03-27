@@ -4,6 +4,7 @@ title: chevron double left(V形双左) ICON转svg、png下载
 name: chevron-double-left
 zhTips: V形双左
 tags: ["arrow"]
+search: 
 
 ---
 

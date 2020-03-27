@@ -4,6 +4,7 @@ title: division box(分隔盒) ICON转svg、png下载
 name: division-box
 zhTips: 分隔盒
 tags: ["math"]
+search: 
 
 ---
 

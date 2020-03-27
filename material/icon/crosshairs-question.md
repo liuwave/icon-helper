@@ -4,6 +4,7 @@ title: crosshairs question(十字线问题) ICON转svg、png下载
 name: crosshairs-question
 zhTips: 十字线问题,十字线未知,gps未知
 tags: ["navigation","geographic-information-system"]
+search: crosshairs-unknown,gps-unknown
 
 ---
 

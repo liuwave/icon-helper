@@ -5,6 +5,7 @@ name: envelope-square
 zhTips: 信封广场,电子邮件,信件,邮件,消息,通知,支持
 tags: ["business","communication"]
 pre: fas
+search: e-mail,email,letter,mail,message,notification,support
 
 ---
 

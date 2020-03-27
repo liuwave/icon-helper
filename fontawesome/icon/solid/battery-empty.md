@@ -5,6 +5,7 @@ name: battery-empty
 zhTips: 电池电量耗尽,充电,电量耗尽,电量,状态
 tags: ["energy","status"]
 pre: fas
+search: charge,dead,power,status
 
 ---
 

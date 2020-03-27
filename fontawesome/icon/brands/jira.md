@@ -5,6 +5,7 @@ name: jira
 zhTips: 吉拉人
 tags: []
 pre: fab
+search: atlassian
 
 ---
 

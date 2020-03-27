@@ -4,6 +4,7 @@ title: cheese(奶酪) ICON转svg、png下载
 name: cheese
 zhTips: 奶酪,瑞士奶酪
 tags: ["food-drink"]
+search: swiss-cheese
 
 ---
 

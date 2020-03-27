@@ -4,6 +4,7 @@ title: timer off(计时器关闭) ICON转svg、png下载
 name: timer-off
 zhTips: 计时器关闭,秒表关闭
 tags: []
+search: stopwatch-off
 
 ---
 

@@ -4,6 +4,7 @@ title: volume minus(体积减) ICON转svg、png下载
 name: volume-minus
 zhTips: 体积减,体积减少
 tags: ["audio","home-automation","cellphone-phone"]
+search: volume-decrease
 
 ---
 

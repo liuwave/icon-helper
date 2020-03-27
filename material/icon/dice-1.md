@@ -4,6 +4,7 @@ title: dice 1(骰子1) ICON转svg、png下载
 name: dice-1
 zhTips: 骰子1
 tags: ["gaming-rpg"]
+search: die-1,dice-one
 
 ---
 

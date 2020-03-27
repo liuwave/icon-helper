@@ -4,6 +4,7 @@ title: text box check(文本复选框) ICON转svg、png下载
 name: text-box-check
 zhTips: 文本复选框,文件文档框打勾
 tags: ["files-folders"]
+search: file-document-box-tick,file-document-box-check
 
 ---
 

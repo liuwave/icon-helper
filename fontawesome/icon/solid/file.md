@@ -5,6 +5,7 @@ name: file
 zhTips: 文件,文档,新文件,页面,pdf,简历
 tags: ["business","code","editors","files","interfaces","objects","shapes","status","writing"]
 pre: fas
+search: document,new,page,pdf,resume
 
 ---
 

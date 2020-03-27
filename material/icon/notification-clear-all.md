@@ -4,6 +4,7 @@ title: notification clear all(通知全部清除) ICON转svg、png下载
 name: notification-clear-all
 zhTips: 通知全部清除
 tags: ["notification"]
+search: 
 
 ---
 

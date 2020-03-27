@@ -4,6 +4,7 @@ title: alpha p circle(alpha p圈) ICON转svg、png下载
 name: alpha-p-circle
 zhTips: alpha p圈,字母p圈
 tags: ["alpha-numeric"]
+search: alphabet-p-circle,letter-p-circle
 
 ---
 

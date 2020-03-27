@@ -4,6 +4,7 @@ title: kettle alert outline(水壶警报轮廓) ICON转svg、png下载
 name: kettle-alert-outline
 zhTips: 水壶警报轮廓,茶壶警报警报,水壶空警报,茶壶空警报
 tags: ["home-automation","alert-error"]
+search: tea-kettle-alert-outline,kettle-empty-alert,tea-kettle-empty-alert
 
 ---
 

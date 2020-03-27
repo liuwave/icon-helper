@@ -4,6 +4,7 @@ title: bell ring(铃声) ICON转svg、png下载
 name: bell-ring
 zhTips: 铃声,活动通知
 tags: ["notification"]
+search: notifications-active
 
 ---
 

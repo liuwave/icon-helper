@@ -5,6 +5,7 @@ name: file-medical-alt
 zhTips: 替代医疗文件,文件,健康,历史记录,处方,记录
 tags: ["medical"]
 pre: fas
+search: document,health,history,prescription,record
 
 ---
 

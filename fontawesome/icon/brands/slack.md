@@ -5,6 +5,7 @@ name: slack
 zhTips: 松弛徽标,锚点,哈希,标签
 tags: []
 pre: fab
+search: anchor,hash,hashtag
 
 ---
 

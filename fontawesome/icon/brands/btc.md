@@ -5,6 +5,7 @@ name: btc
 zhTips: 比特币
 tags: ["currency","payments-shopping"]
 pre: fab
+search: 
 
 ---
 

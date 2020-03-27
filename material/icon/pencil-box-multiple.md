@@ -4,6 +4,7 @@ title: pencil box multiple(多个铅笔盒) ICON转svg、png下载
 name: pencil-box-multiple
 zhTips: 多个铅笔盒,库编辑
 tags: ["edit-modify"]
+search: library-edit
 
 ---
 

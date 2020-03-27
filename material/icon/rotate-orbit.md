@@ -4,6 +4,7 @@ title: rotate orbit(旋转轨道) ICON转svg、png下载
 name: rotate-orbit
 zhTips: 旋转轨道,陀螺仪,加速度计
 tags: []
+search: gyro,accelerometer
 
 ---
 

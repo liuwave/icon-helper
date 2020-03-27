@@ -4,6 +4,7 @@ title: hanger(衣架) ICON转svg、png下载
 name: hanger
 zhTips: 衣架,衣帽架
 tags: ["clothing"]
+search: coat-hanger,clothes-hanger
 
 ---
 

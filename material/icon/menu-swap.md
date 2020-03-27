@@ -4,6 +4,7 @@ title: menu swap(交换菜单) ICON转svg、png下载
 name: menu-swap
 zhTips: 交换菜单
 tags: ["arrow"]
+search: 
 
 ---
 

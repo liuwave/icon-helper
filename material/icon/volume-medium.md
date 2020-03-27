@@ -4,6 +4,7 @@ title: volume medium(音量中等) ICON转svg、png下载
 name: volume-medium
 zhTips: 音量中等,音频,扬声器
 tags: ["audio","home-automation","cellphone-phone"]
+search: audio,speaker
 
 ---
 

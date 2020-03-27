@@ -4,6 +4,7 @@ title: decimal comma decrease(十进制逗号减少) ICON转svg、png下载
 name: decimal-comma-decrease
 zhTips: 十进制逗号减少
 tags: ["math"]
+search: 
 
 ---
 

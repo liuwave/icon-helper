@@ -4,6 +4,7 @@ title: magnify plus cursor(放大光标) ICON转svg、png下载
 name: magnify-plus-cursor
 zhTips: 放大光标
 tags: []
+search: zoom-in-cursor,magnify-add-cursor
 
 ---
 

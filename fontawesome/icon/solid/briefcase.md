@@ -5,6 +5,7 @@ name: briefcase
 zhTips: 公文包,袋子,业务,行李,办公室,工作
 tags: ["business","hotel","maps","objects"]
 pre: fas
+search: bag,business,luggage,office,work
 
 ---
 

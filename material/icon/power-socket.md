@@ -4,6 +4,7 @@ title: power socket(电源插座) ICON转svg、png下载
 name: power-socket
 zhTips: 电源插座,插头插座
 tags: ["home-automation"]
+search: plug-socket
 
 ---
 

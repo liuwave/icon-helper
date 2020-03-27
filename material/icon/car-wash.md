@@ -4,6 +4,7 @@ title: car wash(洗车) ICON转svg、png下载
 name: car-wash
 zhTips: 洗车,本地洗车
 tags: ["transportation-road","places","automotive"]
+search: local-car-wash
 
 ---
 

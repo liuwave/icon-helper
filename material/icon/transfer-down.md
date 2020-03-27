@@ -4,6 +4,7 @@ title: transfer down(向下转移) ICON转svg、png下载
 name: transfer-down
 zhTips: 向下转移
 tags: ["arrow"]
+search: 
 
 ---
 

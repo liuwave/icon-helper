@@ -5,6 +5,7 @@ name: kiss-wink-heart
 zhTips: 脸吹一个吻,beso,图释,脸,爱,柔和
 tags: ["emoji"]
 pre: fas
+search: beso,emoticon,face,love,smooch
 
 ---
 

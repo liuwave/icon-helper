@@ -5,6 +5,7 @@ name: bullhorn
 zhTips: 扩音器,公告,广播,大声,共享
 tags: ["business","communication","interfaces","marketing","objects","payments-shopping","political"]
 pre: fas
+search: announcement,broadcast,louder,megaphone,share
 
 ---
 

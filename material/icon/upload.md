@@ -4,6 +4,7 @@ title: upload(上传) ICON转svg、png下载
 name: upload
 zhTips: 上传,文件上传
 tags: []
+search: file-upload
 
 ---
 

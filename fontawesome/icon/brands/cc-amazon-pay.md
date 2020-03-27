@@ -5,6 +5,7 @@ name: cc-amazon-pay
 zhTips: Amazon Pay信用卡
 tags: ["payments-shopping"]
 pre: fab
+search: 
 
 ---
 

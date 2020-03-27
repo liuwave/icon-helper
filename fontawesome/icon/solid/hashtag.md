@@ -5,6 +5,7 @@ name: hashtag
 zhTips: Hashtag,Twitter,instagram,英镑,社交媒体,标签
 tags: ["interfaces","social"]
 pre: fas
+search: Twitter,instagram,pound,social media,tag
 
 ---
 

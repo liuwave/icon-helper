@@ -4,6 +4,7 @@ title: ocr(光学字符识别) ICON转svg、png下载
 name: ocr
 zhTips: 光学字符识别
 tags: []
+search: optical-character-recognition
 
 ---
 

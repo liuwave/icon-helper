@@ -4,6 +4,7 @@ title: web box(网络盒) ICON转svg、png下载
 name: web-box
 zhTips: 网络盒,语言盒
 tags: ["geographic-information-system"]
+search: language-box
 
 ---
 

@@ -4,6 +4,7 @@ title: chart gantt(甘特图) ICON转svg、png下载
 name: chart-gantt
 zhTips: 甘特图
 tags: ["math"]
+search: 
 
 ---
 

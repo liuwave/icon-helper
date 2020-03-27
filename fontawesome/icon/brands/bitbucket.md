@@ -5,6 +5,7 @@ name: bitbucket
 zhTips: Bitbucket,Atlassian,Bitbucket Square,git
 tags: []
 pre: fab
+search: atlassian,bitbucket-square,git
 
 ---
 

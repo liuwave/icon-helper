@@ -4,6 +4,7 @@ title: progress alert(进度警报) ICON转svg、png下载
 name: progress-alert
 zhTips: 进度警报,进度警告
 tags: ["alert-error"]
+search: progress-warning
 
 ---
 

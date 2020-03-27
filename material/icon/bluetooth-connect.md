@@ -4,6 +4,7 @@ title: bluetooth connect(蓝牙连接) ICON转svg、png下载
 name: bluetooth-connect
 zhTips: 蓝牙连接
 tags: []
+search: bluetooth-connected
 
 ---
 

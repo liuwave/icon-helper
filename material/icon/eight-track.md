@@ -4,6 +4,7 @@ title: eight track(八轨) ICON转svg、png下载
 name: eight-track
 zhTips: 八轨
 tags: ["music"]
+search: 8-track
 
 ---
 

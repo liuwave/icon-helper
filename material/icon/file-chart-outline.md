@@ -4,6 +4,7 @@ title: file chart outline(文件图轮廓) ICON转svg、png下载
 name: file-chart-outline
 zhTips: 文件图轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: file replace(文件替换) ICON转svg、png下载
 name: file-replace
 zhTips: 文件替换
 tags: ["files-folders"]
+search: 
 
 ---
 

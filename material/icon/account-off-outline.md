@@ -4,6 +4,7 @@ title: account off outline(帐户不符合轮廓) ICON转svg、png下载
 name: account-off-outline
 zhTips: 帐户不符合轮廓,用户不符合轮廓,人员不符合轮廓
 tags: ["account-user"]
+search: user-off-outline,person-off-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: futbol
 zhTips: 足球,球,毫升
 tags: ["objects","sports"]
 pre: far
+search: ball,football,mls,soccer
 
 ---
 

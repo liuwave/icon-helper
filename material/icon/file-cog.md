@@ -4,6 +4,7 @@ title: file cog(文件齿轮) ICON转svg、png下载
 name: file-cog
 zhTips: 文件齿轮,文件设置齿轮
 tags: ["settings","files-folders"]
+search: file-settings-cog
 
 ---
 

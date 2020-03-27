@@ -5,6 +5,7 @@ name: goodreads-g
 zhTips: Goodreads G
 tags: []
 pre: fab
+search: 
 
 ---
 

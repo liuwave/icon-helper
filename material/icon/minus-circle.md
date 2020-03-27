@@ -4,6 +4,7 @@ title: minus circle(减号) ICON转svg、png下载
 name: minus-circle
 zhTips: 减号,请勿打扰,移出圆圈,请勿输入
 tags: ["transportation-road"]
+search: do-not-disturb-on,remove-circle,do-not-enter
 
 ---
 

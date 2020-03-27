@@ -5,6 +5,7 @@ name: share
 zhTips: 共享,转发,保存,发送,社交
 tags: ["arrows","editors","interfaces","social"]
 pre: fas
+search: forward,save,send,social
 
 ---
 

@@ -5,6 +5,7 @@ name: socks
 zhTips: 袜子,商务袜子,营业时间,服装,脚,乘飞机的飞行,星期三
 tags: ["business","clothing"]
 pre: fas
+search: business socks,business time,clothing,feet,flight of the conchords,wednesday
 
 ---
 

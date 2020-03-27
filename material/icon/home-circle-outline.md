@@ -4,6 +4,7 @@ title: home circle outline(房屋圈轮廓) ICON转svg、png下载
 name: home-circle-outline
 zhTips: 房屋圈轮廓
 tags: ["home-automation"]
+search: house-circle-outline
 
 ---
 

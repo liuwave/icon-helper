@@ -5,6 +5,7 @@ name: cookie-bite
 zhTips: Cookie Bite,烤好的,被咬过,薯条,巧克力,吃,小吃,甜,治疗
 tags: ["childhood","holiday","objects"]
 pre: fas
+search: baked good,bitten,chips,chocolate,eat,snack,sweet,treat
 
 ---
 

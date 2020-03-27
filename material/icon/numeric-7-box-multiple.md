@@ -4,6 +4,7 @@ title: numeric 7 box multiple(数字7框倍数) ICON转svg、png下载
 name: numeric-7-box-multiple
 zhTips: 数字7框倍数
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

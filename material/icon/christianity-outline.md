@@ -4,6 +4,7 @@ title: christianity outline(基督教轮廓) ICON转svg、png下载
 name: christianity-outline
 zhTips: 基督教轮廓,宗教基督教轮廓,十字轮廓
 tags: ["religion"]
+search: religion-christian-outline,cross-outline
 
 ---
 

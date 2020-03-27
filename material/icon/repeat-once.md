@@ -4,6 +4,7 @@ title: repeat once(重复一次) ICON转svg、png下载
 name: repeat-once
 zhTips: 重复一次
 tags: []
+search: repeat-one
 
 ---
 

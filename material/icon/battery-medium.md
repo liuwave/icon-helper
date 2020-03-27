@@ -4,6 +4,7 @@ title: battery medium(电池中号) ICON转svg、png下载
 name: battery-medium
 zhTips: 电池中号
 tags: ["battery"]
+search: 
 
 ---
 

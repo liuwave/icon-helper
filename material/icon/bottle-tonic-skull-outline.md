@@ -4,6 +4,7 @@ title: bottle tonic skull outline(瓶补品头骨轮廓) ICON转svg、png下载
 name: bottle-tonic-skull-outline
 zhTips: 瓶补品头骨轮廓,毒药轮廓,月光轮廓
 tags: ["gaming-rpg"]
+search: poison-outline,moonshine-outline
 
 ---
 

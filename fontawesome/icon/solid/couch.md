@@ -5,6 +5,7 @@ name: couch
 zhTips: 沙发,椅子,靠垫,家具,放松
 tags: ["household","moving"]
 pre: fas
+search: chair,cushion,furniture,relax,sofa
 
 ---
 

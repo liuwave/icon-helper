@@ -4,6 +4,7 @@ title: source repository multiple(源库多个) ICON转svg、png下载
 name: source-repository-multiple
 zhTips: 源库多个,源库
 tags: []
+search: source-repositories
 
 ---
 

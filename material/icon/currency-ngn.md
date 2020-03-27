@@ -4,6 +4,7 @@ title: currency ngn(货币NGE) ICON转svg、png下载
 name: currency-ngn
 zhTips: 货币NGE,奈拉
 tags: ["currency","banking"]
+search: naira
 
 ---
 

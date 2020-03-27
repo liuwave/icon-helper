@@ -4,6 +4,7 @@ title: hydro power(水力发电) ICON转svg、png下载
 name: hydro-power
 zhTips: 水力发电,水轮机,水车
 tags: ["device-tech"]
+search: hydraulic-turbine,water-turbine,watermill
 
 ---
 

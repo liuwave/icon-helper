@@ -4,6 +4,7 @@ title: share off(分享) ICON转svg、png下载
 name: share-off
 zhTips: 分享,转发
 tags: ["arrow"]
+search: forward-off
 
 ---
 

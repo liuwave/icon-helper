@@ -4,6 +4,7 @@ title: account star(帐户星) ICON转svg、png下载
 name: account-star
 zhTips: 帐户星,用户星,人星
 tags: ["account-user"]
+search: user-star,person-star
 
 ---
 

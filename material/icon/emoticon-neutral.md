@@ -4,6 +4,7 @@ title: emoticon neutral(表情中性) ICON转svg、png下载
 name: emoticon-neutral
 zhTips: 表情中性,笑脸中性
 tags: ["emoji"]
+search: smiley-neutral
 
 ---
 

@@ -5,6 +5,7 @@ name: grin-tears
 zhTips: 充满喜悦的眼神,笑声,表情符号,脸部
 tags: ["emoji"]
 pre: far
+search: LOL,emoticon,face
 
 ---
 

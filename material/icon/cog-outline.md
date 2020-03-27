@@ -4,6 +4,7 @@ title: cog outline(齿轮轮廓) ICON转svg、png下载
 name: cog-outline
 zhTips: 齿轮轮廓,轮廓设置
 tags: ["settings"]
+search: gear-outline,settings-outline
 
 ---
 

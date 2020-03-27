@@ -4,6 +4,7 @@ title: file send outline(文件发送轮廓) ICON转svg、png下载
 name: file-send-outline
 zhTips: 文件发送轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

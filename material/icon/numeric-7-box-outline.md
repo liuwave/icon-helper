@@ -4,6 +4,7 @@ title: numeric 7 box outline(数字7框轮廓) ICON转svg、png下载
 name: numeric-7-box-outline
 zhTips: 数字7框轮廓
 tags: ["alpha-numeric"]
+search: numeric-seven-box-outline,number-7-box-outline
 
 ---
 

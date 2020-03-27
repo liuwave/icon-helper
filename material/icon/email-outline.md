@@ -4,6 +4,7 @@ title: email outline(电子邮件轮廓) ICON转svg、png下载
 name: email-outline
 zhTips: 电子邮件轮廓,邮件轮廓,信封轮廓
 tags: []
+search: mail-outline,envelope-outline
 
 ---
 

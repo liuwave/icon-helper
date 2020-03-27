@@ -4,6 +4,7 @@ title: medal(奖牌) ICON转svg、png下载
 name: medal
 zhTips: 奖牌,奖励
 tags: ["gaming-rpg","sport"]
+search: award
 
 ---
 

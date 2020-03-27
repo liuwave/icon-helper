@@ -4,6 +4,7 @@ title: numeric 6(数字6) ICON转svg、png下载
 name: numeric-6
 zhTips: 数字6
 tags: ["alpha-numeric"]
+search: number-6,numeric-six
 
 ---
 

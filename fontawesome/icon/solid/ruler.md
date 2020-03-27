@@ -5,6 +5,7 @@ name: ruler
 zhTips: 尺子,设计,草稿,长度,度量,计划
 tags: ["construction"]
 pre: fas
+search: design,draft,length,measure,planning
 
 ---
 

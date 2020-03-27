@@ -4,6 +4,7 @@ title: navigation(导航) ICON转svg、png下载
 name: navigation
 zhTips: 导航,箭头罗盘
 tags: ["navigation"]
+search: arrow-compass
 
 ---
 

@@ -5,6 +5,7 @@ name: tint-slash
 zhTips: 色调斜线,颜色,滴,雨滴,水滴
 tags: ["design","status"]
 pre: fas
+search: color,drop,droplet,raindrop,waterdrop
 
 ---
 

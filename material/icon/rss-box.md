@@ -4,6 +4,7 @@ title: rss box(rss盒) ICON转svg、png下载
 name: rss-box
 zhTips: rss盒,rss提要盒
 tags: []
+search: rss-feed-box
 
 ---
 

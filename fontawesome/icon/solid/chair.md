@@ -5,6 +5,7 @@ name: chair
 zhTips: 主席,家具,座位,坐
 tags: ["household"]
 pre: fas
+search: furniture,seat,sit
 
 ---
 

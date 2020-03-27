@@ -4,6 +4,7 @@ title: file restore(文件还原) ICON转svg、png下载
 name: file-restore
 zhTips: 文件还原,还原页面
 tags: ["files-folders"]
+search: restore-page
 
 ---
 

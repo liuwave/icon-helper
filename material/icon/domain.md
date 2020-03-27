@@ -4,6 +4,7 @@ title: domain(域) ICON转svg、png下载
 name: domain
 zhTips: 域,建筑物,公司,业务
 tags: ["places"]
+search: building,company,business
 
 ---
 

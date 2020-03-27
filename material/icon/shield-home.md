@@ -4,6 +4,7 @@ title: shield home(盾构房屋) ICON转svg、png下载
 name: shield-home
 zhTips: 盾构房屋,家庭安全
 tags: ["home-automation"]
+search: security-home,shield-house
 
 ---
 

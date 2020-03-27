@@ -5,6 +5,7 @@ name: street-view
 zhTips: 街景视图,方向,位置,地图,导航
 tags: ["maps","users-people"]
 pre: fas
+search: directions,location,map,navigation
 
 ---
 

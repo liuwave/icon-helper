@@ -4,6 +4,7 @@ title: file excel box(档案Excel方块) ICON转svg、png下载
 name: file-excel-box
 zhTips: 档案Excel方块
 tags: ["files-folders"]
+search: 
 
 ---
 

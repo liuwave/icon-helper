@@ -4,6 +4,7 @@ title: cash marker(现金标记) ICON转svg、png下载
 name: cash-marker
 zhTips: 现金标记,鳕鱼,货到付款
 tags: ["banking"]
+search: cod,cash-on-delivery
 
 ---
 

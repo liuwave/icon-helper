@@ -5,6 +5,7 @@ name: user-secret
 zhTips: 用户秘密,衣服,外套,帽子,隐身,人,隐私,间谍,耳语
 tags: ["code","security","users-people"]
 pre: fas
+search: clothing,coat,hat,incognito,person,privacy,spy,whisper
 
 ---
 

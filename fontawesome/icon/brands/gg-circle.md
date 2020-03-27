@@ -5,6 +5,7 @@ name: gg-circle
 zhTips: GG货币圆
 tags: ["currency"]
 pre: fab
+search: 
 
 ---
 

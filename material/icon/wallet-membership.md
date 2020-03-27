@@ -4,6 +4,7 @@ title: wallet membership(钱包会员) ICON转svg、png下载
 name: wallet-membership
 zhTips: 钱包会员,会员卡
 tags: []
+search: card-membership
 
 ---
 

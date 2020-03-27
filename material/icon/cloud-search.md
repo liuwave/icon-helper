@@ -4,6 +4,7 @@ title: cloud search(云搜索) ICON转svg、png下载
 name: cloud-search
 zhTips: 云搜索
 tags: ["cloud"]
+search: 
 
 ---
 

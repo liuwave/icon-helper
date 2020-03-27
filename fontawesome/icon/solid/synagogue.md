@@ -5,6 +5,7 @@ name: synagogue
 zhTips: 犹太教堂,建筑,犹太人,犹太教,宗教,大卫之星,寺庙
 tags: ["buildings","religion"]
 pre: fas
+search: building,jewish,judaism,religion,star of david,temple
 
 ---
 

@@ -4,6 +4,7 @@ title: car light high(汽车灯高) ICON转svg、png下载
 name: car-light-high
 zhTips: 汽车灯高,头灯高,远光
 tags: ["automotive"]
+search: head-light-high,high-beam
 
 ---
 

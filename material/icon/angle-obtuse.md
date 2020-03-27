@@ -4,6 +4,7 @@ title: angle obtuse(钝角) ICON转svg、png下载
 name: angle-obtuse
 zhTips: 钝角
 tags: ["math"]
+search: 
 
 ---
 

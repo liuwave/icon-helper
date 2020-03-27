@@ -4,6 +4,7 @@ title: chevron double down(V形双下) ICON转svg、png下载
 name: chevron-double-down
 zhTips: V形双下
 tags: ["arrow"]
+search: 
 
 ---
 

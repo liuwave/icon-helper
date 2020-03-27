@@ -4,6 +4,7 @@ title: currency try(货币尝试) ICON转svg、png下载
 name: currency-try
 zhTips: 货币尝试,里拉
 tags: ["currency","banking"]
+search: lira
 
 ---
 

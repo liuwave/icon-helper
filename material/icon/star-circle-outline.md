@@ -4,6 +4,7 @@ title: star circle outline(星形圆圈轮廓) ICON转svg、png下载
 name: star-circle-outline
 zhTips: 星形圆圈轮廓,功能突出
 tags: []
+search: feature-highlight
 
 ---
 

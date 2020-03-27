@@ -4,6 +4,7 @@ title: code tags check(代码标签检查) ICON转svg、png下载
 name: code-tags-check
 zhTips: 代码标签检查,代码标签打勾
 tags: ["developer-languages"]
+search: code-tags-tick
 
 ---
 

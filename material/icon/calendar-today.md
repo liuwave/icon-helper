@@ -4,6 +4,7 @@ title: calendar today(今天的日历) ICON转svg、png下载
 name: calendar-today
 zhTips: 今天的日历,日历的日子
 tags: ["date-time"]
+search: calendar-day
 
 ---
 

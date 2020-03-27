@@ -5,6 +5,7 @@ name: donate
 zhTips: 捐赠,贡献,慷慨,礼物,奉献
 tags: ["charity","finance","political"]
 pre: fas
+search: contribute,generosity,gift,give
 
 ---
 

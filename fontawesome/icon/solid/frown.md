@@ -5,6 +5,7 @@ name: frown
 zhTips: 皱着眉头的脸,不赞成,图释,脸,评级,悲伤
 tags: ["chat","emoji","interfaces","users-people"]
 pre: fas
+search: disapprove,emoticon,face,rating,sad
 
 ---
 

@@ -5,6 +5,7 @@ name: dolly
 zhTips: 多莉,搬运,运输
 tags: ["logistics","moving"]
 pre: fas
+search: carry,shipping,transport
 
 ---
 

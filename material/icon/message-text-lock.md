@@ -4,6 +4,7 @@ title: message text lock(短信文本锁定) ICON转svg、png下载
 name: message-text-lock
 zhTips: 短信文本锁定,安全短信
 tags: ["lock"]
+search: message-text-secure
 
 ---
 

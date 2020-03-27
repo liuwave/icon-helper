@@ -4,6 +4,7 @@ title: alpha w box(字母w框) ICON转svg、png下载
 name: alpha-w-box
 zhTips: 字母w框
 tags: ["alpha-numeric"]
+search: alphabet-w-box,letter-w-box
 
 ---
 

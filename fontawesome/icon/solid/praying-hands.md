@@ -5,6 +5,7 @@ name: praying-hands
 zhTips: 祈祷之手,跪,行礼,宗教,崇拜
 tags: ["hands","religion"]
 pre: fas
+search: kneel,preach,religion,worship
 
 ---
 

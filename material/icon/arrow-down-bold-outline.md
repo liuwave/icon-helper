@@ -4,6 +4,7 @@ title: arrow down bold outline(向下箭头加粗轮廓) ICON转svg、png下载
 name: arrow-down-bold-outline
 zhTips: 向下箭头加粗轮廓
 tags: ["arrow"]
+search: arrow-bottom-bold-outline
 
 ---
 

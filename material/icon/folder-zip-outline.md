@@ -4,6 +4,7 @@ title: folder zip outline(zip轮廓文件夹) ICON转svg、png下载
 name: folder-zip-outline
 zhTips: zip轮廓文件夹,压缩文件夹轮廓
 tags: ["files-folders"]
+search: compressed-folder-outline
 
 ---
 

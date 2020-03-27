@@ -4,6 +4,7 @@ title: cellphone lock(手机锁) ICON转svg、png下载
 name: cellphone-lock
 zhTips: 手机锁,手机链接锁,智能手机锁
 tags: ["cellphone-phone","lock","device-tech"]
+search: phonelink-lock,mobile-phone-lock,smartphone-lock
 
 ---
 

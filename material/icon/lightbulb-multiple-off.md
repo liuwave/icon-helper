@@ -4,6 +4,7 @@ title: lightbulb multiple off(灯泡多个关闭) ICON转svg、png下载
 name: lightbulb-multiple-off
 zhTips: 灯泡多个关闭,灯泡关闭,多个灯泡关闭
 tags: ["home-automation"]
+search: lightbulbs-off,bulb-multiple-off,bulbs-off
 
 ---
 

@@ -4,6 +4,7 @@ title: printer off(打印机关闭) ICON转svg、png下载
 name: printer-off
 zhTips: 打印机关闭
 tags: ["printer"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: fruit pineapple(水果菠萝) ICON转svg、png下载
 name: fruit-pineapple
 zhTips: 水果菠萝,凤梨
 tags: ["food-drink"]
+search: fruit-ananas
 
 ---
 

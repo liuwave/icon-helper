@@ -4,6 +4,7 @@ title: nas(NAS) ICON转svg、png下载
 name: nas
 zhTips: NAS,网络连接的存储
 tags: []
+search: network-attached-storage
 
 ---
 

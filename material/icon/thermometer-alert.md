@@ -4,6 +4,7 @@ title: thermometer alert(温度计警报) ICON转svg、png下载
 name: thermometer-alert
 zhTips: 温度计警报
 tags: ["home-automation","weather","alert-error"]
+search: thermometer-warning
 
 ---
 

@@ -5,6 +5,7 @@ name: google-plus
 zhTips: Google Plus,google plus圈,google plus官方
 tags: []
 pre: fab
+search: google-plus-circle,google-plus-official
 
 ---
 

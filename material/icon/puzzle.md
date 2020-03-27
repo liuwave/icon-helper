@@ -4,6 +4,7 @@ title: puzzle(拼图) ICON转svg、png下载
 name: puzzle
 zhTips: 拼图,扩展名
 tags: []
+search: extension,jigsaw
 
 ---
 

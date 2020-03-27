@@ -4,6 +4,7 @@ title: xamarin(xamarin) ICON转svg、png下载
 name: xamarin
 zhTips: xamarin,Microsoft xamarin
 tags: ["brand-logo"]
+search: microsoft-xamarin
 
 ---
 

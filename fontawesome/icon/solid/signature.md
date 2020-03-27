@@ -5,6 +5,7 @@ name: signature
 zhTips: 签名,约翰·汉考克,草书,姓名,写作
 tags: []
 pre: fas
+search: John Hancock,cursive,name,writing
 
 ---
 

@@ -5,6 +5,7 @@ name: at
 zhTips: 在,地址,作者,电子邮件,句柄
 tags: ["communication"]
 pre: fas
+search: address,author,e-mail,email,handle
 
 ---
 

@@ -4,6 +4,7 @@ title: sort numeric ascending variant(对数字递增的重音进行排序) ICON
 name: sort-numeric-ascending-variant
 zhTips: 对数字递增的重音进行排序
 tags: ["text-content-format"]
+search: 
 
 ---
 

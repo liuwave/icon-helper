@@ -4,6 +4,7 @@ title: nintendo wiiu(任天堂wiiu) ICON转svg、png下载
 name: nintendo-wiiu
 zhTips: 任天堂wiiu
 tags: ["brand-logo","gaming-rpg"]
+search: nintendo-wiiu
 
 ---
 

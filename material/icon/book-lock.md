@@ -4,6 +4,7 @@ title: book lock(书本锁) ICON转svg、png下载
 name: book-lock
 zhTips: 书本锁,书本安全
 tags: ["lock"]
+search: book-secure
 
 ---
 

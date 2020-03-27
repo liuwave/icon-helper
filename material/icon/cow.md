@@ -4,6 +4,7 @@ title: cow(牛) ICON转svg、png下载
 name: cow
 zhTips: 牛
 tags: ["animal","agriculture"]
+search: 
 
 ---
 

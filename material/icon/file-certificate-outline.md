@@ -4,6 +4,7 @@ title: file certificate outline(文件证书概述) ICON转svg、png下载
 name: file-certificate-outline
 zhTips: 文件证书概述
 tags: ["files-folders"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: comment arrow left outline(评论左箭头轮廓) ICON转svg、png下载
 name: comment-arrow-left-outline
 zhTips: 评论左箭头轮廓,评论先前轮廓
 tags: []
+search: comment-previous-outline
 
 ---
 

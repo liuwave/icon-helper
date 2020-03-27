@@ -4,6 +4,7 @@ title: cart(购物车) ICON转svg、png下载
 name: cart
 zhTips: 购物车,手推车,当地杂货店
 tags: ["shopping"]
+search: trolley,local-grocery-store,shopping-cart
 
 ---
 

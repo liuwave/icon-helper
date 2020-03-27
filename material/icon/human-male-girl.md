@@ -4,6 +4,7 @@ title: human male girl(人类男性女孩) ICON转svg、png下载
 name: human-male-girl
 zhTips: 人类男性女孩,父亲,男孩
 tags: ["people-family"]
+search: father,dad,man-child
 
 ---
 

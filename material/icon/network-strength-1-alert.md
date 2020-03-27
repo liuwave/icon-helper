@@ -4,6 +4,7 @@ title: network strength 1 alert(网络强度1警告) ICON转svg、png下载
 name: network-strength-1-alert
 zhTips: 网络强度1警告
 tags: ["cellphone-phone","alert-error"]
+search: network-strength-1-warning
 
 ---
 

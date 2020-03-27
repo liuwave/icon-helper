@@ -4,6 +4,7 @@ title: folder marker outline(文件夹标记轮廓) ICON转svg、png下载
 name: folder-marker-outline
 zhTips: 文件夹标记轮廓
 tags: ["geographic-information-system","files-folders"]
+search: 
 
 ---
 

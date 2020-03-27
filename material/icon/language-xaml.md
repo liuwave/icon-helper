@@ -4,6 +4,7 @@ title: language xaml(语言xaml) ICON转svg、png下载
 name: language-xaml
 zhTips: 语言xaml,xaml,Microsoft xaml
 tags: []
+search: xaml,microsoft-xaml
 
 ---
 

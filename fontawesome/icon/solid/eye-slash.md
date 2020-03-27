@@ -5,6 +5,7 @@ name: eye-slash
 zhTips: 眼睛斜线,盲点,隐藏,显示,切换,看不见,视图,可见,可见性
 tags: ["design","images","interfaces","maps","security","status"]
 pre: fas
+search: blind,hide,show,toggle,unseen,views,visible,visiblity
 
 ---
 

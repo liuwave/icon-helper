@@ -4,6 +4,7 @@ title: alpha s box(字母方块) ICON转svg、png下载
 name: alpha-s-box
 zhTips: 字母方块
 tags: ["alpha-numeric"]
+search: alphabet-s-box,letter-s-box
 
 ---
 

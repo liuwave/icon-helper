@@ -4,6 +4,7 @@ title: math cos(好cos) ICON转svg、png下载
 name: math-cos
 zhTips: 好cos,好余弦,数学cos
 tags: ["math"]
+search: math-cosine,maths-cos
 
 ---
 

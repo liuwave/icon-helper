@@ -4,6 +4,7 @@ title: cookie(饼干) ICON转svg、png下载
 name: cookie
 zhTips: 饼干
 tags: ["food-drink"]
+search: biscuit
 
 ---
 

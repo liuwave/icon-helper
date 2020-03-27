@@ -4,6 +4,7 @@ title: kettle alert(水壶警报) ICON转svg、png下载
 name: kettle-alert
 zhTips: 水壶警报,茶壶警报,水壶已满警报,茶壶已满警报
 tags: ["home-automation","alert-error"]
+search: tea-kettle-alert,kettle-full-alert,tea-kettle-full-alert
 
 ---
 

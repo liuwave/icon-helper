@@ -5,6 +5,7 @@ name: history
 zhTips: 历史,倒带,时钟,反向,时间,时间机器
 tags: ["arrows","interfaces","pharmacy"]
 pre: fas
+search: Rewind,clock,reverse,time,time machine
 
 ---
 

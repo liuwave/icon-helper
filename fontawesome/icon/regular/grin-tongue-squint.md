@@ -5,6 +5,7 @@ name: grin-tongue-squint
 zhTips: 用舌头S着眼睛,笑声,表情符号,脸部
 tags: ["emoji"]
 pre: far
+search: LOL,emoticon,face
 
 ---
 

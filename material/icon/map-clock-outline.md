@@ -4,6 +4,7 @@ title: map clock outline(地图轮廓时钟) ICON转svg、png下载
 name: map-clock-outline
 zhTips: 地图轮廓时钟,时区轮廓
 tags: ["navigation","geographic-information-system"]
+search: timezone-outline
 
 ---
 

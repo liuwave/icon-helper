@@ -4,6 +4,7 @@ title: alpha j box(字母j框) ICON转svg、png下载
 name: alpha-j-box
 zhTips: 字母j框
 tags: ["alpha-numeric"]
+search: alphabet-j-box,letter-j-box
 
 ---
 

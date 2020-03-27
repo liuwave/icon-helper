@@ -4,6 +4,7 @@ title: battery alert variant(电池警报口音) ICON转svg、png下载
 name: battery-alert-variant
 zhTips: 电池警报口音
 tags: ["battery","alert-error"]
+search: 
 
 ---
 

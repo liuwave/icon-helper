@@ -5,6 +5,7 @@ name: cut
 zhTips: 剪切,剪刀,剪
 tags: ["business","design","editors","files","interfaces","objects"]
 pre: fas
+search: clip,scissors,snip
 
 ---
 

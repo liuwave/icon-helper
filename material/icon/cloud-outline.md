@@ -4,6 +4,7 @@ title: cloud outline(云轮廓) ICON转svg、png下载
 name: cloud-outline
 zhTips: 云轮廓,云队列
 tags: ["cloud","weather"]
+search: cloud-queue
 
 ---
 

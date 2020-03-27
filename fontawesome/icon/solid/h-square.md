@@ -5,6 +5,7 @@ name: h-square
 zhTips: H广场,方向,紧急情况,医院,酒店,地图
 tags: ["health","maps"]
 pre: fas
+search: directions,emergency,hospital,hotel,map
 
 ---
 

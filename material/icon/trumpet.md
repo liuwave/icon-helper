@@ -4,6 +4,7 @@ title: trumpet(小号) ICON转svg、png下载
 name: trumpet
 zhTips: 小号
 tags: ["music"]
+search: 
 
 ---
 

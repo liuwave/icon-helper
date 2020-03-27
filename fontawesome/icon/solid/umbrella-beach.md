@@ -5,6 +5,7 @@ name: umbrella-beach
 zhTips: 雨伞海滩,保护,娱乐,沙子,阴影,夏天,太阳
 tags: ["hotel","summer","travel"]
 pre: fas
+search: protection,recreation,sand,shade,summer,sun
 
 ---
 

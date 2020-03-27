@@ -5,6 +5,7 @@ name: check-double
 zhTips: 仔细检查,接受,同意,选中标记,确认,正确,完成,通知,确定,选择,成功,刻度,待办事项
 tags: ["interfaces","political"]
 pre: fas
+search: accept,agree,checkmark,confirm,correct,done,notice,notification,notify,ok,select,success,tick,todo
 
 ---
 

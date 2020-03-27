@@ -5,6 +5,7 @@ name: retweet
 zhTips: 转推,刷新,重新加载,共享,交换
 tags: ["arrows","social"]
 pre: fas
+search: refresh,reload,share,swap
 
 ---
 

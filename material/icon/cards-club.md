@@ -4,6 +4,7 @@ title: cards club(卡牌俱乐部) ICON转svg、png下载
 name: cards-club
 zhTips: 卡牌俱乐部,西服俱乐部
 tags: ["gaming-rpg"]
+search: suit-clubs
 
 ---
 

@@ -4,6 +4,7 @@ title: ev station(电动汽车站) ICON转svg、png下载
 name: ev-station
 zhTips: 电动汽车站,充电站
 tags: ["places","automotive"]
+search: charging-station
 
 ---
 

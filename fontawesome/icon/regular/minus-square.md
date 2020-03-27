@@ -5,6 +5,7 @@ name: minus-square
 zhTips: 减号正方形,崩溃,删除,隐藏,最小化,负数,形状,垃圾箱
 tags: ["interfaces","status"]
 pre: far
+search: collapse,delete,hide,minify,negative,remove,shape,trash
 
 ---
 

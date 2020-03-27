@@ -5,6 +5,7 @@ name: torii-gate
 zhTips: 鸟居门,建筑,神道教
 tags: ["buildings","religion"]
 pre: fas
+search: building,shintoism
 
 ---
 

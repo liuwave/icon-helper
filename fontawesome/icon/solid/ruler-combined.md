@@ -5,6 +5,7 @@ name: ruler-combined
 zhTips: 尺子组合,设计,草稿,长度,度量,计划
 tags: ["construction","design","objects"]
 pre: fas
+search: design,draft,length,measure,planning
 
 ---
 

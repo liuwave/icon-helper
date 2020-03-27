@@ -4,6 +4,7 @@ title: movie open(电影打开) ICON转svg、png下载
 name: movie-open
 zhTips: 电影打开,板岩打开,clapperboard打开,电影创作
 tags: ["video-movie"]
+search: slate-open,clapperboard-open,film-open,movie-creation
 
 ---
 

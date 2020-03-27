@@ -5,6 +5,7 @@ name: battery-half
 zhTips: 电池1/2充满,充电,电源,状态
 tags: ["energy","status"]
 pre: fas
+search: charge,power,status
 
 ---
 

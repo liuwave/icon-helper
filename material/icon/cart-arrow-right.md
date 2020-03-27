@@ -4,6 +4,7 @@ title: cart arrow right(向右购物车箭头) ICON转svg、png下载
 name: cart-arrow-right
 zhTips: 向右购物车箭头
 tags: ["shopping"]
+search: trolley-arrow-right,shopping-cart-arrow-right
 
 ---
 

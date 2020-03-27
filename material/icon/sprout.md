@@ -4,6 +4,7 @@ title: sprout(萌芽) ICON转svg、png下载
 name: sprout
 zhTips: 萌芽,幼苗,儿童
 tags: ["agriculture","nature"]
+search: seedling,plant
 
 ---
 

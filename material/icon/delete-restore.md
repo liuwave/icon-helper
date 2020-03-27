@@ -4,6 +4,7 @@ title: delete restore(删除还原) ICON转svg、png下载
 name: delete-restore
 zhTips: 删除还原,垃圾回收,bin还原,从垃圾回收
 tags: []
+search: trash-restore,bin-restore,restore-from-trash
 
 ---
 

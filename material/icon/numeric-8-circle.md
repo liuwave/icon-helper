@@ -4,6 +4,7 @@ title: numeric 8 circle(数字8圈) ICON转svg、png下载
 name: numeric-8-circle
 zhTips: 数字8圈
 tags: ["alpha-numeric"]
+search: numeric-eight-circle,number-8-circle,number-eight-circle
 
 ---
 

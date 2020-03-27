@@ -5,6 +5,7 @@ name: thermometer-empty
 zhTips: 温度计空,冷,汞,状态,温度
 tags: ["status"]
 pre: fas
+search: cold,mercury,status,temperature
 
 ---
 

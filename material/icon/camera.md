@@ -4,6 +4,7 @@ title: camera(照相机) ICON转svg、png下载
 name: camera
 zhTips: 照相机,摄影,照相机alt,本地观看,照相照相机
 tags: ["photography","home-automation"]
+search: photography,camera-alt,local-see,photo-camera
 
 ---
 

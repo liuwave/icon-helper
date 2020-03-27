@@ -5,6 +5,7 @@ name: dice
 zhTips: 骰子,机会,赌博,游戏,角色
 tags: ["games","hotel","objects"]
 pre: fas
+search: chance,gambling,game,roll
 
 ---
 

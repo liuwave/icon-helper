@@ -4,6 +4,7 @@ title: battery heart(电池心) ICON转svg、png下载
 name: battery-heart
 zhTips: 电池心
 tags: ["battery"]
+search: 
 
 ---
 

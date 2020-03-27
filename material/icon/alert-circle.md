@@ -4,6 +4,7 @@ title: alert circle(警报圈) ICON转svg、png下载
 name: alert-circle
 zhTips: 警报圈,警告圈,错误
 tags: ["alert-error"]
+search: warning-circle,error
 
 ---
 

@@ -4,6 +4,7 @@ title: ballot recount(选票重算) ICON转svg、png下载
 name: ballot-recount
 zhTips: 选票重算,投票重算
 tags: []
+search: vote-recount
 
 ---
 

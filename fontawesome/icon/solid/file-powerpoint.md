@@ -5,6 +5,7 @@ name: file-powerpoint
 zhTips: PowerPoint文件,显示,文档,主题演讲,演示
 tags: ["files"]
 pre: fas
+search: display,document,keynote,presentation
 
 ---
 

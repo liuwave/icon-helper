@@ -5,6 +5,7 @@ name: heading
 zhTips: 标题,格式,文本
 tags: ["editors"]
 pre: fas
+search: format,header,text,title
 
 ---
 

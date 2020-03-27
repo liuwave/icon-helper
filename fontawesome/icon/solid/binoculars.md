@@ -5,6 +5,7 @@ name: binoculars
 zhTips: 双筒望远镜,眼镜,放大,风景,望远镜,查看
 tags: ["camping","maps","maritime","objects"]
 pre: fas
+search: glasses,magnify,scenic,spyglass,view
 
 ---
 

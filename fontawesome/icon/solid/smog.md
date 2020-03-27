@@ -5,6 +5,7 @@ name: smog
 zhTips: 烟雾,龙,雾,霾,污染,烟,天气
 tags: ["weather"]
 pre: fas
+search: dragon,fog,haze,pollution,smoke,weather
 
 ---
 

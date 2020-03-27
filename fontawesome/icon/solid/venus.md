@@ -5,6 +5,7 @@ name: venus
 zhTips: 金星,女
 tags: ["gender"]
 pre: fas
+search: female
 
 ---
 

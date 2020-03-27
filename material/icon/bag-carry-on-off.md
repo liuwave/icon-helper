@@ -4,6 +4,7 @@ title: bag carry on off(提起行李箱) ICON转svg、png下载
 name: bag-carry-on-off
 zhTips: 提起行李箱,托运行李
 tags: ["transportation-flying"]
+search: carry-on-luggage-off
 
 ---
 

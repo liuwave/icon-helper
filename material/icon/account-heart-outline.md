@@ -4,6 +4,7 @@ title: account heart outline(帐户心脏轮廓) ICON转svg、png下载
 name: account-heart-outline
 zhTips: 帐户心脏轮廓,用户心脏轮廓,人心脏轮廓
 tags: ["account-user","medical-hospital"]
+search: user-heart-outline,person-heart-outline
 
 ---
 

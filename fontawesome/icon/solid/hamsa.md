@@ -5,6 +5,7 @@ name: hamsa
 zhTips: Hamsa,护身符,基督教,伊斯兰教,犹太人,犹太教,穆斯林,保护
 tags: ["religion"]
 pre: fas
+search: amulet,christianity,islam,jewish,judaism,muslim,protection
 
 ---
 

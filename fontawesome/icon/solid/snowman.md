@@ -5,6 +5,7 @@ name: snowman
 zhTips: 雪人,装修,霜冻,冰霜,假日
 tags: ["childhood","holiday"]
 pre: fas
+search: decoration,frost,frosty,holiday
 
 ---
 

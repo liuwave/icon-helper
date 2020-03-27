@@ -4,6 +4,7 @@ title: checkbook(支票簿) ICON转svg、png下载
 name: checkbook
 zhTips: 支票簿
 tags: []
+search: chequebook,cheque-book
 
 ---
 

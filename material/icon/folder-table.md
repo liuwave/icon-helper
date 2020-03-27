@@ -4,6 +4,7 @@ title: folder table(文件夹表) ICON转svg、png下载
 name: folder-table
 zhTips: 文件夹表
 tags: ["files-folders"]
+search: 
 
 ---
 

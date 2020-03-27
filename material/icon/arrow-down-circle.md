@@ -4,6 +4,7 @@ title: arrow down circle(向下箭头圆圈) ICON转svg、png下载
 name: arrow-down-circle
 zhTips: 向下箭头圆圈
 tags: ["arrow"]
+search: arrow-bottom-circle
 
 ---
 

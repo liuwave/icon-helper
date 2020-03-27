@@ -5,6 +5,7 @@ name: heart
 zhTips: 心脏,收藏夹,喜欢,爱情,关系,情人节
 tags: ["charity","fitness","games","health","interfaces","maps","medical","objects","payments-shopping","shapes","social"]
 pre: far
+search: favorite,like,love,relationship,valentine
 
 ---
 

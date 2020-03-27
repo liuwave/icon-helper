@@ -4,6 +4,7 @@ title: baby carriage(婴儿车) ICON转svg、png下载
 name: baby-carriage
 zhTips: 婴儿车,儿童友好,儿童车
 tags: ["people-family"]
+search: child-friendly,stroller,pram,buggy
 
 ---
 

@@ -4,6 +4,7 @@ title: language python(python语言) ICON转svg、png下载
 name: language-python
 zhTips: python语言
 tags: ["developer-languages"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: bookmark check(书签检查) ICON转svg、png下载
 name: bookmark-check
 zhTips: 书签检查,书签刻度
 tags: []
+search: bookmark-tick
 
 ---
 

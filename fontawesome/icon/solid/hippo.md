@@ -5,6 +5,7 @@ name: hippo
 zhTips: 河马,动物,饥饿,哺乳动物
 tags: ["animals"]
 pre: fas
+search: animal,fauna,hippopotamus,hungry,mammal
 
 ---
 

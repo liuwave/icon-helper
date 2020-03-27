@@ -5,6 +5,7 @@ name: sync-alt
 zhTips: 备用同步,交换,刷新,重新加载,旋转
 tags: ["arrows","audio-video","editors","interfaces","spinners"]
 pre: fas
+search: exchange,refresh,reload,rotate,swap
 
 ---
 

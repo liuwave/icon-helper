@@ -4,6 +4,7 @@ title: file presentation box(文件展示盒) ICON转svg、png下载
 name: file-presentation-box
 zhTips: 文件展示盒
 tags: ["files-folders"]
+search: 
 
 ---
 

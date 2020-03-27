@@ -4,6 +4,7 @@ title: text box remove(删除文本框) ICON转svg、png下载
 name: text-box-remove
 zhTips: 删除文本框,删除文件文档框
 tags: ["files-folders"]
+search: file-document-box-remove
 
 ---
 

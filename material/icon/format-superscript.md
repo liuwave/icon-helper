@@ -4,6 +4,7 @@ title: format superscript(上标格式) ICON转svg、png下载
 name: format-superscript
 zhTips: 上标格式,指数
 tags: ["text-content-format","math"]
+search: exponent
 
 ---
 

@@ -5,6 +5,7 @@ name: italic
 zhTips: 斜体,编辑,重点,字体,格式,文本,类型
 tags: ["editors"]
 pre: fas
+search: edit,emphasis,font,format,text,type
 
 ---
 

@@ -4,6 +4,7 @@ title: account off(关闭帐户) ICON转svg、png下载
 name: account-off
 zhTips: 关闭帐户,关闭用户,关闭人员
 tags: ["account-user"]
+search: user-off,person-off
 
 ---
 

@@ -4,6 +4,7 @@ title: text recognition(文本识别) ICON转svg、png下载
 name: text-recognition
 zhTips: 文本识别
 tags: []
+search: 
 
 ---
 

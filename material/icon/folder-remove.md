@@ -4,6 +4,7 @@ title: folder remove(文件夹删除) ICON转svg、png下载
 name: folder-remove
 zhTips: 文件夹删除
 tags: ["files-folders"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: account voice(语音记录) ICON转svg、png下载
 name: account-voice
 zhTips: 语音记录,语音记录结束,说
 tags: ["account-user"]
+search: record-voice-over,speak,talk,speaking,talking
 
 ---
 

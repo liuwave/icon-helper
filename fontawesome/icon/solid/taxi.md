@@ -5,6 +5,7 @@ name: taxi
 zhTips: 出租车,汽车,汽车服务,后勤,机械,运输,旅行,超级,车辆
 tags: ["automotive","maps","objects","travel","vehicles"]
 pre: fas
+search: cab,cabbie,car,car service,lyft,machine,transportation,travel,uber,vehicle
 
 ---
 

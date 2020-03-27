@@ -4,6 +4,7 @@ title: numeric 6 box multiple(数字6框倍数) ICON转svg、png下载
 name: numeric-6-box-multiple
 zhTips: 数字6框倍数
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

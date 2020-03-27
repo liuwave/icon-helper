@@ -4,6 +4,7 @@ title: file star outline(文件星级概述) ICON转svg、png下载
 name: file-star-outline
 zhTips: 文件星级概述
 tags: ["files-folders"]
+search: 
 
 ---
 

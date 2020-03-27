@@ -5,6 +5,7 @@ name: envelope
 zhTips: 信封,电子邮件,信件,邮件,消息,通知,支持
 tags: ["business","communication","interfaces","objects","social","writing"]
 pre: far
+search: e-mail,email,letter,mail,message,notification,support
 
 ---
 

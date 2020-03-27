@@ -5,6 +5,7 @@ name: font-awesome-alt
 zhTips: 替代字体真棒
 tags: []
 pre: fab
+search: 
 
 ---
 

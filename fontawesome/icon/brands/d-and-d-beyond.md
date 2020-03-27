@@ -5,6 +5,7 @@ name: d-and-d-beyond
 zhTips: D＆D Beyond,地下城与龙,d＆d,dnd,幻想,游戏,桌面
 tags: ["gaming-tabletop"]
 pre: fab
+search: Dungeons & Dragons,d&d,dnd,fantasy,gaming,tabletop
 
 ---
 

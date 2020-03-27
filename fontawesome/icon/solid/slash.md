@@ -5,6 +5,7 @@ name: slash
 zhTips: 斜杠,取消,关闭,静音,停止,x
 tags: ["spinners"]
 pre: fas
+search: cancel,close,mute,off,stop,x
 
 ---
 

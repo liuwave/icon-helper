@@ -4,6 +4,7 @@ title: credit card marker outline(信用卡标记轮廓) ICON转svg、png下载
 name: credit-card-marker-outline
 zhTips: 信用卡标记轮廓,鳕鱼,货到付款
 tags: ["banking"]
+search: cod,payment-on-delivery
 
 ---
 

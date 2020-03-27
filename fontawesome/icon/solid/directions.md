@@ -5,6 +5,7 @@ name: directions
 zhTips: 路线,地图,导航,标志,转弯
 tags: ["maps"]
 pre: fas
+search: map,navigation,sign,turn
 
 ---
 

@@ -4,6 +4,7 @@ title: wallet(钱包) ICON转svg、png下载
 name: wallet
 zhTips: 钱包,帐户余额钱包
 tags: ["currency","banking"]
+search: account-balance-wallet
 
 ---
 

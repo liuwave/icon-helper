@@ -4,6 +4,7 @@ title: home floor 3(家庭地板3) ICON转svg、png下载
 name: home-floor-3
 zhTips: 家庭地板3,房屋地板3,房屋地板三
 tags: ["home-automation"]
+search: house-floor-3,home-floor-three,house-floor-three,home-floor-third,house-floor-third
 
 ---
 

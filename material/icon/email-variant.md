@@ -4,6 +4,7 @@ title: email variant(电子邮件形式) ICON转svg、png下载
 name: email-variant
 zhTips: 电子邮件形式,信封形式
 tags: []
+search: envelope-variant
 
 ---
 

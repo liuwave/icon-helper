@@ -4,6 +4,7 @@ title: gate not(非逻辑门) ICON转svg、png下载
 name: gate-not
 zhTips: 非逻辑门,非逻辑逻辑门
 tags: []
+search: logic-gate-not
 
 ---
 

@@ -4,6 +4,7 @@ title: select color(选择颜色) ICON转svg、png下载
 name: select-color
 zhTips: 选择颜色
 tags: ["color"]
+search: select-colour
 
 ---
 

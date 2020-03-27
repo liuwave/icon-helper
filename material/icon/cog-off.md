@@ -4,6 +4,7 @@ title: cog off(齿轮关闭) ICON转svg、png下载
 name: cog-off
 zhTips: 齿轮关闭,设置关闭
 tags: ["settings"]
+search: settings-off
 
 ---
 

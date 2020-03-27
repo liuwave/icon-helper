@@ -4,6 +4,7 @@ title: water pump off(水泵关闭) ICON转svg、png下载
 name: water-pump-off
 zhTips: 水泵关闭
 tags: ["agriculture","home-automation"]
+search: 
 
 ---
 

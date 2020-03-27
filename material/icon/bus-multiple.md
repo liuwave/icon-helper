@@ -4,6 +4,7 @@ title: bus multiple(公交车) ICON转svg、png下载
 name: bus-multiple
 zhTips: 公交车,车队
 tags: ["transportation-road"]
+search: fleet
 
 ---
 

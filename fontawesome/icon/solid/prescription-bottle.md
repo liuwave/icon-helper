@@ -5,6 +5,7 @@ name: prescription-bottle
 zhTips: 处方药瓶,药品,医疗,药物,药房,处方药
 tags: ["medical","pharmacy","science"]
 pre: fas
+search: drugs,medical,medicine,pharmacy,rx
 
 ---
 

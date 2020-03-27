@@ -4,6 +4,7 @@ title: perspective more(透视图更多) ICON转svg、png下载
 name: perspective-more
 zhTips: 透视图更多,透视图增加
 tags: ["math"]
+search: perspective-increase
 
 ---
 

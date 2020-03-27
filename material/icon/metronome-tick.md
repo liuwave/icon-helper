@@ -4,6 +4,7 @@ title: metronome tick(节拍器刻度) ICON转svg、png下载
 name: metronome-tick
 zhTips: 节拍器刻度,速度刻度,bpm刻度,每分钟节拍数
 tags: ["music"]
+search: tempo-tick,bpm-tick,beats-per-minute-tick
 
 ---
 

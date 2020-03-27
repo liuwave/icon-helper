@@ -4,6 +4,7 @@ title: format align right(格式右对齐) ICON转svg、png下载
 name: format-align-right
 zhTips: 格式右对齐
 tags: ["text-content-format"]
+search: 
 
 ---
 

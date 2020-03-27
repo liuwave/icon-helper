@@ -4,6 +4,7 @@ title: rv truck(房车) ICON转svg、png下载
 name: rv-truck
 zhTips: 房车,休闲车,露营车
 tags: ["transportation-road"]
+search: recreational-vehicle,campervan
 
 ---
 

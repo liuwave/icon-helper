@@ -4,6 +4,7 @@ title: taxi(出租车) ICON转svg、png下载
 name: taxi
 zhTips: 出租车,当地出租车
 tags: ["transportation-road","navigation"]
+search: local-taxi,cab
 
 ---
 

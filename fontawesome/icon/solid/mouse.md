@@ -5,6 +5,7 @@ name: mouse
 zhTips: 鼠标,单击,计算机,光标,输入,外围设备
 tags: ["computers"]
 pre: fas
+search: click,computer,cursor,input,peripheral
 
 ---
 

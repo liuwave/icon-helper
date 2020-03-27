@@ -4,6 +4,7 @@ title: axis lock(轴锁) ICON转svg、png下载
 name: axis-lock
 zhTips: 轴锁
 tags: ["lock"]
+search: 
 
 ---
 

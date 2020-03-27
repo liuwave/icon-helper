@@ -5,6 +5,7 @@ name: ankh
 zhTips: 安赫,护身符,铜,科普特基督教,小公牛,克卢斯·安萨塔,埃及,金星
 tags: ["religion"]
 pre: fas
+search: amulet,copper,coptic christianity,copts,crux ansata,egypt,venus
 
 ---
 

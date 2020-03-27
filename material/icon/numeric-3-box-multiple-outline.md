@@ -4,6 +4,7 @@ title: numeric 3 box multiple outline(数字3框多重轮廓) ICON转svg、png�
 name: numeric-3-box-multiple-outline
 zhTips: 数字3框多重轮廓,过滤器3
 tags: ["alpha-numeric"]
+search: filter-3,numeric-three-box-multiple-outline,numeric-3-boxes-outline,number-3-box-multiple-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: magic
 zhTips: 魔术师,自动完成,自动,法师,咒语,魔法,魔女,巫师
 tags: ["design","interfaces","objects"]
 pre: fas
+search: autocomplete,automatic,mage,magic,spell,wand,witch,wizard
 
 ---
 

@@ -4,6 +4,7 @@ title: database plus(数据库加上) ICON转svg、png下载
 name: database-plus
 zhTips: 数据库加上,数据库添加
 tags: ["geographic-information-system"]
+search: database-add
 
 ---
 

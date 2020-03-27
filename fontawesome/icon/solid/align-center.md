@@ -5,6 +5,7 @@ name: align-center
 zhTips: 对齐中心,格式,中间,段落,文本
 tags: ["editors"]
 pre: fas
+search: format,middle,paragraph,text
 
 ---
 

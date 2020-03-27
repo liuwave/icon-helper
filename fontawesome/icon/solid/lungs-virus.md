@@ -5,6 +5,7 @@ name: lungs-virus
 zhTips: 肺病毒,呼吸,covid 19,呼吸道,病
 tags: ["medical"]
 pre: fas
+search: breath,covid-19,respiratory,sick
 
 ---
 

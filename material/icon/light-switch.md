@@ -4,6 +4,7 @@ title: light switch(电灯开关) ICON转svg、png下载
 name: light-switch
 zhTips: 电灯开关
 tags: ["home-automation"]
+search: 
 
 ---
 

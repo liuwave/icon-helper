@@ -5,6 +5,7 @@ name: apple-alt
 zhTips: 水果苹果,秋天,水果,富士,麦金托什,果园,季节性,素食主义者
 tags: ["autumn","childhood","education","food","fruit-vegetable"]
 pre: fas
+search: fall,fruit,fuji,macintosh,orchard,seasonal,vegan
 
 ---
 

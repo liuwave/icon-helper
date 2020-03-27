@@ -4,6 +4,7 @@ title: credit card outline(信用卡轮廓) ICON转svg、png下载
 name: credit-card-outline
 zhTips: 信用卡轮廓,付款
 tags: ["shopping","banking","currency"]
+search: payment
 
 ---
 

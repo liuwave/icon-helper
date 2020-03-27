@@ -5,6 +5,7 @@ name: luggage-cart
 zhTips: 行李车,包,行李,手提箱,旅行
 tags: ["hotel","travel"]
 pre: fas
+search: bag,baggage,suitcase,travel
 
 ---
 

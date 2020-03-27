@@ -4,6 +4,7 @@ title: filter(过滤器) ICON转svg、png下载
 name: filter
 zhTips: 过滤器,漏斗
 tags: []
+search: funnel
 
 ---
 

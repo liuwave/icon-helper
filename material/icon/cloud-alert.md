@@ -4,6 +4,7 @@ title: cloud alert(云警报) ICON转svg、png下载
 name: cloud-alert
 zhTips: 云警报,云警告
 tags: ["alert-error","cloud","weather"]
+search: cloud-warning
 
 ---
 

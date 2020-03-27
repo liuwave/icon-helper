@@ -4,6 +4,7 @@ title: account outline(帐户轮廓) ICON转svg、png下载
 name: account-outline
 zhTips: 帐户轮廓,用户轮廓,烫发身份,人员轮廓
 tags: ["account-user"]
+search: user-outline,perm-identity,person-outline
 
 ---
 

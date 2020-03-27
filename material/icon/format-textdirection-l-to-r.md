@@ -4,6 +4,7 @@ title: format textdirection l to r(格式化文本方向l到r) ICON转svg、png�
 name: format-textdirection-l-to-r
 zhTips: 格式化文本方向l到r
 tags: ["text-content-format"]
+search: 
 
 ---
 

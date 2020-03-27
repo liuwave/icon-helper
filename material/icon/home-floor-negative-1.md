@@ -4,6 +4,7 @@ title: home floor negative 1(住宅楼负1) ICON转svg、png下载
 name: home-floor-negative-1
 zhTips: 住宅楼负1
 tags: ["home-automation"]
+search: house-floor-negative-1,home-floor-negative-one,home-floor-minus-1,home-floor-minus-one,house-floor-negative-one,house-floor-minus-1,house-floor-minus-one
 
 ---
 

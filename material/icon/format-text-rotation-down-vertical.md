@@ -4,6 +4,7 @@ title: format text rotation down vertical(格式化文本垂直向下旋转) ICO
 name: format-text-rotation-down-vertical
 zhTips: 格式化文本垂直向下旋转
 tags: ["text-content-format"]
+search: 
 
 ---
 

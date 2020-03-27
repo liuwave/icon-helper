@@ -5,6 +5,7 @@ name: meh
 zhTips: 中性脸,表情符号,脸,中性,评分
 tags: ["chat","emoji","interfaces","users-people"]
 pre: far
+search: emoticon,face,neutral,rating
 
 ---
 

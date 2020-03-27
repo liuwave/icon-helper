@@ -5,6 +5,7 @@ name: trash-restore
 zhTips: 垃圾桶还原,返回,控制z,哎呀,撤消
 tags: ["editors","interfaces"]
 pre: fas
+search: back,control z,oops,undo
 
 ---
 

@@ -5,6 +5,7 @@ name: fist-raised
 zhTips: 举起拳头,地下城与龙,d＆d,dnd,幻想,手,ki,和尚,抵抗,力量,无武装战斗
 tags: ["gaming-tabletop","hands","political"]
 pre: fas
+search: Dungeons & Dragons,d&d,dnd,fantasy,hand,ki,monk,resist,strength,unarmed combat
 
 ---
 

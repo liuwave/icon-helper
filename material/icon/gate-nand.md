@@ -4,6 +4,7 @@ title: gate nand(逻辑门nand) ICON转svg、png下载
 name: gate-nand
 zhTips: 逻辑门nand
 tags: []
+search: logic-gate-nand
 
 ---
 

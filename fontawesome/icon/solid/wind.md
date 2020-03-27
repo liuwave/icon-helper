@@ -5,6 +5,7 @@ name: wind
 zhTips: 风,空气,吹,微风,秋天,季节性,天气
 tags: ["autumn","energy","maritime","weather"]
 pre: fas
+search: air,blow,breeze,fall,seasonal,weather
 
 ---
 

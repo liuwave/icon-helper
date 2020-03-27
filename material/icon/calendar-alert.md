@@ -4,6 +4,7 @@ title: calendar alert(日历警报) ICON转svg、png下载
 name: calendar-alert
 zhTips: 日历警报,事件警报,日历警告
 tags: ["date-time","alert-error"]
+search: event-alert,calendar-warning
 
 ---
 

@@ -5,6 +5,7 @@ name: band-aid
 zhTips: 乐队援助,绷带,嘘声,急救,哎呀
 tags: ["medical","pharmacy"]
 pre: fas
+search: bandage,boo boo,first aid,ouch
 
 ---
 

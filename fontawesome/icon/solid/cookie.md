@@ -5,6 +5,7 @@ name: cookie
 zhTips: Cookie,烘焙食品,薯条,巧克力,吃,小吃,甜,治疗
 tags: ["childhood","food","objects"]
 pre: fas
+search: baked good,chips,chocolate,eat,snack,sweet,treat
 
 ---
 

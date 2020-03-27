@@ -5,6 +5,7 @@ name: cat
 zhTips: 猫,万圣节,假日,小猫,猫咪,宠物
 tags: ["animals","halloween"]
 pre: fas
+search: feline,halloween,holiday,kitten,kitty,meow,pet
 
 ---
 

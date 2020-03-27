@@ -4,6 +4,7 @@ title: timer sand empty(计时器沙子为空) ICON转svg、png下载
 name: timer-sand-empty
 zhTips: 计时器沙子为空,沙漏为空
 tags: ["date-time"]
+search: hourglass-empty
 
 ---
 

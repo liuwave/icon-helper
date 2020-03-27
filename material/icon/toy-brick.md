@@ -4,6 +4,7 @@ title: toy brick(积木) ICON转svg、png下载
 name: toy-brick
 zhTips: 积木,乐高,插件,扩展
 tags: []
+search: lego,plugin,extension
 
 ---
 

@@ -4,6 +4,7 @@ title: key(键) ICON转svg、png下载
 name: key
 zhTips: 键,vpn密钥
 tags: ["automotive"]
+search: vpn-key
 
 ---
 

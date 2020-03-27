@@ -5,6 +5,7 @@ name: indent
 zhTips: 缩进,对齐,段落,制表符
 tags: ["editors"]
 pre: fas
+search: align,justify,paragraph,tab
 
 ---
 

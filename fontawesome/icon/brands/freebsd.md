@@ -5,6 +5,7 @@ name: freebsd
 zhTips: FreeBSD
 tags: []
 pre: fab
+search: 
 
 ---
 

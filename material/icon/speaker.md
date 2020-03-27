@@ -4,6 +4,7 @@ title: speaker(扬声器) ICON转svg、png下载
 name: speaker
 zhTips: 扬声器
 tags: ["audio","home-automation"]
+search: 
 
 ---
 

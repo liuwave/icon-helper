@@ -5,6 +5,7 @@ name: wine-glass
 zhTips: 葡萄酒杯,酒精,饮料,赤霞珠,葡萄,梅洛,长相思
 tags: ["beverage","maps","moving","objects","travel"]
 pre: fas
+search: alcohol,beverage,cabernet,drink,grapes,merlot,sauvignon
 
 ---
 

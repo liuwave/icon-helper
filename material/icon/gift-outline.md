@@ -4,6 +4,7 @@ title: gift outline(礼物轮廓) ICON转svg、png下载
 name: gift-outline
 zhTips: 礼物轮廓,捐赠,礼物
 tags: ["shopping","holiday"]
+search: donate,present
 
 ---
 

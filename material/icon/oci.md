@@ -4,6 +4,7 @@ title: oci(oci) ICON转svg、png下载
 name: oci
 zhTips: oci,开放式集装箱计划
 tags: ["developer-languages","brand-logo"]
+search: open-container-initiative
 
 ---
 

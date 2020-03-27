@@ -4,6 +4,7 @@ title: battery charging low(电池充电不足) ICON转svg、png下载
 name: battery-charging-low
 zhTips: 电池充电不足
 tags: ["battery"]
+search: 
 
 ---
 

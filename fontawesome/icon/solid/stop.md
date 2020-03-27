@@ -5,6 +5,7 @@ name: stop
 zhTips: 停止,块,框,正方形
 tags: ["audio-video"]
 pre: fas
+search: block,box,square
 
 ---
 

@@ -4,6 +4,7 @@ title: pan top right(向右平移) ICON转svg、png下载
 name: pan-top-right
 zhTips: 向右平移
 tags: []
+search: pan-up-right
 
 ---
 

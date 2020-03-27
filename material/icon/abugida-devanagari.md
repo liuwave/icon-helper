@@ -4,6 +4,7 @@ title: abugida devanagari(abugida devanagari) ICON转svg、png下载
 name: abugida-devanagari
 zhTips: abugida devanagari,书写系统devanagari
 tags: ["alpha-numeric"]
+search: writing-system-devanagari
 
 ---
 

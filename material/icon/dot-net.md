@@ -4,6 +4,7 @@ title: dot net(点网) ICON转svg、png下载
 name: dot-net
 zhTips: 点网,微软点网
 tags: ["developer-languages"]
+search: microsoft-dot-net
 
 ---
 

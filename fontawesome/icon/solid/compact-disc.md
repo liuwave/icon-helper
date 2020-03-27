@@ -5,6 +5,7 @@ name: compact-disc
 zhTips: 光盘,专辑,蓝光,cd,dvd,媒体,电影,音乐,记录,视频,乙烯基
 tags: ["spinners"]
 pre: fas
+search: album,bluray,cd,disc,dvd,media,movie,music,record,video,vinyl
 
 ---
 

@@ -4,6 +4,7 @@ title: menu(菜单) ICON转svg、png下载
 name: menu
 zhTips: 菜单,汉堡菜单
 tags: []
+search: hamburger-menu
 
 ---
 

@@ -5,6 +5,7 @@ name: medal
 zhTips: 奖章,奖状,色带,星级,奖杯
 tags: ["interfaces","objects"]
 pre: fas
+search: award,ribbon,star,trophy
 
 ---
 

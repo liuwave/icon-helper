@@ -4,6 +4,7 @@ title: home circle(家圈) ICON转svg、png下载
 name: home-circle
 zhTips: 家圈,圈屋
 tags: ["home-automation"]
+search: house-circle
 
 ---
 

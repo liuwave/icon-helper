@@ -4,6 +4,7 @@ title: alarm plus(闹钟加) ICON转svg、png下载
 name: alarm-plus
 zhTips: 闹钟加,添加闹钟,闹钟添加
 tags: []
+search: add-alarm,alarm-clock-plus,alarm-clock-add,alarm-add
 
 ---
 

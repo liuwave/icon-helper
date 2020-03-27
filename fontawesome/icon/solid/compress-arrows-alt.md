@@ -5,6 +5,7 @@ name: compress-arrows-alt
 zhTips: 备用压缩箭头,折叠,全屏,最小化,移动,调整大小,缩小,更小
 tags: ["arrows","audio-video","images"]
 pre: fas
+search: collapse,fullscreen,minimize,move,resize,shrink,smaller
 
 ---
 

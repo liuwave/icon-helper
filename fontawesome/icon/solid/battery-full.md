@@ -5,6 +5,7 @@ name: battery-full
 zhTips: 电池充满,充电,电源,状态
 tags: ["energy","status"]
 pre: fas
+search: charge,power,status
 
 ---
 

@@ -4,6 +4,7 @@ title: account key outline(帐户密钥轮廓) ICON转svg、png下载
 name: account-key-outline
 zhTips: 帐户密钥轮廓,用户密钥轮廓,个人密钥轮廓
 tags: ["account-user"]
+search: user-key-outline,person-key-outline
 
 ---
 

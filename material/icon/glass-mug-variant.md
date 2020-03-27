@@ -4,6 +4,7 @@ title: glass mug variant(玻璃杯子的口音) ICON转svg、png下载
 name: glass-mug-variant
 zhTips: 玻璃杯子的口音,酒吧,啤酒,饮料
 tags: ["food-drink"]
+search: pub,bar,beer,drink
 
 ---
 

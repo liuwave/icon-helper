@@ -4,6 +4,7 @@ title: star four points outline(明星四分轮廓) ICON转svg、png下载
 name: star-four-points-outline
 zhTips: 明星四分轮廓
 tags: ["shape"]
+search: 
 
 ---
 

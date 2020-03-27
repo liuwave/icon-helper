@@ -4,6 +4,7 @@ title: theater(剧院) ICON转svg、png下载
 name: theater
 zhTips: 剧院,电影院
 tags: ["places"]
+search: cinema,theatre
 
 ---
 

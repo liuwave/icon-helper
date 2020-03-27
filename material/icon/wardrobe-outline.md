@@ -4,6 +4,7 @@ title: wardrobe outline(衣柜轮廓) ICON转svg、png下载
 name: wardrobe-outline
 zhTips: 衣柜轮廓,壁橱轮廓
 tags: ["home-automation"]
+search: closet-outline
 
 ---
 

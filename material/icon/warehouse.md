@@ -4,6 +4,7 @@ title: warehouse(仓库) ICON转svg、png下载
 name: warehouse
 zhTips: 仓库
 tags: ["places"]
+search: 
 
 ---
 

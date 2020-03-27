@@ -4,6 +4,7 @@ title: home floor 0(家庭楼层0) ICON转svg、png下载
 name: home-floor-0
 zhTips: 家庭楼层0,房屋楼层0
 tags: ["home-automation"]
+search: house-floor-0,home-floor-zero,house-floor-zero
 
 ---
 

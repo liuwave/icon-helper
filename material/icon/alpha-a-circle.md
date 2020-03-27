@@ -4,6 +4,7 @@ title: alpha a circle(alpha一个圆圈) ICON转svg、png下载
 name: alpha-a-circle
 zhTips: alpha一个圆圈,字母一个圆圈
 tags: ["alpha-numeric"]
+search: alphabet-a-circle,letter-a-circle
 
 ---
 

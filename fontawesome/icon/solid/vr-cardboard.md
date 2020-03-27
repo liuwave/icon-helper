@@ -5,6 +5,7 @@ name: vr-cardboard
 zhTips: 纸板VR,3D,增强,谷歌,现实,虚拟
 tags: []
 pre: fas
+search: 3d,augment,google,reality,virtual
 
 ---
 

@@ -5,6 +5,7 @@ name: check-circle
 zhTips: 检查圈子,接受,同意,确认,正确,完成,确定,选择,成功,刻度,待办事项,是
 tags: ["interfaces","toggle"]
 pre: fas
+search: accept,agree,confirm,correct,done,ok,select,success,tick,todo,yes
 
 ---
 

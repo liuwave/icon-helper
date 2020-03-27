@@ -4,6 +4,7 @@ title: gesture tap button(手势点击按钮) ICON转svg、png下载
 name: gesture-tap-button
 zhTips: 手势点击按钮,号召性用语,cta
 tags: []
+search: call-to-action,cta
 
 ---
 

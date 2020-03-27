@@ -5,6 +5,7 @@ name: youtube
 zhTips: YouTube,电影,视频,YouTube播放,YouTube正方形
 tags: ["audio-video"]
 pre: fab
+search: film,video,youtube-play,youtube-square
 
 ---
 

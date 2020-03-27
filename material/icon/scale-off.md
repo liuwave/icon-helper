@@ -4,6 +4,7 @@ title: scale off(按比例缩小) ICON转svg、png下载
 name: scale-off
 zhTips: 按比例缩小
 tags: ["science"]
+search: 
 
 ---
 

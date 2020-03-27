@@ -4,6 +4,7 @@ title: view dashboard(仪表板视图) ICON转svg、png下载
 name: view-dashboard
 zhTips: 仪表板视图
 tags: ["view"]
+search: 
 
 ---
 

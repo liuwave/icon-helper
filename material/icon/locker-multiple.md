@@ -4,6 +4,7 @@ title: locker multiple(多个储物柜) ICON转svg、png下载
 name: locker-multiple
 zhTips: 多个储物柜,储物柜
 tags: []
+search: lockers
 
 ---
 

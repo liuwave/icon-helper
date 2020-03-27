@@ -4,6 +4,7 @@ title: rewind(快退) ICON转svg、png下载
 name: rewind
 zhTips: 快退
 tags: []
+search: fast-rewind
 
 ---
 

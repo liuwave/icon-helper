@@ -5,6 +5,7 @@ name: tag
 zhTips: 标签,折扣,价格,购物
 tags: ["business","maps","objects","payments-shopping"]
 pre: fas
+search: discount,label,price,shopping
 
 ---
 

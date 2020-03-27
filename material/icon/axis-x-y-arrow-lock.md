@@ -4,6 +4,7 @@ title: axis x y arrow lock(轴xy箭头锁) ICON转svg、png下载
 name: axis-x-y-arrow-lock
 zhTips: 轴xy箭头锁
 tags: ["lock","arrow"]
+search: 
 
 ---
 

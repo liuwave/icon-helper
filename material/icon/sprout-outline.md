@@ -4,6 +4,7 @@ title: sprout outline(豆芽轮廓) ICON转svg、png下载
 name: sprout-outline
 zhTips: 豆芽轮廓,幼苗轮廓,植物轮廓
 tags: ["agriculture","nature"]
+search: seedling-outline,plant-outline
 
 ---
 

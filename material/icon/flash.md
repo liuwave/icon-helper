@@ -4,6 +4,7 @@ title: flash(闪光灯) ICON转svg、png下载
 name: flash
 zhTips: 闪光灯,闪电,闪光灯开启,通电
 tags: ["weather"]
+search: lightning-bolt,flash-on,electricity
 
 ---
 

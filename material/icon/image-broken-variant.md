@@ -4,6 +4,7 @@ title: image broken variant(图像重音符号) ICON转svg、png下载
 name: image-broken-variant
 zhTips: 图像重音符号,图像已损坏
 tags: []
+search: broken-image
 
 ---
 

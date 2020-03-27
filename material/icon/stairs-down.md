@@ -4,6 +4,7 @@ title: stairs down(下楼梯) ICON转svg、png下载
 name: stairs-down
 zhTips: 下楼梯
 tags: ["transportation-other"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: cellphone basic(手机基本型) ICON转svg、png下载
 name: cellphone-basic
 zhTips: 手机基本型
 tags: ["cellphone-phone","device-tech"]
+search: mobile-phone-basic
 
 ---
 

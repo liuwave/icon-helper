@@ -5,6 +5,7 @@ name: file-invoice-dollar
 zhTips: 美元,帐户,账单,费用,文档,美元符号,钱,付款,收据,美元的文件发票
 tags: ["finance"]
 pre: fas
+search: $,account,bill,charge,document,dollar-sign,money,payment,receipt,usd
 
 ---
 

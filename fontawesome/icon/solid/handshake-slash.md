@@ -5,6 +5,7 @@ name: handshake-slash
 zhTips: 握手斜线,残破,弯曲19,社交距离
 tags: ["hands"]
 pre: fas
+search: broken,covid-19,social distance
 
 ---
 

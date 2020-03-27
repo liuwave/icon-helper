@@ -4,6 +4,7 @@ title: help circle outline(帮助圈轮廓) ICON转svg、png下载
 name: help-circle-outline
 zhTips: 帮助圈轮廓,帮助轮廓,问号圈轮廓
 tags: []
+search: help-outline,question-mark-circle-outline
 
 ---
 

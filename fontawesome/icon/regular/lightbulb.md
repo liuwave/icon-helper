@@ -5,6 +5,7 @@ name: lightbulb
 zhTips: 灯泡,能源,理念,灵感,光
 tags: ["energy","household","maps","marketing","objects","status"]
 pre: far
+search: energy,idea,inspiration,light
 
 ---
 

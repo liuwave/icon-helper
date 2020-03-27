@@ -5,6 +5,7 @@ name: subscript
 zhTips: 下标,编辑,字体,格式,文本,类型
 tags: ["editors","mathematics"]
 pre: fas
+search: edit,font,format,text,type
 
 ---
 

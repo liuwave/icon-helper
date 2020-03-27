@@ -4,6 +4,7 @@ title: weather pouring(倾盆大雨) ICON转svg、png下载
 name: weather-pouring
 zhTips: 倾盆大雨,大雨
 tags: ["weather"]
+search: weather-heavy-rain
 
 ---
 

@@ -4,6 +4,7 @@ title: restart alert(重新启动警报) ICON转svg、png下载
 name: restart-alert
 zhTips: 重新启动警报
 tags: ["alert-error"]
+search: 
 
 ---
 

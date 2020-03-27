@@ -4,6 +4,7 @@ title: microwave(微波炉) ICON转svg、png下载
 name: microwave
 zhTips: 微波炉
 tags: ["home-automation","food-drink"]
+search: microwave-oven
 
 ---
 

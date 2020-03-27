@@ -4,6 +4,7 @@ title: file percent outline(文件百分比轮廓) ICON转svg、png下载
 name: file-percent-outline
 zhTips: 文件百分比轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

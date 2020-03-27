@@ -4,6 +4,7 @@ title: account alert(帐户警报) ICON转svg、png下载
 name: account-alert
 zhTips: 帐户警报,用户警报,帐户警告,用户警告,人员警报,人员警告
 tags: ["account-user","alert-error"]
+search: user-alert,account-warning,user-warning,person-alert,person-warning
 
 ---
 

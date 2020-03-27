@@ -4,6 +4,7 @@ title: flash alert outline(闪光灯警报轮廓) ICON转svg、png下载
 name: flash-alert-outline
 zhTips: 闪光灯警报轮廓,雷电警报轮廓,风暴通报轮廓
 tags: ["weather","alert-error"]
+search: lightning-alert-outline,storm-advisory-outline
 
 ---
 

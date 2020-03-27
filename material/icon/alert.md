@@ -4,6 +4,7 @@ title: alert(警报) ICON转svg、png下载
 name: alert
 zhTips: 警报,警告,问题报告
 tags: ["alert-error"]
+search: warning,report-problem
 
 ---
 

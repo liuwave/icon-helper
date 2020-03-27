@@ -5,6 +5,7 @@ name: prescription-bottle-alt
 zhTips: 备用处方药瓶,药品,医疗,药物,药房
 tags: ["medical","pharmacy"]
 pre: fas
+search: drugs,medical,medicine,pharmacy,rx
 
 ---
 

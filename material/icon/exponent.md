@@ -4,6 +4,7 @@ title: exponent(指数) ICON转svg、png下载
 name: exponent
 zhTips: 指数,幂
 tags: ["math"]
+search: power
 
 ---
 

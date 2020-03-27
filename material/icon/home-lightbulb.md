@@ -4,6 +4,7 @@ title: home lightbulb(家用灯泡) ICON转svg、png下载
 name: home-lightbulb
 zhTips: 家用灯泡
 tags: ["home-automation"]
+search: home-bulb
 
 ---
 

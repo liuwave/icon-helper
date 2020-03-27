@@ -4,6 +4,7 @@ title: floor plan(平面图) ICON转svg、png下载
 name: floor-plan
 zhTips: 平面图
 tags: ["home-automation"]
+search: 
 
 ---
 

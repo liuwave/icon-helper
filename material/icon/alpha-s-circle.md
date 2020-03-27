@@ -4,6 +4,7 @@ title: alpha s circle(alpha的圆圈) ICON转svg、png下载
 name: alpha-s-circle
 zhTips: alpha的圆圈,字母的圆圈
 tags: ["alpha-numeric"]
+search: alphabet-s-circle,letter-s-circle
 
 ---
 

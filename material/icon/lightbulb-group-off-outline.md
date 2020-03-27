@@ -4,6 +4,7 @@ title: lightbulb group off outline(灯泡组偏离轮廓) ICON转svg、png下载
 name: lightbulb-group-off-outline
 zhTips: 灯泡组偏离轮廓
 tags: ["home-automation"]
+search: bulb-group-off-outline
 
 ---
 

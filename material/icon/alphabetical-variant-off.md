@@ -4,6 +4,7 @@ title: alphabetical variant off(关闭字母变体) ICON转svg、png下载
 name: alphabetical-variant-off
 zhTips: 关闭字母变体
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: white balance iridescent(白平衡彩虹色) ICON转svg、png下载
 name: white-balance-iridescent
 zhTips: 白平衡彩虹色,wb彩虹色
 tags: ["photography"]
+search: wb-iridescent
 
 ---
 

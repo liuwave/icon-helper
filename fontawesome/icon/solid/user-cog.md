@@ -5,6 +5,7 @@ name: user-cog
 zhTips: 用户齿轮,管理员,齿轮,人,设置
 tags: ["users-people"]
 pre: fas
+search: admin,cog,person,settings
 
 ---
 

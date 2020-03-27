@@ -4,6 +4,7 @@ title: phone incoming(电话传入) ICON转svg、png下载
 name: phone-incoming
 zhTips: 电话传入
 tags: ["cellphone-phone"]
+search: telephone-incoming
 
 ---
 

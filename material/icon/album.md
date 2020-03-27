@@ -4,6 +4,7 @@ title: album(专辑) ICON转svg、png下载
 name: album
 zhTips: 专辑,黑胶唱片,唱片
 tags: ["audio","music"]
+search: vinyl,record
 
 ---
 

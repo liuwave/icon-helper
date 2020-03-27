@@ -5,6 +5,7 @@ name: fill
 zhTips: 填充,存储桶,颜色,油漆,油漆桶
 tags: ["design"]
 pre: fas
+search: bucket,color,paint,paint bucket
 
 ---
 

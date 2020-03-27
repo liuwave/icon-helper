@@ -4,6 +4,7 @@ title: equal box(等盒) ICON转svg、png下载
 name: equal-box
 zhTips: 等盒
 tags: ["math"]
+search: 
 
 ---
 

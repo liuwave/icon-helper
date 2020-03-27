@@ -4,6 +4,7 @@ title: alpha h box(字母h框) ICON转svg、png下载
 name: alpha-h-box
 zhTips: 字母h框
 tags: ["alpha-numeric"]
+search: alphabet-h-box,letter-h-box
 
 ---
 

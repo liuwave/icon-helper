@@ -5,6 +5,7 @@ name: dice-two
 zhTips: 骰子二,机会,赌博,游戏,滚动
 tags: ["games","objects"]
 pre: fas
+search: chance,gambling,game,roll
 
 ---
 

@@ -5,6 +5,7 @@ name: file-alt
 zhTips: 备用文件,文档,文件文本,发票,新建,页面,pdf
 tags: ["business","code","editors","files","interfaces","objects","status","writing"]
 pre: far
+search: document,file-text,invoice,new,page,pdf
 
 ---
 

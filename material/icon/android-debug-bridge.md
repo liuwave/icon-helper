@@ -4,6 +4,7 @@ title: android debug bridge(Android调试桥) ICON转svg、png下载
 name: android-debug-bridge
 zhTips: Android调试桥,adb
 tags: ["brand-logo"]
+search: adb
 
 ---
 

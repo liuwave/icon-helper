@@ -4,6 +4,7 @@ title: alpha u(alpha u) ICON转svg、png下载
 name: alpha-u
 zhTips: alpha u,字母u
 tags: ["alpha-numeric"]
+search: alphabet-u,letter-u
 
 ---
 

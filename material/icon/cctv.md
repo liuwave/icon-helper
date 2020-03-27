@@ -4,6 +4,7 @@ title: cctv(闭路电视) ICON转svg、png下载
 name: cctv
 zhTips: 闭路电视,监控摄像机
 tags: ["home-automation"]
+search: closed-circuit-television,security-camera
 
 ---
 

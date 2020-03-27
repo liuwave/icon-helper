@@ -4,6 +4,7 @@ title: ferry(轮渡) ICON转svg、png下载
 name: ferry
 zhTips: 轮渡,货船,船,轮船,方向船,方向
 tags: ["transportation-water","navigation"]
+search: cargo-ship,boat,ship,directions-boat,directions-ferry
 
 ---
 

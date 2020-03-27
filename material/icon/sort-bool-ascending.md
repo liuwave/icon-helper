@@ -4,6 +4,7 @@ title: sort bool ascending(升序排序) ICON转svg、png下载
 name: sort-bool-ascending
 zhTips: 升序排序
 tags: ["text-content-format"]
+search: 
 
 ---
 

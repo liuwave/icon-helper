@@ -4,6 +4,7 @@ title: file check(文件检查) ICON转svg、png下载
 name: file-check
 zhTips: 文件检查,文件打勾
 tags: ["files-folders"]
+search: file-tick
 
 ---
 

@@ -4,6 +4,7 @@ title: compass(指南针) ICON转svg、png下载
 name: compass
 zhTips: 指南针,探索
 tags: ["navigation","geographic-information-system"]
+search: explore
 
 ---
 

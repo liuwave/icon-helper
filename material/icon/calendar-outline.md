@@ -4,6 +4,7 @@ title: calendar outline(日历轮廓) ICON转svg、png下载
 name: calendar-outline
 zhTips: 日历轮廓,活动轮廓
 tags: ["date-time"]
+search: event-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: moon
 zhTips: 月亮,对比度,新月,黑暗,月球,夜晚
 tags: ["objects","science-fiction","weather"]
 pre: far
+search: contrast,crescent,dark,lunar,night
 
 ---
 

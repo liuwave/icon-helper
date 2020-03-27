@@ -5,6 +5,7 @@ name: pen-square
 zhTips: 笔广场,编辑,铅笔广场,更新,写入
 tags: ["business","writing"]
 pre: fas
+search: edit,pencil-square,update,write
 
 ---
 

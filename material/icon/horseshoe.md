@@ -4,6 +4,7 @@ title: horseshoe(马蹄形) ICON转svg、png下载
 name: horseshoe
 zhTips: 马蹄形
 tags: ["sport"]
+search: luck
 
 ---
 

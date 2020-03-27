@@ -5,6 +5,7 @@ name: file-invoice
 zhTips: 文件发票,账户,账单,费用,单据,付款,收据
 tags: ["finance"]
 pre: fas
+search: account,bill,charge,document,payment,receipt
 
 ---
 

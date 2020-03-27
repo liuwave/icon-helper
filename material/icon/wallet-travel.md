@@ -4,6 +4,7 @@ title: wallet travel(钱包旅行) ICON转svg、png下载
 name: wallet-travel
 zhTips: 钱包旅行,卡旅行
 tags: []
+search: card-travel
 
 ---
 

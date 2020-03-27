@@ -5,6 +5,7 @@ name: skiing
 zhTips: 滑雪,活动,下坡,快速,健身,奥运会,户外,人,季节性,激流回旋
 tags: ["fitness","sports","users-people","winter"]
 pre: fas
+search: activity,downhill,fast,fitness,olympics,outdoors,person,seasonal,slalom
 
 ---
 

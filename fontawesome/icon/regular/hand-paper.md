@@ -5,6 +5,7 @@ name: hand-paper
 zhTips: Paper（Hand）,game,halt,roshambo,stop
 tags: ["hands"]
 pre: far
+search: game,halt,roshambo,stop
 
 ---
 

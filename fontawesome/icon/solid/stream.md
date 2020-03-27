@@ -5,6 +5,7 @@ name: stream
 zhTips: 流,列表,时间轴
 tags: ["business","code","computers","status"]
 pre: fas
+search: flow,list,timeline
 
 ---
 

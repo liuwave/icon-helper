@@ -4,6 +4,7 @@ title: arrow right circle(右箭头) ICON转svg、png下载
 name: arrow-right-circle
 zhTips: 右箭头,前箭头
 tags: ["arrow"]
+search: arrow-forward-circle
 
 ---
 

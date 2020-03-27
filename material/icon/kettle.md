@@ -4,6 +4,7 @@ title: kettle(水壶) ICON转svg、png下载
 name: kettle
 zhTips: 水壶,茶壶,水壶已满,茶壶已满
 tags: ["home-automation","food-drink"]
+search: tea-kettle,kettle-full,tea-kettle-full
 
 ---
 

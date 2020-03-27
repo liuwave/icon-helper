@@ -5,6 +5,7 @@ name: grin
 zhTips: 咧着嘴笑的脸,图释,脸,笑,微笑
 tags: ["emoji"]
 pre: far
+search: emoticon,face,laugh,smile
 
 ---
 

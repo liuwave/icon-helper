@@ -5,6 +5,7 @@ name: sort
 zhTips: 排序,过滤器,订单
 tags: ["arrows","interfaces"]
 pre: fas
+search: filter,order
 
 ---
 

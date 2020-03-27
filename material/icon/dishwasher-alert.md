@@ -4,6 +4,7 @@ title: dishwasher alert(洗碗机警报) ICON转svg、png下载
 name: dishwasher-alert
 zhTips: 洗碗机警报
 tags: ["home-automation","alert-error"]
+search: 
 
 ---
 

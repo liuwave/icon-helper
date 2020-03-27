@@ -4,6 +4,7 @@ title: unfold less horizontal(展开较少水平) ICON转svg、png下载
 name: unfold-less-horizontal
 zhTips: 展开较少水平,人字形向下,折叠水平
 tags: []
+search: chevron-down-up,collapse-horizontal
 
 ---
 

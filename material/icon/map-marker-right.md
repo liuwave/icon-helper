@@ -4,6 +4,7 @@ title: map marker right(正确的地图标记) ICON转svg、png下载
 name: map-marker-right
 zhTips: 正确的地图标记
 tags: ["navigation","geographic-information-system"]
+search: 
 
 ---
 

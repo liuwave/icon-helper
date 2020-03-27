@@ -5,6 +5,7 @@ name: play
 zhTips: 播放,音频,音乐,声音,开始,视频
 tags: ["arrows","audio-video","music","shapes"]
 pre: fas
+search: audio,music,playing,sound,start,video
 
 ---
 

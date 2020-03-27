@@ -4,6 +4,7 @@ title: numeric 0(数字0) ICON转svg、png下载
 name: numeric-0
 zhTips: 数字0,数字零
 tags: ["alpha-numeric"]
+search: number-0,numeric-zero
 
 ---
 

@@ -4,6 +4,7 @@ title: message(消息) ICON转svg、png下载
 name: message
 zhTips: 消息,聊天气泡
 tags: []
+search: chat-bubble
 
 ---
 

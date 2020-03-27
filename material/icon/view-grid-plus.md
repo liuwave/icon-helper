@@ -4,6 +4,7 @@ title: view grid plus(查看网格加) ICON转svg、png下载
 name: view-grid-plus
 zhTips: 查看网格加,查看网格添加
 tags: ["view"]
+search: view-grid-add
 
 ---
 

@@ -4,6 +4,7 @@ title: alpha e box outline(字母e框轮廓) ICON转svg、png下载
 name: alpha-e-box-outline
 zhTips: 字母e框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-e-box-outline,letter-e-box-outline
 
 ---
 

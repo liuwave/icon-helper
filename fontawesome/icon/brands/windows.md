@@ -5,6 +5,7 @@ name: windows
 zhTips: Windows,Microsoft,操作系统
 tags: []
 pre: fab
+search: microsoft,operating system,os
 
 ---
 

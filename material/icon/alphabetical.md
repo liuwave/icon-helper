@@ -4,6 +4,7 @@ title: alphabetical(字母) ICON转svg、png下载
 name: alphabetical
 zhTips: 字母,abc
 tags: ["alpha-numeric"]
+search: letters,a-b-c,abc
 
 ---
 

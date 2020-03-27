@@ -4,6 +4,7 @@ title: heart pulse(心脏搏动) ICON转svg、png下载
 name: heart-pulse
 zhTips: 心脏搏动,心脏活力
 tags: ["medical-hospital"]
+search: heart-vitals
 
 ---
 

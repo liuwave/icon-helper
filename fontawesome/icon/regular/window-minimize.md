@@ -5,6 +5,7 @@ name: window-minimize
 zhTips: 窗口最小化,浏览器,崩溃,计算机,开发
 tags: ["code"]
 pre: far
+search: browser,collapse,computer,development
 
 ---
 

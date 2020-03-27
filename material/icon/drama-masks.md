@@ -4,6 +4,7 @@ title: drama masks(戏剧面具) ICON转svg、png下载
 name: drama-masks
 zhTips: 戏剧面具,喜剧,悲剧,剧院
 tags: []
+search: comedy,tragedy,theatre
 
 ---
 

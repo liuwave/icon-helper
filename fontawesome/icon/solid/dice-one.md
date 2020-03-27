@@ -5,6 +5,7 @@ name: dice-one
 zhTips: 骰子之一,机会,赌博,游戏,掷骰
 tags: ["games","objects"]
 pre: fas
+search: chance,gambling,game,roll
 
 ---
 

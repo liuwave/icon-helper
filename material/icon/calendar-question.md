@@ -4,6 +4,7 @@ title: calendar question(日历问题) ICON转svg、png下载
 name: calendar-question
 zhTips: 日历问题,日历rsvp,事件问题
 tags: ["date-time"]
+search: calendar-rsvp,event-question
 
 ---
 

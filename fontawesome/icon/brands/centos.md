@@ -5,6 +5,7 @@ name: centos
 zhTips: Centos,Linux,操作系统
 tags: []
 pre: fab
+search: linux,operating system,os
 
 ---
 

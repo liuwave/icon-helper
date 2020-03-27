@@ -4,6 +4,7 @@ title: file search(文件搜索) ICON转svg、png下载
 name: file-search
 zhTips: 文件搜索
 tags: ["files-folders"]
+search: 
 
 ---
 

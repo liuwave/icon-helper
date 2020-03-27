@@ -4,6 +4,7 @@ title: eye(眼睛) ICON转svg、png下载
 name: eye
 zhTips: 眼睛,显示,可见度,消除红眼
 tags: []
+search: show,visibility,remove-red-eye
 
 ---
 

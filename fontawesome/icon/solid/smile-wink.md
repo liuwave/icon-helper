@@ -5,6 +5,7 @@ name: smile-wink
 zhTips: 眨眼的脸,图释,脸,快乐,提示,笑话
 tags: ["emoji"]
 pre: fas
+search: emoticon,face,happy,hint,joke
 
 ---
 

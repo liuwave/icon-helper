@@ -4,6 +4,7 @@ title: monitor star(星星显示器) ICON转svg、png下载
 name: monitor-star
 zhTips: 星星显示器
 tags: ["device-tech"]
+search: 
 
 ---
 

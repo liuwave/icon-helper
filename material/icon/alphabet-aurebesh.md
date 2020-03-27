@@ -4,6 +4,7 @@ title: alphabet aurebesh(字母aurebesh) ICON转svg、png下载
 name: alphabet-aurebesh
 zhTips: 字母aurebesh,书写系统aurebesh
 tags: ["alpha-numeric"]
+search: writing-system-aurebesh
 
 ---
 

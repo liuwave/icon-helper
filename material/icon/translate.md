@@ -4,6 +4,7 @@ title: translate(翻译) ICON转svg、png下载
 name: translate
 zhTips: 翻译,语言
 tags: []
+search: language
 
 ---
 

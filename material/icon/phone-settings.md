@@ -4,6 +4,7 @@ title: phone settings(电话设置) ICON转svg、png下载
 name: phone-settings
 zhTips: 电话设置
 tags: ["settings","cellphone-phone"]
+search: settings-phone
 
 ---
 

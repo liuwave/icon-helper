@@ -4,6 +4,7 @@ title: calendar remove(日历删除) ICON转svg、png下载
 name: calendar-remove
 zhTips: 日历删除,事件忙,事件删除
 tags: ["date-time"]
+search: event-busy,event-remove
 
 ---
 

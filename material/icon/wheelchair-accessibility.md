@@ -4,6 +4,7 @@ title: wheelchair accessibility(无障碍通道) ICON转svg、png下载
 name: wheelchair-accessibility
 zhTips: 无障碍通道,无障碍
 tags: []
+search: accessible
 
 ---
 

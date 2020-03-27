@@ -5,6 +5,7 @@ name: biohazard
 zhTips: 生物危害,covid 19,危险,危险品,医疗,放射性,有毒,废物,僵尸
 tags: ["medical","science"]
 pre: fas
+search: covid-19,danger,dangerous,hazmat,medical,radioactive,toxic,waste,zombie
 
 ---
 

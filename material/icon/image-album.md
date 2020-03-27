@@ -4,6 +4,7 @@ title: image album(相册) ICON转svg、png下载
 name: image-album
 zhTips: 相册
 tags: []
+search: photo-album
 
 ---
 

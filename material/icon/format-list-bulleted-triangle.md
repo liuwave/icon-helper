@@ -4,6 +4,7 @@ title: format list bulleted triangle(格式列表项目符号三角形) ICON转s
 name: format-list-bulleted-triangle
 zhTips: 格式列表项目符号三角形
 tags: ["text-content-format"]
+search: 
 
 ---
 

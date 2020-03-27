@@ -4,6 +4,7 @@ title: shopping(购物) ICON转svg、png下载
 name: shopping
 zhTips: 购物,当地购物中心,市场
 tags: ["shopping"]
+search: local-mall,marketplace
 
 ---
 

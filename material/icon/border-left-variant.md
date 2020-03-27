@@ -4,6 +4,7 @@ title: border left variant(左边框变体) ICON转svg、png下载
 name: border-left-variant
 zhTips: 左边框变体
 tags: ["text-content-format"]
+search: 
 
 ---
 

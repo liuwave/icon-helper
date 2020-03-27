@@ -4,6 +4,7 @@ title: cancel(取消) ICON转svg、png下载
 name: cancel
 zhTips: 取消,禁止,请勿打扰,阻止
 tags: []
+search: prohibited,ban,do-not-disturb-alt,denied,block,forbid
 
 ---
 

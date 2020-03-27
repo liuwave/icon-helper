@@ -5,6 +5,7 @@ name: angry
 zhTips: 生气的脸,不赞成,图释,脸,疯狂,难过
 tags: ["emoji"]
 pre: far
+search: disapprove,emoticon,face,mad,upset
 
 ---
 

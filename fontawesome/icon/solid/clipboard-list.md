@@ -5,6 +5,7 @@ name: clipboard-list
 zhTips: 剪贴板列表,清单,完成,行程,ol,时间表,刻度线,待办事项,ul
 tags: ["logistics"]
 pre: fas
+search: checklist,completed,done,finished,intinerary,ol,schedule,tick,todo,ul
 
 ---
 

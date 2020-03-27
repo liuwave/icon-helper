@@ -4,6 +4,7 @@ title: pool(游泳池) ICON转svg、png下载
 name: pool
 zhTips: 游泳池
 tags: ["places"]
+search: swimming-pool
 
 ---
 

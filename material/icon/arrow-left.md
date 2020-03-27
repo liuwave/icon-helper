@@ -4,6 +4,7 @@ title: arrow left(向左箭头) ICON转svg、png下载
 name: arrow-left
 zhTips: 向左箭头,向后箭头
 tags: ["arrow"]
+search: arrow-back
 
 ---
 

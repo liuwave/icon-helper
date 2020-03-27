@@ -5,6 +5,7 @@ name: hand-lizard
 zhTips: 蜥蜴（手）,游戏,罗沙姆博
 tags: ["hands"]
 pre: fas
+search: game,roshambo
 
 ---
 

@@ -4,6 +4,7 @@ title: barley off(大麦关闭) ICON转svg、png下载
 name: barley-off
 zhTips: 大麦关闭,无麸质,谷物关闭,小麦关闭
 tags: []
+search: gluten-free,grain-off,wheat-off
 
 ---
 

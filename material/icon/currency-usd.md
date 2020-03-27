@@ -4,6 +4,7 @@ title: currency usd(货币usd) ICON转svg、png下载
 name: currency-usd
 zhTips: 货币usd,附加钱,美元
 tags: ["currency","banking"]
+search: attach-money,dollar
 
 ---
 

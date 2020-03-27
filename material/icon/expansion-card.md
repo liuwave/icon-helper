@@ -4,6 +4,7 @@ title: expansion card(卡扩展) ICON转svg、png下载
 name: expansion-card
 zhTips: 卡扩展,GPU,图形处理单元,NIC,网络接口卡
 tags: ["gaming-rpg"]
+search: gpu,graphics-processing-unit,nic,network-interface-card
 
 ---
 

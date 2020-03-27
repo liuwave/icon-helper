@@ -5,6 +5,7 @@ name: file-archive
 zhTips: 存档文件,.zip,捆绑包,压缩,下载,zip
 tags: ["files"]
 pre: fas
+search: .zip,bundle,compress,compression,download,zip
 
 ---
 

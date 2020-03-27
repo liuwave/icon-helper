@@ -4,6 +4,7 @@ title: cards diamond(钻石卡) ICON转svg、png下载
 name: cards-diamond
 zhTips: 钻石卡,套装钻石,修整车道,高占用车道,拼车车道
 tags: ["gaming-rpg","transportation-road"]
+search: suit-diamonds,hov-lane,high-occupancy-vehicle-lane,carpool-lane
 
 ---
 

@@ -4,6 +4,7 @@ title: cog counterclockwise(齿轮为逆时针方向) ICON转svg、png下载
 name: cog-counterclockwise
 zhTips: 齿轮为逆时针方向
 tags: ["settings"]
+search: 
 
 ---
 

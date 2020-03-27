@@ -5,6 +5,7 @@ name: stop-circle
 zhTips: 停止圆,块,框,圆,正方形
 tags: ["audio-video"]
 pre: far
+search: block,box,circle,square
 
 ---
 

@@ -5,6 +5,7 @@ name: id-badge
 zhTips: 标识徽章,地址,联系方式,标识,许可证,配置文件
 tags: ["images","security","users-people"]
 pre: far
+search: address,contact,identification,license,profile
 
 ---
 

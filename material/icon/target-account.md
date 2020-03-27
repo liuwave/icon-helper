@@ -4,6 +4,7 @@ title: target account(目标帐户) ICON转svg、png下载
 name: target-account
 zhTips: 目标帐户,十字准线帐户,目标用户
 tags: ["account-user"]
+search: crosshairs-account,target-user
 
 ---
 

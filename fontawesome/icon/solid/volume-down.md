@@ -5,6 +5,7 @@ name: volume-down
 zhTips: 降低音量,音频,降低,音乐,更安静,声音,扬声器
 tags: ["audio-video","interfaces","music","status"]
 pre: fas
+search: audio,lower,music,quieter,sound,speaker
 
 ---
 

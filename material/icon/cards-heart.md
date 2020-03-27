@@ -4,6 +4,7 @@ title: cards heart(卡心) ICON转svg、png下载
 name: cards-heart
 zhTips: 卡心,西装心
 tags: ["gaming-rpg"]
+search: suit-hearts
 
 ---
 

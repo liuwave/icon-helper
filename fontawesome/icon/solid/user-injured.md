@@ -5,6 +5,7 @@ name: user-injured
 zhTips: 用户受伤,铸造,伤害,沙发,病人,人,吊索
 tags: ["users-people"]
 pre: fas
+search: cast,injury,ouch,patient,person,sling
 
 ---
 

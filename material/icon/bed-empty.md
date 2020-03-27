@@ -4,6 +4,7 @@ title: bed empty(床空) ICON转svg、png下载
 name: bed-empty
 zhTips: 床空
 tags: ["home-automation","holiday"]
+search: 
 
 ---
 

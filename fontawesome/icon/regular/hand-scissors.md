@@ -5,6 +5,7 @@ name: hand-scissors
 zhTips: 剪刀（手）,切,游戏,roshambo
 tags: ["hands"]
 pre: far
+search: cut,game,roshambo
 
 ---
 

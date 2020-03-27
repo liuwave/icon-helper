@@ -4,6 +4,7 @@ title: thermostat box(恒温箱) ICON转svg、png下载
 name: thermostat-box
 zhTips: 恒温箱
 tags: ["home-automation","device-tech"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: angle-down
 zhTips: 向下角,箭头,插入号,下载,扩展
 tags: ["arrows"]
 pre: fas
+search: arrow,caret,download,expand
 
 ---
 

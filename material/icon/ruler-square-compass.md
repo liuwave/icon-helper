@@ -4,6 +4,7 @@ title: ruler square compass(标尺方形指南针) ICON转svg、png下载
 name: ruler-square-compass
 zhTips: 标尺方形指南针,梅森,共济会
 tags: ["hardware-tools"]
+search: mason,masonic,freemasonry
 
 ---
 

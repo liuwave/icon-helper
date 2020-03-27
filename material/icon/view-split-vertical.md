@@ -4,6 +4,7 @@ title: view split vertical(垂直剖视图) ICON转svg、png下载
 name: view-split-vertical
 zhTips: 垂直剖视图
 tags: ["view"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: thermometer high(温度计高) ICON转svg、png下载
 name: thermometer-high
 zhTips: 温度计高
 tags: ["home-automation"]
+search: 
 
 ---
 

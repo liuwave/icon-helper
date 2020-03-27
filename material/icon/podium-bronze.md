@@ -4,6 +4,7 @@ title: podium bronze(登上领奖台的铜牌) ICON转svg、png下载
 name: podium-bronze
 zhTips: 登上领奖台的铜牌,登上领奖台的第三名
 tags: ["sport"]
+search: podium-third
 
 ---
 

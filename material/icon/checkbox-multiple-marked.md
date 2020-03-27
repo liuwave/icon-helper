@@ -4,6 +4,7 @@ title: checkbox multiple marked(多个复选框已标记) ICON转svg、png下载
 name: checkbox-multiple-marked
 zhTips: 多个复选框已标记,复选框已标记
 tags: ["form"]
+search: checkboxes-marked
 
 ---
 

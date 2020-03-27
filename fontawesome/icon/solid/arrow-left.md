@@ -5,6 +5,7 @@ name: arrow-left
 zhTips: 箭头左,后,上一个
 tags: ["arrows"]
 pre: fas
+search: back,previous
 
 ---
 

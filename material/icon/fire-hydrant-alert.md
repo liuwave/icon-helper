@@ -4,6 +4,7 @@ title: fire hydrant alert(消火栓警报) ICON转svg、png下载
 name: fire-hydrant-alert
 zhTips: 消火栓警报
 tags: ["alert-error"]
+search: 
 
 ---
 

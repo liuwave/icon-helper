@@ -5,6 +5,7 @@ name: cloud-moon-rain
 zhTips: 云雾密布,新月,傍晚,月球,夜,部分多云,降水,雨,天空,暴风雨
 tags: ["weather"]
 pre: fas
+search: crescent,evening,lunar,night,partly cloudy,precipitation,rain,sky,storm
 
 ---
 

@@ -4,6 +4,7 @@ title: lock question(锁定问题) ICON转svg、png下载
 name: lock-question
 zhTips: 锁定问题,忘记密码
 tags: ["lock"]
+search: forgot-password
 
 ---
 

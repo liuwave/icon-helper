@@ -4,6 +4,7 @@ title: bell alert(响铃警报) ICON转svg、png下载
 name: bell-alert
 zhTips: 响铃警报
 tags: ["alert-error","notification"]
+search: bell-warning
 
 ---
 

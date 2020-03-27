@@ -5,6 +5,7 @@ name: bomb
 zhTips: 炸弹,错误,爆炸,保险丝,手榴弹,警告
 tags: ["maps","objects"]
 pre: fas
+search: error,explode,fuse,grenade,warning
 
 ---
 

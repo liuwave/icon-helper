@@ -4,6 +4,7 @@ title: tooth(牙齿) ICON转svg、png下载
 name: tooth
 zhTips: 牙齿,牙医
 tags: ["medical-hospital"]
+search: dentist
 
 ---
 

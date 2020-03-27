@@ -4,6 +4,7 @@ title: battery plus(电池加) ICON转svg、png下载
 name: battery-plus
 zhTips: 电池加,省电
 tags: ["battery","home-automation"]
+search: battery-saver,battery-add
 
 ---
 

@@ -4,6 +4,7 @@ title: badge account outline(徽章帐户轮廓) ICON转svg、png下载
 name: badge-account-outline
 zhTips: 徽章帐户轮廓,用户徽章轮廓,人徽章轮廓
 tags: ["account-user"]
+search: user-badge-outline,person-badge-outline
 
 ---
 

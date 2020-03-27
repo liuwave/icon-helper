@@ -4,6 +4,7 @@ title: emoticon sad(悲伤的图释) ICON转svg、png下载
 name: emoticon-sad
 zhTips: 悲伤的图释,悲伤的笑脸
 tags: ["emoji"]
+search: smiley-sad
 
 ---
 

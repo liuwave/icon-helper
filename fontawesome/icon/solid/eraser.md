@@ -5,6 +5,7 @@ name: eraser
 zhTips: 橡皮擦,艺术,删除,橡胶
 tags: ["business","design","editors","interfaces","objects","writing"]
 pre: fas
+search: art,delete,remove,rubber
 
 ---
 

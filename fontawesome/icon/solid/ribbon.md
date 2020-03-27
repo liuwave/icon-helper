@@ -5,6 +5,7 @@ name: ribbon
 zhTips: 丝带,徽章,原因,翻领,别针
 tags: ["charity"]
 pre: fas
+search: badge,cause,lapel,pin
 
 ---
 

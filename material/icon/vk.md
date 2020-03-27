@@ -4,6 +4,7 @@ title: vk(vk) ICON转svg、png下载
 name: vk
 zhTips: vk,vkontakte
 tags: ["brand-logo"]
+search: vkontakte
 
 ---
 

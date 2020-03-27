@@ -5,6 +5,7 @@ name: pills
 zhTips: 药片,药物,处方,片剂
 tags: ["medical","pharmacy","science"]
 pre: fas
+search: drugs,medicine,prescription,tablets
 
 ---
 

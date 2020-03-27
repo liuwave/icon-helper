@@ -4,6 +4,7 @@ title: alpha x circle(alpha x圈) ICON转svg、png下载
 name: alpha-x-circle
 zhTips: alpha x圈,字母x圈
 tags: ["alpha-numeric"]
+search: alphabet-x-circle,letter-x-circle
 
 ---
 

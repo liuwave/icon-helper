@@ -4,6 +4,7 @@ title: battery alert bluetooth(电池警告蓝牙) ICON转svg、png下载
 name: battery-alert-bluetooth
 zhTips: 电池警告蓝牙
 tags: ["alert-error","battery"]
+search: battery-warning-bluetooth
 
 ---
 

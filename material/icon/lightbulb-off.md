@@ -4,6 +4,7 @@ title: lightbulb off(灯泡关闭) ICON转svg、png下载
 name: lightbulb-off
 zhTips: 灯泡关闭
 tags: ["home-automation"]
+search: bulb-off
 
 ---
 

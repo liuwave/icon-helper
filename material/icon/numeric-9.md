@@ -4,6 +4,7 @@ title: numeric 9(数字9) ICON转svg、png下载
 name: numeric-9
 zhTips: 数字9
 tags: ["alpha-numeric"]
+search: number-9,numeric-nine
 
 ---
 

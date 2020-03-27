@@ -5,6 +5,7 @@ name: drum
 zhTips: 鼓,乐器,音乐,打击乐,军鼓,声音
 tags: ["music","objects"]
 pre: fas
+search: instrument,music,percussion,snare,sound
 
 ---
 

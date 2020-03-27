@@ -4,6 +4,7 @@ title: home alert(家庭警报) ICON转svg、png下载
 name: home-alert
 zhTips: 家庭警报
 tags: ["home-automation","alert-error"]
+search: home-warning
 
 ---
 

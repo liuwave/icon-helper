@@ -5,6 +5,7 @@ name: grip-horizontal
 zhTips: 水平握柄,负担,拖动,拖放,抓斗,手柄
 tags: ["interfaces"]
 pre: fas
+search: affordance,drag,drop,grab,handle
 
 ---
 

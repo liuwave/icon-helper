@@ -5,6 +5,7 @@ name: hand-holding-usd
 zhTips: 手拿着美元,$,携带,美元符号,捐赠,给予,举起,钱,价格
 tags: ["charity","finance","hands"]
 pre: fas
+search: $,carry,dollar sign,donation,giving,lift,money,price
 
 ---
 

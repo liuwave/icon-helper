@@ -5,6 +5,7 @@ name: subway
 zhTips: 地铁,机器,铁路,火车,运输,车辆
 tags: ["maps","objects","vehicles"]
 pre: fas
+search: machine,railway,train,transportation,vehicle
 
 ---
 

@@ -5,6 +5,7 @@ name: bell
 zhTips: 铃声,警报,提示音,通知,提醒
 tags: ["alert","communication","date-time","education","household","interfaces","maps","objects","payments-shopping","social","status"]
 pre: fas
+search: alarm,alert,chime,notification,reminder
 
 ---
 

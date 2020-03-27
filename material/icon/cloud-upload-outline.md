@@ -4,6 +4,7 @@ title: cloud upload outline(云上传概述) ICON转svg、png下载
 name: cloud-upload-outline
 zhTips: 云上传概述,备份概述
 tags: ["cloud"]
+search: backup-outline
 
 ---
 

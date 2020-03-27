@@ -4,6 +4,7 @@ title: script text outline(脚本文本轮廓) ICON转svg、png下载
 name: script-text-outline
 zhTips: 脚本文本轮廓,滚动文本轮廓
 tags: ["gaming-rpg"]
+search: scroll-text-outline
 
 ---
 

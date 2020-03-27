@@ -5,6 +5,7 @@ name: bacon
 zhTips: 培根,猪肉,早餐,火腿,猪油,肉,肉馅
 tags: ["food"]
 pre: fas
+search: blt,breakfast,ham,lard,meat,pancetta,pork,rasher
 
 ---
 

@@ -4,6 +4,7 @@ title: fridge alert outline(冰箱警报轮廓) ICON转svg、png下载
 name: fridge-alert-outline
 zhTips: 冰箱警报轮廓
 tags: ["home-automation","alert-error"]
+search: 
 
 ---
 

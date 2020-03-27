@@ -5,6 +5,7 @@ name: microphone-slash
 zhTips: 麦克风斜线,音频,禁用,静音,播客,记录,唱歌,声音,语音
 tags: ["audio-video","communication","interfaces","music","status","toggle"]
 pre: fas
+search: audio,disable,mute,podcast,record,sing,sound,voice
 
 ---
 

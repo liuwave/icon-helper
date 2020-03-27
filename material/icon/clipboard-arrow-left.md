@@ -4,6 +4,7 @@ title: clipboard arrow left(向左剪贴板箭头) ICON转svg、png下载
 name: clipboard-arrow-left
 zhTips: 向左剪贴板箭头,任务返回
 tags: []
+search: assignment-return
 
 ---
 

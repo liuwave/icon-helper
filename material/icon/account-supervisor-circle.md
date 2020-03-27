@@ -4,6 +4,7 @@ title: account supervisor circle(帐户主管圈子) ICON转svg、png下载
 name: account-supervisor-circle
 zhTips: 帐户主管圈子,用户主管圈子,人主管圈子
 tags: ["account-user"]
+search: user-supervisor-circle,person-supervisor-circle
 
 ---
 

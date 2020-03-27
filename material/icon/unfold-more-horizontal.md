@@ -4,6 +4,7 @@ title: unfold more horizontal(展开更多水平) ICON转svg、png下载
 name: unfold-more-horizontal
 zhTips: 展开更多水平,人字形向下,展开水平
 tags: []
+search: chevron-up-down,expand-horizontal
 
 ---
 

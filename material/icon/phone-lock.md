@@ -4,6 +4,7 @@ title: phone lock(电话锁) ICON转svg、png下载
 name: phone-lock
 zhTips: 电话锁
 tags: ["cellphone-phone","lock"]
+search: telephone-locked,phone-locked,telephone-lock
 
 ---
 

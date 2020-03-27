@@ -4,6 +4,7 @@ title: map clock(地图时钟) ICON转svg、png下载
 name: map-clock
 zhTips: 地图时钟,时区
 tags: ["navigation","geographic-information-system"]
+search: timezone
 
 ---
 

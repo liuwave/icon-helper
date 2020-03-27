@@ -4,6 +4,7 @@ title: alphabetical variant(字母重音) ICON转svg、png下载
 name: alphabetical-variant
 zhTips: 字母重音
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

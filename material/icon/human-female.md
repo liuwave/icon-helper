@@ -4,6 +4,7 @@ title: human female(女性) ICON转svg、png下载
 name: human-female
 zhTips: 女性,女人
 tags: ["people-family"]
+search: woman
 
 ---
 

@@ -4,6 +4,7 @@ title: circle multiple(圈数) ICON转svg、png下载
 name: circle-multiple
 zhTips: 圈数,硬币
 tags: ["currency","banking"]
+search: coins
 
 ---
 

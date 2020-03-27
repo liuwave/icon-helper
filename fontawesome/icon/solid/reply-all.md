@@ -5,6 +5,7 @@ name: reply-all
 zhTips: 回复全部,邮件,消息,回复
 tags: ["arrows","editors","interfaces"]
 pre: fas
+search: mail,message,respond
 
 ---
 

@@ -5,6 +5,7 @@ name: khanda
 zhTips: Khanda,chakkar,sikh,sikhism,sword
 tags: ["religion"]
 pre: fas
+search: chakkar,sikh,sikhism,sword
 
 ---
 

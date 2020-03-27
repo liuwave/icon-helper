@@ -4,6 +4,7 @@ title: cart arrow down(购物车向下箭头) ICON转svg、png下载
 name: cart-arrow-down
 zhTips: 购物车向下箭头
 tags: ["shopping"]
+search: shopping-cart-arrow-down,trolley-arrow-down
 
 ---
 

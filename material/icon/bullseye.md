@@ -4,6 +4,7 @@ title: bullseye(靶心) ICON转svg、png下载
 name: bullseye
 zhTips: 靶心,目标
 tags: ["sport"]
+search: target
 
 ---
 

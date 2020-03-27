@@ -5,6 +5,7 @@ name: poop
 zhTips: 船尾,废话,屎,微笑,粪
 tags: ["energy","medical"]
 pre: fas
+search: crap,poop,shit,smile,turd
 
 ---
 

@@ -5,6 +5,7 @@ name: plane
 zhTips: 飞机,目的地,飞行,位置,模式,旅行
 tags: ["maps","objects","travel","vehicles"]
 pre: fas
+search: airplane,destination,fly,location,mode,travel,trip
 
 ---
 

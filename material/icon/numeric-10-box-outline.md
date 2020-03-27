@@ -4,6 +4,7 @@ title: numeric 10 box outline(数字10框轮廓) ICON转svg、png下载
 name: numeric-10-box-outline
 zhTips: 数字10框轮廓
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

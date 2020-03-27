@@ -5,6 +5,7 @@ name: tape
 zhTips: 磁带,设计,包装,粘性
 tags: ["moving"]
 pre: fas
+search: design,package,sticky
 
 ---
 

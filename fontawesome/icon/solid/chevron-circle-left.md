@@ -5,6 +5,7 @@ name: chevron-circle-left
 zhTips: Chevron Circle左,箭头,后退,上一个
 tags: ["arrows"]
 pre: fas
+search: arrow,back,previous
 
 ---
 

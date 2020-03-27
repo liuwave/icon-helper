@@ -4,6 +4,7 @@ title: doorbell(门铃) ICON转svg、png下载
 name: doorbell
 zhTips: 门铃
 tags: ["home-automation"]
+search: 
 
 ---
 

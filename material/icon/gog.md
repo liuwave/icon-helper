@@ -4,6 +4,7 @@ title: gog(gog) ICON转svg、png下载
 name: gog
 zhTips: gog,gog com
 tags: ["brand-logo","gaming-rpg"]
+search: gog-com
 
 ---
 

@@ -4,6 +4,7 @@ title: emoticon happy outline(表情符号快乐轮廓) ICON转svg、png下载
 name: emoticon-happy-outline
 zhTips: 表情符号快乐轮廓,笑脸快乐轮廓
 tags: ["emoji"]
+search: smiley-happy-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: account circle outline(帐户圈子轮廓) ICON转svg、png下载
 name: account-circle-outline
 zhTips: 帐户圈子轮廓,用户圈子轮廓,人圈子轮廓
 tags: ["account-user"]
+search: user-circle-outline,person-circle-outline
 
 ---
 

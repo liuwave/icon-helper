@@ -4,6 +4,7 @@ title: folder settings outline(文件夹设置概述) ICON转svg、png下载
 name: folder-settings-outline
 zhTips: 文件夹设置概述
 tags: ["settings","files-folders"]
+search: 
 
 ---
 

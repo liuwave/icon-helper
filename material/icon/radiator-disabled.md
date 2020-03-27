@@ -4,6 +4,7 @@ title: radiator disabled(禁用散热器) ICON转svg、png下载
 name: radiator-disabled
 zhTips: 禁用散热器,禁用加热器
 tags: []
+search: heater-disabled
 
 ---
 

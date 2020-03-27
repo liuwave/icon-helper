@@ -4,6 +4,7 @@ title: charity(慈善) ICON转svg、png下载
 name: charity
 zhTips: 慈善,永久性的超级聊天
 tags: []
+search: super-chat-for-good
 
 ---
 

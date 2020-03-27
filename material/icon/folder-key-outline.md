@@ -4,6 +4,7 @@ title: folder key outline(文件夹键概述) ICON转svg、png下载
 name: folder-key-outline
 zhTips: 文件夹键概述
 tags: ["files-folders"]
+search: 
 
 ---
 

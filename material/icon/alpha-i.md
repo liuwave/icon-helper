@@ -4,6 +4,7 @@ title: alpha i(alpha i) ICON转svg、png下载
 name: alpha-i
 zhTips: alpha i,字母i,罗马数字1
 tags: ["alpha-numeric"]
+search: alphabet-i,letter-i,roman-numeral-1
 
 ---
 

@@ -4,6 +4,7 @@ title: file alert(文件警报) ICON转svg、png下载
 name: file-alert
 zhTips: 文件警报,文件警告
 tags: ["files-folders","alert-error"]
+search: file-warning
 
 ---
 

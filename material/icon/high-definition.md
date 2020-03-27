@@ -4,6 +4,7 @@ title: high definition(高清) ICON转svg、png下载
 name: high-definition
 zhTips: 高清
 tags: ["video-movie"]
+search: hd
 
 ---
 

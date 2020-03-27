@@ -5,6 +5,7 @@ name: hourglass-half
 zhTips: 沙漏半,时,分,沙,秒表,时间
 tags: ["date-time"]
 pre: fas
+search: hour,minute,sand,stopwatch,time
 
 ---
 

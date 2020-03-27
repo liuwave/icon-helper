@@ -4,6 +4,7 @@ title: format font size decrease(格式字体大小减小) ICON转svg、png下�
 name: format-font-size-decrease
 zhTips: 格式字体大小减小
 tags: ["text-content-format"]
+search: 
 
 ---
 

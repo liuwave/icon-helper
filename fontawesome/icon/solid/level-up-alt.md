@@ -5,6 +5,7 @@ name: level-up-alt
 zhTips: 备用升级,箭头,升级
 tags: ["arrows"]
 pre: fas
+search: arrow,level-up
 
 ---
 

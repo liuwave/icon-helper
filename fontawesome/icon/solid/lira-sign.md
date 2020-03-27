@@ -5,6 +5,7 @@ name: lira-sign
 zhTips: 土耳其里拉标志,货币,钱,尝试,土耳其语
 tags: ["currency"]
 pre: fas
+search: currency,money,try,turkish
 
 ---
 

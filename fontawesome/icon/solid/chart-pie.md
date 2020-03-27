@@ -5,6 +5,7 @@ name: chart-pie
 zhTips: 饼图,分析图,图表,图形
 tags: ["business","finance"]
 pre: fas
+search: analytics,chart,diagram,graph,pie
 
 ---
 

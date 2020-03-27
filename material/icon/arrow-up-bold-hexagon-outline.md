@@ -4,6 +4,7 @@ title: arrow up bold hexagon outline(向上箭头) ICON转svg、png下载
 name: arrow-up-bold-hexagon-outline
 zhTips: 向上箭头,加粗六边形轮廓
 tags: ["arrow"]
+search: arrow-top-bold-hexagon-outline
 
 ---
 

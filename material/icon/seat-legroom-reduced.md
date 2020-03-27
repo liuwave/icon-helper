@@ -4,6 +4,7 @@ title: seat legroom reduced(腿部座位减少) ICON转svg、png下载
 name: seat-legroom-reduced
 zhTips: 腿部座位减少,航空公司腿部座位减少
 tags: []
+search: airline-seat-legroom-reduced
 
 ---
 

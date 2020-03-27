@@ -4,6 +4,7 @@ title: file swap outline(文件交换轮廓) ICON转svg、png下载
 name: file-swap-outline
 zhTips: 文件交换轮廓,文件传输轮廓
 tags: ["files-folders"]
+search: file-transfer-outline
 
 ---
 

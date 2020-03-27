@@ -4,6 +4,7 @@ title: palette(调色板) ICON转svg、png下载
 name: palette
 zhTips: 调色板,彩色透镜
 tags: ["color","drawing-art"]
+search: color-lens,colour-lens
 
 ---
 

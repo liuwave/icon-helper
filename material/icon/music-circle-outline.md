@@ -4,6 +4,7 @@ title: music circle outline(音乐圈轮廓) ICON转svg、png下载
 name: music-circle-outline
 zhTips: 音乐圈轮廓,笔记圈轮廓
 tags: ["music","audio"]
+search: note-circle-outline
 
 ---
 

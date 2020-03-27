@@ -5,6 +5,7 @@ name: layer-group
 zhTips: 图层组,排列,开发,图层,地图,堆栈
 tags: ["design","maps"]
 pre: fas
+search: arrange,develop,layers,map,stack
 
 ---
 

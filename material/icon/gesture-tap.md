@@ -4,6 +4,7 @@ title: gesture tap(手势点击) ICON转svg、png下载
 name: gesture-tap
 zhTips: 手势点击,交互点击,手拍
 tags: []
+search: interaction-tap,hand-tap
 
 ---
 

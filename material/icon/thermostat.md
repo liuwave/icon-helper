@@ -4,6 +4,7 @@ title: thermostat(恒温器) ICON转svg、png下载
 name: thermostat
 zhTips: 恒温器,巢式
 tags: ["device-tech","home-automation"]
+search: nest
 
 ---
 

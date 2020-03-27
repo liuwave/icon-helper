@@ -4,6 +4,7 @@ title: numeric 1 box multiple outline(数字1框多个轮廓) ICON转svg、png�
 name: numeric-1-box-multiple-outline
 zhTips: 数字1框多个轮廓,过滤器1,数字1框轮廓
 tags: ["alpha-numeric"]
+search: filter-1,numeric-one-box-multiple-outline,numeric-1-boxes-outline,number-1-box-multiple-outline
 
 ---
 

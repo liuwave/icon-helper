@@ -5,6 +5,7 @@ name: wrench
 zhTips: 扳手,建筑,修复,机械,管道,设置,工具,更新
 tags: ["construction","editors","interfaces","maps","objects"]
 pre: fas
+search: construction,fix,mechanic,plumbing,settings,spanner,tool,update
 
 ---
 

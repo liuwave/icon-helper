@@ -5,6 +5,7 @@ name: recycle
 zhTips: 回收,废物,垃圾,再利用
 tags: ["arrows","maps"]
 pre: fas
+search: Waste,compost,garbage,reuse,trash
 
 ---
 

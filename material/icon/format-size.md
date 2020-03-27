@@ -4,6 +4,7 @@ title: format size(格式大小) ICON转svg、png下载
 name: format-size
 zhTips: 格式大小,字体大小
 tags: ["text-content-format"]
+search: font-size
 
 ---
 

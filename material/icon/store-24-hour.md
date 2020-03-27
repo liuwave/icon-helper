@@ -4,6 +4,7 @@ title: store 24 hour(24小时商店) ICON转svg、png下载
 name: store-24-hour
 zhTips: 24小时商店,当地便利店
 tags: ["places","shopping"]
+search: local-convenience-store,shop-24-hour
 
 ---
 

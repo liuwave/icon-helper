@@ -4,6 +4,7 @@ title: pin(固定) ICON转svg、png下载
 name: pin
 zhTips: 固定
 tags: []
+search: keep
 
 ---
 

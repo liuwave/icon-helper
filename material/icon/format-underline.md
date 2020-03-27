@@ -4,6 +4,7 @@ title: format underline(下划线格式) ICON转svg、png下载
 name: format-underline
 zhTips: 下划线格式
 tags: ["text-content-format"]
+search: format-underlined
 
 ---
 

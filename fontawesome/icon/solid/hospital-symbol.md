@@ -5,6 +5,7 @@ name: hospital-symbol
 zhTips: 医院符号,诊所,covid 19,紧急情况,地图
 tags: ["medical"]
 pre: fas
+search: clinic,covid-19,emergency,map
 
 ---
 

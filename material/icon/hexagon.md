@@ -4,6 +4,7 @@ title: hexagon(六角形) ICON转svg、png下载
 name: hexagon
 zhTips: 六角形
 tags: ["shape"]
+search: 
 
 ---
 

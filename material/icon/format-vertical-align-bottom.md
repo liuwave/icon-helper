@@ -4,6 +4,7 @@ title: format vertical align bottom(格式垂直对齐底部) ICON转svg、png�
 name: format-vertical-align-bottom
 zhTips: 格式垂直对齐底部
 tags: ["text-content-format"]
+search: 
 
 ---
 

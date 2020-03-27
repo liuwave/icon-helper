@@ -5,6 +5,7 @@ name: fast-backward
 zhTips: 快退,开始,第一,上一个,倒带
 tags: ["audio-video"]
 pre: fas
+search: beginning,first,previous,rewind,start
 
 ---
 

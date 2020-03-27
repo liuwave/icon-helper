@@ -4,6 +4,7 @@ title: cash(现金) ICON转svg、png下载
 name: cash
 zhTips: 现金,金钱
 tags: ["currency","banking","shopping"]
+search: money
 
 ---
 

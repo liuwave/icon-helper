@@ -4,6 +4,7 @@ title: book alphabet(书的字母) ICON转svg、png下载
 name: book-alphabet
 zhTips: 书的字母,字典
 tags: []
+search: dictionary
 
 ---
 

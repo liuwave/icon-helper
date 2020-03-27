@@ -4,6 +4,7 @@ title: timer sand full(计时器沙子已满) ICON转svg、png下载
 name: timer-sand-full
 zhTips: 计时器沙子已满,沙漏已满
 tags: ["date-time"]
+search: hourglass-full
 
 ---
 

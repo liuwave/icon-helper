@@ -5,6 +5,7 @@ name: phone-volume
 zhTips: 电话音量,通话,耳机,号码,声音,支持,电话,语音,音量控制电话
 tags: ["accessibility","audio-video","business","communication","maps"]
 pre: fas
+search: call,earphone,number,sound,support,telephone,voice,volume-control-phone
 
 ---
 

@@ -4,6 +4,7 @@ title: truck(卡车) ICON转svg、png下载
 name: truck
 zhTips: 卡车,货车,当地运输,快递
 tags: ["transportation-road"]
+search: lorry,local-shipping,courier
 
 ---
 

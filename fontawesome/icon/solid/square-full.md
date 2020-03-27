@@ -5,6 +5,7 @@ name: square-full
 zhTips: 平方满,块,框,形状
 tags: ["chess"]
 pre: fas
+search: block,box,shape
 
 ---
 

@@ -4,6 +4,7 @@ title: angle right(直角) ICON转svg、png下载
 name: angle-right
 zhTips: 直角
 tags: ["math"]
+search: 
 
 ---
 

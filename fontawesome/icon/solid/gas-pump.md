@@ -5,6 +5,7 @@ name: gas-pump
 zhTips: 加油泵,汽车,燃料,汽油
 tags: ["automotive","energy","status"]
 pre: fas
+search: car,fuel,gasoline,petrol
 
 ---
 

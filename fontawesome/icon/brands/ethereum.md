@@ -5,6 +5,7 @@ name: ethereum
 zhTips: 以太坊
 tags: ["currency","payments-shopping"]
 pre: fab
+search: 
 
 ---
 

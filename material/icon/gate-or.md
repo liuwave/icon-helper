@@ -4,6 +4,7 @@ title: gate or(门或) ICON转svg、png下载
 name: gate-or
 zhTips: 门或,逻辑门或
 tags: []
+search: logic-gate-or
 
 ---
 

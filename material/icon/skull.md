@@ -4,6 +4,7 @@ title: skull(头骨) ICON转svg、png下载
 name: skull
 zhTips: 头骨
 tags: ["holiday","gaming-rpg"]
+search: 
 
 ---
 

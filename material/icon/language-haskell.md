@@ -4,6 +4,7 @@ title: language haskell(语言haskell) ICON转svg、png下载
 name: language-haskell
 zhTips: 语言haskell
 tags: ["developer-languages"]
+search: 
 
 ---
 

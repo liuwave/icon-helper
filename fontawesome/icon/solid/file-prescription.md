@@ -5,6 +5,7 @@ name: file-prescription
 zhTips: 文件处方,文档,药品,医疗,药物,rx
 tags: ["medical","objects","pharmacy"]
 pre: fas
+search: document,drugs,medical,medicine,rx
 
 ---
 

@@ -4,6 +4,7 @@ title: alpha d circle(字母d圈) ICON转svg、png下载
 name: alpha-d-circle
 zhTips: 字母d圈
 tags: ["alpha-numeric"]
+search: alphabet-d-circle,letter-d-circle
 
 ---
 

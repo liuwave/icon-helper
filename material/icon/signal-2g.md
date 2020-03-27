@@ -4,6 +4,7 @@ title: signal 2g(2g信号) ICON转svg、png下载
 name: signal-2g
 zhTips: 2g信号
 tags: ["cellphone-phone"]
+search: 
 
 ---
 

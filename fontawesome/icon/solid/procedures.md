@@ -5,6 +5,7 @@ name: procedures
 zhTips: 程序,心电图,床,健康,医院,生活,病人,重要
 tags: ["medical"]
 pre: fas
+search: EKG,bed,electrocardiogram,health,hospital,life,patient,vital
 
 ---
 

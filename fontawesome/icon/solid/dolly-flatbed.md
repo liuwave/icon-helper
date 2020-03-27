@@ -5,6 +5,7 @@ name: dolly-flatbed
 zhTips: 多莉平板车,运载,库存,运输
 tags: ["logistics"]
 pre: fas
+search: carry,inventory,shipping,transport
 
 ---
 

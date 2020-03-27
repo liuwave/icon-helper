@@ -4,6 +4,7 @@ title: text box search(文本框搜索) ICON转svg、png下载
 name: text-box-search
 zhTips: 文本框搜索,文件文档框搜索
 tags: ["files-folders"]
+search: file-document-box-search
 
 ---
 

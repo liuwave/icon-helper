@@ -4,6 +4,7 @@ title: file send(文件发送) ICON转svg、png下载
 name: file-send
 zhTips: 文件发送,文件移动
 tags: ["files-folders"]
+search: file-move
 
 ---
 

@@ -4,6 +4,7 @@ title: certificate outline(证书轮廓) ICON转svg、png下载
 name: certificate-outline
 zhTips: 证书轮廓,文凭轮廓,印章轮廓
 tags: []
+search: diploma-outline,seal-outline
 
 ---
 

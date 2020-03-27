@@ -4,6 +4,7 @@ title: arrow top right bold outline(右上角粗体箭头) ICON转svg、png下�
 name: arrow-top-right-bold-outline
 zhTips: 右上角粗体箭头
 tags: ["arrow"]
+search: arrow-up-right-bold-outline
 
 ---
 

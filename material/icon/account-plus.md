@@ -4,6 +4,7 @@ title: account plus(帐户加号) ICON转svg、png下载
 name: account-plus
 zhTips: 帐户加号,注册,用户加号,人员添加,人员加号,用户添加,邀请
 tags: ["account-user","home-automation"]
+search: register,user-plus,person-add,account-add,person-plus,user-add,invite
 
 ---
 

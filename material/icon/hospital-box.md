@@ -4,6 +4,7 @@ title: hospital box(医院医疗箱) ICON转svg、png下载
 name: hospital-box
 zhTips: 医院医疗箱,当地医院,瑞士十字医疗箱
 tags: ["medical-hospital"]
+search: local-hospital,swiss-cross-box
 
 ---
 

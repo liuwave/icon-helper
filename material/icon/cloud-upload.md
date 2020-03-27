@@ -4,6 +4,7 @@ title: cloud upload(云上传) ICON转svg、png下载
 name: cloud-upload
 zhTips: 云上传,备份
 tags: ["cloud"]
+search: backup
 
 ---
 

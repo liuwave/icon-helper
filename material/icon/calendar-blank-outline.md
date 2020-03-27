@@ -4,6 +4,7 @@ title: calendar blank outline(日历空白轮廓) ICON转svg、png下载
 name: calendar-blank-outline
 zhTips: 日历空白轮廓,事件空白轮廓
 tags: ["date-time"]
+search: event-blank-outline
 
 ---
 

@@ -5,6 +5,7 @@ name: lastfm
 zhTips: last.fm
 tags: []
 pre: fab
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: nintendo switch(nintendo交换机) ICON转svg、png下载
 name: nintendo-switch
 zhTips: nintendo交换机,nintendo交换机在线
 tags: ["brand-logo"]
+search: nintendo-switch-online
 
 ---
 

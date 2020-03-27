@@ -5,6 +5,7 @@ name: key
 zhTips: 密钥,锁,密码,私有,秘密,解锁
 tags: ["hotel","maps","objects","payments-shopping","security"]
 pre: fas
+search: lock,password,private,secret,unlock
 
 ---
 

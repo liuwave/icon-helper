@@ -4,6 +4,7 @@ title: book music(音乐书籍) ICON转svg、png下载
 name: book-music
 zhTips: 音乐书籍,有声书籍
 tags: ["audio"]
+search: audio-book
 
 ---
 

@@ -4,6 +4,7 @@ title: clipboard alert outline(剪贴板警报轮廓) ICON转svg、png下载
 name: clipboard-alert-outline
 zhTips: 剪贴板警报轮廓,剪贴板警告轮廓
 tags: ["alert-error"]
+search: clipboard-warning-outline
 
 ---
 

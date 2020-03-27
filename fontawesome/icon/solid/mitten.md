@@ -5,6 +5,7 @@ name: mitten
 zhTips: 手套,服装,衣服,冷手套,手,针织,季节性,保暖
 tags: ["childhood","clothing","objects","winter"]
 pre: fas
+search: clothing,cold,glove,hands,knitted,seasonal,warmth
 
 ---
 

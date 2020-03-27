@@ -4,6 +4,7 @@ title: database minus(数据库减号) ICON转svg、png下载
 name: database-minus
 zhTips: 数据库减号
 tags: ["geographic-information-system"]
+search: 
 
 ---
 

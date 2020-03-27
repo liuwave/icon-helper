@@ -4,6 +4,7 @@ title: tooltip plus outline(工具提示加轮廓) ICON转svg、png下载
 name: tooltip-plus-outline
 zhTips: 工具提示加轮廓
 tags: ["tooltip"]
+search: tooltip-outline-plus,tooltip-add-outline
 
 ---
 

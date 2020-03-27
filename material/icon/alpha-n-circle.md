@@ -4,6 +4,7 @@ title: alpha n circle(alpha n圈) ICON转svg、png下载
 name: alpha-n-circle
 zhTips: alpha n圈,字母n圈
 tags: ["alpha-numeric"]
+search: alphabet-n-circle,letter-n-circle
 
 ---
 

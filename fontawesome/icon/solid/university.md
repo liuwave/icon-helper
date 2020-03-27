@@ -5,6 +5,7 @@ name: university
 zhTips: 大学,银行,建筑,学院,高等教育学生,机构
 tags: ["buildings","maps","objects"]
 pre: fas
+search: bank,building,college,higher education - students,institution
 
 ---
 

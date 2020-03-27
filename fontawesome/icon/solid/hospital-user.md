@@ -5,6 +5,7 @@ name: hospital-user
 zhTips: 带用户的医院,共济会19,医生,网络,患者,初级保健
 tags: ["buildings","medical"]
 pre: fas
+search: covid-19,doctor,network,patient,primary care
 
 ---
 

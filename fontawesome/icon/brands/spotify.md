@@ -5,6 +5,7 @@ name: spotify
 zhTips: Spotify
 tags: ["music"]
 pre: fab
+search: 
 
 ---
 

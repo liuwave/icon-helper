@@ -4,6 +4,7 @@ title: tape measure(卷尺) ICON转svg、png下载
 name: tape-measure
 zhTips: 卷尺
 tags: ["hardware-tools"]
+search: measuring-tape
 
 ---
 

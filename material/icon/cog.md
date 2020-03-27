@@ -4,6 +4,7 @@ title: cog(齿轮) ICON转svg、png下载
 name: cog
 zhTips: 齿轮
 tags: ["settings"]
+search: cog,gear
 
 ---
 

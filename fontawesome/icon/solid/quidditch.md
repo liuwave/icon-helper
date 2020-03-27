@@ -5,6 +5,7 @@ name: quidditch
 zhTips: Quidditch,球,打蛋器,扫帚,金色告密者,哈利·波特,霍格沃茨,四肢,运动,奇才
 tags: ["sports"]
 pre: fas
+search: ball,bludger,broom,golden snitch,harry potter,hogwarts,quaffle,sport,wizard
 
 ---
 

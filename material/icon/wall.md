@@ -4,6 +4,7 @@ title: wall(墙壁) ICON转svg、png下载
 name: wall
 zhTips: 墙壁,砖头
 tags: []
+search: bricks
 
 ---
 

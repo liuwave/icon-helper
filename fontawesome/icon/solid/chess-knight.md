@@ -5,6 +5,7 @@ name: chess-knight
 zhTips: 国际象棋骑士,棋盘,将军,游戏,马,战略
 tags: ["chess","games"]
 pre: fas
+search: board,checkmate,game,horse,strategy
 
 ---
 

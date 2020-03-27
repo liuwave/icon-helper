@@ -4,6 +4,7 @@ title: thermometer lines(温度计线) ICON转svg、png下载
 name: thermometer-lines
 zhTips: 温度计线
 tags: ["weather","home-automation"]
+search: 
 
 ---
 

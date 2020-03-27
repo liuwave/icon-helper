@@ -4,6 +4,7 @@ title: lightbulb multiple(灯泡) ICON转svg、png下载
 name: lightbulb-multiple
 zhTips: 灯泡,多个灯泡
 tags: ["home-automation"]
+search: lightbulbs,bulb-multiple,bulbs
 
 ---
 

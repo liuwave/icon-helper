@@ -4,6 +4,7 @@ title: noodles(面条) ICON转svg、png下载
 name: noodles
 zhTips: 面条,食品拉面,亚洲面条
 tags: ["food-drink"]
+search: food-ramen,asian-noodles
 
 ---
 

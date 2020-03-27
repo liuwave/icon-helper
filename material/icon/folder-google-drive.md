@@ -4,6 +4,7 @@ title: folder google drive(文件夹google驱动器) ICON转svg、png下载
 name: folder-google-drive
 zhTips: 文件夹google驱动器,文件夹mydrive
 tags: ["files-folders"]
+search: folder-mydrive
 
 ---
 

@@ -4,6 +4,7 @@ title: calendar check(日历检查) ICON转svg、png下载
 name: calendar-check
 zhTips: 日历检查,可用事件,日历任务,日历刻度,事件刻度,事件检查
 tags: ["date-time"]
+search: event-available,calendar-task,calendar-tick,event-tick,event-check
 
 ---
 

@@ -4,6 +4,7 @@ title: file key outline(文件密钥概述) ICON转svg、png下载
 name: file-key-outline
 zhTips: 文件密钥概述
 tags: ["files-folders"]
+search: 
 
 ---
 

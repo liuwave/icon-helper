@@ -4,6 +4,7 @@ title: email plus(电子邮件加) ICON转svg、png下载
 name: email-plus
 zhTips: 电子邮件加,电子邮件添加,信封添加,信封加
 tags: []
+search: email-add,envelope-add,envelope-plus
 
 ---
 

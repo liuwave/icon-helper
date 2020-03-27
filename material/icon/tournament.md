@@ -4,6 +4,7 @@ title: tournament(比赛) ICON转svg、png下载
 name: tournament
 zhTips: 比赛,托架
 tags: ["gaming-rpg","sport"]
+search: bracket
 
 ---
 

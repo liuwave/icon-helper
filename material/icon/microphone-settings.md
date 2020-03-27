@@ -4,6 +4,7 @@ title: microphone settings(麦克风设置) ICON转svg、png下载
 name: microphone-settings
 zhTips: 麦克风设置,语音设置
 tags: ["settings"]
+search: settings-voice
 
 ---
 

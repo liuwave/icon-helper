@@ -4,6 +4,7 @@ title: seat individual suite(座位独立套件) ICON转svg、png下载
 name: seat-individual-suite
 zhTips: 座位独立套件,航空公司座位独立套件
 tags: []
+search: airline-seat-individual-suite
 
 ---
 

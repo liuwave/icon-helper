@@ -4,6 +4,7 @@ title: ruler square(直尺广场) ICON转svg、png下载
 name: ruler-square
 zhTips: 直尺广场,广场,木工,建筑
 tags: ["hardware-tools","drawing-art"]
+search: square,carpentry,architecture
 
 ---
 

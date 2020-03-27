@@ -5,6 +5,7 @@ name: bezier-curve
 zhTips: Bezier曲线,曲线,插画,线条,路径,矢量图
 tags: ["design"]
 pre: fas
+search: curves,illustrator,lines,path,vector
 
 ---
 

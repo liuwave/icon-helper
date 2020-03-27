@@ -4,6 +4,7 @@ title: thermometer minus(温度计减去) ICON转svg、png下载
 name: thermometer-minus
 zhTips: 温度计减去
 tags: ["home-automation"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: hexagon multiple(六角形六边形) ICON转svg、png下载
 name: hexagon-multiple
 zhTips: 六角形六边形
 tags: ["shape"]
+search: hexagons
 
 ---
 

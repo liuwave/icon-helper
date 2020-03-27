@@ -5,6 +5,7 @@ name: arrow-alt-circle-up
 zhTips: 备用箭头向上,箭头向上
 tags: ["arrows"]
 pre: fas
+search: arrow-circle-o-up
 
 ---
 

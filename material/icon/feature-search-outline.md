@@ -4,6 +4,7 @@ title: feature search outline(特征搜索轮廓) ICON转svg、png下载
 name: feature-search-outline
 zhTips: 特征搜索轮廓,框,框轮廓,框搜索轮廓
 tags: []
+search: box,box-outline,box-search-outline
 
 ---
 

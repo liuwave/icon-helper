@@ -4,6 +4,7 @@ title: subway variant(地铁口音) ICON转svg、png下载
 name: subway-variant
 zhTips: 地铁口音,地铁变体,地下口音,地铁路线,公交路线
 tags: ["transportation-other"]
+search: metro-variant,tube-variant,underground-variant,directions-subway,directions-transit
 
 ---
 

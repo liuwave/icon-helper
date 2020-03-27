@@ -4,6 +4,7 @@ title: calendar edit(日历编辑) ICON转svg、png下载
 name: calendar-edit
 zhTips: 日历编辑,事件编辑
 tags: ["date-time","edit-modify"]
+search: event-edit
 
 ---
 

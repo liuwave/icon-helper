@@ -5,6 +5,7 @@ name: oil-can
 zhTips: 机油罐,汽车,原油,汽油,油脂,润滑,石油
 tags: ["automotive"]
 pre: fas
+search: auto,crude,gasoline,grease,lubricate,petroleum
 
 ---
 

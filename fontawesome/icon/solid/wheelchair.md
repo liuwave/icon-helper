@@ -5,6 +5,7 @@ name: wheelchair
 zhTips: 轮椅,可访问,残障,人
 tags: ["accessibility","health","hotel","maps","objects","users-people","vehicles"]
 pre: fas
+search: accessible,handicap,person
 
 ---
 

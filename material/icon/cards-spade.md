@@ -4,6 +4,7 @@ title: cards spade(卡锹) ICON转svg、png下载
 name: cards-spade
 zhTips: 卡锹,西装锹
 tags: ["gaming-rpg"]
+search: suit-spades
 
 ---
 

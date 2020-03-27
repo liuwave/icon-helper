@@ -4,6 +4,7 @@ title: lock reset(锁定重置) ICON转svg、png下载
 name: lock-reset
 zhTips: 锁定重置,密码重置
 tags: ["lock"]
+search: password-reset
 
 ---
 

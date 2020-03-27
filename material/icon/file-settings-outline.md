@@ -4,6 +4,7 @@ title: file settings outline(文件设置概述) ICON转svg、png下载
 name: file-settings-outline
 zhTips: 文件设置概述
 tags: ["settings","files-folders"]
+search: 
 
 ---
 

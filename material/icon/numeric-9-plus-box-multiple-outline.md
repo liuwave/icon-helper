@@ -4,6 +4,7 @@ title: numeric 9 plus box multiple outline(数字9加框多重轮廓) ICON转svg
 name: numeric-9-plus-box-multiple-outline
 zhTips: 数字9加框多重轮廓
 tags: ["alpha-numeric"]
+search: filter-9-plus,numeric-nine-plus-box-multiple-outline,numeric-9-plus-boxes-outline,number-9-plus-box-multiple-outline
 
 ---
 

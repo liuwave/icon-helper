@@ -5,6 +5,7 @@ name: shopping-cart
 zhTips: 购物车,购买,结帐,杂货,付款
 tags: ["maps","objects","payments-shopping","shopping","status","vehicles"]
 pre: fas
+search: buy,checkout,grocery,payment,purchase
 
 ---
 

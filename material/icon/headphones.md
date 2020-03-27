@@ -4,6 +4,7 @@ title: headphones(耳机) ICON转svg、png下载
 name: headphones
 zhTips: 耳机,耳麦
 tags: ["audio","device-tech","music"]
+search: headset
 
 ---
 

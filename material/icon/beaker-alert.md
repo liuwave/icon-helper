@@ -4,6 +4,7 @@ title: beaker alert(烧杯警报) ICON转svg、png下载
 name: beaker-alert
 zhTips: 烧杯警报
 tags: ["alert-error","science"]
+search: 
 
 ---
 

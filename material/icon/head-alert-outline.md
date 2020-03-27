@@ -4,6 +4,7 @@ title: head alert outline(头部警报概述) ICON转svg、png下载
 name: head-alert-outline
 zhTips: 头部警报概述
 tags: ["alert-error"]
+search: 
 
 ---
 

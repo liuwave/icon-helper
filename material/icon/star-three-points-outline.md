@@ -4,6 +4,7 @@ title: star three points outline(明星三分轮廓) ICON转svg、png下载
 name: star-three-points-outline
 zhTips: 明星三分轮廓
 tags: ["shape"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: alpha m(alpha m) ICON转svg、png下载
 name: alpha-m
 zhTips: alpha m,字母m
 tags: ["alpha-numeric"]
+search: alphabet-m,letter-m
 
 ---
 

@@ -4,6 +4,7 @@ title: folder table outline(文件夹表轮廓) ICON转svg、png下载
 name: folder-table-outline
 zhTips: 文件夹表轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

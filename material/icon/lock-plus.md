@@ -4,6 +4,7 @@ title: lock plus(加锁) ICON转svg、png下载
 name: lock-plus
 zhTips: 加锁,增强加密
 tags: ["lock"]
+search: enhanced-encryption,lock-add
 
 ---
 

@@ -5,6 +5,7 @@ name: piggy-bank
 zhTips: 存钱罐,银行,储蓄
 tags: ["charity","finance","political"]
 pre: fas
+search: bank,save,savings
 
 ---
 

@@ -4,6 +4,7 @@ title: text box multiple(文本框多个) ICON转svg、png下载
 name: text-box-multiple
 zhTips: 文本框多个,文件文件框,文件文件框多个
 tags: ["files-folders"]
+search: file-document-boxes,file-document-box-multiple
 
 ---
 

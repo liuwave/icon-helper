@@ -4,6 +4,7 @@ title: dots horizontal circle outline(点水平圆轮廓) ICON转svg、png下载
 name: dots-horizontal-circle-outline
 zhTips: 点水平圆轮廓,省略号水平圆轮廓,更多圆轮廓,菜单
 tags: []
+search: ellipsis-horizontal-circle-outline,more-circle-outline,menu
 
 ---
 

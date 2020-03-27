@@ -5,6 +5,7 @@ name: paperclip
 zhTips: 回形针,附件,连接,链接
 tags: ["business","editors","objects","writing"]
 pre: fas
+search: attach,attachment,connect,link
 
 ---
 

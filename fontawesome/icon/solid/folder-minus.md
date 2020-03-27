@@ -5,6 +5,7 @@ name: folder-minus
 zhTips: 文件夹减号,归档文件,删除文件,目录,文档,文件,负文件,删除
 tags: ["business"]
 pre: fas
+search: archive,delete,directory,document,file,negative,remove
 
 ---
 

@@ -5,6 +5,7 @@ name: firefox-browser
 zhTips: Firefox浏览器,浏览器
 tags: []
 pre: fab
+search: browser
 
 ---
 

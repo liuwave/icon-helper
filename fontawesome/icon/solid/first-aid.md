@@ -5,6 +5,7 @@ name: first-aid
 zhTips: 急救,紧急情况,健康,医疗,救援
 tags: ["camping","medical","pharmacy"]
 pre: fas
+search: emergency,emt,health,medical,rescue
 
 ---
 

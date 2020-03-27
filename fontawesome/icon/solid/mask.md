@@ -5,6 +5,7 @@ name: mask
 zhTips: 面具,狂欢节,服装,伪装,万圣节,秘密,超级英雄
 tags: ["halloween","security"]
 pre: fas
+search: carnivale,costume,disguise,halloween,secret,super hero
 
 ---
 

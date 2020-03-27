@@ -5,6 +5,7 @@ name: om
 zhTips: Om,佛教,印度教,ja那教,真言
 tags: ["religion"]
 pre: fas
+search: buddhism,hinduism,jainism,mantra
 
 ---
 

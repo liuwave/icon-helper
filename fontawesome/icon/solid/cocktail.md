@@ -5,6 +5,7 @@ name: cocktail
 zhTips: 鸡尾酒,酒精,饮料,杜松子酒,玻璃,玛格丽塔酒,马提尼酒,伏特加酒
 tags: ["beverage","hotel","travel"]
 pre: fas
+search: alcohol,beverage,drink,gin,glass,margarita,martini,vodka
 
 ---
 

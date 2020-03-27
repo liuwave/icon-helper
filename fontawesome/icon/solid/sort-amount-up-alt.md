@@ -5,6 +5,7 @@ name: sort-amount-up-alt
 zhTips: 备用分类金额增加,排列,过滤,顺序,分类金额描述
 tags: ["arrows","interfaces"]
 pre: fas
+search: arrange,filter,order,sort-amount-desc
 
 ---
 

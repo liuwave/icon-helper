@@ -4,6 +4,7 @@ title: alpha v box(字母v框) ICON转svg、png下载
 name: alpha-v-box
 zhTips: 字母v框
 tags: ["alpha-numeric"]
+search: alphabet-v-box,letter-v-box
 
 ---
 

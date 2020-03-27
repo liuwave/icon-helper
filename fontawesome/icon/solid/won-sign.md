@@ -5,6 +5,7 @@ name: won-sign
 zhTips: 韩元符号,货币,krw,钱
 tags: ["currency"]
 pre: fas
+search: currency,krw,money
 
 ---
 

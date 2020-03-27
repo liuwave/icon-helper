@@ -5,6 +5,7 @@ name: hammer
 zhTips: 锤,管理员,修复,设置,工具
 tags: ["construction"]
 pre: fas
+search: admin,fix,repair,settings,tool
 
 ---
 

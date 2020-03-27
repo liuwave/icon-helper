@@ -5,6 +5,7 @@ name: baseball-ball
 zhTips: 棒球,犯规,硬球,联赛,皮革,MLB,垒球,体育
 tags: ["sports"]
 pre: fas
+search: foul,hardball,league,leather,mlb,softball,sport
 
 ---
 

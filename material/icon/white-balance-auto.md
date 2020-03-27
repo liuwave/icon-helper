@@ -4,6 +4,7 @@ title: white balance auto(白平衡自动) ICON转svg、png下载
 name: white-balance-auto
 zhTips: 白平衡自动,wb自动
 tags: ["photography"]
+search: wb-auto
 
 ---
 

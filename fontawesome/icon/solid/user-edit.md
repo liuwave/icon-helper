@@ -5,6 +5,7 @@ name: user-edit
 zhTips: 用户编辑,编辑,笔,铅笔,人,更新,编写
 tags: ["users-people"]
 pre: fas
+search: edit,pen,pencil,person,update,write
 
 ---
 

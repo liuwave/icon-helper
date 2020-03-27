@@ -4,6 +4,7 @@ title: head alert(头部警报) ICON转svg、png下载
 name: head-alert
 zhTips: 头部警报
 tags: ["alert-error"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: asterisk
 zhTips: 星号,注释,详细信息,参考,星级
 tags: ["spinners"]
 pre: fas
+search: annotation,details,reference,star
 
 ---
 

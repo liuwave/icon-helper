@@ -4,6 +4,7 @@ title: folder account(文件夹帐户) ICON转svg、png下载
 name: folder-account
 zhTips: 文件夹帐户,用户文件夹,共享文件夹
 tags: ["account-user","files-folders"]
+search: folder-user,folder-shared
 
 ---
 

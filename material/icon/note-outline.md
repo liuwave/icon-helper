@@ -4,6 +4,7 @@ title: note outline(笔记轮廓) ICON转svg、png下载
 name: note-outline
 zhTips: 笔记轮廓,论文轮廓
 tags: []
+search: paper-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: approximately equal(大约相等) ICON转svg、png下载
 name: approximately-equal
 zhTips: 大约相等
 tags: ["math"]
+search: 
 
 ---
 

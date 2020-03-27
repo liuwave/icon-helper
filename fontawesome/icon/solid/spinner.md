@@ -5,6 +5,7 @@ name: spinner
 zhTips: 旋转器,圆,加载,进度
 tags: ["spinners"]
 pre: fas
+search: circle,loading,progress
 
 ---
 

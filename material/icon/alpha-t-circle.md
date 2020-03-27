@@ -4,6 +4,7 @@ title: alpha t circle(alpha t圆) ICON转svg、png下载
 name: alpha-t-circle
 zhTips: alpha t圆,字母t圆
 tags: ["alpha-numeric"]
+search: alphabet-t-circle,letter-t-circle
 
 ---
 

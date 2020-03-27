@@ -4,6 +4,7 @@ title: map legend(图例地图) ICON转svg、png下载
 name: map-legend
 zhTips: 图例地图
 tags: ["navigation","geographic-information-system"]
+search: 
 
 ---
 

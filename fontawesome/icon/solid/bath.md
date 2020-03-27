@@ -5,6 +5,7 @@ name: bath
 zhTips: 浴,清洁,淋浴,浴缸,洗
 tags: ["childhood","code","hotel","household","maps","objects"]
 pre: fas
+search: clean,shower,tub,wash
 
 ---
 

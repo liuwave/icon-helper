@@ -5,6 +5,7 @@ name: trophy
 zhTips: 奖杯,成就,奖项,杯,游戏,获胜者
 tags: ["interfaces","maps","objects","payments-shopping"]
 pre: fas
+search: achievement,award,cup,game,winner
 
 ---
 

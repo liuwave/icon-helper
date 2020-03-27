@@ -4,6 +4,7 @@ title: currency eur(货币) ICON转svg、png下载
 name: currency-eur
 zhTips: 货币,欧元,欧元符号
 tags: ["currency","banking"]
+search: euro,euro-symbol
 
 ---
 

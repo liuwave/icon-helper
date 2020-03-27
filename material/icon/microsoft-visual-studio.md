@@ -4,6 +4,7 @@ title: microsoft visual studio(Microsoft Visual Studio) ICON转svg、png下载
 name: microsoft-visual-studio
 zhTips: Microsoft Visual Studio,VisualStudio
 tags: ["brand-logo"]
+search: visualstudio
 
 ---
 

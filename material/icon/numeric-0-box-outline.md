@@ -4,6 +4,7 @@ title: numeric 0 box outline(数字0框轮廓) ICON转svg、png下载
 name: numeric-0-box-outline
 zhTips: 数字0框轮廓
 tags: ["alpha-numeric"]
+search: numeric-zero-box-outline,number-0-box-outline
 
 ---
 

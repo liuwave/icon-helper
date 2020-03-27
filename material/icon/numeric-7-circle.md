@@ -4,6 +4,7 @@ title: numeric 7 circle(数字7圈) ICON转svg、png下载
 name: numeric-7-circle
 zhTips: 数字7圈
 tags: ["alpha-numeric"]
+search: numeric-seven-circle,number-7-circle,number-seven-circle
 
 ---
 

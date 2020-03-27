@@ -4,6 +4,7 @@ title: face recognition(面部识别) ICON转svg、png下载
 name: face-recognition
 zhTips: 面部识别,扫描
 tags: ["photography"]
+search: facial-recognition,scan
 
 ---
 

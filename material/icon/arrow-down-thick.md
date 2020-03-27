@@ -4,6 +4,7 @@ title: arrow down thick(箭头向下较粗) ICON转svg、png下载
 name: arrow-down-thick
 zhTips: 箭头向下较粗,箭头底部较粗
 tags: ["arrow"]
+search: arrow-bottom-thick
 
 ---
 

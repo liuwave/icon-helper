@@ -5,6 +5,7 @@ name: magnet
 zhTips: 磁铁,吸引物,磁铁矿,工具
 tags: ["maps","objects","science"]
 pre: fas
+search: Attract,lodestone,tool
 
 ---
 

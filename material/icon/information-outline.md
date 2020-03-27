@@ -4,6 +4,7 @@ title: information outline(信息轮廓) ICON转svg、png下载
 name: information-outline
 zhTips: 信息轮廓,关于轮廓,信息圆圈轮廓,关于圆圈轮廓
 tags: []
+search: info-outline,about-outline,information-circle-outline,info-circle-outline,about-circle-outline
 
 ---
 

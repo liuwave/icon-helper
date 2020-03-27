@@ -5,6 +5,7 @@ name: greater-than
 zhTips: 大于,算术,比较
 tags: ["mathematics"]
 pre: fas
+search: arithmetic,compare,math
 
 ---
 

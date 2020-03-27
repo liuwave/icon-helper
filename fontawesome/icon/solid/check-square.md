@@ -5,6 +5,7 @@ name: check-square
 zhTips: 检查正方形,接受,同意,选中标记,确认,正确,完成,确定,选择,成功,刻度,待办事项,是
 tags: ["interfaces"]
 pre: fas
+search: accept,agree,checkmark,confirm,correct,done,ok,select,success,tick,todo,yes
 
 ---
 

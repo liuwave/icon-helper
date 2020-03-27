@@ -4,6 +4,7 @@ title: human female girl(人类女性女孩) ICON转svg、png下载
 name: human-female-girl
 zhTips: 人类女性女孩,母亲,妈妈,女童
 tags: ["people-family"]
+search: mother,mom,woman-child,mum
 
 ---
 

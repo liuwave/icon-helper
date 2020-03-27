@@ -4,6 +4,7 @@ title: table column remove(表列删除) ICON转svg、png下载
 name: table-column-remove
 zhTips: 表列删除
 tags: ["text-content-format"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: long-arrow-alt-down
 zhTips: 备用长箭头向下,下载,长箭头向下
 tags: ["arrows"]
 pre: fas
+search: download,long-arrow-down
 
 ---
 

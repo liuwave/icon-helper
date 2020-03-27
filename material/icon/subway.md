@@ -4,6 +4,7 @@ title: subway(地铁) ICON转svg、png下载
 name: subway
 zhTips: 地铁,地下
 tags: ["transportation-other"]
+search: metro,tube,underground
 
 ---
 

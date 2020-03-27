@@ -4,6 +4,7 @@ title: arrow vertical lock(箭头垂直锁) ICON转svg、png下载
 name: arrow-vertical-lock
 zhTips: 箭头垂直锁,滚动垂直锁
 tags: ["lock","arrow"]
+search: scroll-vertical-lock
 
 ---
 

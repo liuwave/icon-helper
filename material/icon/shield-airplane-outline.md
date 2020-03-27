@@ -4,6 +4,7 @@ title: shield airplane outline(盾构飞机轮廓) ICON转svg、png下载
 name: shield-airplane-outline
 zhTips: 盾构飞机轮廓
 tags: ["transportation-flying"]
+search: shield-aeroplane-outline,shield-plane-outline
 
 ---
 

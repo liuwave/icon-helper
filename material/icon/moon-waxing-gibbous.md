@@ -4,6 +4,7 @@ title: moon waxing gibbous(月亮打蜡隆起) ICON转svg、png下载
 name: moon-waxing-gibbous
 zhTips: 月亮打蜡隆起
 tags: ["weather"]
+search: 
 
 ---
 

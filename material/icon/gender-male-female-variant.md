@@ -4,6 +4,7 @@ title: gender male female variant(性别) ICON转svg、png下载
 name: gender-male-female-variant
 zhTips: 性别,男女,汞
 tags: []
+search: mercury
 
 ---
 

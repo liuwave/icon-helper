@@ -5,6 +5,7 @@ name: user-check
 zhTips: 用户检查,接受,检查,人员,已验证
 tags: ["users-people"]
 pre: fas
+search: accept,check,person,verified
 
 ---
 

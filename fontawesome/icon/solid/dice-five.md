@@ -5,6 +5,7 @@ name: dice-five
 zhTips: 骰子五,机会,赌博,游戏,掷骰子
 tags: ["games","hotel","objects"]
 pre: fas
+search: chance,gambling,game,roll
 
 ---
 

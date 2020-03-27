@@ -4,6 +4,7 @@ title: arrow down bold box(向下箭头加粗框) ICON转svg、png下载
 name: arrow-down-bold-box
 zhTips: 向下箭头加粗框,底部箭头加粗框
 tags: ["arrow"]
+search: arrow-bottom-bold-box
 
 ---
 

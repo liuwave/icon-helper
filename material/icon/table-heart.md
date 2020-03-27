@@ -4,6 +4,7 @@ title: table heart(表心) ICON转svg、png下载
 name: table-heart
 zhTips: 表心,表最爱
 tags: []
+search: table-favorite
 
 ---
 

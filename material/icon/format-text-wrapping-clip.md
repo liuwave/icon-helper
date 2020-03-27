@@ -4,6 +4,7 @@ title: format text wrapping clip(格式文本换行夹) ICON转svg、png下载
 name: format-text-wrapping-clip
 zhTips: 格式文本换行夹
 tags: ["text-content-format"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: heart multiple(心多重) ICON转svg、png下载
 name: heart-multiple
 zhTips: 心多重,心
 tags: []
+search: hearts
 
 ---
 

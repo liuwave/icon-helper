@@ -4,6 +4,7 @@ title: scanner off(扫描仪关闭) ICON转svg、png下载
 name: scanner-off
 zhTips: 扫描仪关闭
 tags: ["device-tech"]
+search: 
 
 ---
 

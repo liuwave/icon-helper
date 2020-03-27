@@ -4,6 +4,7 @@ title: parking(停车) ICON转svg、png下载
 name: parking
 zhTips: 停车,停车场,本地停车
 tags: ["places"]
+search: car-park,local-parking
 
 ---
 

@@ -4,6 +4,7 @@ title: plus box(加盒) ICON转svg、png下载
 name: plus-box
 zhTips: 加盒
 tags: ["math"]
+search: add-box
 
 ---
 

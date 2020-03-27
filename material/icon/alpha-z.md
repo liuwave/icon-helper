@@ -4,6 +4,7 @@ title: alpha z(alpha z) ICON转svg、png下载
 name: alpha-z
 zhTips: alpha z,字母z
 tags: ["alpha-numeric"]
+search: alphabet-z,letter-z
 
 ---
 

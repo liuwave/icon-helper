@@ -4,6 +4,7 @@ title: arrow down box(向下箭头框) ICON转svg、png下载
 name: arrow-down-box
 zhTips: 向下箭头框
 tags: ["arrow"]
+search: arrow-bottom-box
 
 ---
 

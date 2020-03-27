@@ -5,6 +5,7 @@ name: microchip
 zhTips: 芯片,CPU,硬件,处理器,技术
 tags: ["code","computers","objects"]
 pre: fas
+search: cpu,hardware,processor,technology
 
 ---
 

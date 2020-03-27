@@ -4,6 +4,7 @@ title: emoticon cool outline(表情酷轮廓) ICON转svg、png下载
 name: emoticon-cool-outline
 zhTips: 表情酷轮廓,笑脸酷轮廓
 tags: ["emoji"]
+search: smiley-cool-outline
 
 ---
 

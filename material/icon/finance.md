@@ -4,6 +4,7 @@ title: finance(金融) ICON转svg、png下载
 name: finance
 zhTips: 金融,图表金融
 tags: ["banking"]
+search: chart-finance
 
 ---
 

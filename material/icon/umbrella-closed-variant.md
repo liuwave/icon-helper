@@ -4,6 +4,7 @@ title: umbrella closed variant(雨伞封闭式) ICON转svg、png下载
 name: umbrella-closed-variant
 zhTips: 雨伞封闭式
 tags: ["weather"]
+search: 
 
 ---
 

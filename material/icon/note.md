@@ -4,6 +4,7 @@ title: note(笔记) ICON转svg、png下载
 name: note
 zhTips: 笔记,纸
 tags: []
+search: paper
 
 ---
 

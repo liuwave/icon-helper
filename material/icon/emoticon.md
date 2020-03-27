@@ -4,6 +4,7 @@ title: emoticon(图释) ICON转svg、png下载
 name: emoticon
 zhTips: 图释,笑脸
 tags: ["emoji"]
+search: smiley
 
 ---
 

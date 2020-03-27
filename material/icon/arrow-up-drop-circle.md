@@ -4,6 +4,7 @@ title: arrow up drop circle(向上箭头放圆圈) ICON转svg、png下载
 name: arrow-up-drop-circle
 zhTips: 向上箭头放圆圈,顶部箭头放圆圈
 tags: ["arrow"]
+search: arrow-top-drop-circle
 
 ---
 

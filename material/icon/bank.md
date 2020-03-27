@@ -4,6 +4,7 @@ title: bank(银行) ICON转svg、png下载
 name: bank
 zhTips: 银行,帐户余额,博物馆
 tags: ["banking","places"]
+search: account-balance,museum
 
 ---
 

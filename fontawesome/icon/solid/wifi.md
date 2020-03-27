@@ -5,6 +5,7 @@ name: wifi
 zhTips: WiFi,连接,热点,互联网,网络,无线
 tags: ["communication","hotel","interfaces","maps","status","toggle"]
 pre: fas
+search: connection,hotspot,internet,network,wireless
 
 ---
 

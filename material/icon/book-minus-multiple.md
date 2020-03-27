@@ -4,6 +4,7 @@ title: book minus multiple(减去本书的倍数) ICON转svg、png下载
 name: book-minus-multiple
 zhTips: 减去本书的倍数
 tags: []
+search: books-minus
 
 ---
 

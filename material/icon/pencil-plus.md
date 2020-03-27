@@ -4,6 +4,7 @@ title: pencil plus(铅笔加) ICON转svg、png下载
 name: pencil-plus
 zhTips: 铅笔加
 tags: []
+search: pencil-add
 
 ---
 

@@ -4,6 +4,7 @@ title: file link(文件链接) ICON转svg、png下载
 name: file-link
 zhTips: 文件链接
 tags: ["files-folders"]
+search: 
 
 ---
 

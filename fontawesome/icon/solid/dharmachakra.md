@@ -5,6 +5,7 @@ name: dharmachakra
 zhTips: 佛法,佛教,佛教徒,佛法轮
 tags: ["maritime","religion","spinners"]
 pre: fas
+search: buddhism,buddhist,wheel of dharma
 
 ---
 

@@ -4,6 +4,7 @@ title: ultra high definition(超高清) ICON转svg、png下载
 name: ultra-high-definition
 zhTips: 超高清
 tags: ["video-movie"]
+search: uhd
 
 ---
 

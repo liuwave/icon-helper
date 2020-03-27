@@ -4,6 +4,7 @@ title: language r(语言r) ICON转svg、png下载
 name: language-r
 zhTips: 语言r
 tags: ["developer-languages"]
+search: 
 
 ---
 

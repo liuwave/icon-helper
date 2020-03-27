@@ -4,6 +4,7 @@ title: file cancel outline(文件取消轮廓) ICON转svg、png下载
 name: file-cancel-outline
 zhTips: 文件取消轮廓,女,禁止
 tags: ["files-folders"]
+search: ban,forbid
 
 ---
 

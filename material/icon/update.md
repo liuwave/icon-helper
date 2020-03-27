@@ -4,6 +4,7 @@ title: update(更新) ICON转svg、png下载
 name: update
 zhTips: 更新,顺时针,时钟箭头
 tags: ["date-time"]
+search: clockwise,clock-arrow
 
 ---
 

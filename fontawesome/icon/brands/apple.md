@@ -5,6 +5,7 @@ name: apple
 zhTips: Apple,水果,ios,mac,操作系统,os,osx
 tags: []
 pre: fab
+search: fruit,ios,mac,operating system,os,osx
 
 ---
 

@@ -5,6 +5,7 @@ name: car-crash
 zhTips: 车祸,事故,汽车,保险,轿车,运输,车辆,残骸
 tags: ["automotive","vehicles"]
 pre: fas
+search: accident,auto,automobile,insurance,sedan,transportation,vehicle,wreck
 
 ---
 

@@ -5,6 +5,7 @@ name: hand-middle-finger
 zhTips: 举起中指的手,翻转鸟,手势,仇恨,粗鲁
 tags: ["hands"]
 pre: fas
+search: flip the bird,gesture,hate,rude
 
 ---
 

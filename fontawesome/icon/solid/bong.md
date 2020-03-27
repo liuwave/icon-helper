@@ -5,6 +5,7 @@ name: bong
 zhTips: Bong,aparatus,大麻,烟斗,烟,吸烟
 tags: ["medical"]
 pre: fas
+search: aparatus,cannabis,marijuana,pipe,smoke,smoking
 
 ---
 

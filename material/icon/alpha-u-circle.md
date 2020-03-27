@@ -4,6 +4,7 @@ title: alpha u circle(字母u圈) ICON转svg、png下载
 name: alpha-u-circle
 zhTips: 字母u圈
 tags: ["alpha-numeric"]
+search: alphabet-u-circle,letter-u-circle
 
 ---
 

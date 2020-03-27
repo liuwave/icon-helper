@@ -4,6 +4,7 @@ title: lock clock(锁) ICON转svg、png下载
 name: lock-clock
 zhTips: 锁,机密模式
 tags: ["lock","date-time"]
+search: confidential-mode
 
 ---
 

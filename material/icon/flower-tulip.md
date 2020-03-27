@@ -4,6 +4,7 @@ title: flower tulip(儿童花郁金香) ICON转svg、png下载
 name: flower-tulip
 zhTips: 儿童花郁金香
 tags: ["nature"]
+search: plant
 
 ---
 

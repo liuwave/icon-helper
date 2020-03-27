@@ -4,6 +4,7 @@ title: shield home outline(盾构房屋轮廓) ICON转svg、png下载
 name: shield-home-outline
 zhTips: 盾构房屋轮廓
 tags: ["home-automation"]
+search: shield-house-outline
 
 ---
 

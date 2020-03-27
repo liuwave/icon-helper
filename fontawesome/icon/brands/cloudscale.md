@@ -5,6 +5,7 @@ name: cloudscale
 zhTips: cloudscale.ch
 tags: []
 pre: fab
+search: 
 
 ---
 

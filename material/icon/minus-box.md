@@ -4,6 +4,7 @@ title: minus box(减号框) ICON转svg、png下载
 name: minus-box
 zhTips: 减号框,不确定的复选框
 tags: ["math"]
+search: indeterminate-check-box
 
 ---
 

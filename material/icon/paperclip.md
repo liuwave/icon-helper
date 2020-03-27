@@ -4,6 +4,7 @@ title: paperclip(回形针) ICON转svg、png下载
 name: paperclip
 zhTips: 回形针,垂直附件,文件附件
 tags: []
+search: attachment-vertical,attach-file
 
 ---
 

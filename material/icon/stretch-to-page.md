@@ -4,6 +4,7 @@ title: stretch to page(延伸至页面) ICON转svg、png下载
 name: stretch-to-page
 zhTips: 延伸至页面
 tags: ["text-content-format","arrow"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: account child circle(帐户子圈子) ICON转svg、png下载
 name: account-child-circle
 zhTips: 帐户子圈子,用户子圈子,人子圈子,监护人圈子
 tags: ["account-user"]
+search: user-child-circle,person-child-circle,guardian-circle
 
 ---
 

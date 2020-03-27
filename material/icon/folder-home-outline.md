@@ -4,6 +4,7 @@ title: folder home outline(文件夹主页轮廓) ICON转svg、png下载
 name: folder-home-outline
 zhTips: 文件夹主页轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

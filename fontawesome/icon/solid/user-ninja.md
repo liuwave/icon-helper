@@ -5,6 +5,7 @@ name: user-ninja
 zhTips: 用户忍者,刺客,头像,危险,致命,鬼s
 tags: ["users-people"]
 pre: fas
+search: assassin,avatar,dangerous,deadly,sneaky
 
 ---
 

@@ -4,6 +4,7 @@ title: folder plus outline(文件夹加轮廓) ICON转svg、png下载
 name: folder-plus-outline
 zhTips: 文件夹加轮廓,创建新的文件夹轮廓,文件夹添加轮廓
 tags: ["files-folders"]
+search: create-new-folder-outline,folder-add-outline
 
 ---
 

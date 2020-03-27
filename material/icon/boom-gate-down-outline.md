@@ -4,6 +4,7 @@ title: boom gate down outline(动臂浇口下降轮廓) ICON转svg、png下载
 name: boom-gate-down-outline
 zhTips: 动臂浇口下降轮廓,臂杆下降轮廓,自动浇口下降轮廓
 tags: ["transportation-road"]
+search: boom-arm-down-outline,boom-barrier-down-outline,arm-barrier-down-outline,barrier-down-outline,automatic-gate-down-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: code parentheses box(代码括号框) ICON转svg、png下载
 name: code-parentheses-box
 zhTips: 代码括号框
 tags: ["developer-languages"]
+search: 
 
 ---
 

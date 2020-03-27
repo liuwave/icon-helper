@@ -4,6 +4,7 @@ title: label percent(标签百分比) ICON转svg、png下载
 name: label-percent
 zhTips: 标签百分比
 tags: []
+search: 
 
 ---
 

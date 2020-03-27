@@ -5,6 +5,7 @@ name: minus-circle
 zhTips: 减号圆,删除,隐藏,负,形状,垃圾
 tags: ["interfaces","status"]
 pre: fas
+search: delete,hide,negative,remove,shape,trash
 
 ---
 

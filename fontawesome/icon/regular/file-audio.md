@@ -5,6 +5,7 @@ name: file-audio
 zhTips: 音频文件,文档,mp3,音乐,页面,播放,声音
 tags: ["audio-video","files","music"]
 pre: far
+search: document,mp3,music,page,play,sound
 
 ---
 

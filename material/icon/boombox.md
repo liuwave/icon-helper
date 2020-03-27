@@ -4,6 +4,7 @@ title: boombox(音箱) ICON转svg、png下载
 name: boombox
 zhTips: 音箱
 tags: ["home-automation"]
+search: 
 
 ---
 

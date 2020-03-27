@@ -5,6 +5,7 @@ name: umbrella
 zhTips: 雨伞,防护,雨,暴雨,湿
 tags: ["maps","objects","spring","weather"]
 pre: fas
+search: protection,rain,storm,wet
 
 ---
 

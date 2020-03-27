@@ -4,6 +4,7 @@ title: table of contents(目录) ICON转svg、png下载
 name: table-of-contents
 zhTips: 目录
 tags: []
+search: toc
 
 ---
 

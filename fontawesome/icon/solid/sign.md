@@ -5,6 +5,7 @@ name: sign
 zhTips: 标志,方向,房地产,标牌,寻路
 tags: ["moving"]
 pre: fas
+search: directions,real estate,signage,wayfinding
 
 ---
 

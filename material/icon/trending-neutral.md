@@ -4,6 +4,7 @@ title: trending neutral(中性趋势) ICON转svg、png下载
 name: trending-neutral
 zhTips: 中性趋势,持平趋势
 tags: []
+search: trending-flat
 
 ---
 

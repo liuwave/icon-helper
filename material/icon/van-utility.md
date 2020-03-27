@@ -4,6 +4,7 @@ title: van utility(面包车) ICON转svg、png下载
 name: van-utility
 zhTips: 面包车,糖果车
 tags: ["transportation-road"]
+search: van-candy
 
 ---
 

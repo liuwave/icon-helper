@@ -5,6 +5,7 @@ name: user-times
 zhTips: 删除用户,存档,删除,x
 tags: ["users-people"]
 pre: fas
+search: archive,delete,remove,x
 
 ---
 

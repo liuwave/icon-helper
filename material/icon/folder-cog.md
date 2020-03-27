@@ -4,6 +4,7 @@ title: folder cog(文件夹齿轮) ICON转svg、png下载
 name: folder-cog
 zhTips: 文件夹齿轮
 tags: ["settings","files-folders"]
+search: folder-cog
 
 ---
 

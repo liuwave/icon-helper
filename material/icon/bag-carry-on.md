@@ -4,6 +4,7 @@ title: bag carry on(手提袋) ICON转svg、png下载
 name: bag-carry-on
 zhTips: 手提袋,随身携带的行李
 tags: ["transportation-flying"]
+search: carry-on-luggage
 
 ---
 

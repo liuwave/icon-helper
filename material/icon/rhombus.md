@@ -4,6 +4,7 @@ title: rhombus(菱形菱形) ICON转svg、png下载
 name: rhombus
 zhTips: 菱形菱形
 tags: ["shape"]
+search: diamond
 
 ---
 

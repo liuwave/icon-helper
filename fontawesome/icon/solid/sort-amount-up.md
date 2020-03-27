@@ -5,6 +5,7 @@ name: sort-amount-up
 zhTips: 排序金额增加,排列,过滤器,订单,排序金额描述
 tags: ["arrows","interfaces"]
 pre: fas
+search: arrange,filter,order,sort-amount-desc
 
 ---
 

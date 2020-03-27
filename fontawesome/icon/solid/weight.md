@@ -5,6 +5,7 @@ name: weight
 zhTips: 体重,健康,测量,规模
 tags: ["medical","objects"]
 pre: fas
+search: health,measurement,scale,weight
 
 ---
 

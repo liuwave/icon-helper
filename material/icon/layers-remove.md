@@ -4,6 +4,7 @@ title: layers remove(图层删除) ICON转svg、png下载
 name: layers-remove
 zhTips: 图层删除
 tags: ["geographic-information-system"]
+search: 
 
 ---
 

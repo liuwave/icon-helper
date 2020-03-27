@@ -4,6 +4,7 @@ title: text box plus outline(文本框加轮廓) ICON转svg、png下载
 name: text-box-plus-outline
 zhTips: 文本框加轮廓,文件文档框加轮廓
 tags: ["files-folders"]
+search: file-document-box-plus-outline
 
 ---
 

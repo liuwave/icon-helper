@@ -4,6 +4,7 @@ title: folder zip(zip文件夹) ICON转svg、png下载
 name: folder-zip
 zhTips: zip文件夹,压缩文件夹
 tags: ["files-folders"]
+search: compressed-folder
 
 ---
 

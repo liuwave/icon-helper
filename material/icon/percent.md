@@ -4,6 +4,7 @@ title: percent(％) ICON转svg、png下载
 name: percent
 zhTips: ％
 tags: ["math"]
+search: 
 
 ---
 

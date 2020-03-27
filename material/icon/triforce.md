@@ -4,6 +4,7 @@ title: triforce(Triforce) ICON转svg、png下载
 name: triforce
 zhTips: Triforce,塞尔达
 tags: ["gaming-rpg"]
+search: zelda
 
 ---
 

@@ -4,6 +4,7 @@ title: water boiler(热水器) ICON转svg、png下载
 name: water-boiler
 zhTips: 热水器
 tags: ["home-automation"]
+search: water-heater
 
 ---
 

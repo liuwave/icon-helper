@@ -4,6 +4,7 @@ title: inbox multiple(多个收件箱) ICON转svg、png下载
 name: inbox-multiple
 zhTips: 多个收件箱
 tags: []
+search: inboxes
 
 ---
 

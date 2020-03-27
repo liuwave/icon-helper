@@ -4,6 +4,7 @@ title: radioactive off(放射性关闭) ICON转svg、png下载
 name: radioactive-off
 zhTips: 放射性关闭,辐射关闭
 tags: ["science"]
+search: radiation-off
 
 ---
 

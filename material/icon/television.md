@@ -4,6 +4,7 @@ title: television(电视) ICON转svg、png下载
 name: television
 zhTips: 电视
 tags: ["device-tech","home-automation"]
+search: tv
 
 ---
 

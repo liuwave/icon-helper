@@ -4,6 +4,7 @@ title: video 4k box(视频4k盒) ICON转svg、png下载
 name: video-4k-box
 zhTips: 视频4k盒,4k
 tags: ["video-movie"]
+search: 4k
 
 ---
 

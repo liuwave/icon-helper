@@ -4,6 +4,7 @@ title: numeric 3 box(数字3框) ICON转svg、png下载
 name: numeric-3-box
 zhTips: 数字3框,外观3
 tags: ["alpha-numeric"]
+search: looks-3,numeric-three-box,number-3-box
 
 ---
 

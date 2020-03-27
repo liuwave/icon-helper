@@ -4,6 +4,7 @@ title: book information variant(各种信息书) ICON转svg、png下载
 name: book-information-variant
 zhTips: 各种信息书,百科全书
 tags: []
+search: encyclopedia
 
 ---
 

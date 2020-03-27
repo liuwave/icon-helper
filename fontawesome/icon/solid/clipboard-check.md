@@ -5,6 +5,7 @@ name: clipboard-check
 zhTips: 带有检查,接受,同意,确认,完成,确定,选择,成功,刻度线,待办事项,是的剪贴板
 tags: ["logistics","science"]
 pre: fas
+search: accept,agree,confirm,done,ok,select,success,tick,todo,yes
 
 ---
 

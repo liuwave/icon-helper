@@ -4,6 +4,7 @@ title: briefcase account(帐户公文包) ICON转svg、png下载
 name: briefcase-account
 zhTips: 帐户公文包,个人公文包,用户公文包
 tags: ["account-user"]
+search: briefcase-person,briefcase-user
 
 ---
 

@@ -4,6 +4,7 @@ title: currency btc(货币BTC) ICON转svg、png下载
 name: currency-btc
 zhTips: 货币BTC,比特币
 tags: ["currency","brand-logo","banking"]
+search: bitcoin
 
 ---
 

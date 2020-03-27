@@ -4,6 +4,7 @@ title: shape circle plus(形状圆加) ICON转svg、png下载
 name: shape-circle-plus
 zhTips: 形状圆加
 tags: ["shape"]
+search: shape-circle-add
 
 ---
 

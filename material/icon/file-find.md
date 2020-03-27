@@ -4,6 +4,7 @@ title: file find(查找文件) ICON转svg、png下载
 name: file-find
 zhTips: 查找文件,打印预览,在页面中查找
 tags: ["files-folders"]
+search: print-preview,find-in-page
 
 ---
 

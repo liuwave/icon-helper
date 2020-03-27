@@ -4,6 +4,7 @@ title: tanker truck(油罐车) ICON转svg、png下载
 name: tanker-truck
 zhTips: 油罐车,加油车,油卡车,水车,油轮
 tags: ["transportation-road"]
+search: fuel-truck,oil-truck,water-truck,tanker
 
 ---
 

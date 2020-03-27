@@ -5,6 +5,7 @@ name: people-arrows
 zhTips: People Arrows,covid 19,个人空间,社交距离,空间,传播,用户
 tags: ["users-people"]
 pre: fas
+search: covid-19,personal space,social distance,space,spread,users
 
 ---
 

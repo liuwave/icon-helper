@@ -4,6 +4,7 @@ title: delete circle outline(删除圆圈轮廓) ICON转svg、png下载
 name: delete-circle-outline
 zhTips: 删除圆圈轮廓,垃圾桶圆圈轮廓,垃圾垃圾桶圆圈轮廓,垃圾圆圈轮廓
 tags: []
+search: bin-circle-outline,garbage-can-circle-outline,garbage-circle-outline,rubbish-bin-circle-outline,rubbish-circle-outline,trash-can-circle-outline,trash-circle-outline
 
 ---
 

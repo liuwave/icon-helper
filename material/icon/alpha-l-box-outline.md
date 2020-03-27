@@ -4,6 +4,7 @@ title: alpha l box outline(alpha l框轮廓) ICON转svg、png下载
 name: alpha-l-box-outline
 zhTips: alpha l框轮廓,字母l框轮廓
 tags: ["alpha-numeric"]
+search: alphabet-l-box-outline,letter-l-box-outline
 
 ---
 

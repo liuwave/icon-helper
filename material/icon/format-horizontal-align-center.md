@@ -4,6 +4,7 @@ title: format horizontal align center(格式化水平对齐中心) ICON转svg、
 name: format-horizontal-align-center
 zhTips: 格式化水平对齐中心
 tags: ["text-content-format"]
+search: format-horizontal-align-centre
 
 ---
 

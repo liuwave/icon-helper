@@ -4,6 +4,7 @@ title: decimal decrease(十进制减少) ICON转svg、png下载
 name: decimal-decrease
 zhTips: 十进制减少
 tags: ["math"]
+search: 
 
 ---
 

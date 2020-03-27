@@ -5,6 +5,7 @@ name: grimace
 zhTips: 鬼脸,表情,表情符号,脸,牙齿
 tags: ["emoji"]
 pre: far
+search: cringe,emoticon,face,teeth
 
 ---
 

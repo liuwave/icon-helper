@@ -4,6 +4,7 @@ title: folder open outline(文件夹打开轮廓) ICON转svg、png下载
 name: folder-open-outline
 zhTips: 文件夹打开轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: plus-square
 zhTips: Plus正方形,添加,创建,扩展,新,正,形状
 tags: ["health","interfaces","maps","status"]
 pre: far
+search: add,create,expand,new,positive,shape
 
 ---
 

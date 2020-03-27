@@ -4,6 +4,7 @@ title: dice 5(骰子5) ICON转svg、png下载
 name: dice-5
 zhTips: 骰子5
 tags: ["gaming-rpg"]
+search: die-5,dice-five
 
 ---
 

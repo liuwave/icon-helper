@@ -4,6 +4,7 @@ title: account tie(帐户领带) ICON转svg、png下载
 name: account-tie
 zhTips: 帐户领带,人领带,用户领带
 tags: ["account-user"]
+search: person-tie,user-tie
 
 ---
 

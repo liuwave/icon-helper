@@ -4,6 +4,7 @@ title: star outline(星形轮廓) ICON转svg、png下载
 name: star-outline
 zhTips: 星形轮廓,星形边框
 tags: ["shape"]
+search: star-border
 
 ---
 

@@ -4,6 +4,7 @@ title: temperature fahrenheit(华氏温度) ICON转svg、png下载
 name: temperature-fahrenheit
 zhTips: 华氏温度
 tags: ["weather"]
+search: 
 
 ---
 

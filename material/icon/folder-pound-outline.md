@@ -4,6 +4,7 @@ title: folder pound outline(文件夹英镑轮廓) ICON转svg、png下载
 name: folder-pound-outline
 zhTips: 文件夹英镑轮廓,文件夹哈希轮廓
 tags: ["files-folders"]
+search: folder-hash-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: air conditioner(空调) ICON转svg、png下载
 name: air-conditioner
 zhTips: 空调,空调装置
 tags: ["home-automation","automotive"]
+search: ac-unit
 
 ---
 

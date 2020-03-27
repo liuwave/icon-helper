@@ -4,6 +4,7 @@ title: file pdf(pdf文件) ICON转svg、png下载
 name: file-pdf
 zhTips: pdf文件,acrobat档案
 tags: ["files-folders"]
+search: file-acrobat
 
 ---
 

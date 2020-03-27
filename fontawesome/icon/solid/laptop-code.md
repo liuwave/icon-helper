@@ -5,6 +5,7 @@ name: laptop-code
 zhTips: 笔记本电脑代码,计算机,cpu,戴尔,演示,开发,设备,mac,macbook,机器,pc
 tags: ["code","education"]
 pre: fas
+search: computer,cpu,dell,demo,develop,device,mac,macbook,machine,pc
 
 ---
 

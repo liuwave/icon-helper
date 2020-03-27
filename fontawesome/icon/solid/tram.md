@@ -5,6 +5,7 @@ name: tram
 zhTips: 电车,穿越,机器,山脉,季节性,运输
 tags: ["maps","objects","travel","vehicles","winter"]
 pre: fas
+search: crossing,machine,mountains,seasonal,transportation
 
 ---
 

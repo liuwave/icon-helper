@@ -4,6 +4,7 @@ title: desk lamp(台灯) ICON转svg、png下载
 name: desk-lamp
 zhTips: 台灯
 tags: ["home-automation"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: tray full(纸盒已满) ICON转svg、png下载
 name: tray-full
 zhTips: 纸盒已满,队列,打印机,收件箱
 tags: []
+search: queue,printer,inbox
 
 ---
 

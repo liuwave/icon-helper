@@ -4,6 +4,7 @@ title: view compact outline(查看紧凑型轮廓) ICON转svg、png下载
 name: view-compact-outline
 zhTips: 查看紧凑型轮廓
 tags: ["view"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: bullseye
 zhTips: Bullseye,射箭,目标
 tags: ["business","interfaces","marketing","objects","toggle"]
 pre: fas
+search: archery,goal,objective,target
 
 ---
 

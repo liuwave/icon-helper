@@ -5,6 +5,7 @@ name: quote-right
 zhTips: 引用权,提及,注释,短语,文本,类型
 tags: ["chat","editors","interfaces","writing"]
 pre: fas
+search: mention,note,phrase,text,type
 
 ---
 

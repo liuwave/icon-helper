@@ -4,6 +4,7 @@ title: alert circle outline(警报圈轮廓) ICON转svg、png下载
 name: alert-circle-outline
 zhTips: 警报圈轮廓,警告圈轮廓,错误轮廓,git问题
 tags: ["alert-error"]
+search: warning-circle-outline,error-outline,git-issue
 
 ---
 

@@ -4,6 +4,7 @@ title: numeric 9 plus box outline(数字9加框轮廓) ICON转svg、png下载
 name: numeric-9-plus-box-outline
 zhTips: 数字9加框轮廓
 tags: ["alpha-numeric"]
+search: numeric-nine-plus-box-outline,number-9-plus-box-outline
 
 ---
 

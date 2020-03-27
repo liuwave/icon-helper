@@ -4,6 +4,7 @@ title: close box(关闭框) ICON转svg、png下载
 name: close-box
 zhTips: 关闭框,乘法框
 tags: ["math"]
+search: multiply-box
 
 ---
 

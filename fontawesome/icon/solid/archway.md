@@ -5,6 +5,7 @@ name: archway
 zhTips: 拱门,弧,纪念碑,道路,街道,隧道
 tags: ["buildings","travel"]
 pre: fas
+search: arc,monument,road,street,tunnel
 
 ---
 

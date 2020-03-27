@@ -4,6 +4,7 @@ title: thermometer(温度计) ICON转svg、png下载
 name: thermometer
 zhTips: 温度计
 tags: ["weather","home-automation","automotive"]
+search: 
 
 ---
 

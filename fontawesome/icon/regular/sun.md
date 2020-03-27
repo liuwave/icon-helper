@@ -5,6 +5,7 @@ name: sun
 zhTips: 太阳,提亮,对比度,天,打火机,溶胶,星,天气
 tags: ["energy","objects","spinners","summer","weather"]
 pre: far
+search: brighten,contrast,day,lighter,sol,solar,star,weather
 
 ---
 

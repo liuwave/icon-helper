@@ -5,6 +5,7 @@ name: satellite
 zhTips: 卫星,通信,硬件,轨道,空间
 tags: ["computers","objects","science-fiction"]
 pre: fas
+search: communications,hardware,orbit,space
 
 ---
 

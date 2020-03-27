@@ -4,6 +4,7 @@ title: garage open(车库开放) ICON转svg、png下载
 name: garage-open
 zhTips: 车库开放
 tags: ["home-automation"]
+search: 
 
 ---
 

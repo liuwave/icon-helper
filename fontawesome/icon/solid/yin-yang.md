@@ -5,6 +5,7 @@ name: yin-yang
 zhTips: 阴阳道教对面道教
 tags: ["religion","spinners"]
 pre: fas
+search: daoism,opposites,taoism
 
 ---
 

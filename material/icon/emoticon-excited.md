@@ -4,6 +4,7 @@ title: emoticon excited(表情兴奋) ICON转svg、png下载
 name: emoticon-excited
 zhTips: 表情兴奋,笑脸兴奋
 tags: ["emoji"]
+search: smiley-excited
 
 ---
 

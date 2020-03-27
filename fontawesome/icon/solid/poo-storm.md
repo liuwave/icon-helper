@@ -5,6 +5,7 @@ name: poo-storm
 zhTips: Poo Storm,螺栓,云,委婉,闪电,混乱,大便,粪
 tags: ["weather"]
 pre: fas
+search: bolt,cloud,euphemism,lightning,mess,poop,shit,turd
 
 ---
 

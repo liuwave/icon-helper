@@ -5,6 +5,7 @@ name: comment-alt
 zhTips: 备用评论,气泡,聊天,评论,会话,反馈,消息,注释,通知,短信,语音,发短信
 tags: ["chat","communication","social","status"]
 pre: fas
+search: bubble,chat,commenting,conversation,feedback,message,note,notification,sms,speech,texting
 
 ---
 

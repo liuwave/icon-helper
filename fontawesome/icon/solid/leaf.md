@@ -5,6 +5,7 @@ name: leaf
 zhTips: 叶,生态,植物区系,自然,植物,素食主义者
 tags: ["charity","energy","fruit-vegetable","maps","objects"]
 pre: fas
+search: eco,flora,nature,plant,vegan
 
 ---
 

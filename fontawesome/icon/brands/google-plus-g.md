@@ -5,6 +5,7 @@ name: google-plus-g
 zhTips: Google Plus G,google plus,社交网络
 tags: []
 pre: fab
+search: google-plus,social network
 
 ---
 

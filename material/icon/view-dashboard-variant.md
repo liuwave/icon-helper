@@ -4,6 +4,7 @@ title: view dashboard variant(口音仪表板视图) ICON转svg、png下载
 name: view-dashboard-variant
 zhTips: 口音仪表板视图
 tags: ["view"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: comment-slash
 zhTips: 评论斜线,气泡,取消,聊天,评论,会话,反馈,消息,静音,请注意,通知,安静,短信,语音,发短信
 tags: ["chat","status"]
 pre: fas
+search: bubble,cancel,chat,commenting,conversation,feedback,message,mute,note,notification,quiet,sms,speech,texting
 
 ---
 

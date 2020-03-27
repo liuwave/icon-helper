@@ -5,6 +5,7 @@ name: safari
 zhTips: Safari,浏览器
 tags: []
 pre: fab
+search: browser
 
 ---
 

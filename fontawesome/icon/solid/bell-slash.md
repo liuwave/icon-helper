@@ -5,6 +5,7 @@ name: bell-slash
 zhTips: Bell Slash,警报,取消,禁用,通知,关闭,提醒
 tags: ["alert","communication","date-time","education","interfaces","maps","status"]
 pre: fas
+search: alert,cancel,disabled,notification,off,reminder
 
 ---
 

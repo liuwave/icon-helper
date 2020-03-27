@@ -4,6 +4,7 @@ title: rectangle(矩形) ICON转svg、png下载
 name: rectangle
 zhTips: 矩形
 tags: ["shape"]
+search: 
 
 ---
 

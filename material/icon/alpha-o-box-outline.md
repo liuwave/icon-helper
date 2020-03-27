@@ -4,6 +4,7 @@ title: alpha o box outline(字母o框轮廓) ICON转svg、png下载
 name: alpha-o-box-outline
 zhTips: 字母o框轮廓
 tags: ["alpha-numeric","alpha-numeric","alpha-numeric"]
+search: alphabet-o-box-outline,letter-o-box-outline
 
 ---
 

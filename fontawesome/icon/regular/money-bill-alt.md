@@ -5,6 +5,7 @@ name: money-bill-alt
 zhTips: 备用金融法案,购买,现金,结帐,钱,付款,价格
 tags: ["currency","finance","maps","objects"]
 pre: far
+search: buy,cash,checkout,money,payment,price,purchase
 
 ---
 

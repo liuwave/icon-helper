@@ -4,6 +4,7 @@ title: train car(火车) ICON转svg、png下载
 name: train-car
 zhTips: 火车,通勤,运输,旅行
 tags: ["transportation-other"]
+search: commute,transportation,travel
 
 ---
 

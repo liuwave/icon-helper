@@ -4,6 +4,7 @@ title: gamma(伽玛) ICON转svg、png下载
 name: gamma
 zhTips: 伽玛
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

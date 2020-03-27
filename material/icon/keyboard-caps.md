@@ -4,6 +4,7 @@ title: keyboard caps(键盘盖) ICON转svg、png下载
 name: keyboard-caps
 zhTips: 键盘盖,键盘盖锁
 tags: []
+search: keyboard-capslock
 
 ---
 

@@ -4,6 +4,7 @@ title: book cross(书本十字架) ICON转svg、png下载
 name: book-cross
 zhTips: 书本十字架,圣经
 tags: ["religion"]
+search: bible
 
 ---
 

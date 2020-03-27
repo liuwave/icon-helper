@@ -5,6 +5,7 @@ name: car-battery
 zhTips: 汽车电池,汽车,电动,机械,动力
 tags: ["automotive"]
 pre: fas
+search: auto,electric,mechanic,power
 
 ---
 

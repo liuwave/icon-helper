@@ -5,6 +5,7 @@ name: steam-symbol
 zhTips: 蒸汽符号
 tags: ["games"]
 pre: fab
+search: 
 
 ---
 

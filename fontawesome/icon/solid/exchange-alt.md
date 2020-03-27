@@ -5,6 +5,7 @@ name: exchange-alt
 zhTips: 备用交换,箭头,交换,往复,返回,转移
 tags: ["arrows"]
 pre: fas
+search: arrow,arrows,exchange,reciprocate,return,swap,transfer
 
 ---
 

@@ -5,6 +5,7 @@ name: crown
 zhTips: 皇冠,奖品,收藏夹,国王,女王,王室,头饰
 tags: []
 pre: fas
+search: award,favorite,king,queen,royal,tiara
 
 ---
 

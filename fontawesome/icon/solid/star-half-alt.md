@@ -5,6 +5,7 @@ name: star-half-alt
 zhTips: 替代星半,成就,奖项,评分,星半空,星半满
 tags: ["status","toggle"]
 pre: fas
+search: achievement,award,rating,score,star-half-empty,star-half-full
 
 ---
 

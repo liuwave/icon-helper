@@ -4,6 +4,7 @@ title: folder lock(文件夹锁) ICON转svg、png下载
 name: folder-lock
 zhTips: 文件夹锁
 tags: ["lock","files-folders"]
+search: 
 
 ---
 

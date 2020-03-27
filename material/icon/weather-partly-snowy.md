@@ -4,6 +4,7 @@ title: weather partly snowy(部分下雪天气) ICON转svg、png下载
 name: weather-partly-snowy
 zhTips: 部分下雪天气
 tags: ["weather"]
+search: 
 
 ---
 

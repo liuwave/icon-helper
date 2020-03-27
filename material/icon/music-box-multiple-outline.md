@@ -4,6 +4,7 @@ title: music box multiple outline(音乐盒多个轮廓) ICON转svg、png下载
 name: music-box-multiple-outline
 zhTips: 音乐盒多个轮廓,库音乐轮廓
 tags: ["music"]
+search: library-music-outline
 
 ---
 

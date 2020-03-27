@@ -4,6 +4,7 @@ title: format float right(格式向右浮动) ICON转svg、png下载
 name: format-float-right
 zhTips: 格式向右浮动
 tags: ["text-content-format"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: caret-square-down
 zhTips: Caret Square Down,箭头,Caret square o down,下拉菜单,展开,菜单,更多,三角形
 tags: ["arrows"]
 pre: far
+search: arrow,caret-square-o-down,dropdown,expand,menu,more,triangle
 
 ---
 

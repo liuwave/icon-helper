@@ -4,6 +4,7 @@ title: calendar range(日历范围) ICON转svg、png下载
 name: calendar-range
 zhTips: 日历范围,日期范围,日历周,事件范围
 tags: ["date-time"]
+search: date-range,calendar-week,event-range
 
 ---
 

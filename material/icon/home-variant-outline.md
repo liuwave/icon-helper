@@ -4,6 +4,7 @@ title: home variant outline(房屋简介) ICON转svg、png下载
 name: home-variant-outline
 zhTips: 房屋简介
 tags: ["home-automation"]
+search: house-variant-outline
 
 ---
 

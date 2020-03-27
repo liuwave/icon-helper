@@ -4,6 +4,7 @@ title: pan top left(向左平移锅) ICON转svg、png下载
 name: pan-top-left
 zhTips: 向左平移锅
 tags: []
+search: pan-up-left
 
 ---
 

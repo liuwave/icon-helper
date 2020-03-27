@@ -4,6 +4,7 @@ title: home modern(现代家庭) ICON转svg、png下载
 name: home-modern
 zhTips: 现代家庭,现代住宅
 tags: ["home-automation"]
+search: house-modern
 
 ---
 

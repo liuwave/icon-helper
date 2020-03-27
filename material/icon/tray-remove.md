@@ -4,6 +4,7 @@ title: tray remove(托盘取出) ICON转svg、png下载
 name: tray-remove
 zhTips: 托盘取出,排队,打印机,收件箱
 tags: []
+search: queue,printer,inbox
 
 ---
 

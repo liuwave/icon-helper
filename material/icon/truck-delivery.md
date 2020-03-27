@@ -4,6 +4,7 @@ title: truck delivery(卡车交付) ICON转svg、png下载
 name: truck-delivery
 zhTips: 卡车交付
 tags: ["transportation-road"]
+search: lorry-delivery
 
 ---
 

@@ -4,6 +4,7 @@ title: account heart(帐户心) ICON转svg、png下载
 name: account-heart
 zhTips: 帐户心,用户心,人心
 tags: ["account-user","medical-hospital"]
+search: user-heart,person-heart
 
 ---
 

@@ -4,6 +4,7 @@ title: view carousel(轮播视图) ICON转svg、png下载
 name: view-carousel
 zhTips: 轮播视图
 tags: ["view"]
+search: 
 
 ---
 

@@ -4,6 +4,7 @@ title: alpha l box(字母l框) ICON转svg、png下载
 name: alpha-l-box
 zhTips: 字母l框
 tags: ["alpha-numeric"]
+search: alphabet-l-box,letter-l-box
 
 ---
 

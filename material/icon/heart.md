@@ -4,6 +4,7 @@ title: heart(心) ICON转svg、png下载
 name: heart
 zhTips: 心,最爱
 tags: ["shape","gaming-rpg","medical-hospital"]
+search: favorite,favourite
 
 ---
 

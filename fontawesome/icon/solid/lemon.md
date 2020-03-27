@@ -5,6 +5,7 @@ name: lemon
 zhTips: 柠檬,柑橘,柠檬水,石灰,蛋t
 tags: ["food","fruit-vegetable","maps","objects","summer"]
 pre: fas
+search: citrus,lemonade,lime,tart
 
 ---
 

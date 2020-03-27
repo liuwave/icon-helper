@@ -4,6 +4,7 @@ title: numeric 0 box(数字0框) ICON转svg、png下载
 name: numeric-0-box
 zhTips: 数字0框
 tags: ["alpha-numeric"]
+search: numeric-zero-box,number-0-box
 
 ---
 

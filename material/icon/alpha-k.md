@@ -4,6 +4,7 @@ title: alpha k(alpha k) ICON转svg、png下载
 name: alpha-k
 zhTips: alpha k,字母k
 tags: ["alpha-numeric"]
+search: alphabet-k,letter-k
 
 ---
 

@@ -5,6 +5,7 @@ name: poo
 zhTips: 小便,废话,大便,屎,微笑,粪
 tags: ["chat","interfaces","users-people"]
 pre: fas
+search: crap,poop,shit,smile,turd
 
 ---
 

@@ -4,6 +4,7 @@ title: phone(电话) ICON转svg、png下载
 name: phone
 zhTips: 电话,本地电话
 tags: ["cellphone-phone"]
+search: call,local-phone,telephone
 
 ---
 

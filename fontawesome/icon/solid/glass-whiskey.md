@@ -5,6 +5,7 @@ name: glass-whiskey
 zhTips: 玻璃威士忌酒,酒精,酒吧,饮料,波旁酒,酒,整洁,黑麦,苏格兰威士忌,威士忌酒
 tags: ["beverage","objects","winter"]
 pre: fas
+search: alcohol,bar,beverage,bourbon,drink,liquor,neat,rye,scotch,whisky
 
 ---
 

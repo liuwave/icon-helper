@@ -4,6 +4,7 @@ title: draw(画画) ICON转svg、png下载
 name: draw
 zhTips: 画画,签名
 tags: ["drawing-art","form"]
+search: sign,signature
 
 ---
 

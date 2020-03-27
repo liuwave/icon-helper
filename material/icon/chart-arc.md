@@ -4,6 +4,7 @@ title: chart arc(图表弧) ICON转svg、png下载
 name: chart-arc
 zhTips: 图表弧
 tags: ["math"]
+search: 
 
 ---
 

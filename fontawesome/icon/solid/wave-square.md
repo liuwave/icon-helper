@@ -5,6 +5,7 @@ name: wave-square
 zhTips: 方波,频率,脉冲,信号
 tags: ["mathematics"]
 pre: fas
+search: frequency,pulse,signal
 
 ---
 

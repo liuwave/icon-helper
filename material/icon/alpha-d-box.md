@@ -4,6 +4,7 @@ title: alpha d box(字母d框) ICON转svg、png下载
 name: alpha-d-box
 zhTips: 字母d框
 tags: ["alpha-numeric"]
+search: alphabet-d-box,letter-d-box
 
 ---
 

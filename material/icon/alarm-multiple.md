@@ -4,6 +4,7 @@ title: alarm multiple(多个警报) ICON转svg、png下载
 name: alarm-multiple
 zhTips: 多个警报,警报,多个时钟警报,闹钟
 tags: []
+search: alarms,alarm-clock-multiple,alarm-clocks
 
 ---
 

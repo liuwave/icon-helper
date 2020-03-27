@@ -4,6 +4,7 @@ title: human male boy(人类男孩) ICON转svg、png下载
 name: human-male-boy
 zhTips: 人类男孩,父亲,男孩
 tags: ["people-family"]
+search: father,dad,man-child
 
 ---
 

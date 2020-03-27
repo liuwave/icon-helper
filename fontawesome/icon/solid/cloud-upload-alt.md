@@ -5,6 +5,7 @@ name: cloud-upload-alt
 zhTips: 备用云上传,云上传,导入,保存,上传
 tags: ["arrows","interfaces"]
 pre: fas
+search: cloud-upload,import,save,upload
 
 ---
 

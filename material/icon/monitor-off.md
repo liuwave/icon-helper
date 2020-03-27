@@ -4,6 +4,7 @@ title: monitor off(显示器关闭) ICON转svg、png下载
 name: monitor-off
 zhTips: 显示器关闭
 tags: ["device-tech"]
+search: 
 
 ---
 

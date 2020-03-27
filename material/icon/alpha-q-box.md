@@ -4,6 +4,7 @@ title: alpha q box(字母q框) ICON转svg、png下载
 name: alpha-q-box
 zhTips: 字母q框
 tags: ["alpha-numeric"]
+search: alphabet-q-box,letter-q-box
 
 ---
 

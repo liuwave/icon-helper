@@ -5,6 +5,7 @@ name: qrcode
 zhTips: 二维码,条形码,信息,扫描
 tags: ["code","interfaces"]
 pre: fas
+search: barcode,info,information,scan
 
 ---
 

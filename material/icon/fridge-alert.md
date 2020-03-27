@@ -4,6 +4,7 @@ title: fridge alert(冰箱警报) ICON转svg、png下载
 name: fridge-alert
 zhTips: 冰箱警报
 tags: ["home-automation","alert-error"]
+search: 
 
 ---
 

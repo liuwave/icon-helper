@@ -5,6 +5,7 @@ name: bookmark
 zhTips: 书签,收藏夹,标记,阅读,记住,保存
 tags: ["maps","objects","payments-shopping","shapes","writing"]
 pre: far
+search: favorite,marker,read,remember,save
 
 ---
 

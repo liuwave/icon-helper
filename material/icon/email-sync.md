@@ -4,6 +4,7 @@ title: email sync(电子邮件同步) ICON转svg、png下载
 name: email-sync
 zhTips: 电子邮件同步,电子邮件刷新,电子邮件重新发送
 tags: []
+search: email-refresh,email-resend
 
 ---
 

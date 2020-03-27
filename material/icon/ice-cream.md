@@ -4,6 +4,7 @@ title: ice cream(冰淇淋) ICON转svg、png下载
 name: ice-cream
 zhTips: 冰淇淋
 tags: ["food-drink"]
+search: 
 
 ---
 

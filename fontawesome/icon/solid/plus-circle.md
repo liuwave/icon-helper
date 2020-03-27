@@ -5,6 +5,7 @@ name: plus-circle
 zhTips: Plus圆形,添加,创建,扩展,新,正,形状
 tags: ["interfaces","status"]
 pre: fas
+search: add,create,expand,new,positive,shape
 
 ---
 

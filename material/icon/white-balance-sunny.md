@@ -4,6 +4,7 @@ title: white balance sunny(白平衡晴天) ICON转svg、png下载
 name: white-balance-sunny
 zhTips: 白平衡晴天,wb晴天
 tags: ["photography"]
+search: wb-sunny
 
 ---
 

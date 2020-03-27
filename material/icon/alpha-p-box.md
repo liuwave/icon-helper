@@ -4,6 +4,7 @@ title: alpha p box(字母p盒) ICON转svg、png下载
 name: alpha-p-box
 zhTips: 字母p盒
 tags: ["alpha-numeric"]
+search: alphabet-p-box,letter-p-box
 
 ---
 

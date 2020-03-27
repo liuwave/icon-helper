@@ -4,6 +4,7 @@ title: home search(主页搜索) ICON转svg、png下载
 name: home-search
 zhTips: 主页搜索
 tags: ["home-automation"]
+search: 
 
 ---
 

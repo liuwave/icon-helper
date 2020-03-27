@@ -5,6 +5,7 @@ name: euro-sign
 zhTips: 欧元符号,货币,美元,汇率
 tags: ["currency"]
 pre: fas
+search: currency,dollar,exchange,money
 
 ---
 

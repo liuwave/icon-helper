@@ -4,6 +4,7 @@ title: vhs(录像带) ICON转svg、png下载
 name: vhs
 zhTips: 录像带,视频家庭系统,录像带卡带
 tags: []
+search: video-home-system,vhs-cassette,vhs-tape
 
 ---
 

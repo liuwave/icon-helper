@@ -4,6 +4,7 @@ title: litecoin(莱特币) ICON转svg、png下载
 name: litecoin
 zhTips: 莱特币
 tags: ["banking","brand-logo","currency"]
+search: 
 
 ---
 

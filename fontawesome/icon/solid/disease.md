@@ -5,6 +5,7 @@ name: disease
 zhTips: 疾病,细菌,癌症,covid 19,感染,病毒
 tags: ["medical","pharmacy","science"]
 pre: fas
+search: bacteria,cancer,covid-19,illness,infection,sickness,virus
 
 ---
 

@@ -4,6 +4,7 @@ title: book plus multiple(书籍加多个) ICON转svg、png下载
 name: book-plus-multiple
 zhTips: 书籍加多个,书籍加,书籍多个添加,书籍添加
 tags: []
+search: books-plus,book-multiple-add,books-add
 
 ---
 

@@ -4,6 +4,7 @@ title: desktop classic(台式机经典版) ICON转svg、png下载
 name: desktop-classic
 zhTips: 台式机经典版,计算机经典版
 tags: ["device-tech","home-automation"]
+search: computer-classic
 
 ---
 

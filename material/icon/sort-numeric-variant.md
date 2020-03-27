@@ -4,6 +4,7 @@ title: sort numeric variant(对数字重音进行排序) ICON转svg、png下载
 name: sort-numeric-variant
 zhTips: 对数字重音进行排序,对数字进行排序
 tags: ["text-content-format"]
+search: sort-numerically
 
 ---
 

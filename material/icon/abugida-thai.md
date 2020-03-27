@@ -4,6 +4,7 @@ title: abugida thai(abugida泰国文) ICON转svg、png下载
 name: abugida-thai
 zhTips: abugida泰国文,泰国书写系统
 tags: ["alpha-numeric"]
+search: writing-system-thai
 
 ---
 

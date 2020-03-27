@@ -4,6 +4,7 @@ title: numeric 10 box multiple outline(数字10框多个轮廓) ICON转svg、png
 name: numeric-10-box-multiple-outline
 zhTips: 数字10框多个轮廓
 tags: ["alpha-numeric"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: dumpster-fire
 zhTips: 垃圾箱着火,小巷,垃圾桶,商业,危险,委婉的说法,火焰,热,垃圾,废物
 tags: []
 pre: fas
+search: alley,bin,commercial,danger,dangerous,euphemism,flame,heat,hot,trash,waste
 
 ---
 

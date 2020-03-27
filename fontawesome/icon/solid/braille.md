@@ -5,6 +5,7 @@ name: braille
 zhTips: 盲文,字母,盲点,圆点,凸起,视觉
 tags: ["accessibility"]
 pre: fas
+search: alphabet,blind,dots,raised,vision
 
 ---
 

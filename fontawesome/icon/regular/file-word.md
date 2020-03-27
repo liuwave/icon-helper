@@ -5,6 +5,7 @@ name: file-word
 zhTips: Word文件,文档,编辑,页面,文本,书写
 tags: ["files"]
 pre: far
+search: document,edit,page,text,writing
 
 ---
 

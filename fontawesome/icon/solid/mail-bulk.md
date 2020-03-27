@@ -5,6 +5,7 @@ name: mail-bulk
 zhTips: 邮件批量,存档,信封,信件,邮局,邮政,明信片,发送,邮票,usps
 tags: ["marketing"]
 pre: fas
+search: archive,envelope,letter,post office,postal,postcard,send,stamp,usps
 
 ---
 

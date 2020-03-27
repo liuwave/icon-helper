@@ -4,6 +4,7 @@ title: numeric 3(数字3) ICON转svg、png下载
 name: numeric-3
 zhTips: 数字3
 tags: ["alpha-numeric"]
+search: number-3,numeric-three
 
 ---
 

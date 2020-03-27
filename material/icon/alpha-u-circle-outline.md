@@ -4,6 +4,7 @@ title: alpha u circle outline(字母u圆圈轮廓) ICON转svg、png下载
 name: alpha-u-circle-outline
 zhTips: 字母u圆圈轮廓
 tags: ["alpha-numeric"]
+search: alphabet-u-circle-outline,letter-u-circle-outline
 
 ---
 

@@ -4,6 +4,7 @@ title: alert octagram outline(警告八卦轮廓) ICON转svg、png下载
 name: alert-octagram-outline
 zhTips: 警告八卦轮廓
 tags: ["alert-error"]
+search: warning-octagram-outline
 
 ---
 

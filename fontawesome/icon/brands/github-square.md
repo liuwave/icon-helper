@@ -5,6 +5,7 @@ name: github-square
 zhTips: GitHub广场,octocat
 tags: []
 pre: fab
+search: octocat
 
 ---
 

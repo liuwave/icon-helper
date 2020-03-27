@@ -5,6 +5,7 @@ name: meteor
 zhTips: 流星,世界末日,小行星,彗星,太空
 tags: ["science-fiction","weather"]
 pre: fas
+search: armageddon,asteroid,comet,shooting star,space
 
 ---
 

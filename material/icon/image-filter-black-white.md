@@ -4,6 +4,7 @@ title: image filter black white(图像滤镜黑白色) ICON转svg、png下载
 name: image-filter-black-white
 zhTips: 图像滤镜黑白色,滤镜b和w
 tags: ["photography"]
+search: filter-b-and-w
 
 ---
 

@@ -4,6 +4,7 @@ title: script outline(脚本轮廓) ICON转svg、png下载
 name: script-outline
 zhTips: 脚本轮廓,滚动轮廓
 tags: ["gaming-rpg"]
+search: scroll-outline
 
 ---
 

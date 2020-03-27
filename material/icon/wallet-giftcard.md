@@ -4,6 +4,7 @@ title: wallet giftcard(钱包giftcard) ICON转svg、png下载
 name: wallet-giftcard
 zhTips: 钱包giftcard,giftcard卡,兑换
 tags: ["shopping","banking"]
+search: card-giftcard,redeem
 
 ---
 

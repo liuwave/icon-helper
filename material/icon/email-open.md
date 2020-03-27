@@ -4,6 +4,7 @@ title: email open(打开电子邮件) ICON转svg、png下载
 name: email-open
 zhTips: 打开电子邮件,草稿,打开信封
 tags: []
+search: drafts,envelope-open
 
 ---
 

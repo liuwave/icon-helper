@@ -5,6 +5,7 @@ name: shower
 zhTips: 淋浴,浴缸,清洁,水龙头,水
 tags: ["hotel","household","maps","objects"]
 pre: fas
+search: bath,clean,faucet,water
 
 ---
 

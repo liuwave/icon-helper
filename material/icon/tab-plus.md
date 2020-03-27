@@ -4,6 +4,7 @@ title: tab plus(选项卡加号) ICON转svg、png下载
 name: tab-plus
 zhTips: 选项卡加号,选项卡添加
 tags: []
+search: tab-add
 
 ---
 

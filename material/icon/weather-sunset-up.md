@@ -4,6 +4,7 @@ title: weather sunset up(天气日落) ICON转svg、png下载
 name: weather-sunset-up
 zhTips: 天气日落,日出
 tags: ["weather"]
+search: sunrise
 
 ---
 

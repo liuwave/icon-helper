@@ -5,6 +5,7 @@ name: chevron-circle-right
 zhTips: 雪佛龙圆形向右,箭头,前进,下一个
 tags: ["arrows"]
 pre: fas
+search: arrow,forward,next
 
 ---
 

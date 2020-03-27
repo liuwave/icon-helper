@@ -5,6 +5,7 @@ name: life-ring
 zhTips: 救生圈,海岸警卫队,帮助,舷外,保存,支持
 tags: ["maps","objects","spinners"]
 pre: far
+search: coast guard,help,overboard,save,support
 
 ---
 

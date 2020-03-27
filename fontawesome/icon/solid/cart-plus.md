@@ -5,6 +5,7 @@ name: cart-plus
 zhTips: 添加到购物车,添加,创建,新建,正面,购物
 tags: ["payments-shopping","shopping","status"]
 pre: fas
+search: add,create,new,positive,shopping
 
 ---
 

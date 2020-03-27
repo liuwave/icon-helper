@@ -4,6 +4,7 @@ title: format align middle(格式居中对齐) ICON转svg、png下载
 name: format-align-middle
 zhTips: 格式居中对齐
 tags: ["text-content-format"]
+search: 
 
 ---
 

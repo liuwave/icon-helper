@@ -4,6 +4,7 @@ title: inbox arrow down(收件箱向下箭头) ICON转svg、png下载
 name: inbox-arrow-down
 zhTips: 收件箱向下箭头,移至收件箱
 tags: []
+search: move-to-inbox
 
 ---
 

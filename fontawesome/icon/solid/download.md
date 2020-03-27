@@ -5,6 +5,7 @@ name: download
 zhTips: 下载,导出,硬盘驱动器,保存,传输
 tags: ["arrows","computers","interfaces"]
 pre: fas
+search: export,hard drive,save,transfer
 
 ---
 

@@ -5,6 +5,7 @@ name: trailer
 zhTips: 拖车,运载,运输,移动,旅行
 tags: ["automotive","camping","moving"]
 pre: fas
+search: carry,haul,moving,travel
 
 ---
 

@@ -5,6 +5,7 @@ name: shuttle-van
 zhTips: 班车,机场,机械,公共交通,运输,旅行,车辆
 tags: ["automotive","hotel","travel","vehicles"]
 pre: fas
+search: airport,machine,public-transportation,transportation,travel,vehicle
 
 ---
 

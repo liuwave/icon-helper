@@ -5,6 +5,7 @@ name: alipay
 zhTips: 支付宝
 tags: ["payments-shopping"]
 pre: fab
+search: 
 
 ---
 

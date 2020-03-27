@@ -4,6 +4,7 @@ title: checkbox multiple marked outline(标记为轮廓的复选框) ICON转svg�
 name: checkbox-multiple-marked-outline
 zhTips: 标记为轮廓的复选框
 tags: ["form"]
+search: checkboxes-marked-outline
 
 ---
 

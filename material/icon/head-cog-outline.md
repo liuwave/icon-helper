@@ -4,6 +4,7 @@ title: head cog outline(头部轮廓) ICON转svg、png下载
 name: head-cog-outline
 zhTips: 头部轮廓,心理学轮廓
 tags: ["settings"]
+search: psychology-outline
 
 ---
 

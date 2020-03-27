@@ -4,6 +4,7 @@ title: menu up outline(菜单轮廓) ICON转svg、png下载
 name: menu-up-outline
 zhTips: 菜单轮廓
 tags: ["arrow"]
+search: 
 
 ---
 

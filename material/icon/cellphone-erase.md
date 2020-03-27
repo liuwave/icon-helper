@@ -4,6 +4,7 @@ title: cellphone erase(手机擦除) ICON转svg、png下载
 name: cellphone-erase
 zhTips: 手机擦除,电话链接擦除,智能手机擦除
 tags: ["cellphone-phone","device-tech"]
+search: phonelink-erase,mobile-phone-erase,smartphone-erase
 
 ---
 

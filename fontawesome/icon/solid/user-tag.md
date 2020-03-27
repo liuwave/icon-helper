@@ -5,6 +5,7 @@ name: user-tag
 zhTips: 用户标签,头像,折扣,标签,人员,角色,特殊
 tags: ["users-people"]
 pre: fas
+search: avatar,discount,label,person,role,special
 
 ---
 

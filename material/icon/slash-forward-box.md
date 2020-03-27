@@ -4,6 +4,7 @@ title: slash forward box(斜线前进盒) ICON转svg、png下载
 name: slash-forward-box
 zhTips: 斜线前进盒,分隔盒
 tags: ["math"]
+search: divide-box,division-box
 
 ---
 

@@ -5,6 +5,7 @@ name: calendar-times
 zhTips: 日历时间,存档,日历,日期,删除,事件,时间表,时间,何时,x
 tags: ["date-time","interfaces","status"]
 pre: fas
+search: archive,calendar,date,delete,event,remove,schedule,time,when,x
 
 ---
 

@@ -4,6 +4,7 @@ title: file powerpoint outline(文件PowerPoint轮廓) ICON转svg、png下载
 name: file-powerpoint-outline
 zhTips: 文件PowerPoint轮廓
 tags: ["files-folders"]
+search: 
 
 ---
 

@@ -5,6 +5,7 @@ name: pump-soap
 zhTips: 泵浦肥皂,抗菌,清洁,covid 19,消毒,卫生,消毒液,肥皂
 tags: ["household"]
 pre: fas
+search: anti-bacterial,clean,covid-19,disinfect,hygiene,sanitizer,soap
 
 ---
 

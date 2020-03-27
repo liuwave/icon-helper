@@ -4,6 +4,7 @@ title: battery charging wireless alert(电池充电无线警报) ICON转svg、pn
 name: battery-charging-wireless-alert
 zhTips: 电池充电无线警报
 tags: ["battery","home-automation","alert-error"]
+search: battery-charging-wireless-warning
 
 ---
 

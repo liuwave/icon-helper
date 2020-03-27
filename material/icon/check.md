@@ -4,6 +4,7 @@ title: check(检查) ICON转svg、png下载
 name: check
 zhTips: 检查,打勾,完成
 tags: []
+search: tick,done
 
 ---
 

@@ -4,6 +4,7 @@ title: currency brl(货币BRL) ICON转svg、png下载
 name: currency-brl
 zhTips: 货币BRL,巴西雷亚尔
 tags: ["banking","currency"]
+search: brazilian-real
 
 ---
 

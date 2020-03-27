@@ -4,6 +4,7 @@ title: calendar plus(日历加) ICON转svg、png下载
 name: calendar-plus
 zhTips: 日历加,事件加
 tags: ["date-time"]
+search: event-plus,calendar-add,event-add
 
 ---
 

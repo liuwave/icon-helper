@@ -5,6 +5,7 @@ name: blender
 zhTips: 搅拌机,鸡尾酒,奶昔,果泥
 tags: ["beverage","household","objects"]
 pre: fas
+search: cocktail,milkshake,mixer,puree,smoothie
 
 ---
 
