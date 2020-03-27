@@ -10,8 +10,11 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "500px"
+    "500px",
+    "摄影",
+    "照片分享",
+    "摄影师"
   ],
-  "description": "",
+  "description": "500px.com，在线分享超过1500万创意发现和照片，是一个致力于摄影分享、发现、售卖的专业平台。",
   "comments": []
 }
