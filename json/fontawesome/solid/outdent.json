@@ -26,8 +26,9 @@
     "align",
     "justify",
     "paragraph",
-    "tab"
+    "tab",
+    "减少缩进"
   ],
-  "description": "",
+  "description": "表示段落减少缩进。",
   "comments": []
 }

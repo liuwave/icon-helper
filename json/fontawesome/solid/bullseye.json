@@ -48,8 +48,9 @@
   "zhs": [
     "Bullseye",
     "射箭",
-    "目标"
+    "目标",
+    "靶心"
   ],
-  "description": "",
+  "description": "靶心，可以表示枪靶。",
   "comments": []
 }

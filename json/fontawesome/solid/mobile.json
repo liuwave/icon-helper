@@ -45,8 +45,9 @@
     "设备",
     "iphone",
     "数字",
-    "屏幕"
+    "屏幕",
+    "手机黑屏"
   ],
-  "description": "",
+  "description": "表示手机、关机。",
   "comments": []
 }

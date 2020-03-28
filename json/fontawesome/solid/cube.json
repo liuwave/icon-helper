@@ -30,8 +30,9 @@
     "dice",
     "package",
     "square",
-    "tesseract"
+    "tesseract",
+    "立方体"
   ],
-  "description": "",
+  "description": "立方体，可以表示魔方。",
   "comments": []
 }

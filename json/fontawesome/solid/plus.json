@@ -54,8 +54,9 @@
     "expand",
     "new",
     "positive",
-    "shape"
+    "shape",
+    "加号黑"
   ],
-  "description": "",
+  "description": "表示两数相加的运算符。",
   "comments": []
 }

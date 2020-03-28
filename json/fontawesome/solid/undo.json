@@ -48,8 +48,9 @@
     "控制z",
     "交换",
     "oops",
-    "旋转"
+    "旋转",
+    "取消箭头"
   ],
-  "description": "",
+  "description": "表示取消，返回上一步。",
   "comments": []
 }

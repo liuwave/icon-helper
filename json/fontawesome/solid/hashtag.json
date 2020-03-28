@@ -34,8 +34,9 @@
     "instagram",
     "英镑",
     "社交媒体",
-    "标签"
+    "标签",
+    "井号"
   ],
-  "description": "",
+  "description": "表示话题，序数，手机拨号键。",
   "comments": []
 }

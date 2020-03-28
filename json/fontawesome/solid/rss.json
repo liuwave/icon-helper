@@ -39,8 +39,9 @@
     "博客",
     "提要",
     "新闻",
-    "写作"
+    "写作",
+    "wifi黑"
   ],
-  "description": "",
+  "description": "表示网络，互联网等。",
   "comments": []
 }

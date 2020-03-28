@@ -27,6 +27,6 @@
     "段落",
     "制表符"
   ],
-  "description": "",
+  "description": "缩进，表示一段语言前面有空格。",
   "comments": []
 }

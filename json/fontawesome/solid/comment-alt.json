@@ -60,6 +60,6 @@
     "语音",
     "发短信"
   ],
-  "description": "",
+  "description": "表示评论条，气泡，多用于聊天界面中",
   "comments": []
 }

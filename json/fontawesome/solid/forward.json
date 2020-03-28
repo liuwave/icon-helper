@@ -23,8 +23,9 @@
   "zhs": [
     "转发",
     "下一个",
-    "跳过"
+    "跳过",
+    "前进"
   ],
-  "description": "",
+  "description": "表示下一页。",
   "comments": []
 }

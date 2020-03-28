@@ -29,8 +29,9 @@
     "完成",
     "ol",
     "待办事项",
-    "ul"
+    "ul",
+    "列表"
   ],
-  "description": "",
+  "description": "表示数据项的有限序列，集合。",
   "comments": []
 }
