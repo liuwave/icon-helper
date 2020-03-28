@@ -1,6 +1,6 @@
 ---
 
-title: wallet giftcard(钱包giftcard) ICON转svg、png下载
+title:  wallet giftcard(钱包giftcard) ICON转svg、png下载
 name: wallet-giftcard
 zhTips: 钱包giftcard,giftcard卡,兑换
 tags: ["shopping","banking"]
@@ -8,11 +8,13 @@ search: card-giftcard,redeem
 
 ---
 
-# wallet-giftcard  <small style="font-size: 60%;font-weight: 100">钱包giftcard</small>
+# wallet giftcard  <small style="font-size: 60%;font-weight: 100">钱包giftcard</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: string lights off(灯串关闭) ICON转svg、png下载
+title:  string lights off(灯串关闭) ICON转svg、png下载
 name: string-lights-off
 zhTips: 灯串关闭,意大利灯关闭,圣诞节灯关闭,仙女灯关闭
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: italian-lights-off,christmas-lights-off,fairy-lights-off
 
 ---
 
-# string-lights-off  <small style="font-size: 60%;font-weight: 100">灯串关闭</small>
+# string lights off  <small style="font-size: 60%;font-weight: 100">灯串关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

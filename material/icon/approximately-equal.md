@@ -1,6 +1,6 @@
 ---
 
-title: approximately equal(大约相等) ICON转svg、png下载
+title:  approximately equal(大约相等) ICON转svg、png下载
 name: approximately-equal
 zhTips: 大约相等
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# approximately-equal  <small style="font-size: 60%;font-weight: 100">大约相等</small>
+# approximately equal  <small style="font-size: 60%;font-weight: 100">大约相等</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

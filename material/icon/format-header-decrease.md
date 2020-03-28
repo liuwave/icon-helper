@@ -1,6 +1,6 @@
 ---
 
-title: format header decrease(格式头减少) ICON转svg、png下载
+title:  format header decrease(格式头减少) ICON转svg、png下载
 name: format-header-decrease
 zhTips: 格式头减少
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-header-decrease  <small style="font-size: 60%;font-weight: 100">格式头减少</small>
+# format header decrease  <small style="font-size: 60%;font-weight: 100">格式头减少</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

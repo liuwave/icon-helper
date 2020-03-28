@@ -1,6 +1,6 @@
 ---
 
-title: format quote close outline(格式报价关闭轮廓) ICON转svg、png下载
+title:  format quote close outline(格式报价关闭轮廓) ICON转svg、png下载
 name: format-quote-close-outline
 zhTips: 格式报价关闭轮廓
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-quote-close-outline  <small style="font-size: 60%;font-weight: 100">格式报价关闭轮廓</small>
+# format quote close outline  <small style="font-size: 60%;font-weight: 100">格式报价关闭轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: apps box(应用程序框) ICON转svg、png下载
+title:  apps box(应用程序框) ICON转svg、png下载
 name: apps-box
 zhTips: 应用程序框
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# apps-box  <small style="font-size: 60%;font-weight: 100">应用程序框</small>
+# apps box  <small style="font-size: 60%;font-weight: 100">应用程序框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: phone in talk outline(电话中的谈话轮廓) ICON转svg、png下载
+title:  phone in talk outline(电话中的谈话轮廓) ICON转svg、png下载
 name: phone-in-talk-outline
 zhTips: 电话中的谈话轮廓
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search: telephone-in-talk-outline
 
 ---
 
-# phone-in-talk-outline  <small style="font-size: 60%;font-weight: 100">电话中的谈话轮廓</small>
+# phone in talk outline  <small style="font-size: 60%;font-weight: 100">电话中的谈话轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

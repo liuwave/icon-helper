@@ -1,6 +1,6 @@
 ---
 
-title: message bulleted off(项目符号已关闭) ICON转svg、png下载
+title:  message bulleted off(项目符号已关闭) ICON转svg、png下载
 name: message-bulleted-off
 zhTips: 项目符号已关闭,演讲者注释已关闭
 tags: []
@@ -8,11 +8,13 @@ search: speaker-notes-off
 
 ---
 
-# message-bulleted-off  <small style="font-size: 60%;font-weight: 100">项目符号已关闭</small>
+# message bulleted off  <small style="font-size: 60%;font-weight: 100">项目符号已关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

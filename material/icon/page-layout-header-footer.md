@@ -1,6 +1,6 @@
 ---
 
-title: page layout header footer(页面布局页眉页脚) ICON转svg、png下载
+title:  page layout header footer(页面布局页眉页脚) ICON转svg、png下载
 name: page-layout-header-footer
 zhTips: 页面布局页眉页脚,页面布局页边距
 tags: []
@@ -8,11 +8,13 @@ search: page-layout-marginals
 
 ---
 
-# page-layout-header-footer  <small style="font-size: 60%;font-weight: 100">页面布局页眉页脚</small>
+# page layout header footer  <small style="font-size: 60%;font-weight: 100">页面布局页眉页脚</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

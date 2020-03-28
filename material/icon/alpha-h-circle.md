@@ -1,6 +1,6 @@
 ---
 
-title: alpha h circle(字母h圈) ICON转svg、png下载
+title:  alpha h circle(字母h圈) ICON转svg、png下载
 name: alpha-h-circle
 zhTips: 字母h圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-h-circle,letter-h-circle
 
 ---
 
-# alpha-h-circle  <small style="font-size: 60%;font-weight: 100">字母h圈</small>
+# alpha h circle  <small style="font-size: 60%;font-weight: 100">字母h圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

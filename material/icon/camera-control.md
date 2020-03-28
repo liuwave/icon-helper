@@ -1,6 +1,6 @@
 ---
 
-title: camera control(相机控制) ICON转svg、png下载
+title:  camera control(相机控制) ICON转svg、png下载
 name: camera-control
 zhTips: 相机控制
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-control  <small style="font-size: 60%;font-weight: 100">相机控制</small>
+# camera control  <small style="font-size: 60%;font-weight: 100">相机控制</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

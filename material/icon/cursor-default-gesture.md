@@ -1,6 +1,6 @@
 ---
 
-title: cursor default gesture(光标默认手势) ICON转svg、png下载
+title:  cursor default gesture(光标默认手势) ICON转svg、png下载
 name: cursor-default-gesture
 zhTips: 光标默认手势
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cursor-default-gesture  <small style="font-size: 60%;font-weight: 100">光标默认手势</small>
+# cursor default gesture  <small style="font-size: 60%;font-weight: 100">光标默认手势</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: account star outline(帐户星号轮廓) ICON转svg、png下载
+title:  account star outline(帐户星号轮廓) ICON转svg、png下载
 name: account-star-outline
 zhTips: 帐户星号轮廓,用户星号轮廓,人星号轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-star-outline,person-star-outline
 
 ---
 
-# account-star-outline  <small style="font-size: 60%;font-weight: 100">帐户星号轮廓</small>
+# account star outline  <small style="font-size: 60%;font-weight: 100">帐户星号轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

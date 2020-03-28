@@ -1,6 +1,6 @@
 ---
 
-title: fishbowl(鱼缸) ICON转svg、png下载
+title:  fishbowl(鱼缸) ICON转svg、png下载
 name: fishbowl
 zhTips: 鱼缸,水族馆
 tags: ["animal"]
@@ -13,6 +13,8 @@ search: aquarium
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

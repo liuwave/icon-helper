@@ -1,6 +1,6 @@
 ---
 
-title: package variant(包装盒) ICON转svg、png下载
+title:  package variant(包装盒) ICON转svg、png下载
 name: package-variant
 zhTips: 包装盒,盒装
 tags: []
@@ -8,11 +8,13 @@ search: box-variant
 
 ---
 
-# package-variant  <small style="font-size: 60%;font-weight: 100">包装盒</small>
+# package variant  <small style="font-size: 60%;font-weight: 100">包装盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

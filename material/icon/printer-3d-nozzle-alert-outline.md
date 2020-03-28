@@ -1,6 +1,6 @@
 ---
 
-title: printer 3d nozzle alert outline(打印机3d喷嘴警报概述) ICON转svg、png下载
+title:  printer 3d nozzle alert outline(打印机3d喷嘴警报概述) ICON转svg、png下载
 name: printer-3d-nozzle-alert-outline
 zhTips: 打印机3d喷嘴警报概述
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# printer-3d-nozzle-alert-outline  <small style="font-size: 60%;font-weight: 100">打印机3d喷嘴警报概述</small>
+# printer 3d nozzle alert outline  <small style="font-size: 60%;font-weight: 100">打印机3d喷嘴警报概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

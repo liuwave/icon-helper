@@ -1,6 +1,6 @@
 ---
 
-title: target account(目标帐户) ICON转svg、png下载
+title:  target account(目标帐户) ICON转svg、png下载
 name: target-account
 zhTips: 目标帐户,十字准线帐户,目标用户
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: crosshairs-account,target-user
 
 ---
 
-# target-account  <small style="font-size: 60%;font-weight: 100">目标帐户</small>
+# target account  <small style="font-size: 60%;font-weight: 100">目标帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

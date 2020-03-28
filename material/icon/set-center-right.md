@@ -1,6 +1,6 @@
 ---
 
-title: set center right(设置中心右) ICON转svg、png下载
+title:  set center right(设置中心右) ICON转svg、png下载
 name: set-center-right
 zhTips: 设置中心右,外连接右,sql右外连接
 tags: []
@@ -8,11 +8,13 @@ search: set-centre-right,outer-join-right,sql-right-outer-join
 
 ---
 
-# set-center-right  <small style="font-size: 60%;font-weight: 100">设置中心右</small>
+# set center right  <small style="font-size: 60%;font-weight: 100">设置中心右</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

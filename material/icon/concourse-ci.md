@@ -1,6 +1,6 @@
 ---
 
-title: concourse ci(concourse ci) ICON转svg、png下载
+title:  concourse ci(concourse ci) ICON转svg、png下载
 name: concourse-ci
 zhTips: concourse ci
 tags: ["developer-languages","brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# concourse-ci  <small style="font-size: 60%;font-weight: 100">concourse ci</small>
+# concourse ci  <small style="font-size: 60%;font-weight: 100">concourse ci</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

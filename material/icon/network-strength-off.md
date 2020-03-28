@@ -1,6 +1,6 @@
 ---
 
-title: network strength off(网络实力关) ICON转svg、png下载
+title:  network strength off(网络实力关) ICON转svg、png下载
 name: network-strength-off
 zhTips: 网络实力关
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# network-strength-off  <small style="font-size: 60%;font-weight: 100">网络实力关</small>
+# network strength off  <small style="font-size: 60%;font-weight: 100">网络实力关</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

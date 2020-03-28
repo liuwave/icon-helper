@@ -1,6 +1,6 @@
 ---
 
-title: unfold less vertical(展开较少垂直) ICON转svg、png下载
+title:  unfold less vertical(展开较少垂直) ICON转svg、png下载
 name: unfold-less-vertical
 zhTips: 展开较少垂直,人字形,垂直折叠
 tags: []
@@ -8,11 +8,13 @@ search: chevron-right-left,collapse-vertical
 
 ---
 
-# unfold-less-vertical  <small style="font-size: 60%;font-weight: 100">展开较少垂直</small>
+# unfold less vertical  <small style="font-size: 60%;font-weight: 100">展开较少垂直</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

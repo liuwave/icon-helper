@@ -1,6 +1,6 @@
 ---
 
-title: border all(边框全部) ICON转svg、png下载
+title:  border all(边框全部) ICON转svg、png下载
 name: border-all
 zhTips: 边框全部
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# border-all  <small style="font-size: 60%;font-weight: 100">边框全部</small>
+# border all  <small style="font-size: 60%;font-weight: 100">边框全部</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: state machine(状态机) ICON转svg、png下载
+title:  state machine(状态机) ICON转svg、png下载
 name: state-machine
 zhTips: 状态机
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# state-machine  <small style="font-size: 60%;font-weight: 100">状态机</small>
+# state machine  <small style="font-size: 60%;font-weight: 100">状态机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

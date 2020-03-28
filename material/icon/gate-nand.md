@@ -1,6 +1,6 @@
 ---
 
-title: gate nand(逻辑门nand) ICON转svg、png下载
+title:  gate nand(逻辑门nand) ICON转svg、png下载
 name: gate-nand
 zhTips: 逻辑门nand
 tags: []
@@ -8,11 +8,13 @@ search: logic-gate-nand
 
 ---
 
-# gate-nand  <small style="font-size: 60%;font-weight: 100">逻辑门nand</small>
+# gate nand  <small style="font-size: 60%;font-weight: 100">逻辑门nand</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

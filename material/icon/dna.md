@@ -1,8 +1,8 @@
 ---
 
-title: dna(dna) ICON转svg、png下载
+title:  dna(dna) ICON转svg、png下载
 name: dna
-zhTips: dna,螺旋
+zhTips: dna,螺旋,基因,双螺旋,遗传,分子,蛋白质
 tags: ["science"]
 search: helix
 
@@ -13,6 +13,8 @@ search: helix
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Haley Halcyon</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">helix</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">dna</span><span class="badge-primary badge">螺旋</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/dna.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/dna.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">helix</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">dna</span><span class="badge-primary badge">螺旋</span><span class="badge-primary badge">基因</span><span class="badge-primary badge">双螺旋</span><span class="badge-primary badge">遗传</span><span class="badge-primary badge">分子</span><span class="badge-primary badge">蛋白质</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/dna.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/dna.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">DNA，表示一种遗传性，螺旋排列方式。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-dna mdi-48px"></i>
   <i class="mdi mdi-dna mdi-36px"></i>

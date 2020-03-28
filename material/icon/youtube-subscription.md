@@ -1,6 +1,6 @@
 ---
 
-title: youtube subscription(youtube订阅) ICON转svg、png下载
+title:  youtube subscription(youtube订阅) ICON转svg、png下载
 name: youtube-subscription
 zhTips: youtube订阅
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# youtube-subscription  <small style="font-size: 60%;font-weight: 100">youtube订阅</small>
+# youtube subscription  <small style="font-size: 60%;font-weight: 100">youtube订阅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

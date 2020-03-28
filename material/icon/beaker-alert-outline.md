@@ -1,6 +1,6 @@
 ---
 
-title: beaker alert outline(烧杯警报轮廓) ICON转svg、png下载
+title:  beaker alert outline(烧杯警报轮廓) ICON转svg、png下载
 name: beaker-alert-outline
 zhTips: 烧杯警报轮廓
 tags: ["alert-error","science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# beaker-alert-outline  <small style="font-size: 60%;font-weight: 100">烧杯警报轮廓</small>
+# beaker alert outline  <small style="font-size: 60%;font-weight: 100">烧杯警报轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

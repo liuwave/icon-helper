@@ -1,6 +1,6 @@
 ---
 
-title: format text rotation down vertical(格式化文本垂直向下旋转) ICON转svg、png下载
+title:  format text rotation down vertical(格式化文本垂直向下旋转) ICON转svg、png下载
 name: format-text-rotation-down-vertical
 zhTips: 格式化文本垂直向下旋转
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-text-rotation-down-vertical  <small style="font-size: 60%;font-weight: 100">格式化文本垂直向下旋转</small>
+# format text rotation down vertical  <small style="font-size: 60%;font-weight: 100">格式化文本垂直向下旋转</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

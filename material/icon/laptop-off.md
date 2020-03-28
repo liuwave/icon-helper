@@ -1,6 +1,6 @@
 ---
 
-title: laptop off(笔记本电脑关闭) ICON转svg、png下载
+title:  laptop off(笔记本电脑关闭) ICON转svg、png下载
 name: laptop-off
 zhTips: 笔记本电脑关闭
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# laptop-off  <small style="font-size: 60%;font-weight: 100">笔记本电脑关闭</small>
+# laptop off  <small style="font-size: 60%;font-weight: 100">笔记本电脑关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

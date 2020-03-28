@@ -1,6 +1,6 @@
 ---
 
-title: augmented reality(增强现实) ICON转svg、png下载
+title:  augmented reality(增强现实) ICON转svg、png下载
 name: augmented-reality
 zhTips: 增强现实
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# augmented-reality  <small style="font-size: 60%;font-weight: 100">增强现实</small>
+# augmented reality  <small style="font-size: 60%;font-weight: 100">增强现实</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: radiator off(散热器关闭) ICON转svg、png下载
+title:  radiator off(散热器关闭) ICON转svg、png下载
 name: radiator-off
 zhTips: 散热器关闭,加热器关闭
 tags: []
@@ -8,11 +8,13 @@ search: heater-off
 
 ---
 
-# radiator-off  <small style="font-size: 60%;font-weight: 100">散热器关闭</small>
+# radiator off  <small style="font-size: 60%;font-weight: 100">散热器关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

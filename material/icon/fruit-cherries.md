@@ -1,6 +1,6 @@
 ---
 
-title: fruit cherries(水果樱桃) ICON转svg、png下载
+title:  fruit cherries(水果樱桃) ICON转svg、png下载
 name: fruit-cherries
 zhTips: 水果樱桃
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# fruit-cherries  <small style="font-size: 60%;font-weight: 100">水果樱桃</small>
+# fruit cherries  <small style="font-size: 60%;font-weight: 100">水果樱桃</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: axis arrow(轴箭头) ICON转svg、png下载
+title:  axis arrow(轴箭头) ICON转svg、png下载
 name: axis-arrow
 zhTips: 轴箭头,加速度计,陀螺仪
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: accelerometer,gyro
 
 ---
 
-# axis-arrow  <small style="font-size: 60%;font-weight: 100">轴箭头</small>
+# axis arrow  <small style="font-size: 60%;font-weight: 100">轴箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

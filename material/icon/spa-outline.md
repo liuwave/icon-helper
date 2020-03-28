@@ -1,6 +1,6 @@
 ---
 
-title: spa outline(水疗中心轮廓) ICON转svg、png下载
+title:  spa outline(水疗中心轮廓) ICON转svg、png下载
 name: spa-outline
 zhTips: 水疗中心轮廓,花朵莲花轮廓,儿童
 tags: ["nature"]
@@ -8,11 +8,13 @@ search: flower-lotus-outline,plant
 
 ---
 
-# spa-outline  <small style="font-size: 60%;font-weight: 100">水疗中心轮廓</small>
+# spa outline  <small style="font-size: 60%;font-weight: 100">水疗中心轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

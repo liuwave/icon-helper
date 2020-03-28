@@ -1,6 +1,6 @@
 ---
 
-title: alpha f box(alpha f框) ICON转svg、png下载
+title:  alpha f box(alpha f框) ICON转svg、png下载
 name: alpha-f-box
 zhTips: alpha f框,字母f框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-f-box,letter-f-box
 
 ---
 
-# alpha-f-box  <small style="font-size: 60%;font-weight: 100">alpha f框</small>
+# alpha f box  <small style="font-size: 60%;font-weight: 100">alpha f框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

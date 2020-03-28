@@ -1,6 +1,6 @@
 ---
 
-title: book search outline(书籍搜索轮廓) ICON转svg、png下载
+title:  book search outline(书籍搜索轮廓) ICON转svg、png下载
 name: book-search-outline
 zhTips: 书籍搜索轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# book-search-outline  <small style="font-size: 60%;font-weight: 100">书籍搜索轮廓</small>
+# book search outline  <small style="font-size: 60%;font-weight: 100">书籍搜索轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

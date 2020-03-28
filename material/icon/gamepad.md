@@ -1,8 +1,8 @@
 ---
 
-title: gamepad(游戏手柄) ICON转svg、png下载
+title:  gamepad(游戏手柄) ICON转svg、png下载
 name: gamepad
-zhTips: 游戏手柄,游戏
+zhTips: 游戏手柄,游戏,街机,控制器,d垫,游戏杆,视频,视频游戏
 tags: ["home-automation","gaming-rpg"]
 search: games
 
@@ -13,6 +13,8 @@ search: games
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">games</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">游戏手柄</span><span class="badge-primary badge">游戏</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/gamepad.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/gamepad.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">games</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">游戏手柄</span><span class="badge-primary badge">游戏</span><span class="badge-primary badge">街机</span><span class="badge-primary badge">控制器</span><span class="badge-primary badge">d垫</span><span class="badge-primary badge">游戏杆</span><span class="badge-primary badge">视频</span><span class="badge-primary badge">视频游戏</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/gamepad.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/gamepad.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">游戏手柄，表示电子游戏机，游戏类控制等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-gamepad mdi-48px"></i>
   <i class="mdi mdi-gamepad mdi-36px"></i>

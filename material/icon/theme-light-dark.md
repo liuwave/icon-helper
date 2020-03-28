@@ -1,6 +1,6 @@
 ---
 
-title: theme light dark(主题浅黑) ICON转svg、png下载
+title:  theme light dark(主题浅黑) ICON转svg、png下载
 name: theme-light-dark
 zhTips: 主题浅黑,日月星辰
 tags: []
@@ -8,11 +8,13 @@ search: sun-moon-stars
 
 ---
 
-# theme-light-dark  <small style="font-size: 60%;font-weight: 100">主题浅黑</small>
+# theme light dark  <small style="font-size: 60%;font-weight: 100">主题浅黑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

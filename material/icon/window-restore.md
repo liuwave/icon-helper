@@ -1,6 +1,6 @@
 ---
 
-title: window restore(窗口还原) ICON转svg、png下载
+title:  window restore(窗口还原) ICON转svg、png下载
 name: window-restore
 zhTips: 窗口还原
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# window-restore  <small style="font-size: 60%;font-weight: 100">窗口还原</small>
+# window restore  <small style="font-size: 60%;font-weight: 100">窗口还原</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

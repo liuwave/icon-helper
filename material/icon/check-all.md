@@ -1,6 +1,6 @@
 ---
 
-title: check all(检查所有) ICON转svg、png下载
+title:  check all(检查所有) ICON转svg、png下载
 name: check-all
 zhTips: 检查所有,勾选所有,完成全部,检查多个,检查,勾选
 tags: []
@@ -8,11 +8,13 @@ search: tick-all,done-all,check-multiple,checks,ticks
 
 ---
 
-# check-all  <small style="font-size: 60%;font-weight: 100">检查所有</small>
+# check all  <small style="font-size: 60%;font-weight: 100">检查所有</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: rotate orbit(旋转轨道) ICON转svg、png下载
+title:  rotate orbit(旋转轨道) ICON转svg、png下载
 name: rotate-orbit
 zhTips: 旋转轨道,陀螺仪,加速度计
 tags: []
@@ -8,11 +8,13 @@ search: gyro,accelerometer
 
 ---
 
-# rotate-orbit  <small style="font-size: 60%;font-weight: 100">旋转轨道</small>
+# rotate orbit  <small style="font-size: 60%;font-weight: 100">旋转轨道</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

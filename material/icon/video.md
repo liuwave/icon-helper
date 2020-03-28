@@ -1,8 +1,8 @@
 ---
 
-title: video(视频) ICON转svg、png下载
+title:  video(视频) ICON转svg、png下载
 name: video
-zhTips: 视频,摄像机
+zhTips: 视频,摄像机,摄像,照相机,电影,唱片
 tags: ["video-movie","home-automation"]
 search: videocam
 
@@ -13,6 +13,8 @@ search: videocam
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">videocam</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">视频</span><span class="badge-primary badge">摄像机</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/video.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/video.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">videocam</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">视频</span><span class="badge-primary badge">摄像机</span><span class="badge-primary badge">摄像</span><span class="badge-primary badge">照相机</span><span class="badge-primary badge">电影</span><span class="badge-primary badge">唱片</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/video.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/video.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">常用于表示摄像，拍摄照片。也可用于表示相机。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-video mdi-48px"></i>
   <i class="mdi mdi-video mdi-36px"></i>

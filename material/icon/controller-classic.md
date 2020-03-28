@@ -1,6 +1,6 @@
 ---
 
-title: controller classic(控制器经典) ICON转svg、png下载
+title:  controller classic(控制器经典) ICON转svg、png下载
 name: controller-classic
 zhTips: 控制器经典
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# controller-classic  <small style="font-size: 60%;font-weight: 100">控制器经典</small>
+# controller classic  <small style="font-size: 60%;font-weight: 100">控制器经典</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

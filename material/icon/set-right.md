@@ -1,6 +1,6 @@
 ---
 
-title: set right(设置权) ICON转svg、png下载
+title:  set right(设置权) ICON转svg、png下载
 name: set-right
 zhTips: 设置权,差价权
 tags: []
@@ -8,11 +8,13 @@ search: difference-right
 
 ---
 
-# set-right  <small style="font-size: 60%;font-weight: 100">设置权</small>
+# set right  <small style="font-size: 60%;font-weight: 100">设置权</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

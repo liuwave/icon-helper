@@ -1,6 +1,6 @@
 ---
 
-title: table arrow up(表格向上箭头) ICON转svg、png下载
+title:  table arrow up(表格向上箭头) ICON转svg、png下载
 name: table-arrow-up
 zhTips: 表格向上箭头,表格上传
 tags: []
@@ -8,11 +8,13 @@ search: table-upload
 
 ---
 
-# table-arrow-up  <small style="font-size: 60%;font-weight: 100">表格向上箭头</small>
+# table arrow up  <small style="font-size: 60%;font-weight: 100">表格向上箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

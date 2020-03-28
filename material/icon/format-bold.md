@@ -1,6 +1,6 @@
 ---
 
-title: format bold(粗体格式) ICON转svg、png下载
+title:  format bold(粗体格式) ICON转svg、png下载
 name: format-bold
 zhTips: 粗体格式
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-bold  <small style="font-size: 60%;font-weight: 100">粗体格式</small>
+# format bold  <small style="font-size: 60%;font-weight: 100">粗体格式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

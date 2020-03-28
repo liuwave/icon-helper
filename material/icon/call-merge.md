@@ -1,6 +1,6 @@
 ---
 
-title: call merge(呼叫合并) ICON转svg、png下载
+title:  call merge(呼叫合并) ICON转svg、png下载
 name: call-merge
 zhTips: 呼叫合并,合并类型
 tags: ["cellphone-phone","arrow"]
@@ -8,11 +8,13 @@ search: merge-type
 
 ---
 
-# call-merge  <small style="font-size: 60%;font-weight: 100">呼叫合并</small>
+# call merge  <small style="font-size: 60%;font-weight: 100">呼叫合并</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

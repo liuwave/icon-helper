@@ -1,6 +1,6 @@
 ---
 
-title: format list numbered(格式编号列表) ICON转svg、png下载
+title:  format list numbered(格式编号列表) ICON转svg、png下载
 name: format-list-numbered
 zhTips: 格式编号列表,格式列表编号
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: format-list-numbers
 
 ---
 
-# format-list-numbered  <small style="font-size: 60%;font-weight: 100">格式编号列表</small>
+# format list numbered  <small style="font-size: 60%;font-weight: 100">格式编号列表</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

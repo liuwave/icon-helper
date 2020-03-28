@@ -1,6 +1,6 @@
 ---
 
-title: microsoft dynamics 365(Microsoft Dynamics 365) ICON转svg、png下载
+title:  microsoft dynamics 365(Microsoft Dynamics 365) ICON转svg、png下载
 name: microsoft-dynamics-365
 zhTips: Microsoft Dynamics 365
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-dynamics-365  <small style="font-size: 60%;font-weight: 100">Microsoft Dynamics 365</small>
+# microsoft dynamics 365  <small style="font-size: 60%;font-weight: 100">Microsoft Dynamics 365</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

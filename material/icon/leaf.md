@@ -1,8 +1,8 @@
 ---
 
-title: leaf(叶) ICON转svg、png下载
+title:  leaf(叶) ICON转svg、png下载
 name: leaf
-zhTips: 叶
+zhTips: 叶,叶子,生态,植物区系,自然,植物,素食主义者
 tags: ["nature","food-drink"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">叶</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/leaf.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/leaf.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">叶</span><span class="badge-primary badge">叶子</span><span class="badge-primary badge">生态</span><span class="badge-primary badge">植物区系</span><span class="badge-primary badge">自然</span><span class="badge-primary badge">植物</span><span class="badge-primary badge">素食主义者</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/leaf.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/leaf.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示树叶，大自然，环保等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-leaf mdi-48px"></i>
   <i class="mdi mdi-leaf mdi-36px"></i>

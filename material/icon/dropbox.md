@@ -1,8 +1,8 @@
 ---
 
-title: dropbox(保管箱) ICON转svg、png下载
+title:  dropbox(保管箱) ICON转svg、png下载
 name: dropbox
-zhTips: 保管箱
+zhTips: 保管箱,dropbox
 tags: ["brand-logo"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">保管箱</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/dropbox.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/dropbox.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">保管箱</span><span class="badge-primary badge">dropbox</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/dropbox.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/dropbox.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Dropbox是一个云盘服务商，提供免费和收费服务，能够将存储在本地的文件自动同步到云端服务器保存</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-dropbox mdi-48px"></i>
   <i class="mdi mdi-dropbox mdi-36px"></i>

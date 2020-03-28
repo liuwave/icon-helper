@@ -1,8 +1,8 @@
 ---
 
-title: store(商店) ICON转svg、png下载
+title:  store(商店) ICON转svg、png下载
 name: store
-zhTips: 商店,商店购物中心目录
+zhTips: 商店,商店购物中心目录,商店标志,建筑,购买,购物
 tags: ["places","shopping"]
 search: shop,store-mall-directory
 
@@ -13,6 +13,8 @@ search: shop,store-mall-directory
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">shop</span><span class="badge-light badge">store-mall-directory</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">商店</span><span class="badge-primary badge">商店购物中心目录</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/store.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/store.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">shop</span><span class="badge-light badge">store-mall-directory</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">商店</span><span class="badge-primary badge">商店购物中心目录</span><span class="badge-primary badge">商店标志</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">购买</span><span class="badge-primary badge">购物</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/store.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/store.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示商店、商场等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-store mdi-48px"></i>
   <i class="mdi mdi-store mdi-36px"></i>

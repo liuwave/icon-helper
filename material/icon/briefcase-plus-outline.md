@@ -1,6 +1,6 @@
 ---
 
-title: briefcase plus outline(公文包加轮廓) ICON转svg、png下载
+title:  briefcase plus outline(公文包加轮廓) ICON转svg、png下载
 name: briefcase-plus-outline
 zhTips: 公文包加轮廓
 tags: []
@@ -8,11 +8,13 @@ search: briefcase-add-outline
 
 ---
 
-# briefcase-plus-outline  <small style="font-size: 60%;font-weight: 100">公文包加轮廓</small>
+# briefcase plus outline  <small style="font-size: 60%;font-weight: 100">公文包加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: camera party mode(派对模式) ICON转svg、png下载
+title:  camera party mode(派对模式) ICON转svg、png下载
 name: camera-party-mode
 zhTips: 派对模式
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-party-mode  <small style="font-size: 60%;font-weight: 100">派对模式</small>
+# camera party mode  <small style="font-size: 60%;font-weight: 100">派对模式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

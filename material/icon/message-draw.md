@@ -1,6 +1,6 @@
 ---
 
-title: message draw(留言) ICON转svg、png下载
+title:  message draw(留言) ICON转svg、png下载
 name: message-draw
 zhTips: 留言,评价
 tags: []
@@ -8,11 +8,13 @@ search: rate-review
 
 ---
 
-# message-draw  <small style="font-size: 60%;font-weight: 100">留言</small>
+# message draw  <small style="font-size: 60%;font-weight: 100">留言</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

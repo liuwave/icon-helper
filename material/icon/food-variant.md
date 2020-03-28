@@ -1,6 +1,6 @@
 ---
 
-title: food variant(食物装饰) ICON转svg、png下载
+title:  food variant(食物装饰) ICON转svg、png下载
 name: food-variant
 zhTips: 食物装饰
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# food-variant  <small style="font-size: 60%;font-weight: 100">食物装饰</small>
+# food variant  <small style="font-size: 60%;font-weight: 100">食物装饰</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

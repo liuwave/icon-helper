@@ -1,6 +1,6 @@
 ---
 
-title: bus stop uncovered(未发现公交车站) ICON转svg、png下载
+title:  bus stop uncovered(未发现公交车站) ICON转svg、png下载
 name: bus-stop-uncovered
 zhTips: 未发现公交车站
 tags: ["transportation-road","navigation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bus-stop-uncovered  <small style="font-size: 60%;font-weight: 100">未发现公交车站</small>
+# bus stop uncovered  <small style="font-size: 60%;font-weight: 100">未发现公交车站</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

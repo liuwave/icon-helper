@@ -1,6 +1,6 @@
 ---
 
-title: move resize variant(移动调整大小的重音符号) ICON转svg、png下载
+title:  move resize variant(移动调整大小的重音符号) ICON转svg、png下载
 name: move-resize-variant
 zhTips: 移动调整大小的重音符号
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# move-resize-variant  <small style="font-size: 60%;font-weight: 100">移动调整大小的重音符号</small>
+# move resize variant  <small style="font-size: 60%;font-weight: 100">移动调整大小的重音符号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

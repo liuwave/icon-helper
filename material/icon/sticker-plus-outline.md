@@ -1,6 +1,6 @@
 ---
 
-title: sticker plus outline(贴纸加轮廓) ICON转svg、png下载
+title:  sticker plus outline(贴纸加轮廓) ICON转svg、png下载
 name: sticker-plus-outline
 zhTips: 贴纸加轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# sticker-plus-outline  <small style="font-size: 60%;font-weight: 100">贴纸加轮廓</small>
+# sticker plus outline  <small style="font-size: 60%;font-weight: 100">贴纸加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

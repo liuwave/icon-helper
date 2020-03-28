@@ -1,6 +1,6 @@
 ---
 
-title: bell cancel(取消钟声) ICON转svg、png下载
+title:  bell cancel(取消钟声) ICON转svg、png下载
 name: bell-cancel
 zhTips: 取消钟声
 tags: ["notification"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bell-cancel  <small style="font-size: 60%;font-weight: 100">取消钟声</small>
+# bell cancel  <small style="font-size: 60%;font-weight: 100">取消钟声</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

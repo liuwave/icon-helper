@@ -1,6 +1,6 @@
 ---
 
-title: home circle(家圈) ICON转svg、png下载
+title:  home circle(家圈) ICON转svg、png下载
 name: home-circle
 zhTips: 家圈,圈屋
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: house-circle
 
 ---
 
-# home-circle  <small style="font-size: 60%;font-weight: 100">家圈</small>
+# home circle  <small style="font-size: 60%;font-weight: 100">家圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

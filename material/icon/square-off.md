@@ -1,6 +1,6 @@
 ---
 
-title: square off(平方关闭) ICON转svg、png下载
+title:  square off(平方关闭) ICON转svg、png下载
 name: square-off
 zhTips: 平方关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# square-off  <small style="font-size: 60%;font-weight: 100">平方关闭</small>
+# square off  <small style="font-size: 60%;font-weight: 100">平方关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

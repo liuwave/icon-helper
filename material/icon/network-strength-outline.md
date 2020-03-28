@@ -1,6 +1,6 @@
 ---
 
-title: network strength outline(网络强度轮廓) ICON转svg、png下载
+title:  network strength outline(网络强度轮廓) ICON转svg、png下载
 name: network-strength-outline
 zhTips: 网络强度轮廓,网络强度0
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search: network-strength-0
 
 ---
 
-# network-strength-outline  <small style="font-size: 60%;font-weight: 100">网络强度轮廓</small>
+# network strength outline  <small style="font-size: 60%;font-weight: 100">网络强度轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

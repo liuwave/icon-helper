@@ -1,6 +1,6 @@
 ---
 
-title: account multiple minus outline(帐户多个减轮廓) ICON转svg、png下载
+title:  account multiple minus outline(帐户多个减轮廓) ICON转svg、png下载
 name: account-multiple-minus-outline
 zhTips: 帐户多个减轮廓,帐户减轮廓,人员减轮廓,用户减轮廓,人员多个减轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: accounts-minus-outline,people-minus-outline,user-multiple-minus-outline,
 
 ---
 
-# account-multiple-minus-outline  <small style="font-size: 60%;font-weight: 100">帐户多个减轮廓</small>
+# account multiple minus outline  <small style="font-size: 60%;font-weight: 100">帐户多个减轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

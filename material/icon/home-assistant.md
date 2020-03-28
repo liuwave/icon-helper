@@ -1,6 +1,6 @@
 ---
 
-title: home assistant(家庭助理) ICON转svg、png下载
+title:  home assistant(家庭助理) ICON转svg、png下载
 name: home-assistant
 zhTips: 家庭助理
 tags: ["brand-logo","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# home-assistant  <small style="font-size: 60%;font-weight: 100">家庭助理</small>
+# home assistant  <small style="font-size: 60%;font-weight: 100">家庭助理</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

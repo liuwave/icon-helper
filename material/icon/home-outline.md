@@ -1,6 +1,6 @@
 ---
 
-title: home outline(家庭轮廓) ICON转svg、png下载
+title:  home outline(家庭轮廓) ICON转svg、png下载
 name: home-outline
 zhTips: 家庭轮廓,轮廓房子
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: house-outline
 
 ---
 
-# home-outline  <small style="font-size: 60%;font-weight: 100">家庭轮廓</small>
+# home outline  <small style="font-size: 60%;font-weight: 100">家庭轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

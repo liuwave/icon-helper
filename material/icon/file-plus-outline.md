@@ -1,6 +1,6 @@
 ---
 
-title: file plus outline(文件加轮廓) ICON转svg、png下载
+title:  file plus outline(文件加轮廓) ICON转svg、png下载
 name: file-plus-outline
 zhTips: 文件加轮廓
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-plus-outline  <small style="font-size: 60%;font-weight: 100">文件加轮廓</small>
+# file plus outline  <small style="font-size: 60%;font-weight: 100">文件加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

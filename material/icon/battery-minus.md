@@ -1,6 +1,6 @@
 ---
 
-title: battery minus(减去电池) ICON转svg、png下载
+title:  battery minus(减去电池) ICON转svg、png下载
 name: battery-minus
 zhTips: 减去电池
 tags: ["battery","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# battery-minus  <small style="font-size: 60%;font-weight: 100">减去电池</small>
+# battery minus  <small style="font-size: 60%;font-weight: 100">减去电池</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

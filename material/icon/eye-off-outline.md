@@ -1,6 +1,6 @@
 ---
 
-title: eye off outline(视线不显示轮廓) ICON转svg、png下载
+title:  eye off outline(视线不显示轮廓) ICON转svg、png下载
 name: eye-off-outline
 zhTips: 视线不显示轮廓,隐藏视线,可视性不视轮廓
 tags: []
@@ -8,11 +8,13 @@ search: hide-outline,visibility-off-outline
 
 ---
 
-# eye-off-outline  <small style="font-size: 60%;font-weight: 100">视线不显示轮廓</small>
+# eye off outline  <small style="font-size: 60%;font-weight: 100">视线不显示轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

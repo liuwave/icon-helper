@@ -1,6 +1,6 @@
 ---
 
-title: trash can outline(垃圾桶轮廓) ICON转svg、png下载
+title:  trash can outline(垃圾桶轮廓) ICON转svg、png下载
 name: trash-can-outline
 zhTips: 垃圾桶轮廓,删除轮廓
 tags: []
@@ -8,11 +8,13 @@ search: delete-outline,rubbish-bin-outline,trashcan-outline,garbage-can-outline
 
 ---
 
-# trash-can-outline  <small style="font-size: 60%;font-weight: 100">垃圾桶轮廓</small>
+# trash can outline  <small style="font-size: 60%;font-weight: 100">垃圾桶轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

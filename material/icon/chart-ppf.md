@@ -1,6 +1,6 @@
 ---
 
-title: chart ppf(图表PPF) ICON转svg、png下载
+title:  chart ppf(图表PPF) ICON转svg、png下载
 name: chart-ppf
 zhTips: 图表PPF,图表生产潜力前沿
 tags: ["math"]
@@ -8,11 +8,13 @@ search: chart-production-possibility-frontier
 
 ---
 
-# chart-ppf  <small style="font-size: 60%;font-weight: 100">图表PPF</small>
+# chart ppf  <small style="font-size: 60%;font-weight: 100">图表PPF</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

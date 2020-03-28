@@ -1,6 +1,6 @@
 ---
 
-title: bed empty(床空) ICON转svg、png下载
+title:  bed empty(床空) ICON转svg、png下载
 name: bed-empty
 zhTips: 床空
 tags: ["home-automation","holiday"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bed-empty  <small style="font-size: 60%;font-weight: 100">床空</small>
+# bed empty  <small style="font-size: 60%;font-weight: 100">床空</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

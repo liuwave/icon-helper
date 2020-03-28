@@ -1,6 +1,6 @@
 ---
 
-title: weather lightning rainy(天气雷雨) ICON转svg、png下载
+title:  weather lightning rainy(天气雷雨) ICON转svg、png下载
 name: weather-lightning-rainy
 zhTips: 天气雷雨,天气风暴
 tags: ["weather"]
@@ -8,11 +8,13 @@ search: weather-thunder-rainy,weather-storm
 
 ---
 
-# weather-lightning-rainy  <small style="font-size: 60%;font-weight: 100">天气雷雨</small>
+# weather lightning rainy  <small style="font-size: 60%;font-weight: 100">天气雷雨</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

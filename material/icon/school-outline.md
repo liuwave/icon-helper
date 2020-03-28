@@ -1,6 +1,6 @@
 ---
 
-title: school outline(学校轮廓) ICON转svg、png下载
+title:  school outline(学校轮廓) ICON转svg、png下载
 name: school-outline
 zhTips: 学校轮廓,学术帽轮廓,大学轮廓,毕业帽轮廓
 tags: []
@@ -8,11 +8,13 @@ search: academic-cap-outline,college-outline,graduation-cap-outline,university-o
 
 ---
 
-# school-outline  <small style="font-size: 60%;font-weight: 100">学校轮廓</small>
+# school outline  <small style="font-size: 60%;font-weight: 100">学校轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

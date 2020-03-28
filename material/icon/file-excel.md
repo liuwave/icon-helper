@@ -1,6 +1,6 @@
 ---
 
-title: file excel(excel文件) ICON转svg、png下载
+title:  file excel(excel文件) ICON转svg、png下载
 name: file-excel
 zhTips: excel文件
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-excel  <small style="font-size: 60%;font-weight: 100">excel文件</small>
+# file excel  <small style="font-size: 60%;font-weight: 100">excel文件</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

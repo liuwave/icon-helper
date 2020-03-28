@@ -1,6 +1,6 @@
 ---
 
-title: wifi star(wifi上网星) ICON转svg、png下载
+title:  wifi star(wifi上网星) ICON转svg、png下载
 name: wifi-star
 zhTips: wifi上网星,wifi喜爱,网络最爱
 tags: []
@@ -8,11 +8,13 @@ search: wifi-favourite,network-favourite
 
 ---
 
-# wifi-star  <small style="font-size: 60%;font-weight: 100">wifi上网星</small>
+# wifi star  <small style="font-size: 60%;font-weight: 100">wifi上网星</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

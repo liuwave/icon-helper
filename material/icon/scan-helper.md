@@ -1,6 +1,6 @@
 ---
 
-title: scan helper(扫描助手) ICON转svg、png下载
+title:  scan helper(扫描助手) ICON转svg、png下载
 name: scan-helper
 zhTips: 扫描助手
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# scan-helper  <small style="font-size: 60%;font-weight: 100">扫描助手</small>
+# scan helper  <small style="font-size: 60%;font-weight: 100">扫描助手</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: airballoon(气球) ICON转svg、png下载
+title:  airballoon(气球) ICON转svg、png下载
 name: airballoon
 zhTips: 气球,热气球
 tags: ["transportation-other","transportation-flying"]
@@ -13,6 +13,8 @@ search: hot-air-balloon
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

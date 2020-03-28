@@ -1,6 +1,6 @@
 ---
 
-title: bus articulated end(铰接式巴士总站) ICON转svg、png下载
+title:  bus articulated end(铰接式巴士总站) ICON转svg、png下载
 name: bus-articulated-end
 zhTips: 铰接式巴士总站
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bus-articulated-end  <small style="font-size: 60%;font-weight: 100">铰接式巴士总站</small>
+# bus articulated end  <small style="font-size: 60%;font-weight: 100">铰接式巴士总站</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

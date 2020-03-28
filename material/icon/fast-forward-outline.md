@@ -1,6 +1,6 @@
 ---
 
-title: fast forward outline(快进轮廓) ICON转svg、png下载
+title:  fast forward outline(快进轮廓) ICON转svg、png下载
 name: fast-forward-outline
 zhTips: 快进轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# fast-forward-outline  <small style="font-size: 60%;font-weight: 100">快进轮廓</small>
+# fast forward outline  <small style="font-size: 60%;font-weight: 100">快进轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

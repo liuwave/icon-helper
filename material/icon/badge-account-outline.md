@@ -1,6 +1,6 @@
 ---
 
-title: badge account outline(徽章帐户轮廓) ICON转svg、png下载
+title:  badge account outline(徽章帐户轮廓) ICON转svg、png下载
 name: badge-account-outline
 zhTips: 徽章帐户轮廓,用户徽章轮廓,人徽章轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-badge-outline,person-badge-outline
 
 ---
 
-# badge-account-outline  <small style="font-size: 60%;font-weight: 100">徽章帐户轮廓</small>
+# badge account outline  <small style="font-size: 60%;font-weight: 100">徽章帐户轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

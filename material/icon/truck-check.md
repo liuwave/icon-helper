@@ -1,6 +1,6 @@
 ---
 
-title: truck check(卡车检查) ICON转svg、png下载
+title:  truck check(卡车检查) ICON转svg、png下载
 name: truck-check
 zhTips: 卡车检查,卡车刻度线,快递检查
 tags: []
@@ -8,11 +8,13 @@ search: truck-tick,lorry-check,courier-check
 
 ---
 
-# truck-check  <small style="font-size: 60%;font-weight: 100">卡车检查</small>
+# truck check  <small style="font-size: 60%;font-weight: 100">卡车检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

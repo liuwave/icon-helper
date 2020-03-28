@@ -1,6 +1,6 @@
 ---
 
-title: microphone plus(麦克风加) ICON转svg、png下载
+title:  microphone plus(麦克风加) ICON转svg、png下载
 name: microphone-plus
 zhTips: 麦克风加
 tags: []
@@ -8,11 +8,13 @@ search: microphone-add
 
 ---
 
-# microphone-plus  <small style="font-size: 60%;font-weight: 100">麦克风加</small>
+# microphone plus  <small style="font-size: 60%;font-weight: 100">麦克风加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

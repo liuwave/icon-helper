@@ -1,6 +1,6 @@
 ---
 
-title: language swift(Swift语言) ICON转svg、png下载
+title:  language swift(Swift语言) ICON转svg、png下载
 name: language-swift
 zhTips: Swift语言
 tags: ["developer-languages"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# language-swift  <small style="font-size: 60%;font-weight: 100">Swift语言</small>
+# language swift  <small style="font-size: 60%;font-weight: 100">Swift语言</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

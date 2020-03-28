@@ -1,6 +1,6 @@
 ---
 
-title: clipboard pulse(脉冲剪贴板) ICON转svg、png下载
+title:  clipboard pulse(脉冲剪贴板) ICON转svg、png下载
 name: clipboard-pulse
 zhTips: 脉冲剪贴板,剪贴板要点
 tags: ["medical-hospital"]
@@ -8,11 +8,13 @@ search: clipboard-vitals
 
 ---
 
-# clipboard-pulse  <small style="font-size: 60%;font-weight: 100">脉冲剪贴板</small>
+# clipboard pulse  <small style="font-size: 60%;font-weight: 100">脉冲剪贴板</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

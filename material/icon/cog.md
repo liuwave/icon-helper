@@ -1,8 +1,8 @@
 ---
 
-title: cog(齿轮) ICON转svg、png下载
+title:  cog(齿轮) ICON转svg、png下载
 name: cog
-zhTips: 齿轮
+zhTips: 齿轮,机械,设置,链轮,轮
 tags: ["settings"]
 search: cog,gear
 
@@ -13,6 +13,8 @@ search: cog,gear
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">cog</span><span class="badge-light badge">gear</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">齿轮</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cog.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cog.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">cog</span><span class="badge-light badge">gear</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">齿轮</span><span class="badge-primary badge">机械</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">链轮</span><span class="badge-primary badge">轮</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cog.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cog.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">齿轮，可以表示系统管理。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-cog mdi-48px"></i>
   <i class="mdi mdi-cog mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: alphabet greek(字母希腊语) ICON转svg、png下载
+title:  alphabet greek(字母希腊语) ICON转svg、png下载
 name: alphabet-greek
 zhTips: 字母希腊语,希腊书写系统
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-greek
 
 ---
 
-# alphabet-greek  <small style="font-size: 60%;font-weight: 100">字母希腊语</small>
+# alphabet greek  <small style="font-size: 60%;font-weight: 100">字母希腊语</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

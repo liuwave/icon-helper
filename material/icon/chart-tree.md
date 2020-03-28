@@ -1,6 +1,6 @@
 ---
 
-title: chart tree(图表树) ICON转svg、png下载
+title:  chart tree(图表树) ICON转svg、png下载
 name: chart-tree
 zhTips: 图表树
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chart-tree  <small style="font-size: 60%;font-weight: 100">图表树</small>
+# chart tree  <small style="font-size: 60%;font-weight: 100">图表树</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

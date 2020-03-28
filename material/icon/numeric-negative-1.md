@@ -1,6 +1,6 @@
 ---
 
-title: numeric negative 1(负数1) ICON转svg、png下载
+title:  numeric negative 1(负数1) ICON转svg、png下载
 name: numeric-negative-1
 zhTips: 负数1
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# numeric-negative-1  <small style="font-size: 60%;font-weight: 100">负数1</small>
+# numeric negative 1  <small style="font-size: 60%;font-weight: 100">负数1</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

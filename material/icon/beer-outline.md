@@ -1,6 +1,6 @@
 ---
 
-title: beer outline(啤酒轮廓) ICON转svg、png下载
+title:  beer outline(啤酒轮廓) ICON转svg、png下载
 name: beer-outline
 zhTips: 啤酒轮廓
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# beer-outline  <small style="font-size: 60%;font-weight: 100">啤酒轮廓</small>
+# beer outline  <small style="font-size: 60%;font-weight: 100">啤酒轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

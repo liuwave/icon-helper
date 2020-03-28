@@ -1,6 +1,6 @@
 ---
 
-title: vote(投票) ICON转svg、png下载
+title:  vote(投票) ICON转svg、png下载
 name: vote
 zhTips: 投票,如何投票
 tags: []
@@ -13,6 +13,8 @@ search: how-to-vote
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: cake layered(分层蛋糕) ICON转svg、png下载
+title:  cake layered(分层蛋糕) ICON转svg、png下载
 name: cake-layered
 zhTips: 分层蛋糕
 tags: ["holiday","food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cake-layered  <small style="font-size: 60%;font-weight: 100">分层蛋糕</small>
+# cake layered  <small style="font-size: 60%;font-weight: 100">分层蛋糕</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

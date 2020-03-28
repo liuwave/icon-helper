@@ -1,8 +1,8 @@
 ---
 
-title: thermometer(温度计) ICON转svg、png下载
+title:  thermometer(温度计) ICON转svg、png下载
 name: thermometer
-zhTips: 温度计
+zhTips: 温度计,体温计,covid 19,汞,状态,温度
 tags: ["weather","home-automation","automotive"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">温度计</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/thermometer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/thermometer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">温度计</span><span class="badge-primary badge">体温计</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">汞</span><span class="badge-primary badge">状态</span><span class="badge-primary badge">温度</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/thermometer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/thermometer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">测量人体体温，一般表示医院治疗、诊断等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-thermometer mdi-48px"></i>
   <i class="mdi mdi-thermometer mdi-36px"></i>

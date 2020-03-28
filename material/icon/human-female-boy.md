@@ -1,6 +1,6 @@
 ---
 
-title: human female boy(人类女性男孩) ICON转svg、png下载
+title:  human female boy(人类女性男孩) ICON转svg、png下载
 name: human-female-boy
 zhTips: 人类女性男孩,母亲,妈妈,女童
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search: mother,mom,woman-child,mum
 
 ---
 
-# human-female-boy  <small style="font-size: 60%;font-weight: 100">人类女性男孩</small>
+# human female boy  <small style="font-size: 60%;font-weight: 100">人类女性男孩</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: snowflake variant(雪花装饰) ICON转svg、png下载
+title:  snowflake variant(雪花装饰) ICON转svg、png下载
 name: snowflake-variant
 zhTips: 雪花装饰
 tags: ["holiday","weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# snowflake-variant  <small style="font-size: 60%;font-weight: 100">雪花装饰</small>
+# snowflake variant  <small style="font-size: 60%;font-weight: 100">雪花装饰</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

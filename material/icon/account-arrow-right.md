@@ -1,6 +1,6 @@
 ---
 
-title: account arrow right(帐户右箭头) ICON转svg、png下载
+title:  account arrow right(帐户右箭头) ICON转svg、png下载
 name: account-arrow-right
 zhTips: 帐户右箭头,用户右箭头,人右箭头
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-arrow-right,person-arrow-right
 
 ---
 
-# account-arrow-right  <small style="font-size: 60%;font-weight: 100">帐户右箭头</small>
+# account arrow right  <small style="font-size: 60%;font-weight: 100">帐户右箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

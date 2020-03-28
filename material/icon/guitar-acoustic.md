@@ -1,6 +1,6 @@
 ---
 
-title: guitar acoustic(吉他原声) ICON转svg、png下载
+title:  guitar acoustic(吉他原声) ICON转svg、png下载
 name: guitar-acoustic
 zhTips: 吉他原声
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# guitar-acoustic  <small style="font-size: 60%;font-weight: 100">吉他原声</small>
+# guitar acoustic  <small style="font-size: 60%;font-weight: 100">吉他原声</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

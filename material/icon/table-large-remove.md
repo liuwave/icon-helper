@@ -1,6 +1,6 @@
 ---
 
-title: table large remove(表大号删除) ICON转svg、png下载
+title:  table large remove(表大号删除) ICON转svg、png下载
 name: table-large-remove
 zhTips: 表大号删除
 tags: ["text-content-format","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-large-remove  <small style="font-size: 60%;font-weight: 100">表大号删除</small>
+# table large remove  <small style="font-size: 60%;font-weight: 100">表大号删除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

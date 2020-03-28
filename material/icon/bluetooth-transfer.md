@@ -1,6 +1,6 @@
 ---
 
-title: bluetooth transfer(蓝牙传输) ICON转svg、png下载
+title:  bluetooth transfer(蓝牙传输) ICON转svg、png下载
 name: bluetooth-transfer
 zhTips: 蓝牙传输
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bluetooth-transfer  <small style="font-size: 60%;font-weight: 100">蓝牙传输</small>
+# bluetooth transfer  <small style="font-size: 60%;font-weight: 100">蓝牙传输</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

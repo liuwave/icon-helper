@@ -1,6 +1,6 @@
 ---
 
-title: spider(蜘蛛) ICON转svg、png下载
+title:  spider(蜘蛛) ICON转svg、png下载
 name: spider
 zhTips: 蜘蛛
 tags: ["holiday","nature"]
@@ -13,6 +13,8 @@ search: arachnid
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

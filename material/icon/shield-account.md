@@ -1,6 +1,6 @@
 ---
 
-title: shield account(屏蔽帐户) ICON转svg、png下载
+title:  shield account(屏蔽帐户) ICON转svg、png下载
 name: shield-account
 zhTips: 屏蔽帐户,安全帐户,屏蔽用户,屏蔽人员
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: security-account,shield-user,shield-person
 
 ---
 
-# shield-account  <small style="font-size: 60%;font-weight: 100">屏蔽帐户</small>
+# shield account  <small style="font-size: 60%;font-weight: 100">屏蔽帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

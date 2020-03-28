@@ -1,6 +1,6 @@
 ---
 
-title: rabbit(兔子) ICON转svg、png下载
+title:  rabbit(兔子) ICON转svg、png下载
 name: rabbit
 zhTips: 兔子
 tags: ["animal"]
@@ -13,6 +13,8 @@ search: bunny
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -39,7 +41,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">bunny</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">兔子</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/rabbit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/rabbit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">可表示象征机智，谨慎等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-rabbit mdi-48px"></i>
   <i class="mdi mdi-rabbit mdi-36px"></i>

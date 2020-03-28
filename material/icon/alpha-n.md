@@ -1,6 +1,6 @@
 ---
 
-title: alpha n(alpha n) ICON转svg、png下载
+title:  alpha n(alpha n) ICON转svg、png下载
 name: alpha-n
 zhTips: alpha n,字母n,中性
 tags: ["automotive","alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-n,letter-n,neutral
 
 ---
 
-# alpha-n  <small style="font-size: 60%;font-weight: 100">alpha n</small>
+# alpha n  <small style="font-size: 60%;font-weight: 100">alpha n</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

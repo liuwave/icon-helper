@@ -1,6 +1,6 @@
 ---
 
-title: google play(Google Play) ICON转svg、png下载
+title:  google play(Google Play) ICON转svg、png下载
 name: google-play
 zhTips: Google Play
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-play  <small style="font-size: 60%;font-weight: 100">Google Play</small>
+# google play  <small style="font-size: 60%;font-weight: 100">Google Play</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

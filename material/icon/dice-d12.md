@@ -1,6 +1,6 @@
 ---
 
-title: dice d12(骰子d12) ICON转svg、png下载
+title:  dice d12(骰子d12) ICON转svg、png下载
 name: dice-d12
 zhTips: 骰子d12
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# dice-d12  <small style="font-size: 60%;font-weight: 100">骰子d12</small>
+# dice d12  <small style="font-size: 60%;font-weight: 100">骰子d12</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

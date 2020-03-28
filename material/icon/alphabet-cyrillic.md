@@ -1,6 +1,6 @@
 ---
 
-title: alphabet cyrillic(字母西里尔文) ICON转svg、png下载
+title:  alphabet cyrillic(字母西里尔文) ICON转svg、png下载
 name: alphabet-cyrillic
 zhTips: 字母西里尔文,写作西里尔文系统
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-cyrillic
 
 ---
 
-# alphabet-cyrillic  <small style="font-size: 60%;font-weight: 100">字母西里尔文</small>
+# alphabet cyrillic  <small style="font-size: 60%;font-weight: 100">字母西里尔文</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

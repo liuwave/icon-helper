@@ -1,6 +1,6 @@
 ---
 
-title: crosshairs off(十字准线关闭) ICON转svg、png下载
+title:  crosshairs off(十字准线关闭) ICON转svg、png下载
 name: crosshairs-off
 zhTips: 十字准线关闭
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# crosshairs-off  <small style="font-size: 60%;font-weight: 100">十字准线关闭</small>
+# crosshairs off  <small style="font-size: 60%;font-weight: 100">十字准线关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

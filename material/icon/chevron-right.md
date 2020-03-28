@@ -1,6 +1,6 @@
 ---
 
-title: chevron right(V形向右) ICON转svg、png下载
+title:  chevron right(V形向右) ICON转svg、png下载
 name: chevron-right
 zhTips: V形向右,键盘向右箭头,下一步导航
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: keyboard-arrow-right,navigate-next
 
 ---
 
-# chevron-right  <small style="font-size: 60%;font-weight: 100">V形向右</small>
+# chevron right  <small style="font-size: 60%;font-weight: 100">V形向右</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

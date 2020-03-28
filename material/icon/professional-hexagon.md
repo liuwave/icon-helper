@@ -1,6 +1,6 @@
 ---
 
-title: professional hexagon(专业六角形) ICON转svg、png下载
+title:  professional hexagon(专业六角形) ICON转svg、png下载
 name: professional-hexagon
 zhTips: 专业六角形
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# professional-hexagon  <small style="font-size: 60%;font-weight: 100">专业六角形</small>
+# professional hexagon  <small style="font-size: 60%;font-weight: 100">专业六角形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

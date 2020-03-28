@@ -1,6 +1,6 @@
 ---
 
-title: file lock outline(文件锁概述) ICON转svg、png下载
+title:  file lock outline(文件锁概述) ICON转svg、png下载
 name: file-lock-outline
 zhTips: 文件锁概述
 tags: ["files-folders","lock"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-lock-outline  <small style="font-size: 60%;font-weight: 100">文件锁概述</small>
+# file lock outline  <small style="font-size: 60%;font-weight: 100">文件锁概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

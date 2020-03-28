@@ -1,6 +1,6 @@
 ---
 
-title: alpha b circle outline(字母b圆圈轮廓) ICON转svg、png下载
+title:  alpha b circle outline(字母b圆圈轮廓) ICON转svg、png下载
 name: alpha-b-circle-outline
 zhTips: 字母b圆圈轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-b-circle-outline,letter-b-circle-outline
 
 ---
 
-# alpha-b-circle-outline  <small style="font-size: 60%;font-weight: 100">字母b圆圈轮廓</small>
+# alpha b circle outline  <small style="font-size: 60%;font-weight: 100">字母b圆圈轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

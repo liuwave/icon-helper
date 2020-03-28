@@ -1,6 +1,6 @@
 ---
 
-title: square small(方形小) ICON转svg、png下载
+title:  square small(方形小) ICON转svg、png下载
 name: square-small
 zhTips: 方形小,子弹
 tags: []
@@ -8,11 +8,13 @@ search: bullet
 
 ---
 
-# square-small  <small style="font-size: 60%;font-weight: 100">方形小</small>
+# square small  <small style="font-size: 60%;font-weight: 100">方形小</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

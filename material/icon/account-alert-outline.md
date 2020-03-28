@@ -1,6 +1,6 @@
 ---
 
-title: account alert outline(帐户警报轮廓) ICON转svg、png下载
+title:  account alert outline(帐户警报轮廓) ICON转svg、png下载
 name: account-alert-outline
 zhTips: 帐户警报轮廓,用户警报轮廓,帐户警告轮廓,用户警告轮廓,人员警告轮廓,人员警报轮廓
 tags: ["account-user","alert-error"]
@@ -8,11 +8,13 @@ search: user-alert-outline,account-warning-outline,user-warning-outline,person-w
 
 ---
 
-# account-alert-outline  <small style="font-size: 60%;font-weight: 100">帐户警报轮廓</small>
+# account alert outline  <small style="font-size: 60%;font-weight: 100">帐户警报轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

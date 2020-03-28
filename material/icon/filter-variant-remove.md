@@ -1,6 +1,6 @@
 ---
 
-title: filter variant remove(过滤器变体移除) ICON转svg、png下载
+title:  filter variant remove(过滤器变体移除) ICON转svg、png下载
 name: filter-variant-remove
 zhTips: 过滤器变体移除
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# filter-variant-remove  <small style="font-size: 60%;font-weight: 100">过滤器变体移除</small>
+# filter variant remove  <small style="font-size: 60%;font-weight: 100">过滤器变体移除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

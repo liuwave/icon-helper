@@ -1,6 +1,6 @@
 ---
 
-title: weather hurricane(天气飓风) ICON转svg、png下载
+title:  weather hurricane(天气飓风) ICON转svg、png下载
 name: weather-hurricane
 zhTips: 天气飓风
 tags: ["weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# weather-hurricane  <small style="font-size: 60%;font-weight: 100">天气飓风</small>
+# weather hurricane  <small style="font-size: 60%;font-weight: 100">天气飓风</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

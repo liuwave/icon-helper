@@ -1,6 +1,6 @@
 ---
 
-title: comment text multiple(多个文本注释) ICON转svg、png下载
+title:  comment text multiple(多个文本注释) ICON转svg、png下载
 name: comment-text-multiple
 zhTips: 多个文本注释,文本注释
 tags: []
@@ -8,11 +8,13 @@ search: comments-text
 
 ---
 
-# comment-text-multiple  <small style="font-size: 60%;font-weight: 100">多个文本注释</small>
+# comment text multiple  <small style="font-size: 60%;font-weight: 100">多个文本注释</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

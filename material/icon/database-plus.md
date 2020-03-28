@@ -1,6 +1,6 @@
 ---
 
-title: database plus(数据库加上) ICON转svg、png下载
+title:  database plus(数据库加上) ICON转svg、png下载
 name: database-plus
 zhTips: 数据库加上,数据库添加
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search: database-add
 
 ---
 
-# database-plus  <small style="font-size: 60%;font-weight: 100">数据库加上</small>
+# database plus  <small style="font-size: 60%;font-weight: 100">数据库加上</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

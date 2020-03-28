@@ -1,6 +1,6 @@
 ---
 
-title: printer settings(打印机设置) ICON转svg、png下载
+title:  printer settings(打印机设置) ICON转svg、png下载
 name: printer-settings
 zhTips: 打印机设置
 tags: ["settings","printer"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# printer-settings  <small style="font-size: 60%;font-weight: 100">打印机设置</small>
+# printer settings  <small style="font-size: 60%;font-weight: 100">打印机设置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: folder edit(文件夹编辑) ICON转svg、png下载
+title:  folder edit(文件夹编辑) ICON转svg、png下载
 name: folder-edit
 zhTips: 文件夹编辑
 tags: ["files-folders","edit-modify"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# folder-edit  <small style="font-size: 60%;font-weight: 100">文件夹编辑</small>
+# folder edit  <small style="font-size: 60%;font-weight: 100">文件夹编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

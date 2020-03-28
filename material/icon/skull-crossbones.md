@@ -1,6 +1,6 @@
 ---
 
-title: skull crossbones(骷髅骷髅) ICON转svg、png下载
+title:  skull crossbones(骷髅骷髅) ICON转svg、png下载
 name: skull-crossbones
 zhTips: 骷髅骷髅,海盗旗
 tags: ["gaming-rpg","holiday"]
@@ -8,11 +8,13 @@ search: jolly-roger
 
 ---
 
-# skull-crossbones  <small style="font-size: 60%;font-weight: 100">骷髅骷髅</small>
+# skull crossbones  <small style="font-size: 60%;font-weight: 100">骷髅骷髅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

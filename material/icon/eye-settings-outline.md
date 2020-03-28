@@ -1,6 +1,6 @@
 ---
 
-title: eye settings outline(眼睛设置概述) ICON转svg、png下载
+title:  eye settings outline(眼睛设置概述) ICON转svg、png下载
 name: eye-settings-outline
 zhTips: 眼睛设置概述
 tags: ["settings"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# eye-settings-outline  <small style="font-size: 60%;font-weight: 100">眼睛设置概述</small>
+# eye settings outline  <small style="font-size: 60%;font-weight: 100">眼睛设置概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

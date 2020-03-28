@@ -1,6 +1,6 @@
 ---
 
-title: bus alert(公共汽车警告) ICON转svg、png下载
+title:  bus alert(公共汽车警告) ICON转svg、png下载
 name: bus-alert
 zhTips: 公共汽车警告
 tags: ["alert-error","transportation-road"]
@@ -8,11 +8,13 @@ search: bus-warning
 
 ---
 
-# bus-alert  <small style="font-size: 60%;font-weight: 100">公共汽车警告</small>
+# bus alert  <small style="font-size: 60%;font-weight: 100">公共汽车警告</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

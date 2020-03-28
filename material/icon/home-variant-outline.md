@@ -1,6 +1,6 @@
 ---
 
-title: home variant outline(房屋简介) ICON转svg、png下载
+title:  home variant outline(房屋简介) ICON转svg、png下载
 name: home-variant-outline
 zhTips: 房屋简介
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: house-variant-outline
 
 ---
 
-# home-variant-outline  <small style="font-size: 60%;font-weight: 100">房屋简介</small>
+# home variant outline  <small style="font-size: 60%;font-weight: 100">房屋简介</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

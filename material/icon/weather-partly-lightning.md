@@ -1,6 +1,6 @@
 ---
 
-title: weather partly lightning(天气部分闪电) ICON转svg、png下载
+title:  weather partly lightning(天气部分闪电) ICON转svg、png下载
 name: weather-partly-lightning
 zhTips: 天气部分闪电
 tags: ["weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# weather-partly-lightning  <small style="font-size: 60%;font-weight: 100">天气部分闪电</small>
+# weather partly lightning  <small style="font-size: 60%;font-weight: 100">天气部分闪电</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

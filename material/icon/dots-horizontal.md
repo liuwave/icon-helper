@@ -1,6 +1,6 @@
 ---
 
-title: dots horizontal(水平的点) ICON转svg、png下载
+title:  dots horizontal(水平的点) ICON转svg、png下载
 name: dots-horizontal
 zhTips: 水平的点,更多,省略号,水平,菜单
 tags: []
@@ -8,11 +8,13 @@ search: more,ellipsis-horizontal,more-horiz,menu
 
 ---
 
-# dots-horizontal  <small style="font-size: 60%;font-weight: 100">水平的点</small>
+# dots horizontal  <small style="font-size: 60%;font-weight: 100">水平的点</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

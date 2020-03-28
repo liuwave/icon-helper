@@ -1,8 +1,8 @@
 ---
 
-title: clipboard(剪贴板) ICON转svg、png下载
+title:  clipboard(剪贴板) ICON转svg、png下载
 name: clipboard
-zhTips: 剪贴板
+zhTips: 剪贴板,画板空白,副本,笔记,粘贴,记录
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">剪贴板</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/clipboard.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/clipboard.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">剪贴板</span><span class="badge-primary badge">画板空白</span><span class="badge-primary badge">副本</span><span class="badge-primary badge">笔记</span><span class="badge-primary badge">粘贴</span><span class="badge-primary badge">记录</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/clipboard.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/clipboard.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">剪贴板，一块写字板，也可以表示空的列表。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-clipboard mdi-48px"></i>
   <i class="mdi mdi-clipboard mdi-36px"></i>

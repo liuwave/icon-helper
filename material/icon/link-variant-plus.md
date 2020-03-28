@@ -1,6 +1,6 @@
 ---
 
-title: link variant plus(链接重音符号加) ICON转svg、png下载
+title:  link variant plus(链接重音符号加) ICON转svg、png下载
 name: link-variant-plus
 zhTips: 链接重音符号加
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# link-variant-plus  <small style="font-size: 60%;font-weight: 100">链接重音符号加</small>
+# link variant plus  <small style="font-size: 60%;font-weight: 100">链接重音符号加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

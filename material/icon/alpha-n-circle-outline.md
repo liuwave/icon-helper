@@ -1,6 +1,6 @@
 ---
 
-title: alpha n circle outline(alpha n圆圈轮廓) ICON转svg、png下载
+title:  alpha n circle outline(alpha n圆圈轮廓) ICON转svg、png下载
 name: alpha-n-circle-outline
 zhTips: alpha n圆圈轮廓,字母n圆圈轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-n-circle-outline,letter-n-circle-outline
 
 ---
 
-# alpha-n-circle-outline  <small style="font-size: 60%;font-weight: 100">alpha n圆圈轮廓</small>
+# alpha n circle outline  <small style="font-size: 60%;font-weight: 100">alpha n圆圈轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

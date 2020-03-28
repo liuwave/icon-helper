@@ -1,6 +1,6 @@
 ---
 
-title: map clock(地图时钟) ICON转svg、png下载
+title:  map clock(地图时钟) ICON转svg、png下载
 name: map-clock
 zhTips: 地图时钟,时区
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search: timezone
 
 ---
 
-# map-clock  <small style="font-size: 60%;font-weight: 100">地图时钟</small>
+# map clock  <small style="font-size: 60%;font-weight: 100">地图时钟</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

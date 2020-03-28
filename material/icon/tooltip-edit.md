@@ -1,6 +1,6 @@
 ---
 
-title: tooltip edit(编辑工具提示) ICON转svg、png下载
+title:  tooltip edit(编辑工具提示) ICON转svg、png下载
 name: tooltip-edit
 zhTips: 编辑工具提示
 tags: ["tooltip","edit-modify"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tooltip-edit  <small style="font-size: 60%;font-weight: 100">编辑工具提示</small>
+# tooltip edit  <small style="font-size: 60%;font-weight: 100">编辑工具提示</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

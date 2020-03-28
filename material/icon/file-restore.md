@@ -1,6 +1,6 @@
 ---
 
-title: file restore(文件还原) ICON转svg、png下载
+title:  file restore(文件还原) ICON转svg、png下载
 name: file-restore
 zhTips: 文件还原,还原页面
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: restore-page
 
 ---
 
-# file-restore  <small style="font-size: 60%;font-weight: 100">文件还原</small>
+# file restore  <small style="font-size: 60%;font-weight: 100">文件还原</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

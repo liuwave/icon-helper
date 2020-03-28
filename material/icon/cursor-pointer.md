@@ -1,6 +1,6 @@
 ---
 
-title: cursor pointer(cuinter指针) ICON转svg、png下载
+title:  cursor pointer(cuinter指针) ICON转svg、png下载
 name: cursor-pointer
 zhTips: cuinter指针,光标手
 tags: []
@@ -8,11 +8,13 @@ search: cursor-hand
 
 ---
 
-# cursor-pointer  <small style="font-size: 60%;font-weight: 100">cuinter指针</small>
+# cursor pointer  <small style="font-size: 60%;font-weight: 100">cuinter指针</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

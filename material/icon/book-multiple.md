@@ -1,6 +1,6 @@
 ---
 
-title: book multiple(多本书籍) ICON转svg、png下载
+title:  book multiple(多本书籍) ICON转svg、png下载
 name: book-multiple
 zhTips: 多本书籍
 tags: []
@@ -8,11 +8,13 @@ search: books
 
 ---
 
-# book-multiple  <small style="font-size: 60%;font-weight: 100">多本书籍</small>
+# book multiple  <small style="font-size: 60%;font-weight: 100">多本书籍</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

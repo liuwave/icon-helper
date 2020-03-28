@@ -1,6 +1,6 @@
 ---
 
-title: apple finder(苹果取景器) ICON转svg、png下载
+title:  apple finder(苹果取景器) ICON转svg、png下载
 name: apple-finder
 zhTips: 苹果取景器
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# apple-finder  <small style="font-size: 60%;font-weight: 100">苹果取景器</small>
+# apple finder  <small style="font-size: 60%;font-weight: 100">苹果取景器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

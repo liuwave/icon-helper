@@ -1,8 +1,8 @@
 ---
 
-title: headphones(耳机) ICON转svg、png下载
+title:  headphones(耳机) ICON转svg、png下载
 name: headphones
-zhTips: 耳机,耳麦
+zhTips: 耳机,耳麦,音频,听音乐,音乐,声音,扬声器
 tags: ["audio","device-tech","music"]
 search: headset
 
@@ -13,6 +13,8 @@ search: headset
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">headset</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">耳机</span><span class="badge-primary badge">耳麦</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/headphones.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/headphones.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">headset</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">耳机</span><span class="badge-primary badge">耳麦</span><span class="badge-primary badge">音频</span><span class="badge-primary badge">听音乐</span><span class="badge-primary badge">音乐</span><span class="badge-primary badge">声音</span><span class="badge-primary badge">扬声器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/headphones.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/headphones.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示手机，随声听播放器中的歌曲播放。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-headphones mdi-48px"></i>
   <i class="mdi mdi-headphones mdi-36px"></i>

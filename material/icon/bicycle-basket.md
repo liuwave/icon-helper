@@ -1,6 +1,6 @@
 ---
 
-title: bicycle basket(自行车篮) ICON转svg、png下载
+title:  bicycle basket(自行车篮) ICON转svg、png下载
 name: bicycle-basket
 zhTips: 自行车篮
 tags: []
@@ -8,11 +8,13 @@ search: bike-basket
 
 ---
 
-# bicycle-basket  <small style="font-size: 60%;font-weight: 100">自行车篮</small>
+# bicycle basket  <small style="font-size: 60%;font-weight: 100">自行车篮</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

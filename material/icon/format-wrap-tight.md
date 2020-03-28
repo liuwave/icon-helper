@@ -1,6 +1,6 @@
 ---
 
-title: format wrap tight(紧包格式) ICON转svg、png下载
+title:  format wrap tight(紧包格式) ICON转svg、png下载
 name: format-wrap-tight
 zhTips: 紧包格式
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-wrap-tight  <small style="font-size: 60%;font-weight: 100">紧包格式</small>
+# format wrap tight  <small style="font-size: 60%;font-weight: 100">紧包格式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

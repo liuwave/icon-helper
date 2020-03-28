@@ -1,6 +1,6 @@
 ---
 
-title: cpu 64 bit(CPU 64位) ICON转svg、png下载
+title:  cpu 64 bit(CPU 64位) ICON转svg、png下载
 name: cpu-64-bit
 zhTips: CPU 64位
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cpu-64-bit  <small style="font-size: 60%;font-weight: 100">CPU 64位</small>
+# cpu 64 bit  <small style="font-size: 60%;font-weight: 100">CPU 64位</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

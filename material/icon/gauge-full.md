@@ -1,6 +1,6 @@
 ---
 
-title: gauge full(满量程) ICON转svg、png下载
+title:  gauge full(满量程) ICON转svg、png下载
 name: gauge-full
 zhTips: 满量程
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# gauge-full  <small style="font-size: 60%;font-weight: 100">满量程</small>
+# gauge full  <small style="font-size: 60%;font-weight: 100">满量程</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

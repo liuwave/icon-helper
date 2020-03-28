@@ -1,6 +1,6 @@
 ---
 
-title: battery positive(电池正极) ICON转svg、png下载
+title:  battery positive(电池正极) ICON转svg、png下载
 name: battery-positive
 zhTips: 电池正极
 tags: ["battery","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# battery-positive  <small style="font-size: 60%;font-weight: 100">电池正极</small>
+# battery positive  <small style="font-size: 60%;font-weight: 100">电池正极</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

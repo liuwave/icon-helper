@@ -1,6 +1,6 @@
 ---
 
-title: camera iris(杂志相机) ICON转svg、png下载
+title:  camera iris(杂志相机) ICON转svg、png下载
 name: camera-iris
 zhTips: 杂志相机
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-iris  <small style="font-size: 60%;font-weight: 100">杂志相机</small>
+# camera iris  <small style="font-size: 60%;font-weight: 100">杂志相机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

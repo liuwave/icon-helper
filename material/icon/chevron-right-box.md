@@ -1,6 +1,6 @@
 ---
 
-title: chevron right box(V形人字形右框) ICON转svg、png下载
+title:  chevron right box(V形人字形右框) ICON转svg、png下载
 name: chevron-right-box
 zhTips: V形人字形右框
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chevron-right-box  <small style="font-size: 60%;font-weight: 100">V形人字形右框</small>
+# chevron right box  <small style="font-size: 60%;font-weight: 100">V形人字形右框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: monitor screenshot(监视器屏幕截图) ICON转svg、png下载
+title:  monitor screenshot(监视器屏幕截图) ICON转svg、png下载
 name: monitor-screenshot
 zhTips: 监视器屏幕截图
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# monitor-screenshot  <small style="font-size: 60%;font-weight: 100">监视器屏幕截图</small>
+# monitor screenshot  <small style="font-size: 60%;font-weight: 100">监视器屏幕截图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

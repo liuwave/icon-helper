@@ -1,6 +1,6 @@
 ---
 
-title: library(图书馆) ICON转svg、png下载
+title:  library(图书馆) ICON转svg、png下载
 name: library
 zhTips: 图书馆,当地图书馆
 tags: ["places"]
@@ -13,6 +13,8 @@ search: local-library
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: account cash outline(现金轮廓帐户) ICON转svg、png下载
+title:  account cash outline(现金轮廓帐户) ICON转svg、png下载
 name: account-cash-outline
 zhTips: 现金轮廓帐户
 tags: ["account-user","banking"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# account-cash-outline  <small style="font-size: 60%;font-weight: 100">现金轮廓帐户</small>
+# account cash outline  <small style="font-size: 60%;font-weight: 100">现金轮廓帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

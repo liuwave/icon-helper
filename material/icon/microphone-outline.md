@@ -1,6 +1,6 @@
 ---
 
-title: microphone outline(麦克风轮廓) ICON转svg、png下载
+title:  microphone outline(麦克风轮廓) ICON转svg、png下载
 name: microphone-outline
 zhTips: 麦克风轮廓,麦克风无
 tags: ["music"]
@@ -8,11 +8,13 @@ search: mic-none
 
 ---
 
-# microphone-outline  <small style="font-size: 60%;font-weight: 100">麦克风轮廓</small>
+# microphone outline  <small style="font-size: 60%;font-weight: 100">麦克风轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

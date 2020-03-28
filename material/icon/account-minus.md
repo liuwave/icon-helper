@@ -1,6 +1,6 @@
 ---
 
-title: account minus(帐户减号) ICON转svg、png下载
+title:  account minus(帐户减号) ICON转svg、png下载
 name: account-minus
 zhTips: 帐户减号,用户减号,人减号
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-minus,person-minus
 
 ---
 
-# account-minus  <small style="font-size: 60%;font-weight: 100">帐户减号</small>
+# account minus  <small style="font-size: 60%;font-weight: 100">帐户减号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

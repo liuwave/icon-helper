@@ -1,6 +1,6 @@
 ---
 
-title: gender male female variant(性别) ICON转svg、png下载
+title:  gender male female variant(性别) ICON转svg、png下载
 name: gender-male-female-variant
 zhTips: 性别,男女,汞
 tags: []
@@ -8,11 +8,13 @@ search: mercury
 
 ---
 
-# gender-male-female-variant  <small style="font-size: 60%;font-weight: 100">性别</small>
+# gender male female variant  <small style="font-size: 60%;font-weight: 100">性别</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

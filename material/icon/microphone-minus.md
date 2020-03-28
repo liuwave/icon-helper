@@ -1,6 +1,6 @@
 ---
 
-title: microphone minus(减去麦克风) ICON转svg、png下载
+title:  microphone minus(减去麦克风) ICON转svg、png下载
 name: microphone-minus
 zhTips: 减去麦克风,取下麦克风
 tags: []
@@ -8,11 +8,13 @@ search: microphone-remove
 
 ---
 
-# microphone-minus  <small style="font-size: 60%;font-weight: 100">减去麦克风</small>
+# microphone minus  <small style="font-size: 60%;font-weight: 100">减去麦克风</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

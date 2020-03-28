@@ -1,6 +1,6 @@
 ---
 
-title: math compass(数学罗盘) ICON转svg、png下载
+title:  math compass(数学罗盘) ICON转svg、png下载
 name: math-compass
 zhTips: 数学罗盘
 tags: ["math","drawing-art"]
@@ -8,11 +8,13 @@ search: maths-compass
 
 ---
 
-# math-compass  <small style="font-size: 60%;font-weight: 100">数学罗盘</small>
+# math compass  <small style="font-size: 60%;font-weight: 100">数学罗盘</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

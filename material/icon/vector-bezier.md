@@ -1,6 +1,6 @@
 ---
 
-title: vector bezier(矢量贝塞尔曲线) ICON转svg、png下载
+title:  vector bezier(矢量贝塞尔曲线) ICON转svg、png下载
 name: vector-bezier
 zhTips: 矢量贝塞尔曲线
 tags: ["vector"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# vector-bezier  <small style="font-size: 60%;font-weight: 100">矢量贝塞尔曲线</small>
+# vector bezier  <small style="font-size: 60%;font-weight: 100">矢量贝塞尔曲线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

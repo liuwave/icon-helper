@@ -1,6 +1,6 @@
 ---
 
-title: vector arrange below(向量在下面安排) ICON转svg、png下载
+title:  vector arrange below(向量在下面安排) ICON转svg、png下载
 name: vector-arrange-below
 zhTips: 向量在下面安排
 tags: ["vector","arrange","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# vector-arrange-below  <small style="font-size: 60%;font-weight: 100">向量在下面安排</small>
+# vector arrange below  <small style="font-size: 60%;font-weight: 100">向量在下面安排</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

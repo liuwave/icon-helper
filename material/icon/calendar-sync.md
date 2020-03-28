@@ -1,6 +1,6 @@
 ---
 
-title: calendar sync(日历同步) ICON转svg、png下载
+title:  calendar sync(日历同步) ICON转svg、png下载
 name: calendar-sync
 zhTips: 日历同步,日历重复
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: calendar-repeat
 
 ---
 
-# calendar-sync  <small style="font-size: 60%;font-weight: 100">日历同步</small>
+# calendar sync  <small style="font-size: 60%;font-weight: 100">日历同步</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

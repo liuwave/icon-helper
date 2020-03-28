@@ -1,6 +1,6 @@
 ---
 
-title: video 4k box(视频4k盒) ICON转svg、png下载
+title:  video 4k box(视频4k盒) ICON转svg、png下载
 name: video-4k-box
 zhTips: 视频4k盒,4k
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search: 4k
 
 ---
 
-# video-4k-box  <small style="font-size: 60%;font-weight: 100">视频4k盒</small>
+# video 4k box  <small style="font-size: 60%;font-weight: 100">视频4k盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

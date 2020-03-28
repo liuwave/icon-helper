@@ -1,6 +1,6 @@
 ---
 
-title: account convert(帐户转换) ICON转svg、png下载
+title:  account convert(帐户转换) ICON转svg、png下载
 name: account-convert
 zhTips: 帐户转换,用户转换,人转换
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-convert,person-convert
 
 ---
 
-# account-convert  <small style="font-size: 60%;font-weight: 100">帐户转换</small>
+# account convert  <small style="font-size: 60%;font-weight: 100">帐户转换</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

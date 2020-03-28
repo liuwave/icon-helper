@@ -1,6 +1,6 @@
 ---
 
-title: message minus(减号消息) ICON转svg、png下载
+title:  message minus(减号消息) ICON转svg、png下载
 name: message-minus
 zhTips: 减号消息
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# message-minus  <small style="font-size: 60%;font-weight: 100">减号消息</small>
+# message minus  <small style="font-size: 60%;font-weight: 100">减号消息</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

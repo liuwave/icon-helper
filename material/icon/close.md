@@ -1,6 +1,6 @@
 ---
 
-title: close(关闭) ICON转svg、png下载
+title:  close(关闭) ICON转svg、png下载
 name: close
 zhTips: 关闭,清除,乘法
 tags: ["math"]
@@ -13,6 +13,8 @@ search: clear,multiply
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

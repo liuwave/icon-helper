@@ -1,6 +1,6 @@
 ---
 
-title: decagram(十角星) ICON转svg、png下载
+title:  decagram(十角星) ICON转svg、png下载
 name: decagram
 zhTips: 十角星,爆星
 tags: ["shape"]
@@ -13,6 +13,8 @@ search: starburst
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

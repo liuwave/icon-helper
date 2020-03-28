@@ -1,6 +1,6 @@
 ---
 
-title: progress check(进度检查) ICON转svg、png下载
+title:  progress check(进度检查) ICON转svg、png下载
 name: progress-check
 zhTips: 进度检查,进度刻度
 tags: []
@@ -8,11 +8,13 @@ search: progress-tick
 
 ---
 
-# progress-check  <small style="font-size: 60%;font-weight: 100">进度检查</small>
+# progress check  <small style="font-size: 60%;font-weight: 100">进度检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

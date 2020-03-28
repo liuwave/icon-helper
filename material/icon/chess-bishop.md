@@ -1,6 +1,6 @@
 ---
 
-title: chess bishop(国际象棋主教) ICON转svg、png下载
+title:  chess bishop(国际象棋主教) ICON转svg、png下载
 name: chess-bishop
 zhTips: 国际象棋主教
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chess-bishop  <small style="font-size: 60%;font-weight: 100">国际象棋主教</small>
+# chess bishop  <small style="font-size: 60%;font-weight: 100">国际象棋主教</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

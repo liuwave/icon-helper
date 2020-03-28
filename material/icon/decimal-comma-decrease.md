@@ -1,6 +1,6 @@
 ---
 
-title: decimal comma decrease(十进制逗号减少) ICON转svg、png下载
+title:  decimal comma decrease(十进制逗号减少) ICON转svg、png下载
 name: decimal-comma-decrease
 zhTips: 十进制逗号减少
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# decimal-comma-decrease  <small style="font-size: 60%;font-weight: 100">十进制逗号减少</small>
+# decimal comma decrease  <small style="font-size: 60%;font-weight: 100">十进制逗号减少</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

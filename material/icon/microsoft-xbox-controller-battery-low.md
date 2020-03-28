@@ -1,6 +1,6 @@
 ---
 
-title: microsoft xbox controller battery low(Microsoft Xbox控制器电池电量低) ICON转svg、png下载
+title:  microsoft xbox controller battery low(Microsoft Xbox控制器电池电量低) ICON转svg、png下载
 name: microsoft-xbox-controller-battery-low
 zhTips: Microsoft Xbox控制器电池电量低
 tags: ["battery","gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-xbox-controller-battery-low  <small style="font-size: 60%;font-weight: 100">Microsoft Xbox控制器电池电量低</small>
+# microsoft xbox controller battery low  <small style="font-size: 60%;font-weight: 100">Microsoft Xbox控制器电池电量低</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

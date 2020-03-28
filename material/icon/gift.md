@@ -1,8 +1,8 @@
 ---
 
-title: gift(礼物) ICON转svg、png下载
+title:  gift(礼物) ICON转svg、png下载
 name: gift
-zhTips: 礼物
+zhTips: 礼物,礼品,圣诞节,慷慨,给予,假日,聚会,包裹
 tags: ["holiday"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">礼物</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/gift.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/gift.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">礼物</span><span class="badge-primary badge">礼品</span><span class="badge-primary badge">圣诞节</span><span class="badge-primary badge">慷慨</span><span class="badge-primary badge">给予</span><span class="badge-primary badge">假日</span><span class="badge-primary badge">聚会</span><span class="badge-primary badge">包裹</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/gift.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/gift.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">物品装饰，表示有生日，节日。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-gift mdi-48px"></i>
   <i class="mdi mdi-gift mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: decimal increase(十进制增加) ICON转svg、png下载
+title:  decimal increase(十进制增加) ICON转svg、png下载
 name: decimal-increase
 zhTips: 十进制增加
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# decimal-increase  <small style="font-size: 60%;font-weight: 100">十进制增加</small>
+# decimal increase  <small style="font-size: 60%;font-weight: 100">十进制增加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

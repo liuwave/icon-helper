@@ -1,6 +1,6 @@
 ---
 
-title: file cog(文件齿轮) ICON转svg、png下载
+title:  file cog(文件齿轮) ICON转svg、png下载
 name: file-cog
 zhTips: 文件齿轮,文件设置齿轮
 tags: ["settings","files-folders"]
@@ -8,11 +8,13 @@ search: file-settings-cog
 
 ---
 
-# file-cog  <small style="font-size: 60%;font-weight: 100">文件齿轮</small>
+# file cog  <small style="font-size: 60%;font-weight: 100">文件齿轮</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: cursor default gesture outline(光标默认手势轮廓) ICON转svg、png下载
+title:  cursor default gesture outline(光标默认手势轮廓) ICON转svg、png下载
 name: cursor-default-gesture-outline
 zhTips: 光标默认手势轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cursor-default-gesture-outline  <small style="font-size: 60%;font-weight: 100">光标默认手势轮廓</small>
+# cursor default gesture outline  <small style="font-size: 60%;font-weight: 100">光标默认手势轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

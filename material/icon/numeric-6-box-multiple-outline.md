@@ -1,6 +1,6 @@
 ---
 
-title: numeric 6 box multiple outline(数字6框多个轮廓) ICON转svg、png下载
+title:  numeric 6 box multiple outline(数字6框多个轮廓) ICON转svg、png下载
 name: numeric-6-box-multiple-outline
 zhTips: 数字6框多个轮廓,过滤器6,数字6框轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: filter-6,numeric-six-box-multiple-outline,numeric-6-boxes-outline,number
 
 ---
 
-# numeric-6-box-multiple-outline  <small style="font-size: 60%;font-weight: 100">数字6框多个轮廓</small>
+# numeric 6 box multiple outline  <small style="font-size: 60%;font-weight: 100">数字6框多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

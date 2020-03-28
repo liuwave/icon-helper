@@ -1,6 +1,6 @@
 ---
 
-title: beaker question(烧杯问题) ICON转svg、png下载
+title:  beaker question(烧杯问题) ICON转svg、png下载
 name: beaker-question
 zhTips: 烧杯问题
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# beaker-question  <small style="font-size: 60%;font-weight: 100">烧杯问题</small>
+# beaker question  <small style="font-size: 60%;font-weight: 100">烧杯问题</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

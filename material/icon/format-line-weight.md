@@ -1,6 +1,6 @@
 ---
 
-title: format line weight(重量线格式) ICON转svg、png下载
+title:  format line weight(重量线格式) ICON转svg、png下载
 name: format-line-weight
 zhTips: 重量线格式
 tags: ["text-content-format","drawing-art"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-line-weight  <small style="font-size: 60%;font-weight: 100">重量线格式</small>
+# format line weight  <small style="font-size: 60%;font-weight: 100">重量线格式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

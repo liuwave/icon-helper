@@ -1,8 +1,8 @@
 ---
 
-title: handshake(握手) ICON转svg、png下载
+title:  handshake(握手) ICON转svg、png下载
 name: handshake
-zhTips: 握手,业务,交易,帮助,伙伴关系
+zhTips: 握手,业务,交易,帮助,伙伴关系,握手黑,协议,问候,会议
 tags: []
 search: business,deal,help,partnership
 
@@ -13,6 +13,8 @@ search: business,deal,help,partnership
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">business</span><span class="badge-light badge">deal</span><span class="badge-light badge">help</span><span class="badge-light badge">partnership</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">握手</span><span class="badge-primary badge">业务</span><span class="badge-primary badge">交易</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">伙伴关系</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/handshake.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/handshake.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">business</span><span class="badge-light badge">deal</span><span class="badge-light badge">help</span><span class="badge-light badge">partnership</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">握手</span><span class="badge-primary badge">业务</span><span class="badge-primary badge">交易</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">伙伴关系</span><span class="badge-primary badge">握手黑</span><span class="badge-primary badge">协议</span><span class="badge-primary badge">问候</span><span class="badge-primary badge">会议</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/handshake.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/handshake.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">握手，表示礼仪，友好，社交等象征意义，也可表示合作愉快。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-handshake mdi-48px"></i>
   <i class="mdi mdi-handshake mdi-36px"></i>

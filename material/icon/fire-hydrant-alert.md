@@ -1,6 +1,6 @@
 ---
 
-title: fire hydrant alert(消火栓警报) ICON转svg、png下载
+title:  fire hydrant alert(消火栓警报) ICON转svg、png下载
 name: fire-hydrant-alert
 zhTips: 消火栓警报
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# fire-hydrant-alert  <small style="font-size: 60%;font-weight: 100">消火栓警报</small>
+# fire hydrant alert  <small style="font-size: 60%;font-weight: 100">消火栓警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

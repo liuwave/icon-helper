@@ -1,6 +1,6 @@
 ---
 
-title: sync alert(同步警报) ICON转svg、png下载
+title:  sync alert(同步警报) ICON转svg、png下载
 name: sync-alert
 zhTips: 同步警报,同步警告,同步问题
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search: sync-warning,sync-problem
 
 ---
 
-# sync-alert  <small style="font-size: 60%;font-weight: 100">同步警报</small>
+# sync alert  <small style="font-size: 60%;font-weight: 100">同步警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

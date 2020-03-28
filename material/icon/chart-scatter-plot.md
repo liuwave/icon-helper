@@ -1,6 +1,6 @@
 ---
 
-title: chart scatter plot(图表散点图) ICON转svg、png下载
+title:  chart scatter plot(图表散点图) ICON转svg、png下载
 name: chart-scatter-plot
 zhTips: 图表散点图
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chart-scatter-plot  <small style="font-size: 60%;font-weight: 100">图表散点图</small>
+# chart scatter plot  <small style="font-size: 60%;font-weight: 100">图表散点图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

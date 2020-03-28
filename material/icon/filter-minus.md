@@ -1,6 +1,6 @@
 ---
 
-title: filter minus(负号过滤器) ICON转svg、png下载
+title:  filter minus(负号过滤器) ICON转svg、png下载
 name: filter-minus
 zhTips: 负号过滤器,负号漏斗
 tags: []
@@ -8,11 +8,13 @@ search: funnel-minus
 
 ---
 
-# filter-minus  <small style="font-size: 60%;font-weight: 100">负号过滤器</small>
+# filter minus  <small style="font-size: 60%;font-weight: 100">负号过滤器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

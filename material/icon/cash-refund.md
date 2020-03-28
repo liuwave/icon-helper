@@ -1,6 +1,6 @@
 ---
 
-title: cash refund(现金退款) ICON转svg、png下载
+title:  cash refund(现金退款) ICON转svg、png下载
 name: cash-refund
 zhTips: 现金退款
 tags: ["banking"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cash-refund  <small style="font-size: 60%;font-weight: 100">现金退款</small>
+# cash refund  <small style="font-size: 60%;font-weight: 100">现金退款</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: microsoft xbox controller battery unknown(微软xbox控制器电池未知) ICON转svg、png下载
+title:  microsoft xbox controller battery unknown(微软xbox控制器电池未知) ICON转svg、png下载
 name: microsoft-xbox-controller-battery-unknown
 zhTips: 微软xbox控制器电池未知
 tags: ["battery","gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-xbox-controller-battery-unknown  <small style="font-size: 60%;font-weight: 100">微软xbox控制器电池未知</small>
+# microsoft xbox controller battery unknown  <small style="font-size: 60%;font-weight: 100">微软xbox控制器电池未知</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

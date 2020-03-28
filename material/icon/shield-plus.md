@@ -1,6 +1,6 @@
 ---
 
-title: shield plus(盾牌加号) ICON转svg、png下载
+title:  shield plus(盾牌加号) ICON转svg、png下载
 name: shield-plus
 zhTips: 盾牌加号
 tags: []
@@ -8,11 +8,13 @@ search: shield-add
 
 ---
 
-# shield-plus  <small style="font-size: 60%;font-weight: 100">盾牌加号</small>
+# shield plus  <small style="font-size: 60%;font-weight: 100">盾牌加号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

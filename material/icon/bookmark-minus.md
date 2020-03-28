@@ -1,6 +1,6 @@
 ---
 
-title: bookmark minus(减去书签) ICON转svg、png下载
+title:  bookmark minus(减去书签) ICON转svg、png下载
 name: bookmark-minus
 zhTips: 减去书签
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bookmark-minus  <small style="font-size: 60%;font-weight: 100">减去书签</small>
+# bookmark minus  <small style="font-size: 60%;font-weight: 100">减去书签</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

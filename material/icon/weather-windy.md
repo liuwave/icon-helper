@@ -1,6 +1,6 @@
 ---
 
-title: weather windy(大风天气) ICON转svg、png下载
+title:  weather windy(大风天气) ICON转svg、png下载
 name: weather-windy
 zhTips: 大风天气
 tags: ["weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# weather-windy  <small style="font-size: 60%;font-weight: 100">大风天气</small>
+# weather windy  <small style="font-size: 60%;font-weight: 100">大风天气</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

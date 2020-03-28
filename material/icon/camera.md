@@ -1,8 +1,8 @@
 ---
 
-title: camera(照相机) ICON转svg、png下载
+title:  camera(照相机) ICON转svg、png下载
 name: camera
-zhTips: 照相机,摄影,照相机alt,本地观看,照相照相机
+zhTips: 照相机,摄影,照相机alt,本地观看,照相照相机,相机,图像,镜头,照片,图片,记录,快门,视频
 tags: ["photography","home-automation"]
 search: photography,camera-alt,local-see,photo-camera
 
@@ -13,6 +13,8 @@ search: photography,camera-alt,local-see,photo-camera
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">photography</span><span class="badge-light badge">camera-alt</span><span class="badge-light badge">local-see</span><span class="badge-light badge">photo-camera</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">照相机</span><span class="badge-primary badge">摄影</span><span class="badge-primary badge">照相机alt</span><span class="badge-primary badge">本地观看</span><span class="badge-primary badge">照相照相机</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/camera.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/camera.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">photography</span><span class="badge-light badge">camera-alt</span><span class="badge-light badge">local-see</span><span class="badge-light badge">photo-camera</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">照相机</span><span class="badge-primary badge">摄影</span><span class="badge-primary badge">照相机alt</span><span class="badge-primary badge">本地观看</span><span class="badge-primary badge">照相照相机</span><span class="badge-primary badge">相机</span><span class="badge-primary badge">图像</span><span class="badge-primary badge">镜头</span><span class="badge-primary badge">照片</span><span class="badge-primary badge">图片</span><span class="badge-primary badge">记录</span><span class="badge-primary badge">快门</span><span class="badge-primary badge">视频</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/camera.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/camera.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">相机，可以表示为照相、上传照片内容。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-camera mdi-48px"></i>
   <i class="mdi mdi-camera mdi-36px"></i>

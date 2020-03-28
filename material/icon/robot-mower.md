@@ -1,6 +1,6 @@
 ---
 
-title: robot mower(机器人割草机) ICON转svg、png下载
+title:  robot mower(机器人割草机) ICON转svg、png下载
 name: robot-mower
 zhTips: 机器人割草机,割草机
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: lawn-mower
 
 ---
 
-# robot-mower  <small style="font-size: 60%;font-weight: 100">机器人割草机</small>
+# robot mower  <small style="font-size: 60%;font-weight: 100">机器人割草机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

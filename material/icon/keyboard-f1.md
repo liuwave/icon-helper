@@ -1,6 +1,6 @@
 ---
 
-title: keyboard f1(键盘F1) ICON转svg、png下载
+title:  keyboard f1(键盘F1) ICON转svg、png下载
 name: keyboard-f1
 zhTips: 键盘F1
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# keyboard-f1  <small style="font-size: 60%;font-weight: 100">键盘F1</small>
+# keyboard f1  <small style="font-size: 60%;font-weight: 100">键盘F1</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

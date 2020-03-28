@@ -1,6 +1,6 @@
 ---
 
-title: transit transfer(过境转移) ICON转svg、png下载
+title:  transit transfer(过境转移) ICON转svg、png下载
 name: transit-transfer
 zhTips: 过境转移,车站内转移
 tags: ["transportation-other","navigation"]
@@ -8,11 +8,13 @@ search: transfer-within-a-station
 
 ---
 
-# transit-transfer  <small style="font-size: 60%;font-weight: 100">过境转移</small>
+# transit transfer  <small style="font-size: 60%;font-weight: 100">过境转移</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

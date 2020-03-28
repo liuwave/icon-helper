@@ -1,6 +1,6 @@
 ---
 
-title: knife military(匕首匕首) ICON转svg、png下载
+title:  knife military(匕首匕首) ICON转svg、png下载
 name: knife-military
 zhTips: 匕首匕首
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: dagger
 
 ---
 
-# knife-military  <small style="font-size: 60%;font-weight: 100">匕首匕首</small>
+# knife military  <small style="font-size: 60%;font-weight: 100">匕首匕首</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

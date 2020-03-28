@@ -1,6 +1,6 @@
 ---
 
-title: car cog(汽车齿轮) ICON转svg、png下载
+title:  car cog(汽车齿轮) ICON转svg、png下载
 name: car-cog
 zhTips: 汽车齿轮,汽车设置
 tags: ["automotive","settings"]
@@ -8,11 +8,13 @@ search: car-settings
 
 ---
 
-# car-cog  <small style="font-size: 60%;font-weight: 100">汽车齿轮</small>
+# car cog  <small style="font-size: 60%;font-weight: 100">汽车齿轮</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

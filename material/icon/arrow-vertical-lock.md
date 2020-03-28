@@ -1,6 +1,6 @@
 ---
 
-title: arrow vertical lock(箭头垂直锁) ICON转svg、png下载
+title:  arrow vertical lock(箭头垂直锁) ICON转svg、png下载
 name: arrow-vertical-lock
 zhTips: 箭头垂直锁,滚动垂直锁
 tags: ["lock","arrow"]
@@ -8,11 +8,13 @@ search: scroll-vertical-lock
 
 ---
 
-# arrow-vertical-lock  <small style="font-size: 60%;font-weight: 100">箭头垂直锁</small>
+# arrow vertical lock  <small style="font-size: 60%;font-weight: 100">箭头垂直锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

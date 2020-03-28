@@ -1,6 +1,6 @@
 ---
 
-title: chart bar stacked(堆积条形图) ICON转svg、png下载
+title:  chart bar stacked(堆积条形图) ICON转svg、png下载
 name: chart-bar-stacked
 zhTips: 堆积条形图
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chart-bar-stacked  <small style="font-size: 60%;font-weight: 100">堆积条形图</small>
+# chart bar stacked  <small style="font-size: 60%;font-weight: 100">堆积条形图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

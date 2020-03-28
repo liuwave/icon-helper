@@ -1,6 +1,6 @@
 ---
 
-title: lightbulb cfl(灯泡cfl) ICON转svg、png下载
+title:  lightbulb cfl(灯泡cfl) ICON转svg、png下载
 name: lightbulb-cfl
 zhTips: 灯泡cfl
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: bulb-cfl
 
 ---
 
-# lightbulb-cfl  <small style="font-size: 60%;font-weight: 100">灯泡cfl</small>
+# lightbulb cfl  <small style="font-size: 60%;font-weight: 100">灯泡cfl</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

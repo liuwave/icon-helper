@@ -1,6 +1,6 @@
 ---
 
-title: transfer left(左移) ICON转svg、png下载
+title:  transfer left(左移) ICON转svg、png下载
 name: transfer-left
 zhTips: 左移
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# transfer-left  <small style="font-size: 60%;font-weight: 100">左移</small>
+# transfer left  <small style="font-size: 60%;font-weight: 100">左移</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

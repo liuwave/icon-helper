@@ -1,6 +1,6 @@
 ---
 
-title: gas cylinder(气瓶) ICON转svg、png下载
+title:  gas cylinder(气瓶) ICON转svg、png下载
 name: gas-cylinder
 zhTips: 气瓶,气罐,氧气罐
 tags: []
@@ -8,11 +8,13 @@ search: tank,oxygen-tank
 
 ---
 
-# gas-cylinder  <small style="font-size: 60%;font-weight: 100">气瓶</small>
+# gas cylinder  <small style="font-size: 60%;font-weight: 100">气瓶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: message alert(消息警报) ICON转svg、png下载
+title:  message alert(消息警报) ICON转svg、png下载
 name: message-alert
 zhTips: 消息警报,反馈,消息警告,公告,短信失败
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search: feedback,message-warning,announcement,sms-failed
 
 ---
 
-# message-alert  <small style="font-size: 60%;font-weight: 100">消息警报</small>
+# message alert  <small style="font-size: 60%;font-weight: 100">消息警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

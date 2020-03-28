@@ -1,6 +1,6 @@
 ---
 
-title: battery alert variant(电池警报口音) ICON转svg、png下载
+title:  battery alert variant(电池警报口音) ICON转svg、png下载
 name: battery-alert-variant
 zhTips: 电池警报口音
 tags: ["battery","alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# battery-alert-variant  <small style="font-size: 60%;font-weight: 100">电池警报口音</small>
+# battery alert variant  <small style="font-size: 60%;font-weight: 100">电池警报口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

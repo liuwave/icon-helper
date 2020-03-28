@@ -1,6 +1,6 @@
 ---
 
-title: format font size decrease(格式字体大小减小) ICON转svg、png下载
+title:  format font size decrease(格式字体大小减小) ICON转svg、png下载
 name: format-font-size-decrease
 zhTips: 格式字体大小减小
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-font-size-decrease  <small style="font-size: 60%;font-weight: 100">格式字体大小减小</small>
+# format font size decrease  <small style="font-size: 60%;font-weight: 100">格式字体大小减小</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

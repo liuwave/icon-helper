@@ -1,6 +1,6 @@
 ---
 
-title: magnify minus(放大减号) ICON转svg、png下载
+title:  magnify minus(放大减号) ICON转svg、png下载
 name: magnify-minus
 zhTips: 放大减号,缩小,搜索减号
 tags: []
@@ -8,11 +8,13 @@ search: zoom-out,search-minus
 
 ---
 
-# magnify-minus  <small style="font-size: 60%;font-weight: 100">放大减号</small>
+# magnify minus  <small style="font-size: 60%;font-weight: 100">放大减号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

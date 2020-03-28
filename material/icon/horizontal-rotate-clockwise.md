@@ -1,6 +1,6 @@
 ---
 
-title: horizontal rotate clockwise(顺时针水平旋转) ICON转svg、png下载
+title:  horizontal rotate clockwise(顺时针水平旋转) ICON转svg、png下载
 name: horizontal-rotate-clockwise
 zhTips: 顺时针水平旋转
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# horizontal-rotate-clockwise  <small style="font-size: 60%;font-weight: 100">顺时针水平旋转</small>
+# horizontal rotate clockwise  <small style="font-size: 60%;font-weight: 100">顺时针水平旋转</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

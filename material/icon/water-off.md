@@ -1,6 +1,6 @@
 ---
 
-title: water off(不用水) ICON转svg、png下载
+title:  water off(不用水) ICON转svg、png下载
 name: water-off
 zhTips: 不用水,不使用格式色彩复位,不使用反型脂肪,不使用血液
 tags: []
@@ -8,11 +8,13 @@ search: format-color-reset,trans-fat-off,blood-off
 
 ---
 
-# water-off  <small style="font-size: 60%;font-weight: 100">不用水</small>
+# water off  <small style="font-size: 60%;font-weight: 100">不用水</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

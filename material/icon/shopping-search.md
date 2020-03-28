@@ -1,6 +1,6 @@
 ---
 
-title: shopping search(购物搜索) ICON转svg、png下载
+title:  shopping search(购物搜索) ICON转svg、png下载
 name: shopping-search
 zhTips: 购物搜索
 tags: ["shopping"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# shopping-search  <small style="font-size: 60%;font-weight: 100">购物搜索</small>
+# shopping search  <small style="font-size: 60%;font-weight: 100">购物搜索</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

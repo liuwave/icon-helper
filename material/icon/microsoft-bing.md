@@ -1,6 +1,6 @@
 ---
 
-title: microsoft bing(微软必应) ICON转svg、png下载
+title:  microsoft bing(微软必应) ICON转svg、png下载
 name: microsoft-bing
 zhTips: 微软必应
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-bing  <small style="font-size: 60%;font-weight: 100">微软必应</small>
+# microsoft bing  <small style="font-size: 60%;font-weight: 100">微软必应</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

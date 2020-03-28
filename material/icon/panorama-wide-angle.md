@@ -1,6 +1,6 @@
 ---
 
-title: panorama wide angle(全景广角) ICON转svg、png下载
+title:  panorama wide angle(全景广角) ICON转svg、png下载
 name: panorama-wide-angle
 zhTips: 全景广角
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# panorama-wide-angle  <small style="font-size: 60%;font-weight: 100">全景广角</small>
+# panorama wide angle  <small style="font-size: 60%;font-weight: 100">全景广角</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

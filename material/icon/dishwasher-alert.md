@@ -1,6 +1,6 @@
 ---
 
-title: dishwasher alert(洗碗机警报) ICON转svg、png下载
+title:  dishwasher alert(洗碗机警报) ICON转svg、png下载
 name: dishwasher-alert
 zhTips: 洗碗机警报
 tags: ["home-automation","alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# dishwasher-alert  <small style="font-size: 60%;font-weight: 100">洗碗机警报</small>
+# dishwasher alert  <small style="font-size: 60%;font-weight: 100">洗碗机警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: file tree(文件树) ICON转svg、png下载
+title:  file tree(文件树) ICON转svg、png下载
 name: file-tree
 zhTips: 文件树,子任务
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: subtasks
 
 ---
 
-# file-tree  <small style="font-size: 60%;font-weight: 100">文件树</small>
+# file tree  <small style="font-size: 60%;font-weight: 100">文件树</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

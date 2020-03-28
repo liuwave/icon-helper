@@ -1,6 +1,6 @@
 ---
 
-title: close network outline(关闭网络轮廓) ICON转svg、png下载
+title:  close network outline(关闭网络轮廓) ICON转svg、png下载
 name: close-network-outline
 zhTips: 关闭网络轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# close-network-outline  <small style="font-size: 60%;font-weight: 100">关闭网络轮廓</small>
+# close network outline  <small style="font-size: 60%;font-weight: 100">关闭网络轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

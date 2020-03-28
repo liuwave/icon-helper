@@ -1,6 +1,6 @@
 ---
 
-title: leaf maple off(离开枫叶) ICON转svg、png下载
+title:  leaf maple off(离开枫叶) ICON转svg、png下载
 name: leaf-maple-off
 zhTips: 离开枫叶
 tags: ["nature"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# leaf-maple-off  <small style="font-size: 60%;font-weight: 100">离开枫叶</small>
+# leaf maple off  <small style="font-size: 60%;font-weight: 100">离开枫叶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

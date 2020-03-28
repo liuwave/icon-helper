@@ -1,6 +1,6 @@
 ---
 
-title: dice d10(骰子d10) ICON转svg、png下载
+title:  dice d10(骰子d10) ICON转svg、png下载
 name: dice-d10
 zhTips: 骰子d10
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# dice-d10  <small style="font-size: 60%;font-weight: 100">骰子d10</small>
+# dice d10  <small style="font-size: 60%;font-weight: 100">骰子d10</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

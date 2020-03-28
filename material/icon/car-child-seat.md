@@ -1,6 +1,6 @@
 ---
 
-title: car child seat(汽车儿童座椅) ICON转svg、png下载
+title:  car child seat(汽车儿童座椅) ICON转svg、png下载
 name: car-child-seat
 zhTips: 汽车儿童座椅
 tags: ["automotive","people-family"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# car-child-seat  <small style="font-size: 60%;font-weight: 100">汽车儿童座椅</small>
+# car child seat  <small style="font-size: 60%;font-weight: 100">汽车儿童座椅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

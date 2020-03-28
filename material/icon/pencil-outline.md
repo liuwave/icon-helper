@@ -1,6 +1,6 @@
 ---
 
-title: pencil outline(铅笔轮廓) ICON转svg、png下载
+title:  pencil outline(铅笔轮廓) ICON转svg、png下载
 name: pencil-outline
 zhTips: 铅笔轮廓,编辑轮廓,创建轮廓,模式编辑轮廓
 tags: ["drawing-art","edit-modify"]
@@ -8,11 +8,13 @@ search: edit-outline,create-outline,mode-edit-outline
 
 ---
 
-# pencil-outline  <small style="font-size: 60%;font-weight: 100">铅笔轮廓</small>
+# pencil outline  <small style="font-size: 60%;font-weight: 100">铅笔轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

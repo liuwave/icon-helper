@@ -1,6 +1,6 @@
 ---
 
-title: drag horizontal variant(拖动水平变形) ICON转svg、png下载
+title:  drag horizontal variant(拖动水平变形) ICON转svg、png下载
 name: drag-horizontal-variant
 zhTips: 拖动水平变形
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# drag-horizontal-variant  <small style="font-size: 60%;font-weight: 100">拖动水平变形</small>
+# drag horizontal variant  <small style="font-size: 60%;font-weight: 100">拖动水平变形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

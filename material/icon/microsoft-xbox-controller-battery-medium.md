@@ -1,6 +1,6 @@
 ---
 
-title: microsoft xbox controller battery medium(Microsoft xbox控制器电池介质) ICON转svg、png下载
+title:  microsoft xbox controller battery medium(Microsoft xbox控制器电池介质) ICON转svg、png下载
 name: microsoft-xbox-controller-battery-medium
 zhTips: Microsoft xbox控制器电池介质
 tags: ["battery","gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-xbox-controller-battery-medium  <small style="font-size: 60%;font-weight: 100">Microsoft xbox控制器电池介质</small>
+# microsoft xbox controller battery medium  <small style="font-size: 60%;font-weight: 100">Microsoft xbox控制器电池介质</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: network strength 2 alert(网络强度2警告) ICON转svg、png下载
+title:  network strength 2 alert(网络强度2警告) ICON转svg、png下载
 name: network-strength-2-alert
 zhTips: 网络强度2警告
 tags: ["cellphone-phone","alert-error"]
@@ -8,11 +8,13 @@ search: network-strength-2-warning
 
 ---
 
-# network-strength-2-alert  <small style="font-size: 60%;font-weight: 100">网络强度2警告</small>
+# network strength 2 alert  <small style="font-size: 60%;font-weight: 100">网络强度2警告</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

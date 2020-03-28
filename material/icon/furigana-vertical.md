@@ -1,6 +1,6 @@
 ---
 
-title: furigana vertical(furigana垂直) ICON转svg、png下载
+title:  furigana vertical(furigana垂直) ICON转svg、png下载
 name: furigana-vertical
 zhTips: furigana垂直,注音,红宝石垂直
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: zhuyin,ruby-vertical
 
 ---
 
-# furigana-vertical  <small style="font-size: 60%;font-weight: 100">furigana垂直</small>
+# furigana vertical  <small style="font-size: 60%;font-weight: 100">furigana垂直</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

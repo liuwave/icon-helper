@@ -1,6 +1,6 @@
 ---
 
-title: bee(蜜蜂) ICON转svg、png下载
+title:  bee(蜜蜂) ICON转svg、png下载
 name: bee
 zhTips: 蜜蜂,苍蝇,昆虫
 tags: ["nature"]
@@ -13,6 +13,8 @@ search: fly,insect
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

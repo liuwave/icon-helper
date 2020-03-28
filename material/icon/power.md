@@ -1,6 +1,6 @@
 ---
 
-title: power(电源) ICON转svg、png下载
+title:  power(电源) ICON转svg、png下载
 name: power
 zhTips: 电源,新的电源设置,关闭
 tags: ["home-automation"]
@@ -13,6 +13,8 @@ search: power-settings-new,shutdown
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

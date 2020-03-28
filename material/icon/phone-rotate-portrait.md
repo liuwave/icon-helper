@@ -1,6 +1,6 @@
 ---
 
-title: phone rotate portrait(手机旋转人像) ICON转svg、png下载
+title:  phone rotate portrait(手机旋转人像) ICON转svg、png下载
 name: phone-rotate-portrait
 zhTips: 手机旋转人像
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# phone-rotate-portrait  <small style="font-size: 60%;font-weight: 100">手机旋转人像</small>
+# phone rotate portrait  <small style="font-size: 60%;font-weight: 100">手机旋转人像</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

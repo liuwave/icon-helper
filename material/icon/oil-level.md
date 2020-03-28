@@ -1,6 +1,6 @@
 ---
 
-title: oil level(油位) ICON转svg、png下载
+title:  oil level(油位) ICON转svg、png下载
 name: oil-level
 zhTips: 油位
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# oil-level  <small style="font-size: 60%;font-weight: 100">油位</small>
+# oil level  <small style="font-size: 60%;font-weight: 100">油位</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

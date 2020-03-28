@@ -1,6 +1,6 @@
 ---
 
-title: file key outline(文件密钥概述) ICON转svg、png下载
+title:  file key outline(文件密钥概述) ICON转svg、png下载
 name: file-key-outline
 zhTips: 文件密钥概述
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-key-outline  <small style="font-size: 60%;font-weight: 100">文件密钥概述</small>
+# file key outline  <small style="font-size: 60%;font-weight: 100">文件密钥概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

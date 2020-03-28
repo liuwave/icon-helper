@@ -1,6 +1,6 @@
 ---
 
-title: open in app(在应用程序中打开) ICON转svg、png下载
+title:  open in app(在应用程序中打开) ICON转svg、png下载
 name: open-in-app
 zhTips: 在应用程序中打开,在浏览器中打开
 tags: []
@@ -8,11 +8,13 @@ search: open-in-browser
 
 ---
 
-# open-in-app  <small style="font-size: 60%;font-weight: 100">在应用程序中打开</small>
+# open in app  <small style="font-size: 60%;font-weight: 100">在应用程序中打开</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

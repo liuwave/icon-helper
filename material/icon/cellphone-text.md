@@ -1,6 +1,6 @@
 ---
 
-title: cellphone text(手机文字) ICON转svg、png下载
+title:  cellphone text(手机文字) ICON转svg、png下载
 name: cellphone-text
 zhTips: 手机文字,智能手机文字
 tags: ["cellphone-phone","device-tech"]
@@ -8,11 +8,13 @@ search: mobile-phone-text,smartphone-text
 
 ---
 
-# cellphone-text  <small style="font-size: 60%;font-weight: 100">手机文字</small>
+# cellphone text  <small style="font-size: 60%;font-weight: 100">手机文字</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

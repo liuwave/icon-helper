@@ -1,6 +1,6 @@
 ---
 
-title: slash forward box(斜线前进盒) ICON转svg、png下载
+title:  slash forward box(斜线前进盒) ICON转svg、png下载
 name: slash-forward-box
 zhTips: 斜线前进盒,分隔盒
 tags: ["math"]
@@ -8,11 +8,13 @@ search: divide-box,division-box
 
 ---
 
-# slash-forward-box  <small style="font-size: 60%;font-weight: 100">斜线前进盒</small>
+# slash forward box  <small style="font-size: 60%;font-weight: 100">斜线前进盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

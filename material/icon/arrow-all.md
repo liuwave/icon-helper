@@ -1,6 +1,6 @@
 ---
 
-title: arrow all(arrow所有) ICON转svg、png下载
+title:  arrow all(arrow所有) ICON转svg、png下载
 name: arrow-all
 zhTips: arrow所有
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# arrow-all  <small style="font-size: 60%;font-weight: 100">arrow所有</small>
+# arrow all  <small style="font-size: 60%;font-weight: 100">arrow所有</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

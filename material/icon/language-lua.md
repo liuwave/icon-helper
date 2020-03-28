@@ -1,6 +1,6 @@
 ---
 
-title: language lua(语言lua) ICON转svg、png下载
+title:  language lua(语言lua) ICON转svg、png下载
 name: language-lua
 zhTips: 语言lua
 tags: ["developer-languages"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# language-lua  <small style="font-size: 60%;font-weight: 100">语言lua</small>
+# language lua  <small style="font-size: 60%;font-weight: 100">语言lua</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

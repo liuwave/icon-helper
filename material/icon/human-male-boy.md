@@ -1,6 +1,6 @@
 ---
 
-title: human male boy(人类男孩) ICON转svg、png下载
+title:  human male boy(人类男孩) ICON转svg、png下载
 name: human-male-boy
 zhTips: 人类男孩,父亲,男孩
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search: father,dad,man-child
 
 ---
 
-# human-male-boy  <small style="font-size: 60%;font-weight: 100">人类男孩</small>
+# human male boy  <small style="font-size: 60%;font-weight: 100">人类男孩</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

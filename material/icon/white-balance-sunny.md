@@ -1,6 +1,6 @@
 ---
 
-title: white balance sunny(白平衡晴天) ICON转svg、png下载
+title:  white balance sunny(白平衡晴天) ICON转svg、png下载
 name: white-balance-sunny
 zhTips: 白平衡晴天,wb晴天
 tags: ["photography"]
@@ -8,11 +8,13 @@ search: wb-sunny
 
 ---
 
-# white-balance-sunny  <small style="font-size: 60%;font-weight: 100">白平衡晴天</small>
+# white balance sunny  <small style="font-size: 60%;font-weight: 100">白平衡晴天</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

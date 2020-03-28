@@ -1,6 +1,6 @@
 ---
 
-title: seat passenger(乘客座椅) ICON转svg、png下载
+title:  seat passenger(乘客座椅) ICON转svg、png下载
 name: seat-passenger
 zhTips: 乘客座椅
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# seat-passenger  <small style="font-size: 60%;font-weight: 100">乘客座椅</small>
+# seat passenger  <small style="font-size: 60%;font-weight: 100">乘客座椅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

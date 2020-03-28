@@ -1,6 +1,6 @@
 ---
 
-title: deathly hallows(致命的圣殿) ICON转svg、png下载
+title:  deathly hallows(致命的圣殿) ICON转svg、png下载
 name: deathly-hallows
 zhTips: 致命的圣殿,哈利·波特
 tags: []
@@ -8,11 +8,13 @@ search: harry-potter
 
 ---
 
-# deathly-hallows  <small style="font-size: 60%;font-weight: 100">致命的圣殿</small>
+# deathly hallows  <small style="font-size: 60%;font-weight: 100">致命的圣殿</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

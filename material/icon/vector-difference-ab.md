@@ -1,6 +1,6 @@
 ---
 
-title: vector difference ab(向量差ab) ICON转svg、png下载
+title:  vector difference ab(向量差ab) ICON转svg、png下载
 name: vector-difference-ab
 zhTips: 向量差ab
 tags: ["vector","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# vector-difference-ab  <small style="font-size: 60%;font-weight: 100">向量差ab</small>
+# vector difference ab  <small style="font-size: 60%;font-weight: 100">向量差ab</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

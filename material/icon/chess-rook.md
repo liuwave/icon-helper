@@ -1,6 +1,6 @@
 ---
 
-title: chess rook(国际象棋车) ICON转svg、png下载
+title:  chess rook(国际象棋车) ICON转svg、png下载
 name: chess-rook
 zhTips: 国际象棋车,国际象棋城堡
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: chess-castle
 
 ---
 
-# chess-rook  <small style="font-size: 60%;font-weight: 100">国际象棋车</small>
+# chess rook  <small style="font-size: 60%;font-weight: 100">国际象棋车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alpha u box(字母u框) ICON转svg、png下载
+title:  alpha u box(字母u框) ICON转svg、png下载
 name: alpha-u-box
 zhTips: 字母u框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-u-box,letter-u-box
 
 ---
 
-# alpha-u-box  <small style="font-size: 60%;font-weight: 100">字母u框</small>
+# alpha u box  <small style="font-size: 60%;font-weight: 100">字母u框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

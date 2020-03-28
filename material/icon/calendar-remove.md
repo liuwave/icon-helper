@@ -1,6 +1,6 @@
 ---
 
-title: calendar remove(日历删除) ICON转svg、png下载
+title:  calendar remove(日历删除) ICON转svg、png下载
 name: calendar-remove
 zhTips: 日历删除,事件忙,事件删除
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: event-busy,event-remove
 
 ---
 
-# calendar-remove  <small style="font-size: 60%;font-weight: 100">日历删除</small>
+# calendar remove  <small style="font-size: 60%;font-weight: 100">日历删除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

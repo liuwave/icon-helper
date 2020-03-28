@@ -1,6 +1,6 @@
 ---
 
-title: cash marker(现金标记) ICON转svg、png下载
+title:  cash marker(现金标记) ICON转svg、png下载
 name: cash-marker
 zhTips: 现金标记,鳕鱼,货到付款
 tags: ["banking"]
@@ -8,11 +8,13 @@ search: cod,cash-on-delivery
 
 ---
 
-# cash-marker  <small style="font-size: 60%;font-weight: 100">现金标记</small>
+# cash marker  <small style="font-size: 60%;font-weight: 100">现金标记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

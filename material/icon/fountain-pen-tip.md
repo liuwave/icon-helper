@@ -1,6 +1,6 @@
 ---
 
-title: fountain pen tip(钢笔笔尖) ICON转svg、png下载
+title:  fountain pen tip(钢笔笔尖) ICON转svg、png下载
 name: fountain-pen-tip
 zhTips: 钢笔笔尖
 tags: ["drawing-art"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# fountain-pen-tip  <small style="font-size: 60%;font-weight: 100">钢笔笔尖</small>
+# fountain pen tip  <small style="font-size: 60%;font-weight: 100">钢笔笔尖</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

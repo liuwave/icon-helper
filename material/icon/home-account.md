@@ -1,6 +1,6 @@
 ---
 
-title: home account(家庭帐户) ICON转svg、png下载
+title:  home account(家庭帐户) ICON转svg、png下载
 name: home-account
 zhTips: 家庭帐户,家庭用户
 tags: ["account-user","home-automation"]
@@ -8,11 +8,13 @@ search: home-user
 
 ---
 
-# home-account  <small style="font-size: 60%;font-weight: 100">家庭帐户</small>
+# home account  <small style="font-size: 60%;font-weight: 100">家庭帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

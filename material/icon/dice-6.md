@@ -1,6 +1,6 @@
 ---
 
-title: dice 6(骰子6) ICON转svg、png下载
+title:  dice 6(骰子6) ICON转svg、png下载
 name: dice-6
 zhTips: 骰子6
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: die-6,dice-six
 
 ---
 
-# dice-6  <small style="font-size: 60%;font-weight: 100">骰子6</small>
+# dice 6  <small style="font-size: 60%;font-weight: 100">骰子6</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: message reply text(消息回复文字) ICON转svg、png下载
+title:  message reply text(消息回复文字) ICON转svg、png下载
 name: message-reply-text
 zhTips: 消息回复文字,评论,插入评论
 tags: []
@@ -8,11 +8,13 @@ search: comment,insert-comment
 
 ---
 
-# message-reply-text  <small style="font-size: 60%;font-weight: 100">消息回复文字</small>
+# message reply text  <small style="font-size: 60%;font-weight: 100">消息回复文字</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: close box multiple outline(关闭框多个轮廓) ICON转svg、png下载
+title:  close box multiple outline(关闭框多个轮廓) ICON转svg、png下载
 name: close-box-multiple-outline
 zhTips: 关闭框多个轮廓,关闭框轮廓,库删除轮廓,库关闭轮廓
 tags: []
@@ -8,11 +8,13 @@ search: close-boxes-outline,library-remove-outline,library-close-outline
 
 ---
 
-# close-box-multiple-outline  <small style="font-size: 60%;font-weight: 100">关闭框多个轮廓</small>
+# close box multiple outline  <small style="font-size: 60%;font-weight: 100">关闭框多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

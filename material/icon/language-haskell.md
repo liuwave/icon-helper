@@ -1,6 +1,6 @@
 ---
 
-title: language haskell(语言haskell) ICON转svg、png下载
+title:  language haskell(语言haskell) ICON转svg、png下载
 name: language-haskell
 zhTips: 语言haskell
 tags: ["developer-languages"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# language-haskell  <small style="font-size: 60%;font-weight: 100">语言haskell</small>
+# language haskell  <small style="font-size: 60%;font-weight: 100">语言haskell</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

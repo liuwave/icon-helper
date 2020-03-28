@@ -1,6 +1,6 @@
 ---
 
-title: tag off(标记为) ICON转svg、png下载
+title:  tag off(标记为) ICON转svg、png下载
 name: tag-off
 zhTips: 标记为
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tag-off  <small style="font-size: 60%;font-weight: 100">标记为</small>
+# tag off  <small style="font-size: 60%;font-weight: 100">标记为</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

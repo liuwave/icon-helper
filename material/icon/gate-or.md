@@ -1,6 +1,6 @@
 ---
 
-title: gate or(门或) ICON转svg、png下载
+title:  gate or(门或) ICON转svg、png下载
 name: gate-or
 zhTips: 门或,逻辑门或
 tags: []
@@ -8,11 +8,13 @@ search: logic-gate-or
 
 ---
 
-# gate-or  <small style="font-size: 60%;font-weight: 100">门或</small>
+# gate or  <small style="font-size: 60%;font-weight: 100">门或</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alpha i circle(alpha我圈) ICON转svg、png下载
+title:  alpha i circle(alpha我圈) ICON转svg、png下载
 name: alpha-i-circle
 zhTips: alpha我圈,字母i圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-i-circle,letter-i-circle
 
 ---
 
-# alpha-i-circle  <small style="font-size: 60%;font-weight: 100">alpha我圈</small>
+# alpha i circle  <small style="font-size: 60%;font-weight: 100">alpha我圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: license(许可证) ICON转svg、png下载
+title:  license(许可证) ICON转svg、png下载
 name: license
 zhTips: 许可证,色带,奖品,奖励,图章
 tags: []
@@ -13,6 +13,8 @@ search: ribbon,prize,award,seal
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

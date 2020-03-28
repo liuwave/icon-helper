@@ -1,6 +1,6 @@
 ---
 
-title: toy brick search outline(玩具砖搜索轮廓) ICON转svg、png下载
+title:  toy brick search outline(玩具砖搜索轮廓) ICON转svg、png下载
 name: toy-brick-search-outline
 zhTips: 玩具砖搜索轮廓,乐高玩具,插件,扩展名
 tags: []
@@ -8,11 +8,13 @@ search: lego,plugin,extension
 
 ---
 
-# toy-brick-search-outline  <small style="font-size: 60%;font-weight: 100">玩具砖搜索轮廓</small>
+# toy brick search outline  <small style="font-size: 60%;font-weight: 100">玩具砖搜索轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

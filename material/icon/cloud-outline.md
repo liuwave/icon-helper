@@ -1,6 +1,6 @@
 ---
 
-title: cloud outline(云轮廓) ICON转svg、png下载
+title:  cloud outline(云轮廓) ICON转svg、png下载
 name: cloud-outline
 zhTips: 云轮廓,云队列
 tags: ["cloud","weather"]
@@ -8,11 +8,13 @@ search: cloud-queue
 
 ---
 
-# cloud-outline  <small style="font-size: 60%;font-weight: 100">云轮廓</small>
+# cloud outline  <small style="font-size: 60%;font-weight: 100">云轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

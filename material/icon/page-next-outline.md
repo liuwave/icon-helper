@@ -1,6 +1,6 @@
 ---
 
-title: page next outline(页下一个轮廓) ICON转svg、png下载
+title:  page next outline(页下一个轮廓) ICON转svg、png下载
 name: page-next-outline
 zhTips: 页下一个轮廓,了解更多轮廓
 tags: []
@@ -8,11 +8,13 @@ search: read-more-outline
 
 ---
 
-# page-next-outline  <small style="font-size: 60%;font-weight: 100">页下一个轮廓</small>
+# page next outline  <small style="font-size: 60%;font-weight: 100">页下一个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

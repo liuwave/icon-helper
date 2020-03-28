@@ -1,6 +1,6 @@
 ---
 
-title: file image(文件图像) ICON转svg、png下载
+title:  file image(文件图像) ICON转svg、png下载
 name: file-image
 zhTips: 文件图像
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-image  <small style="font-size: 60%;font-weight: 100">文件图像</small>
+# file image  <small style="font-size: 60%;font-weight: 100">文件图像</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: eyedropper minus(减去吸管) ICON转svg、png下载
+title:  eyedropper minus(减去吸管) ICON转svg、png下载
 name: eyedropper-minus
 zhTips: 减去吸管
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# eyedropper-minus  <small style="font-size: 60%;font-weight: 100">减去吸管</small>
+# eyedropper minus  <small style="font-size: 60%;font-weight: 100">减去吸管</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

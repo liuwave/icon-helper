@@ -1,8 +1,8 @@
 ---
 
-title: linux(Linux) ICON转svg、png下载
+title:  linux(Linux) ICON转svg、png下载
 name: linux
-zhTips: Linux,无尾礼服
+zhTips: Linux,无尾礼服,tux
 tags: ["animal","brand-logo"]
 search: tux
 
@@ -13,6 +13,8 @@ search: tux
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">tux</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Linux</span><span class="badge-primary badge">无尾礼服</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/linux.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/linux.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">tux</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Linux</span><span class="badge-primary badge">无尾礼服</span><span class="badge-primary badge">tux</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/linux.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/linux.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">GNU/Linux是一个免费开源的操作系统，可以运行在x86、680x0、SPARC、Alpha等处理器多种硬件平台上。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-linux mdi-48px"></i>
   <i class="mdi mdi-linux mdi-36px"></i>

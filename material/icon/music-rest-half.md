@@ -1,6 +1,6 @@
 ---
 
-title: music rest half(音乐休息一半) ICON转svg、png下载
+title:  music rest half(音乐休息一半) ICON转svg、png下载
 name: music-rest-half
 zhTips: 音乐休息一半
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-rest-half  <small style="font-size: 60%;font-weight: 100">音乐休息一半</small>
+# music rest half  <small style="font-size: 60%;font-weight: 100">音乐休息一半</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

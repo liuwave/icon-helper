@@ -1,6 +1,6 @@
 ---
 
-title: vhs(录像带) ICON转svg、png下载
+title:  vhs(录像带) ICON转svg、png下载
 name: vhs
 zhTips: 录像带,视频家庭系统,录像带卡带
 tags: []
@@ -13,6 +13,8 @@ search: video-home-system,vhs-cassette,vhs-tape
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

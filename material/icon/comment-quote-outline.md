@@ -1,6 +1,6 @@
 ---
 
-title: comment quote outline(评论报价轮廓) ICON转svg、png下载
+title:  comment quote outline(评论报价轮廓) ICON转svg、png下载
 name: comment-quote-outline
 zhTips: 评论报价轮廓,反馈轮廓
 tags: []
@@ -8,11 +8,13 @@ search: feedback-outline
 
 ---
 
-# comment-quote-outline  <small style="font-size: 60%;font-weight: 100">评论报价轮廓</small>
+# comment quote outline  <small style="font-size: 60%;font-weight: 100">评论报价轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: fast forward 30(快进30) ICON转svg、png下载
+title:  fast forward 30(快进30) ICON转svg、png下载
 name: fast-forward-30
 zhTips: 快进30
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# fast-forward-30  <small style="font-size: 60%;font-weight: 100">快进30</small>
+# fast forward 30  <small style="font-size: 60%;font-weight: 100">快进30</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

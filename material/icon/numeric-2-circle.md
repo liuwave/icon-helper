@@ -1,6 +1,6 @@
 ---
 
-title: numeric 2 circle(数字2圈) ICON转svg、png下载
+title:  numeric 2 circle(数字2圈) ICON转svg、png下载
 name: numeric-2-circle
 zhTips: 数字2圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: numeric-two-circle,number-2-circle,number-two-circle
 
 ---
 
-# numeric-2-circle  <small style="font-size: 60%;font-weight: 100">数字2圈</small>
+# numeric 2 circle  <small style="font-size: 60%;font-weight: 100">数字2圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

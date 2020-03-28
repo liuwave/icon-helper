@@ -1,6 +1,6 @@
 ---
 
-title: gesture tap button(手势点击按钮) ICON转svg、png下载
+title:  gesture tap button(手势点击按钮) ICON转svg、png下载
 name: gesture-tap-button
 zhTips: 手势点击按钮,号召性用语,cta
 tags: []
@@ -8,11 +8,13 @@ search: call-to-action,cta
 
 ---
 
-# gesture-tap-button  <small style="font-size: 60%;font-weight: 100">手势点击按钮</small>
+# gesture tap button  <small style="font-size: 60%;font-weight: 100">手势点击按钮</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: scale bathroom(浴室秤) ICON转svg、png下载
+title:  scale bathroom(浴室秤) ICON转svg、png下载
 name: scale-bathroom
 zhTips: 浴室秤
 tags: ["home-automation","medical-hospital"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# scale-bathroom  <small style="font-size: 60%;font-weight: 100">浴室秤</small>
+# scale bathroom  <small style="font-size: 60%;font-weight: 100">浴室秤</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

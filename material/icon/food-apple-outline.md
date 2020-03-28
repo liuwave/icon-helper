@@ -1,6 +1,6 @@
 ---
 
-title: food apple outline(食品苹果轮廓) ICON转svg、png下载
+title:  food apple outline(食品苹果轮廓) ICON转svg、png下载
 name: food-apple-outline
 zhTips: 食品苹果轮廓
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# food-apple-outline  <small style="font-size: 60%;font-weight: 100">食品苹果轮廓</small>
+# food apple outline  <small style="font-size: 60%;font-weight: 100">食品苹果轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

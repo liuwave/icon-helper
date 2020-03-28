@@ -1,6 +1,6 @@
 ---
 
-title: alpha x(alpha x) ICON转svg、png下载
+title:  alpha x(alpha x) ICON转svg、png下载
 name: alpha-x
 zhTips: alpha x,字母x,罗马数字10
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-x,letter-x,roman-numeral-10
 
 ---
 
-# alpha-x  <small style="font-size: 60%;font-weight: 100">alpha x</small>
+# alpha x  <small style="font-size: 60%;font-weight: 100">alpha x</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

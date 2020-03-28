@@ -1,6 +1,6 @@
 ---
 
-title: human male height(人类男性的身高) ICON转svg、png下载
+title:  human male height(人类男性的身高) ICON转svg、png下载
 name: human-male-height
 zhTips: 人类男性的身高
 tags: ["medical-hospital"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# human-male-height  <small style="font-size: 60%;font-weight: 100">人类男性的身高</small>
+# human male height  <small style="font-size: 60%;font-weight: 100">人类男性的身高</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

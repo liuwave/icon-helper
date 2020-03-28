@@ -1,6 +1,6 @@
 ---
 
-title: account check(帐户检查) ICON转svg、png下载
+title:  account check(帐户检查) ICON转svg、png下载
 name: account-check
 zhTips: 帐户检查,用户检查,帐户刻度,用户刻度,人员检查,人员刻度,如何注册
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-check,account-tick,user-tick,person-check,person-tick,how-to-reg
 
 ---
 
-# account-check  <small style="font-size: 60%;font-weight: 100">帐户检查</small>
+# account check  <small style="font-size: 60%;font-weight: 100">帐户检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: format superscript(上标格式) ICON转svg、png下载
+title:  format superscript(上标格式) ICON转svg、png下载
 name: format-superscript
 zhTips: 上标格式,指数
 tags: ["text-content-format","math"]
@@ -8,11 +8,13 @@ search: exponent
 
 ---
 
-# format-superscript  <small style="font-size: 60%;font-weight: 100">上标格式</small>
+# format superscript  <small style="font-size: 60%;font-weight: 100">上标格式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

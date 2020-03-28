@@ -1,6 +1,6 @@
 ---
 
-title: blur off(模糊) ICON转svg、png下载
+title:  blur off(模糊) ICON转svg、png下载
 name: blur-off
 zhTips: 模糊
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# blur-off  <small style="font-size: 60%;font-weight: 100">模糊</small>
+# blur off  <small style="font-size: 60%;font-weight: 100">模糊</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

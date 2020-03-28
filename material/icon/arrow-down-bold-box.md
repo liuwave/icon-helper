@@ -1,6 +1,6 @@
 ---
 
-title: arrow down bold box(向下箭头加粗框) ICON转svg、png下载
+title:  arrow down bold box(向下箭头加粗框) ICON转svg、png下载
 name: arrow-down-bold-box
 zhTips: 向下箭头加粗框,底部箭头加粗框
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-bottom-bold-box
 
 ---
 
-# arrow-down-bold-box  <small style="font-size: 60%;font-weight: 100">向下箭头加粗框</small>
+# arrow down bold box  <small style="font-size: 60%;font-weight: 100">向下箭头加粗框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

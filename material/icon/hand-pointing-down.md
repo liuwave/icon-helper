@@ -1,6 +1,6 @@
 ---
 
-title: hand pointing down(指向下方的手) ICON转svg、png下载
+title:  hand pointing down(指向下方的手) ICON转svg、png下载
 name: hand-pointing-down
 zhTips: 指向下方的手
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# hand-pointing-down  <small style="font-size: 60%;font-weight: 100">指向下方的手</small>
+# hand pointing down  <small style="font-size: 60%;font-weight: 100">指向下方的手</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

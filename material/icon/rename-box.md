@@ -1,6 +1,6 @@
 ---
 
-title: rename box(重命名框) ICON转svg、png下载
+title:  rename box(重命名框) ICON转svg、png下载
 name: rename-box
 zhTips: 重命名框
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# rename-box  <small style="font-size: 60%;font-weight: 100">重命名框</small>
+# rename box  <small style="font-size: 60%;font-weight: 100">重命名框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

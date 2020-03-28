@@ -1,6 +1,6 @@
 ---
 
-title: lan check(局域网检查) ICON转svg、png下载
+title:  lan check(局域网检查) ICON转svg、png下载
 name: lan-check
 zhTips: 局域网检查
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# lan-check  <small style="font-size: 60%;font-weight: 100">局域网检查</small>
+# lan check  <small style="font-size: 60%;font-weight: 100">局域网检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

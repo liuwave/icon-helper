@@ -1,6 +1,6 @@
 ---
 
-title: play protected content(播放受保护的内容) ICON转svg、png下载
+title:  play protected content(播放受保护的内容) ICON转svg、png下载
 name: play-protected-content
 zhTips: 播放受保护的内容
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# play-protected-content  <small style="font-size: 60%;font-weight: 100">播放受保护的内容</small>
+# play protected content  <small style="font-size: 60%;font-weight: 100">播放受保护的内容</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

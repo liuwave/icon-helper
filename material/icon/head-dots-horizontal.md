@@ -1,6 +1,6 @@
 ---
 
-title: head dots horizontal(水平的头点) ICON转svg、png下载
+title:  head dots horizontal(水平的头点) ICON转svg、png下载
 name: head-dots-horizontal
 zhTips: 水平的头点,头脑思考
 tags: []
@@ -8,11 +8,13 @@ search: head-thinking
 
 ---
 
-# head-dots-horizontal  <small style="font-size: 60%;font-weight: 100">水平的头点</small>
+# head dots horizontal  <small style="font-size: 60%;font-weight: 100">水平的头点</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: tshirt crew(T恤衫组) ICON转svg、png下载
+title:  tshirt crew(T恤衫组) ICON转svg、png下载
 name: tshirt-crew
 zhTips: T恤衫组
 tags: ["clothing"]
@@ -8,11 +8,13 @@ search: t-shirt-crew
 
 ---
 
-# tshirt-crew  <small style="font-size: 60%;font-weight: 100">T恤衫组</small>
+# tshirt crew  <small style="font-size: 60%;font-weight: 100">T恤衫组</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

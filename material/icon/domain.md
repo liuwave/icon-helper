@@ -1,6 +1,6 @@
 ---
 
-title: domain(域) ICON转svg、png下载
+title:  domain(域) ICON转svg、png下载
 name: domain
 zhTips: 域,建筑物,公司,业务
 tags: ["places"]
@@ -13,6 +13,8 @@ search: building,company,business
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

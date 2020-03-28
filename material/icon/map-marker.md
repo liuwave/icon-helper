@@ -1,6 +1,6 @@
 ---
 
-title: map marker(地图标记) ICON转svg、png下载
+title:  map marker(地图标记) ICON转svg、png下载
 name: map-marker
 zhTips: 地图标记,位置,地址标记,房间
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search: location,address-marker,location-on,place,room
 
 ---
 
-# map-marker  <small style="font-size: 60%;font-weight: 100">地图标记</small>
+# map marker  <small style="font-size: 60%;font-weight: 100">地图标记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

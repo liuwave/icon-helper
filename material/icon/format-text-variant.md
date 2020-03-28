@@ -1,6 +1,6 @@
 ---
 
-title: format text variant(设置文字口音格式) ICON转svg、png下载
+title:  format text variant(设置文字口音格式) ICON转svg、png下载
 name: format-text-variant
 zhTips: 设置文字口音格式
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-text-variant  <small style="font-size: 60%;font-weight: 100">设置文字口音格式</small>
+# format text variant  <small style="font-size: 60%;font-weight: 100">设置文字口音格式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

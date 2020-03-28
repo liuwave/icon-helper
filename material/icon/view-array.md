@@ -1,6 +1,6 @@
 ---
 
-title: view array(查看数组) ICON转svg、png下载
+title:  view array(查看数组) ICON转svg、png下载
 name: view-array
 zhTips: 查看数组
 tags: ["view"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# view-array  <small style="font-size: 60%;font-weight: 100">查看数组</small>
+# view array  <small style="font-size: 60%;font-weight: 100">查看数组</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alphabet latin(拉丁字母) ICON转svg、png下载
+title:  alphabet latin(拉丁字母) ICON转svg、png下载
 name: alphabet-latin
 zhTips: 拉丁字母,书写系统拉丁
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-latin
 
 ---
 
-# alphabet-latin  <small style="font-size: 60%;font-weight: 100">拉丁字母</small>
+# alphabet latin  <small style="font-size: 60%;font-weight: 100">拉丁字母</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

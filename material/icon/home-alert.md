@@ -1,6 +1,6 @@
 ---
 
-title: home alert(家庭警报) ICON转svg、png下载
+title:  home alert(家庭警报) ICON转svg、png下载
 name: home-alert
 zhTips: 家庭警报
 tags: ["home-automation","alert-error"]
@@ -8,11 +8,13 @@ search: home-warning
 
 ---
 
-# home-alert  <small style="font-size: 60%;font-weight: 100">家庭警报</small>
+# home alert  <small style="font-size: 60%;font-weight: 100">家庭警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

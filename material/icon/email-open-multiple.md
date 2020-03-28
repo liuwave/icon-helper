@@ -1,6 +1,6 @@
 ---
 
-title: email open multiple(电子邮件打开多个) ICON转svg、png下载
+title:  email open multiple(电子邮件打开多个) ICON转svg、png下载
 name: email-open-multiple
 zhTips: 电子邮件打开多个
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# email-open-multiple  <small style="font-size: 60%;font-weight: 100">电子邮件打开多个</small>
+# email open multiple  <small style="font-size: 60%;font-weight: 100">电子邮件打开多个</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: bomb(炸弹) ICON转svg、png下载
+title:  bomb(炸弹) ICON转svg、png下载
 name: bomb
-zhTips: 炸弹
+zhTips: 炸弹,错误,爆炸,保险丝,手榴弹,警告
 tags: ["gaming-rpg"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">炸弹</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bomb.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bomb.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">炸弹</span><span class="badge-primary badge">错误</span><span class="badge-primary badge">爆炸</span><span class="badge-primary badge">保险丝</span><span class="badge-primary badge">手榴弹</span><span class="badge-primary badge">警告</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bomb.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bomb.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">炸弹，象征着危险，也可以表示爆炸性的新闻。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-bomb mdi-48px"></i>
   <i class="mdi mdi-bomb mdi-36px"></i>

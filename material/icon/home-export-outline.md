@@ -1,6 +1,6 @@
 ---
 
-title: home export outline(房屋出口轮廓) ICON转svg、png下载
+title:  home export outline(房屋出口轮廓) ICON转svg、png下载
 name: home-export-outline
 zhTips: 房屋出口轮廓
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# home-export-outline  <small style="font-size: 60%;font-weight: 100">房屋出口轮廓</small>
+# home export outline  <small style="font-size: 60%;font-weight: 100">房屋出口轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

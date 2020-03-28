@@ -1,6 +1,6 @@
 ---
 
-title: moon waning crescent(月亮减弱的新月) ICON转svg、png下载
+title:  moon waning crescent(月亮减弱的新月) ICON转svg、png下载
 name: moon-waning-crescent
 zhTips: 月亮减弱的新月
 tags: ["weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# moon-waning-crescent  <small style="font-size: 60%;font-weight: 100">月亮减弱的新月</small>
+# moon waning crescent  <small style="font-size: 60%;font-weight: 100">月亮减弱的新月</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

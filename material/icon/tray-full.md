@@ -1,6 +1,6 @@
 ---
 
-title: tray full(纸盒已满) ICON转svg、png下载
+title:  tray full(纸盒已满) ICON转svg、png下载
 name: tray-full
 zhTips: 纸盒已满,队列,打印机,收件箱
 tags: []
@@ -8,11 +8,13 @@ search: queue,printer,inbox
 
 ---
 
-# tray-full  <small style="font-size: 60%;font-weight: 100">纸盒已满</small>
+# tray full  <small style="font-size: 60%;font-weight: 100">纸盒已满</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

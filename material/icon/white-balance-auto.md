@@ -1,6 +1,6 @@
 ---
 
-title: white balance auto(白平衡自动) ICON转svg、png下载
+title:  white balance auto(白平衡自动) ICON转svg、png下载
 name: white-balance-auto
 zhTips: 白平衡自动,wb自动
 tags: ["photography"]
@@ -8,11 +8,13 @@ search: wb-auto
 
 ---
 
-# white-balance-auto  <small style="font-size: 60%;font-weight: 100">白平衡自动</small>
+# white balance auto  <small style="font-size: 60%;font-weight: 100">白平衡自动</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

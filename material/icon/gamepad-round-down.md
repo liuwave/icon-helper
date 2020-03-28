@@ -1,6 +1,6 @@
 ---
 
-title: gamepad round down(游戏手柄向下取整) ICON转svg、png下载
+title:  gamepad round down(游戏手柄向下取整) ICON转svg、png下载
 name: gamepad-round-down
 zhTips: 游戏手柄向下取整
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# gamepad-round-down  <small style="font-size: 60%;font-weight: 100">游戏手柄向下取整</small>
+# gamepad round down  <small style="font-size: 60%;font-weight: 100">游戏手柄向下取整</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

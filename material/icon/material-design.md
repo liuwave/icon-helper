@@ -1,6 +1,6 @@
 ---
 
-title: material design(材料设计) ICON转svg、png下载
+title:  material design(材料设计) ICON转svg、png下载
 name: material-design
 zhTips: 材料设计
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# material-design  <small style="font-size: 60%;font-weight: 100">材料设计</small>
+# material design  <small style="font-size: 60%;font-weight: 100">材料设计</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

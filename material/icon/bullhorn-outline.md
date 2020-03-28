@@ -1,6 +1,6 @@
 ---
 
-title: bullhorn outline(扩音器轮廓) ICON转svg、png下载
+title:  bullhorn outline(扩音器轮廓) ICON转svg、png下载
 name: bullhorn-outline
 zhTips: 扩音器轮廓,公告轮廓
 tags: []
@@ -8,11 +8,13 @@ search: announcement-outline,megaphone-outline
 
 ---
 
-# bullhorn-outline  <small style="font-size: 60%;font-weight: 100">扩音器轮廓</small>
+# bullhorn outline  <small style="font-size: 60%;font-weight: 100">扩音器轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

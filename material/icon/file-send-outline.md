@@ -1,6 +1,6 @@
 ---
 
-title: file send outline(文件发送轮廓) ICON转svg、png下载
+title:  file send outline(文件发送轮廓) ICON转svg、png下载
 name: file-send-outline
 zhTips: 文件发送轮廓
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-send-outline  <small style="font-size: 60%;font-weight: 100">文件发送轮廓</small>
+# file send outline  <small style="font-size: 60%;font-weight: 100">文件发送轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

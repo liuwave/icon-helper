@@ -1,6 +1,6 @@
 ---
 
-title: tooth(牙齿) ICON转svg、png下载
+title:  tooth(牙齿) ICON转svg、png下载
 name: tooth
 zhTips: 牙齿,牙医
 tags: ["medical-hospital"]
@@ -13,6 +13,8 @@ search: dentist
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

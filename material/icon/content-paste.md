@@ -1,6 +1,6 @@
 ---
 
-title: content paste(粘贴内容) ICON转svg、png下载
+title:  content paste(粘贴内容) ICON转svg、png下载
 name: content-paste
 zhTips: 粘贴内容
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# content-paste  <small style="font-size: 60%;font-weight: 100">粘贴内容</small>
+# content paste  <small style="font-size: 60%;font-weight: 100">粘贴内容</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

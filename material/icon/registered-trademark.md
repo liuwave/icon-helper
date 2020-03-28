@@ -1,6 +1,6 @@
 ---
 
-title: registered trademark(注册商标) ICON转svg、png下载
+title:  registered trademark(注册商标) ICON转svg、png下载
 name: registered-trademark
 zhTips: 注册商标
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# registered-trademark  <small style="font-size: 60%;font-weight: 100">注册商标</small>
+# registered trademark  <small style="font-size: 60%;font-weight: 100">注册商标</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

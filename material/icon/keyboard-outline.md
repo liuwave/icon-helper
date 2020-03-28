@@ -1,6 +1,6 @@
 ---
 
-title: keyboard outline(键盘轮廓) ICON转svg、png下载
+title:  keyboard outline(键盘轮廓) ICON转svg、png下载
 name: keyboard-outline
 zhTips: 键盘轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# keyboard-outline  <small style="font-size: 60%;font-weight: 100">键盘轮廓</small>
+# keyboard outline  <small style="font-size: 60%;font-weight: 100">键盘轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

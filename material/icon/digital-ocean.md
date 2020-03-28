@@ -1,6 +1,6 @@
 ---
 
-title: digital ocean(数字海洋) ICON转svg、png下载
+title:  digital ocean(数字海洋) ICON转svg、png下载
 name: digital-ocean
 zhTips: 数字海洋
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# digital-ocean  <small style="font-size: 60%;font-weight: 100">数字海洋</small>
+# digital ocean  <small style="font-size: 60%;font-weight: 100">数字海洋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

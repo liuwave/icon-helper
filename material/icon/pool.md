@@ -1,6 +1,6 @@
 ---
 
-title: pool(游泳池) ICON转svg、png下载
+title:  pool(游泳池) ICON转svg、png下载
 name: pool
 zhTips: 游泳池
 tags: ["places"]
@@ -13,6 +13,8 @@ search: swimming-pool
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

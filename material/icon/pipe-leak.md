@@ -1,6 +1,6 @@
 ---
 
-title: pipe leak(管道泄漏) ICON转svg、png下载
+title:  pipe leak(管道泄漏) ICON转svg、png下载
 name: pipe-leak
 zhTips: 管道泄漏
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pipe-leak  <small style="font-size: 60%;font-weight: 100">管道泄漏</small>
+# pipe leak  <small style="font-size: 60%;font-weight: 100">管道泄漏</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

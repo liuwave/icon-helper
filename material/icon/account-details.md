@@ -1,6 +1,6 @@
 ---
 
-title: account details(帐户详细信息) ICON转svg、png下载
+title:  account details(帐户详细信息) ICON转svg、png下载
 name: account-details
 zhTips: 帐户详细信息,用户详细信息,个人详细信息
 tags: ["account-user","settings"]
@@ -8,11 +8,13 @@ search: user-details,person-details
 
 ---
 
-# account-details  <small style="font-size: 60%;font-weight: 100">帐户详细信息</small>
+# account details  <small style="font-size: 60%;font-weight: 100">帐户详细信息</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: minus box outline(减号框轮廓) ICON转svg、png下载
+title:  minus box outline(减号框轮廓) ICON转svg、png下载
 name: minus-box-outline
 zhTips: 减号框轮廓,复选框不确定的轮廓
 tags: ["math"]
@@ -8,11 +8,13 @@ search: checkbox-indeterminate-outline
 
 ---
 
-# minus-box-outline  <small style="font-size: 60%;font-weight: 100">减号框轮廓</small>
+# minus box outline  <small style="font-size: 60%;font-weight: 100">减号框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

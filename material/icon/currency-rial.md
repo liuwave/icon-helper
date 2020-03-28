@@ -1,6 +1,6 @@
 ---
 
-title: currency rial(货币里亚尔) ICON转svg、png下载
+title:  currency rial(货币里亚尔) ICON转svg、png下载
 name: currency-rial
 zhTips: 货币里亚尔,货币irr,货币omr,货币yer,货币sar
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: currency-riyal,currency-irr,currency-omr,currency-yer,currency-sar
 
 ---
 
-# currency-rial  <small style="font-size: 60%;font-weight: 100">货币里亚尔</small>
+# currency rial  <small style="font-size: 60%;font-weight: 100">货币里亚尔</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alpha p circle(alpha p圈) ICON转svg、png下载
+title:  alpha p circle(alpha p圈) ICON转svg、png下载
 name: alpha-p-circle
 zhTips: alpha p圈,字母p圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-p-circle,letter-p-circle
 
 ---
 
-# alpha-p-circle  <small style="font-size: 60%;font-weight: 100">alpha p圈</small>
+# alpha p circle  <small style="font-size: 60%;font-weight: 100">alpha p圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

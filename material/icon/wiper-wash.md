@@ -1,6 +1,6 @@
 ---
 
-title: wiper wash(刮水器清洗液) ICON转svg、png下载
+title:  wiper wash(刮水器清洗液) ICON转svg、png下载
 name: wiper-wash
 zhTips: 刮水器清洗液,刮水器,液洗器
 tags: []
@@ -8,11 +8,13 @@ search: wiper-fluid,washer-fluid
 
 ---
 
-# wiper-wash  <small style="font-size: 60%;font-weight: 100">刮水器清洗液</small>
+# wiper wash  <small style="font-size: 60%;font-weight: 100">刮水器清洗液</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

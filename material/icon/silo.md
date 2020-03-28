@@ -1,6 +1,6 @@
 ---
 
-title: silo(农用仓) ICON转svg、png下载
+title:  silo(农用仓) ICON转svg、png下载
 name: silo
 zhTips: 农用仓
 tags: ["agriculture"]
@@ -13,6 +13,8 @@ search: farm
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

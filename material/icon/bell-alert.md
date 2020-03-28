@@ -1,6 +1,6 @@
 ---
 
-title: bell alert(响铃警报) ICON转svg、png下载
+title:  bell alert(响铃警报) ICON转svg、png下载
 name: bell-alert
 zhTips: 响铃警报
 tags: ["alert-error","notification"]
@@ -8,11 +8,13 @@ search: bell-warning
 
 ---
 
-# bell-alert  <small style="font-size: 60%;font-weight: 100">响铃警报</small>
+# bell alert  <small style="font-size: 60%;font-weight: 100">响铃警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

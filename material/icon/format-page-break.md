@@ -1,6 +1,6 @@
 ---
 
-title: format page break(分页符格式) ICON转svg、png下载
+title:  format page break(分页符格式) ICON转svg、png下载
 name: format-page-break
 zhTips: 分页符格式
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-page-break  <small style="font-size: 60%;font-weight: 100">分页符格式</small>
+# format page break  <small style="font-size: 60%;font-weight: 100">分页符格式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

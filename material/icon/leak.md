@@ -1,6 +1,6 @@
 ---
 
-title: leak(泄漏) ICON转svg、png下载
+title:  leak(泄漏) ICON转svg、png下载
 name: leak
 zhTips: 泄漏,传感器接近
 tags: []
@@ -13,6 +13,8 @@ search: proximity-sensor
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alpha j circle(alpha j圈) ICON转svg、png下载
+title:  alpha j circle(alpha j圈) ICON转svg、png下载
 name: alpha-j-circle
 zhTips: alpha j圈,字母j圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-j-circle,letter-j-circle
 
 ---
 
-# alpha-j-circle  <small style="font-size: 60%;font-weight: 100">alpha j圈</small>
+# alpha j circle  <small style="font-size: 60%;font-weight: 100">alpha j圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alpha o box outline(字母o框轮廓) ICON转svg、png下载
+title:  alpha o box outline(字母o框轮廓) ICON转svg、png下载
 name: alpha-o-box-outline
 zhTips: 字母o框轮廓
 tags: ["alpha-numeric","alpha-numeric","alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-o-box-outline,letter-o-box-outline
 
 ---
 
-# alpha-o-box-outline  <small style="font-size: 60%;font-weight: 100">字母o框轮廓</small>
+# alpha o box outline  <small style="font-size: 60%;font-weight: 100">字母o框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: table key(表键) ICON转svg、png下载
+title:  table key(表键) ICON转svg、png下载
 name: table-key
 zhTips: 表键
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-key  <small style="font-size: 60%;font-weight: 100">表键</small>
+# table key  <small style="font-size: 60%;font-weight: 100">表键</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

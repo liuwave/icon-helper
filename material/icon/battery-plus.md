@@ -1,6 +1,6 @@
 ---
 
-title: battery plus(电池加) ICON转svg、png下载
+title:  battery plus(电池加) ICON转svg、png下载
 name: battery-plus
 zhTips: 电池加,省电
 tags: ["battery","home-automation"]
@@ -8,11 +8,13 @@ search: battery-saver,battery-add
 
 ---
 
-# battery-plus  <small style="font-size: 60%;font-weight: 100">电池加</small>
+# battery plus  <small style="font-size: 60%;font-weight: 100">电池加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

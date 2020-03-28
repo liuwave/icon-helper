@@ -1,6 +1,6 @@
 ---
 
-title: seat legroom extra(腿部额外座位) ICON转svg、png下载
+title:  seat legroom extra(腿部额外座位) ICON转svg、png下载
 name: seat-legroom-extra
 zhTips: 腿部额外座位,航空公司腿部额外座位
 tags: []
@@ -8,11 +8,13 @@ search: airline-seat-legroom-extra
 
 ---
 
-# seat-legroom-extra  <small style="font-size: 60%;font-weight: 100">腿部额外座位</small>
+# seat legroom extra  <small style="font-size: 60%;font-weight: 100">腿部额外座位</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

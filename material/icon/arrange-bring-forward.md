@@ -1,6 +1,6 @@
 ---
 
-title: arrange bring forward(安排提出) ICON转svg、png下载
+title:  arrange bring forward(安排提出) ICON转svg、png下载
 name: arrange-bring-forward
 zhTips: 安排提出
 tags: ["arrange","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# arrange-bring-forward  <small style="font-size: 60%;font-weight: 100">安排提出</small>
+# arrange bring forward  <small style="font-size: 60%;font-weight: 100">安排提出</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: bed king(床王) ICON转svg、png下载
+title:  bed king(床王) ICON转svg、png下载
 name: bed-king
 zhTips: 床王
 tags: ["home-automation","holiday"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bed-king  <small style="font-size: 60%;font-weight: 100">床王</small>
+# bed king  <small style="font-size: 60%;font-weight: 100">床王</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

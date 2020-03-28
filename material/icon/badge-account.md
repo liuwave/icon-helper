@@ -1,6 +1,6 @@
 ---
 
-title: badge account(徽章帐户) ICON转svg、png下载
+title:  badge account(徽章帐户) ICON转svg、png下载
 name: badge-account
 zhTips: 徽章帐户,用户徽章,徽章人
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-badge,person-badge
 
 ---
 
-# badge-account  <small style="font-size: 60%;font-weight: 100">徽章帐户</small>
+# badge account  <small style="font-size: 60%;font-weight: 100">徽章帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

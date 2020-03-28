@@ -1,6 +1,6 @@
 ---
 
-title: account edit(帐户编辑) ICON转svg、png下载
+title:  account edit(帐户编辑) ICON转svg、png下载
 name: account-edit
 zhTips: 帐户编辑,用户编辑,人员编辑
 tags: ["account-user","edit-modify"]
@@ -8,11 +8,13 @@ search: user-edit,person-edit
 
 ---
 
-# account-edit  <small style="font-size: 60%;font-weight: 100">帐户编辑</small>
+# account edit  <small style="font-size: 60%;font-weight: 100">帐户编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

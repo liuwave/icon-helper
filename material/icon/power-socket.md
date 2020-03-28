@@ -1,6 +1,6 @@
 ---
 
-title: power socket(电源插座) ICON转svg、png下载
+title:  power socket(电源插座) ICON转svg、png下载
 name: power-socket
 zhTips: 电源插座,插头插座
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: plug-socket
 
 ---
 
-# power-socket  <small style="font-size: 60%;font-weight: 100">电源插座</small>
+# power socket  <small style="font-size: 60%;font-weight: 100">电源插座</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

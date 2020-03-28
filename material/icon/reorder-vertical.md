@@ -1,6 +1,6 @@
 ---
 
-title: reorder vertical(垂直重新排序) ICON转svg、png下载
+title:  reorder vertical(垂直重新排序) ICON转svg、png下载
 name: reorder-vertical
 zhTips: 垂直重新排序
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# reorder-vertical  <small style="font-size: 60%;font-weight: 100">垂直重新排序</small>
+# reorder vertical  <small style="font-size: 60%;font-weight: 100">垂直重新排序</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

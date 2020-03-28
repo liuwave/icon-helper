@@ -1,6 +1,6 @@
 ---
 
-title: map marker down(向下标记地图) ICON转svg、png下载
+title:  map marker down(向下标记地图) ICON转svg、png下载
 name: map-marker-down
 zhTips: 向下标记地图
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# map-marker-down  <small style="font-size: 60%;font-weight: 100">向下标记地图</small>
+# map marker down  <small style="font-size: 60%;font-weight: 100">向下标记地图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

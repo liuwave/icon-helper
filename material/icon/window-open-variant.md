@@ -1,6 +1,6 @@
 ---
 
-title: window open variant(敞开的口音) ICON转svg、png下载
+title:  window open variant(敞开的口音) ICON转svg、png下载
 name: window-open-variant
 zhTips: 敞开的口音
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# window-open-variant  <small style="font-size: 60%;font-weight: 100">敞开的口音</small>
+# window open variant  <small style="font-size: 60%;font-weight: 100">敞开的口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

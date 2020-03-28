@@ -1,6 +1,6 @@
 ---
 
-title: comment arrow left(向左评论箭头) ICON转svg、png下载
+title:  comment arrow left(向左评论箭头) ICON转svg、png下载
 name: comment-arrow-left
 zhTips: 向左评论箭头,向前评论
 tags: []
@@ -8,11 +8,13 @@ search: comment-previous
 
 ---
 
-# comment-arrow-left  <small style="font-size: 60%;font-weight: 100">向左评论箭头</small>
+# comment arrow left  <small style="font-size: 60%;font-weight: 100">向左评论箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

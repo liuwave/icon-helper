@@ -1,6 +1,6 @@
 ---
 
-title: alert decagram outline(警告十进制轮廓) ICON转svg、png下载
+title:  alert decagram outline(警告十进制轮廓) ICON转svg、png下载
 name: alert-decagram-outline
 zhTips: 警告十进制轮廓
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search: warning-decagram-outline
 
 ---
 
-# alert-decagram-outline  <small style="font-size: 60%;font-weight: 100">警告十进制轮廓</small>
+# alert decagram outline  <small style="font-size: 60%;font-weight: 100">警告十进制轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: brightness 1(亮度1) ICON转svg、png下载
+title:  brightness 1(亮度1) ICON转svg、png下载
 name: brightness-1
 zhTips: 亮度1
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# brightness-1  <small style="font-size: 60%;font-weight: 100">亮度1</small>
+# brightness 1  <small style="font-size: 60%;font-weight: 100">亮度1</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

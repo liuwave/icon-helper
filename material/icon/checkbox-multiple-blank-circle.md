@@ -1,6 +1,6 @@
 ---
 
-title: checkbox multiple blank circle(复选框多个空白圆圈) ICON转svg、png下载
+title:  checkbox multiple blank circle(复选框多个空白圆圈) ICON转svg、png下载
 name: checkbox-multiple-blank-circle
 zhTips: 复选框多个空白圆圈,复选框空白圆圈
 tags: ["form"]
@@ -8,11 +8,13 @@ search: checkboxes-blank-circle
 
 ---
 
-# checkbox-multiple-blank-circle  <small style="font-size: 60%;font-weight: 100">复选框多个空白圆圈</small>
+# checkbox multiple blank circle  <small style="font-size: 60%;font-weight: 100">复选框多个空白圆圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

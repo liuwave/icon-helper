@@ -1,6 +1,6 @@
 ---
 
-title: numeric(数字) ICON转svg、png下载
+title:  numeric(数字) ICON转svg、png下载
 name: numeric
 zhTips: 数字,1 2 3,一二三,123
 tags: ["alpha-numeric"]
@@ -13,6 +13,8 @@ search: numbers,1-2-3,one-two-three,123
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

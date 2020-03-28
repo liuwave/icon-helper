@@ -1,6 +1,6 @@
 ---
 
-title: video off(关闭视频) ICON转svg、png下载
+title:  video off(关闭视频) ICON转svg、png下载
 name: video-off
 zhTips: 关闭视频,关闭摄像头
 tags: ["video-movie","home-automation"]
@@ -8,11 +8,13 @@ search: videocam-off
 
 ---
 
-# video-off  <small style="font-size: 60%;font-weight: 100">关闭视频</small>
+# video off  <small style="font-size: 60%;font-weight: 100">关闭视频</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

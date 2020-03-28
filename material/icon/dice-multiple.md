@@ -1,6 +1,6 @@
 ---
 
-title: dice multiple(多个骰子) ICON转svg、png下载
+title:  dice multiple(多个骰子) ICON转svg、png下载
 name: dice-multiple
 zhTips: 多个骰子
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: die-multiple
 
 ---
 
-# dice-multiple  <small style="font-size: 60%;font-weight: 100">多个骰子</small>
+# dice multiple  <small style="font-size: 60%;font-weight: 100">多个骰子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

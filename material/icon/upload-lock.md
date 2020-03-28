@@ -1,6 +1,6 @@
 ---
 
-title: upload lock(上传锁定) ICON转svg、png下载
+title:  upload lock(上传锁定) ICON转svg、png下载
 name: upload-lock
 zhTips: 上传锁定
 tags: ["lock"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# upload-lock  <small style="font-size: 60%;font-weight: 100">上传锁定</small>
+# upload lock  <small style="font-size: 60%;font-weight: 100">上传锁定</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

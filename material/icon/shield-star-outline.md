@@ -1,6 +1,6 @@
 ---
 
-title: shield star outline(盾牌星星轮廓) ICON转svg、png下载
+title:  shield star outline(盾牌星星轮廓) ICON转svg、png下载
 name: shield-star-outline
 zhTips: 盾牌星星轮廓,徽章轮廓
 tags: []
@@ -8,11 +8,13 @@ search: badge-outline
 
 ---
 
-# shield-star-outline  <small style="font-size: 60%;font-weight: 100">盾牌星星轮廓</small>
+# shield star outline  <small style="font-size: 60%;font-weight: 100">盾牌星星轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: hospital(瑞士十字医院) ICON转svg、png下载
+title:  hospital(瑞士十字医院) ICON转svg、png下载
 name: hospital
-zhTips: 瑞士十字医院
+zhTips: 瑞士十字医院,医院,建筑,covid 19,急诊室,医疗中心
 tags: ["medical-hospital"]
 search: swiss-cross
 
@@ -13,6 +13,8 @@ search: swiss-cross
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">swiss-cross</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">瑞士十字医院</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/hospital.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/hospital.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">swiss-cross</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">瑞士十字医院</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">急诊室</span><span class="badge-primary badge">医疗中心</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/hospital.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/hospital.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">医院，一般表示医护、医疗的地方。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-hospital mdi-48px"></i>
   <i class="mdi mdi-hospital mdi-36px"></i>

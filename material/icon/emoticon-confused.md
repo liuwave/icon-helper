@@ -1,6 +1,6 @@
 ---
 
-title: emoticon confused(困惑的图释) ICON转svg、png下载
+title:  emoticon confused(困惑的图释) ICON转svg、png下载
 name: emoticon-confused
 zhTips: 困惑的图释
 tags: ["emoji"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# emoticon-confused  <small style="font-size: 60%;font-weight: 100">困惑的图释</small>
+# emoticon confused  <small style="font-size: 60%;font-weight: 100">困惑的图释</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: pan vertical(垂直锅) ICON转svg、png下载
+title:  pan vertical(垂直锅) ICON转svg、png下载
 name: pan-vertical
 zhTips: 垂直锅
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pan-vertical  <small style="font-size: 60%;font-weight: 100">垂直锅</small>
+# pan vertical  <small style="font-size: 60%;font-weight: 100">垂直锅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

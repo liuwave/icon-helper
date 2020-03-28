@@ -1,6 +1,6 @@
 ---
 
-title: volume vibrate(体积振动) ICON转svg、png下载
+title:  volume vibrate(体积振动) ICON转svg、png下载
 name: volume-vibrate
 zhTips: 体积振动
 tags: ["cellphone-phone","audio"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# volume-vibrate  <small style="font-size: 60%;font-weight: 100">体积振动</small>
+# volume vibrate  <small style="font-size: 60%;font-weight: 100">体积振动</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

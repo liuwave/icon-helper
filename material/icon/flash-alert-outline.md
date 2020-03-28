@@ -1,6 +1,6 @@
 ---
 
-title: flash alert outline(闪光灯警报轮廓) ICON转svg、png下载
+title:  flash alert outline(闪光灯警报轮廓) ICON转svg、png下载
 name: flash-alert-outline
 zhTips: 闪光灯警报轮廓,雷电警报轮廓,风暴通报轮廓
 tags: ["weather","alert-error"]
@@ -8,11 +8,13 @@ search: lightning-alert-outline,storm-advisory-outline
 
 ---
 
-# flash-alert-outline  <small style="font-size: 60%;font-weight: 100">闪光灯警报轮廓</small>
+# flash alert outline  <small style="font-size: 60%;font-weight: 100">闪光灯警报轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

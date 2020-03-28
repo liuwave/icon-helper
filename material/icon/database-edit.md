@@ -1,6 +1,6 @@
 ---
 
-title: database edit(数据库编辑) ICON转svg、png下载
+title:  database edit(数据库编辑) ICON转svg、png下载
 name: database-edit
 zhTips: 数据库编辑
 tags: ["edit-modify","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# database-edit  <small style="font-size: 60%;font-weight: 100">数据库编辑</small>
+# database edit  <small style="font-size: 60%;font-weight: 100">数据库编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

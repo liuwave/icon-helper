@@ -1,6 +1,6 @@
 ---
 
-title: cellphone off(手机已关闭) ICON转svg、png下载
+title:  cellphone off(手机已关闭) ICON转svg、png下载
 name: cellphone-off
 zhTips: 手机已关闭,智能手机已关闭
 tags: ["cellphone-phone","device-tech"]
@@ -8,11 +8,13 @@ search: mobile-phone-off,smartphone-off,mobile-off
 
 ---
 
-# cellphone-off  <small style="font-size: 60%;font-weight: 100">手机已关闭</small>
+# cellphone off  <small style="font-size: 60%;font-weight: 100">手机已关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

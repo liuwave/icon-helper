@@ -1,6 +1,6 @@
 ---
 
-title: spellcheck(拼写检查) ICON转svg、png下载
+title:  spellcheck(拼写检查) ICON转svg、png下载
 name: spellcheck
 zhTips: 拼写检查
 tags: []
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

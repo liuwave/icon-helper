@@ -1,6 +1,6 @@
 ---
 
-title: gender male female(性别男性女性) ICON转svg、png下载
+title:  gender male female(性别男性女性) ICON转svg、png下载
 name: gender-male-female
 zhTips: 性别男性女性
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# gender-male-female  <small style="font-size: 60%;font-weight: 100">性别男性女性</small>
+# gender male female  <small style="font-size: 60%;font-weight: 100">性别男性女性</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

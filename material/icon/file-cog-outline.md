@@ -1,6 +1,6 @@
 ---
 
-title: file cog outline(文件齿轮轮廓) ICON转svg、png下载
+title:  file cog outline(文件齿轮轮廓) ICON转svg、png下载
 name: file-cog-outline
 zhTips: 文件齿轮轮廓,文件设置齿轮轮廓
 tags: ["settings","files-folders"]
@@ -8,11 +8,13 @@ search: file-settings-cog-outline
 
 ---
 
-# file-cog-outline  <small style="font-size: 60%;font-weight: 100">文件齿轮轮廓</small>
+# file cog outline  <small style="font-size: 60%;font-weight: 100">文件齿轮轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

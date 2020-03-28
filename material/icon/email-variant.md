@@ -1,6 +1,6 @@
 ---
 
-title: email variant(电子邮件形式) ICON转svg、png下载
+title:  email variant(电子邮件形式) ICON转svg、png下载
 name: email-variant
 zhTips: 电子邮件形式,信封形式
 tags: []
@@ -8,11 +8,13 @@ search: envelope-variant
 
 ---
 
-# email-variant  <small style="font-size: 60%;font-weight: 100">电子邮件形式</small>
+# email variant  <small style="font-size: 60%;font-weight: 100">电子邮件形式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

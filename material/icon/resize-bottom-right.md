@@ -1,6 +1,6 @@
 ---
 
-title: resize bottom right(调整右下角的大小) ICON转svg、png下载
+title:  resize bottom right(调整右下角的大小) ICON转svg、png下载
 name: resize-bottom-right
 zhTips: 调整右下角的大小,拖动
 tags: []
@@ -8,11 +8,13 @@ search: drag
 
 ---
 
-# resize-bottom-right  <small style="font-size: 60%;font-weight: 100">调整右下角的大小</small>
+# resize bottom right  <small style="font-size: 60%;font-weight: 100">调整右下角的大小</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: file table(文件表) ICON转svg、png下载
+title:  file table(文件表) ICON转svg、png下载
 name: file-table
 zhTips: 文件表
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-table  <small style="font-size: 60%;font-weight: 100">文件表</small>
+# file table  <small style="font-size: 60%;font-weight: 100">文件表</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

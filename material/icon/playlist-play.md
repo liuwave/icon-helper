@@ -1,6 +1,6 @@
 ---
 
-title: playlist play(播放列表播放) ICON转svg、png下载
+title:  playlist play(播放列表播放) ICON转svg、png下载
 name: playlist-play
 zhTips: 播放列表播放
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# playlist-play  <small style="font-size: 60%;font-weight: 100">播放列表播放</small>
+# playlist play  <small style="font-size: 60%;font-weight: 100">播放列表播放</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: email plus outline(电子邮件加轮廓) ICON转svg、png下载
+title:  email plus outline(电子邮件加轮廓) ICON转svg、png下载
 name: email-plus-outline
 zhTips: 电子邮件加轮廓,信封加轮廓
 tags: []
@@ -8,11 +8,13 @@ search: email-add-outline,envelope-add-outline,envelope-plus-outline
 
 ---
 
-# email-plus-outline  <small style="font-size: 60%;font-weight: 100">电子邮件加轮廓</small>
+# email plus outline  <small style="font-size: 60%;font-weight: 100">电子邮件加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

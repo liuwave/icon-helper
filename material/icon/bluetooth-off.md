@@ -1,6 +1,6 @@
 ---
 
-title: bluetooth off(蓝牙关闭) ICON转svg、png下载
+title:  bluetooth off(蓝牙关闭) ICON转svg、png下载
 name: bluetooth-off
 zhTips: 蓝牙关闭,蓝牙已禁用
 tags: []
@@ -8,11 +8,13 @@ search: bluetooth-disabled
 
 ---
 
-# bluetooth-off  <small style="font-size: 60%;font-weight: 100">蓝牙关闭</small>
+# bluetooth off  <small style="font-size: 60%;font-weight: 100">蓝牙关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: account outline(帐户轮廓) ICON转svg、png下载
+title:  account outline(帐户轮廓) ICON转svg、png下载
 name: account-outline
 zhTips: 帐户轮廓,用户轮廓,烫发身份,人员轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-outline,perm-identity,person-outline
 
 ---
 
-# account-outline  <small style="font-size: 60%;font-weight: 100">帐户轮廓</small>
+# account outline  <small style="font-size: 60%;font-weight: 100">帐户轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

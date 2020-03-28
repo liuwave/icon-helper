@@ -1,6 +1,6 @@
 ---
 
-title: tab unselected(未选择的标签) ICON转svg、png下载
+title:  tab unselected(未选择的标签) ICON转svg、png下载
 name: tab-unselected
 zhTips: 未选择的标签
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tab-unselected  <small style="font-size: 60%;font-weight: 100">未选择的标签</small>
+# tab unselected  <small style="font-size: 60%;font-weight: 100">未选择的标签</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

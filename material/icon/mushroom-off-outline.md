@@ -1,6 +1,6 @@
 ---
 
-title: mushroom off outline(蘑菇状轮廓) ICON转svg、png下载
+title:  mushroom off outline(蘑菇状轮廓) ICON转svg、png下载
 name: mushroom-off-outline
 zhTips: 蘑菇状轮廓
 tags: ["food-drink","nature"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# mushroom-off-outline  <small style="font-size: 60%;font-weight: 100">蘑菇状轮廓</small>
+# mushroom off outline  <small style="font-size: 60%;font-weight: 100">蘑菇状轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

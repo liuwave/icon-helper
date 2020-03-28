@@ -1,6 +1,6 @@
 ---
 
-title: chevron right circle(V形右圆) ICON转svg、png下载
+title:  chevron right circle(V形右圆) ICON转svg、png下载
 name: chevron-right-circle
 zhTips: V形右圆
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chevron-right-circle  <small style="font-size: 60%;font-weight: 100">V形右圆</small>
+# chevron right circle  <small style="font-size: 60%;font-weight: 100">V形右圆</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

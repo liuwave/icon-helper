@@ -1,6 +1,6 @@
 ---
 
-title: toothbrush paste(牙刷膏) ICON转svg、png下载
+title:  toothbrush paste(牙刷膏) ICON转svg、png下载
 name: toothbrush-paste
 zhTips: 牙刷膏,牙医,口腔卫生
 tags: ["medical-hospital"]
@@ -8,11 +8,13 @@ search: dentist,oral-hygiene
 
 ---
 
-# toothbrush-paste  <small style="font-size: 60%;font-weight: 100">牙刷膏</small>
+# toothbrush paste  <small style="font-size: 60%;font-weight: 100">牙刷膏</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

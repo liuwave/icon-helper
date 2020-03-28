@@ -1,6 +1,6 @@
 ---
 
-title: cart arrow right(向右购物车箭头) ICON转svg、png下载
+title:  cart arrow right(向右购物车箭头) ICON转svg、png下载
 name: cart-arrow-right
 zhTips: 向右购物车箭头
 tags: ["shopping"]
@@ -8,11 +8,13 @@ search: trolley-arrow-right,shopping-cart-arrow-right
 
 ---
 
-# cart-arrow-right  <small style="font-size: 60%;font-weight: 100">向右购物车箭头</small>
+# cart arrow right  <small style="font-size: 60%;font-weight: 100">向右购物车箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

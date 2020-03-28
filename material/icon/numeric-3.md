@@ -1,6 +1,6 @@
 ---
 
-title: numeric 3(数字3) ICON转svg、png下载
+title:  numeric 3(数字3) ICON转svg、png下载
 name: numeric-3
 zhTips: 数字3
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: number-3,numeric-three
 
 ---
 
-# numeric-3  <small style="font-size: 60%;font-weight: 100">数字3</small>
+# numeric 3  <small style="font-size: 60%;font-weight: 100">数字3</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

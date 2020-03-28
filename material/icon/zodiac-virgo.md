@@ -1,6 +1,6 @@
 ---
 
-title: zodiac virgo(处女座) ICON转svg、png下载
+title:  zodiac virgo(处女座) ICON转svg、png下载
 name: zodiac-virgo
 zhTips: 处女座
 tags: []
@@ -8,11 +8,13 @@ search: horoscope-virgo
 
 ---
 
-# zodiac-virgo  <small style="font-size: 60%;font-weight: 100">处女座</small>
+# zodiac virgo  <small style="font-size: 60%;font-weight: 100">处女座</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

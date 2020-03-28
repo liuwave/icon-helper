@@ -1,6 +1,6 @@
 ---
 
-title: swap vertical variant(交换垂直变体) ICON转svg、png下载
+title:  swap vertical variant(交换垂直变体) ICON转svg、png下载
 name: swap-vertical-variant
 zhTips: 交换垂直变体,交换呼叫
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: swap-calls
 
 ---
 
-# swap-vertical-variant  <small style="font-size: 60%;font-weight: 100">交换垂直变体</small>
+# swap vertical variant  <small style="font-size: 60%;font-weight: 100">交换垂直变体</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

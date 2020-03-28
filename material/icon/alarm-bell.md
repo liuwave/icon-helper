@@ -1,6 +1,6 @@
 ---
 
-title: alarm bell(远程报警) ICON转svg、png下载
+title:  alarm bell(远程报警) ICON转svg、png下载
 name: alarm-bell
 zhTips: 远程报警
 tags: ["notification"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# alarm-bell  <small style="font-size: 60%;font-weight: 100">远程报警</small>
+# alarm bell  <small style="font-size: 60%;font-weight: 100">远程报警</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: account arrow left outline(帐户箭头左轮廓) ICON转svg、png下载
+title:  account arrow left outline(帐户箭头左轮廓) ICON转svg、png下载
 name: account-arrow-left-outline
 zhTips: 帐户箭头左轮廓,用户箭头左轮廓,人箭头左轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-arrow-left-outline,person-arrow-left-outline
 
 ---
 
-# account-arrow-left-outline  <small style="font-size: 60%;font-weight: 100">帐户箭头左轮廓</small>
+# account arrow left outline  <small style="font-size: 60%;font-weight: 100">帐户箭头左轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

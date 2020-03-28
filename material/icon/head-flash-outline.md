@@ -1,6 +1,6 @@
 ---
 
-title: head flash outline(头部闪光轮廓) ICON转svg、png下载
+title:  head flash outline(头部闪光轮廓) ICON转svg、png下载
 name: head-flash-outline
 zhTips: 头部闪光轮廓,头痛部位
 tags: []
@@ -8,11 +8,13 @@ search: head-ache-outline
 
 ---
 
-# head-flash-outline  <small style="font-size: 60%;font-weight: 100">头部闪光轮廓</small>
+# head flash outline  <small style="font-size: 60%;font-weight: 100">头部闪光轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

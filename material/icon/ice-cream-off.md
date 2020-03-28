@@ -1,6 +1,6 @@
 ---
 
-title: ice cream off(冰淇淋掉了) ICON转svg、png下载
+title:  ice cream off(冰淇淋掉了) ICON转svg、png下载
 name: ice-cream-off
 zhTips: 冰淇淋掉了
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# ice-cream-off  <small style="font-size: 60%;font-weight: 100">冰淇淋掉了</small>
+# ice cream off  <small style="font-size: 60%;font-weight: 100">冰淇淋掉了</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

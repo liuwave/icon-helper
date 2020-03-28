@@ -1,6 +1,6 @@
 ---
 
-title: account off(关闭帐户) ICON转svg、png下载
+title:  account off(关闭帐户) ICON转svg、png下载
 name: account-off
 zhTips: 关闭帐户,关闭用户,关闭人员
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-off,person-off
 
 ---
 
-# account-off  <small style="font-size: 60%;font-weight: 100">关闭帐户</small>
+# account off  <small style="font-size: 60%;font-weight: 100">关闭帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

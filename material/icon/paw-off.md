@@ -1,6 +1,6 @@
 ---
 
-title: paw off(脱下爪子) ICON转svg、png下载
+title:  paw off(脱下爪子) ICON转svg、png下载
 name: paw-off
 zhTips: 脱下爪子
 tags: ["animal"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# paw-off  <small style="font-size: 60%;font-weight: 100">脱下爪子</small>
+# paw off  <small style="font-size: 60%;font-weight: 100">脱下爪子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

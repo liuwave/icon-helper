@@ -1,6 +1,6 @@
 ---
 
-title: microsoft excel(微软excel) ICON转svg、png下载
+title:  microsoft excel(微软excel) ICON转svg、png下载
 name: microsoft-excel
 zhTips: 微软excel
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-excel  <small style="font-size: 60%;font-weight: 100">微软excel</small>
+# microsoft excel  <small style="font-size: 60%;font-weight: 100">微软excel</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

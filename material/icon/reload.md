@@ -1,6 +1,6 @@
 ---
 
-title: reload(重新加载) ICON转svg、png下载
+title:  reload(重新加载) ICON转svg、png下载
 name: reload
 zhTips: 重新加载,汽车发动机启动,循环
 tags: ["automotive"]
@@ -13,6 +13,8 @@ search: car-engine-start,loop
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

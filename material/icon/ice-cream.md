@@ -1,6 +1,6 @@
 ---
 
-title: ice cream(冰淇淋) ICON转svg、png下载
+title:  ice cream(冰淇淋) ICON转svg、png下载
 name: ice-cream
 zhTips: 冰淇淋
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# ice-cream  <small style="font-size: 60%;font-weight: 100">冰淇淋</small>
+# ice cream  <small style="font-size: 60%;font-weight: 100">冰淇淋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

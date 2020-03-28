@@ -1,6 +1,6 @@
 ---
 
-title: arrow bottom left bold outline(左下箭头为粗体) ICON转svg、png下载
+title:  arrow bottom left bold outline(左下箭头为粗体) ICON转svg、png下载
 name: arrow-bottom-left-bold-outline
 zhTips: 左下箭头为粗体
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-down-left-bold-outline
 
 ---
 
-# arrow-bottom-left-bold-outline  <small style="font-size: 60%;font-weight: 100">左下箭头为粗体</small>
+# arrow bottom left bold outline  <small style="font-size: 60%;font-weight: 100">左下箭头为粗体</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

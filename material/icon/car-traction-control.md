@@ -1,6 +1,6 @@
 ---
 
-title: car traction control(汽车牵引力控制) ICON转svg、png下载
+title:  car traction control(汽车牵引力控制) ICON转svg、png下载
 name: car-traction-control
 zhTips: 汽车牵引力控制
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# car-traction-control  <small style="font-size: 60%;font-weight: 100">汽车牵引力控制</small>
+# car traction control  <small style="font-size: 60%;font-weight: 100">汽车牵引力控制</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alpha w box outline(alpha w框轮廓) ICON转svg、png下载
+title:  alpha w box outline(alpha w框轮廓) ICON转svg、png下载
 name: alpha-w-box-outline
 zhTips: alpha w框轮廓,字母w框轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-w-box-outline,letter-w-box-outline
 
 ---
 
-# alpha-w-box-outline  <small style="font-size: 60%;font-weight: 100">alpha w框轮廓</small>
+# alpha w box outline  <small style="font-size: 60%;font-weight: 100">alpha w框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: human handsdown(人类的双手) ICON转svg、png下载
+title:  human handsdown(人类的双手) ICON转svg、png下载
 name: human-handsdown
 zhTips: 人类的双手
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# human-handsdown  <small style="font-size: 60%;font-weight: 100">人类的双手</small>
+# human handsdown  <small style="font-size: 60%;font-weight: 100">人类的双手</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

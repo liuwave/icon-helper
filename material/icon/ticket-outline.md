@@ -1,6 +1,6 @@
 ---
 
-title: ticket outline(门票轮廓) ICON转svg、png下载
+title:  ticket outline(门票轮廓) ICON转svg、png下载
 name: ticket-outline
 zhTips: 门票轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# ticket-outline  <small style="font-size: 60%;font-weight: 100">门票轮廓</small>
+# ticket outline  <small style="font-size: 60%;font-weight: 100">门票轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

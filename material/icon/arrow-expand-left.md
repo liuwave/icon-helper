@@ -1,6 +1,6 @@
 ---
 
-title: arrow expand left(箭头向左扩展) ICON转svg、png下载
+title:  arrow expand left(箭头向左扩展) ICON转svg、png下载
 name: arrow-expand-left
 zhTips: 箭头向左扩展
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# arrow-expand-left  <small style="font-size: 60%;font-weight: 100">箭头向左扩展</small>
+# arrow expand left  <small style="font-size: 60%;font-weight: 100">箭头向左扩展</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

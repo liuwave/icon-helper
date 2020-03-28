@@ -1,6 +1,6 @@
 ---
 
-title: watermark(水印) ICON转svg、png下载
+title:  watermark(水印) ICON转svg、png下载
 name: watermark
 zhTips: 水印,品牌水印
 tags: []
@@ -13,6 +13,8 @@ search: branding-watermark
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

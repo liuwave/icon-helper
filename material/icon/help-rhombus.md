@@ -1,6 +1,6 @@
 ---
 
-title: help rhombus(帮助菱形) ICON转svg、png下载
+title:  help rhombus(帮助菱形) ICON转svg、png下载
 name: help-rhombus
 zhTips: 帮助菱形,问号菱形
 tags: []
@@ -8,11 +8,13 @@ search: question-mark-rhombus
 
 ---
 
-# help-rhombus  <small style="font-size: 60%;font-weight: 100">帮助菱形</small>
+# help rhombus  <small style="font-size: 60%;font-weight: 100">帮助菱形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

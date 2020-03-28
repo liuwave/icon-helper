@@ -1,6 +1,6 @@
 ---
 
-title: close network(关闭网络) ICON转svg、png下载
+title:  close network(关闭网络) ICON转svg、png下载
 name: close-network
 zhTips: 关闭网络
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# close-network  <small style="font-size: 60%;font-weight: 100">关闭网络</small>
+# close network  <small style="font-size: 60%;font-weight: 100">关闭网络</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

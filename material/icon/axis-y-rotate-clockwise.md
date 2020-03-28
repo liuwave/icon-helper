@@ -1,6 +1,6 @@
 ---
 
-title: axis y rotate clockwise(顺时针旋转轴) ICON转svg、png下载
+title:  axis y rotate clockwise(顺时针旋转轴) ICON转svg、png下载
 name: axis-y-rotate-clockwise
 zhTips: 顺时针旋转轴
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# axis-y-rotate-clockwise  <small style="font-size: 60%;font-weight: 100">顺时针旋转轴</small>
+# axis y rotate clockwise  <small style="font-size: 60%;font-weight: 100">顺时针旋转轴</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

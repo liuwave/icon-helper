@@ -1,6 +1,6 @@
 ---
 
-title: video minus outline(视频减轮廓) ICON转svg、png下载
+title:  video minus outline(视频减轮廓) ICON转svg、png下载
 name: video-minus-outline
 zhTips: 视频减轮廓
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# video-minus-outline  <small style="font-size: 60%;font-weight: 100">视频减轮廓</small>
+# video minus outline  <small style="font-size: 60%;font-weight: 100">视频减轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: bank outline(银行轮廓) ICON转svg、png下载
+title:  bank outline(银行轮廓) ICON转svg、png下载
 name: bank-outline
 zhTips: 银行轮廓,博物馆轮廓
 tags: ["banking"]
@@ -8,11 +8,13 @@ search: museum-outline
 
 ---
 
-# bank-outline  <small style="font-size: 60%;font-weight: 100">银行轮廓</small>
+# bank outline  <small style="font-size: 60%;font-weight: 100">银行轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

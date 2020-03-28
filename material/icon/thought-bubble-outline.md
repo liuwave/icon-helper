@@ -1,6 +1,6 @@
 ---
 
-title: thought bubble outline(思想泡泡轮廓) ICON转svg、png下载
+title:  thought bubble outline(思想泡泡轮廓) ICON转svg、png下载
 name: thought-bubble-outline
 zhTips: 思想泡泡轮廓,漫画思想泡泡轮廓,思想轮廓
 tags: []
@@ -8,11 +8,13 @@ search: comic-thought-bubble-outline,thinking-outline,think-outline
 
 ---
 
-# thought-bubble-outline  <small style="font-size: 60%;font-weight: 100">思想泡泡轮廓</small>
+# thought bubble outline  <small style="font-size: 60%;font-weight: 100">思想泡泡轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

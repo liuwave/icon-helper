@@ -1,6 +1,6 @@
 ---
 
-title: seatbelt(安全带) ICON转svg、png下载
+title:  seatbelt(安全带) ICON转svg、png下载
 name: seatbelt
 zhTips: 安全带
 tags: ["automotive"]
@@ -13,6 +13,8 @@ search: seat-belt,safety-belt
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

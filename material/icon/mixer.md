@@ -1,6 +1,6 @@
 ---
 
-title: mixer(混合器) ICON转svg、png下载
+title:  mixer(混合器) ICON转svg、png下载
 name: mixer
 zhTips: 混合器,Microsoft混合器
 tags: ["brand-logo"]
@@ -13,6 +13,8 @@ search: microsoft-mixer
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

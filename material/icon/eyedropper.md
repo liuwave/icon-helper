@@ -1,8 +1,8 @@
 ---
 
-title: eyedropper(吸管) ICON转svg、png下载
+title:  eyedropper(吸管) ICON转svg、png下载
 name: eyedropper
-zhTips: 吸管
+zhTips: 吸管,眼药水
 tags: ["color","drawing-art","science"]
 search: pipette
 
@@ -13,6 +13,8 @@ search: pipette
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">pipette</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">吸管</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/eyedropper.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/eyedropper.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">pipette</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">吸管</span><span class="badge-primary badge">眼药水</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/eyedropper.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/eyedropper.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示治疗眼睛的药物，滴管，ps中吸管工具。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-eyedropper mdi-48px"></i>
   <i class="mdi mdi-eyedropper mdi-36px"></i>

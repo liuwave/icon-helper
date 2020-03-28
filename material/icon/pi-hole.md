@@ -1,6 +1,6 @@
 ---
 
-title: pi hole(pi孔) ICON转svg、png下载
+title:  pi hole(pi孔) ICON转svg、png下载
 name: pi-hole
 zhTips: pi孔
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pi-hole  <small style="font-size: 60%;font-weight: 100">pi孔</small>
+# pi hole  <small style="font-size: 60%;font-weight: 100">pi孔</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

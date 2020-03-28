@@ -1,6 +1,6 @@
 ---
 
-title: video 3d(3D视频) ICON转svg、png下载
+title:  video 3d(3D视频) ICON转svg、png下载
 name: video-3d
 zhTips: 3D视频
 tags: ["video-movie","video-movie"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# video-3d  <small style="font-size: 60%;font-weight: 100">3D视频</small>
+# video 3d  <small style="font-size: 60%;font-weight: 100">3D视频</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

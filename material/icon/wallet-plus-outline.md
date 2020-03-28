@@ -1,6 +1,6 @@
 ---
 
-title: wallet plus outline(钱包加轮廓) ICON转svg、png下载
+title:  wallet plus outline(钱包加轮廓) ICON转svg、png下载
 name: wallet-plus-outline
 zhTips: 钱包加轮廓
 tags: ["banking"]
@@ -8,11 +8,13 @@ search: wallet-add-outline
 
 ---
 
-# wallet-plus-outline  <small style="font-size: 60%;font-weight: 100">钱包加轮廓</small>
+# wallet plus outline  <small style="font-size: 60%;font-weight: 100">钱包加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

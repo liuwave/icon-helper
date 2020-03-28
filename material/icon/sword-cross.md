@@ -1,6 +1,6 @@
 ---
 
-title: sword cross(十字剑) ICON转svg、png下载
+title:  sword cross(十字剑) ICON转svg、png下载
 name: sword-cross
 zhTips: 十字剑
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# sword-cross  <small style="font-size: 60%;font-weight: 100">十字剑</small>
+# sword cross  <small style="font-size: 60%;font-weight: 100">十字剑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

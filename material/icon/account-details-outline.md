@@ -1,6 +1,6 @@
 ---
 
-title: account details outline(帐户详细信息轮廓) ICON转svg、png下载
+title:  account details outline(帐户详细信息轮廓) ICON转svg、png下载
 name: account-details-outline
 zhTips: 帐户详细信息轮廓,人员详细信息轮廓,用户详细信息轮廓
 tags: ["account-user","settings"]
@@ -8,11 +8,13 @@ search: person-details-outline,user-details-outline
 
 ---
 
-# account-details-outline  <small style="font-size: 60%;font-weight: 100">帐户详细信息轮廓</small>
+# account details outline  <small style="font-size: 60%;font-weight: 100">帐户详细信息轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

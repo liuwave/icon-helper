@@ -1,6 +1,6 @@
 ---
 
-title: thermometer lines(温度计线) ICON转svg、png下载
+title:  thermometer lines(温度计线) ICON转svg、png下载
 name: thermometer-lines
 zhTips: 温度计线
 tags: ["weather","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# thermometer-lines  <small style="font-size: 60%;font-weight: 100">温度计线</small>
+# thermometer lines  <small style="font-size: 60%;font-weight: 100">温度计线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

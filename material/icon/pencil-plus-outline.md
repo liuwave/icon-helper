@@ -1,6 +1,6 @@
 ---
 
-title: pencil plus outline(铅笔加轮廓) ICON转svg、png下载
+title:  pencil plus outline(铅笔加轮廓) ICON转svg、png下载
 name: pencil-plus-outline
 zhTips: 铅笔加轮廓
 tags: []
@@ -8,11 +8,13 @@ search: pencil-add-outline
 
 ---
 
-# pencil-plus-outline  <small style="font-size: 60%;font-weight: 100">铅笔加轮廓</small>
+# pencil plus outline  <small style="font-size: 60%;font-weight: 100">铅笔加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

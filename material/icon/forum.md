@@ -1,6 +1,6 @@
 ---
 
-title: forum(论坛) ICON转svg、png下载
+title:  forum(论坛) ICON转svg、png下载
 name: forum
 zhTips: 论坛,消息组,问题答案,聊天
 tags: []
@@ -13,6 +13,8 @@ search: message-group,question-answer,chat
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

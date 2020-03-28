@@ -1,6 +1,6 @@
 ---
 
-title: send check(发送支票) ICON转svg、png下载
+title:  send check(发送支票) ICON转svg、png下载
 name: send-check
 zhTips: 发送支票
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# send-check  <small style="font-size: 60%;font-weight: 100">发送支票</small>
+# send check  <small style="font-size: 60%;font-weight: 100">发送支票</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

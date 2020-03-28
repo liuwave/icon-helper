@@ -1,6 +1,6 @@
 ---
 
-title: palm tree(棕榈树) ICON转svg、png下载
+title:  palm tree(棕榈树) ICON转svg、png下载
 name: palm-tree
 zhTips: 棕榈树
 tags: ["nature"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# palm-tree  <small style="font-size: 60%;font-weight: 100">棕榈树</small>
+# palm tree  <small style="font-size: 60%;font-weight: 100">棕榈树</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

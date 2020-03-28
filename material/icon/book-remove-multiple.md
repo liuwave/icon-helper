@@ -1,6 +1,6 @@
 ---
 
-title: book remove multiple(书本删除多个) ICON转svg、png下载
+title:  book remove multiple(书本删除多个) ICON转svg、png下载
 name: book-remove-multiple
 zhTips: 书本删除多个,书本删除
 tags: []
@@ -8,11 +8,13 @@ search: books-remove
 
 ---
 
-# book-remove-multiple  <small style="font-size: 60%;font-weight: 100">书本删除多个</small>
+# book remove multiple  <small style="font-size: 60%;font-weight: 100">书本删除多个</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

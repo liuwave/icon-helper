@@ -1,8 +1,8 @@
 ---
 
-title: braille(盲文) ICON转svg、png下载
+title:  braille(盲文) ICON转svg、png下载
 name: braille
-zhTips: 盲文
+zhTips: 盲文,点形字,字母,盲点,圆点,凸起,视觉
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">盲文</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/braille.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/braille.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">盲文</span><span class="badge-primary badge">点形字</span><span class="badge-primary badge">字母</span><span class="badge-primary badge">盲点</span><span class="badge-primary badge">圆点</span><span class="badge-primary badge">凸起</span><span class="badge-primary badge">视觉</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/braille.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/braille.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">点形字，可以代表一个阵列、连续等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-braille mdi-48px"></i>
   <i class="mdi mdi-braille mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: chess queen(国际象棋皇后) ICON转svg、png下载
+title:  chess queen(国际象棋皇后) ICON转svg、png下载
 name: chess-queen
 zhTips: 国际象棋皇后
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chess-queen  <small style="font-size: 60%;font-weight: 100">国际象棋皇后</small>
+# chess queen  <small style="font-size: 60%;font-weight: 100">国际象棋皇后</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

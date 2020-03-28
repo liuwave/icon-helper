@@ -1,6 +1,6 @@
 ---
 
-title: minus circle multiple(负圆倍数) ICON转svg、png下载
+title:  minus circle multiple(负圆倍数) ICON转svg、png下载
 name: minus-circle-multiple
 zhTips: 负圆倍数,负硬币
 tags: []
@@ -8,11 +8,13 @@ search: coins-minus
 
 ---
 
-# minus-circle-multiple  <small style="font-size: 60%;font-weight: 100">负圆倍数</small>
+# minus circle multiple  <small style="font-size: 60%;font-weight: 100">负圆倍数</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

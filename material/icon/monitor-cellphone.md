@@ -1,6 +1,6 @@
 ---
 
-title: monitor cellphone(手机监控器) ICON转svg、png下载
+title:  monitor cellphone(手机监控器) ICON转svg、png下载
 name: monitor-cellphone
 zhTips: 手机监控器,智能手机监控器
 tags: ["cellphone-phone","device-tech"]
@@ -8,11 +8,13 @@ search: monitor-mobile-phone,monitor-smartphone
 
 ---
 
-# monitor-cellphone  <small style="font-size: 60%;font-weight: 100">手机监控器</small>
+# monitor cellphone  <small style="font-size: 60%;font-weight: 100">手机监控器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

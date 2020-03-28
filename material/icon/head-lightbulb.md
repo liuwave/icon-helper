@@ -1,6 +1,6 @@
 ---
 
-title: head lightbulb(头灯泡) ICON转svg、png下载
+title:  head lightbulb(头灯泡) ICON转svg、png下载
 name: head-lightbulb
 zhTips: 头灯泡,主意
 tags: []
@@ -8,11 +8,13 @@ search: head-idea,head-bulb
 
 ---
 
-# head-lightbulb  <small style="font-size: 60%;font-weight: 100">头灯泡</small>
+# head lightbulb  <small style="font-size: 60%;font-weight: 100">头灯泡</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

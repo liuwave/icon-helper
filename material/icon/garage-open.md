@@ -1,6 +1,6 @@
 ---
 
-title: garage open(车库开放) ICON转svg、png下载
+title:  garage open(车库开放) ICON转svg、png下载
 name: garage-open
 zhTips: 车库开放
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# garage-open  <small style="font-size: 60%;font-weight: 100">车库开放</small>
+# garage open  <small style="font-size: 60%;font-weight: 100">车库开放</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

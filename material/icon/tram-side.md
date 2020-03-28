@@ -1,6 +1,6 @@
 ---
 
-title: tram side(电车侧) ICON转svg、png下载
+title:  tram side(电车侧) ICON转svg、png下载
 name: tram-side
 zhTips: 电车侧
 tags: ["transportation-other"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tram-side  <small style="font-size: 60%;font-weight: 100">电车侧</small>
+# tram side  <small style="font-size: 60%;font-weight: 100">电车侧</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

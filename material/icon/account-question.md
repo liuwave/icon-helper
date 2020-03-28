@@ -1,6 +1,6 @@
 ---
 
-title: account question(帐户问题) ICON转svg、png下载
+title:  account question(帐户问题) ICON转svg、png下载
 name: account-question
 zhTips: 帐户问题,用户帮助,帐户问号,帐户帮助,用户问题,人员问题,人员帮助
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-help,account-question-mark,account-help,user-question,person-questi
 
 ---
 
-# account-question  <small style="font-size: 60%;font-weight: 100">帐户问题</small>
+# account question  <small style="font-size: 60%;font-weight: 100">帐户问题</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

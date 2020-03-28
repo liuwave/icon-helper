@@ -1,6 +1,6 @@
 ---
 
-title: alphabet tengwar(字母tengwar) ICON转svg、png下载
+title:  alphabet tengwar(字母tengwar) ICON转svg、png下载
 name: alphabet-tengwar
 zhTips: 字母tengwar,书写系统tengwar
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-tengwar
 
 ---
 
-# alphabet-tengwar  <small style="font-size: 60%;font-weight: 100">字母tengwar</small>
+# alphabet tengwar  <small style="font-size: 60%;font-weight: 100">字母tengwar</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

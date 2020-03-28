@@ -1,6 +1,6 @@
 ---
 
-title: virtual reality(虚拟现实) ICON转svg、png下载
+title:  virtual reality(虚拟现实) ICON转svg、png下载
 name: virtual-reality
 zhTips: 虚拟现实
 tags: []
@@ -8,11 +8,13 @@ search: vr
 
 ---
 
-# virtual-reality  <small style="font-size: 60%;font-weight: 100">虚拟现实</small>
+# virtual reality  <small style="font-size: 60%;font-weight: 100">虚拟现实</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

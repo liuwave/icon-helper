@@ -1,8 +1,8 @@
 ---
 
-title: bullseye(靶心) ICON转svg、png下载
+title:  bullseye(靶心) ICON转svg、png下载
 name: bullseye
-zhTips: 靶心,目标
+zhTips: 靶心,目标,Bullseye,射箭
 tags: ["sport"]
 search: target
 
@@ -13,6 +13,8 @@ search: target
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">target</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">靶心</span><span class="badge-primary badge">目标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bullseye.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bullseye.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">target</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">靶心</span><span class="badge-primary badge">目标</span><span class="badge-primary badge">Bullseye</span><span class="badge-primary badge">射箭</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bullseye.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bullseye.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">靶心，可以表示枪靶。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-bullseye mdi-48px"></i>
   <i class="mdi mdi-bullseye mdi-36px"></i>

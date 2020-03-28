@@ -1,6 +1,6 @@
 ---
 
-title: account switch outline(帐户切换概述) ICON转svg、png下载
+title:  account switch outline(帐户切换概述) ICON转svg、png下载
 name: account-switch-outline
 zhTips: 帐户切换概述
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# account-switch-outline  <small style="font-size: 60%;font-weight: 100">帐户切换概述</small>
+# account switch outline  <small style="font-size: 60%;font-weight: 100">帐户切换概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: zodiac cancer(生肖癌症) ICON转svg、png下载
+title:  zodiac cancer(生肖癌症) ICON转svg、png下载
 name: zodiac-cancer
 zhTips: 生肖癌症,星座癌症
 tags: []
@@ -8,11 +8,13 @@ search: horoscope-cancer
 
 ---
 
-# zodiac-cancer  <small style="font-size: 60%;font-weight: 100">生肖癌症</small>
+# zodiac cancer  <small style="font-size: 60%;font-weight: 100">生肖癌症</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

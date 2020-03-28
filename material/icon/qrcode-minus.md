@@ -1,6 +1,6 @@
 ---
 
-title: qrcode minus(qrcode减号) ICON转svg、png下载
+title:  qrcode minus(qrcode减号) ICON转svg、png下载
 name: qrcode-minus
 zhTips: qrcode减号
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# qrcode-minus  <small style="font-size: 60%;font-weight: 100">qrcode减号</small>
+# qrcode minus  <small style="font-size: 60%;font-weight: 100">qrcode减号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

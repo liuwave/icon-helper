@@ -1,6 +1,6 @@
 ---
 
-title: reflect horizontal(反光卧式) ICON转svg、png下载
+title:  reflect horizontal(反光卧式) ICON转svg、png下载
 name: reflect-horizontal
 zhTips: 反光卧式
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# reflect-horizontal  <small style="font-size: 60%;font-weight: 100">反光卧式</small>
+# reflect horizontal  <small style="font-size: 60%;font-weight: 100">反光卧式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

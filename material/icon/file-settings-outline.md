@@ -1,6 +1,6 @@
 ---
 
-title: file settings outline(文件设置概述) ICON转svg、png下载
+title:  file settings outline(文件设置概述) ICON转svg、png下载
 name: file-settings-outline
 zhTips: 文件设置概述
 tags: ["settings","files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-settings-outline  <small style="font-size: 60%;font-weight: 100">文件设置概述</small>
+# file settings outline  <small style="font-size: 60%;font-weight: 100">文件设置概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

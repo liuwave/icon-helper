@@ -1,8 +1,8 @@
 ---
 
-title: calculator(计算器) ICON转svg、png下载
+title:  calculator(计算器) ICON转svg、png下载
 name: calculator
-zhTips: 计算器
+zhTips: 计算器,算盘,加法,算术,计数,数学,乘法,减法
 tags: ["math"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">计算器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/calculator.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/calculator.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">计算器</span><span class="badge-primary badge">算盘</span><span class="badge-primary badge">加法</span><span class="badge-primary badge">算术</span><span class="badge-primary badge">计数</span><span class="badge-primary badge">数学</span><span class="badge-primary badge">乘法</span><span class="badge-primary badge">减法</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/calculator.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/calculator.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">计算器，可以表示计算功能、密码事件。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-calculator mdi-48px"></i>
   <i class="mdi mdi-calculator mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: email plus(电子邮件加) ICON转svg、png下载
+title:  email plus(电子邮件加) ICON转svg、png下载
 name: email-plus
 zhTips: 电子邮件加,电子邮件添加,信封添加,信封加
 tags: []
@@ -8,11 +8,13 @@ search: email-add,envelope-add,envelope-plus
 
 ---
 
-# email-plus  <small style="font-size: 60%;font-weight: 100">电子邮件加</small>
+# email plus  <small style="font-size: 60%;font-weight: 100">电子邮件加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

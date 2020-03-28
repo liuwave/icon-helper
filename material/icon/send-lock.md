@@ -1,6 +1,6 @@
 ---
 
-title: send lock(发送锁) ICON转svg、png下载
+title:  send lock(发送锁) ICON转svg、png下载
 name: send-lock
 zhTips: 发送锁,发送安全
 tags: ["lock"]
@@ -8,11 +8,13 @@ search: send-secure
 
 ---
 
-# send-lock  <small style="font-size: 60%;font-weight: 100">发送锁</small>
+# send lock  <small style="font-size: 60%;font-weight: 100">发送锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: numeric 5 box(数字5框) ICON转svg、png下载
+title:  numeric 5 box(数字5框) ICON转svg、png下载
 name: numeric-5-box
 zhTips: 数字5框,外观5
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: looks-5,numeric-five-box,number-5-box
 
 ---
 
-# numeric-5-box  <small style="font-size: 60%;font-weight: 100">数字5框</small>
+# numeric 5 box  <small style="font-size: 60%;font-weight: 100">数字5框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

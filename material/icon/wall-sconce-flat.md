@@ -1,6 +1,6 @@
 ---
 
-title: wall sconce flat(壁式壁灯平) ICON转svg、png下载
+title:  wall sconce flat(壁式壁灯平) ICON转svg、png下载
 name: wall-sconce-flat
 zhTips: 壁式壁灯平,天花板灯平
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: ceiling-light-flat
 
 ---
 
-# wall-sconce-flat  <small style="font-size: 60%;font-weight: 100">壁式壁灯平</small>
+# wall sconce flat  <small style="font-size: 60%;font-weight: 100">壁式壁灯平</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

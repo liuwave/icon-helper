@@ -1,8 +1,8 @@
 ---
 
-title: comment(评论) ICON转svg、png下载
+title:  comment(评论) ICON转svg、png下载
 name: comment
-zhTips: 评论
+zhTips: 评论,泡沫,聊天,会话,反馈,消息,请注意,通知,短信,语音,发短信
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">评论</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/comment.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/comment.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">评论</span><span class="badge-primary badge">泡沫</span><span class="badge-primary badge">聊天</span><span class="badge-primary badge">会话</span><span class="badge-primary badge">反馈</span><span class="badge-primary badge">消息</span><span class="badge-primary badge">请注意</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">短信</span><span class="badge-primary badge">语音</span><span class="badge-primary badge">发短信</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/comment.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/comment.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">评论，聊天，可以表示一条消息。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-comment mdi-48px"></i>
   <i class="mdi mdi-comment mdi-36px"></i>

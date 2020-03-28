@@ -1,6 +1,6 @@
 ---
 
-title: pot mix(锅混) ICON转svg、png下载
+title:  pot mix(锅混) ICON转svg、png下载
 name: pot-mix
 zhTips: 锅混
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pot-mix  <small style="font-size: 60%;font-weight: 100">锅混</small>
+# pot mix  <small style="font-size: 60%;font-weight: 100">锅混</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

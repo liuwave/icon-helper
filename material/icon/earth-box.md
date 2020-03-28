@@ -1,6 +1,6 @@
 ---
 
-title: earth box(接地盒) ICON转svg、png下载
+title:  earth box(接地盒) ICON转svg、png下载
 name: earth-box
 zhTips: 接地盒
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# earth-box  <small style="font-size: 60%;font-weight: 100">接地盒</small>
+# earth box  <small style="font-size: 60%;font-weight: 100">接地盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

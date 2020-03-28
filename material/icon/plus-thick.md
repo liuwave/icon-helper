@@ -1,6 +1,6 @@
 ---
 
-title: plus thick(加粗) ICON转svg、png下载
+title:  plus thick(加粗) ICON转svg、png下载
 name: plus-thick
 zhTips: 加粗
 tags: ["math"]
@@ -8,11 +8,13 @@ search: add-thick
 
 ---
 
-# plus-thick  <small style="font-size: 60%;font-weight: 100">加粗</small>
+# plus thick  <small style="font-size: 60%;font-weight: 100">加粗</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

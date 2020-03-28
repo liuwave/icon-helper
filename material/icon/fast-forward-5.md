@@ -1,6 +1,6 @@
 ---
 
-title: fast forward 5(快进5) ICON转svg、png下载
+title:  fast forward 5(快进5) ICON转svg、png下载
 name: fast-forward-5
 zhTips: 快进5
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# fast-forward-5  <small style="font-size: 60%;font-weight: 100">快进5</small>
+# fast forward 5  <small style="font-size: 60%;font-weight: 100">快进5</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

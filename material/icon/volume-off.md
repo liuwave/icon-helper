@@ -1,6 +1,6 @@
 ---
 
-title: volume off(音量关闭) ICON转svg、png下载
+title:  volume off(音量关闭) ICON转svg、png下载
 name: volume-off
 zhTips: 音量关闭,静音,音频关闭,扬声器关闭
 tags: ["audio","home-automation","cellphone-phone"]
@@ -8,11 +8,13 @@ search: mute,audio-off,speaker-off,speakerphone-off
 
 ---
 
-# volume-off  <small style="font-size: 60%;font-weight: 100">音量关闭</small>
+# volume off  <small style="font-size: 60%;font-weight: 100">音量关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

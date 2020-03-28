@@ -1,6 +1,6 @@
 ---
 
-title: currency php(货币php) ICON转svg、png下载
+title:  currency php(货币php) ICON转svg、png下载
 name: currency-php
 zhTips: 货币php,菲律宾比索
 tags: ["banking","currency"]
@@ -8,11 +8,13 @@ search: philippine-peso
 
 ---
 
-# currency-php  <small style="font-size: 60%;font-weight: 100">货币php</small>
+# currency php  <small style="font-size: 60%;font-weight: 100">货币php</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: shield half(盾半) ICON转svg、png下载
+title:  shield half(盾半) ICON转svg、png下载
 name: shield-half
 zhTips: 盾半
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# shield-half  <small style="font-size: 60%;font-weight: 100">盾半</small>
+# shield half  <small style="font-size: 60%;font-weight: 100">盾半</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

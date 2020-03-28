@@ -1,6 +1,6 @@
 ---
 
-title: weather cloudy alert(天气多云警报) ICON转svg、png下载
+title:  weather cloudy alert(天气多云警报) ICON转svg、png下载
 name: weather-cloudy-alert
 zhTips: 天气多云警报
 tags: ["weather","alert-error","cloud"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# weather-cloudy-alert  <small style="font-size: 60%;font-weight: 100">天气多云警报</small>
+# weather cloudy alert  <small style="font-size: 60%;font-weight: 100">天气多云警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

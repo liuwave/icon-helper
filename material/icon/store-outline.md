@@ -1,6 +1,6 @@
 ---
 
-title: store outline(商店轮廓) ICON转svg、png下载
+title:  store outline(商店轮廓) ICON转svg、png下载
 name: store-outline
 zhTips: 商店轮廓,商店购物中心目录轮廓
 tags: ["places","shopping"]
@@ -8,11 +8,13 @@ search: shop-outline,store-mall-directory-outline
 
 ---
 
-# store-outline  <small style="font-size: 60%;font-weight: 100">商店轮廓</small>
+# store outline  <small style="font-size: 60%;font-weight: 100">商店轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

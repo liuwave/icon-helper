@@ -1,6 +1,6 @@
 ---
 
-title: boom gate up(动臂闸向上) ICON转svg、png下载
+title:  boom gate up(动臂闸向上) ICON转svg、png下载
 name: boom-gate-up
 zhTips: 动臂闸向上,动臂臂向上,动臂屏障向上,屏障屏障向上,屏障向上,自动闸板向上
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: boom-arm-up,boom-barrier-up,arm-barrier-up,barrier-up,automatic-gate-up
 
 ---
 
-# boom-gate-up  <small style="font-size: 60%;font-weight: 100">动臂闸向上</small>
+# boom gate up  <small style="font-size: 60%;font-weight: 100">动臂闸向上</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

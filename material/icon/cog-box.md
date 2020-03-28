@@ -1,6 +1,6 @@
 ---
 
-title: cog box(齿轮箱) ICON转svg、png下载
+title:  cog box(齿轮箱) ICON转svg、png下载
 name: cog-box
 zhTips: 齿轮箱,应用程序设置,框设置
 tags: ["settings"]
@@ -8,11 +8,13 @@ search: gear-box,settings-applications,settings-box
 
 ---
 
-# cog-box  <small style="font-size: 60%;font-weight: 100">齿轮箱</small>
+# cog box  <small style="font-size: 60%;font-weight: 100">齿轮箱</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

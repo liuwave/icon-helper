@@ -1,6 +1,6 @@
 ---
 
-title: cup off(脱杯) ICON转svg、png下载
+title:  cup off(脱杯) ICON转svg、png下载
 name: cup-off
 zhTips: 脱杯
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cup-off  <small style="font-size: 60%;font-weight: 100">脱杯</small>
+# cup off  <small style="font-size: 60%;font-weight: 100">脱杯</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

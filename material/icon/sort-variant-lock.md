@@ -1,6 +1,6 @@
 ---
 
-title: sort variant lock(一种重音符号) ICON转svg、png下载
+title:  sort variant lock(一种重音符号) ICON转svg、png下载
 name: sort-variant-lock
 zhTips: 一种重音符号
 tags: ["text-content-format","lock"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# sort-variant-lock  <small style="font-size: 60%;font-weight: 100">一种重音符号</small>
+# sort variant lock  <small style="font-size: 60%;font-weight: 100">一种重音符号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

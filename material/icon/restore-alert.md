@@ -1,6 +1,6 @@
 ---
 
-title: restore alert(恢复警报) ICON转svg、png下载
+title:  restore alert(恢复警报) ICON转svg、png下载
 name: restore-alert
 zhTips: 恢复警报
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# restore-alert  <small style="font-size: 60%;font-weight: 100">恢复警报</small>
+# restore alert  <small style="font-size: 60%;font-weight: 100">恢复警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

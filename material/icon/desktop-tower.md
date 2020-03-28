@@ -1,6 +1,6 @@
 ---
 
-title: desktop tower(台式塔) ICON转svg、png下载
+title:  desktop tower(台式塔) ICON转svg、png下载
 name: desktop-tower
 zhTips: 台式塔
 tags: ["device-tech","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# desktop-tower  <small style="font-size: 60%;font-weight: 100">台式塔</small>
+# desktop tower  <small style="font-size: 60%;font-weight: 100">台式塔</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

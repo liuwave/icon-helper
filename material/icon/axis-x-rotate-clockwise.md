@@ -1,6 +1,6 @@
 ---
 
-title: axis x rotate clockwise(轴x顺时针旋转) ICON转svg、png下载
+title:  axis x rotate clockwise(轴x顺时针旋转) ICON转svg、png下载
 name: axis-x-rotate-clockwise
 zhTips: 轴x顺时针旋转
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# axis-x-rotate-clockwise  <small style="font-size: 60%;font-weight: 100">轴x顺时针旋转</small>
+# axis x rotate clockwise  <small style="font-size: 60%;font-weight: 100">轴x顺时针旋转</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

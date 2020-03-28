@@ -1,6 +1,6 @@
 ---
 
-title: bottle tonic plus(补品一瓶) ICON转svg、png下载
+title:  bottle tonic plus(补品一瓶) ICON转svg、png下载
 name: bottle-tonic-plus
 zhTips: 补品一瓶,健康药水
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: health-potion
 
 ---
 
-# bottle-tonic-plus  <small style="font-size: 60%;font-weight: 100">补品一瓶</small>
+# bottle tonic plus  <small style="font-size: 60%;font-weight: 100">补品一瓶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

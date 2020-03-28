@@ -1,6 +1,6 @@
 ---
 
-title: account lock outline(帐户锁定轮廓) ICON转svg、png下载
+title:  account lock outline(帐户锁定轮廓) ICON转svg、png下载
 name: account-lock-outline
 zhTips: 帐户锁定轮廓,帐户安全轮廓,人员锁定轮廓,用户锁定轮廓
 tags: ["account-user","lock"]
@@ -8,11 +8,13 @@ search: account-security-outline,account-secure-outline,person-lock-outline,user
 
 ---
 
-# account-lock-outline  <small style="font-size: 60%;font-weight: 100">帐户锁定轮廓</small>
+# account lock outline  <small style="font-size: 60%;font-weight: 100">帐户锁定轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

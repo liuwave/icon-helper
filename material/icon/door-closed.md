@@ -1,6 +1,6 @@
 ---
 
-title: door closed(闭门) ICON转svg、png下载
+title:  door closed(闭门) ICON转svg、png下载
 name: door-closed
 zhTips: 闭门
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# door-closed  <small style="font-size: 60%;font-weight: 100">闭门</small>
+# door closed  <small style="font-size: 60%;font-weight: 100">闭门</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

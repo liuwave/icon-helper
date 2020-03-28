@@ -1,6 +1,6 @@
 ---
 
-title: signature text(签名文本) ICON转svg、png下载
+title:  signature text(签名文本) ICON转svg、png下载
 name: signature-text
 zhTips: 签名文本
 tags: ["form"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# signature-text  <small style="font-size: 60%;font-weight: 100">签名文本</small>
+# signature text  <small style="font-size: 60%;font-weight: 100">签名文本</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

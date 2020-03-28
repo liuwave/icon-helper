@@ -1,6 +1,6 @@
 ---
 
-title: function variant(口音功能) ICON转svg、png下载
+title:  function variant(口音功能) ICON转svg、png下载
 name: function-variant
 zhTips: 口音功能
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# function-variant  <small style="font-size: 60%;font-weight: 100">口音功能</small>
+# function variant  <small style="font-size: 60%;font-weight: 100">口音功能</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: pan horizontal(水平锅) ICON转svg、png下载
+title:  pan horizontal(水平锅) ICON转svg、png下载
 name: pan-horizontal
 zhTips: 水平锅
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pan-horizontal  <small style="font-size: 60%;font-weight: 100">水平锅</small>
+# pan horizontal  <small style="font-size: 60%;font-weight: 100">水平锅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

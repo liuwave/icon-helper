@@ -1,6 +1,6 @@
 ---
 
-title: train variant(火车口音) ICON转svg、png下载
+title:  train variant(火车口音) ICON转svg、png下载
 name: train-variant
 zhTips: 火车口音
 tags: ["transportation-other"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# train-variant  <small style="font-size: 60%;font-weight: 100">火车口音</small>
+# train variant  <small style="font-size: 60%;font-weight: 100">火车口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

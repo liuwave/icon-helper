@@ -1,6 +1,6 @@
 ---
 
-title: briefcase remove outline(公文包删除轮廓) ICON转svg、png下载
+title:  briefcase remove outline(公文包删除轮廓) ICON转svg、png下载
 name: briefcase-remove-outline
 zhTips: 公文包删除轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# briefcase-remove-outline  <small style="font-size: 60%;font-weight: 100">公文包删除轮廓</small>
+# briefcase remove outline  <small style="font-size: 60%;font-weight: 100">公文包删除轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

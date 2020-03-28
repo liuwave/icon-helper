@@ -1,6 +1,6 @@
 ---
 
-title: arrow collapse all(箭头全部折叠) ICON转svg、png下载
+title:  arrow collapse all(箭头全部折叠) ICON转svg、png下载
 name: arrow-collapse-all
 zhTips: 箭头全部折叠,箭头全部压缩
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-compress-all
 
 ---
 
-# arrow-collapse-all  <small style="font-size: 60%;font-weight: 100">箭头全部折叠</small>
+# arrow collapse all  <small style="font-size: 60%;font-weight: 100">箭头全部折叠</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

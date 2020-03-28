@@ -1,6 +1,6 @@
 ---
 
-title: fridge(冰箱) ICON转svg、png下载
+title:  fridge(冰箱) ICON转svg、png下载
 name: fridge
 zhTips: 冰箱,装有冰箱的冰箱
 tags: ["home-automation"]
@@ -13,6 +13,8 @@ search: fridge-filled,refrigerator
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

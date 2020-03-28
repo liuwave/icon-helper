@@ -1,6 +1,6 @@
 ---
 
-title: newspaper variant multiple outline(报纸变体多个轮廓) ICON转svg、png下载
+title:  newspaper variant multiple outline(报纸变体多个轮廓) ICON转svg、png下载
 name: newspaper-variant-multiple-outline
 zhTips: 报纸变体多个轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# newspaper-variant-multiple-outline  <small style="font-size: 60%;font-weight: 100">报纸变体多个轮廓</small>
+# newspaper variant multiple outline  <small style="font-size: 60%;font-weight: 100">报纸变体多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

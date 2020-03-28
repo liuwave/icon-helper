@@ -1,6 +1,6 @@
 ---
 
-title: account tie(帐户领带) ICON转svg、png下载
+title:  account tie(帐户领带) ICON转svg、png下载
 name: account-tie
 zhTips: 帐户领带,人领带,用户领带
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: person-tie,user-tie
 
 ---
 
-# account-tie  <small style="font-size: 60%;font-weight: 100">帐户领带</small>
+# account tie  <small style="font-size: 60%;font-weight: 100">帐户领带</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

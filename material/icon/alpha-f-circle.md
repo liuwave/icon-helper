@@ -1,6 +1,6 @@
 ---
 
-title: alpha f circle(alpha f圈) ICON转svg、png下载
+title:  alpha f circle(alpha f圈) ICON转svg、png下载
 name: alpha-f-circle
 zhTips: alpha f圈,字母f圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-f-circle,letter-f-circle
 
 ---
 
-# alpha-f-circle  <small style="font-size: 60%;font-weight: 100">alpha f圈</small>
+# alpha f circle  <small style="font-size: 60%;font-weight: 100">alpha f圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

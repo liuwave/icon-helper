@@ -1,6 +1,6 @@
 ---
 
-title: tshirt v outline(t恤v轮廓) ICON转svg、png下载
+title:  tshirt v outline(t恤v轮廓) ICON转svg、png下载
 name: tshirt-v-outline
 zhTips: t恤v轮廓
 tags: ["clothing"]
@@ -8,11 +8,13 @@ search: t-shirt-v-outline
 
 ---
 
-# tshirt-v-outline  <small style="font-size: 60%;font-weight: 100">t恤v轮廓</small>
+# tshirt v outline  <small style="font-size: 60%;font-weight: 100">t恤v轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

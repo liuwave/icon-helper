@@ -1,6 +1,6 @@
 ---
 
-title: freebsd(freebsd) ICON转svg、png下载
+title:  freebsd(freebsd) ICON转svg、png下载
 name: freebsd
 zhTips: freebsd
 tags: ["brand-logo"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -39,7 +41,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">freebsd</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/freebsd.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/freebsd.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">FreeBSD是一种类UNIX操作系统，是由经过BSD、386BSD和4.4BSD发展而来的Unix的一个重要分支</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-freebsd mdi-48px"></i>
   <i class="mdi mdi-freebsd mdi-36px"></i>

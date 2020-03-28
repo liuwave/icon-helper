@@ -1,6 +1,6 @@
 ---
 
-title: account search(帐户搜索) ICON转svg、png下载
+title:  account search(帐户搜索) ICON转svg、png下载
 name: account-search
 zhTips: 帐户搜索,用户搜索,人员搜索
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-search,person-search
 
 ---
 
-# account-search  <small style="font-size: 60%;font-weight: 100">帐户搜索</small>
+# account search  <small style="font-size: 60%;font-weight: 100">帐户搜索</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

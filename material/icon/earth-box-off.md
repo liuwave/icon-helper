@@ -1,6 +1,6 @@
 ---
 
-title: earth box off(接地盒已关闭) ICON转svg、png下载
+title:  earth box off(接地盒已关闭) ICON转svg、png下载
 name: earth-box-off
 zhTips: 接地盒已关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# earth-box-off  <small style="font-size: 60%;font-weight: 100">接地盒已关闭</small>
+# earth box off  <small style="font-size: 60%;font-weight: 100">接地盒已关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

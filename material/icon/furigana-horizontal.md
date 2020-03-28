@@ -1,6 +1,6 @@
 ---
 
-title: furigana horizontal(furigana水平) ICON转svg、png下载
+title:  furigana horizontal(furigana水平) ICON转svg、png下载
 name: furigana-horizontal
 zhTips: furigana水平,红宝石水平
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: ruby-horizontal
 
 ---
 
-# furigana-horizontal  <small style="font-size: 60%;font-weight: 100">furigana水平</small>
+# furigana horizontal  <small style="font-size: 60%;font-weight: 100">furigana水平</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

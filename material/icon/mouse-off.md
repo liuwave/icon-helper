@@ -1,6 +1,6 @@
 ---
 
-title: mouse off(鼠标关闭) ICON转svg、png下载
+title:  mouse off(鼠标关闭) ICON转svg、png下载
 name: mouse-off
 zhTips: 鼠标关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# mouse-off  <small style="font-size: 60%;font-weight: 100">鼠标关闭</small>
+# mouse off  <small style="font-size: 60%;font-weight: 100">鼠标关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

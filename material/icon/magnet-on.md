@@ -1,6 +1,6 @@
 ---
 
-title: magnet on(上磁铁) ICON转svg、png下载
+title:  magnet on(上磁铁) ICON转svg、png下载
 name: magnet-on
 zhTips: 上磁铁
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# magnet-on  <small style="font-size: 60%;font-weight: 100">上磁铁</small>
+# magnet on  <small style="font-size: 60%;font-weight: 100">上磁铁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

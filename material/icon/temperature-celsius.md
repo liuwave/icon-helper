@@ -1,6 +1,6 @@
 ---
 
-title: temperature celsius(温度摄氏) ICON转svg、png下载
+title:  temperature celsius(温度摄氏) ICON转svg、png下载
 name: temperature-celsius
 zhTips: 温度摄氏
 tags: ["weather"]
@@ -8,11 +8,13 @@ search: temperature-centigrade
 
 ---
 
-# temperature-celsius  <small style="font-size: 60%;font-weight: 100">温度摄氏</small>
+# temperature celsius  <small style="font-size: 60%;font-weight: 100">温度摄氏</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

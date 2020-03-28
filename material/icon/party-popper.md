@@ -1,6 +1,6 @@
 ---
 
-title: party popper(庆祝聚会) ICON转svg、png下载
+title:  party popper(庆祝聚会) ICON转svg、png下载
 name: party-popper
 zhTips: 庆祝聚会,庆祝活动
 tags: ["holiday"]
@@ -8,11 +8,13 @@ search: celebration
 
 ---
 
-# party-popper  <small style="font-size: 60%;font-weight: 100">庆祝聚会</small>
+# party popper  <small style="font-size: 60%;font-weight: 100">庆祝聚会</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

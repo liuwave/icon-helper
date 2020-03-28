@@ -1,6 +1,6 @@
 ---
 
-title: track light(轻轨) ICON转svg、png下载
+title:  track light(轻轨) ICON转svg、png下载
 name: track-light
 zhTips: 轻轨
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# track-light  <small style="font-size: 60%;font-weight: 100">轻轨</small>
+# track light  <small style="font-size: 60%;font-weight: 100">轻轨</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

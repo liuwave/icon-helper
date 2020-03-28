@@ -1,6 +1,6 @@
 ---
 
-title: timeline help(帮助时间表) ICON转svg、png下载
+title:  timeline help(帮助时间表) ICON转svg、png下载
 name: timeline-help
 zhTips: 帮助时间表
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# timeline-help  <small style="font-size: 60%;font-weight: 100">帮助时间表</small>
+# timeline help  <small style="font-size: 60%;font-weight: 100">帮助时间表</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

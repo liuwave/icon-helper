@@ -1,6 +1,6 @@
 ---
 
-title: cast off(抛弃) ICON转svg、png下载
+title:  cast off(抛弃) ICON转svg、png下载
 name: cast-off
 zhTips: 抛弃
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cast-off  <small style="font-size: 60%;font-weight: 100">抛弃</small>
+# cast off  <small style="font-size: 60%;font-weight: 100">抛弃</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

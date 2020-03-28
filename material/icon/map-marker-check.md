@@ -1,6 +1,6 @@
 ---
 
-title: map marker check(地图标记检查) ICON转svg、png下载
+title:  map marker check(地图标记检查) ICON转svg、png下载
 name: map-marker-check
 zhTips: 地图标记检查,地图标记刻度线,投票位置
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search: map-marker-tick,where-to-vote
 
 ---
 
-# map-marker-check  <small style="font-size: 60%;font-weight: 100">地图标记检查</small>
+# map marker check  <small style="font-size: 60%;font-weight: 100">地图标记检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

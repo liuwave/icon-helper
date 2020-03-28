@@ -1,6 +1,6 @@
 ---
 
-title: alpha m circle outline(字母m圆圈轮廓) ICON转svg、png下载
+title:  alpha m circle outline(字母m圆圈轮廓) ICON转svg、png下载
 name: alpha-m-circle-outline
 zhTips: 字母m圆圈轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-m-circle-outline,letter-m-circle-outline
 
 ---
 
-# alpha-m-circle-outline  <small style="font-size: 60%;font-weight: 100">字母m圆圈轮廓</small>
+# alpha m circle outline  <small style="font-size: 60%;font-weight: 100">字母m圆圈轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: tow truck(拖车) ICON转svg、png下载
+title:  tow truck(拖车) ICON转svg、png下载
 name: tow-truck
 zhTips: 拖车,自动牵引,卡车
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: auto-towing,truck
 
 ---
 
-# tow-truck  <small style="font-size: 60%;font-weight: 100">拖车</small>
+# tow truck  <small style="font-size: 60%;font-weight: 100">拖车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

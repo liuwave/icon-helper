@@ -1,6 +1,6 @@
 ---
 
-title: minus box multiple(减号倍数) ICON转svg、png下载
+title:  minus box multiple(减号倍数) ICON转svg、png下载
 name: minus-box-multiple
 zhTips: 减号倍数,库减号
 tags: []
@@ -8,11 +8,13 @@ search: library-minus
 
 ---
 
-# minus-box-multiple  <small style="font-size: 60%;font-weight: 100">减号倍数</small>
+# minus box multiple  <small style="font-size: 60%;font-weight: 100">减号倍数</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

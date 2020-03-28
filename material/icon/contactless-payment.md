@@ -1,6 +1,6 @@
 ---
 
-title: contactless payment(非接触式付款) ICON转svg、png下载
+title:  contactless payment(非接触式付款) ICON转svg、png下载
 name: contactless-payment
 zhTips: 非接触式付款
 tags: ["currency"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# contactless-payment  <small style="font-size: 60%;font-weight: 100">非接触式付款</small>
+# contactless payment  <small style="font-size: 60%;font-weight: 100">非接触式付款</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

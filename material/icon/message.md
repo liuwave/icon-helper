@@ -1,6 +1,6 @@
 ---
 
-title: message(消息) ICON转svg、png下载
+title:  message(消息) ICON转svg、png下载
 name: message
 zhTips: 消息,聊天气泡
 tags: []
@@ -13,6 +13,8 @@ search: chat-bubble
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

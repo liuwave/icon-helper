@@ -1,6 +1,6 @@
 ---
 
-title: microsoft visual studio code(Microsoft Visual Studio代码) ICON转svg、png下载
+title:  microsoft visual studio code(Microsoft Visual Studio代码) ICON转svg、png下载
 name: microsoft-visual-studio-code
 zhTips: Microsoft Visual Studio代码,VS代码
 tags: []
@@ -8,11 +8,13 @@ search: vs-code
 
 ---
 
-# microsoft-visual-studio-code  <small style="font-size: 60%;font-weight: 100">Microsoft Visual Studio代码</small>
+# microsoft visual studio code  <small style="font-size: 60%;font-weight: 100">Microsoft Visual Studio代码</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

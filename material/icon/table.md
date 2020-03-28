@@ -1,8 +1,8 @@
 ---
 
-title: table(表) ICON转svg、png下载
+title:  table(表) ICON转svg、png下载
 name: table
-zhTips: 表
+zhTips: 表,平板桌面,表格,数据,Excel,电子表格
 tags: ["text-content-format"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">表</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/table.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/table.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">表</span><span class="badge-primary badge">平板桌面</span><span class="badge-primary badge">表格</span><span class="badge-primary badge">数据</span><span class="badge-primary badge">Excel</span><span class="badge-primary badge">电子表格</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/table.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/table.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示电脑桌面设备。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-table mdi-48px"></i>
   <i class="mdi mdi-table mdi-36px"></i>

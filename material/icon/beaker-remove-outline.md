@@ -1,6 +1,6 @@
 ---
 
-title: beaker remove outline(烧杯删除轮廓) ICON转svg、png下载
+title:  beaker remove outline(烧杯删除轮廓) ICON转svg、png下载
 name: beaker-remove-outline
 zhTips: 烧杯删除轮廓
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# beaker-remove-outline  <small style="font-size: 60%;font-weight: 100">烧杯删除轮廓</small>
+# beaker remove outline  <small style="font-size: 60%;font-weight: 100">烧杯删除轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

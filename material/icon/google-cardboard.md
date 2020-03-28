@@ -1,6 +1,6 @@
 ---
 
-title: google cardboard(Google纸板) ICON转svg、png下载
+title:  google cardboard(Google纸板) ICON转svg、png下载
 name: google-cardboard
 zhTips: Google纸板
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-cardboard  <small style="font-size: 60%;font-weight: 100">Google纸板</small>
+# google cardboard  <small style="font-size: 60%;font-weight: 100">Google纸板</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

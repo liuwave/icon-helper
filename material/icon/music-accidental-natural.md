@@ -1,6 +1,6 @@
 ---
 
-title: music accidental natural(音乐意外自然) ICON转svg、png下载
+title:  music accidental natural(音乐意外自然) ICON转svg、png下载
 name: music-accidental-natural
 zhTips: 音乐意外自然
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-accidental-natural  <small style="font-size: 60%;font-weight: 100">音乐意外自然</small>
+# music accidental natural  <small style="font-size: 60%;font-weight: 100">音乐意外自然</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

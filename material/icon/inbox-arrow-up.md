@@ -1,6 +1,6 @@
 ---
 
-title: inbox arrow up(收件箱向上箭头) ICON转svg、png下载
+title:  inbox arrow up(收件箱向上箭头) ICON转svg、png下载
 name: inbox-arrow-up
 zhTips: 收件箱向上箭头,从收件箱移动
 tags: []
@@ -8,11 +8,13 @@ search: move-from-inbox
 
 ---
 
-# inbox-arrow-up  <small style="font-size: 60%;font-weight: 100">收件箱向上箭头</small>
+# inbox arrow up  <small style="font-size: 60%;font-weight: 100">收件箱向上箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: pause circle(暂停圈) ICON转svg、png下载
+title:  pause circle(暂停圈) ICON转svg、png下载
 name: pause-circle
 zhTips: 暂停圈,已填充暂停圈
 tags: []
@@ -8,11 +8,13 @@ search: pause-circle-filled
 
 ---
 
-# pause-circle  <small style="font-size: 60%;font-weight: 100">暂停圈</small>
+# pause circle  <small style="font-size: 60%;font-weight: 100">暂停圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

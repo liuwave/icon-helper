@@ -1,6 +1,6 @@
 ---
 
-title: arrow right circle(右箭头) ICON转svg、png下载
+title:  arrow right circle(右箭头) ICON转svg、png下载
 name: arrow-right-circle
 zhTips: 右箭头,前箭头
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-forward-circle
 
 ---
 
-# arrow-right-circle  <small style="font-size: 60%;font-weight: 100">右箭头</small>
+# arrow right circle  <small style="font-size: 60%;font-weight: 100">右箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

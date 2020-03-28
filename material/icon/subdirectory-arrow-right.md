@@ -1,6 +1,6 @@
 ---
 
-title: subdirectory arrow right(右箭头子目录) ICON转svg、png下载
+title:  subdirectory arrow right(右箭头子目录) ICON转svg、png下载
 name: subdirectory-arrow-right
 zhTips: 右箭头子目录
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# subdirectory-arrow-right  <small style="font-size: 60%;font-weight: 100">右箭头子目录</small>
+# subdirectory arrow right  <small style="font-size: 60%;font-weight: 100">右箭头子目录</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

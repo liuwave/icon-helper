@@ -1,6 +1,6 @@
 ---
 
-title: headphones bluetooth(蓝牙耳机) ICON转svg、png下载
+title:  headphones bluetooth(蓝牙耳机) ICON转svg、png下载
 name: headphones-bluetooth
 zhTips: 蓝牙耳机
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# headphones-bluetooth  <small style="font-size: 60%;font-weight: 100">蓝牙耳机</small>
+# headphones bluetooth  <small style="font-size: 60%;font-weight: 100">蓝牙耳机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

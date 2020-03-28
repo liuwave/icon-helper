@@ -1,6 +1,6 @@
 ---
 
-title: alarm(警报) ICON转svg、png下载
+title:  alarm(警报) ICON转svg、png下载
 name: alarm
 zhTips: 警报,访问警报,闹钟
 tags: []
@@ -13,6 +13,8 @@ search: access-alarms,alarm-clock
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

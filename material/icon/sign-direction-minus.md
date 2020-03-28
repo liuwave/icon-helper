@@ -1,6 +1,6 @@
 ---
 
-title: sign direction minus(标志方向为负) ICON转svg、png下载
+title:  sign direction minus(标志方向为负) ICON转svg、png下载
 name: sign-direction-minus
 zhTips: 标志方向为负,里程碑为负
 tags: []
@@ -8,11 +8,13 @@ search: milestone-minus
 
 ---
 
-# sign-direction-minus  <small style="font-size: 60%;font-weight: 100">标志方向为负</small>
+# sign direction minus  <small style="font-size: 60%;font-weight: 100">标志方向为负</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

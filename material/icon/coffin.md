@@ -1,6 +1,6 @@
 ---
 
-title: coffin(棺材) ICON转svg、png下载
+title:  coffin(棺材) ICON转svg、png下载
 name: coffin
 zhTips: 棺材
 tags: ["holiday"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

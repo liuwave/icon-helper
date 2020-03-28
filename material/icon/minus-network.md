@@ -1,6 +1,6 @@
 ---
 
-title: minus network(负号网络) ICON转svg、png下载
+title:  minus network(负号网络) ICON转svg、png下载
 name: minus-network
 zhTips: 负号网络
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# minus-network  <small style="font-size: 60%;font-weight: 100">负号网络</small>
+# minus network  <small style="font-size: 60%;font-weight: 100">负号网络</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

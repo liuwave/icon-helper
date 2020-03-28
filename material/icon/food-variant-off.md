@@ -1,6 +1,6 @@
 ---
 
-title: food variant off(关闭食物口音) ICON转svg、png下载
+title:  food variant off(关闭食物口音) ICON转svg、png下载
 name: food-variant-off
 zhTips: 关闭食物口音
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# food-variant-off  <small style="font-size: 60%;font-weight: 100">关闭食物口音</small>
+# food variant off  <small style="font-size: 60%;font-weight: 100">关闭食物口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

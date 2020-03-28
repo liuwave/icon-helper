@@ -1,6 +1,6 @@
 ---
 
-title: image edit outline(图像编辑轮廓) ICON转svg、png下载
+title:  image edit outline(图像编辑轮廓) ICON转svg、png下载
 name: image-edit-outline
 zhTips: 图像编辑轮廓
 tags: ["edit-modify"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# image-edit-outline  <small style="font-size: 60%;font-weight: 100">图像编辑轮廓</small>
+# image edit outline  <small style="font-size: 60%;font-weight: 100">图像编辑轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

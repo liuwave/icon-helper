@@ -1,6 +1,6 @@
 ---
 
-title: zip disk(压缩磁盘) ICON转svg、png下载
+title:  zip disk(压缩磁盘) ICON转svg、png下载
 name: zip-disk
 zhTips: 压缩磁盘
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# zip-disk  <small style="font-size: 60%;font-weight: 100">压缩磁盘</small>
+# zip disk  <small style="font-size: 60%;font-weight: 100">压缩磁盘</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

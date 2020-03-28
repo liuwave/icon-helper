@@ -1,6 +1,6 @@
 ---
 
-title: buddhism(佛教) ICON转svg、png下载
+title:  buddhism(佛教) ICON转svg、png下载
 name: buddhism
 zhTips: 佛教,佛法,佛轮,佛教宗教
 tags: ["religion"]
@@ -13,6 +13,8 @@ search: dharmachakra,dharma-wheel,religion-buddhist
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

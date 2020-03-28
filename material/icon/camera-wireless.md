@@ -1,6 +1,6 @@
 ---
 
-title: camera wireless(无线摄像头) ICON转svg、png下载
+title:  camera wireless(无线摄像头) ICON转svg、png下载
 name: camera-wireless
 zhTips: 无线摄像头
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-wireless  <small style="font-size: 60%;font-weight: 100">无线摄像头</small>
+# camera wireless  <small style="font-size: 60%;font-weight: 100">无线摄像头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: cloud check(云检查) ICON转svg、png下载
+title:  cloud check(云检查) ICON转svg、png下载
 name: cloud-check
 zhTips: 云检查,云完成,云滴答
 tags: ["cloud"]
@@ -8,11 +8,13 @@ search: cloud-done,cloud-tick
 
 ---
 
-# cloud-check  <small style="font-size: 60%;font-weight: 100">云检查</small>
+# cloud check  <small style="font-size: 60%;font-weight: 100">云检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

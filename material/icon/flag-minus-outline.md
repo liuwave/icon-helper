@@ -1,6 +1,6 @@
 ---
 
-title: flag minus outline(标记减去轮廓) ICON转svg、png下载
+title:  flag minus outline(标记减去轮廓) ICON转svg、png下载
 name: flag-minus-outline
 zhTips: 标记减去轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# flag-minus-outline  <small style="font-size: 60%;font-weight: 100">标记减去轮廓</small>
+# flag minus outline  <small style="font-size: 60%;font-weight: 100">标记减去轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

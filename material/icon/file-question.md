@@ -1,6 +1,6 @@
 ---
 
-title: file question(文件问题) ICON转svg、png下载
+title:  file question(文件问题) ICON转svg、png下载
 name: file-question
 zhTips: 文件问题
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-question  <small style="font-size: 60%;font-weight: 100">文件问题</small>
+# file question  <small style="font-size: 60%;font-weight: 100">文件问题</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

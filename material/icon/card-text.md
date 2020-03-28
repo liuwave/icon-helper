@@ -1,6 +1,6 @@
 ---
 
-title: card text(卡文字) ICON转svg、png下载
+title:  card text(卡文字) ICON转svg、png下载
 name: card-text
 zhTips: 卡文字
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# card-text  <small style="font-size: 60%;font-weight: 100">卡文字</small>
+# card text  <small style="font-size: 60%;font-weight: 100">卡文字</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

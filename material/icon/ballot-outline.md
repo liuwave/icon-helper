@@ -1,6 +1,6 @@
 ---
 
-title: ballot outline(投票轮廓) ICON转svg、png下载
+title:  ballot outline(投票轮廓) ICON转svg、png下载
 name: ballot-outline
 zhTips: 投票轮廓
 tags: []
@@ -8,11 +8,13 @@ search: vote-outline
 
 ---
 
-# ballot-outline  <small style="font-size: 60%;font-weight: 100">投票轮廓</small>
+# ballot outline  <small style="font-size: 60%;font-weight: 100">投票轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

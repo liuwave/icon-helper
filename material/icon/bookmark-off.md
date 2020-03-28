@@ -1,6 +1,6 @@
 ---
 
-title: bookmark off(取消收藏) ICON转svg、png下载
+title:  bookmark off(取消收藏) ICON转svg、png下载
 name: bookmark-off
 zhTips: 取消收藏
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bookmark-off  <small style="font-size: 60%;font-weight: 100">取消收藏</small>
+# bookmark off  <small style="font-size: 60%;font-weight: 100">取消收藏</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

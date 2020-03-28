@@ -1,6 +1,6 @@
 ---
 
-title: content save all(内容全部保存) ICON转svg、png下载
+title:  content save all(内容全部保存) ICON转svg、png下载
 name: content-save-all
 zhTips: 内容全部保存
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# content-save-all  <small style="font-size: 60%;font-weight: 100">内容全部保存</small>
+# content save all  <small style="font-size: 60%;font-weight: 100">内容全部保存</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

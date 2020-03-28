@@ -1,6 +1,6 @@
 ---
 
-title: ladybug(瓢虫) ICON转svg、png下载
+title:  ladybug(瓢虫) ICON转svg、png下载
 name: ladybug
 zhTips: 瓢虫,bugfood
 tags: ["nature"]
@@ -13,6 +13,8 @@ search: bugfood,ladybird
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

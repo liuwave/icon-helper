@@ -1,6 +1,6 @@
 ---
 
-title: human female girl(人类女性女孩) ICON转svg、png下载
+title:  human female girl(人类女性女孩) ICON转svg、png下载
 name: human-female-girl
 zhTips: 人类女性女孩,母亲,妈妈,女童
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search: mother,mom,woman-child,mum
 
 ---
 
-# human-female-girl  <small style="font-size: 60%;font-weight: 100">人类女性女孩</small>
+# human female girl  <small style="font-size: 60%;font-weight: 100">人类女性女孩</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

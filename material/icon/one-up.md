@@ -1,6 +1,6 @@
 ---
 
-title: one up(一上一上) ICON转svg、png下载
+title:  one up(一上一上) ICON转svg、png下载
 name: one-up
 zhTips: 一上一上,超长寿命
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: 1up,extra-life
 
 ---
 
-# one-up  <small style="font-size: 60%;font-weight: 100">一上一上</small>
+# one up  <small style="font-size: 60%;font-weight: 100">一上一上</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

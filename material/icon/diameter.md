@@ -1,6 +1,6 @@
 ---
 
-title: diameter(直径) ICON转svg、png下载
+title:  diameter(直径) ICON转svg、png下载
 name: diameter
 zhTips: 直径,圆直径,球体直径
 tags: ["math"]
@@ -13,6 +13,8 @@ search: circle-diameter,sphere-diameter
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

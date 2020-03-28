@@ -1,6 +1,6 @@
 ---
 
-title: brightness 5(亮度5) ICON转svg、png下载
+title:  brightness 5(亮度5) ICON转svg、png下载
 name: brightness-5
 zhTips: 亮度5,亮度低
 tags: []
@@ -8,11 +8,13 @@ search: brightness-low
 
 ---
 
-# brightness-5  <small style="font-size: 60%;font-weight: 100">亮度5</small>
+# brightness 5  <small style="font-size: 60%;font-weight: 100">亮度5</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

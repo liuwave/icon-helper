@@ -1,6 +1,6 @@
 ---
 
-title: bus articulated front(铰接式巴士前) ICON转svg、png下载
+title:  bus articulated front(铰接式巴士前) ICON转svg、png下载
 name: bus-articulated-front
 zhTips: 铰接式巴士前
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bus-articulated-front  <small style="font-size: 60%;font-weight: 100">铰接式巴士前</small>
+# bus articulated front  <small style="font-size: 60%;font-weight: 100">铰接式巴士前</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

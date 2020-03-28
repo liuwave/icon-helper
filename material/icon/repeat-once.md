@@ -1,6 +1,6 @@
 ---
 
-title: repeat once(重复一次) ICON转svg、png下载
+title:  repeat once(重复一次) ICON转svg、png下载
 name: repeat-once
 zhTips: 重复一次
 tags: []
@@ -8,11 +8,13 @@ search: repeat-one
 
 ---
 
-# repeat-once  <small style="font-size: 60%;font-weight: 100">重复一次</small>
+# repeat once  <small style="font-size: 60%;font-weight: 100">重复一次</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

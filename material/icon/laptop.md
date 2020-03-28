@@ -1,8 +1,8 @@
 ---
 
-title: laptop(笔记本电脑) ICON转svg、png下载
+title:  laptop(笔记本电脑) ICON转svg、png下载
 name: laptop
-zhTips: 笔记本电脑,计算机
+zhTips: 笔记本电脑,计算机,笔电,cpu,戴尔,演示,设备,mac,macbook,机器,pc
 tags: ["device-tech","home-automation"]
 search: computer
 
@@ -13,6 +13,8 @@ search: computer
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">computer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">笔记本电脑</span><span class="badge-primary badge">计算机</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/laptop.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/laptop.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">computer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">笔记本电脑</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">笔电</span><span class="badge-primary badge">cpu</span><span class="badge-primary badge">戴尔</span><span class="badge-primary badge">演示</span><span class="badge-primary badge">设备</span><span class="badge-primary badge">mac</span><span class="badge-primary badge">macbook</span><span class="badge-primary badge">机器</span><span class="badge-primary badge">pc</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/laptop.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/laptop.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示笔记本电脑。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-laptop mdi-48px"></i>
   <i class="mdi mdi-laptop mdi-36px"></i>

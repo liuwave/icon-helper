@@ -1,6 +1,6 @@
 ---
 
-title: clock check(时钟检查) ICON转svg、png下载
+title:  clock check(时钟检查) ICON转svg、png下载
 name: clock-check
 zhTips: 时钟检查
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# clock-check  <small style="font-size: 60%;font-weight: 100">时钟检查</small>
+# clock check  <small style="font-size: 60%;font-weight: 100">时钟检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

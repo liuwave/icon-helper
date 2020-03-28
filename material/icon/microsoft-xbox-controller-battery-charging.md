@@ -1,6 +1,6 @@
 ---
 
-title: microsoft xbox controller battery charging(Microsoft xbox控制器电池充电) ICON转svg、png下载
+title:  microsoft xbox controller battery charging(Microsoft xbox控制器电池充电) ICON转svg、png下载
 name: microsoft-xbox-controller-battery-charging
 zhTips: Microsoft xbox控制器电池充电
 tags: ["gaming-rpg","battery"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-xbox-controller-battery-charging  <small style="font-size: 60%;font-weight: 100">Microsoft xbox控制器电池充电</small>
+# microsoft xbox controller battery charging  <small style="font-size: 60%;font-weight: 100">Microsoft xbox控制器电池充电</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

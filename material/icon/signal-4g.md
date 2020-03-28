@@ -1,6 +1,6 @@
 ---
 
-title: signal 4g(4g信号) ICON转svg、png下载
+title:  signal 4g(4g信号) ICON转svg、png下载
 name: signal-4g
 zhTips: 4g信号
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# signal-4g  <small style="font-size: 60%;font-weight: 100">4g信号</small>
+# signal 4g  <small style="font-size: 60%;font-weight: 100">4g信号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

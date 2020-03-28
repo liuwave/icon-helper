@@ -1,6 +1,6 @@
 ---
 
-title: nfc variant(NFC变型) ICON转svg、png下载
+title:  nfc variant(NFC变型) ICON转svg、png下载
 name: nfc-variant
 zhTips: NFC变型,近场通信变型
 tags: []
@@ -8,11 +8,13 @@ search: near-field-communication-variant
 
 ---
 
-# nfc-variant  <small style="font-size: 60%;font-weight: 100">NFC变型</small>
+# nfc variant  <small style="font-size: 60%;font-weight: 100">NFC变型</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

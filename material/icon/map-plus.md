@@ -1,6 +1,6 @@
 ---
 
-title: map plus(地图加) ICON转svg、png下载
+title:  map plus(地图加) ICON转svg、png下载
 name: map-plus
 zhTips: 地图加,地图添加
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search: map-add
 
 ---
 
-# map-plus  <small style="font-size: 60%;font-weight: 100">地图加</small>
+# map plus  <small style="font-size: 60%;font-weight: 100">地图加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

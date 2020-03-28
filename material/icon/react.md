@@ -1,8 +1,8 @@
 ---
 
-title: react(反应) ICON转svg、png下载
+title:  react(反应) ICON转svg、png下载
 name: react
-zhTips: 反应
+zhTips: 反应,react,React.js
 tags: ["brand-logo","developer-languages"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">反应</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/react.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/react.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">反应</span><span class="badge-primary badge">react</span><span class="badge-primary badge">React.js</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/react.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/react.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">React.js(React)是一个用来构建用户界面的JavaScript库，由Facebook发布开源。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-react mdi-48px"></i>
   <i class="mdi mdi-react mdi-36px"></i>

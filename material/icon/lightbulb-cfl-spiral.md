@@ -1,6 +1,6 @@
 ---
 
-title: lightbulb cfl spiral(灯泡cfl螺旋) ICON转svg、png下载
+title:  lightbulb cfl spiral(灯泡cfl螺旋) ICON转svg、png下载
 name: lightbulb-cfl-spiral
 zhTips: 灯泡cfl螺旋
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: bulb-cfl-spiral
 
 ---
 
-# lightbulb-cfl-spiral  <small style="font-size: 60%;font-weight: 100">灯泡cfl螺旋</small>
+# lightbulb cfl spiral  <small style="font-size: 60%;font-weight: 100">灯泡cfl螺旋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

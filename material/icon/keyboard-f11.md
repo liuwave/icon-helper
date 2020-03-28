@@ -1,6 +1,6 @@
 ---
 
-title: keyboard f11(键盘F11) ICON转svg、png下载
+title:  keyboard f11(键盘F11) ICON转svg、png下载
 name: keyboard-f11
 zhTips: 键盘F11
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# keyboard-f11  <small style="font-size: 60%;font-weight: 100">键盘F11</small>
+# keyboard f11  <small style="font-size: 60%;font-weight: 100">键盘F11</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: server plus(服务器加号) ICON转svg、png下载
+title:  server plus(服务器加号) ICON转svg、png下载
 name: server-plus
 zhTips: 服务器加号,服务器添加
 tags: []
@@ -8,11 +8,13 @@ search: server-add
 
 ---
 
-# server-plus  <small style="font-size: 60%;font-weight: 100">服务器加号</small>
+# server plus  <small style="font-size: 60%;font-weight: 100">服务器加号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

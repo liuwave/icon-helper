@@ -1,6 +1,6 @@
 ---
 
-title: apache kafka(Apache Kafka) ICON转svg、png下载
+title:  apache kafka(Apache Kafka) ICON转svg、png下载
 name: apache-kafka
 zhTips: Apache Kafka
 tags: ["brand-logo","developer-languages"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# apache-kafka  <small style="font-size: 60%;font-weight: 100">Apache Kafka</small>
+# apache kafka  <small style="font-size: 60%;font-weight: 100">Apache Kafka</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

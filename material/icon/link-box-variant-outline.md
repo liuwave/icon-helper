@@ -1,6 +1,6 @@
 ---
 
-title: link box variant outline(链接框轮廓点) ICON转svg、png下载
+title:  link box variant outline(链接框轮廓点) ICON转svg、png下载
 name: link-box-variant-outline
 zhTips: 链接框轮廓点
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# link-box-variant-outline  <small style="font-size: 60%;font-weight: 100">链接框轮廓点</small>
+# link box variant outline  <small style="font-size: 60%;font-weight: 100">链接框轮廓点</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

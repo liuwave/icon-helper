@@ -1,6 +1,6 @@
 ---
 
-title: set center(设置中心) ICON转svg、png下载
+title:  set center(设置中心) ICON转svg、png下载
 name: set-center
 zhTips: 设置中心,设置交集,设置和,内部联接,SQL内部联接
 tags: []
@@ -8,11 +8,13 @@ search: set-centre,set-intersection,set-and,inner-join,sql-inner-join
 
 ---
 
-# set-center  <small style="font-size: 60%;font-weight: 100">设置中心</small>
+# set center  <small style="font-size: 60%;font-weight: 100">设置中心</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

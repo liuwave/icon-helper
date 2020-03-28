@@ -1,6 +1,6 @@
 ---
 
-title: vector curve(矢量曲线) ICON转svg、png下载
+title:  vector curve(矢量曲线) ICON转svg、png下载
 name: vector-curve
 zhTips: 矢量曲线,贝塞尔曲线
 tags: ["vector","geographic-information-system"]
@@ -8,11 +8,13 @@ search: bezier
 
 ---
 
-# vector-curve  <small style="font-size: 60%;font-weight: 100">矢量曲线</small>
+# vector curve  <small style="font-size: 60%;font-weight: 100">矢量曲线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

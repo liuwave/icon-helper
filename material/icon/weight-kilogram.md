@@ -1,6 +1,6 @@
 ---
 
-title: weight kilogram(重量千克) ICON转svg、png下载
+title:  weight kilogram(重量千克) ICON转svg、png下载
 name: weight-kilogram
 zhTips: 重量千克
 tags: []
@@ -8,11 +8,13 @@ search: weight-kg
 
 ---
 
-# weight-kilogram  <small style="font-size: 60%;font-weight: 100">重量千克</small>
+# weight kilogram  <small style="font-size: 60%;font-weight: 100">重量千克</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

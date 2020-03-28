@@ -1,6 +1,6 @@
 ---
 
-title: camera switch(摄像机开关) ICON转svg、png下载
+title:  camera switch(摄像机开关) ICON转svg、png下载
 name: camera-switch
 zhTips: 摄像机开关
 tags: ["photography"]
@@ -8,11 +8,13 @@ search: switch-camera
 
 ---
 
-# camera-switch  <small style="font-size: 60%;font-weight: 100">摄像机开关</small>
+# camera switch  <small style="font-size: 60%;font-weight: 100">摄像机开关</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

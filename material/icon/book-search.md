@@ -1,6 +1,6 @@
 ---
 
-title: book search(图书搜索) ICON转svg、png下载
+title:  book search(图书搜索) ICON转svg、png下载
 name: book-search
 zhTips: 图书搜索
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# book-search  <small style="font-size: 60%;font-weight: 100">图书搜索</small>
+# book search  <small style="font-size: 60%;font-weight: 100">图书搜索</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

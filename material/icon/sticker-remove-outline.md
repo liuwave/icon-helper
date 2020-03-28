@@ -1,6 +1,6 @@
 ---
 
-title: sticker remove outline(贴纸去除轮廓) ICON转svg、png下载
+title:  sticker remove outline(贴纸去除轮廓) ICON转svg、png下载
 name: sticker-remove-outline
 zhTips: 贴纸去除轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# sticker-remove-outline  <small style="font-size: 60%;font-weight: 100">贴纸去除轮廓</small>
+# sticker remove outline  <small style="font-size: 60%;font-weight: 100">贴纸去除轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

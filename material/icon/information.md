@@ -1,6 +1,6 @@
 ---
 
-title: information(信息) ICON转svg、png下载
+title:  information(信息) ICON转svg、png下载
 name: information
 zhTips: 信息,关于,信息圈,关于圈
 tags: []
@@ -13,6 +13,8 @@ search: about,information-circle,info-circle,about-circle
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

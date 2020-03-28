@@ -1,6 +1,6 @@
 ---
 
-title: numeric 1(数字1) ICON转svg、png下载
+title:  numeric 1(数字1) ICON转svg、png下载
 name: numeric-1
 zhTips: 数字1
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: number-1,numeric-one
 
 ---
 
-# numeric-1  <small style="font-size: 60%;font-weight: 100">数字1</small>
+# numeric 1  <small style="font-size: 60%;font-weight: 100">数字1</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

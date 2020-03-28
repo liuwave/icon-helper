@@ -1,6 +1,6 @@
 ---
 
-title: database check(数据库检查) ICON转svg、png下载
+title:  database check(数据库检查) ICON转svg、png下载
 name: database-check
 zhTips: 数据库检查,数据库打勾
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search: database-tick
 
 ---
 
-# database-check  <small style="font-size: 60%;font-weight: 100">数据库检查</small>
+# database check  <small style="font-size: 60%;font-weight: 100">数据库检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: filter remove outline(过滤器删除轮廓) ICON转svg、png下载
+title:  filter remove outline(过滤器删除轮廓) ICON转svg、png下载
 name: filter-remove-outline
 zhTips: 过滤器删除轮廓,漏斗删除轮廓
 tags: []
@@ -8,11 +8,13 @@ search: funnel-remove-outline
 
 ---
 
-# filter-remove-outline  <small style="font-size: 60%;font-weight: 100">过滤器删除轮廓</small>
+# filter remove outline  <small style="font-size: 60%;font-weight: 100">过滤器删除轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: swap horizontal(交换水平) ICON转svg、png下载
+title:  swap horizontal(交换水平) ICON转svg、png下载
 name: swap-horizontal
 zhTips: 交换水平,向左箭头向右
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-left-right
 
 ---
 
-# swap-horizontal  <small style="font-size: 60%;font-weight: 100">交换水平</small>
+# swap horizontal  <small style="font-size: 60%;font-weight: 100">交换水平</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

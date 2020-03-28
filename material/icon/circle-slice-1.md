@@ -1,6 +1,6 @@
 ---
 
-title: circle slice 1(圆形切片1) ICON转svg、png下载
+title:  circle slice 1(圆形切片1) ICON转svg、png下载
 name: circle-slice-1
 zhTips: 圆形切片1
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# circle-slice-1  <small style="font-size: 60%;font-weight: 100">圆形切片1</small>
+# circle slice 1  <small style="font-size: 60%;font-weight: 100">圆形切片1</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

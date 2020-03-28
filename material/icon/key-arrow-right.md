@@ -1,6 +1,6 @@
 ---
 
-title: key arrow right(右箭头键) ICON转svg、png下载
+title:  key arrow right(右箭头键) ICON转svg、png下载
 name: key-arrow-right
 zhTips: 右箭头键
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# key-arrow-right  <small style="font-size: 60%;font-weight: 100">右箭头键</small>
+# key arrow right  <small style="font-size: 60%;font-weight: 100">右箭头键</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

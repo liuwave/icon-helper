@@ -1,6 +1,6 @@
 ---
 
-title: gamepad circle down(游戏手柄下移) ICON转svg、png下载
+title:  gamepad circle down(游戏手柄下移) ICON转svg、png下载
 name: gamepad-circle-down
 zhTips: 游戏手柄下移
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# gamepad-circle-down  <small style="font-size: 60%;font-weight: 100">游戏手柄下移</small>
+# gamepad circle down  <small style="font-size: 60%;font-weight: 100">游戏手柄下移</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

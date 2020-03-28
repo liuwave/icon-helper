@@ -1,8 +1,8 @@
 ---
 
-title: trophy(奖杯) ICON转svg、png下载
+title:  trophy(奖杯) ICON转svg、png下载
 name: trophy
-zhTips: 奖杯,成就
+zhTips: 奖杯,成就,奖项,杯,游戏,获胜者
 tags: ["sport"]
 search: achievement
 
@@ -13,6 +13,8 @@ search: achievement
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Doug C. Hardester</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">achievement</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">奖杯</span><span class="badge-primary badge">成就</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/trophy.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/trophy.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">achievement</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">奖杯</span><span class="badge-primary badge">成就</span><span class="badge-primary badge">奖项</span><span class="badge-primary badge">杯</span><span class="badge-primary badge">游戏</span><span class="badge-primary badge">获胜者</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/trophy.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/trophy.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示表示荣誉，光环等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-trophy mdi-48px"></i>
   <i class="mdi mdi-trophy mdi-36px"></i>

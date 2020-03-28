@@ -1,6 +1,6 @@
 ---
 
-title: volume minus(体积减) ICON转svg、png下载
+title:  volume minus(体积减) ICON转svg、png下载
 name: volume-minus
 zhTips: 体积减,体积减少
 tags: ["audio","home-automation","cellphone-phone"]
@@ -8,11 +8,13 @@ search: volume-decrease
 
 ---
 
-# volume-minus  <small style="font-size: 60%;font-weight: 100">体积减</small>
+# volume minus  <small style="font-size: 60%;font-weight: 100">体积减</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

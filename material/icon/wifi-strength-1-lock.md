@@ -1,6 +1,6 @@
 ---
 
-title: wifi strength 1 lock(wifi强度1锁) ICON转svg、png下载
+title:  wifi strength 1 lock(wifi强度1锁) ICON转svg、png下载
 name: wifi-strength-1-lock
 zhTips: wifi强度1锁
 tags: ["lock"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# wifi-strength-1-lock  <small style="font-size: 60%;font-weight: 100">wifi强度1锁</small>
+# wifi strength 1 lock  <small style="font-size: 60%;font-weight: 100">wifi强度1锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

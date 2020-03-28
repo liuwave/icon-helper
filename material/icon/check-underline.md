@@ -1,6 +1,6 @@
 ---
 
-title: check underline(检查下划线) ICON转svg、png下载
+title:  check underline(检查下划线) ICON转svg、png下载
 name: check-underline
 zhTips: 检查下划线
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# check-underline  <small style="font-size: 60%;font-weight: 100">检查下划线</small>
+# check underline  <small style="font-size: 60%;font-weight: 100">检查下划线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

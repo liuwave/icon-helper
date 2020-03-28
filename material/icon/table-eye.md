@@ -1,6 +1,6 @@
 ---
 
-title: table eye(桌眼) ICON转svg、png下载
+title:  table eye(桌眼) ICON转svg、png下载
 name: table-eye
 zhTips: 桌眼
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-eye  <small style="font-size: 60%;font-weight: 100">桌眼</small>
+# table eye  <small style="font-size: 60%;font-weight: 100">桌眼</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

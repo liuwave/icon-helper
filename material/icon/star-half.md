@@ -1,6 +1,6 @@
 ---
 
-title: star half(星半) ICON转svg、png下载
+title:  star half(星半) ICON转svg、png下载
 name: star-half
 zhTips: 星半
 tags: ["shape"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# star-half  <small style="font-size: 60%;font-weight: 100">星半</small>
+# star half  <small style="font-size: 60%;font-weight: 100">星半</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

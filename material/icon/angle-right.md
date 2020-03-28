@@ -1,6 +1,6 @@
 ---
 
-title: angle right(直角) ICON转svg、png下载
+title:  angle right(直角) ICON转svg、png下载
 name: angle-right
 zhTips: 直角
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# angle-right  <small style="font-size: 60%;font-weight: 100">直角</small>
+# angle right  <small style="font-size: 60%;font-weight: 100">直角</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

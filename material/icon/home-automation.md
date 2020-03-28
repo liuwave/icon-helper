@@ -1,6 +1,6 @@
 ---
 
-title: home automation(家庭自动化) ICON转svg、png下载
+title:  home automation(家庭自动化) ICON转svg、png下载
 name: home-automation
 zhTips: 家庭自动化
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# home-automation  <small style="font-size: 60%;font-weight: 100">家庭自动化</small>
+# home automation  <small style="font-size: 60%;font-weight: 100">家庭自动化</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

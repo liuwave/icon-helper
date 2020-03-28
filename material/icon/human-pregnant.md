@@ -1,6 +1,6 @@
 ---
 
-title: human pregnant(人类孕妇) ICON转svg、png下载
+title:  human pregnant(人类孕妇) ICON转svg、png下载
 name: human-pregnant
 zhTips: 人类孕妇,孕妇
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search: pregnant-woman
 
 ---
 
-# human-pregnant  <small style="font-size: 60%;font-weight: 100">人类孕妇</small>
+# human pregnant  <small style="font-size: 60%;font-weight: 100">人类孕妇</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

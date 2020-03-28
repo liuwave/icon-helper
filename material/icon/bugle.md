@@ -1,6 +1,6 @@
 ---
 
-title: bugle(号角) ICON转svg、png下载
+title:  bugle(号角) ICON转svg、png下载
 name: bugle
 zhTips: 号角,号角车
 tags: ["automotive","music"]
@@ -13,6 +13,8 @@ search: car-horn
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

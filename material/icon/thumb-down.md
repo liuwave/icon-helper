@@ -1,6 +1,6 @@
 ---
 
-title: thumb down(拇指向下) ICON转svg、png下载
+title:  thumb down(拇指向下) ICON转svg、png下载
 name: thumb-down
 zhTips: 拇指向下,不喜欢
 tags: []
@@ -8,11 +8,13 @@ search: dislike,thumbs-down
 
 ---
 
-# thumb-down  <small style="font-size: 60%;font-weight: 100">拇指向下</small>
+# thumb down  <small style="font-size: 60%;font-weight: 100">拇指向下</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

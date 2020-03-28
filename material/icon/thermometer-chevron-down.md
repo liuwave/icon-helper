@@ -1,6 +1,6 @@
 ---
 
-title: thermometer chevron down(V形下温度计) ICON转svg、png下载
+title:  thermometer chevron down(V形下温度计) ICON转svg、png下载
 name: thermometer-chevron-down
 zhTips: V形下温度计
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# thermometer-chevron-down  <small style="font-size: 60%;font-weight: 100">V形下温度计</small>
+# thermometer chevron down  <small style="font-size: 60%;font-weight: 100">V形下温度计</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

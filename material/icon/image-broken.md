@@ -1,6 +1,6 @@
 ---
 
-title: image broken(损坏的图像) ICON转svg、png下载
+title:  image broken(损坏的图像) ICON转svg、png下载
 name: image-broken
 zhTips: 损坏的图像
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# image-broken  <small style="font-size: 60%;font-weight: 100">损坏的图像</small>
+# image broken  <small style="font-size: 60%;font-weight: 100">损坏的图像</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

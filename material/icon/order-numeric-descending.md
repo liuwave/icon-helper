@@ -1,6 +1,6 @@
 ---
 
-title: order numeric descending(订购数字降序) ICON转svg、png下载
+title:  order numeric descending(订购数字降序) ICON转svg、png下载
 name: order-numeric-descending
 zhTips: 订购数字降序
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# order-numeric-descending  <small style="font-size: 60%;font-weight: 100">订购数字降序</small>
+# order numeric descending  <small style="font-size: 60%;font-weight: 100">订购数字降序</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

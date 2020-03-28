@@ -1,6 +1,6 @@
 ---
 
-title: camera metering spot(点测光相机) ICON转svg、png下载
+title:  camera metering spot(点测光相机) ICON转svg、png下载
 name: camera-metering-spot
 zhTips: 点测光相机
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-metering-spot  <small style="font-size: 60%;font-weight: 100">点测光相机</small>
+# camera metering spot  <small style="font-size: 60%;font-weight: 100">点测光相机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

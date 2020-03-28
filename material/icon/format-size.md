@@ -1,6 +1,6 @@
 ---
 
-title: format size(格式大小) ICON转svg、png下载
+title:  format size(格式大小) ICON转svg、png下载
 name: format-size
 zhTips: 格式大小,字体大小
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: font-size
 
 ---
 
-# format-size  <small style="font-size: 60%;font-weight: 100">格式大小</small>
+# format size  <small style="font-size: 60%;font-weight: 100">格式大小</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

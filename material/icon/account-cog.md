@@ -1,6 +1,6 @@
 ---
 
-title: account cog(帐户嵌齿轮) ICON转svg、png下载
+title:  account cog(帐户嵌齿轮) ICON转svg、png下载
 name: account-cog
 zhTips: 帐户嵌齿轮,帐户设置
 tags: ["account-user","settings"]
@@ -8,11 +8,13 @@ search: account-settings
 
 ---
 
-# account-cog  <small style="font-size: 60%;font-weight: 100">帐户嵌齿轮</small>
+# account cog  <small style="font-size: 60%;font-weight: 100">帐户嵌齿轮</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

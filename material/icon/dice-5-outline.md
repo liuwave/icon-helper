@@ -1,6 +1,6 @@
 ---
 
-title: dice 5 outline(骰子5轮廓) ICON转svg、png下载
+title:  dice 5 outline(骰子5轮廓) ICON转svg、png下载
 name: dice-5-outline
 zhTips: 骰子5轮廓
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# dice-5-outline  <small style="font-size: 60%;font-weight: 100">骰子5轮廓</small>
+# dice 5 outline  <small style="font-size: 60%;font-weight: 100">骰子5轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: hair dryer(吹风机) ICON转svg、png下载
+title:  hair dryer(吹风机) ICON转svg、png下载
 name: hair-dryer
 zhTips: 吹风机
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# hair-dryer  <small style="font-size: 60%;font-weight: 100">吹风机</small>
+# hair dryer  <small style="font-size: 60%;font-weight: 100">吹风机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

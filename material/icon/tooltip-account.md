@@ -1,6 +1,6 @@
 ---
 
-title: tooltip account(工具提示帐户) ICON转svg、png下载
+title:  tooltip account(工具提示帐户) ICON转svg、png下载
 name: tooltip-account
 zhTips: 工具提示帐户,工具提示用户,工具提示人员,帐户位置
 tags: ["account-user","tooltip"]
@@ -8,11 +8,13 @@ search: tooltip-user,tooltip-person,account-location
 
 ---
 
-# tooltip-account  <small style="font-size: 60%;font-weight: 100">工具提示帐户</small>
+# tooltip account  <small style="font-size: 60%;font-weight: 100">工具提示帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

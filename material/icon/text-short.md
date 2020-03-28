@@ -1,6 +1,6 @@
 ---
 
-title: text short(文字短) ICON转svg、png下载
+title:  text short(文字短) ICON转svg、png下载
 name: text-short
 zhTips: 文字短
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# text-short  <small style="font-size: 60%;font-weight: 100">文字短</small>
+# text short  <small style="font-size: 60%;font-weight: 100">文字短</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

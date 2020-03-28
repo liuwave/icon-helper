@@ -1,6 +1,6 @@
 ---
 
-title: moon waxing gibbous(月亮打蜡隆起) ICON转svg、png下载
+title:  moon waxing gibbous(月亮打蜡隆起) ICON转svg、png下载
 name: moon-waxing-gibbous
 zhTips: 月亮打蜡隆起
 tags: ["weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# moon-waxing-gibbous  <small style="font-size: 60%;font-weight: 100">月亮打蜡隆起</small>
+# moon waxing gibbous  <small style="font-size: 60%;font-weight: 100">月亮打蜡隆起</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

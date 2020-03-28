@@ -1,6 +1,6 @@
 ---
 
-title: numeric 9 circle outline(数字9圆圈轮廓) ICON转svg、png下载
+title:  numeric 9 circle outline(数字9圆圈轮廓) ICON转svg、png下载
 name: numeric-9-circle-outline
 zhTips: 数字9圆圈轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: numeric-nine-circle-outline,number-9-circle-outline,number-nine-circle-o
 
 ---
 
-# numeric-9-circle-outline  <small style="font-size: 60%;font-weight: 100">数字9圆圈轮廓</small>
+# numeric 9 circle outline  <small style="font-size: 60%;font-weight: 100">数字9圆圈轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

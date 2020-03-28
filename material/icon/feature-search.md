@@ -1,6 +1,6 @@
 ---
 
-title: feature search(特征搜索) ICON转svg、png下载
+title:  feature search(特征搜索) ICON转svg、png下载
 name: feature-search
 zhTips: 特征搜索,方框,方框搜索
 tags: []
@@ -8,11 +8,13 @@ search: box,box-search
 
 ---
 
-# feature-search  <small style="font-size: 60%;font-weight: 100">特征搜索</small>
+# feature search  <small style="font-size: 60%;font-weight: 100">特征搜索</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

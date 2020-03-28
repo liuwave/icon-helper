@@ -1,6 +1,6 @@
 ---
 
-title: shape polygon plus(形状多边形加) ICON转svg、png下载
+title:  shape polygon plus(形状多边形加) ICON转svg、png下载
 name: shape-polygon-plus
 zhTips: 形状多边形加
 tags: ["shape"]
@@ -8,11 +8,13 @@ search: shape-polygon-add
 
 ---
 
-# shape-polygon-plus  <small style="font-size: 60%;font-weight: 100">形状多边形加</small>
+# shape polygon plus  <small style="font-size: 60%;font-weight: 100">形状多边形加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

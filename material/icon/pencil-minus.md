@@ -1,6 +1,6 @@
 ---
 
-title: pencil minus(减去铅笔) ICON转svg、png下载
+title:  pencil minus(减去铅笔) ICON转svg、png下载
 name: pencil-minus
 zhTips: 减去铅笔
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pencil-minus  <small style="font-size: 60%;font-weight: 100">减去铅笔</small>
+# pencil minus  <small style="font-size: 60%;font-weight: 100">减去铅笔</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

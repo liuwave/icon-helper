@@ -1,6 +1,6 @@
 ---
 
-title: pot steam outline(蒸汽锅轮廓) ICON转svg、png下载
+title:  pot steam outline(蒸汽锅轮廓) ICON转svg、png下载
 name: pot-steam-outline
 zhTips: 蒸汽锅轮廓
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pot-steam-outline  <small style="font-size: 60%;font-weight: 100">蒸汽锅轮廓</small>
+# pot steam outline  <small style="font-size: 60%;font-weight: 100">蒸汽锅轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

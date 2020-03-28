@@ -1,6 +1,6 @@
 ---
 
-title: duck(鸭) ICON转svg、png下载
+title:  duck(鸭) ICON转svg、png下载
 name: duck
 zhTips: 鸭
 tags: ["animal"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

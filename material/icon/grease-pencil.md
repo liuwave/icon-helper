@@ -1,6 +1,6 @@
 ---
 
-title: grease pencil(润滑脂铅笔) ICON转svg、png下载
+title:  grease pencil(润滑脂铅笔) ICON转svg、png下载
 name: grease-pencil
 zhTips: 润滑脂铅笔
 tags: ["drawing-art"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# grease-pencil  <small style="font-size: 60%;font-weight: 100">润滑脂铅笔</small>
+# grease pencil  <small style="font-size: 60%;font-weight: 100">润滑脂铅笔</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

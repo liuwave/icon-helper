@@ -1,6 +1,6 @@
 ---
 
-title: pause octagon(暂停八边形) ICON转svg、png下载
+title:  pause octagon(暂停八边形) ICON转svg、png下载
 name: pause-octagon
 zhTips: 暂停八边形
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pause-octagon  <small style="font-size: 60%;font-weight: 100">暂停八边形</small>
+# pause octagon  <small style="font-size: 60%;font-weight: 100">暂停八边形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: ski cross country(越野滑雪) ICON转svg、png下载
+title:  ski cross country(越野滑雪) ICON转svg、png下载
 name: ski-cross-country
 zhTips: 越野滑雪
 tags: ["sport"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# ski-cross-country  <small style="font-size: 60%;font-weight: 100">越野滑雪</small>
+# ski cross country  <small style="font-size: 60%;font-weight: 100">越野滑雪</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

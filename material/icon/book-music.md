@@ -1,6 +1,6 @@
 ---
 
-title: book music(音乐书籍) ICON转svg、png下载
+title:  book music(音乐书籍) ICON转svg、png下载
 name: book-music
 zhTips: 音乐书籍,有声书籍
 tags: ["audio"]
@@ -8,11 +8,13 @@ search: audio-book
 
 ---
 
-# book-music  <small style="font-size: 60%;font-weight: 100">音乐书籍</small>
+# book music  <small style="font-size: 60%;font-weight: 100">音乐书籍</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

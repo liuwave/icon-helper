@@ -1,6 +1,6 @@
 ---
 
-title: car battery(汽车电池) ICON转svg、png下载
+title:  car battery(汽车电池) ICON转svg、png下载
 name: car-battery
 zhTips: 汽车电池
 tags: ["battery","automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# car-battery  <small style="font-size: 60%;font-weight: 100">汽车电池</small>
+# car battery  <small style="font-size: 60%;font-weight: 100">汽车电池</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

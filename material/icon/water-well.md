@@ -1,6 +1,6 @@
 ---
 
-title: water well(水井) ICON转svg、png下载
+title:  water well(水井) ICON转svg、png下载
 name: water-well
 zhTips: 水井
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# water-well  <small style="font-size: 60%;font-weight: 100">水井</small>
+# water well  <small style="font-size: 60%;font-weight: 100">水井</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

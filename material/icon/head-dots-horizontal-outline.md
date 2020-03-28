@@ -1,6 +1,6 @@
 ---
 
-title: head dots horizontal outline(头部圆点水平轮廓) ICON转svg、png下载
+title:  head dots horizontal outline(头部圆点水平轮廓) ICON转svg、png下载
 name: head-dots-horizontal-outline
 zhTips: 头部圆点水平轮廓,头部思维轮廓
 tags: []
@@ -8,11 +8,13 @@ search: head-thinking-outline
 
 ---
 
-# head-dots-horizontal-outline  <small style="font-size: 60%;font-weight: 100">头部圆点水平轮廓</small>
+# head dots horizontal outline  <small style="font-size: 60%;font-weight: 100">头部圆点水平轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: text shadow(阴影文字) ICON转svg、png下载
+title:  text shadow(阴影文字) ICON转svg、png下载
 name: text-shadow
 zhTips: 阴影文字
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# text-shadow  <small style="font-size: 60%;font-weight: 100">阴影文字</small>
+# text shadow  <small style="font-size: 60%;font-weight: 100">阴影文字</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

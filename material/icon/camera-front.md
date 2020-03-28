@@ -1,6 +1,6 @@
 ---
 
-title: camera front(相机前置) ICON转svg、png下载
+title:  camera front(相机前置) ICON转svg、png下载
 name: camera-front
 zhTips: 相机前置
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-front  <small style="font-size: 60%;font-weight: 100">相机前置</small>
+# camera front  <small style="font-size: 60%;font-weight: 100">相机前置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

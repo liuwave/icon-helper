@@ -1,6 +1,6 @@
 ---
 
-title: sort alphabetical descending variant(按字母降序排列) ICON转svg、png下载
+title:  sort alphabetical descending variant(按字母降序排列) ICON转svg、png下载
 name: sort-alphabetical-descending-variant
 zhTips: 按字母降序排列
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# sort-alphabetical-descending-variant  <small style="font-size: 60%;font-weight: 100">按字母降序排列</small>
+# sort alphabetical descending variant  <small style="font-size: 60%;font-weight: 100">按字母降序排列</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

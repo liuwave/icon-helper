@@ -1,6 +1,6 @@
 ---
 
-title: scissors cutting(剪刀剪) ICON转svg、png下载
+title:  scissors cutting(剪刀剪) ICON转svg、png下载
 name: scissors-cutting
 zhTips: 剪刀剪
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# scissors-cutting  <small style="font-size: 60%;font-weight: 100">剪刀剪</small>
+# scissors cutting  <small style="font-size: 60%;font-weight: 100">剪刀剪</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

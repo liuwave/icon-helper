@@ -1,6 +1,6 @@
 ---
 
-title: shoe print(鞋印) ICON转svg、png下载
+title:  shoe print(鞋印) ICON转svg、png下载
 name: shoe-print
 zhTips: 鞋印,脚印
 tags: []
@@ -8,11 +8,13 @@ search: footprints
 
 ---
 
-# shoe-print  <small style="font-size: 60%;font-weight: 100">鞋印</small>
+# shoe print  <small style="font-size: 60%;font-weight: 100">鞋印</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: gender transgender(性别变性) ICON转svg、png下载
+title:  gender transgender(性别变性) ICON转svg、png下载
 name: gender-transgender
 zhTips: 性别变性
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# gender-transgender  <small style="font-size: 60%;font-weight: 100">性别变性</small>
+# gender transgender  <small style="font-size: 60%;font-weight: 100">性别变性</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

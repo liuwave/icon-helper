@@ -1,6 +1,6 @@
 ---
 
-title: gender non binary(性别非二进制) ICON转svg、png下载
+title:  gender non binary(性别非二进制) ICON转svg、png下载
 name: gender-non-binary
 zhTips: 性别非二进制,性别enby
 tags: []
@@ -8,11 +8,13 @@ search: gender-enby
 
 ---
 
-# gender-non-binary  <small style="font-size: 60%;font-weight: 100">性别非二进制</small>
+# gender non binary  <small style="font-size: 60%;font-weight: 100">性别非二进制</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

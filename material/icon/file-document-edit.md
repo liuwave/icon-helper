@@ -1,6 +1,6 @@
 ---
 
-title: file document edit(文件文件编辑) ICON转svg、png下载
+title:  file document edit(文件文件编辑) ICON转svg、png下载
 name: file-document-edit
 zhTips: 文件文件编辑,合同
 tags: ["edit-modify","files-folders"]
@@ -8,11 +8,13 @@ search: contract
 
 ---
 
-# file-document-edit  <small style="font-size: 60%;font-weight: 100">文件文件编辑</small>
+# file document edit  <small style="font-size: 60%;font-weight: 100">文件文件编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

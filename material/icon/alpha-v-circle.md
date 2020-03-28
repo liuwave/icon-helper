@@ -1,6 +1,6 @@
 ---
 
-title: alpha v circle(字母v圈) ICON转svg、png下载
+title:  alpha v circle(字母v圈) ICON转svg、png下载
 name: alpha-v-circle
 zhTips: 字母v圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-v-circle,letter-v-circle
 
 ---
 
-# alpha-v-circle  <small style="font-size: 60%;font-weight: 100">字母v圈</small>
+# alpha v circle  <small style="font-size: 60%;font-weight: 100">字母v圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

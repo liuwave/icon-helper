@@ -1,6 +1,6 @@
 ---
 
-title: shield off outline(屏蔽轮廓) ICON转svg、png下载
+title:  shield off outline(屏蔽轮廓) ICON转svg、png下载
 name: shield-off-outline
 zhTips: 屏蔽轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# shield-off-outline  <small style="font-size: 60%;font-weight: 100">屏蔽轮廓</small>
+# shield off outline  <small style="font-size: 60%;font-weight: 100">屏蔽轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

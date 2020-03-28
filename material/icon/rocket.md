@@ -1,8 +1,8 @@
 ---
 
-title: rocket(火箭) ICON转svg、png下载
+title:  rocket(火箭) ICON转svg、png下载
 name: rocket
-zhTips: 火箭
+zhTips: 火箭,火箭黑,飞机,应用,喷射,发射,美国国家航空航天局,空间
 tags: ["transportation-flying","science"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">火箭</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/rocket.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/rocket.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">火箭</span><span class="badge-primary badge">火箭黑</span><span class="badge-primary badge">飞机</span><span class="badge-primary badge">应用</span><span class="badge-primary badge">喷射</span><span class="badge-primary badge">发射</span><span class="badge-primary badge">美国国家航空航天局</span><span class="badge-primary badge">空间</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/rocket.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/rocket.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示蓬勃向上，势不可挡等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-rocket mdi-48px"></i>
   <i class="mdi mdi-rocket mdi-36px"></i>

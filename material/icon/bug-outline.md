@@ -1,6 +1,6 @@
 ---
 
-title: bug outline(错误概述) ICON转svg、png下载
+title:  bug outline(错误概述) ICON转svg、png下载
 name: bug-outline
 zhTips: 错误概述
 tags: ["nature"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bug-outline  <small style="font-size: 60%;font-weight: 100">错误概述</small>
+# bug outline  <small style="font-size: 60%;font-weight: 100">错误概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

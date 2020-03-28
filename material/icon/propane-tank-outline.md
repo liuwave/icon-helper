@@ -1,6 +1,6 @@
 ---
 
-title: propane tank outline(丙烷储罐轮廓) ICON转svg、png下载
+title:  propane tank outline(丙烷储罐轮廓) ICON转svg、png下载
 name: propane-tank-outline
 zhTips: 丙烷储罐轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# propane-tank-outline  <small style="font-size: 60%;font-weight: 100">丙烷储罐轮廓</small>
+# propane tank outline  <small style="font-size: 60%;font-weight: 100">丙烷储罐轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

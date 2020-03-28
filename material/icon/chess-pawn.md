@@ -1,6 +1,6 @@
 ---
 
-title: chess pawn(典当棋) ICON转svg、png下载
+title:  chess pawn(典当棋) ICON转svg、png下载
 name: chess-pawn
 zhTips: 典当棋
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chess-pawn  <small style="font-size: 60%;font-weight: 100">典当棋</small>
+# chess pawn  <small style="font-size: 60%;font-weight: 100">典当棋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

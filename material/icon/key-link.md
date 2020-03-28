@@ -1,6 +1,6 @@
 ---
 
-title: key link(链接键) ICON转svg、png下载
+title:  key link(链接键) ICON转svg、png下载
 name: key-link
 zhTips: 链接键,外键,sql外键
 tags: []
@@ -8,11 +8,13 @@ search: foreign-key,sql-foreign-key
 
 ---
 
-# key-link  <small style="font-size: 60%;font-weight: 100">链接键</small>
+# key link  <small style="font-size: 60%;font-weight: 100">链接键</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

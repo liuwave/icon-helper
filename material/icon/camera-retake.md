@@ -1,6 +1,6 @@
 ---
 
-title: camera retake(相机取景) ICON转svg、png下载
+title:  camera retake(相机取景) ICON转svg、png下载
 name: camera-retake
 zhTips: 相机取景
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-retake  <small style="font-size: 60%;font-weight: 100">相机取景</small>
+# camera retake  <small style="font-size: 60%;font-weight: 100">相机取景</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

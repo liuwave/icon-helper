@@ -1,6 +1,6 @@
 ---
 
-title: google my business(Google我的商家) ICON转svg、png下载
+title:  google my business(Google我的商家) ICON转svg、png下载
 name: google-my-business
 zhTips: Google我的商家
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-my-business  <small style="font-size: 60%;font-weight: 100">Google我的商家</small>
+# google my business  <small style="font-size: 60%;font-weight: 100">Google我的商家</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

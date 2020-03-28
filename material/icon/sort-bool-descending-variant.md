@@ -1,6 +1,6 @@
 ---
 
-title: sort bool descending variant(对bool降序排序) ICON转svg、png下载
+title:  sort bool descending variant(对bool降序排序) ICON转svg、png下载
 name: sort-bool-descending-variant
 zhTips: 对bool降序排序,对复选框降序排序
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: sort-checkbox-descending
 
 ---
 
-# sort-bool-descending-variant  <small style="font-size: 60%;font-weight: 100">对bool降序排序</small>
+# sort bool descending variant  <small style="font-size: 60%;font-weight: 100">对bool降序排序</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

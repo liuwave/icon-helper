@@ -1,6 +1,6 @@
 ---
 
-title: corn off(玉米关闭) ICON转svg、png下载
+title:  corn off(玉米关闭) ICON转svg、png下载
 name: corn-off
 zhTips: 玉米关闭
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# corn-off  <small style="font-size: 60%;font-weight: 100">玉米关闭</small>
+# corn off  <small style="font-size: 60%;font-weight: 100">玉米关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

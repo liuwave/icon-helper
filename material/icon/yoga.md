@@ -1,6 +1,6 @@
 ---
 
-title: yoga(瑜伽) ICON转svg、png下载
+title:  yoga(瑜伽) ICON转svg、png下载
 name: yoga
 zhTips: 瑜伽
 tags: ["sport"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

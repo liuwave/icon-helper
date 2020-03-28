@@ -1,6 +1,6 @@
 ---
 
-title: shape outline(形状轮廓) ICON转svg、png下载
+title:  shape outline(形状轮廓) ICON转svg、png下载
 name: shape-outline
 zhTips: 形状轮廓,主题轮廓,类别轮廓
 tags: ["shape"]
@@ -8,11 +8,13 @@ search: theme-outline,category-outline
 
 ---
 
-# shape-outline  <small style="font-size: 60%;font-weight: 100">形状轮廓</small>
+# shape outline  <small style="font-size: 60%;font-weight: 100">形状轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

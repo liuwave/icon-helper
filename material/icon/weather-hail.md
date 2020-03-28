@@ -1,6 +1,6 @@
 ---
 
-title: weather hail(天气冰雹) ICON转svg、png下载
+title:  weather hail(天气冰雹) ICON转svg、png下载
 name: weather-hail
 zhTips: 天气冰雹
 tags: ["weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# weather-hail  <small style="font-size: 60%;font-weight: 100">天气冰雹</small>
+# weather hail  <small style="font-size: 60%;font-weight: 100">天气冰雹</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

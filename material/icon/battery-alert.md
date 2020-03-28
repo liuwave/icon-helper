@@ -1,6 +1,6 @@
 ---
 
-title: battery alert(电池警报) ICON转svg、png下载
+title:  battery alert(电池警报) ICON转svg、png下载
 name: battery-alert
 zhTips: 电池警报,电池警告
 tags: ["battery","home-automation","alert-error"]
@@ -8,11 +8,13 @@ search: battery-warning
 
 ---
 
-# battery-alert  <small style="font-size: 60%;font-weight: 100">电池警报</small>
+# battery alert  <small style="font-size: 60%;font-weight: 100">电池警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alpha d box(字母d框) ICON转svg、png下载
+title:  alpha d box(字母d框) ICON转svg、png下载
 name: alpha-d-box
 zhTips: 字母d框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-d-box,letter-d-box
 
 ---
 
-# alpha-d-box  <small style="font-size: 60%;font-weight: 100">字母d框</small>
+# alpha d box  <small style="font-size: 60%;font-weight: 100">字母d框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

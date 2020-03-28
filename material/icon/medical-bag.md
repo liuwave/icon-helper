@@ -1,6 +1,6 @@
 ---
 
-title: medical bag(医疗袋) ICON转svg、png下载
+title:  medical bag(医疗袋) ICON转svg、png下载
 name: medical-bag
 zhTips: 医疗袋,急救箱
 tags: ["medical-hospital"]
@@ -8,11 +8,13 @@ search: first-aid-kit
 
 ---
 
-# medical-bag  <small style="font-size: 60%;font-weight: 100">医疗袋</small>
+# medical bag  <small style="font-size: 60%;font-weight: 100">医疗袋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

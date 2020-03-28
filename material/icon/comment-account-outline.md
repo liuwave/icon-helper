@@ -1,6 +1,6 @@
 ---
 
-title: comment account outline(评论帐户轮廓) ICON转svg、png下载
+title:  comment account outline(评论帐户轮廓) ICON转svg、png下载
 name: comment-account-outline
 zhTips: 评论帐户轮廓,评论用户轮廓,评论人轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: comment-user-outline,comment-person-outline
 
 ---
 
-# comment-account-outline  <small style="font-size: 60%;font-weight: 100">评论帐户轮廓</small>
+# comment account outline  <small style="font-size: 60%;font-weight: 100">评论帐户轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: calendar range(日历范围) ICON转svg、png下载
+title:  calendar range(日历范围) ICON转svg、png下载
 name: calendar-range
 zhTips: 日历范围,日期范围,日历周,事件范围
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: date-range,calendar-week,event-range
 
 ---
 
-# calendar-range  <small style="font-size: 60%;font-weight: 100">日历范围</small>
+# calendar range  <small style="font-size: 60%;font-weight: 100">日历范围</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

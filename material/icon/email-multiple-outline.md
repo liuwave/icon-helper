@@ -1,6 +1,6 @@
 ---
 
-title: email multiple outline(通过电子邮件发送多个轮廓) ICON转svg、png下载
+title:  email multiple outline(通过电子邮件发送多个轮廓) ICON转svg、png下载
 name: email-multiple-outline
 zhTips: 通过电子邮件发送多个轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# email-multiple-outline  <small style="font-size: 60%;font-weight: 100">通过电子邮件发送多个轮廓</small>
+# email multiple outline  <small style="font-size: 60%;font-weight: 100">通过电子邮件发送多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

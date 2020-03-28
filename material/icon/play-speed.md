@@ -1,6 +1,6 @@
 ---
 
-title: play speed(快速播放) ICON转svg、png下载
+title:  play speed(快速播放) ICON转svg、png下载
 name: play-speed
 zhTips: 快速播放
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# play-speed  <small style="font-size: 60%;font-weight: 100">快速播放</small>
+# play speed  <small style="font-size: 60%;font-weight: 100">快速播放</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

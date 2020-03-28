@@ -1,6 +1,6 @@
 ---
 
-title: alpha o box(字母o框) ICON转svg、png下载
+title:  alpha o box(字母o框) ICON转svg、png下载
 name: alpha-o-box
 zhTips: 字母o框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-o-box,letter-o-box
 
 ---
 
-# alpha-o-box  <small style="font-size: 60%;font-weight: 100">字母o框</small>
+# alpha o box  <small style="font-size: 60%;font-weight: 100">字母o框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

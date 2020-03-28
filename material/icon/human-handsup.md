@@ -1,6 +1,6 @@
 ---
 
-title: human handsup(人类动手) ICON转svg、png下载
+title:  human handsup(人类动手) ICON转svg、png下载
 name: human-handsup
 zhTips: 人类动手
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# human-handsup  <small style="font-size: 60%;font-weight: 100">人类动手</small>
+# human handsup  <small style="font-size: 60%;font-weight: 100">人类动手</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

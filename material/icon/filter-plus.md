@@ -1,6 +1,6 @@
 ---
 
-title: filter plus(过滤器加) ICON转svg、png下载
+title:  filter plus(过滤器加) ICON转svg、png下载
 name: filter-plus
 zhTips: 过滤器加,漏斗加
 tags: []
@@ -8,11 +8,13 @@ search: funnel-plus
 
 ---
 
-# filter-plus  <small style="font-size: 60%;font-weight: 100">过滤器加</small>
+# filter plus  <small style="font-size: 60%;font-weight: 100">过滤器加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

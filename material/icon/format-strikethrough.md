@@ -1,6 +1,6 @@
 ---
 
-title: format strikethrough(格式删除线) ICON转svg、png下载
+title:  format strikethrough(格式删除线) ICON转svg、png下载
 name: format-strikethrough
 zhTips: 格式删除线
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-strikethrough  <small style="font-size: 60%;font-weight: 100">格式删除线</small>
+# format strikethrough  <small style="font-size: 60%;font-weight: 100">格式删除线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

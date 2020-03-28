@@ -1,6 +1,6 @@
 ---
 
-title: frequently asked questions(常见问题解答) ICON转svg、png下载
+title:  frequently asked questions(常见问题解答) ICON转svg、png下载
 name: frequently-asked-questions
 zhTips: 常见问题解答
 tags: []
@@ -8,11 +8,13 @@ search: faq
 
 ---
 
-# frequently-asked-questions  <small style="font-size: 60%;font-weight: 100">常见问题解答</small>
+# frequently asked questions  <small style="font-size: 60%;font-weight: 100">常见问题解答</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

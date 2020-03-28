@@ -1,6 +1,6 @@
 ---
 
-title: card bulleted outline(卡项目符号轮廓) ICON转svg、png下载
+title:  card bulleted outline(卡项目符号轮廓) ICON转svg、png下载
 name: card-bulleted-outline
 zhTips: 卡项目符号轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# card-bulleted-outline  <small style="font-size: 60%;font-weight: 100">卡项目符号轮廓</small>
+# card bulleted outline  <small style="font-size: 60%;font-weight: 100">卡项目符号轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

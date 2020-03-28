@@ -1,6 +1,6 @@
 ---
 
-title: format underline(下划线格式) ICON转svg、png下载
+title:  format underline(下划线格式) ICON转svg、png下载
 name: format-underline
 zhTips: 下划线格式
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: format-underlined
 
 ---
 
-# format-underline  <small style="font-size: 60%;font-weight: 100">下划线格式</small>
+# format underline  <small style="font-size: 60%;font-weight: 100">下划线格式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

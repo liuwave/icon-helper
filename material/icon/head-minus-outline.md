@@ -1,6 +1,6 @@
 ---
 
-title: head minus outline(头部减去轮廓) ICON转svg、png下载
+title:  head minus outline(头部减去轮廓) ICON转svg、png下载
 name: head-minus-outline
 zhTips: 头部减去轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# head-minus-outline  <small style="font-size: 60%;font-weight: 100">头部减去轮廓</small>
+# head minus outline  <small style="font-size: 60%;font-weight: 100">头部减去轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

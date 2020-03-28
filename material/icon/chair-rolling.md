@@ -1,6 +1,6 @@
 ---
 
-title: chair rolling(椅子滚动) ICON转svg、png下载
+title:  chair rolling(椅子滚动) ICON转svg、png下载
 name: chair-rolling
 zhTips: 椅子滚动
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chair-rolling  <small style="font-size: 60%;font-weight: 100">椅子滚动</small>
+# chair rolling  <small style="font-size: 60%;font-weight: 100">椅子滚动</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

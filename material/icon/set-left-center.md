@@ -1,6 +1,6 @@
 ---
 
-title: set left center(设置左中心) ICON转svg、png下载
+title:  set left center(设置左中心) ICON转svg、png下载
 name: set-left-center
 zhTips: 设置左中心,左外部联接,sql左外部联接
 tags: []
@@ -8,11 +8,13 @@ search: set-left-centre,outer-join-left,sql-left-outer-join
 
 ---
 
-# set-left-center  <small style="font-size: 60%;font-weight: 100">设置左中心</small>
+# set left center  <small style="font-size: 60%;font-weight: 100">设置左中心</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: bottle soda classic(瓶汽水经典) ICON转svg、png下载
+title:  bottle soda classic(瓶汽水经典) ICON转svg、png下载
 name: bottle-soda-classic
 zhTips: 瓶汽水经典,瓶可乐经典,瓶流行经典
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: bottle-coke-classic,bottle-pop-classic
 
 ---
 
-# bottle-soda-classic  <small style="font-size: 60%;font-weight: 100">瓶汽水经典</small>
+# bottle soda classic  <small style="font-size: 60%;font-weight: 100">瓶汽水经典</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

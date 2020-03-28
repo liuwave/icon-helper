@@ -1,6 +1,6 @@
 ---
 
-title: checkbox multiple marked circle outline(标记为圆形轮廓的复选框) ICON转svg、png下载
+title:  checkbox multiple marked circle outline(标记为圆形轮廓的复选框) ICON转svg、png下载
 name: checkbox-multiple-marked-circle-outline
 zhTips: 标记为圆形轮廓的复选框
 tags: ["form"]
@@ -8,11 +8,13 @@ search: checkboxes-marked-circle-outline
 
 ---
 
-# checkbox-multiple-marked-circle-outline  <small style="font-size: 60%;font-weight: 100">标记为圆形轮廓的复选框</small>
+# checkbox multiple marked circle outline  <small style="font-size: 60%;font-weight: 100">标记为圆形轮廓的复选框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

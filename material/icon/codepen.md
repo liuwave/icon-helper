@@ -1,8 +1,8 @@
 ---
 
-title: codepen(Codepen) ICON转svg、png下载
+title:  codepen(Codepen) ICON转svg、png下载
 name: codepen
-zhTips: Codepen
+zhTips: Codepen,代码笔
 tags: ["brand-logo","developer-languages"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Codepen</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/codepen.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/codepen.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Codepen</span><span class="badge-primary badge">代码笔</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/codepen.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/codepen.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">代码笔是一个完全免费的前端代码托管服务，一个前端代码编辑器用于代码的调试和演示。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-codepen mdi-48px"></i>
   <i class="mdi mdi-codepen mdi-36px"></i>

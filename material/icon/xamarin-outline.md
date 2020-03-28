@@ -1,6 +1,6 @@
 ---
 
-title: xamarin outline(xamarin轮廓) ICON转svg、png下载
+title:  xamarin outline(xamarin轮廓) ICON转svg、png下载
 name: xamarin-outline
 zhTips: xamarin轮廓,Microsoft xamarin轮廓
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search: microsoft-xamarin-outline
 
 ---
 
-# xamarin-outline  <small style="font-size: 60%;font-weight: 100">xamarin轮廓</small>
+# xamarin outline  <small style="font-size: 60%;font-weight: 100">xamarin轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: minus circle outline(减去圆圈轮廓) ICON转svg、png下载
+title:  minus circle outline(减去圆圈轮廓) ICON转svg、png下载
 name: minus-circle-outline
 zhTips: 减去圆圈轮廓,删除圆圈轮廓,不输入轮廓
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: remove-circle-outline,do-not-enter-outline
 
 ---
 
-# minus-circle-outline  <small style="font-size: 60%;font-weight: 100">减去圆圈轮廓</small>
+# minus circle outline  <small style="font-size: 60%;font-weight: 100">减去圆圈轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

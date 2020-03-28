@@ -1,6 +1,6 @@
 ---
 
-title: auto upload(自动上传) ICON转svg、png下载
+title:  auto upload(自动上传) ICON转svg、png下载
 name: auto-upload
 zhTips: 自动上传
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# auto-upload  <small style="font-size: 60%;font-weight: 100">自动上传</small>
+# auto upload  <small style="font-size: 60%;font-weight: 100">自动上传</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

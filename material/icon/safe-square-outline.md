@@ -1,6 +1,6 @@
 ---
 
-title: safe square outline(安全方形轮廓) ICON转svg、png下载
+title:  safe square outline(安全方形轮廓) ICON转svg、png下载
 name: safe-square-outline
 zhTips: 安全方形轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# safe-square-outline  <small style="font-size: 60%;font-weight: 100">安全方形轮廓</small>
+# safe square outline  <small style="font-size: 60%;font-weight: 100">安全方形轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

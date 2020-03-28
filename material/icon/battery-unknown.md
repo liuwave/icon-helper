@@ -1,6 +1,6 @@
 ---
 
-title: battery unknown(电池未知) ICON转svg、png下载
+title:  battery unknown(电池未知) ICON转svg、png下载
 name: battery-unknown
 zhTips: 电池未知
 tags: ["battery","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# battery-unknown  <small style="font-size: 60%;font-weight: 100">电池未知</small>
+# battery unknown  <small style="font-size: 60%;font-weight: 100">电池未知</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

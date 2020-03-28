@@ -1,6 +1,6 @@
 ---
 
-title: satellite uplink(卫星上行链路) ICON转svg、png下载
+title:  satellite uplink(卫星上行链路) ICON转svg、png下载
 name: satellite-uplink
 zhTips: 卫星上行链路
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# satellite-uplink  <small style="font-size: 60%;font-weight: 100">卫星上行链路</small>
+# satellite uplink  <small style="font-size: 60%;font-weight: 100">卫星上行链路</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

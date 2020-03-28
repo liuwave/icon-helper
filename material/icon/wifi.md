@@ -1,8 +1,8 @@
 ---
 
-title: wifi(wifi) ICON转svg、png下载
+title:  wifi(wifi) ICON转svg、png下载
 name: wifi
-zhTips: wifi
+zhTips: wifi,wifi网络,连接,热点,互联网,网络,无线
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">wifi</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/wifi.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/wifi.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">wifi</span><span class="badge-primary badge">wifi网络</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">热点</span><span class="badge-primary badge">互联网</span><span class="badge-primary badge">网络</span><span class="badge-primary badge">无线</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/wifi.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/wifi.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">通常用于表示网络信号。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-wifi mdi-48px"></i>
   <i class="mdi mdi-wifi mdi-36px"></i>

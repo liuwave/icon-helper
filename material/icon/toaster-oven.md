@@ -1,6 +1,6 @@
 ---
 
-title: toaster oven(电烤箱) ICON转svg、png下载
+title:  toaster oven(电烤箱) ICON转svg、png下载
 name: toaster-oven
 zhTips: 电烤箱
 tags: ["home-automation","food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# toaster-oven  <small style="font-size: 60%;font-weight: 100">电烤箱</small>
+# toaster oven  <small style="font-size: 60%;font-weight: 100">电烤箱</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: parking(停车) ICON转svg、png下载
+title:  parking(停车) ICON转svg、png下载
 name: parking
-zhTips: 停车,停车场,本地停车
+zhTips: 停车,停车场,本地停车,汽车,车库,仪表
 tags: ["places"]
 search: car-park,local-parking
 
@@ -13,6 +13,8 @@ search: car-park,local-parking
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">car-park</span><span class="badge-light badge">local-parking</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">停车</span><span class="badge-primary badge">停车场</span><span class="badge-primary badge">本地停车</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/parking.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/parking.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">car-park</span><span class="badge-light badge">local-parking</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">停车</span><span class="badge-primary badge">停车场</span><span class="badge-primary badge">本地停车</span><span class="badge-primary badge">汽车</span><span class="badge-primary badge">车库</span><span class="badge-primary badge">仪表</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/parking.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/parking.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示供车辆停放。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-parking mdi-48px"></i>
   <i class="mdi mdi-parking mdi-36px"></i>

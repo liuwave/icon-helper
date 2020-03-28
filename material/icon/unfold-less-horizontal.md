@@ -1,6 +1,6 @@
 ---
 
-title: unfold less horizontal(展开较少水平) ICON转svg、png下载
+title:  unfold less horizontal(展开较少水平) ICON转svg、png下载
 name: unfold-less-horizontal
 zhTips: 展开较少水平,人字形向下,折叠水平
 tags: []
@@ -8,11 +8,13 @@ search: chevron-down-up,collapse-horizontal
 
 ---
 
-# unfold-less-horizontal  <small style="font-size: 60%;font-weight: 100">展开较少水平</small>
+# unfold less horizontal  <small style="font-size: 60%;font-weight: 100">展开较少水平</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

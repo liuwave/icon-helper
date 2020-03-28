@@ -1,8 +1,8 @@
 ---
 
-title: sitemap(网站地图) ICON转svg、png下载
+title:  sitemap(网站地图) ICON转svg、png下载
 name: sitemap
-zhTips: 网站地图,工作流程,流程图
+zhTips: 网站地图,工作流程,流程图,站点地图,目录,层次结构,信息系统,组织
 tags: []
 search: workflow,flowchart
 
@@ -13,6 +13,8 @@ search: workflow,flowchart
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">workflow</span><span class="badge-light badge">flowchart</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">网站地图</span><span class="badge-primary badge">工作流程</span><span class="badge-primary badge">流程图</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/sitemap.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/sitemap.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">workflow</span><span class="badge-light badge">flowchart</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">网站地图</span><span class="badge-primary badge">工作流程</span><span class="badge-primary badge">流程图</span><span class="badge-primary badge">站点地图</span><span class="badge-primary badge">目录</span><span class="badge-primary badge">层次结构</span><span class="badge-primary badge">信息系统</span><span class="badge-primary badge">组织</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/sitemap.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/sitemap.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示网站地图。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-sitemap mdi-48px"></i>
   <i class="mdi mdi-sitemap mdi-36px"></i>

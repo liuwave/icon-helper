@@ -1,6 +1,6 @@
 ---
 
-title: qrcode scan(qrcode扫描) ICON转svg、png下载
+title:  qrcode scan(qrcode扫描) ICON转svg、png下载
 name: qrcode-scan
 zhTips: qrcode扫描
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# qrcode-scan  <small style="font-size: 60%;font-weight: 100">qrcode扫描</small>
+# qrcode scan  <small style="font-size: 60%;font-weight: 100">qrcode扫描</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

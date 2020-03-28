@@ -1,6 +1,6 @@
 ---
 
-title: gauge(仪表) ICON转svg、png下载
+title:  gauge(仪表) ICON转svg、png下载
 name: gauge
 zhTips: 仪表,交换驱动应用轮,气压计
 tags: ["home-automation","automotive"]
@@ -13,6 +13,8 @@ search: swap-driving-apps-wheel,barometer
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

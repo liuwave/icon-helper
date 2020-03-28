@@ -1,6 +1,6 @@
 ---
 
-title: garage alert(车库警报) ICON转svg、png下载
+title:  garage alert(车库警报) ICON转svg、png下载
 name: garage-alert
 zhTips: 车库警报,车库警告
 tags: ["home-automation","alert-error"]
@@ -8,11 +8,13 @@ search: garage-warning
 
 ---
 
-# garage-alert  <small style="font-size: 60%;font-weight: 100">车库警报</small>
+# garage alert  <small style="font-size: 60%;font-weight: 100">车库警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

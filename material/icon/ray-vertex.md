@@ -1,6 +1,6 @@
 ---
 
-title: ray vertex(射线顶点) ICON转svg、png下载
+title:  ray vertex(射线顶点) ICON转svg、png下载
 name: ray-vertex
 zhTips: 射线顶点
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# ray-vertex  <small style="font-size: 60%;font-weight: 100">射线顶点</small>
+# ray vertex  <small style="font-size: 60%;font-weight: 100">射线顶点</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

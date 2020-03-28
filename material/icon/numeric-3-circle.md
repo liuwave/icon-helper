@@ -1,6 +1,6 @@
 ---
 
-title: numeric 3 circle(数字3圈) ICON转svg、png下载
+title:  numeric 3 circle(数字3圈) ICON转svg、png下载
 name: numeric-3-circle
 zhTips: 数字3圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: numeric-three-circle,number-3-circle,number-three-circle
 
 ---
 
-# numeric-3-circle  <small style="font-size: 60%;font-weight: 100">数字3圈</small>
+# numeric 3 circle  <small style="font-size: 60%;font-weight: 100">数字3圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

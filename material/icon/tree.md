@@ -1,8 +1,8 @@
 ---
 
-title: tree(树) ICON转svg、png下载
+title:  tree(树) ICON转svg、png下载
 name: tree
-zhTips: 树,儿童
+zhTips: 树,儿童,树木标志,树皮,秋天,植物区系,森林,自然,植物,季节性
 tags: ["nature"]
 search: plant
 
@@ -13,6 +13,8 @@ search: plant
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">plant</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">树</span><span class="badge-primary badge">儿童</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/tree.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/tree.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">plant</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">树</span><span class="badge-primary badge">儿童</span><span class="badge-primary badge">树木标志</span><span class="badge-primary badge">树皮</span><span class="badge-primary badge">秋天</span><span class="badge-primary badge">植物区系</span><span class="badge-primary badge">森林</span><span class="badge-primary badge">自然</span><span class="badge-primary badge">植物</span><span class="badge-primary badge">季节性</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/tree.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/tree.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示环保、绿色等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-tree mdi-48px"></i>
   <i class="mdi mdi-tree mdi-36px"></i>

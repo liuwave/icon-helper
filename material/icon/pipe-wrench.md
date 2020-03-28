@@ -1,6 +1,6 @@
 ---
 
-title: pipe wrench(管钳) ICON转svg、png下载
+title:  pipe wrench(管钳) ICON转svg、png下载
 name: pipe-wrench
 zhTips: 管钳
 tags: ["hardware-tools"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pipe-wrench  <small style="font-size: 60%;font-weight: 100">管钳</small>
+# pipe wrench  <small style="font-size: 60%;font-weight: 100">管钳</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

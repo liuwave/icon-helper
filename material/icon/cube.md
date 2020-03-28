@@ -1,8 +1,8 @@
 ---
 
-title: cube(立方体) ICON转svg、png下载
+title:  cube(立方体) ICON转svg、png下载
 name: cube
-zhTips: 立方体
+zhTips: 立方体,Cube,3d,block,dice,package,square,tesseract
 tags: ["shape"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">立方体</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cube.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cube.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">立方体</span><span class="badge-primary badge">Cube</span><span class="badge-primary badge">3d</span><span class="badge-primary badge">block</span><span class="badge-primary badge">dice</span><span class="badge-primary badge">package</span><span class="badge-primary badge">square</span><span class="badge-primary badge">tesseract</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cube.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cube.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">立方体，可以表示魔方。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-cube mdi-48px"></i>
   <i class="mdi mdi-cube mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: syllabary hangul(音节韩文) ICON转svg、png下载
+title:  syllabary hangul(音节韩文) ICON转svg、png下载
 name: syllabary-hangul
 zhTips: 音节韩文,书写系统中文
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-hangul
 
 ---
 
-# syllabary-hangul  <small style="font-size: 60%;font-weight: 100">音节韩文</small>
+# syllabary hangul  <small style="font-size: 60%;font-weight: 100">音节韩文</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

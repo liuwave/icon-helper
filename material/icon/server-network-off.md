@@ -1,6 +1,6 @@
 ---
 
-title: server network off(服务器网络关闭) ICON转svg、png下载
+title:  server network off(服务器网络关闭) ICON转svg、png下载
 name: server-network-off
 zhTips: 服务器网络关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# server-network-off  <small style="font-size: 60%;font-weight: 100">服务器网络关闭</small>
+# server network off  <small style="font-size: 60%;font-weight: 100">服务器网络关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

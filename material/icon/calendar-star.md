@@ -1,6 +1,6 @@
 ---
 
-title: calendar star(日历星) ICON转svg、png下载
+title:  calendar star(日历星) ICON转svg、png下载
 name: calendar-star
 zhTips: 日历星,活动星
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: event-star
 
 ---
 
-# calendar-star  <small style="font-size: 60%;font-weight: 100">日历星</small>
+# calendar star  <small style="font-size: 60%;font-weight: 100">日历星</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

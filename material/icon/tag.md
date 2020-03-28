@@ -1,8 +1,8 @@
 ---
 
-title: tag(标签) ICON转svg、png下载
+title:  tag(标签) ICON转svg、png下载
 name: tag
-zhTips: 标签,本地报价
+zhTips: 标签,本地报价,标签黑,折扣,价格,购物
 tags: []
 search: local-offer
 
@@ -13,6 +13,8 @@ search: local-offer
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">local-offer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标签</span><span class="badge-primary badge">本地报价</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/tag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/tag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">local-offer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标签</span><span class="badge-primary badge">本地报价</span><span class="badge-primary badge">标签黑</span><span class="badge-primary badge">折扣</span><span class="badge-primary badge">价格</span><span class="badge-primary badge">购物</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/tag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/tag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">可表示物品的商标、属性等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-tag mdi-48px"></i>
   <i class="mdi mdi-tag mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: plus one(加一) ICON转svg、png下载
+title:  plus one(加一) ICON转svg、png下载
 name: plus-one
 zhTips: 加一
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# plus-one  <small style="font-size: 60%;font-weight: 100">加一</small>
+# plus one  <small style="font-size: 60%;font-weight: 100">加一</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: food(食品) ICON转svg、png下载
+title:  food(食品) ICON转svg、png下载
 name: food
 zhTips: 食品,快餐
 tags: ["food-drink"]
@@ -13,6 +13,8 @@ search: fast-food
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

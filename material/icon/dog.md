@@ -1,8 +1,8 @@
 ---
 
-title: dog(狗) ICON转svg、png下载
+title:  dog(狗) ICON转svg、png下载
 name: dog
-zhTips: 狗
+zhTips: 狗,京东Joy狗,动物,犬,哺乳动物,宠物,小狗,低音
 tags: ["animal"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">狗</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/dog.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/dog.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">狗</span><span class="badge-primary badge">京东Joy狗</span><span class="badge-primary badge">动物</span><span class="badge-primary badge">犬</span><span class="badge-primary badge">哺乳动物</span><span class="badge-primary badge">宠物</span><span class="badge-primary badge">小狗</span><span class="badge-primary badge">低音</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/dog.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/dog.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">狗，一种家养宠物</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-dog mdi-48px"></i>
   <i class="mdi mdi-dog mdi-36px"></i>

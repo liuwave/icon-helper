@@ -1,8 +1,8 @@
 ---
 
-title: sass(无礼) ICON转svg、png下载
+title:  sass(无礼) ICON转svg、png下载
 name: sass
-zhTips: 无礼
+zhTips: 无礼,sass,Scss
 tags: ["brand-logo","developer-languages"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">无礼</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/sass.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/sass.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">无礼</span><span class="badge-primary badge">sass</span><span class="badge-primary badge">Scss</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/sass.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/sass.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">sass是一门CSS扩展语言，Sass 是一个 CSS 预处理器，帮助我们减少CSS重复的代码，节省开发时间。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-sass mdi-48px"></i>
   <i class="mdi mdi-sass mdi-36px"></i>

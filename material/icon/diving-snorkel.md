@@ -1,6 +1,6 @@
 ---
 
-title: diving snorkel(潜水呼吸管) ICON转svg、png下载
+title:  diving snorkel(潜水呼吸管) ICON转svg、png下载
 name: diving-snorkel
 zhTips: 潜水呼吸管
 tags: ["sport"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# diving-snorkel  <small style="font-size: 60%;font-weight: 100">潜水呼吸管</small>
+# diving snorkel  <small style="font-size: 60%;font-weight: 100">潜水呼吸管</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alpha l circle(字母l圈) ICON转svg、png下载
+title:  alpha l circle(字母l圈) ICON转svg、png下载
 name: alpha-l-circle
 zhTips: 字母l圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-l-circle,letter-l-circle
 
 ---
 
-# alpha-l-circle  <small style="font-size: 60%;font-weight: 100">字母l圈</small>
+# alpha l circle  <small style="font-size: 60%;font-weight: 100">字母l圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

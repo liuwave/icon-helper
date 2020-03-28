@@ -1,6 +1,6 @@
 ---
 
-title: store 24 hour(24小时商店) ICON转svg、png下载
+title:  store 24 hour(24小时商店) ICON转svg、png下载
 name: store-24-hour
 zhTips: 24小时商店,当地便利店
 tags: ["places","shopping"]
@@ -8,11 +8,13 @@ search: local-convenience-store,shop-24-hour
 
 ---
 
-# store-24-hour  <small style="font-size: 60%;font-weight: 100">24小时商店</small>
+# store 24 hour  <small style="font-size: 60%;font-weight: 100">24小时商店</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

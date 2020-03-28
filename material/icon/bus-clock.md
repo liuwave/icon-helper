@@ -1,6 +1,6 @@
 ---
 
-title: bus clock(公交车时钟) ICON转svg、png下载
+title:  bus clock(公交车时钟) ICON转svg、png下载
 name: bus-clock
 zhTips: 公交车时钟,出发板
 tags: ["date-time","transportation-road"]
@@ -8,11 +8,13 @@ search: departure-board
 
 ---
 
-# bus-clock  <small style="font-size: 60%;font-weight: 100">公交车时钟</small>
+# bus clock  <small style="font-size: 60%;font-weight: 100">公交车时钟</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: currency eur off(关闭欧元) ICON转svg、png下载
+title:  currency eur off(关闭欧元) ICON转svg、png下载
 name: currency-eur-off
 zhTips: 关闭欧元
 tags: ["currency"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# currency-eur-off  <small style="font-size: 60%;font-weight: 100">关闭欧元</small>
+# currency eur off  <small style="font-size: 60%;font-weight: 100">关闭欧元</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: language java(Java语言) ICON转svg、png下载
+title:  language java(Java语言) ICON转svg、png下载
 name: language-java
 zhTips: Java语言
 tags: ["developer-languages"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# language-java  <small style="font-size: 60%;font-weight: 100">Java语言</small>
+# language java  <small style="font-size: 60%;font-weight: 100">Java语言</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: glass flute(玻璃长笛) ICON转svg、png下载
+title:  glass flute(玻璃长笛) ICON转svg、png下载
 name: glass-flute
 zhTips: 玻璃长笛
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# glass-flute  <small style="font-size: 60%;font-weight: 100">玻璃长笛</small>
+# glass flute  <small style="font-size: 60%;font-weight: 100">玻璃长笛</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

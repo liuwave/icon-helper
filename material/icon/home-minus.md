@@ -1,6 +1,6 @@
 ---
 
-title: home minus(减去家) ICON转svg、png下载
+title:  home minus(减去家) ICON转svg、png下载
 name: home-minus
 zhTips: 减去家
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# home-minus  <small style="font-size: 60%;font-weight: 100">减去家</small>
+# home minus  <small style="font-size: 60%;font-weight: 100">减去家</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

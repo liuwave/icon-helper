@@ -1,6 +1,6 @@
 ---
 
-title: iframe variable(iframe变量) ICON转svg、png下载
+title:  iframe variable(iframe变量) ICON转svg、png下载
 name: iframe-variable
 zhTips: iframe变量
 tags: ["developer-languages"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# iframe-variable  <small style="font-size: 60%;font-weight: 100">iframe变量</small>
+# iframe variable  <small style="font-size: 60%;font-weight: 100">iframe变量</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

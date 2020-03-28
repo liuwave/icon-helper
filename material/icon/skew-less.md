@@ -1,6 +1,6 @@
 ---
 
-title: skew less(较少偏斜) ICON转svg、png下载
+title:  skew less(较少偏斜) ICON转svg、png下载
 name: skew-less
 zhTips: 较少偏斜,偏斜减少
 tags: ["math"]
@@ -8,11 +8,13 @@ search: skew-decrease
 
 ---
 
-# skew-less  <small style="font-size: 60%;font-weight: 100">较少偏斜</small>
+# skew less  <small style="font-size: 60%;font-weight: 100">较少偏斜</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: file edit(文件编辑) ICON转svg、png下载
+title:  file edit(文件编辑) ICON转svg、png下载
 name: file-edit
 zhTips: 文件编辑
 tags: ["edit-modify","files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-edit  <small style="font-size: 60%;font-weight: 100">文件编辑</small>
+# file edit  <small style="font-size: 60%;font-weight: 100">文件编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

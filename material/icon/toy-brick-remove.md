@@ -1,6 +1,6 @@
 ---
 
-title: toy brick remove(移除玩具积木) ICON转svg、png下载
+title:  toy brick remove(移除玩具积木) ICON转svg、png下载
 name: toy-brick-remove
 zhTips: 移除玩具积木,乐高玩具,插件,扩展
 tags: []
@@ -8,11 +8,13 @@ search: lego,plugin,extension
 
 ---
 
-# toy-brick-remove  <small style="font-size: 60%;font-weight: 100">移除玩具积木</small>
+# toy brick remove  <small style="font-size: 60%;font-weight: 100">移除玩具积木</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

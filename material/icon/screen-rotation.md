@@ -1,6 +1,6 @@
 ---
 
-title: screen rotation(屏幕旋转) ICON转svg、png下载
+title:  screen rotation(屏幕旋转) ICON转svg、png下载
 name: screen-rotation
 zhTips: 屏幕旋转
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# screen-rotation  <small style="font-size: 60%;font-weight: 100">屏幕旋转</small>
+# screen rotation  <small style="font-size: 60%;font-weight: 100">屏幕旋转</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

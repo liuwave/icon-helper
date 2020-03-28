@@ -1,6 +1,6 @@
 ---
 
-title: menu right outline(菜单右侧轮廓) ICON转svg、png下载
+title:  menu right outline(菜单右侧轮廓) ICON转svg、png下载
 name: menu-right-outline
 zhTips: 菜单右侧轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# menu-right-outline  <small style="font-size: 60%;font-weight: 100">菜单右侧轮廓</small>
+# menu right outline  <small style="font-size: 60%;font-weight: 100">菜单右侧轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

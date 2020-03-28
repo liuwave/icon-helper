@@ -1,6 +1,6 @@
 ---
 
-title: settings helper(助手设置) ICON转svg、png下载
+title:  settings helper(助手设置) ICON转svg、png下载
 name: settings-helper
 zhTips: 助手设置
 tags: ["settings"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# settings-helper  <small style="font-size: 60%;font-weight: 100">助手设置</small>
+# settings helper  <small style="font-size: 60%;font-weight: 100">助手设置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: language csharp(语言csharp) ICON转svg、png下载
+title:  language csharp(语言csharp) ICON转svg、png下载
 name: language-csharp
 zhTips: 语言csharp
 tags: ["developer-languages"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# language-csharp  <small style="font-size: 60%;font-weight: 100">语言csharp</small>
+# language csharp  <small style="font-size: 60%;font-weight: 100">语言csharp</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

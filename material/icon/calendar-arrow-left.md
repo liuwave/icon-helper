@@ -1,6 +1,6 @@
 ---
 
-title: calendar arrow left(日历左箭头) ICON转svg、png下载
+title:  calendar arrow left(日历左箭头) ICON转svg、png下载
 name: calendar-arrow-left
 zhTips: 日历左箭头,重新安排
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: reschedule
 
 ---
 
-# calendar-arrow-left  <small style="font-size: 60%;font-weight: 100">日历左箭头</small>
+# calendar arrow left  <small style="font-size: 60%;font-weight: 100">日历左箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

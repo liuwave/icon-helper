@@ -1,6 +1,6 @@
 ---
 
-title: triforce(Triforce) ICON转svg、png下载
+title:  triforce(Triforce) ICON转svg、png下载
 name: triforce
 zhTips: Triforce,塞尔达
 tags: ["gaming-rpg"]
@@ -13,6 +13,8 @@ search: zelda
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

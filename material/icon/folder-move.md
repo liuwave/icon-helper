@@ -1,6 +1,6 @@
 ---
 
-title: folder move(文件夹移动) ICON转svg、png下载
+title:  folder move(文件夹移动) ICON转svg、png下载
 name: folder-move
 zhTips: 文件夹移动
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# folder-move  <small style="font-size: 60%;font-weight: 100">文件夹移动</small>
+# folder move  <small style="font-size: 60%;font-weight: 100">文件夹移动</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

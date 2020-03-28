@@ -1,6 +1,6 @@
 ---
 
-title: bell cancel outline(铃取消轮廓) ICON转svg、png下载
+title:  bell cancel outline(铃取消轮廓) ICON转svg、png下载
 name: bell-cancel-outline
 zhTips: 铃取消轮廓
 tags: ["notification"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bell-cancel-outline  <small style="font-size: 60%;font-weight: 100">铃取消轮廓</small>
+# bell cancel outline  <small style="font-size: 60%;font-weight: 100">铃取消轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

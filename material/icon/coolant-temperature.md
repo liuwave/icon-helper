@@ -1,6 +1,6 @@
 ---
 
-title: coolant temperature(冷却液温度) ICON转svg、png下载
+title:  coolant temperature(冷却液温度) ICON转svg、png下载
 name: coolant-temperature
 zhTips: 冷却液温度
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# coolant-temperature  <small style="font-size: 60%;font-weight: 100">冷却液温度</small>
+# coolant temperature  <small style="font-size: 60%;font-weight: 100">冷却液温度</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

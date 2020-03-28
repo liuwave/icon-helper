@@ -1,6 +1,6 @@
 ---
 
-title: cash(现金) ICON转svg、png下载
+title:  cash(现金) ICON转svg、png下载
 name: cash
 zhTips: 现金,金钱
 tags: ["currency","banking","shopping"]
@@ -13,6 +13,8 @@ search: money
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

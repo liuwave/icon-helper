@@ -1,6 +1,6 @@
 ---
 
-title: train car(火车) ICON转svg、png下载
+title:  train car(火车) ICON转svg、png下载
 name: train-car
 zhTips: 火车,通勤,运输,旅行
 tags: ["transportation-other"]
@@ -8,11 +8,13 @@ search: commute,transportation,travel
 
 ---
 
-# train-car  <small style="font-size: 60%;font-weight: 100">火车</small>
+# train car  <small style="font-size: 60%;font-weight: 100">火车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

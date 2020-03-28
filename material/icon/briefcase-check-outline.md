@@ -1,6 +1,6 @@
 ---
 
-title: briefcase check outline(轮廓检查公文包) ICON转svg、png下载
+title:  briefcase check outline(轮廓检查公文包) ICON转svg、png下载
 name: briefcase-check-outline
 zhTips: 轮廓检查公文包
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# briefcase-check-outline  <small style="font-size: 60%;font-weight: 100">轮廓检查公文包</small>
+# briefcase check outline  <small style="font-size: 60%;font-weight: 100">轮廓检查公文包</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

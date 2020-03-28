@@ -1,6 +1,6 @@
 ---
 
-title: youtube studio(YouTube Studio) ICON转svg、png下载
+title:  youtube studio(YouTube Studio) ICON转svg、png下载
 name: youtube-studio
 zhTips: YouTube Studio,YouTube Creator Studio
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search: youtube-creator-studio
 
 ---
 
-# youtube-studio  <small style="font-size: 60%;font-weight: 100">YouTube Studio</small>
+# youtube studio  <small style="font-size: 60%;font-weight: 100">YouTube Studio</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

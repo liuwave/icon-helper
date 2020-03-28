@@ -1,6 +1,6 @@
 ---
 
-title: map marker plus(加地图标记) ICON转svg、png下载
+title:  map marker plus(加地图标记) ICON转svg、png下载
 name: map-marker-plus
 zhTips: 加地图标记,添加位置
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search: add-location
 
 ---
 
-# map-marker-plus  <small style="font-size: 60%;font-weight: 100">加地图标记</small>
+# map marker plus  <small style="font-size: 60%;font-weight: 100">加地图标记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

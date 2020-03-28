@@ -1,6 +1,6 @@
 ---
 
-title: sign direction plus(标志方向加) ICON转svg、png下载
+title:  sign direction plus(标志方向加) ICON转svg、png下载
 name: sign-direction-plus
 zhTips: 标志方向加,里程碑加
 tags: []
@@ -8,11 +8,13 @@ search: milestone-plus,sign-direction-add,milestone-add
 
 ---
 
-# sign-direction-plus  <small style="font-size: 60%;font-weight: 100">标志方向加</small>
+# sign direction plus  <small style="font-size: 60%;font-weight: 100">标志方向加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

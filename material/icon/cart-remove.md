@@ -1,6 +1,6 @@
 ---
 
-title: cart remove(移除购物车) ICON转svg、png下载
+title:  cart remove(移除购物车) ICON转svg、png下载
 name: cart-remove
 zhTips: 移除购物车
 tags: ["shopping"]
@@ -8,11 +8,13 @@ search: trolley-remove,shopping-cart-remove
 
 ---
 
-# cart-remove  <small style="font-size: 60%;font-weight: 100">移除购物车</small>
+# cart remove  <small style="font-size: 60%;font-weight: 100">移除购物车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

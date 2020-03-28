@@ -1,6 +1,6 @@
 ---
 
-title: home edit outline(主页编辑轮廓) ICON转svg、png下载
+title:  home edit outline(主页编辑轮廓) ICON转svg、png下载
 name: home-edit-outline
 zhTips: 主页编辑轮廓
 tags: ["home-automation","edit-modify"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# home-edit-outline  <small style="font-size: 60%;font-weight: 100">主页编辑轮廓</small>
+# home edit outline  <small style="font-size: 60%;font-weight: 100">主页编辑轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

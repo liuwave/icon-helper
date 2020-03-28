@@ -1,6 +1,6 @@
 ---
 
-title: text to speech(文字转语音) ICON转svg、png下载
+title:  text to speech(文字转语音) ICON转svg、png下载
 name: text-to-speech
 zhTips: 文字转语音,tts,麦克风信息
 tags: []
@@ -8,11 +8,13 @@ search: tts,microphone-message
 
 ---
 
-# text-to-speech  <small style="font-size: 60%;font-weight: 100">文字转语音</small>
+# text to speech  <small style="font-size: 60%;font-weight: 100">文字转语音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

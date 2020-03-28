@@ -1,6 +1,6 @@
 ---
 
-title: candycane(candycane) ICON转svg、png下载
+title:  candycane(candycane) ICON转svg、png下载
 name: candycane
 zhTips: candycane
 tags: ["holiday","food-drink"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

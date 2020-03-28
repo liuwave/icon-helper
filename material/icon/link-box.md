@@ -1,6 +1,6 @@
 ---
 
-title: link box(链接框) ICON转svg、png下载
+title:  link box(链接框) ICON转svg、png下载
 name: link-box
 zhTips: 链接框
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# link-box  <small style="font-size: 60%;font-weight: 100">链接框</small>
+# link box  <small style="font-size: 60%;font-weight: 100">链接框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: kettle off(关闭水壶) ICON转svg、png下载
+title:  kettle off(关闭水壶) ICON转svg、png下载
 name: kettle-off
 zhTips: 关闭水壶,关闭茶壶
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: tea-kettle-off,tea-kettle-full-off,kettle-full-off
 
 ---
 
-# kettle-off  <small style="font-size: 60%;font-weight: 100">关闭水壶</small>
+# kettle off  <small style="font-size: 60%;font-weight: 100">关闭水壶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

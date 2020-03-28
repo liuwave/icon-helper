@@ -1,6 +1,6 @@
 ---
 
-title: hexagon slice 5(六角形切片5) ICON转svg、png下载
+title:  hexagon slice 5(六角形切片5) ICON转svg、png下载
 name: hexagon-slice-5
 zhTips: 六角形切片5
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# hexagon-slice-5  <small style="font-size: 60%;font-weight: 100">六角形切片5</small>
+# hexagon slice 5  <small style="font-size: 60%;font-weight: 100">六角形切片5</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

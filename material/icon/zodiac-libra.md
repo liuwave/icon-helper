@@ -1,6 +1,6 @@
 ---
 
-title: zodiac libra(黄道带天秤座) ICON转svg、png下载
+title:  zodiac libra(黄道带天秤座) ICON转svg、png下载
 name: zodiac-libra
 zhTips: 黄道带天秤座,星座天秤座
 tags: []
@@ -8,11 +8,13 @@ search: horoscope-libra
 
 ---
 
-# zodiac-libra  <small style="font-size: 60%;font-weight: 100">黄道带天秤座</small>
+# zodiac libra  <small style="font-size: 60%;font-weight: 100">黄道带天秤座</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

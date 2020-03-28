@@ -1,6 +1,6 @@
 ---
 
-title: math sin(好吧) ICON转svg、png下载
+title:  math sin(好吧) ICON转svg、png下载
 name: math-sin
 zhTips: 好吧,善罪,那就是好
 tags: ["math"]
@@ -8,11 +8,13 @@ search: math-sine,maths-sin
 
 ---
 
-# math-sin  <small style="font-size: 60%;font-weight: 100">好吧</small>
+# math sin  <small style="font-size: 60%;font-weight: 100">好吧</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

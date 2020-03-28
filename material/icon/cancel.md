@@ -1,6 +1,6 @@
 ---
 
-title: cancel(取消) ICON转svg、png下载
+title:  cancel(取消) ICON转svg、png下载
 name: cancel
 zhTips: 取消,禁止,请勿打扰,阻止
 tags: []
@@ -13,6 +13,8 @@ search: prohibited,ban,do-not-disturb-alt,denied,block,forbid
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

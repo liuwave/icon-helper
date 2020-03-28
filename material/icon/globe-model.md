@@ -1,6 +1,6 @@
 ---
 
-title: globe model(地球仪模型) ICON转svg、png下载
+title:  globe model(地球仪模型) ICON转svg、png下载
 name: globe-model
 zhTips: 地球仪模型
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# globe-model  <small style="font-size: 60%;font-weight: 100">地球仪模型</small>
+# globe model  <small style="font-size: 60%;font-weight: 100">地球仪模型</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: microsoft windows classic(Microsoft Windows经典版) ICON转svg、png下载
+title:  microsoft windows classic(Microsoft Windows经典版) ICON转svg、png下载
 name: microsoft-windows-classic
 zhTips: Microsoft Windows经典版
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-windows-classic  <small style="font-size: 60%;font-weight: 100">Microsoft Windows经典版</small>
+# microsoft windows classic  <small style="font-size: 60%;font-weight: 100">Microsoft Windows经典版</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

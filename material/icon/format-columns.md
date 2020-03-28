@@ -1,6 +1,6 @@
 ---
 
-title: format columns(格式列) ICON转svg、png下载
+title:  format columns(格式列) ICON转svg、png下载
 name: format-columns
 zhTips: 格式列
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-columns  <small style="font-size: 60%;font-weight: 100">格式列</small>
+# format columns  <small style="font-size: 60%;font-weight: 100">格式列</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

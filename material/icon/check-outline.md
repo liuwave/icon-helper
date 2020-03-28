@@ -1,6 +1,6 @@
 ---
 
-title: check outline(检查轮廓) ICON转svg、png下载
+title:  check outline(检查轮廓) ICON转svg、png下载
 name: check-outline
 zhTips: 检查轮廓,完成轮廓,刻度线
 tags: []
@@ -8,11 +8,13 @@ search: done-outline,tick-outline
 
 ---
 
-# check-outline  <small style="font-size: 60%;font-weight: 100">检查轮廓</small>
+# check outline  <small style="font-size: 60%;font-weight: 100">检查轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: sofa(沙发) ICON转svg、png下载
+title:  sofa(沙发) ICON转svg、png下载
 name: sofa
 zhTips: 沙发
 tags: []
@@ -13,6 +13,8 @@ search: couch
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

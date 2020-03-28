@@ -1,6 +1,6 @@
 ---
 
-title: circle half(圈半) ICON转svg、png下载
+title:  circle half(圈半) ICON转svg、png下载
 name: circle-half
 zhTips: 圈半
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# circle-half  <small style="font-size: 60%;font-weight: 100">圈半</small>
+# circle half  <small style="font-size: 60%;font-weight: 100">圈半</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: twitch(抽搐) ICON转svg、png下载
+title:  twitch(抽搐) ICON转svg、png下载
 name: twitch
-zhTips: 抽搐
+zhTips: 抽搐,twitch
 tags: ["social-media","brand-logo"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">抽搐</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/twitch.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/twitch.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">抽搐</span><span class="badge-primary badge">twitch</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/twitch.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/twitch.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Twitch是一个世界领先的游戏直播平台。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-twitch mdi-48px"></i>
   <i class="mdi mdi-twitch mdi-36px"></i>

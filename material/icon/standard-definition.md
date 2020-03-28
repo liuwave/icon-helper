@@ -1,6 +1,6 @@
 ---
 
-title: standard definition(标准清晰度) ICON转svg、png下载
+title:  standard definition(标准清晰度) ICON转svg、png下载
 name: standard-definition
 zhTips: 标准清晰度
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# standard-definition  <small style="font-size: 60%;font-weight: 100">标准清晰度</small>
+# standard definition  <small style="font-size: 60%;font-weight: 100">标准清晰度</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

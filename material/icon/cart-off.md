@@ -1,6 +1,6 @@
 ---
 
-title: cart off(购物车关闭) ICON转svg、png下载
+title:  cart off(购物车关闭) ICON转svg、png下载
 name: cart-off
 zhTips: 购物车关闭,卸下购物车
 tags: ["shopping"]
@@ -8,11 +8,13 @@ search: trolley-off,remove-shopping-cart,shopping-cart-off
 
 ---
 
-# cart-off  <small style="font-size: 60%;font-weight: 100">购物车关闭</small>
+# cart off  <small style="font-size: 60%;font-weight: 100">购物车关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

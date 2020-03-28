@@ -1,6 +1,6 @@
 ---
 
-title: font awesome(字体很棒) ICON转svg、png下载
+title:  font awesome(字体很棒) ICON转svg、png下载
 name: font-awesome
 zhTips: 字体很棒
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# font-awesome  <small style="font-size: 60%;font-weight: 100">字体很棒</small>
+# font awesome  <small style="font-size: 60%;font-weight: 100">字体很棒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

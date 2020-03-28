@@ -1,6 +1,6 @@
 ---
 
-title: email open outline(电子邮件打开轮廓) ICON转svg、png下载
+title:  email open outline(电子邮件打开轮廓) ICON转svg、png下载
 name: email-open-outline
 zhTips: 电子邮件打开轮廓,信封打开轮廓
 tags: []
@@ -8,11 +8,13 @@ search: envelope-open-outline
 
 ---
 
-# email-open-outline  <small style="font-size: 60%;font-weight: 100">电子邮件打开轮廓</small>
+# email open outline  <small style="font-size: 60%;font-weight: 100">电子邮件打开轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: human male height variant(人类男性身高变异) ICON转svg、png下载
+title:  human male height variant(人类男性身高变异) ICON转svg、png下载
 name: human-male-height-variant
 zhTips: 人类男性身高变异
 tags: ["medical-hospital"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# human-male-height-variant  <small style="font-size: 60%;font-weight: 100">人类男性身高变异</small>
+# human male height variant  <small style="font-size: 60%;font-weight: 100">人类男性身高变异</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

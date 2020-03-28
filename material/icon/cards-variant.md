@@ -1,6 +1,6 @@
 ---
 
-title: cards variant(卡口音) ICON转svg、png下载
+title:  cards variant(卡口音) ICON转svg、png下载
 name: cards-variant
 zhTips: 卡口音
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cards-variant  <small style="font-size: 60%;font-weight: 100">卡口音</small>
+# cards variant  <small style="font-size: 60%;font-weight: 100">卡口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

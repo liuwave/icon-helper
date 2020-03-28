@@ -1,6 +1,6 @@
 ---
 
-title: crop rotate(作物轮作) ICON转svg、png下载
+title:  crop rotate(作物轮作) ICON转svg、png下载
 name: crop-rotate
 zhTips: 作物轮作
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# crop-rotate  <small style="font-size: 60%;font-weight: 100">作物轮作</small>
+# crop rotate  <small style="font-size: 60%;font-weight: 100">作物轮作</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

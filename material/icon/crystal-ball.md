@@ -1,6 +1,6 @@
 ---
 
-title: crystal ball(水晶球) ICON转svg、png下载
+title:  crystal ball(水晶球) ICON转svg、png下载
 name: crystal-ball
 zhTips: 水晶球
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# crystal-ball  <small style="font-size: 60%;font-weight: 100">水晶球</small>
+# crystal ball  <small style="font-size: 60%;font-weight: 100">水晶球</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

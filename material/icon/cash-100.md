@@ -1,6 +1,6 @@
 ---
 
-title: cash 100(现金100) ICON转svg、png下载
+title:  cash 100(现金100) ICON转svg、png下载
 name: cash-100
 zhTips: 现金100,金钱100
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: money-100
 
 ---
 
-# cash-100  <small style="font-size: 60%;font-weight: 100">现金100</small>
+# cash 100  <small style="font-size: 60%;font-weight: 100">现金100</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

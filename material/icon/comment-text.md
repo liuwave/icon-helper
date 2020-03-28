@@ -1,6 +1,6 @@
 ---
 
-title: comment text(评论文字) ICON转svg、png下载
+title:  comment text(评论文字) ICON转svg、png下载
 name: comment-text
 zhTips: 评论文字
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# comment-text  <small style="font-size: 60%;font-weight: 100">评论文字</small>
+# comment text  <small style="font-size: 60%;font-weight: 100">评论文字</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

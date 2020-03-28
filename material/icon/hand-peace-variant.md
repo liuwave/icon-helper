@@ -1,6 +1,6 @@
 ---
 
-title: hand peace variant(和平手音) ICON转svg、png下载
+title:  hand peace variant(和平手音) ICON转svg、png下载
 name: hand-peace-variant
 zhTips: 和平手音
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# hand-peace-variant  <small style="font-size: 60%;font-weight: 100">和平手音</small>
+# hand peace variant  <small style="font-size: 60%;font-weight: 100">和平手音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

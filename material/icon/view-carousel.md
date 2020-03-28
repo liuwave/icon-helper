@@ -1,6 +1,6 @@
 ---
 
-title: view carousel(轮播视图) ICON转svg、png下载
+title:  view carousel(轮播视图) ICON转svg、png下载
 name: view-carousel
 zhTips: 轮播视图
 tags: ["view"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# view-carousel  <small style="font-size: 60%;font-weight: 100">轮播视图</small>
+# view carousel  <small style="font-size: 60%;font-weight: 100">轮播视图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

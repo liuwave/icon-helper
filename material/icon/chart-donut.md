@@ -1,6 +1,6 @@
 ---
 
-title: chart donut(图表甜甜圈) ICON转svg、png下载
+title:  chart donut(图表甜甜圈) ICON转svg、png下载
 name: chart-donut
 zhTips: 图表甜甜圈,甜甜圈图,数据使用情况
 tags: ["math"]
@@ -8,11 +8,13 @@ search: chart-doughnut,data-usage
 
 ---
 
-# chart-donut  <small style="font-size: 60%;font-weight: 100">图表甜甜圈</small>
+# chart donut  <small style="font-size: 60%;font-weight: 100">图表甜甜圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

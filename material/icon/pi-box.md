@@ -1,6 +1,6 @@
 ---
 
-title: pi box(pi盒) ICON转svg、png下载
+title:  pi box(pi盒) ICON转svg、png下载
 name: pi-box
 zhTips: pi盒
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pi-box  <small style="font-size: 60%;font-weight: 100">pi盒</small>
+# pi box  <small style="font-size: 60%;font-weight: 100">pi盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

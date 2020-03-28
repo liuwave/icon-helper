@@ -1,6 +1,6 @@
 ---
 
-title: book open(打开书本) ICON转svg、png下载
+title:  book open(打开书本) ICON转svg、png下载
 name: book-open
 zhTips: 打开书本,Chrome阅读器模式
 tags: []
@@ -8,11 +8,13 @@ search: chrome-reader-mode
 
 ---
 
-# book-open  <small style="font-size: 60%;font-weight: 100">打开书本</small>
+# book open  <small style="font-size: 60%;font-weight: 100">打开书本</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

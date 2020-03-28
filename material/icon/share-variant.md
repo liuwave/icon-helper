@@ -1,6 +1,6 @@
 ---
 
-title: share variant(分享口音) ICON转svg、png下载
+title:  share variant(分享口音) ICON转svg、png下载
 name: share-variant
 zhTips: 分享口音
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# share-variant  <small style="font-size: 60%;font-weight: 100">分享口音</small>
+# share variant  <small style="font-size: 60%;font-weight: 100">分享口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

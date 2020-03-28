@@ -1,6 +1,6 @@
 ---
 
-title: diving scuba tank(潜水水肺坦克) ICON转svg、png下载
+title:  diving scuba tank(潜水水肺坦克) ICON转svg、png下载
 name: diving-scuba-tank
 zhTips: 潜水水肺坦克
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# diving-scuba-tank  <small style="font-size: 60%;font-weight: 100">潜水水肺坦克</small>
+# diving scuba tank  <small style="font-size: 60%;font-weight: 100">潜水水肺坦克</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

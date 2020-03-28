@@ -1,6 +1,6 @@
 ---
 
-title: ethernet cable(以太网电缆) ICON转svg、png下载
+title:  ethernet cable(以太网电缆) ICON转svg、png下载
 name: ethernet-cable
 zhTips: 以太网电缆
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# ethernet-cable  <small style="font-size: 60%;font-weight: 100">以太网电缆</small>
+# ethernet cable  <small style="font-size: 60%;font-weight: 100">以太网电缆</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

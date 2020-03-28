@@ -1,6 +1,6 @@
 ---
 
-title: information outline(信息轮廓) ICON转svg、png下载
+title:  information outline(信息轮廓) ICON转svg、png下载
 name: information-outline
 zhTips: 信息轮廓,关于轮廓,信息圆圈轮廓,关于圆圈轮廓
 tags: []
@@ -8,11 +8,13 @@ search: info-outline,about-outline,information-circle-outline,info-circle-outlin
 
 ---
 
-# information-outline  <small style="font-size: 60%;font-weight: 100">信息轮廓</small>
+# information outline  <small style="font-size: 60%;font-weight: 100">信息轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

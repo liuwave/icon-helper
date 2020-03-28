@@ -1,6 +1,6 @@
 ---
 
-title: table tennis(乒乓球) ICON转svg、png下载
+title:  table tennis(乒乓球) ICON转svg、png下载
 name: table-tennis
 zhTips: 乒乓球
 tags: ["sport"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-tennis  <small style="font-size: 60%;font-weight: 100">乒乓球</small>
+# table tennis  <small style="font-size: 60%;font-weight: 100">乒乓球</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

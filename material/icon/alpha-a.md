@@ -1,6 +1,6 @@
 ---
 
-title: alpha a(alpha a) ICON转svg、png下载
+title:  alpha a(alpha a) ICON转svg、png下载
 name: alpha-a
 zhTips: alpha a,字母a
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-a,letter-a
 
 ---
 
-# alpha-a  <small style="font-size: 60%;font-weight: 100">alpha a</small>
+# alpha a  <small style="font-size: 60%;font-weight: 100">alpha a</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

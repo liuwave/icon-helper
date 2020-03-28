@@ -1,6 +1,6 @@
 ---
 
-title: tray plus(托盘加) ICON转svg、png下载
+title:  tray plus(托盘加) ICON转svg、png下载
 name: tray-plus
 zhTips: 托盘加,队列,打印机,收件箱
 tags: []
@@ -8,11 +8,13 @@ search: queue,printer,inbox
 
 ---
 
-# tray-plus  <small style="font-size: 60%;font-weight: 100">托盘加</small>
+# tray plus  <small style="font-size: 60%;font-weight: 100">托盘加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

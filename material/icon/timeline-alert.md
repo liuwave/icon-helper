@@ -1,6 +1,6 @@
 ---
 
-title: timeline alert(时间轴警报) ICON转svg、png下载
+title:  timeline alert(时间轴警报) ICON转svg、png下载
 name: timeline-alert
 zhTips: 时间轴警报
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# timeline-alert  <small style="font-size: 60%;font-weight: 100">时间轴警报</small>
+# timeline alert  <small style="font-size: 60%;font-weight: 100">时间轴警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

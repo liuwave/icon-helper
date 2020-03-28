@@ -1,6 +1,6 @@
 ---
 
-title: safe square(保险箱) ICON转svg、png下载
+title:  safe square(保险箱) ICON转svg、png下载
 name: safe-square
 zhTips: 保险箱
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# safe-square  <small style="font-size: 60%;font-weight: 100">保险箱</small>
+# safe square  <small style="font-size: 60%;font-weight: 100">保险箱</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

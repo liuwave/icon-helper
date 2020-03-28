@@ -1,6 +1,6 @@
 ---
 
-title: ruler square(直尺广场) ICON转svg、png下载
+title:  ruler square(直尺广场) ICON转svg、png下载
 name: ruler-square
 zhTips: 直尺广场,广场,木工,建筑
 tags: ["hardware-tools","drawing-art"]
@@ -8,11 +8,13 @@ search: square,carpentry,architecture
 
 ---
 
-# ruler-square  <small style="font-size: 60%;font-weight: 100">直尺广场</small>
+# ruler square  <small style="font-size: 60%;font-weight: 100">直尺广场</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

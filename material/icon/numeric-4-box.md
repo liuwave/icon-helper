@@ -1,6 +1,6 @@
 ---
 
-title: numeric 4 box(数字4框) ICON转svg、png下载
+title:  numeric 4 box(数字4框) ICON转svg、png下载
 name: numeric-4-box
 zhTips: 数字4框,外观4
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: looks-4,numeric-four-box,number-4-box
 
 ---
 
-# numeric-4-box  <small style="font-size: 60%;font-weight: 100">数字4框</small>
+# numeric 4 box  <small style="font-size: 60%;font-weight: 100">数字4框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

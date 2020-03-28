@@ -1,6 +1,6 @@
 ---
 
-title: chevron triple right(人字形三联) ICON转svg、png下载
+title:  chevron triple right(人字形三联) ICON转svg、png下载
 name: chevron-triple-right
 zhTips: 人字形三联
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chevron-triple-right  <small style="font-size: 60%;font-weight: 100">人字形三联</small>
+# chevron triple right  <small style="font-size: 60%;font-weight: 100">人字形三联</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

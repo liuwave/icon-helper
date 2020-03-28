@@ -1,6 +1,6 @@
 ---
 
-title: alpha p(alpha p) ICON转svg、png下载
+title:  alpha p(alpha p) ICON转svg、png下载
 name: alpha-p
 zhTips: alpha p,字母p,公园
 tags: ["automotive","alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-p,letter-p,park
 
 ---
 
-# alpha-p  <small style="font-size: 60%;font-weight: 100">alpha p</small>
+# alpha p  <small style="font-size: 60%;font-weight: 100">alpha p</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

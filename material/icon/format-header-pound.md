@@ -1,6 +1,6 @@
 ---
 
-title: format header pound(英镑标题格式) ICON转svg、png下载
+title:  format header pound(英镑标题格式) ICON转svg、png下载
 name: format-header-pound
 zhTips: 英镑标题格式,哈希标题格式
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: format-header-hash
 
 ---
 
-# format-header-pound  <small style="font-size: 60%;font-weight: 100">英镑标题格式</small>
+# format header pound  <small style="font-size: 60%;font-weight: 100">英镑标题格式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

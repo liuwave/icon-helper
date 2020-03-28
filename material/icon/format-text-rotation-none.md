@@ -1,6 +1,6 @@
 ---
 
-title: format text rotation none(格式文本旋转无) ICON转svg、png下载
+title:  format text rotation none(格式文本旋转无) ICON转svg、png下载
 name: format-text-rotation-none
 zhTips: 格式文本旋转无
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-text-rotation-none  <small style="font-size: 60%;font-weight: 100">格式文本旋转无</small>
+# format text rotation none  <small style="font-size: 60%;font-weight: 100">格式文本旋转无</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: dice 1(骰子1) ICON转svg、png下载
+title:  dice 1(骰子1) ICON转svg、png下载
 name: dice-1
 zhTips: 骰子1
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: die-1,dice-one
 
 ---
 
-# dice-1  <small style="font-size: 60%;font-weight: 100">骰子1</small>
+# dice 1  <small style="font-size: 60%;font-weight: 100">骰子1</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

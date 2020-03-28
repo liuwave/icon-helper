@@ -1,6 +1,6 @@
 ---
 
-title: cellphone erase(手机擦除) ICON转svg、png下载
+title:  cellphone erase(手机擦除) ICON转svg、png下载
 name: cellphone-erase
 zhTips: 手机擦除,电话链接擦除,智能手机擦除
 tags: ["cellphone-phone","device-tech"]
@@ -8,11 +8,13 @@ search: phonelink-erase,mobile-phone-erase,smartphone-erase
 
 ---
 
-# cellphone-erase  <small style="font-size: 60%;font-weight: 100">手机擦除</small>
+# cellphone erase  <small style="font-size: 60%;font-weight: 100">手机擦除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

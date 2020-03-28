@@ -1,6 +1,6 @@
 ---
 
-title: silverware variant(银器配件) ICON转svg、png下载
+title:  silverware variant(银器配件) ICON转svg、png下载
 name: silverware-variant
 zhTips: 银器配件
 tags: ["food-drink","places"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# silverware-variant  <small style="font-size: 60%;font-weight: 100">银器配件</small>
+# silverware variant  <small style="font-size: 60%;font-weight: 100">银器配件</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

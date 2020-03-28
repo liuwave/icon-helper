@@ -1,6 +1,6 @@
 ---
 
-title: zodiac taurus(生肖金牛座) ICON转svg、png下载
+title:  zodiac taurus(生肖金牛座) ICON转svg、png下载
 name: zodiac-taurus
 zhTips: 生肖金牛座,金牛座星座
 tags: []
@@ -8,11 +8,13 @@ search: horoscope-taurus
 
 ---
 
-# zodiac-taurus  <small style="font-size: 60%;font-weight: 100">生肖金牛座</small>
+# zodiac taurus  <small style="font-size: 60%;font-weight: 100">生肖金牛座</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

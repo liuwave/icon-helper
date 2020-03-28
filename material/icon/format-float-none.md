@@ -1,6 +1,6 @@
 ---
 
-title: format float none(浮点格式无) ICON转svg、png下载
+title:  format float none(浮点格式无) ICON转svg、png下载
 name: format-float-none
 zhTips: 浮点格式无
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-float-none  <small style="font-size: 60%;font-weight: 100">浮点格式无</small>
+# format float none  <small style="font-size: 60%;font-weight: 100">浮点格式无</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: pharmacy(药房) ICON转svg、png下载
+title:  pharmacy(药房) ICON转svg、png下载
 name: pharmacy
 zhTips: 药房,本地药房
 tags: ["medical-hospital"]
@@ -13,6 +13,8 @@ search: chemist,local-pharmacy
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

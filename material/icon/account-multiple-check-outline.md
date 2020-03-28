@@ -1,6 +1,6 @@
 ---
 
-title: account multiple check outline(多重多重检查轮廓轮廓) ICON转svg、png下载
+title:  account multiple check outline(多重多重检查轮廓轮廓) ICON转svg、png下载
 name: account-multiple-check-outline
 zhTips: 多重多重检查轮廓轮廓,人勾轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-multiple-check-outline,account-multiple-tick-outline,accounts-check
 
 ---
 
-# account-multiple-check-outline  <small style="font-size: 60%;font-weight: 100">多重多重检查轮廓轮廓</small>
+# account multiple check outline  <small style="font-size: 60%;font-weight: 100">多重多重检查轮廓轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

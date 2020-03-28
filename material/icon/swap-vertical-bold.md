@@ -1,6 +1,6 @@
 ---
 
-title: swap vertical bold(交换垂直粗体) ICON转svg、png下载
+title:  swap vertical bold(交换垂直粗体) ICON转svg、png下载
 name: swap-vertical-bold
 zhTips: 交换垂直粗体,向上箭头粗体,导入导出粗体
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-up-down-bold,import-export-bold
 
 ---
 
-# swap-vertical-bold  <small style="font-size: 60%;font-weight: 100">交换垂直粗体</small>
+# swap vertical bold  <small style="font-size: 60%;font-weight: 100">交换垂直粗体</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

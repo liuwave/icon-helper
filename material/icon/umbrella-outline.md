@@ -1,6 +1,6 @@
 ---
 
-title: umbrella outline(雨伞轮廓) ICON转svg、png下载
+title:  umbrella outline(雨伞轮廓) ICON转svg、png下载
 name: umbrella-outline
 zhTips: 雨伞轮廓
 tags: ["weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# umbrella-outline  <small style="font-size: 60%;font-weight: 100">雨伞轮廓</small>
+# umbrella outline  <small style="font-size: 60%;font-weight: 100">雨伞轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: tag remove outline(标签去除轮廓) ICON转svg、png下载
+title:  tag remove outline(标签去除轮廓) ICON转svg、png下载
 name: tag-remove-outline
 zhTips: 标签去除轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tag-remove-outline  <small style="font-size: 60%;font-weight: 100">标签去除轮廓</small>
+# tag remove outline  <small style="font-size: 60%;font-weight: 100">标签去除轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

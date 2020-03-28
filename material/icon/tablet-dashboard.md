@@ -1,6 +1,6 @@
 ---
 
-title: tablet dashboard(仪表板平板) ICON转svg、png下载
+title:  tablet dashboard(仪表板平板) ICON转svg、png下载
 name: tablet-dashboard
 zhTips: 仪表板平板
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tablet-dashboard  <small style="font-size: 60%;font-weight: 100">仪表板平板</small>
+# tablet dashboard  <small style="font-size: 60%;font-weight: 100">仪表板平板</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

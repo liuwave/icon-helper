@@ -1,6 +1,6 @@
 ---
 
-title: cheese off(脱掉奶酪) ICON转svg、png下载
+title:  cheese off(脱掉奶酪) ICON转svg、png下载
 name: cheese-off
 zhTips: 脱掉奶酪
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cheese-off  <small style="font-size: 60%;font-weight: 100">脱掉奶酪</small>
+# cheese off  <small style="font-size: 60%;font-weight: 100">脱掉奶酪</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

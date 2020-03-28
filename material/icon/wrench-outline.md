@@ -1,6 +1,6 @@
 ---
 
-title: wrench outline(扳手轮廓) ICON转svg、png下载
+title:  wrench outline(扳手轮廓) ICON转svg、png下载
 name: wrench-outline
 zhTips: 扳手轮廓,内部轮廓
 tags: ["hardware-tools"]
@@ -8,11 +8,13 @@ search: build-outline,spanner-outline
 
 ---
 
-# wrench-outline  <small style="font-size: 60%;font-weight: 100">扳手轮廓</small>
+# wrench outline  <small style="font-size: 60%;font-weight: 100">扳手轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

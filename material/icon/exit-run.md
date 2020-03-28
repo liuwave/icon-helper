@@ -1,6 +1,6 @@
 ---
 
-title: exit run(出口运行) ICON转svg、png下载
+title:  exit run(出口运行) ICON转svg、png下载
 name: exit-run
 zhTips: 出口运行,紧急出口
 tags: []
@@ -8,11 +8,13 @@ search: emergency-exit
 
 ---
 
-# exit-run  <small style="font-size: 60%;font-weight: 100">出口运行</small>
+# exit run  <small style="font-size: 60%;font-weight: 100">出口运行</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

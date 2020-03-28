@@ -1,8 +1,8 @@
 ---
 
-title: glasses(眼镜) ICON转svg、png下载
+title:  glasses(眼镜) ICON转svg、png下载
 name: glasses
-zhTips: 眼镜
+zhTips: 眼镜,太阳镜,时髦,书呆子,阅读,视线,视觉
 tags: ["clothing"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">眼镜</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/glasses.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/glasses.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">眼镜</span><span class="badge-primary badge">太阳镜</span><span class="badge-primary badge">时髦</span><span class="badge-primary badge">书呆子</span><span class="badge-primary badge">阅读</span><span class="badge-primary badge">视线</span><span class="badge-primary badge">视觉</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/glasses.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/glasses.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示防晒，遮阳等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-glasses mdi-48px"></i>
   <i class="mdi mdi-glasses mdi-36px"></i>

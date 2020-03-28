@@ -1,6 +1,6 @@
 ---
 
-title: skate(溜冰鞋) ICON转svg、png下载
+title:  skate(溜冰鞋) ICON转svg、png下载
 name: skate
 zhTips: 溜冰鞋,滑冰
 tags: ["sport"]
@@ -13,6 +13,8 @@ search: ice-skate
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

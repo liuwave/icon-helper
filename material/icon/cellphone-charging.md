@@ -1,6 +1,6 @@
 ---
 
-title: cellphone charging(手机充电) ICON转svg、png下载
+title:  cellphone charging(手机充电) ICON转svg、png下载
 name: cellphone-charging
 zhTips: 手机充电
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cellphone-charging  <small style="font-size: 60%;font-weight: 100">手机充电</small>
+# cellphone charging  <small style="font-size: 60%;font-weight: 100">手机充电</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

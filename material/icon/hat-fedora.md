@@ -1,6 +1,6 @@
 ---
 
-title: hat fedora(浅顶软呢帽) ICON转svg、png下载
+title:  hat fedora(浅顶软呢帽) ICON转svg、png下载
 name: hat-fedora
 zhTips: 浅顶软呢帽
 tags: ["clothing"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# hat-fedora  <small style="font-size: 60%;font-weight: 100">浅顶软呢帽</small>
+# hat fedora  <small style="font-size: 60%;font-weight: 100">浅顶软呢帽</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

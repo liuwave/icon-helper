@@ -1,6 +1,6 @@
 ---
 
-title: hockey sticks(曲棍球棒) ICON转svg、png下载
+title:  hockey sticks(曲棍球棒) ICON转svg、png下载
 name: hockey-sticks
 zhTips: 曲棍球棒
 tags: ["sport"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# hockey-sticks  <small style="font-size: 60%;font-weight: 100">曲棍球棒</small>
+# hockey sticks  <small style="font-size: 60%;font-weight: 100">曲棍球棒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

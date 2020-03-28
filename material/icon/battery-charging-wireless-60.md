@@ -1,6 +1,6 @@
 ---
 
-title: battery charging wireless 60(无线充电电池60) ICON转svg、png下载
+title:  battery charging wireless 60(无线充电电池60) ICON转svg、png下载
 name: battery-charging-wireless-60
 zhTips: 无线充电电池60
 tags: ["battery","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# battery-charging-wireless-60  <small style="font-size: 60%;font-weight: 100">无线充电电池60</small>
+# battery charging wireless 60  <small style="font-size: 60%;font-weight: 100">无线充电电池60</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

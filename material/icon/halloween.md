@@ -1,6 +1,6 @@
 ---
 
-title: halloween(万圣节) ICON转svg、png下载
+title:  halloween(万圣节) ICON转svg、png下载
 name: halloween
 zhTips: 万圣节,南瓜脸,雕刻南瓜,灯笼杰克
 tags: ["holiday"]
@@ -13,6 +13,8 @@ search: pumpkin-face,pumpkin-carved,jack-o-lantern
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

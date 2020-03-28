@@ -1,6 +1,6 @@
 ---
 
-title: language markdown(语言降价) ICON转svg、png下载
+title:  language markdown(语言降价) ICON转svg、png下载
 name: language-markdown
 zhTips: 语言降价
 tags: ["developer-languages","brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# language-markdown  <small style="font-size: 60%;font-weight: 100">语言降价</small>
+# language markdown  <small style="font-size: 60%;font-weight: 100">语言降价</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

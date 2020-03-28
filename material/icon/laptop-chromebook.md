@@ -1,6 +1,6 @@
 ---
 
-title: laptop chromebook(笔记本电脑Chromebook) ICON转svg、png下载
+title:  laptop chromebook(笔记本电脑Chromebook) ICON转svg、png下载
 name: laptop-chromebook
 zhTips: 笔记本电脑Chromebook
 tags: ["device-tech","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# laptop-chromebook  <small style="font-size: 60%;font-weight: 100">笔记本电脑Chromebook</small>
+# laptop chromebook  <small style="font-size: 60%;font-weight: 100">笔记本电脑Chromebook</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

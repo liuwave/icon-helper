@@ -1,6 +1,6 @@
 ---
 
-title: bag personal(个人袋) ICON转svg、png下载
+title:  bag personal(个人袋) ICON转svg、png下载
 name: bag-personal
 zhTips: 个人袋,背包
 tags: ["transportation-flying"]
@@ -8,11 +8,13 @@ search: backpack
 
 ---
 
-# bag-personal  <small style="font-size: 60%;font-weight: 100">个人袋</small>
+# bag personal  <small style="font-size: 60%;font-weight: 100">个人袋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

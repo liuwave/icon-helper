@@ -1,6 +1,6 @@
 ---
 
-title: timer outline(计时器轮廓) ICON转svg、png下载
+title:  timer outline(计时器轮廓) ICON转svg、png下载
 name: timer-outline
 zhTips: 计时器轮廓,秒表轮廓
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: stopwatch-outline
 
 ---
 
-# timer-outline  <small style="font-size: 60%;font-weight: 100">计时器轮廓</small>
+# timer outline  <small style="font-size: 60%;font-weight: 100">计时器轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

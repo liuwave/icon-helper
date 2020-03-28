@@ -1,6 +1,6 @@
 ---
 
-title: arrow up thick(向上箭头粗) ICON转svg、png下载
+title:  arrow up thick(向上箭头粗) ICON转svg、png下载
 name: arrow-up-thick
 zhTips: 向上箭头粗,顶部箭头粗
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-top-thick
 
 ---
 
-# arrow-up-thick  <small style="font-size: 60%;font-weight: 100">向上箭头粗</small>
+# arrow up thick  <small style="font-size: 60%;font-weight: 100">向上箭头粗</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

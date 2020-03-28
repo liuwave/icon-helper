@@ -1,6 +1,6 @@
 ---
 
-title: mushroom(蘑菇) ICON转svg、png下载
+title:  mushroom(蘑菇) ICON转svg、png下载
 name: mushroom
 zhTips: 蘑菇,木耳
 tags: ["nature","food-drink"]
@@ -13,6 +13,8 @@ search: fungus
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

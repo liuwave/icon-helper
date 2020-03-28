@@ -1,6 +1,6 @@
 ---
 
-title: account supervisor circle(帐户主管圈子) ICON转svg、png下载
+title:  account supervisor circle(帐户主管圈子) ICON转svg、png下载
 name: account-supervisor-circle
 zhTips: 帐户主管圈子,用户主管圈子,人主管圈子
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-supervisor-circle,person-supervisor-circle
 
 ---
 
-# account-supervisor-circle  <small style="font-size: 60%;font-weight: 100">帐户主管圈子</small>
+# account supervisor circle  <small style="font-size: 60%;font-weight: 100">帐户主管圈子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

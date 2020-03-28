@@ -1,6 +1,6 @@
 ---
 
-title: cupboard outline(橱柜轮廓) ICON转svg、png下载
+title:  cupboard outline(橱柜轮廓) ICON转svg、png下载
 name: cupboard-outline
 zhTips: 橱柜轮廓
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cupboard-outline  <small style="font-size: 60%;font-weight: 100">橱柜轮廓</small>
+# cupboard outline  <small style="font-size: 60%;font-weight: 100">橱柜轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

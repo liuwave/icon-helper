@@ -1,6 +1,6 @@
 ---
 
-title: latitude(纬度) ICON转svg、png下载
+title:  latitude(纬度) ICON转svg、png下载
 name: latitude
 zhTips: 纬度
 tags: ["navigation","geographic-information-system"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

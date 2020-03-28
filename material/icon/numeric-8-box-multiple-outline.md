@@ -1,6 +1,6 @@
 ---
 
-title: numeric 8 box multiple outline(数字8框多重轮廓) ICON转svg、png下载
+title:  numeric 8 box multiple outline(数字8框多重轮廓) ICON转svg、png下载
 name: numeric-8-box-multiple-outline
 zhTips: 数字8框多重轮廓,过滤器8
 tags: ["alpha-numeric","alpha-numeric"]
@@ -8,11 +8,13 @@ search: filter-8,numeric-eight-box-multiple-outline,numeric-8-boxes-outline,numb
 
 ---
 
-# numeric-8-box-multiple-outline  <small style="font-size: 60%;font-weight: 100">数字8框多重轮廓</small>
+# numeric 8 box multiple outline  <small style="font-size: 60%;font-weight: 100">数字8框多重轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

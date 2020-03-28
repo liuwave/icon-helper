@@ -1,6 +1,6 @@
 ---
 
-title: calendar text outline(日历文本轮廓) ICON转svg、png下载
+title:  calendar text outline(日历文本轮廓) ICON转svg、png下载
 name: calendar-text-outline
 zhTips: 日历文本轮廓,事件文本轮廓,事件注释轮廓
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: event-text-outline,event-note-outline
 
 ---
 
-# calendar-text-outline  <small style="font-size: 60%;font-weight: 100">日历文本轮廓</small>
+# calendar text outline  <small style="font-size: 60%;font-weight: 100">日历文本轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

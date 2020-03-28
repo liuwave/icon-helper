@@ -1,6 +1,6 @@
 ---
 
-title: format wrap top bottom(将上下格式换行) ICON转svg、png下载
+title:  format wrap top bottom(将上下格式换行) ICON转svg、png下载
 name: format-wrap-top-bottom
 zhTips: 将上下格式换行
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-wrap-top-bottom  <small style="font-size: 60%;font-weight: 100">将上下格式换行</small>
+# format wrap top bottom  <small style="font-size: 60%;font-weight: 100">将上下格式换行</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

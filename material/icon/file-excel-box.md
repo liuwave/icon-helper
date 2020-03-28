@@ -1,6 +1,6 @@
 ---
 
-title: file excel box(档案Excel方块) ICON转svg、png下载
+title:  file excel box(档案Excel方块) ICON转svg、png下载
 name: file-excel-box
 zhTips: 档案Excel方块
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-excel-box  <small style="font-size: 60%;font-weight: 100">档案Excel方块</small>
+# file excel box  <small style="font-size: 60%;font-weight: 100">档案Excel方块</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

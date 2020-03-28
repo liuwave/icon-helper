@@ -1,6 +1,6 @@
 ---
 
-title: plus circle multiple outline(加圆圈多个轮廓) ICON转svg、png下载
+title:  plus circle multiple outline(加圆圈多个轮廓) ICON转svg、png下载
 name: plus-circle-multiple-outline
 zhTips: 加圆圈多个轮廓,控制点重复,加圆圈轮廓,硬币加轮廓
 tags: []
@@ -8,11 +8,13 @@ search: control-point-duplicate,plus-circles-outline,coins-plus-outline
 
 ---
 
-# plus-circle-multiple-outline  <small style="font-size: 60%;font-weight: 100">加圆圈多个轮廓</small>
+# plus circle multiple outline  <small style="font-size: 60%;font-weight: 100">加圆圈多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

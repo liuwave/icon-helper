@@ -1,6 +1,6 @@
 ---
 
-title: car brake parking(停车制动器) ICON转svg、png下载
+title:  car brake parking(停车制动器) ICON转svg、png下载
 name: car-brake-parking
 zhTips: 停车制动器
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# car-brake-parking  <small style="font-size: 60%;font-weight: 100">停车制动器</small>
+# car brake parking  <small style="font-size: 60%;font-weight: 100">停车制动器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: arrow down bold circle(向下的粗体箭头) ICON转svg、png下载
+title:  arrow down bold circle(向下的粗体箭头) ICON转svg、png下载
 name: arrow-down-bold-circle
 zhTips: 向下的粗体箭头,底部的粗体箭头
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-bottom-bold-circle
 
 ---
 
-# arrow-down-bold-circle  <small style="font-size: 60%;font-weight: 100">向下的粗体箭头</small>
+# arrow down bold circle  <small style="font-size: 60%;font-weight: 100">向下的粗体箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: timer off(计时器关闭) ICON转svg、png下载
+title:  timer off(计时器关闭) ICON转svg、png下载
 name: timer-off
 zhTips: 计时器关闭,秒表关闭
 tags: []
@@ -8,11 +8,13 @@ search: stopwatch-off
 
 ---
 
-# timer-off  <small style="font-size: 60%;font-weight: 100">计时器关闭</small>
+# timer off  <small style="font-size: 60%;font-weight: 100">计时器关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

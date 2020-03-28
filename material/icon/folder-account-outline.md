@@ -1,6 +1,6 @@
 ---
 
-title: folder account outline(文件夹帐户轮廓) ICON转svg、png下载
+title:  folder account outline(文件夹帐户轮廓) ICON转svg、png下载
 name: folder-account-outline
 zhTips: 文件夹帐户轮廓,文件夹用户轮廓,文件夹共享轮廓
 tags: ["files-folders","account-user"]
@@ -8,11 +8,13 @@ search: folder-user-outline,folder-shared-outline
 
 ---
 
-# folder-account-outline  <small style="font-size: 60%;font-weight: 100">文件夹帐户轮廓</small>
+# folder account outline  <small style="font-size: 60%;font-weight: 100">文件夹帐户轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

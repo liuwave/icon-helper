@@ -1,6 +1,6 @@
 ---
 
-title: emoticon devil(表情魔鬼) ICON转svg、png下载
+title:  emoticon devil(表情魔鬼) ICON转svg、png下载
 name: emoticon-devil
 zhTips: 表情魔鬼,笑脸魔鬼
 tags: ["emoji"]
@@ -8,11 +8,13 @@ search: smiley-devil
 
 ---
 
-# emoticon-devil  <small style="font-size: 60%;font-weight: 100">表情魔鬼</small>
+# emoticon devil  <small style="font-size: 60%;font-weight: 100">表情魔鬼</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: format header 3(格式标题3) ICON转svg、png下载
+title:  format header 3(格式标题3) ICON转svg、png下载
 name: format-header-3
 zhTips: 格式标题3
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-header-3  <small style="font-size: 60%;font-weight: 100">格式标题3</small>
+# format header 3  <small style="font-size: 60%;font-weight: 100">格式标题3</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: near me(在我附近) ICON转svg、png下载
+title:  near me(在我附近) ICON转svg、png下载
 name: near-me
 zhTips: 在我附近
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# near-me  <small style="font-size: 60%;font-weight: 100">在我附近</small>
+# near me  <small style="font-size: 60%;font-weight: 100">在我附近</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

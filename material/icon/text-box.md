@@ -1,6 +1,6 @@
 ---
 
-title: text box(文本框) ICON转svg、png下载
+title:  text box(文本框) ICON转svg、png下载
 name: text-box
 zhTips: 文本框,文档驱动器,文件文档框
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: drive-document,file-document-box
 
 ---
 
-# text-box  <small style="font-size: 60%;font-weight: 100">文本框</small>
+# text box  <small style="font-size: 60%;font-weight: 100">文本框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

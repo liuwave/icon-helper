@@ -1,6 +1,6 @@
 ---
 
-title: cards playing outline(打牌轮廓) ICON转svg、png下载
+title:  cards playing outline(打牌轮廓) ICON转svg、png下载
 name: cards-playing-outline
 zhTips: 打牌轮廓
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cards-playing-outline  <small style="font-size: 60%;font-weight: 100">打牌轮廓</small>
+# cards playing outline  <small style="font-size: 60%;font-weight: 100">打牌轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: asterisk(星号) ICON转svg、png下载
+title:  asterisk(星号) ICON转svg、png下载
 name: asterisk
-zhTips: 星号
+zhTips: 星号,注释,详细信息,参考,星级
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">星号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/asterisk.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/asterisk.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">星号</span><span class="badge-primary badge">注释</span><span class="badge-primary badge">详细信息</span><span class="badge-primary badge">参考</span><span class="badge-primary badge">星级</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/asterisk.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/asterisk.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">星号，表示重点标注，电话暂停键，数学乘号，密码输入。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-asterisk mdi-48px"></i>
   <i class="mdi mdi-asterisk mdi-36px"></i>

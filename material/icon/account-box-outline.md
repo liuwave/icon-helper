@@ -1,6 +1,6 @@
 ---
 
-title: account box outline(帐户框轮廓) ICON转svg、png下载
+title:  account box outline(帐户框轮廓) ICON转svg、png下载
 name: account-box-outline
 zhTips: 帐户框轮廓,自拍框,用户框轮廓,肖像,联系人框,人框框
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: selfie-outline,user-box-outline,portrait,contact-outline,person-box-outl
 
 ---
 
-# account-box-outline  <small style="font-size: 60%;font-weight: 100">帐户框轮廓</small>
+# account box outline  <small style="font-size: 60%;font-weight: 100">帐户框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

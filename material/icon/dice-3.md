@@ -1,6 +1,6 @@
 ---
 
-title: dice 3(骰子3) ICON转svg、png下载
+title:  dice 3(骰子3) ICON转svg、png下载
 name: dice-3
 zhTips: 骰子3
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: die-3,dice-three
 
 ---
 
-# dice-3  <small style="font-size: 60%;font-weight: 100">骰子3</small>
+# dice 3  <small style="font-size: 60%;font-weight: 100">骰子3</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

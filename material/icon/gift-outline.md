@@ -1,6 +1,6 @@
 ---
 
-title: gift outline(礼物轮廓) ICON转svg、png下载
+title:  gift outline(礼物轮廓) ICON转svg、png下载
 name: gift-outline
 zhTips: 礼物轮廓,捐赠,礼物
 tags: ["shopping","holiday"]
@@ -8,11 +8,13 @@ search: donate,present
 
 ---
 
-# gift-outline  <small style="font-size: 60%;font-weight: 100">礼物轮廓</small>
+# gift outline  <small style="font-size: 60%;font-weight: 100">礼物轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

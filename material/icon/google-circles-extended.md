@@ -1,6 +1,6 @@
 ---
 
-title: google circles extended(扩展了Google圈子) ICON转svg、png下载
+title:  google circles extended(扩展了Google圈子) ICON转svg、png下载
 name: google-circles-extended
 zhTips: 扩展了Google圈子
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-circles-extended  <small style="font-size: 60%;font-weight: 100">扩展了Google圈子</small>
+# google circles extended  <small style="font-size: 60%;font-weight: 100">扩展了Google圈子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: vector polyline minus(减去矢量多义线) ICON转svg、png下载
+title:  vector polyline minus(减去矢量多义线) ICON转svg、png下载
 name: vector-polyline-minus
 zhTips: 减去矢量多义线
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# vector-polyline-minus  <small style="font-size: 60%;font-weight: 100">减去矢量多义线</small>
+# vector polyline minus  <small style="font-size: 60%;font-weight: 100">减去矢量多义线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: graph outline(图轮廓) ICON转svg、png下载
+title:  graph outline(图轮廓) ICON转svg、png下载
 name: graph-outline
 zhTips: 图轮廓,依存关系
 tags: []
@@ -8,11 +8,13 @@ search: dependency,dependencies
 
 ---
 
-# graph-outline  <small style="font-size: 60%;font-weight: 100">图轮廓</small>
+# graph outline  <small style="font-size: 60%;font-weight: 100">图轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

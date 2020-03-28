@@ -1,6 +1,6 @@
 ---
 
-title: alarm light(报警灯) ICON转svg、png下载
+title:  alarm light(报警灯) ICON转svg、png下载
 name: alarm-light
 zhTips: 报警灯
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# alarm-light  <small style="font-size: 60%;font-weight: 100">报警灯</small>
+# alarm light  <small style="font-size: 60%;font-weight: 100">报警灯</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

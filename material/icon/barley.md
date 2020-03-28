@@ -1,6 +1,6 @@
 ---
 
-title: barley(大麦) ICON转svg、png下载
+title:  barley(大麦) ICON转svg、png下载
 name: barley
 zhTips: 大麦,谷物,小麦,面筋
 tags: ["agriculture","food-drink"]
@@ -13,6 +13,8 @@ search: grain,wheat,gluten
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

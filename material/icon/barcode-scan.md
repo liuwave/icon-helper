@@ -1,6 +1,6 @@
 ---
 
-title: barcode scan(条码扫描) ICON转svg、png下载
+title:  barcode scan(条码扫描) ICON转svg、png下载
 name: barcode-scan
 zhTips: 条码扫描,条码扫描器
 tags: []
@@ -8,11 +8,13 @@ search: barcode-scanner
 
 ---
 
-# barcode-scan  <small style="font-size: 60%;font-weight: 100">条码扫描</small>
+# barcode scan  <small style="font-size: 60%;font-weight: 100">条码扫描</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

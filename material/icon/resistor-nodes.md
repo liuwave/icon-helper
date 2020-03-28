@@ -1,6 +1,6 @@
 ---
 
-title: resistor nodes(电阻节点) ICON转svg、png下载
+title:  resistor nodes(电阻节点) ICON转svg、png下载
 name: resistor-nodes
 zhTips: 电阻节点
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# resistor-nodes  <small style="font-size: 60%;font-weight: 100">电阻节点</small>
+# resistor nodes  <small style="font-size: 60%;font-weight: 100">电阻节点</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: border top variant(边框重音) ICON转svg、png下载
+title:  border top variant(边框重音) ICON转svg、png下载
 name: border-top-variant
 zhTips: 边框重音
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# border-top-variant  <small style="font-size: 60%;font-weight: 100">边框重音</small>
+# border top variant  <small style="font-size: 60%;font-weight: 100">边框重音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

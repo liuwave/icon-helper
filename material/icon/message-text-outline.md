@@ -1,6 +1,6 @@
 ---
 
-title: message text outline(消息文本轮廓) ICON转svg、png下载
+title:  message text outline(消息文本轮廓) ICON转svg、png下载
 name: message-text-outline
 zhTips: 消息文本轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# message-text-outline  <small style="font-size: 60%;font-weight: 100">消息文本轮廓</small>
+# message text outline  <small style="font-size: 60%;font-weight: 100">消息文本轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

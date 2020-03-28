@@ -1,6 +1,6 @@
 ---
 
-title: plus circle outline(加圆轮廓) ICON转svg、png下载
+title:  plus circle outline(加圆轮廓) ICON转svg、png下载
 name: plus-circle-outline
 zhTips: 加圆轮廓,添加圆轮廓,控制点,圆添加
 tags: []
@@ -8,11 +8,13 @@ search: add-circle-outline,control-point,circles-add
 
 ---
 
-# plus-circle-outline  <small style="font-size: 60%;font-weight: 100">加圆轮廓</small>
+# plus circle outline  <small style="font-size: 60%;font-weight: 100">加圆轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

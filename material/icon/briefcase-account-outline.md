@@ -1,6 +1,6 @@
 ---
 
-title: briefcase account outline(公文包帐户轮廓) ICON转svg、png下载
+title:  briefcase account outline(公文包帐户轮廓) ICON转svg、png下载
 name: briefcase-account-outline
 zhTips: 公文包帐户轮廓,公文包人轮廓,公文包用户轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: briefcase-person-outline,briefcase-user-outline
 
 ---
 
-# briefcase-account-outline  <small style="font-size: 60%;font-weight: 100">公文包帐户轮廓</small>
+# briefcase account outline  <small style="font-size: 60%;font-weight: 100">公文包帐户轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

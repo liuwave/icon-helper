@@ -1,6 +1,6 @@
 ---
 
-title: map marker remove variant(地图标记删除重音符号) ICON转svg、png下载
+title:  map marker remove variant(地图标记删除重音符号) ICON转svg、png下载
 name: map-marker-remove-variant
 zhTips: 地图标记删除重音符号
 tags: ["navigation","geographic-information-system","geographic-information-system","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# map-marker-remove-variant  <small style="font-size: 60%;font-weight: 100">地图标记删除重音符号</small>
+# map marker remove variant  <small style="font-size: 60%;font-weight: 100">地图标记删除重音符号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

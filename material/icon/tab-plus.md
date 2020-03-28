@@ -1,6 +1,6 @@
 ---
 
-title: tab plus(选项卡加号) ICON转svg、png下载
+title:  tab plus(选项卡加号) ICON转svg、png下载
 name: tab-plus
 zhTips: 选项卡加号,选项卡添加
 tags: []
@@ -8,11 +8,13 @@ search: tab-add
 
 ---
 
-# tab-plus  <small style="font-size: 60%;font-weight: 100">选项卡加号</small>
+# tab plus  <small style="font-size: 60%;font-weight: 100">选项卡加号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

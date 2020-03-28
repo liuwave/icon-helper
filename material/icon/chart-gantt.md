@@ -1,6 +1,6 @@
 ---
 
-title: chart gantt(甘特图) ICON转svg、png下载
+title:  chart gantt(甘特图) ICON转svg、png下载
 name: chart-gantt
 zhTips: 甘特图
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chart-gantt  <small style="font-size: 60%;font-weight: 100">甘特图</small>
+# chart gantt  <small style="font-size: 60%;font-weight: 100">甘特图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

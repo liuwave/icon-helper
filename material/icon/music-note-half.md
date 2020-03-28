@@ -1,6 +1,6 @@
 ---
 
-title: music note half(音符一半) ICON转svg、png下载
+title:  music note half(音符一半) ICON转svg、png下载
 name: music-note-half
 zhTips: 音符一半
 tags: ["audio","music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-note-half  <small style="font-size: 60%;font-weight: 100">音符一半</small>
+# music note half  <small style="font-size: 60%;font-weight: 100">音符一半</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

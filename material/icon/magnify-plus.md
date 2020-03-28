@@ -1,6 +1,6 @@
 ---
 
-title: magnify plus(放大) ICON转svg、png下载
+title:  magnify plus(放大) ICON转svg、png下载
 name: magnify-plus
 zhTips: 放大,搜索加,搜索添加
 tags: []
@@ -8,11 +8,13 @@ search: zoom-in,magnify-add,search-plus,search-add
 
 ---
 
-# magnify-plus  <small style="font-size: 60%;font-weight: 100">放大</small>
+# magnify plus  <small style="font-size: 60%;font-weight: 100">放大</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

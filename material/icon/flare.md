@@ -1,6 +1,6 @@
 ---
 
-title: flare(耀斑) ICON转svg、png下载
+title:  flare(耀斑) ICON转svg、png下载
 name: flare
 zhTips: 耀斑
 tags: []
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

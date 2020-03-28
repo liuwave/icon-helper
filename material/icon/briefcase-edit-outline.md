@@ -1,6 +1,6 @@
 ---
 
-title: briefcase edit outline(公文包编辑轮廓) ICON转svg、png下载
+title:  briefcase edit outline(公文包编辑轮廓) ICON转svg、png下载
 name: briefcase-edit-outline
 zhTips: 公文包编辑轮廓
 tags: ["edit-modify"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# briefcase-edit-outline  <small style="font-size: 60%;font-weight: 100">公文包编辑轮廓</small>
+# briefcase edit outline  <small style="font-size: 60%;font-weight: 100">公文包编辑轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

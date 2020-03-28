@@ -1,6 +1,6 @@
 ---
 
-title: table arrow left(表格左箭头) ICON转svg、png下载
+title:  table arrow left(表格左箭头) ICON转svg、png下载
 name: table-arrow-left
 zhTips: 表格左箭头,表格导入
 tags: []
@@ -8,11 +8,13 @@ search: table-import
 
 ---
 
-# table-arrow-left  <small style="font-size: 60%;font-weight: 100">表格左箭头</small>
+# table arrow left  <small style="font-size: 60%;font-weight: 100">表格左箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: filter remove(删除过滤器) ICON转svg、png下载
+title:  filter remove(删除过滤器) ICON转svg、png下载
 name: filter-remove
 zhTips: 删除过滤器,删除漏斗
 tags: []
@@ -8,11 +8,13 @@ search: funnel-remove
 
 ---
 
-# filter-remove  <small style="font-size: 60%;font-weight: 100">删除过滤器</small>
+# filter remove  <small style="font-size: 60%;font-weight: 100">删除过滤器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

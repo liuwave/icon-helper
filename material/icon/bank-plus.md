@@ -1,6 +1,6 @@
 ---
 
-title: bank plus(银行加号) ICON转svg、png下载
+title:  bank plus(银行加号) ICON转svg、png下载
 name: bank-plus
 zhTips: 银行加号
 tags: ["banking"]
@@ -8,11 +8,13 @@ search: bank-add
 
 ---
 
-# bank-plus  <small style="font-size: 60%;font-weight: 100">银行加号</small>
+# bank plus  <small style="font-size: 60%;font-weight: 100">银行加号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

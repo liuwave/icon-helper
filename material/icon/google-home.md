@@ -1,6 +1,6 @@
 ---
 
-title: google home(Google主页) ICON转svg、png下载
+title:  google home(Google主页) ICON转svg、png下载
 name: google-home
 zhTips: Google主页
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-home  <small style="font-size: 60%;font-weight: 100">Google主页</small>
+# google home  <small style="font-size: 60%;font-weight: 100">Google主页</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

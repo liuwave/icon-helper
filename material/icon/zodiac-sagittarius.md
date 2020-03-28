@@ -1,6 +1,6 @@
 ---
 
-title: zodiac sagittarius(射手座十二生肖) ICON转svg、png下载
+title:  zodiac sagittarius(射手座十二生肖) ICON转svg、png下载
 name: zodiac-sagittarius
 zhTips: 射手座十二生肖
 tags: []
@@ -8,11 +8,13 @@ search: horoscope-sagittarius
 
 ---
 
-# zodiac-sagittarius  <small style="font-size: 60%;font-weight: 100">射手座十二生肖</small>
+# zodiac sagittarius  <small style="font-size: 60%;font-weight: 100">射手座十二生肖</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: wallet membership(钱包会员) ICON转svg、png下载
+title:  wallet membership(钱包会员) ICON转svg、png下载
 name: wallet-membership
 zhTips: 钱包会员,会员卡
 tags: []
@@ -8,11 +8,13 @@ search: card-membership
 
 ---
 
-# wallet-membership  <small style="font-size: 60%;font-weight: 100">钱包会员</small>
+# wallet membership  <small style="font-size: 60%;font-weight: 100">钱包会员</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

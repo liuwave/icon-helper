@@ -1,6 +1,6 @@
 ---
 
-title: account clock(帐户时钟) ICON转svg、png下载
+title:  account clock(帐户时钟) ICON转svg、png下载
 name: account-clock
 zhTips: 帐户时钟,用户时钟,帐户待处理,人时钟
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-clock,account-pending,person-clock
 
 ---
 
-# account-clock  <small style="font-size: 60%;font-weight: 100">帐户时钟</small>
+# account clock  <small style="font-size: 60%;font-weight: 100">帐户时钟</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

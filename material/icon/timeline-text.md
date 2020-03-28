@@ -1,6 +1,6 @@
 ---
 
-title: timeline text(时间轴文字) ICON转svg、png下载
+title:  timeline text(时间轴文字) ICON转svg、png下载
 name: timeline-text
 zhTips: 时间轴文字
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# timeline-text  <small style="font-size: 60%;font-weight: 100">时间轴文字</small>
+# timeline text  <small style="font-size: 60%;font-weight: 100">时间轴文字</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: credit card scan(信用卡扫描) ICON转svg、png下载
+title:  credit card scan(信用卡扫描) ICON转svg、png下载
 name: credit-card-scan
 zhTips: 信用卡扫描
 tags: ["banking"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# credit-card-scan  <small style="font-size: 60%;font-weight: 100">信用卡扫描</small>
+# credit card scan  <small style="font-size: 60%;font-weight: 100">信用卡扫描</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: calendar account(日历帐户) ICON转svg、png下载
+title:  calendar account(日历帐户) ICON转svg、png下载
 name: calendar-account
 zhTips: 日历帐户
 tags: ["date-time","account-user"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# calendar-account  <small style="font-size: 60%;font-weight: 100">日历帐户</small>
+# calendar account  <small style="font-size: 60%;font-weight: 100">日历帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

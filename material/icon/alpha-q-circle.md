@@ -1,6 +1,6 @@
 ---
 
-title: alpha q circle(字母q圈) ICON转svg、png下载
+title:  alpha q circle(字母q圈) ICON转svg、png下载
 name: alpha-q-circle
 zhTips: 字母q圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-q-circle,letter-q-circle
 
 ---
 
-# alpha-q-circle  <small style="font-size: 60%;font-weight: 100">字母q圈</small>
+# alpha q circle  <small style="font-size: 60%;font-weight: 100">字母q圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

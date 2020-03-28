@@ -1,6 +1,6 @@
 ---
 
-title: video input svideo(视频输入svideo) ICON转svg、png下载
+title:  video input svideo(视频输入svideo) ICON转svg、png下载
 name: video-input-svideo
 zhTips: 视频输入svideo,svideo输入设置
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search: settings-input-svideo
 
 ---
 
-# video-input-svideo  <small style="font-size: 60%;font-weight: 100">视频输入svideo</small>
+# video input svideo  <small style="font-size: 60%;font-weight: 100">视频输入svideo</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

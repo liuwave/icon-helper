@@ -1,6 +1,6 @@
 ---
 
-title: home floor 1(房屋1层) ICON转svg、png下载
+title:  home floor 1(房屋1层) ICON转svg、png下载
 name: home-floor-1
 zhTips: 房屋1层
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: house-floor-1,home-floor-one,house-floor-one,home-floor-first,house-floo
 
 ---
 
-# home-floor-1  <small style="font-size: 60%;font-weight: 100">房屋1层</small>
+# home floor 1  <small style="font-size: 60%;font-weight: 100">房屋1层</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

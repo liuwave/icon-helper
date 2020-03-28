@@ -1,6 +1,6 @@
 ---
 
-title: brightness 6(亮度6) ICON转svg、png下载
+title:  brightness 6(亮度6) ICON转svg、png下载
 name: brightness-6
 zhTips: 亮度6,中等亮度,浅暗主题
 tags: []
@@ -8,11 +8,13 @@ search: brightness-medium,theme-light-dark
 
 ---
 
-# brightness-6  <small style="font-size: 60%;font-weight: 100">亮度6</small>
+# brightness 6  <small style="font-size: 60%;font-weight: 100">亮度6</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

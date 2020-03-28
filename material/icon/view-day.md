@@ -1,6 +1,6 @@
 ---
 
-title: view day(天视图) ICON转svg、png下载
+title:  view day(天视图) ICON转svg、png下载
 name: view-day
 zhTips: 天视图
 tags: ["view"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# view-day  <small style="font-size: 60%;font-weight: 100">天视图</small>
+# view day  <small style="font-size: 60%;font-weight: 100">天视图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: approximately equal box(近似等于的盒子) ICON转svg、png下载
+title:  approximately equal box(近似等于的盒子) ICON转svg、png下载
 name: approximately-equal-box
 zhTips: 近似等于的盒子
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# approximately-equal-box  <small style="font-size: 60%;font-weight: 100">近似等于的盒子</small>
+# approximately equal box  <small style="font-size: 60%;font-weight: 100">近似等于的盒子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

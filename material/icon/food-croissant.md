@@ -1,6 +1,6 @@
 ---
 
-title: food croissant(食品牛角包) ICON转svg、png下载
+title:  food croissant(食品牛角包) ICON转svg、png下载
 name: food-croissant
 zhTips: 食品牛角包
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# food-croissant  <small style="font-size: 60%;font-weight: 100">食品牛角包</small>
+# food croissant  <small style="font-size: 60%;font-weight: 100">食品牛角包</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

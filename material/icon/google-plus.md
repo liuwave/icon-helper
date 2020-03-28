@@ -1,6 +1,6 @@
 ---
 
-title: google plus(Google Plus) ICON转svg、png下载
+title:  google plus(Google Plus) ICON转svg、png下载
 name: google-plus
 zhTips: Google Plus
 tags: ["brand-logo","social-media"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-plus  <small style="font-size: 60%;font-weight: 100">Google Plus</small>
+# google plus  <small style="font-size: 60%;font-weight: 100">Google Plus</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

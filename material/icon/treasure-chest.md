@@ -1,6 +1,6 @@
 ---
 
-title: treasure chest(百宝箱) ICON转svg、png下载
+title:  treasure chest(百宝箱) ICON转svg、png下载
 name: treasure-chest
 zhTips: 百宝箱
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# treasure-chest  <small style="font-size: 60%;font-weight: 100">百宝箱</small>
+# treasure chest  <small style="font-size: 60%;font-weight: 100">百宝箱</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

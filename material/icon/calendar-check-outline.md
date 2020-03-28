@@ -1,6 +1,6 @@
 ---
 
-title: calendar check outline(日历检查轮廓) ICON转svg、png下载
+title:  calendar check outline(日历检查轮廓) ICON转svg、png下载
 name: calendar-check-outline
 zhTips: 日历检查轮廓,事件可用轮廓,事件检查轮廓,事件刻度线轮廓,日历任务轮廓,日历刻度线轮廓
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: event-available-outline,event-check-outline,event-tick-outline,calendar-
 
 ---
 
-# calendar-check-outline  <small style="font-size: 60%;font-weight: 100">日历检查轮廓</small>
+# calendar check outline  <small style="font-size: 60%;font-weight: 100">日历检查轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

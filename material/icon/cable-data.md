@@ -1,6 +1,6 @@
 ---
 
-title: cable data(电缆数据) ICON转svg、png下载
+title:  cable data(电缆数据) ICON转svg、png下载
 name: cable-data
 zhTips: 电缆数据
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cable-data  <small style="font-size: 60%;font-weight: 100">电缆数据</small>
+# cable data  <small style="font-size: 60%;font-weight: 100">电缆数据</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

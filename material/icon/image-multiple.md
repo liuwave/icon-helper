@@ -1,6 +1,6 @@
 ---
 
-title: image multiple(图像多个) ICON转svg、png下载
+title:  image multiple(图像多个) ICON转svg、png下载
 name: image-multiple
 zhTips: 图像多个,收藏集,图片库,图像
 tags: []
@@ -8,11 +8,13 @@ search: collections,photo-library,images
 
 ---
 
-# image-multiple  <small style="font-size: 60%;font-weight: 100">图像多个</small>
+# image multiple  <small style="font-size: 60%;font-weight: 100">图像多个</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

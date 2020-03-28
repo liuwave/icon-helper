@@ -1,6 +1,6 @@
 ---
 
-title: plus box multiple(加多个框) ICON转svg、png下载
+title:  plus box multiple(加多个框) ICON转svg、png下载
 name: plus-box-multiple
 zhTips: 加多个框,添加到照片,添加图库,添加队列
 tags: []
@@ -8,11 +8,13 @@ search: add-to-photos,library-add,queue,library-plus
 
 ---
 
-# plus-box-multiple  <small style="font-size: 60%;font-weight: 100">加多个框</small>
+# plus box multiple  <small style="font-size: 60%;font-weight: 100">加多个框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

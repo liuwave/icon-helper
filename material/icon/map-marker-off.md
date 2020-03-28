@@ -1,6 +1,6 @@
 ---
 
-title: map marker off(关闭地图标记) ICON转svg、png下载
+title:  map marker off(关闭地图标记) ICON转svg、png下载
 name: map-marker-off
 zhTips: 关闭地图标记,关闭位置
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search: location-off
 
 ---
 
-# map-marker-off  <small style="font-size: 60%;font-weight: 100">关闭地图标记</small>
+# map marker off  <small style="font-size: 60%;font-weight: 100">关闭地图标记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

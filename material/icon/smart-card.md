@@ -1,6 +1,6 @@
 ---
 
-title: smart card(智能卡) ICON转svg、png下载
+title:  smart card(智能卡) ICON转svg、png下载
 name: smart-card
 zhTips: 智能卡
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# smart-card  <small style="font-size: 60%;font-weight: 100">智能卡</small>
+# smart card  <small style="font-size: 60%;font-weight: 100">智能卡</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

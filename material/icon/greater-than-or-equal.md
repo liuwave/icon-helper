@@ -1,6 +1,6 @@
 ---
 
-title: greater than or equal(大于或等于) ICON转svg、png下载
+title:  greater than or equal(大于或等于) ICON转svg、png下载
 name: greater-than-or-equal
 zhTips: 大于或等于
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# greater-than-or-equal  <small style="font-size: 60%;font-weight: 100">大于或等于</small>
+# greater than or equal  <small style="font-size: 60%;font-weight: 100">大于或等于</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

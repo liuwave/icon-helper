@@ -1,6 +1,6 @@
 ---
 
-title: division box(分隔盒) ICON转svg、png下载
+title:  division box(分隔盒) ICON转svg、png下载
 name: division-box
 zhTips: 分隔盒
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# division-box  <small style="font-size: 60%;font-weight: 100">分隔盒</small>
+# division box  <small style="font-size: 60%;font-weight: 100">分隔盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

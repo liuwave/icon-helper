@@ -1,6 +1,6 @@
 ---
 
-title: skip backward outline(向后跳过轮廓) ICON转svg、png下载
+title:  skip backward outline(向后跳过轮廓) ICON转svg、png下载
 name: skip-backward-outline
 zhTips: 向后跳过轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# skip-backward-outline  <small style="font-size: 60%;font-weight: 100">向后跳过轮廓</small>
+# skip backward outline  <small style="font-size: 60%;font-weight: 100">向后跳过轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

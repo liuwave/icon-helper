@@ -1,6 +1,6 @@
 ---
 
-title: dots vertical circle(点垂直圆) ICON转svg、png下载
+title:  dots vertical circle(点垂直圆) ICON转svg、png下载
 name: dots-vertical-circle
 zhTips: 点垂直圆,省略号垂直圆,菜单
 tags: []
@@ -8,11 +8,13 @@ search: ellipsis-vertical-circle,menu
 
 ---
 
-# dots-vertical-circle  <small style="font-size: 60%;font-weight: 100">点垂直圆</small>
+# dots vertical circle  <small style="font-size: 60%;font-weight: 100">点垂直圆</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

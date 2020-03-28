@@ -1,6 +1,6 @@
 ---
 
-title: camera account(相机帐户) ICON转svg、png下载
+title:  camera account(相机帐户) ICON转svg、png下载
 name: camera-account
 zhTips: 相机帐户,用户相机
 tags: ["account-user","photography"]
@@ -8,11 +8,13 @@ search: camera-user
 
 ---
 
-# camera-account  <small style="font-size: 60%;font-weight: 100">相机帐户</small>
+# camera account  <small style="font-size: 60%;font-weight: 100">相机帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

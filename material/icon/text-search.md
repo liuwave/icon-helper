@@ -1,6 +1,6 @@
 ---
 
-title: text search(文字搜索) ICON转svg、png下载
+title:  text search(文字搜索) ICON转svg、png下载
 name: text-search
 zhTips: 文字搜索
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# text-search  <small style="font-size: 60%;font-weight: 100">文字搜索</small>
+# text search  <small style="font-size: 60%;font-weight: 100">文字搜索</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

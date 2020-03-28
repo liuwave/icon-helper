@@ -1,6 +1,6 @@
 ---
 
-title: egg off outline(鸡蛋掉轮廓) ICON转svg、png下载
+title:  egg off outline(鸡蛋掉轮廓) ICON转svg、png下载
 name: egg-off-outline
 zhTips: 鸡蛋掉轮廓
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# egg-off-outline  <small style="font-size: 60%;font-weight: 100">鸡蛋掉轮廓</small>
+# egg off outline  <small style="font-size: 60%;font-weight: 100">鸡蛋掉轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

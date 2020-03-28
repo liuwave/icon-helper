@@ -1,6 +1,6 @@
 ---
 
-title: account cowboy hat(帐户牛仔帽) ICON转svg、png下载
+title:  account cowboy hat(帐户牛仔帽) ICON转svg、png下载
 name: account-cowboy-hat
 zhTips: 帐户牛仔帽
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# account-cowboy-hat  <small style="font-size: 60%;font-weight: 100">帐户牛仔帽</small>
+# account cowboy hat  <small style="font-size: 60%;font-weight: 100">帐户牛仔帽</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

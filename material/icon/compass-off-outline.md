@@ -1,6 +1,6 @@
 ---
 
-title: compass off outline(指南针偏离轮廓) ICON转svg、png下载
+title:  compass off outline(指南针偏离轮廓) ICON转svg、png下载
 name: compass-off-outline
 zhTips: 指南针偏离轮廓
 tags: ["geographic-information-system","navigation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# compass-off-outline  <small style="font-size: 60%;font-weight: 100">指南针偏离轮廓</small>
+# compass off outline  <small style="font-size: 60%;font-weight: 100">指南针偏离轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

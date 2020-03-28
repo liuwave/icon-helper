@@ -1,6 +1,6 @@
 ---
 
-title: tray minus(托盘减号) ICON转svg、png下载
+title:  tray minus(托盘减号) ICON转svg、png下载
 name: tray-minus
 zhTips: 托盘减号,队列,打印机,收件箱
 tags: []
@@ -8,11 +8,13 @@ search: queue,printer,inbox
 
 ---
 
-# tray-minus  <small style="font-size: 60%;font-weight: 100">托盘减号</small>
+# tray minus  <small style="font-size: 60%;font-weight: 100">托盘减号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

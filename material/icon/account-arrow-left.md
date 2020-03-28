@@ -1,6 +1,6 @@
 ---
 
-title: account arrow left(帐户向左箭头) ICON转svg、png下载
+title:  account arrow left(帐户向左箭头) ICON转svg、png下载
 name: account-arrow-left
 zhTips: 帐户向左箭头,用户向左箭头,人向左箭头
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-arrow-left,person-arrow-left
 
 ---
 
-# account-arrow-left  <small style="font-size: 60%;font-weight: 100">帐户向左箭头</small>
+# account arrow left  <small style="font-size: 60%;font-weight: 100">帐户向左箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

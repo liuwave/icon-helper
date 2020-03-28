@@ -1,6 +1,6 @@
 ---
 
-title: view split horizontal(视图水平拆分) ICON转svg、png下载
+title:  view split horizontal(视图水平拆分) ICON转svg、png下载
 name: view-split-horizontal
 zhTips: 视图水平拆分
 tags: ["view"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# view-split-horizontal  <small style="font-size: 60%;font-weight: 100">视图水平拆分</small>
+# view split horizontal  <small style="font-size: 60%;font-weight: 100">视图水平拆分</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

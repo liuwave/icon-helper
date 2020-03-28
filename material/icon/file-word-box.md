@@ -1,6 +1,6 @@
 ---
 
-title: file word box(文件字框) ICON转svg、png下载
+title:  file word box(文件字框) ICON转svg、png下载
 name: file-word-box
 zhTips: 文件字框
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-word-box  <small style="font-size: 60%;font-weight: 100">文件字框</small>
+# file word box  <small style="font-size: 60%;font-weight: 100">文件字框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: microsoft powerpoint(微软PowerPoint) ICON转svg、png下载
+title:  microsoft powerpoint(微软PowerPoint) ICON转svg、png下载
 name: microsoft-powerpoint
 zhTips: 微软PowerPoint
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-powerpoint  <small style="font-size: 60%;font-weight: 100">微软PowerPoint</small>
+# microsoft powerpoint  <small style="font-size: 60%;font-weight: 100">微软PowerPoint</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

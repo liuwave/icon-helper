@@ -1,6 +1,6 @@
 ---
 
-title: briefcase account(帐户公文包) ICON转svg、png下载
+title:  briefcase account(帐户公文包) ICON转svg、png下载
 name: briefcase-account
 zhTips: 帐户公文包,个人公文包,用户公文包
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: briefcase-person,briefcase-user
 
 ---
 
-# briefcase-account  <small style="font-size: 60%;font-weight: 100">帐户公文包</small>
+# briefcase account  <small style="font-size: 60%;font-weight: 100">帐户公文包</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

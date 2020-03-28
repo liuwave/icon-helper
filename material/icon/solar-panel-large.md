@@ -1,6 +1,6 @@
 ---
 
-title: solar panel large(太阳能电池板大) ICON转svg、png下载
+title:  solar panel large(太阳能电池板大) ICON转svg、png下载
 name: solar-panel-large
 zhTips: 太阳能电池板大
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# solar-panel-large  <small style="font-size: 60%;font-weight: 100">太阳能电池板大</small>
+# solar panel large  <small style="font-size: 60%;font-weight: 100">太阳能电池板大</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

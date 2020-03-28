@@ -1,6 +1,6 @@
 ---
 
-title: file chart(文件图) ICON转svg、png下载
+title:  file chart(文件图) ICON转svg、png下载
 name: file-chart
 zhTips: 文件图,文件报告
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-report
 
 ---
 
-# file-chart  <small style="font-size: 60%;font-weight: 100">文件图</small>
+# file chart  <small style="font-size: 60%;font-weight: 100">文件图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

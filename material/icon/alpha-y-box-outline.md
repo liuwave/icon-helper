@@ -1,6 +1,6 @@
 ---
 
-title: alpha y box outline(字母y框轮廓) ICON转svg、png下载
+title:  alpha y box outline(字母y框轮廓) ICON转svg、png下载
 name: alpha-y-box-outline
 zhTips: 字母y框轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-y-box-outline,letter-y-box-outline
 
 ---
 
-# alpha-y-box-outline  <small style="font-size: 60%;font-weight: 100">字母y框轮廓</small>
+# alpha y box outline  <small style="font-size: 60%;font-weight: 100">字母y框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

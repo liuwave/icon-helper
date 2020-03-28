@@ -1,6 +1,6 @@
 ---
 
-title: subway alert variant(地铁警报变形) ICON转svg、png下载
+title:  subway alert variant(地铁警报变形) ICON转svg、png下载
 name: subway-alert-variant
 zhTips: 地铁警报变形
 tags: ["alert-error","transportation-other"]
@@ -8,11 +8,13 @@ search: subway-warning-variant
 
 ---
 
-# subway-alert-variant  <small style="font-size: 60%;font-weight: 100">地铁警报变形</small>
+# subway alert variant  <small style="font-size: 60%;font-weight: 100">地铁警报变形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

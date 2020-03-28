@@ -1,6 +1,6 @@
 ---
 
-title: arrow collapse horizontal(箭头水平折叠) ICON转svg、png下载
+title:  arrow collapse horizontal(箭头水平折叠) ICON转svg、png下载
 name: arrow-collapse-horizontal
 zhTips: 箭头水平折叠
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# arrow-collapse-horizontal  <small style="font-size: 60%;font-weight: 100">箭头水平折叠</small>
+# arrow collapse horizontal  <small style="font-size: 60%;font-weight: 100">箭头水平折叠</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

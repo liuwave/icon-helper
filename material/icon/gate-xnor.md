@@ -1,6 +1,6 @@
 ---
 
-title: gate xnor(门xnor) ICON转svg、png下载
+title:  gate xnor(门xnor) ICON转svg、png下载
 name: gate-xnor
 zhTips: 门xnor,逻辑门xnor
 tags: []
@@ -8,11 +8,13 @@ search: logic-gate-xnor
 
 ---
 
-# gate-xnor  <small style="font-size: 60%;font-weight: 100">门xnor</small>
+# gate xnor  <small style="font-size: 60%;font-weight: 100">门xnor</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

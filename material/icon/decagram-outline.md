@@ -1,6 +1,6 @@
 ---
 
-title: decagram outline(十角轮廓) ICON转svg、png下载
+title:  decagram outline(十角轮廓) ICON转svg、png下载
 name: decagram-outline
 zhTips: 十角轮廓,爆炸形轮廓
 tags: ["shape"]
@@ -8,11 +8,13 @@ search: starburst-outline
 
 ---
 
-# decagram-outline  <small style="font-size: 60%;font-weight: 100">十角轮廓</small>
+# decagram outline  <small style="font-size: 60%;font-weight: 100">十角轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

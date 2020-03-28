@@ -1,6 +1,6 @@
 ---
 
-title: alpha x circle(alpha x圈) ICON转svg、png下载
+title:  alpha x circle(alpha x圈) ICON转svg、png下载
 name: alpha-x-circle
 zhTips: alpha x圈,字母x圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-x-circle,letter-x-circle
 
 ---
 
-# alpha-x-circle  <small style="font-size: 60%;font-weight: 100">alpha x圈</small>
+# alpha x circle  <small style="font-size: 60%;font-weight: 100">alpha x圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

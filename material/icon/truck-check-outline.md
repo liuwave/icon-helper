@@ -1,6 +1,6 @@
 ---
 
-title: truck check outline(卡车检查轮廓) ICON转svg、png下载
+title:  truck check outline(卡车检查轮廓) ICON转svg、png下载
 name: truck-check-outline
 zhTips: 卡车检查轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# truck-check-outline  <small style="font-size: 60%;font-weight: 100">卡车检查轮廓</small>
+# truck check outline  <small style="font-size: 60%;font-weight: 100">卡车检查轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

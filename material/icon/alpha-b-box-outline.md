@@ -1,6 +1,6 @@
 ---
 
-title: alpha b box outline(alpha b框轮廓) ICON转svg、png下载
+title:  alpha b box outline(alpha b框轮廓) ICON转svg、png下载
 name: alpha-b-box-outline
 zhTips: alpha b框轮廓,字母b框轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-b-box-outline,letter-b-box-outline
 
 ---
 
-# alpha-b-box-outline  <small style="font-size: 60%;font-weight: 100">alpha b框轮廓</small>
+# alpha b box outline  <small style="font-size: 60%;font-weight: 100">alpha b框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

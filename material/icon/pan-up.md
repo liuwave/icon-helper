@@ -1,6 +1,6 @@
 ---
 
-title: pan up(平移) ICON转svg、png下载
+title:  pan up(平移) ICON转svg、png下载
 name: pan-up
 zhTips: 平移
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pan-up  <small style="font-size: 60%;font-weight: 100">平移</small>
+# pan up  <small style="font-size: 60%;font-weight: 100">平移</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

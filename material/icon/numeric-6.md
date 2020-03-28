@@ -1,6 +1,6 @@
 ---
 
-title: numeric 6(数字6) ICON转svg、png下载
+title:  numeric 6(数字6) ICON转svg、png下载
 name: numeric-6
 zhTips: 数字6
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: number-6,numeric-six
 
 ---
 
-# numeric-6  <small style="font-size: 60%;font-weight: 100">数字6</small>
+# numeric 6  <small style="font-size: 60%;font-weight: 100">数字6</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

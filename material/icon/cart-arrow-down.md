@@ -1,6 +1,6 @@
 ---
 
-title: cart arrow down(购物车向下箭头) ICON转svg、png下载
+title:  cart arrow down(购物车向下箭头) ICON转svg、png下载
 name: cart-arrow-down
 zhTips: 购物车向下箭头
 tags: ["shopping"]
@@ -8,11 +8,13 @@ search: shopping-cart-arrow-down,trolley-arrow-down
 
 ---
 
-# cart-arrow-down  <small style="font-size: 60%;font-weight: 100">购物车向下箭头</small>
+# cart arrow down  <small style="font-size: 60%;font-weight: 100">购物车向下箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

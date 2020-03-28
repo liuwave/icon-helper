@@ -1,6 +1,6 @@
 ---
 
-title: arrow expand vertical(箭头垂直展开) ICON转svg、png下载
+title:  arrow expand vertical(箭头垂直展开) ICON转svg、png下载
 name: arrow-expand-vertical
 zhTips: 箭头垂直展开
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# arrow-expand-vertical  <small style="font-size: 60%;font-weight: 100">箭头垂直展开</small>
+# arrow expand vertical  <small style="font-size: 60%;font-weight: 100">箭头垂直展开</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

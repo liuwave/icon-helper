@@ -1,6 +1,6 @@
 ---
 
-title: microsoft internet explorer(微软网络浏览器) ICON转svg、png下载
+title:  microsoft internet explorer(微软网络浏览器) ICON转svg、png下载
 name: microsoft-internet-explorer
 zhTips: 微软网络浏览器
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-internet-explorer  <small style="font-size: 60%;font-weight: 100">微软网络浏览器</small>
+# microsoft internet explorer  <small style="font-size: 60%;font-weight: 100">微软网络浏览器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

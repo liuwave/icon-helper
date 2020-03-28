@@ -1,6 +1,6 @@
 ---
 
-title: looks(看起来) ICON转svg、png下载
+title:  looks(看起来) ICON转svg、png下载
 name: looks
 zhTips: 看起来,彩虹
 tags: ["weather","color"]
@@ -13,6 +13,8 @@ search: rainbow
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

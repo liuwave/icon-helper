@@ -1,6 +1,6 @@
 ---
 
-title: view grid outline(查看网格轮廓) ICON转svg、png下载
+title:  view grid outline(查看网格轮廓) ICON转svg、png下载
 name: view-grid-outline
 zhTips: 查看网格轮廓
 tags: ["view"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# view-grid-outline  <small style="font-size: 60%;font-weight: 100">查看网格轮廓</small>
+# view grid outline  <small style="font-size: 60%;font-weight: 100">查看网格轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: lock question(锁定问题) ICON转svg、png下载
+title:  lock question(锁定问题) ICON转svg、png下载
 name: lock-question
 zhTips: 锁定问题,忘记密码
 tags: ["lock"]
@@ -8,11 +8,13 @@ search: forgot-password
 
 ---
 
-# lock-question  <small style="font-size: 60%;font-weight: 100">锁定问题</small>
+# lock question  <small style="font-size: 60%;font-weight: 100">锁定问题</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

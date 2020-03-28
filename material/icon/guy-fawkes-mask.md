@@ -1,6 +1,6 @@
 ---
 
-title: guy fawkes mask(盖伊·福克斯面具) ICON转svg、png下载
+title:  guy fawkes mask(盖伊·福克斯面具) ICON转svg、png下载
 name: guy-fawkes-mask
 zhTips: 盖伊·福克斯面具
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# guy-fawkes-mask  <small style="font-size: 60%;font-weight: 100">盖伊·福克斯面具</small>
+# guy fawkes mask  <small style="font-size: 60%;font-weight: 100">盖伊·福克斯面具</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

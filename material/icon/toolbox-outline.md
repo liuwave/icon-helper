@@ -1,6 +1,6 @@
 ---
 
-title: toolbox outline(工具箱概述) ICON转svg、png下载
+title:  toolbox outline(工具箱概述) ICON转svg、png下载
 name: toolbox-outline
 zhTips: 工具箱概述,服务工具箱
 tags: ["hardware-tools"]
@@ -8,11 +8,13 @@ search: service-toolbox
 
 ---
 
-# toolbox-outline  <small style="font-size: 60%;font-weight: 100">工具箱概述</small>
+# toolbox outline  <small style="font-size: 60%;font-weight: 100">工具箱概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

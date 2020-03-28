@@ -1,6 +1,6 @@
 ---
 
-title: format horizontal align center(格式化水平对齐中心) ICON转svg、png下载
+title:  format horizontal align center(格式化水平对齐中心) ICON转svg、png下载
 name: format-horizontal-align-center
 zhTips: 格式化水平对齐中心
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: format-horizontal-align-centre
 
 ---
 
-# format-horizontal-align-center  <small style="font-size: 60%;font-weight: 100">格式化水平对齐中心</small>
+# format horizontal align center  <small style="font-size: 60%;font-weight: 100">格式化水平对齐中心</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

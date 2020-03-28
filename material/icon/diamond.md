@@ -1,6 +1,6 @@
 ---
 
-title: diamond(钻石) ICON转svg、png下载
+title:  diamond(钻石) ICON转svg、png下载
 name: diamond
 zhTips: 钻石
 tags: []
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -39,7 +41,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">钻石</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/diamond.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/diamond.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">钻石，象征的尊贵，也表示非常显著、亮点展示。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-diamond mdi-48px"></i>
   <i class="mdi mdi-diamond mdi-36px"></i>

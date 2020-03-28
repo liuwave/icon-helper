@@ -1,6 +1,6 @@
 ---
 
-title: align horizontal center(对齐水平中心) ICON转svg、png下载
+title:  align horizontal center(对齐水平中心) ICON转svg、png下载
 name: align-horizontal-center
 zhTips: 对齐水平中心
 tags: []
@@ -8,11 +8,13 @@ search: align-horizontal-centre
 
 ---
 
-# align-horizontal-center  <small style="font-size: 60%;font-weight: 100">对齐水平中心</small>
+# align horizontal center  <small style="font-size: 60%;font-weight: 100">对齐水平中心</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: badge account alert outline(徽章警告提示轮廓) ICON转svg、png下载
+title:  badge account alert outline(徽章警告提示轮廓) ICON转svg、png下载
 name: badge-account-alert-outline
 zhTips: 徽章警告提示轮廓,用户徽章警告轮廓,徽章警告轮廓
 tags: ["account-user","alert-error"]
@@ -8,11 +8,13 @@ search: user-badge-alert-outline,person-badge-alert-outline,account-badge-warnin
 
 ---
 
-# badge-account-alert-outline  <small style="font-size: 60%;font-weight: 100">徽章警告提示轮廓</small>
+# badge account alert outline  <small style="font-size: 60%;font-weight: 100">徽章警告提示轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

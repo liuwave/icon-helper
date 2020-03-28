@@ -1,6 +1,6 @@
 ---
 
-title: bell plus outline(铃声加上轮廓) ICON转svg、png下载
+title:  bell plus outline(铃声加上轮廓) ICON转svg、png下载
 name: bell-plus-outline
 zhTips: 铃声加上轮廓,铃声添加轮廓,添加警报轮廓
 tags: ["notification"]
@@ -8,11 +8,13 @@ search: bell-add-outline,add-alert-outline
 
 ---
 
-# bell-plus-outline  <small style="font-size: 60%;font-weight: 100">铃声加上轮廓</small>
+# bell plus outline  <small style="font-size: 60%;font-weight: 100">铃声加上轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: marker cancel(标记取消) ICON转svg、png下载
+title:  marker cancel(标记取消) ICON转svg、png下载
 name: marker-cancel
 zhTips: 标记取消
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# marker-cancel  <small style="font-size: 60%;font-weight: 100">标记取消</small>
+# marker cancel  <small style="font-size: 60%;font-weight: 100">标记取消</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

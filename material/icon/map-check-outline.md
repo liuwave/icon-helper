@@ -1,6 +1,6 @@
 ---
 
-title: map check outline(检查地图轮廓) ICON转svg、png下载
+title:  map check outline(检查地图轮廓) ICON转svg、png下载
 name: map-check-outline
 zhTips: 检查地图轮廓,地图刻度线轮廓
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search: map-tick-outline
 
 ---
 
-# map-check-outline  <small style="font-size: 60%;font-weight: 100">检查地图轮廓</small>
+# map check outline  <small style="font-size: 60%;font-weight: 100">检查地图轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

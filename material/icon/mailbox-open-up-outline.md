@@ -1,6 +1,6 @@
 ---
 
-title: mailbox open up outline(邮箱打开轮廓) ICON转svg、png下载
+title:  mailbox open up outline(邮箱打开轮廓) ICON转svg、png下载
 name: mailbox-open-up-outline
 zhTips: 邮箱打开轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# mailbox-open-up-outline  <small style="font-size: 60%;font-weight: 100">邮箱打开轮廓</small>
+# mailbox open up outline  <small style="font-size: 60%;font-weight: 100">邮箱打开轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

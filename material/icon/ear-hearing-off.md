@@ -1,6 +1,6 @@
 ---
 
-title: ear hearing off(耳朵听不见) ICON转svg、png下载
+title:  ear hearing off(耳朵听不见) ICON转svg、png下载
 name: ear-hearing-off
 zhTips: 耳朵听不见,听力受损
 tags: []
@@ -8,11 +8,13 @@ search: hearing-impaired
 
 ---
 
-# ear-hearing-off  <small style="font-size: 60%;font-weight: 100">耳朵听不见</small>
+# ear hearing off  <small style="font-size: 60%;font-weight: 100">耳朵听不见</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

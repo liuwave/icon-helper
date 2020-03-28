@@ -1,6 +1,6 @@
 ---
 
-title: chart areaspline(图表区域) ICON转svg、png下载
+title:  chart areaspline(图表区域) ICON转svg、png下载
 name: chart-areaspline
 zhTips: 图表区域
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chart-areaspline  <small style="font-size: 60%;font-weight: 100">图表区域</small>
+# chart areaspline  <small style="font-size: 60%;font-weight: 100">图表区域</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

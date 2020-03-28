@@ -1,6 +1,6 @@
 ---
 
-title: notification clear all(通知全部清除) ICON转svg、png下载
+title:  notification clear all(通知全部清除) ICON转svg、png下载
 name: notification-clear-all
 zhTips: 通知全部清除
 tags: ["notification"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# notification-clear-all  <small style="font-size: 60%;font-weight: 100">通知全部清除</small>
+# notification clear all  <small style="font-size: 60%;font-weight: 100">通知全部清除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

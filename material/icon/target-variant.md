@@ -1,6 +1,6 @@
 ---
 
-title: target variant(目标变体) ICON转svg、png下载
+title:  target variant(目标变体) ICON转svg、png下载
 name: target-variant
 zhTips: 目标变体,注册标记
 tags: []
@@ -8,11 +8,13 @@ search: registration-mark
 
 ---
 
-# target-variant  <small style="font-size: 60%;font-weight: 100">目标变体</small>
+# target variant  <small style="font-size: 60%;font-weight: 100">目标变体</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

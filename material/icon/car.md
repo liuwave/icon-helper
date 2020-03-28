@@ -1,8 +1,8 @@
 ---
 
-title: car(汽车) ICON转svg、png下载
+title:  car(汽车) ICON转svg、png下载
 name: car
-zhTips: 汽车,汽车方向,行车时间,离开时间
+zhTips: 汽车,汽车方向,行车时间,离开时间,轿车,运输,旅行,车辆
 tags: ["transportation-road","navigation","automotive"]
 search: directions-car,drive-eta,time-to-leave
 
@@ -13,6 +13,8 @@ search: directions-car,drive-eta,time-to-leave
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">directions-car</span><span class="badge-light badge">drive-eta</span><span class="badge-light badge">time-to-leave</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">汽车</span><span class="badge-primary badge">汽车方向</span><span class="badge-primary badge">行车时间</span><span class="badge-primary badge">离开时间</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/car.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/car.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">directions-car</span><span class="badge-light badge">drive-eta</span><span class="badge-light badge">time-to-leave</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">汽车</span><span class="badge-primary badge">汽车方向</span><span class="badge-primary badge">行车时间</span><span class="badge-primary badge">离开时间</span><span class="badge-primary badge">轿车</span><span class="badge-primary badge">运输</span><span class="badge-primary badge">旅行</span><span class="badge-primary badge">车辆</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/car.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/car.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">汽车，可以表示远行、打车。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-car mdi-48px"></i>
   <i class="mdi mdi-car mdi-36px"></i>

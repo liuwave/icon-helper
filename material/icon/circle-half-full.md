@@ -1,6 +1,6 @@
 ---
 
-title: circle half full(圈半满) ICON转svg、png下载
+title:  circle half full(圈半满) ICON转svg、png下载
 name: circle-half-full
 zhTips: 圈半满
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# circle-half-full  <small style="font-size: 60%;font-weight: 100">圈半满</small>
+# circle half full  <small style="font-size: 60%;font-weight: 100">圈半满</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

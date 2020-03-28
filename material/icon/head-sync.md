@@ -1,6 +1,6 @@
 ---
 
-title: head sync(磁头同步) ICON转svg、png下载
+title:  head sync(磁头同步) ICON转svg、png下载
 name: head-sync
 zhTips: 磁头同步,磁头重新加载,磁头刷新
 tags: []
@@ -8,11 +8,13 @@ search: head-reload,head-refresh
 
 ---
 
-# head-sync  <small style="font-size: 60%;font-weight: 100">磁头同步</small>
+# head sync  <small style="font-size: 60%;font-weight: 100">磁头同步</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

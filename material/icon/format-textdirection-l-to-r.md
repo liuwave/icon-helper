@@ -1,6 +1,6 @@
 ---
 
-title: format textdirection l to r(格式化文本方向l到r) ICON转svg、png下载
+title:  format textdirection l to r(格式化文本方向l到r) ICON转svg、png下载
 name: format-textdirection-l-to-r
 zhTips: 格式化文本方向l到r
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-textdirection-l-to-r  <small style="font-size: 60%;font-weight: 100">格式化文本方向l到r</small>
+# format textdirection l to r  <small style="font-size: 60%;font-weight: 100">格式化文本方向l到r</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

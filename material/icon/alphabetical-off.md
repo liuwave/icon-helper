@@ -1,6 +1,6 @@
 ---
 
-title: alphabetical off(按字母顺序关闭) ICON转svg、png下载
+title:  alphabetical off(按字母顺序关闭) ICON转svg、png下载
 name: alphabetical-off
 zhTips: 按字母顺序关闭
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# alphabetical-off  <small style="font-size: 60%;font-weight: 100">按字母顺序关闭</small>
+# alphabetical off  <small style="font-size: 60%;font-weight: 100">按字母顺序关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

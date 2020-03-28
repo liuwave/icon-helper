@@ -1,6 +1,6 @@
 ---
 
-title: hazard lights(危险灯) ICON转svg、png下载
+title:  hazard lights(危险灯) ICON转svg、png下载
 name: hazard-lights
 zhTips: 危险灯,警告灯
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search: warning-lights
 
 ---
 
-# hazard-lights  <small style="font-size: 60%;font-weight: 100">危险灯</small>
+# hazard lights  <small style="font-size: 60%;font-weight: 100">危险灯</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: code parentheses(代码括号) ICON转svg、png下载
+title:  code parentheses(代码括号) ICON转svg、png下载
 name: code-parentheses
 zhTips: 代码括号
 tags: ["developer-languages"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# code-parentheses  <small style="font-size: 60%;font-weight: 100">代码括号</small>
+# code parentheses  <small style="font-size: 60%;font-weight: 100">代码括号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

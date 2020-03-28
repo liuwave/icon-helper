@@ -1,6 +1,6 @@
 ---
 
-title: swap horizontal bold(交换水平粗体) ICON转svg、png下载
+title:  swap horizontal bold(交换水平粗体) ICON转svg、png下载
 name: swap-horizontal-bold
 zhTips: 交换水平粗体,向左箭头粗体
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-left-right-bold
 
 ---
 
-# swap-horizontal-bold  <small style="font-size: 60%;font-weight: 100">交换水平粗体</small>
+# swap horizontal bold  <small style="font-size: 60%;font-weight: 100">交换水平粗体</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

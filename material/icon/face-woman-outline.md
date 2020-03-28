@@ -1,6 +1,6 @@
 ---
 
-title: face woman outline(脸女人轮廓) ICON转svg、png下载
+title:  face woman outline(脸女人轮廓) ICON转svg、png下载
 name: face-woman-outline
 zhTips: 脸女人轮廓
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# face-woman-outline  <small style="font-size: 60%;font-weight: 100">脸女人轮廓</small>
+# face woman outline  <small style="font-size: 60%;font-weight: 100">脸女人轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

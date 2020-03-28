@@ -1,6 +1,6 @@
 ---
 
-title: phone check(电话检查) ICON转svg、png下载
+title:  phone check(电话检查) ICON转svg、png下载
 name: phone-check
 zhTips: 电话检查
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# phone-check  <small style="font-size: 60%;font-weight: 100">电话检查</small>
+# phone check  <small style="font-size: 60%;font-weight: 100">电话检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

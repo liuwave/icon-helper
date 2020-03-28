@@ -1,6 +1,6 @@
 ---
 
-title: bell sleep(铃声睡眠) ICON转svg、png下载
+title:  bell sleep(铃声睡眠) ICON转svg、png下载
 name: bell-sleep
 zhTips: 铃声睡眠,已暂停的通知
 tags: ["notification"]
@@ -8,11 +8,13 @@ search: notifications-paused
 
 ---
 
-# bell-sleep  <small style="font-size: 60%;font-weight: 100">铃声睡眠</small>
+# bell sleep  <small style="font-size: 60%;font-weight: 100">铃声睡眠</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

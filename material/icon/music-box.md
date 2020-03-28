@@ -1,6 +1,6 @@
 ---
 
-title: music box(音乐盒) ICON转svg、png下载
+title:  music box(音乐盒) ICON转svg、png下载
 name: music-box
 zhTips: 音乐盒
 tags: ["audio","music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-box  <small style="font-size: 60%;font-weight: 100">音乐盒</small>
+# music box  <small style="font-size: 60%;font-weight: 100">音乐盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

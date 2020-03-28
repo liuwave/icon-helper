@@ -1,6 +1,6 @@
 ---
 
-title: open source initiative(开源计划) ICON转svg、png下载
+title:  open source initiative(开源计划) ICON转svg、png下载
 name: open-source-initiative
 zhTips: 开源计划
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# open-source-initiative  <small style="font-size: 60%;font-weight: 100">开源计划</small>
+# open source initiative  <small style="font-size: 60%;font-weight: 100">开源计划</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

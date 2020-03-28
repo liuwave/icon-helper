@@ -1,6 +1,6 @@
 ---
 
-title: language c(语言c) ICON转svg、png下载
+title:  language c(语言c) ICON转svg、png下载
 name: language-c
 zhTips: 语言c
 tags: ["developer-languages"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# language-c  <small style="font-size: 60%;font-weight: 100">语言c</small>
+# language c  <small style="font-size: 60%;font-weight: 100">语言c</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

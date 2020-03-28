@@ -1,6 +1,6 @@
 ---
 
-title: file lock(文件锁定) ICON转svg、png下载
+title:  file lock(文件锁定) ICON转svg、png下载
 name: file-lock
 zhTips: 文件锁定
 tags: ["lock","files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-lock  <small style="font-size: 60%;font-weight: 100">文件锁定</small>
+# file lock  <small style="font-size: 60%;font-weight: 100">文件锁定</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: play box multiple outline(播放盒多个轮廓) ICON转svg、png下载
+title:  play box multiple outline(播放盒多个轮廓) ICON转svg、png下载
 name: play-box-multiple-outline
 zhTips: 播放盒多个轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# play-box-multiple-outline  <small style="font-size: 60%;font-weight: 100">播放盒多个轮廓</small>
+# play box multiple outline  <small style="font-size: 60%;font-weight: 100">播放盒多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

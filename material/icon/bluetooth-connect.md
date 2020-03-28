@@ -1,6 +1,6 @@
 ---
 
-title: bluetooth connect(蓝牙连接) ICON转svg、png下载
+title:  bluetooth connect(蓝牙连接) ICON转svg、png下载
 name: bluetooth-connect
 zhTips: 蓝牙连接
 tags: []
@@ -8,11 +8,13 @@ search: bluetooth-connected
 
 ---
 
-# bluetooth-connect  <small style="font-size: 60%;font-weight: 100">蓝牙连接</small>
+# bluetooth connect  <small style="font-size: 60%;font-weight: 100">蓝牙连接</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

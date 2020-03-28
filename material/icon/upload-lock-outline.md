@@ -1,6 +1,6 @@
 ---
 
-title: upload lock outline(上传锁定概述) ICON转svg、png下载
+title:  upload lock outline(上传锁定概述) ICON转svg、png下载
 name: upload-lock-outline
 zhTips: 上传锁定概述
 tags: ["lock"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# upload-lock-outline  <small style="font-size: 60%;font-weight: 100">上传锁定概述</small>
+# upload lock outline  <small style="font-size: 60%;font-weight: 100">上传锁定概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

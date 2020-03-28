@@ -1,6 +1,6 @@
 ---
 
-title: page layout sidebar right(页面布局侧边栏右侧) ICON转svg、png下载
+title:  page layout sidebar right(页面布局侧边栏右侧) ICON转svg、png下载
 name: page-layout-sidebar-right
 zhTips: 页面布局侧边栏右侧
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# page-layout-sidebar-right  <small style="font-size: 60%;font-weight: 100">页面布局侧边栏右侧</small>
+# page layout sidebar right  <small style="font-size: 60%;font-weight: 100">页面布局侧边栏右侧</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

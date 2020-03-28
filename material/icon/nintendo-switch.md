@@ -1,6 +1,6 @@
 ---
 
-title: nintendo switch(nintendo交换机) ICON转svg、png下载
+title:  nintendo switch(nintendo交换机) ICON转svg、png下载
 name: nintendo-switch
 zhTips: nintendo交换机,nintendo交换机在线
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search: nintendo-switch-online
 
 ---
 
-# nintendo-switch  <small style="font-size: 60%;font-weight: 100">nintendo交换机</small>
+# nintendo switch  <small style="font-size: 60%;font-weight: 100">nintendo交换机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: google spreadsheet(Google电子表格) ICON转svg、png下载
+title:  google spreadsheet(Google电子表格) ICON转svg、png下载
 name: google-spreadsheet
 zhTips: Google电子表格
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-spreadsheet  <small style="font-size: 60%;font-weight: 100">Google电子表格</small>
+# google spreadsheet  <small style="font-size: 60%;font-weight: 100">Google电子表格</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

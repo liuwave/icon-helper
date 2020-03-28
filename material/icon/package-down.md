@@ -1,6 +1,6 @@
 ---
 
-title: package down(打包) ICON转svg、png下载
+title:  package down(打包) ICON转svg、png下载
 name: package-down
 zhTips: 打包,存档
 tags: []
@@ -8,11 +8,13 @@ search: archive,box-down
 
 ---
 
-# package-down  <small style="font-size: 60%;font-weight: 100">打包</small>
+# package down  <small style="font-size: 60%;font-weight: 100">打包</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

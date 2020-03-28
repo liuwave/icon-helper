@@ -1,6 +1,6 @@
 ---
 
-title: sticker check(贴纸检查) ICON转svg、png下载
+title:  sticker check(贴纸检查) ICON转svg、png下载
 name: sticker-check
 zhTips: 贴纸检查
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# sticker-check  <small style="font-size: 60%;font-weight: 100">贴纸检查</small>
+# sticker check  <small style="font-size: 60%;font-weight: 100">贴纸检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alpha i box(字母i框) ICON转svg、png下载
+title:  alpha i box(字母i框) ICON转svg、png下载
 name: alpha-i-box
 zhTips: 字母i框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-i-box,letter-i-box
 
 ---
 
-# alpha-i-box  <small style="font-size: 60%;font-weight: 100">字母i框</small>
+# alpha i box  <small style="font-size: 60%;font-weight: 100">字母i框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

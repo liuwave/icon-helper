@@ -1,6 +1,6 @@
 ---
 
-title: folder(文件夹) ICON转svg、png下载
+title:  folder(文件夹) ICON转svg、png下载
 name: folder
 zhTips: 文件夹
 tags: ["files-folders"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

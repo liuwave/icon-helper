@@ -1,6 +1,6 @@
 ---
 
-title: spider web(蜘蛛网) ICON转svg、png下载
+title:  spider web(蜘蛛网) ICON转svg、png下载
 name: spider-web
 zhTips: 蜘蛛网
 tags: ["holiday"]
@@ -8,11 +8,13 @@ search: cobweb,arachnid-web
 
 ---
 
-# spider-web  <small style="font-size: 60%;font-weight: 100">蜘蛛网</small>
+# spider web  <small style="font-size: 60%;font-weight: 100">蜘蛛网</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

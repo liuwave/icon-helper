@@ -1,6 +1,6 @@
 ---
 
-title: chevron down(V形向下) ICON转svg、png下载
+title:  chevron down(V形向下) ICON转svg、png下载
 name: chevron-down
 zhTips: V形向下,展开更多,键盘向下箭头
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: expand-more,keyboard-arrow-down
 
 ---
 
-# chevron-down  <small style="font-size: 60%;font-weight: 100">V形向下</small>
+# chevron down  <small style="font-size: 60%;font-weight: 100">V形向下</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

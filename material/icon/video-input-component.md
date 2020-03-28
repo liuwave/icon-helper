@@ -1,6 +1,6 @@
 ---
 
-title: video input component(视频输入组件) ICON转svg、png下载
+title:  video input component(视频输入组件) ICON转svg、png下载
 name: video-input-component
 zhTips: 视频输入组件,视频输入复合,设置输入组件,设置输入复合,视频输入ypbpr,rca
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search: video-input-composite,settings-input-component,settings-input-composite,
 
 ---
 
-# video-input-component  <small style="font-size: 60%;font-weight: 100">视频输入组件</small>
+# video input component  <small style="font-size: 60%;font-weight: 100">视频输入组件</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: eye settings(眼睛设置) ICON转svg、png下载
+title:  eye settings(眼睛设置) ICON转svg、png下载
 name: eye-settings
 zhTips: 眼睛设置
 tags: ["settings"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# eye-settings  <small style="font-size: 60%;font-weight: 100">眼睛设置</small>
+# eye settings  <small style="font-size: 60%;font-weight: 100">眼睛设置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

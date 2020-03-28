@@ -1,6 +1,6 @@
 ---
 
-title: vector union(矢量精确) ICON转svg、png下载
+title:  vector union(矢量精确) ICON转svg、png下载
 name: vector-union
 zhTips: 矢量精确
 tags: ["vector","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# vector-union  <small style="font-size: 60%;font-weight: 100">矢量精确</small>
+# vector union  <small style="font-size: 60%;font-weight: 100">矢量精确</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: format pilcrow(格式pilcrow) ICON转svg、png下载
+title:  format pilcrow(格式pilcrow) ICON转svg、png下载
 name: format-pilcrow
 zhTips: 格式pilcrow
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-pilcrow  <small style="font-size: 60%;font-weight: 100">格式pilcrow</small>
+# format pilcrow  <small style="font-size: 60%;font-weight: 100">格式pilcrow</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

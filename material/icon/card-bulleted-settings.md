@@ -1,6 +1,6 @@
 ---
 
-title: card bulleted settings(卡项目符号设置) ICON转svg、png下载
+title:  card bulleted settings(卡项目符号设置) ICON转svg、png下载
 name: card-bulleted-settings
 zhTips: 卡项目符号设置
 tags: ["settings"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# card-bulleted-settings  <small style="font-size: 60%;font-weight: 100">卡项目符号设置</small>
+# card bulleted settings  <small style="font-size: 60%;font-weight: 100">卡项目符号设置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

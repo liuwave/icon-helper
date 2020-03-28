@@ -1,6 +1,6 @@
 ---
 
-title: text box multiple(文本框多个) ICON转svg、png下载
+title:  text box multiple(文本框多个) ICON转svg、png下载
 name: text-box-multiple
 zhTips: 文本框多个,文件文件框,文件文件框多个
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-document-boxes,file-document-box-multiple
 
 ---
 
-# text-box-multiple  <small style="font-size: 60%;font-weight: 100">文本框多个</small>
+# text box multiple  <small style="font-size: 60%;font-weight: 100">文本框多个</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

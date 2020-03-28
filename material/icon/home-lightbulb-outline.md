@@ -1,6 +1,6 @@
 ---
 
-title: home lightbulb outline(家用灯泡轮廓) ICON转svg、png下载
+title:  home lightbulb outline(家用灯泡轮廓) ICON转svg、png下载
 name: home-lightbulb-outline
 zhTips: 家用灯泡轮廓
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: home-bulb-outline
 
 ---
 
-# home-lightbulb-outline  <small style="font-size: 60%;font-weight: 100">家用灯泡轮廓</small>
+# home lightbulb outline  <small style="font-size: 60%;font-weight: 100">家用灯泡轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

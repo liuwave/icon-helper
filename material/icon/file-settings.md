@@ -1,6 +1,6 @@
 ---
 
-title: file settings(文件设置) ICON转svg、png下载
+title:  file settings(文件设置) ICON转svg、png下载
 name: file-settings
 zhTips: 文件设置
 tags: ["settings","files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-settings  <small style="font-size: 60%;font-weight: 100">文件设置</small>
+# file settings  <small style="font-size: 60%;font-weight: 100">文件设置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

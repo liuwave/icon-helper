@@ -1,6 +1,6 @@
 ---
 
-title: bottle wine(瓶酒) ICON转svg、png下载
+title:  bottle wine(瓶酒) ICON转svg、png下载
 name: bottle-wine
 zhTips: 瓶酒
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bottle-wine  <small style="font-size: 60%;font-weight: 100">瓶酒</small>
+# bottle wine  <small style="font-size: 60%;font-weight: 100">瓶酒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

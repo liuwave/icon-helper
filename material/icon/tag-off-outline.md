@@ -1,6 +1,6 @@
 ---
 
-title: tag off outline(标记轮廓) ICON转svg、png下载
+title:  tag off outline(标记轮廓) ICON转svg、png下载
 name: tag-off-outline
 zhTips: 标记轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tag-off-outline  <small style="font-size: 60%;font-weight: 100">标记轮廓</small>
+# tag off outline  <small style="font-size: 60%;font-weight: 100">标记轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

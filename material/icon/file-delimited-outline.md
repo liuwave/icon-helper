@@ -1,6 +1,6 @@
 ---
 
-title: file delimited outline(文件定界轮廓) ICON转svg、png下载
+title:  file delimited outline(文件定界轮廓) ICON转svg、png下载
 name: file-delimited-outline
 zhTips: 文件定界轮廓,文件csv轮廓
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-csv-outline
 
 ---
 
-# file-delimited-outline  <small style="font-size: 60%;font-weight: 100">文件定界轮廓</small>
+# file delimited outline  <small style="font-size: 60%;font-weight: 100">文件定界轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: calendar alert(日历警报) ICON转svg、png下载
+title:  calendar alert(日历警报) ICON转svg、png下载
 name: calendar-alert
 zhTips: 日历警报,事件警报,日历警告
 tags: ["date-time","alert-error"]
@@ -8,11 +8,13 @@ search: event-alert,calendar-warning
 
 ---
 
-# calendar-alert  <small style="font-size: 60%;font-weight: 100">日历警报</small>
+# calendar alert  <small style="font-size: 60%;font-weight: 100">日历警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: keg(小桶) ICON转svg、png下载
+title:  keg(小桶) ICON转svg、png下载
 name: keg
 zhTips: 小桶
 tags: ["food-drink"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

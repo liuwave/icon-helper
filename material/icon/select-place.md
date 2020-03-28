@@ -1,6 +1,6 @@
 ---
 
-title: select place(选择地方) ICON转svg、png下载
+title:  select place(选择地方) ICON转svg、png下载
 name: select-place
 zhTips: 选择地方
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# select-place  <small style="font-size: 60%;font-weight: 100">选择地方</small>
+# select place  <small style="font-size: 60%;font-weight: 100">选择地方</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

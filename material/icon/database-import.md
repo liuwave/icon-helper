@@ -1,6 +1,6 @@
 ---
 
-title: database import(数据库导入) ICON转svg、png下载
+title:  database import(数据库导入) ICON转svg、png下载
 name: database-import
 zhTips: 数据库导入
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# database-import  <small style="font-size: 60%;font-weight: 100">数据库导入</small>
+# database import  <small style="font-size: 60%;font-weight: 100">数据库导入</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

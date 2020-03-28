@@ -1,6 +1,6 @@
 ---
 
-title: cash usd outline(现金美元轮廓) ICON转svg、png下载
+title:  cash usd outline(现金美元轮廓) ICON转svg、png下载
 name: cash-usd-outline
 zhTips: 现金美元轮廓,当地自动柜员机,钱美元
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: local-atm,money-usd
 
 ---
 
-# cash-usd-outline  <small style="font-size: 60%;font-weight: 100">现金美元轮廓</small>
+# cash usd outline  <small style="font-size: 60%;font-weight: 100">现金美元轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

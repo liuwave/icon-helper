@@ -1,6 +1,6 @@
 ---
 
-title: view module(查看模块) ICON转svg、png下载
+title:  view module(查看模块) ICON转svg、png下载
 name: view-module
 zhTips: 查看模块
 tags: ["view"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# view-module  <small style="font-size: 60%;font-weight: 100">查看模块</small>
+# view module  <small style="font-size: 60%;font-weight: 100">查看模块</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

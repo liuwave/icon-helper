@@ -1,6 +1,6 @@
 ---
 
-title: shaker outline(振动筛轮廓) ICON转svg、png下载
+title:  shaker outline(振动筛轮廓) ICON转svg、png下载
 name: shaker-outline
 zhTips: 振动筛轮廓,盐,鱼类食品轮廓
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: salt,fish-food-outline
 
 ---
 
-# shaker-outline  <small style="font-size: 60%;font-weight: 100">振动筛轮廓</small>
+# shaker outline  <small style="font-size: 60%;font-weight: 100">振动筛轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

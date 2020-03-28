@@ -1,6 +1,6 @@
 ---
 
-title: account clock outline(帐户时钟轮廓) ICON转svg、png下载
+title:  account clock outline(帐户时钟轮廓) ICON转svg、png下载
 name: account-clock-outline
 zhTips: 帐户时钟轮廓,用户时钟轮廓,帐户待处理轮廓,个人时钟轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-clock-outline,account-pending-outline,person-clock-outline
 
 ---
 
-# account-clock-outline  <small style="font-size: 60%;font-weight: 100">帐户时钟轮廓</small>
+# account clock outline  <small style="font-size: 60%;font-weight: 100">帐户时钟轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

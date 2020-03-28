@@ -1,6 +1,6 @@
 ---
 
-title: microsoft edge(Microsoft Edge) ICON转svg、png下载
+title:  microsoft edge(Microsoft Edge) ICON转svg、png下载
 name: microsoft-edge
 zhTips: Microsoft Edge
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search: microsoft-edge
 
 ---
 
-# microsoft-edge  <small style="font-size: 60%;font-weight: 100">Microsoft Edge</small>
+# microsoft edge  <small style="font-size: 60%;font-weight: 100">Microsoft Edge</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

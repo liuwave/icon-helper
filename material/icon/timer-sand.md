@@ -1,6 +1,6 @@
 ---
 
-title: timer sand(沙漏计时器) ICON转svg、png下载
+title:  timer sand(沙漏计时器) ICON转svg、png下载
 name: timer-sand
 zhTips: 沙漏计时器,沙漏
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: hourglass
 
 ---
 
-# timer-sand  <small style="font-size: 60%;font-weight: 100">沙漏计时器</small>
+# timer sand  <small style="font-size: 60%;font-weight: 100">沙漏计时器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

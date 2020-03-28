@@ -1,6 +1,6 @@
 ---
 
-title: headset dock(扩展坞耳机) ICON转svg、png下载
+title:  headset dock(扩展坞耳机) ICON转svg、png下载
 name: headset-dock
 zhTips: 扩展坞耳机
 tags: ["audio"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# headset-dock  <small style="font-size: 60%;font-weight: 100">扩展坞耳机</small>
+# headset dock  <small style="font-size: 60%;font-weight: 100">扩展坞耳机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: palette(调色板) ICON转svg、png下载
+title:  palette(调色板) ICON转svg、png下载
 name: palette
-zhTips: 调色板,彩色透镜
+zhTips: 调色板,彩色透镜,颜料板,丙烯酸,艺术,画笔,颜色,填充,油漆,颜料,水彩
 tags: ["color","drawing-art"]
 search: color-lens,colour-lens
 
@@ -13,6 +13,8 @@ search: color-lens,colour-lens
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">color-lens</span><span class="badge-light badge">colour-lens</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">调色板</span><span class="badge-primary badge">彩色透镜</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/palette.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/palette.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">color-lens</span><span class="badge-light badge">colour-lens</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">调色板</span><span class="badge-primary badge">彩色透镜</span><span class="badge-primary badge">颜料板</span><span class="badge-primary badge">丙烯酸</span><span class="badge-primary badge">艺术</span><span class="badge-primary badge">画笔</span><span class="badge-primary badge">颜色</span><span class="badge-primary badge">填充</span><span class="badge-primary badge">油漆</span><span class="badge-primary badge">颜料</span><span class="badge-primary badge">水彩</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/palette.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/palette.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示吸取不同颜色。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-palette mdi-48px"></i>
   <i class="mdi mdi-palette mdi-36px"></i>

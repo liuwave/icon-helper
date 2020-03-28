@@ -1,6 +1,6 @@
 ---
 
-title: ghost(鬼) ICON转svg、png下载
+title:  ghost(鬼) ICON转svg、png下载
 name: ghost
 zhTips: 鬼,漆黑,眨眼,小指,克莱德
 tags: ["gaming-rpg"]
@@ -13,6 +13,8 @@ search: inky,blinky,pinky,clyde
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

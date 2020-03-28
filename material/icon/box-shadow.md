@@ -1,6 +1,6 @@
 ---
 
-title: box shadow(框影) ICON转svg、png下载
+title:  box shadow(框影) ICON转svg、png下载
 name: box-shadow
 zhTips: 框影
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# box-shadow  <small style="font-size: 60%;font-weight: 100">框影</small>
+# box shadow  <small style="font-size: 60%;font-weight: 100">框影</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

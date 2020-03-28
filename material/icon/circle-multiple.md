@@ -1,6 +1,6 @@
 ---
 
-title: circle multiple(圈数) ICON转svg、png下载
+title:  circle multiple(圈数) ICON转svg、png下载
 name: circle-multiple
 zhTips: 圈数,硬币
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: coins
 
 ---
 
-# circle-multiple  <small style="font-size: 60%;font-weight: 100">圈数</small>
+# circle multiple  <small style="font-size: 60%;font-weight: 100">圈数</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

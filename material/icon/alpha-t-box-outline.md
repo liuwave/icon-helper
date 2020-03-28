@@ -1,6 +1,6 @@
 ---
 
-title: alpha t box outline(alpha t框轮廓) ICON转svg、png下载
+title:  alpha t box outline(alpha t框轮廓) ICON转svg、png下载
 name: alpha-t-box-outline
 zhTips: alpha t框轮廓,字母t框轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-t-box-outline,letter-t-box-outline
 
 ---
 
-# alpha-t-box-outline  <small style="font-size: 60%;font-weight: 100">alpha t框轮廓</small>
+# alpha t box outline  <small style="font-size: 60%;font-weight: 100">alpha t框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

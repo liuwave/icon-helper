@@ -1,6 +1,6 @@
 ---
 
-title: sprinkler variant(洒水口) ICON转svg、png下载
+title:  sprinkler variant(洒水口) ICON转svg、png下载
 name: sprinkler-variant
 zhTips: 洒水口,灌溉
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: irrigation
 
 ---
 
-# sprinkler-variant  <small style="font-size: 60%;font-weight: 100">洒水口</small>
+# sprinkler variant  <small style="font-size: 60%;font-weight: 100">洒水口</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

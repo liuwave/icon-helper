@@ -1,6 +1,6 @@
 ---
 
-title: weather lightning(天气闪电) ICON转svg、png下载
+title:  weather lightning(天气闪电) ICON转svg、png下载
 name: weather-lightning
 zhTips: 天气闪电,天气风暴,天气雷声,天气闪光
 tags: ["weather"]
@@ -8,11 +8,13 @@ search: weather-storm,weather-thunder,weather-flash
 
 ---
 
-# weather-lightning  <small style="font-size: 60%;font-weight: 100">天气闪电</small>
+# weather lightning  <small style="font-size: 60%;font-weight: 100">天气闪电</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

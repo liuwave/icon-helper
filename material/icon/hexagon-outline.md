@@ -1,6 +1,6 @@
 ---
 
-title: hexagon outline(六角形轮廓) ICON转svg、png下载
+title:  hexagon outline(六角形轮廓) ICON转svg、png下载
 name: hexagon-outline
 zhTips: 六角形轮廓
 tags: ["shape"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# hexagon-outline  <small style="font-size: 60%;font-weight: 100">六角形轮廓</small>
+# hexagon outline  <small style="font-size: 60%;font-weight: 100">六角形轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

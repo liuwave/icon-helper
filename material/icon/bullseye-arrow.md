@@ -1,6 +1,6 @@
 ---
 
-title: bullseye arrow(靶心箭) ICON转svg、png下载
+title:  bullseye arrow(靶心箭) ICON转svg、png下载
 name: bullseye-arrow
 zhTips: 靶心箭,目标箭
 tags: ["sport"]
@@ -8,11 +8,13 @@ search: target-arrow
 
 ---
 
-# bullseye-arrow  <small style="font-size: 60%;font-weight: 100">靶心箭</small>
+# bullseye arrow  <small style="font-size: 60%;font-weight: 100">靶心箭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

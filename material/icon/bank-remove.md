@@ -1,6 +1,6 @@
 ---
 
-title: bank remove(银行删除) ICON转svg、png下载
+title:  bank remove(银行删除) ICON转svg、png下载
 name: bank-remove
 zhTips: 银行删除
 tags: ["banking"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bank-remove  <small style="font-size: 60%;font-weight: 100">银行删除</small>
+# bank remove  <small style="font-size: 60%;font-weight: 100">银行删除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: clock(时钟) ICON转svg、png下载
+title:  clock(时钟) ICON转svg、png下载
 name: clock
-zhTips: 时钟,稍后观看
+zhTips: 时钟,稍后观看,日期,时间,时间表,计时器,时间戳,手表
 tags: ["date-time"]
 search: watch-later
 
@@ -13,6 +13,8 @@ search: watch-later
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">watch-later</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">时钟</span><span class="badge-primary badge">稍后观看</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/clock.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/clock.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">watch-later</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">时钟</span><span class="badge-primary badge">稍后观看</span><span class="badge-primary badge">日期</span><span class="badge-primary badge">时间</span><span class="badge-primary badge">时间表</span><span class="badge-primary badge">计时器</span><span class="badge-primary badge">时间戳</span><span class="badge-primary badge">手表</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/clock.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/clock.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">时钟，一般用于计时，显示时间的事件，也可以表示闹钟、手表。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-clock mdi-48px"></i>
   <i class="mdi mdi-clock mdi-36px"></i>

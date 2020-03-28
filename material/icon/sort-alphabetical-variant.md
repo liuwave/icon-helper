@@ -1,6 +1,6 @@
 ---
 
-title: sort alphabetical variant(按字母顺序排序) ICON转svg、png下载
+title:  sort alphabetical variant(按字母顺序排序) ICON转svg、png下载
 name: sort-alphabetical-variant
 zhTips: 按字母顺序排序,按字母排序
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: sort-by-alpha,sort-alphabetically
 
 ---
 
-# sort-alphabetical-variant  <small style="font-size: 60%;font-weight: 100">按字母顺序排序</small>
+# sort alphabetical variant  <small style="font-size: 60%;font-weight: 100">按字母顺序排序</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

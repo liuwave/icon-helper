@@ -1,6 +1,6 @@
 ---
 
-title: link lock(链接锁) ICON转svg、png下载
+title:  link lock(链接锁) ICON转svg、png下载
 name: link-lock
 zhTips: 链接锁,区块链
 tags: ["lock"]
@@ -8,11 +8,13 @@ search: block-chain
 
 ---
 
-# link-lock  <small style="font-size: 60%;font-weight: 100">链接锁</small>
+# link lock  <small style="font-size: 60%;font-weight: 100">链接锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

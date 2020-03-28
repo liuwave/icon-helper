@@ -1,6 +1,6 @@
 ---
 
-title: currency sign(货币符号) ICON转svg、png下载
+title:  currency sign(货币符号) ICON转svg、png下载
 name: currency-sign
 zhTips: 货币符号,圣甲虫
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: currency-scarab
 
 ---
 
-# currency-sign  <small style="font-size: 60%;font-weight: 100">货币符号</small>
+# currency sign  <small style="font-size: 60%;font-weight: 100">货币符号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

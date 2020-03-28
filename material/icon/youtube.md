@@ -1,8 +1,8 @@
 ---
 
-title: youtube(youtube) ICON转svg、png下载
+title:  youtube(youtube) ICON转svg、png下载
 name: youtube
-zhTips: youtube,youtube视频,youtube播放
+zhTips: youtube,youtube视频,youtube播放,电影,视频,YouTube正方形
 tags: ["brand-logo","social-media"]
 search: video-youtube,youtube-play
 
@@ -13,6 +13,8 @@ search: video-youtube,youtube-play
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">video-youtube</span><span class="badge-light badge">youtube-play</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">youtube</span><span class="badge-primary badge">youtube视频</span><span class="badge-primary badge">youtube播放</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/youtube.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/youtube.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">video-youtube</span><span class="badge-light badge">youtube-play</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">youtube</span><span class="badge-primary badge">youtube视频</span><span class="badge-primary badge">youtube播放</span><span class="badge-primary badge">电影</span><span class="badge-primary badge">视频</span><span class="badge-primary badge">YouTube正方形</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/youtube.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/youtube.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">YouTube是一个视频网站：在YouTube 上畅享您喜爱的视频和音乐,上传原创内容并与亲朋好友和全世界观众分享您的视频。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-youtube mdi-48px"></i>
   <i class="mdi mdi-youtube mdi-36px"></i>

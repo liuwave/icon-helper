@@ -1,6 +1,6 @@
 ---
 
-title: numeric 4 circle(数字4圈) ICON转svg、png下载
+title:  numeric 4 circle(数字4圈) ICON转svg、png下载
 name: numeric-4-circle
 zhTips: 数字4圈
 tags: ["alpha-numeric","alpha-numeric"]
@@ -8,11 +8,13 @@ search: numeric-four-circle,number-4-circle,number-four-circle
 
 ---
 
-# numeric-4-circle  <small style="font-size: 60%;font-weight: 100">数字4圈</small>
+# numeric 4 circle  <small style="font-size: 60%;font-weight: 100">数字4圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: bank transfer(银行转帐) ICON转svg、png下载
+title:  bank transfer(银行转帐) ICON转svg、png下载
 name: bank-transfer
 zhTips: 银行转帐
 tags: ["banking"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bank-transfer  <small style="font-size: 60%;font-weight: 100">银行转帐</small>
+# bank transfer  <small style="font-size: 60%;font-weight: 100">银行转帐</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

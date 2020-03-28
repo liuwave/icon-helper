@@ -1,6 +1,6 @@
 ---
 
-title: order bool ascending(订购bool升序) ICON转svg、png下载
+title:  order bool ascending(订购bool升序) ICON转svg、png下载
 name: order-bool-ascending
 zhTips: 订购bool升序
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# order-bool-ascending  <small style="font-size: 60%;font-weight: 100">订购bool升序</small>
+# order bool ascending  <small style="font-size: 60%;font-weight: 100">订购bool升序</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

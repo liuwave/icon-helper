@@ -1,6 +1,6 @@
 ---
 
-title: camera off(相机已关闭) ICON转svg、png下载
+title:  camera off(相机已关闭) ICON转svg、png下载
 name: camera-off
 zhTips: 相机已关闭
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-off  <small style="font-size: 60%;font-weight: 100">相机已关闭</small>
+# camera off  <small style="font-size: 60%;font-weight: 100">相机已关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

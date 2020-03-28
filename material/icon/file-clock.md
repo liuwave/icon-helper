@@ -1,6 +1,6 @@
 ---
 
-title: file clock(文件时钟) ICON转svg、png下载
+title:  file clock(文件时钟) ICON转svg、png下载
 name: file-clock
 zhTips: 文件时钟
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-clock  <small style="font-size: 60%;font-weight: 100">文件时钟</small>
+# file clock  <small style="font-size: 60%;font-weight: 100">文件时钟</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

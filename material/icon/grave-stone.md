@@ -1,6 +1,6 @@
 ---
 
-title: grave stone(墓碑) ICON转svg、png下载
+title:  grave stone(墓碑) ICON转svg、png下载
 name: grave-stone
 zhTips: 墓碑,墓石,公墓,墓地
 tags: ["holiday"]
@@ -8,11 +8,13 @@ search: headstone,tombstone,cemetery,graveyard
 
 ---
 
-# grave-stone  <small style="font-size: 60%;font-weight: 100">墓碑</small>
+# grave stone  <small style="font-size: 60%;font-weight: 100">墓碑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

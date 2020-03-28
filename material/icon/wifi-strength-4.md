@@ -1,6 +1,6 @@
 ---
 
-title: wifi strength 4(wifi强度4) ICON转svg、png下载
+title:  wifi strength 4(wifi强度4) ICON转svg、png下载
 name: wifi-strength-4
 zhTips: wifi强度4
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# wifi-strength-4  <small style="font-size: 60%;font-weight: 100">wifi强度4</small>
+# wifi strength 4  <small style="font-size: 60%;font-weight: 100">wifi强度4</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

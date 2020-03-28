@@ -1,8 +1,8 @@
 ---
 
-title: anchor(锚点) ICON转svg、png下载
+title:  anchor(锚点) ICON转svg、png下载
 name: anchor
-zhTips: 锚点
+zhTips: 锚点,船锚,泊位,船,码头,嵌入式,链接,海事,系泊,安全
 tags: ["transportation-water"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">锚点</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/anchor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/anchor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">锚点</span><span class="badge-primary badge">船锚</span><span class="badge-primary badge">泊位</span><span class="badge-primary badge">船</span><span class="badge-primary badge">码头</span><span class="badge-primary badge">嵌入式</span><span class="badge-primary badge">链接</span><span class="badge-primary badge">海事</span><span class="badge-primary badge">系泊</span><span class="badge-primary badge">安全</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/anchor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/anchor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">船锚，表示停泊的位置，网页中通常表示链接锚点的位置。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-anchor mdi-48px"></i>
   <i class="mdi mdi-anchor mdi-36px"></i>

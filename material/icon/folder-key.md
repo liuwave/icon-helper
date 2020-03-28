@@ -1,6 +1,6 @@
 ---
 
-title: folder key(文件夹密钥) ICON转svg、png下载
+title:  folder key(文件夹密钥) ICON转svg、png下载
 name: folder-key
 zhTips: 文件夹密钥
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# folder-key  <small style="font-size: 60%;font-weight: 100">文件夹密钥</small>
+# folder key  <small style="font-size: 60%;font-weight: 100">文件夹密钥</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

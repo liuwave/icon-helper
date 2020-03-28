@@ -1,6 +1,6 @@
 ---
 
-title: plus circle multiple(加圈倍数) ICON转svg、png下载
+title:  plus circle multiple(加圈倍数) ICON转svg、png下载
 name: plus-circle-multiple
 zhTips: 加圈倍数,硬币加
 tags: []
@@ -8,11 +8,13 @@ search: coins-plus
 
 ---
 
-# plus-circle-multiple  <small style="font-size: 60%;font-weight: 100">加圈倍数</small>
+# plus circle multiple  <small style="font-size: 60%;font-weight: 100">加圈倍数</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

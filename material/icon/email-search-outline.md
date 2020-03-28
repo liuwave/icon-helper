@@ -1,6 +1,6 @@
 ---
 
-title: email search outline(电子邮件搜索轮廓) ICON转svg、png下载
+title:  email search outline(电子邮件搜索轮廓) ICON转svg、png下载
 name: email-search-outline
 zhTips: 电子邮件搜索轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# email-search-outline  <small style="font-size: 60%;font-weight: 100">电子邮件搜索轮廓</small>
+# email search outline  <small style="font-size: 60%;font-weight: 100">电子邮件搜索轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

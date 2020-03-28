@@ -1,8 +1,8 @@
 ---
 
-title: brain(大脑) ICON转svg、png下载
+title:  brain(大脑) ICON转svg、png下载
 name: brain
-zhTips: 大脑
+zhTips: 大脑,脑,小脑,灰质,智力,长延髓,头脑,面条,机智
 tags: ["medical-hospital"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Richins</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">大脑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/brain.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/brain.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">大脑</span><span class="badge-primary badge">脑</span><span class="badge-primary badge">小脑</span><span class="badge-primary badge">灰质</span><span class="badge-primary badge">智力</span><span class="badge-primary badge">长延髓</span><span class="badge-primary badge">头脑</span><span class="badge-primary badge">面条</span><span class="badge-primary badge">机智</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/brain.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/brain.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">大脑，通常用于表示神经科。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-brain mdi-48px"></i>
   <i class="mdi mdi-brain mdi-36px"></i>

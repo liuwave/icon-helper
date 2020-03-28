@@ -1,6 +1,6 @@
 ---
 
-title: fuel(燃料) ICON转svg、png下载
+title:  fuel(燃料) ICON转svg、png下载
 name: fuel
 zhTips: 燃料,汽油
 tags: ["automotive"]
@@ -13,6 +13,8 @@ search: petrol,gasoline
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

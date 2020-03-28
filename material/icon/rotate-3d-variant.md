@@ -1,6 +1,6 @@
 ---
 
-title: rotate 3d variant(旋转3d口音) ICON转svg、png下载
+title:  rotate 3d variant(旋转3d口音) ICON转svg、png下载
 name: rotate-3d-variant
 zhTips: 旋转3d口音,3d旋转
 tags: []
@@ -8,11 +8,13 @@ search: 3d-rotation
 
 ---
 
-# rotate-3d-variant  <small style="font-size: 60%;font-weight: 100">旋转3d口音</small>
+# rotate 3d variant  <small style="font-size: 60%;font-weight: 100">旋转3d口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

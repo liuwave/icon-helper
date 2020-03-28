@@ -1,6 +1,6 @@
 ---
 
-title: account group(帐户组) ICON转svg、png下载
+title:  account group(帐户组) ICON转svg、png下载
 name: account-group
 zhTips: 帐户组,用户组,人员组
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-group,users-group,person-group,people-group,accounts-group
 
 ---
 
-# account-group  <small style="font-size: 60%;font-weight: 100">帐户组</small>
+# account group  <small style="font-size: 60%;font-weight: 100">帐户组</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

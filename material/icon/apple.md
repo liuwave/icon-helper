@@ -1,8 +1,8 @@
 ---
 
-title: apple(苹果) ICON转svg、png下载
+title:  apple(苹果) ICON转svg、png下载
 name: apple
-zhTips: 苹果
+zhTips: 苹果,Apple,水果,ios,mac,操作系统,os,osx
 tags: ["brand-logo"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">苹果</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/apple.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/apple.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">苹果</span><span class="badge-primary badge">Apple</span><span class="badge-primary badge">水果</span><span class="badge-primary badge">ios</span><span class="badge-primary badge">mac</span><span class="badge-primary badge">操作系统</span><span class="badge-primary badge">os</span><span class="badge-primary badge">osx</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/apple.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/apple.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Apple是生产一家著名的电脑、手机等电子产品的美国高科技企业，总部位于加利福尼亚州。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-apple mdi-48px"></i>
   <i class="mdi mdi-apple mdi-36px"></i>

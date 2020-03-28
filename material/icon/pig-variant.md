@@ -1,6 +1,6 @@
 ---
 
-title: pig variant(口音颜料) ICON转svg、png下载
+title:  pig variant(口音颜料) ICON转svg、png下载
 name: pig-variant
 zhTips: 口音颜料
 tags: ["animal"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pig-variant  <small style="font-size: 60%;font-weight: 100">口音颜料</small>
+# pig variant  <small style="font-size: 60%;font-weight: 100">口音颜料</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

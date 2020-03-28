@@ -1,6 +1,6 @@
 ---
 
-title: cash register(收银机) ICON转svg、png下载
+title:  cash register(收银机) ICON转svg、png下载
 name: cash-register
 zhTips: 收银机,退货
 tags: ["shopping"]
@@ -8,11 +8,13 @@ search: till
 
 ---
 
-# cash-register  <small style="font-size: 60%;font-weight: 100">收银机</small>
+# cash register  <small style="font-size: 60%;font-weight: 100">收银机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

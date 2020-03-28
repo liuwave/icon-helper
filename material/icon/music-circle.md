@@ -1,6 +1,6 @@
 ---
 
-title: music circle(音乐圈) ICON转svg、png下载
+title:  music circle(音乐圈) ICON转svg、png下载
 name: music-circle
 zhTips: 音乐圈,笔记圈
 tags: ["audio","music"]
@@ -8,11 +8,13 @@ search: note-circle
 
 ---
 
-# music-circle  <small style="font-size: 60%;font-weight: 100">音乐圈</small>
+# music circle  <small style="font-size: 60%;font-weight: 100">音乐圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

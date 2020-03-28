@@ -1,6 +1,6 @@
 ---
 
-title: wall sconce flat variant(壁挂式平口音) ICON转svg、png下载
+title:  wall sconce flat variant(壁挂式平口音) ICON转svg、png下载
 name: wall-sconce-flat-variant
 zhTips: 壁挂式平口音
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# wall-sconce-flat-variant  <small style="font-size: 60%;font-weight: 100">壁挂式平口音</small>
+# wall sconce flat variant  <small style="font-size: 60%;font-weight: 100">壁挂式平口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: stadium variant(体育馆变体) ICON转svg、png下载
+title:  stadium variant(体育馆变体) ICON转svg、png下载
 name: stadium-variant
 zhTips: 体育馆变体,竞技场
 tags: ["places","sport"]
@@ -8,11 +8,13 @@ search: arena
 
 ---
 
-# stadium-variant  <small style="font-size: 60%;font-weight: 100">体育馆变体</small>
+# stadium variant  <small style="font-size: 60%;font-weight: 100">体育馆变体</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

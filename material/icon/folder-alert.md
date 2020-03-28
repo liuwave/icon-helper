@@ -1,6 +1,6 @@
 ---
 
-title: folder alert(文件夹警报) ICON转svg、png下载
+title:  folder alert(文件夹警报) ICON转svg、png下载
 name: folder-alert
 zhTips: 文件夹警报,文件夹警告
 tags: ["files-folders","alert-error","alert-error","alert-error"]
@@ -8,11 +8,13 @@ search: folder-warning
 
 ---
 
-# folder-alert  <small style="font-size: 60%;font-weight: 100">文件夹警报</small>
+# folder alert  <small style="font-size: 60%;font-weight: 100">文件夹警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

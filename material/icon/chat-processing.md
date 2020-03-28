@@ -1,6 +1,6 @@
 ---
 
-title: chat processing(聊天处理) ICON转svg、png下载
+title:  chat processing(聊天处理) ICON转svg、png下载
 name: chat-processing
 zhTips: 聊天处理,聊天输入
 tags: []
@@ -8,11 +8,13 @@ search: chat-typing
 
 ---
 
-# chat-processing  <small style="font-size: 60%;font-weight: 100">聊天处理</small>
+# chat processing  <small style="font-size: 60%;font-weight: 100">聊天处理</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

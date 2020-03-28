@@ -1,6 +1,6 @@
 ---
 
-title: keyboard f9(键盘F9) ICON转svg、png下载
+title:  keyboard f9(键盘F9) ICON转svg、png下载
 name: keyboard-f9
 zhTips: 键盘F9
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# keyboard-f9  <small style="font-size: 60%;font-weight: 100">键盘F9</small>
+# keyboard f9  <small style="font-size: 60%;font-weight: 100">键盘F9</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

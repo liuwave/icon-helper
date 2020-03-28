@@ -1,6 +1,6 @@
 ---
 
-title: layers plus(图层加) ICON转svg、png下载
+title:  layers plus(图层加) ICON转svg、png下载
 name: layers-plus
 zhTips: 图层加
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# layers-plus  <small style="font-size: 60%;font-weight: 100">图层加</small>
+# layers plus  <small style="font-size: 60%;font-weight: 100">图层加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

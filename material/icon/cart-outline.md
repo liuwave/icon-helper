@@ -1,6 +1,6 @@
 ---
 
-title: cart outline(购物车轮廓) ICON转svg、png下载
+title:  cart outline(购物车轮廓) ICON转svg、png下载
 name: cart-outline
 zhTips: 购物车轮廓,购物车购物
 tags: ["shopping"]
@@ -8,11 +8,13 @@ search: trolley-outline,shopping-cart-outline
 
 ---
 
-# cart-outline  <small style="font-size: 60%;font-weight: 100">购物车轮廓</small>
+# cart outline  <small style="font-size: 60%;font-weight: 100">购物车轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

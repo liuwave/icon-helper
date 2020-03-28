@@ -1,6 +1,6 @@
 ---
 
-title: circle double(双圈) ICON转svg、png下载
+title:  circle double(双圈) ICON转svg、png下载
 name: circle-double
 zhTips: 双圈
 tags: ["shape"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# circle-double  <small style="font-size: 60%;font-weight: 100">双圈</small>
+# circle double  <small style="font-size: 60%;font-weight: 100">双圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: theater(剧院) ICON转svg、png下载
+title:  theater(剧院) ICON转svg、png下载
 name: theater
 zhTips: 剧院,电影院
 tags: ["places"]
@@ -13,6 +13,8 @@ search: cinema,theatre
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

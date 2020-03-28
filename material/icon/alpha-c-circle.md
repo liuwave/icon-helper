@@ -1,6 +1,6 @@
 ---
 
-title: alpha c circle(字母c圈) ICON转svg、png下载
+title:  alpha c circle(字母c圈) ICON转svg、png下载
 name: alpha-c-circle
 zhTips: 字母c圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-c-circle,letter-c-circle
 
 ---
 
-# alpha-c-circle  <small style="font-size: 60%;font-weight: 100">字母c圈</small>
+# alpha c circle  <small style="font-size: 60%;font-weight: 100">字母c圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

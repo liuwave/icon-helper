@@ -1,8 +1,8 @@
 ---
 
-title: blender(搅拌器) ICON转svg、png下载
+title:  blender(搅拌器) ICON转svg、png下载
 name: blender
-zhTips: 搅拌器
+zhTips: 搅拌器,搅拌机,鸡尾酒,奶昔,果泥
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">搅拌器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/blender.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/blender.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">搅拌器</span><span class="badge-primary badge">搅拌机</span><span class="badge-primary badge">鸡尾酒</span><span class="badge-primary badge">奶昔</span><span class="badge-primary badge">果泥</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/blender.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/blender.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">搅拌机，可以表示豆浆机。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-blender mdi-48px"></i>
   <i class="mdi mdi-blender mdi-36px"></i>

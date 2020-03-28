@@ -1,6 +1,6 @@
 ---
 
-title: format letter case lower(小写字母格式) ICON转svg、png下载
+title:  format letter case lower(小写字母格式) ICON转svg、png下载
 name: format-letter-case-lower
 zhTips: 小写字母格式,小写格式
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: format-lowercase
 
 ---
 
-# format-letter-case-lower  <small style="font-size: 60%;font-weight: 100">小写字母格式</small>
+# format letter case lower  <small style="font-size: 60%;font-weight: 100">小写字母格式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

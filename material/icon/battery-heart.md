@@ -1,6 +1,6 @@
 ---
 
-title: battery heart(电池心) ICON转svg、png下载
+title:  battery heart(电池心) ICON转svg、png下载
 name: battery-heart
 zhTips: 电池心
 tags: ["battery"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# battery-heart  <small style="font-size: 60%;font-weight: 100">电池心</small>
+# battery heart  <small style="font-size: 60%;font-weight: 100">电池心</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: collapse all outline(折叠所有轮廓) ICON转svg、png下载
+title:  collapse all outline(折叠所有轮廓) ICON转svg、png下载
 name: collapse-all-outline
 zhTips: 折叠所有轮廓,减去动画轮廓
 tags: []
@@ -8,11 +8,13 @@ search: animation-minus-outline
 
 ---
 
-# collapse-all-outline  <small style="font-size: 60%;font-weight: 100">折叠所有轮廓</small>
+# collapse all outline  <small style="font-size: 60%;font-weight: 100">折叠所有轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

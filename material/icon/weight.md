@@ -1,8 +1,8 @@
 ---
 
-title: weight(重量) ICON转svg、png下载
+title:  weight(重量) ICON转svg、png下载
 name: weight
-zhTips: 重量
+zhTips: 重量,体重黑,体重,健康,测量,规模
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">重量</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/weight.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/weight.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">重量</span><span class="badge-primary badge">体重黑</span><span class="badge-primary badge">体重</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">测量</span><span class="badge-primary badge">规模</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/weight.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/weight.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">测量体重的仪器。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-weight mdi-48px"></i>
   <i class="mdi mdi-weight mdi-36px"></i>

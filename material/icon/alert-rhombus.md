@@ -1,6 +1,6 @@
 ---
 
-title: alert rhombus(机敏菱形) ICON转svg、png下载
+title:  alert rhombus(机敏菱形) ICON转svg、png下载
 name: alert-rhombus
 zhTips: 机敏菱形
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# alert-rhombus  <small style="font-size: 60%;font-weight: 100">机敏菱形</small>
+# alert rhombus  <small style="font-size: 60%;font-weight: 100">机敏菱形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

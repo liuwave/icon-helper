@@ -1,6 +1,6 @@
 ---
 
-title: file check(文件检查) ICON转svg、png下载
+title:  file check(文件检查) ICON转svg、png下载
 name: file-check
 zhTips: 文件检查,文件打勾
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-tick
 
 ---
 
-# file-check  <small style="font-size: 60%;font-weight: 100">文件检查</small>
+# file check  <small style="font-size: 60%;font-weight: 100">文件检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

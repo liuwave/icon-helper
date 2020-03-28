@@ -1,6 +1,6 @@
 ---
 
-title: slope uphill(上坡) ICON转svg、png下载
+title:  slope uphill(上坡) ICON转svg、png下载
 name: slope-uphill
 zhTips: 上坡
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# slope-uphill  <small style="font-size: 60%;font-weight: 100">上坡</small>
+# slope uphill  <small style="font-size: 60%;font-weight: 100">上坡</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

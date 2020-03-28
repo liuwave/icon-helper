@@ -1,6 +1,6 @@
 ---
 
-title: baby face outline(娃娃脸轮廓) ICON转svg、png下载
+title:  baby face outline(娃娃脸轮廓) ICON转svg、png下载
 name: baby-face-outline
 zhTips: 娃娃脸轮廓
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# baby-face-outline  <small style="font-size: 60%;font-weight: 100">娃娃脸轮廓</small>
+# baby face outline  <small style="font-size: 60%;font-weight: 100">娃娃脸轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: backspace outline(退格轮廓) ICON转svg、png下载
+title:  backspace outline(退格轮廓) ICON转svg、png下载
 name: backspace-outline
 zhTips: 退格轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# backspace-outline  <small style="font-size: 60%;font-weight: 100">退格轮廓</small>
+# backspace outline  <small style="font-size: 60%;font-weight: 100">退格轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

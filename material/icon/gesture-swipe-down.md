@@ -1,6 +1,6 @@
 ---
 
-title: gesture swipe down(手势向下滑动) ICON转svg、png下载
+title:  gesture swipe down(手势向下滑动) ICON转svg、png下载
 name: gesture-swipe-down
 zhTips: 手势向下滑动
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# gesture-swipe-down  <small style="font-size: 60%;font-weight: 100">手势向下滑动</small>
+# gesture swipe down  <small style="font-size: 60%;font-weight: 100">手势向下滑动</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

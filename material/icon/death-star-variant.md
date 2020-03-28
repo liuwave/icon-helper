@@ -1,6 +1,6 @@
 ---
 
-title: death star variant(死星重音) ICON转svg、png下载
+title:  death star variant(死星重音) ICON转svg、png下载
 name: death-star-variant
 zhTips: 死星重音
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# death-star-variant  <small style="font-size: 60%;font-weight: 100">死星重音</small>
+# death star variant  <small style="font-size: 60%;font-weight: 100">死星重音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: close octagon(关闭八角形) ICON转svg、png下载
+title:  close octagon(关闭八角形) ICON转svg、png下载
 name: close-octagon
 zhTips: 关闭八角形,危险,乘以八边形
 tags: []
@@ -8,11 +8,13 @@ search: dangerous,multiply-octagon
 
 ---
 
-# close-octagon  <small style="font-size: 60%;font-weight: 100">关闭八角形</small>
+# close octagon  <small style="font-size: 60%;font-weight: 100">关闭八角形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

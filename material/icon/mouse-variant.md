@@ -1,6 +1,6 @@
 ---
 
-title: mouse variant(鼠标口音) ICON转svg、png下载
+title:  mouse variant(鼠标口音) ICON转svg、png下载
 name: mouse-variant
 zhTips: 鼠标口音
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# mouse-variant  <small style="font-size: 60%;font-weight: 100">鼠标口音</small>
+# mouse variant  <small style="font-size: 60%;font-weight: 100">鼠标口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: home lock open(打开锁首页) ICON转svg、png下载
+title:  home lock open(打开锁首页) ICON转svg、png下载
 name: home-lock-open
 zhTips: 打开锁首页
 tags: ["home-automation","lock"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# home-lock-open  <small style="font-size: 60%;font-weight: 100">打开锁首页</small>
+# home lock open  <small style="font-size: 60%;font-weight: 100">打开锁首页</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

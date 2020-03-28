@@ -1,6 +1,6 @@
 ---
 
-title: monitor off(显示器关闭) ICON转svg、png下载
+title:  monitor off(显示器关闭) ICON转svg、png下载
 name: monitor-off
 zhTips: 显示器关闭
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# monitor-off  <small style="font-size: 60%;font-weight: 100">显示器关闭</small>
+# monitor off  <small style="font-size: 60%;font-weight: 100">显示器关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

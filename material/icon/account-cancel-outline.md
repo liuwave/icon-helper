@@ -1,6 +1,6 @@
 ---
 
-title: account cancel outline(帐户取消轮廓) ICON转svg、png下载
+title:  account cancel outline(帐户取消轮廓) ICON转svg、png下载
 name: account-cancel-outline
 zhTips: 帐户取消轮廓,用户取消轮廓,用户阻止轮廓,人员取消轮廓,人员阻止轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-cancel-outline,user-block-outline,person-cancel-outline,person-bloc
 
 ---
 
-# account-cancel-outline  <small style="font-size: 60%;font-weight: 100">帐户取消轮廓</small>
+# account cancel outline  <small style="font-size: 60%;font-weight: 100">帐户取消轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

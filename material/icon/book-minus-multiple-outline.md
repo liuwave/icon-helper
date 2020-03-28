@@ -1,6 +1,6 @@
 ---
 
-title: book minus multiple outline(减去多个轮廓的书) ICON转svg、png下载
+title:  book minus multiple outline(减去多个轮廓的书) ICON转svg、png下载
 name: book-minus-multiple-outline
 zhTips: 减去多个轮廓的书
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# book-minus-multiple-outline  <small style="font-size: 60%;font-weight: 100">减去多个轮廓的书</small>
+# book minus multiple outline  <small style="font-size: 60%;font-weight: 100">减去多个轮廓的书</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

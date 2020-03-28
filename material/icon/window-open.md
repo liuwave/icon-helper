@@ -1,6 +1,6 @@
 ---
 
-title: window open(打开窗口) ICON转svg、png下载
+title:  window open(打开窗口) ICON转svg、png下载
 name: window-open
 zhTips: 打开窗口
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# window-open  <small style="font-size: 60%;font-weight: 100">打开窗口</small>
+# window open  <small style="font-size: 60%;font-weight: 100">打开窗口</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

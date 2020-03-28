@@ -1,6 +1,6 @@
 ---
 
-title: ski water(滑水) ICON转svg、png下载
+title:  ski water(滑水) ICON转svg、png下载
 name: ski-water
 zhTips: 滑水
 tags: ["sport"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# ski-water  <small style="font-size: 60%;font-weight: 100">滑水</small>
+# ski water  <small style="font-size: 60%;font-weight: 100">滑水</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

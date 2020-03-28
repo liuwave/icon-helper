@@ -1,6 +1,6 @@
 ---
 
-title: domain remove(域删除) ICON转svg、png下载
+title:  domain remove(域删除) ICON转svg、png下载
 name: domain-remove
 zhTips: 域删除
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# domain-remove  <small style="font-size: 60%;font-weight: 100">域删除</small>
+# domain remove  <small style="font-size: 60%;font-weight: 100">域删除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

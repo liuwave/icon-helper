@@ -1,6 +1,6 @@
 ---
 
-title: play box multiple(多箱播放) ICON转svg、png下载
+title:  play box multiple(多箱播放) ICON转svg、png下载
 name: play-box-multiple
 zhTips: 多箱播放
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# play-box-multiple  <small style="font-size: 60%;font-weight: 100">多箱播放</small>
+# play box multiple  <small style="font-size: 60%;font-weight: 100">多箱播放</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

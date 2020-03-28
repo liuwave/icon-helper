@@ -1,8 +1,8 @@
 ---
 
-title: gitlab(gitlab) ICON转svg、png下载
+title:  gitlab(gitlab) ICON转svg、png下载
 name: gitlab
-zhTips: gitlab
+zhTips: gitlab,Axosoft
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">gitlab</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/gitlab.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/gitlab.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">gitlab</span><span class="badge-primary badge">Axosoft</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/gitlab.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/gitlab.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">GitLab是一个完整的DevOps平台，提供项目计划。源码管理到CI/CD、监视等一系列功能。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-gitlab mdi-48px"></i>
   <i class="mdi mdi-gitlab mdi-36px"></i>

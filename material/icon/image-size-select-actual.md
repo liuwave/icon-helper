@@ -1,6 +1,6 @@
 ---
 
-title: image size select actual(图像大小选择实际) ICON转svg、png下载
+title:  image size select actual(图像大小选择实际) ICON转svg、png下载
 name: image-size-select-actual
 zhTips: 图像大小选择实际
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# image-size-select-actual  <small style="font-size: 60%;font-weight: 100">图像大小选择实际</small>
+# image size select actual  <small style="font-size: 60%;font-weight: 100">图像大小选择实际</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

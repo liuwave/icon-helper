@@ -1,8 +1,8 @@
 ---
 
-title: exclamation(感叹号) ICON转svg、png下载
+title:  exclamation(感叹号) ICON转svg、png下载
 name: exclamation
-zhTips: 感叹号,析因
+zhTips: 感叹号,析因,叹号,警报,危险,错误,重要,通知,问题,警告
 tags: ["math"]
 search: factorial
 
@@ -13,6 +13,8 @@ search: factorial
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">factorial</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">感叹号</span><span class="badge-primary badge">析因</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/exclamation.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/exclamation.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">factorial</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">感叹号</span><span class="badge-primary badge">析因</span><span class="badge-primary badge">叹号</span><span class="badge-primary badge">警报</span><span class="badge-primary badge">危险</span><span class="badge-primary badge">错误</span><span class="badge-primary badge">重要</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">问题</span><span class="badge-primary badge">警告</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/exclamation.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/exclamation.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">感叹号，表示惊吓，提示。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-exclamation mdi-48px"></i>
   <i class="mdi mdi-exclamation mdi-36px"></i>

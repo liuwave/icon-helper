@@ -1,6 +1,6 @@
 ---
 
-title: distribute vertical top(分配垂直顶部) ICON转svg、png下载
+title:  distribute vertical top(分配垂直顶部) ICON转svg、png下载
 name: distribute-vertical-top
 zhTips: 分配垂直顶部
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# distribute-vertical-top  <small style="font-size: 60%;font-weight: 100">分配垂直顶部</small>
+# distribute vertical top  <small style="font-size: 60%;font-weight: 100">分配垂直顶部</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

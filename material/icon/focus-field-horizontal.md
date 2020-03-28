@@ -1,6 +1,6 @@
 ---
 
-title: focus field horizontal(焦点水平) ICON转svg、png下载
+title:  focus field horizontal(焦点水平) ICON转svg、png下载
 name: focus-field-horizontal
 zhTips: 焦点水平
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# focus-field-horizontal  <small style="font-size: 60%;font-weight: 100">焦点水平</small>
+# focus field horizontal  <small style="font-size: 60%;font-weight: 100">焦点水平</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

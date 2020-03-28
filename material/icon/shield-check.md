@@ -1,6 +1,6 @@
 ---
 
-title: shield check(屏蔽检查) ICON转svg、png下载
+title:  shield check(屏蔽检查) ICON转svg、png下载
 name: shield-check
 zhTips: 屏蔽检查,用户验证,屏蔽刻度,已验证
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: verified-user,shield-tick,verified
 
 ---
 
-# shield-check  <small style="font-size: 60%;font-weight: 100">屏蔽检查</small>
+# shield check  <small style="font-size: 60%;font-weight: 100">屏蔽检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

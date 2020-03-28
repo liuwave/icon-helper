@@ -1,6 +1,6 @@
 ---
 
-title: chart scatter plot hexbin(图表散点图混合格) ICON转svg、png下载
+title:  chart scatter plot hexbin(图表散点图混合格) ICON转svg、png下载
 name: chart-scatter-plot-hexbin
 zhTips: 图表散点图混合格
 tags: ["math"]
@@ -8,11 +8,13 @@ search: chart-scatterplot-hexbin
 
 ---
 
-# chart-scatter-plot-hexbin  <small style="font-size: 60%;font-weight: 100">图表散点图混合格</small>
+# chart scatter plot hexbin  <small style="font-size: 60%;font-weight: 100">图表散点图混合格</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

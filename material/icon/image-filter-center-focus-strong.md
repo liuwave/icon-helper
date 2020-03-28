@@ -1,6 +1,6 @@
 ---
 
-title: image filter center focus strong(图像滤镜中心聚焦强) ICON转svg、png下载
+title:  image filter center focus strong(图像滤镜中心聚焦强) ICON转svg、png下载
 name: image-filter-center-focus-strong
 zhTips: 图像滤镜中心聚焦强
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# image-filter-center-focus-strong  <small style="font-size: 60%;font-weight: 100">图像滤镜中心聚焦强</small>
+# image filter center focus strong  <small style="font-size: 60%;font-weight: 100">图像滤镜中心聚焦强</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

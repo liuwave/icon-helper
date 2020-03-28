@@ -1,8 +1,8 @@
 ---
 
-title: odnoklassniki(odnoklassniki) ICON转svg、png下载
+title:  odnoklassniki(odnoklassniki) ICON转svg、png下载
 name: odnoklassniki
-zhTips: odnoklassniki,俄克拉荷马州
+zhTips: odnoklassniki,俄克拉荷马州,一个同学
 tags: ["brand-logo"]
 search: ok-ru
 
@@ -13,6 +13,8 @@ search: ok-ru
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">ok-ru</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">odnoklassniki</span><span class="badge-primary badge">俄克拉荷马州</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/odnoklassniki.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/odnoklassniki.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">ok-ru</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">odnoklassniki</span><span class="badge-primary badge">俄克拉荷马州</span><span class="badge-primary badge">一个同学</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/odnoklassniki.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/odnoklassniki.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">一个同学是俄罗斯领先的社交网站，一个同学、老朋友的社交网站。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-odnoklassniki mdi-48px"></i>
   <i class="mdi mdi-odnoklassniki mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: solar panel(太阳能板) ICON转svg、png下载
+title:  solar panel(太阳能板) ICON转svg、png下载
 name: solar-panel
 zhTips: 太阳能板
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# solar-panel  <small style="font-size: 60%;font-weight: 100">太阳能板</small>
+# solar panel  <small style="font-size: 60%;font-weight: 100">太阳能板</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

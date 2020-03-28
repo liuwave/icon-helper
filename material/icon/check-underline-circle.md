@@ -1,6 +1,6 @@
 ---
 
-title: check underline circle(检查下划线圆圈) ICON转svg、png下载
+title:  check underline circle(检查下划线圆圈) ICON转svg、png下载
 name: check-underline-circle
 zhTips: 检查下划线圆圈
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# check-underline-circle  <small style="font-size: 60%;font-weight: 100">检查下划线圆圈</small>
+# check underline circle  <small style="font-size: 60%;font-weight: 100">检查下划线圆圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

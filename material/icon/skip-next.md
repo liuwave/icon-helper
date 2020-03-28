@@ -1,6 +1,6 @@
 ---
 
-title: skip next(跳过下一个) ICON转svg、png下载
+title:  skip next(跳过下一个) ICON转svg、png下载
 name: skip-next
 zhTips: 跳过下一个
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# skip-next  <small style="font-size: 60%;font-weight: 100">跳过下一个</small>
+# skip next  <small style="font-size: 60%;font-weight: 100">跳过下一个</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

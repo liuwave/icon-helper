@@ -1,6 +1,6 @@
 ---
 
-title: restart(重新启动) ICON转svg、png下载
+title:  restart(重新启动) ICON转svg、png下载
 name: restart
 zhTips: 重新启动
 tags: []
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

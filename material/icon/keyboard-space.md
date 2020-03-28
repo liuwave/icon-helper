@@ -1,6 +1,6 @@
 ---
 
-title: keyboard space(键盘空间) ICON转svg、png下载
+title:  keyboard space(键盘空间) ICON转svg、png下载
 name: keyboard-space
 zhTips: 键盘空间
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# keyboard-space  <small style="font-size: 60%;font-weight: 100">键盘空间</small>
+# keyboard space  <small style="font-size: 60%;font-weight: 100">键盘空间</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

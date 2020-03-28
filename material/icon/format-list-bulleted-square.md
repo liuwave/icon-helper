@@ -1,6 +1,6 @@
 ---
 
-title: format list bulleted square(格式列表项目符号正方形) ICON转svg、png下载
+title:  format list bulleted square(格式列表项目符号正方形) ICON转svg、png下载
 name: format-list-bulleted-square
 zhTips: 格式列表项目符号正方形
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-list-bulleted-square  <small style="font-size: 60%;font-weight: 100">格式列表项目符号正方形</small>
+# format list bulleted square  <small style="font-size: 60%;font-weight: 100">格式列表项目符号正方形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

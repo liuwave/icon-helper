@@ -1,6 +1,6 @@
 ---
 
-title: fridge top(冰箱顶部) ICON转svg、png下载
+title:  fridge top(冰箱顶部) ICON转svg、png下载
 name: fridge-top
 zhTips: 冰箱顶部,冰箱底部
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: fridge-filled-bottom,refrigerator-top
 
 ---
 
-# fridge-top  <small style="font-size: 60%;font-weight: 100">冰箱顶部</small>
+# fridge top  <small style="font-size: 60%;font-weight: 100">冰箱顶部</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

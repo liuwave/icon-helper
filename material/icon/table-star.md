@@ -1,6 +1,6 @@
 ---
 
-title: table star(餐桌明星) ICON转svg、png下载
+title:  table star(餐桌明星) ICON转svg、png下载
 name: table-star
 zhTips: 餐桌明星,餐桌最爱
 tags: []
@@ -8,11 +8,13 @@ search: table-favorite
 
 ---
 
-# table-star  <small style="font-size: 60%;font-weight: 100">餐桌明星</small>
+# table star  <small style="font-size: 60%;font-weight: 100">餐桌明星</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

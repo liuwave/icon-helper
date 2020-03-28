@@ -1,6 +1,6 @@
 ---
 
-title: abjad hebrew(abjad希伯来语) ICON转svg、png下载
+title:  abjad hebrew(abjad希伯来语) ICON转svg、png下载
 name: abjad-hebrew
 zhTips: abjad希伯来语,书写系统希伯来语
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-hebrew
 
 ---
 
-# abjad-hebrew  <small style="font-size: 60%;font-weight: 100">abjad希伯来语</small>
+# abjad hebrew  <small style="font-size: 60%;font-weight: 100">abjad希伯来语</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: card account details outline(卡帐户详细信息轮廓) ICON转svg、png下载
+title:  card account details outline(卡帐户详细信息轮廓) ICON转svg、png下载
 name: card-account-details-outline
 zhTips: 卡帐户详细信息轮廓,识别卡概述,用户卡概述轮廓,人卡详细说明轮廓,驾驶执照轮廓,名片轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: identification-card-outline,user-card-details-outline,id-card-outline,pe
 
 ---
 
-# card-account-details-outline  <small style="font-size: 60%;font-weight: 100">卡帐户详细信息轮廓</small>
+# card account details outline  <small style="font-size: 60%;font-weight: 100">卡帐户详细信息轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

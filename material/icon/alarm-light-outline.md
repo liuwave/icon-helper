@@ -1,6 +1,6 @@
 ---
 
-title: alarm light outline(警报灯轮廓) ICON转svg、png下载
+title:  alarm light outline(警报灯轮廓) ICON转svg、png下载
 name: alarm-light-outline
 zhTips: 警报灯轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# alarm-light-outline  <small style="font-size: 60%;font-weight: 100">警报灯轮廓</small>
+# alarm light outline  <small style="font-size: 60%;font-weight: 100">警报灯轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

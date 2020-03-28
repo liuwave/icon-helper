@@ -1,6 +1,6 @@
 ---
 
-title: gate arrow right(向右箭头) ICON转svg、png下载
+title:  gate arrow right(向右箭头) ICON转svg、png下载
 name: gate-arrow-right
 zhTips: 向右箭头
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# gate-arrow-right  <small style="font-size: 60%;font-weight: 100">向右箭头</small>
+# gate arrow right  <small style="font-size: 60%;font-weight: 100">向右箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

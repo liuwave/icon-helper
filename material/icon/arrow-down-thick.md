@@ -1,6 +1,6 @@
 ---
 
-title: arrow down thick(箭头向下较粗) ICON转svg、png下载
+title:  arrow down thick(箭头向下较粗) ICON转svg、png下载
 name: arrow-down-thick
 zhTips: 箭头向下较粗,箭头底部较粗
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-bottom-thick
 
 ---
 
-# arrow-down-thick  <small style="font-size: 60%;font-weight: 100">箭头向下较粗</small>
+# arrow down thick  <small style="font-size: 60%;font-weight: 100">箭头向下较粗</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: clipboard alert(剪贴板警报) ICON转svg、png下载
+title:  clipboard alert(剪贴板警报) ICON转svg、png下载
 name: clipboard-alert
 zhTips: 剪贴板警报,剪贴板警告,后期分配
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search: clipboard-warning,assignment-late
 
 ---
 
-# clipboard-alert  <small style="font-size: 60%;font-weight: 100">剪贴板警报</small>
+# clipboard alert  <small style="font-size: 60%;font-weight: 100">剪贴板警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

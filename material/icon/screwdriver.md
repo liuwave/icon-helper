@@ -1,8 +1,8 @@
 ---
 
-title: screwdriver(螺丝刀) ICON转svg、png下载
+title:  screwdriver(螺丝刀) ICON转svg、png下载
 name: screwdriver
-zhTips: 螺丝刀
+zhTips: 螺丝刀,管理员,修复,机械,维修,设置,工具
 tags: ["hardware-tools"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">螺丝刀</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/screwdriver.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/screwdriver.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">螺丝刀</span><span class="badge-primary badge">管理员</span><span class="badge-primary badge">修复</span><span class="badge-primary badge">机械</span><span class="badge-primary badge">维修</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">工具</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/screwdriver.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/screwdriver.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示修复，修补工具。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-screwdriver mdi-48px"></i>
   <i class="mdi mdi-screwdriver mdi-36px"></i>

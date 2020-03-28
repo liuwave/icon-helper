@@ -1,6 +1,6 @@
 ---
 
-title: exponent(指数) ICON转svg、png下载
+title:  exponent(指数) ICON转svg、png下载
 name: exponent
 zhTips: 指数,幂
 tags: ["math"]
@@ -13,6 +13,8 @@ search: power
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: transition masked(遮罩的过渡) ICON转svg、png下载
+title:  transition masked(遮罩的过渡) ICON转svg、png下载
 name: transition-masked
 zhTips: 遮罩的过渡
 tags: []
@@ -8,11 +8,13 @@ search: masked-transitions
 
 ---
 
-# transition-masked  <small style="font-size: 60%;font-weight: 100">遮罩的过渡</small>
+# transition masked  <small style="font-size: 60%;font-weight: 100">遮罩的过渡</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

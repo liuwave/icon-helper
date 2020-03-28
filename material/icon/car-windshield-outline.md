@@ -1,6 +1,6 @@
 ---
 
-title: car windshield outline(汽车挡风玻璃轮廓) ICON转svg、png下载
+title:  car windshield outline(汽车挡风玻璃轮廓) ICON转svg、png下载
 name: car-windshield-outline
 zhTips: 汽车挡风玻璃轮廓,汽车前玻璃轮廓
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search: car-front-glass-outline
 
 ---
 
-# car-windshield-outline  <small style="font-size: 60%;font-weight: 100">汽车挡风玻璃轮廓</small>
+# car windshield outline  <small style="font-size: 60%;font-weight: 100">汽车挡风玻璃轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

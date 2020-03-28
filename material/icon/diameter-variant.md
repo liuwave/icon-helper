@@ -1,6 +1,6 @@
 ---
 
-title: diameter variant(直径重音) ICON转svg、png下载
+title:  diameter variant(直径重音) ICON转svg、png下载
 name: diameter-variant
 zhTips: 直径重音,圆直径重音,球形直径重音
 tags: ["math"]
@@ -8,11 +8,13 @@ search: circle-diameter-variant,sphere-diameter-variant
 
 ---
 
-# diameter-variant  <small style="font-size: 60%;font-weight: 100">直径重音</small>
+# diameter variant  <small style="font-size: 60%;font-weight: 100">直径重音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

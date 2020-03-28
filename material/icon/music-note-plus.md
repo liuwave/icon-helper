@@ -1,6 +1,6 @@
 ---
 
-title: music note plus(加上音符) ICON转svg、png下载
+title:  music note plus(加上音符) ICON转svg、png下载
 name: music-note-plus
 zhTips: 加上音符
 tags: ["audio","music"]
@@ -8,11 +8,13 @@ search: music-note-add
 
 ---
 
-# music-note-plus  <small style="font-size: 60%;font-weight: 100">加上音符</small>
+# music note plus  <small style="font-size: 60%;font-weight: 100">加上音符</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

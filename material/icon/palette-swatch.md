@@ -1,6 +1,6 @@
 ---
 
-title: palette swatch(调色板色板) ICON转svg、png下载
+title:  palette swatch(调色板色板) ICON转svg、png下载
 name: palette-swatch
 zhTips: 调色板色板,样式
 tags: ["drawing-art","color"]
@@ -8,11 +8,13 @@ search: style
 
 ---
 
-# palette-swatch  <small style="font-size: 60%;font-weight: 100">调色板色板</small>
+# palette swatch  <small style="font-size: 60%;font-weight: 100">调色板色板</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

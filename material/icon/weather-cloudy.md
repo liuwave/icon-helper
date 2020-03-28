@@ -1,6 +1,6 @@
 ---
 
-title: weather cloudy(多云的天气) ICON转svg、png下载
+title:  weather cloudy(多云的天气) ICON转svg、png下载
 name: weather-cloudy
 zhTips: 多云的天气
 tags: ["weather","cloud"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# weather-cloudy  <small style="font-size: 60%;font-weight: 100">多云的天气</small>
+# weather cloudy  <small style="font-size: 60%;font-weight: 100">多云的天气</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

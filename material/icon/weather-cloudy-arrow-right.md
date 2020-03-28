@@ -1,6 +1,6 @@
 ---
 
-title: weather cloudy arrow right(天气向右多云箭头) ICON转svg、png下载
+title:  weather cloudy arrow right(天气向右多云箭头) ICON转svg、png下载
 name: weather-cloudy-arrow-right
 zhTips: 天气向右多云箭头
 tags: ["weather","cloud"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# weather-cloudy-arrow-right  <small style="font-size: 60%;font-weight: 100">天气向右多云箭头</small>
+# weather cloudy arrow right  <small style="font-size: 60%;font-weight: 100">天气向右多云箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

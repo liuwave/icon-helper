@@ -1,6 +1,6 @@
 ---
 
-title: bomb off(炸弹关闭) ICON转svg、png下载
+title:  bomb off(炸弹关闭) ICON转svg、png下载
 name: bomb-off
 zhTips: 炸弹关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bomb-off  <small style="font-size: 60%;font-weight: 100">炸弹关闭</small>
+# bomb off  <small style="font-size: 60%;font-weight: 100">炸弹关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

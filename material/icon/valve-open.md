@@ -1,6 +1,6 @@
 ---
 
-title: valve open(阀门打开) ICON转svg、png下载
+title:  valve open(阀门打开) ICON转svg、png下载
 name: valve-open
 zhTips: 阀门打开
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# valve-open  <small style="font-size: 60%;font-weight: 100">阀门打开</small>
+# valve open  <small style="font-size: 60%;font-weight: 100">阀门打开</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: link variant off(关闭链接重音) ICON转svg、png下载
+title:  link variant off(关闭链接重音) ICON转svg、png下载
 name: link-variant-off
 zhTips: 关闭链接重音
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# link-variant-off  <small style="font-size: 60%;font-weight: 100">关闭链接重音</small>
+# link variant off  <small style="font-size: 60%;font-weight: 100">关闭链接重音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

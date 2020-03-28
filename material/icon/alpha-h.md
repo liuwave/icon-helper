@@ -1,6 +1,6 @@
 ---
 
-title: alpha h(alpha h) ICON转svg、png下载
+title:  alpha h(alpha h) ICON转svg、png下载
 name: alpha-h
 zhTips: alpha h,字母h
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-h,letter-h
 
 ---
 
-# alpha-h  <small style="font-size: 60%;font-weight: 100">alpha h</small>
+# alpha h  <small style="font-size: 60%;font-weight: 100">alpha h</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

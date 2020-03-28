@@ -1,6 +1,6 @@
 ---
 
-title: format letter case upper(大写字母格式) ICON转svg、png下载
+title:  format letter case upper(大写字母格式) ICON转svg、png下载
 name: format-letter-case-upper
 zhTips: 大写字母格式,大写格式
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: format-uppercase
 
 ---
 
-# format-letter-case-upper  <small style="font-size: 60%;font-weight: 100">大写字母格式</small>
+# format letter case upper  <small style="font-size: 60%;font-weight: 100">大写字母格式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

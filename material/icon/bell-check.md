@@ -1,6 +1,6 @@
 ---
 
-title: bell check(响铃检查) ICON转svg、png下载
+title:  bell check(响铃检查) ICON转svg、png下载
 name: bell-check
 zhTips: 响铃检查
 tags: ["notification"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bell-check  <small style="font-size: 60%;font-weight: 100">响铃检查</small>
+# bell check  <small style="font-size: 60%;font-weight: 100">响铃检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

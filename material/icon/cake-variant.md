@@ -1,6 +1,6 @@
 ---
 
-title: cake variant(蛋糕口音) ICON转svg、png下载
+title:  cake variant(蛋糕口音) ICON转svg、png下载
 name: cake-variant
 zhTips: 蛋糕口音
 tags: ["holiday","food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cake-variant  <small style="font-size: 60%;font-weight: 100">蛋糕口音</small>
+# cake variant  <small style="font-size: 60%;font-weight: 100">蛋糕口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

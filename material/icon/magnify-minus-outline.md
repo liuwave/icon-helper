@@ -1,6 +1,6 @@
 ---
 
-title: magnify minus outline(放大减轮廓) ICON转svg、png下载
+title:  magnify minus outline(放大减轮廓) ICON转svg、png下载
 name: magnify-minus-outline
 zhTips: 放大减轮廓,缩小轮廓,搜索减轮廓
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search: zoom-out-outline,search-minus-outline
 
 ---
 
-# magnify-minus-outline  <small style="font-size: 60%;font-weight: 100">放大减轮廓</small>
+# magnify minus outline  <small style="font-size: 60%;font-weight: 100">放大减轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

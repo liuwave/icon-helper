@@ -1,8 +1,8 @@
 ---
 
-title: check(检查) ICON转svg、png下载
+title:  check(检查) ICON转svg、png下载
 name: check
-zhTips: 检查,打勾,完成
+zhTips: 检查,打勾,完成,勾,接受,同意,选中标记,确认,正确,通知,确定,选择,成功,刻度线,待办事项,是
 tags: []
 search: tick,done
 
@@ -13,6 +13,8 @@ search: tick,done
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">tick</span><span class="badge-light badge">done</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">检查</span><span class="badge-primary badge">打勾</span><span class="badge-primary badge">完成</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/check.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/check.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">tick</span><span class="badge-light badge">done</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">检查</span><span class="badge-primary badge">打勾</span><span class="badge-primary badge">完成</span><span class="badge-primary badge">勾</span><span class="badge-primary badge">接受</span><span class="badge-primary badge">同意</span><span class="badge-primary badge">选中标记</span><span class="badge-primary badge">确认</span><span class="badge-primary badge">正确</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">确定</span><span class="badge-primary badge">选择</span><span class="badge-primary badge">成功</span><span class="badge-primary badge">刻度线</span><span class="badge-primary badge">待办事项</span><span class="badge-primary badge">是</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/check.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/check.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">勾，可以表示正确、得分、完成。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-check mdi-48px"></i>
   <i class="mdi mdi-check mdi-36px"></i>

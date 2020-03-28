@@ -1,6 +1,6 @@
 ---
 
-title: microsoft word(Microsoft Word) ICON转svg、png下载
+title:  microsoft word(Microsoft Word) ICON转svg、png下载
 name: microsoft-word
 zhTips: Microsoft Word
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-word  <small style="font-size: 60%;font-weight: 100">Microsoft Word</small>
+# microsoft word  <small style="font-size: 60%;font-weight: 100">Microsoft Word</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

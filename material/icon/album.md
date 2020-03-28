@@ -1,6 +1,6 @@
 ---
 
-title: album(专辑) ICON转svg、png下载
+title:  album(专辑) ICON转svg、png下载
 name: album
 zhTips: 专辑,黑胶唱片,唱片
 tags: ["audio","music"]
@@ -13,6 +13,8 @@ search: vinyl,record
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

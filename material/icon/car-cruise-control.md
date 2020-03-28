@@ -1,6 +1,6 @@
 ---
 
-title: car cruise control(汽车定速巡航) ICON转svg、png下载
+title:  car cruise control(汽车定速巡航) ICON转svg、png下载
 name: car-cruise-control
 zhTips: 汽车定速巡航
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# car-cruise-control  <small style="font-size: 60%;font-weight: 100">汽车定速巡航</small>
+# car cruise control  <small style="font-size: 60%;font-weight: 100">汽车定速巡航</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

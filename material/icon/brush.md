@@ -1,6 +1,6 @@
 ---
 
-title: brush(刷子) ICON转svg、png下载
+title:  brush(刷子) ICON转svg、png下载
 name: brush
 zhTips: 刷子,画笔
 tags: ["drawing-art"]
@@ -13,6 +13,8 @@ search: paintbrush
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

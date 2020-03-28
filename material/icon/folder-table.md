@@ -1,6 +1,6 @@
 ---
 
-title: folder table(文件夹表) ICON转svg、png下载
+title:  folder table(文件夹表) ICON转svg、png下载
 name: folder-table
 zhTips: 文件夹表
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# folder-table  <small style="font-size: 60%;font-weight: 100">文件夹表</small>
+# folder table  <small style="font-size: 60%;font-weight: 100">文件夹表</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

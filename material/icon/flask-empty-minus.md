@@ -1,6 +1,6 @@
 ---
 
-title: flask empty minus(烧瓶空负号) ICON转svg、png下载
+title:  flask empty minus(烧瓶空负号) ICON转svg、png下载
 name: flask-empty-minus
 zhTips: 烧瓶空负号
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# flask-empty-minus  <small style="font-size: 60%;font-weight: 100">烧瓶空负号</small>
+# flask empty minus  <small style="font-size: 60%;font-weight: 100">烧瓶空负号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

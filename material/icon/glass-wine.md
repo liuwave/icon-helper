@@ -1,6 +1,6 @@
 ---
 
-title: glass wine(玻璃酒) ICON转svg、png下载
+title:  glass wine(玻璃酒) ICON转svg、png下载
 name: glass-wine
 zhTips: 玻璃酒,酒吧
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: bar
 
 ---
 
-# glass-wine  <small style="font-size: 60%;font-weight: 100">玻璃酒</small>
+# glass wine  <small style="font-size: 60%;font-weight: 100">玻璃酒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

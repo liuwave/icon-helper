@@ -1,6 +1,6 @@
 ---
 
-title: filter plus outline(过滤器加轮廓) ICON转svg、png下载
+title:  filter plus outline(过滤器加轮廓) ICON转svg、png下载
 name: filter-plus-outline
 zhTips: 过滤器加轮廓,漏斗加轮廓
 tags: []
@@ -8,11 +8,13 @@ search: funnel-plus-outline
 
 ---
 
-# filter-plus-outline  <small style="font-size: 60%;font-weight: 100">过滤器加轮廓</small>
+# filter plus outline  <small style="font-size: 60%;font-weight: 100">过滤器加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

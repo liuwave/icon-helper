@@ -1,6 +1,6 @@
 ---
 
-title: arrow decision outline(箭头决策轮廓) ICON转svg、png下载
+title:  arrow decision outline(箭头决策轮廓) ICON转svg、png下载
 name: arrow-decision-outline
 zhTips: 箭头决策轮廓,代理轮廓
 tags: []
@@ -8,11 +8,13 @@ search: proxy-outline
 
 ---
 
-# arrow-decision-outline  <small style="font-size: 60%;font-weight: 100">箭头决策轮廓</small>
+# arrow decision outline  <small style="font-size: 60%;font-weight: 100">箭头决策轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

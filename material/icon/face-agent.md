@@ -1,6 +1,6 @@
 ---
 
-title: face agent(人脸代理) ICON转svg、png下载
+title:  face agent(人脸代理) ICON转svg、png下载
 name: face-agent
 zhTips: 人脸代理,客户服务,支持
 tags: []
@@ -8,11 +8,13 @@ search: customer-service,support
 
 ---
 
-# face-agent  <small style="font-size: 60%;font-weight: 100">人脸代理</small>
+# face agent  <small style="font-size: 60%;font-weight: 100">人脸代理</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

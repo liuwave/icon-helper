@@ -1,6 +1,6 @@
 ---
 
-title: domino mask(多米诺骨牌面具) ICON转svg、png下载
+title:  domino mask(多米诺骨牌面具) ICON转svg、png下载
 name: domino-mask
 zhTips: 多米诺骨牌面具,强盗面具
 tags: []
@@ -8,11 +8,13 @@ search: robber-mask
 
 ---
 
-# domino-mask  <small style="font-size: 60%;font-weight: 100">多米诺骨牌面具</small>
+# domino mask  <small style="font-size: 60%;font-weight: 100">多米诺骨牌面具</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

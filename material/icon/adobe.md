@@ -1,8 +1,8 @@
 ---
 
-title: adobe(Adob​​e) ICON转svg、png下载
+title:  adobe(Adob​​e) ICON转svg、png下载
 name: adobe
-zhTips: Adob​​e
+zhTips: Adob​​e,Adobe系统公司,应用程序,图像编辑,设计,PDF,插画
 tags: ["brand-logo"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Adob​​e</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/adobe.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/adobe.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Adob​​e</span><span class="badge-primary badge">Adobe系统公司</span><span class="badge-primary badge">应用程序</span><span class="badge-primary badge">图像编辑</span><span class="badge-primary badge">设计</span><span class="badge-primary badge">PDF</span><span class="badge-primary badge">插画</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/adobe.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/adobe.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Adobe是一家电脑软件公司，总部在美国加利福尼亚州。Adobe公司的明星产品有Adobe Flash，Photoshop图像编辑软件，Illustrator矢量图编辑器，Acrobat Reader，可移植文档格式（PDF）等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-adobe mdi-48px"></i>
   <i class="mdi mdi-adobe mdi-36px"></i>

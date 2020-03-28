@@ -1,6 +1,6 @@
 ---
 
-title: image filter frames(图像滤镜框) ICON转svg、png下载
+title:  image filter frames(图像滤镜框) ICON转svg、png下载
 name: image-filter-frames
 zhTips: 图像滤镜框
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# image-filter-frames  <small style="font-size: 60%;font-weight: 100">图像滤镜框</small>
+# image filter frames  <small style="font-size: 60%;font-weight: 100">图像滤镜框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: image size select large(图像尺寸选择大) ICON转svg、png下载
+title:  image size select large(图像尺寸选择大) ICON转svg、png下载
 name: image-size-select-large
 zhTips: 图像尺寸选择大
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# image-size-select-large  <small style="font-size: 60%;font-weight: 100">图像尺寸选择大</small>
+# image size select large  <small style="font-size: 60%;font-weight: 100">图像尺寸选择大</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

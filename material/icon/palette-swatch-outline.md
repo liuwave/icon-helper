@@ -1,6 +1,6 @@
 ---
 
-title: palette swatch outline(调色板色板轮廓) ICON转svg、png下载
+title:  palette swatch outline(调色板色板轮廓) ICON转svg、png下载
 name: palette-swatch-outline
 zhTips: 调色板色板轮廓,样式轮廓
 tags: ["drawing-art","color"]
@@ -8,11 +8,13 @@ search: style-outline
 
 ---
 
-# palette-swatch-outline  <small style="font-size: 60%;font-weight: 100">调色板色板轮廓</small>
+# palette swatch outline  <small style="font-size: 60%;font-weight: 100">调色板色板轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

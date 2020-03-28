@@ -1,6 +1,6 @@
 ---
 
-title: new box(新包装盒) ICON转svg、png下载
+title:  new box(新包装盒) ICON转svg、png下载
 name: new-box
 zhTips: 新包装盒,新纤维
 tags: []
@@ -8,11 +8,13 @@ search: fiber-new
 
 ---
 
-# new-box  <small style="font-size: 60%;font-weight: 100">新包装盒</small>
+# new box  <small style="font-size: 60%;font-weight: 100">新包装盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

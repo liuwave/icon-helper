@@ -1,6 +1,6 @@
 ---
 
-title: watch export variant(手表出口口音) ICON转svg、png下载
+title:  watch export variant(手表出口口音) ICON转svg、png下载
 name: watch-export-variant
 zhTips: 手表出口口音
 tags: ["device-tech","device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# watch-export-variant  <small style="font-size: 60%;font-weight: 100">手表出口口音</small>
+# watch export variant  <small style="font-size: 60%;font-weight: 100">手表出口口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

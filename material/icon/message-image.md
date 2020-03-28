@@ -1,6 +1,6 @@
 ---
 
-title: message image(消息图像) ICON转svg、png下载
+title:  message image(消息图像) ICON转svg、png下载
 name: message-image
 zhTips: 消息图像,彩信
 tags: []
@@ -8,11 +8,13 @@ search: mms
 
 ---
 
-# message-image  <small style="font-size: 60%;font-weight: 100">消息图像</small>
+# message image  <small style="font-size: 60%;font-weight: 100">消息图像</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

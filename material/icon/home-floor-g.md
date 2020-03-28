@@ -1,6 +1,6 @@
 ---
 
-title: home floor g(家庭地板g) ICON转svg、png下载
+title:  home floor g(家庭地板g) ICON转svg、png下载
 name: home-floor-g
 zhTips: 家庭地板g,家庭地板地面,房屋地板g,地面房屋
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: home-floor-ground,house-floor-g,house-floor-ground
 
 ---
 
-# home-floor-g  <small style="font-size: 60%;font-weight: 100">家庭地板g</small>
+# home floor g  <small style="font-size: 60%;font-weight: 100">家庭地板g</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

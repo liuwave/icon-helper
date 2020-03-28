@@ -1,6 +1,6 @@
 ---
 
-title: numeric 0 box(数字0框) ICON转svg、png下载
+title:  numeric 0 box(数字0框) ICON转svg、png下载
 name: numeric-0-box
 zhTips: 数字0框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: numeric-zero-box,number-0-box
 
 ---
 
-# numeric-0-box  <small style="font-size: 60%;font-weight: 100">数字0框</small>
+# numeric 0 box  <small style="font-size: 60%;font-weight: 100">数字0框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

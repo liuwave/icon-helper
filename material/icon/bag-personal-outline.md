@@ -1,6 +1,6 @@
 ---
 
-title: bag personal outline(包袋个人轮廓) ICON转svg、png下载
+title:  bag personal outline(包袋个人轮廓) ICON转svg、png下载
 name: bag-personal-outline
 zhTips: 包袋个人轮廓,背包轮廓
 tags: ["transportation-flying"]
@@ -8,11 +8,13 @@ search: backpack-outline
 
 ---
 
-# bag-personal-outline  <small style="font-size: 60%;font-weight: 100">包袋个人轮廓</small>
+# bag personal outline  <small style="font-size: 60%;font-weight: 100">包袋个人轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

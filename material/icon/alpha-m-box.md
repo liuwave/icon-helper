@@ -1,6 +1,6 @@
 ---
 
-title: alpha m box(字母m框) ICON转svg、png下载
+title:  alpha m box(字母m框) ICON转svg、png下载
 name: alpha-m-box
 zhTips: 字母m框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-m-box,letter-m-box
 
 ---
 
-# alpha-m-box  <small style="font-size: 60%;font-weight: 100">字母m框</small>
+# alpha m box  <small style="font-size: 60%;font-weight: 100">字母m框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

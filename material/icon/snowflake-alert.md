@@ -1,6 +1,6 @@
 ---
 
-title: snowflake alert(雪花警报) ICON转svg、png下载
+title:  snowflake alert(雪花警报) ICON转svg、png下载
 name: snowflake-alert
 zhTips: 雪花警报,寒冷警报,降雪咨询,冻结咨询
 tags: ["weather","alert-error"]
@@ -8,11 +8,13 @@ search: cold-alert,snow-advisory,freeze-advisory
 
 ---
 
-# snowflake-alert  <small style="font-size: 60%;font-weight: 100">雪花警报</small>
+# snowflake alert  <small style="font-size: 60%;font-weight: 100">雪花警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

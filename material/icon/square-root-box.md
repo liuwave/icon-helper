@@ -1,6 +1,6 @@
 ---
 
-title: square root box(方根盒) ICON转svg、png下载
+title:  square root box(方根盒) ICON转svg、png下载
 name: square-root-box
 zhTips: 方根盒
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# square-root-box  <small style="font-size: 60%;font-weight: 100">方根盒</small>
+# square root box  <small style="font-size: 60%;font-weight: 100">方根盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

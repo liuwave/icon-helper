@@ -1,6 +1,6 @@
 ---
 
-title: alert decagram(警告提示) ICON转svg、png下载
+title:  alert decagram(警告提示) ICON转svg、png下载
 name: alert-decagram
 zhTips: 警告提示,新发行版
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search: new-releases,warning-decagram
 
 ---
 
-# alert-decagram  <small style="font-size: 60%;font-weight: 100">警告提示</small>
+# alert decagram  <small style="font-size: 60%;font-weight: 100">警告提示</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

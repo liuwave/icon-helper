@@ -1,6 +1,6 @@
 ---
 
-title: thermometer minus(温度计减去) ICON转svg、png下载
+title:  thermometer minus(温度计减去) ICON转svg、png下载
 name: thermometer-minus
 zhTips: 温度计减去
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# thermometer-minus  <small style="font-size: 60%;font-weight: 100">温度计减去</small>
+# thermometer minus  <small style="font-size: 60%;font-weight: 100">温度计减去</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

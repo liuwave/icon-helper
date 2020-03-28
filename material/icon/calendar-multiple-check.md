@@ -1,6 +1,6 @@
 ---
 
-title: calendar multiple check(日历多次检查) ICON转svg、png下载
+title:  calendar multiple check(日历多次检查) ICON转svg、png下载
 name: calendar-multiple-check
 zhTips: 日历多次检查,事件多次检查,日历多次刻度,日历检查,日历刻度,事件多次刻度,事件检查,事件刻度
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: event-multiple-check,calendar-multiple-tick,calendars-check,calendars-ti
 
 ---
 
-# calendar-multiple-check  <small style="font-size: 60%;font-weight: 100">日历多次检查</small>
+# calendar multiple check  <small style="font-size: 60%;font-weight: 100">日历多次检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

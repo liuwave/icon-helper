@@ -1,6 +1,6 @@
 ---
 
-title: eye check(眼部检查) ICON转svg、png下载
+title:  eye check(眼部检查) ICON转svg、png下载
 name: eye-check
 zhTips: 眼部检查,眼剔
 tags: []
@@ -8,11 +8,13 @@ search: eye-tick
 
 ---
 
-# eye-check  <small style="font-size: 60%;font-weight: 100">眼部检查</small>
+# eye check  <small style="font-size: 60%;font-weight: 100">眼部检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

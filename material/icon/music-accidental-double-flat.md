@@ -1,6 +1,6 @@
 ---
 
-title: music accidental double flat(意外的双重平板音乐) ICON转svg、png下载
+title:  music accidental double flat(意外的双重平板音乐) ICON转svg、png下载
 name: music-accidental-double-flat
 zhTips: 意外的双重平板音乐
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-accidental-double-flat  <small style="font-size: 60%;font-weight: 100">意外的双重平板音乐</small>
+# music accidental double flat  <small style="font-size: 60%;font-weight: 100">意外的双重平板音乐</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

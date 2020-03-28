@@ -1,6 +1,6 @@
 ---
 
-title: power plug off(电源插头关闭) ICON转svg、png下载
+title:  power plug off(电源插头关闭) ICON转svg、png下载
 name: power-plug-off
 zhTips: 电源插头关闭,电源关闭
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: power-off
 
 ---
 
-# power-plug-off  <small style="font-size: 60%;font-weight: 100">电源插头关闭</small>
+# power plug off  <small style="font-size: 60%;font-weight: 100">电源插头关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

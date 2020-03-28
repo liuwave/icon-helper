@@ -1,6 +1,6 @@
 ---
 
-title: pencil circle(铅笔圈) ICON转svg、png下载
+title:  pencil circle(铅笔圈) ICON转svg、png下载
 name: pencil-circle
 zhTips: 铅笔圈
 tags: ["drawing-art"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pencil-circle  <small style="font-size: 60%;font-weight: 100">铅笔圈</small>
+# pencil circle  <small style="font-size: 60%;font-weight: 100">铅笔圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

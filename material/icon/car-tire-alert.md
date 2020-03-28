@@ -1,6 +1,6 @@
 ---
 
-title: car tire alert(汽车轮胎警报) ICON转svg、png下载
+title:  car tire alert(汽车轮胎警报) ICON转svg、png下载
 name: car-tire-alert
 zhTips: 汽车轮胎警报
 tags: ["automotive","alert-error"]
@@ -8,11 +8,13 @@ search: car-tyre-alert,car-tyre-warning,car-tire-warning
 
 ---
 
-# car-tire-alert  <small style="font-size: 60%;font-weight: 100">汽车轮胎警报</small>
+# car tire alert  <small style="font-size: 60%;font-weight: 100">汽车轮胎警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

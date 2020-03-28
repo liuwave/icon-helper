@@ -1,6 +1,6 @@
 ---
 
-title: database settings(数据库设置) ICON转svg、png下载
+title:  database settings(数据库设置) ICON转svg、png下载
 name: database-settings
 zhTips: 数据库设置
 tags: ["settings","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# database-settings  <small style="font-size: 60%;font-weight: 100">数据库设置</small>
+# database settings  <small style="font-size: 60%;font-weight: 100">数据库设置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

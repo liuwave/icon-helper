@@ -1,6 +1,6 @@
 ---
 
-title: google fit(Google Fit) ICON转svg、png下载
+title:  google fit(Google Fit) ICON转svg、png下载
 name: google-fit
 zhTips: Google Fit
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-fit  <small style="font-size: 60%;font-weight: 100">Google Fit</small>
+# google fit  <small style="font-size: 60%;font-weight: 100">Google Fit</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

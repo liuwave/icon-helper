@@ -1,6 +1,6 @@
 ---
 
-title: bacteria outline(细菌概述) ICON转svg、png下载
+title:  bacteria outline(细菌概述) ICON转svg、png下载
 name: bacteria-outline
 zhTips: 细菌概述
 tags: ["science","medical-hospital"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bacteria-outline  <small style="font-size: 60%;font-weight: 100">细菌概述</small>
+# bacteria outline  <small style="font-size: 60%;font-weight: 100">细菌概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

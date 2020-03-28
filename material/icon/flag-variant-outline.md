@@ -1,6 +1,6 @@
 ---
 
-title: flag variant outline(标志变体轮廓) ICON转svg、png下载
+title:  flag variant outline(标志变体轮廓) ICON转svg、png下载
 name: flag-variant-outline
 zhTips: 标志变体轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# flag-variant-outline  <small style="font-size: 60%;font-weight: 100">标志变体轮廓</small>
+# flag variant outline  <small style="font-size: 60%;font-weight: 100">标志变体轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: file phone outline(文件电话概述) ICON转svg、png下载
+title:  file phone outline(文件电话概述) ICON转svg、png下载
 name: file-phone-outline
 zhTips: 文件电话概述
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-phone-outline  <small style="font-size: 60%;font-weight: 100">文件电话概述</small>
+# file phone outline  <small style="font-size: 60%;font-weight: 100">文件电话概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

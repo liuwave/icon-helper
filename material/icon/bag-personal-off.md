@@ -1,6 +1,6 @@
 ---
 
-title: bag personal off(关闭个人包) ICON转svg、png下载
+title:  bag personal off(关闭个人包) ICON转svg、png下载
 name: bag-personal-off
 zhTips: 关闭个人包,关闭背包
 tags: ["transportation-flying"]
@@ -8,11 +8,13 @@ search: backpack-off
 
 ---
 
-# bag-personal-off  <small style="font-size: 60%;font-weight: 100">关闭个人包</small>
+# bag personal off  <small style="font-size: 60%;font-weight: 100">关闭个人包</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

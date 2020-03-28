@@ -1,6 +1,6 @@
 ---
 
-title: shield cross outline(盾牌交叉轮廓) ICON转svg、png下载
+title:  shield cross outline(盾牌交叉轮廓) ICON转svg、png下载
 name: shield-cross-outline
 zhTips: 盾牌交叉轮廓,盾牌圣堂武士轮廓,盾牌基督教轮廓
 tags: ["gaming-rpg","religion"]
@@ -8,11 +8,13 @@ search: shield-templar-outline,shield-christianity-outline
 
 ---
 
-# shield-cross-outline  <small style="font-size: 60%;font-weight: 100">盾牌交叉轮廓</small>
+# shield cross outline  <small style="font-size: 60%;font-weight: 100">盾牌交叉轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

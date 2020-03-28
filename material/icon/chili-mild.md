@@ -1,6 +1,6 @@
 ---
 
-title: chili mild(轻度辣椒) ICON转svg、png下载
+title:  chili mild(轻度辣椒) ICON转svg、png下载
 name: chili-mild
 zhTips: 轻度辣椒,胡椒粉,辛辣
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: chilli-mild,pepper,spicy
 
 ---
 
-# chili-mild  <small style="font-size: 60%;font-weight: 100">轻度辣椒</small>
+# chili mild  <small style="font-size: 60%;font-weight: 100">轻度辣椒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

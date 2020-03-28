@@ -1,6 +1,6 @@
 ---
 
-title: email multiple(多个电子邮件) ICON转svg、png下载
+title:  email multiple(多个电子邮件) ICON转svg、png下载
 name: email-multiple
 zhTips: 多个电子邮件
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# email-multiple  <small style="font-size: 60%;font-weight: 100">多个电子邮件</small>
+# email multiple  <small style="font-size: 60%;font-weight: 100">多个电子邮件</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: sticker minus outline(贴纸减去轮廓) ICON转svg、png下载
+title:  sticker minus outline(贴纸减去轮廓) ICON转svg、png下载
 name: sticker-minus-outline
 zhTips: 贴纸减去轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# sticker-minus-outline  <small style="font-size: 60%;font-weight: 100">贴纸减去轮廓</small>
+# sticker minus outline  <small style="font-size: 60%;font-weight: 100">贴纸减去轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

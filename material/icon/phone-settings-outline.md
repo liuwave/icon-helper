@@ -1,6 +1,6 @@
 ---
 
-title: phone settings outline(手机设置概述) ICON转svg、png下载
+title:  phone settings outline(手机设置概述) ICON转svg、png下载
 name: phone-settings-outline
 zhTips: 手机设置概述
 tags: ["cellphone-phone","settings"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# phone-settings-outline  <small style="font-size: 60%;font-weight: 100">手机设置概述</small>
+# phone settings outline  <small style="font-size: 60%;font-weight: 100">手机设置概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: printer 3d nozzle(打印机3D喷嘴) ICON转svg、png下载
+title:  printer 3d nozzle(打印机3D喷嘴) ICON转svg、png下载
 name: printer-3d-nozzle
 zhTips: 打印机3D喷嘴
 tags: ["printer"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# printer-3d-nozzle  <small style="font-size: 60%;font-weight: 100">打印机3D喷嘴</small>
+# printer 3d nozzle  <small style="font-size: 60%;font-weight: 100">打印机3D喷嘴</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

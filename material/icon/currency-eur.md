@@ -1,6 +1,6 @@
 ---
 
-title: currency eur(货币) ICON转svg、png下载
+title:  currency eur(货币) ICON转svg、png下载
 name: currency-eur
 zhTips: 货币,欧元,欧元符号
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: euro,euro-symbol
 
 ---
 
-# currency-eur  <small style="font-size: 60%;font-weight: 100">货币</small>
+# currency eur  <small style="font-size: 60%;font-weight: 100">货币</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

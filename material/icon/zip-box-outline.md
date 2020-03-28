@@ -1,6 +1,6 @@
 ---
 
-title: zip box outline(拉链盒轮廓) ICON转svg、png下载
+title:  zip box outline(拉链盒轮廓) ICON转svg、png下载
 name: zip-box-outline
 zhTips: 拉链盒轮廓,压缩文件轮廓
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: compressed-file-outline
 
 ---
 
-# zip-box-outline  <small style="font-size: 60%;font-weight: 100">拉链盒轮廓</small>
+# zip box outline  <small style="font-size: 60%;font-weight: 100">拉链盒轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

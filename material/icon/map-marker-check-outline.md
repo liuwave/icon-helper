@@ -1,6 +1,6 @@
 ---
 
-title: map marker check outline(地图标记检查轮廓) ICON转svg、png下载
+title:  map marker check outline(地图标记检查轮廓) ICON转svg、png下载
 name: map-marker-check-outline
 zhTips: 地图标记检查轮廓
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# map-marker-check-outline  <small style="font-size: 60%;font-weight: 100">地图标记检查轮廓</small>
+# map marker check outline  <small style="font-size: 60%;font-weight: 100">地图标记检查轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

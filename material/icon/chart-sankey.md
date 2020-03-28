@@ -1,6 +1,6 @@
 ---
 
-title: chart sankey(图表桑基) ICON转svg、png下载
+title:  chart sankey(图表桑基) ICON转svg、png下载
 name: chart-sankey
 zhTips: 图表桑基,图表曲折
 tags: ["math"]
@@ -8,11 +8,13 @@ search: chart-snakey
 
 ---
 
-# chart-sankey  <small style="font-size: 60%;font-weight: 100">图表桑基</small>
+# chart sankey  <small style="font-size: 60%;font-weight: 100">图表桑基</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

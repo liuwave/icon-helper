@@ -1,6 +1,6 @@
 ---
 
-title: pill(药片) ICON转svg、png下载
+title:  pill(药片) ICON转svg、png下载
 name: pill
 zhTips: 药片,女巫,胶囊
 tags: ["medical-hospital"]
@@ -13,6 +13,8 @@ search: medicine,capsule
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

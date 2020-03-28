@@ -1,6 +1,6 @@
 ---
 
-title: home currency usd(本币usd) ICON转svg、png下载
+title:  home currency usd(本币usd) ICON转svg、png下载
 name: home-currency-usd
 zhTips: 本币usd
 tags: ["banking"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# home-currency-usd  <small style="font-size: 60%;font-weight: 100">本币usd</small>
+# home currency usd  <small style="font-size: 60%;font-weight: 100">本币usd</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: dice 4(骰子4) ICON转svg、png下载
+title:  dice 4(骰子4) ICON转svg、png下载
 name: dice-4
 zhTips: 骰子4,骰子四
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: die-4,dice-four
 
 ---
 
-# dice-4  <small style="font-size: 60%;font-weight: 100">骰子4</small>
+# dice 4  <small style="font-size: 60%;font-weight: 100">骰子4</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

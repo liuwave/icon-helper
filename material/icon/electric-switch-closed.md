@@ -1,6 +1,6 @@
 ---
 
-title: electric switch closed(电气开关关闭) ICON转svg、png下载
+title:  electric switch closed(电气开关关闭) ICON转svg、png下载
 name: electric-switch-closed
 zhTips: 电气开关关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# electric-switch-closed  <small style="font-size: 60%;font-weight: 100">电气开关关闭</small>
+# electric switch closed  <small style="font-size: 60%;font-weight: 100">电气开关关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

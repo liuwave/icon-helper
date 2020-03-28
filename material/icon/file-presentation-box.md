@@ -1,6 +1,6 @@
 ---
 
-title: file presentation box(文件展示盒) ICON转svg、png下载
+title:  file presentation box(文件展示盒) ICON转svg、png下载
 name: file-presentation-box
 zhTips: 文件展示盒
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-presentation-box  <small style="font-size: 60%;font-weight: 100">文件展示盒</small>
+# file presentation box  <small style="font-size: 60%;font-weight: 100">文件展示盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

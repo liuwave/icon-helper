@@ -1,6 +1,6 @@
 ---
 
-title: gate not(非逻辑门) ICON转svg、png下载
+title:  gate not(非逻辑门) ICON转svg、png下载
 name: gate-not
 zhTips: 非逻辑门,非逻辑逻辑门
 tags: []
@@ -8,11 +8,13 @@ search: logic-gate-not
 
 ---
 
-# gate-not  <small style="font-size: 60%;font-weight: 100">非逻辑门</small>
+# gate not  <small style="font-size: 60%;font-weight: 100">非逻辑门</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

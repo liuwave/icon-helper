@@ -1,6 +1,6 @@
 ---
 
-title: home variant(家用变型) ICON转svg、png下载
+title:  home variant(家用变型) ICON转svg、png下载
 name: home-variant
 zhTips: 家用变型,房屋装饰
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: house-variant
 
 ---
 
-# home-variant  <small style="font-size: 60%;font-weight: 100">家用变型</small>
+# home variant  <small style="font-size: 60%;font-weight: 100">家用变型</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

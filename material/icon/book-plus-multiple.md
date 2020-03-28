@@ -1,6 +1,6 @@
 ---
 
-title: book plus multiple(书籍加多个) ICON转svg、png下载
+title:  book plus multiple(书籍加多个) ICON转svg、png下载
 name: book-plus-multiple
 zhTips: 书籍加多个,书籍加,书籍多个添加,书籍添加
 tags: []
@@ -8,11 +8,13 @@ search: books-plus,book-multiple-add,books-add
 
 ---
 
-# book-plus-multiple  <small style="font-size: 60%;font-weight: 100">书籍加多个</small>
+# book plus multiple  <small style="font-size: 60%;font-weight: 100">书籍加多个</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

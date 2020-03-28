@@ -1,6 +1,6 @@
 ---
 
-title: menu right(菜单右) ICON转svg、png下载
+title:  menu right(菜单右) ICON转svg、png下载
 name: menu-right
 zhTips: 菜单右,右箭头
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-right
 
 ---
 
-# menu-right  <small style="font-size: 60%;font-weight: 100">菜单右</small>
+# menu right  <small style="font-size: 60%;font-weight: 100">菜单右</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

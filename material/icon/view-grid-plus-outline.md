@@ -1,6 +1,6 @@
 ---
 
-title: view grid plus outline(网格视图加轮廓) ICON转svg、png下载
+title:  view grid plus outline(网格视图加轮廓) ICON转svg、png下载
 name: view-grid-plus-outline
 zhTips: 网格视图加轮廓
 tags: ["view"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# view-grid-plus-outline  <small style="font-size: 60%;font-weight: 100">网格视图加轮廓</small>
+# view grid plus outline  <small style="font-size: 60%;font-weight: 100">网格视图加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

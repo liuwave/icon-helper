@@ -1,6 +1,6 @@
 ---
 
-title: cart minus(减去购物车) ICON转svg、png下载
+title:  cart minus(减去购物车) ICON转svg、png下载
 name: cart-minus
 zhTips: 减去购物车,减少购物车
 tags: ["shopping"]
@@ -8,11 +8,13 @@ search: shopping-cart-minus,trolley-minus
 
 ---
 
-# cart-minus  <small style="font-size: 60%;font-weight: 100">减去购物车</small>
+# cart minus  <small style="font-size: 60%;font-weight: 100">减去购物车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

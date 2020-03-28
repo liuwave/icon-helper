@@ -1,6 +1,6 @@
 ---
 
-title: image filter black white(图像滤镜黑白色) ICON转svg、png下载
+title:  image filter black white(图像滤镜黑白色) ICON转svg、png下载
 name: image-filter-black-white
 zhTips: 图像滤镜黑白色,滤镜b和w
 tags: ["photography"]
@@ -8,11 +8,13 @@ search: filter-b-and-w
 
 ---
 
-# image-filter-black-white  <small style="font-size: 60%;font-weight: 100">图像滤镜黑白色</small>
+# image filter black white  <small style="font-size: 60%;font-weight: 100">图像滤镜黑白色</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

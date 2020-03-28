@@ -1,6 +1,6 @@
 ---
 
-title: currency usd circle outline(货币美元圆轮廓) ICON转svg、png下载
+title:  currency usd circle outline(货币美元圆轮廓) ICON转svg、png下载
 name: currency-usd-circle-outline
 zhTips: 货币美元圆轮廓,硬币轮廓
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: coin-outline
 
 ---
 
-# currency-usd-circle-outline  <small style="font-size: 60%;font-weight: 100">货币美元圆轮廓</small>
+# currency usd circle outline  <small style="font-size: 60%;font-weight: 100">货币美元圆轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

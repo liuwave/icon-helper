@@ -1,6 +1,6 @@
 ---
 
-title: music note eighth(音乐笔记第八) ICON转svg、png下载
+title:  music note eighth(音乐笔记第八) ICON转svg、png下载
 name: music-note-eighth
 zhTips: 音乐笔记第八
 tags: ["audio","music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-note-eighth  <small style="font-size: 60%;font-weight: 100">音乐笔记第八</small>
+# music note eighth  <small style="font-size: 60%;font-weight: 100">音乐笔记第八</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

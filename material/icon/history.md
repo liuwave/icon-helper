@@ -1,8 +1,8 @@
 ---
 
-title: history(历史记录) ICON转svg、png下载
+title:  history(历史记录) ICON转svg、png下载
 name: history
-zhTips: 历史记录,最近,最新,时钟箭头,逆时针,恢复时钟
+zhTips: 历史记录,最近,最新,时钟箭头,逆时针,恢复时钟,历史纪录,历史,倒带,时钟,反向,时间,时间机器
 tags: []
 search: recent,latest,clock-arrow,counterclockwise,restore-clock
 
@@ -13,6 +13,8 @@ search: recent,latest,clock-arrow,counterclockwise,restore-clock
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">recent</span><span class="badge-light badge">latest</span><span class="badge-light badge">clock-arrow</span><span class="badge-light badge">counterclockwise</span><span class="badge-light badge">restore-clock</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">历史记录</span><span class="badge-primary badge">最近</span><span class="badge-primary badge">最新</span><span class="badge-primary badge">时钟箭头</span><span class="badge-primary badge">逆时针</span><span class="badge-primary badge">恢复时钟</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/history.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/history.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">recent</span><span class="badge-light badge">latest</span><span class="badge-light badge">clock-arrow</span><span class="badge-light badge">counterclockwise</span><span class="badge-light badge">restore-clock</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">历史记录</span><span class="badge-primary badge">最近</span><span class="badge-primary badge">最新</span><span class="badge-primary badge">时钟箭头</span><span class="badge-primary badge">逆时针</span><span class="badge-primary badge">恢复时钟</span><span class="badge-primary badge">历史纪录</span><span class="badge-primary badge">历史</span><span class="badge-primary badge">倒带</span><span class="badge-primary badge">时钟</span><span class="badge-primary badge">反向</span><span class="badge-primary badge">时间</span><span class="badge-primary badge">时间机器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/history.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/history.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示从前、过去时间的信息、 记录等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-history mdi-48px"></i>
   <i class="mdi mdi-history mdi-36px"></i>

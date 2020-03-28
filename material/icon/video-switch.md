@@ -1,6 +1,6 @@
 ---
 
-title: video switch(视频开关) ICON转svg、png下载
+title:  video switch(视频开关) ICON转svg、png下载
 name: video-switch
 zhTips: 视频开关
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search: switch-video
 
 ---
 
-# video-switch  <small style="font-size: 60%;font-weight: 100">视频开关</small>
+# video switch  <small style="font-size: 60%;font-weight: 100">视频开关</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

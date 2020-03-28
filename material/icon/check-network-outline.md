@@ -1,6 +1,6 @@
 ---
 
-title: check network outline(检查网络轮廓) ICON转svg、png下载
+title:  check network outline(检查网络轮廓) ICON转svg、png下载
 name: check-network-outline
 zhTips: 检查网络轮廓,勾选网络轮廓
 tags: []
@@ -8,11 +8,13 @@ search: tick-network-outline
 
 ---
 
-# check-network-outline  <small style="font-size: 60%;font-weight: 100">检查网络轮廓</small>
+# check network outline  <small style="font-size: 60%;font-weight: 100">检查网络轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

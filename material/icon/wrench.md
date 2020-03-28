@@ -1,8 +1,8 @@
 ---
 
-title: wrench(扳手) ICON转svg、png下载
+title:  wrench(扳手) ICON转svg、png下载
 name: wrench
-zhTips: 扳手,组装
+zhTips: 扳手,组装,维修标志,建筑,修复,机械,管道,设置,工具,更新
 tags: ["hardware-tools"]
 search: build,spanner
 
@@ -13,6 +13,8 @@ search: build,spanner
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">build</span><span class="badge-light badge">spanner</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">扳手</span><span class="badge-primary badge">组装</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/wrench.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/wrench.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">build</span><span class="badge-light badge">spanner</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">扳手</span><span class="badge-primary badge">组装</span><span class="badge-primary badge">维修标志</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">修复</span><span class="badge-primary badge">机械</span><span class="badge-primary badge">管道</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">工具</span><span class="badge-primary badge">更新</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/wrench.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/wrench.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">常用于表示出现故障时的修复、维修等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-wrench mdi-48px"></i>
   <i class="mdi mdi-wrench mdi-36px"></i>

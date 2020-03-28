@@ -1,6 +1,6 @@
 ---
 
-title: dots horizontal circle(点水平圆) ICON转svg、png下载
+title:  dots horizontal circle(点水平圆) ICON转svg、png下载
 name: dots-horizontal-circle
 zhTips: 点水平圆,省略号水平圆,更多圆,菜单
 tags: []
@@ -8,11 +8,13 @@ search: ellipsis-horizontal-circle,more-circle,menu
 
 ---
 
-# dots-horizontal-circle  <small style="font-size: 60%;font-weight: 100">点水平圆</small>
+# dots horizontal circle  <small style="font-size: 60%;font-weight: 100">点水平圆</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

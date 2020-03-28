@@ -1,6 +1,6 @@
 ---
 
-title: cash multiple(现金倍数) ICON转svg、png下载
+title:  cash multiple(现金倍数) ICON转svg、png下载
 name: cash-multiple
 zhTips: 现金倍数,货币
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: money
 
 ---
 
-# cash-multiple  <small style="font-size: 60%;font-weight: 100">现金倍数</small>
+# cash multiple  <small style="font-size: 60%;font-weight: 100">现金倍数</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

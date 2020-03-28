@@ -1,6 +1,6 @@
 ---
 
-title: bookmark remove outline(书签删除轮廓) ICON转svg、png下载
+title:  bookmark remove outline(书签删除轮廓) ICON转svg、png下载
 name: bookmark-remove-outline
 zhTips: 书签删除轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bookmark-remove-outline  <small style="font-size: 60%;font-weight: 100">书签删除轮廓</small>
+# bookmark remove outline  <small style="font-size: 60%;font-weight: 100">书签删除轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

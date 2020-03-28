@@ -1,8 +1,8 @@
 ---
 
-title: opera(歌剧) ICON转svg、png下载
+title:  opera(歌剧) ICON转svg、png下载
 name: opera
-zhTips: 歌剧
+zhTips: 歌剧,opera,欧朋
 tags: ["brand-logo"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">歌剧</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/opera.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/opera.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">歌剧</span><span class="badge-primary badge">opera</span><span class="badge-primary badge">欧朋</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/opera.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/opera.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Opera(欧朋)是一款挪威公司制作的手机浏览器。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-opera mdi-48px"></i>
   <i class="mdi mdi-opera mdi-36px"></i>

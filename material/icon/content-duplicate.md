@@ -1,6 +1,6 @@
 ---
 
-title: content duplicate(重复的内容) ICON转svg、png下载
+title:  content duplicate(重复的内容) ICON转svg、png下载
 name: content-duplicate
 zhTips: 重复的内容
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# content-duplicate  <small style="font-size: 60%;font-weight: 100">重复的内容</small>
+# content duplicate  <small style="font-size: 60%;font-weight: 100">重复的内容</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

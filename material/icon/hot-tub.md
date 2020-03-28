@@ -1,6 +1,6 @@
 ---
 
-title: hot tub(热水浴缸) ICON转svg、png下载
+title:  hot tub(热水浴缸) ICON转svg、png下载
 name: hot-tub
 zhTips: 热水浴缸
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# hot-tub  <small style="font-size: 60%;font-weight: 100">热水浴缸</small>
+# hot tub  <small style="font-size: 60%;font-weight: 100">热水浴缸</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

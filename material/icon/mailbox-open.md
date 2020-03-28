@@ -1,6 +1,6 @@
 ---
 
-title: mailbox open(邮箱打开) ICON转svg、png下载
+title:  mailbox open(邮箱打开) ICON转svg、png下载
 name: mailbox-open
 zhTips: 邮箱打开
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# mailbox-open  <small style="font-size: 60%;font-weight: 100">邮箱打开</small>
+# mailbox open  <small style="font-size: 60%;font-weight: 100">邮箱打开</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: axis z arrow lock(轴Z箭头锁) ICON转svg、png下载
+title:  axis z arrow lock(轴Z箭头锁) ICON转svg、png下载
 name: axis-z-arrow-lock
 zhTips: 轴Z箭头锁
 tags: ["lock","arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# axis-z-arrow-lock  <small style="font-size: 60%;font-weight: 100">轴Z箭头锁</small>
+# axis z arrow lock  <small style="font-size: 60%;font-weight: 100">轴Z箭头锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

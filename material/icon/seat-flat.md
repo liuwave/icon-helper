@@ -1,6 +1,6 @@
 ---
 
-title: seat flat(飞机座位) ICON转svg、png下载
+title:  seat flat(飞机座位) ICON转svg、png下载
 name: seat-flat
 zhTips: 飞机座位
 tags: []
@@ -8,11 +8,13 @@ search: airline-seat-flat
 
 ---
 
-# seat-flat  <small style="font-size: 60%;font-weight: 100">飞机座位</small>
+# seat flat  <small style="font-size: 60%;font-weight: 100">飞机座位</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

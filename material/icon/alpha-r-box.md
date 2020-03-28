@@ -1,6 +1,6 @@
 ---
 
-title: alpha r box(字母r盒) ICON转svg、png下载
+title:  alpha r box(字母r盒) ICON转svg、png下载
 name: alpha-r-box
 zhTips: 字母r盒
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-r-box,letter-r-box
 
 ---
 
-# alpha-r-box  <small style="font-size: 60%;font-weight: 100">字母r盒</small>
+# alpha r box  <small style="font-size: 60%;font-weight: 100">字母r盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

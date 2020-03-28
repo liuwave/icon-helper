@@ -1,6 +1,6 @@
 ---
 
-title: message bulleted(消息项目符号) ICON转svg、png下载
+title:  message bulleted(消息项目符号) ICON转svg、png下载
 name: message-bulleted
 zhTips: 消息项目符号,演讲者备注
 tags: []
@@ -8,11 +8,13 @@ search: speaker-notes
 
 ---
 
-# message-bulleted  <small style="font-size: 60%;font-weight: 100">消息项目符号</small>
+# message bulleted  <small style="font-size: 60%;font-weight: 100">消息项目符号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

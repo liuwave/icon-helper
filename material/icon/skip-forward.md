@@ -1,6 +1,6 @@
 ---
 
-title: skip forward(向前跳过) ICON转svg、png下载
+title:  skip forward(向前跳过) ICON转svg、png下载
 name: skip-forward
 zhTips: 向前跳过,标题向前,下一个标题
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: title-forward,next-title
 
 ---
 
-# skip-forward  <small style="font-size: 60%;font-weight: 100">向前跳过</small>
+# skip forward  <small style="font-size: 60%;font-weight: 100">向前跳过</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

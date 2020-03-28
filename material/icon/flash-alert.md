@@ -1,6 +1,6 @@
 ---
 
-title: flash alert(闪光警报) ICON转svg、png下载
+title:  flash alert(闪光警报) ICON转svg、png下载
 name: flash-alert
 zhTips: 闪光警报,闪电警报,咨询风暴
 tags: ["weather","alert-error"]
@@ -8,11 +8,13 @@ search: lightning-alert,storm-advisory
 
 ---
 
-# flash-alert  <small style="font-size: 60%;font-weight: 100">闪光警报</small>
+# flash alert  <small style="font-size: 60%;font-weight: 100">闪光警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

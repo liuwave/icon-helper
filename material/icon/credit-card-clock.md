@@ -1,6 +1,6 @@
 ---
 
-title: credit card clock(信用卡时钟) ICON转svg、png下载
+title:  credit card clock(信用卡时钟) ICON转svg、png下载
 name: credit-card-clock
 zhTips: 信用卡时钟
 tags: ["banking"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# credit-card-clock  <small style="font-size: 60%;font-weight: 100">信用卡时钟</small>
+# credit card clock  <small style="font-size: 60%;font-weight: 100">信用卡时钟</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

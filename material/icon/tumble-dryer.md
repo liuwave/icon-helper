@@ -1,6 +1,6 @@
 ---
 
-title: tumble dryer(烘干机) ICON转svg、png下载
+title:  tumble dryer(烘干机) ICON转svg、png下载
 name: tumble-dryer
 zhTips: 烘干机
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tumble-dryer  <small style="font-size: 60%;font-weight: 100">烘干机</small>
+# tumble dryer  <small style="font-size: 60%;font-weight: 100">烘干机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

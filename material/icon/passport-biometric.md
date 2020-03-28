@@ -1,6 +1,6 @@
 ---
 
-title: passport biometric(生物护照) ICON转svg、png下载
+title:  passport biometric(生物护照) ICON转svg、png下载
 name: passport-biometric
 zhTips: 生物护照,电子护照
 tags: []
@@ -8,11 +8,13 @@ search: passport-electronic
 
 ---
 
-# passport-biometric  <small style="font-size: 60%;font-weight: 100">生物护照</small>
+# passport biometric  <small style="font-size: 60%;font-weight: 100">生物护照</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

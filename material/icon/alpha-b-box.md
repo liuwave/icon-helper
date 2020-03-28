@@ -1,6 +1,6 @@
 ---
 
-title: alpha b box(字母b框) ICON转svg、png下载
+title:  alpha b box(字母b框) ICON转svg、png下载
 name: alpha-b-box
 zhTips: 字母b框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-b-box,letter-b-box
 
 ---
 
-# alpha-b-box  <small style="font-size: 60%;font-weight: 100">字母b框</small>
+# alpha b box  <small style="font-size: 60%;font-weight: 100">字母b框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

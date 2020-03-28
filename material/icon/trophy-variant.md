@@ -1,6 +1,6 @@
 ---
 
-title: trophy variant(奖杯变体) ICON转svg、png下载
+title:  trophy variant(奖杯变体) ICON转svg、png下载
 name: trophy-variant
 zhTips: 奖杯变体,成就重音
 tags: ["sport"]
@@ -8,11 +8,13 @@ search: achievement-variant
 
 ---
 
-# trophy-variant  <small style="font-size: 60%;font-weight: 100">奖杯变体</small>
+# trophy variant  <small style="font-size: 60%;font-weight: 100">奖杯变体</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

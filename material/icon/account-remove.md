@@ -1,6 +1,6 @@
 ---
 
-title: account remove(帐户删除) ICON转svg、png下载
+title:  account remove(帐户删除) ICON转svg、png下载
 name: account-remove
 zhTips: 帐户删除,用户删除,人员删除
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-remove,person-remove
 
 ---
 
-# account-remove  <small style="font-size: 60%;font-weight: 100">帐户删除</small>
+# account remove  <small style="font-size: 60%;font-weight: 100">帐户删除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

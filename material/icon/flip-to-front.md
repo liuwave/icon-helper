@@ -1,6 +1,6 @@
 ---
 
-title: flip to front(翻转到前面) ICON转svg、png下载
+title:  flip to front(翻转到前面) ICON转svg、png下载
 name: flip-to-front
 zhTips: 翻转到前面
 tags: ["arrange"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# flip-to-front  <small style="font-size: 60%;font-weight: 100">翻转到前面</small>
+# flip to front  <small style="font-size: 60%;font-weight: 100">翻转到前面</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

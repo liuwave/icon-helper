@@ -1,6 +1,6 @@
 ---
 
-title: rounded corner(圆角) ICON转svg、png下载
+title:  rounded corner(圆角) ICON转svg、png下载
 name: rounded-corner
 zhTips: 圆角
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# rounded-corner  <small style="font-size: 60%;font-weight: 100">圆角</small>
+# rounded corner  <small style="font-size: 60%;font-weight: 100">圆角</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

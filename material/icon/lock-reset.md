@@ -1,6 +1,6 @@
 ---
 
-title: lock reset(锁定重置) ICON转svg、png下载
+title:  lock reset(锁定重置) ICON转svg、png下载
 name: lock-reset
 zhTips: 锁定重置,密码重置
 tags: ["lock"]
@@ -8,11 +8,13 @@ search: password-reset
 
 ---
 
-# lock-reset  <small style="font-size: 60%;font-weight: 100">锁定重置</small>
+# lock reset  <small style="font-size: 60%;font-weight: 100">锁定重置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

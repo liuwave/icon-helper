@@ -1,6 +1,6 @@
 ---
 
-title: multiplication box(乘法盒) ICON转svg、png下载
+title:  multiplication box(乘法盒) ICON转svg、png下载
 name: multiplication-box
 zhTips: 乘法盒
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# multiplication-box  <small style="font-size: 60%;font-weight: 100">乘法盒</small>
+# multiplication box  <small style="font-size: 60%;font-weight: 100">乘法盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

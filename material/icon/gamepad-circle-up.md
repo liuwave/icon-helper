@@ -1,6 +1,6 @@
 ---
 
-title: gamepad circle up(游戏手柄圈了) ICON转svg、png下载
+title:  gamepad circle up(游戏手柄圈了) ICON转svg、png下载
 name: gamepad-circle-up
 zhTips: 游戏手柄圈了
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# gamepad-circle-up  <small style="font-size: 60%;font-weight: 100">游戏手柄圈了</small>
+# gamepad circle up  <small style="font-size: 60%;font-weight: 100">游戏手柄圈了</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

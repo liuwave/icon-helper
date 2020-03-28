@@ -1,6 +1,6 @@
 ---
 
-title: account alert(帐户警报) ICON转svg、png下载
+title:  account alert(帐户警报) ICON转svg、png下载
 name: account-alert
 zhTips: 帐户警报,用户警报,帐户警告,用户警告,人员警报,人员警告
 tags: ["account-user","alert-error"]
@@ -8,11 +8,13 @@ search: user-alert,account-warning,user-warning,person-alert,person-warning
 
 ---
 
-# account-alert  <small style="font-size: 60%;font-weight: 100">帐户警报</small>
+# account alert  <small style="font-size: 60%;font-weight: 100">帐户警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

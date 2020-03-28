@@ -1,6 +1,6 @@
 ---
 
-title: cellphone cog(手机嵌齿轮) ICON转svg、png下载
+title:  cellphone cog(手机嵌齿轮) ICON转svg、png下载
 name: cellphone-cog
 zhTips: 手机嵌齿轮,phonelink设置,手机设置重点,智能手机设置重点
 tags: ["settings","cellphone-phone","device-tech"]
@@ -8,11 +8,13 @@ search: phonelink-setup,mobile-phone-settings-variant,smartphone-settings-varian
 
 ---
 
-# cellphone-cog  <small style="font-size: 60%;font-weight: 100">手机嵌齿轮</small>
+# cellphone cog  <small style="font-size: 60%;font-weight: 100">手机嵌齿轮</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

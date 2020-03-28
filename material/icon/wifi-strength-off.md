@@ -1,6 +1,6 @@
 ---
 
-title: wifi strength off(wifi强度关闭) ICON转svg、png下载
+title:  wifi strength off(wifi强度关闭) ICON转svg、png下载
 name: wifi-strength-off
 zhTips: wifi强度关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# wifi-strength-off  <small style="font-size: 60%;font-weight: 100">wifi强度关闭</small>
+# wifi strength off  <small style="font-size: 60%;font-weight: 100">wifi强度关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

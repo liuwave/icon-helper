@@ -1,6 +1,6 @@
 ---
 
-title: minus box(减号框) ICON转svg、png下载
+title:  minus box(减号框) ICON转svg、png下载
 name: minus-box
 zhTips: 减号框,不确定的复选框
 tags: ["math"]
@@ -8,11 +8,13 @@ search: indeterminate-check-box
 
 ---
 
-# minus-box  <small style="font-size: 60%;font-weight: 100">减号框</small>
+# minus box  <small style="font-size: 60%;font-weight: 100">减号框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

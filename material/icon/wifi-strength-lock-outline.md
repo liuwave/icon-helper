@@ -1,6 +1,6 @@
 ---
 
-title: wifi strength lock outline(wifi强度锁定概述) ICON转svg、png下载
+title:  wifi strength lock outline(wifi强度锁定概述) ICON转svg、png下载
 name: wifi-strength-lock-outline
 zhTips: wifi强度锁定概述,wifi强度0锁定
 tags: ["lock"]
@@ -8,11 +8,13 @@ search: wifi-strength-0-lock
 
 ---
 
-# wifi-strength-lock-outline  <small style="font-size: 60%;font-weight: 100">wifi强度锁定概述</small>
+# wifi strength lock outline  <small style="font-size: 60%;font-weight: 100">wifi强度锁定概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

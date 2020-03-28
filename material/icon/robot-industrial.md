@@ -1,6 +1,6 @@
 ---
 
-title: robot industrial(工业) ICON转svg、png下载
+title:  robot industrial(工业) ICON转svg、png下载
 name: robot-industrial
 zhTips: 工业,自主,装配机器人
 tags: []
@@ -8,11 +8,13 @@ search: autonomous,assembly
 
 ---
 
-# robot-industrial  <small style="font-size: 60%;font-weight: 100">工业</small>
+# robot industrial  <small style="font-size: 60%;font-weight: 100">工业</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: find replace(查找替换) ICON转svg、png下载
+title:  find replace(查找替换) ICON转svg、png下载
 name: find-replace
 zhTips: 查找替换
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# find-replace  <small style="font-size: 60%;font-weight: 100">查找替换</small>
+# find replace  <small style="font-size: 60%;font-weight: 100">查找替换</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: transit detour(中转弯路) ICON转svg、png下载
+title:  transit detour(中转弯路) ICON转svg、png下载
 name: transit-detour
 zhTips: 中转弯路
 tags: ["navigation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# transit-detour  <small style="font-size: 60%;font-weight: 100">中转弯路</small>
+# transit detour  <small style="font-size: 60%;font-weight: 100">中转弯路</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

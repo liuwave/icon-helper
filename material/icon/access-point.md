@@ -1,6 +1,6 @@
 ---
 
-title: access point(无线接入点) ICON转svg、png下载
+title:  access point(无线接入点) ICON转svg、png下载
 name: access-point
 zhTips: 无线接入点
 tags: []
@@ -8,11 +8,13 @@ search: wireless
 
 ---
 
-# access-point  <small style="font-size: 60%;font-weight: 100">无线接入点</small>
+# access point  <small style="font-size: 60%;font-weight: 100">无线接入点</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

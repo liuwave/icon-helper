@@ -1,6 +1,6 @@
 ---
 
-title: format text wrapping overflow(格式文字换行溢出) ICON转svg、png下载
+title:  format text wrapping overflow(格式文字换行溢出) ICON转svg、png下载
 name: format-text-wrapping-overflow
 zhTips: 格式文字换行溢出
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-text-wrapping-overflow  <small style="font-size: 60%;font-weight: 100">格式文字换行溢出</small>
+# format text wrapping overflow  <small style="font-size: 60%;font-weight: 100">格式文字换行溢出</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

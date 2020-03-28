@@ -1,6 +1,6 @@
 ---
 
-title: square medium(方形中号) ICON转svg、png下载
+title:  square medium(方形中号) ICON转svg、png下载
 name: square-medium
 zhTips: 方形中号
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# square-medium  <small style="font-size: 60%;font-weight: 100">方形中号</small>
+# square medium  <small style="font-size: 60%;font-weight: 100">方形中号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: book lock(书本锁) ICON转svg、png下载
+title:  book lock(书本锁) ICON转svg、png下载
 name: book-lock
 zhTips: 书本锁,书本安全
 tags: ["lock"]
@@ -8,11 +8,13 @@ search: book-secure
 
 ---
 
-# book-lock  <small style="font-size: 60%;font-weight: 100">书本锁</small>
+# book lock  <small style="font-size: 60%;font-weight: 100">书本锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: bed king outline(床王概述) ICON转svg、png下载
+title:  bed king outline(床王概述) ICON转svg、png下载
 name: bed-king-outline
 zhTips: 床王概述
 tags: ["home-automation","holiday"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bed-king-outline  <small style="font-size: 60%;font-weight: 100">床王概述</small>
+# bed king outline  <small style="font-size: 60%;font-weight: 100">床王概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

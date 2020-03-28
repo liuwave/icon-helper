@@ -1,6 +1,6 @@
 ---
 
-title: power standby(待机电源) ICON转svg、png下载
+title:  power standby(待机电源) ICON转svg、png下载
 name: power-standby
 zhTips: 待机电源
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# power-standby  <small style="font-size: 60%;font-weight: 100">待机电源</small>
+# power standby  <small style="font-size: 60%;font-weight: 100">待机电源</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: format indent increase(格式缩进增加) ICON转svg、png下载
+title:  format indent increase(格式缩进增加) ICON转svg、png下载
 name: format-indent-increase
 zhTips: 格式缩进增加
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-indent-increase  <small style="font-size: 60%;font-weight: 100">格式缩进增加</small>
+# format indent increase  <small style="font-size: 60%;font-weight: 100">格式缩进增加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

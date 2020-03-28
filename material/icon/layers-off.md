@@ -1,6 +1,6 @@
 ---
 
-title: layers off(关闭图层) ICON转svg、png下载
+title:  layers off(关闭图层) ICON转svg、png下载
 name: layers-off
 zhTips: 关闭图层,清除图层
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search: layers-clear
 
 ---
 
-# layers-off  <small style="font-size: 60%;font-weight: 100">关闭图层</small>
+# layers off  <small style="font-size: 60%;font-weight: 100">关闭图层</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

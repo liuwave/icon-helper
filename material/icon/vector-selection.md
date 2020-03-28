@@ -1,6 +1,6 @@
 ---
 
-title: vector selection(向量选择) ICON转svg、png下载
+title:  vector selection(向量选择) ICON转svg、png下载
 name: vector-selection
 zhTips: 向量选择
 tags: ["vector","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# vector-selection  <small style="font-size: 60%;font-weight: 100">向量选择</small>
+# vector selection  <small style="font-size: 60%;font-weight: 100">向量选择</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

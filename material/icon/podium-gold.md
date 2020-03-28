@@ -1,6 +1,6 @@
 ---
 
-title: podium gold(登上领奖台的金色) ICON转svg、png下载
+title:  podium gold(登上领奖台的金色) ICON转svg、png下载
 name: podium-gold
 zhTips: 登上领奖台的金色,领奖台优先
 tags: ["sport"]
@@ -8,11 +8,13 @@ search: podium-first
 
 ---
 
-# podium-gold  <small style="font-size: 60%;font-weight: 100">登上领奖台的金色</small>
+# podium gold  <small style="font-size: 60%;font-weight: 100">登上领奖台的金色</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

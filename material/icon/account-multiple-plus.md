@@ -1,6 +1,6 @@
 ---
 
-title: account multiple plus(帐户多个加号) ICON转svg、png下载
+title:  account multiple plus(帐户多个加号) ICON转svg、png下载
 name: account-multiple-plus
 zhTips: 帐户多个加号,多个用户加号,组添加,帐户加号,用户加号,多个人加号,人员加号,多个人添加,多个帐户添加,用户添加,用户多个添加,邀请
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-multiple-plus,group-add,accounts-plus,users-plus,person-multiple-pl
 
 ---
 
-# account-multiple-plus  <small style="font-size: 60%;font-weight: 100">帐户多个加号</small>
+# account multiple plus  <small style="font-size: 60%;font-weight: 100">帐户多个加号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

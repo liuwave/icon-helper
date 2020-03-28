@@ -1,6 +1,6 @@
 ---
 
-title: view grid plus(查看网格加) ICON转svg、png下载
+title:  view grid plus(查看网格加) ICON转svg、png下载
 name: view-grid-plus
 zhTips: 查看网格加,查看网格添加
 tags: ["view"]
@@ -8,11 +8,13 @@ search: view-grid-add
 
 ---
 
-# view-grid-plus  <small style="font-size: 60%;font-weight: 100">查看网格加</small>
+# view grid plus  <small style="font-size: 60%;font-weight: 100">查看网格加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: playlist plus(播放列表加) ICON转svg、png下载
+title:  playlist plus(播放列表加) ICON转svg、png下载
 name: playlist-plus
 zhTips: 播放列表加,播放列表添加
 tags: []
@@ -8,11 +8,13 @@ search: playlist-add
 
 ---
 
-# playlist-plus  <small style="font-size: 60%;font-weight: 100">播放列表加</small>
+# playlist plus  <small style="font-size: 60%;font-weight: 100">播放列表加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

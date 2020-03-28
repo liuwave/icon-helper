@@ -1,6 +1,6 @@
 ---
 
-title: music note outline(音乐笔记轮廓) ICON转svg、png下载
+title:  music note outline(音乐笔记轮廓) ICON转svg、png下载
 name: music-note-outline
 zhTips: 音乐笔记轮廓
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-note-outline  <small style="font-size: 60%;font-weight: 100">音乐笔记轮廓</small>
+# music note outline  <small style="font-size: 60%;font-weight: 100">音乐笔记轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

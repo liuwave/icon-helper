@@ -1,6 +1,6 @@
 ---
 
-title: fire truck(消防车) ICON转svg、png下载
+title:  fire truck(消防车) ICON转svg、png下载
 name: fire-truck
 zhTips: 消防车
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: fire-engine
 
 ---
 
-# fire-truck  <small style="font-size: 60%;font-weight: 100">消防车</small>
+# fire truck  <small style="font-size: 60%;font-weight: 100">消防车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

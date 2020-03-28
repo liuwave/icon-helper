@@ -1,6 +1,6 @@
 ---
 
-title: gog(gog) ICON转svg、png下载
+title:  gog(gog) ICON转svg、png下载
 name: gog
 zhTips: gog,gog com
 tags: ["brand-logo","gaming-rpg"]
@@ -13,6 +13,8 @@ search: gog-com
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

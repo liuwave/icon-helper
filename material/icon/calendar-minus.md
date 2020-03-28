@@ -1,6 +1,6 @@
 ---
 
-title: calendar minus(日历减) ICON转svg、png下载
+title:  calendar minus(日历减) ICON转svg、png下载
 name: calendar-minus
 zhTips: 日历减,事件减
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: event-minus
 
 ---
 
-# calendar-minus  <small style="font-size: 60%;font-weight: 100">日历减</small>
+# calendar minus  <small style="font-size: 60%;font-weight: 100">日历减</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

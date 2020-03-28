@@ -1,6 +1,6 @@
 ---
 
-title: android studio(android studio) ICON转svg、png下载
+title:  android studio(android studio) ICON转svg、png下载
 name: android-studio
 zhTips: android studio,输入罗盘口音
 tags: []
@@ -8,11 +8,13 @@ search: math-compass-variant
 
 ---
 
-# android-studio  <small style="font-size: 60%;font-weight: 100">android studio</small>
+# android studio  <small style="font-size: 60%;font-weight: 100">android studio</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: account multiple(帐户多个) ICON转svg、png下载
+title:  account multiple(帐户多个) ICON转svg、png下载
 name: account-multiple
 zhTips: 帐户多个,人员,多个用户,组,帐户,用户,多个人
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: people,user-multiple,group,accounts,users,person-multiple
 
 ---
 
-# account-multiple  <small style="font-size: 60%;font-weight: 100">帐户多个</small>
+# account multiple  <small style="font-size: 60%;font-weight: 100">帐户多个</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: garage variant(车库口音) ICON转svg、png下载
+title:  garage variant(车库口音) ICON转svg、png下载
 name: garage-variant
 zhTips: 车库口音
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# garage-variant  <small style="font-size: 60%;font-weight: 100">车库口音</small>
+# garage variant  <small style="font-size: 60%;font-weight: 100">车库口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

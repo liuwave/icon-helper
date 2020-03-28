@@ -1,6 +1,6 @@
 ---
 
-title: bike(自行车) ICON转svg、png下载
+title:  bike(自行车) ICON转svg、png下载
 name: bike
 zhTips: 自行车,单车,自行车路线
 tags: ["transportation-other","sport"]
@@ -13,6 +13,8 @@ search: bicycle,cycling,directions-bike
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

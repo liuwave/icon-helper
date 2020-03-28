@@ -1,6 +1,6 @@
 ---
 
-title: pound box outline(磅框轮廓) ICON转svg、png下载
+title:  pound box outline(磅框轮廓) ICON转svg、png下载
 name: pound-box-outline
 zhTips: 磅框轮廓,标签框轮廓
 tags: []
@@ -8,11 +8,13 @@ search: hashtag-box-outline
 
 ---
 
-# pound-box-outline  <small style="font-size: 60%;font-weight: 100">磅框轮廓</small>
+# pound box outline  <small style="font-size: 60%;font-weight: 100">磅框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

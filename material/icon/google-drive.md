@@ -1,6 +1,6 @@
 ---
 
-title: google drive(Google驱动器) ICON转svg、png下载
+title:  google drive(Google驱动器) ICON转svg、png下载
 name: google-drive
 zhTips: Google驱动器,附加驱动器
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search: attach-drive
 
 ---
 
-# google-drive  <small style="font-size: 60%;font-weight: 100">Google驱动器</small>
+# google drive  <small style="font-size: 60%;font-weight: 100">Google驱动器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

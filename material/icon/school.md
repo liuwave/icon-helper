@@ -1,8 +1,8 @@
 ---
 
-title: school(学校) ICON转svg、png下载
+title:  school(学校) ICON转svg、png下载
 name: school
-zhTips: 学校,毕业帽,大学,学院,学术帽
+zhTips: 学校,毕业帽,大学,学院,学术帽,学校黑,建筑,教育,学习,学生,老师
 tags: []
 search: graduation-cap,university,college,academic-cap
 
@@ -13,6 +13,8 @@ search: graduation-cap,university,college,academic-cap
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">graduation-cap</span><span class="badge-light badge">university</span><span class="badge-light badge">college</span><span class="badge-light badge">academic-cap</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">学校</span><span class="badge-primary badge">毕业帽</span><span class="badge-primary badge">大学</span><span class="badge-primary badge">学院</span><span class="badge-primary badge">学术帽</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/school.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/school.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">graduation-cap</span><span class="badge-light badge">university</span><span class="badge-light badge">college</span><span class="badge-light badge">academic-cap</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">学校</span><span class="badge-primary badge">毕业帽</span><span class="badge-primary badge">大学</span><span class="badge-primary badge">学院</span><span class="badge-primary badge">学术帽</span><span class="badge-primary badge">学校黑</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">教育</span><span class="badge-primary badge">学习</span><span class="badge-primary badge">学生</span><span class="badge-primary badge">老师</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/school.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/school.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示教学，知识等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-school mdi-48px"></i>
   <i class="mdi mdi-school mdi-36px"></i>

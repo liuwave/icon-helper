@@ -1,6 +1,6 @@
 ---
 
-title: pound box(磅盒) ICON转svg、png下载
+title:  pound box(磅盒) ICON转svg、png下载
 name: pound-box
 zhTips: 磅盒,标签盒
 tags: []
@@ -8,11 +8,13 @@ search: hashtag-box
 
 ---
 
-# pound-box  <small style="font-size: 60%;font-weight: 100">磅盒</small>
+# pound box  <small style="font-size: 60%;font-weight: 100">磅盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

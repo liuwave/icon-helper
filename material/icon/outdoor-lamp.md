@@ -1,6 +1,6 @@
 ---
 
-title: outdoor lamp(户外灯) ICON转svg、png下载
+title:  outdoor lamp(户外灯) ICON转svg、png下载
 name: outdoor-lamp
 zhTips: 户外灯
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: outdoor-light
 
 ---
 
-# outdoor-lamp  <small style="font-size: 60%;font-weight: 100">户外灯</small>
+# outdoor lamp  <small style="font-size: 60%;font-weight: 100">户外灯</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

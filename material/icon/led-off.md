@@ -1,6 +1,6 @@
 ---
 
-title: led off(领导) ICON转svg、png下载
+title:  led off(领导) ICON转svg、png下载
 name: led-off
 zhTips: 领导
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# led-off  <small style="font-size: 60%;font-weight: 100">领导</small>
+# led off  <small style="font-size: 60%;font-weight: 100">领导</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

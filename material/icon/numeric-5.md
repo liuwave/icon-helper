@@ -1,6 +1,6 @@
 ---
 
-title: numeric 5(数字5) ICON转svg、png下载
+title:  numeric 5(数字5) ICON转svg、png下载
 name: numeric-5
 zhTips: 数字5
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: number-5,numeric-five
 
 ---
 
-# numeric-5  <small style="font-size: 60%;font-weight: 100">数字5</small>
+# numeric 5  <small style="font-size: 60%;font-weight: 100">数字5</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

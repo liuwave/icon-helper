@@ -1,6 +1,6 @@
 ---
 
-title: shopping(购物) ICON转svg、png下载
+title:  shopping(购物) ICON转svg、png下载
 name: shopping
 zhTips: 购物,当地购物中心,市场
 tags: ["shopping"]
@@ -13,6 +13,8 @@ search: local-mall,marketplace
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

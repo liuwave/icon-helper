@@ -1,6 +1,6 @@
 ---
 
-title: email newsletter(电子邮件通讯) ICON转svg、png下载
+title:  email newsletter(电子邮件通讯) ICON转svg、png下载
 name: email-newsletter
 zhTips: 电子邮件通讯
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# email-newsletter  <small style="font-size: 60%;font-weight: 100">电子邮件通讯</small>
+# email newsletter  <small style="font-size: 60%;font-weight: 100">电子邮件通讯</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

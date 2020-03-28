@@ -1,6 +1,6 @@
 ---
 
-title: eye plus outline(眼睛加轮廓) ICON转svg、png下载
+title:  eye plus outline(眼睛加轮廓) ICON转svg、png下载
 name: eye-plus-outline
 zhTips: 眼睛加轮廓
 tags: []
@@ -8,11 +8,13 @@ search: eye-add-outline
 
 ---
 
-# eye-plus-outline  <small style="font-size: 60%;font-weight: 100">眼睛加轮廓</small>
+# eye plus outline  <small style="font-size: 60%;font-weight: 100">眼睛加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

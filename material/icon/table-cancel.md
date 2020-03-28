@@ -1,6 +1,6 @@
 ---
 
-title: table cancel(表格取消) ICON转svg、png下载
+title:  table cancel(表格取消) ICON转svg、png下载
 name: table-cancel
 zhTips: 表格取消
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-cancel  <small style="font-size: 60%;font-weight: 100">表格取消</small>
+# table cancel  <small style="font-size: 60%;font-weight: 100">表格取消</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

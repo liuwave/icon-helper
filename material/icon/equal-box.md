@@ -1,6 +1,6 @@
 ---
 
-title: equal box(等盒) ICON转svg、png下载
+title:  equal box(等盒) ICON转svg、png下载
 name: equal-box
 zhTips: 等盒
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# equal-box  <small style="font-size: 60%;font-weight: 100">等盒</small>
+# equal box  <small style="font-size: 60%;font-weight: 100">等盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

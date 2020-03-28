@@ -1,6 +1,6 @@
 ---
 
-title: delete outline(删除轮廓) ICON转svg、png下载
+title:  delete outline(删除轮廓) ICON转svg、png下载
 name: delete-outline
 zhTips: 删除轮廓,垃圾轮廓,垃圾箱轮廓
 tags: []
@@ -8,11 +8,13 @@ search: garbage-outline,bin-outline,rubbish-outline,garbage-can-outline,rubbish-
 
 ---
 
-# delete-outline  <small style="font-size: 60%;font-weight: 100">删除轮廓</small>
+# delete outline  <small style="font-size: 60%;font-weight: 100">删除轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

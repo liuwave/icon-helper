@@ -1,6 +1,6 @@
 ---
 
-title: account plus(帐户加号) ICON转svg、png下载
+title:  account plus(帐户加号) ICON转svg、png下载
 name: account-plus
 zhTips: 帐户加号,注册,用户加号,人员添加,人员加号,用户添加,邀请
 tags: ["account-user","home-automation"]
@@ -8,11 +8,13 @@ search: register,user-plus,person-add,account-add,person-plus,user-add,invite
 
 ---
 
-# account-plus  <small style="font-size: 60%;font-weight: 100">帐户加号</small>
+# account plus  <small style="font-size: 60%;font-weight: 100">帐户加号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

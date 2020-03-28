@@ -1,6 +1,6 @@
 ---
 
-title: shield off(屏蔽关闭) ICON转svg、png下载
+title:  shield off(屏蔽关闭) ICON转svg、png下载
 name: shield-off
 zhTips: 屏蔽关闭,安全关闭
 tags: []
@@ -8,11 +8,13 @@ search: security-off
 
 ---
 
-# shield-off  <small style="font-size: 60%;font-weight: 100">屏蔽关闭</small>
+# shield off  <small style="font-size: 60%;font-weight: 100">屏蔽关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

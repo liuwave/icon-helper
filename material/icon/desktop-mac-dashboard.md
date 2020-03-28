@@ -1,6 +1,6 @@
 ---
 
-title: desktop mac dashboard(台式机Mac仪表板) ICON转svg、png下载
+title:  desktop mac dashboard(台式机Mac仪表板) ICON转svg、png下载
 name: desktop-mac-dashboard
 zhTips: 台式机Mac仪表板
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# desktop-mac-dashboard  <small style="font-size: 60%;font-weight: 100">台式机Mac仪表板</small>
+# desktop mac dashboard  <small style="font-size: 60%;font-weight: 100">台式机Mac仪表板</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

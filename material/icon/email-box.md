@@ -1,6 +1,6 @@
 ---
 
-title: email box(邮箱) ICON转svg、png下载
+title:  email box(邮箱) ICON转svg、png下载
 name: email-box
 zhTips: 邮箱,信封盒
 tags: []
@@ -8,11 +8,13 @@ search: envelope-box
 
 ---
 
-# email-box  <small style="font-size: 60%;font-weight: 100">邮箱</small>
+# email box  <small style="font-size: 60%;font-weight: 100">邮箱</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

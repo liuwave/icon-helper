@@ -1,6 +1,6 @@
 ---
 
-title: hospital building(医院大楼) ICON转svg、png下载
+title:  hospital building(医院大楼) ICON转svg、png下载
 name: hospital-building
 zhTips: 医院大楼
 tags: ["places","medical-hospital"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# hospital-building  <small style="font-size: 60%;font-weight: 100">医院大楼</small>
+# hospital building  <small style="font-size: 60%;font-weight: 100">医院大楼</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

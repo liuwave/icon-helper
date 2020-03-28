@@ -1,6 +1,6 @@
 ---
 
-title: rhombus(菱形菱形) ICON转svg、png下载
+title:  rhombus(菱形菱形) ICON转svg、png下载
 name: rhombus
 zhTips: 菱形菱形
 tags: ["shape"]
@@ -13,6 +13,8 @@ search: diamond
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: cpu 32 bit(cpu 32位) ICON转svg、png下载
+title:  cpu 32 bit(cpu 32位) ICON转svg、png下载
 name: cpu-32-bit
 zhTips: cpu 32位
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cpu-32-bit  <small style="font-size: 60%;font-weight: 100">cpu 32位</small>
+# cpu 32 bit  <small style="font-size: 60%;font-weight: 100">cpu 32位</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: flower tulip(儿童花郁金香) ICON转svg、png下载
+title:  flower tulip(儿童花郁金香) ICON转svg、png下载
 name: flower-tulip
 zhTips: 儿童花郁金香
 tags: ["nature"]
@@ -8,11 +8,13 @@ search: plant
 
 ---
 
-# flower-tulip  <small style="font-size: 60%;font-weight: 100">儿童花郁金香</small>
+# flower tulip  <small style="font-size: 60%;font-weight: 100">儿童花郁金香</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

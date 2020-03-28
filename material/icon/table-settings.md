@@ -1,6 +1,6 @@
 ---
 
-title: table settings(表设置) ICON转svg、png下载
+title:  table settings(表设置) ICON转svg、png下载
 name: table-settings
 zhTips: 表设置
 tags: ["settings"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-settings  <small style="font-size: 60%;font-weight: 100">表设置</small>
+# table settings  <small style="font-size: 60%;font-weight: 100">表设置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

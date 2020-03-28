@@ -1,6 +1,6 @@
 ---
 
-title: lock outline(锁轮廓) ICON转svg、png下载
+title:  lock outline(锁轮廓) ICON转svg、png下载
 name: lock-outline
 zhTips: 锁轮廓
 tags: ["lock","home-automation","automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# lock-outline  <small style="font-size: 60%;font-weight: 100">锁轮廓</small>
+# lock outline  <small style="font-size: 60%;font-weight: 100">锁轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

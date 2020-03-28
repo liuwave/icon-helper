@@ -1,6 +1,6 @@
 ---
 
-title: current dc(直流电流) ICON转svg、png下载
+title:  current dc(直流电流) ICON转svg、png下载
 name: current-dc
 zhTips: 直流电流,直流
 tags: []
@@ -8,11 +8,13 @@ search: direct-current
 
 ---
 
-# current-dc  <small style="font-size: 60%;font-weight: 100">直流电流</small>
+# current dc  <small style="font-size: 60%;font-weight: 100">直流电流</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

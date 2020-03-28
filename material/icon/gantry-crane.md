@@ -1,6 +1,6 @@
 ---
 
-title: gantry crane(龙门起重机) ICON转svg、png下载
+title:  gantry crane(龙门起重机) ICON转svg、png下载
 name: gantry-crane
 zhTips: 龙门起重机
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# gantry-crane  <small style="font-size: 60%;font-weight: 100">龙门起重机</small>
+# gantry crane  <small style="font-size: 60%;font-weight: 100">龙门起重机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: jellyfish(水母) ICON转svg、png下载
+title:  jellyfish(水母) ICON转svg、png下载
 name: jellyfish
 zhTips: 水母
 tags: ["animal"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

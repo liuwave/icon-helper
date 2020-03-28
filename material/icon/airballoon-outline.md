@@ -1,6 +1,6 @@
 ---
 
-title: airballoon outline(气球轮廓) ICON转svg、png下载
+title:  airballoon outline(气球轮廓) ICON转svg、png下载
 name: airballoon-outline
 zhTips: 气球轮廓,热气球轮廓
 tags: ["transportation-flying"]
@@ -8,11 +8,13 @@ search: hot-air-balloon-outline
 
 ---
 
-# airballoon-outline  <small style="font-size: 60%;font-weight: 100">气球轮廓</small>
+# airballoon outline  <small style="font-size: 60%;font-weight: 100">气球轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

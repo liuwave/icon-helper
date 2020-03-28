@@ -1,6 +1,6 @@
 ---
 
-title: math norm box(数学范数框) ICON转svg、png下载
+title:  math norm box(数学范数框) ICON转svg、png下载
 name: math-norm-box
 zhTips: 数学范数框,代码或框,并行框
 tags: ["math","developer-languages"]
@@ -8,11 +8,13 @@ search: code-or-box,parallel-box
 
 ---
 
-# math-norm-box  <small style="font-size: 60%;font-weight: 100">数学范数框</small>
+# math norm box  <small style="font-size: 60%;font-weight: 100">数学范数框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

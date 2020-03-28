@@ -1,6 +1,6 @@
 ---
 
-title: text subject(文字主题) ICON转svg、png下载
+title:  text subject(文字主题) ICON转svg、png下载
 name: text-subject
 zhTips: 文字主题
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# text-subject  <small style="font-size: 60%;font-weight: 100">文字主题</small>
+# text subject  <small style="font-size: 60%;font-weight: 100">文字主题</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

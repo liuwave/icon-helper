@@ -1,6 +1,6 @@
 ---
 
-title: feature search outline(特征搜索轮廓) ICON转svg、png下载
+title:  feature search outline(特征搜索轮廓) ICON转svg、png下载
 name: feature-search-outline
 zhTips: 特征搜索轮廓,框,框轮廓,框搜索轮廓
 tags: []
@@ -8,11 +8,13 @@ search: box,box-outline,box-search-outline
 
 ---
 
-# feature-search-outline  <small style="font-size: 60%;font-weight: 100">特征搜索轮廓</small>
+# feature search outline  <small style="font-size: 60%;font-weight: 100">特征搜索轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

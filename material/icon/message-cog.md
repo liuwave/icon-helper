@@ -1,6 +1,6 @@
 ---
 
-title: message cog(消息齿轮) ICON转svg、png下载
+title:  message cog(消息齿轮) ICON转svg、png下载
 name: message-cog
 zhTips: 消息齿轮
 tags: ["settings"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# message-cog  <small style="font-size: 60%;font-weight: 100">消息齿轮</small>
+# message cog  <small style="font-size: 60%;font-weight: 100">消息齿轮</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: page next(下一页) ICON转svg、png下载
+title:  page next(下一页) ICON转svg、png下载
 name: page-next
 zhTips: 下一页,更多
 tags: []
@@ -8,11 +8,13 @@ search: read-more
 
 ---
 
-# page-next  <small style="font-size: 60%;font-weight: 100">下一页</small>
+# page next  <small style="font-size: 60%;font-weight: 100">下一页</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

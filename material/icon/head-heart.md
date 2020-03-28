@@ -1,6 +1,6 @@
 ---
 
-title: head heart(头心) ICON转svg、png下载
+title:  head heart(头心) ICON转svg、png下载
 name: head-heart
 zhTips: 头心,爱头
 tags: []
@@ -8,11 +8,13 @@ search: head-love
 
 ---
 
-# head-heart  <small style="font-size: 60%;font-weight: 100">头心</small>
+# head heart  <small style="font-size: 60%;font-weight: 100">头心</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

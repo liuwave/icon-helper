@@ -1,6 +1,6 @@
 ---
 
-title: arrow right bold hexagon outline(箭头右加粗六边形轮廓) ICON转svg、png下载
+title:  arrow right bold hexagon outline(箭头右加粗六边形轮廓) ICON转svg、png下载
 name: arrow-right-bold-hexagon-outline
 zhTips: 箭头右加粗六边形轮廓
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# arrow-right-bold-hexagon-outline  <small style="font-size: 60%;font-weight: 100">箭头右加粗六边形轮廓</small>
+# arrow right bold hexagon outline  <small style="font-size: 60%;font-weight: 100">箭头右加粗六边形轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

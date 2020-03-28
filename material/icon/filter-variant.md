@@ -1,6 +1,6 @@
 ---
 
-title: filter variant(过滤器变量) ICON转svg、png下载
+title:  filter variant(过滤器变量) ICON转svg、png下载
 name: filter-variant
 zhTips: 过滤器变量,过滤器列表
 tags: []
@@ -8,11 +8,13 @@ search: filter-list
 
 ---
 
-# filter-variant  <small style="font-size: 60%;font-weight: 100">过滤器变量</small>
+# filter variant  <small style="font-size: 60%;font-weight: 100">过滤器变量</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

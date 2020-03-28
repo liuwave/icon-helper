@@ -1,6 +1,6 @@
 ---
 
-title: human male male(人类男性男男人) ICON转svg、png下载
+title:  human male male(人类男性男男人) ICON转svg、png下载
 name: human-male-male
 zhTips: 人类男性男男人
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search: man-man,men
 
 ---
 
-# human-male-male  <small style="font-size: 60%;font-weight: 100">人类男性男男人</small>
+# human male male  <small style="font-size: 60%;font-weight: 100">人类男性男男人</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

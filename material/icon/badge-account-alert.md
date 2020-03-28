@@ -1,6 +1,6 @@
 ---
 
-title: badge account alert(徽章帐户警报) ICON转svg、png下载
+title:  badge account alert(徽章帐户警报) ICON转svg、png下载
 name: badge-account-alert
 zhTips: 徽章帐户警报,用户徽章警报,人员徽章警报,帐户徽章警告,用户徽章警告,人员徽章警告
 tags: ["account-user","alert-error","alert-error"]
@@ -8,11 +8,13 @@ search: user-badge-alert,person-badge-alert,account-badge-warning,user-badge-war
 
 ---
 
-# badge-account-alert  <small style="font-size: 60%;font-weight: 100">徽章帐户警报</small>
+# badge account alert  <small style="font-size: 60%;font-weight: 100">徽章帐户警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

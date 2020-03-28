@@ -1,6 +1,6 @@
 ---
 
-title: circle off outline(圈出轮廓) ICON转svg、png下载
+title:  circle off outline(圈出轮廓) ICON转svg、png下载
 name: circle-off-outline
 zhTips: 圈出轮廓,无效
 tags: []
@@ -8,11 +8,13 @@ search: null-off
 
 ---
 
-# circle-off-outline  <small style="font-size: 60%;font-weight: 100">圈出轮廓</small>
+# circle off outline  <small style="font-size: 60%;font-weight: 100">圈出轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

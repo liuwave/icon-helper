@@ -1,6 +1,6 @@
 ---
 
-title: human baby changing table(人类婴儿尿布台) ICON转svg、png下载
+title:  human baby changing table(人类婴儿尿布台) ICON转svg、png下载
 name: human-baby-changing-table
 zhTips: 人类婴儿尿布台
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# human-baby-changing-table  <small style="font-size: 60%;font-weight: 100">人类婴儿尿布台</small>
+# human baby changing table  <small style="font-size: 60%;font-weight: 100">人类婴儿尿布台</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

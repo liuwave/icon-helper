@@ -1,6 +1,6 @@
 ---
 
-title: alpha u(alpha u) ICON转svg、png下载
+title:  alpha u(alpha u) ICON转svg、png下载
 name: alpha-u
 zhTips: alpha u,字母u
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-u,letter-u
 
 ---
 
-# alpha-u  <small style="font-size: 60%;font-weight: 100">alpha u</small>
+# alpha u  <small style="font-size: 60%;font-weight: 100">alpha u</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

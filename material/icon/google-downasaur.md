@@ -1,6 +1,6 @@
 ---
 
-title: google downasaur(Google downasaur) ICON转svg、png下载
+title:  google downasaur(Google downasaur) ICON转svg、png下载
 name: google-downasaur
 zhTips: Google downasaur,恐龙像素,霸王龙
 tags: ["animal","gaming-rpg"]
@@ -8,11 +8,13 @@ search: dinosaur-pixel,t-rex,tyrannosaurus-rex
 
 ---
 
-# google-downasaur  <small style="font-size: 60%;font-weight: 100">Google downasaur</small>
+# google downasaur  <small style="font-size: 60%;font-weight: 100">Google downasaur</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

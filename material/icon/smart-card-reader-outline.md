@@ -1,6 +1,6 @@
 ---
 
-title: smart card reader outline(智能卡读卡器概述) ICON转svg、png下载
+title:  smart card reader outline(智能卡读卡器概述) ICON转svg、png下载
 name: smart-card-reader-outline
 zhTips: 智能卡读卡器概述
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# smart-card-reader-outline  <small style="font-size: 60%;font-weight: 100">智能卡读卡器概述</small>
+# smart card reader outline  <small style="font-size: 60%;font-weight: 100">智能卡读卡器概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

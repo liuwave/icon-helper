@@ -1,6 +1,6 @@
 ---
 
-title: radiator(暖气片) ICON转svg、png下载
+title:  radiator(暖气片) ICON转svg、png下载
 name: radiator
 zhTips: 暖气片,加热器
 tags: ["home-automation"]
@@ -13,6 +13,8 @@ search: heater
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

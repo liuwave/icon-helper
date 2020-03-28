@@ -1,6 +1,6 @@
 ---
 
-title: airplane off(飞机已关闭) ICON转svg、png下载
+title:  airplane off(飞机已关闭) ICON转svg、png下载
 name: airplane-off
 zhTips: 飞机已关闭,空中飞机已关闭,飞机模式无效,飞行模式已关闭
 tags: ["transportation-flying"]
@@ -8,11 +8,13 @@ search: aeroplane-off,airplanemode-inactive,flight-mode-off,plane-off
 
 ---
 
-# airplane-off  <small style="font-size: 60%;font-weight: 100">飞机已关闭</small>
+# airplane off  <small style="font-size: 60%;font-weight: 100">飞机已关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: pipe disconnected(断开的管道) ICON转svg、png下载
+title:  pipe disconnected(断开的管道) ICON转svg、png下载
 name: pipe-disconnected
 zhTips: 断开的管道
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pipe-disconnected  <small style="font-size: 60%;font-weight: 100">断开的管道</small>
+# pipe disconnected  <small style="font-size: 60%;font-weight: 100">断开的管道</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

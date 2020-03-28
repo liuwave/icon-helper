@@ -1,6 +1,6 @@
 ---
 
-title: alpha f(alpha f) ICON转svg、png下载
+title:  alpha f(alpha f) ICON转svg、png下载
 name: alpha-f
 zhTips: alpha f,字母f
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-f,letter-f
 
 ---
 
-# alpha-f  <small style="font-size: 60%;font-weight: 100">alpha f</small>
+# alpha f  <small style="font-size: 60%;font-weight: 100">alpha f</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

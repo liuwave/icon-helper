@@ -1,6 +1,6 @@
 ---
 
-title: account multiple remove(帐户多个删除) ICON转svg、png下载
+title:  account multiple remove(帐户多个删除) ICON转svg、png下载
 name: account-multiple-remove
 zhTips: 帐户多个删除,用户多个删除,人多个删除
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-multiple-remove,person-multiple-remove
 
 ---
 
-# account-multiple-remove  <small style="font-size: 60%;font-weight: 100">帐户多个删除</small>
+# account multiple remove  <small style="font-size: 60%;font-weight: 100">帐户多个删除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

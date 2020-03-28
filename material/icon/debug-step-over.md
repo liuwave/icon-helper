@@ -1,6 +1,6 @@
 ---
 
-title: debug step over(调试跳过) ICON转svg、png下载
+title:  debug step over(调试跳过) ICON转svg、png下载
 name: debug-step-over
 zhTips: 调试跳过,跳过,跳转
 tags: []
@@ -8,11 +8,13 @@ search: skip,jump
 
 ---
 
-# debug-step-over  <small style="font-size: 60%;font-weight: 100">调试跳过</small>
+# debug step over  <small style="font-size: 60%;font-weight: 100">调试跳过</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

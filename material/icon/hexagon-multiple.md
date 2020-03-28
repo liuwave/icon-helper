@@ -1,6 +1,6 @@
 ---
 
-title: hexagon multiple(六角形六边形) ICON转svg、png下载
+title:  hexagon multiple(六角形六边形) ICON转svg、png下载
 name: hexagon-multiple
 zhTips: 六角形六边形
 tags: ["shape"]
@@ -8,11 +8,13 @@ search: hexagons
 
 ---
 
-# hexagon-multiple  <small style="font-size: 60%;font-weight: 100">六角形六边形</small>
+# hexagon multiple  <small style="font-size: 60%;font-weight: 100">六角形六边形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

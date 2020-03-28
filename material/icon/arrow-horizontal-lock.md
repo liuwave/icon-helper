@@ -1,6 +1,6 @@
 ---
 
-title: arrow horizontal lock(箭头水平锁) ICON转svg、png下载
+title:  arrow horizontal lock(箭头水平锁) ICON转svg、png下载
 name: arrow-horizontal-lock
 zhTips: 箭头水平锁,滚动水平锁
 tags: ["lock","arrow"]
@@ -8,11 +8,13 @@ search: scroll-horizontal-lock
 
 ---
 
-# arrow-horizontal-lock  <small style="font-size: 60%;font-weight: 100">箭头水平锁</small>
+# arrow horizontal lock  <small style="font-size: 60%;font-weight: 100">箭头水平锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

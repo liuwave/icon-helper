@@ -1,8 +1,8 @@
 ---
 
-title: dumbbell(哑铃) ICON转svg、png下载
+title:  dumbbell(哑铃) ICON转svg、png下载
 name: dumbbell
-zhTips: 哑铃,举重,健身中心
+zhTips: 哑铃,举重,健身中心,运动,健身操,力量
 tags: ["sport"]
 search: weights,fitness-center
 
@@ -13,6 +13,8 @@ search: weights,fitness-center
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">weights</span><span class="badge-light badge">fitness-center</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">哑铃</span><span class="badge-primary badge">举重</span><span class="badge-primary badge">健身中心</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/dumbbell.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/dumbbell.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">weights</span><span class="badge-light badge">fitness-center</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">哑铃</span><span class="badge-primary badge">举重</span><span class="badge-primary badge">健身中心</span><span class="badge-primary badge">运动</span><span class="badge-primary badge">健身操</span><span class="badge-primary badge">力量</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/dumbbell.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/dumbbell.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">哑铃，可表示健身房、锻炼。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-dumbbell mdi-48px"></i>
   <i class="mdi mdi-dumbbell mdi-36px"></i>

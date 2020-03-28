@@ -1,6 +1,6 @@
 ---
 
-title: car arrow right(右箭头车) ICON转svg、png下载
+title:  car arrow right(右箭头车) ICON转svg、png下载
 name: car-arrow-right
 zhTips: 右箭头车
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# car-arrow-right  <small style="font-size: 60%;font-weight: 100">右箭头车</small>
+# car arrow right  <small style="font-size: 60%;font-weight: 100">右箭头车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

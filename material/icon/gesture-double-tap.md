@@ -1,6 +1,6 @@
 ---
 
-title: gesture double tap(双击手势) ICON转svg、png下载
+title:  gesture double tap(双击手势) ICON转svg、png下载
 name: gesture-double-tap
 zhTips: 双击手势,双击交互,双击手
 tags: []
@@ -8,11 +8,13 @@ search: interaction-double-tap,hand-double-tap
 
 ---
 
-# gesture-double-tap  <small style="font-size: 60%;font-weight: 100">双击手势</small>
+# gesture double tap  <small style="font-size: 60%;font-weight: 100">双击手势</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

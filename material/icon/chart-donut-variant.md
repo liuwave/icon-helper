@@ -1,6 +1,6 @@
 ---
 
-title: chart donut variant(图表甜甜圈口音) ICON转svg、png下载
+title:  chart donut variant(图表甜甜圈口音) ICON转svg、png下载
 name: chart-donut-variant
 zhTips: 图表甜甜圈口音
 tags: ["math"]
@@ -8,11 +8,13 @@ search: chart-doughnut-variant
 
 ---
 
-# chart-donut-variant  <small style="font-size: 60%;font-weight: 100">图表甜甜圈口音</small>
+# chart donut variant  <small style="font-size: 60%;font-weight: 100">图表甜甜圈口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

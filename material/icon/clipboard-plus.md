@@ -1,6 +1,6 @@
 ---
 
-title: clipboard plus(剪贴板加) ICON转svg、png下载
+title:  clipboard plus(剪贴板加) ICON转svg、png下载
 name: clipboard-plus
 zhTips: 剪贴板加,剪贴板添加
 tags: []
@@ -8,11 +8,13 @@ search: clipboard-add
 
 ---
 
-# clipboard-plus  <small style="font-size: 60%;font-weight: 100">剪贴板加</small>
+# clipboard plus  <small style="font-size: 60%;font-weight: 100">剪贴板加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

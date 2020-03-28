@@ -1,6 +1,6 @@
 ---
 
-title: comment account(评论帐户) ICON转svg、png下载
+title:  comment account(评论帐户) ICON转svg、png下载
 name: comment-account
 zhTips: 评论帐户,用户评论,个人评论
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: comment-user,comment-person
 
 ---
 
-# comment-account  <small style="font-size: 60%;font-weight: 100">评论帐户</small>
+# comment account  <small style="font-size: 60%;font-weight: 100">评论帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

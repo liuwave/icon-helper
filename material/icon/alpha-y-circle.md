@@ -1,6 +1,6 @@
 ---
 
-title: alpha y circle(字母y圈) ICON转svg、png下载
+title:  alpha y circle(字母y圈) ICON转svg、png下载
 name: alpha-y-circle
 zhTips: 字母y圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-y-circle,letter-y-circle
 
 ---
 
-# alpha-y-circle  <small style="font-size: 60%;font-weight: 100">字母y圈</small>
+# alpha y circle  <small style="font-size: 60%;font-weight: 100">字母y圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

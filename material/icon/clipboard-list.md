@@ -1,6 +1,6 @@
 ---
 
-title: clipboard list(剪贴板列表) ICON转svg、png下载
+title:  clipboard list(剪贴板列表) ICON转svg、png下载
 name: clipboard-list
 zhTips: 剪贴板列表
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# clipboard-list  <small style="font-size: 60%;font-weight: 100">剪贴板列表</small>
+# clipboard list  <small style="font-size: 60%;font-weight: 100">剪贴板列表</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

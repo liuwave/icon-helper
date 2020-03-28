@@ -1,6 +1,6 @@
 ---
 
-title: keyboard tab(键盘选项卡) ICON转svg、png下载
+title:  keyboard tab(键盘选项卡) ICON转svg、png下载
 name: keyboard-tab
 zhTips: 键盘选项卡
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# keyboard-tab  <small style="font-size: 60%;font-weight: 100">键盘选项卡</small>
+# keyboard tab  <small style="font-size: 60%;font-weight: 100">键盘选项卡</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

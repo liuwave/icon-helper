@@ -1,6 +1,6 @@
 ---
 
-title: folder google drive(文件夹google驱动器) ICON转svg、png下载
+title:  folder google drive(文件夹google驱动器) ICON转svg、png下载
 name: folder-google-drive
 zhTips: 文件夹google驱动器,文件夹mydrive
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: folder-mydrive
 
 ---
 
-# folder-google-drive  <small style="font-size: 60%;font-weight: 100">文件夹google驱动器</small>
+# folder google drive  <small style="font-size: 60%;font-weight: 100">文件夹google驱动器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

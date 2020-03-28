@@ -1,6 +1,6 @@
 ---
 
-title: arrow top right bottom left bold(箭头右上右下左粗体) ICON转svg、png下载
+title:  arrow top right bottom left bold(箭头右上右下左粗体) ICON转svg、png下载
 name: arrow-top-right-bottom-left-bold
 zhTips: 箭头右上右下左粗体
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# arrow-top-right-bottom-left-bold  <small style="font-size: 60%;font-weight: 100">箭头右上右下左粗体</small>
+# arrow top right bottom left bold  <small style="font-size: 60%;font-weight: 100">箭头右上右下左粗体</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

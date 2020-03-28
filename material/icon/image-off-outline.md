@@ -1,6 +1,6 @@
 ---
 
-title: image off outline(图像偏离轮廓) ICON转svg、png下载
+title:  image off outline(图像偏离轮廓) ICON转svg、png下载
 name: image-off-outline
 zhTips: 图像偏离轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# image-off-outline  <small style="font-size: 60%;font-weight: 100">图像偏离轮廓</small>
+# image off outline  <small style="font-size: 60%;font-weight: 100">图像偏离轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

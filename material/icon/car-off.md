@@ -1,6 +1,6 @@
 ---
 
-title: car off(下车) ICON转svg、png下载
+title:  car off(下车) ICON转svg、png下载
 name: car-off
 zhTips: 下车
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# car-off  <small style="font-size: 60%;font-weight: 100">下车</small>
+# car off  <small style="font-size: 60%;font-weight: 100">下车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alarm plus(闹钟加) ICON转svg、png下载
+title:  alarm plus(闹钟加) ICON转svg、png下载
 name: alarm-plus
 zhTips: 闹钟加,添加闹钟,闹钟添加
 tags: []
@@ -8,11 +8,13 @@ search: add-alarm,alarm-clock-plus,alarm-clock-add,alarm-add
 
 ---
 
-# alarm-plus  <small style="font-size: 60%;font-weight: 100">闹钟加</small>
+# alarm plus  <small style="font-size: 60%;font-weight: 100">闹钟加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

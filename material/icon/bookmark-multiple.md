@@ -1,6 +1,6 @@
 ---
 
-title: bookmark multiple(多个书签) ICON转svg、png下载
+title:  bookmark multiple(多个书签) ICON转svg、png下载
 name: bookmark-multiple
 zhTips: 多个书签
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bookmark-multiple  <small style="font-size: 60%;font-weight: 100">多个书签</small>
+# bookmark multiple  <small style="font-size: 60%;font-weight: 100">多个书签</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

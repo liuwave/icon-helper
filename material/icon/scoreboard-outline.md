@@ -1,6 +1,6 @@
 ---
 
-title: scoreboard outline(计分板轮廓) ICON转svg、png下载
+title:  scoreboard outline(计分板轮廓) ICON转svg、png下载
 name: scoreboard-outline
 zhTips: 计分板轮廓
 tags: ["sport"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# scoreboard-outline  <small style="font-size: 60%;font-weight: 100">计分板轮廓</small>
+# scoreboard outline  <small style="font-size: 60%;font-weight: 100">计分板轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

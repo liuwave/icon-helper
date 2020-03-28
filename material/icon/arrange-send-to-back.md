@@ -1,6 +1,6 @@
 ---
 
-title: arrange send to back(安排发送回) ICON转svg、png下载
+title:  arrange send to back(安排发送回) ICON转svg、png下载
 name: arrange-send-to-back
 zhTips: 安排发送回
 tags: ["arrange","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# arrange-send-to-back  <small style="font-size: 60%;font-weight: 100">安排发送回</small>
+# arrange send to back  <small style="font-size: 60%;font-weight: 100">安排发送回</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alpha w circle(字母w圈) ICON转svg、png下载
+title:  alpha w circle(字母w圈) ICON转svg、png下载
 name: alpha-w-circle
 zhTips: 字母w圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-w-circle,letter-w-circle
 
 ---
 
-# alpha-w-circle  <small style="font-size: 60%;font-weight: 100">字母w圈</small>
+# alpha w circle  <small style="font-size: 60%;font-weight: 100">字母w圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

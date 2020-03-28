@@ -1,6 +1,6 @@
 ---
 
-title: key star(星号键) ICON转svg、png下载
+title:  key star(星号键) ICON转svg、png下载
 name: key-star
 zhTips: 星号键,主键,sql主键
 tags: []
@@ -8,11 +8,13 @@ search: primary-key,sql-primary-key
 
 ---
 
-# key-star  <small style="font-size: 60%;font-weight: 100">星号键</small>
+# key star  <small style="font-size: 60%;font-weight: 100">星号键</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

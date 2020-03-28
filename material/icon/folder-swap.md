@@ -1,6 +1,6 @@
 ---
 
-title: folder swap(交换文件夹) ICON转svg、png下载
+title:  folder swap(交换文件夹) ICON转svg、png下载
 name: folder-swap
 zhTips: 交换文件夹,转移文件夹
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: folder-transfer
 
 ---
 
-# folder-swap  <small style="font-size: 60%;font-weight: 100">交换文件夹</small>
+# folder swap  <small style="font-size: 60%;font-weight: 100">交换文件夹</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

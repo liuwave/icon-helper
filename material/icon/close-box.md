@@ -1,6 +1,6 @@
 ---
 
-title: close box(关闭框) ICON转svg、png下载
+title:  close box(关闭框) ICON转svg、png下载
 name: close-box
 zhTips: 关闭框,乘法框
 tags: ["math"]
@@ -8,11 +8,13 @@ search: multiply-box
 
 ---
 
-# close-box  <small style="font-size: 60%;font-weight: 100">关闭框</small>
+# close box  <small style="font-size: 60%;font-weight: 100">关闭框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: car coolant level(汽车冷却液液位) ICON转svg、png下载
+title:  car coolant level(汽车冷却液液位) ICON转svg、png下载
 name: car-coolant-level
 zhTips: 汽车冷却液液位
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# car-coolant-level  <small style="font-size: 60%;font-weight: 100">汽车冷却液液位</small>
+# car coolant level  <small style="font-size: 60%;font-weight: 100">汽车冷却液液位</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

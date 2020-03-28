@@ -1,6 +1,6 @@
 ---
 
-title: kettle steam(蒸汽烧水壶) ICON转svg、png下载
+title:  kettle steam(蒸汽烧水壶) ICON转svg、png下载
 name: kettle-steam
 zhTips: 蒸汽烧水壶,蒸汽烧水壶茶,蒸汽烧水壶全蒸,茶水壶全蒸
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: tea-kettle-steam,kettle-full-steam,tea-kettle-full-steam
 
 ---
 
-# kettle-steam  <small style="font-size: 60%;font-weight: 100">蒸汽烧水壶</small>
+# kettle steam  <small style="font-size: 60%;font-weight: 100">蒸汽烧水壶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

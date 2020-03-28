@@ -1,6 +1,6 @@
 ---
 
-title: alpha e(alpha e) ICON转svg、png下载
+title:  alpha e(alpha e) ICON转svg、png下载
 name: alpha-e
 zhTips: alpha e,字母e
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-e,letter-e
 
 ---
 
-# alpha-e  <small style="font-size: 60%;font-weight: 100">alpha e</small>
+# alpha e  <small style="font-size: 60%;font-weight: 100">alpha e</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

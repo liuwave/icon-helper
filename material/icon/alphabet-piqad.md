@@ -1,6 +1,6 @@
 ---
 
-title: alphabet piqad(字母piqad) ICON转svg、png下载
+title:  alphabet piqad(字母piqad) ICON转svg、png下载
 name: alphabet-piqad
 zhTips: 字母piqad,书写系统piqad
 tags: ["alpha-numeric","alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-piqad
 
 ---
 
-# alphabet-piqad  <small style="font-size: 60%;font-weight: 100">字母piqad</small>
+# alphabet piqad  <small style="font-size: 60%;font-weight: 100">字母piqad</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

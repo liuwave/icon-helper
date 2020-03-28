@@ -1,6 +1,6 @@
 ---
 
-title: playlist check(播放列表检查) ICON转svg、png下载
+title:  playlist check(播放列表检查) ICON转svg、png下载
 name: playlist-check
 zhTips: 播放列表检查,订阅,播放列表添加检查,播放列表刻度
 tags: []
@@ -8,11 +8,13 @@ search: subscriptions,playlist-add-check,playlist-tick
 
 ---
 
-# playlist-check  <small style="font-size: 60%;font-weight: 100">播放列表检查</small>
+# playlist check  <small style="font-size: 60%;font-weight: 100">播放列表检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

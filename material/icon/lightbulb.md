@@ -1,8 +1,8 @@
 ---
 
-title: lightbulb(灯泡) ICON转svg、png下载
+title:  lightbulb(灯泡) ICON转svg、png下载
 name: lightbulb
-zhTips: 灯泡,主意
+zhTips: 灯泡,主意,灯泡黑,能源,理念,灵感,光
 tags: ["home-automation"]
 search: idea,bulb
 
@@ -13,6 +13,8 @@ search: idea,bulb
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">idea</span><span class="badge-light badge">bulb</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">灯泡</span><span class="badge-primary badge">主意</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/lightbulb.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/lightbulb.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">idea</span><span class="badge-light badge">bulb</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">灯泡</span><span class="badge-primary badge">主意</span><span class="badge-primary badge">灯泡黑</span><span class="badge-primary badge">能源</span><span class="badge-primary badge">理念</span><span class="badge-primary badge">灵感</span><span class="badge-primary badge">光</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/lightbulb.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/lightbulb.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">明亮，光明，也可表示创意、灵感。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-lightbulb mdi-48px"></i>
   <i class="mdi mdi-lightbulb mdi-36px"></i>

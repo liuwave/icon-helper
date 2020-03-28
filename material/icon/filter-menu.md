@@ -1,6 +1,6 @@
 ---
 
-title: filter menu(过滤菜单) ICON转svg、png下载
+title:  filter menu(过滤菜单) ICON转svg、png下载
 name: filter-menu
 zhTips: 过滤菜单
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# filter-menu  <small style="font-size: 60%;font-weight: 100">过滤菜单</small>
+# filter menu  <small style="font-size: 60%;font-weight: 100">过滤菜单</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

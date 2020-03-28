@@ -1,6 +1,6 @@
 ---
 
-title: head remove(头部移除) ICON转svg、png下载
+title:  head remove(头部移除) ICON转svg、png下载
 name: head-remove
 zhTips: 头部移除
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# head-remove  <small style="font-size: 60%;font-weight: 100">头部移除</small>
+# head remove  <small style="font-size: 60%;font-weight: 100">头部移除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: omega(Ω) ICON转svg、png下载
+title:  omega(Ω) ICON转svg、png下载
 name: omega
 zhTips: Ω,欧姆,电阻
 tags: []
@@ -13,6 +13,8 @@ search: ohm,electrical-resistance
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

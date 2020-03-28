@@ -1,6 +1,6 @@
 ---
 
-title: arrow right bold outline(右箭头加粗轮廓) ICON转svg、png下载
+title:  arrow right bold outline(右箭头加粗轮廓) ICON转svg、png下载
 name: arrow-right-bold-outline
 zhTips: 右箭头加粗轮廓
 tags: ["arrow","automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# arrow-right-bold-outline  <small style="font-size: 60%;font-weight: 100">右箭头加粗轮廓</small>
+# arrow right bold outline  <small style="font-size: 60%;font-weight: 100">右箭头加粗轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

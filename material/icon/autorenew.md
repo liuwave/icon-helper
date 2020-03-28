@@ -1,6 +1,6 @@
 ---
 
-title: autorenew(自动更新) ICON转svg、png下载
+title:  autorenew(自动更新) ICON转svg、png下载
 name: autorenew
 zhTips: 自动更新,顺时针箭头,圆形箭头
 tags: []
@@ -13,6 +13,8 @@ search: clockwise-arrows,circular-arrows,circle-arrows
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: chevron triple down(人字形三重向下) ICON转svg、png下载
+title:  chevron triple down(人字形三重向下) ICON转svg、png下载
 name: chevron-triple-down
 zhTips: 人字形三重向下
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chevron-triple-down  <small style="font-size: 60%;font-weight: 100">人字形三重向下</small>
+# chevron triple down  <small style="font-size: 60%;font-weight: 100">人字形三重向下</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: minecraft(我的世界) ICON转svg、png下载
+title:  minecraft(我的世界) ICON转svg、png下载
 name: minecraft
 zhTips: 我的世界,Microsoft minecraft
 tags: ["brand-logo"]
@@ -13,6 +13,8 @@ search: microsoft-minecraft
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

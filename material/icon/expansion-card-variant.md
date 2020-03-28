@@ -1,6 +1,6 @@
 ---
 
-title: expansion card variant(扩充卡型号) ICON转svg、png下载
+title:  expansion card variant(扩充卡型号) ICON转svg、png下载
 name: expansion-card-variant
 zhTips: 扩充卡型号,图形处理器,gpu,网络接口卡,不错
 tags: []
@@ -8,11 +8,13 @@ search: graphics-processing-unit,gpu,network-interface-card,nice
 
 ---
 
-# expansion-card-variant  <small style="font-size: 60%;font-weight: 100">扩充卡型号</small>
+# expansion card variant  <small style="font-size: 60%;font-weight: 100">扩充卡型号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

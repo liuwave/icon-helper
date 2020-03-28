@@ -1,6 +1,6 @@
 ---
 
-title: reflect vertical(垂直反射) ICON转svg、png下载
+title:  reflect vertical(垂直反射) ICON转svg、png下载
 name: reflect-vertical
 zhTips: 垂直反射
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# reflect-vertical  <small style="font-size: 60%;font-weight: 100">垂直反射</small>
+# reflect vertical  <small style="font-size: 60%;font-weight: 100">垂直反射</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

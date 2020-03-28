@@ -1,6 +1,6 @@
 ---
 
-title: bike fast(快速骑行) ICON转svg、png下载
+title:  bike fast(快速骑行) ICON转svg、png下载
 name: bike-fast
 zhTips: 快速骑行
 tags: ["transportation-other"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bike-fast  <small style="font-size: 60%;font-weight: 100">快速骑行</small>
+# bike fast  <small style="font-size: 60%;font-weight: 100">快速骑行</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

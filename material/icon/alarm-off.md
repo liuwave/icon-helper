@@ -1,6 +1,6 @@
 ---
 
-title: alarm off(闹钟关闭) ICON转svg、png下载
+title:  alarm off(闹钟关闭) ICON转svg、png下载
 name: alarm-off
 zhTips: 闹钟关闭
 tags: []
@@ -8,11 +8,13 @@ search: alarm-clock-off
 
 ---
 
-# alarm-off  <small style="font-size: 60%;font-weight: 100">闹钟关闭</small>
+# alarm off  <small style="font-size: 60%;font-weight: 100">闹钟关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

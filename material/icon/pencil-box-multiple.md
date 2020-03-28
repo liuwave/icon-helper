@@ -1,6 +1,6 @@
 ---
 
-title: pencil box multiple(多个铅笔盒) ICON转svg、png下载
+title:  pencil box multiple(多个铅笔盒) ICON转svg、png下载
 name: pencil-box-multiple
 zhTips: 多个铅笔盒,库编辑
 tags: ["edit-modify"]
@@ -8,11 +8,13 @@ search: library-edit
 
 ---
 
-# pencil-box-multiple  <small style="font-size: 60%;font-weight: 100">多个铅笔盒</small>
+# pencil box multiple  <small style="font-size: 60%;font-weight: 100">多个铅笔盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

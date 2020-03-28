@@ -1,6 +1,6 @@
 ---
 
-title: table headers eye off(表格标题) ICON转svg、png下载
+title:  table headers eye off(表格标题) ICON转svg、png下载
 name: table-headers-eye-off
 zhTips: 表格标题
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-headers-eye-off  <small style="font-size: 60%;font-weight: 100">表格标题</small>
+# table headers eye off  <small style="font-size: 60%;font-weight: 100">表格标题</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: coffee(咖啡) ICON转svg、png下载
+title:  coffee(咖啡) ICON转svg、png下载
 name: coffee
-zhTips: 咖啡,茶,杯子,免费早餐,当地咖啡馆
+zhTips: 咖啡,茶,杯子,免费早餐,当地咖啡馆,饮料,早餐,咖啡厅,秋天,早上,季节性
 tags: ["food-drink"]
 search: tea,cup,free-breakfast,local-cafe
 
@@ -13,6 +13,8 @@ search: tea,cup,free-breakfast,local-cafe
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">tea</span><span class="badge-light badge">cup</span><span class="badge-light badge">free-breakfast</span><span class="badge-light badge">local-cafe</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">咖啡</span><span class="badge-primary badge">茶</span><span class="badge-primary badge">杯子</span><span class="badge-primary badge">免费早餐</span><span class="badge-primary badge">当地咖啡馆</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/coffee.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/coffee.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">tea</span><span class="badge-light badge">cup</span><span class="badge-light badge">free-breakfast</span><span class="badge-light badge">local-cafe</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">咖啡</span><span class="badge-primary badge">茶</span><span class="badge-primary badge">杯子</span><span class="badge-primary badge">免费早餐</span><span class="badge-primary badge">当地咖啡馆</span><span class="badge-primary badge">饮料</span><span class="badge-primary badge">早餐</span><span class="badge-primary badge">咖啡厅</span><span class="badge-primary badge">秋天</span><span class="badge-primary badge">早上</span><span class="badge-primary badge">季节性</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/coffee.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/coffee.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">咖啡，可以表示休闲、饮料。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-coffee mdi-48px"></i>
   <i class="mdi mdi-coffee mdi-36px"></i>

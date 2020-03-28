@@ -1,6 +1,6 @@
 ---
 
-title: account cancel(帐户取消) ICON转svg、png下载
+title:  account cancel(帐户取消) ICON转svg、png下载
 name: account-cancel
 zhTips: 帐户取消,用户取消,用户阻止,人员取消,人员阻止
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-cancel,user-block,person-cancel,person-block
 
 ---
 
-# account-cancel  <small style="font-size: 60%;font-weight: 100">帐户取消</small>
+# account cancel  <small style="font-size: 60%;font-weight: 100">帐户取消</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

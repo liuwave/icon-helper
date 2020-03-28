@@ -1,6 +1,6 @@
 ---
 
-title: pause circle outline(暂停圈轮廓) ICON转svg、png下载
+title:  pause circle outline(暂停圈轮廓) ICON转svg、png下载
 name: pause-circle-outline
 zhTips: 暂停圈轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pause-circle-outline  <small style="font-size: 60%;font-weight: 100">暂停圈轮廓</small>
+# pause circle outline  <small style="font-size: 60%;font-weight: 100">暂停圈轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: home floor 2(房屋2层) ICON转svg、png下载
+title:  home floor 2(房屋2层) ICON转svg、png下载
 name: home-floor-2
 zhTips: 房屋2层
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: house-floor-2,home-floor-two,house-floor-two,home-floor-second,house-flo
 
 ---
 
-# home-floor-2  <small style="font-size: 60%;font-weight: 100">房屋2层</small>
+# home floor 2  <small style="font-size: 60%;font-weight: 100">房屋2层</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

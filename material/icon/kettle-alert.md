@@ -1,6 +1,6 @@
 ---
 
-title: kettle alert(水壶警报) ICON转svg、png下载
+title:  kettle alert(水壶警报) ICON转svg、png下载
 name: kettle-alert
 zhTips: 水壶警报,茶壶警报,水壶已满警报,茶壶已满警报
 tags: ["home-automation","alert-error"]
@@ -8,11 +8,13 @@ search: tea-kettle-alert,kettle-full-alert,tea-kettle-full-alert
 
 ---
 
-# kettle-alert  <small style="font-size: 60%;font-weight: 100">水壶警报</small>
+# kettle alert  <small style="font-size: 60%;font-weight: 100">水壶警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

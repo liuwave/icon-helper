@@ -1,6 +1,6 @@
 ---
 
-title: tooltip plus(工具提示加) ICON转svg、png下载
+title:  tooltip plus(工具提示加) ICON转svg、png下载
 name: tooltip-plus
 zhTips: 工具提示加
 tags: ["tooltip"]
@@ -8,11 +8,13 @@ search: tooltip-add
 
 ---
 
-# tooltip-plus  <small style="font-size: 60%;font-weight: 100">工具提示加</small>
+# tooltip plus  <small style="font-size: 60%;font-weight: 100">工具提示加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

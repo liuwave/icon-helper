@@ -1,6 +1,6 @@
 ---
 
-title: barley off(大麦关闭) ICON转svg、png下载
+title:  barley off(大麦关闭) ICON转svg、png下载
 name: barley-off
 zhTips: 大麦关闭,无麸质,谷物关闭,小麦关闭
 tags: []
@@ -8,11 +8,13 @@ search: gluten-free,grain-off,wheat-off
 
 ---
 
-# barley-off  <small style="font-size: 60%;font-weight: 100">大麦关闭</small>
+# barley off  <small style="font-size: 60%;font-weight: 100">大麦关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

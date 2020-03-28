@@ -1,6 +1,6 @@
 ---
 
-title: table cog(表齿轮) ICON转svg、png下载
+title:  table cog(表齿轮) ICON转svg、png下载
 name: table-cog
 zhTips: 表齿轮,表设置
 tags: ["settings"]
@@ -8,11 +8,13 @@ search: table-settings
 
 ---
 
-# table-cog  <small style="font-size: 60%;font-weight: 100">表齿轮</small>
+# table cog  <small style="font-size: 60%;font-weight: 100">表齿轮</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

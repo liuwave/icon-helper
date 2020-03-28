@@ -1,6 +1,6 @@
 ---
 
-title: comment check(评论检查) ICON转svg、png下载
+title:  comment check(评论检查) ICON转svg、png下载
 name: comment-check
 zhTips: 评论检查,评论打勾
 tags: []
@@ -8,11 +8,13 @@ search: comment-tick
 
 ---
 
-# comment-check  <small style="font-size: 60%;font-weight: 100">评论检查</small>
+# comment check  <small style="font-size: 60%;font-weight: 100">评论检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

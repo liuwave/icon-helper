@@ -1,6 +1,6 @@
 ---
 
-title: alpha n box(字母n框) ICON转svg、png下载
+title:  alpha n box(字母n框) ICON转svg、png下载
 name: alpha-n-box
 zhTips: 字母n框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-n-box,letter-n-box
 
 ---
 
-# alpha-n-box  <small style="font-size: 60%;font-weight: 100">字母n框</small>
+# alpha n box  <small style="font-size: 60%;font-weight: 100">字母n框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: clipboard arrow left(向左剪贴板箭头) ICON转svg、png下载
+title:  clipboard arrow left(向左剪贴板箭头) ICON转svg、png下载
 name: clipboard-arrow-left
 zhTips: 向左剪贴板箭头,任务返回
 tags: []
@@ -8,11 +8,13 @@ search: assignment-return
 
 ---
 
-# clipboard-arrow-left  <small style="font-size: 60%;font-weight: 100">向左剪贴板箭头</small>
+# clipboard arrow left  <small style="font-size: 60%;font-weight: 100">向左剪贴板箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

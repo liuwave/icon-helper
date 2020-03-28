@@ -1,6 +1,6 @@
 ---
 
-title: rss box(rss盒) ICON转svg、png下载
+title:  rss box(rss盒) ICON转svg、png下载
 name: rss-box
 zhTips: rss盒,rss提要盒
 tags: []
@@ -8,11 +8,13 @@ search: rss-feed-box
 
 ---
 
-# rss-box  <small style="font-size: 60%;font-weight: 100">rss盒</small>
+# rss box  <small style="font-size: 60%;font-weight: 100">rss盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

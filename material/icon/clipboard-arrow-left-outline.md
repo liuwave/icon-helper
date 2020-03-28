@@ -1,6 +1,6 @@
 ---
 
-title: clipboard arrow left outline(剪贴板左箭头轮廓) ICON转svg、png下载
+title:  clipboard arrow left outline(剪贴板左箭头轮廓) ICON转svg、png下载
 name: clipboard-arrow-left-outline
 zhTips: 剪贴板左箭头轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# clipboard-arrow-left-outline  <small style="font-size: 60%;font-weight: 100">剪贴板左箭头轮廓</small>
+# clipboard arrow left outline  <small style="font-size: 60%;font-weight: 100">剪贴板左箭头轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

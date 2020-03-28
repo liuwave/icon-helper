@@ -1,6 +1,6 @@
 ---
 
-title: file import(文件导入) ICON转svg、png下载
+title:  file import(文件导入) ICON转svg、png下载
 name: file-import
 zhTips: 文件导入
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-import  <small style="font-size: 60%;font-weight: 100">文件导入</small>
+# file import  <small style="font-size: 60%;font-weight: 100">文件导入</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

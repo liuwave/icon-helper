@@ -1,6 +1,6 @@
 ---
 
-title: border inside(边框内) ICON转svg、png下载
+title:  border inside(边框内) ICON转svg、png下载
 name: border-inside
 zhTips: 边框内
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# border-inside  <small style="font-size: 60%;font-weight: 100">边框内</small>
+# border inside  <small style="font-size: 60%;font-weight: 100">边框内</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

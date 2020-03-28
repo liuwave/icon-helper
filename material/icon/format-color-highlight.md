@@ -1,6 +1,6 @@
 ---
 
-title: format color highlight(格式颜色突出显示) ICON转svg、png下载
+title:  format color highlight(格式颜色突出显示) ICON转svg、png下载
 name: format-color-highlight
 zhTips: 格式颜色突出显示,颜色格式突出显示
 tags: ["color","text-content-format"]
@@ -8,11 +8,13 @@ search: format-colour-highlight
 
 ---
 
-# format-color-highlight  <small style="font-size: 60%;font-weight: 100">格式颜色突出显示</small>
+# format color highlight  <small style="font-size: 60%;font-weight: 100">格式颜色突出显示</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

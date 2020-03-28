@@ -1,6 +1,6 @@
 ---
 
-title: snowboard(单板滑雪) ICON转svg、png下载
+title:  snowboard(单板滑雪) ICON转svg、png下载
 name: snowboard
 zhTips: 单板滑雪
 tags: ["sport"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

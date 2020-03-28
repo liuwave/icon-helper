@@ -1,6 +1,6 @@
 ---
 
-title: blender software(搅拌器软件) ICON转svg、png下载
+title:  blender software(搅拌器软件) ICON转svg、png下载
 name: blender-software
 zhTips: 搅拌器软件
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# blender-software  <small style="font-size: 60%;font-weight: 100">搅拌器软件</small>
+# blender software  <small style="font-size: 60%;font-weight: 100">搅拌器软件</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

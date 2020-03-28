@@ -1,6 +1,6 @@
 ---
 
-title: calendar week(日历周) ICON转svg、png下载
+title:  calendar week(日历周) ICON转svg、png下载
 name: calendar-week
 zhTips: 日历周,活动周
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: event-week
 
 ---
 
-# calendar-week  <small style="font-size: 60%;font-weight: 100">日历周</small>
+# calendar week  <small style="font-size: 60%;font-weight: 100">日历周</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

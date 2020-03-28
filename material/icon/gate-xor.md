@@ -1,6 +1,6 @@
 ---
 
-title: gate xor(逻辑门异或门) ICON转svg、png下载
+title:  gate xor(逻辑门异或门) ICON转svg、png下载
 name: gate-xor
 zhTips: 逻辑门异或门
 tags: []
@@ -8,11 +8,13 @@ search: logic-gate-xor
 
 ---
 
-# gate-xor  <small style="font-size: 60%;font-weight: 100">逻辑门异或门</small>
+# gate xor  <small style="font-size: 60%;font-weight: 100">逻辑门异或门</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

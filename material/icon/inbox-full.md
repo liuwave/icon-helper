@@ -1,6 +1,6 @@
 ---
 
-title: inbox full(收件箱已满) ICON转svg、png下载
+title:  inbox full(收件箱已满) ICON转svg、png下载
 name: inbox-full
 zhTips: 收件箱已满
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# inbox-full  <small style="font-size: 60%;font-weight: 100">收件箱已满</small>
+# inbox full  <small style="font-size: 60%;font-weight: 100">收件箱已满</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

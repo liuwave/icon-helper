@@ -1,6 +1,6 @@
 ---
 
-title: checkbox multiple blank(复选框多个空白) ICON转svg、png下载
+title:  checkbox multiple blank(复选框多个空白) ICON转svg、png下载
 name: checkbox-multiple-blank
 zhTips: 复选框多个空白,复选框空白
 tags: ["form"]
@@ -8,11 +8,13 @@ search: checkboxes-blank
 
 ---
 
-# checkbox-multiple-blank  <small style="font-size: 60%;font-weight: 100">复选框多个空白</small>
+# checkbox multiple blank  <small style="font-size: 60%;font-weight: 100">复选框多个空白</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: cellphone key(手机钥匙) ICON转svg、png下载
+title:  cellphone key(手机钥匙) ICON转svg、png下载
 name: cellphone-key
 zhTips: 手机钥匙,智能手机钥匙
 tags: ["cellphone-phone","device-tech"]
@@ -8,11 +8,13 @@ search: mobile-phone-key,smartphone-key
 
 ---
 
-# cellphone-key  <small style="font-size: 60%;font-weight: 100">手机钥匙</small>
+# cellphone key  <small style="font-size: 60%;font-weight: 100">手机钥匙</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

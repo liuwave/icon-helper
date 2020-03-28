@@ -1,6 +1,6 @@
 ---
 
-title: head alert(头部警报) ICON转svg、png下载
+title:  head alert(头部警报) ICON转svg、png下载
 name: head-alert
 zhTips: 头部警报
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# head-alert  <small style="font-size: 60%;font-weight: 100">头部警报</small>
+# head alert  <small style="font-size: 60%;font-weight: 100">头部警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

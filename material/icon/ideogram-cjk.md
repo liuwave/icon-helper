@@ -1,6 +1,6 @@
 ---
 
-title: ideogram cjk(表意文字cjk) ICON转svg、png下载
+title:  ideogram cjk(表意文字cjk) ICON转svg、png下载
 name: ideogram-cjk
 zhTips: 表意文字cjk,表意文字中文日韩,书写系统cjk
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: ideogram-chinese-japanese-korean,writing-system-cjk
 
 ---
 
-# ideogram-cjk  <small style="font-size: 60%;font-weight: 100">表意文字cjk</small>
+# ideogram cjk  <small style="font-size: 60%;font-weight: 100">表意文字cjk</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

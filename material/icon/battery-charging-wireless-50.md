@@ -1,6 +1,6 @@
 ---
 
-title: battery charging wireless 50(电池无线充电50) ICON转svg、png下载
+title:  battery charging wireless 50(电池无线充电50) ICON转svg、png下载
 name: battery-charging-wireless-50
 zhTips: 电池无线充电50
 tags: ["battery","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# battery-charging-wireless-50  <small style="font-size: 60%;font-weight: 100">电池无线充电50</small>
+# battery charging wireless 50  <small style="font-size: 60%;font-weight: 100">电池无线充电50</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

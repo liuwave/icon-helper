@@ -1,6 +1,6 @@
 ---
 
-title: tanker truck(油罐车) ICON转svg、png下载
+title:  tanker truck(油罐车) ICON转svg、png下载
 name: tanker-truck
 zhTips: 油罐车,加油车,油卡车,水车,油轮
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: fuel-truck,oil-truck,water-truck,tanker
 
 ---
 
-# tanker-truck  <small style="font-size: 60%;font-weight: 100">油罐车</small>
+# tanker truck  <small style="font-size: 60%;font-weight: 100">油罐车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

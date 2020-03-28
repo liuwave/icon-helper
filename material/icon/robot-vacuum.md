@@ -1,6 +1,6 @@
 ---
 
-title: robot vacuum(Roomba保险丝机器人) ICON转svg、png下载
+title:  robot vacuum(Roomba保险丝机器人) ICON转svg、png下载
 name: robot-vacuum
 zhTips: Roomba保险丝机器人
 tags: ["device-tech","home-automation"]
@@ -8,11 +8,13 @@ search: roomba
 
 ---
 
-# robot-vacuum  <small style="font-size: 60%;font-weight: 100">Roomba保险丝机器人</small>
+# robot vacuum  <small style="font-size: 60%;font-weight: 100">Roomba保险丝机器人</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: seat legroom reduced(腿部座位减少) ICON转svg、png下载
+title:  seat legroom reduced(腿部座位减少) ICON转svg、png下载
 name: seat-legroom-reduced
 zhTips: 腿部座位减少,航空公司腿部座位减少
 tags: []
@@ -8,11 +8,13 @@ search: airline-seat-legroom-reduced
 
 ---
 
-# seat-legroom-reduced  <small style="font-size: 60%;font-weight: 100">腿部座位减少</small>
+# seat legroom reduced  <small style="font-size: 60%;font-weight: 100">腿部座位减少</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

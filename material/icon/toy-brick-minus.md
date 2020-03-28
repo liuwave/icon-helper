@@ -1,6 +1,6 @@
 ---
 
-title: toy brick minus(玩具砖减号) ICON转svg、png下载
+title:  toy brick minus(玩具砖减号) ICON转svg、png下载
 name: toy-brick-minus
 zhTips: 玩具砖减号,乐高,插件,扩展名
 tags: []
@@ -8,11 +8,13 @@ search: lego,plugin,extension
 
 ---
 
-# toy-brick-minus  <small style="font-size: 60%;font-weight: 100">玩具砖减号</small>
+# toy brick minus  <small style="font-size: 60%;font-weight: 100">玩具砖减号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

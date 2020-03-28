@@ -1,6 +1,6 @@
 ---
 
-title: plus box multiple outline(加框多个轮廓) ICON转svg、png下载
+title:  plus box multiple outline(加框多个轮廓) ICON转svg、png下载
 name: plus-box-multiple-outline
 zhTips: 加框多个轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# plus-box-multiple-outline  <small style="font-size: 60%;font-weight: 100">加框多个轮廓</small>
+# plus box multiple outline  <small style="font-size: 60%;font-weight: 100">加框多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

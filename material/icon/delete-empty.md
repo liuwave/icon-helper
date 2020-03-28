@@ -1,6 +1,6 @@
 ---
 
-title: delete empty(删除为空) ICON转svg、png下载
+title:  delete empty(删除为空) ICON转svg、png下载
 name: delete-empty
 zhTips: 删除为空,垃圾为空,垃圾箱为空
 tags: []
@@ -8,11 +8,13 @@ search: trash-empty,bin-empty,rubbish-empty,rubbish-bin-empty,trash-can-empty,ga
 
 ---
 
-# delete-empty  <small style="font-size: 60%;font-weight: 100">删除为空</small>
+# delete empty  <small style="font-size: 60%;font-weight: 100">删除为空</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

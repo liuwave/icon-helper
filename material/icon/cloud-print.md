@@ -1,6 +1,6 @@
 ---
 
-title: cloud print(云打印) ICON转svg、png下载
+title:  cloud print(云打印) ICON转svg、png下载
 name: cloud-print
 zhTips: 云打印
 tags: ["cloud","printer","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cloud-print  <small style="font-size: 60%;font-weight: 100">云打印</small>
+# cloud print  <small style="font-size: 60%;font-weight: 100">云打印</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

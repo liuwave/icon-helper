@@ -1,6 +1,6 @@
 ---
 
-title: content save all outline(内容保存所有轮廓) ICON转svg、png下载
+title:  content save all outline(内容保存所有轮廓) ICON转svg、png下载
 name: content-save-all-outline
 zhTips: 内容保存所有轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# content-save-all-outline  <small style="font-size: 60%;font-weight: 100">内容保存所有轮廓</small>
+# content save all outline  <small style="font-size: 60%;font-weight: 100">内容保存所有轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

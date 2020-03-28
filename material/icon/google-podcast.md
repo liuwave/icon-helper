@@ -1,6 +1,6 @@
 ---
 
-title: google podcast(Google播客) ICON转svg、png下载
+title:  google podcast(Google播客) ICON转svg、png下载
 name: google-podcast
 zhTips: Google播客
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-podcast  <small style="font-size: 60%;font-weight: 100">Google播客</small>
+# google podcast  <small style="font-size: 60%;font-weight: 100">Google播客</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

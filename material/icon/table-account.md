@@ -1,6 +1,6 @@
 ---
 
-title: table account(表帐户) ICON转svg、png下载
+title:  table account(表帐户) ICON转svg、png下载
 name: table-account
 zhTips: 表帐户,表用户
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: table-user
 
 ---
 
-# table-account  <small style="font-size: 60%;font-weight: 100">表帐户</small>
+# table account  <small style="font-size: 60%;font-weight: 100">表帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

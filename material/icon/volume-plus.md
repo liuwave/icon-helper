@@ -1,6 +1,6 @@
 ---
 
-title: volume plus(音量增加) ICON转svg、png下载
+title:  volume plus(音量增加) ICON转svg、png下载
 name: volume-plus
 zhTips: 音量增加
 tags: ["audio","home-automation","cellphone-phone"]
@@ -8,11 +8,13 @@ search: volume-increase
 
 ---
 
-# volume-plus  <small style="font-size: 60%;font-weight: 100">音量增加</small>
+# volume plus  <small style="font-size: 60%;font-weight: 100">音量增加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

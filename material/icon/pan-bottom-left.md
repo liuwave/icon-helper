@@ -1,6 +1,6 @@
 ---
 
-title: pan bottom left(左下锅) ICON转svg、png下载
+title:  pan bottom left(左下锅) ICON转svg、png下载
 name: pan-bottom-left
 zhTips: 左下锅,左下时
 tags: []
@@ -8,11 +8,13 @@ search: pan-down-left
 
 ---
 
-# pan-bottom-left  <small style="font-size: 60%;font-weight: 100">左下锅</small>
+# pan bottom left  <small style="font-size: 60%;font-weight: 100">左下锅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

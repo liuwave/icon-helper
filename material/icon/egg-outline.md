@@ -1,6 +1,6 @@
 ---
 
-title: egg outline(鸡蛋轮廓) ICON转svg、png下载
+title:  egg outline(鸡蛋轮廓) ICON转svg、png下载
 name: egg-outline
 zhTips: 鸡蛋轮廓
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# egg-outline  <small style="font-size: 60%;font-weight: 100">鸡蛋轮廓</small>
+# egg outline  <small style="font-size: 60%;font-weight: 100">鸡蛋轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

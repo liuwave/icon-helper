@@ -1,6 +1,6 @@
 ---
 
-title: rewind 30(倒带30) ICON转svg、png下载
+title:  rewind 30(倒带30) ICON转svg、png下载
 name: rewind-30
 zhTips: 倒带30
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# rewind-30  <small style="font-size: 60%;font-weight: 100">倒带30</small>
+# rewind 30  <small style="font-size: 60%;font-weight: 100">倒带30</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

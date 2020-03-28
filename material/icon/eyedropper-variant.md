@@ -1,6 +1,6 @@
 ---
 
-title: eyedropper variant(滴管口音) ICON转svg、png下载
+title:  eyedropper variant(滴管口音) ICON转svg、png下载
 name: eyedropper-variant
 zhTips: 滴管口音,着色,移液器口音
 tags: ["color","science"]
@@ -8,11 +8,13 @@ search: colorize,colourise,pipette-variant
 
 ---
 
-# eyedropper-variant  <small style="font-size: 60%;font-weight: 100">滴管口音</small>
+# eyedropper variant  <small style="font-size: 60%;font-weight: 100">滴管口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

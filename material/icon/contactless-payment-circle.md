@@ -1,6 +1,6 @@
 ---
 
-title: contactless payment circle(非接触式支付圈) ICON转svg、png下载
+title:  contactless payment circle(非接触式支付圈) ICON转svg、png下载
 name: contactless-payment-circle
 zhTips: 非接触式支付圈
 tags: ["currency"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# contactless-payment-circle  <small style="font-size: 60%;font-weight: 100">非接触式支付圈</small>
+# contactless payment circle  <small style="font-size: 60%;font-weight: 100">非接触式支付圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

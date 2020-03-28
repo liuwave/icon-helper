@@ -1,6 +1,6 @@
 ---
 
-title: screen rotation lock(屏幕旋转锁定) ICON转svg、png下载
+title:  screen rotation lock(屏幕旋转锁定) ICON转svg、png下载
 name: screen-rotation-lock
 zhTips: 屏幕旋转锁定,屏幕锁定旋转
 tags: ["lock"]
@@ -8,11 +8,13 @@ search: screen-lock-rotation
 
 ---
 
-# screen-rotation-lock  <small style="font-size: 60%;font-weight: 100">屏幕旋转锁定</small>
+# screen rotation lock  <small style="font-size: 60%;font-weight: 100">屏幕旋转锁定</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

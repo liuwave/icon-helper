@@ -1,6 +1,6 @@
 ---
 
-title: inbox full outline(收件箱完整轮廓) ICON转svg、png下载
+title:  inbox full outline(收件箱完整轮廓) ICON转svg、png下载
 name: inbox-full-outline
 zhTips: 收件箱完整轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# inbox-full-outline  <small style="font-size: 60%;font-weight: 100">收件箱完整轮廓</small>
+# inbox full outline  <small style="font-size: 60%;font-weight: 100">收件箱完整轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

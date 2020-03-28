@@ -1,6 +1,6 @@
 ---
 
-title: arrow split vertical(垂直拆分箭头) ICON转svg、png下载
+title:  arrow split vertical(垂直拆分箭头) ICON转svg、png下载
 name: arrow-split-vertical
 zhTips: 垂直拆分箭头,水平调整大小,重新调整大小
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: resize-horizontal,resize
 
 ---
 
-# arrow-split-vertical  <small style="font-size: 60%;font-weight: 100">垂直拆分箭头</small>
+# arrow split vertical  <small style="font-size: 60%;font-weight: 100">垂直拆分箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

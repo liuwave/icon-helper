@@ -1,6 +1,6 @@
 ---
 
-title: book variant multiple(多种口音书) ICON转svg、png下载
+title:  book variant multiple(多种口音书) ICON转svg、png下载
 name: book-variant-multiple
 zhTips: 多种口音书,变形书
 tags: []
@@ -8,11 +8,13 @@ search: books-variant
 
 ---
 
-# book-variant-multiple  <small style="font-size: 60%;font-weight: 100">多种口音书</small>
+# book variant multiple  <small style="font-size: 60%;font-weight: 100">多种口音书</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

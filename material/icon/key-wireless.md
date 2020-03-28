@@ -1,6 +1,6 @@
 ---
 
-title: key wireless(无线钥匙) ICON转svg、png下载
+title:  key wireless(无线钥匙) ICON转svg、png下载
 name: key-wireless
 zhTips: 无线钥匙
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# key-wireless  <small style="font-size: 60%;font-weight: 100">无线钥匙</small>
+# key wireless  <small style="font-size: 60%;font-weight: 100">无线钥匙</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: nintendo wii(任天堂Wii) ICON转svg、png下载
+title:  nintendo wii(任天堂Wii) ICON转svg、png下载
 name: nintendo-wii
 zhTips: 任天堂Wii
 tags: ["brand-logo","gaming-rpg"]
@@ -8,11 +8,13 @@ search: nintendo-wii
 
 ---
 
-# nintendo-wii  <small style="font-size: 60%;font-weight: 100">任天堂Wii</small>
+# nintendo wii  <small style="font-size: 60%;font-weight: 100">任天堂Wii</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

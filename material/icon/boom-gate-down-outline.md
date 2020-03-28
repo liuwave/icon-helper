@@ -1,6 +1,6 @@
 ---
 
-title: boom gate down outline(动臂浇口下降轮廓) ICON转svg、png下载
+title:  boom gate down outline(动臂浇口下降轮廓) ICON转svg、png下载
 name: boom-gate-down-outline
 zhTips: 动臂浇口下降轮廓,臂杆下降轮廓,自动浇口下降轮廓
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: boom-arm-down-outline,boom-barrier-down-outline,arm-barrier-down-outline
 
 ---
 
-# boom-gate-down-outline  <small style="font-size: 60%;font-weight: 100">动臂浇口下降轮廓</small>
+# boom gate down outline  <small style="font-size: 60%;font-weight: 100">动臂浇口下降轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

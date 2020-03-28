@@ -1,6 +1,6 @@
 ---
 
-title: flask remove(取出烧瓶) ICON转svg、png下载
+title:  flask remove(取出烧瓶) ICON转svg、png下载
 name: flask-remove
 zhTips: 取出烧瓶
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# flask-remove  <small style="font-size: 60%;font-weight: 100">取出烧瓶</small>
+# flask remove  <small style="font-size: 60%;font-weight: 100">取出烧瓶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

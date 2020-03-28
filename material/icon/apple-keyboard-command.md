@@ -1,6 +1,6 @@
 ---
 
-title: apple keyboard command(苹果键盘命令) ICON转svg、png下载
+title:  apple keyboard command(苹果键盘命令) ICON转svg、png下载
 name: apple-keyboard-command
 zhTips: 苹果键盘命令
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# apple-keyboard-command  <small style="font-size: 60%;font-weight: 100">苹果键盘命令</small>
+# apple keyboard command  <small style="font-size: 60%;font-weight: 100">苹果键盘命令</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

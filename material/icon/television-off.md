@@ -1,6 +1,6 @@
 ---
 
-title: television off(电视关闭) ICON转svg、png下载
+title:  television off(电视关闭) ICON转svg、png下载
 name: television-off
 zhTips: 电视关闭
 tags: ["device-tech","home-automation"]
@@ -8,11 +8,13 @@ search: tv-off
 
 ---
 
-# television-off  <small style="font-size: 60%;font-weight: 100">电视关闭</small>
+# television off  <small style="font-size: 60%;font-weight: 100">电视关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

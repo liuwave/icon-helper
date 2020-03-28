@@ -1,6 +1,6 @@
 ---
 
-title: cast education(演员表教育) ICON转svg、png下载
+title:  cast education(演员表教育) ICON转svg、png下载
 name: cast-education
 zhTips: 演员表教育
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cast-education  <small style="font-size: 60%;font-weight: 100">演员表教育</small>
+# cast education  <small style="font-size: 60%;font-weight: 100">演员表教育</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

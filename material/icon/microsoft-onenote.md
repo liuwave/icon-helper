@@ -1,6 +1,6 @@
 ---
 
-title: microsoft onenote(微软onenote) ICON转svg、png下载
+title:  microsoft onenote(微软onenote) ICON转svg、png下载
 name: microsoft-onenote
 zhTips: 微软onenote
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microsoft-onenote  <small style="font-size: 60%;font-weight: 100">微软onenote</small>
+# microsoft onenote  <small style="font-size: 60%;font-weight: 100">微软onenote</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

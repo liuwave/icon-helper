@@ -1,6 +1,6 @@
 ---
 
-title: check circle(检查圆圈) ICON转svg、png下载
+title:  check circle(检查圆圈) ICON转svg、png下载
 name: check-circle
 zhTips: 检查圆圈,刻度线
 tags: []
@@ -8,11 +8,13 @@ search: tick-circle
 
 ---
 
-# check-circle  <small style="font-size: 60%;font-weight: 100">检查圆圈</small>
+# check circle  <small style="font-size: 60%;font-weight: 100">检查圆圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

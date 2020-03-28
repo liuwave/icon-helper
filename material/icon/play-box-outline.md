@@ -1,6 +1,6 @@
 ---
 
-title: play box outline(播放框轮廓) ICON转svg、png下载
+title:  play box outline(播放框轮廓) ICON转svg、png下载
 name: play-box-outline
 zhTips: 播放框轮廓,幻灯片
 tags: []
@@ -8,11 +8,13 @@ search: slideshow
 
 ---
 
-# play-box-outline  <small style="font-size: 60%;font-weight: 100">播放框轮廓</small>
+# play box outline  <small style="font-size: 60%;font-weight: 100">播放框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

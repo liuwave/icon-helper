@@ -1,6 +1,6 @@
 ---
 
-title: pencil box multiple outline(铅笔盒多个轮廓) ICON转svg、png下载
+title:  pencil box multiple outline(铅笔盒多个轮廓) ICON转svg、png下载
 name: pencil-box-multiple-outline
 zhTips: 铅笔盒多个轮廓,库编辑轮廓
 tags: ["edit-modify"]
@@ -8,11 +8,13 @@ search: library-edit-outline
 
 ---
 
-# pencil-box-multiple-outline  <small style="font-size: 60%;font-weight: 100">铅笔盒多个轮廓</small>
+# pencil box multiple outline  <small style="font-size: 60%;font-weight: 100">铅笔盒多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

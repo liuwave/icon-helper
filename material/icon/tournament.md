@@ -1,6 +1,6 @@
 ---
 
-title: tournament(比赛) ICON转svg、png下载
+title:  tournament(比赛) ICON转svg、png下载
 name: tournament
 zhTips: 比赛,托架
 tags: ["gaming-rpg","sport"]
@@ -13,6 +13,8 @@ search: bracket
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

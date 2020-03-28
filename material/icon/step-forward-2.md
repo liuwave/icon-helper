@@ -1,6 +1,6 @@
 ---
 
-title: step forward 2(前进2) ICON转svg、png下载
+title:  step forward 2(前进2) ICON转svg、png下载
 name: step-forward-2
 zhTips: 前进2,前进框架
 tags: []
@@ -8,11 +8,13 @@ search: frame-forward
 
 ---
 
-# step-forward-2  <small style="font-size: 60%;font-weight: 100">前进2</small>
+# step forward 2  <small style="font-size: 60%;font-weight: 100">前进2</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

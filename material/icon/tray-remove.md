@@ -1,6 +1,6 @@
 ---
 
-title: tray remove(托盘取出) ICON转svg、png下载
+title:  tray remove(托盘取出) ICON转svg、png下载
 name: tray-remove
 zhTips: 托盘取出,排队,打印机,收件箱
 tags: []
@@ -8,11 +8,13 @@ search: queue,printer,inbox
 
 ---
 
-# tray-remove  <small style="font-size: 60%;font-weight: 100">托盘取出</small>
+# tray remove  <small style="font-size: 60%;font-weight: 100">托盘取出</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

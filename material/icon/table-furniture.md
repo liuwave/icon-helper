@@ -1,6 +1,6 @@
 ---
 
-title: table furniture(餐桌家具) ICON转svg、png下载
+title:  table furniture(餐桌家具) ICON转svg、png下载
 name: table-furniture
 zhTips: 餐桌家具
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-furniture  <small style="font-size: 60%;font-weight: 100">餐桌家具</small>
+# table furniture  <small style="font-size: 60%;font-weight: 100">餐桌家具</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

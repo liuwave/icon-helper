@@ -1,6 +1,6 @@
 ---
 
-title: folder music outline(文件夹音乐轮廓) ICON转svg、png下载
+title:  folder music outline(文件夹音乐轮廓) ICON转svg、png下载
 name: folder-music-outline
 zhTips: 文件夹音乐轮廓
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# folder-music-outline  <small style="font-size: 60%;font-weight: 100">文件夹音乐轮廓</small>
+# folder music outline  <small style="font-size: 60%;font-weight: 100">文件夹音乐轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: camera plus(相机加) ICON转svg、png下载
+title:  camera plus(相机加) ICON转svg、png下载
 name: camera-plus
 zhTips: 相机加
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-plus  <small style="font-size: 60%;font-weight: 100">相机加</small>
+# camera plus  <small style="font-size: 60%;font-weight: 100">相机加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: account supervisor(客户主管) ICON转svg、png下载
+title:  account supervisor(客户主管) ICON转svg、png下载
 name: account-supervisor
 zhTips: 客户主管,用户主管,人事主管
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-supervisor,person-supervisor
 
 ---
 
-# account-supervisor  <small style="font-size: 60%;font-weight: 100">客户主管</small>
+# account supervisor  <small style="font-size: 60%;font-weight: 100">客户主管</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

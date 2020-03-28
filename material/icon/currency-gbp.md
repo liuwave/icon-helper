@@ -1,6 +1,6 @@
 ---
 
-title: currency gbp(货币gbp) ICON转svg、png下载
+title:  currency gbp(货币gbp) ICON转svg、png下载
 name: currency-gbp
 zhTips: 货币gbp,英镑
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: pound,sterling
 
 ---
 
-# currency-gbp  <small style="font-size: 60%;font-weight: 100">货币gbp</small>
+# currency gbp  <small style="font-size: 60%;font-weight: 100">货币gbp</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

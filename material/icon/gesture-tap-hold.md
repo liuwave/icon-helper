@@ -1,6 +1,6 @@
 ---
 
-title: gesture tap hold(手势轻按保持) ICON转svg、png下载
+title:  gesture tap hold(手势轻按保持) ICON转svg、png下载
 name: gesture-tap-hold
 zhTips: 手势轻按保持
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# gesture-tap-hold  <small style="font-size: 60%;font-weight: 100">手势轻按保持</small>
+# gesture tap hold  <small style="font-size: 60%;font-weight: 100">手势轻按保持</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

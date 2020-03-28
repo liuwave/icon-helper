@@ -1,8 +1,8 @@
 ---
 
-title: ambulance(救护车) ICON转svg、png下载
+title:  ambulance(救护车) ICON转svg、png下载
 name: ambulance
-zhTips: 救护车
+zhTips: 救护车,covid 19,紧急情况,emt,er,帮助,医院,支持,车辆
 tags: ["transportation-road","medical-hospital"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">救护车</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/ambulance.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/ambulance.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">救护车</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">紧急情况</span><span class="badge-primary badge">emt</span><span class="badge-primary badge">er</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">支持</span><span class="badge-primary badge">车辆</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/ambulance.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/ambulance.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">救护车，一般指医疗事件，也可以表示紧急安全。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-ambulance mdi-48px"></i>
   <i class="mdi mdi-ambulance mdi-36px"></i>

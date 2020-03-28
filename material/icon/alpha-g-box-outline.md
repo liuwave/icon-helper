@@ -1,6 +1,6 @@
 ---
 
-title: alpha g box outline(alpha g框轮廓) ICON转svg、png下载
+title:  alpha g box outline(alpha g框轮廓) ICON转svg、png下载
 name: alpha-g-box-outline
 zhTips: alpha g框轮廓,字母g框轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-g-box-outline,letter-g-box-outline
 
 ---
 
-# alpha-g-box-outline  <small style="font-size: 60%;font-weight: 100">alpha g框轮廓</small>
+# alpha g box outline  <small style="font-size: 60%;font-weight: 100">alpha g框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

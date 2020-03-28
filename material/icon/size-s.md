@@ -1,6 +1,6 @@
 ---
 
-title: size s(尺码S) ICON转svg、png下载
+title:  size s(尺码S) ICON转svg、png下载
 name: size-s
 zhTips: 尺码S,小码
 tags: []
@@ -8,11 +8,13 @@ search: size-small
 
 ---
 
-# size-s  <small style="font-size: 60%;font-weight: 100">尺码S</small>
+# size s  <small style="font-size: 60%;font-weight: 100">尺码S</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

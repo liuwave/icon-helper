@@ -1,6 +1,6 @@
 ---
 
-title: briefcase edit(公文包) ICON转svg、png下载
+title:  briefcase edit(公文包) ICON转svg、png下载
 name: briefcase-edit
 zhTips: 公文包
 tags: ["edit-modify"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# briefcase-edit  <small style="font-size: 60%;font-weight: 100">公文包</small>
+# briefcase edit  <small style="font-size: 60%;font-weight: 100">公文包</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

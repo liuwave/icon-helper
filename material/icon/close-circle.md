@@ -1,6 +1,6 @@
 ---
 
-title: close circle(关闭圈) ICON转svg、png下载
+title:  close circle(关闭圈) ICON转svg、png下载
 name: close-circle
 zhTips: 关闭圈,删除圈,取消,乘以圈
 tags: []
@@ -8,11 +8,13 @@ search: remove-circle,cancel,multiply-circle
 
 ---
 
-# close-circle  <small style="font-size: 60%;font-weight: 100">关闭圈</small>
+# close circle  <small style="font-size: 60%;font-weight: 100">关闭圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

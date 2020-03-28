@@ -1,6 +1,6 @@
 ---
 
-title: web box(网络盒) ICON转svg、png下载
+title:  web box(网络盒) ICON转svg、png下载
 name: web-box
 zhTips: 网络盒,语言盒
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search: language-box
 
 ---
 
-# web-box  <small style="font-size: 60%;font-weight: 100">网络盒</small>
+# web box  <small style="font-size: 60%;font-weight: 100">网络盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

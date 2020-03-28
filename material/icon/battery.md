@@ -1,6 +1,6 @@
 ---
 
-title: battery(电池) ICON转svg、png下载
+title:  battery(电池) ICON转svg、png下载
 name: battery
 zhTips: 电池,电池已充满,电池标准,电池100
 tags: ["battery","home-automation","automotive"]
@@ -13,6 +13,8 @@ search: battery-full,battery-std,battery-100
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -39,7 +41,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">battery-full</span><span class="badge-light badge">battery-std</span><span class="badge-light badge">battery-100</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">电池</span><span class="badge-primary badge">电池已充满</span><span class="badge-primary badge">电池标准</span><span class="badge-primary badge">电池100</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/battery.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/battery.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">电池，一般用来提醒电量，能力充足，也可以表示信心满满。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-battery mdi-48px"></i>
   <i class="mdi mdi-battery mdi-36px"></i>

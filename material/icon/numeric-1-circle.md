@@ -1,6 +1,6 @@
 ---
 
-title: numeric 1 circle(数字1圈) ICON转svg、png下载
+title:  numeric 1 circle(数字1圈) ICON转svg、png下载
 name: numeric-1-circle
 zhTips: 数字1圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: numeric-one-circle,number-1-circle,number-one-circle
 
 ---
 
-# numeric-1-circle  <small style="font-size: 60%;font-weight: 100">数字1圈</small>
+# numeric 1 circle  <small style="font-size: 60%;font-weight: 100">数字1圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

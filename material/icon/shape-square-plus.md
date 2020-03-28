@@ -1,6 +1,6 @@
 ---
 
-title: shape square plus(形状正方形加) ICON转svg、png下载
+title:  shape square plus(形状正方形加) ICON转svg、png下载
 name: shape-square-plus
 zhTips: 形状正方形加
 tags: ["shape"]
@@ -8,11 +8,13 @@ search: shape-square-add
 
 ---
 
-# shape-square-plus  <small style="font-size: 60%;font-weight: 100">形状正方形加</small>
+# shape square plus  <small style="font-size: 60%;font-weight: 100">形状正方形加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: pencil plus(铅笔加) ICON转svg、png下载
+title:  pencil plus(铅笔加) ICON转svg、png下载
 name: pencil-plus
 zhTips: 铅笔加
 tags: []
@@ -8,11 +8,13 @@ search: pencil-add
 
 ---
 
-# pencil-plus  <small style="font-size: 60%;font-weight: 100">铅笔加</small>
+# pencil plus  <small style="font-size: 60%;font-weight: 100">铅笔加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

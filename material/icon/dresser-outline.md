@@ -1,6 +1,6 @@
 ---
 
-title: dresser outline(轮廓梳妆台) ICON转svg、png下载
+title:  dresser outline(轮廓梳妆台) ICON转svg、png下载
 name: dresser-outline
 zhTips: 轮廓梳妆台
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# dresser-outline  <small style="font-size: 60%;font-weight: 100">轮廓梳妆台</small>
+# dresser outline  <small style="font-size: 60%;font-weight: 100">轮廓梳妆台</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

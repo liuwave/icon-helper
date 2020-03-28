@@ -1,6 +1,6 @@
 ---
 
-title: code tags check(代码标签检查) ICON转svg、png下载
+title:  code tags check(代码标签检查) ICON转svg、png下载
 name: code-tags-check
 zhTips: 代码标签检查,代码标签打勾
 tags: ["developer-languages"]
@@ -8,11 +8,13 @@ search: code-tags-tick
 
 ---
 
-# code-tags-check  <small style="font-size: 60%;font-weight: 100">代码标签检查</small>
+# code tags check  <small style="font-size: 60%;font-weight: 100">代码标签检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

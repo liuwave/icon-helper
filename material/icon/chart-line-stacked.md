@@ -1,6 +1,6 @@
 ---
 
-title: chart line stacked(图表线堆积) ICON转svg、png下载
+title:  chart line stacked(图表线堆积) ICON转svg、png下载
 name: chart-line-stacked
 zhTips: 图表线堆积
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chart-line-stacked  <small style="font-size: 60%;font-weight: 100">图表线堆积</small>
+# chart line stacked  <small style="font-size: 60%;font-weight: 100">图表线堆积</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

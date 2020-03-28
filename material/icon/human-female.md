@@ -1,6 +1,6 @@
 ---
 
-title: human female(女性) ICON转svg、png下载
+title:  human female(女性) ICON转svg、png下载
 name: human-female
 zhTips: 女性,女人
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search: woman
 
 ---
 
-# human-female  <small style="font-size: 60%;font-weight: 100">女性</small>
+# human female  <small style="font-size: 60%;font-weight: 100">女性</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

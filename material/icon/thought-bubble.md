@@ -1,6 +1,6 @@
 ---
 
-title: thought bubble(思想泡泡) ICON转svg、png下载
+title:  thought bubble(思想泡泡) ICON转svg、png下载
 name: thought-bubble
 zhTips: 思想泡泡,漫画泡泡,思考
 tags: []
@@ -8,11 +8,13 @@ search: comic-bubble,thinking
 
 ---
 
-# thought-bubble  <small style="font-size: 60%;font-weight: 100">思想泡泡</small>
+# thought bubble  <small style="font-size: 60%;font-weight: 100">思想泡泡</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

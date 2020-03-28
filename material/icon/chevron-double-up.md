@@ -1,6 +1,6 @@
 ---
 
-title: chevron double up(V形雪弗龙加倍) ICON转svg、png下载
+title:  chevron double up(V形雪弗龙加倍) ICON转svg、png下载
 name: chevron-double-up
 zhTips: V形雪弗龙加倍
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chevron-double-up  <small style="font-size: 60%;font-weight: 100">V形雪弗龙加倍</small>
+# chevron double up  <small style="font-size: 60%;font-weight: 100">V形雪弗龙加倍</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

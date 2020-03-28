@@ -1,6 +1,6 @@
 ---
 
-title: nature people(大自然的人) ICON转svg、png下载
+title:  nature people(大自然的人) ICON转svg、png下载
 name: nature-people
 zhTips: 大自然的人,孩子
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: plant
 
 ---
 
-# nature-people  <small style="font-size: 60%;font-weight: 100">大自然的人</small>
+# nature people  <small style="font-size: 60%;font-weight: 100">大自然的人</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

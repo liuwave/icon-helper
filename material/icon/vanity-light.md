@@ -1,6 +1,6 @@
 ---
 
-title: vanity light(轻虚荣) ICON转svg、png下载
+title:  vanity light(轻虚荣) ICON转svg、png下载
 name: vanity-light
 zhTips: 轻虚荣
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# vanity-light  <small style="font-size: 60%;font-weight: 100">轻虚荣</small>
+# vanity light  <small style="font-size: 60%;font-weight: 100">轻虚荣</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

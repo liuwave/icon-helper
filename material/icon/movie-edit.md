@@ -1,6 +1,6 @@
 ---
 
-title: movie edit(电影编辑) ICON转svg、png下载
+title:  movie edit(电影编辑) ICON转svg、png下载
 name: movie-edit
 zhTips: 电影编辑
 tags: ["video-movie","edit-modify"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# movie-edit  <small style="font-size: 60%;font-weight: 100">电影编辑</small>
+# movie edit  <small style="font-size: 60%;font-weight: 100">电影编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

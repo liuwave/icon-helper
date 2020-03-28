@@ -1,6 +1,6 @@
 ---
 
-title: server security(服务器安全) ICON转svg、png下载
+title:  server security(服务器安全) ICON转svg、png下载
 name: server-security
 zhTips: 服务器安全
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# server-security  <small style="font-size: 60%;font-weight: 100">服务器安全</small>
+# server security  <small style="font-size: 60%;font-weight: 100">服务器安全</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: file video(视频文件) ICON转svg、png下载
+title:  file video(视频文件) ICON转svg、png下载
 name: file-video
 zhTips: 视频文件
 tags: ["video-movie","files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-video  <small style="font-size: 60%;font-weight: 100">视频文件</small>
+# file video  <small style="font-size: 60%;font-weight: 100">视频文件</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

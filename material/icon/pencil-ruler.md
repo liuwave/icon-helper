@@ -1,6 +1,6 @@
 ---
 
-title: pencil ruler(铅笔尺设计) ICON转svg、png下载
+title:  pencil ruler(铅笔尺设计) ICON转svg、png下载
 name: pencil-ruler
 zhTips: 铅笔尺设计
 tags: ["drawing-art"]
@@ -8,11 +8,13 @@ search: design
 
 ---
 
-# pencil-ruler  <small style="font-size: 60%;font-weight: 100">铅笔尺设计</small>
+# pencil ruler  <small style="font-size: 60%;font-weight: 100">铅笔尺设计</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: skull(头骨) ICON转svg、png下载
+title:  skull(头骨) ICON转svg、png下载
 name: skull
-zhTips: 头骨
+zhTips: 头骨,骷髅头骨,骨头,骨骼,x射线,yo
 tags: ["holiday","gaming-rpg"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Haley Halcyon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">头骨</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/skull.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/skull.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">头骨</span><span class="badge-primary badge">骷髅头骨</span><span class="badge-primary badge">骨头</span><span class="badge-primary badge">骨骼</span><span class="badge-primary badge">x射线</span><span class="badge-primary badge">yo</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/skull.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/skull.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示消瘦、恐怖，中病毒等等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-skull mdi-48px"></i>
   <i class="mdi mdi-skull mdi-36px"></i>

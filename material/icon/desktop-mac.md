@@ -1,6 +1,6 @@
 ---
 
-title: desktop mac(台式机Mac) ICON转svg、png下载
+title:  desktop mac(台式机Mac) ICON转svg、png下载
 name: desktop-mac
 zhTips: 台式机Mac
 tags: ["device-tech","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# desktop-mac  <small style="font-size: 60%;font-weight: 100">台式机Mac</small>
+# desktop mac  <small style="font-size: 60%;font-weight: 100">台式机Mac</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

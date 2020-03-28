@@ -1,6 +1,6 @@
 ---
 
-title: gamepad left(游戏手柄左) ICON转svg、png下载
+title:  gamepad left(游戏手柄左) ICON转svg、png下载
 name: gamepad-left
 zhTips: 游戏手柄左
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# gamepad-left  <small style="font-size: 60%;font-weight: 100">游戏手柄左</small>
+# gamepad left  <small style="font-size: 60%;font-weight: 100">游戏手柄左</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

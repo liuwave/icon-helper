@@ -1,6 +1,6 @@
 ---
 
-title: cloud sync(云同步) ICON转svg、png下载
+title:  cloud sync(云同步) ICON转svg、png下载
 name: cloud-sync
 zhTips: 云同步
 tags: ["cloud"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cloud-sync  <small style="font-size: 60%;font-weight: 100">云同步</small>
+# cloud sync  <small style="font-size: 60%;font-weight: 100">云同步</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

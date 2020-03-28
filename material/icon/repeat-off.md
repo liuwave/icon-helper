@@ -1,6 +1,6 @@
 ---
 
-title: repeat off(重覆) ICON转svg、png下载
+title:  repeat off(重覆) ICON转svg、png下载
 name: repeat-off
 zhTips: 重覆
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# repeat-off  <small style="font-size: 60%;font-weight: 100">重覆</small>
+# repeat off  <small style="font-size: 60%;font-weight: 100">重覆</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

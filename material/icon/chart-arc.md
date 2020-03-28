@@ -1,6 +1,6 @@
 ---
 
-title: chart arc(图表弧) ICON转svg、png下载
+title:  chart arc(图表弧) ICON转svg、png下载
 name: chart-arc
 zhTips: 图表弧
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chart-arc  <small style="font-size: 60%;font-weight: 100">图表弧</small>
+# chart arc  <small style="font-size: 60%;font-weight: 100">图表弧</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

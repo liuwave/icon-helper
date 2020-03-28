@@ -1,6 +1,6 @@
 ---
 
-title: script outline(脚本轮廓) ICON转svg、png下载
+title:  script outline(脚本轮廓) ICON转svg、png下载
 name: script-outline
 zhTips: 脚本轮廓,滚动轮廓
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: scroll-outline
 
 ---
 
-# script-outline  <small style="font-size: 60%;font-weight: 100">脚本轮廓</small>
+# script outline  <small style="font-size: 60%;font-weight: 100">脚本轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

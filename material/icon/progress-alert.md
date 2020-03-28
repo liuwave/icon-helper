@@ -1,6 +1,6 @@
 ---
 
-title: progress alert(进度警报) ICON转svg、png下载
+title:  progress alert(进度警报) ICON转svg、png下载
 name: progress-alert
 zhTips: 进度警报,进度警告
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search: progress-warning
 
 ---
 
-# progress-alert  <small style="font-size: 60%;font-weight: 100">进度警报</small>
+# progress alert  <small style="font-size: 60%;font-weight: 100">进度警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

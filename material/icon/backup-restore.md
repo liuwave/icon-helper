@@ -1,6 +1,6 @@
 ---
 
-title: backup restore(备份还原) ICON转svg、png下载
+title:  backup restore(备份还原) ICON转svg、png下载
 name: backup-restore
 zhTips: 备份还原,备份还原设置
 tags: []
@@ -8,11 +8,13 @@ search: settings-backup-restore
 
 ---
 
-# backup-restore  <small style="font-size: 60%;font-weight: 100">备份还原</small>
+# backup restore  <small style="font-size: 60%;font-weight: 100">备份还原</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

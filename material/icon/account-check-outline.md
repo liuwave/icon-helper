@@ -1,6 +1,6 @@
 ---
 
-title: account check outline(检查帐户轮廓) ICON转svg、png下载
+title:  account check outline(检查帐户轮廓) ICON转svg、png下载
 name: account-check-outline
 zhTips: 检查帐户轮廓,帐户刻度线轮廓,用户检查轮廓,用户刻度线轮廓,人员检查轮廓,人员刻度线轮廓,如何注册轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: account-tick-outline,user-check-outline,user-tick-outline,person-check-o
 
 ---
 
-# account-check-outline  <small style="font-size: 60%;font-weight: 100">检查帐户轮廓</small>
+# account check outline  <small style="font-size: 60%;font-weight: 100">检查帐户轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

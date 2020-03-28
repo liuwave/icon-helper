@@ -1,6 +1,6 @@
 ---
 
-title: bed outline(床轮廓) ICON转svg、png下载
+title:  bed outline(床轮廓) ICON转svg、png下载
 name: bed-outline
 zhTips: 床轮廓,酒店轮廓
 tags: []
@@ -8,11 +8,13 @@ search: hotel-outline
 
 ---
 
-# bed-outline  <small style="font-size: 60%;font-weight: 100">床轮廓</small>
+# bed outline  <small style="font-size: 60%;font-weight: 100">床轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

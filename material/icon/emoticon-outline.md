@@ -1,6 +1,6 @@
 ---
 
-title: emoticon outline(表情符号轮廓) ICON转svg、png下载
+title:  emoticon outline(表情符号轮廓) ICON转svg、png下载
 name: emoticon-outline
 zhTips: 表情符号轮廓,插入表情符号,心情,非常满意的情绪,标记面孔,笑脸轮廓
 tags: ["emoji"]
@@ -8,11 +8,13 @@ search: insert-emoticon,mood,sentiment-very-satisfied,tag-faces,smiley-outline
 
 ---
 
-# emoticon-outline  <small style="font-size: 60%;font-weight: 100">表情符号轮廓</small>
+# emoticon outline  <small style="font-size: 60%;font-weight: 100">表情符号轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

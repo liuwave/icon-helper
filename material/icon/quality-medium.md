@@ -1,6 +1,6 @@
 ---
 
-title: quality medium(中等质量) ICON转svg、png下载
+title:  quality medium(中等质量) ICON转svg、png下载
 name: quality-medium
 zhTips: 中等质量,平方米
 tags: []
@@ -8,11 +8,13 @@ search: medium-quality,mq
 
 ---
 
-# quality-medium  <small style="font-size: 60%;font-weight: 100">中等质量</small>
+# quality medium  <small style="font-size: 60%;font-weight: 100">中等质量</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

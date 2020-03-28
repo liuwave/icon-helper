@@ -1,6 +1,6 @@
 ---
 
-title: thumb down outline(拇指向下轮廓) ICON转svg、png下载
+title:  thumb down outline(拇指向下轮廓) ICON转svg、png下载
 name: thumb-down-outline
 zhTips: 拇指向下轮廓,不喜欢轮廓
 tags: []
@@ -8,11 +8,13 @@ search: dislike-outline,thumbs-down-outline
 
 ---
 
-# thumb-down-outline  <small style="font-size: 60%;font-weight: 100">拇指向下轮廓</small>
+# thumb down outline  <small style="font-size: 60%;font-weight: 100">拇指向下轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: celtic cross(凯尔特十字架) ICON转svg、png下载
+title:  celtic cross(凯尔特十字架) ICON转svg、png下载
 name: celtic-cross
 zhTips: 凯尔特十字架
 tags: ["religion"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# celtic-cross  <small style="font-size: 60%;font-weight: 100">凯尔特十字架</small>
+# celtic cross  <small style="font-size: 60%;font-weight: 100">凯尔特十字架</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

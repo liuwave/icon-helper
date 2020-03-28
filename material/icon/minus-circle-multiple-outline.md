@@ -1,6 +1,6 @@
 ---
 
-title: minus circle multiple outline(负圆多个轮廓) ICON转svg、png下载
+title:  minus circle multiple outline(负圆多个轮廓) ICON转svg、png下载
 name: minus-circle-multiple-outline
 zhTips: 负圆多个轮廓,硬币负轮廓
 tags: []
@@ -8,11 +8,13 @@ search: coins-minus-outline
 
 ---
 
-# minus-circle-multiple-outline  <small style="font-size: 60%;font-weight: 100">负圆多个轮廓</small>
+# minus circle multiple outline  <small style="font-size: 60%;font-weight: 100">负圆多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

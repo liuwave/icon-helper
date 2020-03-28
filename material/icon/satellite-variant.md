@@ -1,6 +1,6 @@
 ---
 
-title: satellite variant(卫星口音) ICON转svg、png下载
+title:  satellite variant(卫星口音) ICON转svg、png下载
 name: satellite-variant
 zhTips: 卫星口音
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# satellite-variant  <small style="font-size: 60%;font-weight: 100">卫星口音</small>
+# satellite variant  <small style="font-size: 60%;font-weight: 100">卫星口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

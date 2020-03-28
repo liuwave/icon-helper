@@ -1,6 +1,6 @@
 ---
 
-title: comment plus(加评论) ICON转svg、png下载
+title:  comment plus(加评论) ICON转svg、png下载
 name: comment-plus
 zhTips: 加评论
 tags: []
@@ -8,11 +8,13 @@ search: comment-add
 
 ---
 
-# comment-plus  <small style="font-size: 60%;font-weight: 100">加评论</small>
+# comment plus  <small style="font-size: 60%;font-weight: 100">加评论</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

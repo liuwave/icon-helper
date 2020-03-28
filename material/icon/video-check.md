@@ -1,6 +1,6 @@
 ---
 
-title: video check(视频检查) ICON转svg、png下载
+title:  video check(视频检查) ICON转svg、png下载
 name: video-check
 zhTips: 视频检查
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# video-check  <small style="font-size: 60%;font-weight: 100">视频检查</small>
+# video check  <small style="font-size: 60%;font-weight: 100">视频检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

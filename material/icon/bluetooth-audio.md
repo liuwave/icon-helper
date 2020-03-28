@@ -1,6 +1,6 @@
 ---
 
-title: bluetooth audio(蓝牙音频) ICON转svg、png下载
+title:  bluetooth audio(蓝牙音频) ICON转svg、png下载
 name: bluetooth-audio
 zhTips: 蓝牙音频,蓝牙搜索
 tags: ["audio"]
@@ -8,11 +8,13 @@ search: bluetooth-searching
 
 ---
 
-# bluetooth-audio  <small style="font-size: 60%;font-weight: 100">蓝牙音频</small>
+# bluetooth audio  <small style="font-size: 60%;font-weight: 100">蓝牙音频</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

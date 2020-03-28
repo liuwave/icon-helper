@@ -1,6 +1,6 @@
 ---
 
-title: image plus(图像加) ICON转svg、png下载
+title:  image plus(图像加) ICON转svg、png下载
 name: image-plus
 zhTips: 图像加
 tags: []
@@ -8,11 +8,13 @@ search: image-add
 
 ---
 
-# image-plus  <small style="font-size: 60%;font-weight: 100">图像加</small>
+# image plus  <small style="font-size: 60%;font-weight: 100">图像加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

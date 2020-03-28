@@ -1,6 +1,6 @@
 ---
 
-title: format list text(格式列表文本) ICON转svg、png下载
+title:  format list text(格式列表文本) ICON转svg、png下载
 name: format-list-text
 zhTips: 格式列表文本
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-list-text  <small style="font-size: 60%;font-weight: 100">格式列表文本</small>
+# format list text  <small style="font-size: 60%;font-weight: 100">格式列表文本</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

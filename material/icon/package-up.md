@@ -1,6 +1,6 @@
 ---
 
-title: package up(打包) ICON转svg、png下载
+title:  package up(打包) ICON转svg、png下载
 name: package-up
 zhTips: 打包,取消存档
 tags: []
@@ -8,11 +8,13 @@ search: unarchive,box-up
 
 ---
 
-# package-up  <small style="font-size: 60%;font-weight: 100">打包</small>
+# package up  <small style="font-size: 60%;font-weight: 100">打包</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

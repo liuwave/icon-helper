@@ -1,6 +1,6 @@
 ---
 
-title: order bool descending variant(订购布尔降序音调) ICON转svg、png下载
+title:  order bool descending variant(订购布尔降序音调) ICON转svg、png下载
 name: order-bool-descending-variant
 zhTips: 订购布尔降序音调
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# order-bool-descending-variant  <small style="font-size: 60%;font-weight: 100">订购布尔降序音调</small>
+# order bool descending variant  <small style="font-size: 60%;font-weight: 100">订购布尔降序音调</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

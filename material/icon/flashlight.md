@@ -1,6 +1,6 @@
 ---
 
-title: flashlight(手电) ICON转svg、png下载
+title:  flashlight(手电) ICON转svg、png下载
 name: flashlight
 zhTips: 手电,手电筒
 tags: []
@@ -13,6 +13,8 @@ search: torch
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

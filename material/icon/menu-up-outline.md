@@ -1,6 +1,6 @@
 ---
 
-title: menu up outline(菜单轮廓) ICON转svg、png下载
+title:  menu up outline(菜单轮廓) ICON转svg、png下载
 name: menu-up-outline
 zhTips: 菜单轮廓
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# menu-up-outline  <small style="font-size: 60%;font-weight: 100">菜单轮廓</small>
+# menu up outline  <small style="font-size: 60%;font-weight: 100">菜单轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

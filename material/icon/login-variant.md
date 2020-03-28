@@ -1,6 +1,6 @@
 ---
 
-title: login variant(登录变量) ICON转svg、png下载
+title:  login variant(登录变量) ICON转svg、png下载
 name: login-variant
 zhTips: 登录变量
 tags: []
@@ -8,11 +8,13 @@ search: log-in-variant,sign-in-variant
 
 ---
 
-# login-variant  <small style="font-size: 60%;font-weight: 100">登录变量</small>
+# login variant  <small style="font-size: 60%;font-weight: 100">登录变量</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

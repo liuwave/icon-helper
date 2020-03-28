@@ -1,6 +1,6 @@
 ---
 
-title: alpha t box(字母T盒) ICON转svg、png下载
+title:  alpha t box(字母T盒) ICON转svg、png下载
 name: alpha-t-box
 zhTips: 字母T盒
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-t-box,letter-t-box
 
 ---
 
-# alpha-t-box  <small style="font-size: 60%;font-weight: 100">字母T盒</small>
+# alpha t box  <small style="font-size: 60%;font-weight: 100">字母T盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

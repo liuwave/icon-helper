@@ -1,6 +1,6 @@
 ---
 
-title: clock digital(时钟数字) ICON转svg、png下载
+title:  clock digital(时钟数字) ICON转svg、png下载
 name: clock-digital
 zhTips: 时钟数字
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# clock-digital  <small style="font-size: 60%;font-weight: 100">时钟数字</small>
+# clock digital  <small style="font-size: 60%;font-weight: 100">时钟数字</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

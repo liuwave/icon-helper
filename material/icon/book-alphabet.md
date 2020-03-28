@@ -1,6 +1,6 @@
 ---
 
-title: book alphabet(书的字母) ICON转svg、png下载
+title:  book alphabet(书的字母) ICON转svg、png下载
 name: book-alphabet
 zhTips: 书的字母,字典
 tags: []
@@ -8,11 +8,13 @@ search: dictionary
 
 ---
 
-# book-alphabet  <small style="font-size: 60%;font-weight: 100">书的字母</small>
+# book alphabet  <small style="font-size: 60%;font-weight: 100">书的字母</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: table arrow right(表右箭头) ICON转svg、png下载
+title:  table arrow right(表右箭头) ICON转svg、png下载
 name: table-arrow-right
 zhTips: 表右箭头,表共享,表导出
 tags: []
@@ -8,11 +8,13 @@ search: table-share,table-export
 
 ---
 
-# table-arrow-right  <small style="font-size: 60%;font-weight: 100">表右箭头</small>
+# table arrow right  <small style="font-size: 60%;font-weight: 100">表右箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

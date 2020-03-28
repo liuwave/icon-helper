@@ -1,6 +1,6 @@
 ---
 
-title: table column plus before(表列加之前) ICON转svg、png下载
+title:  table column plus before(表列加之前) ICON转svg、png下载
 name: table-column-plus-before
 zhTips: 表列加之前
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: table-column-add-before
 
 ---
 
-# table-column-plus-before  <small style="font-size: 60%;font-weight: 100">表列加之前</small>
+# table column plus before  <small style="font-size: 60%;font-weight: 100">表列加之前</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

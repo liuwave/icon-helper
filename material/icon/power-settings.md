@@ -1,6 +1,6 @@
 ---
 
-title: power settings(电源设置) ICON转svg、png下载
+title:  power settings(电源设置) ICON转svg、png下载
 name: power-settings
 zhTips: 电源设置
 tags: ["settings"]
@@ -8,11 +8,13 @@ search: settings-power
 
 ---
 
-# power-settings  <small style="font-size: 60%;font-weight: 100">电源设置</small>
+# power settings  <small style="font-size: 60%;font-weight: 100">电源设置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

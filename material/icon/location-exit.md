@@ -1,6 +1,6 @@
 ---
 
-title: location exit(出口位置) ICON转svg、png下载
+title:  location exit(出口位置) ICON转svg、png下载
 name: location-exit
 zhTips: 出口位置,存在出口
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: presence-exit
 
 ---
 
-# location-exit  <small style="font-size: 60%;font-weight: 100">出口位置</small>
+# location exit  <small style="font-size: 60%;font-weight: 100">出口位置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

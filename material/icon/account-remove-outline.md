@@ -1,6 +1,6 @@
 ---
 
-title: account remove outline(帐户删除轮廓) ICON转svg、png下载
+title:  account remove outline(帐户删除轮廓) ICON转svg、png下载
 name: account-remove-outline
 zhTips: 帐户删除轮廓,用户删除轮廓,人员删除轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-remove-outline,person-remove-outline
 
 ---
 
-# account-remove-outline  <small style="font-size: 60%;font-weight: 100">帐户删除轮廓</small>
+# account remove outline  <small style="font-size: 60%;font-weight: 100">帐户删除轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

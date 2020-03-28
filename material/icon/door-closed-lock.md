@@ -1,6 +1,6 @@
 ---
 
-title: door closed lock(门关) ICON转svg、png下载
+title:  door closed lock(门关) ICON转svg、png下载
 name: door-closed-lock
 zhTips: 门关
 tags: ["home-automation","lock"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# door-closed-lock  <small style="font-size: 60%;font-weight: 100">门关</small>
+# door closed lock  <small style="font-size: 60%;font-weight: 100">门关</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

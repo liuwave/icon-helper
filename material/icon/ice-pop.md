@@ -1,6 +1,6 @@
 ---
 
-title: ice pop(冰棒) ICON转svg、png下载
+title:  ice pop(冰棒) ICON转svg、png下载
 name: ice-pop
 zhTips: 冰棒
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: popsicle
 
 ---
 
-# ice-pop  <small style="font-size: 60%;font-weight: 100">冰棒</small>
+# ice pop  <small style="font-size: 60%;font-weight: 100">冰棒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

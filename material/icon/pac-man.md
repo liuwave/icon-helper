@@ -1,6 +1,6 @@
 ---
 
-title: pac man(吃豆人) ICON转svg、png下载
+title:  pac man(吃豆人) ICON转svg、png下载
 name: pac-man
 zhTips: 吃豆人
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pac-man  <small style="font-size: 60%;font-weight: 100">吃豆人</small>
+# pac man  <small style="font-size: 60%;font-weight: 100">吃豆人</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

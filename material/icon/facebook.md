@@ -1,8 +1,8 @@
 ---
 
-title: facebook(facebook) ICON转svg、png下载
+title:  facebook(facebook) ICON转svg、png下载
 name: facebook
-zhTips: facebook
+zhTips: facebook,facebook官方,社交网络
 tags: ["brand-logo","social-media"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">facebook</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/facebook.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/facebook.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">facebook</span><span class="badge-primary badge">facebook官方</span><span class="badge-primary badge">社交网络</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/facebook.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/facebook.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Facebook是一个社交服务平台。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-facebook mdi-48px"></i>
   <i class="mdi mdi-facebook mdi-36px"></i>

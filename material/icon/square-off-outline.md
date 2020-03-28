@@ -1,6 +1,6 @@
 ---
 
-title: square off outline(超出轮廓的正方形) ICON转svg、png下载
+title:  square off outline(超出轮廓的正方形) ICON转svg、png下载
 name: square-off-outline
 zhTips: 超出轮廓的正方形
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# square-off-outline  <small style="font-size: 60%;font-weight: 100">超出轮廓的正方形</small>
+# square off outline  <small style="font-size: 60%;font-weight: 100">超出轮廓的正方形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

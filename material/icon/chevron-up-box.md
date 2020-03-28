@@ -1,6 +1,6 @@
 ---
 
-title: chevron up box(V形框) ICON转svg、png下载
+title:  chevron up box(V形框) ICON转svg、png下载
 name: chevron-up-box
 zhTips: V形框
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chevron-up-box  <small style="font-size: 60%;font-weight: 100">V形框</small>
+# chevron up box  <small style="font-size: 60%;font-weight: 100">V形框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

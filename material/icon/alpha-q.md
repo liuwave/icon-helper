@@ -1,6 +1,6 @@
 ---
 
-title: alpha q(alpha q) ICON转svg、png下载
+title:  alpha q(alpha q) ICON转svg、png下载
 name: alpha-q
 zhTips: alpha q,字母q
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-q,letter-q
 
 ---
 
-# alpha-q  <small style="font-size: 60%;font-weight: 100">alpha q</small>
+# alpha q  <small style="font-size: 60%;font-weight: 100">alpha q</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

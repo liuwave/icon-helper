@@ -1,6 +1,6 @@
 ---
 
-title: car wash(洗车) ICON转svg、png下载
+title:  car wash(洗车) ICON转svg、png下载
 name: car-wash
 zhTips: 洗车,本地洗车
 tags: ["transportation-road","places","automotive"]
@@ -8,11 +8,13 @@ search: local-car-wash
 
 ---
 
-# car-wash  <small style="font-size: 60%;font-weight: 100">洗车</small>
+# car wash  <small style="font-size: 60%;font-weight: 100">洗车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

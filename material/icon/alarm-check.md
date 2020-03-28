@@ -1,6 +1,6 @@
 ---
 
-title: alarm check(警报检查) ICON转svg、png下载
+title:  alarm check(警报检查) ICON转svg、png下载
 name: alarm-check
 zhTips: 警报检查,警报开启,警报滴答,闹钟检查,闹钟滴答
 tags: []
@@ -8,11 +8,13 @@ search: alarm-on,alarm-tick,alarm-clock-check,alarm-clock-tick
 
 ---
 
-# alarm-check  <small style="font-size: 60%;font-weight: 100">警报检查</small>
+# alarm check  <small style="font-size: 60%;font-weight: 100">警报检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

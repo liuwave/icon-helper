@@ -1,6 +1,6 @@
 ---
 
-title: math norm(数学范式) ICON转svg、png下载
+title:  math norm(数学范式) ICON转svg、png下载
 name: math-norm
 zhTips: 数学范式,代码或并行
 tags: ["math","developer-languages"]
@@ -8,11 +8,13 @@ search: code-or,parallel
 
 ---
 
-# math-norm  <small style="font-size: 60%;font-weight: 100">数学范式</small>
+# math norm  <small style="font-size: 60%;font-weight: 100">数学范式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

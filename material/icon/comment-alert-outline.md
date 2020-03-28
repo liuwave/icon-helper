@@ -1,6 +1,6 @@
 ---
 
-title: comment alert outline(评论警告轮廓) ICON转svg、png下载
+title:  comment alert outline(评论警告轮廓) ICON转svg、png下载
 name: comment-alert-outline
 zhTips: 评论警告轮廓
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search: comment-warning-outline
 
 ---
 
-# comment-alert-outline  <small style="font-size: 60%;font-weight: 100">评论警告轮廓</small>
+# comment alert outline  <small style="font-size: 60%;font-weight: 100">评论警告轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

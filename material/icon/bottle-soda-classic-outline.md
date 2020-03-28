@@ -1,6 +1,6 @@
 ---
 
-title: bottle soda classic outline(汽水瓶经典轮廓) ICON转svg、png下载
+title:  bottle soda classic outline(汽水瓶经典轮廓) ICON转svg、png下载
 name: bottle-soda-classic-outline
 zhTips: 汽水瓶经典轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bottle-soda-classic-outline  <small style="font-size: 60%;font-weight: 100">汽水瓶经典轮廓</small>
+# bottle soda classic outline  <small style="font-size: 60%;font-weight: 100">汽水瓶经典轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

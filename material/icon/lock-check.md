@@ -1,6 +1,6 @@
 ---
 
-title: lock check(检查锁) ICON转svg、png下载
+title:  lock check(检查锁) ICON转svg、png下载
 name: lock-check
 zhTips: 检查锁
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# lock-check  <small style="font-size: 60%;font-weight: 100">检查锁</small>
+# lock check  <small style="font-size: 60%;font-weight: 100">检查锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

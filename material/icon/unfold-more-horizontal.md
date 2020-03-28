@@ -1,6 +1,6 @@
 ---
 
-title: unfold more horizontal(展开更多水平) ICON转svg、png下载
+title:  unfold more horizontal(展开更多水平) ICON转svg、png下载
 name: unfold-more-horizontal
 zhTips: 展开更多水平,人字形向下,展开水平
 tags: []
@@ -8,11 +8,13 @@ search: chevron-up-down,expand-horizontal
 
 ---
 
-# unfold-more-horizontal  <small style="font-size: 60%;font-weight: 100">展开更多水平</small>
+# unfold more horizontal  <small style="font-size: 60%;font-weight: 100">展开更多水平</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

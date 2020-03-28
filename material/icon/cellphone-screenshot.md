@@ -1,6 +1,6 @@
 ---
 
-title: cellphone screenshot(手机屏幕截图) ICON转svg、png下载
+title:  cellphone screenshot(手机屏幕截图) ICON转svg、png下载
 name: cellphone-screenshot
 zhTips: 手机屏幕截图
 tags: ["cellphone-phone","device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cellphone-screenshot  <small style="font-size: 60%;font-weight: 100">手机屏幕截图</small>
+# cellphone screenshot  <small style="font-size: 60%;font-weight: 100">手机屏幕截图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

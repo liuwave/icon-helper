@@ -1,6 +1,6 @@
 ---
 
-title: layers outline(图层轮廓) ICON转svg、png下载
+title:  layers outline(图层轮廓) ICON转svg、png下载
 name: layers-outline
 zhTips: 图层轮廓
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# layers-outline  <small style="font-size: 60%;font-weight: 100">图层轮廓</small>
+# layers outline  <small style="font-size: 60%;font-weight: 100">图层轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

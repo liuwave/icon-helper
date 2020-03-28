@@ -1,6 +1,6 @@
 ---
 
-title: ticket(门票) ICON转svg、png下载
+title:  ticket(门票) ICON转svg、png下载
 name: ticket
 zhTips: 门票,当地活动,当地玩乐,当地景点
 tags: []
@@ -13,6 +13,8 @@ search: local-activity,local-play,local-attraction
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

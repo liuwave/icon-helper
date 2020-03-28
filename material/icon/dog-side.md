@@ -1,6 +1,6 @@
 ---
 
-title: dog side(狗的一面) ICON转svg、png下载
+title:  dog side(狗的一面) ICON转svg、png下载
 name: dog-side
 zhTips: 狗的一面
 tags: ["animal"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# dog-side  <small style="font-size: 60%;font-weight: 100">狗的一面</small>
+# dog side  <small style="font-size: 60%;font-weight: 100">狗的一面</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

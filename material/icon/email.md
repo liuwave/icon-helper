@@ -1,6 +1,6 @@
 ---
 
-title: email(电子邮件) ICON转svg、png下载
+title:  email(电子邮件) ICON转svg、png下载
 name: email
 zhTips: 电子邮件,当地邮局,邮件,markunread,信封
 tags: []
@@ -13,6 +13,8 @@ search: local-post-office,mail,markunread,envelope
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

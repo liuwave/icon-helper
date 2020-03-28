@@ -1,6 +1,6 @@
 ---
 
-title: account plus outline(帐户加轮廓) ICON转svg、png下载
+title:  account plus outline(帐户加轮廓) ICON转svg、png下载
 name: account-plus-outline
 zhTips: 帐户加轮廓,人员加轮廓,注册轮廓,用户加轮廓,邀请
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: person-add-outline,register-outline,user-plus-outline,account-add-outlin
 
 ---
 
-# account-plus-outline  <small style="font-size: 60%;font-weight: 100">帐户加轮廓</small>
+# account plus outline  <small style="font-size: 60%;font-weight: 100">帐户加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

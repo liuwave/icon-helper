@@ -1,6 +1,6 @@
 ---
 
-title: head lightbulb outline(头灯泡轮廓) ICON转svg、png下载
+title:  head lightbulb outline(头灯泡轮廓) ICON转svg、png下载
 name: head-lightbulb-outline
 zhTips: 头灯泡轮廓,头想法轮廓
 tags: []
@@ -8,11 +8,13 @@ search: head-idea-outline,head-bulb-outline
 
 ---
 
-# head-lightbulb-outline  <small style="font-size: 60%;font-weight: 100">头灯泡轮廓</small>
+# head lightbulb outline  <small style="font-size: 60%;font-weight: 100">头灯泡轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

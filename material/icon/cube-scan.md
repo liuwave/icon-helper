@@ -1,6 +1,6 @@
 ---
 
-title: cube scan(多维数据集扫描) ICON转svg、png下载
+title:  cube scan(多维数据集扫描) ICON转svg、png下载
 name: cube-scan
 zhTips: 多维数据集扫描,在ar中查看,在增强现实中查看
 tags: []
@@ -8,11 +8,13 @@ search: view-in-ar,view-in-augmented-reality
 
 ---
 
-# cube-scan  <small style="font-size: 60%;font-weight: 100">多维数据集扫描</small>
+# cube scan  <small style="font-size: 60%;font-weight: 100">多维数据集扫描</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

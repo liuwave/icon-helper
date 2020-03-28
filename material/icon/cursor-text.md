@@ -1,6 +1,6 @@
 ---
 
-title: cursor text(光标文本) ICON转svg、png下载
+title:  cursor text(光标文本) ICON转svg、png下载
 name: cursor-text
 zhTips: 光标文本
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cursor-text  <small style="font-size: 60%;font-weight: 100">光标文本</small>
+# cursor text  <small style="font-size: 60%;font-weight: 100">光标文本</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

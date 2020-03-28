@@ -1,6 +1,6 @@
 ---
 
-title: head snowflake outline(头部雪花轮廓) ICON转svg、png下载
+title:  head snowflake outline(头部雪花轮廓) ICON转svg、png下载
 name: head-snowflake-outline
 zhTips: 头部雪花轮廓,头部冻结轮廓,大脑冻结轮廓
 tags: []
@@ -8,11 +8,13 @@ search: head-freeze-outline,brain-freeze-outline
 
 ---
 
-# head-snowflake-outline  <small style="font-size: 60%;font-weight: 100">头部雪花轮廓</small>
+# head snowflake outline  <small style="font-size: 60%;font-weight: 100">头部雪花轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: animation outline(轮廓动画) ICON转svg、png下载
+title:  animation outline(轮廓动画) ICON转svg、png下载
 name: animation-outline
 zhTips: 轮廓动画
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# animation-outline  <small style="font-size: 60%;font-weight: 100">轮廓动画</small>
+# animation outline  <small style="font-size: 60%;font-weight: 100">轮廓动画</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

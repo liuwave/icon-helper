@@ -1,6 +1,6 @@
 ---
 
-title: diamond stone(钻石) ICON转svg、png下载
+title:  diamond stone(钻石) ICON转svg、png下载
 name: diamond-stone
 zhTips: 钻石,珠宝
 tags: []
@@ -8,11 +8,13 @@ search: jewel
 
 ---
 
-# diamond-stone  <small style="font-size: 60%;font-weight: 100">钻石</small>
+# diamond stone  <small style="font-size: 60%;font-weight: 100">钻石</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

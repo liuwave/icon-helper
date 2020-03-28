@@ -1,6 +1,6 @@
 ---
 
-title: sign caution(签署警告) ICON转svg、png下载
+title:  sign caution(签署警告) ICON转svg、png下载
 name: sign-caution
 zhTips: 签署警告,障碍
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: barrier
 
 ---
 
-# sign-caution  <small style="font-size: 60%;font-weight: 100">签署警告</small>
+# sign caution  <small style="font-size: 60%;font-weight: 100">签署警告</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

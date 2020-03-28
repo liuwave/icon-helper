@@ -1,6 +1,6 @@
 ---
 
-title: cog transfer(齿轮传输) ICON转svg、png下载
+title:  cog transfer(齿轮传输) ICON转svg、png下载
 name: cog-transfer
 zhTips: 齿轮传输,传输设置
 tags: ["settings"]
@@ -8,11 +8,13 @@ search: settings-transfer
 
 ---
 
-# cog-transfer  <small style="font-size: 60%;font-weight: 100">齿轮传输</small>
+# cog transfer  <small style="font-size: 60%;font-weight: 100">齿轮传输</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

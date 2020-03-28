@@ -1,6 +1,6 @@
 ---
 
-title: pan bottom right(右下锅) ICON转svg、png下载
+title:  pan bottom right(右下锅) ICON转svg、png下载
 name: pan-bottom-right
 zhTips: 右下锅,右下时
 tags: []
@@ -8,11 +8,13 @@ search: pan-down-right
 
 ---
 
-# pan-bottom-right  <small style="font-size: 60%;font-weight: 100">右下锅</small>
+# pan bottom right  <small style="font-size: 60%;font-weight: 100">右下锅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: bank minus(减去银行) ICON转svg、png下载
+title:  bank minus(减去银行) ICON转svg、png下载
 name: bank-minus
 zhTips: 减去银行
 tags: ["banking"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bank-minus  <small style="font-size: 60%;font-weight: 100">减去银行</small>
+# bank minus  <small style="font-size: 60%;font-weight: 100">减去银行</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: share circle(分享圈) ICON转svg、png下载
+title:  share circle(分享圈) ICON转svg、png下载
 name: share-circle
 zhTips: 分享圈
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# share-circle  <small style="font-size: 60%;font-weight: 100">分享圈</small>
+# share circle  <small style="font-size: 60%;font-weight: 100">分享圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

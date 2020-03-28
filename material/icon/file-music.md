@@ -1,6 +1,6 @@
 ---
 
-title: file music(文件音乐) ICON转svg、png下载
+title:  file music(文件音乐) ICON转svg、png下载
 name: file-music
 zhTips: 文件音乐
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-music  <small style="font-size: 60%;font-weight: 100">文件音乐</small>
+# file music  <small style="font-size: 60%;font-weight: 100">文件音乐</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

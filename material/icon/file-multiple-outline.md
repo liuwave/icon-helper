@@ -1,6 +1,6 @@
 ---
 
-title: file multiple outline(归档多个轮廓) ICON转svg、png下载
+title:  file multiple outline(归档多个轮廓) ICON转svg、png下载
 name: file-multiple-outline
 zhTips: 归档多个轮廓
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-multiple-outline  <small style="font-size: 60%;font-weight: 100">归档多个轮廓</small>
+# file multiple outline  <small style="font-size: 60%;font-weight: 100">归档多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

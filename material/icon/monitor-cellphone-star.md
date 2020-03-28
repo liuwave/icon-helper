@@ -1,6 +1,6 @@
 ---
 
-title: monitor cellphone star(手机星级监视器) ICON转svg、png下载
+title:  monitor cellphone star(手机星级监视器) ICON转svg、png下载
 name: monitor-cellphone-star
 zhTips: 手机星级监视器,重要设备,智能手机星级监视器
 tags: ["cellphone-phone","device-tech"]
@@ -8,11 +8,13 @@ search: important-devices,monitor-mobile-phone-star,monitor-smartphone-star
 
 ---
 
-# monitor-cellphone-star  <small style="font-size: 60%;font-weight: 100">手机星级监视器</small>
+# monitor cellphone star  <small style="font-size: 60%;font-weight: 100">手机星级监视器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

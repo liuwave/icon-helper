@@ -1,6 +1,6 @@
 ---
 
-title: palette advanced(高级调色板) ICON转svg、png下载
+title:  palette advanced(高级调色板) ICON转svg、png下载
 name: palette-advanced
 zhTips: 高级调色板
 tags: ["color","drawing-art"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# palette-advanced  <small style="font-size: 60%;font-weight: 100">高级调色板</small>
+# palette advanced  <small style="font-size: 60%;font-weight: 100">高级调色板</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

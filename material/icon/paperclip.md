@@ -1,8 +1,8 @@
 ---
 
-title: paperclip(回形针) ICON转svg、png下载
+title:  paperclip(回形针) ICON转svg、png下载
 name: paperclip
-zhTips: 回形针,垂直附件,文件附件
+zhTips: 回形针,垂直附件,文件附件,附件,连接,链接
 tags: []
 search: attachment-vertical,attach-file
 
@@ -13,6 +13,8 @@ search: attachment-vertical,attach-file
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">attachment-vertical</span><span class="badge-light badge">attach-file</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">回形针</span><span class="badge-primary badge">垂直附件</span><span class="badge-primary badge">文件附件</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/paperclip.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/paperclip.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">attachment-vertical</span><span class="badge-light badge">attach-file</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">回形针</span><span class="badge-primary badge">垂直附件</span><span class="badge-primary badge">文件附件</span><span class="badge-primary badge">附件</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">链接</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/paperclip.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/paperclip.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示邮件中的附件图标。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-paperclip mdi-48px"></i>
   <i class="mdi mdi-paperclip mdi-36px"></i>

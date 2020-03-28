@@ -1,6 +1,6 @@
 ---
 
-title: coat rack(衣帽架) ICON转svg、png下载
+title:  coat rack(衣帽架) ICON转svg、png下载
 name: coat-rack
 zhTips: 衣帽架
 tags: ["home-automation","clothing"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# coat-rack  <small style="font-size: 60%;font-weight: 100">衣帽架</small>
+# coat rack  <small style="font-size: 60%;font-weight: 100">衣帽架</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

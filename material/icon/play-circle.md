@@ -1,6 +1,6 @@
 ---
 
-title: play circle(玩圈) ICON转svg、png下载
+title:  play circle(玩圈) ICON转svg、png下载
 name: play-circle
 zhTips: 玩圈,玩圈已填充
 tags: []
@@ -8,11 +8,13 @@ search: play-circle-filled
 
 ---
 
-# play-circle  <small style="font-size: 60%;font-weight: 100">玩圈</small>
+# play circle  <small style="font-size: 60%;font-weight: 100">玩圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

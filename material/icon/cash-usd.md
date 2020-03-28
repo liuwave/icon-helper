@@ -1,6 +1,6 @@
 ---
 
-title: cash usd(Cash USD) ICON转svg、png下载
+title:  cash usd(Cash USD) ICON转svg、png下载
 name: cash-usd
 zhTips: Cash USD,Local atm,money usd
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: local-atm,money-usd
 
 ---
 
-# cash-usd  <small style="font-size: 60%;font-weight: 100">Cash USD</small>
+# cash usd  <small style="font-size: 60%;font-weight: 100">Cash USD</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: book information variant(各种信息书) ICON转svg、png下载
+title:  book information variant(各种信息书) ICON转svg、png下载
 name: book-information-variant
 zhTips: 各种信息书,百科全书
 tags: []
@@ -8,11 +8,13 @@ search: encyclopedia
 
 ---
 
-# book-information-variant  <small style="font-size: 60%;font-weight: 100">各种信息书</small>
+# book information variant  <small style="font-size: 60%;font-weight: 100">各种信息书</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: numeric 9 circle(数字9圈) ICON转svg、png下载
+title:  numeric 9 circle(数字9圈) ICON转svg、png下载
 name: numeric-9-circle
 zhTips: 数字9圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: numeric-nine-circle,number-9-circle,number-nine-circle
 
 ---
 
-# numeric-9-circle  <small style="font-size: 60%;font-weight: 100">数字9圈</small>
+# numeric 9 circle  <small style="font-size: 60%;font-weight: 100">数字9圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

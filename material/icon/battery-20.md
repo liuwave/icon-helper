@@ -1,18 +1,20 @@
 ---
 
-title: battery 20(电池20) ICON转svg、png下载
+title:  battery 20(电池20) ICON转svg、png下载
 name: battery-20
-zhTips: 电池20
+zhTips: 电池20,电量20%
 tags: ["battery","home-automation","automotive"]
 search: 
 
 ---
 
-# battery-20  <small style="font-size: 60%;font-weight: 100">电池20</small>
+# battery 20  <small style="font-size: 60%;font-weight: 100">电池20</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">电池20</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/battery-20.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/battery-20.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">电池20</span><span class="badge-primary badge">电量20%</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/battery-20.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/battery-20.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示蓝牙只有20%的电量</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-battery-20 mdi-48px"></i>
   <i class="mdi mdi-battery-20 mdi-36px"></i>

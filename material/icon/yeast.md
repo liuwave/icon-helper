@@ -1,6 +1,6 @@
 ---
 
-title: yeast(酵母) ICON转svg、png下载
+title:  yeast(酵母) ICON转svg、png下载
 name: yeast
 zhTips: 酵母
 tags: []
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

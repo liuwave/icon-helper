@@ -1,6 +1,6 @@
 ---
 
-title: file delimited(文件定界) ICON转svg、png下载
+title:  file delimited(文件定界) ICON转svg、png下载
 name: file-delimited
 zhTips: 文件定界,文件csv
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-csv
 
 ---
 
-# file-delimited  <small style="font-size: 60%;font-weight: 100">文件定界</small>
+# file delimited  <small style="font-size: 60%;font-weight: 100">文件定界</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

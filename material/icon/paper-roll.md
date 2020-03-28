@@ -1,6 +1,6 @@
 ---
 
-title: paper roll(卷纸) ICON转svg、png下载
+title:  paper roll(卷纸) ICON转svg、png下载
 name: paper-roll
 zhTips: 卷纸,洗手间卷,卫生纸,厨房卷,纸巾,收据卷
 tags: ["home-automation","printer"]
@@ -8,11 +8,13 @@ search: lavatory-roll,bathroom-tissue,toilet-paper,kitchen-roll,paper-towels,rec
 
 ---
 
-# paper-roll  <small style="font-size: 60%;font-weight: 100">卷纸</small>
+# paper roll  <small style="font-size: 60%;font-weight: 100">卷纸</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: arrange bring to front(排在最前面) ICON转svg、png下载
+title:  arrange bring to front(排在最前面) ICON转svg、png下载
 name: arrange-bring-to-front
 zhTips: 排在最前面
 tags: ["arrange","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# arrange-bring-to-front  <small style="font-size: 60%;font-weight: 100">排在最前面</small>
+# arrange bring to front  <small style="font-size: 60%;font-weight: 100">排在最前面</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

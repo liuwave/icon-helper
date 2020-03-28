@@ -1,6 +1,6 @@
 ---
 
-title: alert box outline(警报框轮廓) ICON转svg、png下载
+title:  alert box outline(警报框轮廓) ICON转svg、png下载
 name: alert-box-outline
 zhTips: 警报框轮廓,警告框轮廓
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search: warning-box-outline
 
 ---
 
-# alert-box-outline  <small style="font-size: 60%;font-weight: 100">警报框轮廓</small>
+# alert box outline  <small style="font-size: 60%;font-weight: 100">警报框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

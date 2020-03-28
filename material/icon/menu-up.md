@@ -1,6 +1,6 @@
 ---
 
-title: menu up(菜单向上) ICON转svg、png下载
+title:  menu up(菜单向上) ICON转svg、png下载
 name: menu-up
 zhTips: 菜单向上,箭头下拉
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-drop-up
 
 ---
 
-# menu-up  <small style="font-size: 60%;font-weight: 100">菜单向上</small>
+# menu up  <small style="font-size: 60%;font-weight: 100">菜单向上</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

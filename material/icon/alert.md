@@ -1,6 +1,6 @@
 ---
 
-title: alert(警报) ICON转svg、png下载
+title:  alert(警报) ICON转svg、png下载
 name: alert
 zhTips: 警报,警告,问题报告
 tags: ["alert-error"]
@@ -13,6 +13,8 @@ search: warning,report-problem
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: snowflake melt(雪花融化) ICON转svg、png下载
+title:  snowflake melt(雪花融化) ICON转svg、png下载
 name: snowflake-melt
 zhTips: 雪花融化,除霜
 tags: []
@@ -8,11 +8,13 @@ search: defrost
 
 ---
 
-# snowflake-melt  <small style="font-size: 60%;font-weight: 100">雪花融化</small>
+# snowflake melt  <small style="font-size: 60%;font-weight: 100">雪花融化</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

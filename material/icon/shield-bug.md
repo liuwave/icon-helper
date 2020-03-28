@@ -1,6 +1,6 @@
 ---
 
-title: shield bug(屏蔽错误) ICON转svg、png下载
+title:  shield bug(屏蔽错误) ICON转svg、png下载
 name: shield-bug
 zhTips: 屏蔽错误,防病毒
 tags: []
@@ -8,11 +8,13 @@ search: antivirus
 
 ---
 
-# shield-bug  <small style="font-size: 60%;font-weight: 100">屏蔽错误</small>
+# shield bug  <small style="font-size: 60%;font-weight: 100">屏蔽错误</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

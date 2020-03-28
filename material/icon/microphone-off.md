@@ -1,6 +1,6 @@
 ---
 
-title: microphone off(麦克风关闭) ICON转svg、png下载
+title:  microphone off(麦克风关闭) ICON转svg、png下载
 name: microphone-off
 zhTips: 麦克风关闭
 tags: ["music"]
@@ -8,11 +8,13 @@ search: mic-off
 
 ---
 
-# microphone-off  <small style="font-size: 60%;font-weight: 100">麦克风关闭</small>
+# microphone off  <small style="font-size: 60%;font-weight: 100">麦克风关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

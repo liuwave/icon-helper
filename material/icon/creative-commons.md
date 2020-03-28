@@ -1,6 +1,6 @@
 ---
 
-title: creative commons(创用CC) ICON转svg、png下载
+title:  creative commons(创用CC) ICON转svg、png下载
 name: creative-commons
 zhTips: 创用CC
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# creative-commons  <small style="font-size: 60%;font-weight: 100">创用CC</small>
+# creative commons  <small style="font-size: 60%;font-weight: 100">创用CC</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: peanut off outline(花生未定轮廓) ICON转svg、png下载
+title:  peanut off outline(花生未定轮廓) ICON转svg、png下载
 name: peanut-off-outline
 zhTips: 花生未定轮廓,过敏原未定轮廓,食物过敏未定轮廓
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: allergen-off-outline,food-allergy-off-outline
 
 ---
 
-# peanut-off-outline  <small style="font-size: 60%;font-weight: 100">花生未定轮廓</small>
+# peanut off outline  <small style="font-size: 60%;font-weight: 100">花生未定轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: shield account outline(屏蔽帐户轮廓) ICON转svg、png下载
+title:  shield account outline(屏蔽帐户轮廓) ICON转svg、png下载
 name: shield-account-outline
 zhTips: 屏蔽帐户轮廓,安全帐户轮廓,屏蔽用户轮廓,屏蔽人员轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: security-account-outline,shield-user-outline,shield-person-outline
 
 ---
 
-# shield-account-outline  <small style="font-size: 60%;font-weight: 100">屏蔽帐户轮廓</small>
+# shield account outline  <small style="font-size: 60%;font-weight: 100">屏蔽帐户轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

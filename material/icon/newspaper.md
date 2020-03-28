@@ -1,8 +1,8 @@
 ---
 
-title: newspaper(报纸) ICON转svg、png下载
+title:  newspaper(报纸) ICON转svg、png下载
 name: newspaper
-zhTips: 报纸
+zhTips: 报纸,报纸黑,文章,社论,标题,新闻
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">报纸</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/newspaper.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/newspaper.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">报纸</span><span class="badge-primary badge">报纸黑</span><span class="badge-primary badge">文章</span><span class="badge-primary badge">社论</span><span class="badge-primary badge">标题</span><span class="badge-primary badge">新闻</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/newspaper.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/newspaper.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">报纸，表示新闻，条目，期刊等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-newspaper mdi-48px"></i>
   <i class="mdi mdi-newspaper mdi-36px"></i>

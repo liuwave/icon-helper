@@ -1,6 +1,6 @@
 ---
 
-title: delete sweep(删除扫描) ICON转svg、png下载
+title:  delete sweep(删除扫描) ICON转svg、png下载
 name: delete-sweep
 zhTips: 删除扫描
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# delete-sweep  <small style="font-size: 60%;font-weight: 100">删除扫描</small>
+# delete sweep  <small style="font-size: 60%;font-weight: 100">删除扫描</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

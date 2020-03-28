@@ -1,6 +1,6 @@
 ---
 
-title: account child circle(帐户子圈子) ICON转svg、png下载
+title:  account child circle(帐户子圈子) ICON转svg、png下载
 name: account-child-circle
 zhTips: 帐户子圈子,用户子圈子,人子圈子,监护人圈子
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-child-circle,person-child-circle,guardian-circle
 
 ---
 
-# account-child-circle  <small style="font-size: 60%;font-weight: 100">帐户子圈子</small>
+# account child circle  <small style="font-size: 60%;font-weight: 100">帐户子圈子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

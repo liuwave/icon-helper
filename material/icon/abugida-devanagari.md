@@ -1,6 +1,6 @@
 ---
 
-title: abugida devanagari(abugida devanagari) ICON转svg、png下载
+title:  abugida devanagari(abugida devanagari) ICON转svg、png下载
 name: abugida-devanagari
 zhTips: abugida devanagari,书写系统devanagari
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-devanagari
 
 ---
 
-# abugida-devanagari  <small style="font-size: 60%;font-weight: 100">abugida devanagari</small>
+# abugida devanagari  <small style="font-size: 60%;font-weight: 100">abugida devanagari</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

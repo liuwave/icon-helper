@@ -1,6 +1,6 @@
 ---
 
-title: baby bottle(婴儿奶瓶) ICON转svg、png下载
+title:  baby bottle(婴儿奶瓶) ICON转svg、png下载
 name: baby-bottle
 zhTips: 婴儿奶瓶
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# baby-bottle  <small style="font-size: 60%;font-weight: 100">婴儿奶瓶</small>
+# baby bottle  <small style="font-size: 60%;font-weight: 100">婴儿奶瓶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

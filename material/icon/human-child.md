@@ -1,6 +1,6 @@
 ---
 
-title: human child(人类的孩子) ICON转svg、png下载
+title:  human child(人类的孩子) ICON转svg、png下载
 name: human-child
 zhTips: 人类的孩子
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# human-child  <small style="font-size: 60%;font-weight: 100">人类的孩子</small>
+# human child  <small style="font-size: 60%;font-weight: 100">人类的孩子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

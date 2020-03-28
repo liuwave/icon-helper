@@ -1,6 +1,6 @@
 ---
 
-title: led variant off(led重音符号关闭) ICON转svg、png下载
+title:  led variant off(led重音符号关闭) ICON转svg、png下载
 name: led-variant-off
 zhTips: led重音符号关闭
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# led-variant-off  <small style="font-size: 60%;font-weight: 100">led重音符号关闭</small>
+# led variant off  <small style="font-size: 60%;font-weight: 100">led重音符号关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

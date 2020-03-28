@@ -1,6 +1,6 @@
 ---
 
-title: file find(查找文件) ICON转svg、png下载
+title:  file find(查找文件) ICON转svg、png下载
 name: file-find
 zhTips: 查找文件,打印预览,在页面中查找
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: print-preview,find-in-page
 
 ---
 
-# file-find  <small style="font-size: 60%;font-weight: 100">查找文件</small>
+# file find  <small style="font-size: 60%;font-weight: 100">查找文件</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

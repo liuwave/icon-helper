@@ -1,6 +1,6 @@
 ---
 
-title: text box multiple outline(文本框多个轮廓) ICON转svg、png下载
+title:  text box multiple outline(文本框多个轮廓) ICON转svg、png下载
 name: text-box-multiple-outline
 zhTips: 文本框多个轮廓,文件文档框轮廓,文件文件框多个轮廓
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-document-boxes-outline,file-document-box-multiple-outline
 
 ---
 
-# text-box-multiple-outline  <small style="font-size: 60%;font-weight: 100">文本框多个轮廓</small>
+# text box multiple outline  <small style="font-size: 60%;font-weight: 100">文本框多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

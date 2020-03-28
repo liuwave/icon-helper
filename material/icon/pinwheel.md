@@ -1,6 +1,6 @@
 ---
 
-title: pinwheel(风车) ICON转svg、png下载
+title:  pinwheel(风车) ICON转svg、png下载
 name: pinwheel
 zhTips: 风车,玩具
 tags: []
@@ -13,6 +13,8 @@ search: toys
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

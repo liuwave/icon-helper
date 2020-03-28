@@ -1,6 +1,6 @@
 ---
 
-title: source commit next local(源提交下一个本地) ICON转svg、png下载
+title:  source commit next local(源提交下一个本地) ICON转svg、png下载
 name: source-commit-next-local
 zhTips: 源提交下一个本地
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# source-commit-next-local  <small style="font-size: 60%;font-weight: 100">源提交下一个本地</small>
+# source commit next local  <small style="font-size: 60%;font-weight: 100">源提交下一个本地</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: card outline(卡的轮廓) ICON转svg、png下载
+title:  card outline(卡的轮廓) ICON转svg、png下载
 name: card-outline
 zhTips: 卡的轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# card-outline  <small style="font-size: 60%;font-weight: 100">卡的轮廓</small>
+# card outline  <small style="font-size: 60%;font-weight: 100">卡的轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

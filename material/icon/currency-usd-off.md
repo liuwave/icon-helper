@@ -1,6 +1,6 @@
 ---
 
-title: currency usd off(关闭货币) ICON转svg、png下载
+title:  currency usd off(关闭货币) ICON转svg、png下载
 name: currency-usd-off
 zhTips: 关闭货币,减少美元
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: money-off,dollar-off
 
 ---
 
-# currency-usd-off  <small style="font-size: 60%;font-weight: 100">关闭货币</small>
+# currency usd off  <small style="font-size: 60%;font-weight: 100">关闭货币</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: shield remove(移除护罩) ICON转svg、png下载
+title:  shield remove(移除护罩) ICON转svg、png下载
 name: shield-remove
 zhTips: 移除护罩
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# shield-remove  <small style="font-size: 60%;font-weight: 100">移除护罩</small>
+# shield remove  <small style="font-size: 60%;font-weight: 100">移除护罩</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: id card(身份证) ICON转svg、png下载
+title:  id card(身份证) ICON转svg、png下载
 name: id-card
 zhTips: 身份证
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# id-card  <small style="font-size: 60%;font-weight: 100">身份证</small>
+# id card  <small style="font-size: 60%;font-weight: 100">身份证</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

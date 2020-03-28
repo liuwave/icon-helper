@@ -1,6 +1,6 @@
 ---
 
-title: filmstrip off(幻灯片关闭) ICON转svg、png下载
+title:  filmstrip off(幻灯片关闭) ICON转svg、png下载
 name: filmstrip-off
 zhTips: 幻灯片关闭
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# filmstrip-off  <small style="font-size: 60%;font-weight: 100">幻灯片关闭</small>
+# filmstrip off  <small style="font-size: 60%;font-weight: 100">幻灯片关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

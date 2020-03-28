@@ -1,6 +1,6 @@
 ---
 
-title: table merge cells(表合并单元格) ICON转svg、png下载
+title:  table merge cells(表合并单元格) ICON转svg、png下载
 name: table-merge-cells
 zhTips: 表合并单元格
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-merge-cells  <small style="font-size: 60%;font-weight: 100">表合并单元格</small>
+# table merge cells  <small style="font-size: 60%;font-weight: 100">表合并单元格</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

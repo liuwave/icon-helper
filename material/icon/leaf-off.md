@@ -1,6 +1,6 @@
 ---
 
-title: leaf off(脱落) ICON转svg、png下载
+title:  leaf off(脱落) ICON转svg、png下载
 name: leaf-off
 zhTips: 脱落
 tags: ["nature","food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# leaf-off  <small style="font-size: 60%;font-weight: 100">脱落</small>
+# leaf off  <small style="font-size: 60%;font-weight: 100">脱落</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

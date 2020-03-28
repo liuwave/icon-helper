@@ -1,6 +1,6 @@
 ---
 
-title: calendar text(日历文本) ICON转svg、png下载
+title:  calendar text(日历文本) ICON转svg、png下载
 name: calendar-text
 zhTips: 日历文本,事件备忘,事件文本
 tags: ["date-time"]
@@ -8,11 +8,13 @@ search: event-note,event-text
 
 ---
 
-# calendar-text  <small style="font-size: 60%;font-weight: 100">日历文本</small>
+# calendar text  <small style="font-size: 60%;font-weight: 100">日历文本</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

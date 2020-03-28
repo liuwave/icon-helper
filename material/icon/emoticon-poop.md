@@ -1,6 +1,6 @@
 ---
 
-title: emoticon poop(图释便便) ICON转svg、png下载
+title:  emoticon poop(图释便便) ICON转svg、png下载
 name: emoticon-poop
 zhTips: 图释便便,笑脸便便
 tags: ["emoji"]
@@ -8,11 +8,13 @@ search: smiley-poop
 
 ---
 
-# emoticon-poop  <small style="font-size: 60%;font-weight: 100">图释便便</small>
+# emoticon poop  <small style="font-size: 60%;font-weight: 100">图释便便</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

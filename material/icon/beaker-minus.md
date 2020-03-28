@@ -1,6 +1,6 @@
 ---
 
-title: beaker minus(烧杯减去) ICON转svg、png下载
+title:  beaker minus(烧杯减去) ICON转svg、png下载
 name: beaker-minus
 zhTips: 烧杯减去
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# beaker-minus  <small style="font-size: 60%;font-weight: 100">烧杯减去</small>
+# beaker minus  <small style="font-size: 60%;font-weight: 100">烧杯减去</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: elevator up(电梯) ICON转svg、png下载
+title:  elevator up(电梯) ICON转svg、png下载
 name: elevator-up
 zhTips: 电梯
 tags: ["transportation-other"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# elevator-up  <small style="font-size: 60%;font-weight: 100">电梯</small>
+# elevator up  <small style="font-size: 60%;font-weight: 100">电梯</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

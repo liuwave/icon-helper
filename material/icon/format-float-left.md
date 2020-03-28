@@ -1,6 +1,6 @@
 ---
 
-title: format float left(浮动格式左) ICON转svg、png下载
+title:  format float left(浮动格式左) ICON转svg、png下载
 name: format-float-left
 zhTips: 浮动格式左
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-float-left  <small style="font-size: 60%;font-weight: 100">浮动格式左</small>
+# format float left  <small style="font-size: 60%;font-weight: 100">浮动格式左</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

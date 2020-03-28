@@ -1,6 +1,6 @@
 ---
 
-title: zodiac aries(黄道十二宫) ICON转svg、png下载
+title:  zodiac aries(黄道十二宫) ICON转svg、png下载
 name: zodiac-aries
 zhTips: 黄道十二宫,星座白羊座
 tags: []
@@ -8,11 +8,13 @@ search: horoscope-aries
 
 ---
 
-# zodiac-aries  <small style="font-size: 60%;font-weight: 100">黄道十二宫</small>
+# zodiac aries  <small style="font-size: 60%;font-weight: 100">黄道十二宫</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

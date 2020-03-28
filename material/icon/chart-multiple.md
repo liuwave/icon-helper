@@ -1,6 +1,6 @@
 ---
 
-title: chart multiple(图表的倍数) ICON转svg、png下载
+title:  chart multiple(图表的倍数) ICON转svg、png下载
 name: chart-multiple
 zhTips: 图表的倍数
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chart-multiple  <small style="font-size: 60%;font-weight: 100">图表的倍数</small>
+# chart multiple  <small style="font-size: 60%;font-weight: 100">图表的倍数</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

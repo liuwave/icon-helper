@@ -1,6 +1,6 @@
 ---
 
-title: search web(网页搜索) ICON转svg、png下载
+title:  search web(网页搜索) ICON转svg、png下载
 name: search-web
 zhTips: 网页搜索
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# search-web  <small style="font-size: 60%;font-weight: 100">网页搜索</small>
+# search web  <small style="font-size: 60%;font-weight: 100">网页搜索</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

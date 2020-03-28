@@ -1,6 +1,6 @@
 ---
 
-title: earth off(尘土飞扬) ICON转svg、png下载
+title:  earth off(尘土飞扬) ICON转svg、png下载
 name: earth-off
 zhTips: 尘土飞扬
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# earth-off  <small style="font-size: 60%;font-weight: 100">尘土飞扬</small>
+# earth off  <small style="font-size: 60%;font-weight: 100">尘土飞扬</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

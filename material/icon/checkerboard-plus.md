@@ -1,6 +1,6 @@
 ---
 
-title: checkerboard plus(棋盘加) ICON转svg、png下载
+title:  checkerboard plus(棋盘加) ICON转svg、png下载
 name: checkerboard-plus
 zhTips: 棋盘加,光栅加
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search: raster-plus
 
 ---
 
-# checkerboard-plus  <small style="font-size: 60%;font-weight: 100">棋盘加</small>
+# checkerboard plus  <small style="font-size: 60%;font-weight: 100">棋盘加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

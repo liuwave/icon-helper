@@ -1,6 +1,6 @@
 ---
 
-title: magnify minus cursor(放大减号光标) ICON转svg、png下载
+title:  magnify minus cursor(放大减号光标) ICON转svg、png下载
 name: magnify-minus-cursor
 zhTips: 放大减号光标,缩小光标
 tags: []
@@ -8,11 +8,13 @@ search: zoom-out-cursor
 
 ---
 
-# magnify-minus-cursor  <small style="font-size: 60%;font-weight: 100">放大减号光标</small>
+# magnify minus cursor  <small style="font-size: 60%;font-weight: 100">放大减号光标</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

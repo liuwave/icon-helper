@@ -1,6 +1,6 @@
 ---
 
-title: desktop classic(台式机经典版) ICON转svg、png下载
+title:  desktop classic(台式机经典版) ICON转svg、png下载
 name: desktop-classic
 zhTips: 台式机经典版,计算机经典版
 tags: ["device-tech","home-automation"]
@@ -8,11 +8,13 @@ search: computer-classic
 
 ---
 
-# desktop-classic  <small style="font-size: 60%;font-weight: 100">台式机经典版</small>
+# desktop classic  <small style="font-size: 60%;font-weight: 100">台式机经典版</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: clipboard arrow up(剪贴板向上箭头) ICON转svg、png下载
+title:  clipboard arrow up(剪贴板向上箭头) ICON转svg、png下载
 name: clipboard-arrow-up
 zhTips: 剪贴板向上箭头,剪贴板顶部箭头
 tags: []
@@ -8,11 +8,13 @@ search: clipboard-arrow-top
 
 ---
 
-# clipboard-arrow-up  <small style="font-size: 60%;font-weight: 100">剪贴板向上箭头</small>
+# clipboard arrow up  <small style="font-size: 60%;font-weight: 100">剪贴板向上箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: currency bdt(货币bdt) ICON转svg、png下载
+title:  currency bdt(货币bdt) ICON转svg、png下载
 name: currency-bdt
 zhTips: 货币bdt,塔卡,孟加拉塔卡
 tags: ["banking","currency"]
@@ -8,11 +8,13 @@ search: taka,bangladeshi-taka
 
 ---
 
-# currency-bdt  <small style="font-size: 60%;font-weight: 100">货币bdt</small>
+# currency bdt  <small style="font-size: 60%;font-weight: 100">货币bdt</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

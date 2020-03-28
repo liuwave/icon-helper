@@ -1,6 +1,6 @@
 ---
 
-title: apple keyboard caps(苹果键盘盖) ICON转svg、png下载
+title:  apple keyboard caps(苹果键盘盖) ICON转svg、png下载
 name: apple-keyboard-caps
 zhTips: 苹果键盘盖
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# apple-keyboard-caps  <small style="font-size: 60%;font-weight: 100">苹果键盘盖</small>
+# apple keyboard caps  <small style="font-size: 60%;font-weight: 100">苹果键盘盖</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

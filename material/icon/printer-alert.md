@@ -1,6 +1,6 @@
 ---
 
-title: printer alert(打印机警报) ICON转svg、png下载
+title:  printer alert(打印机警报) ICON转svg、png下载
 name: printer-alert
 zhTips: 打印机警报,打印机警告
 tags: ["printer","home-automation","alert-error"]
@@ -8,11 +8,13 @@ search: printer-warning
 
 ---
 
-# printer-alert  <small style="font-size: 60%;font-weight: 100">打印机警报</small>
+# printer alert  <small style="font-size: 60%;font-weight: 100">打印机警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: vector difference ba(向量差ba) ICON转svg、png下载
+title:  vector difference ba(向量差ba) ICON转svg、png下载
 name: vector-difference-ba
 zhTips: 向量差ba
 tags: ["vector","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# vector-difference-ba  <small style="font-size: 60%;font-weight: 100">向量差ba</small>
+# vector difference ba  <small style="font-size: 60%;font-weight: 100">向量差ba</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

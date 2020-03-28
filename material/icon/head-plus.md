@@ -1,6 +1,6 @@
 ---
 
-title: head plus(头加) ICON转svg、png下载
+title:  head plus(头加) ICON转svg、png下载
 name: head-plus
 zhTips: 头加
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# head-plus  <small style="font-size: 60%;font-weight: 100">头加</small>
+# head plus  <small style="font-size: 60%;font-weight: 100">头加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

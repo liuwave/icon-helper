@@ -1,6 +1,6 @@
 ---
 
-title: slash forward(斜线前进) ICON转svg、png下载
+title:  slash forward(斜线前进) ICON转svg、png下载
 name: slash-forward
 zhTips: 斜线前进,划分
 tags: ["math"]
@@ -8,11 +8,13 @@ search: divide,division
 
 ---
 
-# slash-forward  <small style="font-size: 60%;font-weight: 100">斜线前进</small>
+# slash forward  <small style="font-size: 60%;font-weight: 100">斜线前进</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

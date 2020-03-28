@@ -1,6 +1,6 @@
 ---
 
-title: floor lamp variant(落地灯装饰物) ICON转svg、png下载
+title:  floor lamp variant(落地灯装饰物) ICON转svg、png下载
 name: floor-lamp-variant
 zhTips: 落地灯装饰物
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: floor-light-variant
 
 ---
 
-# floor-lamp-variant  <small style="font-size: 60%;font-weight: 100">落地灯装饰物</small>
+# floor lamp variant  <small style="font-size: 60%;font-weight: 100">落地灯装饰物</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

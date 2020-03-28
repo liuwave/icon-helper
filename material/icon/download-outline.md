@@ -1,6 +1,6 @@
 ---
 
-title: download outline(下载概述) ICON转svg、png下载
+title:  download outline(下载概述) ICON转svg、png下载
 name: download-outline
 zhTips: 下载概述
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# download-outline  <small style="font-size: 60%;font-weight: 100">下载概述</small>
+# download outline  <small style="font-size: 60%;font-weight: 100">下载概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

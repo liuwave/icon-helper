@@ -1,8 +1,8 @@
 ---
 
-title: circle(圆圈) ICON转svg、png下载
+title:  circle(圆圈) ICON转svg、png下载
 name: circle
-zhTips: 圆圈,镜头
+zhTips: 圆圈,镜头,黑圈,圆形,圆形薄,直径,点,椭圆,通知
 tags: ["shape"]
 search: lens
 
@@ -13,6 +13,8 @@ search: lens
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">lens</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">圆圈</span><span class="badge-primary badge">镜头</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">lens</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">圆圈</span><span class="badge-primary badge">镜头</span><span class="badge-primary badge">黑圈</span><span class="badge-primary badge">圆形</span><span class="badge-primary badge">圆形薄</span><span class="badge-primary badge">直径</span><span class="badge-primary badge">点</span><span class="badge-primary badge">椭圆</span><span class="badge-primary badge">通知</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">圆，可以表示圆满、团结、圆月等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-circle mdi-48px"></i>
   <i class="mdi mdi-circle mdi-36px"></i>

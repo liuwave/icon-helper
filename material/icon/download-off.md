@@ -1,6 +1,6 @@
 ---
 
-title: download off(下载) ICON转svg、png下载
+title:  download off(下载) ICON转svg、png下载
 name: download-off
 zhTips: 下载
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# download-off  <small style="font-size: 60%;font-weight: 100">下载</small>
+# download off  <small style="font-size: 60%;font-weight: 100">下载</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

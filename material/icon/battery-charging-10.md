@@ -1,6 +1,6 @@
 ---
 
-title: battery charging 10(电池充电10) ICON转svg、png下载
+title:  battery charging 10(电池充电10) ICON转svg、png下载
 name: battery-charging-10
 zhTips: 电池充电10
 tags: ["automotive","battery"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# battery-charging-10  <small style="font-size: 60%;font-weight: 100">电池充电10</small>
+# battery charging 10  <small style="font-size: 60%;font-weight: 100">电池充电10</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

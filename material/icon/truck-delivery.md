@@ -1,6 +1,6 @@
 ---
 
-title: truck delivery(卡车交付) ICON转svg、png下载
+title:  truck delivery(卡车交付) ICON转svg、png下载
 name: truck-delivery
 zhTips: 卡车交付
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: lorry-delivery
 
 ---
 
-# truck-delivery  <small style="font-size: 60%;font-weight: 100">卡车交付</small>
+# truck delivery  <small style="font-size: 60%;font-weight: 100">卡车交付</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

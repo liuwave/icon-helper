@@ -1,6 +1,6 @@
 ---
 
-title: chart bar(条形图) ICON转svg、png下载
+title:  chart bar(条形图) ICON转svg、png下载
 name: chart-bar
 zhTips: 条形图
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chart-bar  <small style="font-size: 60%;font-weight: 100">条形图</small>
+# chart bar  <small style="font-size: 60%;font-weight: 100">条形图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

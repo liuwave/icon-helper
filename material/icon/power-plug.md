@@ -1,6 +1,6 @@
 ---
 
-title: power plug(电源插头) ICON转svg、png下载
+title:  power plug(电源插头) ICON转svg、png下载
 name: power-plug
 zhTips: 电源插头
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# power-plug  <small style="font-size: 60%;font-weight: 100">电源插头</small>
+# power plug  <small style="font-size: 60%;font-weight: 100">电源插头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

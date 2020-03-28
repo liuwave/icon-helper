@@ -1,6 +1,6 @@
 ---
 
-title: test tube off(试管关闭) ICON转svg、png下载
+title:  test tube off(试管关闭) ICON转svg、png下载
 name: test-tube-off
 zhTips: 试管关闭
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# test-tube-off  <small style="font-size: 60%;font-weight: 100">试管关闭</small>
+# test tube off  <small style="font-size: 60%;font-weight: 100">试管关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

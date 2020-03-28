@@ -1,6 +1,6 @@
 ---
 
-title: credit card multiple outline(信用卡多个轮廓) ICON转svg、png下载
+title:  credit card multiple outline(信用卡多个轮廓) ICON转svg、png下载
 name: credit-card-multiple-outline
 zhTips: 信用卡多个轮廓,信用卡
 tags: ["banking"]
@@ -8,11 +8,13 @@ search: credit-cards
 
 ---
 
-# credit-card-multiple-outline  <small style="font-size: 60%;font-weight: 100">信用卡多个轮廓</small>
+# credit card multiple outline  <small style="font-size: 60%;font-weight: 100">信用卡多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

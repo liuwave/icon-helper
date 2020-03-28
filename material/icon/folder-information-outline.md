@@ -1,6 +1,6 @@
 ---
 
-title: folder information outline(信息文件夹概述) ICON转svg、png下载
+title:  folder information outline(信息文件夹概述) ICON转svg、png下载
 name: folder-information-outline
 zhTips: 信息文件夹概述
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# folder-information-outline  <small style="font-size: 60%;font-weight: 100">信息文件夹概述</small>
+# folder information outline  <small style="font-size: 60%;font-weight: 100">信息文件夹概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

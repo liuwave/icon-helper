@@ -1,6 +1,6 @@
 ---
 
-title: distribute vertical center(分配垂直中心) ICON转svg、png下载
+title:  distribute vertical center(分配垂直中心) ICON转svg、png下载
 name: distribute-vertical-center
 zhTips: 分配垂直中心
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# distribute-vertical-center  <small style="font-size: 60%;font-weight: 100">分配垂直中心</small>
+# distribute vertical center  <small style="font-size: 60%;font-weight: 100">分配垂直中心</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: power socket uk(英国电源插座) ICON转svg、png下载
+title:  power socket uk(英国电源插座) ICON转svg、png下载
 name: power-socket-uk
 zhTips: 英国电源插座,英国插头插座,类型g的电源插座,即电源插座hk,电源插座my,电源插座cy,电源插座mt,联合电源插座,爱尔兰电源插座,电源插座香港,马来西亚的电源插座,塞浦路斯的电源插座,马耳他的电源插座,新加坡的电源插座
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: plug-socket-uk,power-socket-type-g,power-socket-ie,power-socket-hk,power
 
 ---
 
-# power-socket-uk  <small style="font-size: 60%;font-weight: 100">英国电源插座</small>
+# power socket uk  <small style="font-size: 60%;font-weight: 100">英国电源插座</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: text box remove(删除文本框) ICON转svg、png下载
+title:  text box remove(删除文本框) ICON转svg、png下载
 name: text-box-remove
 zhTips: 删除文本框,删除文件文档框
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-document-box-remove
 
 ---
 
-# text-box-remove  <small style="font-size: 60%;font-weight: 100">删除文本框</small>
+# text box remove  <small style="font-size: 60%;font-weight: 100">删除文本框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

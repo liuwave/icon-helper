@@ -1,6 +1,6 @@
 ---
 
-title: numeric 3 box multiple(数字3框倍数) ICON转svg、png下载
+title:  numeric 3 box multiple(数字3框倍数) ICON转svg、png下载
 name: numeric-3-box-multiple
 zhTips: 数字3框倍数
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# numeric-3-box-multiple  <small style="font-size: 60%;font-weight: 100">数字3框倍数</small>
+# numeric 3 box multiple  <small style="font-size: 60%;font-weight: 100">数字3框倍数</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

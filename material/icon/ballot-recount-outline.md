@@ -1,6 +1,6 @@
 ---
 
-title: ballot recount outline(选票复数轮廓) ICON转svg、png下载
+title:  ballot recount outline(选票复数轮廓) ICON转svg、png下载
 name: ballot-recount-outline
 zhTips: 选票复数轮廓,投票复数轮廓
 tags: []
@@ -8,11 +8,13 @@ search: vote-recount-outline
 
 ---
 
-# ballot-recount-outline  <small style="font-size: 60%;font-weight: 100">选票复数轮廓</small>
+# ballot recount outline  <small style="font-size: 60%;font-weight: 100">选票复数轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

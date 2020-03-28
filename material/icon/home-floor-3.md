@@ -1,6 +1,6 @@
 ---
 
-title: home floor 3(家庭地板3) ICON转svg、png下载
+title:  home floor 3(家庭地板3) ICON转svg、png下载
 name: home-floor-3
 zhTips: 家庭地板3,房屋地板3,房屋地板三
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: house-floor-3,home-floor-three,house-floor-three,home-floor-third,house-
 
 ---
 
-# home-floor-3  <small style="font-size: 60%;font-weight: 100">家庭地板3</small>
+# home floor 3  <small style="font-size: 60%;font-weight: 100">家庭地板3</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

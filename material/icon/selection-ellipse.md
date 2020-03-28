@@ -1,6 +1,6 @@
 ---
 
-title: selection ellipse(椭圆选择) ICON转svg、png下载
+title:  selection ellipse(椭圆选择) ICON转svg、png下载
 name: selection-ellipse
 zhTips: 椭圆选择
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# selection-ellipse  <small style="font-size: 60%;font-weight: 100">椭圆选择</small>
+# selection ellipse  <small style="font-size: 60%;font-weight: 100">椭圆选择</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

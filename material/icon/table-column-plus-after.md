@@ -1,6 +1,6 @@
 ---
 
-title: table column plus after(表列加后) ICON转svg、png下载
+title:  table column plus after(表列加后) ICON转svg、png下载
 name: table-column-plus-after
 zhTips: 表列加后
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: table-column-add-after
 
 ---
 
-# table-column-plus-after  <small style="font-size: 60%;font-weight: 100">表列加后</small>
+# table column plus after  <small style="font-size: 60%;font-weight: 100">表列加后</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

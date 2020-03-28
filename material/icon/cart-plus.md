@@ -1,6 +1,6 @@
 ---
 
-title: cart plus(加购物车) ICON转svg、png下载
+title:  cart plus(加购物车) ICON转svg、png下载
 name: cart-plus
 zhTips: 加购物车,添加购物车
 tags: ["shopping"]
@@ -8,11 +8,13 @@ search: trolley-plus,add-shopping-cart,shopping-cart-plus,cart-add,trolley-add,s
 
 ---
 
-# cart-plus  <small style="font-size: 60%;font-weight: 100">加购物车</small>
+# cart plus  <small style="font-size: 60%;font-weight: 100">加购物车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

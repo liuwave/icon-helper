@@ -1,6 +1,6 @@
 ---
 
-title: phone plus outline(手机加轮廓) ICON转svg、png下载
+title:  phone plus outline(手机加轮廓) ICON转svg、png下载
 name: phone-plus-outline
 zhTips: 手机加轮廓
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# phone-plus-outline  <small style="font-size: 60%;font-weight: 100">手机加轮廓</small>
+# phone plus outline  <small style="font-size: 60%;font-weight: 100">手机加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

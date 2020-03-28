@@ -1,6 +1,6 @@
 ---
 
-title: cloud lock(云锁) ICON转svg、png下载
+title:  cloud lock(云锁) ICON转svg、png下载
 name: cloud-lock
 zhTips: 云锁
 tags: ["cloud","lock"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cloud-lock  <small style="font-size: 60%;font-weight: 100">云锁</small>
+# cloud lock  <small style="font-size: 60%;font-weight: 100">云锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

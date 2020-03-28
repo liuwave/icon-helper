@@ -1,6 +1,6 @@
 ---
 
-title: cog counterclockwise(齿轮为逆时针方向) ICON转svg、png下载
+title:  cog counterclockwise(齿轮为逆时针方向) ICON转svg、png下载
 name: cog-counterclockwise
 zhTips: 齿轮为逆时针方向
 tags: ["settings"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cog-counterclockwise  <small style="font-size: 60%;font-weight: 100">齿轮为逆时针方向</small>
+# cog counterclockwise  <small style="font-size: 60%;font-weight: 100">齿轮为逆时针方向</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

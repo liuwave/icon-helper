@@ -1,6 +1,6 @@
 ---
 
-title: credit card(信用卡) ICON转svg、png下载
+title:  credit card(信用卡) ICON转svg、png下载
 name: credit-card
 zhTips: 信用卡
 tags: ["banking","currency"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# credit-card  <small style="font-size: 60%;font-weight: 100">信用卡</small>
+# credit card  <small style="font-size: 60%;font-weight: 100">信用卡</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

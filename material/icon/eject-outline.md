@@ -1,6 +1,6 @@
 ---
 
-title: eject outline(弹出轮廓) ICON转svg、png下载
+title:  eject outline(弹出轮廓) ICON转svg、png下载
 name: eject-outline
 zhTips: 弹出轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# eject-outline  <small style="font-size: 60%;font-weight: 100">弹出轮廓</small>
+# eject outline  <small style="font-size: 60%;font-weight: 100">弹出轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

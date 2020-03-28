@@ -1,6 +1,6 @@
 ---
 
-title: diabetes(糖尿病) ICON转svg、png下载
+title:  diabetes(糖尿病) ICON转svg、png下载
 name: diabetes
 zhTips: 糖尿病,手血
 tags: ["medical-hospital"]
@@ -13,6 +13,8 @@ search: hand-blood
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

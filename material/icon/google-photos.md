@@ -1,6 +1,6 @@
 ---
 
-title: google photos(Google照片) ICON转svg、png下载
+title:  google photos(Google照片) ICON转svg、png下载
 name: google-photos
 zhTips: Google照片
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-photos  <small style="font-size: 60%;font-weight: 100">Google照片</small>
+# google photos  <small style="font-size: 60%;font-weight: 100">Google照片</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

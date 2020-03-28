@@ -1,6 +1,6 @@
 ---
 
-title: shape circle plus(形状圆加) ICON转svg、png下载
+title:  shape circle plus(形状圆加) ICON转svg、png下载
 name: shape-circle-plus
 zhTips: 形状圆加
 tags: ["shape"]
@@ -8,11 +8,13 @@ search: shape-circle-add
 
 ---
 
-# shape-circle-plus  <small style="font-size: 60%;font-weight: 100">形状圆加</small>
+# shape circle plus  <small style="font-size: 60%;font-weight: 100">形状圆加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

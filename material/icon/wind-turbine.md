@@ -1,6 +1,6 @@
 ---
 
-title: wind turbine(风力发电机) ICON转svg、png下载
+title:  wind turbine(风力发电机) ICON转svg、png下载
 name: wind-turbine
 zhTips: 风力发电机
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# wind-turbine  <small style="font-size: 60%;font-weight: 100">风力发电机</small>
+# wind turbine  <small style="font-size: 60%;font-weight: 100">风力发电机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

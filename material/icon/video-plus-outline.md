@@ -1,6 +1,6 @@
 ---
 
-title: video plus outline(视频加轮廓) ICON转svg、png下载
+title:  video plus outline(视频加轮廓) ICON转svg、png下载
 name: video-plus-outline
 zhTips: 视频加轮廓
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# video-plus-outline  <small style="font-size: 60%;font-weight: 100">视频加轮廓</small>
+# video plus outline  <small style="font-size: 60%;font-weight: 100">视频加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

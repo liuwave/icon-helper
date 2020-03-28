@@ -1,6 +1,6 @@
 ---
 
-title: home roof(家用屋顶) ICON转svg、png下载
+title:  home roof(家用屋顶) ICON转svg、png下载
 name: home-roof
 zhTips: 家用屋顶,家用烟囱
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: home-chimney
 
 ---
 
-# home-roof  <small style="font-size: 60%;font-weight: 100">家用屋顶</small>
+# home roof  <small style="font-size: 60%;font-weight: 100">家用屋顶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

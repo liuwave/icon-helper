@@ -1,6 +1,6 @@
 ---
 
-title: video input scart(Scart输入视频) ICON转svg、png下载
+title:  video input scart(Scart输入视频) ICON转svg、png下载
 name: video-input-scart
 zhTips: Scart输入视频
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# video-input-scart  <small style="font-size: 60%;font-weight: 100">Scart输入视频</small>
+# video input scart  <small style="font-size: 60%;font-weight: 100">Scart输入视频</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

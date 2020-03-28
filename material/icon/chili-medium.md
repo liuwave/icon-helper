@@ -1,6 +1,6 @@
 ---
 
-title: chili medium(辣椒中) ICON转svg、png下载
+title:  chili medium(辣椒中) ICON转svg、png下载
 name: chili-medium
 zhTips: 辣椒中,胡椒,辛辣
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: chilli-medium,pepper,spicy
 
 ---
 
-# chili-medium  <small style="font-size: 60%;font-weight: 100">辣椒中</small>
+# chili medium  <small style="font-size: 60%;font-weight: 100">辣椒中</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: file send(文件发送) ICON转svg、png下载
+title:  file send(文件发送) ICON转svg、png下载
 name: file-send
 zhTips: 文件发送,文件移动
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-move
 
 ---
 
-# file-send  <small style="font-size: 60%;font-weight: 100">文件发送</small>
+# file send  <small style="font-size: 60%;font-weight: 100">文件发送</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: alpha t(alpha t) ICON转svg、png下载
+title:  alpha t(alpha t) ICON转svg、png下载
 name: alpha-t
 zhTips: alpha t,字母t
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-t,letter-t
 
 ---
 
-# alpha-t  <small style="font-size: 60%;font-weight: 100">alpha t</small>
+# alpha t  <small style="font-size: 60%;font-weight: 100">alpha t</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

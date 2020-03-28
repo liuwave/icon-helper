@@ -1,6 +1,6 @@
 ---
 
-title: table row(表格行) ICON转svg、png下载
+title:  table row(表格行) ICON转svg、png下载
 name: table-row
 zhTips: 表格行
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-row  <small style="font-size: 60%;font-weight: 100">表格行</small>
+# table row  <small style="font-size: 60%;font-weight: 100">表格行</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

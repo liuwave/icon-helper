@@ -1,6 +1,6 @@
 ---
 
-title: sim alert(SIM卡警报) ICON转svg、png下载
+title:  sim alert(SIM卡警报) ICON转svg、png下载
 name: sim-alert
 zhTips: SIM卡警报
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search: sim-warning,sim-card-alert
 
 ---
 
-# sim-alert  <small style="font-size: 60%;font-weight: 100">SIM卡警报</small>
+# sim alert  <small style="font-size: 60%;font-weight: 100">SIM卡警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

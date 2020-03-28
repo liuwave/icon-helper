@@ -1,6 +1,6 @@
 ---
 
-title: phone paused(电话已暂停) ICON转svg、png下载
+title:  phone paused(电话已暂停) ICON转svg、png下载
 name: phone-paused
 zhTips: 电话已暂停
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# phone-paused  <small style="font-size: 60%;font-weight: 100">电话已暂停</small>
+# phone paused  <small style="font-size: 60%;font-weight: 100">电话已暂停</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

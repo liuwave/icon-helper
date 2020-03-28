@@ -1,6 +1,6 @@
 ---
 
-title: open in new(在新的外部链接中打开) ICON转svg、png下载
+title:  open in new(在新的外部链接中打开) ICON转svg、png下载
 name: open-in-new
 zhTips: 在新的外部链接中打开
 tags: []
@@ -8,11 +8,13 @@ search: external-link
 
 ---
 
-# open-in-new  <small style="font-size: 60%;font-weight: 100">在新的外部链接中打开</small>
+# open in new  <small style="font-size: 60%;font-weight: 100">在新的外部链接中打开</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

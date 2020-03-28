@@ -1,6 +1,6 @@
 ---
 
-title: axis x arrow lock(轴x箭头锁) ICON转svg、png下载
+title:  axis x arrow lock(轴x箭头锁) ICON转svg、png下载
 name: axis-x-arrow-lock
 zhTips: 轴x箭头锁
 tags: ["lock","arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# axis-x-arrow-lock  <small style="font-size: 60%;font-weight: 100">轴x箭头锁</small>
+# axis x arrow lock  <small style="font-size: 60%;font-weight: 100">轴x箭头锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

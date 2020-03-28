@@ -1,6 +1,6 @@
 ---
 
-title: dice 2(骰子2) ICON转svg、png下载
+title:  dice 2(骰子2) ICON转svg、png下载
 name: dice-2
 zhTips: 骰子2,骰子两个
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: die-2,dice-two
 
 ---
 
-# dice-2  <small style="font-size: 60%;font-weight: 100">骰子2</small>
+# dice 2  <small style="font-size: 60%;font-weight: 100">骰子2</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

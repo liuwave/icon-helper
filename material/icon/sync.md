@@ -1,8 +1,8 @@
 ---
 
-title: sync(同步) ICON转svg、png下载
+title:  sync(同步) ICON转svg、png下载
 name: sync
-zhTips: 同步,循环,逆时针箭头,圆形箭头
+zhTips: 同步,循环,逆时针箭头,圆形箭头,同步箭头,交换,刷新,重新加载,旋转
 tags: []
 search: loop,counterclockwise-arrows,circular-arrows,circle-arrows
 
@@ -13,6 +13,8 @@ search: loop,counterclockwise-arrows,circular-arrows,circle-arrows
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">loop</span><span class="badge-light badge">counterclockwise-arrows</span><span class="badge-light badge">circular-arrows</span><span class="badge-light badge">circle-arrows</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">同步</span><span class="badge-primary badge">循环</span><span class="badge-primary badge">逆时针箭头</span><span class="badge-primary badge">圆形箭头</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/sync.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/sync.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">loop</span><span class="badge-light badge">counterclockwise-arrows</span><span class="badge-light badge">circular-arrows</span><span class="badge-light badge">circle-arrows</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">同步</span><span class="badge-primary badge">循环</span><span class="badge-primary badge">逆时针箭头</span><span class="badge-primary badge">圆形箭头</span><span class="badge-primary badge">同步箭头</span><span class="badge-primary badge">交换</span><span class="badge-primary badge">刷新</span><span class="badge-primary badge">重新加载</span><span class="badge-primary badge">旋转</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/sync.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/sync.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示文字，文件等信息的同步。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-sync mdi-48px"></i>
   <i class="mdi mdi-sync mdi-36px"></i>

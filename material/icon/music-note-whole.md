@@ -1,6 +1,6 @@
 ---
 
-title: music note whole(全音符音乐) ICON转svg、png下载
+title:  music note whole(全音符音乐) ICON转svg、png下载
 name: music-note-whole
 zhTips: 全音符音乐
 tags: ["audio","music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-note-whole  <small style="font-size: 60%;font-weight: 100">全音符音乐</small>
+# music note whole  <small style="font-size: 60%;font-weight: 100">全音符音乐</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

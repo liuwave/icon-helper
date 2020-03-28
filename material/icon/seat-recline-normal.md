@@ -1,6 +1,6 @@
 ---
 
-title: seat recline normal(躺椅正常) ICON转svg、png下载
+title:  seat recline normal(躺椅正常) ICON转svg、png下载
 name: seat-recline-normal
 zhTips: 躺椅正常,航空公司躺椅正常
 tags: []
@@ -8,11 +8,13 @@ search: airline-seat-recline-normal
 
 ---
 
-# seat-recline-normal  <small style="font-size: 60%;font-weight: 100">躺椅正常</small>
+# seat recline normal  <small style="font-size: 60%;font-weight: 100">躺椅正常</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

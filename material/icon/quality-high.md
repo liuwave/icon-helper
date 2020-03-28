@@ -1,6 +1,6 @@
 ---
 
-title: quality high(高品质) ICON转svg、png下载
+title:  quality high(高品质) ICON转svg、png下载
 name: quality-high
 zhTips: 高品质,总部
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search: high-quality,hq
 
 ---
 
-# quality-high  <small style="font-size: 60%;font-weight: 100">高品质</small>
+# quality high  <small style="font-size: 60%;font-weight: 100">高品质</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

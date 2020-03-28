@@ -1,6 +1,6 @@
 ---
 
-title: view compact outline(查看紧凑型轮廓) ICON转svg、png下载
+title:  view compact outline(查看紧凑型轮廓) ICON转svg、png下载
 name: view-compact-outline
 zhTips: 查看紧凑型轮廓
 tags: ["view"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# view-compact-outline  <small style="font-size: 60%;font-weight: 100">查看紧凑型轮廓</small>
+# view compact outline  <small style="font-size: 60%;font-weight: 100">查看紧凑型轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

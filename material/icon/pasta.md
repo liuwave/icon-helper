@@ -1,6 +1,6 @@
 ---
 
-title: pasta(意大利面) ICON转svg、png下载
+title:  pasta(意大利面) ICON转svg、png下载
 name: pasta
 zhTips: 意大利面,意大利食品
 tags: ["food-drink"]
@@ -13,6 +13,8 @@ search: food-italian,spaghetti
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: elevator down(升降机下来) ICON转svg、png下载
+title:  elevator down(升降机下来) ICON转svg、png下载
 name: elevator-down
 zhTips: 升降机下来
 tags: ["transportation-other"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# elevator-down  <small style="font-size: 60%;font-weight: 100">升降机下来</small>
+# elevator down  <small style="font-size: 60%;font-weight: 100">升降机下来</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

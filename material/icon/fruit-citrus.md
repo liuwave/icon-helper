@@ -1,6 +1,6 @@
 ---
 
-title: fruit citrus(柑桔) ICON转svg、png下载
+title:  fruit citrus(柑桔) ICON转svg、png下载
 name: fruit-citrus
 zhTips: 柑桔,柠檬果,酸橙果
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: fruit-lemon,fruit-lime
 
 ---
 
-# fruit-citrus  <small style="font-size: 60%;font-weight: 100">柑桔</small>
+# fruit citrus  <small style="font-size: 60%;font-weight: 100">柑桔</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

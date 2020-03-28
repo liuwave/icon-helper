@@ -1,6 +1,6 @@
 ---
 
-title: brightness auto(亮度自动) ICON转svg、png下载
+title:  brightness auto(亮度自动) ICON转svg、png下载
 name: brightness-auto
 zhTips: 亮度自动
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# brightness-auto  <small style="font-size: 60%;font-weight: 100">亮度自动</small>
+# brightness auto  <small style="font-size: 60%;font-weight: 100">亮度自动</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: point of sale(销售点) ICON转svg、png下载
+title:  point of sale(销售点) ICON转svg、png下载
 name: point-of-sale
 zhTips: 销售点
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# point-of-sale  <small style="font-size: 60%;font-weight: 100">销售点</small>
+# point of sale  <small style="font-size: 60%;font-weight: 100">销售点</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

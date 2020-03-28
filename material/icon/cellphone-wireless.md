@@ -1,6 +1,6 @@
 ---
 
-title: cellphone wireless(手机无线) ICON转svg、png下载
+title:  cellphone wireless(手机无线) ICON转svg、png下载
 name: cellphone-wireless
 zhTips: 手机无线,智能手机无线
 tags: ["cellphone-phone","device-tech"]
@@ -8,11 +8,13 @@ search: mobile-phone-wireless,smartphone-wireless
 
 ---
 
-# cellphone-wireless  <small style="font-size: 60%;font-weight: 100">手机无线</small>
+# cellphone wireless  <small style="font-size: 60%;font-weight: 100">手机无线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

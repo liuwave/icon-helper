@@ -1,8 +1,8 @@
 ---
 
-title: percent(％) ICON转svg、png下载
+title:  percent(％) ICON转svg、png下载
 name: percent
-zhTips: ％
+zhTips: ％,百分符,百分比,折扣,分数,比例,比率
 tags: ["math"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">％</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/percent.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/percent.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">％</span><span class="badge-primary badge">百分符</span><span class="badge-primary badge">百分比</span><span class="badge-primary badge">折扣</span><span class="badge-primary badge">分数</span><span class="badge-primary badge">比例</span><span class="badge-primary badge">比率</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/percent.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/percent.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示百分比图标或取余数的运算符。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-percent mdi-48px"></i>
   <i class="mdi mdi-percent mdi-36px"></i>

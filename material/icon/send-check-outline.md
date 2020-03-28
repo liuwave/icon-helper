@@ -1,6 +1,6 @@
 ---
 
-title: send check outline(发送支票轮廓) ICON转svg、png下载
+title:  send check outline(发送支票轮廓) ICON转svg、png下载
 name: send-check-outline
 zhTips: 发送支票轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# send-check-outline  <small style="font-size: 60%;font-weight: 100">发送支票轮廓</small>
+# send check outline  <small style="font-size: 60%;font-weight: 100">发送支票轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

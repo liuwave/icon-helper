@@ -1,6 +1,6 @@
 ---
 
-title: account music outline(音乐概述帐户) ICON转svg、png下载
+title:  account music outline(音乐概述帐户) ICON转svg、png下载
 name: account-music-outline
 zhTips: 音乐概述帐户,艺术家概述
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: artist-outline
 
 ---
 
-# account-music-outline  <small style="font-size: 60%;font-weight: 100">音乐概述帐户</small>
+# account music outline  <small style="font-size: 60%;font-weight: 100">音乐概述帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

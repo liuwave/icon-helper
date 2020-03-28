@@ -1,6 +1,6 @@
 ---
 
-title: music note sixteenth(音乐笔记第十六) ICON转svg、png下载
+title:  music note sixteenth(音乐笔记第十六) ICON转svg、png下载
 name: music-note-sixteenth
 zhTips: 音乐笔记第十六
 tags: ["audio","music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-note-sixteenth  <small style="font-size: 60%;font-weight: 100">音乐笔记第十六</small>
+# music note sixteenth  <small style="font-size: 60%;font-weight: 100">音乐笔记第十六</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

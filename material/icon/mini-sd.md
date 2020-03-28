@@ -1,6 +1,6 @@
 ---
 
-title: mini sd(迷你标清) ICON转svg、png下载
+title:  mini sd(迷你标清) ICON转svg、png下载
 name: mini-sd
 zhTips: 迷你标清
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# mini-sd  <small style="font-size: 60%;font-weight: 100">迷你标清</small>
+# mini sd  <small style="font-size: 60%;font-weight: 100">迷你标清</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

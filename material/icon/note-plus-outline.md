@@ -1,6 +1,6 @@
 ---
 
-title: note plus outline(注释加轮廓) ICON转svg、png下载
+title:  note plus outline(注释加轮廓) ICON转svg、png下载
 name: note-plus-outline
 zhTips: 注释加轮廓
 tags: []
@@ -8,11 +8,13 @@ search: note-add-outline
 
 ---
 
-# note-plus-outline  <small style="font-size: 60%;font-weight: 100">注释加轮廓</small>
+# note plus outline  <small style="font-size: 60%;font-weight: 100">注释加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

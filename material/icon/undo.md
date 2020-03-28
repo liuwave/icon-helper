@@ -1,8 +1,8 @@
 ---
 
-title: undo(撤消) ICON转svg、png下载
+title:  undo(撤消) ICON转svg、png下载
 name: undo
-zhTips: 撤消,箭头
+zhTips: 撤消,箭头,取消箭头,返回,控制z,交换,oops,旋转
 tags: []
 search: arrow
 
@@ -13,6 +13,8 @@ search: arrow
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">arrow</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">撤消</span><span class="badge-primary badge">箭头</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/undo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/undo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">arrow</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">撤消</span><span class="badge-primary badge">箭头</span><span class="badge-primary badge">取消箭头</span><span class="badge-primary badge">返回</span><span class="badge-primary badge">控制z</span><span class="badge-primary badge">交换</span><span class="badge-primary badge">oops</span><span class="badge-primary badge">旋转</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/undo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/undo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示取消，返回上一步。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-undo mdi-48px"></i>
   <i class="mdi mdi-undo mdi-36px"></i>

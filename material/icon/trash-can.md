@@ -1,6 +1,6 @@
 ---
 
-title: trash can(垃圾桶) ICON转svg、png下载
+title:  trash can(垃圾桶) ICON转svg、png下载
 name: trash-can
 zhTips: 垃圾桶,删除
 tags: []
@@ -8,11 +8,13 @@ search: delete,rubbish-bin,trashcan,garbage-can
 
 ---
 
-# trash-can  <small style="font-size: 60%;font-weight: 100">垃圾桶</small>
+# trash can  <small style="font-size: 60%;font-weight: 100">垃圾桶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

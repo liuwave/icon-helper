@@ -1,6 +1,6 @@
 ---
 
-title: van utility(面包车) ICON转svg、png下载
+title:  van utility(面包车) ICON转svg、png下载
 name: van-utility
 zhTips: 面包车,糖果车
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: van-candy
 
 ---
 
-# van-utility  <small style="font-size: 60%;font-weight: 100">面包车</small>
+# van utility  <small style="font-size: 60%;font-weight: 100">面包车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

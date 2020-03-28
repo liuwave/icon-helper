@@ -1,6 +1,6 @@
 ---
 
-title: text box minus outline(文本框减去轮廓) ICON转svg、png下载
+title:  text box minus outline(文本框减去轮廓) ICON转svg、png下载
 name: text-box-minus-outline
 zhTips: 文本框减去轮廓,文件文档框减去轮廓
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-document-box-minus-outline
 
 ---
 
-# text-box-minus-outline  <small style="font-size: 60%;font-weight: 100">文本框减去轮廓</small>
+# text box minus outline  <small style="font-size: 60%;font-weight: 100">文本框减去轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

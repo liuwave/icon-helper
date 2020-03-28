@@ -1,6 +1,6 @@
 ---
 
-title: book plus multiple outline(本书加多个轮廓) ICON转svg、png下载
+title:  book plus multiple outline(本书加多个轮廓) ICON转svg、png下载
 name: book-plus-multiple-outline
 zhTips: 本书加多个轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# book-plus-multiple-outline  <small style="font-size: 60%;font-weight: 100">本书加多个轮廓</small>
+# book plus multiple outline  <small style="font-size: 60%;font-weight: 100">本书加多个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

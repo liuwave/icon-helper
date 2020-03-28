@@ -1,6 +1,6 @@
 ---
 
-title: microphone variant off(麦克风重音关闭) ICON转svg、png下载
+title:  microphone variant off(麦克风重音关闭) ICON转svg、png下载
 name: microphone-variant-off
 zhTips: 麦克风重音关闭
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# microphone-variant-off  <small style="font-size: 60%;font-weight: 100">麦克风重音关闭</small>
+# microphone variant off  <small style="font-size: 60%;font-weight: 100">麦克风重音关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: file account(文件帐户) ICON转svg、png下载
+title:  file account(文件帐户) ICON转svg、png下载
 name: file-account
 zhTips: 文件帐户,用户文件,简历
 tags: ["account-user","files-folders"]
@@ -8,11 +8,13 @@ search: file-user,resume
 
 ---
 
-# file-account  <small style="font-size: 60%;font-weight: 100">文件帐户</small>
+# file account  <small style="font-size: 60%;font-weight: 100">文件帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

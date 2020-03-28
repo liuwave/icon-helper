@@ -1,6 +1,6 @@
 ---
 
-title: kettle off outline(水壶掉了轮廓) ICON转svg、png下载
+title:  kettle off outline(水壶掉了轮廓) ICON转svg、png下载
 name: kettle-off-outline
 zhTips: 水壶掉了轮廓,茶壶掉了轮廓,水壶掉了,茶壶掉了
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: tea-kettle-off-outline,kettle-empty-off,tea-kettle-empty-off
 
 ---
 
-# kettle-off-outline  <small style="font-size: 60%;font-weight: 100">水壶掉了轮廓</small>
+# kettle off outline  <small style="font-size: 60%;font-weight: 100">水壶掉了轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

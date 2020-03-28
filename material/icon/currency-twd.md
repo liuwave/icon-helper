@@ -1,6 +1,6 @@
 ---
 
-title: currency twd(货币TWD) ICON转svg、png下载
+title:  currency twd(货币TWD) ICON转svg、png下载
 name: currency-twd
 zhTips: 货币TWD,新台币
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: new-taiwan-dollar
 
 ---
 
-# currency-twd  <small style="font-size: 60%;font-weight: 100">货币TWD</small>
+# currency twd  <small style="font-size: 60%;font-weight: 100">货币TWD</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: eye outline(眼睛轮廓) ICON转svg、png下载
+title:  eye outline(眼睛轮廓) ICON转svg、png下载
 name: eye-outline
 zhTips: 眼睛轮廓,显示轮廓,可见性轮廓
 tags: []
@@ -8,11 +8,13 @@ search: show-outline,visibility-outline
 
 ---
 
-# eye-outline  <small style="font-size: 60%;font-weight: 100">眼睛轮廓</small>
+# eye outline  <small style="font-size: 60%;font-weight: 100">眼睛轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: home floor 0(家庭楼层0) ICON转svg、png下载
+title:  home floor 0(家庭楼层0) ICON转svg、png下载
 name: home-floor-0
 zhTips: 家庭楼层0,房屋楼层0
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: house-floor-0,home-floor-zero,house-floor-zero
 
 ---
 
-# home-floor-0  <small style="font-size: 60%;font-weight: 100">家庭楼层0</small>
+# home floor 0  <small style="font-size: 60%;font-weight: 100">家庭楼层0</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

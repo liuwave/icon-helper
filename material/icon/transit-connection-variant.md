@@ -1,6 +1,6 @@
 ---
 
-title: transit connection variant(运输连接重音) ICON转svg、png下载
+title:  transit connection variant(运输连接重音) ICON转svg、png下载
 name: transit-connection-variant
 zhTips: 运输连接重音
 tags: ["navigation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# transit-connection-variant  <small style="font-size: 60%;font-weight: 100">运输连接重音</small>
+# transit connection variant  <small style="font-size: 60%;font-weight: 100">运输连接重音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

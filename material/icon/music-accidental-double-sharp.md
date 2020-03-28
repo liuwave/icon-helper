@@ -1,6 +1,6 @@
 ---
 
-title: music accidental double sharp(偶然的双重尖锐音乐) ICON转svg、png下载
+title:  music accidental double sharp(偶然的双重尖锐音乐) ICON转svg、png下载
 name: music-accidental-double-sharp
 zhTips: 偶然的双重尖锐音乐
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-accidental-double-sharp  <small style="font-size: 60%;font-weight: 100">偶然的双重尖锐音乐</small>
+# music accidental double sharp  <small style="font-size: 60%;font-weight: 100">偶然的双重尖锐音乐</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

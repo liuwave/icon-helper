@@ -1,6 +1,6 @@
 ---
 
-title: mouse bluetooth(鼠标蓝牙) ICON转svg、png下载
+title:  mouse bluetooth(鼠标蓝牙) ICON转svg、png下载
 name: mouse-bluetooth
 zhTips: 鼠标蓝牙
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# mouse-bluetooth  <small style="font-size: 60%;font-weight: 100">鼠标蓝牙</small>
+# mouse bluetooth  <small style="font-size: 60%;font-weight: 100">鼠标蓝牙</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

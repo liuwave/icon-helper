@@ -1,6 +1,6 @@
 ---
 
-title: phone hangup(电话挂断) ICON转svg、png下载
+title:  phone hangup(电话挂断) ICON转svg、png下载
 name: phone-hangup
 zhTips: 电话挂断,通话结束
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search: call-end,telephone-hangup
 
 ---
 
-# phone-hangup  <small style="font-size: 60%;font-weight: 100">电话挂断</small>
+# phone hangup  <small style="font-size: 60%;font-weight: 100">电话挂断</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

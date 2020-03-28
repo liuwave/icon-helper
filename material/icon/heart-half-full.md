@@ -1,6 +1,6 @@
 ---
 
-title: heart half full(心半满) ICON转svg、png下载
+title:  heart half full(心半满) ICON转svg、png下载
 name: heart-half-full
 zhTips: 心半满
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# heart-half-full  <small style="font-size: 60%;font-weight: 100">心半满</small>
+# heart half full  <small style="font-size: 60%;font-weight: 100">心半满</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

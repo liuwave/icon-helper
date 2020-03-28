@@ -1,6 +1,6 @@
 ---
 
-title: saw blade(锯条) ICON转svg、png下载
+title:  saw blade(锯条) ICON转svg、png下载
 name: saw-blade
 zhTips: 锯条
 tags: ["hardware-tools"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# saw-blade  <small style="font-size: 60%;font-weight: 100">锯条</small>
+# saw blade  <small style="font-size: 60%;font-weight: 100">锯条</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: table border(桌子边框) ICON转svg、png下载
+title:  table border(桌子边框) ICON转svg、png下载
 name: table-border
 zhTips: 桌子边框
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-border  <small style="font-size: 60%;font-weight: 100">桌子边框</small>
+# table border  <small style="font-size: 60%;font-weight: 100">桌子边框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

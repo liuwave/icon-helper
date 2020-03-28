@@ -1,6 +1,6 @@
 ---
 
-title: filmstrip(幻灯片) ICON转svg、png下载
+title:  filmstrip(幻灯片) ICON转svg、png下载
 name: filmstrip
 zhTips: 幻灯片,本地电影,剧院
 tags: ["video-movie"]
@@ -13,6 +13,8 @@ search: local-movies,theaters
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

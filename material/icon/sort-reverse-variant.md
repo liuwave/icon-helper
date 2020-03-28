@@ -1,6 +1,6 @@
 ---
 
-title: sort reverse variant(对反向重音进行排序) ICON转svg、png下载
+title:  sort reverse variant(对反向重音进行排序) ICON转svg、png下载
 name: sort-reverse-variant
 zhTips: 对反向重音进行排序
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# sort-reverse-variant  <small style="font-size: 60%;font-weight: 100">对反向重音进行排序</small>
+# sort reverse variant  <small style="font-size: 60%;font-weight: 100">对反向重音进行排序</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

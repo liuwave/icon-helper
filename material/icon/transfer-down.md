@@ -1,6 +1,6 @@
 ---
 
-title: transfer down(向下转移) ICON转svg、png下载
+title:  transfer down(向下转移) ICON转svg、png下载
 name: transfer-down
 zhTips: 向下转移
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# transfer-down  <small style="font-size: 60%;font-weight: 100">向下转移</small>
+# transfer down  <small style="font-size: 60%;font-weight: 100">向下转移</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

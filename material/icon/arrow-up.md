@@ -1,6 +1,6 @@
 ---
 
-title: arrow up(向上箭头) ICON转svg、png下载
+title:  arrow up(向上箭头) ICON转svg、png下载
 name: arrow-up
 zhTips: 向上箭头,顶部箭头
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-upward,arrow-top
 
 ---
 
-# arrow-up  <small style="font-size: 60%;font-weight: 100">向上箭头</small>
+# arrow up  <small style="font-size: 60%;font-weight: 100">向上箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

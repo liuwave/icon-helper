@@ -1,6 +1,6 @@
 ---
 
-title: toaster off(烤面包机) ICON转svg、png下载
+title:  toaster off(烤面包机) ICON转svg、png下载
 name: toaster-off
 zhTips: 烤面包机
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# toaster-off  <small style="font-size: 60%;font-weight: 100">烤面包机</small>
+# toaster off  <small style="font-size: 60%;font-weight: 100">烤面包机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

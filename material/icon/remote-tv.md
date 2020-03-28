@@ -1,6 +1,6 @@
 ---
 
-title: remote tv(远程电视) ICON转svg、png下载
+title:  remote tv(远程电视) ICON转svg、png下载
 name: remote-tv
 zhTips: 远程电视
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# remote-tv  <small style="font-size: 60%;font-weight: 100">远程电视</small>
+# remote tv  <small style="font-size: 60%;font-weight: 100">远程电视</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

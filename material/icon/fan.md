@@ -1,6 +1,6 @@
 ---
 
-title: fan(等待) ICON转svg、png下载
+title:  fan(等待) ICON转svg、png下载
 name: fan
 zhTips: 等待
 tags: ["home-automation","automotive"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

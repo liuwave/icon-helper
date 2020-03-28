@@ -1,6 +1,6 @@
 ---
 
-title: badge account horizontal(徽章帐户水平) ICON转svg、png下载
+title:  badge account horizontal(徽章帐户水平) ICON转svg、png下载
 name: badge-account-horizontal
 zhTips: 徽章帐户水平
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# badge-account-horizontal  <small style="font-size: 60%;font-weight: 100">徽章帐户水平</small>
+# badge account horizontal  <small style="font-size: 60%;font-weight: 100">徽章帐户水平</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

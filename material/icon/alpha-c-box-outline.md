@@ -1,6 +1,6 @@
 ---
 
-title: alpha c box outline(alpha c框轮廓) ICON转svg、png下载
+title:  alpha c box outline(alpha c框轮廓) ICON转svg、png下载
 name: alpha-c-box-outline
 zhTips: alpha c框轮廓,字母c框轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-c-box-outline,letter-c-box-outline
 
 ---
 
-# alpha-c-box-outline  <small style="font-size: 60%;font-weight: 100">alpha c框轮廓</small>
+# alpha c box outline  <small style="font-size: 60%;font-weight: 100">alpha c框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: numeric 9(数字9) ICON转svg、png下载
+title:  numeric 9(数字9) ICON转svg、png下载
 name: numeric-9
 zhTips: 数字9
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: number-9,numeric-nine
 
 ---
 
-# numeric-9  <small style="font-size: 60%;font-weight: 100">数字9</small>
+# numeric 9  <small style="font-size: 60%;font-weight: 100">数字9</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

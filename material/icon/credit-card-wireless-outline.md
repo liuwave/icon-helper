@@ -1,6 +1,6 @@
 ---
 
-title: credit card wireless outline(信用卡无线轮廓) ICON转svg、png下载
+title:  credit card wireless outline(信用卡无线轮廓) ICON转svg、png下载
 name: credit-card-wireless-outline
 zhTips: 信用卡无线轮廓,信用卡非接触式
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: credit-card-contactless
 
 ---
 
-# credit-card-wireless-outline  <small style="font-size: 60%;font-weight: 100">信用卡无线轮廓</small>
+# credit card wireless outline  <small style="font-size: 60%;font-weight: 100">信用卡无线轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

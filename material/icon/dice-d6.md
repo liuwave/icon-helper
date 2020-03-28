@@ -1,6 +1,6 @@
 ---
 
-title: dice d6(骰子d6) ICON转svg、png下载
+title:  dice d6(骰子d6) ICON转svg、png下载
 name: dice-d6
 zhTips: 骰子d6
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# dice-d6  <small style="font-size: 60%;font-weight: 100">骰子d6</small>
+# dice d6  <small style="font-size: 60%;font-weight: 100">骰子d6</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

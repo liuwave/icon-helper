@@ -1,6 +1,6 @@
 ---
 
-title: smoking off(禁止吸烟) ICON转svg、png下载
+title:  smoking off(禁止吸烟) ICON转svg、png下载
 name: smoking-off
 zhTips: 禁止吸烟
 tags: []
@@ -8,11 +8,13 @@ search: no-smoking,cigarette-off,smoke-free
 
 ---
 
-# smoking-off  <small style="font-size: 60%;font-weight: 100">禁止吸烟</small>
+# smoking off  <small style="font-size: 60%;font-weight: 100">禁止吸烟</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: locker multiple(多个储物柜) ICON转svg、png下载
+title:  locker multiple(多个储物柜) ICON转svg、png下载
 name: locker-multiple
 zhTips: 多个储物柜,储物柜
 tags: []
@@ -8,11 +8,13 @@ search: lockers
 
 ---
 
-# locker-multiple  <small style="font-size: 60%;font-weight: 100">多个储物柜</small>
+# locker multiple  <small style="font-size: 60%;font-weight: 100">多个储物柜</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

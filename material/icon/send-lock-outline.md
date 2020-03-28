@@ -1,6 +1,6 @@
 ---
 
-title: send lock outline(发送轮廓锁) ICON转svg、png下载
+title:  send lock outline(发送轮廓锁) ICON转svg、png下载
 name: send-lock-outline
 zhTips: 发送轮廓锁
 tags: ["lock"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# send-lock-outline  <small style="font-size: 60%;font-weight: 100">发送轮廓锁</small>
+# send lock outline  <small style="font-size: 60%;font-weight: 100">发送轮廓锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: ocr(光学字符识别) ICON转svg、png下载
+title:  ocr(光学字符识别) ICON转svg、png下载
 name: ocr
 zhTips: 光学字符识别
 tags: []
@@ -13,6 +13,8 @@ search: optical-character-recognition
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

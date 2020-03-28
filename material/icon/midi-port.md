@@ -1,6 +1,6 @@
 ---
 
-title: midi port(Midi端口) ICON转svg、png下载
+title:  midi port(Midi端口) ICON转svg、png下载
 name: midi-port
 zhTips: Midi端口
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# midi-port  <small style="font-size: 60%;font-weight: 100">Midi端口</small>
+# midi port  <small style="font-size: 60%;font-weight: 100">Midi端口</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

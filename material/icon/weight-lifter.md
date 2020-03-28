@@ -1,6 +1,6 @@
 ---
 
-title: weight lifter(举重运动员) ICON转svg、png下载
+title:  weight lifter(举重运动员) ICON转svg、png下载
 name: weight-lifter
 zhTips: 举重运动员,杠铃,运动量来找到
 tags: ["sport"]
@@ -8,11 +8,13 @@ search: barbell,crossfit
 
 ---
 
-# weight-lifter  <small style="font-size: 60%;font-weight: 100">举重运动员</small>
+# weight lifter  <small style="font-size: 60%;font-weight: 100">举重运动员</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

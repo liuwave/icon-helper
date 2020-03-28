@@ -1,6 +1,6 @@
 ---
 
-title: movie search outline(电影搜索轮廓) ICON转svg、png下载
+title:  movie search outline(电影搜索轮廓) ICON转svg、png下载
 name: movie-search-outline
 zhTips: 电影搜索轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# movie-search-outline  <small style="font-size: 60%;font-weight: 100">电影搜索轮廓</small>
+# movie search outline  <small style="font-size: 60%;font-weight: 100">电影搜索轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

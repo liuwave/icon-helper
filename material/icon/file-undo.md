@@ -1,6 +1,6 @@
 ---
 
-title: file undo(文件撤消) ICON转svg、png下载
+title:  file undo(文件撤消) ICON转svg、png下载
 name: file-undo
 zhTips: 文件撤消,文件还原,文件丢弃
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-revert,file-discard
 
 ---
 
-# file-undo  <small style="font-size: 60%;font-weight: 100">文件撤消</small>
+# file undo  <small style="font-size: 60%;font-weight: 100">文件撤消</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: car light dimmed(车灯变暗) ICON转svg、png下载
+title:  car light dimmed(车灯变暗) ICON转svg、png下载
 name: car-light-dimmed
 zhTips: 车灯变暗,前灯变暗,近光
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search: head-light-dimmed,low-beam
 
 ---
 
-# car-light-dimmed  <small style="font-size: 60%;font-weight: 100">车灯变暗</small>
+# car light dimmed  <small style="font-size: 60%;font-weight: 100">车灯变暗</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: bell outline(钟声轮廓) ICON转svg、png下载
+title:  bell outline(钟声轮廓) ICON转svg、png下载
 name: bell-outline
 zhTips: 钟声轮廓,通知无
 tags: ["notification","music"]
@@ -8,11 +8,13 @@ search: notifications-none
 
 ---
 
-# bell-outline  <small style="font-size: 60%;font-weight: 100">钟声轮廓</small>
+# bell outline  <small style="font-size: 60%;font-weight: 100">钟声轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

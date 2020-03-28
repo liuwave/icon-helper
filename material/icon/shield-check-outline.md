@@ -1,6 +1,6 @@
 ---
 
-title: shield check outline(屏蔽检查轮廓) ICON转svg、png下载
+title:  shield check outline(屏蔽检查轮廓) ICON转svg、png下载
 name: shield-check-outline
 zhTips: 屏蔽检查轮廓,屏蔽刻度线轮廓
 tags: []
@@ -8,11 +8,13 @@ search: shield-tick-outline
 
 ---
 
-# shield-check-outline  <small style="font-size: 60%;font-weight: 100">屏蔽检查轮廓</small>
+# shield check outline  <small style="font-size: 60%;font-weight: 100">屏蔽检查轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: phone minus outline(手机减轮廓) ICON转svg、png下载
+title:  phone minus outline(手机减轮廓) ICON转svg、png下载
 name: phone-minus-outline
 zhTips: 手机减轮廓
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# phone-minus-outline  <small style="font-size: 60%;font-weight: 100">手机减轮廓</small>
+# phone minus outline  <small style="font-size: 60%;font-weight: 100">手机减轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

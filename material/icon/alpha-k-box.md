@@ -1,6 +1,6 @@
 ---
 
-title: alpha k box(字母k框) ICON转svg、png下载
+title:  alpha k box(字母k框) ICON转svg、png下载
 name: alpha-k-box
 zhTips: 字母k框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-k-box,letter-k-box
 
 ---
 
-# alpha-k-box  <small style="font-size: 60%;font-weight: 100">字母k框</small>
+# alpha k box  <small style="font-size: 60%;font-weight: 100">字母k框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

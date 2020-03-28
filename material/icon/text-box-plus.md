@@ -1,6 +1,6 @@
 ---
 
-title: text box plus(文本框加) ICON转svg、png下载
+title:  text box plus(文本框加) ICON转svg、png下载
 name: text-box-plus
 zhTips: 文本框加,文件文档框加
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-document-box-plus
 
 ---
 
-# text-box-plus  <small style="font-size: 60%;font-weight: 100">文本框加</small>
+# text box plus  <small style="font-size: 60%;font-weight: 100">文本框加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

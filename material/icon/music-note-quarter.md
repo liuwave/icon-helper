@@ -1,6 +1,6 @@
 ---
 
-title: music note quarter(音乐笔记季度) ICON转svg、png下载
+title:  music note quarter(音乐笔记季度) ICON转svg、png下载
 name: music-note-quarter
 zhTips: 音乐笔记季度
 tags: ["audio","music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-note-quarter  <small style="font-size: 60%;font-weight: 100">音乐笔记季度</small>
+# music note quarter  <small style="font-size: 60%;font-weight: 100">音乐笔记季度</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

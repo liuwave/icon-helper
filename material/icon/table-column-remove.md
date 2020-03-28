@@ -1,6 +1,6 @@
 ---
 
-title: table column remove(表列删除) ICON转svg、png下载
+title:  table column remove(表列删除) ICON转svg、png下载
 name: table-column-remove
 zhTips: 表列删除
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-column-remove  <small style="font-size: 60%;font-weight: 100">表列删除</small>
+# table column remove  <small style="font-size: 60%;font-weight: 100">表列删除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: math tan(棕褐色类型) ICON转svg、png下载
+title:  math tan(棕褐色类型) ICON转svg、png下载
 name: math-tan
 zhTips: 棕褐色类型,切线类型,棕褐色数学
 tags: ["math"]
@@ -8,11 +8,13 @@ search: math-tangent,maths-tan
 
 ---
 
-# math-tan  <small style="font-size: 60%;font-weight: 100">棕褐色类型</small>
+# math tan  <small style="font-size: 60%;font-weight: 100">棕褐色类型</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

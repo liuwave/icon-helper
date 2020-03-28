@@ -1,6 +1,6 @@
 ---
 
-title: phone alert(电话提醒) ICON转svg、png下载
+title:  phone alert(电话提醒) ICON转svg、png下载
 name: phone-alert
 zhTips: 电话提醒
 tags: ["cellphone-phone","alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# phone-alert  <small style="font-size: 60%;font-weight: 100">电话提醒</small>
+# phone alert  <small style="font-size: 60%;font-weight: 100">电话提醒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

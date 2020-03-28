@@ -1,6 +1,6 @@
 ---
 
-title: page layout header(页面布局标题) ICON转svg、png下载
+title:  page layout header(页面布局标题) ICON转svg、png下载
 name: page-layout-header
 zhTips: 页面布局标题
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# page-layout-header  <small style="font-size: 60%;font-weight: 100">页面布局标题</small>
+# page layout header  <small style="font-size: 60%;font-weight: 100">页面布局标题</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

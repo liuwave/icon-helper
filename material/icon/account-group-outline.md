@@ -1,6 +1,6 @@
 ---
 
-title: account group outline(帐户组轮廓) ICON转svg、png下载
+title:  account group outline(帐户组轮廓) ICON转svg、png下载
 name: account-group-outline
 zhTips: 帐户组轮廓,用户组轮廓,人员组轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-group-outline,users-group-outline,person-group-outline,people-group
 
 ---
 
-# account-group-outline  <small style="font-size: 60%;font-weight: 100">帐户组轮廓</small>
+# account group outline  <small style="font-size: 60%;font-weight: 100">帐户组轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

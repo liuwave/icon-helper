@@ -1,6 +1,6 @@
 ---
 
-title: swap vertical circle outline(交换垂直圆圈轮廓) ICON转svg、png下载
+title:  swap vertical circle outline(交换垂直圆圈轮廓) ICON转svg、png下载
 name: swap-vertical-circle-outline
 zhTips: 交换垂直圆圈轮廓
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# swap-vertical-circle-outline  <small style="font-size: 60%;font-weight: 100">交换垂直圆圈轮廓</small>
+# swap vertical circle outline  <small style="font-size: 60%;font-weight: 100">交换垂直圆圈轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

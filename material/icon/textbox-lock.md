@@ -1,6 +1,6 @@
 ---
 
-title: textbox lock(文本框锁定) ICON转svg、png下载
+title:  textbox lock(文本框锁定) ICON转svg、png下载
 name: textbox-lock
 zhTips: 文本框锁定
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# textbox-lock  <small style="font-size: 60%;font-weight: 100">文本框锁定</small>
+# textbox lock  <small style="font-size: 60%;font-weight: 100">文本框锁定</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

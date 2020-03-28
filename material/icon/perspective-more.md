@@ -1,6 +1,6 @@
 ---
 
-title: perspective more(透视图更多) ICON转svg、png下载
+title:  perspective more(透视图更多) ICON转svg、png下载
 name: perspective-more
 zhTips: 透视图更多,透视图增加
 tags: ["math"]
@@ -8,11 +8,13 @@ search: perspective-increase
 
 ---
 
-# perspective-more  <small style="font-size: 60%;font-weight: 100">透视图更多</small>
+# perspective more  <small style="font-size: 60%;font-weight: 100">透视图更多</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

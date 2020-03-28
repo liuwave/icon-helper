@@ -1,6 +1,6 @@
 ---
 
-title: power off(关机) ICON转svg、png下载
+title:  power off(关机) ICON转svg、png下载
 name: power-off
 zhTips: 关机
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# power-off  <small style="font-size: 60%;font-weight: 100">关机</small>
+# power off  <small style="font-size: 60%;font-weight: 100">关机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

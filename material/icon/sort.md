@@ -1,8 +1,8 @@
 ---
 
-title: sort(排序) ICON转svg、png下载
+title:  sort(排序) ICON转svg、png下载
 name: sort
-zhTips: 排序
+zhTips: 排序,排序标志,过滤器,订单
 tags: ["text-content-format"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">排序</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/sort.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/sort.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">排序</span><span class="badge-primary badge">排序标志</span><span class="badge-primary badge">过滤器</span><span class="badge-primary badge">订单</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/sort.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/sort.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示一个排序标志，或向上点击增加，向下点击减少。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-sort mdi-48px"></i>
   <i class="mdi mdi-sort mdi-36px"></i>

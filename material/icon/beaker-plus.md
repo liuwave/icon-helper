@@ -1,6 +1,6 @@
 ---
 
-title: beaker plus(烧杯加) ICON转svg、png下载
+title:  beaker plus(烧杯加) ICON转svg、png下载
 name: beaker-plus
 zhTips: 烧杯加
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# beaker-plus  <small style="font-size: 60%;font-weight: 100">烧杯加</small>
+# beaker plus  <small style="font-size: 60%;font-weight: 100">烧杯加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

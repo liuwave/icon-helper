@@ -1,6 +1,6 @@
 ---
 
-title: camera metering partial(照相机测光部分) ICON转svg、png下载
+title:  camera metering partial(照相机测光部分) ICON转svg、png下载
 name: camera-metering-partial
 zhTips: 照相机测光部分
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-metering-partial  <small style="font-size: 60%;font-weight: 100">照相机测光部分</small>
+# camera metering partial  <small style="font-size: 60%;font-weight: 100">照相机测光部分</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

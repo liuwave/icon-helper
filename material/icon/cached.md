@@ -1,6 +1,6 @@
 ---
 
-title: cached(缓存的逆时针箭头) ICON转svg、png下载
+title:  cached(缓存的逆时针箭头) ICON转svg、png下载
 name: cached
 zhTips: 缓存的逆时针箭头,圆形箭头
 tags: []
@@ -13,6 +13,8 @@ search: counterclockwise-arrows,circular-arrows,circle-arrows
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: cloud(云) ICON转svg、png下载
+title:  cloud(云) ICON转svg、png下载
 name: cloud
-zhTips: 云,wb多云
+zhTips: 云,wb多云,大气,雾,阴,保存,上传,天气
 tags: ["cloud","weather"]
 search: wb-cloudy
 
@@ -13,6 +13,8 @@ search: wb-cloudy
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">wb-cloudy</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">云</span><span class="badge-primary badge">wb多云</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cloud.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cloud.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">wb-cloudy</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">云</span><span class="badge-primary badge">wb多云</span><span class="badge-primary badge">大气</span><span class="badge-primary badge">雾</span><span class="badge-primary badge">阴</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">上传</span><span class="badge-primary badge">天气</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cloud.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cloud.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">云，可以表示天空、云服务。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-cloud mdi-48px"></i>
   <i class="mdi mdi-cloud mdi-36px"></i>

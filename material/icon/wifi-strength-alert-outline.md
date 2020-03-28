@@ -1,6 +1,6 @@
 ---
 
-title: wifi strength alert outline(wifi强度警报轮廓) ICON转svg、png下载
+title:  wifi strength alert outline(wifi强度警报轮廓) ICON转svg、png下载
 name: wifi-strength-alert-outline
 zhTips: wifi强度警报轮廓,wifi强度警告轮廓,wifi强度0警报,wifi强度0警告
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search: wifi-strength-warning-outline,wifi-strength-0-alert,wifi-strength-0-warn
 
 ---
 
-# wifi-strength-alert-outline  <small style="font-size: 60%;font-weight: 100">wifi强度警报轮廓</small>
+# wifi strength alert outline  <small style="font-size: 60%;font-weight: 100">wifi强度警报轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: server network(服务器网络) ICON转svg、png下载
+title:  server network(服务器网络) ICON转svg、png下载
 name: server-network
 zhTips: 服务器网络
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# server-network  <small style="font-size: 60%;font-weight: 100">服务器网络</small>
+# server network  <small style="font-size: 60%;font-weight: 100">服务器网络</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

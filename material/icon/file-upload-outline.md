@@ -1,6 +1,6 @@
 ---
 
-title: file upload outline(文件上传概述) ICON转svg、png下载
+title:  file upload outline(文件上传概述) ICON转svg、png下载
 name: file-upload-outline
 zhTips: 文件上传概述
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-upload-outline  <small style="font-size: 60%;font-weight: 100">文件上传概述</small>
+# file upload outline  <small style="font-size: 60%;font-weight: 100">文件上传概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: pot mix outline(锅混合轮廓) ICON转svg、png下载
+title:  pot mix outline(锅混合轮廓) ICON转svg、png下载
 name: pot-mix-outline
 zhTips: 锅混合轮廓
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pot-mix-outline  <small style="font-size: 60%;font-weight: 100">锅混合轮廓</small>
+# pot mix outline  <small style="font-size: 60%;font-weight: 100">锅混合轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

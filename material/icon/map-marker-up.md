@@ -1,6 +1,6 @@
 ---
 
-title: map marker up(将地图标记向上) ICON转svg、png下载
+title:  map marker up(将地图标记向上) ICON转svg、png下载
 name: map-marker-up
 zhTips: 将地图标记向上
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# map-marker-up  <small style="font-size: 60%;font-weight: 100">将地图标记向上</small>
+# map marker up  <small style="font-size: 60%;font-weight: 100">将地图标记向上</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

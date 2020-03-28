@@ -1,6 +1,6 @@
 ---
 
-title: tower beach(塔海滩) ICON转svg、png下载
+title:  tower beach(塔海滩) ICON转svg、png下载
 name: tower-beach
 zhTips: 塔海滩
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tower-beach  <small style="font-size: 60%;font-weight: 100">塔海滩</small>
+# tower beach  <small style="font-size: 60%;font-weight: 100">塔海滩</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: crop free(无作物) ICON转svg、png下载
+title:  crop free(无作物) ICON转svg、png下载
 name: crop-free
 zhTips: 无作物
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# crop-free  <small style="font-size: 60%;font-weight: 100">无作物</small>
+# crop free  <small style="font-size: 60%;font-weight: 100">无作物</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

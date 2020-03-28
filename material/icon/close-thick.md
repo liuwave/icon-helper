@@ -1,6 +1,6 @@
 ---
 
-title: close thick(关闭较厚) ICON转svg、png下载
+title:  close thick(关闭较厚) ICON转svg、png下载
 name: close-thick
 zhTips: 关闭较厚
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# close-thick  <small style="font-size: 60%;font-weight: 100">关闭较厚</small>
+# close thick  <small style="font-size: 60%;font-weight: 100">关闭较厚</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

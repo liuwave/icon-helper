@@ -1,6 +1,6 @@
 ---
 
-title: kettle(水壶) ICON转svg、png下载
+title:  kettle(水壶) ICON转svg、png下载
 name: kettle
 zhTips: 水壶,茶壶,水壶已满,茶壶已满
 tags: ["home-automation","food-drink"]
@@ -13,6 +13,8 @@ search: tea-kettle,kettle-full,tea-kettle-full
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

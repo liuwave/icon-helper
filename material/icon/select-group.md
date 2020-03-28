@@ -1,6 +1,6 @@
 ---
 
-title: select group(选择组) ICON转svg、png下载
+title:  select group(选择组) ICON转svg、png下载
 name: select-group
 zhTips: 选择组
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# select-group  <small style="font-size: 60%;font-weight: 100">选择组</small>
+# select group  <small style="font-size: 60%;font-weight: 100">选择组</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

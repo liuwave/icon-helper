@@ -1,6 +1,6 @@
 ---
 
-title: message plus(消息加) ICON转svg、png下载
+title:  message plus(消息加) ICON转svg、png下载
 name: message-plus
 zhTips: 消息加,消息添加
 tags: []
@@ -8,11 +8,13 @@ search: message-add
 
 ---
 
-# message-plus  <small style="font-size: 60%;font-weight: 100">消息加</small>
+# message plus  <small style="font-size: 60%;font-weight: 100">消息加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

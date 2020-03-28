@@ -1,6 +1,6 @@
 ---
 
-title: account cog outline(帐户齿轮轮廓) ICON转svg、png下载
+title:  account cog outline(帐户齿轮轮廓) ICON转svg、png下载
 name: account-cog-outline
 zhTips: 帐户齿轮轮廓,帐户设置轮廓
 tags: ["account-user","settings"]
@@ -8,11 +8,13 @@ search: account-settings-outline
 
 ---
 
-# account-cog-outline  <small style="font-size: 60%;font-weight: 100">帐户齿轮轮廓</small>
+# account cog outline  <small style="font-size: 60%;font-weight: 100">帐户齿轮轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

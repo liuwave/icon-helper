@@ -1,6 +1,6 @@
 ---
 
-title: share off(分享) ICON转svg、png下载
+title:  share off(分享) ICON转svg、png下载
 name: share-off
 zhTips: 分享,转发
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: forward-off
 
 ---
 
-# share-off  <small style="font-size: 60%;font-weight: 100">分享</small>
+# share off  <small style="font-size: 60%;font-weight: 100">分享</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

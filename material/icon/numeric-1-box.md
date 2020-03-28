@@ -1,6 +1,6 @@
 ---
 
-title: numeric 1 box(数字1框) ICON转svg、png下载
+title:  numeric 1 box(数字1框) ICON转svg、png下载
 name: numeric-1-box
 zhTips: 数字1框,外观为1,数字为1框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: looks-one,numeric-one-box,number-1-box
 
 ---
 
-# numeric-1-box  <small style="font-size: 60%;font-weight: 100">数字1框</small>
+# numeric 1 box  <small style="font-size: 60%;font-weight: 100">数字1框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

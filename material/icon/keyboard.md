@@ -1,8 +1,8 @@
 ---
 
-title: keyboard(键盘) ICON转svg、png下载
+title:  keyboard(键盘) ICON转svg、png下载
 name: keyboard
-zhTips: 键盘
+zhTips: 键盘,附件,编辑,输入,文本,类型,写
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">键盘</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/keyboard.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/keyboard.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">键盘</span><span class="badge-primary badge">附件</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">输入</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">类型</span><span class="badge-primary badge">写</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/keyboard.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/keyboard.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">键盘，可输入的地方，需要输入信息的提示。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-keyboard mdi-48px"></i>
   <i class="mdi mdi-keyboard mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: bed single(单人床) ICON转svg、png下载
+title:  bed single(单人床) ICON转svg、png下载
 name: bed-single
 zhTips: 单人床
 tags: ["home-automation","holiday"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bed-single  <small style="font-size: 60%;font-weight: 100">单人床</small>
+# bed single  <small style="font-size: 60%;font-weight: 100">单人床</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: vector polyline edit(矢量折线编辑) ICON转svg、png下载
+title:  vector polyline edit(矢量折线编辑) ICON转svg、png下载
 name: vector-polyline-edit
 zhTips: 矢量折线编辑
 tags: ["edit-modify"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# vector-polyline-edit  <small style="font-size: 60%;font-weight: 100">矢量折线编辑</small>
+# vector polyline edit  <small style="font-size: 60%;font-weight: 100">矢量折线编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: flash off(熄灭) ICON转svg、png下载
+title:  flash off(熄灭) ICON转svg、png下载
 name: flash-off
 zhTips: 熄灭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# flash-off  <small style="font-size: 60%;font-weight: 100">熄灭</small>
+# flash off  <small style="font-size: 60%;font-weight: 100">熄灭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

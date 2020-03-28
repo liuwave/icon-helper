@@ -1,6 +1,6 @@
 ---
 
-title: steering off(转向) ICON转svg、png下载
+title:  steering off(转向) ICON转svg、png下载
 name: steering-off
 zhTips: 转向,免提搜索
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search: search-hands-free-off
 
 ---
 
-# steering-off  <small style="font-size: 60%;font-weight: 100">转向</small>
+# steering off  <small style="font-size: 60%;font-weight: 100">转向</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

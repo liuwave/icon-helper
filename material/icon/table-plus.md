@@ -1,6 +1,6 @@
 ---
 
-title: table plus(表加) ICON转svg、png下载
+title:  table plus(表加) ICON转svg、png下载
 name: table-plus
 zhTips: 表加
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: table-add
 
 ---
 
-# table-plus  <small style="font-size: 60%;font-weight: 100">表加</small>
+# table plus  <small style="font-size: 60%;font-weight: 100">表加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

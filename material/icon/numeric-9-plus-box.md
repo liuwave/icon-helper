@@ -1,6 +1,6 @@
 ---
 
-title: numeric 9 plus box(数字9加号框) ICON转svg、png下载
+title:  numeric 9 plus box(数字9加号框) ICON转svg、png下载
 name: numeric-9-plus-box
 zhTips: 数字9加号框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: numeric-nine-plus-box,number-9-plus-box
 
 ---
 
-# numeric-9-plus-box  <small style="font-size: 60%;font-weight: 100">数字9加号框</small>
+# numeric 9 plus box  <small style="font-size: 60%;font-weight: 100">数字9加号框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

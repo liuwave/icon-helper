@@ -1,6 +1,6 @@
 ---
 
-title: auto download(自动下载) ICON转svg、png下载
+title:  auto download(自动下载) ICON转svg、png下载
 name: auto-download
 zhTips: 自动下载
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# auto-download  <small style="font-size: 60%;font-weight: 100">自动下载</small>
+# auto download  <small style="font-size: 60%;font-weight: 100">自动下载</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

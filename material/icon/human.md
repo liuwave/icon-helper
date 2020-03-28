@@ -1,6 +1,6 @@
 ---
 
-title: human(人类) ICON转svg、png下载
+title:  human(人类) ICON转svg、png下载
 name: human
 zhTips: 人类,可访问性
 tags: ["people-family"]
@@ -13,6 +13,8 @@ search: accessibility
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

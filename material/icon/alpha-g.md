@@ -1,6 +1,6 @@
 ---
 
-title: alpha g(alpha g) ICON转svg、png下载
+title:  alpha g(alpha g) ICON转svg、png下载
 name: alpha-g
 zhTips: alpha g,字母g
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-g,letter-g
 
 ---
 
-# alpha-g  <small style="font-size: 60%;font-weight: 100">alpha g</small>
+# alpha g  <small style="font-size: 60%;font-weight: 100">alpha g</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

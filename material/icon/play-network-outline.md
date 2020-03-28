@@ -1,6 +1,6 @@
 ---
 
-title: play network outline(播放网络概述) ICON转svg、png下载
+title:  play network outline(播放网络概述) ICON转svg、png下载
 name: play-network-outline
 zhTips: 播放网络概述,媒体网络概述
 tags: []
@@ -8,11 +8,13 @@ search: media-network-outline
 
 ---
 
-# play-network-outline  <small style="font-size: 60%;font-weight: 100">播放网络概述</small>
+# play network outline  <small style="font-size: 60%;font-weight: 100">播放网络概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

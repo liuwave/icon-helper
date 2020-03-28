@@ -1,6 +1,6 @@
 ---
 
-title: relative scale(相对比例) ICON转svg、png下载
+title:  relative scale(相对比例) ICON转svg、png下载
 name: relative-scale
 zhTips: 相对比例,图像长宽比
 tags: []
@@ -8,11 +8,13 @@ search: image-aspect-ratio
 
 ---
 
-# relative-scale  <small style="font-size: 60%;font-weight: 100">相对比例</small>
+# relative scale  <small style="font-size: 60%;font-weight: 100">相对比例</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

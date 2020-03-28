@@ -1,6 +1,6 @@
 ---
 
-title: monitor multiple(多台监视器) ICON转svg、png下载
+title:  monitor multiple(多台监视器) ICON转svg、png下载
 name: monitor-multiple
 zhTips: 多台监视器
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search: monitors
 
 ---
 
-# monitor-multiple  <small style="font-size: 60%;font-weight: 100">多台监视器</small>
+# monitor multiple  <small style="font-size: 60%;font-weight: 100">多台监视器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

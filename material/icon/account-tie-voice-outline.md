@@ -1,6 +1,6 @@
 ---
 
-title: account tie voice outline(帐户领带语音轮廓) ICON转svg、png下载
+title:  account tie voice outline(帐户领带语音轮廓) ICON转svg、png下载
 name: account-tie-voice-outline
 zhTips: 帐户领带语音轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# account-tie-voice-outline  <small style="font-size: 60%;font-weight: 100">帐户领带语音轮廓</small>
+# account tie voice outline  <small style="font-size: 60%;font-weight: 100">帐户领带语音轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

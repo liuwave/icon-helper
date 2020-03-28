@@ -1,6 +1,6 @@
 ---
 
-title: numeric 0 circle(数字0圈) ICON转svg、png下载
+title:  numeric 0 circle(数字0圈) ICON转svg、png下载
 name: numeric-0-circle
 zhTips: 数字0圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: numeric-zero-circle,number-0-circle,number-zero-circle
 
 ---
 
-# numeric-0-circle  <small style="font-size: 60%;font-weight: 100">数字0圈</small>
+# numeric 0 circle  <small style="font-size: 60%;font-weight: 100">数字0圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

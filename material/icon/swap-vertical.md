@@ -1,6 +1,6 @@
 ---
 
-title: swap vertical(垂直互换) ICON转svg、png下载
+title:  swap vertical(垂直互换) ICON转svg、png下载
 name: swap-vertical
 zhTips: 垂直互换,进出口,向上箭头
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: import-export,arrow-up-down
 
 ---
 
-# swap-vertical  <small style="font-size: 60%;font-weight: 100">垂直互换</small>
+# swap vertical  <small style="font-size: 60%;font-weight: 100">垂直互换</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

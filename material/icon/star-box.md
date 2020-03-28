@@ -1,6 +1,6 @@
 ---
 
-title: star box(星盒) ICON转svg、png下载
+title:  star box(星盒) ICON转svg、png下载
 name: star-box
 zhTips: 星盒
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# star-box  <small style="font-size: 60%;font-weight: 100">星盒</small>
+# star box  <small style="font-size: 60%;font-weight: 100">星盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

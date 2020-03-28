@@ -1,6 +1,6 @@
 ---
 
-title: alarm note off(警报音已关闭) ICON转svg、png下载
+title:  alarm note off(警报音已关闭) ICON转svg、png下载
 name: alarm-note-off
 zhTips: 警报音已关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# alarm-note-off  <small style="font-size: 60%;font-weight: 100">警报音已关闭</small>
+# alarm note off  <small style="font-size: 60%;font-weight: 100">警报音已关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

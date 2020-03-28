@@ -1,6 +1,6 @@
 ---
 
-title: lock alert(警报锁) ICON转svg、png下载
+title:  lock alert(警报锁) ICON转svg、png下载
 name: lock-alert
 zhTips: 警报锁,警告锁
 tags: ["lock","alert-error"]
@@ -8,11 +8,13 @@ search: lock-warning
 
 ---
 
-# lock-alert  <small style="font-size: 60%;font-weight: 100">警报锁</small>
+# lock alert  <small style="font-size: 60%;font-weight: 100">警报锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

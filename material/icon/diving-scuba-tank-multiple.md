@@ -1,6 +1,6 @@
 ---
 
-title: diving scuba tank multiple(潜水潜水箱多个) ICON转svg、png下载
+title:  diving scuba tank multiple(潜水潜水箱多个) ICON转svg、png下载
 name: diving-scuba-tank-multiple
 zhTips: 潜水潜水箱多个
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# diving-scuba-tank-multiple  <small style="font-size: 60%;font-weight: 100">潜水潜水箱多个</small>
+# diving scuba tank multiple  <small style="font-size: 60%;font-weight: 100">潜水潜水箱多个</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

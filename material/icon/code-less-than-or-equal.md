@@ -1,6 +1,6 @@
 ---
 
-title: code less than or equal(代码小于或等于) ICON转svg、png下载
+title:  code less than or equal(代码小于或等于) ICON转svg、png下载
 name: code-less-than-or-equal
 zhTips: 代码小于或等于
 tags: ["developer-languages","math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# code-less-than-or-equal  <small style="font-size: 60%;font-weight: 100">代码小于或等于</small>
+# code less than or equal  <small style="font-size: 60%;font-weight: 100">代码小于或等于</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

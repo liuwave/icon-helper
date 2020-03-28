@@ -1,6 +1,6 @@
 ---
 
-title: math integral(数学积分) ICON转svg、png下载
+title:  math integral(数学积分) ICON转svg、png下载
 name: math-integral
 zhTips: 数学积分
 tags: ["math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# math-integral  <small style="font-size: 60%;font-weight: 100">数学积分</small>
+# math integral  <small style="font-size: 60%;font-weight: 100">数学积分</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

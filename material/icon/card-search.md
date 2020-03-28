@@ -1,6 +1,6 @@
 ---
 
-title: card search(卡片搜索) ICON转svg、png下载
+title:  card search(卡片搜索) ICON转svg、png下载
 name: card-search
 zhTips: 卡片搜索,综合浏览量
 tags: []
@@ -8,11 +8,13 @@ search: pageview
 
 ---
 
-# card-search  <small style="font-size: 60%;font-weight: 100">卡片搜索</small>
+# card search  <small style="font-size: 60%;font-weight: 100">卡片搜索</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

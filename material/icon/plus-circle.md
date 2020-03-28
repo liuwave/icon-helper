@@ -1,6 +1,6 @@
 ---
 
-title: plus circle(加圆圈) ICON转svg、png下载
+title:  plus circle(加圆圈) ICON转svg、png下载
 name: plus-circle
 zhTips: 加圆圈
 tags: []
@@ -8,11 +8,13 @@ search: add-circle
 
 ---
 
-# plus-circle  <small style="font-size: 60%;font-weight: 100">加圆圈</small>
+# plus circle  <small style="font-size: 60%;font-weight: 100">加圆圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

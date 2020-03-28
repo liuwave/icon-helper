@@ -1,6 +1,6 @@
 ---
 
-title: vector rectangle(矢量矩形) ICON转svg、png下载
+title:  vector rectangle(矢量矩形) ICON转svg、png下载
 name: vector-rectangle
 zhTips: 矢量矩形
 tags: ["vector","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# vector-rectangle  <small style="font-size: 60%;font-weight: 100">矢量矩形</small>
+# vector rectangle  <small style="font-size: 60%;font-weight: 100">矢量矩形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

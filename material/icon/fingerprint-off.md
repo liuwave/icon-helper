@@ -1,6 +1,6 @@
 ---
 
-title: fingerprint off(指纹关闭) ICON转svg、png下载
+title:  fingerprint off(指纹关闭) ICON转svg、png下载
 name: fingerprint-off
 zhTips: 指纹关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# fingerprint-off  <small style="font-size: 60%;font-weight: 100">指纹关闭</small>
+# fingerprint off  <small style="font-size: 60%;font-weight: 100">指纹关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

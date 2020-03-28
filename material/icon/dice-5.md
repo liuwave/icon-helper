@@ -1,6 +1,6 @@
 ---
 
-title: dice 5(骰子5) ICON转svg、png下载
+title:  dice 5(骰子5) ICON转svg、png下载
 name: dice-5
 zhTips: 骰子5
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: die-5,dice-five
 
 ---
 
-# dice-5  <small style="font-size: 60%;font-weight: 100">骰子5</small>
+# dice 5  <small style="font-size: 60%;font-weight: 100">骰子5</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

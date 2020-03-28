@@ -1,6 +1,6 @@
 ---
 
-title: checkbox multiple marked(多个复选框已标记) ICON转svg、png下载
+title:  checkbox multiple marked(多个复选框已标记) ICON转svg、png下载
 name: checkbox-multiple-marked
 zhTips: 多个复选框已标记,复选框已标记
 tags: ["form"]
@@ -8,11 +8,13 @@ search: checkboxes-marked
 
 ---
 
-# checkbox-multiple-marked  <small style="font-size: 60%;font-weight: 100">多个复选框已标记</small>
+# checkbox multiple marked  <small style="font-size: 60%;font-weight: 100">多个复选框已标记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

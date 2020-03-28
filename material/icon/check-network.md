@@ -1,6 +1,6 @@
 ---
 
-title: check network(检查网络) ICON转svg、png下载
+title:  check network(检查网络) ICON转svg、png下载
 name: check-network
 zhTips: 检查网络,刻度网络
 tags: []
@@ -8,11 +8,13 @@ search: tick-network
 
 ---
 
-# check-network  <small style="font-size: 60%;font-weight: 100">检查网络</small>
+# check network  <small style="font-size: 60%;font-weight: 100">检查网络</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

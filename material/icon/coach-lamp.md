@@ -1,6 +1,6 @@
 ---
 
-title: coach lamp(教练灯) ICON转svg、png下载
+title:  coach lamp(教练灯) ICON转svg、png下载
 name: coach-lamp
 zhTips: 教练灯,马车灯
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: coach-light,carriage-lamp,carriage-light
 
 ---
 
-# coach-lamp  <small style="font-size: 60%;font-weight: 100">教练灯</small>
+# coach lamp  <small style="font-size: 60%;font-weight: 100">教练灯</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: lightbulb group(灯泡组) ICON转svg、png下载
+title:  lightbulb group(灯泡组) ICON转svg、png下载
 name: lightbulb-group
 zhTips: 灯泡组
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: bulb-group
 
 ---
 
-# lightbulb-group  <small style="font-size: 60%;font-weight: 100">灯泡组</small>
+# lightbulb group  <small style="font-size: 60%;font-weight: 100">灯泡组</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

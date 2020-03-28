@@ -1,6 +1,6 @@
 ---
 
-title: hinduism(印度教) ICON转svg、png下载
+title:  hinduism(印度教) ICON转svg、png下载
 name: hinduism
 zhTips: 印度教,om
 tags: ["religion"]
@@ -13,6 +13,8 @@ search: religion-hindu,om
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

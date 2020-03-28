@@ -1,6 +1,6 @@
 ---
 
-title: database search(数据库搜索) ICON转svg、png下载
+title:  database search(数据库搜索) ICON转svg、png下载
 name: database-search
 zhTips: 数据库搜索
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# database-search  <small style="font-size: 60%;font-weight: 100">数据库搜索</small>
+# database search  <small style="font-size: 60%;font-weight: 100">数据库搜索</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

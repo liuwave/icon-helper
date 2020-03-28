@@ -1,6 +1,6 @@
 ---
 
-title: google ads(谷歌广告) ICON转svg、png下载
+title:  google ads(谷歌广告) ICON转svg、png下载
 name: google-ads
 zhTips: 谷歌广告,谷歌adwords
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search: google-adwords
 
 ---
 
-# google-ads  <small style="font-size: 60%;font-weight: 100">谷歌广告</small>
+# google ads  <small style="font-size: 60%;font-weight: 100">谷歌广告</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

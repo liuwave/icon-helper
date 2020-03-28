@@ -1,6 +1,6 @@
 ---
 
-title: vector polygon(矢量多边形) ICON转svg、png下载
+title:  vector polygon(矢量多边形) ICON转svg、png下载
 name: vector-polygon
 zhTips: 矢量多边形
 tags: ["vector","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# vector-polygon  <small style="font-size: 60%;font-weight: 100">矢量多边形</small>
+# vector polygon  <small style="font-size: 60%;font-weight: 100">矢量多边形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

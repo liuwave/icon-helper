@@ -1,6 +1,6 @@
 ---
 
-title: selection search(搜索选择) ICON转svg、png下载
+title:  selection search(搜索选择) ICON转svg、png下载
 name: selection-search
 zhTips: 搜索选择
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# selection-search  <small style="font-size: 60%;font-weight: 100">搜索选择</small>
+# selection search  <small style="font-size: 60%;font-weight: 100">搜索选择</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

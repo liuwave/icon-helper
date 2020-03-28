@@ -1,6 +1,6 @@
 ---
 
-title: seat individual suite(座位独立套件) ICON转svg、png下载
+title:  seat individual suite(座位独立套件) ICON转svg、png下载
 name: seat-individual-suite
 zhTips: 座位独立套件,航空公司座位独立套件
 tags: []
@@ -8,11 +8,13 @@ search: airline-seat-individual-suite
 
 ---
 
-# seat-individual-suite  <small style="font-size: 60%;font-weight: 100">座位独立套件</small>
+# seat individual suite  <small style="font-size: 60%;font-weight: 100">座位独立套件</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

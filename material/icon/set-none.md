@@ -1,6 +1,6 @@
 ---
 
-title: set none(设置为空) ICON转svg、png下载
+title:  set none(设置为空) ICON转svg、png下载
 name: set-none
 zhTips: 设置为空,不设置
 tags: []
@@ -8,11 +8,13 @@ search: set-null,set-not
 
 ---
 
-# set-none  <small style="font-size: 60%;font-weight: 100">设置为空</small>
+# set none  <small style="font-size: 60%;font-weight: 100">设置为空</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

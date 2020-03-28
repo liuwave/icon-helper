@@ -1,6 +1,6 @@
 ---
 
-title: backspace reverse(退格退格) ICON转svg、png下载
+title:  backspace reverse(退格退格) ICON转svg、png下载
 name: backspace-reverse
 zhTips: 退格退格
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# backspace-reverse  <small style="font-size: 60%;font-weight: 100">退格退格</small>
+# backspace reverse  <small style="font-size: 60%;font-weight: 100">退格退格</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

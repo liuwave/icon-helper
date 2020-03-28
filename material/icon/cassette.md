@@ -1,6 +1,6 @@
 ---
 
-title: cassette(盒式磁带) ICON转svg、png下载
+title:  cassette(盒式磁带) ICON转svg、png下载
 name: cassette
 zhTips: 盒式磁带,胶带
 tags: ["music"]
@@ -13,6 +13,8 @@ search: tape
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

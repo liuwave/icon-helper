@@ -1,6 +1,6 @@
 ---
 
-title: reply all(全部回复) ICON转svg、png下载
+title:  reply all(全部回复) ICON转svg、png下载
 name: reply-all
 zhTips: 全部回复
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# reply-all  <small style="font-size: 60%;font-weight: 100">全部回复</small>
+# reply all  <small style="font-size: 60%;font-weight: 100">全部回复</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: radioactive off(放射性关闭) ICON转svg、png下载
+title:  radioactive off(放射性关闭) ICON转svg、png下载
 name: radioactive-off
 zhTips: 放射性关闭,辐射关闭
 tags: ["science"]
@@ -8,11 +8,13 @@ search: radiation-off
 
 ---
 
-# radioactive-off  <small style="font-size: 60%;font-weight: 100">放射性关闭</small>
+# radioactive off  <small style="font-size: 60%;font-weight: 100">放射性关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

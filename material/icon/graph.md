@@ -1,6 +1,6 @@
 ---
 
-title: graph(图形) ICON转svg、png下载
+title:  graph(图形) ICON转svg、png下载
 name: graph
 zhTips: 图形,依赖项
 tags: []
@@ -13,6 +13,8 @@ search: dependency,dependencies
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

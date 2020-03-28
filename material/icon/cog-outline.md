@@ -1,6 +1,6 @@
 ---
 
-title: cog outline(齿轮轮廓) ICON转svg、png下载
+title:  cog outline(齿轮轮廓) ICON转svg、png下载
 name: cog-outline
 zhTips: 齿轮轮廓,轮廓设置
 tags: ["settings"]
@@ -8,11 +8,13 @@ search: gear-outline,settings-outline
 
 ---
 
-# cog-outline  <small style="font-size: 60%;font-weight: 100">齿轮轮廓</small>
+# cog outline  <small style="font-size: 60%;font-weight: 100">齿轮轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: sim(sim) ICON转svg、png下载
+title:  sim(sim) ICON转svg、png下载
 name: sim
 zhTips: sim,sim卡,用户识别模块
 tags: []
@@ -13,6 +13,8 @@ search: sim-card,subscriber-identity-module,subscriber-identification-module
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

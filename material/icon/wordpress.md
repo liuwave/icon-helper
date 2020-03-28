@@ -1,8 +1,8 @@
 ---
 
-title: wordpress(wordpress) ICON转svg、png下载
+title:  wordpress(wordpress) ICON转svg、png下载
 name: wordpress
-zhTips: wordpress
+zhTips: wordpress,WordPress徽标
 tags: ["brand-logo"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">wordpress</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/wordpress.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/wordpress.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">wordpress</span><span class="badge-primary badge">WordPress徽标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/wordpress.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/wordpress.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">WordPress是基于PHP开发的一个博客平台。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-wordpress mdi-48px"></i>
   <i class="mdi mdi-wordpress mdi-36px"></i>

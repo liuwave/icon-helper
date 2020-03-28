@@ -1,8 +1,8 @@
 ---
 
-title: taxi(出租车) ICON转svg、png下载
+title:  taxi(出租车) ICON转svg、png下载
 name: taxi
-zhTips: 出租车,当地出租车
+zhTips: 出租车,当地出租车,的士,汽车,汽车服务,后勤,机械,运输,旅行,超级,车辆
 tags: ["transportation-road","navigation"]
 search: local-taxi,cab
 
@@ -13,6 +13,8 @@ search: local-taxi,cab
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">local-taxi</span><span class="badge-light badge">cab</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">出租车</span><span class="badge-primary badge">当地出租车</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/taxi.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/taxi.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">local-taxi</span><span class="badge-light badge">cab</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">出租车</span><span class="badge-primary badge">当地出租车</span><span class="badge-primary badge">的士</span><span class="badge-primary badge">汽车</span><span class="badge-primary badge">汽车服务</span><span class="badge-primary badge">后勤</span><span class="badge-primary badge">机械</span><span class="badge-primary badge">运输</span><span class="badge-primary badge">旅行</span><span class="badge-primary badge">超级</span><span class="badge-primary badge">车辆</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/taxi.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/taxi.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示交通工具、运输、出行等。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-taxi mdi-48px"></i>
   <i class="mdi mdi-taxi mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: cloud tags(云标记) ICON转svg、png下载
+title:  cloud tags(云标记) ICON转svg、png下载
 name: cloud-tags
 zhTips: 云标记,云xml
 tags: ["cloud"]
@@ -8,11 +8,13 @@ search: cloud-xml
 
 ---
 
-# cloud-tags  <small style="font-size: 60%;font-weight: 100">云标记</small>
+# cloud tags  <small style="font-size: 60%;font-weight: 100">云标记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

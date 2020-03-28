@@ -1,6 +1,6 @@
 ---
 
-title: star off(星关闭) ICON转svg、png下载
+title:  star off(星关闭) ICON转svg、png下载
 name: star-off
 zhTips: 星关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# star-off  <small style="font-size: 60%;font-weight: 100">星关闭</small>
+# star off  <small style="font-size: 60%;font-weight: 100">星关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: chevron double left(V形双左) ICON转svg、png下载
+title:  chevron double left(V形双左) ICON转svg、png下载
 name: chevron-double-left
 zhTips: V形双左
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chevron-double-left  <small style="font-size: 60%;font-weight: 100">V形双左</small>
+# chevron double left  <small style="font-size: 60%;font-weight: 100">V形双左</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

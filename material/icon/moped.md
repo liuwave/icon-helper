@@ -1,6 +1,6 @@
 ---
 
-title: moped(轻便摩托车) ICON转svg、png下载
+title:  moped(轻便摩托车) ICON转svg、png下载
 name: moped
 zhTips: 轻便摩托车,踏板车,大黄蜂,送餐
 tags: ["transportation-road","transportation-other"]
@@ -13,6 +13,8 @@ search: scooter,vespa,delivery-dining
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

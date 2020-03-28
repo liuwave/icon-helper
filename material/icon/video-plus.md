@@ -1,6 +1,6 @@
 ---
 
-title: video plus(视频加) ICON转svg、png下载
+title:  video plus(视频加) ICON转svg、png下载
 name: video-plus
 zhTips: 视频加,视频通话,视频添加
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search: video-call,video-add
 
 ---
 
-# video-plus  <small style="font-size: 60%;font-weight: 100">视频加</small>
+# video plus  <small style="font-size: 60%;font-weight: 100">视频加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

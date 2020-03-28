@@ -1,6 +1,6 @@
 ---
 
-title: laptop mac(笔记本电脑mac) ICON转svg、png下载
+title:  laptop mac(笔记本电脑mac) ICON转svg、png下载
 name: laptop-mac
 zhTips: 笔记本电脑mac
 tags: ["device-tech","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# laptop-mac  <small style="font-size: 60%;font-weight: 100">笔记本电脑mac</small>
+# laptop mac  <small style="font-size: 60%;font-weight: 100">笔记本电脑mac</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

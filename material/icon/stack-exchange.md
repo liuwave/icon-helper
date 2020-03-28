@@ -1,6 +1,6 @@
 ---
 
-title: stack exchange(堆栈交换) ICON转svg、png下载
+title:  stack exchange(堆栈交换) ICON转svg、png下载
 name: stack-exchange
 zhTips: 堆栈交换,stackexchange
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search: stackexchange
 
 ---
 
-# stack-exchange  <small style="font-size: 60%;font-weight: 100">堆栈交换</small>
+# stack exchange  <small style="font-size: 60%;font-weight: 100">堆栈交换</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: led strip(led灯带) ICON转svg、png下载
+title:  led strip(led灯带) ICON转svg、png下载
 name: led-strip
 zhTips: led灯带,灯带
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: light-strip
 
 ---
 
-# led-strip  <small style="font-size: 60%;font-weight: 100">led灯带</small>
+# led strip  <small style="font-size: 60%;font-weight: 100">led灯带</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

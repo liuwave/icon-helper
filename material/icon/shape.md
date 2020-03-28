@@ -1,6 +1,6 @@
 ---
 
-title: shape(形状) ICON转svg、png下载
+title:  shape(形状) ICON转svg、png下载
 name: shape
 zhTips: 形状,类别,主题
 tags: ["shape"]
@@ -13,6 +13,8 @@ search: category,theme
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

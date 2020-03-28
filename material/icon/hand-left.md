@@ -1,6 +1,6 @@
 ---
 
-title: hand left(左手) ICON转svg、png下载
+title:  hand left(左手) ICON转svg、png下载
 name: hand-left
 zhTips: 左手
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# hand-left  <small style="font-size: 60%;font-weight: 100">左手</small>
+# hand left  <small style="font-size: 60%;font-weight: 100">左手</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

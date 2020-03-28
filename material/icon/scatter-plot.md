@@ -1,6 +1,6 @@
 ---
 
-title: scatter plot(散点图) ICON转svg、png下载
+title:  scatter plot(散点图) ICON转svg、png下载
 name: scatter-plot
 zhTips: 散点图
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# scatter-plot  <small style="font-size: 60%;font-weight: 100">散点图</small>
+# scatter plot  <small style="font-size: 60%;font-weight: 100">散点图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

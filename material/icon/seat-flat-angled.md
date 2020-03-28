@@ -1,6 +1,6 @@
 ---
 
-title: seat flat angled(斜的扁平座椅) ICON转svg、png下载
+title:  seat flat angled(斜的扁平座椅) ICON转svg、png下载
 name: seat-flat-angled
 zhTips: 斜的扁平座椅,航空公司的直角
 tags: []
@@ -8,11 +8,13 @@ search: airline-seat-flat-angled
 
 ---
 
-# seat-flat-angled  <small style="font-size: 60%;font-weight: 100">斜的扁平座椅</small>
+# seat flat angled  <small style="font-size: 60%;font-weight: 100">斜的扁平座椅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

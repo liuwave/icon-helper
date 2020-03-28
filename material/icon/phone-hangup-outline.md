@@ -1,6 +1,6 @@
 ---
 
-title: phone hangup outline(电话挂断轮廓) ICON转svg、png下载
+title:  phone hangup outline(电话挂断轮廓) ICON转svg、png下载
 name: phone-hangup-outline
 zhTips: 电话挂断轮廓
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# phone-hangup-outline  <small style="font-size: 60%;font-weight: 100">电话挂断轮廓</small>
+# phone hangup outline  <small style="font-size: 60%;font-weight: 100">电话挂断轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

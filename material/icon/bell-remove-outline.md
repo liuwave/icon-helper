@@ -1,6 +1,6 @@
 ---
 
-title: bell remove outline(钟形去除轮廓) ICON转svg、png下载
+title:  bell remove outline(钟形去除轮廓) ICON转svg、png下载
 name: bell-remove-outline
 zhTips: 钟形去除轮廓
 tags: ["notification"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bell-remove-outline  <small style="font-size: 60%;font-weight: 100">钟形去除轮廓</small>
+# bell remove outline  <small style="font-size: 60%;font-weight: 100">钟形去除轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

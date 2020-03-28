@@ -1,6 +1,6 @@
 ---
 
-title: chef hat(厨师帽) ICON转svg、png下载
+title:  chef hat(厨师帽) ICON转svg、png下载
 name: chef-hat
 zhTips: 厨师帽,无边帽,厨师
 tags: ["clothing"]
@@ -8,11 +8,13 @@ search: toque,cook
 
 ---
 
-# chef-hat  <small style="font-size: 60%;font-weight: 100">厨师帽</small>
+# chef hat  <small style="font-size: 60%;font-weight: 100">厨师帽</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

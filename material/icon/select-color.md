@@ -1,6 +1,6 @@
 ---
 
-title: select color(选择颜色) ICON转svg、png下载
+title:  select color(选择颜色) ICON转svg、png下载
 name: select-color
 zhTips: 选择颜色
 tags: ["color"]
@@ -8,11 +8,13 @@ search: select-colour
 
 ---
 
-# select-color  <small style="font-size: 60%;font-weight: 100">选择颜色</small>
+# select color  <small style="font-size: 60%;font-weight: 100">选择颜色</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

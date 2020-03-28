@@ -1,6 +1,6 @@
 ---
 
-title: google controller(Google控制器) ICON转svg、png下载
+title:  google controller(Google控制器) ICON转svg、png下载
 name: google-controller
 zhTips: Google控制器
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-controller  <small style="font-size: 60%;font-weight: 100">Google控制器</small>
+# google controller  <small style="font-size: 60%;font-weight: 100">Google控制器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

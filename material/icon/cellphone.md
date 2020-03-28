@@ -1,6 +1,6 @@
 ---
 
-title: cellphone(手机) ICON转svg、png下载
+title:  cellphone(手机) ICON转svg、png下载
 name: cellphone
 zhTips: 手机,智能手机,保持当前肖像,保持主要肖像
 tags: ["cellphone-phone","device-tech"]
@@ -13,6 +13,8 @@ search: mobile-phone,smartphone,stay-current-portrait,stay-primary-portrait
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

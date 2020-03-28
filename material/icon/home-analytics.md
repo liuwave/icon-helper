@@ -1,6 +1,6 @@
 ---
 
-title: home analytics(家庭分析) ICON转svg、png下载
+title:  home analytics(家庭分析) ICON转svg、png下载
 name: home-analytics
 zhTips: 家庭分析,图表家庭,主页图表
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: chart-home,home-chart
 
 ---
 
-# home-analytics  <small style="font-size: 60%;font-weight: 100">家庭分析</small>
+# home analytics  <small style="font-size: 60%;font-weight: 100">家庭分析</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: thumb up outline(大拇指轮廓) ICON转svg、png下载
+title:  thumb up outline(大拇指轮廓) ICON转svg、png下载
 name: thumb-up-outline
 zhTips: 大拇指轮廓,像轮廓
 tags: []
@@ -8,11 +8,13 @@ search: like-outline,thumbs-up-outline
 
 ---
 
-# thumb-up-outline  <small style="font-size: 60%;font-weight: 100">大拇指轮廓</small>
+# thumb up outline  <small style="font-size: 60%;font-weight: 100">大拇指轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

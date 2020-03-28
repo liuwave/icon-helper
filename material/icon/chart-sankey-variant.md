@@ -1,6 +1,6 @@
 ---
 
-title: chart sankey variant(图表sankey变体) ICON转svg、png下载
+title:  chart sankey variant(图表sankey变体) ICON转svg、png下载
 name: chart-sankey-variant
 zhTips: 图表sankey变体,图表蛇形变体
 tags: ["math"]
@@ -8,11 +8,13 @@ search: chart-snakey-variant
 
 ---
 
-# chart-sankey-variant  <small style="font-size: 60%;font-weight: 100">图表sankey变体</small>
+# chart sankey variant  <small style="font-size: 60%;font-weight: 100">图表sankey变体</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

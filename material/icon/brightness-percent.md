@@ -1,6 +1,6 @@
 ---
 
-title: brightness percent(亮度百分比) ICON转svg、png下载
+title:  brightness percent(亮度百分比) ICON转svg、png下载
 name: brightness-percent
 zhTips: 亮度百分比
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# brightness-percent  <small style="font-size: 60%;font-weight: 100">亮度百分比</small>
+# brightness percent  <small style="font-size: 60%;font-weight: 100">亮度百分比</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

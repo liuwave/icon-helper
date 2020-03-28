@@ -1,6 +1,6 @@
 ---
 
-title: call split(分拆通话) ICON转svg、png下载
+title:  call split(分拆通话) ICON转svg、png下载
 name: call-split
 zhTips: 分拆通话
 tags: ["cellphone-phone","arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# call-split  <small style="font-size: 60%;font-weight: 100">分拆通话</small>
+# call split  <small style="font-size: 60%;font-weight: 100">分拆通话</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

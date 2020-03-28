@@ -1,6 +1,6 @@
 ---
 
-title: file phone(文件电话) ICON转svg、png下载
+title:  file phone(文件电话) ICON转svg、png下载
 name: file-phone
 zhTips: 文件电话
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-phone  <small style="font-size: 60%;font-weight: 100">文件电话</small>
+# file phone  <small style="font-size: 60%;font-weight: 100">文件电话</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

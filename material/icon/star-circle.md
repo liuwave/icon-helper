@@ -1,6 +1,6 @@
 ---
 
-title: star circle(星星圈) ICON转svg、png下载
+title:  star circle(星星圈) ICON转svg、png下载
 name: star-circle
 zhTips: 星星圈,星星
 tags: []
@@ -8,11 +8,13 @@ search: stars
 
 ---
 
-# star-circle  <small style="font-size: 60%;font-weight: 100">星星圈</small>
+# star circle  <small style="font-size: 60%;font-weight: 100">星星圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

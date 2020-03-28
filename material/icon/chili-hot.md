@@ -1,6 +1,6 @@
 ---
 
-title: chili hot(辣椒热) ICON转svg、png下载
+title:  chili hot(辣椒热) ICON转svg、png下载
 name: chili-hot
 zhTips: 辣椒热,胡椒粉,辛辣
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: chilli-hot,pepper,spicy
 
 ---
 
-# chili-hot  <small style="font-size: 60%;font-weight: 100">辣椒热</small>
+# chili hot  <small style="font-size: 60%;font-weight: 100">辣椒热</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: transfer right(转让权) ICON转svg、png下载
+title:  transfer right(转让权) ICON转svg、png下载
 name: transfer-right
 zhTips: 转让权
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# transfer-right  <small style="font-size: 60%;font-weight: 100">转让权</small>
+# transfer right  <small style="font-size: 60%;font-weight: 100">转让权</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

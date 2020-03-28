@@ -1,6 +1,6 @@
 ---
 
-title: expand all(展开全部) ICON转svg、png下载
+title:  expand all(展开全部) ICON转svg、png下载
 name: expand-all
 zhTips: 展开全部,动画加
 tags: []
@@ -8,11 +8,13 @@ search: animation-plus
 
 ---
 
-# expand-all  <small style="font-size: 60%;font-weight: 100">展开全部</small>
+# expand all  <small style="font-size: 60%;font-weight: 100">展开全部</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

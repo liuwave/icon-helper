@@ -1,6 +1,6 @@
 ---
 
-title: ornament variant(口音装饰) ICON转svg、png下载
+title:  ornament variant(口音装饰) ICON转svg、png下载
 name: ornament-variant
 zhTips: 口音装饰
 tags: ["holiday"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# ornament-variant  <small style="font-size: 60%;font-weight: 100">口音装饰</small>
+# ornament variant  <small style="font-size: 60%;font-weight: 100">口音装饰</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

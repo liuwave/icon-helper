@@ -1,6 +1,6 @@
 ---
 
-title: guitar pick outline(吉他拨片轮廓) ICON转svg、png下载
+title:  guitar pick outline(吉他拨片轮廓) ICON转svg、png下载
 name: guitar-pick-outline
 zhTips: 吉他拨片轮廓
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# guitar-pick-outline  <small style="font-size: 60%;font-weight: 100">吉他拨片轮廓</small>
+# guitar pick outline  <small style="font-size: 60%;font-weight: 100">吉他拨片轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

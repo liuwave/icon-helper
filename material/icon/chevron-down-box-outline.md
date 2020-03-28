@@ -1,6 +1,6 @@
 ---
 
-title: chevron down box outline(V形底盒轮廓) ICON转svg、png下载
+title:  chevron down box outline(V形底盒轮廓) ICON转svg、png下载
 name: chevron-down-box-outline
 zhTips: V形底盒轮廓
 tags: ["form","arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chevron-down-box-outline  <small style="font-size: 60%;font-weight: 100">V形底盒轮廓</small>
+# chevron down box outline  <small style="font-size: 60%;font-weight: 100">V形底盒轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

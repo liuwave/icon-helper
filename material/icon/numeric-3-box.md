@@ -1,6 +1,6 @@
 ---
 
-title: numeric 3 box(数字3框) ICON转svg、png下载
+title:  numeric 3 box(数字3框) ICON转svg、png下载
 name: numeric-3-box
 zhTips: 数字3框,外观3
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: looks-3,numeric-three-box,number-3-box
 
 ---
 
-# numeric-3-box  <small style="font-size: 60%;font-weight: 100">数字3框</small>
+# numeric 3 box  <small style="font-size: 60%;font-weight: 100">数字3框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

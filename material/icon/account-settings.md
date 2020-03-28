@@ -1,6 +1,6 @@
 ---
 
-title: account settings(帐户设置) ICON转svg、png下载
+title:  account settings(帐户设置) ICON转svg、png下载
 name: account-settings
 zhTips: 帐户设置,用户设置,人员设置
 tags: ["account-user","settings"]
@@ -8,11 +8,13 @@ search: user-settings,person-settings
 
 ---
 
-# account-settings  <small style="font-size: 60%;font-weight: 100">帐户设置</small>
+# account settings  <small style="font-size: 60%;font-weight: 100">帐户设置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

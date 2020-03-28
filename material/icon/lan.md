@@ -1,6 +1,6 @@
 ---
 
-title: lan(局域网) ICON转svg、png下载
+title:  lan(局域网) ICON转svg、png下载
 name: lan
 zhTips: 局域网
 tags: []
@@ -13,6 +13,8 @@ search: local-area-network
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: power socket fr(电源插座fr) ICON转svg、png下载
+title:  power socket fr(电源插座fr) ICON转svg、png下载
 name: power-socket-fr
 zhTips: 电源插座fr
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# power-socket-fr  <small style="font-size: 60%;font-weight: 100">电源插座fr</small>
+# power socket fr  <small style="font-size: 60%;font-weight: 100">电源插座fr</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: beehive outline(蜂巢轮廓) ICON转svg、png下载
+title:  beehive outline(蜂巢轮廓) ICON转svg、png下载
 name: beehive-outline
 zhTips: 蜂巢轮廓,蜂蜜轮廓
 tags: ["nature"]
@@ -8,11 +8,13 @@ search: honey-outline
 
 ---
 
-# beehive-outline  <small style="font-size: 60%;font-weight: 100">蜂巢轮廓</small>
+# beehive outline  <small style="font-size: 60%;font-weight: 100">蜂巢轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: account voice(语音记录) ICON转svg、png下载
+title:  account voice(语音记录) ICON转svg、png下载
 name: account-voice
 zhTips: 语音记录,语音记录结束,说
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: record-voice-over,speak,talk,speaking,talking
 
 ---
 
-# account-voice  <small style="font-size: 60%;font-weight: 100">语音记录</small>
+# account voice  <small style="font-size: 60%;font-weight: 100">语音记录</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

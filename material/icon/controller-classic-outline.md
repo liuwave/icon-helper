@@ -1,6 +1,6 @@
 ---
 
-title: controller classic outline(控制器经典轮廓) ICON转svg、png下载
+title:  controller classic outline(控制器经典轮廓) ICON转svg、png下载
 name: controller-classic-outline
 zhTips: 控制器经典轮廓
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# controller-classic-outline  <small style="font-size: 60%;font-weight: 100">控制器经典轮廓</small>
+# controller classic outline  <small style="font-size: 60%;font-weight: 100">控制器经典轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

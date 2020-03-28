@@ -1,6 +1,6 @@
 ---
 
-title: speedometer slow(慢速里程表) ICON转svg、png下载
+title:  speedometer slow(慢速里程表) ICON转svg、png下载
 name: speedometer-slow
 zhTips: 慢速里程表
 tags: ["automotive"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# speedometer-slow  <small style="font-size: 60%;font-weight: 100">慢速里程表</small>
+# speedometer slow  <small style="font-size: 60%;font-weight: 100">慢速里程表</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

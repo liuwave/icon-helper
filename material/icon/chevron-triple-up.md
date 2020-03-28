@@ -1,6 +1,6 @@
 ---
 
-title: chevron triple up(人字形三重向上) ICON转svg、png下载
+title:  chevron triple up(人字形三重向上) ICON转svg、png下载
 name: chevron-triple-up
 zhTips: 人字形三重向上,排名
 tags: []
@@ -8,11 +8,13 @@ search: rank
 
 ---
 
-# chevron-triple-up  <small style="font-size: 60%;font-weight: 100">人字形三重向上</small>
+# chevron triple up  <small style="font-size: 60%;font-weight: 100">人字形三重向上</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

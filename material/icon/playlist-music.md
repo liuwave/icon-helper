@@ -1,6 +1,6 @@
 ---
 
-title: playlist music(音乐播放列表) ICON转svg、png下载
+title:  playlist music(音乐播放列表) ICON转svg、png下载
 name: playlist-music
 zhTips: 音乐播放列表,笔记播放列表,音乐队列
 tags: []
@@ -8,11 +8,13 @@ search: playlist-note,queue-music
 
 ---
 
-# playlist-music  <small style="font-size: 60%;font-weight: 100">音乐播放列表</small>
+# playlist music  <small style="font-size: 60%;font-weight: 100">音乐播放列表</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

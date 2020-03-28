@@ -1,6 +1,6 @@
 ---
 
-title: check decagram(检查十进制) ICON转svg、png下载
+title:  check decagram(检查十进制) ICON转svg、png下载
 name: check-decagram
 zhTips: 检查十进制,已验证,十进制检查,批准,勾号十进制
 tags: []
@@ -8,11 +8,13 @@ search: verified,decagram-check,approve,approval,tick-decagram
 
 ---
 
-# check-decagram  <small style="font-size: 60%;font-weight: 100">检查十进制</small>
+# check decagram  <small style="font-size: 60%;font-weight: 100">检查十进制</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

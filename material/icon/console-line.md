@@ -1,6 +1,6 @@
 ---
 
-title: console line(控制台线) ICON转svg、png下载
+title:  console line(控制台线) ICON转svg、png下载
 name: console-line
 zhTips: 控制台线,终端线
 tags: []
@@ -8,11 +8,13 @@ search: terminal-line
 
 ---
 
-# console-line  <small style="font-size: 60%;font-weight: 100">控制台线</small>
+# console line  <small style="font-size: 60%;font-weight: 100">控制台线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: size xxl(尺寸xxl) ICON转svg、png下载
+title:  size xxl(尺寸xxl) ICON转svg、png下载
 name: size-xxl
 zhTips: 尺寸xxl,特大号特大号
 tags: []
@@ -8,11 +8,13 @@ search: size-extra-extra-large
 
 ---
 
-# size-xxl  <small style="font-size: 60%;font-weight: 100">尺寸xxl</small>
+# size xxl  <small style="font-size: 60%;font-weight: 100">尺寸xxl</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

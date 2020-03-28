@@ -1,6 +1,6 @@
 ---
 
-title: phone lock(电话锁) ICON转svg、png下载
+title:  phone lock(电话锁) ICON转svg、png下载
 name: phone-lock
 zhTips: 电话锁
 tags: ["cellphone-phone","lock"]
@@ -8,11 +8,13 @@ search: telephone-locked,phone-locked,telephone-lock
 
 ---
 
-# phone-lock  <small style="font-size: 60%;font-weight: 100">电话锁</small>
+# phone lock  <small style="font-size: 60%;font-weight: 100">电话锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

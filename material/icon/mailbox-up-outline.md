@@ -1,6 +1,6 @@
 ---
 
-title: mailbox up outline(邮箱向上轮廓) ICON转svg、png下载
+title:  mailbox up outline(邮箱向上轮廓) ICON转svg、png下载
 name: mailbox-up-outline
 zhTips: 邮箱向上轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# mailbox-up-outline  <small style="font-size: 60%;font-weight: 100">邮箱向上轮廓</small>
+# mailbox up outline  <small style="font-size: 60%;font-weight: 100">邮箱向上轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: face woman(面对女人) ICON转svg、png下载
+title:  face woman(面对女人) ICON转svg、png下载
 name: face-woman
 zhTips: 面对女人
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# face-woman  <small style="font-size: 60%;font-weight: 100">面对女人</small>
+# face woman  <small style="font-size: 60%;font-weight: 100">面对女人</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

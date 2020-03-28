@@ -1,6 +1,6 @@
 ---
 
-title: lock open alert(锁打开警报) ICON转svg、png下载
+title:  lock open alert(锁打开警报) ICON转svg、png下载
 name: lock-open-alert
 zhTips: 锁打开警报
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# lock-open-alert  <small style="font-size: 60%;font-weight: 100">锁打开警报</small>
+# lock open alert  <small style="font-size: 60%;font-weight: 100">锁打开警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: do not disturb off(不要打扰) ICON转svg、png下载
+title:  do not disturb off(不要打扰) ICON转svg、png下载
 name: do-not-disturb-off
 zhTips: 不要打扰
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# do-not-disturb-off  <small style="font-size: 60%;font-weight: 100">不要打扰</small>
+# do not disturb off  <small style="font-size: 60%;font-weight: 100">不要打扰</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

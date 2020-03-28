@@ -1,6 +1,6 @@
 ---
 
-title: folder account(文件夹帐户) ICON转svg、png下载
+title:  folder account(文件夹帐户) ICON转svg、png下载
 name: folder-account
 zhTips: 文件夹帐户,用户文件夹,共享文件夹
 tags: ["account-user","files-folders"]
@@ -8,11 +8,13 @@ search: folder-user,folder-shared
 
 ---
 
-# folder-account  <small style="font-size: 60%;font-weight: 100">文件夹帐户</small>
+# folder account  <small style="font-size: 60%;font-weight: 100">文件夹帐户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

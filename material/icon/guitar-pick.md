@@ -1,6 +1,6 @@
 ---
 
-title: guitar pick(吉他拨片) ICON转svg、png下载
+title:  guitar pick(吉他拨片) ICON转svg、png下载
 name: guitar-pick
 zhTips: 吉他拨片
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# guitar-pick  <small style="font-size: 60%;font-weight: 100">吉他拨片</small>
+# guitar pick  <small style="font-size: 60%;font-weight: 100">吉他拨片</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

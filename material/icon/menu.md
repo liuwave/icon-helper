@@ -1,8 +1,8 @@
 ---
 
-title: menu(菜单) ICON转svg、png下载
+title:  menu(菜单) ICON转svg、png下载
 name: menu
-zhTips: 菜单,汉堡菜单
+zhTips: 菜单,汉堡菜单,简明菜单
 tags: []
 search: hamburger-menu
 
@@ -13,6 +13,8 @@ search: hamburger-menu
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">hamburger-menu</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">菜单</span><span class="badge-primary badge">汉堡菜单</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/menu.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/menu.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">hamburger-menu</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">菜单</span><span class="badge-primary badge">汉堡菜单</span><span class="badge-primary badge">简明菜单</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/menu.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/menu.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">菜单，表示可收缩或展开。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-menu mdi-48px"></i>
   <i class="mdi mdi-menu mdi-36px"></i>

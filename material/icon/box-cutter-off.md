@@ -1,6 +1,6 @@
 ---
 
-title: box cutter off(开箱器) ICON转svg、png下载
+title:  box cutter off(开箱器) ICON转svg、png下载
 name: box-cutter-off
 zhTips: 开箱器
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# box-cutter-off  <small style="font-size: 60%;font-weight: 100">开箱器</small>
+# box cutter off  <small style="font-size: 60%;font-weight: 100">开箱器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: content save edit(内容保存编辑) ICON转svg、png下载
+title:  content save edit(内容保存编辑) ICON转svg、png下载
 name: content-save-edit
 zhTips: 内容保存编辑
 tags: ["edit-modify"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# content-save-edit  <small style="font-size: 60%;font-weight: 100">内容保存编辑</small>
+# content save edit  <small style="font-size: 60%;font-weight: 100">内容保存编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

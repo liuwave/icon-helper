@@ -1,6 +1,6 @@
 ---
 
-title: alpha c(alpha c) ICON转svg、png下载
+title:  alpha c(alpha c) ICON转svg、png下载
 name: alpha-c
 zhTips: alpha c,字母c
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-c,letter-c
 
 ---
 
-# alpha-c  <small style="font-size: 60%;font-weight: 100">alpha c</small>
+# alpha c  <small style="font-size: 60%;font-weight: 100">alpha c</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

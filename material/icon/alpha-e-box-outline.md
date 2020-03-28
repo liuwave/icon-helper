@@ -1,6 +1,6 @@
 ---
 
-title: alpha e box outline(字母e框轮廓) ICON转svg、png下载
+title:  alpha e box outline(字母e框轮廓) ICON转svg、png下载
 name: alpha-e-box-outline
 zhTips: 字母e框轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-e-box-outline,letter-e-box-outline
 
 ---
 
-# alpha-e-box-outline  <small style="font-size: 60%;font-weight: 100">字母e框轮廓</small>
+# alpha e box outline  <small style="font-size: 60%;font-weight: 100">字母e框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

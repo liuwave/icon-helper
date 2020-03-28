@@ -1,6 +1,6 @@
 ---
 
-title: panorama fisheye(panhema鱼眼镜头) ICON转svg、png下载
+title:  panorama fisheye(panhema鱼眼镜头) ICON转svg、png下载
 name: panorama-fisheye
 zhTips: panhema鱼眼镜头,全景鱼眼镜头
 tags: []
@@ -8,11 +8,13 @@ search: panorama-fish-eye
 
 ---
 
-# panorama-fisheye  <small style="font-size: 60%;font-weight: 100">panhema鱼眼镜头</small>
+# panorama fisheye  <small style="font-size: 60%;font-weight: 100">panhema鱼眼镜头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

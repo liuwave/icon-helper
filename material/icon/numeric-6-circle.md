@@ -1,6 +1,6 @@
 ---
 
-title: numeric 6 circle(数字6圈) ICON转svg、png下载
+title:  numeric 6 circle(数字6圈) ICON转svg、png下载
 name: numeric-6-circle
 zhTips: 数字6圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: numeric-six-circle,number-6-circle,number-six-circle
 
 ---
 
-# numeric-6-circle  <small style="font-size: 60%;font-weight: 100">数字6圈</small>
+# numeric 6 circle  <small style="font-size: 60%;font-weight: 100">数字6圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

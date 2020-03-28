@@ -1,6 +1,6 @@
 ---
 
-title: mushroom off(蘑菇关闭) ICON转svg、png下载
+title:  mushroom off(蘑菇关闭) ICON转svg、png下载
 name: mushroom-off
 zhTips: 蘑菇关闭
 tags: ["food-drink","nature"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# mushroom-off  <small style="font-size: 60%;font-weight: 100">蘑菇关闭</small>
+# mushroom off  <small style="font-size: 60%;font-weight: 100">蘑菇关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

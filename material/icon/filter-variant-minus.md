@@ -1,6 +1,6 @@
 ---
 
-title: filter variant minus(滤除负号) ICON转svg、png下载
+title:  filter variant minus(滤除负号) ICON转svg、png下载
 name: filter-variant-minus
 zhTips: 滤除负号
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# filter-variant-minus  <small style="font-size: 60%;font-weight: 100">滤除负号</small>
+# filter variant minus  <small style="font-size: 60%;font-weight: 100">滤除负号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

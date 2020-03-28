@@ -1,6 +1,6 @@
 ---
 
-title: zodiac scorpio(天蝎座) ICON转svg、png下载
+title:  zodiac scorpio(天蝎座) ICON转svg、png下载
 name: zodiac-scorpio
 zhTips: 天蝎座
 tags: []
@@ -8,11 +8,13 @@ search: horoscope-scorpio
 
 ---
 
-# zodiac-scorpio  <small style="font-size: 60%;font-weight: 100">天蝎座</small>
+# zodiac scorpio  <small style="font-size: 60%;font-weight: 100">天蝎座</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

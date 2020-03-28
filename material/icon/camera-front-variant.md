@@ -1,6 +1,6 @@
 ---
 
-title: camera front variant(镜头前饰) ICON转svg、png下载
+title:  camera front variant(镜头前饰) ICON转svg、png下载
 name: camera-front-variant
 zhTips: 镜头前饰
 tags: ["photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-front-variant  <small style="font-size: 60%;font-weight: 100">镜头前饰</small>
+# camera front variant  <small style="font-size: 60%;font-weight: 100">镜头前饰</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

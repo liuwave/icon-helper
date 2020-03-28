@@ -1,6 +1,6 @@
 ---
 
-title: arrow up box(向上箭头框) ICON转svg、png下载
+title:  arrow up box(向上箭头框) ICON转svg、png下载
 name: arrow-up-box
 zhTips: 向上箭头框
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# arrow-up-box  <small style="font-size: 60%;font-weight: 100">向上箭头框</small>
+# arrow up box  <small style="font-size: 60%;font-weight: 100">向上箭头框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

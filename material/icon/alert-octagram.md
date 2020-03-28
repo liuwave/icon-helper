@@ -1,6 +1,6 @@
 ---
 
-title: alert octagram(警报八字) ICON转svg、png下载
+title:  alert octagram(警报八字) ICON转svg、png下载
 name: alert-octagram
 zhTips: 警报八字,警告八字
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search: warning-octagram
 
 ---
 
-# alert-octagram  <small style="font-size: 60%;font-weight: 100">警报八字</small>
+# alert octagram  <small style="font-size: 60%;font-weight: 100">警报八字</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

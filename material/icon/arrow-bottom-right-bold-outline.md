@@ -1,6 +1,6 @@
 ---
 
-title: arrow bottom right bold outline(箭头右下加粗轮廓) ICON转svg、png下载
+title:  arrow bottom right bold outline(箭头右下加粗轮廓) ICON转svg、png下载
 name: arrow-bottom-right-bold-outline
 zhTips: 箭头右下加粗轮廓,箭头下右加粗轮廓
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-down-right-bold-outline
 
 ---
 
-# arrow-bottom-right-bold-outline  <small style="font-size: 60%;font-weight: 100">箭头右下加粗轮廓</small>
+# arrow bottom right bold outline  <small style="font-size: 60%;font-weight: 100">箭头右下加粗轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

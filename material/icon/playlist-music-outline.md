@@ -1,6 +1,6 @@
 ---
 
-title: playlist music outline(播放列表音乐轮廓) ICON转svg、png下载
+title:  playlist music outline(播放列表音乐轮廓) ICON转svg、png下载
 name: playlist-music-outline
 zhTips: 播放列表音乐轮廓,播放列表音符轮廓,队列音乐轮廓
 tags: []
@@ -8,11 +8,13 @@ search: playlist-note-outline,queue-music-outline
 
 ---
 
-# playlist-music-outline  <small style="font-size: 60%;font-weight: 100">播放列表音乐轮廓</small>
+# playlist music outline  <small style="font-size: 60%;font-weight: 100">播放列表音乐轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: shuffle variant(混音) ICON转svg、png下载
+title:  shuffle variant(混音) ICON转svg、png下载
 name: shuffle-variant
 zhTips: 混音
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# shuffle-variant  <small style="font-size: 60%;font-weight: 100">混音</small>
+# shuffle variant  <small style="font-size: 60%;font-weight: 100">混音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

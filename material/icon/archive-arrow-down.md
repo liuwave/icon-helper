@@ -1,6 +1,6 @@
 ---
 
-title: archive arrow down(存档向下箭头) ICON转svg、png下载
+title:  archive arrow down(存档向下箭头) ICON转svg、png下载
 name: archive-arrow-down
 zhTips: 存档向下箭头
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# archive-arrow-down  <small style="font-size: 60%;font-weight: 100">存档向下箭头</small>
+# archive arrow down  <small style="font-size: 60%;font-weight: 100">存档向下箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

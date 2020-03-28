@@ -1,6 +1,6 @@
 ---
 
-title: alpha w circle outline(alpha w圆圈轮廓) ICON转svg、png下载
+title:  alpha w circle outline(alpha w圆圈轮廓) ICON转svg、png下载
 name: alpha-w-circle-outline
 zhTips: alpha w圆圈轮廓,字母w圆圈轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-w-circle-outline,letter-w-circle-outline
 
 ---
 
-# alpha-w-circle-outline  <small style="font-size: 60%;font-weight: 100">alpha w圆圈轮廓</small>
+# alpha w circle outline  <small style="font-size: 60%;font-weight: 100">alpha w圆圈轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

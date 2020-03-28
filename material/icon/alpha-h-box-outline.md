@@ -1,6 +1,6 @@
 ---
 
-title: alpha h box outline(alpha h框轮廓) ICON转svg、png下载
+title:  alpha h box outline(alpha h框轮廓) ICON转svg、png下载
 name: alpha-h-box-outline
 zhTips: alpha h框轮廓,字母h框轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-h-box-outline,letter-h-box-outline
 
 ---
 
-# alpha-h-box-outline  <small style="font-size: 60%;font-weight: 100">alpha h框轮廓</small>
+# alpha h box outline  <small style="font-size: 60%;font-weight: 100">alpha h框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

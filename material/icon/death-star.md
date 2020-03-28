@@ -1,6 +1,6 @@
 ---
 
-title: death star(死亡之星) ICON转svg、png下载
+title:  death star(死亡之星) ICON转svg、png下载
 name: death-star
 zhTips: 死亡之星
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# death-star  <small style="font-size: 60%;font-weight: 100">死亡之星</small>
+# death star  <small style="font-size: 60%;font-weight: 100">死亡之星</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

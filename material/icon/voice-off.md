@@ -1,6 +1,6 @@
 ---
 
-title: voice off(语音关闭) ICON转svg、png下载
+title:  voice off(语音关闭) ICON转svg、png下载
 name: voice-off
 zhTips: 语音关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# voice-off  <small style="font-size: 60%;font-weight: 100">语音关闭</small>
+# voice off  <small style="font-size: 60%;font-weight: 100">语音关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

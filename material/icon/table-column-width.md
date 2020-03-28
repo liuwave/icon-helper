@@ -1,6 +1,6 @@
 ---
 
-title: table column width(表的列宽) ICON转svg、png下载
+title:  table column width(表的列宽) ICON转svg、png下载
 name: table-column-width
 zhTips: 表的列宽
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-column-width  <small style="font-size: 60%;font-weight: 100">表的列宽</small>
+# table column width  <small style="font-size: 60%;font-weight: 100">表的列宽</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

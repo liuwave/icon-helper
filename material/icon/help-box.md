@@ -1,6 +1,6 @@
 ---
 
-title: help box(帮助框) ICON转svg、png下载
+title:  help box(帮助框) ICON转svg、png下载
 name: help-box
 zhTips: 帮助框,问号框
 tags: []
@@ -8,11 +8,13 @@ search: question-mark-box
 
 ---
 
-# help-box  <small style="font-size: 60%;font-weight: 100">帮助框</small>
+# help box  <small style="font-size: 60%;font-weight: 100">帮助框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

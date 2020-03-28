@@ -1,6 +1,6 @@
 ---
 
-title: set left right(设置左右) ICON转svg、png下载
+title:  set left right(设置左右) ICON转svg、png下载
 name: set-left-right
 zhTips: 设置左右,排除,设置异或
 tags: []
@@ -8,11 +8,13 @@ search: exclusion,set-xor
 
 ---
 
-# set-left-right  <small style="font-size: 60%;font-weight: 100">设置左右</small>
+# set left right  <small style="font-size: 60%;font-weight: 100">设置左右</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

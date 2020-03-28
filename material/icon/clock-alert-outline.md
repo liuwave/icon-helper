@@ -1,6 +1,6 @@
 ---
 
-title: clock alert outline(时钟警报轮廓) ICON转svg、png下载
+title:  clock alert outline(时钟警报轮廓) ICON转svg、png下载
 name: clock-alert-outline
 zhTips: 时钟警报轮廓,时钟警告
 tags: ["date-time","alert-error"]
@@ -8,11 +8,13 @@ search: clock-warning
 
 ---
 
-# clock-alert-outline  <small style="font-size: 60%;font-weight: 100">时钟警报轮廓</small>
+# clock alert outline  <small style="font-size: 60%;font-weight: 100">时钟警报轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

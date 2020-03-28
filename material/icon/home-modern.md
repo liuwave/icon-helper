@@ -1,6 +1,6 @@
 ---
 
-title: home modern(现代家庭) ICON转svg、png下载
+title:  home modern(现代家庭) ICON转svg、png下载
 name: home-modern
 zhTips: 现代家庭,现代住宅
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: house-modern
 
 ---
 
-# home-modern  <small style="font-size: 60%;font-weight: 100">现代家庭</small>
+# home modern  <small style="font-size: 60%;font-weight: 100">现代家庭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

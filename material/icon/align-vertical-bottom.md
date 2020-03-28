@@ -1,6 +1,6 @@
 ---
 
-title: align vertical bottom(对齐底部) ICON转svg、png下载
+title:  align vertical bottom(对齐底部) ICON转svg、png下载
 name: align-vertical-bottom
 zhTips: 对齐底部
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# align-vertical-bottom  <small style="font-size: 60%;font-weight: 100">对齐底部</small>
+# align vertical bottom  <small style="font-size: 60%;font-weight: 100">对齐底部</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

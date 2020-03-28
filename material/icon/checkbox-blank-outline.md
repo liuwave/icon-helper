@@ -1,6 +1,6 @@
 ---
 
-title: checkbox blank outline(复选框空白轮廓) ICON转svg、png下载
+title:  checkbox blank outline(复选框空白轮廓) ICON转svg、png下载
 name: checkbox-blank-outline
 zhTips: 复选框空白轮廓
 tags: ["form"]
@@ -8,11 +8,13 @@ search: check-box-outline-blank
 
 ---
 
-# checkbox-blank-outline  <small style="font-size: 60%;font-weight: 100">复选框空白轮廓</small>
+# checkbox blank outline  <small style="font-size: 60%;font-weight: 100">复选框空白轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

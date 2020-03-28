@@ -1,6 +1,6 @@
 ---
 
-title: star box multiple(星盒多个) ICON转svg、png下载
+title:  star box multiple(星盒多个) ICON转svg、png下载
 name: star-box-multiple
 zhTips: 星盒多个
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# star-box-multiple  <small style="font-size: 60%;font-weight: 100">星盒多个</small>
+# star box multiple  <small style="font-size: 60%;font-weight: 100">星盒多个</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

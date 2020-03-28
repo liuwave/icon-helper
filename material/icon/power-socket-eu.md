@@ -1,6 +1,6 @@
 ---
 
-title: power socket eu(电源插座欧盟) ICON转svg、png下载
+title:  power socket eu(电源插座欧盟) ICON转svg、png下载
 name: power-socket-eu
 zhTips: 电源插座欧盟,插头插座欧盟,欧洲电源插座
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: plug-socket-eu,power-socket-europe
 
 ---
 
-# power-socket-eu  <small style="font-size: 60%;font-weight: 100">电源插座欧盟</small>
+# power socket eu  <small style="font-size: 60%;font-weight: 100">电源插座欧盟</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

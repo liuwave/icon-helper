@@ -1,6 +1,6 @@
 ---
 
-title: numeric 4 circle outline(数字4圆轮廓) ICON转svg、png下载
+title:  numeric 4 circle outline(数字4圆轮廓) ICON转svg、png下载
 name: numeric-4-circle-outline
 zhTips: 数字4圆轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: numeric-four-circle-outline,number-4-circle-outline,number-four-circle-o
 
 ---
 
-# numeric-4-circle-outline  <small style="font-size: 60%;font-weight: 100">数字4圆轮廓</small>
+# numeric 4 circle outline  <small style="font-size: 60%;font-weight: 100">数字4圆轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

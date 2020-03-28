@@ -1,6 +1,6 @@
 ---
 
-title: format text rotation up(向上格式化文本) ICON转svg、png下载
+title:  format text rotation up(向上格式化文本) ICON转svg、png下载
 name: format-text-rotation-up
 zhTips: 向上格式化文本
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-text-rotation-up  <small style="font-size: 60%;font-weight: 100">向上格式化文本</small>
+# format text rotation up  <small style="font-size: 60%;font-weight: 100">向上格式化文本</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

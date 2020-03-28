@@ -1,6 +1,6 @@
 ---
 
-title: syllabary katakana half width(音节片假名半宽度) ICON转svg、png下载
+title:  syllabary katakana half width(音节片假名半宽度) ICON转svg、png下载
 name: syllabary-katakana-half-width
 zhTips: 音节片假名半宽度,书写系统片假名半宽度
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-katakana-half-width
 
 ---
 
-# syllabary-katakana-half-width  <small style="font-size: 60%;font-weight: 100">音节片假名半宽度</small>
+# syllabary katakana half width  <small style="font-size: 60%;font-weight: 100">音节片假名半宽度</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

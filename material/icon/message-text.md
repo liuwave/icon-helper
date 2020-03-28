@@ -1,6 +1,6 @@
 ---
 
-title: message text(消息文字) ICON转svg、png下载
+title:  message text(消息文字) ICON转svg、png下载
 name: message-text
 zhTips: 消息文字,聊天
 tags: []
@@ -8,11 +8,13 @@ search: chat
 
 ---
 
-# message-text  <small style="font-size: 60%;font-weight: 100">消息文字</small>
+# message text  <small style="font-size: 60%;font-weight: 100">消息文字</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

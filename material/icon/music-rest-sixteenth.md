@@ -1,6 +1,6 @@
 ---
 
-title: music rest sixteenth(音乐休息第十六) ICON转svg、png下载
+title:  music rest sixteenth(音乐休息第十六) ICON转svg、png下载
 name: music-rest-sixteenth
 zhTips: 音乐休息第十六
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-rest-sixteenth  <small style="font-size: 60%;font-weight: 100">音乐休息第十六</small>
+# music rest sixteenth  <small style="font-size: 60%;font-weight: 100">音乐休息第十六</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

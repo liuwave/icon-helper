@@ -1,6 +1,6 @@
 ---
 
-title: hydro power(水力发电) ICON转svg、png下载
+title:  hydro power(水力发电) ICON转svg、png下载
 name: hydro-power
 zhTips: 水力发电,水轮机,水车
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search: hydraulic-turbine,water-turbine,watermill
 
 ---
 
-# hydro-power  <small style="font-size: 60%;font-weight: 100">水力发电</small>
+# hydro power  <small style="font-size: 60%;font-weight: 100">水力发电</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

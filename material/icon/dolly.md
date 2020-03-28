@@ -1,8 +1,8 @@
 ---
 
-title: dolly(手推车) ICON转svg、png下载
+title:  dolly(手推车) ICON转svg、png下载
 name: dolly
-zhTips: 手推车
+zhTips: 手推车,搬运,多莉,运输
 tags: []
 search: hand-truck,trolley
 
@@ -13,6 +13,8 @@ search: hand-truck,trolley
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">hand-truck</span><span class="badge-light badge">trolley</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">手推车</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/dolly.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/dolly.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">hand-truck</span><span class="badge-light badge">trolley</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">手推车</span><span class="badge-primary badge">搬运</span><span class="badge-primary badge">多莉</span><span class="badge-primary badge">运输</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/dolly.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/dolly.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">搬运，可以表示移动物体。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-dolly mdi-48px"></i>
   <i class="mdi mdi-dolly mdi-36px"></i>

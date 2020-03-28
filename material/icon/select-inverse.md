@@ -1,6 +1,6 @@
 ---
 
-title: select inverse(选择反向) ICON转svg、png下载
+title:  select inverse(选择反向) ICON转svg、png下载
 name: select-inverse
 zhTips: 选择反向,反向选择
 tags: []
@@ -8,11 +8,13 @@ search: selection-invert
 
 ---
 
-# select-inverse  <small style="font-size: 60%;font-weight: 100">选择反向</small>
+# select inverse  <small style="font-size: 60%;font-weight: 100">选择反向</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

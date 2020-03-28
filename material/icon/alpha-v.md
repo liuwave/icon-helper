@@ -1,6 +1,6 @@
 ---
 
-title: alpha v(字母v) ICON转svg、png下载
+title:  alpha v(字母v) ICON转svg、png下载
 name: alpha-v
 zhTips: 字母v,罗马数字5
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-v,letter-v,roman-numeral-5
 
 ---
 
-# alpha-v  <small style="font-size: 60%;font-weight: 100">字母v</small>
+# alpha v  <small style="font-size: 60%;font-weight: 100">字母v</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

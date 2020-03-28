@@ -1,6 +1,6 @@
 ---
 
-title: alphabet aurebesh(字母aurebesh) ICON转svg、png下载
+title:  alphabet aurebesh(字母aurebesh) ICON转svg、png下载
 name: alphabet-aurebesh
 zhTips: 字母aurebesh,书写系统aurebesh
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-aurebesh
 
 ---
 
-# alphabet-aurebesh  <small style="font-size: 60%;font-weight: 100">字母aurebesh</small>
+# alphabet aurebesh  <small style="font-size: 60%;font-weight: 100">字母aurebesh</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

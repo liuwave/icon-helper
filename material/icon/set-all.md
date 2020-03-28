@@ -1,6 +1,6 @@
 ---
 
-title: set all(设置所有) ICON转svg、png下载
+title:  set all(设置所有) ICON转svg、png下载
 name: set-all
 zhTips: 设置所有,精确设置,设置或,完全外部联接,sql完全外部联接
 tags: []
@@ -8,11 +8,13 @@ search: set-union,set-or,full-outer-join,sql-full-outer-join
 
 ---
 
-# set-all  <small style="font-size: 60%;font-weight: 100">设置所有</small>
+# set all  <small style="font-size: 60%;font-weight: 100">设置所有</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

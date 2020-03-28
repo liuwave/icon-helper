@@ -1,6 +1,6 @@
 ---
 
-title: emoticon kiss outline(表情吻轮廓) ICON转svg、png下载
+title:  emoticon kiss outline(表情吻轮廓) ICON转svg、png下载
 name: emoticon-kiss-outline
 zhTips: 表情吻轮廓,笑脸吻轮廓
 tags: ["emoji"]
@@ -8,11 +8,13 @@ search: smiley-kiss-outline
 
 ---
 
-# emoticon-kiss-outline  <small style="font-size: 60%;font-weight: 100">表情吻轮廓</small>
+# emoticon kiss outline  <small style="font-size: 60%;font-weight: 100">表情吻轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

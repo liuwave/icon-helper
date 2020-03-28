@@ -1,6 +1,6 @@
 ---
 
-title: boom gate down(动臂浇口下降) ICON转svg、png下载
+title:  boom gate down(动臂浇口下降) ICON转svg、png下载
 name: boom-gate-down
 zhTips: 动臂浇口下降,动臂臂下降,动臂障碍向下,障碍障碍向下,自动浇口下降
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: boom-arm-down,boom-barrier-down,arm-barrier-down,barrier-down,automatic-
 
 ---
 
-# boom-gate-down  <small style="font-size: 60%;font-weight: 100">动臂浇口下降</small>
+# boom gate down  <small style="font-size: 60%;font-weight: 100">动臂浇口下降</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

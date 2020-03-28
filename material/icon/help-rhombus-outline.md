@@ -1,6 +1,6 @@
 ---
 
-title: help rhombus outline(帮助菱形轮廓) ICON转svg、png下载
+title:  help rhombus outline(帮助菱形轮廓) ICON转svg、png下载
 name: help-rhombus-outline
 zhTips: 帮助菱形轮廓,问号菱形轮廓
 tags: []
@@ -8,11 +8,13 @@ search: question-mark-rhombus-outline
 
 ---
 
-# help-rhombus-outline  <small style="font-size: 60%;font-weight: 100">帮助菱形轮廓</small>
+# help rhombus outline  <small style="font-size: 60%;font-weight: 100">帮助菱形轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

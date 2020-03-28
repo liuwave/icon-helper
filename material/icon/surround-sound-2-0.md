@@ -1,6 +1,6 @@
 ---
 
-title: surround sound 2 0(环绕声2 0) ICON转svg、png下载
+title:  surround sound 2 0(环绕声2 0) ICON转svg、png下载
 name: surround-sound-2-0
 zhTips: 环绕声2 0,立体声
 tags: ["audio"]
@@ -8,11 +8,13 @@ search: stereo
 
 ---
 
-# surround-sound-2-0  <small style="font-size: 60%;font-weight: 100">环绕声2 0</small>
+# surround sound 2 0  <small style="font-size: 60%;font-weight: 100">环绕声2 0</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

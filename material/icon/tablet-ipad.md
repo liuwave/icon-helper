@@ -1,6 +1,6 @@
 ---
 
-title: tablet ipad(平板电脑ipad) ICON转svg、png下载
+title:  tablet ipad(平板电脑ipad) ICON转svg、png下载
 name: tablet-ipad
 zhTips: 平板电脑ipad,平板电脑mac
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search: tablet-mac
 
 ---
 
-# tablet-ipad  <small style="font-size: 60%;font-weight: 100">平板电脑ipad</small>
+# tablet ipad  <small style="font-size: 60%;font-weight: 100">平板电脑ipad</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: map marker distance(地图标记距离) ICON转svg、png下载
+title:  map marker distance(地图标记距离) ICON转svg、png下载
 name: map-marker-distance
 zhTips: 地图标记距离
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# map-marker-distance  <small style="font-size: 60%;font-weight: 100">地图标记距离</small>
+# map marker distance  <small style="font-size: 60%;font-weight: 100">地图标记距离</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

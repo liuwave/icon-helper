@@ -1,6 +1,6 @@
 ---
 
-title: color helper(颜色助手) ICON转svg、png下载
+title:  color helper(颜色助手) ICON转svg、png下载
 name: color-helper
 zhTips: 颜色助手
 tags: ["text-content-format","color"]
@@ -8,11 +8,13 @@ search: colour-helper
 
 ---
 
-# color-helper  <small style="font-size: 60%;font-weight: 100">颜色助手</small>
+# color helper  <small style="font-size: 60%;font-weight: 100">颜色助手</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

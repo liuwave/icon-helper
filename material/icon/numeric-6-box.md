@@ -1,6 +1,6 @@
 ---
 
-title: numeric 6 box(数字6框) ICON转svg、png下载
+title:  numeric 6 box(数字6框) ICON转svg、png下载
 name: numeric-6-box
 zhTips: 数字6框,外观6
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: looks-6,numeric-six-box,number-6-box
 
 ---
 
-# numeric-6-box  <small style="font-size: 60%;font-weight: 100">数字6框</small>
+# numeric 6 box  <small style="font-size: 60%;font-weight: 100">数字6框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

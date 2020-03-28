@@ -1,6 +1,6 @@
 ---
 
-title: headphones box(耳机盒) ICON转svg、png下载
+title:  headphones box(耳机盒) ICON转svg、png下载
 name: headphones-box
 zhTips: 耳机盒
 tags: ["audio","music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# headphones-box  <small style="font-size: 60%;font-weight: 100">耳机盒</small>
+# headphones box  <small style="font-size: 60%;font-weight: 100">耳机盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

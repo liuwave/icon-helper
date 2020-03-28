@@ -1,6 +1,6 @@
 ---
 
-title: head cog(齿轮) ICON转svg、png下载
+title:  head cog(齿轮) ICON转svg、png下载
 name: head-cog
 zhTips: 齿轮,心理学
 tags: ["settings"]
@@ -8,11 +8,13 @@ search: psychology
 
 ---
 
-# head-cog  <small style="font-size: 60%;font-weight: 100">齿轮</small>
+# head cog  <small style="font-size: 60%;font-weight: 100">齿轮</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

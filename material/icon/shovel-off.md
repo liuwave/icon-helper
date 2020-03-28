@@ -1,6 +1,6 @@
 ---
 
-title: shovel off(铲掉) ICON转svg、png下载
+title:  shovel off(铲掉) ICON转svg、png下载
 name: shovel-off
 zhTips: 铲掉
 tags: ["hardware-tools"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# shovel-off  <small style="font-size: 60%;font-weight: 100">铲掉</small>
+# shovel off  <small style="font-size: 60%;font-weight: 100">铲掉</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

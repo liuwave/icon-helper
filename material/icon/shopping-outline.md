@@ -1,6 +1,6 @@
 ---
 
-title: shopping outline(购物轮廓) ICON转svg、png下载
+title:  shopping outline(购物轮廓) ICON转svg、png下载
 name: shopping-outline
 zhTips: 购物轮廓,当地购物中心轮廓,市场轮廓
 tags: ["shopping"]
@@ -8,11 +8,13 @@ search: local-mall-outline,marketplace-outline
 
 ---
 
-# shopping-outline  <small style="font-size: 60%;font-weight: 100">购物轮廓</small>
+# shopping outline  <small style="font-size: 60%;font-weight: 100">购物轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

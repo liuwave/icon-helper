@@ -1,6 +1,6 @@
 ---
 
-title: battery outline(电池外形) ICON转svg、png下载
+title:  battery outline(电池外形) ICON转svg、png下载
 name: battery-outline
 zhTips: 电池外形,电池0,电池已空
 tags: ["battery","home-automation","automotive"]
@@ -8,11 +8,13 @@ search: battery-0,battery-empty
 
 ---
 
-# battery-outline  <small style="font-size: 60%;font-weight: 100">电池外形</small>
+# battery outline  <small style="font-size: 60%;font-weight: 100">电池外形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

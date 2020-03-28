@@ -1,6 +1,6 @@
 ---
 
-title: chess king(国际象棋王) ICON转svg、png下载
+title:  chess king(国际象棋王) ICON转svg、png下载
 name: chess-king
 zhTips: 国际象棋王
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chess-king  <small style="font-size: 60%;font-weight: 100">国际象棋王</small>
+# chess king  <small style="font-size: 60%;font-weight: 100">国际象棋王</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

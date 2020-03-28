@@ -1,6 +1,6 @@
 ---
 
-title: currency cny(货币CNY) ICON转svg、png下载
+title:  currency cny(货币CNY) ICON转svg、png下载
 name: currency-cny
 zhTips: 货币CNY,人民币
 tags: ["currency","banking"]
@@ -8,11 +8,13 @@ search: yuan,renminbi
 
 ---
 
-# currency-cny  <small style="font-size: 60%;font-weight: 100">货币CNY</small>
+# currency cny  <small style="font-size: 60%;font-weight: 100">货币CNY</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

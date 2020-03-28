@@ -1,6 +1,6 @@
 ---
 
-title: brightness 4(亮度4) ICON转svg、png下载
+title:  brightness 4(亮度4) ICON转svg、png下载
 name: brightness-4
 zhTips: 亮度4,浅暗主题
 tags: []
@@ -8,11 +8,13 @@ search: theme-light-dark
 
 ---
 
-# brightness-4  <small style="font-size: 60%;font-weight: 100">亮度4</small>
+# brightness 4  <small style="font-size: 60%;font-weight: 100">亮度4</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

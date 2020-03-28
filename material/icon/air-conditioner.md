@@ -1,6 +1,6 @@
 ---
 
-title: air conditioner(空调) ICON转svg、png下载
+title:  air conditioner(空调) ICON转svg、png下载
 name: air-conditioner
 zhTips: 空调,空调装置
 tags: ["home-automation","automotive"]
@@ -8,11 +8,13 @@ search: ac-unit
 
 ---
 
-# air-conditioner  <small style="font-size: 60%;font-weight: 100">空调</small>
+# air conditioner  <small style="font-size: 60%;font-weight: 100">空调</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: cellphone link(手机链接) ICON转svg、png下载
+title:  cellphone link(手机链接) ICON转svg、png下载
 name: cellphone-link
 zhTips: 手机链接,智能手机链接,设备
 tags: ["cellphone-phone","device-tech"]
@@ -8,11 +8,13 @@ search: mobile-phone-link,smartphone-link,devices
 
 ---
 
-# cellphone-link  <small style="font-size: 60%;font-weight: 100">手机链接</small>
+# cellphone link  <small style="font-size: 60%;font-weight: 100">手机链接</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

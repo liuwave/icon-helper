@@ -1,6 +1,6 @@
 ---
 
-title: close box multiple(关闭多个框) ICON转svg、png下载
+title:  close box multiple(关闭多个框) ICON转svg、png下载
 name: close-box-multiple
 zhTips: 关闭多个框,删除库,关闭库
 tags: []
@@ -8,11 +8,13 @@ search: close-boxes,library-remove,library-close
 
 ---
 
-# close-box-multiple  <small style="font-size: 60%;font-weight: 100">关闭多个框</small>
+# close box multiple  <small style="font-size: 60%;font-weight: 100">关闭多个框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

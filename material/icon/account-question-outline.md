@@ -1,6 +1,6 @@
 ---
 
-title: account question outline(帐户问题轮廓) ICON转svg、png下载
+title:  account question outline(帐户问题轮廓) ICON转svg、png下载
 name: account-question-outline
 zhTips: 帐户问题轮廓,帐户问号轮廓,用户帮助轮廓,用户问题轮廓,人员问题轮廓,人员帮助轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: account-question-mark-outline,user-help-outline,account-help-outline,use
 
 ---
 
-# account-question-outline  <small style="font-size: 60%;font-weight: 100">帐户问题轮廓</small>
+# account question outline  <small style="font-size: 60%;font-weight: 100">帐户问题轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

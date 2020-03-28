@@ -1,8 +1,8 @@
 ---
 
-title: adjust(调整) ICON转svg、png下载
+title:  adjust(调整) ICON转svg、png下载
 name: adjust
-zhTips: 调整
+zhTips: 调整,对比,深色,浅色,饱和度
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">调整</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/adjust.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/adjust.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">调整</span><span class="badge-primary badge">对比</span><span class="badge-primary badge">深色</span><span class="badge-primary badge">浅色</span><span class="badge-primary badge">饱和度</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/adjust.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/adjust.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">调整，表示黑与白各一半，也可表示白天黑夜。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-adjust mdi-48px"></i>
   <i class="mdi mdi-adjust mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: android messages(android消息) ICON转svg、png下载
+title:  android messages(android消息) ICON转svg、png下载
 name: android-messages
 zhTips: android消息
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# android-messages  <small style="font-size: 60%;font-weight: 100">android消息</small>
+# android messages  <small style="font-size: 60%;font-weight: 100">android消息</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

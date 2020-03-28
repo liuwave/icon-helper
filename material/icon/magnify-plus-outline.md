@@ -1,6 +1,6 @@
 ---
 
-title: magnify plus outline(放大加轮廓) ICON转svg、png下载
+title:  magnify plus outline(放大加轮廓) ICON转svg、png下载
 name: magnify-plus-outline
 zhTips: 放大加轮廓,放大轮廓,放大添加轮廓,搜索加轮廓,搜索添加轮廓
 tags: ["geographic-information-system"]
@@ -8,11 +8,13 @@ search: zoom-in-outline,magnify-add-outline,search-plus-outline,search-add-outli
 
 ---
 
-# magnify-plus-outline  <small style="font-size: 60%;font-weight: 100">放大加轮廓</small>
+# magnify plus outline  <small style="font-size: 60%;font-weight: 100">放大加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

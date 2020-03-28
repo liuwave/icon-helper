@@ -1,6 +1,6 @@
 ---
 
-title: briefcase search outline(公文包搜索公文包) ICON转svg、png下载
+title:  briefcase search outline(公文包搜索公文包) ICON转svg、png下载
 name: briefcase-search-outline
 zhTips: 公文包搜索公文包
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# briefcase-search-outline  <small style="font-size: 60%;font-weight: 100">公文包搜索公文包</small>
+# briefcase search outline  <small style="font-size: 60%;font-weight: 100">公文包搜索公文包</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

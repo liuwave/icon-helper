@@ -1,6 +1,6 @@
 ---
 
-title: window closed variant(窗口关闭的变体) ICON转svg、png下载
+title:  window closed variant(窗口关闭的变体) ICON转svg、png下载
 name: window-closed-variant
 zhTips: 窗口关闭的变体
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# window-closed-variant  <small style="font-size: 60%;font-weight: 100">窗口关闭的变体</small>
+# window closed variant  <small style="font-size: 60%;font-weight: 100">窗口关闭的变体</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

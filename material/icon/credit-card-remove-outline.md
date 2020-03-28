@@ -1,6 +1,6 @@
 ---
 
-title: credit card remove outline(信用卡删除轮廓) ICON转svg、png下载
+title:  credit card remove outline(信用卡删除轮廓) ICON转svg、png下载
 name: credit-card-remove-outline
 zhTips: 信用卡删除轮廓
 tags: ["banking"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# credit-card-remove-outline  <small style="font-size: 60%;font-weight: 100">信用卡删除轮廓</small>
+# credit card remove outline  <small style="font-size: 60%;font-weight: 100">信用卡删除轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

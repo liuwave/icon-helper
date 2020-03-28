@@ -1,6 +1,6 @@
 ---
 
-title: crop portrait(作物肖像) ICON转svg、png下载
+title:  crop portrait(作物肖像) ICON转svg、png下载
 name: crop-portrait
 zhTips: 作物肖像
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# crop-portrait  <small style="font-size: 60%;font-weight: 100">作物肖像</small>
+# crop portrait  <small style="font-size: 60%;font-weight: 100">作物肖像</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

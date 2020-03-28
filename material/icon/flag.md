@@ -1,8 +1,8 @@
 ---
 
-title: flag(标记) ICON转svg、png下载
+title:  flag(标记) ICON转svg、png下载
 name: flag
-zhTips: 标记,助理照片
+zhTips: 标记,助理照片,旗子,标志,国家,通知,杆,报告,符号
 tags: []
 search: assistant-photo
 
@@ -13,6 +13,8 @@ search: assistant-photo
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">assistant-photo</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标记</span><span class="badge-primary badge">助理照片</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/flag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/flag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">assistant-photo</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标记</span><span class="badge-primary badge">助理照片</span><span class="badge-primary badge">旗子</span><span class="badge-primary badge">标志</span><span class="badge-primary badge">国家</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">杆</span><span class="badge-primary badge">报告</span><span class="badge-primary badge">符号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/flag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/flag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">旗子，一般表示为国旗、标记，表示得意，胜利。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-flag mdi-48px"></i>
   <i class="mdi mdi-flag mdi-36px"></i>

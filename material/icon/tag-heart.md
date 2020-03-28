@@ -1,6 +1,6 @@
 ---
 
-title: tag heart(标签心) ICON转svg、png下载
+title:  tag heart(标签心) ICON转svg、png下载
 name: tag-heart
 zhTips: 标签心,忠诚度
 tags: []
@@ -8,11 +8,13 @@ search: loyalty
 
 ---
 
-# tag-heart  <small style="font-size: 60%;font-weight: 100">标签心</small>
+# tag heart  <small style="font-size: 60%;font-weight: 100">标签心</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

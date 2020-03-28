@@ -1,6 +1,6 @@
 ---
 
-title: periodic table(周期表) ICON转svg、png下载
+title:  periodic table(周期表) ICON转svg、png下载
 name: periodic-table
 zhTips: 周期表
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# periodic-table  <small style="font-size: 60%;font-weight: 100">周期表</small>
+# periodic table  <small style="font-size: 60%;font-weight: 100">周期表</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: briefcase download(公文包下载) ICON转svg、png下载
+title:  briefcase download(公文包下载) ICON转svg、png下载
 name: briefcase-download
 zhTips: 公文包下载
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# briefcase-download  <small style="font-size: 60%;font-weight: 100">公文包下载</small>
+# briefcase download  <small style="font-size: 60%;font-weight: 100">公文包下载</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

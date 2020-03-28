@@ -1,6 +1,6 @@
 ---
 
-title: flask off outline(烧瓶偏离轮廓) ICON转svg、png下载
+title:  flask off outline(烧瓶偏离轮廓) ICON转svg、png下载
 name: flask-off-outline
 zhTips: 烧瓶偏离轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# flask-off-outline  <small style="font-size: 60%;font-weight: 100">烧瓶偏离轮廓</small>
+# flask off outline  <small style="font-size: 60%;font-weight: 100">烧瓶偏离轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

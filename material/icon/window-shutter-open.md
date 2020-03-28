@@ -1,6 +1,6 @@
 ---
 
-title: window shutter open(百叶窗打开) ICON转svg、png下载
+title:  window shutter open(百叶窗打开) ICON转svg、png下载
 name: window-shutter-open
 zhTips: 百叶窗打开
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# window-shutter-open  <small style="font-size: 60%;font-weight: 100">百叶窗打开</small>
+# window shutter open  <small style="font-size: 60%;font-weight: 100">百叶窗打开</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

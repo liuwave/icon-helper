@@ -1,6 +1,6 @@
 ---
 
-title: air purifier(在净化器上) ICON转svg、png下载
+title:  air purifier(在净化器上) ICON转svg、png下载
 name: air-purifier
 zhTips: 在净化器上
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# air-purifier  <small style="font-size: 60%;font-weight: 100">在净化器上</small>
+# air purifier  <small style="font-size: 60%;font-weight: 100">在净化器上</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

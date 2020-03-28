@@ -1,6 +1,6 @@
 ---
 
-title: music note sixteenth dotted(音符第十六点缀) ICON转svg、png下载
+title:  music note sixteenth dotted(音符第十六点缀) ICON转svg、png下载
 name: music-note-sixteenth-dotted
 zhTips: 音符第十六点缀
 tags: ["music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-note-sixteenth-dotted  <small style="font-size: 60%;font-weight: 100">音符第十六点缀</small>
+# music note sixteenth dotted  <small style="font-size: 60%;font-weight: 100">音符第十六点缀</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

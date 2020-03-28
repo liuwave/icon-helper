@@ -1,6 +1,6 @@
 ---
 
-title: two factor authentication(两步验证) ICON转svg、png下载
+title:  two factor authentication(两步验证) ICON转svg、png下载
 name: two-factor-authentication
 zhTips: 两步验证
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# two-factor-authentication  <small style="font-size: 60%;font-weight: 100">两步验证</small>
+# two factor authentication  <small style="font-size: 60%;font-weight: 100">两步验证</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

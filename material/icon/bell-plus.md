@@ -1,6 +1,6 @@
 ---
 
-title: bell plus(铃声加上) ICON转svg、png下载
+title:  bell plus(铃声加上) ICON转svg、png下载
 name: bell-plus
 zhTips: 铃声加上,添加提醒,铃声添加
 tags: ["notification"]
@@ -8,11 +8,13 @@ search: add-alert,bell-add
 
 ---
 
-# bell-plus  <small style="font-size: 60%;font-weight: 100">铃声加上</small>
+# bell plus  <small style="font-size: 60%;font-weight: 100">铃声加上</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

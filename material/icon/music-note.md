@@ -1,6 +1,6 @@
 ---
 
-title: music note(音乐笔记) ICON转svg、png下载
+title:  music note(音乐笔记) ICON转svg、png下载
 name: music-note
 zhTips: 音乐笔记
 tags: ["audio","music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-note  <small style="font-size: 60%;font-weight: 100">音乐笔记</small>
+# music note  <small style="font-size: 60%;font-weight: 100">音乐笔记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

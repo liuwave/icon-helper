@@ -1,6 +1,6 @@
 ---
 
-title: baby carriage off(婴儿车关闭) ICON转svg、png下载
+title:  baby carriage off(婴儿车关闭) ICON转svg、png下载
 name: baby-carriage-off
 zhTips: 婴儿车关闭,儿童友善关闭,越野车关闭
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search: child-friendly-off,stroller-off,pram-off,buggy-off
 
 ---
 
-# baby-carriage-off  <small style="font-size: 60%;font-weight: 100">婴儿车关闭</small>
+# baby carriage off  <small style="font-size: 60%;font-weight: 100">婴儿车关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

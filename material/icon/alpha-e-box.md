@@ -1,6 +1,6 @@
 ---
 
-title: alpha e box(字母e框) ICON转svg、png下载
+title:  alpha e box(字母e框) ICON转svg、png下载
 name: alpha-e-box
 zhTips: 字母e框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-e-box,letter-e-box
 
 ---
 
-# alpha-e-box  <small style="font-size: 60%;font-weight: 100">字母e框</small>
+# alpha e box  <small style="font-size: 60%;font-weight: 100">字母e框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

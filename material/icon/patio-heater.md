@@ -1,6 +1,6 @@
 ---
 
-title: patio heater(露台加热器) ICON转svg、png下载
+title:  patio heater(露台加热器) ICON转svg、png下载
 name: patio-heater
 zhTips: 露台加热器
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# patio-heater  <small style="font-size: 60%;font-weight: 100">露台加热器</small>
+# patio heater  <small style="font-size: 60%;font-weight: 100">露台加热器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: chevron up circle(V形人字形圆圈) ICON转svg、png下载
+title:  chevron up circle(V形人字形圆圈) ICON转svg、png下载
 name: chevron-up-circle
 zhTips: V形人字形圆圈
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# chevron-up-circle  <small style="font-size: 60%;font-weight: 100">V形人字形圆圈</small>
+# chevron up circle  <small style="font-size: 60%;font-weight: 100">V形人字形圆圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

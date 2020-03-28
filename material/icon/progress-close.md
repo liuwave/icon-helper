@@ -1,6 +1,6 @@
 ---
 
-title: progress close(关闭进度) ICON转svg、png下载
+title:  progress close(关闭进度) ICON转svg、png下载
 name: progress-close
 zhTips: 关闭进度
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# progress-close  <small style="font-size: 60%;font-weight: 100">关闭进度</small>
+# progress close  <small style="font-size: 60%;font-weight: 100">关闭进度</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

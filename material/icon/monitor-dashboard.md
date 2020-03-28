@@ -1,6 +1,6 @@
 ---
 
-title: monitor dashboard(仪表板监视器) ICON转svg、png下载
+title:  monitor dashboard(仪表板监视器) ICON转svg、png下载
 name: monitor-dashboard
 zhTips: 仪表板监视器
 tags: ["device-tech","device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# monitor-dashboard  <small style="font-size: 60%;font-weight: 100">仪表板监视器</small>
+# monitor dashboard  <small style="font-size: 60%;font-weight: 100">仪表板监视器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

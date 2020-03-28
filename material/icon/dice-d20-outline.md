@@ -1,6 +1,6 @@
 ---
 
-title: dice d20 outline(骰子D20轮廓) ICON转svg、png下载
+title:  dice d20 outline(骰子D20轮廓) ICON转svg、png下载
 name: dice-d20-outline
 zhTips: 骰子D20轮廓,骰子D20
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: die-d20
 
 ---
 
-# dice-d20-outline  <small style="font-size: 60%;font-weight: 100">骰子D20轮廓</small>
+# dice d20 outline  <small style="font-size: 60%;font-weight: 100">骰子D20轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

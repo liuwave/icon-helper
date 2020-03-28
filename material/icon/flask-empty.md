@@ -1,6 +1,6 @@
 ---
 
-title: flask empty(空瓶) ICON转svg、png下载
+title:  flask empty(空瓶) ICON转svg、png下载
 name: flask-empty
 zhTips: 空瓶
 tags: ["science","gaming-rpg"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# flask-empty  <small style="font-size: 60%;font-weight: 100">空瓶</small>
+# flask empty  <small style="font-size: 60%;font-weight: 100">空瓶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

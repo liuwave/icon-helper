@@ -1,6 +1,6 @@
 ---
 
-title: truck fast(快速卡车) ICON转svg、png下载
+title:  truck fast(快速卡车) ICON转svg、png下载
 name: truck-fast
 zhTips: 快速卡车,快速快递
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: lorry-fast,courier-fast
 
 ---
 
-# truck-fast  <small style="font-size: 60%;font-weight: 100">快速卡车</small>
+# truck fast  <small style="font-size: 60%;font-weight: 100">快速卡车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

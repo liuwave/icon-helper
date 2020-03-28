@@ -1,6 +1,6 @@
 ---
 
-title: numeric 9 box multiple outline(数字9框多个轮廓线) ICON转svg、png下载
+title:  numeric 9 box multiple outline(数字9框多个轮廓线) ICON转svg、png下载
 name: numeric-9-box-multiple-outline
 zhTips: 数字9框多个轮廓线,过滤器9
 tags: ["alpha-numeric","alpha-numeric"]
@@ -8,11 +8,13 @@ search: filter-9,numeric-nine-box-multiple-outline,numeric-9-boxes-outline,numbe
 
 ---
 
-# numeric-9-box-multiple-outline  <small style="font-size: 60%;font-weight: 100">数字9框多个轮廓线</small>
+# numeric 9 box multiple outline  <small style="font-size: 60%;font-weight: 100">数字9框多个轮廓线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

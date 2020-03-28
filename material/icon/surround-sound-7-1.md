@@ -1,6 +1,6 @@
 ---
 
-title: surround sound 7 1(环绕声7 1) ICON转svg、png下载
+title:  surround sound 7 1(环绕声7 1) ICON转svg、png下载
 name: surround-sound-7-1
 zhTips: 环绕声7 1
 tags: ["audio"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# surround-sound-7-1  <small style="font-size: 60%;font-weight: 100">环绕声7 1</small>
+# surround sound 7 1  <small style="font-size: 60%;font-weight: 100">环绕声7 1</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

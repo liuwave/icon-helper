@@ -1,6 +1,6 @@
 ---
 
-title: inbox multiple(多个收件箱) ICON转svg、png下载
+title:  inbox multiple(多个收件箱) ICON转svg、png下载
 name: inbox-multiple
 zhTips: 多个收件箱
 tags: []
@@ -8,11 +8,13 @@ search: inboxes
 
 ---
 
-# inbox-multiple  <small style="font-size: 60%;font-weight: 100">多个收件箱</small>
+# inbox multiple  <small style="font-size: 60%;font-weight: 100">多个收件箱</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

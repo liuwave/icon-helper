@@ -1,6 +1,6 @@
 ---
 
-title: music clef alto(中音谱号) ICON转svg、png下载
+title:  music clef alto(中音谱号) ICON转svg、png下载
 name: music-clef-alto
 zhTips: 中音谱号,男高音谱号,女高音谱号,男中音谱号
 tags: ["music"]
@@ -8,11 +8,13 @@ search: music-c-clef,music-clef-tenor,music-clef-soprano,music-clef-baritone
 
 ---
 
-# music-clef-alto  <small style="font-size: 60%;font-weight: 100">中音谱号</small>
+# music clef alto  <small style="font-size: 60%;font-weight: 100">中音谱号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

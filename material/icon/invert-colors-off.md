@@ -1,6 +1,6 @@
 ---
 
-title: invert colors off(关闭颜色) ICON转svg、png下载
+title:  invert colors off(关闭颜色) ICON转svg、png下载
 name: invert-colors-off
 zhTips: 关闭颜色
 tags: ["color"]
@@ -8,11 +8,13 @@ search: invert-colours-off
 
 ---
 
-# invert-colors-off  <small style="font-size: 60%;font-weight: 100">关闭颜色</small>
+# invert colors off  <small style="font-size: 60%;font-weight: 100">关闭颜色</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

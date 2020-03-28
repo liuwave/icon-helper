@@ -1,6 +1,6 @@
 ---
 
-title: pin off(固定) ICON转svg、png下载
+title:  pin off(固定) ICON转svg、png下载
 name: pin-off
 zhTips: 固定,保持关闭
 tags: []
@@ -8,11 +8,13 @@ search: keep-off
 
 ---
 
-# pin-off  <small style="font-size: 60%;font-weight: 100">固定</small>
+# pin off  <small style="font-size: 60%;font-weight: 100">固定</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

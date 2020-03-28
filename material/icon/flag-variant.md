@@ -1,6 +1,6 @@
 ---
 
-title: flag variant(口音) ICON转svg、png下载
+title:  flag variant(口音) ICON转svg、png下载
 name: flag-variant
 zhTips: 口音
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# flag-variant  <small style="font-size: 60%;font-weight: 100">口音</small>
+# flag variant  <small style="font-size: 60%;font-weight: 100">口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

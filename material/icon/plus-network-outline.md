@@ -1,6 +1,6 @@
 ---
 
-title: plus network outline(添加网络轮廓) ICON转svg、png下载
+title:  plus network outline(添加网络轮廓) ICON转svg、png下载
 name: plus-network-outline
 zhTips: 添加网络轮廓
 tags: []
@@ -8,11 +8,13 @@ search: add-network-outline
 
 ---
 
-# plus-network-outline  <small style="font-size: 60%;font-weight: 100">添加网络轮廓</small>
+# plus network outline  <small style="font-size: 60%;font-weight: 100">添加网络轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

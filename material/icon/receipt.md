@@ -1,8 +1,8 @@
 ---
 
-title: receipt(收据) ICON转svg、png下载
+title:  receipt(收据) ICON转svg、png下载
 name: receipt
-zhTips: 收据,发票
+zhTips: 收据,发票,支票,货币,付款,表
 tags: []
 search: invoice
 
@@ -13,6 +13,8 @@ search: invoice
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">invoice</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">收据</span><span class="badge-primary badge">发票</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/receipt.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/receipt.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">invoice</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">收据</span><span class="badge-primary badge">发票</span><span class="badge-primary badge">支票</span><span class="badge-primary badge">货币</span><span class="badge-primary badge">付款</span><span class="badge-primary badge">表</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/receipt.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/receipt.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示购销商品，经营活动，收付款。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-receipt mdi-48px"></i>
   <i class="mdi mdi-receipt mdi-36px"></i>

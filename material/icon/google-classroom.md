@@ -1,6 +1,6 @@
 ---
 
-title: google classroom(Google教室) ICON转svg、png下载
+title:  google classroom(Google教室) ICON转svg、png下载
 name: google-classroom
 zhTips: Google教室
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# google-classroom  <small style="font-size: 60%;font-weight: 100">Google教室</small>
+# google classroom  <small style="font-size: 60%;font-weight: 100">Google教室</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

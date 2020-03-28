@@ -1,6 +1,6 @@
 ---
 
-title: recycle variant(回收口音) ICON转svg、png下载
+title:  recycle variant(回收口音) ICON转svg、png下载
 name: recycle-variant
 zhTips: 回收口音
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# recycle-variant  <small style="font-size: 60%;font-weight: 100">回收口音</small>
+# recycle variant  <small style="font-size: 60%;font-weight: 100">回收口音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

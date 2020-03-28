@@ -1,6 +1,6 @@
 ---
 
-title: sort numeric ascending(按数字升序排序) ICON转svg、png下载
+title:  sort numeric ascending(按数字升序排序) ICON转svg、png下载
 name: sort-numeric-ascending
 zhTips: 按数字升序排序
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# sort-numeric-ascending  <small style="font-size: 60%;font-weight: 100">按数字升序排序</small>
+# sort numeric ascending  <small style="font-size: 60%;font-weight: 100">按数字升序排序</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

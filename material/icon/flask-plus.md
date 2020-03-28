@@ -1,6 +1,6 @@
 ---
 
-title: flask plus(烧瓶加) ICON转svg、png下载
+title:  flask plus(烧瓶加) ICON转svg、png下载
 name: flask-plus
 zhTips: 烧瓶加
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# flask-plus  <small style="font-size: 60%;font-weight: 100">烧瓶加</small>
+# flask plus  <small style="font-size: 60%;font-weight: 100">烧瓶加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

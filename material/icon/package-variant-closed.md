@@ -1,6 +1,6 @@
 ---
 
-title: package variant closed(封闭包装形式) ICON转svg、png下载
+title:  package variant closed(封闭包装形式) ICON转svg、png下载
 name: package-variant-closed
 zhTips: 封闭包装形式,封闭包装盒
 tags: []
@@ -8,11 +8,13 @@ search: box-variant-closed
 
 ---
 
-# package-variant-closed  <small style="font-size: 60%;font-weight: 100">封闭包装形式</small>
+# package variant closed  <small style="font-size: 60%;font-weight: 100">封闭包装形式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

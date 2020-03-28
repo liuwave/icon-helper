@@ -1,6 +1,6 @@
 ---
 
-title: sync off(同步关闭) ICON转svg、png下载
+title:  sync off(同步关闭) ICON转svg、png下载
 name: sync-off
 zhTips: 同步关闭,同步已禁用
 tags: []
@@ -8,11 +8,13 @@ search: sync-disabled
 
 ---
 
-# sync-off  <small style="font-size: 60%;font-weight: 100">同步关闭</small>
+# sync off  <small style="font-size: 60%;font-weight: 100">同步关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

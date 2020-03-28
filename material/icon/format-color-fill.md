@@ -1,6 +1,6 @@
 ---
 
-title: format color fill(颜色填充格式) ICON转svg、png下载
+title:  format color fill(颜色填充格式) ICON转svg、png下载
 name: format-color-fill
 zhTips: 颜色填充格式,油漆,油漆桶
 tags: ["text-content-format","color"]
@@ -8,11 +8,13 @@ search: format-colour-fill,paint,paint-bucket
 
 ---
 
-# format-color-fill  <small style="font-size: 60%;font-weight: 100">颜色填充格式</small>
+# format color fill  <small style="font-size: 60%;font-weight: 100">颜色填充格式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

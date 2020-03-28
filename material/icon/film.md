@@ -1,8 +1,8 @@
 ---
 
-title: film(胶卷) ICON转svg、png下载
+title:  film(胶卷) ICON转svg、png下载
 name: film
-zhTips: 胶卷
+zhTips: 胶卷,电影,带,视频
 tags: ["photography","video-movie"]
 search: camera-roll
 
@@ -13,6 +13,8 @@ search: camera-roll
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">camera-roll</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">胶卷</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/film.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/film.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">camera-roll</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">胶卷</span><span class="badge-primary badge">电影</span><span class="badge-primary badge">带</span><span class="badge-primary badge">视频</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/film.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/film.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示电影、视频等富媒体文件</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-film mdi-48px"></i>
   <i class="mdi mdi-film mdi-36px"></i>

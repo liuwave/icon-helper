@@ -1,6 +1,6 @@
 ---
 
-title: molecule co(分子co) ICON转svg、png下载
+title:  molecule co(分子co) ICON转svg、png下载
 name: molecule-co
 zhTips: 分子co,一氧化碳
 tags: ["home-automation","science"]
@@ -8,11 +8,13 @@ search: carbon-monoxide
 
 ---
 
-# molecule-co  <small style="font-size: 60%;font-weight: 100">分子co</small>
+# molecule co  <small style="font-size: 60%;font-weight: 100">分子co</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

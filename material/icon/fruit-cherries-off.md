@@ -1,6 +1,6 @@
 ---
 
-title: fruit cherries off(水果樱桃关闭) ICON转svg、png下载
+title:  fruit cherries off(水果樱桃关闭) ICON转svg、png下载
 name: fruit-cherries-off
 zhTips: 水果樱桃关闭
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# fruit-cherries-off  <small style="font-size: 60%;font-weight: 100">水果樱桃关闭</small>
+# fruit cherries off  <small style="font-size: 60%;font-weight: 100">水果樱桃关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

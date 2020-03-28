@@ -1,6 +1,6 @@
 ---
 
-title: calendar edit(日历编辑) ICON转svg、png下载
+title:  calendar edit(日历编辑) ICON转svg、png下载
 name: calendar-edit
 zhTips: 日历编辑,事件编辑
 tags: ["date-time","edit-modify"]
@@ -8,11 +8,13 @@ search: event-edit
 
 ---
 
-# calendar-edit  <small style="font-size: 60%;font-weight: 100">日历编辑</small>
+# calendar edit  <small style="font-size: 60%;font-weight: 100">日历编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

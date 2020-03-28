@@ -1,6 +1,6 @@
 ---
 
-title: microsoft visual studio(Microsoft Visual Studio) ICON转svg、png下载
+title:  microsoft visual studio(Microsoft Visual Studio) ICON转svg、png下载
 name: microsoft-visual-studio
 zhTips: Microsoft Visual Studio,VisualStudio
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search: visualstudio
 
 ---
 
-# microsoft-visual-studio  <small style="font-size: 60%;font-weight: 100">Microsoft Visual Studio</small>
+# microsoft visual studio  <small style="font-size: 60%;font-weight: 100">Microsoft Visual Studio</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: cloud alert(云警报) ICON转svg、png下载
+title:  cloud alert(云警报) ICON转svg、png下载
 name: cloud-alert
 zhTips: 云警报,云警告
 tags: ["alert-error","cloud","weather"]
@@ -8,11 +8,13 @@ search: cloud-warning
 
 ---
 
-# cloud-alert  <small style="font-size: 60%;font-weight: 100">云警报</small>
+# cloud alert  <small style="font-size: 60%;font-weight: 100">云警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

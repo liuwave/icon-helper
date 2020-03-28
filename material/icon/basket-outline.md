@@ -1,6 +1,6 @@
 ---
 
-title: basket outline(购物篮轮廓) ICON转svg、png下载
+title:  basket outline(购物篮轮廓) ICON转svg、png下载
 name: basket-outline
 zhTips: 购物篮轮廓
 tags: []
@@ -8,11 +8,13 @@ search: shopping-basket-outline
 
 ---
 
-# basket-outline  <small style="font-size: 60%;font-weight: 100">购物篮轮廓</small>
+# basket outline  <small style="font-size: 60%;font-weight: 100">购物篮轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

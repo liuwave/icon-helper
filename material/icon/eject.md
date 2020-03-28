@@ -1,8 +1,8 @@
 ---
 
-title: eject(弹出) ICON转svg、png下载
+title:  eject(弹出) ICON转svg、png下载
 name: eject
-zhTips: 弹出
+zhTips: 弹出,喷射,中止,取消,cd,放电
 tags: []
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">弹出</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/eject.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/eject.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">弹出</span><span class="badge-primary badge">喷射</span><span class="badge-primary badge">中止</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">cd</span><span class="badge-primary badge">放电</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/eject.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/eject.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">弹出，表示对物体的冲击，放电、喷射。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-eject mdi-48px"></i>
   <i class="mdi mdi-eject mdi-36px"></i>

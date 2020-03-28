@@ -1,6 +1,6 @@
 ---
 
-title: slot machine(老虎机) ICON转svg、png下载
+title:  slot machine(老虎机) ICON转svg、png下载
 name: slot-machine
 zhTips: 老虎机
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# slot-machine  <small style="font-size: 60%;font-weight: 100">老虎机</small>
+# slot machine  <small style="font-size: 60%;font-weight: 100">老虎机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

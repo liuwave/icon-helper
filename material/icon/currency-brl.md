@@ -1,6 +1,6 @@
 ---
 
-title: currency brl(货币BRL) ICON转svg、png下载
+title:  currency brl(货币BRL) ICON转svg、png下载
 name: currency-brl
 zhTips: 货币BRL,巴西雷亚尔
 tags: ["banking","currency"]
@@ -8,11 +8,13 @@ search: brazilian-real
 
 ---
 
-# currency-brl  <small style="font-size: 60%;font-weight: 100">货币BRL</small>
+# currency brl  <small style="font-size: 60%;font-weight: 100">货币BRL</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

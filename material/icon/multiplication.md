@@ -1,6 +1,6 @@
 ---
 
-title: multiplication(乘法) ICON转svg、png下载
+title:  multiplication(乘法) ICON转svg、png下载
 name: multiplication
 zhTips: 乘法
 tags: ["math"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

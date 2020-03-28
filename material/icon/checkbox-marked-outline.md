@@ -1,6 +1,6 @@
 ---
 
-title: checkbox marked outline(复选框已标记轮廓) ICON转svg、png下载
+title:  checkbox marked outline(复选框已标记轮廓) ICON转svg、png下载
 name: checkbox-marked-outline
 zhTips: 复选框已标记轮廓
 tags: ["form"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# checkbox-marked-outline  <small style="font-size: 60%;font-weight: 100">复选框已标记轮廓</small>
+# checkbox marked outline  <small style="font-size: 60%;font-weight: 100">复选框已标记轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

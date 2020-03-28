@@ -1,6 +1,6 @@
 ---
 
-title: format list numbered rtl(格式编号列表rtl) ICON转svg、png下载
+title:  format list numbered rtl(格式编号列表rtl) ICON转svg、png下载
 name: format-list-numbered-rtl
 zhTips: 格式编号列表rtl,格式编号列表从右到左
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: format-list-numbered-right-to-left
 
 ---
 
-# format-list-numbered-rtl  <small style="font-size: 60%;font-weight: 100">格式编号列表rtl</small>
+# format list numbered rtl  <small style="font-size: 60%;font-weight: 100">格式编号列表rtl</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

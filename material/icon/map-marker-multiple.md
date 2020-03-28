@@ -1,6 +1,6 @@
 ---
 
-title: map marker multiple(地图多个标记) ICON转svg、png下载
+title:  map marker multiple(地图多个标记) ICON转svg、png下载
 name: map-marker-multiple
 zhTips: 地图多个标记,地图标记
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search: map-markers
 
 ---
 
-# map-marker-multiple  <small style="font-size: 60%;font-weight: 100">地图多个标记</small>
+# map marker multiple  <small style="font-size: 60%;font-weight: 100">地图多个标记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

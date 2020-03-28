@@ -1,6 +1,6 @@
 ---
 
-title: dns outline(DNS概述) ICON转svg、png下载
+title:  dns outline(DNS概述) ICON转svg、png下载
 name: dns-outline
 zhTips: DNS概述
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# dns-outline  <small style="font-size: 60%;font-weight: 100">DNS概述</small>
+# dns outline  <small style="font-size: 60%;font-weight: 100">DNS概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

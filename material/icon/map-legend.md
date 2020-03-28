@@ -1,6 +1,6 @@
 ---
 
-title: map legend(图例地图) ICON转svg、png下载
+title:  map legend(图例地图) ICON转svg、png下载
 name: map-legend
 zhTips: 图例地图
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# map-legend  <small style="font-size: 60%;font-weight: 100">图例地图</small>
+# map legend  <small style="font-size: 60%;font-weight: 100">图例地图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

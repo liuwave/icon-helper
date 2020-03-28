@@ -1,6 +1,6 @@
 ---
 
-title: account off outline(帐户不符合轮廓) ICON转svg、png下载
+title:  account off outline(帐户不符合轮廓) ICON转svg、png下载
 name: account-off-outline
 zhTips: 帐户不符合轮廓,用户不符合轮廓,人员不符合轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-off-outline,person-off-outline
 
 ---
 
-# account-off-outline  <small style="font-size: 60%;font-weight: 100">帐户不符合轮廓</small>
+# account off outline  <small style="font-size: 60%;font-weight: 100">帐户不符合轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

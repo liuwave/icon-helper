@@ -1,6 +1,6 @@
 ---
 
-title: variable box(可变盒) ICON转svg、png下载
+title:  variable box(可变盒) ICON转svg、png下载
 name: variable-box
 zhTips: 可变盒
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# variable-box  <small style="font-size: 60%;font-weight: 100">可变盒</small>
+# variable box  <small style="font-size: 60%;font-weight: 100">可变盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

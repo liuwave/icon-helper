@@ -1,6 +1,6 @@
 ---
 
-title: backspace reverse outline(退格反向轮廓) ICON转svg、png下载
+title:  backspace reverse outline(退格反向轮廓) ICON转svg、png下载
 name: backspace-reverse-outline
 zhTips: 退格反向轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# backspace-reverse-outline  <small style="font-size: 60%;font-weight: 100">退格反向轮廓</small>
+# backspace reverse outline  <small style="font-size: 60%;font-weight: 100">退格反向轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

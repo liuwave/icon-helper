@@ -1,6 +1,6 @@
 ---
 
-title: syllabary katakana(音节片假名) ICON转svg、png下载
+title:  syllabary katakana(音节片假名) ICON转svg、png下载
 name: syllabary-katakana
 zhTips: 音节片假名,书写系统片假名
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-katakana
 
 ---
 
-# syllabary-katakana  <small style="font-size: 60%;font-weight: 100">音节片假名</small>
+# syllabary katakana  <small style="font-size: 60%;font-weight: 100">音节片假名</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

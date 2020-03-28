@@ -1,6 +1,6 @@
 ---
 
-title: map marker right outline(地图标记右侧轮廓) ICON转svg、png下载
+title:  map marker right outline(地图标记右侧轮廓) ICON转svg、png下载
 name: map-marker-right-outline
 zhTips: 地图标记右侧轮廓
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# map-marker-right-outline  <small style="font-size: 60%;font-weight: 100">地图标记右侧轮廓</small>
+# map marker right outline  <small style="font-size: 60%;font-weight: 100">地图标记右侧轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: bitcoin(比特币) ICON转svg、png下载
+title:  bitcoin(比特币) ICON转svg、png下载
 name: bitcoin
 zhTips: 比特币
 tags: ["brand-logo","banking","currency"]
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -39,7 +41,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">比特币</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bitcoin.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bitcoin.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">比特币是一种P2P形式的数字货币，去中心化的支付系统</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-bitcoin mdi-48px"></i>
   <i class="mdi mdi-bitcoin mdi-36px"></i>

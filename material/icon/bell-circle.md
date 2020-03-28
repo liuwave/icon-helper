@@ -1,6 +1,6 @@
 ---
 
-title: bell circle(铃铛圈) ICON转svg、png下载
+title:  bell circle(铃铛圈) ICON转svg、png下载
 name: bell-circle
 zhTips: 铃铛圈
 tags: ["notification"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bell-circle  <small style="font-size: 60%;font-weight: 100">铃铛圈</small>
+# bell circle  <small style="font-size: 60%;font-weight: 100">铃铛圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

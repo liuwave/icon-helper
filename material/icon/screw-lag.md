@@ -1,6 +1,6 @@
 ---
 
-title: screw lag(弱螺丝) ICON转svg、png下载
+title:  screw lag(弱螺丝) ICON转svg、png下载
 name: screw-lag
 zhTips: 弱螺丝
 tags: ["hardware-tools"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# screw-lag  <small style="font-size: 60%;font-weight: 100">弱螺丝</small>
+# screw lag  <small style="font-size: 60%;font-weight: 100">弱螺丝</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

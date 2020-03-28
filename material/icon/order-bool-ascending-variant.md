@@ -1,6 +1,6 @@
 ---
 
-title: order bool ascending variant(订单布尔升序变体) ICON转svg、png下载
+title:  order bool ascending variant(订单布尔升序变体) ICON转svg、png下载
 name: order-bool-ascending-variant
 zhTips: 订单布尔升序变体,订单复选框升序
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: order-checkbox-ascending
 
 ---
 
-# order-bool-ascending-variant  <small style="font-size: 60%;font-weight: 100">订单布尔升序变体</small>
+# order bool ascending variant  <small style="font-size: 60%;font-weight: 100">订单布尔升序变体</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: toggle switch off outline(切换关闭轮廓) ICON转svg、png下载
+title:  toggle switch off outline(切换关闭轮廓) ICON转svg、png下载
 name: toggle-switch-off-outline
 zhTips: 切换关闭轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# toggle-switch-off-outline  <small style="font-size: 60%;font-weight: 100">切换关闭轮廓</small>
+# toggle switch off outline  <small style="font-size: 60%;font-weight: 100">切换关闭轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

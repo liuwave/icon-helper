@@ -1,6 +1,6 @@
 ---
 
-title: table remove(表删除) ICON转svg、png下载
+title:  table remove(表删除) ICON转svg、png下载
 name: table-remove
 zhTips: 表删除
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# table-remove  <small style="font-size: 60%;font-weight: 100">表删除</small>
+# table remove  <small style="font-size: 60%;font-weight: 100">表删除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

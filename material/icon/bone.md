@@ -1,8 +1,8 @@
 ---
 
-title: bone(骨头) ICON转svg、png下载
+title:  bone(骨头) ICON转svg、png下载
 name: bone
-zhTips: 骨头
+zhTips: 骨头,骨科关节,骨,钙,狗,骨骼,胫骨
 tags: ["animal"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">骨头</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bone.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bone.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">骨头</span><span class="badge-primary badge">骨科关节</span><span class="badge-primary badge">骨</span><span class="badge-primary badge">钙</span><span class="badge-primary badge">狗</span><span class="badge-primary badge">骨骼</span><span class="badge-primary badge">胫骨</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bone.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bone.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">骨科关节，常用于表示医院骨科。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-bone mdi-48px"></i>
   <i class="mdi mdi-bone mdi-36px"></i>

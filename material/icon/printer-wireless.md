@@ -1,6 +1,6 @@
 ---
 
-title: printer wireless(无线打印机) ICON转svg、png下载
+title:  printer wireless(无线打印机) ICON转svg、png下载
 name: printer-wireless
 zhTips: 无线打印机
 tags: ["printer"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# printer-wireless  <small style="font-size: 60%;font-weight: 100">无线打印机</small>
+# printer wireless  <small style="font-size: 60%;font-weight: 100">无线打印机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

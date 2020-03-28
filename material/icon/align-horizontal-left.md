@@ -1,6 +1,6 @@
 ---
 
-title: align horizontal left(左对齐) ICON转svg、png下载
+title:  align horizontal left(左对齐) ICON转svg、png下载
 name: align-horizontal-left
 zhTips: 左对齐
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# align-horizontal-left  <small style="font-size: 60%;font-weight: 100">左对齐</small>
+# align horizontal left  <small style="font-size: 60%;font-weight: 100">左对齐</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

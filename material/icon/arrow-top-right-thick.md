@@ -1,6 +1,6 @@
 ---
 
-title: arrow top right thick(右上粗箭头) ICON转svg、png下载
+title:  arrow top right thick(右上粗箭头) ICON转svg、png下载
 name: arrow-top-right-thick
 zhTips: 右上粗箭头
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-up-right-thick
 
 ---
 
-# arrow-top-right-thick  <small style="font-size: 60%;font-weight: 100">右上粗箭头</small>
+# arrow top right thick  <small style="font-size: 60%;font-weight: 100">右上粗箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

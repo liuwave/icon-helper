@@ -1,6 +1,6 @@
 ---
 
-title: stove(火炉) ICON转svg、png下载
+title:  stove(火炉) ICON转svg、png下载
 name: stove
 zhTips: 火炉,炊具,烤箱
 tags: ["food-drink","home-automation"]
@@ -13,6 +13,8 @@ search: cooker,oven
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

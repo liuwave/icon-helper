@@ -1,6 +1,6 @@
 ---
 
-title: format rotate 90(格式旋转90) ICON转svg、png下载
+title:  format rotate 90(格式旋转90) ICON转svg、png下载
 name: format-rotate-90
 zhTips: 格式旋转90,逆时针旋转90度
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: rotate-90-degrees-ccw,format-rotate-ninety
 
 ---
 
-# format-rotate-90  <small style="font-size: 60%;font-weight: 100">格式旋转90</small>
+# format rotate 90  <small style="font-size: 60%;font-weight: 100">格式旋转90</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

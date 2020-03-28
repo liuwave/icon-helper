@@ -1,8 +1,8 @@
 ---
 
-title: reddit(reddit) ICON转svg、png下载
+title:  reddit(reddit) ICON转svg、png下载
 name: reddit
-zhTips: reddit
+zhTips: reddit,reddit徽标
 tags: ["social-media","brand-logo"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">reddit</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/reddit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/reddit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">reddit</span><span class="badge-primary badge">reddit徽标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/reddit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/reddit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Reddit是个社交新闻站点，由成千上万个社区、没完没了的交谈和真实人类的互动组成。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-reddit mdi-48px"></i>
   <i class="mdi mdi-reddit mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: unfold more vertical(展开更多垂直) ICON转svg、png下载
+title:  unfold more vertical(展开更多垂直) ICON转svg、png下载
 name: unfold-more-vertical
 zhTips: 展开更多垂直,V形向左展开,垂直展开
 tags: []
@@ -8,11 +8,13 @@ search: chevron-left-right,expand-vertical
 
 ---
 
-# unfold-more-vertical  <small style="font-size: 60%;font-weight: 100">展开更多垂直</small>
+# unfold more vertical  <small style="font-size: 60%;font-weight: 100">展开更多垂直</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

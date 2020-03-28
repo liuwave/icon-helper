@@ -1,6 +1,6 @@
 ---
 
-title: playlist edit(播放列表编辑) ICON转svg、png下载
+title:  playlist edit(播放列表编辑) ICON转svg、png下载
 name: playlist-edit
 zhTips: 播放列表编辑
 tags: ["edit-modify"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# playlist-edit  <small style="font-size: 60%;font-weight: 100">播放列表编辑</small>
+# playlist edit  <small style="font-size: 60%;font-weight: 100">播放列表编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

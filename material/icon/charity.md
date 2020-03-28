@@ -1,6 +1,6 @@
 ---
 
-title: charity(慈善) ICON转svg、png下载
+title:  charity(慈善) ICON转svg、png下载
 name: charity
 zhTips: 慈善,永久性的超级聊天
 tags: []
@@ -13,6 +13,8 @@ search: super-chat-for-good
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

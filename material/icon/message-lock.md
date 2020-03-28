@@ -1,6 +1,6 @@
 ---
 
-title: message lock(消息锁定) ICON转svg、png下载
+title:  message lock(消息锁定) ICON转svg、png下载
 name: message-lock
 zhTips: 消息锁定,消息安全
 tags: ["lock"]
@@ -8,11 +8,13 @@ search: message-secure
 
 ---
 
-# message-lock  <small style="font-size: 60%;font-weight: 100">消息锁定</small>
+# message lock  <small style="font-size: 60%;font-weight: 100">消息锁定</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: chess knight(国际象棋骑士) ICON转svg、png下载
+title:  chess knight(国际象棋骑士) ICON转svg、png下载
 name: chess-knight
 zhTips: 国际象棋骑士,国际象棋马
 tags: ["gaming-rpg"]
@@ -8,11 +8,13 @@ search: chess-horse
 
 ---
 
-# chess-knight  <small style="font-size: 60%;font-weight: 100">国际象棋骑士</small>
+# chess knight  <small style="font-size: 60%;font-weight: 100">国际象棋骑士</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: usb flash drive outline(USB闪存驱动器概述) ICON转svg、png下载
+title:  usb flash drive outline(USB闪存驱动器概述) ICON转svg、png下载
 name: usb-flash-drive-outline
 zhTips: USB闪存驱动器概述
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# usb-flash-drive-outline  <small style="font-size: 60%;font-weight: 100">USB闪存驱动器概述</small>
+# usb flash drive outline  <small style="font-size: 60%;font-weight: 100">USB闪存驱动器概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

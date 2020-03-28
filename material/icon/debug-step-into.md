@@ -1,6 +1,6 @@
 ---
 
-title: debug step into(调试进入) ICON转svg、png下载
+title:  debug step into(调试进入) ICON转svg、png下载
 name: debug-step-into
 zhTips: 调试进入
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# debug-step-into  <small style="font-size: 60%;font-weight: 100">调试进入</small>
+# debug step into  <small style="font-size: 60%;font-weight: 100">调试进入</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

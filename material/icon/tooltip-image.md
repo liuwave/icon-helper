@@ -1,6 +1,6 @@
 ---
 
-title: tooltip image(图片工具提示) ICON转svg、png下载
+title:  tooltip image(图片工具提示) ICON转svg、png下载
 name: tooltip-image
 zhTips: 图片工具提示
 tags: ["tooltip"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tooltip-image  <small style="font-size: 60%;font-weight: 100">图片工具提示</small>
+# tooltip image  <small style="font-size: 60%;font-weight: 100">图片工具提示</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

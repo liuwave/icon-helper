@@ -1,6 +1,6 @@
 ---
 
-title: smoke detector(烟雾探测器) ICON转svg、png下载
+title:  smoke detector(烟雾探测器) ICON转svg、png下载
 name: smoke-detector
 zhTips: 烟雾探测器,防鸟巢,低音炮
 tags: ["device-tech","home-automation"]
@@ -8,11 +8,13 @@ search: nest-protect,subwoofer
 
 ---
 
-# smoke-detector  <small style="font-size: 60%;font-weight: 100">烟雾探测器</small>
+# smoke detector  <small style="font-size: 60%;font-weight: 100">烟雾探测器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

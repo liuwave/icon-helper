@@ -1,6 +1,6 @@
 ---
 
-title: camera timer(相机定时器) ICON转svg、png下载
+title:  camera timer(相机定时器) ICON转svg、png下载
 name: camera-timer
 zhTips: 相机定时器
 tags: ["date-time","photography"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-timer  <small style="font-size: 60%;font-weight: 100">相机定时器</small>
+# camera timer  <small style="font-size: 60%;font-weight: 100">相机定时器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

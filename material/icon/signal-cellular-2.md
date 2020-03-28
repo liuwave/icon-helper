@@ -1,6 +1,6 @@
 ---
 
-title: signal cellular 2(蜂窝信号2) ICON转svg、png下载
+title:  signal cellular 2(蜂窝信号2) ICON转svg、png下载
 name: signal-cellular-2
 zhTips: 蜂窝信号2
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# signal-cellular-2  <small style="font-size: 60%;font-weight: 100">蜂窝信号2</small>
+# signal cellular 2  <small style="font-size: 60%;font-weight: 100">蜂窝信号2</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

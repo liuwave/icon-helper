@@ -1,6 +1,6 @@
 ---
 
-title: gas station(加油站) ICON转svg、png下载
+title:  gas station(加油站) ICON转svg、png下载
 name: gas-station
 zhTips: 加油站,当地加油站
 tags: ["places","automotive"]
@@ -8,11 +8,13 @@ search: gas-pump,petrol-pump,petrol-station,local-gas-station,fuel-station,fuel-
 
 ---
 
-# gas-station  <small style="font-size: 60%;font-weight: 100">加油站</small>
+# gas station  <small style="font-size: 60%;font-weight: 100">加油站</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

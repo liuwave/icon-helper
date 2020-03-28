@@ -1,6 +1,6 @@
 ---
 
-title: folder marker(文件夹标记) ICON转svg、png下载
+title:  folder marker(文件夹标记) ICON转svg、png下载
 name: folder-marker
 zhTips: 文件夹标记
 tags: ["geographic-information-system","files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# folder-marker  <small style="font-size: 60%;font-weight: 100">文件夹标记</small>
+# folder marker  <small style="font-size: 60%;font-weight: 100">文件夹标记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

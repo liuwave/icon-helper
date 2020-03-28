@@ -1,6 +1,6 @@
 ---
 
-title: numeric 10(数字10) ICON转svg、png下载
+title:  numeric 10(数字10) ICON转svg、png下载
 name: numeric-10
 zhTips: 数字10
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# numeric-10  <small style="font-size: 60%;font-weight: 100">数字10</small>
+# numeric 10  <small style="font-size: 60%;font-weight: 100">数字10</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

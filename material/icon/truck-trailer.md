@@ -1,6 +1,6 @@
 ---
 
-title: truck trailer(卡车拖车) ICON转svg、png下载
+title:  truck trailer(卡车拖车) ICON转svg、png下载
 name: truck-trailer
 zhTips: 卡车拖车
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# truck-trailer  <small style="font-size: 60%;font-weight: 100">卡车拖车</small>
+# truck trailer  <small style="font-size: 60%;font-weight: 100">卡车拖车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

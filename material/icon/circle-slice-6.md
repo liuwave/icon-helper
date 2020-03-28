@@ -1,6 +1,6 @@
 ---
 
-title: circle slice 6(圆形切片6) ICON转svg、png下载
+title:  circle slice 6(圆形切片6) ICON转svg、png下载
 name: circle-slice-6
 zhTips: 圆形切片6
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# circle-slice-6  <small style="font-size: 60%;font-weight: 100">圆形切片6</small>
+# circle slice 6  <small style="font-size: 60%;font-weight: 100">圆形切片6</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: home floor l(家用地板l) ICON转svg、png下载
+title:  home floor l(家用地板l) ICON转svg、png下载
 name: home-floor-l
 zhTips: 家用地板l,家用地板阁楼,房屋地板l,房屋地板阁楼,房屋地板下部
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: home-floor-loft,home-floor-lower,house-floor-l,house-floor-loft,house-fl
 
 ---
 
-# home-floor-l  <small style="font-size: 60%;font-weight: 100">家用地板l</small>
+# home floor l  <small style="font-size: 60%;font-weight: 100">家用地板l</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

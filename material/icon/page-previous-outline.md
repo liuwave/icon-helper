@@ -1,6 +1,6 @@
 ---
 
-title: page previous outline(页上一个轮廓) ICON转svg、png下载
+title:  page previous outline(页上一个轮廓) ICON转svg、png下载
 name: page-previous-outline
 zhTips: 页上一个轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# page-previous-outline  <small style="font-size: 60%;font-weight: 100">页上一个轮廓</small>
+# page previous outline  <small style="font-size: 60%;font-weight: 100">页上一个轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

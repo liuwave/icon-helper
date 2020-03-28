@@ -1,6 +1,6 @@
 ---
 
-title: monitor edit(显示器编辑) ICON转svg、png下载
+title:  monitor edit(显示器编辑) ICON转svg、png下载
 name: monitor-edit
 zhTips: 显示器编辑
 tags: ["edit-modify"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# monitor-edit  <small style="font-size: 60%;font-weight: 100">显示器编辑</small>
+# monitor edit  <small style="font-size: 60%;font-weight: 100">显示器编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: string lights(串灯) ICON转svg、png下载
+title:  string lights(串灯) ICON转svg、png下载
 name: string-lights
 zhTips: 串灯,意大利灯,圣诞灯,仙女灯
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: italian-lights,christmas-lights,fairy-lights
 
 ---
 
-# string-lights  <small style="font-size: 60%;font-weight: 100">串灯</small>
+# string lights  <small style="font-size: 60%;font-weight: 100">串灯</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

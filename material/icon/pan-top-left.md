@@ -1,6 +1,6 @@
 ---
 
-title: pan top left(向左平移锅) ICON转svg、png下载
+title:  pan top left(向左平移锅) ICON转svg、png下载
 name: pan-top-left
 zhTips: 向左平移锅
 tags: []
@@ -8,11 +8,13 @@ search: pan-up-left
 
 ---
 
-# pan-top-left  <small style="font-size: 60%;font-weight: 100">向左平移锅</small>
+# pan top left  <small style="font-size: 60%;font-weight: 100">向左平移锅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

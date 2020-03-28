@@ -1,6 +1,6 @@
 ---
 
-title: alpha a box(alpha一个框) ICON转svg、png下载
+title:  alpha a box(alpha一个框) ICON转svg、png下载
 name: alpha-a-box
 zhTips: alpha一个框,字母一个框
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-a-box,letter-a-box
 
 ---
 
-# alpha-a-box  <small style="font-size: 60%;font-weight: 100">alpha一个框</small>
+# alpha a box  <small style="font-size: 60%;font-weight: 100">alpha一个框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

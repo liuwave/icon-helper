@@ -1,6 +1,6 @@
 ---
 
-title: tractor(农用拖拉机) ICON转svg、png下载
+title:  tractor(农用拖拉机) ICON转svg、png下载
 name: tractor
 zhTips: 农用拖拉机
 tags: ["agriculture","transportation-road"]
@@ -13,6 +13,8 @@ search: farm
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

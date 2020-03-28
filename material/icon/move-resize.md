@@ -1,6 +1,6 @@
 ---
 
-title: move resize(调整大小) ICON转svg、png下载
+title:  move resize(调整大小) ICON转svg、png下载
 name: move-resize
 zhTips: 调整大小
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# move-resize  <small style="font-size: 60%;font-weight: 100">调整大小</small>
+# move resize  <small style="font-size: 60%;font-weight: 100">调整大小</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

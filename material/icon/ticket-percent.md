@@ -1,6 +1,6 @@
 ---
 
-title: ticket percent(机票百分比) ICON转svg、png下载
+title:  ticket percent(机票百分比) ICON转svg、png下载
 name: ticket-percent
 zhTips: 机票百分比,优惠券,代金券
 tags: []
@@ -8,11 +8,13 @@ search: coupon,voucher
 
 ---
 
-# ticket-percent  <small style="font-size: 60%;font-weight: 100">机票百分比</small>
+# ticket percent  <small style="font-size: 60%;font-weight: 100">机票百分比</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

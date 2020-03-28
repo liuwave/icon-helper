@@ -1,6 +1,6 @@
 ---
 
-title: box cutter(箱刀) ICON转svg、png下载
+title:  box cutter(箱刀) ICON转svg、png下载
 name: box-cutter
 zhTips: 箱刀,史丹利刀
 tags: []
@@ -8,11 +8,13 @@ search: stanley-knife
 
 ---
 
-# box-cutter  <small style="font-size: 60%;font-weight: 100">箱刀</small>
+# box cutter  <small style="font-size: 60%;font-weight: 100">箱刀</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

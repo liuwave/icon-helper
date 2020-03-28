@@ -1,6 +1,6 @@
 ---
 
-title: usb flash drive(USB闪存盘) ICON转svg、png下载
+title:  usb flash drive(USB闪存盘) ICON转svg、png下载
 name: usb-flash-drive
 zhTips: USB闪存盘
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# usb-flash-drive  <small style="font-size: 60%;font-weight: 100">USB闪存盘</small>
+# usb flash drive  <small style="font-size: 60%;font-weight: 100">USB闪存盘</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

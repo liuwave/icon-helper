@@ -1,6 +1,6 @@
 ---
 
-title: wrap disabled(禁止包装) ICON转svg、png下载
+title:  wrap disabled(禁止包装) ICON转svg、png下载
 name: wrap-disabled
 zhTips: 禁止包装,展开
 tags: []
@@ -8,11 +8,13 @@ search: unwrap
 
 ---
 
-# wrap-disabled  <small style="font-size: 60%;font-weight: 100">禁止包装</small>
+# wrap disabled  <small style="font-size: 60%;font-weight: 100">禁止包装</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

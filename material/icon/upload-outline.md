@@ -1,6 +1,6 @@
 ---
 
-title: upload outline(上传轮廓) ICON转svg、png下载
+title:  upload outline(上传轮廓) ICON转svg、png下载
 name: upload-outline
 zhTips: 上传轮廓,文件上传轮廓
 tags: []
@@ -8,11 +8,13 @@ search: file-upload-outline
 
 ---
 
-# upload-outline  <small style="font-size: 60%;font-weight: 100">上传轮廓</small>
+# upload outline  <small style="font-size: 60%;font-weight: 100">上传轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: account child(帐户孩子) ICON转svg、png下载
+title:  account child(帐户孩子) ICON转svg、png下载
 name: account-child
 zhTips: 帐户孩子,用户孩子,个人孩子,监护人
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: user-child,person-child,guardian
 
 ---
 
-# account-child  <small style="font-size: 60%;font-weight: 100">帐户孩子</small>
+# account child  <small style="font-size: 60%;font-weight: 100">帐户孩子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

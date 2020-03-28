@@ -1,6 +1,6 @@
 ---
 
-title: scale balance(天平) ICON转svg、png下载
+title:  scale balance(天平) ICON转svg、png下载
 name: scale-balance
 zhTips: 天平
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# scale-balance  <small style="font-size: 60%;font-weight: 100">天平</small>
+# scale balance  <small style="font-size: 60%;font-weight: 100">天平</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

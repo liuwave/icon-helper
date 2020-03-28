@@ -1,6 +1,6 @@
 ---
 
-title: closed caption(隐藏字幕) ICON转svg、png下载
+title:  closed caption(隐藏字幕) ICON转svg、png下载
 name: closed-caption
 zhTips: 隐藏字幕,cc
 tags: []
@@ -8,11 +8,13 @@ search: cc
 
 ---
 
-# closed-caption  <small style="font-size: 60%;font-weight: 100">隐藏字幕</small>
+# closed caption  <small style="font-size: 60%;font-weight: 100">隐藏字幕</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

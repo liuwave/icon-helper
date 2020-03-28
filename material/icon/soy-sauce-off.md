@@ -1,6 +1,6 @@
 ---
 
-title: soy sauce off(酱油掉) ICON转svg、png下载
+title:  soy sauce off(酱油掉) ICON转svg、png下载
 name: soy-sauce-off
 zhTips: 酱油掉
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# soy-sauce-off  <small style="font-size: 60%;font-weight: 100">酱油掉</small>
+# soy sauce off  <small style="font-size: 60%;font-weight: 100">酱油掉</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

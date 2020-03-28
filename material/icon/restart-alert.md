@@ -1,6 +1,6 @@
 ---
 
-title: restart alert(重新启动警报) ICON转svg、png下载
+title:  restart alert(重新启动警报) ICON转svg、png下载
 name: restart-alert
 zhTips: 重新启动警报
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# restart-alert  <small style="font-size: 60%;font-weight: 100">重新启动警报</small>
+# restart alert  <small style="font-size: 60%;font-weight: 100">重新启动警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

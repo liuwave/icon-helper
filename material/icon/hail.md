@@ -1,6 +1,6 @@
 ---
 
-title: hail(冰雹) ICON转svg、png下载
+title:  hail(冰雹) ICON转svg、png下载
 name: hail
 zhTips: 冰雹,冰雹出租车
 tags: ["transportation-road","navigation"]
@@ -13,6 +13,8 @@ search: hail-taxi,hail-cab
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: video minus(视频减) ICON转svg、png下载
+title:  video minus(视频减) ICON转svg、png下载
 name: video-minus
 zhTips: 视频减,视频删除
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search: video-remove
 
 ---
 
-# video-minus  <small style="font-size: 60%;font-weight: 100">视频减</small>
+# video minus  <small style="font-size: 60%;font-weight: 100">视频减</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

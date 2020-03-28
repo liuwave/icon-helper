@@ -1,6 +1,6 @@
 ---
 
-title: phone classic off(手机经典关闭) ICON转svg、png下载
+title:  phone classic off(手机经典关闭) ICON转svg、png下载
 name: phone-classic-off
 zhTips: 手机经典关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# phone-classic-off  <small style="font-size: 60%;font-weight: 100">手机经典关闭</small>
+# phone classic off  <small style="font-size: 60%;font-weight: 100">手机经典关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

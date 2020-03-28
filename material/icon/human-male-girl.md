@@ -1,6 +1,6 @@
 ---
 
-title: human male girl(人类男性女孩) ICON转svg、png下载
+title:  human male girl(人类男性女孩) ICON转svg、png下载
 name: human-male-girl
 zhTips: 人类男性女孩,父亲,男孩
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search: father,dad,man-child
 
 ---
 
-# human-male-girl  <small style="font-size: 60%;font-weight: 100">人类男性女孩</small>
+# human male girl  <small style="font-size: 60%;font-weight: 100">人类男性女孩</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

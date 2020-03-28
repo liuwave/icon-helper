@@ -1,6 +1,6 @@
 ---
 
-title: account multiple plus outline(多个帐户加轮廓) ICON转svg、png下载
+title:  account multiple plus outline(多个帐户加轮廓) ICON转svg、png下载
 name: account-multiple-plus-outline
 zhTips: 多个帐户加轮廓,组添加轮廓,多个用户轮廓,用户加轮廓,人员加轮廓,多个添加轮廓,人员添加轮廓,多个帐户添加轮廓,帐户添加轮廓,用户多个添加轮廓,用户添加轮廓,邀请
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: group-add-outline,user-multiple-plus-outline,accounts-plus-outline,users
 
 ---
 
-# account-multiple-plus-outline  <small style="font-size: 60%;font-weight: 100">多个帐户加轮廓</small>
+# account multiple plus outline  <small style="font-size: 60%;font-weight: 100">多个帐户加轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

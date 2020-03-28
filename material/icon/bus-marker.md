@@ -1,6 +1,6 @@
 ---
 
-title: bus marker(公交车标记) ICON转svg、png下载
+title:  bus marker(公交车标记) ICON转svg、png下载
 name: bus-marker
 zhTips: 公交车标记
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bus-marker  <small style="font-size: 60%;font-weight: 100">公交车标记</small>
+# bus marker  <small style="font-size: 60%;font-weight: 100">公交车标记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

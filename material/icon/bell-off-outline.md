@@ -1,6 +1,6 @@
 ---
 
-title: bell off outline(轮廓太远) ICON转svg、png下载
+title:  bell off outline(轮廓太远) ICON转svg、png下载
 name: bell-off-outline
 zhTips: 轮廓太远
 tags: ["notification"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bell-off-outline  <small style="font-size: 60%;font-weight: 100">轮廓太远</small>
+# bell off outline  <small style="font-size: 60%;font-weight: 100">轮廓太远</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

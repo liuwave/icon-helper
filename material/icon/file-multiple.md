@@ -1,6 +1,6 @@
 ---
 
-title: file multiple(文件多个) ICON转svg、png下载
+title:  file multiple(文件多个) ICON转svg、png下载
 name: file-multiple
 zhTips: 文件多个,文件
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: files
 
 ---
 
-# file-multiple  <small style="font-size: 60%;font-weight: 100">文件多个</small>
+# file multiple  <small style="font-size: 60%;font-weight: 100">文件多个</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

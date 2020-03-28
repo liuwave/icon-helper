@@ -1,6 +1,6 @@
 ---
 
-title: regex(正则表达式) ICON转svg、png下载
+title:  regex(正则表达式) ICON转svg、png下载
 name: regex
 zhTips: 正则表达式
 tags: []
@@ -13,6 +13,8 @@ search: regular-expression
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

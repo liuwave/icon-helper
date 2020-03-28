@@ -1,6 +1,6 @@
 ---
 
-title: star three points(星三点) ICON转svg、png下载
+title:  star three points(星三点) ICON转svg、png下载
 name: star-three-points
 zhTips: 星三点
 tags: ["shape"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# star-three-points  <small style="font-size: 60%;font-weight: 100">星三点</small>
+# star three points  <small style="font-size: 60%;font-weight: 100">星三点</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

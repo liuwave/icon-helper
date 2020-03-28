@@ -1,6 +1,6 @@
 ---
 
-title: file pdf box outline(文件pdf框概述) ICON转svg、png下载
+title:  file pdf box outline(文件pdf框概述) ICON转svg、png下载
 name: file-pdf-box-outline
 zhTips: 文件pdf框概述,文件acrobat框概述
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-acrobat-box-outline
 
 ---
 
-# file-pdf-box-outline  <small style="font-size: 60%;font-weight: 100">文件pdf框概述</small>
+# file pdf box outline  <small style="font-size: 60%;font-weight: 100">文件pdf框概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

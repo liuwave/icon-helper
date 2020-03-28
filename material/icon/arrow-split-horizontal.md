@@ -1,6 +1,6 @@
 ---
 
-title: arrow split horizontal(箭头水平分割) ICON转svg、png下载
+title:  arrow split horizontal(箭头水平分割) ICON转svg、png下载
 name: arrow-split-horizontal
 zhTips: 箭头水平分割,垂直调整大小,调整大小
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: resize-vertical,resize
 
 ---
 
-# arrow-split-horizontal  <small style="font-size: 60%;font-weight: 100">箭头水平分割</small>
+# arrow split horizontal  <small style="font-size: 60%;font-weight: 100">箭头水平分割</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

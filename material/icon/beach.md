@@ -1,6 +1,6 @@
 ---
 
-title: beach(海滩) ICON转svg、png下载
+title:  beach(海滩) ICON转svg、png下载
 name: beach
 zhTips: 海滩,阳伞
 tags: ["places"]
@@ -13,6 +13,8 @@ search: parasol
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

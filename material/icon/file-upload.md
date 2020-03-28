@@ -1,6 +1,6 @@
 ---
 
-title: file upload(文件上传) ICON转svg、png下载
+title:  file upload(文件上传) ICON转svg、png下载
 name: file-upload
 zhTips: 文件上传
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# file-upload  <small style="font-size: 60%;font-weight: 100">文件上传</small>
+# file upload  <small style="font-size: 60%;font-weight: 100">文件上传</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: printer(打印机) ICON转svg、png下载
+title:  printer(打印机) ICON转svg、png下载
 name: printer
 zhTips: 打印机,本地打印店
 tags: ["printer","home-automation"]
@@ -13,6 +13,8 @@ search: local-printshop,local-print-shop
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: certificate outline(证书轮廓) ICON转svg、png下载
+title:  certificate outline(证书轮廓) ICON转svg、png下载
 name: certificate-outline
 zhTips: 证书轮廓,文凭轮廓,印章轮廓
 tags: []
@@ -8,11 +8,13 @@ search: diploma-outline,seal-outline
 
 ---
 
-# certificate-outline  <small style="font-size: 60%;font-weight: 100">证书轮廓</small>
+# certificate outline  <small style="font-size: 60%;font-weight: 100">证书轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

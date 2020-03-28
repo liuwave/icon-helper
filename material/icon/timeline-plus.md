@@ -1,6 +1,6 @@
 ---
 
-title: timeline plus(时间轴加上) ICON转svg、png下载
+title:  timeline plus(时间轴加上) ICON转svg、png下载
 name: timeline-plus
 zhTips: 时间轴加上
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# timeline-plus  <small style="font-size: 60%;font-weight: 100">时间轴加上</small>
+# timeline plus  <small style="font-size: 60%;font-weight: 100">时间轴加上</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

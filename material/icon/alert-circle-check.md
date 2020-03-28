@@ -1,6 +1,6 @@
 ---
 
-title: alert circle check(提醒圈子检查) ICON转svg、png下载
+title:  alert circle check(提醒圈子检查) ICON转svg、png下载
 name: alert-circle-check
 zhTips: 提醒圈子检查
 tags: ["alert-error"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# alert-circle-check  <small style="font-size: 60%;font-weight: 100">提醒圈子检查</small>
+# alert circle check  <small style="font-size: 60%;font-weight: 100">提醒圈子检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

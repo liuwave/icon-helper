@@ -1,6 +1,6 @@
 ---
 
-title: bank(银行) ICON转svg、png下载
+title:  bank(银行) ICON转svg、png下载
 name: bank
 zhTips: 银行,帐户余额,博物馆
 tags: ["banking","places"]
@@ -13,6 +13,8 @@ search: account-balance,museum
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

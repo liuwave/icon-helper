@@ -1,6 +1,6 @@
 ---
 
-title: cog clockwise(齿轮顺时针) ICON转svg、png下载
+title:  cog clockwise(齿轮顺时针) ICON转svg、png下载
 name: cog-clockwise
 zhTips: 齿轮顺时针
 tags: ["settings"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cog-clockwise  <small style="font-size: 60%;font-weight: 100">齿轮顺时针</small>
+# cog clockwise  <small style="font-size: 60%;font-weight: 100">齿轮顺时针</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

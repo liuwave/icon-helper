@@ -1,6 +1,6 @@
 ---
 
-title: peanut outline(花生轮廓) ICON转svg、png下载
+title:  peanut outline(花生轮廓) ICON转svg、png下载
 name: peanut-outline
 zhTips: 花生轮廓,过敏原轮廓,食物过敏轮廓
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: allergen-outline,food-allergy-outline
 
 ---
 
-# peanut-outline  <small style="font-size: 60%;font-weight: 100">花生轮廓</small>
+# peanut outline  <small style="font-size: 60%;font-weight: 100">花生轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: share outline(分享轮廓) ICON转svg、png下载
+title:  share outline(分享轮廓) ICON转svg、png下载
 name: share-outline
 zhTips: 分享轮廓,转发轮廓
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: forward-outline
 
 ---
 
-# share-outline  <small style="font-size: 60%;font-weight: 100">分享轮廓</small>
+# share outline  <small style="font-size: 60%;font-weight: 100">分享轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

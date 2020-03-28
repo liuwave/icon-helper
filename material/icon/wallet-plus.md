@@ -1,6 +1,6 @@
 ---
 
-title: wallet plus(皮夹加) ICON转svg、png下载
+title:  wallet plus(皮夹加) ICON转svg、png下载
 name: wallet-plus
 zhTips: 皮夹加
 tags: ["banking"]
@@ -8,11 +8,13 @@ search: wallet-add
 
 ---
 
-# wallet-plus  <small style="font-size: 60%;font-weight: 100">皮夹加</small>
+# wallet plus  <small style="font-size: 60%;font-weight: 100">皮夹加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

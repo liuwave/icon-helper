@@ -1,6 +1,6 @@
 ---
 
-title: arrow down box(向下箭头框) ICON转svg、png下载
+title:  arrow down box(向下箭头框) ICON转svg、png下载
 name: arrow-down-box
 zhTips: 向下箭头框
 tags: ["arrow"]
@@ -8,11 +8,13 @@ search: arrow-bottom-box
 
 ---
 
-# arrow-down-box  <small style="font-size: 60%;font-weight: 100">向下箭头框</small>
+# arrow down box  <small style="font-size: 60%;font-weight: 100">向下箭头框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

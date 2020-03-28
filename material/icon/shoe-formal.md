@@ -1,6 +1,6 @@
 ---
 
-title: shoe formal(正式鞋) ICON转svg、png下载
+title:  shoe formal(正式鞋) ICON转svg、png下载
 name: shoe-formal
 zhTips: 正式鞋
 tags: ["clothing"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# shoe-formal  <small style="font-size: 60%;font-weight: 100">正式鞋</small>
+# shoe formal  <small style="font-size: 60%;font-weight: 100">正式鞋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

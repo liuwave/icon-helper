@@ -1,6 +1,6 @@
 ---
 
-title: apple safari(苹果野生动物园) ICON转svg、png下载
+title:  apple safari(苹果野生动物园) ICON转svg、png下载
 name: apple-safari
 zhTips: 苹果野生动物园
 tags: ["brand-logo"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# apple-safari  <small style="font-size: 60%;font-weight: 100">苹果野生动物园</small>
+# apple safari  <small style="font-size: 60%;font-weight: 100">苹果野生动物园</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

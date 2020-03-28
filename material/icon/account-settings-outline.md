@@ -1,6 +1,6 @@
 ---
 
-title: account settings outline(帐户设置概述) ICON转svg、png下载
+title:  account settings outline(帐户设置概述) ICON转svg、png下载
 name: account-settings-outline
 zhTips: 帐户设置概述
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# account-settings-outline  <small style="font-size: 60%;font-weight: 100">帐户设置概述</small>
+# account settings outline  <small style="font-size: 60%;font-weight: 100">帐户设置概述</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

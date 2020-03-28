@@ -1,6 +1,6 @@
 ---
 
-title: alpha u box outline(字母u框轮廓) ICON转svg、png下载
+title:  alpha u box outline(字母u框轮廓) ICON转svg、png下载
 name: alpha-u-box-outline
 zhTips: 字母u框轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-u-box-outline,letter-u-box-outline
 
 ---
 
-# alpha-u-box-outline  <small style="font-size: 60%;font-weight: 100">字母u框轮廓</small>
+# alpha u box outline  <small style="font-size: 60%;font-weight: 100">字母u框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

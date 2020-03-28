@@ -1,6 +1,6 @@
 ---
 
-title: alpha i(alpha i) ICON转svg、png下载
+title:  alpha i(alpha i) ICON转svg、png下载
 name: alpha-i
 zhTips: alpha i,字母i,罗马数字1
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-i,letter-i,roman-numeral-1
 
 ---
 
-# alpha-i  <small style="font-size: 60%;font-weight: 100">alpha i</small>
+# alpha i  <small style="font-size: 60%;font-weight: 100">alpha i</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: cctv(闭路电视) ICON转svg、png下载
+title:  cctv(闭路电视) ICON转svg、png下载
 name: cctv
-zhTips: 闭路电视,监控摄像机
+zhTips: 闭路电视,监控摄像机,中央电视台
 tags: ["home-automation"]
 search: closed-circuit-television,security-camera
 
@@ -13,6 +13,8 @@ search: closed-circuit-television,security-camera
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Roberto Graham</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">closed-circuit-television</span><span class="badge-light badge">security-camera</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">闭路电视</span><span class="badge-primary badge">监控摄像机</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cctv.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cctv.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">closed-circuit-television</span><span class="badge-light badge">security-camera</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">闭路电视</span><span class="badge-primary badge">监控摄像机</span><span class="badge-primary badge">中央电视台</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cctv.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cctv.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">CCTV表示监控、或者处于监控的范围</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-cctv mdi-48px"></i>
   <i class="mdi mdi-cctv mdi-36px"></i>

@@ -1,6 +1,6 @@
 ---
 
-title: beaker minus outline(烧杯减去轮廓) ICON转svg、png下载
+title:  beaker minus outline(烧杯减去轮廓) ICON转svg、png下载
 name: beaker-minus-outline
 zhTips: 烧杯减去轮廓
 tags: ["science"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# beaker-minus-outline  <small style="font-size: 60%;font-weight: 100">烧杯减去轮廓</small>
+# beaker minus outline  <small style="font-size: 60%;font-weight: 100">烧杯减去轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

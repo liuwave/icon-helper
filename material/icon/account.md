@@ -1,6 +1,6 @@
 ---
 
-title: account(帐户) ICON转svg、png下载
+title:  account(帐户) ICON转svg、png下载
 name: account
 zhTips: 帐户,个人,用户
 tags: ["account-user","home-automation"]
@@ -13,6 +13,8 @@ search: person,user
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

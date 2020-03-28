@@ -1,6 +1,6 @@
 ---
 
-title: newspaper minus(减去报纸) ICON转svg、png下载
+title:  newspaper minus(减去报纸) ICON转svg、png下载
 name: newspaper-minus
 zhTips: 减去报纸
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# newspaper-minus  <small style="font-size: 60%;font-weight: 100">减去报纸</small>
+# newspaper minus  <small style="font-size: 60%;font-weight: 100">减去报纸</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

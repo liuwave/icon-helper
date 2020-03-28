@@ -1,6 +1,6 @@
 ---
 
-title: volume medium(音量中等) ICON转svg、png下载
+title:  volume medium(音量中等) ICON转svg、png下载
 name: volume-medium
 zhTips: 音量中等,音频,扬声器
 tags: ["audio","home-automation","cellphone-phone"]
@@ -8,11 +8,13 @@ search: audio,speaker
 
 ---
 
-# volume-medium  <small style="font-size: 60%;font-weight: 100">音量中等</small>
+# volume medium  <small style="font-size: 60%;font-weight: 100">音量中等</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

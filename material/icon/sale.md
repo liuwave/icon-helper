@@ -1,6 +1,6 @@
 ---
 
-title: sale(销售) ICON转svg、png下载
+title:  sale(销售) ICON转svg、png下载
 name: sale
 zhTips: 销售,折扣
 tags: []
@@ -13,6 +13,8 @@ search: discount
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

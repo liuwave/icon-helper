@@ -1,6 +1,6 @@
 ---
 
-title: video input antenna(视频输入天线) ICON转svg、png下载
+title:  video input antenna(视频输入天线) ICON转svg、png下载
 name: video-input-antenna
 zhTips: 视频输入天线,天线输入设置
 tags: ["video-movie"]
@@ -8,11 +8,13 @@ search: settings-input-antenna
 
 ---
 
-# video-input-antenna  <small style="font-size: 60%;font-weight: 100">视频输入天线</small>
+# video input antenna  <small style="font-size: 60%;font-weight: 100">视频输入天线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

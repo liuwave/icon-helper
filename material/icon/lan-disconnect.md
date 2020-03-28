@@ -1,6 +1,6 @@
 ---
 
-title: lan disconnect(局域网断开) ICON转svg、png下载
+title:  lan disconnect(局域网断开) ICON转svg、png下载
 name: lan-disconnect
 zhTips: 局域网断开
 tags: []
@@ -8,11 +8,13 @@ search: local-area-network-disconnect
 
 ---
 
-# lan-disconnect  <small style="font-size: 60%;font-weight: 100">局域网断开</small>
+# lan disconnect  <small style="font-size: 60%;font-weight: 100">局域网断开</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

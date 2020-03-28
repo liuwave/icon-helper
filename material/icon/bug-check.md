@@ -1,6 +1,6 @@
 ---
 
-title: bug check(错误检查) ICON转svg、png下载
+title:  bug check(错误检查) ICON转svg、png下载
 name: bug-check
 zhTips: 错误检查,错误刻度
 tags: []
@@ -8,11 +8,13 @@ search: bug-tick
 
 ---
 
-# bug-check  <small style="font-size: 60%;font-weight: 100">错误检查</small>
+# bug check  <small style="font-size: 60%;font-weight: 100">错误检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

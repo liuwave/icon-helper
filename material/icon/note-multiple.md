@@ -1,6 +1,6 @@
 ---
 
-title: note multiple(备忘) ICON转svg、png下载
+title:  note multiple(备忘) ICON转svg、png下载
 name: note-multiple
 zhTips: 备忘,笔记
 tags: []
@@ -8,11 +8,13 @@ search: notes
 
 ---
 
-# note-multiple  <small style="font-size: 60%;font-weight: 100">备忘</small>
+# note multiple  <small style="font-size: 60%;font-weight: 100">备忘</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

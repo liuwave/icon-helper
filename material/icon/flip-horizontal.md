@@ -1,6 +1,6 @@
 ---
 
-title: flip horizontal(水平翻转) ICON转svg、png下载
+title:  flip horizontal(水平翻转) ICON转svg、png下载
 name: flip-horizontal
 zhTips: 水平翻转
 tags: ["arrange"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# flip-horizontal  <small style="font-size: 60%;font-weight: 100">水平翻转</small>
+# flip horizontal  <small style="font-size: 60%;font-weight: 100">水平翻转</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

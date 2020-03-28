@@ -1,6 +1,6 @@
 ---
 
-title: ship wheel(旅行者轮船) ICON转svg、png下载
+title:  ship wheel(旅行者轮船) ICON转svg、png下载
 name: ship-wheel
 zhTips: 旅行者轮船
 tags: ["transportation-water"]
@@ -8,11 +8,13 @@ search: voyager
 
 ---
 
-# ship-wheel  <small style="font-size: 60%;font-weight: 100">旅行者轮船</small>
+# ship wheel  <small style="font-size: 60%;font-weight: 100">旅行者轮船</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

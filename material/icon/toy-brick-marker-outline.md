@@ -1,6 +1,6 @@
 ---
 
-title: toy brick marker outline(玩具砖标记轮廓) ICON转svg、png下载
+title:  toy brick marker outline(玩具砖标记轮廓) ICON转svg、png下载
 name: toy-brick-marker-outline
 zhTips: 玩具砖标记轮廓,乐高,插件,扩展
 tags: []
@@ -8,11 +8,13 @@ search: lego,plugin,extension
 
 ---
 
-# toy-brick-marker-outline  <small style="font-size: 60%;font-weight: 100">玩具砖标记轮廓</small>
+# toy brick marker outline  <small style="font-size: 60%;font-weight: 100">玩具砖标记轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

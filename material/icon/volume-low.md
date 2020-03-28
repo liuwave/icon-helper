@@ -1,6 +1,6 @@
 ---
 
-title: volume low(低音量) ICON转svg、png下载
+title:  volume low(低音量) ICON转svg、png下载
 name: volume-low
 zhTips: 低音量,音频,扬声器
 tags: ["audio","home-automation","cellphone-phone"]
@@ -8,11 +8,13 @@ search: audio,speaker
 
 ---
 
-# volume-low  <small style="font-size: 60%;font-weight: 100">低音量</small>
+# volume low  <small style="font-size: 60%;font-weight: 100">低音量</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

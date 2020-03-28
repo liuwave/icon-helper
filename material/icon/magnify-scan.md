@@ -1,6 +1,6 @@
 ---
 
-title: magnify scan(放大扫描) ICON转svg、png下载
+title:  magnify scan(放大扫描) ICON转svg、png下载
 name: magnify-scan
 zhTips: 放大扫描
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# magnify-scan  <small style="font-size: 60%;font-weight: 100">放大扫描</small>
+# magnify scan  <small style="font-size: 60%;font-weight: 100">放大扫描</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

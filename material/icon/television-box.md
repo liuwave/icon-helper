@@ -1,6 +1,6 @@
 ---
 
-title: television box(电视盒) ICON转svg、png下载
+title:  television box(电视盒) ICON转svg、png下载
 name: television-box
 zhTips: 电视盒,电视指南
 tags: []
@@ -8,11 +8,13 @@ search: tv-box,tv-guide
 
 ---
 
-# television-box  <small style="font-size: 60%;font-weight: 100">电视盒</small>
+# television box  <small style="font-size: 60%;font-weight: 100">电视盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

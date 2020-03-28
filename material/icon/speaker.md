@@ -1,8 +1,8 @@
 ---
 
-title: speaker(扬声器) ICON转svg、png下载
+title:  speaker(扬声器) ICON转svg、png下载
 name: speaker
-zhTips: 扬声器
+zhTips: 扬声器,喇叭
 tags: ["audio","home-automation"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">扬声器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/speaker.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/speaker.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">扬声器</span><span class="badge-primary badge">喇叭</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/speaker.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/speaker.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">喇叭，放大声音或播发的工具，可以表示公告，通知。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-speaker mdi-48px"></i>
   <i class="mdi mdi-speaker mdi-36px"></i>

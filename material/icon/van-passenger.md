@@ -1,6 +1,6 @@
 ---
 
-title: van passenger(客货车) ICON转svg、png下载
+title:  van passenger(客货车) ICON转svg、png下载
 name: van-passenger
 zhTips: 客货车
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# van-passenger  <small style="font-size: 60%;font-weight: 100">客货车</small>
+# van passenger  <small style="font-size: 60%;font-weight: 100">客货车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

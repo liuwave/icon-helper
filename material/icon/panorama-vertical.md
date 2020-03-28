@@ -1,6 +1,6 @@
 ---
 
-title: panorama vertical(垂直全景) ICON转svg、png下载
+title:  panorama vertical(垂直全景) ICON转svg、png下载
 name: panorama-vertical
 zhTips: 垂直全景
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# panorama-vertical  <small style="font-size: 60%;font-weight: 100">垂直全景</small>
+# panorama vertical  <small style="font-size: 60%;font-weight: 100">垂直全景</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

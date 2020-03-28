@@ -1,6 +1,6 @@
 ---
 
-title: apple airplay(苹果Airplay) ICON转svg、png下载
+title:  apple airplay(苹果Airplay) ICON转svg、png下载
 name: apple-airplay
 zhTips: 苹果Airplay,苹果
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: apple
 
 ---
 
-# apple-airplay  <small style="font-size: 60%;font-weight: 100">苹果Airplay</small>
+# apple airplay  <small style="font-size: 60%;font-weight: 100">苹果Airplay</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

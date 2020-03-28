@@ -1,6 +1,6 @@
 ---
 
-title: emoticon excited(表情兴奋) ICON转svg、png下载
+title:  emoticon excited(表情兴奋) ICON转svg、png下载
 name: emoticon-excited
 zhTips: 表情兴奋,笑脸兴奋
 tags: ["emoji"]
@@ -8,11 +8,13 @@ search: smiley-excited
 
 ---
 
-# emoticon-excited  <small style="font-size: 60%;font-weight: 100">表情兴奋</small>
+# emoticon excited  <small style="font-size: 60%;font-weight: 100">表情兴奋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

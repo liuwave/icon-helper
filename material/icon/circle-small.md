@@ -1,6 +1,6 @@
 ---
 
-title: circle small(小圆圈) ICON转svg、png下载
+title:  circle small(小圆圈) ICON转svg、png下载
 name: circle-small
 zhTips: 小圆圈,子弹,乘法
 tags: ["math"]
@@ -8,11 +8,13 @@ search: bullet,multiplication
 
 ---
 
-# circle-small  <small style="font-size: 60%;font-weight: 100">小圆圈</small>
+# circle small  <small style="font-size: 60%;font-weight: 100">小圆圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

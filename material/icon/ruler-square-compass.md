@@ -1,6 +1,6 @@
 ---
 
-title: ruler square compass(标尺方形指南针) ICON转svg、png下载
+title:  ruler square compass(标尺方形指南针) ICON转svg、png下载
 name: ruler-square-compass
 zhTips: 标尺方形指南针,梅森,共济会
 tags: ["hardware-tools"]
@@ -8,11 +8,13 @@ search: mason,masonic,freemasonry
 
 ---
 
-# ruler-square-compass  <small style="font-size: 60%;font-weight: 100">标尺方形指南针</small>
+# ruler square compass  <small style="font-size: 60%;font-weight: 100">标尺方形指南针</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

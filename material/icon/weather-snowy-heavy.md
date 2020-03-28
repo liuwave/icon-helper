@@ -1,6 +1,6 @@
 ---
 
-title: weather snowy heavy(下雪天) ICON转svg、png下载
+title:  weather snowy heavy(下雪天) ICON转svg、png下载
 name: weather-snowy-heavy
 zhTips: 下雪天
 tags: ["weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# weather-snowy-heavy  <small style="font-size: 60%;font-weight: 100">下雪天</small>
+# weather snowy heavy  <small style="font-size: 60%;font-weight: 100">下雪天</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

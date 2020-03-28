@@ -1,6 +1,6 @@
 ---
 
-title: face recognition(面部识别) ICON转svg、png下载
+title:  face recognition(面部识别) ICON转svg、png下载
 name: face-recognition
 zhTips: 面部识别,扫描
 tags: ["photography"]
@@ -8,11 +8,13 @@ search: facial-recognition,scan
 
 ---
 
-# face-recognition  <small style="font-size: 60%;font-weight: 100">面部识别</small>
+# face recognition  <small style="font-size: 60%;font-weight: 100">面部识别</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: cloud search(云搜索) ICON转svg、png下载
+title:  cloud search(云搜索) ICON转svg、png下载
 name: cloud-search
 zhTips: 云搜索
 tags: ["cloud"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cloud-search  <small style="font-size: 60%;font-weight: 100">云搜索</small>
+# cloud search  <small style="font-size: 60%;font-weight: 100">云搜索</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

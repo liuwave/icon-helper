@@ -1,6 +1,6 @@
 ---
 
-title: stairs box(楼梯盒) ICON转svg、png下载
+title:  stairs box(楼梯盒) ICON转svg、png下载
 name: stairs-box
 zhTips: 楼梯盒
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# stairs-box  <small style="font-size: 60%;font-weight: 100">楼梯盒</small>
+# stairs box  <small style="font-size: 60%;font-weight: 100">楼梯盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

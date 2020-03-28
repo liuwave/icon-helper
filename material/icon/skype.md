@@ -1,6 +1,6 @@
 ---
 
-title: skype(Skype) ICON转svg、png下载
+title:  skype(Skype) ICON转svg、png下载
 name: skype
 zhTips: Skype,Microsoft Skype
 tags: ["brand-logo"]
@@ -13,6 +13,8 @@ search: microsoft-skype
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -39,7 +41,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">microsoft-skype</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Skype</span><span class="badge-primary badge">Microsoft Skype</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/skype.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/skype.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Skype是一款即时通讯软件，提供免费的电脑间通话,打国内国际固定/移动电话只需市话费。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-skype mdi-48px"></i>
   <i class="mdi mdi-skype mdi-36px"></i>

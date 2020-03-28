@@ -1,6 +1,6 @@
 ---
 
-title: delete circle(删除圈) ICON转svg、png下载
+title:  delete circle(删除圈) ICON转svg、png下载
 name: delete-circle
 zhTips: 删除圈,垃圾圈,垃圾箱圈,垃圾桶圈
 tags: []
@@ -8,11 +8,13 @@ search: trash-circle,bin-circle,garbage-can-circle,garbage-circle,rubbish-bin-ci
 
 ---
 
-# delete-circle  <small style="font-size: 60%;font-weight: 100">删除圈</small>
+# delete circle  <small style="font-size: 60%;font-weight: 100">删除圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,8 +1,8 @@
 ---
 
-title: angular(角形) ICON转svg、png下载
+title:  angular(角形) ICON转svg、png下载
 name: angular
-zhTips: 角形
+zhTips: 角形,angular,角
 tags: ["brand-logo","developer-languages"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">角形</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/angular.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/angular.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">角形</span><span class="badge-primary badge">angular</span><span class="badge-primary badge">角</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/angular.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/angular.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">angular是一款优秀的前端javascript框架，诞生于2009年，后被Google收购。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-angular mdi-48px"></i>
   <i class="mdi mdi-angular mdi-36px"></i>

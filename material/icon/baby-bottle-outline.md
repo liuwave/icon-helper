@@ -1,6 +1,6 @@
 ---
 
-title: baby bottle outline(婴儿奶瓶轮廓) ICON转svg、png下载
+title:  baby bottle outline(婴儿奶瓶轮廓) ICON转svg、png下载
 name: baby-bottle-outline
 zhTips: 婴儿奶瓶轮廓
 tags: ["people-family"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# baby-bottle-outline  <small style="font-size: 60%;font-weight: 100">婴儿奶瓶轮廓</small>
+# baby bottle outline  <small style="font-size: 60%;font-weight: 100">婴儿奶瓶轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

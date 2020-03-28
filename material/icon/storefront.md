@@ -1,6 +1,6 @@
 ---
 
-title: storefront(店面) ICON转svg、png下载
+title:  storefront(店面) ICON转svg、png下载
 name: storefront
 zhTips: 店面,遮阳篷
 tags: []
@@ -13,6 +13,8 @@ search: awning
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

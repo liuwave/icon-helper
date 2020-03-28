@@ -1,6 +1,6 @@
 ---
 
-title: airplane takeoff(飞机起飞) ICON转svg、png下载
+title:  airplane takeoff(飞机起飞) ICON转svg、png下载
 name: airplane-takeoff
 zhTips: 飞机起飞,空中飞机起飞,飞行起飞
 tags: ["transportation-flying"]
@@ -8,11 +8,13 @@ search: aeroplane-takeoff,flight-takeoff,plane-takeoff,airplane-take-off
 
 ---
 
-# airplane-takeoff  <small style="font-size: 60%;font-weight: 100">飞机起飞</small>
+# airplane takeoff  <small style="font-size: 60%;font-weight: 100">飞机起飞</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: filmstrip box(幻灯片盒) ICON转svg、png下载
+title:  filmstrip box(幻灯片盒) ICON转svg、png下载
 name: filmstrip-box
 zhTips: 幻灯片盒
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# filmstrip-box  <small style="font-size: 60%;font-weight: 100">幻灯片盒</small>
+# filmstrip box  <small style="font-size: 60%;font-weight: 100">幻灯片盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

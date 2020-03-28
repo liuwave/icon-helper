@@ -1,6 +1,6 @@
 ---
 
-title: alpha n circle(alpha n圈) ICON转svg、png下载
+title:  alpha n circle(alpha n圈) ICON转svg、png下载
 name: alpha-n-circle
 zhTips: alpha n圈,字母n圈
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-n-circle,letter-n-circle
 
 ---
 
-# alpha-n-circle  <small style="font-size: 60%;font-weight: 100">alpha n圈</small>
+# alpha n circle  <small style="font-size: 60%;font-weight: 100">alpha n圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

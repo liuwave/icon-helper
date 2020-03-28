@@ -1,6 +1,6 @@
 ---
 
-title: temperature fahrenheit(华氏温度) ICON转svg、png下载
+title:  temperature fahrenheit(华氏温度) ICON转svg、png下载
 name: temperature-fahrenheit
 zhTips: 华氏温度
 tags: ["weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# temperature-fahrenheit  <small style="font-size: 60%;font-weight: 100">华氏温度</small>
+# temperature fahrenheit  <small style="font-size: 60%;font-weight: 100">华氏温度</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: book plus(预订加号) ICON转svg、png下载
+title:  book plus(预订加号) ICON转svg、png下载
 name: book-plus
 zhTips: 预订加号
 tags: []
@@ -8,11 +8,13 @@ search: book-add
 
 ---
 
-# book-plus  <small style="font-size: 60%;font-weight: 100">预订加号</small>
+# book plus  <small style="font-size: 60%;font-weight: 100">预订加号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

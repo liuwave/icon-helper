@@ -1,6 +1,6 @@
 ---
 
-title: picture in picture bottom right outline(画中画右下轮廓) ICON转svg、png下载
+title:  picture in picture bottom right outline(画中画右下轮廓) ICON转svg、png下载
 name: picture-in-picture-bottom-right-outline
 zhTips: 画中画右下轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# picture-in-picture-bottom-right-outline  <small style="font-size: 60%;font-weight: 100">画中画右下轮廓</small>
+# picture in picture bottom right outline  <small style="font-size: 60%;font-weight: 100">画中画右下轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

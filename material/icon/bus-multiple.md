@@ -1,6 +1,6 @@
 ---
 
-title: bus multiple(公交车) ICON转svg、png下载
+title:  bus multiple(公交车) ICON转svg、png下载
 name: bus-multiple
 zhTips: 公交车,车队
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search: fleet
 
 ---
 
-# bus-multiple  <small style="font-size: 60%;font-weight: 100">公交车</small>
+# bus multiple  <small style="font-size: 60%;font-weight: 100">公交车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

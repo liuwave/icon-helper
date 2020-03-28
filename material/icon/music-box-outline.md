@@ -1,6 +1,6 @@
 ---
 
-title: music box outline(音乐盒轮廓) ICON转svg、png下载
+title:  music box outline(音乐盒轮廓) ICON转svg、png下载
 name: music-box-outline
 zhTips: 音乐盒轮廓
 tags: ["audio","music"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# music-box-outline  <small style="font-size: 60%;font-weight: 100">音乐盒轮廓</small>
+# music box outline  <small style="font-size: 60%;font-weight: 100">音乐盒轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

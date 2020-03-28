@@ -1,6 +1,6 @@
 ---
 
-title: window minimize(窗口最小化) ICON转svg、png下载
+title:  window minimize(窗口最小化) ICON转svg、png下载
 name: window-minimize
 zhTips: 窗口最小化
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# window-minimize  <small style="font-size: 60%;font-weight: 100">窗口最小化</small>
+# window minimize  <small style="font-size: 60%;font-weight: 100">窗口最小化</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

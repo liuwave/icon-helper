@@ -1,8 +1,8 @@
 ---
 
-title: download(下载) ICON转svg、png下载
+title:  download(下载) ICON转svg、png下载
 name: download
-zhTips: 下载,文件下载,获取应用
+zhTips: 下载,文件下载,获取应用,导出,硬盘驱动器,保存,传输
 tags: []
 search: file-download,get-app
 
@@ -13,6 +13,8 @@ search: file-download,get-app
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">file-download</span><span class="badge-light badge">get-app</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">下载</span><span class="badge-primary badge">文件下载</span><span class="badge-primary badge">获取应用</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/download.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/download.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">file-download</span><span class="badge-light badge">get-app</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">下载</span><span class="badge-primary badge">文件下载</span><span class="badge-primary badge">获取应用</span><span class="badge-primary badge">导出</span><span class="badge-primary badge">硬盘驱动器</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">传输</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/download.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/download.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">下载，就是把网络文件拷贝到本地。表示传输</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-download mdi-48px"></i>
   <i class="mdi mdi-download mdi-36px"></i>

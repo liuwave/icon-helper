@@ -1,6 +1,6 @@
 ---
 
-title: soy sauce(酱油) ICON转svg、png下载
+title:  soy sauce(酱油) ICON转svg、png下载
 name: soy-sauce
 zhTips: 酱油
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: soya-sauce
 
 ---
 
-# soy-sauce  <small style="font-size: 60%;font-weight: 100">酱油</small>
+# soy sauce  <small style="font-size: 60%;font-weight: 100">酱油</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

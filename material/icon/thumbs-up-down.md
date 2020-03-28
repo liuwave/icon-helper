@@ -1,6 +1,6 @@
 ---
 
-title: thumbs up down(竖起大拇指) ICON转svg、png下载
+title:  thumbs up down(竖起大拇指) ICON转svg、png下载
 name: thumbs-up-down
 zhTips: 竖起大拇指,不喜欢
 tags: []
@@ -8,11 +8,13 @@ search: like-dislike
 
 ---
 
-# thumbs-up-down  <small style="font-size: 60%;font-weight: 100">竖起大拇指</small>
+# thumbs up down  <small style="font-size: 60%;font-weight: 100">竖起大拇指</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

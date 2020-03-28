@@ -1,6 +1,6 @@
 ---
 
-title: strategy(策略) ICON转svg、png下载
+title:  strategy(策略) ICON转svg、png下载
 name: strategy
 zhTips: 策略,足球比赛
 tags: ["sport"]
@@ -13,6 +13,8 @@ search: football-play
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

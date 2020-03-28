@@ -1,6 +1,6 @@
 ---
 
-title: gate and(门与) ICON转svg、png下载
+title:  gate and(门与) ICON转svg、png下载
 name: gate-and
 zhTips: 门与,逻辑门与
 tags: []
@@ -8,11 +8,13 @@ search: logic-gate-and
 
 ---
 
-# gate-and  <small style="font-size: 60%;font-weight: 100">门与</small>
+# gate and  <small style="font-size: 60%;font-weight: 100">门与</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

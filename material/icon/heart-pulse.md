@@ -1,6 +1,6 @@
 ---
 
-title: heart pulse(心脏搏动) ICON转svg、png下载
+title:  heart pulse(心脏搏动) ICON转svg、png下载
 name: heart-pulse
 zhTips: 心脏搏动,心脏活力
 tags: ["medical-hospital"]
@@ -8,11 +8,13 @@ search: heart-vitals
 
 ---
 
-# heart-pulse  <small style="font-size: 60%;font-weight: 100">心脏搏动</small>
+# heart pulse  <small style="font-size: 60%;font-weight: 100">心脏搏动</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

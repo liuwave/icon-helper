@@ -1,6 +1,6 @@
 ---
 
-title: phone classic(手机经典) ICON转svg、png下载
+title:  phone classic(手机经典) ICON转svg、png下载
 name: phone-classic
 zhTips: 手机经典
 tags: ["cellphone-phone"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# phone-classic  <small style="font-size: 60%;font-weight: 100">手机经典</small>
+# phone classic  <small style="font-size: 60%;font-weight: 100">手机经典</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

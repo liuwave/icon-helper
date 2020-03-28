@@ -1,6 +1,6 @@
 ---
 
-title: kettle outline(烧水壶轮廓) ICON转svg、png下载
+title:  kettle outline(烧水壶轮廓) ICON转svg、png下载
 name: kettle-outline
 zhTips: 烧水壶轮廓,烧水壶空
 tags: ["food-drink","home-automation"]
@@ -8,11 +8,13 @@ search: tea-kettle-outline,kettle-empty,tea-kettle-empty
 
 ---
 
-# kettle-outline  <small style="font-size: 60%;font-weight: 100">烧水壶轮廓</small>
+# kettle outline  <small style="font-size: 60%;font-weight: 100">烧水壶轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

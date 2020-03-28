@@ -1,6 +1,6 @@
 ---
 
-title: ticket confirmation outline(票务确认轮廓) ICON转svg、png下载
+title:  ticket confirmation outline(票务确认轮廓) ICON转svg、png下载
 name: ticket-confirmation-outline
 zhTips: 票务确认轮廓,确认号轮廓
 tags: []
@@ -8,11 +8,13 @@ search: confirmation-number-outline
 
 ---
 
-# ticket-confirmation-outline  <small style="font-size: 60%;font-weight: 100">票务确认轮廓</small>
+# ticket confirmation outline  <small style="font-size: 60%;font-weight: 100">票务确认轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

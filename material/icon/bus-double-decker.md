@@ -1,6 +1,6 @@
 ---
 
-title: bus double decker(双层巴士) ICON转svg、png下载
+title:  bus double decker(双层巴士) ICON转svg、png下载
 name: bus-double-decker
 zhTips: 双层巴士
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# bus-double-decker  <small style="font-size: 60%;font-weight: 100">双层巴士</small>
+# bus double decker  <small style="font-size: 60%;font-weight: 100">双层巴士</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

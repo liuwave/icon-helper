@@ -1,6 +1,6 @@
 ---
 
-title: view dashboard outline(查看仪表板轮廓) ICON转svg、png下载
+title:  view dashboard outline(查看仪表板轮廓) ICON转svg、png下载
 name: view-dashboard-outline
 zhTips: 查看仪表板轮廓
 tags: ["view"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# view-dashboard-outline  <small style="font-size: 60%;font-weight: 100">查看仪表板轮廓</small>
+# view dashboard outline  <small style="font-size: 60%;font-weight: 100">查看仪表板轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

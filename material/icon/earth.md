@@ -1,6 +1,6 @@
 ---
 
-title: earth(地球) ICON转svg、png下载
+title:  earth(地球) ICON转svg、png下载
 name: earth
 zhTips: 地球,公共,行星
 tags: ["geographic-information-system"]
@@ -13,6 +13,8 @@ search: globe,public,planet
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

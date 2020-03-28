@@ -1,6 +1,6 @@
 ---
 
-title: text box check(文本复选框) ICON转svg、png下载
+title:  text box check(文本复选框) ICON转svg、png下载
 name: text-box-check
 zhTips: 文本复选框,文件文档框打勾
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-document-box-tick,file-document-box-check
 
 ---
 
-# text-box-check  <small style="font-size: 60%;font-weight: 100">文本复选框</small>
+# text box check  <small style="font-size: 60%;font-weight: 100">文本复选框</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

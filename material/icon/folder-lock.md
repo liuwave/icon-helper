@@ -1,6 +1,6 @@
 ---
 
-title: folder lock(文件夹锁) ICON转svg、png下载
+title:  folder lock(文件夹锁) ICON转svg、png下载
 name: folder-lock
 zhTips: 文件夹锁
 tags: ["lock","files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# folder-lock  <small style="font-size: 60%;font-weight: 100">文件夹锁</small>
+# folder lock  <small style="font-size: 60%;font-weight: 100">文件夹锁</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: battery negative(电池负极) ICON转svg、png下载
+title:  battery negative(电池负极) ICON转svg、png下载
 name: battery-negative
 zhTips: 电池负极
 tags: ["battery","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# battery-negative  <small style="font-size: 60%;font-weight: 100">电池负极</small>
+# battery negative  <small style="font-size: 60%;font-weight: 100">电池负极</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

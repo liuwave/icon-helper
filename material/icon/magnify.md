@@ -1,6 +1,6 @@
 ---
 
-title: magnify(放大) ICON转svg、png下载
+title:  magnify(放大) ICON转svg、png下载
 name: magnify
 zhTips: 放大,搜索
 tags: ["geographic-information-system"]
@@ -13,6 +13,8 @@ search: search
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

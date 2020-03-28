@@ -1,6 +1,6 @@
 ---
 
-title: umbrella closed variant(雨伞封闭式) ICON转svg、png下载
+title:  umbrella closed variant(雨伞封闭式) ICON转svg、png下载
 name: umbrella-closed-variant
 zhTips: 雨伞封闭式
 tags: ["weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# umbrella-closed-variant  <small style="font-size: 60%;font-weight: 100">雨伞封闭式</small>
+# umbrella closed variant  <small style="font-size: 60%;font-weight: 100">雨伞封闭式</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

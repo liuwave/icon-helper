@@ -1,6 +1,6 @@
 ---
 
-title: language cpp(语言cpp) ICON转svg、png下载
+title:  language cpp(语言cpp) ICON转svg、png下载
 name: language-cpp
 zhTips: 语言cpp
 tags: ["developer-languages"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# language-cpp  <small style="font-size: 60%;font-weight: 100">语言cpp</small>
+# language cpp  <small style="font-size: 60%;font-weight: 100">语言cpp</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

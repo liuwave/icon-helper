@@ -1,6 +1,6 @@
 ---
 
-title: email sync outline(电子邮件同步轮廓) ICON转svg、png下载
+title:  email sync outline(电子邮件同步轮廓) ICON转svg、png下载
 name: email-sync-outline
 zhTips: 电子邮件同步轮廓,电子邮件刷新轮廓,电子邮件重新发送轮廓
 tags: []
@@ -8,11 +8,13 @@ search: email-refresh-outline,email-resend-outline
 
 ---
 
-# email-sync-outline  <small style="font-size: 60%;font-weight: 100">电子邮件同步轮廓</small>
+# email sync outline  <small style="font-size: 60%;font-weight: 100">电子邮件同步轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

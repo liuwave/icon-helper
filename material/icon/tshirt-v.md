@@ -1,6 +1,6 @@
 ---
 
-title: tshirt v(T恤v) ICON转svg、png下载
+title:  tshirt v(T恤v) ICON转svg、png下载
 name: tshirt-v
 zhTips: T恤v,t恤v
 tags: ["clothing"]
@@ -8,11 +8,13 @@ search: t-shirt-v
 
 ---
 
-# tshirt-v  <small style="font-size: 60%;font-weight: 100">T恤v</small>
+# tshirt v  <small style="font-size: 60%;font-weight: 100">T恤v</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

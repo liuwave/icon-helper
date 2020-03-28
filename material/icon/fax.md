@@ -1,8 +1,8 @@
 ---
 
-title: fax(传真) ICON转svg、png下载
+title:  fax(传真) ICON转svg、png下载
 name: fax
-zhTips: 传真
+zhTips: 传真,业务,通信,副本,发送
 tags: ["printer","cellphone-phone"]
 search: 
 
@@ -13,6 +13,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
@@ -37,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">传真</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/fax.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/fax.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">传真</span><span class="badge-primary badge">业务</span><span class="badge-primary badge">通信</span><span class="badge-primary badge">副本</span><span class="badge-primary badge">发送</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/fax.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/fax.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示传真，座机。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-fax mdi-48px"></i>
   <i class="mdi mdi-fax mdi-36px"></i>

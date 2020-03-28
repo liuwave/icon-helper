@@ -1,6 +1,6 @@
 ---
 
-title: webcam(网络摄像头) ICON转svg、png下载
+title:  webcam(网络摄像头) ICON转svg、png下载
 name: webcam
 zhTips: 网络摄像头
 tags: ["video-movie","home-automation"]
@@ -13,6 +13,8 @@ search: web-camera
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

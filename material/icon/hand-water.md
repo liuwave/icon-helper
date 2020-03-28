@@ -1,6 +1,6 @@
 ---
 
-title: hand water(洗手水) ICON转svg、png下载
+title:  hand water(洗手水) ICON转svg、png下载
 name: hand-water
 zhTips: 洗手水,洗手液
 tags: ["medical-hospital"]
@@ -8,11 +8,13 @@ search: hand-wash
 
 ---
 
-# hand-water  <small style="font-size: 60%;font-weight: 100">洗手水</small>
+# hand water  <small style="font-size: 60%;font-weight: 100">洗手水</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

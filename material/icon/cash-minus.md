@@ -1,6 +1,6 @@
 ---
 
-title: cash minus(现金减去) ICON转svg、png下载
+title:  cash minus(现金减去) ICON转svg、png下载
 name: cash-minus
 zhTips: 现金减去
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cash-minus  <small style="font-size: 60%;font-weight: 100">现金减去</small>
+# cash minus  <small style="font-size: 60%;font-weight: 100">现金减去</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

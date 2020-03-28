@@ -1,6 +1,6 @@
 ---
 
-title: camera gopro(相机gopro) ICON转svg、png下载
+title:  camera gopro(相机gopro) ICON转svg、png下载
 name: camera-gopro
 zhTips: 相机gopro
 tags: ["photography","device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# camera-gopro  <small style="font-size: 60%;font-weight: 100">相机gopro</small>
+# camera gopro  <small style="font-size: 60%;font-weight: 100">相机gopro</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

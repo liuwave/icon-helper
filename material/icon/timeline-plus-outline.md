@@ -1,6 +1,6 @@
 ---
 
-title: timeline plus outline(时间轴加上轮廓) ICON转svg、png下载
+title:  timeline plus outline(时间轴加上轮廓) ICON转svg、png下载
 name: timeline-plus-outline
 zhTips: 时间轴加上轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# timeline-plus-outline  <small style="font-size: 60%;font-weight: 100">时间轴加上轮廓</small>
+# timeline plus outline  <small style="font-size: 60%;font-weight: 100">时间轴加上轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

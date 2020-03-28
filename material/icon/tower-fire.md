@@ -1,6 +1,6 @@
 ---
 
-title: tower fire(塔火) ICON转svg、png下载
+title:  tower fire(塔火) ICON转svg、png下载
 name: tower-fire
 zhTips: 塔火
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tower-fire  <small style="font-size: 60%;font-weight: 100">塔火</small>
+# tower fire  <small style="font-size: 60%;font-weight: 100">塔火</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

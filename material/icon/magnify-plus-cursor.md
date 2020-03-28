@@ -1,6 +1,6 @@
 ---
 
-title: magnify plus cursor(放大光标) ICON转svg、png下载
+title:  magnify plus cursor(放大光标) ICON转svg、png下载
 name: magnify-plus-cursor
 zhTips: 放大光标
 tags: []
@@ -8,11 +8,13 @@ search: zoom-in-cursor,magnify-add-cursor
 
 ---
 
-# magnify-plus-cursor  <small style="font-size: 60%;font-weight: 100">放大光标</small>
+# magnify plus cursor  <small style="font-size: 60%;font-weight: 100">放大光标</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

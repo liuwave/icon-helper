@@ -1,6 +1,6 @@
 ---
 
-title: code less than(代码少于) ICON转svg、png下载
+title:  code less than(代码少于) ICON转svg、png下载
 name: code-less-than
 zhTips: 代码少于
 tags: ["developer-languages","math"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# code-less-than  <small style="font-size: 60%;font-weight: 100">代码少于</small>
+# code less than  <small style="font-size: 60%;font-weight: 100">代码少于</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

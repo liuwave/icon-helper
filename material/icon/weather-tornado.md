@@ -1,6 +1,6 @@
 ---
 
-title: weather tornado(龙卷风天气) ICON转svg、png下载
+title:  weather tornado(龙卷风天气) ICON转svg、png下载
 name: weather-tornado
 zhTips: 龙卷风天气
 tags: ["weather"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# weather-tornado  <small style="font-size: 60%;font-weight: 100">龙卷风天气</small>
+# weather tornado  <small style="font-size: 60%;font-weight: 100">龙卷风天气</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

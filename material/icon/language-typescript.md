@@ -1,6 +1,6 @@
 ---
 
-title: language typescript(语言打字稿) ICON转svg、png下载
+title:  language typescript(语言打字稿) ICON转svg、png下载
 name: language-typescript
 zhTips: 语言打字稿
 tags: ["developer-languages"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# language-typescript  <small style="font-size: 60%;font-weight: 100">语言打字稿</small>
+# language typescript  <small style="font-size: 60%;font-weight: 100">语言打字稿</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

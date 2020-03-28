@@ -1,6 +1,6 @@
 ---
 
-title: glass cocktail(玻璃鸡尾酒) ICON转svg、png下载
+title:  glass cocktail(玻璃鸡尾酒) ICON转svg、png下载
 name: glass-cocktail
 zhTips: 玻璃鸡尾酒,当地酒吧,鸡尾酒,马提尼酒
 tags: ["food-drink"]
@@ -8,11 +8,13 @@ search: local-bar,cocktail,martini
 
 ---
 
-# glass-cocktail  <small style="font-size: 60%;font-weight: 100">玻璃鸡尾酒</small>
+# glass cocktail  <small style="font-size: 60%;font-weight: 100">玻璃鸡尾酒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

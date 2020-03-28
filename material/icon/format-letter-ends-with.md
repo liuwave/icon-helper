@@ -1,6 +1,6 @@
 ---
 
-title: format letter ends with(字母格式结尾为) ICON转svg、png下载
+title:  format letter ends with(字母格式结尾为) ICON转svg、png下载
 name: format-letter-ends-with
 zhTips: 字母格式结尾为
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-letter-ends-with  <small style="font-size: 60%;font-weight: 100">字母格式结尾为</small>
+# format letter ends with  <small style="font-size: 60%;font-weight: 100">字母格式结尾为</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

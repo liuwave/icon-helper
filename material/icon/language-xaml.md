@@ -1,6 +1,6 @@
 ---
 
-title: language xaml(语言xaml) ICON转svg、png下载
+title:  language xaml(语言xaml) ICON转svg、png下载
 name: language-xaml
 zhTips: 语言xaml,xaml,Microsoft xaml
 tags: []
@@ -8,11 +8,13 @@ search: xaml,microsoft-xaml
 
 ---
 
-# language-xaml  <small style="font-size: 60%;font-weight: 100">语言xaml</small>
+# language xaml  <small style="font-size: 60%;font-weight: 100">语言xaml</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: gender male(性别) ICON转svg、png下载
+title:  gender male(性别) ICON转svg、png下载
 name: gender-male
 zhTips: 性别,男性,火星
 tags: []
@@ -8,11 +8,13 @@ search: mars
 
 ---
 
-# gender-male  <small style="font-size: 60%;font-weight: 100">性别</small>
+# gender male  <small style="font-size: 60%;font-weight: 100">性别</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

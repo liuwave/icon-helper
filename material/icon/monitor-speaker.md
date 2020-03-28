@@ -1,6 +1,6 @@
 ---
 
-title: monitor speaker(监听音箱) ICON转svg、png下载
+title:  monitor speaker(监听音箱) ICON转svg、png下载
 name: monitor-speaker
 zhTips: 监听音箱
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# monitor-speaker  <small style="font-size: 60%;font-weight: 100">监听音箱</small>
+# monitor speaker  <small style="font-size: 60%;font-weight: 100">监听音箱</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

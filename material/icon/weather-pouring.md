@@ -1,6 +1,6 @@
 ---
 
-title: weather pouring(倾盆大雨) ICON转svg、png下载
+title:  weather pouring(倾盆大雨) ICON转svg、png下载
 name: weather-pouring
 zhTips: 倾盆大雨,大雨
 tags: ["weather"]
@@ -8,11 +8,13 @@ search: weather-heavy-rain
 
 ---
 
-# weather-pouring  <small style="font-size: 60%;font-weight: 100">倾盆大雨</small>
+# weather pouring  <small style="font-size: 60%;font-weight: 100">倾盆大雨</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

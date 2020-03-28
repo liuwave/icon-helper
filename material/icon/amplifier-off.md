@@ -1,6 +1,6 @@
 ---
 
-title: amplifier off(放大器关闭) ICON转svg、png下载
+title:  amplifier off(放大器关闭) ICON转svg、png下载
 name: amplifier-off
 zhTips: 放大器关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# amplifier-off  <small style="font-size: 60%;font-weight: 100">放大器关闭</small>
+# amplifier off  <small style="font-size: 60%;font-weight: 100">放大器关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

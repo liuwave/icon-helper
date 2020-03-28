@@ -1,6 +1,6 @@
 ---
 
-title: tab remove(移除标签) ICON转svg、png下载
+title:  tab remove(移除标签) ICON转svg、png下载
 name: tab-remove
 zhTips: 移除标签
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# tab-remove  <small style="font-size: 60%;font-weight: 100">移除标签</small>
+# tab remove  <small style="font-size: 60%;font-weight: 100">移除标签</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

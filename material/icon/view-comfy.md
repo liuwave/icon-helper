@@ -1,6 +1,6 @@
 ---
 
-title: view comfy(舒适的风景) ICON转svg、png下载
+title:  view comfy(舒适的风景) ICON转svg、png下载
 name: view-comfy
 zhTips: 舒适的风景
 tags: ["view"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# view-comfy  <small style="font-size: 60%;font-weight: 100">舒适的风景</small>
+# view comfy  <small style="font-size: 60%;font-weight: 100">舒适的风景</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

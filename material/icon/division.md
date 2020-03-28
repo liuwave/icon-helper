@@ -1,6 +1,6 @@
 ---
 
-title: division(分区) ICON转svg、png下载
+title:  division(分区) ICON转svg、png下载
 name: division
 zhTips: 分区,方尖碑
 tags: ["math"]
@@ -13,6 +13,8 @@ search: obelus
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: comment arrow left outline(评论左箭头轮廓) ICON转svg、png下载
+title:  comment arrow left outline(评论左箭头轮廓) ICON转svg、png下载
 name: comment-arrow-left-outline
 zhTips: 评论左箭头轮廓,评论先前轮廓
 tags: []
@@ -8,11 +8,13 @@ search: comment-previous-outline
 
 ---
 
-# comment-arrow-left-outline  <small style="font-size: 60%;font-weight: 100">评论左箭头轮廓</small>
+# comment arrow left outline  <small style="font-size: 60%;font-weight: 100">评论左箭头轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

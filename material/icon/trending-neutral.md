@@ -1,6 +1,6 @@
 ---
 
-title: trending neutral(中性趋势) ICON转svg、png下载
+title:  trending neutral(中性趋势) ICON转svg、png下载
 name: trending-neutral
 zhTips: 中性趋势,持平趋势
 tags: []
@@ -8,11 +8,13 @@ search: trending-flat
 
 ---
 
-# trending-neutral  <small style="font-size: 60%;font-weight: 100">中性趋势</small>
+# trending neutral  <small style="font-size: 60%;font-weight: 100">中性趋势</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

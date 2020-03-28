@@ -1,6 +1,6 @@
 ---
 
-title: iv bag(iv袋) ICON转svg、png下载
+title:  iv bag(iv袋) ICON转svg、png下载
 name: iv-bag
 zhTips: iv袋
 tags: ["medical-hospital"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# iv-bag  <small style="font-size: 60%;font-weight: 100">iv袋</small>
+# iv bag  <small style="font-size: 60%;font-weight: 100">iv袋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

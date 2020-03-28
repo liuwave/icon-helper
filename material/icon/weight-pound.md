@@ -1,6 +1,6 @@
 ---
 
-title: weight pound(重量磅) ICON转svg、png下载
+title:  weight pound(重量磅) ICON转svg、png下载
 name: weight-pound
 zhTips: 重量磅
 tags: []
@@ -8,11 +8,13 @@ search: weight-lb
 
 ---
 
-# weight-pound  <small style="font-size: 60%;font-weight: 100">重量磅</small>
+# weight pound  <small style="font-size: 60%;font-weight: 100">重量磅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

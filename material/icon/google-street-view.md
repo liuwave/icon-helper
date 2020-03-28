@@ -1,6 +1,6 @@
 ---
 
-title: google street view(Google街景) ICON转svg、png下载
+title:  google street view(Google街景) ICON转svg、png下载
 name: google-street-view
 zhTips: Google街景,衣夹人
 tags: []
@@ -8,11 +8,13 @@ search: pegman
 
 ---
 
-# google-street-view  <small style="font-size: 60%;font-weight: 100">Google街景</small>
+# google street view  <small style="font-size: 60%;font-weight: 100">Google街景</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

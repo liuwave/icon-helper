@@ -1,6 +1,6 @@
 ---
 
-title: battery bluetooth variant(电池蓝牙音调) ICON转svg、png下载
+title:  battery bluetooth variant(电池蓝牙音调) ICON转svg、png下载
 name: battery-bluetooth-variant
 zhTips: 电池蓝牙音调
 tags: ["battery"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# battery-bluetooth-variant  <small style="font-size: 60%;font-weight: 100">电池蓝牙音调</small>
+# battery bluetooth variant  <small style="font-size: 60%;font-weight: 100">电池蓝牙音调</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

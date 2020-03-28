@@ -1,6 +1,6 @@
 ---
 
-title: exponent box(指数盒) ICON转svg、png下载
+title:  exponent box(指数盒) ICON转svg、png下载
 name: exponent-box
 zhTips: 指数盒,电源盒
 tags: ["math"]
@@ -8,11 +8,13 @@ search: power-box
 
 ---
 
-# exponent-box  <small style="font-size: 60%;font-weight: 100">指数盒</small>
+# exponent box  <small style="font-size: 60%;font-weight: 100">指数盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

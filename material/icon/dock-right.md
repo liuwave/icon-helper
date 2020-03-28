@@ -1,6 +1,6 @@
 ---
 
-title: dock right(右基座) ICON转svg、png下载
+title:  dock right(右基座) ICON转svg、png下载
 name: dock-right
 zhTips: 右基座
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# dock-right  <small style="font-size: 60%;font-weight: 100">右基座</small>
+# dock right  <small style="font-size: 60%;font-weight: 100">右基座</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

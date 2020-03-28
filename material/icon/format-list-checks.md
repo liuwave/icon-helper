@@ -1,6 +1,6 @@
 ---
 
-title: format list checks(格式列表检查) ICON转svg、png下载
+title:  format list checks(格式列表检查) ICON转svg、png下载
 name: format-list-checks
 zhTips: 格式列表检查
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# format-list-checks  <small style="font-size: 60%;font-weight: 100">格式列表检查</small>
+# format list checks  <small style="font-size: 60%;font-weight: 100">格式列表检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

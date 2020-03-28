@@ -1,6 +1,6 @@
 ---
 
-title: folder key network(文件夹密钥网络) ICON转svg、png下载
+title:  folder key network(文件夹密钥网络) ICON转svg、png下载
 name: folder-key-network
 zhTips: 文件夹密钥网络
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# folder-key-network  <small style="font-size: 60%;font-weight: 100">文件夹密钥网络</small>
+# folder key network  <small style="font-size: 60%;font-weight: 100">文件夹密钥网络</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

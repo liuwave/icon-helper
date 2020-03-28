@@ -1,6 +1,6 @@
 ---
 
-title: water pump(水泵) ICON转svg、png下载
+title:  water pump(水泵) ICON转svg、png下载
 name: water-pump
 zhTips: 水泵
 tags: ["agriculture","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# water-pump  <small style="font-size: 60%;font-weight: 100">水泵</small>
+# water pump  <small style="font-size: 60%;font-weight: 100">水泵</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

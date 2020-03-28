@@ -1,6 +1,6 @@
 ---
 
-title: file swap(文件交换) ICON转svg、png下载
+title:  file swap(文件交换) ICON转svg、png下载
 name: file-swap
 zhTips: 文件交换,文件传输
 tags: ["files-folders"]
@@ -8,11 +8,13 @@ search: file-transfer
 
 ---
 
-# file-swap  <small style="font-size: 60%;font-weight: 100">文件交换</small>
+# file swap  <small style="font-size: 60%;font-weight: 100">文件交换</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

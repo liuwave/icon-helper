@@ -1,6 +1,6 @@
 ---
 
-title: emoticon cry(图释哭泣) ICON转svg、png下载
+title:  emoticon cry(图释哭泣) ICON转svg、png下载
 name: emoticon-cry
 zhTips: 图释哭泣,笑脸哭泣
 tags: ["emoji"]
@@ -8,11 +8,13 @@ search: smiley-cry
 
 ---
 
-# emoticon-cry  <small style="font-size: 60%;font-weight: 100">图释哭泣</small>
+# emoticon cry  <small style="font-size: 60%;font-weight: 100">图释哭泣</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

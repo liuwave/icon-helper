@@ -1,6 +1,6 @@
 ---
 
-title: crosshairs question(十字线问题) ICON转svg、png下载
+title:  crosshairs question(十字线问题) ICON转svg、png下载
 name: crosshairs-question
 zhTips: 十字线问题,十字线未知,gps未知
 tags: ["navigation","geographic-information-system"]
@@ -8,11 +8,13 @@ search: crosshairs-unknown,gps-unknown
 
 ---
 
-# crosshairs-question  <small style="font-size: 60%;font-weight: 100">十字线问题</small>
+# crosshairs question  <small style="font-size: 60%;font-weight: 100">十字线问题</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

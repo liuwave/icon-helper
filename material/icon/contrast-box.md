@@ -1,6 +1,6 @@
 ---
 
-title: contrast box(对比盒) ICON转svg、png下载
+title:  contrast box(对比盒) ICON转svg、png下载
 name: contrast-box
 zhTips: 对比盒
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# contrast-box  <small style="font-size: 60%;font-weight: 100">对比盒</small>
+# contrast box  <small style="font-size: 60%;font-weight: 100">对比盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

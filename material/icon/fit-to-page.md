@@ -1,6 +1,6 @@
 ---
 
-title: fit to page(适合页面) ICON转svg、png下载
+title:  fit to page(适合页面) ICON转svg、png下载
 name: fit-to-page
 zhTips: 适合页面
 tags: ["text-content-format","arrow"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# fit-to-page  <small style="font-size: 60%;font-weight: 100">适合页面</small>
+# fit to page  <small style="font-size: 60%;font-weight: 100">适合页面</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

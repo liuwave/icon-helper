@@ -1,6 +1,6 @@
 ---
 
-title: white balance iridescent(白平衡彩虹色) ICON转svg、png下载
+title:  white balance iridescent(白平衡彩虹色) ICON转svg、png下载
 name: white-balance-iridescent
 zhTips: 白平衡彩虹色,wb彩虹色
 tags: ["photography"]
@@ -8,11 +8,13 @@ search: wb-iridescent
 
 ---
 
-# white-balance-iridescent  <small style="font-size: 60%;font-weight: 100">白平衡彩虹色</small>
+# white balance iridescent  <small style="font-size: 60%;font-weight: 100">白平衡彩虹色</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: emoticon happy(快乐的图释) ICON转svg、png下载
+title:  emoticon happy(快乐的图释) ICON转svg、png下载
 name: emoticon-happy
 zhTips: 快乐的图释,笑脸快乐
 tags: ["emoji"]
@@ -8,11 +8,13 @@ search: smiley-happy
 
 ---
 
-# emoticon-happy  <small style="font-size: 60%;font-weight: 100">快乐的图释</small>
+# emoticon happy  <small style="font-size: 60%;font-weight: 100">快乐的图释</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

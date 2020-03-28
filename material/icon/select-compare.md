@@ -1,6 +1,6 @@
 ---
 
-title: select compare(选择比较) ICON转svg、png下载
+title:  select compare(选择比较) ICON转svg、png下载
 name: select-compare
 zhTips: 选择比较
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# select-compare  <small style="font-size: 60%;font-weight: 100">选择比较</small>
+# select compare  <small style="font-size: 60%;font-weight: 100">选择比较</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

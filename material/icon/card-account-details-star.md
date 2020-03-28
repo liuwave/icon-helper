@@ -1,6 +1,6 @@
 ---
 
-title: card account details star(卡帐户详细信息明星) ICON转svg、png下载
+title:  card account details star(卡帐户详细信息明星) ICON转svg、png下载
 name: card-account-details-star
 zhTips: 卡帐户详细信息明星
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# card-account-details-star  <small style="font-size: 60%;font-weight: 100">卡帐户详细信息明星</small>
+# card account details star  <small style="font-size: 60%;font-weight: 100">卡帐户详细信息明星</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

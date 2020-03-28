@@ -1,6 +1,6 @@
 ---
 
-title: tune vertical(垂直调整) ICON转svg、png下载
+title:  tune vertical(垂直调整) ICON转svg、png下载
 name: tune-vertical
 zhTips: 垂直调整,垂直均衡,即时混音
 tags: ["settings"]
@@ -8,11 +8,13 @@ search: equaliser-vertical,instant-mix
 
 ---
 
-# tune-vertical  <small style="font-size: 60%;font-weight: 100">垂直调整</small>
+# tune vertical  <small style="font-size: 60%;font-weight: 100">垂直调整</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

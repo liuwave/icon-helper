@@ -1,6 +1,6 @@
 ---
 
-title: axis z rotate clockwise(轴z顺时针旋转) ICON转svg、png下载
+title:  axis z rotate clockwise(轴z顺时针旋转) ICON转svg、png下载
 name: axis-z-rotate-clockwise
 zhTips: 轴z顺时针旋转,垂直轴顺时针旋转
 tags: []
@@ -8,11 +8,13 @@ search: vertical-rotate-clockwise
 
 ---
 
-# axis-z-rotate-clockwise  <small style="font-size: 60%;font-weight: 100">轴z顺时针旋转</small>
+# axis z rotate clockwise  <small style="font-size: 60%;font-weight: 100">轴z顺时针旋转</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

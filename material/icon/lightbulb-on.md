@@ -1,6 +1,6 @@
 ---
 
-title: lightbulb on(开灯泡) ICON转svg、png下载
+title:  lightbulb on(开灯泡) ICON转svg、png下载
 name: lightbulb-on
 zhTips: 开灯泡,想法
 tags: ["home-automation"]
@@ -8,11 +8,13 @@ search: idea,bulb-on
 
 ---
 
-# lightbulb-on  <small style="font-size: 60%;font-weight: 100">开灯泡</small>
+# lightbulb on  <small style="font-size: 60%;font-weight: 100">开灯泡</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

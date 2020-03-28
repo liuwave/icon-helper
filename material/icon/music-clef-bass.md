@@ -1,6 +1,6 @@
 ---
 
-title: music clef bass(音乐谱号低音) ICON转svg、png下载
+title:  music clef bass(音乐谱号低音) ICON转svg、png下载
 name: music-clef-bass
 zhTips: 音乐谱号低音,音乐谱号
 tags: ["music"]
@@ -8,11 +8,13 @@ search: music-f-clef
 
 ---
 
-# music-clef-bass  <small style="font-size: 60%;font-weight: 100">音乐谱号低音</small>
+# music clef bass  <small style="font-size: 60%;font-weight: 100">音乐谱号低音</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

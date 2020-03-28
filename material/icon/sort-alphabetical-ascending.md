@@ -1,6 +1,6 @@
 ---
 
-title: sort alphabetical ascending(按字母顺序递增) ICON转svg、png下载
+title:  sort alphabetical ascending(按字母顺序递增) ICON转svg、png下载
 name: sort-alphabetical-ascending
 zhTips: 按字母顺序递增
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# sort-alphabetical-ascending  <small style="font-size: 60%;font-weight: 100">按字母顺序递增</small>
+# sort alphabetical ascending  <small style="font-size: 60%;font-weight: 100">按字母顺序递增</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

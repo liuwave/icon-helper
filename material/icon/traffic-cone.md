@@ -1,6 +1,6 @@
 ---
 
-title: traffic cone(交通锥) ICON转svg、png下载
+title:  traffic cone(交通锥) ICON转svg、png下载
 name: traffic-cone
 zhTips: 交通锥
 tags: ["transportation-road"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# traffic-cone  <small style="font-size: 60%;font-weight: 100">交通锥</small>
+# traffic cone  <small style="font-size: 60%;font-weight: 100">交通锥</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

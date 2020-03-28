@@ -1,6 +1,6 @@
 ---
 
-title: alpha l(alpha l) ICON转svg、png下载
+title:  alpha l(alpha l) ICON转svg、png下载
 name: alpha-l
 zhTips: alpha l,字母l
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-l,letter-l
 
 ---
 
-# alpha-l  <small style="font-size: 60%;font-weight: 100">alpha l</small>
+# alpha l  <small style="font-size: 60%;font-weight: 100">alpha l</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

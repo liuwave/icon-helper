@@ -1,6 +1,6 @@
 ---
 
-title: projector screen(投影仪屏幕) ICON转svg、png下载
+title:  projector screen(投影仪屏幕) ICON转svg、png下载
 name: projector-screen
 zhTips: 投影仪屏幕
 tags: ["device-tech","home-automation"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# projector-screen  <small style="font-size: 60%;font-weight: 100">投影仪屏幕</small>
+# projector screen  <small style="font-size: 60%;font-weight: 100">投影仪屏幕</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

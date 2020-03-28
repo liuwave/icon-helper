@@ -1,6 +1,6 @@
 ---
 
-title: console(控制台) ICON转svg、png下载
+title:  console(控制台) ICON转svg、png下载
 name: console
 zhTips: 控制台,终端
 tags: []
@@ -13,6 +13,8 @@ search: terminal
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

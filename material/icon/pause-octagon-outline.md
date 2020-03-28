@@ -1,6 +1,6 @@
 ---
 
-title: pause octagon outline(暂停八边形轮廓) ICON转svg、png下载
+title:  pause octagon outline(暂停八边形轮廓) ICON转svg、png下载
 name: pause-octagon-outline
 zhTips: 暂停八边形轮廓
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pause-octagon-outline  <small style="font-size: 60%;font-weight: 100">暂停八边形轮廓</small>
+# pause octagon outline  <small style="font-size: 60%;font-weight: 100">暂停八边形轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

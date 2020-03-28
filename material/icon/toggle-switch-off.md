@@ -1,6 +1,6 @@
 ---
 
-title: toggle switch off(拨动开关关闭) ICON转svg、png下载
+title:  toggle switch off(拨动开关关闭) ICON转svg、png下载
 name: toggle-switch-off
 zhTips: 拨动开关关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# toggle-switch-off  <small style="font-size: 60%;font-weight: 100">拨动开关关闭</small>
+# toggle switch off  <small style="font-size: 60%;font-weight: 100">拨动开关关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

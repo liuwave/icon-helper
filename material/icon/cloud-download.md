@@ -1,6 +1,6 @@
 ---
 
-title: cloud download(云下载) ICON转svg、png下载
+title:  cloud download(云下载) ICON转svg、png下载
 name: cloud-download
 zhTips: 云下载
 tags: ["cloud"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# cloud-download  <small style="font-size: 60%;font-weight: 100">云下载</small>
+# cloud download  <small style="font-size: 60%;font-weight: 100">云下载</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

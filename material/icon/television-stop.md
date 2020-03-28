@@ -1,6 +1,6 @@
 ---
 
-title: television stop(电视台) ICON转svg、png下载
+title:  television stop(电视台) ICON转svg、png下载
 name: television-stop
 zhTips: 电视台
 tags: ["device-tech"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# television-stop  <small style="font-size: 60%;font-weight: 100">电视台</small>
+# television stop  <small style="font-size: 60%;font-weight: 100">电视台</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

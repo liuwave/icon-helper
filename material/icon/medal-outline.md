@@ -1,6 +1,6 @@
 ---
 
-title: medal outline(勋章轮廓) ICON转svg、png下载
+title:  medal outline(勋章轮廓) ICON转svg、png下载
 name: medal-outline
 zhTips: 勋章轮廓
 tags: ["sport"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# medal-outline  <small style="font-size: 60%;font-weight: 100">勋章轮廓</small>
+# medal outline  <small style="font-size: 60%;font-weight: 100">勋章轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

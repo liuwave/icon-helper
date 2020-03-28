@@ -1,6 +1,6 @@
 ---
 
-title: pencil remove(铅笔删除) ICON转svg、png下载
+title:  pencil remove(铅笔删除) ICON转svg、png下载
 name: pencil-remove
 zhTips: 铅笔删除
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# pencil-remove  <small style="font-size: 60%;font-weight: 100">铅笔删除</small>
+# pencil remove  <small style="font-size: 60%;font-weight: 100">铅笔删除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

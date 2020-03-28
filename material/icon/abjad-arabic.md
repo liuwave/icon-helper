@@ -1,6 +1,6 @@
 ---
 
-title: abjad arabic(abjad阿拉伯语) ICON转svg、png下载
+title:  abjad arabic(abjad阿拉伯语) ICON转svg、png下载
 name: abjad-arabic
 zhTips: abjad阿拉伯语,书写阿拉伯语系统
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: writing-system-arabic
 
 ---
 
-# abjad-arabic  <small style="font-size: 60%;font-weight: 100">abjad阿拉伯语</small>
+# abjad arabic  <small style="font-size: 60%;font-weight: 100">abjad阿拉伯语</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

@@ -1,6 +1,6 @@
 ---
 
-title: size xs(尺寸xs) ICON转svg、png下载
+title:  size xs(尺寸xs) ICON转svg、png下载
 name: size-xs
 zhTips: 尺寸xs,尺寸特小
 tags: []
@@ -8,11 +8,13 @@ search: size-extra-small
 
 ---
 
-# size-xs  <small style="font-size: 60%;font-weight: 100">尺寸xs</small>
+# size xs  <small style="font-size: 60%;font-weight: 100">尺寸xs</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

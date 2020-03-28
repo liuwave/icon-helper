@@ -1,6 +1,6 @@
 ---
 
-title: alpha q box outline(alpha q框轮廓) ICON转svg、png下载
+title:  alpha q box outline(alpha q框轮廓) ICON转svg、png下载
 name: alpha-q-box-outline
 zhTips: alpha q框轮廓,字母q框轮廓
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-q-box-outline,letter-q-box-outline
 
 ---
 
-# alpha-q-box-outline  <small style="font-size: 60%;font-weight: 100">alpha q框轮廓</small>
+# alpha q box outline  <small style="font-size: 60%;font-weight: 100">alpha q框轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

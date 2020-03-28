@@ -1,6 +1,6 @@
 ---
 
-title: select off(选择关闭) ICON转svg、png下载
+title:  select off(选择关闭) ICON转svg、png下载
 name: select-off
 zhTips: 选择关闭
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# select-off  <small style="font-size: 60%;font-weight: 100">选择关闭</small>
+# select off  <small style="font-size: 60%;font-weight: 100">选择关闭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

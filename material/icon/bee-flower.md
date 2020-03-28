@@ -1,6 +1,6 @@
 ---
 
-title: bee flower(蜜蜂花) ICON转svg、png下载
+title:  bee flower(蜜蜂花) ICON转svg、png下载
 name: bee-flower
 zhTips: 蜜蜂花,鲜花,自然
 tags: ["nature"]
@@ -8,11 +8,13 @@ search: fly-flower,nature
 
 ---
 
-# bee-flower  <small style="font-size: 60%;font-weight: 100">蜜蜂花</small>
+# bee flower  <small style="font-size: 60%;font-weight: 100">蜜蜂花</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

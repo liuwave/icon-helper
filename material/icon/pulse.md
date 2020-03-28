@@ -1,6 +1,6 @@
 ---
 
-title: pulse(脉搏) ICON转svg、png下载
+title:  pulse(脉搏) ICON转svg、png下载
 name: pulse
 zhTips: 脉搏,生命
 tags: ["medical-hospital"]
@@ -13,6 +13,8 @@ search: vitals
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

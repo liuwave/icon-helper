@@ -1,6 +1,6 @@
 ---
 
-title: go kart track(至卡丁车赛道) ICON转svg、png下载
+title:  go kart track(至卡丁车赛道) ICON转svg、png下载
 name: go-kart-track
 zhTips: 至卡丁车赛道
 tags: []
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# go-kart-track  <small style="font-size: 60%;font-weight: 100">至卡丁车赛道</small>
+# go kart track  <small style="font-size: 60%;font-weight: 100">至卡丁车赛道</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

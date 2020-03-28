@@ -1,6 +1,6 @@
 ---
 
-title: bluetooth settings(蓝牙设置) ICON转svg、png下载
+title:  bluetooth settings(蓝牙设置) ICON转svg、png下载
 name: bluetooth-settings
 zhTips: 蓝牙设置
 tags: ["settings"]
@@ -8,11 +8,13 @@ search: settings-bluetooth
 
 ---
 
-# bluetooth-settings  <small style="font-size: 60%;font-weight: 100">蓝牙设置</small>
+# bluetooth settings  <small style="font-size: 60%;font-weight: 100">蓝牙设置</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

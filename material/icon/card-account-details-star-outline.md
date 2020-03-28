@@ -1,6 +1,6 @@
 ---
 
-title: card account details star outline(卡帐户详细信息星空轮廓) ICON转svg、png下载
+title:  card account details star outline(卡帐户详细信息星空轮廓) ICON转svg、png下载
 name: card-account-details-star-outline
 zhTips: 卡帐户详细信息星空轮廓
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search:
 
 ---
 
-# card-account-details-star-outline  <small style="font-size: 60%;font-weight: 100">卡帐户详细信息星空轮廓</small>
+# card account details star outline  <small style="font-size: 60%;font-weight: 100">卡帐户详细信息星空轮廓</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

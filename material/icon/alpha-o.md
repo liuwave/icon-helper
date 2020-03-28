@@ -1,6 +1,6 @@
 ---
 
-title: alpha o(alpha o) ICON转svg、png下载
+title:  alpha o(alpha o) ICON转svg、png下载
 name: alpha-o
 zhTips: alpha o,字母o
 tags: ["alpha-numeric"]
@@ -8,11 +8,13 @@ search: alphabet-o,letter-o
 
 ---
 
-# alpha-o  <small style="font-size: 60%;font-weight: 100">alpha o</small>
+# alpha o  <small style="font-size: 60%;font-weight: 100">alpha o</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

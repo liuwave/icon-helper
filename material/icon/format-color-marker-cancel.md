@@ -1,6 +1,6 @@
 ---
 
-title: format color marker cancel(取消设置颜色标记) ICON转svg、png下载
+title:  format color marker cancel(取消设置颜色标记) ICON转svg、png下载
 name: format-color-marker-cancel
 zhTips: 取消设置颜色标记,格式化红色
 tags: ["text-content-format"]
@@ -8,11 +8,13 @@ search: format-color-redact
 
 ---
 
-# format-color-marker-cancel  <small style="font-size: 60%;font-weight: 100">取消设置颜色标记</small>
+# format color marker cancel  <small style="font-size: 60%;font-weight: 100">取消设置颜色标记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 

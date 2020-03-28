@@ -1,6 +1,6 @@
 ---
 
-title: account box multiple(帐户箱多个) ICON转svg、png下载
+title:  account box multiple(帐户箱多个) ICON转svg、png下载
 name: account-box-multiple
 zhTips: 帐户箱多个,切换帐户,用户箱多个,帐户箱,用户箱,人员箱多个,人员箱
 tags: ["account-user"]
@@ -8,11 +8,13 @@ search: switch-account,user-box-multiple,account-boxes,user-boxes,person-box-mul
 
 ---
 
-# account-box-multiple  <small style="font-size: 60%;font-weight: 100">帐户箱多个</small>
+# account box multiple  <small style="font-size: 60%;font-weight: 100">帐户箱多个</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Material Design Icons</span> 
