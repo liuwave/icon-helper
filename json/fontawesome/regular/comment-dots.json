@@ -45,6 +45,6 @@
     "语音",
     "发短信"
   ],
-  "description": "",
+  "description": "带点的评论条，多用于表示有消息内容。",
   "comments": []
 }
