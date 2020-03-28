@@ -9,11 +9,13 @@ search: chocolate,cone,dessert,frozen,scoop,sorbet,vanilla,yogurt
 
 ---
 
-# ice-cream  <small style="font-size: 60%;font-weight: 100">冰淇淋</small>
+# Ice Cream  <small style="font-size: 60%;font-weight: 100">冰淇淋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

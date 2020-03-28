@@ -2,18 +2,20 @@
 
 title: TTY(通信) ICON转svg、png下载
 name: tty
-zhTips: TTY,通信,聋人,电话,打字机,文本
+zhTips: TTY,通信,聋人,电话,打字机,文本,电传打字机
 tags: ["accessibility","communication","maps"]
 pre: fas
 search: communication,deaf,telephone,teletypewriter,text
 
 ---
 
-# tty  <small style="font-size: 60%;font-weight: 100">通信</small>
+# TTY  <small style="font-size: 60%;font-weight: 100">通信</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">communication</span><span class="badge-light badge">deaf</span><span class="badge-light badge">telephone</span><span class="badge-light badge">teletypewriter</span><span class="badge-light badge">text</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">TTY</span><span class="badge-primary badge">通信</span><span class="badge-primary badge">聋人</span><span class="badge-primary badge">电话</span><span class="badge-primary badge">打字机</span><span class="badge-primary badge">文本</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tty.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tty.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">communication</span><span class="badge-light badge">deaf</span><span class="badge-light badge">telephone</span><span class="badge-light badge">teletypewriter</span><span class="badge-light badge">text</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">TTY</span><span class="badge-primary badge">通信</span><span class="badge-primary badge">聋人</span><span class="badge-primary badge">电话</span><span class="badge-primary badge">打字机</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">电传打字机</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tty.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tty.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示远距离传送信息。</div>
 <div class="alert alert-dark">
   <i class="fas fa-tty fa-xs"></i>
   <i class="fas fa-tty fa-sm"></i>

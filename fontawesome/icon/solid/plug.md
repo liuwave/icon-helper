@@ -2,18 +2,20 @@
 
 title: Plug(插头) ICON转svg、png下载
 name: plug
-zhTips: 插头,连接,电气,在线,电源
+zhTips: 插头,连接,电气,在线,电源,插头黑
 tags: ["computers","energy","household","maps","objects"]
 pre: fas
 search: connect,electric,online,power
 
 ---
 
-# plug  <small style="font-size: 60%;font-weight: 100">插头</small>
+# Plug  <small style="font-size: 60%;font-weight: 100">插头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">connect</span><span class="badge-light badge">electric</span><span class="badge-light badge">online</span><span class="badge-light badge">power</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">插头</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">电气</span><span class="badge-primary badge">在线</span><span class="badge-primary badge">电源</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plug.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plug.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">connect</span><span class="badge-light badge">electric</span><span class="badge-light badge">online</span><span class="badge-light badge">power</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">插头</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">电气</span><span class="badge-primary badge">在线</span><span class="badge-primary badge">电源</span><span class="badge-primary badge">插头黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plug.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plug.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示电源，取电等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-plug fa-xs"></i>
   <i class="fas fa-plug fa-sm"></i>

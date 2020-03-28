@@ -9,11 +9,13 @@ search: date,late,schedule,time,timer,timestamp,watch
 
 ---
 
-# clock  <small style="font-size: 60%;font-weight: 100">时钟</small>
+# Clock  <small style="font-size: 60%;font-weight: 100">时钟</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">date</span><span class="badge-light badge">late</span><span class="badge-light badge">schedule</span><span class="badge-light badge">time</span><span class="badge-light badge">timer</span><span class="badge-light badge">timestamp</span><span class="badge-light badge">watch</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">时钟</span><span class="badge-primary badge">日期</span><span class="badge-primary badge">时间</span><span class="badge-primary badge">时间表</span><span class="badge-primary badge">计时器</span><span class="badge-primary badge">时间戳</span><span class="badge-primary badge">手表</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/clock.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/clock.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">时钟，一般用于计时，显示时间的事件，也可以表示闹钟、手表。</div>
 <div class="alert alert-dark">
   <i class="fas fa-clock fa-xs"></i>
   <i class="fas fa-clock fa-sm"></i>

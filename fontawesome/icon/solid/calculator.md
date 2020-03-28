@@ -9,11 +9,13 @@ search: abacus,addition,arithmetic,counting,math,multiplication,subtraction
 
 ---
 
-# calculator  <small style="font-size: 60%;font-weight: 100">计算器</small>
+# Calculator  <small style="font-size: 60%;font-weight: 100">计算器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">abacus</span><span class="badge-light badge">addition</span><span class="badge-light badge">arithmetic</span><span class="badge-light badge">counting</span><span class="badge-light badge">math</span><span class="badge-light badge">multiplication</span><span class="badge-light badge">subtraction</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">计算器</span><span class="badge-primary badge">算盘</span><span class="badge-primary badge">加法</span><span class="badge-primary badge">算术</span><span class="badge-primary badge">计数</span><span class="badge-primary badge">数学</span><span class="badge-primary badge">乘法</span><span class="badge-primary badge">减法</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/calculator.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/calculator.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">计算器，可以表示计算功能、密码事件。</div>
 <div class="alert alert-dark">
   <i class="fas fa-calculator fa-xs"></i>
   <i class="fas fa-calculator fa-sm"></i>

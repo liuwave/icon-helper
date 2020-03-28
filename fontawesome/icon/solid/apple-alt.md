@@ -9,11 +9,13 @@ search: fall,fruit,fuji,macintosh,orchard,seasonal,vegan
 
 ---
 
-# apple-alt  <small style="font-size: 60%;font-weight: 100">水果苹果</small>
+# Fruit Apple  <small style="font-size: 60%;font-weight: 100">水果苹果</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

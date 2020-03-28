@@ -2,18 +2,20 @@
 
 title: Heart(心脏) ICON转svg、png下载
 name: heart
-zhTips: 心脏,收藏夹,喜欢,爱情,关系,情人节
+zhTips: 心脏,收藏夹,喜欢,爱情,关系,情人节,心镂空
 tags: ["charity","fitness","games","health","interfaces","maps","medical","objects","payments-shopping","shapes","social"]
 pre: fas
 search: favorite,like,love,relationship,valentine
 
 ---
 
-# heart  <small style="font-size: 60%;font-weight: 100">心脏</small>
+# Heart  <small style="font-size: 60%;font-weight: 100">心脏</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">favorite</span><span class="badge-light badge">like</span><span class="badge-light badge">love</span><span class="badge-light badge">relationship</span><span class="badge-light badge">valentine</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">心脏</span><span class="badge-primary badge">收藏夹</span><span class="badge-primary badge">喜欢</span><span class="badge-primary badge">爱情</span><span class="badge-primary badge">关系</span><span class="badge-primary badge">情人节</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heart.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heart.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">favorite</span><span class="badge-light badge">like</span><span class="badge-light badge">love</span><span class="badge-light badge">relationship</span><span class="badge-light badge">valentine</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">心脏</span><span class="badge-primary badge">收藏夹</span><span class="badge-primary badge">喜欢</span><span class="badge-primary badge">爱情</span><span class="badge-primary badge">关系</span><span class="badge-primary badge">情人节</span><span class="badge-primary badge">心镂空</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heart.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heart.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">心脏，可以表示爱心、爱情等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-heart fa-xs"></i>
   <i class="fas fa-heart fa-sm"></i>

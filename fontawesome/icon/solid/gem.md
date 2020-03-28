@@ -9,11 +9,13 @@ search: diamond,jewelry,sapphire,stone,treasure
 
 ---
 
-# gem  <small style="font-size: 60%;font-weight: 100">宝石</small>
+# Gem  <small style="font-size: 60%;font-weight: 100">宝石</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">diamond</span><span class="badge-light badge">jewelry</span><span class="badge-light badge">sapphire</span><span class="badge-light badge">stone</span><span class="badge-light badge">treasure</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">宝石</span><span class="badge-primary badge">钻石</span><span class="badge-primary badge">珠宝</span><span class="badge-primary badge">蓝宝石</span><span class="badge-primary badge">石头</span><span class="badge-primary badge">宝藏</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gem.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gem.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示宝石，首饰等珍贵物品，也可以表示宝藏。</div>
 <div class="alert alert-dark">
   <i class="fas fa-gem fa-xs"></i>
   <i class="fas fa-gem fa-sm"></i>

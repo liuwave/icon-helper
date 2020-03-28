@@ -9,11 +9,13 @@ search: external-link-square,new,open,share
 
 ---
 
-# external-link-square-alt  <small style="font-size: 60%;font-weight: 100">备用外部链接广场</small>
+# Alternate External Link Square  <small style="font-size: 60%;font-weight: 100">备用外部链接广场</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

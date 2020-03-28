@@ -2,18 +2,20 @@
 
 title: Trello(特洛洛) ICON转svg、png下载
 name: trello
-zhTips: 特洛洛
+zhTips: 特洛洛,trello
 tags: []
 pre: fab
 search: atlassian
 
 ---
 
-# trello  <small style="font-size: 60%;font-weight: 100">特洛洛</small>
+# Trello  <small style="font-size: 60%;font-weight: 100">特洛洛</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">atlassian</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">特洛洛</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/trello.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/trello.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">atlassian</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">特洛洛</span><span class="badge-primary badge">trello</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/trello.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/trello.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Trello是一个任务管理软件、团队协作工具。使用方便，完全免费。</div>
 <div class="alert alert-dark">
   <i class="fab fa-trello fa-xs"></i>
   <i class="fab fa-trello fa-sm"></i>

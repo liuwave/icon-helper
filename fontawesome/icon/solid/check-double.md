@@ -9,11 +9,13 @@ search: accept,agree,checkmark,confirm,correct,done,notice,notification,notify,o
 
 ---
 
-# check-double  <small style="font-size: 60%;font-weight: 100">仔细检查</small>
+# Double Check  <small style="font-size: 60%;font-weight: 100">仔细检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

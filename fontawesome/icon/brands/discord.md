@@ -9,11 +9,13 @@ search:
 
 ---
 
-# discord  <small style="font-size: 60%;font-weight: 100">Discord</small>
+# Discord  <small style="font-size: 60%;font-weight: 100">Discord</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">Discord</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/discord.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/discord.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Discord是一款语音聊天沟通软件</div>
 <div class="alert alert-dark">
   <i class="fab fa-discord fa-xs"></i>
   <i class="fab fa-discord fa-sm"></i>

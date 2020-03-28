@@ -9,11 +9,13 @@ search: bubble,chat,commenting,conversation,feedback,message,more,note,notificat
 
 ---
 
-# comment-dots  <small style="font-size: 60%;font-weight: 100">评论点</small>
+# Comment Dots  <small style="font-size: 60%;font-weight: 100">评论点</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">bubble</span><span class="badge-light badge">chat</span><span class="badge-light badge">commenting</span><span class="badge-light badge">conversation</span><span class="badge-light badge">feedback</span><span class="badge-light badge">message</span><span class="badge-light badge">more</span><span class="badge-light badge">note</span><span class="badge-light badge">notification</span><span class="badge-light badge">reply</span><span class="badge-light badge">sms</span><span class="badge-light badge">speech</span><span class="badge-light badge">texting</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">评论点</span><span class="badge-primary badge">泡沫</span><span class="badge-primary badge">聊天</span><span class="badge-primary badge">评论</span><span class="badge-primary badge">对话</span><span class="badge-primary badge">反馈</span><span class="badge-primary badge">消息</span><span class="badge-primary badge">更多</span><span class="badge-primary badge">请注意</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">回复</span><span class="badge-primary badge">短信</span><span class="badge-primary badge">语音</span><span class="badge-primary badge">发短信</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/comment-dots.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/comment-dots.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">带点的评论条，多用于表示有消息内容。</div>
 <div class="alert alert-dark">
   <i class="far fa-comment-dots fa-xs"></i>
   <i class="far fa-comment-dots fa-sm"></i>

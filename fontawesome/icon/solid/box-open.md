@@ -9,11 +9,13 @@ search: archive,container,package,storage,unpack
 
 ---
 
-# box-open  <small style="font-size: 60%;font-weight: 100">开箱</small>
+# Box Open  <small style="font-size: 60%;font-weight: 100">开箱</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

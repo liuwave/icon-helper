@@ -9,11 +9,13 @@ search: alert,cancel,disabled,notification,off,reminder
 
 ---
 
-# bell-slash  <small style="font-size: 60%;font-weight: 100">警报</small>
+# Bell Slash  <small style="font-size: 60%;font-weight: 100">警报</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">alert</span><span class="badge-light badge">cancel</span><span class="badge-light badge">disabled</span><span class="badge-light badge">notification</span><span class="badge-light badge">off</span><span class="badge-light badge">reminder</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Bell Slash</span><span class="badge-primary badge">警报</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">禁用</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">关闭</span><span class="badge-primary badge">提醒</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bell-slash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bell-slash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">画斜线的铃铛，一般用于表示铃声关闭的状态。</div>
 <div class="alert alert-dark">
   <i class="fas fa-bell-slash fa-xs"></i>
   <i class="fas fa-bell-slash fa-sm"></i>

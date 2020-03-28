@@ -9,11 +9,13 @@ search: analyze,detect,diagnosis,examine,medicine
 
 ---
 
-# diagnoses  <small style="font-size: 60%;font-weight: 100">诊断</small>
+# Diagnoses  <small style="font-size: 60%;font-weight: 100">诊断</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">analyze</span><span class="badge-light badge">detect</span><span class="badge-light badge">diagnosis</span><span class="badge-light badge">examine</span><span class="badge-light badge">medicine</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">诊断</span><span class="badge-primary badge">分析</span><span class="badge-primary badge">检测</span><span class="badge-primary badge">检查</span><span class="badge-primary badge">医学</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/diagnoses.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/diagnoses.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">听诊器，判断患者病情，常常表示看医生</div>
 <div class="alert alert-dark">
   <i class="fas fa-diagnoses fa-xs"></i>
   <i class="fas fa-diagnoses fa-sm"></i>

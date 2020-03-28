@@ -9,11 +9,13 @@ search: beverage,breakfast,cafe,drink,fall,morning,mug,seasonal,tea
 
 ---
 
-# coffee  <small style="font-size: 60%;font-weight: 100">咖啡</small>
+# Coffee  <small style="font-size: 60%;font-weight: 100">咖啡</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">beverage</span><span class="badge-light badge">breakfast</span><span class="badge-light badge">cafe</span><span class="badge-light badge">drink</span><span class="badge-light badge">fall</span><span class="badge-light badge">morning</span><span class="badge-light badge">mug</span><span class="badge-light badge">seasonal</span><span class="badge-light badge">tea</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">咖啡</span><span class="badge-primary badge">饮料</span><span class="badge-primary badge">早餐</span><span class="badge-primary badge">咖啡厅</span><span class="badge-primary badge">秋天</span><span class="badge-primary badge">早上</span><span class="badge-primary badge">杯子</span><span class="badge-primary badge">季节性</span><span class="badge-primary badge">茶</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/coffee.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/coffee.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">咖啡，可以表示休闲、饮料。</div>
 <div class="alert alert-dark">
   <i class="fas fa-coffee fa-xs"></i>
   <i class="fas fa-coffee fa-sm"></i>

@@ -2,7 +2,7 @@
 
 title: skyatlas(摩天大楼) ICON转svg、png下载
 name: skyatlas
-zhTips: 摩天大楼
+zhTips: 摩天大楼,skyatlas
 tags: []
 pre: fab
 search: 
@@ -14,6 +14,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">摩天大楼</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/skyatlas.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/skyatlas.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">摩天大楼</span><span class="badge-primary badge">skyatlas</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/skyatlas.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/skyatlas.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">SkyAtlas是一家提供云平台公司，产品包括云服务器、云存储和网络基础设施等。</div>
 <div class="alert alert-dark">
   <i class="fab fa-skyatlas fa-xs"></i>
   <i class="fab fa-skyatlas fa-sm"></i>

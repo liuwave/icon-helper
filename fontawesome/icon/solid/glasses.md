@@ -2,18 +2,20 @@
 
 title: Glasses(眼镜) ICON转svg、png下载
 name: glasses
-zhTips: 眼镜,时髦,书呆子,阅读,视线,视觉
+zhTips: 眼镜,时髦,书呆子,阅读,视线,视觉,太阳镜
 tags: ["business","editors","interfaces","objects"]
 pre: fas
 search: hipster,nerd,reading,sight,spectacles,vision
 
 ---
 
-# glasses  <small style="font-size: 60%;font-weight: 100">眼镜</small>
+# Glasses  <small style="font-size: 60%;font-weight: 100">眼镜</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">hipster</span><span class="badge-light badge">nerd</span><span class="badge-light badge">reading</span><span class="badge-light badge">sight</span><span class="badge-light badge">spectacles</span><span class="badge-light badge">vision</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">眼镜</span><span class="badge-primary badge">时髦</span><span class="badge-primary badge">书呆子</span><span class="badge-primary badge">阅读</span><span class="badge-primary badge">视线</span><span class="badge-primary badge">视觉</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/glasses.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/glasses.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">hipster</span><span class="badge-light badge">nerd</span><span class="badge-light badge">reading</span><span class="badge-light badge">sight</span><span class="badge-light badge">spectacles</span><span class="badge-light badge">vision</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">眼镜</span><span class="badge-primary badge">时髦</span><span class="badge-primary badge">书呆子</span><span class="badge-primary badge">阅读</span><span class="badge-primary badge">视线</span><span class="badge-primary badge">视觉</span><span class="badge-primary badge">太阳镜</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/glasses.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/glasses.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示防晒，遮阳等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-glasses fa-xs"></i>
   <i class="fas fa-glasses fa-sm"></i>

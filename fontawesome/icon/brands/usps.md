@@ -9,11 +9,13 @@ search: american,package,shipping,usa
 
 ---
 
-# usps  <small style="font-size: 60%;font-weight: 100">美国邮政服务</small>
+# United States Postal Service  <small style="font-size: 60%;font-weight: 100">美国邮政服务</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

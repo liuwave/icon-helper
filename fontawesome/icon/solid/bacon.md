@@ -9,11 +9,13 @@ search: blt,breakfast,ham,lard,meat,pancetta,pork,rasher
 
 ---
 
-# bacon  <small style="font-size: 60%;font-weight: 100">培根</small>
+# Bacon  <small style="font-size: 60%;font-weight: 100">培根</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

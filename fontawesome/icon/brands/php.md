@@ -1,19 +1,21 @@
 ---
 
-title: PHP(PHP) ICON转svg、png下载
+title: PHP(超文本预处理器) ICON转svg、png下载
 name: php
-zhTips: PHP
+zhTips: 超文本预处理器
 tags: []
 pre: fab
 search: 
 
 ---
 
-# php  <small style="font-size: 60%;font-weight: 100">PHP</small>
+# PHP  <small style="font-size: 60%;font-weight: 100">超文本预处理器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">PHP</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/php.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/php.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">超文本预处理器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/php.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/php.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">PHP（“超文本预处理器），是最流行的网站开发语言之一。嗯，也是世界上最好的语言。</div>
 <div class="alert alert-dark">
   <i class="fab fa-php fa-xs"></i>
   <i class="fab fa-php fa-sm"></i>

@@ -1,19 +1,21 @@
 ---
 
-title: Adversal(顾问) ICON转svg、png下载
+title: Adversal(Adversal媒体公司 ) ICON转svg、png下载
 name: adversal
-zhTips: 顾问
+zhTips: Adversal媒体公司 ,顾问
 tags: []
 pre: fab
 search: 
 
 ---
 
-# adversal  <small style="font-size: 60%;font-weight: 100">顾问</small>
+# Adversal  <small style="font-size: 60%;font-weight: 100">Adversal媒体公司 </small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">顾问</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/adversal.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/adversal.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Adversal媒体公司 </span><span class="badge-primary badge">顾问</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/adversal.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/adversal.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Adversal是一家位于美国印第安纳州的广告科技公司，提供自助广告投放平台。</div>
 <div class="alert alert-dark">
   <i class="fab fa-adversal fa-xs"></i>
   <i class="fab fa-adversal fa-sm"></i>

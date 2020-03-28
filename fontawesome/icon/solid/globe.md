@@ -9,11 +9,13 @@ search: all,coordinates,country,earth,global,gps,language,localize,location,map,
 
 ---
 
-# globe  <small style="font-size: 60%;font-weight: 100">地球</small>
+# Globe  <small style="font-size: 60%;font-weight: 100">地球</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">all</span><span class="badge-light badge">coordinates</span><span class="badge-light badge">country</span><span class="badge-light badge">earth</span><span class="badge-light badge">global</span><span class="badge-light badge">gps</span><span class="badge-light badge">language</span><span class="badge-light badge">localize</span><span class="badge-light badge">location</span><span class="badge-light badge">map</span><span class="badge-light badge">online</span><span class="badge-light badge">place</span><span class="badge-light badge">planet</span><span class="badge-light badge">translate</span><span class="badge-light badge">travel</span><span class="badge-light badge">world</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">地球</span><span class="badge-primary badge">所有</span><span class="badge-primary badge">坐标</span><span class="badge-primary badge">国家</span><span class="badge-primary badge">全球</span><span class="badge-primary badge">全球定位系统</span><span class="badge-primary badge">语言</span><span class="badge-primary badge">本地化</span><span class="badge-primary badge">位置</span><span class="badge-primary badge">地图</span><span class="badge-primary badge">在线</span><span class="badge-primary badge">地方</span><span class="badge-primary badge">行星</span><span class="badge-primary badge">翻译</span><span class="badge-primary badge">旅行</span><span class="badge-primary badge">世界</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/globe.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/globe.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">可用于表示地理位置、自然环境等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-globe fa-xs"></i>
   <i class="fas fa-globe fa-sm"></i>

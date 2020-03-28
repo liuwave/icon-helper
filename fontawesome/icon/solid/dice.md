@@ -9,11 +9,13 @@ search: chance,gambling,game,roll
 
 ---
 
-# dice  <small style="font-size: 60%;font-weight: 100">骰子</small>
+# Dice  <small style="font-size: 60%;font-weight: 100">骰子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">chance</span><span class="badge-light badge">gambling</span><span class="badge-light badge">game</span><span class="badge-light badge">roll</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">骰子</span><span class="badge-primary badge">机会</span><span class="badge-primary badge">赌博</span><span class="badge-primary badge">游戏</span><span class="badge-primary badge">角色</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dice.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dice.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">骰子，一种娱乐游戏，表示赌博。</div>
 <div class="alert alert-dark">
   <i class="fas fa-dice fa-xs"></i>
   <i class="fas fa-dice fa-sm"></i>

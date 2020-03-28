@@ -9,11 +9,13 @@ search: accept,agree,confirm,correct,done,ok,select,success,tick,todo,yes
 
 ---
 
-# check-circle  <small style="font-size: 60%;font-weight: 100">检查圈子</small>
+# Check Circle  <small style="font-size: 60%;font-weight: 100">检查圈子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

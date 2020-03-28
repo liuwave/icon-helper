@@ -9,11 +9,13 @@ search: airport,machine,public-transportation,transportation,travel,vehicle
 
 ---
 
-# shuttle-van  <small style="font-size: 60%;font-weight: 100">班车</small>
+# Shuttle Van  <small style="font-size: 60%;font-weight: 100">班车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

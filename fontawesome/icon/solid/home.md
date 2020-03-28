@@ -2,7 +2,7 @@
 
 title: home(家庭) ICON转svg、png下载
 name: home
-zhTips: 家庭,住所,建筑,房屋,主要
+zhTips: 家庭,住所,建筑,房屋,主要,家
 tags: ["buildings","interfaces","maps","objects"]
 pre: fas
 search: abode,building,house,main
@@ -14,6 +14,8 @@ search: abode,building,house,main
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">abode</span><span class="badge-light badge">building</span><span class="badge-light badge">house</span><span class="badge-light badge">main</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">家庭</span><span class="badge-primary badge">住所</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">房屋</span><span class="badge-primary badge">主要</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/home.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/home.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">abode</span><span class="badge-light badge">building</span><span class="badge-light badge">house</span><span class="badge-light badge">main</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">家庭</span><span class="badge-primary badge">住所</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">房屋</span><span class="badge-primary badge">主要</span><span class="badge-primary badge">家</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/home.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/home.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">代表住宅，房子、家等等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-home fa-xs"></i>
   <i class="fas fa-home fa-sm"></i>

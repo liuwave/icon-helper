@@ -1,19 +1,21 @@
 ---
 
-title: Ravelry(标枪) ICON转svg、png下载
+title: Ravelry(拉威尔) ICON转svg、png下载
 name: ravelry
-zhTips: 标枪
+zhTips: 拉威尔
 tags: []
 pre: fab
 search: 
 
 ---
 
-# ravelry  <small style="font-size: 60%;font-weight: 100">标枪</small>
+# Ravelry  <small style="font-size: 60%;font-weight: 100">拉威尔</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">标枪</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ravelry.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ravelry.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">拉威尔</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ravelry.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ravelry.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Ravelry是编织者，钩针编织者，设计师，纺纱厂，织布厂和染色厂分享灵感获得灵感的网站。</div>
 <div class="alert alert-dark">
   <i class="fab fa-ravelry fa-xs"></i>
   <i class="fab fa-ravelry fa-sm"></i>

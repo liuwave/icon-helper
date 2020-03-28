@@ -2,18 +2,20 @@
 
 title: Smoking(吸烟) ICON转svg、png下载
 name: smoking
-zhTips: 吸烟,癌症,香烟,尼古丁,吸烟状态,烟草
+zhTips: 吸烟,癌症,香烟,尼古丁,吸烟状态,烟草,吸烟标志
 tags: ["hotel","medical"]
 pre: fas
 search: cancer,cigarette,nicotine,smoking status,tobacco
 
 ---
 
-# smoking  <small style="font-size: 60%;font-weight: 100">吸烟</small>
+# Smoking  <small style="font-size: 60%;font-weight: 100">吸烟</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">cancer</span><span class="badge-light badge">cigarette</span><span class="badge-light badge">nicotine</span><span class="badge-light badge">smoking status</span><span class="badge-light badge">tobacco</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">吸烟</span><span class="badge-primary badge">癌症</span><span class="badge-primary badge">香烟</span><span class="badge-primary badge">尼古丁</span><span class="badge-primary badge">吸烟状态</span><span class="badge-primary badge">烟草</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/smoking.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/smoking.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">cancer</span><span class="badge-light badge">cigarette</span><span class="badge-light badge">nicotine</span><span class="badge-light badge">smoking status</span><span class="badge-light badge">tobacco</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">吸烟</span><span class="badge-primary badge">癌症</span><span class="badge-primary badge">香烟</span><span class="badge-primary badge">尼古丁</span><span class="badge-primary badge">吸烟状态</span><span class="badge-primary badge">烟草</span><span class="badge-primary badge">吸烟标志</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/smoking.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/smoking.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">吸烟，表示吸烟区。</div>
 <div class="alert alert-dark">
   <i class="fas fa-smoking fa-xs"></i>
   <i class="fas fa-smoking fa-sm"></i>

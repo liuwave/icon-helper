@@ -9,11 +9,13 @@ search: directions,directory,location,menu,navigation,safari,travel
 
 ---
 
-# compass  <small style="font-size: 60%;font-weight: 100">指南针</small>
+# Compass  <small style="font-size: 60%;font-weight: 100">指南针</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">directions</span><span class="badge-light badge">directory</span><span class="badge-light badge">location</span><span class="badge-light badge">menu</span><span class="badge-light badge">navigation</span><span class="badge-light badge">safari</span><span class="badge-light badge">travel</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">指南针</span><span class="badge-primary badge">方向</span><span class="badge-primary badge">目录</span><span class="badge-primary badge">位置</span><span class="badge-primary badge">菜单</span><span class="badge-primary badge">导航</span><span class="badge-primary badge">野生动物园</span><span class="badge-primary badge">旅行</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/compass.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/compass.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">指南针，可以表示导航仪，旅行等。</div>
 <div class="alert alert-dark">
   <i class="far fa-compass fa-xs"></i>
   <i class="far fa-compass fa-sm"></i>

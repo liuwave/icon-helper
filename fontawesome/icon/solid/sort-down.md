@@ -9,11 +9,13 @@ search: arrow,descending,filter,order,sort-desc
 
 ---
 
-# sort-down  <small style="font-size: 60%;font-weight: 100">排序（降序）</small>
+# Sort Down (Descending)  <small style="font-size: 60%;font-weight: 100">排序（降序）</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

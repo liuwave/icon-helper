@@ -2,18 +2,20 @@
 
 title: Memory(内存) ICON转svg、png下载
 name: memory
-zhTips: 内存,DIMM,RAM,硬件,存储,技术
+zhTips: 内存,DIMM,RAM,硬件,存储,技术,记忆
 tags: ["computers","objects"]
 pre: fas
 search: DIMM,RAM,hardware,storage,technology
 
 ---
 
-# memory  <small style="font-size: 60%;font-weight: 100">内存</small>
+# Memory  <small style="font-size: 60%;font-weight: 100">内存</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">DIMM</span><span class="badge-light badge">RAM</span><span class="badge-light badge">hardware</span><span class="badge-light badge">storage</span><span class="badge-light badge">technology</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">内存</span><span class="badge-primary badge">DIMM</span><span class="badge-primary badge">RAM</span><span class="badge-primary badge">硬件</span><span class="badge-primary badge">存储</span><span class="badge-primary badge">技术</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/memory.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/memory.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">DIMM</span><span class="badge-light badge">RAM</span><span class="badge-light badge">hardware</span><span class="badge-light badge">storage</span><span class="badge-light badge">technology</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">内存</span><span class="badge-primary badge">DIMM</span><span class="badge-primary badge">RAM</span><span class="badge-primary badge">硬件</span><span class="badge-primary badge">存储</span><span class="badge-primary badge">技术</span><span class="badge-primary badge">记忆</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/memory.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/memory.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示存储、保持等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-memory fa-xs"></i>
   <i class="fas fa-memory fa-sm"></i>

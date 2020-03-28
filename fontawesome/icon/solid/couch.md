@@ -9,11 +9,13 @@ search: chair,cushion,furniture,relax,sofa
 
 ---
 
-# couch  <small style="font-size: 60%;font-weight: 100">沙发</small>
+# Couch  <small style="font-size: 60%;font-weight: 100">沙发</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">chair</span><span class="badge-light badge">cushion</span><span class="badge-light badge">furniture</span><span class="badge-light badge">relax</span><span class="badge-light badge">sofa</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">沙发</span><span class="badge-primary badge">椅子</span><span class="badge-primary badge">靠垫</span><span class="badge-primary badge">家具</span><span class="badge-primary badge">放松</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/couch.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/couch.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">沙发，可以表示休息区、VIP区。</div>
 <div class="alert alert-dark">
   <i class="fas fa-couch fa-xs"></i>
   <i class="fas fa-couch fa-sm"></i>

@@ -9,11 +9,13 @@ search: audio,ban,music,mute,quiet,silent,sound
 
 ---
 
-# volume-off  <small style="font-size: 60%;font-weight: 100">关闭音量</small>
+# Volume Off  <small style="font-size: 60%;font-weight: 100">关闭音量</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

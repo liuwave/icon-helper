@@ -9,11 +9,13 @@ search: book,force,jedi,sith,star wars,yoda
 
 ---
 
-# journal-whills  <small style="font-size: 60%;font-weight: 100">丘陵杂志</small>
+# Journal of the Whills  <small style="font-size: 60%;font-weight: 100">丘陵杂志</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

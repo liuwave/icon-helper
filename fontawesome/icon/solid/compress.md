@@ -9,11 +9,13 @@ search: collapse,fullscreen,minimize,move,resize,shrink,smaller
 
 ---
 
-# compress  <small style="font-size: 60%;font-weight: 100">压缩</small>
+# Compress  <small style="font-size: 60%;font-weight: 100">压缩</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">collapse</span><span class="badge-light badge">fullscreen</span><span class="badge-light badge">minimize</span><span class="badge-light badge">move</span><span class="badge-light badge">resize</span><span class="badge-light badge">shrink</span><span class="badge-light badge">smaller</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">压缩</span><span class="badge-primary badge">折叠</span><span class="badge-primary badge">全屏</span><span class="badge-primary badge">最小化</span><span class="badge-primary badge">移动</span><span class="badge-primary badge">调整大小</span><span class="badge-primary badge">缩小</span><span class="badge-primary badge">更小</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/compress.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/compress.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">压缩，可以表示压液机，也可以表示生气。</div>
 <div class="alert alert-dark">
   <i class="fas fa-compress fa-xs"></i>
   <i class="fas fa-compress fa-sm"></i>

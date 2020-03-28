@@ -9,11 +9,13 @@ search: currency,money,try,turkish
 
 ---
 
-# lira-sign  <small style="font-size: 60%;font-weight: 100">土耳其里拉标志</small>
+# Turkish Lira Sign  <small style="font-size: 60%;font-weight: 100">土耳其里拉标志</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

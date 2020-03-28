@@ -9,11 +9,13 @@ search: arrow,arrows,exchange,reciprocate,return,swap,transfer
 
 ---
 
-# exchange-alt  <small style="font-size: 60%;font-weight: 100">备用交换</small>
+# Alternate Exchange  <small style="font-size: 60%;font-weight: 100">备用交换</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

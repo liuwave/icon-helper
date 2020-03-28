@@ -9,11 +9,13 @@ search: islam,muslim,religion
 
 ---
 
-# star-and-crescent  <small style="font-size: 60%;font-weight: 100">星与月</small>
+# Star and Crescent  <small style="font-size: 60%;font-weight: 100">星与月</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

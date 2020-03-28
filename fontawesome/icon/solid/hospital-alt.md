@@ -9,11 +9,13 @@ search: building,covid-19,emergency room,medical center
 
 ---
 
-# hospital-alt  <small style="font-size: 60%;font-weight: 100">替代医院</small>
+# Alternate Hospital  <small style="font-size: 60%;font-weight: 100">替代医院</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -1,19 +1,21 @@
 ---
 
-title: OpenID(OpenID) ICON转svg、png下载
+title: OpenID(OpenID基金会) ICON转svg、png下载
 name: openid
-zhTips: OpenID
+zhTips: OpenID基金会
 tags: []
 pre: fab
 search: 
 
 ---
 
-# openid  <small style="font-size: 60%;font-weight: 100">OpenID</small>
+# OpenID  <small style="font-size: 60%;font-weight: 100">OpenID基金会</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">OpenID</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/openid.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/openid.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">OpenID基金会</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/openid.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/openid.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">OpenID基金会成立于2007年6月，是一个致力于支持、促进和保护OpenId技术的个人和公司的非营利国际性标准化组织。</div>
 <div class="alert alert-dark">
   <i class="fab fa-openid fa-xs"></i>
   <i class="fab fa-openid fa-sm"></i>

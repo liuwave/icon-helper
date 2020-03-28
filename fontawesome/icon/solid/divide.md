@@ -2,18 +2,20 @@
 
 title: Divide(分度) ICON转svg、png下载
 name: divide
-zhTips: 分度,算术,微积分,除法,数学
+zhTips: 分度,算术,微积分,除法,数学,分割符
 tags: ["mathematics"]
 pre: fas
 search: arithmetic,calculus,division,math
 
 ---
 
-# divide  <small style="font-size: 60%;font-weight: 100">分度</small>
+# Divide  <small style="font-size: 60%;font-weight: 100">分度</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">arithmetic</span><span class="badge-light badge">calculus</span><span class="badge-light badge">division</span><span class="badge-light badge">math</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">分度</span><span class="badge-primary badge">算术</span><span class="badge-primary badge">微积分</span><span class="badge-primary badge">除法</span><span class="badge-primary badge">数学</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/divide.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/divide.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">arithmetic</span><span class="badge-light badge">calculus</span><span class="badge-light badge">division</span><span class="badge-light badge">math</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">分度</span><span class="badge-primary badge">算术</span><span class="badge-primary badge">微积分</span><span class="badge-primary badge">除法</span><span class="badge-primary badge">数学</span><span class="badge-primary badge">分割符</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/divide.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/divide.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">可以表示除号、物体分离。</div>
 <div class="alert alert-dark">
   <i class="fas fa-divide fa-xs"></i>
   <i class="fas fa-divide fa-sm"></i>

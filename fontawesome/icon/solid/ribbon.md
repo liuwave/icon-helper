@@ -9,11 +9,13 @@ search: badge,cause,lapel,pin
 
 ---
 
-# ribbon  <small style="font-size: 60%;font-weight: 100">丝带</small>
+# Ribbon  <small style="font-size: 60%;font-weight: 100">丝带</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">badge</span><span class="badge-light badge">cause</span><span class="badge-light badge">lapel</span><span class="badge-light badge">pin</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">丝带</span><span class="badge-primary badge">徽章</span><span class="badge-primary badge">原因</span><span class="badge-primary badge">翻领</span><span class="badge-primary badge">别针</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ribbon.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ribbon.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">可用于表示顺滑，飘扬等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-ribbon fa-xs"></i>
   <i class="fas fa-ribbon fa-sm"></i>

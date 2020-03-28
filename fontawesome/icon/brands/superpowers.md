@@ -1,19 +1,21 @@
 ---
 
-title: Superpowers(超级大国) ICON转svg、png下载
+title: Superpowers(超能力) ICON转svg、png下载
 name: superpowers
-zhTips: 超级大国
+zhTips: 超能力,superpowers
 tags: []
 pre: fab
 search: 
 
 ---
 
-# superpowers  <small style="font-size: 60%;font-weight: 100">超级大国</small>
+# Superpowers  <small style="font-size: 60%;font-weight: 100">超能力</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">超级大国</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/superpowers.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/superpowers.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">超能力</span><span class="badge-primary badge">superpowers</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/superpowers.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/superpowers.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">superpowers一种虚构的超人能力的流行文化术语。它们是纸浆杂志，漫画书，科幻小说，电视节目，视频游戏和电影中最常使用的作为超级英雄的关键属性。</div>
 <div class="alert alert-dark">
   <i class="fab fa-superpowers fa-xs"></i>
   <i class="fab fa-superpowers fa-sm"></i>

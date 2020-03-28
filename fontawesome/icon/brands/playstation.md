@@ -1,19 +1,21 @@
 ---
 
-title: PlayStation(PlayStation) ICON转svg、png下载
+title: PlayStation(游戏站) ICON转svg、png下载
 name: playstation
-zhTips: PlayStation
+zhTips: PS,游戏站
 tags: ["games"]
 pre: fab
 search: 
 
 ---
 
-# playstation  <small style="font-size: 60%;font-weight: 100">PlayStation</small>
+# PlayStation  <small style="font-size: 60%;font-weight: 100">游戏站</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">PlayStation</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/playstation.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/playstation.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">PS</span><span class="badge-primary badge">游戏站</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/playstation.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/playstation.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">PS是日本Sony旗下的一款著名的游戏机。</div>
 <div class="alert alert-dark">
   <i class="fab fa-playstation fa-xs"></i>
   <i class="fab fa-playstation fa-sm"></i>

@@ -9,11 +9,13 @@ search:
 
 ---
 
-# quora  <small style="font-size: 60%;font-weight: 100">Quora</small>
+# Quora  <small style="font-size: 60%;font-weight: 100">Quora</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">Quora</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/quora.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/quora.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Quora是一个问答网站。</div>
 <div class="alert alert-dark">
   <i class="fab fa-quora fa-xs"></i>
   <i class="fab fa-quora fa-sm"></i>

@@ -2,7 +2,7 @@
 
 title: exclamation(感叹号) ICON转svg、png下载
 name: exclamation
-zhTips: 感叹号,警报,危险,错误,重要,通知,问题,警告
+zhTips: 感叹号,警报,危险,错误,重要,通知,问题,警告,叹号
 tags: ["alert","interfaces","status"]
 pre: fas
 search: alert,danger,error,important,notice,notification,notify,problem,warning
@@ -14,6 +14,8 @@ search: alert,danger,error,important,notice,notification,notify,problem,warning
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">alert</span><span class="badge-light badge">danger</span><span class="badge-light badge">error</span><span class="badge-light badge">important</span><span class="badge-light badge">notice</span><span class="badge-light badge">notification</span><span class="badge-light badge">notify</span><span class="badge-light badge">problem</span><span class="badge-light badge">warning</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">感叹号</span><span class="badge-primary badge">警报</span><span class="badge-primary badge">危险</span><span class="badge-primary badge">错误</span><span class="badge-primary badge">重要</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">问题</span><span class="badge-primary badge">警告</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/exclamation.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/exclamation.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">alert</span><span class="badge-light badge">danger</span><span class="badge-light badge">error</span><span class="badge-light badge">important</span><span class="badge-light badge">notice</span><span class="badge-light badge">notification</span><span class="badge-light badge">notify</span><span class="badge-light badge">problem</span><span class="badge-light badge">warning</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">感叹号</span><span class="badge-primary badge">警报</span><span class="badge-primary badge">危险</span><span class="badge-primary badge">错误</span><span class="badge-primary badge">重要</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">问题</span><span class="badge-primary badge">警告</span><span class="badge-primary badge">叹号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/exclamation.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/exclamation.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">感叹号，表示惊吓，提示。</div>
 <div class="alert alert-dark">
   <i class="fas fa-exclamation fa-xs"></i>
   <i class="fas fa-exclamation fa-sm"></i>

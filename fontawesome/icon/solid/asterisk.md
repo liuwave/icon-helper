@@ -14,6 +14,8 @@ search: annotation,details,reference,star
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">annotation</span><span class="badge-light badge">details</span><span class="badge-light badge">reference</span><span class="badge-light badge">star</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">星号</span><span class="badge-primary badge">注释</span><span class="badge-primary badge">详细信息</span><span class="badge-primary badge">参考</span><span class="badge-primary badge">星级</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/asterisk.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/asterisk.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">星号，表示重点标注，电话暂停键，数学乘号，密码输入。</div>
 <div class="alert alert-dark">
   <i class="fas fa-asterisk fa-xs"></i>
   <i class="fas fa-asterisk fa-sm"></i>

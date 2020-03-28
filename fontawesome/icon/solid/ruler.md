@@ -2,18 +2,20 @@
 
 title: Ruler(尺子) ICON转svg、png下载
 name: ruler
-zhTips: 尺子,设计,草稿,长度,度量,计划
+zhTips: 尺子,设计,草稿,长度,度量,计划,规则黑标
 tags: ["construction"]
 pre: fas
 search: design,draft,length,measure,planning
 
 ---
 
-# ruler  <small style="font-size: 60%;font-weight: 100">尺子</small>
+# Ruler  <small style="font-size: 60%;font-weight: 100">尺子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">design</span><span class="badge-light badge">draft</span><span class="badge-light badge">length</span><span class="badge-light badge">measure</span><span class="badge-light badge">planning</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">尺子</span><span class="badge-primary badge">设计</span><span class="badge-primary badge">草稿</span><span class="badge-primary badge">长度</span><span class="badge-primary badge">度量</span><span class="badge-primary badge">计划</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ruler.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ruler.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">design</span><span class="badge-light badge">draft</span><span class="badge-light badge">length</span><span class="badge-light badge">measure</span><span class="badge-light badge">planning</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">尺子</span><span class="badge-primary badge">设计</span><span class="badge-primary badge">草稿</span><span class="badge-primary badge">长度</span><span class="badge-primary badge">度量</span><span class="badge-primary badge">计划</span><span class="badge-primary badge">规则黑标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ruler.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ruler.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示运行、运作规律所遵循的法则。</div>
 <div class="alert alert-dark">
   <i class="fas fa-ruler fa-xs"></i>
   <i class="fas fa-ruler fa-sm"></i>

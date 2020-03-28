@@ -9,11 +9,13 @@ search: carry,shipping,transport
 
 ---
 
-# dolly  <small style="font-size: 60%;font-weight: 100">多莉</small>
+# Dolly  <small style="font-size: 60%;font-weight: 100">多莉</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">carry</span><span class="badge-light badge">shipping</span><span class="badge-light badge">transport</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">多莉</span><span class="badge-primary badge">搬运</span><span class="badge-primary badge">运输</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dolly.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dolly.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">搬运，可以表示移动物体。</div>
 <div class="alert alert-dark">
   <i class="fas fa-dolly fa-xs"></i>
   <i class="fas fa-dolly fa-sm"></i>

@@ -9,11 +9,13 @@ search: alcohol,beverage,cabernet,drink,glass,grapes,merlot,sauvignon
 
 ---
 
-# wine-bottle  <small style="font-size: 60%;font-weight: 100">葡萄酒瓶</small>
+# Wine Bottle  <small style="font-size: 60%;font-weight: 100">葡萄酒瓶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

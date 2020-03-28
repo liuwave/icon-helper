@@ -9,11 +9,13 @@ search: bird,light,plucked,quill,write
 
 ---
 
-# feather  <small style="font-size: 60%;font-weight: 100">羽毛</small>
+# Feather  <small style="font-size: 60%;font-weight: 100">羽毛</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">bird</span><span class="badge-light badge">light</span><span class="badge-light badge">plucked</span><span class="badge-light badge">quill</span><span class="badge-light badge">write</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">羽毛</span><span class="badge-primary badge">鸟</span><span class="badge-primary badge">光</span><span class="badge-primary badge">弹拨</span><span class="badge-primary badge">羽毛笔</span><span class="badge-primary badge">书写</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/feather.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/feather.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">羽毛，可表示可书写，可进行编辑。</div>
 <div class="alert alert-dark">
   <i class="fas fa-feather fa-xs"></i>
   <i class="fas fa-feather fa-sm"></i>

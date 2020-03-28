@@ -1,19 +1,21 @@
 ---
 
-title: eBay(eBay) ICON转svg、png下载
+title: eBay(易趣) ICON转svg、png下载
 name: ebay
-zhTips: eBay
+zhTips: eBay,易趣
 tags: []
 pre: fab
 search: 
 
 ---
 
-# ebay  <small style="font-size: 60%;font-weight: 100">eBay</small>
+# eBay  <small style="font-size: 60%;font-weight: 100">易趣</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">eBay</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ebay.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ebay.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">eBay</span><span class="badge-primary badge">易趣</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ebay.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ebay.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">易趣是一家电商，提供类似淘宝的服务。</div>
 <div class="alert alert-dark">
   <i class="fab fa-ebay fa-xs"></i>
   <i class="fab fa-ebay fa-sm"></i>

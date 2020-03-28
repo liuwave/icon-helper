@@ -2,7 +2,7 @@
 
 title: heading(标题) ICON转svg、png下载
 name: heading
-zhTips: 标题,格式,文本
+zhTips: 标题,格式,文本,头部标识
 tags: ["editors"]
 pre: fas
 search: format,header,text,title
@@ -14,6 +14,8 @@ search: format,header,text,title
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">format</span><span class="badge-light badge">header</span><span class="badge-light badge">text</span><span class="badge-light badge">title</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标题</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heading.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heading.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">format</span><span class="badge-light badge">header</span><span class="badge-light badge">text</span><span class="badge-light badge">title</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标题</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">头部标识</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heading.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heading.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示头部标题内容。</div>
 <div class="alert alert-dark">
   <i class="fas fa-heading fa-xs"></i>
   <i class="fas fa-heading fa-sm"></i>

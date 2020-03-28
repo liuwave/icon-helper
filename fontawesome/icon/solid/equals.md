@@ -2,18 +2,20 @@
 
 title: Equals(等于) ICON转svg、png下载
 name: equals
-zhTips: 等于,算术,偶数,匹配,数学
+zhTips: 等于,算术,偶数,匹配,数学,等于号
 tags: ["mathematics"]
 pre: fas
 search: arithmetic,even,match,math
 
 ---
 
-# equals  <small style="font-size: 60%;font-weight: 100">等于</small>
+# Equals  <small style="font-size: 60%;font-weight: 100">等于</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">arithmetic</span><span class="badge-light badge">even</span><span class="badge-light badge">match</span><span class="badge-light badge">math</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">等于</span><span class="badge-primary badge">算术</span><span class="badge-primary badge">偶数</span><span class="badge-primary badge">匹配</span><span class="badge-primary badge">数学</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/equals.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/equals.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">arithmetic</span><span class="badge-light badge">even</span><span class="badge-light badge">match</span><span class="badge-light badge">math</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">等于</span><span class="badge-primary badge">算术</span><span class="badge-primary badge">偶数</span><span class="badge-primary badge">匹配</span><span class="badge-primary badge">数学</span><span class="badge-primary badge">等于号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/equals.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/equals.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">等于，也可以表示两个物体或内容相同。</div>
 <div class="alert alert-dark">
   <i class="fas fa-equals fa-xs"></i>
   <i class="fas fa-equals fa-sm"></i>

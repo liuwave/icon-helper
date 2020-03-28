@@ -2,18 +2,20 @@
 
 title: Robot(机器人) ICON转svg、png下载
 name: robot
-zhTips: 机器人,android,自动化,计算机,半机械人
+zhTips: 机器人,android,自动化,计算机,半机械人,机器人黑
 tags: ["childhood","science-fiction"]
 pre: fas
 search: android,automate,computer,cyborg
 
 ---
 
-# robot  <small style="font-size: 60%;font-weight: 100">机器人</small>
+# Robot  <small style="font-size: 60%;font-weight: 100">机器人</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">android</span><span class="badge-light badge">automate</span><span class="badge-light badge">computer</span><span class="badge-light badge">cyborg</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">机器人</span><span class="badge-primary badge">android</span><span class="badge-primary badge">自动化</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">半机械人</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/robot.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/robot.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">android</span><span class="badge-light badge">automate</span><span class="badge-light badge">computer</span><span class="badge-light badge">cyborg</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">机器人</span><span class="badge-primary badge">android</span><span class="badge-primary badge">自动化</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">半机械人</span><span class="badge-primary badge">机器人黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/robot.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/robot.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示机械，人工智能等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-robot fa-xs"></i>
   <i class="fas fa-robot fa-sm"></i>

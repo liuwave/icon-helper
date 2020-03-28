@@ -1,19 +1,21 @@
 ---
 
-title: React(反应) ICON转svg、png下载
+title: React(React.js) ICON转svg、png下载
 name: react
-zhTips: 反应
+zhTips: React.js,react
 tags: []
 pre: fab
 search: 
 
 ---
 
-# react  <small style="font-size: 60%;font-weight: 100">反应</small>
+# React  <small style="font-size: 60%;font-weight: 100">React.js</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">反应</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/react.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/react.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">React.js</span><span class="badge-primary badge">react</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/react.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/react.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">React.js(React)是一个用来构建用户界面的JavaScript库，由Facebook发布开源。</div>
 <div class="alert alert-dark">
   <i class="fab fa-react fa-xs"></i>
   <i class="fab fa-react fa-sm"></i>

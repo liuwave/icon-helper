@@ -2,18 +2,20 @@
 
 title: Suitcase(旅行箱) ICON转svg、png下载
 name: suitcase
-zhTips: 旅行箱,行李,移动,手提箱,旅行
+zhTips: 旅行箱,行李,移动,手提箱,旅行,公文包黑
 tags: ["hotel","maps","moving","objects","travel"]
 pre: fas
 search: baggage,luggage,move,suitcase,travel,trip
 
 ---
 
-# suitcase  <small style="font-size: 60%;font-weight: 100">旅行箱</small>
+# Suitcase  <small style="font-size: 60%;font-weight: 100">旅行箱</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">baggage</span><span class="badge-light badge">luggage</span><span class="badge-light badge">move</span><span class="badge-light badge">suitcase</span><span class="badge-light badge">travel</span><span class="badge-light badge">trip</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">旅行箱</span><span class="badge-primary badge">行李</span><span class="badge-primary badge">移动</span><span class="badge-primary badge">手提箱</span><span class="badge-primary badge">旅行</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/suitcase.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/suitcase.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">baggage</span><span class="badge-light badge">luggage</span><span class="badge-light badge">move</span><span class="badge-light badge">suitcase</span><span class="badge-light badge">travel</span><span class="badge-light badge">trip</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">旅行箱</span><span class="badge-primary badge">行李</span><span class="badge-primary badge">移动</span><span class="badge-primary badge">手提箱</span><span class="badge-primary badge">旅行</span><span class="badge-primary badge">公文包黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/suitcase.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/suitcase.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示装文件、资料等信息的包。</div>
 <div class="alert alert-dark">
   <i class="fas fa-suitcase fa-xs"></i>
   <i class="fas fa-suitcase fa-sm"></i>

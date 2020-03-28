@@ -2,18 +2,20 @@
 
 title: Tree(树) ICON转svg、png下载
 name: tree
-zhTips: 树,树皮,秋天,植物区系,森林,自然,植物,季节性
+zhTips: 树,树皮,秋天,植物区系,森林,自然,植物,季节性,树木标志
 tags: ["autumn","camping","maps","objects"]
 pre: fas
 search: bark,fall,flora,forest,nature,plant,seasonal
 
 ---
 
-# tree  <small style="font-size: 60%;font-weight: 100">树</small>
+# Tree  <small style="font-size: 60%;font-weight: 100">树</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">bark</span><span class="badge-light badge">fall</span><span class="badge-light badge">flora</span><span class="badge-light badge">forest</span><span class="badge-light badge">nature</span><span class="badge-light badge">plant</span><span class="badge-light badge">seasonal</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">树</span><span class="badge-primary badge">树皮</span><span class="badge-primary badge">秋天</span><span class="badge-primary badge">植物区系</span><span class="badge-primary badge">森林</span><span class="badge-primary badge">自然</span><span class="badge-primary badge">植物</span><span class="badge-primary badge">季节性</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tree.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tree.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">bark</span><span class="badge-light badge">fall</span><span class="badge-light badge">flora</span><span class="badge-light badge">forest</span><span class="badge-light badge">nature</span><span class="badge-light badge">plant</span><span class="badge-light badge">seasonal</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">树</span><span class="badge-primary badge">树皮</span><span class="badge-primary badge">秋天</span><span class="badge-primary badge">植物区系</span><span class="badge-primary badge">森林</span><span class="badge-primary badge">自然</span><span class="badge-primary badge">植物</span><span class="badge-primary badge">季节性</span><span class="badge-primary badge">树木标志</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tree.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tree.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示环保、绿色等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-tree fa-xs"></i>
   <i class="fas fa-tree fa-sm"></i>

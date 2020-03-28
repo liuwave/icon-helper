@@ -2,18 +2,20 @@
 
 title: T-Shirt(T恤衫) ICON转svg、png下载
 name: tshirt
-zhTips: T恤衫,服装,时尚,衬衫
+zhTips: T恤衫,服装,时尚,衬衫,T恤
 tags: ["clothing","shopping"]
 pre: fas
 search: clothing,fashion,garment,shirt
 
 ---
 
-# tshirt  <small style="font-size: 60%;font-weight: 100">T恤衫</small>
+# T-Shirt  <small style="font-size: 60%;font-weight: 100">T恤衫</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">clothing</span><span class="badge-light badge">fashion</span><span class="badge-light badge">garment</span><span class="badge-light badge">shirt</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">T恤衫</span><span class="badge-primary badge">服装</span><span class="badge-primary badge">时尚</span><span class="badge-primary badge">衬衫</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tshirt.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tshirt.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">clothing</span><span class="badge-light badge">fashion</span><span class="badge-light badge">garment</span><span class="badge-light badge">shirt</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">T恤衫</span><span class="badge-primary badge">服装</span><span class="badge-primary badge">时尚</span><span class="badge-primary badge">衬衫</span><span class="badge-primary badge">T恤</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tshirt.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tshirt.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">广泛用于表示服装厂，商品、商店等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-tshirt fa-xs"></i>
   <i class="fas fa-tshirt fa-sm"></i>

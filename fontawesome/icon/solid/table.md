@@ -2,7 +2,7 @@
 
 title: table(表格) ICON转svg、png下载
 name: table
-zhTips: 表格,数据,Excel,电子表格
+zhTips: 表格,数据,Excel,电子表格,平板桌面
 tags: ["business","editors"]
 pre: fas
 search: data,excel,spreadsheet
@@ -14,6 +14,8 @@ search: data,excel,spreadsheet
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">data</span><span class="badge-light badge">excel</span><span class="badge-light badge">spreadsheet</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">表格</span><span class="badge-primary badge">数据</span><span class="badge-primary badge">Excel</span><span class="badge-primary badge">电子表格</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/table.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/table.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">data</span><span class="badge-light badge">excel</span><span class="badge-light badge">spreadsheet</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">表格</span><span class="badge-primary badge">数据</span><span class="badge-primary badge">Excel</span><span class="badge-primary badge">电子表格</span><span class="badge-primary badge">平板桌面</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/table.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/table.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示电脑桌面设备。</div>
 <div class="alert alert-dark">
   <i class="fas fa-table fa-xs"></i>
   <i class="fas fa-table fa-sm"></i>

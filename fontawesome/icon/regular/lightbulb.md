@@ -2,18 +2,20 @@
 
 title: Lightbulb(灯泡) ICON转svg、png下载
 name: lightbulb
-zhTips: 灯泡,能源,理念,灵感,光
+zhTips: 灯泡,能源,理念,灵感,光,灯泡黑
 tags: ["energy","household","maps","marketing","objects","status"]
 pre: far
 search: energy,idea,inspiration,light
 
 ---
 
-# lightbulb  <small style="font-size: 60%;font-weight: 100">灯泡</small>
+# Lightbulb  <small style="font-size: 60%;font-weight: 100">灯泡</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">energy</span><span class="badge-light badge">idea</span><span class="badge-light badge">inspiration</span><span class="badge-light badge">light</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">灯泡</span><span class="badge-primary badge">能源</span><span class="badge-primary badge">理念</span><span class="badge-primary badge">灵感</span><span class="badge-primary badge">光</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/lightbulb.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/lightbulb.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">energy</span><span class="badge-light badge">idea</span><span class="badge-light badge">inspiration</span><span class="badge-light badge">light</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">灯泡</span><span class="badge-primary badge">能源</span><span class="badge-primary badge">理念</span><span class="badge-primary badge">灵感</span><span class="badge-primary badge">光</span><span class="badge-primary badge">灯泡黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/lightbulb.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/lightbulb.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">明亮，光明，也可表示创意、灵感。</div>
 <div class="alert alert-dark">
   <i class="far fa-lightbulb fa-xs"></i>
   <i class="far fa-lightbulb fa-sm"></i>

@@ -9,11 +9,13 @@ search: achievement,award,rating,score,star-half-empty,star-half-full
 
 ---
 
-# star-half-alt  <small style="font-size: 60%;font-weight: 100">替代星半</small>
+# Alternate Star Half  <small style="font-size: 60%;font-weight: 100">替代星半</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

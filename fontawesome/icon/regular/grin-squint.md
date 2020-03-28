@@ -9,11 +9,13 @@ search: emoticon,face,laugh,smile
 
 ---
 
-# grin-squint  <small style="font-size: 60%;font-weight: 100">咧着嘴笑着脸</small>
+# Grinning Squinting Face  <small style="font-size: 60%;font-weight: 100">咧着嘴笑着脸</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

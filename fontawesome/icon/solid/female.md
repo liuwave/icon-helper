@@ -9,11 +9,13 @@ search: human,person,profile,user,woman
 
 ---
 
-# female  <small style="font-size: 60%;font-weight: 100">女性</small>
+# Female  <small style="font-size: 60%;font-weight: 100">女性</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">human</span><span class="badge-light badge">person</span><span class="badge-light badge">profile</span><span class="badge-light badge">user</span><span class="badge-light badge">woman</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">女性</span><span class="badge-primary badge">人类</span><span class="badge-primary badge">人物</span><span class="badge-primary badge">个人资料</span><span class="badge-primary badge">用户</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/female.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/female.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">女性，也可以表示优先权。</div>
 <div class="alert alert-dark">
   <i class="fas fa-female fa-xs"></i>
   <i class="fas fa-female fa-sm"></i>

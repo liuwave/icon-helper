@@ -2,18 +2,20 @@
 
 title: Connect Develop(连接开发) ICON转svg、png下载
 name: connectdevelop
-zhTips: 连接开发
+zhTips: 连接开发,connectdevelop
 tags: []
 pre: fab
 search: 
 
 ---
 
-# connectdevelop  <small style="font-size: 60%;font-weight: 100">连接开发</small>
+# Connect Develop  <small style="font-size: 60%;font-weight: 100">连接开发</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">连接开发</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/connectdevelop.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/connectdevelop.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">连接开发</span><span class="badge-primary badge">connectdevelop</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/connectdevelop.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/connectdevelop.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">连接开发是用户登录应用程序的一种快速而简单的方法</div>
 <div class="alert alert-dark">
   <i class="fab fa-connectdevelop fa-xs"></i>
   <i class="fab fa-connectdevelop fa-sm"></i>

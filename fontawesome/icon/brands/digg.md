@@ -2,18 +2,20 @@
 
 title: Digg Logo(Digg徽标) ICON转svg、png下载
 name: digg
-zhTips: Digg徽标
+zhTips: Digg徽标,点赞,掘客网
 tags: []
 pre: fab
 search: 
 
 ---
 
-# digg  <small style="font-size: 60%;font-weight: 100">Digg徽标</small>
+# Digg Logo  <small style="font-size: 60%;font-weight: 100">Digg徽标</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Digg徽标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/digg.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/digg.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Digg徽标</span><span class="badge-primary badge">点赞</span><span class="badge-primary badge">掘客网</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/digg.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/digg.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">掘客网是一家美国社交新闻网站，结合了书签、博客、RSS 以及无等级的评论控制。官网：digg.com</div>
 <div class="alert alert-dark">
   <i class="fab fa-digg fa-xs"></i>
   <i class="fab fa-digg fa-sm"></i>

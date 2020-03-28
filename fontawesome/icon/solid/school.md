@@ -2,18 +2,20 @@
 
 title: School(学校) ICON转svg、png下载
 name: school
-zhTips: 学校,建筑,教育,学习,学生,老师
+zhTips: 学校,建筑,教育,学习,学生,老师,学校黑
 tags: ["buildings","childhood","education","objects"]
 pre: fas
 search: building,education,learn,student,teacher
 
 ---
 
-# school  <small style="font-size: 60%;font-weight: 100">学校</small>
+# School  <small style="font-size: 60%;font-weight: 100">学校</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">education</span><span class="badge-light badge">learn</span><span class="badge-light badge">student</span><span class="badge-light badge">teacher</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">学校</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">教育</span><span class="badge-primary badge">学习</span><span class="badge-primary badge">学生</span><span class="badge-primary badge">老师</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/school.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/school.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">education</span><span class="badge-light badge">learn</span><span class="badge-light badge">student</span><span class="badge-light badge">teacher</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">学校</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">教育</span><span class="badge-primary badge">学习</span><span class="badge-primary badge">学生</span><span class="badge-primary badge">老师</span><span class="badge-primary badge">学校黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/school.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/school.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示教学，知识等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-school fa-xs"></i>
   <i class="fas fa-school fa-sm"></i>

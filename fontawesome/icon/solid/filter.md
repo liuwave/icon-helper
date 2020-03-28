@@ -2,18 +2,20 @@
 
 title: Filter(过滤器) ICON转svg、png下载
 name: filter
-zhTips: 过滤器,渠道,选项,单独,排序
+zhTips: 过滤器,渠道,选项,单独,排序,漏斗
 tags: ["code","interfaces","science"]
 pre: fas
 search: funnel,options,separate,sort
 
 ---
 
-# filter  <small style="font-size: 60%;font-weight: 100">过滤器</small>
+# Filter  <small style="font-size: 60%;font-weight: 100">过滤器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">funnel</span><span class="badge-light badge">options</span><span class="badge-light badge">separate</span><span class="badge-light badge">sort</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">过滤器</span><span class="badge-primary badge">渠道</span><span class="badge-primary badge">选项</span><span class="badge-primary badge">单独</span><span class="badge-primary badge">排序</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/filter.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/filter.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">funnel</span><span class="badge-light badge">options</span><span class="badge-light badge">separate</span><span class="badge-light badge">sort</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">过滤器</span><span class="badge-primary badge">渠道</span><span class="badge-primary badge">选项</span><span class="badge-primary badge">单独</span><span class="badge-primary badge">排序</span><span class="badge-primary badge">漏斗</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/filter.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/filter.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">过滤，可表示筛选内容</div>
 <div class="alert alert-dark">
   <i class="fas fa-filter fa-xs"></i>
   <i class="fas fa-filter fa-sm"></i>

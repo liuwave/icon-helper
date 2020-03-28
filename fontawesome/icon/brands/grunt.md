@@ -2,18 +2,20 @@
 
 title: Grunt(格伦特) ICON转svg、png下载
 name: grunt
-zhTips: 格伦特
+zhTips: 格伦特,grunt
 tags: []
 pre: fab
 search: 
 
 ---
 
-# grunt  <small style="font-size: 60%;font-weight: 100">格伦特</small>
+# Grunt  <small style="font-size: 60%;font-weight: 100">格伦特</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">格伦特</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/grunt.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/grunt.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">格伦特</span><span class="badge-primary badge">grunt</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/grunt.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/grunt.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Grunt:JavaScript 世界的构建工具。Grunt 生态系统非常庞大，并且一直在增长。由于拥有数量庞大的插件可供选择，因此，你可以利用 Grunt 自动完成任何事，并且花费最少的代价。</div>
 <div class="alert alert-dark">
   <i class="fab fa-grunt fa-xs"></i>
   <i class="fab fa-grunt fa-sm"></i>

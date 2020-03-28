@@ -2,18 +2,20 @@
 
 title: Elementor(元素) ICON转svg、png下载
 name: elementor
-zhTips: 元素
+zhTips: 元素,elementor
 tags: []
 pre: fab
 search: 
 
 ---
 
-# elementor  <small style="font-size: 60%;font-weight: 100">元素</small>
+# Elementor  <small style="font-size: 60%;font-weight: 100">元素</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">元素</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/elementor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/elementor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">元素</span><span class="badge-primary badge">elementor</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/elementor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/elementor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">elementor是一款WordPress页面生成器</div>
 <div class="alert alert-dark">
   <i class="fab fa-elementor fa-xs"></i>
   <i class="fab fa-elementor fa-sm"></i>

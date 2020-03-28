@@ -14,6 +14,8 @@ search: barcode,info,information,scan
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">barcode</span><span class="badge-light badge">info</span><span class="badge-light badge">information</span><span class="badge-light badge">scan</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">二维码</span><span class="badge-primary badge">条形码</span><span class="badge-primary badge">信息</span><span class="badge-primary badge">扫描</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/qrcode.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/qrcode.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示编码，二位条码等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-qrcode fa-xs"></i>
   <i class="fas fa-qrcode fa-sm"></i>

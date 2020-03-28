@@ -9,11 +9,13 @@ search: cancel,edit,font,format,text,type
 
 ---
 
-# strikethrough  <small style="font-size: 60%;font-weight: 100">删除线</small>
+# Strikethrough  <small style="font-size: 60%;font-weight: 100">删除线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">cancel</span><span class="badge-light badge">edit</span><span class="badge-light badge">font</span><span class="badge-light badge">format</span><span class="badge-light badge">text</span><span class="badge-light badge">type</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">删除线</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">字体</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">类型</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/strikethrough.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/strikethrough.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">可表示文字、图片等信息的删除。</div>
 <div class="alert alert-dark">
   <i class="fas fa-strikethrough fa-xs"></i>
   <i class="fas fa-strikethrough fa-sm"></i>

@@ -9,11 +9,13 @@ search: embarass,emoticon,face,smile
 
 ---
 
-# grin-beam-sweat  <small style="font-size: 60%;font-weight: 100">发汗的咧着嘴笑</small>
+# Grinning Face With Sweat  <small style="font-size: 60%;font-weight: 100">发汗的咧着嘴笑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -9,11 +9,13 @@ search: brackets,code,development,html
 
 ---
 
-# code  <small style="font-size: 60%;font-weight: 100">代码</small>
+# Code  <small style="font-size: 60%;font-weight: 100">代码</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">brackets</span><span class="badge-light badge">code</span><span class="badge-light badge">development</span><span class="badge-light badge">html</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">代码</span><span class="badge-primary badge">括号</span><span class="badge-primary badge">开发</span><span class="badge-primary badge">html</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/code.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/code.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">代码，可以表示一种计算机语言。</div>
 <div class="alert alert-dark">
   <i class="fas fa-code fa-xs"></i>
   <i class="fas fa-code fa-sm"></i>

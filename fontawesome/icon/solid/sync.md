@@ -2,18 +2,20 @@
 
 title: Sync(同步) ICON转svg、png下载
 name: sync
-zhTips: 同步,交换,刷新,重新加载,旋转
+zhTips: 同步,交换,刷新,重新加载,旋转,同步箭头
 tags: ["arrows","audio-video","editors","interfaces","spinners"]
 pre: fas
 search: exchange,refresh,reload,rotate,swap
 
 ---
 
-# sync  <small style="font-size: 60%;font-weight: 100">同步</small>
+# Sync  <small style="font-size: 60%;font-weight: 100">同步</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">exchange</span><span class="badge-light badge">refresh</span><span class="badge-light badge">reload</span><span class="badge-light badge">rotate</span><span class="badge-light badge">swap</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">同步</span><span class="badge-primary badge">交换</span><span class="badge-primary badge">刷新</span><span class="badge-primary badge">重新加载</span><span class="badge-primary badge">旋转</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sync.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sync.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">exchange</span><span class="badge-light badge">refresh</span><span class="badge-light badge">reload</span><span class="badge-light badge">rotate</span><span class="badge-light badge">swap</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">同步</span><span class="badge-primary badge">交换</span><span class="badge-primary badge">刷新</span><span class="badge-primary badge">重新加载</span><span class="badge-primary badge">旋转</span><span class="badge-primary badge">同步箭头</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sync.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sync.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示文字，文件等信息的同步。</div>
 <div class="alert alert-dark">
   <i class="fas fa-sync fa-xs"></i>
   <i class="fas fa-sync fa-sm"></i>

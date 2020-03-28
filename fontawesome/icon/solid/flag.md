@@ -2,7 +2,7 @@
 
 title: flag(标志) ICON转svg、png下载
 name: flag
-zhTips: 标志,国家,通知,杆,报告,符号
+zhTips: 标志,国家,通知,杆,报告,符号,旗子
 tags: ["interfaces","maps","objects"]
 pre: fas
 search: country,notice,notification,notify,pole,report,symbol
@@ -14,6 +14,8 @@ search: country,notice,notification,notify,pole,report,symbol
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">country</span><span class="badge-light badge">notice</span><span class="badge-light badge">notification</span><span class="badge-light badge">notify</span><span class="badge-light badge">pole</span><span class="badge-light badge">report</span><span class="badge-light badge">symbol</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标志</span><span class="badge-primary badge">国家</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">杆</span><span class="badge-primary badge">报告</span><span class="badge-primary badge">符号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/flag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/flag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">country</span><span class="badge-light badge">notice</span><span class="badge-light badge">notification</span><span class="badge-light badge">notify</span><span class="badge-light badge">pole</span><span class="badge-light badge">report</span><span class="badge-light badge">symbol</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标志</span><span class="badge-primary badge">国家</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">杆</span><span class="badge-primary badge">报告</span><span class="badge-primary badge">符号</span><span class="badge-primary badge">旗子</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/flag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/flag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">旗子，一般表示为国旗、标记，表示得意，胜利。</div>
 <div class="alert alert-dark">
   <i class="fas fa-flag fa-xs"></i>
   <i class="fas fa-flag fa-sm"></i>

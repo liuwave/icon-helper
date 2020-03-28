@@ -2,18 +2,20 @@
 
 title: Building(建筑) ICON转svg、png下载
 name: building
-zhTips: 建筑,公寓,业务,城市,公司,办公室,工作
+zhTips: 建筑,公寓,业务,城市,公司,办公室,工作,大厦
 tags: ["buildings","business","maps","objects"]
 pre: fas
 search: apartment,business,city,company,office,work
 
 ---
 
-# building  <small style="font-size: 60%;font-weight: 100">建筑</small>
+# Building  <small style="font-size: 60%;font-weight: 100">建筑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">apartment</span><span class="badge-light badge">business</span><span class="badge-light badge">city</span><span class="badge-light badge">company</span><span class="badge-light badge">office</span><span class="badge-light badge">work</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">建筑</span><span class="badge-primary badge">公寓</span><span class="badge-primary badge">业务</span><span class="badge-primary badge">城市</span><span class="badge-primary badge">公司</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">工作</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/building.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/building.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">apartment</span><span class="badge-light badge">business</span><span class="badge-light badge">city</span><span class="badge-light badge">company</span><span class="badge-light badge">office</span><span class="badge-light badge">work</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">建筑</span><span class="badge-primary badge">公寓</span><span class="badge-primary badge">业务</span><span class="badge-primary badge">城市</span><span class="badge-primary badge">公司</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">工作</span><span class="badge-primary badge">大厦</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/building.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/building.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">大厦，表示写字楼、公寓、城市、公司、办公室等等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-building fa-xs"></i>
   <i class="fas fa-building fa-sm"></i>

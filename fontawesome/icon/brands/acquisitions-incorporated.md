@@ -1,19 +1,21 @@
 ---
 
-title: Acquisitions Incorporated(Dungeons＆Dragons) ICON转svg、png下载
+title: Acquisitions Incorporated(收购公司) ICON转svg、png下载
 name: acquisitions-incorporated
-zhTips: Acquisitions Incorporated,Dungeons＆Dragons,d＆d,dnd,幻想,游戏,桌面
+zhTips: 收购公司,龙与地下城,幻想,游戏,桌面
 tags: ["gaming-tabletop"]
 pre: fab
-search: Dungeons & Dragons,d&d,dnd,fantasy,game,gaming,tabletop
+search: Dungeons & Dragons,d&d,dnd,fantasy,game,acq-inc,gaming,tabletop
 
 ---
 
-# acquisitions-incorporated  <small style="font-size: 60%;font-weight: 100">Dungeons＆Dragons</small>
+# Acquisitions Incorporated  <small style="font-size: 60%;font-weight: 100">收购公司</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">Dungeons & Dragons</span><span class="badge-light badge">d&d</span><span class="badge-light badge">dnd</span><span class="badge-light badge">fantasy</span><span class="badge-light badge">game</span><span class="badge-light badge">gaming</span><span class="badge-light badge">tabletop</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Acquisitions Incorporated</span><span class="badge-primary badge">Dungeons＆Dragons</span><span class="badge-primary badge">d＆d</span><span class="badge-primary badge">dnd</span><span class="badge-primary badge">幻想</span><span class="badge-primary badge">游戏</span><span class="badge-primary badge">桌面</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/acquisitions-incorporated.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/acquisitions-incorporated.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">Dungeons & Dragons</span><span class="badge-light badge">d&d</span><span class="badge-light badge">dnd</span><span class="badge-light badge">fantasy</span><span class="badge-light badge">game</span><span class="badge-light badge">acq-inc</span><span class="badge-light badge">gaming</span><span class="badge-light badge">tabletop</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">收购公司</span><span class="badge-primary badge">龙与地下城</span><span class="badge-primary badge">幻想</span><span class="badge-primary badge">游戏</span><span class="badge-primary badge">桌面</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/acquisitions-incorporated.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/acquisitions-incorporated.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

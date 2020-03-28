@@ -2,18 +2,20 @@
 
 title: Smiling Face(微笑的脸) ICON转svg、png下载
 name: smile
-zhTips: 微笑的脸,批准,图释,脸,快乐,评分,满意
+zhTips: 微笑的脸,批准,图释,脸,快乐,评分,满意,微笑
 tags: ["chat","emoji","interfaces","users-people"]
 pre: fas
 search: approve,emoticon,face,happy,rating,satisfied
 
 ---
 
-# smile  <small style="font-size: 60%;font-weight: 100">微笑的脸</small>
+# Smiling Face  <small style="font-size: 60%;font-weight: 100">微笑的脸</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">approve</span><span class="badge-light badge">emoticon</span><span class="badge-light badge">face</span><span class="badge-light badge">happy</span><span class="badge-light badge">rating</span><span class="badge-light badge">satisfied</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">微笑的脸</span><span class="badge-primary badge">批准</span><span class="badge-primary badge">图释</span><span class="badge-primary badge">脸</span><span class="badge-primary badge">快乐</span><span class="badge-primary badge">评分</span><span class="badge-primary badge">满意</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/smile.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/smile.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">approve</span><span class="badge-light badge">emoticon</span><span class="badge-light badge">face</span><span class="badge-light badge">happy</span><span class="badge-light badge">rating</span><span class="badge-light badge">satisfied</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">微笑的脸</span><span class="badge-primary badge">批准</span><span class="badge-primary badge">图释</span><span class="badge-primary badge">脸</span><span class="badge-primary badge">快乐</span><span class="badge-primary badge">评分</span><span class="badge-primary badge">满意</span><span class="badge-primary badge">微笑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/smile.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/smile.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">微笑，一般表示心情好、心情愉快。</div>
 <div class="alert alert-dark">
   <i class="fas fa-smile fa-xs"></i>
   <i class="fas fa-smile fa-sm"></i>

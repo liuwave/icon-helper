@@ -9,11 +9,13 @@ search:
 
 ---
 
-# black-tie  <small style="font-size: 60%;font-weight: 100">Font Awesome黑色领带</small>
+# Font Awesome Black Tie  <small style="font-size: 60%;font-weight: 100">Font Awesome黑色领带</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

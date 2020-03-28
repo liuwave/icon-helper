@@ -2,18 +2,20 @@
 
 title: Thermometer(温度计) ICON转svg、png下载
 name: thermometer
-zhTips: 温度计,covid 19,汞,状态,温度
+zhTips: 温度计,covid 19,汞,状态,温度,体温计
 tags: ["medical","pharmacy"]
 pre: fas
 search: covid-19,mercury,status,temperature
 
 ---
 
-# thermometer  <small style="font-size: 60%;font-weight: 100">温度计</small>
+# Thermometer  <small style="font-size: 60%;font-weight: 100">温度计</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">mercury</span><span class="badge-light badge">status</span><span class="badge-light badge">temperature</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">温度计</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">汞</span><span class="badge-primary badge">状态</span><span class="badge-primary badge">温度</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/thermometer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/thermometer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">mercury</span><span class="badge-light badge">status</span><span class="badge-light badge">temperature</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">温度计</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">汞</span><span class="badge-primary badge">状态</span><span class="badge-primary badge">温度</span><span class="badge-primary badge">体温计</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/thermometer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/thermometer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">测量人体体温，一般表示医院治疗、诊断等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-thermometer fa-xs"></i>
   <i class="fas fa-thermometer fa-sm"></i>

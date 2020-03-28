@@ -2,18 +2,20 @@
 
 title: Link(链接) ICON转svg、png下载
 name: link
-zhTips: 链接,附件,链条,连接
+zhTips: 链接,附件,链条,连接,链接标识
 tags: ["editors"]
 pre: fas
 search: attach,attachment,chain,connect
 
 ---
 
-# link  <small style="font-size: 60%;font-weight: 100">链接</small>
+# Link  <small style="font-size: 60%;font-weight: 100">链接</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">attach</span><span class="badge-light badge">attachment</span><span class="badge-light badge">chain</span><span class="badge-light badge">connect</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">链接</span><span class="badge-primary badge">附件</span><span class="badge-primary badge">链条</span><span class="badge-primary badge">连接</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/link.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/link.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">attach</span><span class="badge-light badge">attachment</span><span class="badge-light badge">chain</span><span class="badge-light badge">connect</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">链接</span><span class="badge-primary badge">附件</span><span class="badge-primary badge">链条</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">链接标识</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/link.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/link.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示链接，可跳转。</div>
 <div class="alert alert-dark">
   <i class="fas fa-link fa-xs"></i>
   <i class="fas fa-link fa-sm"></i>

@@ -2,18 +2,20 @@
 
 title: Video(视频) ICON转svg、png下载
 name: video
-zhTips: 视频,照相机,电影,唱片,摄像机
+zhTips: 视频,照相机,电影,唱片,摄像机,摄像
 tags: ["audio-video","chat","social","status"]
 pre: fas
 search: camera,film,movie,record,video-camera
 
 ---
 
-# video  <small style="font-size: 60%;font-weight: 100">视频</small>
+# Video  <small style="font-size: 60%;font-weight: 100">视频</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">camera</span><span class="badge-light badge">film</span><span class="badge-light badge">movie</span><span class="badge-light badge">record</span><span class="badge-light badge">video-camera</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">视频</span><span class="badge-primary badge">照相机</span><span class="badge-primary badge">电影</span><span class="badge-primary badge">唱片</span><span class="badge-primary badge">摄像机</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/video.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/video.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">camera</span><span class="badge-light badge">film</span><span class="badge-light badge">movie</span><span class="badge-light badge">record</span><span class="badge-light badge">video-camera</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">视频</span><span class="badge-primary badge">照相机</span><span class="badge-primary badge">电影</span><span class="badge-primary badge">唱片</span><span class="badge-primary badge">摄像机</span><span class="badge-primary badge">摄像</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/video.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/video.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">常用于表示摄像，拍摄照片。也可用于表示相机。</div>
 <div class="alert alert-dark">
   <i class="fas fa-video fa-xs"></i>
   <i class="fas fa-video fa-sm"></i>

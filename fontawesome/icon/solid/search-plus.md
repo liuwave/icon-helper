@@ -9,11 +9,13 @@ search: bigger,enlarge,magnify,positive,zoom,zoom in
 
 ---
 
-# search-plus  <small style="font-size: 60%;font-weight: 100">更大</small>
+# Search Plus  <small style="font-size: 60%;font-weight: 100">更大</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

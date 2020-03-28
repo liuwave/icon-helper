@@ -2,18 +2,20 @@
 
 title: ReadMe(自述文件) ICON转svg、png下载
 name: readme
-zhTips: 自述文件
+zhTips: 自述文件,readme
 tags: []
 pre: fab
 search: 
 
 ---
 
-# readme  <small style="font-size: 60%;font-weight: 100">自述文件</small>
+# ReadMe  <small style="font-size: 60%;font-weight: 100">自述文件</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">自述文件</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/readme.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/readme.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">自述文件</span><span class="badge-primary badge">readme</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/readme.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/readme.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">README为团队提供工具，以便轻松地创建和管理漂亮的文档，监视他们的API，并以更个性化的方式与他们的用户联系。</div>
 <div class="alert alert-dark">
   <i class="fab fa-readme fa-xs"></i>
   <i class="fab fa-readme fa-sm"></i>

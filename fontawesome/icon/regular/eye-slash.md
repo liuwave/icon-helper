@@ -9,11 +9,13 @@ search: blind,hide,show,toggle,unseen,views,visible,visiblity
 
 ---
 
-# eye-slash  <small style="font-size: 60%;font-weight: 100">眼睛斜线</small>
+# Eye Slash  <small style="font-size: 60%;font-weight: 100">眼睛斜线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">blind</span><span class="badge-light badge">hide</span><span class="badge-light badge">show</span><span class="badge-light badge">toggle</span><span class="badge-light badge">unseen</span><span class="badge-light badge">views</span><span class="badge-light badge">visible</span><span class="badge-light badge">visiblity</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">眼睛斜线</span><span class="badge-primary badge">盲点</span><span class="badge-primary badge">隐藏</span><span class="badge-primary badge">显示</span><span class="badge-primary badge">切换</span><span class="badge-primary badge">看不见</span><span class="badge-primary badge">视图</span><span class="badge-primary badge">可见</span><span class="badge-primary badge">可见性</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/eye-slash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/eye-slash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">带斜杠的眼睛，表示不可见。</div>
 <div class="alert alert-dark">
   <i class="far fa-eye-slash fa-xs"></i>
   <i class="far fa-eye-slash fa-sm"></i>

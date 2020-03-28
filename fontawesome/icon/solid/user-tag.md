@@ -9,11 +9,13 @@ search: avatar,discount,label,person,role,special
 
 ---
 
-# user-tag  <small style="font-size: 60%;font-weight: 100">用户标签</small>
+# User Tag  <small style="font-size: 60%;font-weight: 100">用户标签</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

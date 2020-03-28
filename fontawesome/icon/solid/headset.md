@@ -9,11 +9,13 @@ search: audio,gamer,gaming,listen,live chat,microphone,shot caller,sound,support
 
 ---
 
-# headset  <small style="font-size: 60%;font-weight: 100">耳机</small>
+# Headset  <small style="font-size: 60%;font-weight: 100">耳机</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

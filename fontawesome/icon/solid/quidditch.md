@@ -2,18 +2,20 @@
 
 title: Quidditch(球) ICON转svg、png下载
 name: quidditch
-zhTips: Quidditch,球,打蛋器,扫帚,金色告密者,哈利·波特,霍格沃茨,四肢,运动,奇才
+zhTips: Quidditch,球,打蛋器,扫帚,金色告密者,哈利·波特,霍格沃茨,四肢,运动,奇才,魁地奇球
 tags: ["sports"]
 pre: fas
 search: ball,bludger,broom,golden snitch,harry potter,hogwarts,quaffle,sport,wizard
 
 ---
 
-# quidditch  <small style="font-size: 60%;font-weight: 100">球</small>
+# Quidditch  <small style="font-size: 60%;font-weight: 100">球</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">ball</span><span class="badge-light badge">bludger</span><span class="badge-light badge">broom</span><span class="badge-light badge">golden snitch</span><span class="badge-light badge">harry potter</span><span class="badge-light badge">hogwarts</span><span class="badge-light badge">quaffle</span><span class="badge-light badge">sport</span><span class="badge-light badge">wizard</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Quidditch</span><span class="badge-primary badge">球</span><span class="badge-primary badge">打蛋器</span><span class="badge-primary badge">扫帚</span><span class="badge-primary badge">金色告密者</span><span class="badge-primary badge">哈利·波特</span><span class="badge-primary badge">霍格沃茨</span><span class="badge-primary badge">四肢</span><span class="badge-primary badge">运动</span><span class="badge-primary badge">奇才</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/quidditch.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/quidditch.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">ball</span><span class="badge-light badge">bludger</span><span class="badge-light badge">broom</span><span class="badge-light badge">golden snitch</span><span class="badge-light badge">harry potter</span><span class="badge-light badge">hogwarts</span><span class="badge-light badge">quaffle</span><span class="badge-light badge">sport</span><span class="badge-light badge">wizard</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Quidditch</span><span class="badge-primary badge">球</span><span class="badge-primary badge">打蛋器</span><span class="badge-primary badge">扫帚</span><span class="badge-primary badge">金色告密者</span><span class="badge-primary badge">哈利·波特</span><span class="badge-primary badge">霍格沃茨</span><span class="badge-primary badge">四肢</span><span class="badge-primary badge">运动</span><span class="badge-primary badge">奇才</span><span class="badge-primary badge">魁地奇球</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/quidditch.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/quidditch.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示扫除，清除等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-quidditch fa-xs"></i>
   <i class="fas fa-quidditch fa-sm"></i>

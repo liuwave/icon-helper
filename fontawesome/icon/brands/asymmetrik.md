@@ -9,11 +9,13 @@ search:
 
 ---
 
-# asymmetrik  <small style="font-size: 60%;font-weight: 100">Ltd.</small>
+# Asymmetrik, Ltd.  <small style="font-size: 60%;font-weight: 100">Ltd.</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">Asymmetrik</span><span class="badge-primary badge">Ltd.</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/asymmetrik.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/asymmetrik.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Asymmetrik是一家总部位于美国马里兰州的公司，专门从事软件开发和数据分析。官网:https://asymmetrik.com/ </div>
 <div class="alert alert-dark">
   <i class="fab fa-asymmetrik fa-xs"></i>
   <i class="fab fa-asymmetrik fa-sm"></i>

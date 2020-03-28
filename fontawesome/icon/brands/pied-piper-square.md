@@ -9,11 +9,13 @@ search:
 
 ---
 
-# pied-piper-square  <small style="font-size: 60%;font-weight: 100">Piper Piper Square徽标（旧）</small>
+# Pied Piper Square Logo (Old)  <small style="font-size: 60%;font-weight: 100">Piper Piper Square徽标（旧）</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -2,18 +2,20 @@
 
 title: Crosshairs(十字准线) ICON转svg、png下载
 name: crosshairs
-zhTips: 十字准线,目标,靶心,gpd,拾取器,位置
+zhTips: 十字准线,目标,靶心,gpd,拾取器,位置,瞄准
 tags: ["design","maps","spinners"]
 pre: fas
 search: aim,bullseye,gpd,picker,position
 
 ---
 
-# crosshairs  <small style="font-size: 60%;font-weight: 100">十字准线</small>
+# Crosshairs  <small style="font-size: 60%;font-weight: 100">十字准线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">aim</span><span class="badge-light badge">bullseye</span><span class="badge-light badge">gpd</span><span class="badge-light badge">picker</span><span class="badge-light badge">position</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">十字准线</span><span class="badge-primary badge">目标</span><span class="badge-primary badge">靶心</span><span class="badge-primary badge">gpd</span><span class="badge-primary badge">拾取器</span><span class="badge-primary badge">位置</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crosshairs.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crosshairs.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">aim</span><span class="badge-light badge">bullseye</span><span class="badge-light badge">gpd</span><span class="badge-light badge">picker</span><span class="badge-light badge">position</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">十字准线</span><span class="badge-primary badge">目标</span><span class="badge-primary badge">靶心</span><span class="badge-primary badge">gpd</span><span class="badge-primary badge">拾取器</span><span class="badge-primary badge">位置</span><span class="badge-primary badge">瞄准</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crosshairs.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crosshairs.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">瞄准，象征着专注、准确，可以表示枪镜头。</div>
 <div class="alert alert-dark">
   <i class="fas fa-crosshairs fa-xs"></i>
   <i class="fas fa-crosshairs fa-sm"></i>

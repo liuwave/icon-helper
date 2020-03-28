@@ -2,18 +2,20 @@
 
 title: Bug(错误) ICON转svg、png下载
 name: bug
-zhTips: 错误,甲虫,昆虫,报告
+zhTips: 错误,甲虫,昆虫,报告,臭虫
 tags: ["code","interfaces","objects","security"]
 pre: fas
 search: beetle,error,insect,report
 
 ---
 
-# bug  <small style="font-size: 60%;font-weight: 100">错误</small>
+# Bug  <small style="font-size: 60%;font-weight: 100">错误</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">beetle</span><span class="badge-light badge">error</span><span class="badge-light badge">insect</span><span class="badge-light badge">report</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">错误</span><span class="badge-primary badge">甲虫</span><span class="badge-primary badge">昆虫</span><span class="badge-primary badge">报告</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bug.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bug.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">beetle</span><span class="badge-light badge">error</span><span class="badge-light badge">insect</span><span class="badge-light badge">report</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">错误</span><span class="badge-primary badge">甲虫</span><span class="badge-primary badge">昆虫</span><span class="badge-primary badge">报告</span><span class="badge-primary badge">臭虫</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bug.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bug.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">臭虫，可以表示电脑病毒、电脑bug、bug调试。</div>
 <div class="alert alert-dark">
   <i class="fas fa-bug fa-xs"></i>
   <i class="fas fa-bug fa-sm"></i>

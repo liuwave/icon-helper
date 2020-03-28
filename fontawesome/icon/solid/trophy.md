@@ -14,6 +14,8 @@ search: achievement,award,cup,game,winner
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">achievement</span><span class="badge-light badge">award</span><span class="badge-light badge">cup</span><span class="badge-light badge">game</span><span class="badge-light badge">winner</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">奖杯</span><span class="badge-primary badge">成就</span><span class="badge-primary badge">奖项</span><span class="badge-primary badge">杯</span><span class="badge-primary badge">游戏</span><span class="badge-primary badge">获胜者</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/trophy.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/trophy.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示表示荣誉，光环等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-trophy fa-xs"></i>
   <i class="fas fa-trophy fa-sm"></i>

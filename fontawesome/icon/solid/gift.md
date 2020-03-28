@@ -14,6 +14,8 @@ search: christmas,generosity,giving,holiday,party,present,wrapped,xmas
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">christmas</span><span class="badge-light badge">generosity</span><span class="badge-light badge">giving</span><span class="badge-light badge">holiday</span><span class="badge-light badge">party</span><span class="badge-light badge">present</span><span class="badge-light badge">wrapped</span><span class="badge-light badge">xmas</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">礼品</span><span class="badge-primary badge">圣诞节</span><span class="badge-primary badge">慷慨</span><span class="badge-primary badge">给予</span><span class="badge-primary badge">假日</span><span class="badge-primary badge">聚会</span><span class="badge-primary badge">礼物</span><span class="badge-primary badge">包裹</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gift.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gift.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">物品装饰，表示有生日，节日。</div>
 <div class="alert alert-dark">
   <i class="fas fa-gift fa-xs"></i>
   <i class="fas fa-gift fa-sm"></i>

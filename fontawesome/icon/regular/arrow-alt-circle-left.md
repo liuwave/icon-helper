@@ -9,11 +9,13 @@ search: arrow-circle-o-left,back,previous
 
 ---
 
-# arrow-alt-circle-left  <small style="font-size: 60%;font-weight: 100">备用箭头向左圆</small>
+# Alternate Arrow Circle Left  <small style="font-size: 60%;font-weight: 100">备用箭头向左圆</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

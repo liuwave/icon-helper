@@ -2,18 +2,20 @@
 
 title: Algolia(阿尔及利亚) ICON转svg、png下载
 name: algolia
-zhTips: 阿尔及利亚
+zhTips: 阿尔及利亚,云搜索
 tags: []
 pre: fab
 search: 
 
 ---
 
-# algolia  <small style="font-size: 60%;font-weight: 100">阿尔及利亚</small>
+# Algolia  <small style="font-size: 60%;font-weight: 100">阿尔及利亚</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">阿尔及利亚</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/algolia.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/algolia.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">阿尔及利亚</span><span class="badge-primary badge">云搜索</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/algolia.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/algolia.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Algolia是一个搜索即服务平台，总部位于美国旧金山，为网站与移动应用提供托管式云搜索服务。公司网站：https://www.algolia.com</div>
 <div class="alert alert-dark">
   <i class="fab fa-algolia fa-xs"></i>
   <i class="fab fa-algolia fa-sm"></i>

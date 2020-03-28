@@ -1,19 +1,21 @@
 ---
 
-title: Instagram(Instagram) ICON转svg、png下载
+title: Instagram(照片墙) ICON转svg、png下载
 name: instagram
-zhTips: Instagram
+zhTips: 照片墙,IG
 tags: []
 pre: fab
 search: 
 
 ---
 
-# instagram  <small style="font-size: 60%;font-weight: 100">Instagram</small>
+# Instagram  <small style="font-size: 60%;font-weight: 100">照片墙</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Instagram</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/instagram.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/instagram.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">照片墙</span><span class="badge-primary badge">IG</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/instagram.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/instagram.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Instagram一款运行在移动端上的社交应用,可以快速进行照片分享。</div>
 <div class="alert alert-dark">
   <i class="fab fa-instagram fa-xs"></i>
   <i class="fab fa-instagram fa-sm"></i>

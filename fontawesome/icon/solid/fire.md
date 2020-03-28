@@ -2,7 +2,7 @@
 
 title: fire(火) ICON转svg、png下载
 name: fire
-zhTips: 火,烧伤,卡路里,火焰,热,受欢迎
+zhTips: 火,烧伤,卡路里,火焰,热,受欢迎,火苗
 tags: ["camping","energy","maps","objects","science"]
 pre: fas
 search: burn,caliente,flame,heat,hot,popular
@@ -14,6 +14,8 @@ search: burn,caliente,flame,heat,hot,popular
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">burn</span><span class="badge-light badge">caliente</span><span class="badge-light badge">flame</span><span class="badge-light badge">heat</span><span class="badge-light badge">hot</span><span class="badge-light badge">popular</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">火</span><span class="badge-primary badge">烧伤</span><span class="badge-primary badge">卡路里</span><span class="badge-primary badge">火焰</span><span class="badge-primary badge">热</span><span class="badge-primary badge">受欢迎</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/fire.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/fire.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">burn</span><span class="badge-light badge">caliente</span><span class="badge-light badge">flame</span><span class="badge-light badge">heat</span><span class="badge-light badge">hot</span><span class="badge-light badge">popular</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">火</span><span class="badge-primary badge">烧伤</span><span class="badge-primary badge">卡路里</span><span class="badge-primary badge">火焰</span><span class="badge-primary badge">热</span><span class="badge-primary badge">受欢迎</span><span class="badge-primary badge">火苗</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/fire.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/fire.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">火焰，表示热、受欢迎。</div>
 <div class="alert alert-dark">
   <i class="fas fa-fire fa-xs"></i>
   <i class="fas fa-fire fa-sm"></i>

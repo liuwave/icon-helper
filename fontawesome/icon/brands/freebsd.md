@@ -9,11 +9,13 @@ search:
 
 ---
 
-# freebsd  <small style="font-size: 60%;font-weight: 100">FreeBSD</small>
+# FreeBSD  <small style="font-size: 60%;font-weight: 100">FreeBSD</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">FreeBSD</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/freebsd.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/freebsd.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">FreeBSD是一种类UNIX操作系统，是由经过BSD、386BSD和4.4BSD发展而来的Unix的一个重要分支</div>
 <div class="alert alert-dark">
   <i class="fab fa-freebsd fa-xs"></i>
   <i class="fab fa-freebsd fa-sm"></i>

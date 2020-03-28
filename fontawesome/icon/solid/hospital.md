@@ -14,6 +14,8 @@ search: building,covid-19,emergency room,medical center
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">emergency room</span><span class="badge-light badge">medical center</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">医院</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">急诊室</span><span class="badge-primary badge">医疗中心</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hospital.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hospital.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">医院，一般表示医护、医疗的地方。</div>
 <div class="alert alert-dark">
   <i class="fas fa-hospital fa-xs"></i>
   <i class="fas fa-hospital fa-sm"></i>

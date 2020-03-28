@@ -9,11 +9,13 @@ search: google-plus-circle,google-plus-official
 
 ---
 
-# google-plus  <small style="font-size: 60%;font-weight: 100">google plus圈</small>
+# Google Plus  <small style="font-size: 60%;font-weight: 100">google plus圈</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

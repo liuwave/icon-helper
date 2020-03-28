@@ -2,18 +2,20 @@
 
 title: HTML 5 Logo(HTML 5徽标) ICON转svg、png下载
 name: html5
-zhTips: HTML 5徽标
+zhTips: HTML 5徽标,html5
 tags: []
 pre: fab
 search: 
 
 ---
 
-# html5  <small style="font-size: 60%;font-weight: 100">HTML 5徽标</small>
+# HTML 5 Logo  <small style="font-size: 60%;font-weight: 100">HTML 5徽标</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">HTML 5徽标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/html5.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/html5.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">HTML 5徽标</span><span class="badge-primary badge">html5</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/html5.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/html5.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">html指的是超文本标记语。 而HTML5是HTML最新的修订版本</div>
 <div class="alert alert-dark">
   <i class="fab fa-html5 fa-xs"></i>
   <i class="fab fa-html5 fa-sm"></i>

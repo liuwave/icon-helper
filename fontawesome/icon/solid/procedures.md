@@ -2,18 +2,20 @@
 
 title: Procedures(程序) ICON转svg、png下载
 name: procedures
-zhTips: 程序,心电图,床,健康,医院,生活,病人,重要
+zhTips: 程序,心电图,床,健康,医院,生活,病人
 tags: ["medical"]
 pre: fas
 search: EKG,bed,electrocardiogram,health,hospital,life,patient,vital
 
 ---
 
-# procedures  <small style="font-size: 60%;font-weight: 100">程序</small>
+# Procedures  <small style="font-size: 60%;font-weight: 100">程序</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">EKG</span><span class="badge-light badge">bed</span><span class="badge-light badge">electrocardiogram</span><span class="badge-light badge">health</span><span class="badge-light badge">hospital</span><span class="badge-light badge">life</span><span class="badge-light badge">patient</span><span class="badge-light badge">vital</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">程序</span><span class="badge-primary badge">心电图</span><span class="badge-primary badge">床</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">生活</span><span class="badge-primary badge">病人</span><span class="badge-primary badge">重要</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/procedures.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/procedures.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">EKG</span><span class="badge-light badge">bed</span><span class="badge-light badge">electrocardiogram</span><span class="badge-light badge">health</span><span class="badge-light badge">hospital</span><span class="badge-light badge">life</span><span class="badge-light badge">patient</span><span class="badge-light badge">vital</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">程序</span><span class="badge-primary badge">心电图</span><span class="badge-primary badge">床</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">生活</span><span class="badge-primary badge">病人</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/procedures.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/procedures.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">病床上的心电图，表示生病、病人，也可表示健康</div>
 <div class="alert alert-dark">
   <i class="fas fa-procedures fa-xs"></i>
   <i class="fas fa-procedures fa-sm"></i>

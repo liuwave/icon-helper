@@ -2,18 +2,20 @@
 
 title: Mercury(汞) ICON转svg、png下载
 name: mercury
-zhTips: 汞,变性
+zhTips: 汞,变性,水银
 tags: ["gender"]
 pre: fas
 search: transgender
 
 ---
 
-# mercury  <small style="font-size: 60%;font-weight: 100">汞</small>
+# Mercury  <small style="font-size: 60%;font-weight: 100">汞</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">transgender</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">汞</span><span class="badge-primary badge">变性</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mercury.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mercury.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">transgender</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">汞</span><span class="badge-primary badge">变性</span><span class="badge-primary badge">水银</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mercury.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mercury.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示液体，温度计等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-mercury fa-xs"></i>
   <i class="fas fa-mercury fa-sm"></i>

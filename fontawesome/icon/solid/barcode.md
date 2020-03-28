@@ -2,7 +2,7 @@
 
 title: barcode(条形码) ICON转svg、png下载
 name: barcode
-zhTips: 条形码,信息,激光,价格,扫描,upc
+zhTips: 条形码,信息,激光,价格,扫描,upc,条码
 tags: ["code","interfaces","shopping"]
 pre: fas
 search: info,laser,price,scan,upc
@@ -14,6 +14,8 @@ search: info,laser,price,scan,upc
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">info</span><span class="badge-light badge">laser</span><span class="badge-light badge">price</span><span class="badge-light badge">scan</span><span class="badge-light badge">upc</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">条形码</span><span class="badge-primary badge">信息</span><span class="badge-primary badge">激光</span><span class="badge-primary badge">价格</span><span class="badge-primary badge">扫描</span><span class="badge-primary badge">upc</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/barcode.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/barcode.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">info</span><span class="badge-light badge">laser</span><span class="badge-light badge">price</span><span class="badge-light badge">scan</span><span class="badge-light badge">upc</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">条形码</span><span class="badge-primary badge">信息</span><span class="badge-primary badge">激光</span><span class="badge-primary badge">价格</span><span class="badge-primary badge">扫描</span><span class="badge-primary badge">upc</span><span class="badge-primary badge">条码</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/barcode.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/barcode.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">条码，可用于标出制造厂家，图书分类。</div>
 <div class="alert alert-dark">
   <i class="fas fa-barcode fa-xs"></i>
   <i class="fas fa-barcode fa-sm"></i>

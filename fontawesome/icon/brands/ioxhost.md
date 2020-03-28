@@ -14,6 +14,8 @@ search:
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">ioxhost</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ioxhost.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ioxhost.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">ioxhost是一家经营网站托管，共享托管，经销商托管，虚拟私人服务器，专用服务器，域名和SSL证书的网站。</div>
 <div class="alert alert-dark">
   <i class="fab fa-ioxhost fa-xs"></i>
   <i class="fab fa-ioxhost fa-sm"></i>

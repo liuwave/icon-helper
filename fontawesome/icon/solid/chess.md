@@ -9,11 +9,13 @@ search: board,castle,checkmate,game,king,rook,strategy,tournament
 
 ---
 
-# chess  <small style="font-size: 60%;font-weight: 100">国际象棋</small>
+# Chess  <small style="font-size: 60%;font-weight: 100">国际象棋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">board</span><span class="badge-light badge">castle</span><span class="badge-light badge">checkmate</span><span class="badge-light badge">game</span><span class="badge-light badge">king</span><span class="badge-light badge">rook</span><span class="badge-light badge">strategy</span><span class="badge-light badge">tournament</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">国际象棋</span><span class="badge-primary badge">棋盘</span><span class="badge-primary badge">城堡</span><span class="badge-primary badge">将军</span><span class="badge-primary badge">游戏</span><span class="badge-primary badge">国王</span><span class="badge-primary badge">白嘴鸦</span><span class="badge-primary badge">战略</span><span class="badge-primary badge">锦标赛</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/chess.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/chess.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">国际象棋</div>
 <div class="alert alert-dark">
   <i class="fas fa-chess fa-xs"></i>
   <i class="fas fa-chess fa-sm"></i>

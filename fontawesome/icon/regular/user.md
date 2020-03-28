@@ -2,18 +2,20 @@
 
 title: User(用户) ICON转svg、png下载
 name: user
-zhTips: 用户,帐户,头像,头,人,个人资料
+zhTips: 用户,帐户,头像,头,人,个人资料,用户标志
 tags: ["interfaces","social","status","users-people"]
 pre: far
 search: account,avatar,head,human,man,person,profile
 
 ---
 
-# user  <small style="font-size: 60%;font-weight: 100">用户</small>
+# User  <small style="font-size: 60%;font-weight: 100">用户</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">account</span><span class="badge-light badge">avatar</span><span class="badge-light badge">head</span><span class="badge-light badge">human</span><span class="badge-light badge">man</span><span class="badge-light badge">person</span><span class="badge-light badge">profile</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">用户</span><span class="badge-primary badge">帐户</span><span class="badge-primary badge">头像</span><span class="badge-primary badge">头</span><span class="badge-primary badge">人</span><span class="badge-primary badge">个人资料</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/user.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/user.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">account</span><span class="badge-light badge">avatar</span><span class="badge-light badge">head</span><span class="badge-light badge">human</span><span class="badge-light badge">man</span><span class="badge-light badge">person</span><span class="badge-light badge">profile</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">用户</span><span class="badge-primary badge">帐户</span><span class="badge-primary badge">头像</span><span class="badge-primary badge">头</span><span class="badge-primary badge">人</span><span class="badge-primary badge">个人资料</span><span class="badge-primary badge">用户标志</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/user.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/user.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">用于表示用户账号登录或联系人。</div>
 <div class="alert alert-dark">
   <i class="far fa-user fa-xs"></i>
   <i class="far fa-user fa-sm"></i>

@@ -2,18 +2,20 @@
 
 title: Spinner(旋转器) ICON转svg、png下载
 name: spinner
-zhTips: 旋转器,圆,加载,进度
+zhTips: 旋转器,圆,加载,进度,旋转加载
 tags: ["spinners"]
 pre: fas
 search: circle,loading,progress
 
 ---
 
-# spinner  <small style="font-size: 60%;font-weight: 100">旋转器</small>
+# Spinner  <small style="font-size: 60%;font-weight: 100">旋转器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">circle</span><span class="badge-light badge">loading</span><span class="badge-light badge">progress</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">旋转器</span><span class="badge-primary badge">圆</span><span class="badge-primary badge">加载</span><span class="badge-primary badge">进度</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/spinner.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/spinner.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">circle</span><span class="badge-light badge">loading</span><span class="badge-light badge">progress</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">旋转器</span><span class="badge-primary badge">圆</span><span class="badge-primary badge">加载</span><span class="badge-primary badge">进度</span><span class="badge-primary badge">旋转加载</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/spinner.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/spinner.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示内容正在加载。</div>
 <div class="alert alert-dark">
   <i class="fas fa-spinner fa-xs"></i>
   <i class="fas fa-spinner fa-sm"></i>

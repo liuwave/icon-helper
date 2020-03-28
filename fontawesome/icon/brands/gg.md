@@ -2,18 +2,20 @@
 
 title: GG Currency(GG货币) ICON转svg、png下载
 name: gg
-zhTips: GG货币
+zhTips: GG货币,gg
 tags: ["currency"]
 pre: fab
 search: 
 
 ---
 
-# gg  <small style="font-size: 60%;font-weight: 100">GG货币</small>
+# GG Currency  <small style="font-size: 60%;font-weight: 100">GG货币</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">GG货币</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gg.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gg.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">GG货币</span><span class="badge-primary badge">gg</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gg.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gg.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

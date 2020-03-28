@@ -2,18 +2,20 @@
 
 title: Info(信息) ICON转svg、png下载
 name: info
-zhTips: 信息,详细信息,帮助,更多,支持
+zhTips: 信息,详细信息,帮助,更多,支持,信息表示
 tags: ["interfaces","maps","status"]
 pre: fas
 search: details,help,information,more,support
 
 ---
 
-# info  <small style="font-size: 60%;font-weight: 100">信息</small>
+# Info  <small style="font-size: 60%;font-weight: 100">信息</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">details</span><span class="badge-light badge">help</span><span class="badge-light badge">information</span><span class="badge-light badge">more</span><span class="badge-light badge">support</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">信息</span><span class="badge-primary badge">详细信息</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">更多</span><span class="badge-primary badge">支持</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/info.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/info.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">details</span><span class="badge-light badge">help</span><span class="badge-light badge">information</span><span class="badge-light badge">more</span><span class="badge-light badge">support</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">信息</span><span class="badge-primary badge">详细信息</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">更多</span><span class="badge-primary badge">支持</span><span class="badge-primary badge">信息表示</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/info.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/info.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">常用于表示给用户的提示。</div>
 <div class="alert alert-dark">
   <i class="fas fa-info fa-xs"></i>
   <i class="fas fa-info fa-sm"></i>

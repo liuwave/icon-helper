@@ -9,11 +9,13 @@ search: eco,flora,leaf,leaves,nature,plant,tree
 
 ---
 
-# pagelines  <small style="font-size: 60%;font-weight: 100">生态</small>
+# Pagelines  <small style="font-size: 60%;font-weight: 100">生态</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">eco</span><span class="badge-light badge">flora</span><span class="badge-light badge">leaf</span><span class="badge-light badge">leaves</span><span class="badge-light badge">nature</span><span class="badge-light badge">plant</span><span class="badge-light badge">tree</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Pagelines</span><span class="badge-primary badge">生态</span><span class="badge-primary badge">植物区系</span><span class="badge-primary badge">叶子</span><span class="badge-primary badge">性质</span><span class="badge-primary badge">植物</span><span class="badge-primary badge">树</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/pagelines.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/pagelines.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Pagelines是一个WordPress插件平台，在5分钟内即可将强大的营销和设计平台添加到您的WordPress网站。</div>
 <div class="alert alert-dark">
   <i class="fab fa-pagelines fa-xs"></i>
   <i class="fab fa-pagelines fa-sm"></i>

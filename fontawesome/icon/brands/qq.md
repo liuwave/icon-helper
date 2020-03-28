@@ -1,19 +1,21 @@
 ---
 
-title: QQ(QQ) ICON转svg、png下载
+title: QQ(腾讯QQ) ICON转svg、png下载
 name: qq
-zhTips: QQ
+zhTips: 腾讯QQ
 tags: []
 pre: fab
 search: 
 
 ---
 
-# qq  <small style="font-size: 60%;font-weight: 100">QQ</small>
+# QQ  <small style="font-size: 60%;font-weight: 100">腾讯QQ</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">QQ</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/qq.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/qq.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">腾讯QQ</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/qq.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/qq.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">腾讯QQ是一款8亿人在用的即时通讯软件,由腾讯公司开发。</div>
 <div class="alert alert-dark">
   <i class="fab fa-qq fa-xs"></i>
   <i class="fab fa-qq fa-sm"></i>

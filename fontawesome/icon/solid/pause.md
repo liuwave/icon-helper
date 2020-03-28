@@ -2,7 +2,7 @@
 
 title: pause(暂停) ICON转svg、png下载
 name: pause
-zhTips: 暂停,按住,等待
+zhTips: 暂停,按住,等待,暂停黑
 tags: ["audio-video"]
 pre: fas
 search: hold,wait
@@ -14,6 +14,8 @@ search: hold,wait
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">hold</span><span class="badge-light badge">wait</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">暂停</span><span class="badge-primary badge">按住</span><span class="badge-primary badge">等待</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pause.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pause.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">hold</span><span class="badge-light badge">wait</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">暂停</span><span class="badge-primary badge">按住</span><span class="badge-primary badge">等待</span><span class="badge-primary badge">暂停黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pause.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pause.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示视频、音乐等媒体的暂停。</div>
 <div class="alert alert-dark">
   <i class="fas fa-pause fa-xs"></i>
   <i class="fas fa-pause fa-sm"></i>

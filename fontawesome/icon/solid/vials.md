@@ -2,18 +2,20 @@
 
 title: Vials(样品瓶) ICON转svg、png下载
 name: vials
-zhTips: 样品瓶,实验,实验室,样品,科学,测试,试管
+zhTips: 样品瓶,实验,实验室,样品,科学,测试,试管,试管组
 tags: ["medical","pharmacy","science"]
 pre: fas
 search: experiment,lab,sample,science,test,test tube
 
 ---
 
-# vials  <small style="font-size: 60%;font-weight: 100">样品瓶</small>
+# Vials  <small style="font-size: 60%;font-weight: 100">样品瓶</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">experiment</span><span class="badge-light badge">lab</span><span class="badge-light badge">sample</span><span class="badge-light badge">science</span><span class="badge-light badge">test</span><span class="badge-light badge">test tube</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">样品瓶</span><span class="badge-primary badge">实验</span><span class="badge-primary badge">实验室</span><span class="badge-primary badge">样品</span><span class="badge-primary badge">科学</span><span class="badge-primary badge">测试</span><span class="badge-primary badge">试管</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/vials.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/vials.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">experiment</span><span class="badge-light badge">lab</span><span class="badge-light badge">sample</span><span class="badge-light badge">science</span><span class="badge-light badge">test</span><span class="badge-light badge">test tube</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">样品瓶</span><span class="badge-primary badge">实验</span><span class="badge-primary badge">实验室</span><span class="badge-primary badge">样品</span><span class="badge-primary badge">科学</span><span class="badge-primary badge">测试</span><span class="badge-primary badge">试管</span><span class="badge-primary badge">试管组</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/vials.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/vials.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">一种试剂反应容器。常表示实验室、医院等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-vials fa-xs"></i>
   <i class="fas fa-vials fa-sm"></i>

@@ -9,11 +9,13 @@ search: care,covid-19,donate,help
 
 ---
 
-# hand-holding-medical  <small style="font-size: 60%;font-weight: 100">护理</small>
+# Hand Holding Medical Cross  <small style="font-size: 60%;font-weight: 100">护理</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

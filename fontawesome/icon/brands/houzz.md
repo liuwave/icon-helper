@@ -1,19 +1,21 @@
 ---
 
-title: Houzz(混乱) ICON转svg、png下载
+title: Houzz(胡兹) ICON转svg、png下载
 name: houzz
-zhTips: 混乱
+zhTips: 胡兹
 tags: []
 pre: fab
 search: 
 
 ---
 
-# houzz  <small style="font-size: 60%;font-weight: 100">混乱</small>
+# Houzz  <small style="font-size: 60%;font-weight: 100">胡兹</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">混乱</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/houzz.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/houzz.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">胡兹</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/houzz.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/houzz.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">houzz是设计你的家的新方法：一个互联网家装平台。</div>
 <div class="alert alert-dark">
   <i class="fab fa-houzz fa-xs"></i>
   <i class="fab fa-houzz fa-sm"></i>

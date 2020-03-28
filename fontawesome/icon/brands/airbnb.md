@@ -1,19 +1,21 @@
 ---
 
-title: Airbnb(Airbnb) ICON转svg、png下载
+title: Airbnb(爱彼迎) ICON转svg、png下载
 name: airbnb
-zhTips: Airbnb
+zhTips: 爱彼迎,民宿短租
 tags: []
 pre: fab
-search: 
+search: AirBed and Breakfast
 
 ---
 
-# airbnb  <small style="font-size: 60%;font-weight: 100">Airbnb</small>
+# Airbnb  <small style="font-size: 60%;font-weight: 100">爱彼迎</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Airbnb</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/airbnb.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/airbnb.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">AirBed and Breakfast</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">爱彼迎</span><span class="badge-primary badge">民宿短租</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/airbnb.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/airbnb.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Airbnb爱彼迎是全球民宿短租公寓预定平台,全球700万特色民宿、短租、酒店、公寓、客栈覆盖191个国家和地区短租民宿房源。官网地址：https://www.airbnb.cn/</div>
 <div class="alert alert-dark">
   <i class="fab fa-airbnb fa-xs"></i>
   <i class="fab fa-airbnb fa-sm"></i>

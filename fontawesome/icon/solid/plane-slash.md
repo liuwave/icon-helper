@@ -9,11 +9,13 @@ search: airplane mode,canceled,covid-19,delayed,grounded,travel
 
 ---
 
-# plane-slash  <small style="font-size: 60%;font-weight: 100">飞机斜线</small>
+# Plane Slash  <small style="font-size: 60%;font-weight: 100">飞机斜线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

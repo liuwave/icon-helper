@@ -2,7 +2,7 @@
 
 title: random(随机) ICON转svg、png下载
 name: random
-zhTips: 随机,箭头,排序,交换,开关,转移
+zhTips: 随机,箭头,排序,交换,开关,转移,随机符号
 tags: ["arrows","audio-video"]
 pre: fas
 search: arrows,shuffle,sort,swap,switch,transfer
@@ -14,6 +14,8 @@ search: arrows,shuffle,sort,swap,switch,transfer
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">arrows</span><span class="badge-light badge">shuffle</span><span class="badge-light badge">sort</span><span class="badge-light badge">swap</span><span class="badge-light badge">switch</span><span class="badge-light badge">transfer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">随机</span><span class="badge-primary badge">箭头</span><span class="badge-primary badge">排序</span><span class="badge-primary badge">交换</span><span class="badge-primary badge">开关</span><span class="badge-primary badge">转移</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/random.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/random.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">arrows</span><span class="badge-light badge">shuffle</span><span class="badge-light badge">sort</span><span class="badge-light badge">swap</span><span class="badge-light badge">switch</span><span class="badge-light badge">transfer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">随机</span><span class="badge-primary badge">箭头</span><span class="badge-primary badge">排序</span><span class="badge-primary badge">交换</span><span class="badge-primary badge">开关</span><span class="badge-primary badge">转移</span><span class="badge-primary badge">随机符号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/random.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/random.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示随机产生，不确定等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-random fa-xs"></i>
   <i class="fas fa-random fa-sm"></i>

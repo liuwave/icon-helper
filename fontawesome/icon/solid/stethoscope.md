@@ -9,11 +9,13 @@ search: covid-19,diagnosis,doctor,general practitioner,hospital,infirmary,medici
 
 ---
 
-# stethoscope  <small style="font-size: 60%;font-weight: 100">听诊器</small>
+# Stethoscope  <small style="font-size: 60%;font-weight: 100">听诊器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">diagnosis</span><span class="badge-light badge">doctor</span><span class="badge-light badge">general practitioner</span><span class="badge-light badge">hospital</span><span class="badge-light badge">infirmary</span><span class="badge-light badge">medicine</span><span class="badge-light badge">office</span><span class="badge-light badge">outpatient</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">听诊器</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">诊断</span><span class="badge-primary badge">医生</span><span class="badge-primary badge">普通科医生</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">医务室</span><span class="badge-primary badge">医学</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">门诊</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stethoscope.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stethoscope.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">用于医院医疗，诊断。</div>
 <div class="alert alert-dark">
   <i class="fas fa-stethoscope fa-xs"></i>
   <i class="fas fa-stethoscope fa-sm"></i>

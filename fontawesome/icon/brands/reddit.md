@@ -2,18 +2,20 @@
 
 title: reddit Logo(reddit徽标) ICON转svg、png下载
 name: reddit
-zhTips: reddit徽标
+zhTips: reddit徽标,reddit
 tags: []
 pre: fab
 search: 
 
 ---
 
-# reddit  <small style="font-size: 60%;font-weight: 100">reddit徽标</small>
+# reddit Logo  <small style="font-size: 60%;font-weight: 100">reddit徽标</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">reddit徽标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/reddit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/reddit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">reddit徽标</span><span class="badge-primary badge">reddit</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/reddit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/reddit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Reddit是个社交新闻站点，由成千上万个社区、没完没了的交谈和真实人类的互动组成。</div>
 <div class="alert alert-dark">
   <i class="fab fa-reddit fa-xs"></i>
   <i class="fab fa-reddit fa-sm"></i>

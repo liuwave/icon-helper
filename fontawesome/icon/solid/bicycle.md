@@ -9,11 +9,13 @@ search: bike,gears,pedal,transportation,vehicle
 
 ---
 
-# bicycle  <small style="font-size: 60%;font-weight: 100">自行车</small>
+# Bicycle  <small style="font-size: 60%;font-weight: 100">自行车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">bike</span><span class="badge-light badge">gears</span><span class="badge-light badge">pedal</span><span class="badge-light badge">transportation</span><span class="badge-light badge">vehicle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">自行车</span><span class="badge-primary badge">齿轮</span><span class="badge-primary badge">踏板</span><span class="badge-primary badge">运输</span><span class="badge-primary badge">车辆</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bicycle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bicycle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">自行车，可以表示骑行、旅行。</div>
 <div class="alert alert-dark">
   <i class="fas fa-bicycle fa-xs"></i>
   <i class="fas fa-bicycle fa-sm"></i>

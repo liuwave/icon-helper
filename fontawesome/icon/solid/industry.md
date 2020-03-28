@@ -2,18 +2,20 @@
 
 title: Industry(工业) ICON转svg、png下载
 name: industry
-zhTips: 工业,建筑,工厂,制造,磨房,仓库
+zhTips: 工业,建筑,工厂,制造,磨房,仓库,销毁
 tags: ["buildings","business","energy","maps","objects"]
 pre: fas
 search: building,factory,industrial,manufacturing,mill,warehouse
 
 ---
 
-# industry  <small style="font-size: 60%;font-weight: 100">工业</small>
+# Industry  <small style="font-size: 60%;font-weight: 100">工业</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">factory</span><span class="badge-light badge">industrial</span><span class="badge-light badge">manufacturing</span><span class="badge-light badge">mill</span><span class="badge-light badge">warehouse</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">工业</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">工厂</span><span class="badge-primary badge">制造</span><span class="badge-primary badge">磨房</span><span class="badge-primary badge">仓库</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/industry.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/industry.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">factory</span><span class="badge-light badge">industrial</span><span class="badge-light badge">manufacturing</span><span class="badge-light badge">mill</span><span class="badge-light badge">warehouse</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">工业</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">工厂</span><span class="badge-primary badge">制造</span><span class="badge-primary badge">磨房</span><span class="badge-primary badge">仓库</span><span class="badge-primary badge">销毁</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/industry.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/industry.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示工业、工厂等内容。</div>
 <div class="alert alert-dark">
   <i class="fas fa-industry fa-xs"></i>
   <i class="fas fa-industry fa-sm"></i>

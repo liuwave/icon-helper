@@ -2,18 +2,20 @@
 
 title: Shirts in Bulk(散装衬衫) ICON转svg、png下载
 name: shirtsinbulk
-zhTips: 散装衬衫
+zhTips: 散装衬衫,shirtsinbulk
 tags: []
 pre: fab
 search: 
 
 ---
 
-# shirtsinbulk  <small style="font-size: 60%;font-weight: 100">散装衬衫</small>
+# Shirts in Bulk  <small style="font-size: 60%;font-weight: 100">散装衬衫</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">散装衬衫</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/shirtsinbulk.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/shirtsinbulk.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">散装衬衫</span><span class="badge-primary badge">shirtsinbulk</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/shirtsinbulk.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/shirtsinbulk.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">shirtsinbulk是一个廉价的在线服装电商。</div>
 <div class="alert alert-dark">
   <i class="fab fa-shirtsinbulk fa-xs"></i>
   <i class="fab fa-shirtsinbulk fa-sm"></i>

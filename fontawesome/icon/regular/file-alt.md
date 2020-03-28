@@ -9,11 +9,13 @@ search: document,file-text,invoice,new,page,pdf
 
 ---
 
-# file-alt  <small style="font-size: 60%;font-weight: 100">备用文件</small>
+# Alternate File  <small style="font-size: 60%;font-weight: 100">备用文件</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">document</span><span class="badge-light badge">file-text</span><span class="badge-light badge">invoice</span><span class="badge-light badge">new</span><span class="badge-light badge">page</span><span class="badge-light badge">pdf</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">备用文件</span><span class="badge-primary badge">文档</span><span class="badge-primary badge">文件文本</span><span class="badge-primary badge">发票</span><span class="badge-primary badge">新建</span><span class="badge-primary badge">页面</span><span class="badge-primary badge">pdf</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/file-alt.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/file-alt.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示文件</div>
 <div class="alert alert-dark">
   <i class="far fa-file-alt fa-xs"></i>
   <i class="far fa-file-alt fa-sm"></i>

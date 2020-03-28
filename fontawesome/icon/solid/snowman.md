@@ -9,11 +9,13 @@ search: decoration,frost,frosty,holiday
 
 ---
 
-# snowman  <small style="font-size: 60%;font-weight: 100">雪人</small>
+# Snowman  <small style="font-size: 60%;font-weight: 100">雪人</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">decoration</span><span class="badge-light badge">frost</span><span class="badge-light badge">frosty</span><span class="badge-light badge">holiday</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">雪人</span><span class="badge-primary badge">装修</span><span class="badge-primary badge">霜冻</span><span class="badge-primary badge">冰霜</span><span class="badge-primary badge">假日</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/snowman.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/snowman.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示冬天、寒冷等象征性意义。</div>
 <div class="alert alert-dark">
   <i class="fas fa-snowman fa-xs"></i>
   <i class="fas fa-snowman fa-sm"></i>

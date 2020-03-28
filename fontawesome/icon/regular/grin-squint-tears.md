@@ -9,11 +9,13 @@ search: emoticon,face,happy,smile
 
 ---
 
-# grin-squint-tears  <small style="font-size: 60%;font-weight: 100">在地板上滚动笑</small>
+# Rolling on the Floor Laughing  <small style="font-size: 60%;font-weight: 100">在地板上滚动笑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -2,18 +2,20 @@
 
 title: Burn(燃烧) ICON转svg、png下载
 name: burn
-zhTips: 燃烧,卡路里,能量,火,火焰,气体,热
+zhTips: 燃烧,卡路里,能量,火,火焰,气体,热,烧伤
 tags: ["energy","fitness","medical","science"]
 pre: fas
 search: caliente,energy,fire,flame,gas,heat,hot
 
 ---
 
-# burn  <small style="font-size: 60%;font-weight: 100">燃烧</small>
+# Burn  <small style="font-size: 60%;font-weight: 100">燃烧</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">caliente</span><span class="badge-light badge">energy</span><span class="badge-light badge">fire</span><span class="badge-light badge">flame</span><span class="badge-light badge">gas</span><span class="badge-light badge">heat</span><span class="badge-light badge">hot</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">燃烧</span><span class="badge-primary badge">卡路里</span><span class="badge-primary badge">能量</span><span class="badge-primary badge">火</span><span class="badge-primary badge">火焰</span><span class="badge-primary badge">气体</span><span class="badge-primary badge">热</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/burn.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/burn.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">caliente</span><span class="badge-light badge">energy</span><span class="badge-light badge">fire</span><span class="badge-light badge">flame</span><span class="badge-light badge">gas</span><span class="badge-light badge">heat</span><span class="badge-light badge">hot</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">燃烧</span><span class="badge-primary badge">卡路里</span><span class="badge-primary badge">能量</span><span class="badge-primary badge">火</span><span class="badge-primary badge">火焰</span><span class="badge-primary badge">气体</span><span class="badge-primary badge">热</span><span class="badge-primary badge">烧伤</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/burn.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/burn.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">烧伤，表示提示有火危险。</div>
 <div class="alert alert-dark">
   <i class="fas fa-burn fa-xs"></i>
   <i class="fas fa-burn fa-sm"></i>

@@ -9,11 +9,13 @@ search: covid-19,doctor,general practitioner,hospital,infirmary,medicine,office,
 
 ---
 
-# clinic-medical  <small style="font-size: 60%;font-weight: 100">医疗诊所</small>
+# Medical Clinic  <small style="font-size: 60%;font-weight: 100">医疗诊所</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

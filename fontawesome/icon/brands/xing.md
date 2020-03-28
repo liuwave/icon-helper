@@ -1,19 +1,21 @@
 ---
 
-title: Xing(邢) ICON转svg、png下载
+title: Xing(Xing.com) ICON转svg、png下载
 name: xing
-zhTips: 邢
+zhTips: Xing.com
 tags: []
 pre: fab
 search: 
 
 ---
 
-# xing  <small style="font-size: 60%;font-weight: 100">邢</small>
+# Xing  <small style="font-size: 60%;font-weight: 100">Xing.com</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">邢</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/xing.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/xing.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Xing.com</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/xing.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/xing.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">XING成立于2003年，名称为openBC，它伴随着工作环境的变化而伴随着其成员。在技能短缺的环境中，数字价值观的统一和变化为XING的1600万会员提供了工作与生活的尽可能和谐的支持。这样，成员可以在“新工作经验”主题门户上的XING工作市场上找到满足其个人需求的工作。</div>
 <div class="alert alert-dark">
   <i class="fab fa-xing fa-xs"></i>
   <i class="fab fa-xing fa-sm"></i>

@@ -2,7 +2,7 @@
 
 title: key(密钥) ICON转svg、png下载
 name: key
-zhTips: 密钥,锁,密码,私有,秘密,解锁
+zhTips: 密钥,锁,密码,私有,秘密,解锁,钥匙
 tags: ["hotel","maps","objects","payments-shopping","security"]
 pre: fas
 search: lock,password,private,secret,unlock
@@ -14,6 +14,8 @@ search: lock,password,private,secret,unlock
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">lock</span><span class="badge-light badge">password</span><span class="badge-light badge">private</span><span class="badge-light badge">secret</span><span class="badge-light badge">unlock</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">密钥</span><span class="badge-primary badge">锁</span><span class="badge-primary badge">密码</span><span class="badge-primary badge">私有</span><span class="badge-primary badge">秘密</span><span class="badge-primary badge">解锁</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/key.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/key.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">lock</span><span class="badge-light badge">password</span><span class="badge-light badge">private</span><span class="badge-light badge">secret</span><span class="badge-light badge">unlock</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">密钥</span><span class="badge-primary badge">锁</span><span class="badge-primary badge">密码</span><span class="badge-primary badge">私有</span><span class="badge-primary badge">秘密</span><span class="badge-primary badge">解锁</span><span class="badge-primary badge">钥匙</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/key.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/key.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示打开，锁上，密码等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-key fa-xs"></i>
   <i class="fas fa-key fa-sm"></i>

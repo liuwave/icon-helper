@@ -2,18 +2,20 @@
 
 title: Archive(存档) ICON转svg、png下载
 name: archive
-zhTips: 存档,框,包装,保存,存储
+zhTips: 存档,框,包装,保存,存储,档案
 tags: ["business","code","files","moving","objects","writing"]
 pre: fas
 search: box,package,save,storage
 
 ---
 
-# archive  <small style="font-size: 60%;font-weight: 100">存档</small>
+# Archive  <small style="font-size: 60%;font-weight: 100">存档</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">box</span><span class="badge-light badge">package</span><span class="badge-light badge">save</span><span class="badge-light badge">storage</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">存档</span><span class="badge-primary badge">框</span><span class="badge-primary badge">包装</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">存储</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/archive.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/archive.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">box</span><span class="badge-light badge">package</span><span class="badge-light badge">save</span><span class="badge-light badge">storage</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">存档</span><span class="badge-primary badge">框</span><span class="badge-primary badge">包装</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">存储</span><span class="badge-primary badge">档案</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/archive.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/archive.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">档案，多个文件，可以表示整理、收集。</div>
 <div class="alert alert-dark">
   <i class="fas fa-archive fa-xs"></i>
   <i class="fas fa-archive fa-sm"></i>

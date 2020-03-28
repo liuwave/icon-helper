@@ -9,11 +9,13 @@ search: car,deodorize,fresh,pine,scent
 
 ---
 
-# air-freshener  <small style="font-size: 60%;font-weight: 100">空气清新剂</small>
+# Air Freshener  <small style="font-size: 60%;font-weight: 100">空气清新剂</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

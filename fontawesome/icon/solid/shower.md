@@ -2,18 +2,20 @@
 
 title: Shower(淋浴) ICON转svg、png下载
 name: shower
-zhTips: 淋浴,浴缸,清洁,水龙头,水
+zhTips: 淋浴,浴缸,清洁,水龙头,水,淋浴黑
 tags: ["hotel","household","maps","objects"]
 pre: fas
 search: bath,clean,faucet,water
 
 ---
 
-# shower  <small style="font-size: 60%;font-weight: 100">淋浴</small>
+# Shower  <small style="font-size: 60%;font-weight: 100">淋浴</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">bath</span><span class="badge-light badge">clean</span><span class="badge-light badge">faucet</span><span class="badge-light badge">water</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">淋浴</span><span class="badge-primary badge">浴缸</span><span class="badge-primary badge">清洁</span><span class="badge-primary badge">水龙头</span><span class="badge-primary badge">水</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shower.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shower.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">bath</span><span class="badge-light badge">clean</span><span class="badge-light badge">faucet</span><span class="badge-light badge">water</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">淋浴</span><span class="badge-primary badge">浴缸</span><span class="badge-primary badge">清洁</span><span class="badge-primary badge">水龙头</span><span class="badge-primary badge">水</span><span class="badge-primary badge">淋浴黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shower.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shower.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">淋浴喷头，可表示酒店、洗澡、浴室、清洗等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-shower fa-xs"></i>
   <i class="fas fa-shower fa-sm"></i>

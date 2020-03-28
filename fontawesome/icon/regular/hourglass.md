@@ -9,11 +9,13 @@ search: hour,minute,sand,stopwatch,time
 
 ---
 
-# hourglass  <small style="font-size: 60%;font-weight: 100">沙漏</small>
+# Hourglass  <small style="font-size: 60%;font-weight: 100">沙漏</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">hour</span><span class="badge-light badge">minute</span><span class="badge-light badge">sand</span><span class="badge-light badge">stopwatch</span><span class="badge-light badge">time</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">沙漏</span><span class="badge-primary badge">时</span><span class="badge-primary badge">分</span><span class="badge-primary badge">沙</span><span class="badge-primary badge">秒表</span><span class="badge-primary badge">时间</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/hourglass.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/hourglass.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">沙漏，象征着时间的流逝，也可以用于表示计时、限时、正在加载的状态。</div>
 <div class="alert alert-dark">
   <i class="far fa-hourglass fa-xs"></i>
   <i class="far fa-hourglass fa-sm"></i>

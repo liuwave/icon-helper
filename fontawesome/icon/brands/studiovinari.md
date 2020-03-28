@@ -1,19 +1,21 @@
 ---
 
-title: Studio Vinari(Studio Vinari) ICON转svg、png下载
+title: Studio Vinari(维纳里工作室) ICON转svg、png下载
 name: studiovinari
-zhTips: Studio Vinari
+zhTips: Studio Vinari,维纳里工作室
 tags: []
 pre: fab
 search: 
 
 ---
 
-# studiovinari  <small style="font-size: 60%;font-weight: 100">Studio Vinari</small>
+# Studio Vinari  <small style="font-size: 60%;font-weight: 100">维纳里工作室</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Studio Vinari</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/studiovinari.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/studiovinari.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Studio Vinari</span><span class="badge-primary badge">维纳里工作室</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/studiovinari.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/studiovinari.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Studio Vinari是一个独立的游戏发展工作室，总部设在巴塞罗那。</div>
 <div class="alert alert-dark">
   <i class="fab fa-studiovinari fa-xs"></i>
   <i class="fab fa-studiovinari fa-sm"></i>

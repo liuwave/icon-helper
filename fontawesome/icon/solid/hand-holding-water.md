@@ -9,11 +9,13 @@ search: carry,covid-19,drought,grow,lift
 
 ---
 
-# hand-holding-water  <small style="font-size: 60%;font-weight: 100">手持水</small>
+# Hand Holding Water  <small style="font-size: 60%;font-weight: 100">手持水</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

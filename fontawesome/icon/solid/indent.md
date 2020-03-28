@@ -9,11 +9,13 @@ search: align,justify,paragraph,tab
 
 ---
 
-# indent  <small style="font-size: 60%;font-weight: 100">缩进</small>
+# Indent  <small style="font-size: 60%;font-weight: 100">缩进</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">align</span><span class="badge-light badge">justify</span><span class="badge-light badge">paragraph</span><span class="badge-light badge">tab</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">缩进</span><span class="badge-primary badge">对齐</span><span class="badge-primary badge">段落</span><span class="badge-primary badge">制表符</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/indent.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/indent.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">缩进，表示一段语言前面有空格。</div>
 <div class="alert alert-dark">
   <i class="fas fa-indent fa-xs"></i>
   <i class="fas fa-indent fa-sm"></i>

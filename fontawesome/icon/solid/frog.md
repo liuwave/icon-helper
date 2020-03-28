@@ -9,11 +9,13 @@ search: amphibian,bullfrog,fauna,hop,kermit,kiss,prince,ribbit,toad,wart
 
 ---
 
-# frog  <small style="font-size: 60%;font-weight: 100">青蛙</small>
+# Frog  <small style="font-size: 60%;font-weight: 100">青蛙</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">amphibian</span><span class="badge-light badge">bullfrog</span><span class="badge-light badge">fauna</span><span class="badge-light badge">hop</span><span class="badge-light badge">kermit</span><span class="badge-light badge">kiss</span><span class="badge-light badge">prince</span><span class="badge-light badge">ribbit</span><span class="badge-light badge">toad</span><span class="badge-light badge">wart</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">青蛙</span><span class="badge-primary badge">两栖动物</span><span class="badge-primary badge">牛蛙</span><span class="badge-primary badge">动物区系</span><span class="badge-primary badge">蛇麻草</span><span class="badge-primary badge">kermit</span><span class="badge-primary badge">吻</span><span class="badge-primary badge">王子</span><span class="badge-primary badge">兔子</span><span class="badge-primary badge">蟾蜍</span><span class="badge-primary badge">疣</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/frog.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/frog.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示环保，生态，活泼等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-frog fa-xs"></i>
   <i class="fas fa-frog fa-sm"></i>

@@ -2,18 +2,20 @@
 
 title: Check(检查) ICON转svg、png下载
 name: check
-zhTips: 检查,接受,同意,选中标记,确认,正确,完成,通知,确定,选择,成功,刻度线,待办事项,是
+zhTips: 检查,接受,同意,选中标记,确认,正确,完成,通知,确定,选择,成功,刻度线,待办事项,是,勾
 tags: ["interfaces"]
 pre: fas
 search: accept,agree,checkmark,confirm,correct,done,notice,notification,notify,ok,select,success,tick,todo,yes
 
 ---
 
-# check  <small style="font-size: 60%;font-weight: 100">检查</small>
+# Check  <small style="font-size: 60%;font-weight: 100">检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">accept</span><span class="badge-light badge">agree</span><span class="badge-light badge">checkmark</span><span class="badge-light badge">confirm</span><span class="badge-light badge">correct</span><span class="badge-light badge">done</span><span class="badge-light badge">notice</span><span class="badge-light badge">notification</span><span class="badge-light badge">notify</span><span class="badge-light badge">ok</span><span class="badge-light badge">select</span><span class="badge-light badge">success</span><span class="badge-light badge">tick</span><span class="badge-light badge">todo</span><span class="badge-light badge">yes</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">检查</span><span class="badge-primary badge">接受</span><span class="badge-primary badge">同意</span><span class="badge-primary badge">选中标记</span><span class="badge-primary badge">确认</span><span class="badge-primary badge">正确</span><span class="badge-primary badge">完成</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">确定</span><span class="badge-primary badge">选择</span><span class="badge-primary badge">成功</span><span class="badge-primary badge">刻度线</span><span class="badge-primary badge">待办事项</span><span class="badge-primary badge">是</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/check.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/check.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">accept</span><span class="badge-light badge">agree</span><span class="badge-light badge">checkmark</span><span class="badge-light badge">confirm</span><span class="badge-light badge">correct</span><span class="badge-light badge">done</span><span class="badge-light badge">notice</span><span class="badge-light badge">notification</span><span class="badge-light badge">notify</span><span class="badge-light badge">ok</span><span class="badge-light badge">select</span><span class="badge-light badge">success</span><span class="badge-light badge">tick</span><span class="badge-light badge">todo</span><span class="badge-light badge">yes</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">检查</span><span class="badge-primary badge">接受</span><span class="badge-primary badge">同意</span><span class="badge-primary badge">选中标记</span><span class="badge-primary badge">确认</span><span class="badge-primary badge">正确</span><span class="badge-primary badge">完成</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">确定</span><span class="badge-primary badge">选择</span><span class="badge-primary badge">成功</span><span class="badge-primary badge">刻度线</span><span class="badge-primary badge">待办事项</span><span class="badge-primary badge">是</span><span class="badge-primary badge">勾</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/check.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/check.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">勾，可以表示正确、得分、完成。</div>
 <div class="alert alert-dark">
   <i class="fas fa-check fa-xs"></i>
   <i class="fas fa-check fa-sm"></i>

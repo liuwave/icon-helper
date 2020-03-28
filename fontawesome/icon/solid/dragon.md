@@ -2,18 +2,20 @@
 
 title: Dragon(龙) ICON转svg、png下载
 name: dragon
-zhTips: 龙,地牢与龙,d＆d,dnd,幻想,火,蜥蜴,蛇
+zhTips: 龙,地牢与龙,d＆d,dnd,幻想,火,蜥蜴,蛇,龙头
 tags: ["animals","gaming-tabletop"]
 pre: fas
 search: Dungeons & Dragons,d&d,dnd,fantasy,fire,lizard,serpent
 
 ---
 
-# dragon  <small style="font-size: 60%;font-weight: 100">龙</small>
+# Dragon  <small style="font-size: 60%;font-weight: 100">龙</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">Dungeons & Dragons</span><span class="badge-light badge">d&d</span><span class="badge-light badge">dnd</span><span class="badge-light badge">fantasy</span><span class="badge-light badge">fire</span><span class="badge-light badge">lizard</span><span class="badge-light badge">serpent</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">龙</span><span class="badge-primary badge">地牢与龙</span><span class="badge-primary badge">d＆d</span><span class="badge-primary badge">dnd</span><span class="badge-primary badge">幻想</span><span class="badge-primary badge">火</span><span class="badge-primary badge">蜥蜴</span><span class="badge-primary badge">蛇</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dragon.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dragon.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">Dungeons & Dragons</span><span class="badge-light badge">d&d</span><span class="badge-light badge">dnd</span><span class="badge-light badge">fantasy</span><span class="badge-light badge">fire</span><span class="badge-light badge">lizard</span><span class="badge-light badge">serpent</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">龙</span><span class="badge-primary badge">地牢与龙</span><span class="badge-primary badge">d＆d</span><span class="badge-primary badge">dnd</span><span class="badge-primary badge">幻想</span><span class="badge-primary badge">火</span><span class="badge-primary badge">蜥蜴</span><span class="badge-primary badge">蛇</span><span class="badge-primary badge">龙头</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dragon.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dragon.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">龙，表示祥瑞 、高贵、 威严、神圣。</div>
 <div class="alert alert-dark">
   <i class="fas fa-dragon fa-xs"></i>
   <i class="fas fa-dragon fa-sm"></i>

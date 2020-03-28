@@ -9,11 +9,13 @@ search: book,directions,geography,globe,map,travel,wayfinding
 
 ---
 
-# atlas  <small style="font-size: 60%;font-weight: 100">地图集</small>
+# Atlas  <small style="font-size: 60%;font-weight: 100">地图集</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

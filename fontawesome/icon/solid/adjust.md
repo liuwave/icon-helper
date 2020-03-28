@@ -14,6 +14,8 @@ search: contrast,dark,light,saturation
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">contrast</span><span class="badge-light badge">dark</span><span class="badge-light badge">light</span><span class="badge-light badge">saturation</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">调整</span><span class="badge-primary badge">对比</span><span class="badge-primary badge">深色</span><span class="badge-primary badge">浅色</span><span class="badge-primary badge">饱和度</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/adjust.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/adjust.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">调整，表示黑与白各一半，也可表示白天黑夜。</div>
 <div class="alert alert-dark">
   <i class="fas fa-adjust fa-xs"></i>
   <i class="fas fa-adjust fa-sm"></i>

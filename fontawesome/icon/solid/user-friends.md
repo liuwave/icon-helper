@@ -9,11 +9,13 @@ search: group,people,person,team,users
 
 ---
 
-# user-friends  <small style="font-size: 60%;font-weight: 100">用户朋友</small>
+# User Friends  <small style="font-size: 60%;font-weight: 100">用户朋友</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -9,11 +9,13 @@ search: bubbles,clean,covid-19,hygiene,wash
 
 ---
 
-# soap  <small style="font-size: 60%;font-weight: 100">肥皂</small>
+# Soap  <small style="font-size: 60%;font-weight: 100">肥皂</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

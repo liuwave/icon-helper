@@ -2,7 +2,7 @@
 
 title: minus(减号) ICON转svg、png下载
 name: minus
-zhTips: 减号,崩溃,删除,隐藏,最小化,负数,垃圾箱
+zhTips: 减号,崩溃,删除,隐藏,最小化,负数,垃圾箱,负号
 tags: ["interfaces","mathematics","status"]
 pre: fas
 search: collapse,delete,hide,minify,negative,remove,trash
@@ -14,6 +14,8 @@ search: collapse,delete,hide,minify,negative,remove,trash
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">collapse</span><span class="badge-light badge">delete</span><span class="badge-light badge">hide</span><span class="badge-light badge">minify</span><span class="badge-light badge">negative</span><span class="badge-light badge">remove</span><span class="badge-light badge">trash</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">减号</span><span class="badge-primary badge">崩溃</span><span class="badge-primary badge">删除</span><span class="badge-primary badge">隐藏</span><span class="badge-primary badge">最小化</span><span class="badge-primary badge">负数</span><span class="badge-primary badge">垃圾箱</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/minus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/minus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">collapse</span><span class="badge-light badge">delete</span><span class="badge-light badge">hide</span><span class="badge-light badge">minify</span><span class="badge-light badge">negative</span><span class="badge-light badge">remove</span><span class="badge-light badge">trash</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">减号</span><span class="badge-primary badge">崩溃</span><span class="badge-primary badge">删除</span><span class="badge-primary badge">隐藏</span><span class="badge-primary badge">最小化</span><span class="badge-primary badge">负数</span><span class="badge-primary badge">垃圾箱</span><span class="badge-primary badge">负号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/minus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/minus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示减少、减号等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-minus fa-xs"></i>
   <i class="fas fa-minus fa-sm"></i>

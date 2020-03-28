@@ -2,18 +2,20 @@
 
 title: Joomla Logo(Joomla徽标) ICON转svg、png下载
 name: joomla
-zhTips: Joomla徽标
+zhTips: Joomla徽标,joomla
 tags: []
 pre: fab
 search: 
 
 ---
 
-# joomla  <small style="font-size: 60%;font-weight: 100">Joomla徽标</small>
+# Joomla Logo  <small style="font-size: 60%;font-weight: 100">Joomla徽标</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Joomla徽标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/joomla.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/joomla.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Joomla徽标</span><span class="badge-primary badge">joomla</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/joomla.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/joomla.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">joomla是一个使用PHP开发的内容管理系统。</div>
 <div class="alert alert-dark">
   <i class="fab fa-joomla fa-xs"></i>
   <i class="fab fa-joomla fa-sm"></i>

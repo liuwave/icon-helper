@@ -2,18 +2,20 @@
 
 title: Circle(圆形) ICON转svg、png下载
 name: circle
-zhTips: 圆形,圆形薄,直径,点,椭圆,通知
+zhTips: 圆形,圆形薄,直径,点,椭圆,通知,黑圈
 tags: ["audio-video","interfaces","shapes","toggle"]
 pre: fas
 search: circle-thin,diameter,dot,ellipse,notification,round
 
 ---
 
-# circle  <small style="font-size: 60%;font-weight: 100">圆形</small>
+# Circle  <small style="font-size: 60%;font-weight: 100">圆形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">circle-thin</span><span class="badge-light badge">diameter</span><span class="badge-light badge">dot</span><span class="badge-light badge">ellipse</span><span class="badge-light badge">notification</span><span class="badge-light badge">round</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">圆形</span><span class="badge-primary badge">圆形薄</span><span class="badge-primary badge">直径</span><span class="badge-primary badge">点</span><span class="badge-primary badge">椭圆</span><span class="badge-primary badge">通知</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">circle-thin</span><span class="badge-light badge">diameter</span><span class="badge-light badge">dot</span><span class="badge-light badge">ellipse</span><span class="badge-light badge">notification</span><span class="badge-light badge">round</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">圆形</span><span class="badge-primary badge">圆形薄</span><span class="badge-primary badge">直径</span><span class="badge-primary badge">点</span><span class="badge-primary badge">椭圆</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">黑圈</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">圆，可以表示圆满、团结、圆月等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-circle fa-xs"></i>
   <i class="fas fa-circle fa-sm"></i>

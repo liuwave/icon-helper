@@ -9,11 +9,13 @@ search: Dungeons & Dragons,accessory,buckle,clothing,d&d,dnd,fantasy,halloween,h
 
 ---
 
-# hat-wizard  <small style="font-size: 60%;font-weight: 100">向导帽子</small>
+# Wizard's Hat  <small style="font-size: 60%;font-weight: 100">向导帽子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

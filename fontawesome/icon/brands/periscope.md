@@ -2,18 +2,20 @@
 
 title: Periscope(潜望镜) ICON转svg、png下载
 name: periscope
-zhTips: 潜望镜
+zhTips: 潜望镜,periscope
 tags: []
 pre: fab
 search: 
 
 ---
 
-# periscope  <small style="font-size: 60%;font-weight: 100">潜望镜</small>
+# Periscope  <small style="font-size: 60%;font-weight: 100">潜望镜</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">潜望镜</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/periscope.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/periscope.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">潜望镜</span><span class="badge-primary badge">periscope</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/periscope.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/periscope.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">periscope是一家直播服务运营商，于2015年被Twitter收购。</div>
 <div class="alert alert-dark">
   <i class="fab fa-periscope fa-xs"></i>
   <i class="fab fa-periscope fa-sm"></i>

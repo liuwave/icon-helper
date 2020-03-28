@@ -9,11 +9,13 @@ search: arrange,copy,duplicate,paste
 
 ---
 
-# clone  <small style="font-size: 60%;font-weight: 100">克隆</small>
+# Clone  <small style="font-size: 60%;font-weight: 100">克隆</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">arrange</span><span class="badge-light badge">copy</span><span class="badge-light badge">duplicate</span><span class="badge-light badge">paste</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">克隆</span><span class="badge-primary badge">排列</span><span class="badge-primary badge">复制</span><span class="badge-primary badge">重复</span><span class="badge-primary badge">粘贴</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/clone.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/clone.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">复制，2个重叠的实心方块。</div>
 <div class="alert alert-dark">
   <i class="fas fa-clone fa-xs"></i>
   <i class="fas fa-clone fa-sm"></i>

@@ -1,19 +1,21 @@
 ---
 
-title: Uber(Uber) ICON转svg、png下载
+title: Uber(优步) ICON转svg、png下载
 name: uber
-zhTips: Uber
+zhTips: 优步
 tags: []
 pre: fab
 search: 
 
 ---
 
-# uber  <small style="font-size: 60%;font-weight: 100">Uber</small>
+# Uber  <small style="font-size: 60%;font-weight: 100">优步</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Uber</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/uber.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/uber.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">优步</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/uber.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/uber.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">优步是一家提供网络打车服务的公司。</div>
 <div class="alert alert-dark">
   <i class="fab fa-uber fa-xs"></i>
   <i class="fab fa-uber fa-sm"></i>

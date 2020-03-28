@@ -9,11 +9,13 @@ search: activity,cross country,fitness,outdoors,person,seasonal
 
 ---
 
-# skiing-nordic  <small style="font-size: 60%;font-weight: 100">滑雪北欧人</small>
+# Skiing Nordic  <small style="font-size: 60%;font-weight: 100">滑雪北欧人</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

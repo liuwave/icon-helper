@@ -2,18 +2,20 @@
 
 title: Edge Browser(边缘浏览器) ICON转svg、png下载
 name: edge
-zhTips: 边缘浏览器,浏览器,即
+zhTips: 边缘浏览器,浏览器,即,edge
 tags: []
 pre: fab
 search: browser,ie
 
 ---
 
-# edge  <small style="font-size: 60%;font-weight: 100">边缘浏览器</small>
+# Edge Browser  <small style="font-size: 60%;font-weight: 100">边缘浏览器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">browser</span><span class="badge-light badge">ie</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">边缘浏览器</span><span class="badge-primary badge">浏览器</span><span class="badge-primary badge">即</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/edge.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/edge.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">browser</span><span class="badge-light badge">ie</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">边缘浏览器</span><span class="badge-primary badge">浏览器</span><span class="badge-primary badge">即</span><span class="badge-primary badge">edge</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/edge.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/edge.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">微软公司新一代的浏览器</div>
 <div class="alert alert-dark">
   <i class="fab fa-edge fa-xs"></i>
   <i class="fab fa-edge fa-sm"></i>

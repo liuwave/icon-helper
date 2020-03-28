@@ -2,18 +2,20 @@
 
 title: Microchip(芯片) ICON转svg、png下载
 name: microchip
-zhTips: 芯片,CPU,硬件,处理器,技术
+zhTips: 芯片,CPU,硬件,处理器,技术,微芯片
 tags: ["code","computers","objects"]
 pre: fas
 search: cpu,hardware,processor,technology
 
 ---
 
-# microchip  <small style="font-size: 60%;font-weight: 100">芯片</small>
+# Microchip  <small style="font-size: 60%;font-weight: 100">芯片</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">cpu</span><span class="badge-light badge">hardware</span><span class="badge-light badge">processor</span><span class="badge-light badge">technology</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">芯片</span><span class="badge-primary badge">CPU</span><span class="badge-primary badge">硬件</span><span class="badge-primary badge">处理器</span><span class="badge-primary badge">技术</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microchip.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microchip.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">cpu</span><span class="badge-light badge">hardware</span><span class="badge-light badge">processor</span><span class="badge-light badge">technology</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">芯片</span><span class="badge-primary badge">CPU</span><span class="badge-primary badge">硬件</span><span class="badge-primary badge">处理器</span><span class="badge-primary badge">技术</span><span class="badge-primary badge">微芯片</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microchip.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microchip.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示进行程序逻辑，计算机芯片。</div>
 <div class="alert alert-dark">
   <i class="fas fa-microchip fa-xs"></i>
   <i class="fas fa-microchip fa-sm"></i>

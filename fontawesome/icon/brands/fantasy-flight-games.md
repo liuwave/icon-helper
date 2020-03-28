@@ -9,11 +9,13 @@ search: Dungeons & Dragons,d&d,dnd,fantasy,game,gaming,tabletop
 
 ---
 
-# fantasy-flight-games  <small style="font-size: 60%;font-weight: 100">幻想飞行游戏</small>
+# Fantasy Flight-games  <small style="font-size: 60%;font-weight: 100">幻想飞行游戏</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

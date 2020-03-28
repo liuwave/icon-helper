@@ -9,11 +9,13 @@ search: alert,danger,error,important,notice,notification,notify,problem,warning
 
 ---
 
-# exclamation-triangle  <small style="font-size: 60%;font-weight: 100">感叹号三角形</small>
+# Exclamation Triangle  <small style="font-size: 60%;font-weight: 100">感叹号三角形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

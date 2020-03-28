@@ -2,18 +2,20 @@
 
 title: Train(火车) ICON转svg、png下载
 name: train
-zhTips: 火车,子弹头,通勤,机车,铁路,地铁
+zhTips: 火车,子弹头,通勤,机车,铁路,地铁,火车标志
 tags: ["maps","objects","vehicles"]
 pre: fas
 search: bullet,commute,locomotive,railway,subway
 
 ---
 
-# train  <small style="font-size: 60%;font-weight: 100">火车</small>
+# Train  <small style="font-size: 60%;font-weight: 100">火车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">bullet</span><span class="badge-light badge">commute</span><span class="badge-light badge">locomotive</span><span class="badge-light badge">railway</span><span class="badge-light badge">subway</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">火车</span><span class="badge-primary badge">子弹头</span><span class="badge-primary badge">通勤</span><span class="badge-primary badge">机车</span><span class="badge-primary badge">铁路</span><span class="badge-primary badge">地铁</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/train.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/train.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">bullet</span><span class="badge-light badge">commute</span><span class="badge-light badge">locomotive</span><span class="badge-light badge">railway</span><span class="badge-light badge">subway</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">火车</span><span class="badge-primary badge">子弹头</span><span class="badge-primary badge">通勤</span><span class="badge-primary badge">机车</span><span class="badge-primary badge">铁路</span><span class="badge-primary badge">地铁</span><span class="badge-primary badge">火车标志</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/train.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/train.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">交通工具，可用于表示行驶，运输等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-train fa-xs"></i>
   <i class="fas fa-train fa-sm"></i>

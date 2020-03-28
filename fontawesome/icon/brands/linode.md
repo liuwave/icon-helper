@@ -9,11 +9,13 @@ search:
 
 ---
 
-# linode  <small style="font-size: 60%;font-weight: 100">Linode</small>
+# Linode  <small style="font-size: 60%;font-weight: 100">Linode</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">Linode</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/linode.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/linode.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Linode是一个云服务提供商，使用Linode强大的工具集简化云基础设施，可以快速容易地开发、部署和扩展应用程序。官网地址：https://www.linode.com/ </div>
 <div class="alert alert-dark">
   <i class="fab fa-linode fa-xs"></i>
   <i class="fab fa-linode fa-sm"></i>

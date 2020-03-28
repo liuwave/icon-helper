@@ -9,11 +9,13 @@ search: call,cancel,earphone,mute,number,support,telephone,voice
 
 ---
 
-# phone-slash  <small style="font-size: 60%;font-weight: 100">电话斜线</small>
+# Phone Slash  <small style="font-size: 60%;font-weight: 100">电话斜线</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

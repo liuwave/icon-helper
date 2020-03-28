@@ -9,11 +9,13 @@ search: charge,power,status
 
 ---
 
-# battery-half  <small style="font-size: 60%;font-weight: 100">电池1/2充满</small>
+# Battery 1/2 Full  <small style="font-size: 60%;font-weight: 100">电池1/2充满</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

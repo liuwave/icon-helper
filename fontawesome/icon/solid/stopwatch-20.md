@@ -9,11 +9,13 @@ search: ABCs,countdown,covid-19,happy birthday,i will survive,reminder,seconds,t
 
 ---
 
-# stopwatch-20  <small style="font-size: 60%;font-weight: 100">ABC</small>
+# Stopwatch 20  <small style="font-size: 60%;font-weight: 100">ABC</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

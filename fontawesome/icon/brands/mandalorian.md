@@ -1,19 +1,21 @@
 ---
 
-title: Mandalorian(曼陀罗语) ICON转svg、png下载
+title: Mandalorian(曼达洛人) ICON转svg、png下载
 name: mandalorian
-zhTips: 曼陀罗语
+zhTips: 曼达洛人
 tags: []
 pre: fab
 search: 
 
 ---
 
-# mandalorian  <small style="font-size: 60%;font-weight: 100">曼陀罗语</small>
+# Mandalorian  <small style="font-size: 60%;font-weight: 100">曼达洛人</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">曼陀罗语</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/mandalorian.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/mandalorian.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">曼达洛人</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/mandalorian.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/mandalorian.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">曼达洛人是星战系列作品里的一个组织团体，起源于类人种族汤恩人。</div>
 <div class="alert alert-dark">
   <i class="fab fa-mandalorian fa-xs"></i>
   <i class="fab fa-mandalorian fa-sm"></i>

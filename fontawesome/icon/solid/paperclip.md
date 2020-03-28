@@ -9,11 +9,13 @@ search: attach,attachment,connect,link
 
 ---
 
-# paperclip  <small style="font-size: 60%;font-weight: 100">回形针</small>
+# Paperclip  <small style="font-size: 60%;font-weight: 100">回形针</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">attach</span><span class="badge-light badge">attachment</span><span class="badge-light badge">connect</span><span class="badge-light badge">link</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">回形针</span><span class="badge-primary badge">附件</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">链接</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paperclip.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paperclip.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示邮件中的附件图标。</div>
 <div class="alert alert-dark">
   <i class="fas fa-paperclip fa-xs"></i>
   <i class="fas fa-paperclip fa-sm"></i>

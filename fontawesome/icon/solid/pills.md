@@ -2,18 +2,20 @@
 
 title: Pills(药片) ICON转svg、png下载
 name: pills
-zhTips: 药片,药物,处方,片剂
+zhTips: 药片,药物,处方,片剂,药片黑
 tags: ["medical","pharmacy","science"]
 pre: fas
 search: drugs,medicine,prescription,tablets
 
 ---
 
-# pills  <small style="font-size: 60%;font-weight: 100">药片</small>
+# Pills  <small style="font-size: 60%;font-weight: 100">药片</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">drugs</span><span class="badge-light badge">medicine</span><span class="badge-light badge">prescription</span><span class="badge-light badge">tablets</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">药片</span><span class="badge-primary badge">药物</span><span class="badge-primary badge">处方</span><span class="badge-primary badge">片剂</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pills.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pills.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">drugs</span><span class="badge-light badge">medicine</span><span class="badge-light badge">prescription</span><span class="badge-light badge">tablets</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">药片</span><span class="badge-primary badge">药物</span><span class="badge-primary badge">处方</span><span class="badge-primary badge">片剂</span><span class="badge-primary badge">药片黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pills.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pills.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示治疗，诊断，医药等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-pills fa-xs"></i>
   <i class="fas fa-pills fa-sm"></i>

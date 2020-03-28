@@ -9,11 +9,13 @@ search: date,detail,event,focus,schedule,single week,time,today,when
 
 ---
 
-# calendar-week  <small style="font-size: 60%;font-weight: 100">具有每周焦点的日历</small>
+# Calendar with Week Focus  <small style="font-size: 60%;font-weight: 100">具有每周焦点的日历</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

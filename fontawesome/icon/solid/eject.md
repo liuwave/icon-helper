@@ -2,7 +2,7 @@
 
 title: eject(弹出) ICON转svg、png下载
 name: eject
-zhTips: 弹出,中止,取消,cd,放电
+zhTips: 弹出,中止,取消,cd,放电,喷射
 tags: ["audio-video"]
 pre: fas
 search: abort,cancel,cd,discharge
@@ -14,6 +14,8 @@ search: abort,cancel,cd,discharge
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">abort</span><span class="badge-light badge">cancel</span><span class="badge-light badge">cd</span><span class="badge-light badge">discharge</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">弹出</span><span class="badge-primary badge">中止</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">cd</span><span class="badge-primary badge">放电</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/eject.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/eject.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">abort</span><span class="badge-light badge">cancel</span><span class="badge-light badge">cd</span><span class="badge-light badge">discharge</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">弹出</span><span class="badge-primary badge">中止</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">cd</span><span class="badge-primary badge">放电</span><span class="badge-primary badge">喷射</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/eject.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/eject.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">弹出，表示对物体的冲击，放电、喷射。</div>
 <div class="alert alert-dark">
   <i class="fas fa-eject fa-xs"></i>
   <i class="fas fa-eject fa-sm"></i>

@@ -9,11 +9,13 @@ search:
 
 ---
 
-# ussunnah  <small style="font-size: 60%;font-weight: 100">美国圣纳基金会</small>
+# us-Sunnah Foundation  <small style="font-size: 60%;font-weight: 100">美国圣纳基金会</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">美国圣纳基金会</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ussunnah.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ussunnah.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">美国圣纳基金会（美国圣纳基金会）是在美国和印度尼西亚注册的非营利性慈善机构，致力于通过立即救济和长期解决方案，提供消除贫困的完整方法。</div>
 <div class="alert alert-dark">
   <i class="fab fa-ussunnah fa-xs"></i>
   <i class="fab fa-ussunnah fa-sm"></i>

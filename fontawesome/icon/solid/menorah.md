@@ -9,11 +9,13 @@ search: candle,hanukkah,jewish,judaism,light
 
 ---
 
-# menorah  <small style="font-size: 60%;font-weight: 100">迈诺拉</small>
+# Menorah  <small style="font-size: 60%;font-weight: 100">迈诺拉</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

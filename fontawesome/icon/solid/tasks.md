@@ -2,18 +2,20 @@
 
 title: Tasks(任务) ICON转svg、png下载
 name: tasks
-zhTips: 任务,清单,下载,加载,进度,项目管理,设置,待办事项
+zhTips: 任务,清单,下载,加载,进度,项目管理,设置,待办事项,任务组
 tags: ["business","editors"]
 pre: fas
 search: checklist,downloading,downloads,loading,progress,project management,settings,to do
 
 ---
 
-# tasks  <small style="font-size: 60%;font-weight: 100">任务</small>
+# Tasks  <small style="font-size: 60%;font-weight: 100">任务</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">checklist</span><span class="badge-light badge">downloading</span><span class="badge-light badge">downloads</span><span class="badge-light badge">loading</span><span class="badge-light badge">progress</span><span class="badge-light badge">project management</span><span class="badge-light badge">settings</span><span class="badge-light badge">to do</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">任务</span><span class="badge-primary badge">清单</span><span class="badge-primary badge">下载</span><span class="badge-primary badge">加载</span><span class="badge-primary badge">进度</span><span class="badge-primary badge">项目管理</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">待办事项</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tasks.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tasks.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">checklist</span><span class="badge-light badge">downloading</span><span class="badge-light badge">downloads</span><span class="badge-light badge">loading</span><span class="badge-light badge">progress</span><span class="badge-light badge">project management</span><span class="badge-light badge">settings</span><span class="badge-light badge">to do</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">任务</span><span class="badge-primary badge">清单</span><span class="badge-primary badge">下载</span><span class="badge-primary badge">加载</span><span class="badge-primary badge">进度</span><span class="badge-primary badge">项目管理</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">待办事项</span><span class="badge-primary badge">任务组</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tasks.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tasks.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">可用于表示日常生活的任务等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-tasks fa-xs"></i>
   <i class="fas fa-tasks fa-sm"></i>

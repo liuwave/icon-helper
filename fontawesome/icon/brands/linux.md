@@ -9,11 +9,13 @@ search: tux
 
 ---
 
-# linux  <small style="font-size: 60%;font-weight: 100">tux</small>
+# Linux  <small style="font-size: 60%;font-weight: 100">tux</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">tux</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Linux</span><span class="badge-primary badge">tux</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/linux.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/linux.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">GNU/Linux是一个免费开源的操作系统，可以运行在x86、680x0、SPARC、Alpha等处理器多种硬件平台上。</div>
 <div class="alert alert-dark">
   <i class="fab fa-linux fa-xs"></i>
   <i class="fab fa-linux fa-sm"></i>

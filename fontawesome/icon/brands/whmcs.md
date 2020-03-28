@@ -9,11 +9,13 @@ search:
 
 ---
 
-# whmcs  <small style="font-size: 60%;font-weight: 100">WHMCS</small>
+# WHMCS  <small style="font-size: 60%;font-weight: 100">WHMCS</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">WHMCS</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/whmcs.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/whmcs.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">WHMCS是领先的网站托管管理和计费软件，提供自动化的计费，供应，域名转售等服务。</div>
 <div class="alert alert-dark">
   <i class="fab fa-whmcs fa-xs"></i>
   <i class="fab fa-whmcs fa-sm"></i>

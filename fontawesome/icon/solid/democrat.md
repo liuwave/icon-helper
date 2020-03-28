@@ -9,11 +9,13 @@ search: american,democratic party,donkey,election,left,left-wing,liberal,politic
 
 ---
 
-# democrat  <small style="font-size: 60%;font-weight: 100">民主人士</small>
+# Democrat  <small style="font-size: 60%;font-weight: 100">民主人士</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

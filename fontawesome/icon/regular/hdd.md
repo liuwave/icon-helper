@@ -2,18 +2,20 @@
 
 title: HDD(cpu) ICON转svg、png下载
 name: hdd
-zhTips: HDD,cpu,硬盘驱动器,机器,保存,存储
+zhTips: HDD,cpu,硬盘驱动器,机器,保存,存储,硬盘黑
 tags: ["computers","objects"]
 pre: far
 search: cpu,hard drive,harddrive,machine,save,storage
 
 ---
 
-# hdd  <small style="font-size: 60%;font-weight: 100">cpu</small>
+# HDD  <small style="font-size: 60%;font-weight: 100">cpu</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">cpu</span><span class="badge-light badge">hard drive</span><span class="badge-light badge">harddrive</span><span class="badge-light badge">machine</span><span class="badge-light badge">save</span><span class="badge-light badge">storage</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">HDD</span><span class="badge-primary badge">cpu</span><span class="badge-primary badge">硬盘驱动器</span><span class="badge-primary badge">机器</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">存储</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/hdd.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/hdd.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">cpu</span><span class="badge-light badge">hard drive</span><span class="badge-light badge">harddrive</span><span class="badge-light badge">machine</span><span class="badge-light badge">save</span><span class="badge-light badge">storage</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">HDD</span><span class="badge-primary badge">cpu</span><span class="badge-primary badge">硬盘驱动器</span><span class="badge-primary badge">机器</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">存储</span><span class="badge-primary badge">硬盘黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/hdd.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/hdd.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">电脑硬盘，电脑的主要存储器件。</div>
 <div class="alert alert-dark">
   <i class="far fa-hdd fa-xs"></i>
   <i class="far fa-hdd fa-sm"></i>

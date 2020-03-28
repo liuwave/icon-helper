@@ -2,18 +2,20 @@
 
 title: Pushed(推) ICON转svg、png下载
 name: pushed
-zhTips: 推
+zhTips: 推,pushed
 tags: []
 pre: fab
 search: 
 
 ---
 
-# pushed  <small style="font-size: 60%;font-weight: 100">推</small>
+# Pushed  <small style="font-size: 60%;font-weight: 100">推</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">推</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/pushed.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/pushed.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">推</span><span class="badge-primary badge">pushed</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/pushed.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/pushed.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Pushed是一款推送APP，推允许您发送实时推送通知到iOS，安卓和桌面（浏览器，火狐和Safari浏览器）设备，不需要开发自己的应用。</div>
 <div class="alert alert-dark">
   <i class="fab fa-pushed fa-xs"></i>
   <i class="fab fa-pushed fa-sm"></i>

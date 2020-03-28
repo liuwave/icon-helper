@@ -9,11 +9,13 @@ search:
 
 ---
 
-# codiepie  <small style="font-size: 60%;font-weight: 100">Codie Pie</small>
+# Codie Pie  <small style="font-size: 60%;font-weight: 100">Codie Pie</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

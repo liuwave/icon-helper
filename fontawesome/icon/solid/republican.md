@@ -9,11 +9,13 @@ search: american,conservative,election,elephant,politics,republican party,right,
 
 ---
 
-# republican  <small style="font-size: 60%;font-weight: 100">共和党人</small>
+# Republican  <small style="font-size: 60%;font-weight: 100">共和党人</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -2,18 +2,20 @@
 
 title: Dove(鸽子) ICON转svg、png下载
 name: dove
-zhTips: 鸽子,鸟,动物区系,飞行,和平,战争
+zhTips: 鸽子,鸟,动物区系,飞行,和平,战争,和平鸽
 tags: ["animals","charity","political","religion"]
 pre: fas
 search: bird,fauna,flying,peace,war
 
 ---
 
-# dove  <small style="font-size: 60%;font-weight: 100">鸽子</small>
+# Dove  <small style="font-size: 60%;font-weight: 100">鸽子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">bird</span><span class="badge-light badge">fauna</span><span class="badge-light badge">flying</span><span class="badge-light badge">peace</span><span class="badge-light badge">war</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">鸽子</span><span class="badge-primary badge">鸟</span><span class="badge-primary badge">动物区系</span><span class="badge-primary badge">飞行</span><span class="badge-primary badge">和平</span><span class="badge-primary badge">战争</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dove.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dove.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">bird</span><span class="badge-light badge">fauna</span><span class="badge-light badge">flying</span><span class="badge-light badge">peace</span><span class="badge-light badge">war</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">鸽子</span><span class="badge-primary badge">鸟</span><span class="badge-primary badge">动物区系</span><span class="badge-primary badge">飞行</span><span class="badge-primary badge">和平</span><span class="badge-primary badge">战争</span><span class="badge-primary badge">和平鸽</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dove.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dove.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">鸽子，表示安全，公证，飞翔。</div>
 <div class="alert alert-dark">
   <i class="fas fa-dove fa-xs"></i>
   <i class="fas fa-dove fa-sm"></i>

@@ -9,11 +9,13 @@ search: alcohol,bar,beverage,bourbon,drink,liquor,neat,rye,scotch,whisky
 
 ---
 
-# glass-whiskey  <small style="font-size: 60%;font-weight: 100">玻璃威士忌酒</small>
+# Glass Whiskey  <small style="font-size: 60%;font-weight: 100">玻璃威士忌酒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

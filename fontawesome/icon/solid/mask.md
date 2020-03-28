@@ -9,11 +9,13 @@ search: carnivale,costume,disguise,halloween,secret,super hero
 
 ---
 
-# mask  <small style="font-size: 60%;font-weight: 100">面具</small>
+# Mask  <small style="font-size: 60%;font-weight: 100">面具</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

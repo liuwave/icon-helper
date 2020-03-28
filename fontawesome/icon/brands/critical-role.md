@@ -9,11 +9,13 @@ search: Dungeons & Dragons,d&d,dnd,fantasy,game,gaming,tabletop
 
 ---
 
-# critical-role  <small style="font-size: 60%;font-weight: 100">关键角色</small>
+# Critical Role  <small style="font-size: 60%;font-weight: 100">关键角色</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

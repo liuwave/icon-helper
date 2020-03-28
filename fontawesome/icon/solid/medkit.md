@@ -2,7 +2,7 @@
 
 title: medkit(急救) ICON转svg、png下载
 name: medkit
-zhTips: medkit,急救,健康,帮助,支持
+zhTips: medkit,急救,健康,帮助,支持,医药包
 tags: ["health","maps","objects"]
 pre: fas
 search: first aid,firstaid,health,help,support
@@ -14,6 +14,8 @@ search: first aid,firstaid,health,help,support
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">first aid</span><span class="badge-light badge">firstaid</span><span class="badge-light badge">health</span><span class="badge-light badge">help</span><span class="badge-light badge">support</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">medkit</span><span class="badge-primary badge">急救</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">支持</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/medkit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/medkit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">first aid</span><span class="badge-light badge">firstaid</span><span class="badge-light badge">health</span><span class="badge-light badge">help</span><span class="badge-light badge">support</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">medkit</span><span class="badge-primary badge">急救</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">支持</span><span class="badge-primary badge">医药包</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/medkit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/medkit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示药品，医疗，治疗，诊断等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-medkit fa-xs"></i>
   <i class="fas fa-medkit fa-sm"></i>

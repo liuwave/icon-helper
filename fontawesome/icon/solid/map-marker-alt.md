@@ -9,11 +9,13 @@ search: address,coordinates,destination,gps,localize,location,map,navigation,pap
 
 ---
 
-# map-marker-alt  <small style="font-size: 60%;font-weight: 100">备用地图标记</small>
+# Alternate Map Marker  <small style="font-size: 60%;font-weight: 100">备用地图标记</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -2,18 +2,20 @@
 
 title: Warehouse(仓库) ICON转svg、png下载
 name: warehouse
-zhTips: 仓库,建筑物,容量,车库,库存,存储
+zhTips: 仓库,建筑物,容量,车库,库存,存储,仓库黑
 tags: ["buildings","logistics"]
 pre: fas
 search: building,capacity,garage,inventory,storage
 
 ---
 
-# warehouse  <small style="font-size: 60%;font-weight: 100">仓库</small>
+# Warehouse  <small style="font-size: 60%;font-weight: 100">仓库</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">capacity</span><span class="badge-light badge">garage</span><span class="badge-light badge">inventory</span><span class="badge-light badge">storage</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">仓库</span><span class="badge-primary badge">建筑物</span><span class="badge-primary badge">容量</span><span class="badge-primary badge">车库</span><span class="badge-primary badge">库存</span><span class="badge-primary badge">存储</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/warehouse.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/warehouse.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">capacity</span><span class="badge-light badge">garage</span><span class="badge-light badge">inventory</span><span class="badge-light badge">storage</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">仓库</span><span class="badge-primary badge">建筑物</span><span class="badge-primary badge">容量</span><span class="badge-primary badge">车库</span><span class="badge-primary badge">库存</span><span class="badge-primary badge">存储</span><span class="badge-primary badge">仓库黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/warehouse.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/warehouse.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">对物资进行储存、保管的库房。</div>
 <div class="alert alert-dark">
   <i class="fas fa-warehouse fa-xs"></i>
   <i class="fas fa-warehouse fa-sm"></i>

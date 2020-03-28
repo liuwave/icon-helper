@@ -9,11 +9,13 @@ search: calendar-o,date,event,schedule,time,when
 
 ---
 
-# calendar  <small style="font-size: 60%;font-weight: 100">日历</small>
+# Calendar  <small style="font-size: 60%;font-weight: 100">日历</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">calendar-o</span><span class="badge-light badge">date</span><span class="badge-light badge">event</span><span class="badge-light badge">schedule</span><span class="badge-light badge">time</span><span class="badge-light badge">when</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">日历</span><span class="badge-primary badge">日历o</span><span class="badge-primary badge">日期</span><span class="badge-primary badge">事件</span><span class="badge-primary badge">时间表</span><span class="badge-primary badge">时间</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/calendar.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/calendar.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">日历，可以表示挂历、日期、时间安排等等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-calendar fa-xs"></i>
   <i class="fas fa-calendar fa-sm"></i>

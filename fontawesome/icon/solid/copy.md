@@ -2,18 +2,20 @@
 
 title: Copy(复制) ICON转svg、png下载
 name: copy
-zhTips: 复制,克隆,重复,文件,文件o,纸张,粘贴
+zhTips: 复制,克隆,重复,文件,文件o,纸张,粘贴,拷贝
 tags: ["business","design","editors","files","interfaces","objects"]
 pre: fas
 search: clone,duplicate,file,files-o,paper,paste
 
 ---
 
-# copy  <small style="font-size: 60%;font-weight: 100">复制</small>
+# Copy  <small style="font-size: 60%;font-weight: 100">复制</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">clone</span><span class="badge-light badge">duplicate</span><span class="badge-light badge">file</span><span class="badge-light badge">files-o</span><span class="badge-light badge">paper</span><span class="badge-light badge">paste</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">复制</span><span class="badge-primary badge">克隆</span><span class="badge-primary badge">重复</span><span class="badge-primary badge">文件</span><span class="badge-primary badge">文件o</span><span class="badge-primary badge">纸张</span><span class="badge-primary badge">粘贴</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/copy.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/copy.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">clone</span><span class="badge-light badge">duplicate</span><span class="badge-light badge">file</span><span class="badge-light badge">files-o</span><span class="badge-light badge">paper</span><span class="badge-light badge">paste</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">复制</span><span class="badge-primary badge">克隆</span><span class="badge-primary badge">重复</span><span class="badge-primary badge">文件</span><span class="badge-primary badge">文件o</span><span class="badge-primary badge">纸张</span><span class="badge-primary badge">粘贴</span><span class="badge-primary badge">拷贝</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/copy.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/copy.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">拷贝，两个文件重叠，可以表示复制粘贴。</div>
 <div class="alert alert-dark">
   <i class="fas fa-copy fa-xs"></i>
   <i class="fas fa-copy fa-sm"></i>

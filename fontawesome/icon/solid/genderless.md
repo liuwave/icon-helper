@@ -9,11 +9,13 @@ search: androgynous,asexual,sexless
 
 ---
 
-# genderless  <small style="font-size: 60%;font-weight: 100">无性别</small>
+# Genderless  <small style="font-size: 60%;font-weight: 100">无性别</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">androgynous</span><span class="badge-light badge">asexual</span><span class="badge-light badge">sexless</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">无性别</span><span class="badge-primary badge">雌雄同体</span><span class="badge-primary badge">无性</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/genderless.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/genderless.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">无性别，也可表示空心，终止等</div>
 <div class="alert alert-dark">
   <i class="fas fa-genderless fa-xs"></i>
   <i class="fas fa-genderless fa-sm"></i>

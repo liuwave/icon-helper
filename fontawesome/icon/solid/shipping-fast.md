@@ -9,11 +9,13 @@ search: express,fedex,mail,overnight,package,ups
 
 ---
 
-# shipping-fast  <small style="font-size: 60%;font-weight: 100">快速发货</small>
+# Shipping Fast  <small style="font-size: 60%;font-weight: 100">快速发货</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -2,18 +2,20 @@
 
 title: Transgender(变性者) ICON转svg、png下载
 name: transgender
-zhTips: 变性者,中性
+zhTips: 变性者,中性,变性人
 tags: ["gender"]
 pre: fas
 search: intersex
 
 ---
 
-# transgender  <small style="font-size: 60%;font-weight: 100">变性者</small>
+# Transgender  <small style="font-size: 60%;font-weight: 100">变性者</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">intersex</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">变性者</span><span class="badge-primary badge">中性</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/transgender.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/transgender.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">intersex</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">变性者</span><span class="badge-primary badge">中性</span><span class="badge-primary badge">变性人</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/transgender.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/transgender.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示代表改变了性别的一类人。</div>
 <div class="alert alert-dark">
   <i class="fas fa-transgender fa-xs"></i>
   <i class="fas fa-transgender fa-sm"></i>

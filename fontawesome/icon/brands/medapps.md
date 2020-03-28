@@ -9,11 +9,13 @@ search:
 
 ---
 
-# medapps  <small style="font-size: 60%;font-weight: 100">MedApps</small>
+# MedApps  <small style="font-size: 60%;font-weight: 100">MedApps</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">MedApps</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/medapps.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/medapps.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">MedApps为医疗保健专业人员的问题创造创新解决方案。官网：https://www.med.app/</div>
 <div class="alert alert-dark">
   <i class="fab fa-medapps fa-xs"></i>
   <i class="fab fa-medapps fa-sm"></i>

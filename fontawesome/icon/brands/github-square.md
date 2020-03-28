@@ -1,19 +1,21 @@
 ---
 
-title: GitHub Square(GitHub广场) ICON转svg、png下载
+title: GitHub Square(GitHub方形) ICON转svg、png下载
 name: github-square
-zhTips: GitHub广场,octocat
+zhTips: GitHub方形,octocat
 tags: []
 pre: fab
 search: octocat
 
 ---
 
-# github-square  <small style="font-size: 60%;font-weight: 100">GitHub广场</small>
+# GitHub Square  <small style="font-size: 60%;font-weight: 100">GitHub方形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">octocat</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">GitHub广场</span><span class="badge-primary badge">octocat</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/github-square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/github-square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">octocat</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">GitHub方形</span><span class="badge-primary badge">octocat</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/github-square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/github-square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">GitHub是一个一个面向开源及私有软件项目的代码托管平台，目前已被微软收购。官网：https://github.com</div>
 <div class="alert alert-dark">
   <i class="fab fa-github-square fa-xs"></i>
   <i class="fab fa-github-square fa-sm"></i>

@@ -9,11 +9,13 @@ search: date,detail,event,focus,schedule,single day,time,today,when
 
 ---
 
-# calendar-day  <small style="font-size: 60%;font-weight: 100">日历与日焦点</small>
+# Calendar with Day Focus  <small style="font-size: 60%;font-weight: 100">日历与日焦点</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

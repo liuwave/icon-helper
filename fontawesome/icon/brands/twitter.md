@@ -2,18 +2,20 @@
 
 title: Twitter(社交网络) ICON转svg、png下载
 name: twitter
-zhTips: Twitter,社交网络,推文
+zhTips: Twitter,社交网络,推文,推特
 tags: []
 pre: fab
 search: social network,tweet
 
 ---
 
-# twitter  <small style="font-size: 60%;font-weight: 100">社交网络</small>
+# Twitter  <small style="font-size: 60%;font-weight: 100">社交网络</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">social network</span><span class="badge-light badge">tweet</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Twitter</span><span class="badge-primary badge">社交网络</span><span class="badge-primary badge">推文</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/twitter.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/twitter.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">social network</span><span class="badge-light badge">tweet</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Twitter</span><span class="badge-primary badge">社交网络</span><span class="badge-primary badge">推文</span><span class="badge-primary badge">推特</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/twitter.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/twitter.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Twitter是美国的一家提供社交网络服务的网站。</div>
 <div class="alert alert-dark">
   <i class="fab fa-twitter fa-xs"></i>
   <i class="fab fa-twitter fa-sm"></i>

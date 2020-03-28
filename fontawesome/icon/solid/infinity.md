@@ -2,18 +2,20 @@
 
 title: Infinity(无限) ICON转svg、png下载
 name: infinity
-zhTips: 无限,永恒,永远,数学
+zhTips: 无限,永恒,永远,数学,无穷
 tags: ["hotel","mathematics"]
 pre: fas
 search: eternity,forever,math
 
 ---
 
-# infinity  <small style="font-size: 60%;font-weight: 100">无限</small>
+# Infinity  <small style="font-size: 60%;font-weight: 100">无限</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">eternity</span><span class="badge-light badge">forever</span><span class="badge-light badge">math</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">无限</span><span class="badge-primary badge">永恒</span><span class="badge-primary badge">永远</span><span class="badge-primary badge">数学</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/infinity.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/infinity.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">eternity</span><span class="badge-light badge">forever</span><span class="badge-light badge">math</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">无限</span><span class="badge-primary badge">永恒</span><span class="badge-primary badge">永远</span><span class="badge-primary badge">数学</span><span class="badge-primary badge">无穷</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/infinity.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/infinity.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">无限，表示无穷尽的内容。</div>
 <div class="alert alert-dark">
   <i class="fas fa-infinity fa-xs"></i>
   <i class="fas fa-infinity fa-sm"></i>

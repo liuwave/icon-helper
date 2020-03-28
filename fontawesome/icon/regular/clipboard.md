@@ -2,18 +2,20 @@
 
 title: Clipboard(剪贴板) ICON转svg、png下载
 name: clipboard
-zhTips: 剪贴板,副本,笔记,粘贴,记录
+zhTips: 剪贴板,副本,笔记,粘贴,记录,画板空白
 tags: ["business","editors","interfaces","objects"]
 pre: far
 search: copy,notes,paste,record
 
 ---
 
-# clipboard  <small style="font-size: 60%;font-weight: 100">剪贴板</small>
+# Clipboard  <small style="font-size: 60%;font-weight: 100">剪贴板</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">copy</span><span class="badge-light badge">notes</span><span class="badge-light badge">paste</span><span class="badge-light badge">record</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">剪贴板</span><span class="badge-primary badge">副本</span><span class="badge-primary badge">笔记</span><span class="badge-primary badge">粘贴</span><span class="badge-primary badge">记录</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/clipboard.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/clipboard.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">copy</span><span class="badge-light badge">notes</span><span class="badge-light badge">paste</span><span class="badge-light badge">record</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">剪贴板</span><span class="badge-primary badge">副本</span><span class="badge-primary badge">笔记</span><span class="badge-primary badge">粘贴</span><span class="badge-primary badge">记录</span><span class="badge-primary badge">画板空白</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/clipboard.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/clipboard.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">剪贴板，一块写字板，也可以表示空的列表。</div>
 <div class="alert alert-dark">
   <i class="far fa-clipboard fa-xs"></i>
   <i class="far fa-clipboard fa-sm"></i>

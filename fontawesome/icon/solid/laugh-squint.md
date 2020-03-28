@@ -9,11 +9,13 @@ search: LOL,emoticon,face,happy,smile
 
 ---
 
-# laugh-squint  <small style="font-size: 60%;font-weight: 100">笑着S着眼睛</small>
+# Laughing Squinting Face  <small style="font-size: 60%;font-weight: 100">笑着S着眼睛</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

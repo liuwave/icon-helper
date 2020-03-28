@@ -2,18 +2,20 @@
 
 title: Box(盒) ICON转svg、png下载
 name: box
-zhTips: 盒,归档,容器,包装,存储
+zhTips: 盒,归档,容器,包装,存储,箱子
 tags: ["logistics"]
 pre: fas
 search: archive,container,package,storage
 
 ---
 
-# box  <small style="font-size: 60%;font-weight: 100">盒</small>
+# Box  <small style="font-size: 60%;font-weight: 100">盒</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">archive</span><span class="badge-light badge">container</span><span class="badge-light badge">package</span><span class="badge-light badge">storage</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">盒</span><span class="badge-primary badge">归档</span><span class="badge-primary badge">容器</span><span class="badge-primary badge">包装</span><span class="badge-primary badge">存储</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/box.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/box.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">archive</span><span class="badge-light badge">container</span><span class="badge-light badge">package</span><span class="badge-light badge">storage</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">盒</span><span class="badge-primary badge">归档</span><span class="badge-primary badge">容器</span><span class="badge-primary badge">包装</span><span class="badge-primary badge">存储</span><span class="badge-primary badge">箱子</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/box.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/box.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">箱子，可以表示礼品盒，储物箱。</div>
 <div class="alert alert-dark">
   <i class="fas fa-box fa-xs"></i>
   <i class="fas fa-box fa-sm"></i>

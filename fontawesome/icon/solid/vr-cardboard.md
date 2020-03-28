@@ -9,11 +9,13 @@ search: 3d,augment,google,reality,virtual
 
 ---
 
-# vr-cardboard  <small style="font-size: 60%;font-weight: 100">纸板VR</small>
+# Cardboard VR  <small style="font-size: 60%;font-weight: 100">纸板VR</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

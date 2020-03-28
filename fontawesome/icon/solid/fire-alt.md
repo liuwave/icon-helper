@@ -9,11 +9,13 @@ search: burn,caliente,flame,heat,hot,popular
 
 ---
 
-# fire-alt  <small style="font-size: 60%;font-weight: 100">备用火</small>
+# Alternate Fire  <small style="font-size: 60%;font-weight: 100">备用火</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

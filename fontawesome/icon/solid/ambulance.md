@@ -14,6 +14,8 @@ search: covid-19,emergency,emt,er,help,hospital,support,vehicle
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">emergency</span><span class="badge-light badge">emt</span><span class="badge-light badge">er</span><span class="badge-light badge">help</span><span class="badge-light badge">hospital</span><span class="badge-light badge">support</span><span class="badge-light badge">vehicle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">救护车</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">紧急情况</span><span class="badge-primary badge">emt</span><span class="badge-primary badge">er</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">支持</span><span class="badge-primary badge">车辆</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ambulance.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ambulance.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">救护车，一般指医疗事件，也可以表示紧急安全。</div>
 <div class="alert alert-dark">
   <i class="fas fa-ambulance fa-xs"></i>
   <i class="fas fa-ambulance fa-sm"></i>

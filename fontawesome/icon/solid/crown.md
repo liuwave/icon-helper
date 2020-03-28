@@ -9,11 +9,13 @@ search: award,favorite,king,queen,royal,tiara
 
 ---
 
-# crown  <small style="font-size: 60%;font-weight: 100">皇冠</small>
+# Crown  <small style="font-size: 60%;font-weight: 100">皇冠</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">award</span><span class="badge-light badge">favorite</span><span class="badge-light badge">king</span><span class="badge-light badge">queen</span><span class="badge-light badge">royal</span><span class="badge-light badge">tiara</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">皇冠</span><span class="badge-primary badge">奖品</span><span class="badge-primary badge">收藏夹</span><span class="badge-primary badge">国王</span><span class="badge-primary badge">女王</span><span class="badge-primary badge">王室</span><span class="badge-primary badge">头饰</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crown.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crown.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">皇冠，皇帝的头冠，可以表示高贵。</div>
 <div class="alert alert-dark">
   <i class="fas fa-crown fa-xs"></i>
   <i class="fas fa-crown fa-sm"></i>

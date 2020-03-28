@@ -9,11 +9,13 @@ search: eercast
 
 ---
 
-# sellcast  <small style="font-size: 60%;font-weight: 100">eercast</small>
+# Sellcast  <small style="font-size: 60%;font-weight: 100">eercast</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">eercast</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Sellcast</span><span class="badge-primary badge">eercast</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/sellcast.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/sellcast.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Sellcast是世界上第一个用于购买、销售和众筹的移动直播平台。</div>
 <div class="alert alert-dark">
   <i class="fab fa-sellcast fa-xs"></i>
   <i class="fab fa-sellcast fa-sm"></i>

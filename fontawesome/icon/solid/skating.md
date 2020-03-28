@@ -9,11 +9,13 @@ search: activity,figure skating,fitness,ice,person,winter
 
 ---
 
-# skating  <small style="font-size: 60%;font-weight: 100">滑冰</small>
+# Skating  <small style="font-size: 60%;font-weight: 100">滑冰</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

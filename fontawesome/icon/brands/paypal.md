@@ -9,11 +9,13 @@ search:
 
 ---
 
-# paypal  <small style="font-size: 60%;font-weight: 100">贝宝</small>
+# Paypal  <small style="font-size: 60%;font-weight: 100">贝宝</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">贝宝</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/paypal.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/paypal.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">paypal是一个全球支付平台，提供快捷安全的收款付款解决方案。</div>
 <div class="alert alert-dark">
   <i class="fab fa-paypal fa-xs"></i>
   <i class="fab fa-paypal fa-sm"></i>

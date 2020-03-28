@@ -2,18 +2,20 @@
 
 title: Bluetooth(蓝牙) ICON转svg、png下载
 name: bluetooth
-zhTips: 蓝牙
+zhTips: 蓝牙,蓝牙黑
 tags: ["communication"]
 pre: fab
 search: 
 
 ---
 
-# bluetooth  <small style="font-size: 60%;font-weight: 100">蓝牙</small>
+# Bluetooth  <small style="font-size: 60%;font-weight: 100">蓝牙</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">蓝牙</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/bluetooth.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/bluetooth.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">蓝牙</span><span class="badge-primary badge">蓝牙黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/bluetooth.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/bluetooth.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">蓝牙是一种无线传输标准，在电子产品上有广泛的应用。</div>
 <div class="alert alert-dark">
   <i class="fab fa-bluetooth fa-xs"></i>
   <i class="fab fa-bluetooth fa-sm"></i>

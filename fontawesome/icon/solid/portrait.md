@@ -9,11 +9,13 @@ search: id,image,photo,picture,selfie
 
 ---
 
-# portrait  <small style="font-size: 60%;font-weight: 100">肖像</small>
+# Portrait  <small style="font-size: 60%;font-weight: 100">肖像</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">id</span><span class="badge-light badge">image</span><span class="badge-light badge">photo</span><span class="badge-light badge">picture</span><span class="badge-light badge">selfie</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">肖像</span><span class="badge-primary badge">id</span><span class="badge-primary badge">图像</span><span class="badge-primary badge">照片</span><span class="badge-primary badge">图片</span><span class="badge-primary badge">自拍照</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/portrait.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/portrait.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示图画，素描，绘画。</div>
 <div class="alert alert-dark">
   <i class="fas fa-portrait fa-xs"></i>
   <i class="fas fa-portrait fa-sm"></i>

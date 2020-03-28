@@ -2,18 +2,20 @@
 
 title: Deaf(聋) ICON转svg、png下载
 name: deaf
-zhTips: 聋,耳,听,手语
+zhTips: 聋,耳,听,手语,聋子
 tags: ["accessibility"]
 pre: fas
 search: ear,hearing,sign language
 
 ---
 
-# deaf  <small style="font-size: 60%;font-weight: 100">聋</small>
+# Deaf  <small style="font-size: 60%;font-weight: 100">聋</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">ear</span><span class="badge-light badge">hearing</span><span class="badge-light badge">sign language</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">聋</span><span class="badge-primary badge">耳</span><span class="badge-primary badge">听</span><span class="badge-primary badge">手语</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/deaf.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/deaf.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">ear</span><span class="badge-light badge">hearing</span><span class="badge-light badge">sign language</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">聋</span><span class="badge-primary badge">耳</span><span class="badge-primary badge">听</span><span class="badge-primary badge">手语</span><span class="badge-primary badge">聋子</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/deaf.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/deaf.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">手语，无法听见声音的内容。</div>
 <div class="alert alert-dark">
   <i class="fas fa-deaf fa-xs"></i>
   <i class="fas fa-deaf fa-sm"></i>

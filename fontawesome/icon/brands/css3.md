@@ -2,18 +2,20 @@
 
 title: CSS 3 Logo(CSS 3徽标) ICON转svg、png下载
 name: css3
-zhTips: CSS 3徽标,代码
+zhTips: CSS 3徽标,代码,css3
 tags: []
 pre: fab
 search: code
 
 ---
 
-# css3  <small style="font-size: 60%;font-weight: 100">CSS 3徽标</small>
+# CSS 3 Logo  <small style="font-size: 60%;font-weight: 100">CSS 3徽标</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">code</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">CSS 3徽标</span><span class="badge-primary badge">代码</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/css3.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/css3.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">code</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">CSS 3徽标</span><span class="badge-primary badge">代码</span><span class="badge-primary badge">css3</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/css3.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/css3.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">css3是一种用于控制网页的样式和布局的语言。</div>
 <div class="alert alert-dark">
   <i class="fab fa-css3 fa-xs"></i>
   <i class="fab fa-css3 fa-sm"></i>

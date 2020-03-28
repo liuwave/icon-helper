@@ -9,11 +9,13 @@ search: asl,deaf,finger,hand,interpret,speak
 
 ---
 
-# american-sign-language-interpreting  <small style="font-size: 60%;font-weight: 100">美国手语翻译</small>
+# American Sign Language Interpreting  <small style="font-size: 60%;font-weight: 100">美国手语翻译</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

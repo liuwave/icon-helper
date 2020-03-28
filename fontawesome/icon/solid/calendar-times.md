@@ -9,11 +9,13 @@ search: archive,calendar,date,delete,event,remove,schedule,time,when,x
 
 ---
 
-# calendar-times  <small style="font-size: 60%;font-weight: 100">日历时间</small>
+# Calendar Times  <small style="font-size: 60%;font-weight: 100">日历时间</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

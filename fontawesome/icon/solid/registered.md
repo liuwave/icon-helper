@@ -2,18 +2,20 @@
 
 title: Registered Trademark(注册商标) ICON转svg、png下载
 name: registered
-zhTips: 注册商标,版权,商标
+zhTips: 注册商标,版权,商标,已注册圆标
 tags: ["business"]
 pre: fas
 search: copyright,mark,trademark
 
 ---
 
-# registered  <small style="font-size: 60%;font-weight: 100">注册商标</small>
+# Registered Trademark  <small style="font-size: 60%;font-weight: 100">注册商标</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">copyright</span><span class="badge-light badge">mark</span><span class="badge-light badge">trademark</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">注册商标</span><span class="badge-primary badge">版权</span><span class="badge-primary badge">商标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/registered.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/registered.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">copyright</span><span class="badge-light badge">mark</span><span class="badge-light badge">trademark</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">注册商标</span><span class="badge-primary badge">版权</span><span class="badge-primary badge">商标</span><span class="badge-primary badge">已注册圆标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/registered.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/registered.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示商标已经过注册的含义。</div>
 <div class="alert alert-dark">
   <i class="fas fa-registered fa-xs"></i>
   <i class="fas fa-registered fa-sm"></i>

@@ -9,11 +9,13 @@ search: blackboard,learning,school,teaching,whiteboard,writing
 
 ---
 
-# chalkboard  <small style="font-size: 60%;font-weight: 100">黑板</small>
+# Chalkboard  <small style="font-size: 60%;font-weight: 100">黑板</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">blackboard</span><span class="badge-light badge">learning</span><span class="badge-light badge">school</span><span class="badge-light badge">teaching</span><span class="badge-light badge">whiteboard</span><span class="badge-light badge">writing</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">黑板</span><span class="badge-primary badge">学习</span><span class="badge-primary badge">学校</span><span class="badge-primary badge">教学</span><span class="badge-primary badge">白板</span><span class="badge-primary badge">写作</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/chalkboard.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/chalkboard.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">黑板，可以表示画板。</div>
 <div class="alert alert-dark">
   <i class="fas fa-chalkboard fa-xs"></i>
   <i class="fas fa-chalkboard fa-sm"></i>

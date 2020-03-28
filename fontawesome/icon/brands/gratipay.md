@@ -1,19 +1,21 @@
 ---
 
-title: Gratipay (Gittip)(Gratipay（Gittip）) ICON转svg、png下载
+title: Gratipay (Gittip)(最喜欢) ICON转svg、png下载
 name: gratipay
-zhTips: Gratipay（Gittip）,最喜欢,心,喜欢,爱
+zhTips: 最喜欢,心,喜欢,爱,gratipay
 tags: []
 pre: fab
 search: favorite,heart,like,love
 
 ---
 
-# gratipay  <small style="font-size: 60%;font-weight: 100">Gratipay（Gittip）</small>
+# Gratipay (Gittip)  <small style="font-size: 60%;font-weight: 100">最喜欢</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">favorite</span><span class="badge-light badge">heart</span><span class="badge-light badge">like</span><span class="badge-light badge">love</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Gratipay（Gittip）</span><span class="badge-primary badge">最喜欢</span><span class="badge-primary badge">心</span><span class="badge-primary badge">喜欢</span><span class="badge-primary badge">爱</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gratipay.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gratipay.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">favorite</span><span class="badge-light badge">heart</span><span class="badge-light badge">like</span><span class="badge-light badge">love</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">最喜欢</span><span class="badge-primary badge">心</span><span class="badge-primary badge">喜欢</span><span class="badge-primary badge">爱</span><span class="badge-primary badge">gratipay</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gratipay.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gratipay.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">gratipay是免费的支付平台（已关闭）。</div>
 <div class="alert alert-dark">
   <i class="fab fa-gratipay fa-xs"></i>
   <i class="fab fa-gratipay fa-sm"></i>

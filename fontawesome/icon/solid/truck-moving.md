@@ -9,11 +9,13 @@ search: cargo,inventory,rental,vehicle
 
 ---
 
-# truck-moving  <small style="font-size: 60%;font-weight: 100">卡车移动</small>
+# Truck Moving  <small style="font-size: 60%;font-weight: 100">卡车移动</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

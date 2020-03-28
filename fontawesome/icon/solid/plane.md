@@ -2,7 +2,7 @@
 
 title: plane(飞机) ICON转svg、png下载
 name: plane
-zhTips: 飞机,目的地,飞行,位置,模式,旅行
+zhTips: 飞机,目的地,飞行,位置,模式,旅行,飞机黑
 tags: ["maps","objects","travel","vehicles"]
 pre: fas
 search: airplane,destination,fly,location,mode,travel,trip
@@ -14,6 +14,8 @@ search: airplane,destination,fly,location,mode,travel,trip
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">airplane</span><span class="badge-light badge">destination</span><span class="badge-light badge">fly</span><span class="badge-light badge">location</span><span class="badge-light badge">mode</span><span class="badge-light badge">travel</span><span class="badge-light badge">trip</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">飞机</span><span class="badge-primary badge">目的地</span><span class="badge-primary badge">飞行</span><span class="badge-primary badge">位置</span><span class="badge-primary badge">模式</span><span class="badge-primary badge">旅行</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plane.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plane.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">airplane</span><span class="badge-light badge">destination</span><span class="badge-light badge">fly</span><span class="badge-light badge">location</span><span class="badge-light badge">mode</span><span class="badge-light badge">travel</span><span class="badge-light badge">trip</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">飞机</span><span class="badge-primary badge">目的地</span><span class="badge-primary badge">飞行</span><span class="badge-primary badge">位置</span><span class="badge-primary badge">模式</span><span class="badge-primary badge">旅行</span><span class="badge-primary badge">飞机黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plane.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plane.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示航空，机场等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-plane fa-xs"></i>
   <i class="fas fa-plane fa-sm"></i>

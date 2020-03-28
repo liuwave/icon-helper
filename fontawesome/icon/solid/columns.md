@@ -2,18 +2,20 @@
 
 title: Columns(列) ICON转svg、png下载
 name: columns
-zhTips: 列,浏览器,仪表板,组织,窗格,拆分
+zhTips: 列,浏览器,仪表板,组织,窗格,拆分,列表数据
 tags: ["business","editors"]
 pre: fas
 search: browser,dashboard,organize,panes,split
 
 ---
 
-# columns  <small style="font-size: 60%;font-weight: 100">列</small>
+# Columns  <small style="font-size: 60%;font-weight: 100">列</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">browser</span><span class="badge-light badge">dashboard</span><span class="badge-light badge">organize</span><span class="badge-light badge">panes</span><span class="badge-light badge">split</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">列</span><span class="badge-primary badge">浏览器</span><span class="badge-primary badge">仪表板</span><span class="badge-primary badge">组织</span><span class="badge-primary badge">窗格</span><span class="badge-primary badge">拆分</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/columns.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/columns.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">browser</span><span class="badge-light badge">dashboard</span><span class="badge-light badge">organize</span><span class="badge-light badge">panes</span><span class="badge-light badge">split</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">列</span><span class="badge-primary badge">浏览器</span><span class="badge-primary badge">仪表板</span><span class="badge-primary badge">组织</span><span class="badge-primary badge">窗格</span><span class="badge-primary badge">拆分</span><span class="badge-primary badge">列表数据</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/columns.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/columns.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">列表数据，可以表示数据报告。</div>
 <div class="alert alert-dark">
   <i class="fas fa-columns fa-xs"></i>
   <i class="fas fa-columns fa-sm"></i>

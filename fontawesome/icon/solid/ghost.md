@@ -9,11 +9,13 @@ search: apparition,blinky,clyde,floating,halloween,holiday,inky,pinky,spirit
 
 ---
 
-# ghost  <small style="font-size: 60%;font-weight: 100">鬼魂</small>
+# Ghost  <small style="font-size: 60%;font-weight: 100">鬼魂</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -9,11 +9,13 @@ search: album,landscape,photo,picture
 
 ---
 
-# image  <small style="font-size: 60%;font-weight: 100">图像</small>
+# Image  <small style="font-size: 60%;font-weight: 100">图像</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">album</span><span class="badge-light badge">landscape</span><span class="badge-light badge">photo</span><span class="badge-light badge">picture</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">图像</span><span class="badge-primary badge">相册</span><span class="badge-primary badge">风景</span><span class="badge-primary badge">照片</span><span class="badge-primary badge">图片</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/image.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/image.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示图像、照片。</div>
 <div class="alert alert-dark">
   <i class="far fa-image fa-xs"></i>
   <i class="far fa-image fa-sm"></i>

@@ -9,11 +9,13 @@ search: accident,auto,automobile,insurance,sedan,transportation,vehicle,wreck
 
 ---
 
-# car-crash  <small style="font-size: 60%;font-weight: 100">车祸</small>
+# Car Crash  <small style="font-size: 60%;font-weight: 100">车祸</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -1,19 +1,21 @@
 ---
 
-title: What's App(应用程序有什么) ICON转svg、png下载
+title: What's App(瓦次普) ICON转svg、png下载
 name: whatsapp
-zhTips: 应用程序有什么
+zhTips: 瓦次普,whatsapp
 tags: []
 pre: fab
 search: 
 
 ---
 
-# whatsapp  <small style="font-size: 60%;font-weight: 100">应用程序有什么</small>
+# What's App  <small style="font-size: 60%;font-weight: 100">瓦次普</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">应用程序有什么</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/whatsapp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/whatsapp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">瓦次普</span><span class="badge-primary badge">whatsapp</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/whatsapp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/whatsapp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">whatsapp是一款用于手机之间通讯的应用程序。</div>
 <div class="alert alert-dark">
   <i class="fab fa-whatsapp fa-xs"></i>
   <i class="fab fa-whatsapp fa-sm"></i>

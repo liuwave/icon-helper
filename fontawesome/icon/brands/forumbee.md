@@ -2,18 +2,20 @@
 
 title: Forumbee(论坛) ICON转svg、png下载
 name: forumbee
-zhTips: 论坛
+zhTips: 论坛,forumbee
 tags: []
 pre: fab
 search: 
 
 ---
 
-# forumbee  <small style="font-size: 60%;font-weight: 100">论坛</small>
+# Forumbee  <small style="font-size: 60%;font-weight: 100">论坛</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">论坛</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/forumbee.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/forumbee.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">论坛</span><span class="badge-primary badge">forumbee</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/forumbee.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/forumbee.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Forumbee是一家在中国注册和运营的多元化控股集团</div>
 <div class="alert alert-dark">
   <i class="fab fa-forumbee fa-xs"></i>
   <i class="fab fa-forumbee fa-sm"></i>

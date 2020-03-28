@@ -14,6 +14,8 @@ search: admin,lock,open,password,private,protect,security
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">admin</span><span class="badge-light badge">lock</span><span class="badge-light badge">open</span><span class="badge-light badge">password</span><span class="badge-light badge">private</span><span class="badge-light badge">protect</span><span class="badge-light badge">security</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">锁定</span><span class="badge-primary badge">管理</span><span class="badge-primary badge">打开</span><span class="badge-primary badge">密码</span><span class="badge-primary badge">私有</span><span class="badge-primary badge">保护</span><span class="badge-primary badge">安全</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/lock.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/lock.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示关闭，锁上等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-lock fa-xs"></i>
   <i class="fas fa-lock fa-sm"></i>

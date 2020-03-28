@@ -9,11 +9,13 @@ search: building,cathedral,chapel,community,religion
 
 ---
 
-# church  <small style="font-size: 60%;font-weight: 100">教堂</small>
+# Church  <small style="font-size: 60%;font-weight: 100">教堂</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">cathedral</span><span class="badge-light badge">chapel</span><span class="badge-light badge">community</span><span class="badge-light badge">religion</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">教堂</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">大教堂</span><span class="badge-primary badge">社区</span><span class="badge-primary badge">宗教</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/church.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/church.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">教堂，可以表示西方文化。</div>
 <div class="alert alert-dark">
   <i class="fas fa-church fa-xs"></i>
   <i class="fas fa-church fa-sm"></i>

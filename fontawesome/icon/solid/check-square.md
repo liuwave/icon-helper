@@ -9,11 +9,13 @@ search: accept,agree,checkmark,confirm,correct,done,ok,select,success,tick,todo,
 
 ---
 
-# check-square  <small style="font-size: 60%;font-weight: 100">检查正方形</small>
+# Check Square  <small style="font-size: 60%;font-weight: 100">检查正方形</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

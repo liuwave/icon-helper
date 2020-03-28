@@ -9,11 +9,13 @@ search: alert,danger,error,important,notice,notification,notify,problem,warning
 
 ---
 
-# exclamation-circle  <small style="font-size: 60%;font-weight: 100">感叹号</small>
+# Exclamation Circle  <small style="font-size: 60%;font-weight: 100">感叹号</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

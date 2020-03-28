@@ -2,18 +2,20 @@
 
 title: Neutral Face(中性脸) ICON转svg、png下载
 name: meh
-zhTips: 中性脸,表情符号,脸,中性,评分
+zhTips: 中性脸,表情符号,脸,中性,评分,一般
 tags: ["chat","emoji","interfaces","users-people"]
 pre: far
 search: emoticon,face,neutral,rating
 
 ---
 
-# meh  <small style="font-size: 60%;font-weight: 100">中性脸</small>
+# Neutral Face  <small style="font-size: 60%;font-weight: 100">中性脸</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">emoticon</span><span class="badge-light badge">face</span><span class="badge-light badge">neutral</span><span class="badge-light badge">rating</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">中性脸</span><span class="badge-primary badge">表情符号</span><span class="badge-primary badge">脸</span><span class="badge-primary badge">中性</span><span class="badge-primary badge">评分</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/meh.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/meh.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">emoticon</span><span class="badge-light badge">face</span><span class="badge-light badge">neutral</span><span class="badge-light badge">rating</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">中性脸</span><span class="badge-primary badge">表情符号</span><span class="badge-primary badge">脸</span><span class="badge-primary badge">中性</span><span class="badge-primary badge">评分</span><span class="badge-primary badge">一般</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/meh.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/meh.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示中性脸，表情无波动，平和等。</div>
 <div class="alert alert-dark">
   <i class="far fa-meh fa-xs"></i>
   <i class="far fa-meh fa-sm"></i>

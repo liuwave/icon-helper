@@ -9,11 +9,13 @@ search: accept,check,person,verified
 
 ---
 
-# user-check  <small style="font-size: 60%;font-weight: 100">用户检查</small>
+# User Check  <small style="font-size: 60%;font-weight: 100">用户检查</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

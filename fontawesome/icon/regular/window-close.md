@@ -9,11 +9,13 @@ search: browser,cancel,computer,development
 
 ---
 
-# window-close  <small style="font-size: 60%;font-weight: 100">关闭窗口</small>
+# Window Close  <small style="font-size: 60%;font-weight: 100">关闭窗口</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

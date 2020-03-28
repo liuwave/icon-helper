@@ -9,11 +9,13 @@ search:
 
 ---
 
-# drupal  <small style="font-size: 60%;font-weight: 100">Drupal徽标</small>
+# Drupal Logo  <small style="font-size: 60%;font-weight: 100">Drupal徽标</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">Drupal徽标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/drupal.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/drupal.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Drupal是一款使用PHP语言编写的开源内容管理框架。</div>
 <div class="alert alert-dark">
   <i class="fab fa-drupal fa-xs"></i>
   <i class="fab fa-drupal fa-sm"></i>

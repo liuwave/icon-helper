@@ -9,11 +9,13 @@ search: arrow,download,dropdown,menu,more
 
 ---
 
-# chevron-circle-down  <small style="font-size: 60%;font-weight: 100">箭头</small>
+# Chevron Circle Down  <small style="font-size: 60%;font-weight: 100">箭头</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

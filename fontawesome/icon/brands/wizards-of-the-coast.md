@@ -9,11 +9,13 @@ search: Dungeons & Dragons,d&d,dnd,fantasy,game,gaming,tabletop
 
 ---
 
-# wizards-of-the-coast  <small style="font-size: 60%;font-weight: 100">海岸</small>
+# Wizards of the Coast  <small style="font-size: 60%;font-weight: 100">海岸</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

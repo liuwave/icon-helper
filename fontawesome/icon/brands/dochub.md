@@ -9,11 +9,13 @@ search:
 
 ---
 
-# dochub  <small style="font-size: 60%;font-weight: 100">DocHub</small>
+# DocHub  <small style="font-size: 60%;font-weight: 100">DocHub</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">DocHub</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/dochub.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/dochub.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">DocHub是一个最专业利落的云端PDF，提供编辑服务。</div>
 <div class="alert alert-dark">
   <i class="fab fa-dochub fa-xs"></i>
   <i class="fab fa-dochub fa-sm"></i>

@@ -14,6 +14,8 @@ search: art,delete,remove,rubber
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">art</span><span class="badge-light badge">delete</span><span class="badge-light badge">remove</span><span class="badge-light badge">rubber</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">橡皮擦</span><span class="badge-primary badge">艺术</span><span class="badge-primary badge">删除</span><span class="badge-primary badge">橡胶</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/eraser.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/eraser.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示清除工具。</div>
 <div class="alert alert-dark">
   <i class="fas fa-eraser fa-xs"></i>
   <i class="fas fa-eraser fa-sm"></i>

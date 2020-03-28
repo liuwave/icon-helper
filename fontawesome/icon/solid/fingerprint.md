@@ -9,11 +9,13 @@ search: human,id,identification,lock,smudge,touch,unique,unlock
 
 ---
 
-# fingerprint  <small style="font-size: 60%;font-weight: 100">指纹</small>
+# Fingerprint  <small style="font-size: 60%;font-weight: 100">指纹</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

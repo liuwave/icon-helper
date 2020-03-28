@@ -9,11 +9,13 @@ search: LOL,emoticon,face
 
 ---
 
-# grin-tongue-squint  <small style="font-size: 60%;font-weight: 100">用舌头S着眼睛</small>
+# Squinting Face With Tongue  <small style="font-size: 60%;font-weight: 100">用舌头S着眼睛</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

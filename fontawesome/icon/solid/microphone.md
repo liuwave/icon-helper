@@ -2,7 +2,7 @@
 
 title: microphone(麦克风) ICON转svg、png下载
 name: microphone
-zhTips: 麦克风,音频,播客,唱片,唱歌,声音
+zhTips: 麦克风,音频,播客,唱片,唱歌,声音,语音
 tags: ["audio-video","communication","interfaces","music","objects","status","toggle"]
 pre: fas
 search: audio,podcast,record,sing,sound,voice
@@ -14,6 +14,8 @@ search: audio,podcast,record,sing,sound,voice
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">audio</span><span class="badge-light badge">podcast</span><span class="badge-light badge">record</span><span class="badge-light badge">sing</span><span class="badge-light badge">sound</span><span class="badge-light badge">voice</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">麦克风</span><span class="badge-primary badge">音频</span><span class="badge-primary badge">播客</span><span class="badge-primary badge">唱片</span><span class="badge-primary badge">唱歌</span><span class="badge-primary badge">声音</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microphone.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microphone.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">audio</span><span class="badge-light badge">podcast</span><span class="badge-light badge">record</span><span class="badge-light badge">sing</span><span class="badge-light badge">sound</span><span class="badge-light badge">voice</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">麦克风</span><span class="badge-primary badge">音频</span><span class="badge-primary badge">播客</span><span class="badge-primary badge">唱片</span><span class="badge-primary badge">唱歌</span><span class="badge-primary badge">声音</span><span class="badge-primary badge">语音</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microphone.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microphone.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示打开语音，可录音，有声音等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-microphone fa-xs"></i>
   <i class="fas fa-microphone fa-sm"></i>

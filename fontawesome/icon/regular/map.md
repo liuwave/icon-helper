@@ -2,18 +2,20 @@
 
 title: Map(地图) ICON转svg、png下载
 name: map
-zhTips: 地图,地址,坐标,目的地,gps,本地化,位置,导航,纸张,pin,地方,兴趣点,路线,旅行
+zhTips: 地图,地址,坐标,目的地,gps,本地化,位置,导航,纸张,pin,地方,兴趣点,路线,旅行,地图标
 tags: ["camping","maps","objects","travel"]
 pre: far
 search: address,coordinates,destination,gps,localize,location,map,navigation,paper,pin,place,point of interest,position,route,travel
 
 ---
 
-# map  <small style="font-size: 60%;font-weight: 100">地图</small>
+# Map  <small style="font-size: 60%;font-weight: 100">地图</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">address</span><span class="badge-light badge">coordinates</span><span class="badge-light badge">destination</span><span class="badge-light badge">gps</span><span class="badge-light badge">localize</span><span class="badge-light badge">location</span><span class="badge-light badge">map</span><span class="badge-light badge">navigation</span><span class="badge-light badge">paper</span><span class="badge-light badge">pin</span><span class="badge-light badge">place</span><span class="badge-light badge">point of interest</span><span class="badge-light badge">position</span><span class="badge-light badge">route</span><span class="badge-light badge">travel</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">地图</span><span class="badge-primary badge">地址</span><span class="badge-primary badge">坐标</span><span class="badge-primary badge">目的地</span><span class="badge-primary badge">gps</span><span class="badge-primary badge">本地化</span><span class="badge-primary badge">位置</span><span class="badge-primary badge">导航</span><span class="badge-primary badge">纸张</span><span class="badge-primary badge">pin</span><span class="badge-primary badge">地方</span><span class="badge-primary badge">兴趣点</span><span class="badge-primary badge">路线</span><span class="badge-primary badge">旅行</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/map.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/map.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">address</span><span class="badge-light badge">coordinates</span><span class="badge-light badge">destination</span><span class="badge-light badge">gps</span><span class="badge-light badge">localize</span><span class="badge-light badge">location</span><span class="badge-light badge">map</span><span class="badge-light badge">navigation</span><span class="badge-light badge">paper</span><span class="badge-light badge">pin</span><span class="badge-light badge">place</span><span class="badge-light badge">point of interest</span><span class="badge-light badge">position</span><span class="badge-light badge">route</span><span class="badge-light badge">travel</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">地图</span><span class="badge-primary badge">地址</span><span class="badge-primary badge">坐标</span><span class="badge-primary badge">目的地</span><span class="badge-primary badge">gps</span><span class="badge-primary badge">本地化</span><span class="badge-primary badge">位置</span><span class="badge-primary badge">导航</span><span class="badge-primary badge">纸张</span><span class="badge-primary badge">pin</span><span class="badge-primary badge">地方</span><span class="badge-primary badge">兴趣点</span><span class="badge-primary badge">路线</span><span class="badge-primary badge">旅行</span><span class="badge-primary badge">地图标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/map.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/map.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示自然地理，行政区域，社会状况地方等。</div>
 <div class="alert alert-dark">
   <i class="far fa-map fa-xs"></i>
   <i class="far fa-map fa-sm"></i>

@@ -14,6 +14,8 @@ search: favorite,marker,read,remember,save
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">favorite</span><span class="badge-light badge">marker</span><span class="badge-light badge">read</span><span class="badge-light badge">remember</span><span class="badge-light badge">save</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">书签</span><span class="badge-primary badge">收藏夹</span><span class="badge-primary badge">标记</span><span class="badge-primary badge">阅读</span><span class="badge-primary badge">记住</span><span class="badge-primary badge">保存</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/bookmark.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/bookmark.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">书签，收藏夹，标记。一种记页码的方式，表示重要的事件。</div>
 <div class="alert alert-dark">
   <i class="far fa-bookmark fa-xs"></i>
   <i class="far fa-bookmark fa-sm"></i>

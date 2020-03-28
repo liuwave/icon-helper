@@ -9,11 +9,13 @@ search: circle-o-notch,diameter,dot,ellipse,round,spinner
 
 ---
 
-# circle-notch  <small style="font-size: 60%;font-weight: 100">圆形凹口</small>
+# Circle Notched  <small style="font-size: 60%;font-weight: 100">圆形凹口</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

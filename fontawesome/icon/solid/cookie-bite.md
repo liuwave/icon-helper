@@ -9,11 +9,13 @@ search: baked good,bitten,chips,chocolate,eat,snack,sweet,treat
 
 ---
 
-# cookie-bite  <small style="font-size: 60%;font-weight: 100">烤好的</small>
+# Cookie Bite  <small style="font-size: 60%;font-weight: 100">烤好的</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

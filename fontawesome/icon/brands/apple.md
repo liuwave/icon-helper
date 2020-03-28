@@ -2,18 +2,20 @@
 
 title: Apple(水果) ICON转svg、png下载
 name: apple
-zhTips: Apple,水果,ios,mac,操作系统,os,osx
+zhTips: Apple,水果,ios,mac,操作系统,os,osx,苹果
 tags: []
 pre: fab
 search: fruit,ios,mac,operating system,os,osx
 
 ---
 
-# apple  <small style="font-size: 60%;font-weight: 100">水果</small>
+# Apple  <small style="font-size: 60%;font-weight: 100">水果</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">fruit</span><span class="badge-light badge">ios</span><span class="badge-light badge">mac</span><span class="badge-light badge">operating system</span><span class="badge-light badge">os</span><span class="badge-light badge">osx</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Apple</span><span class="badge-primary badge">水果</span><span class="badge-primary badge">ios</span><span class="badge-primary badge">mac</span><span class="badge-primary badge">操作系统</span><span class="badge-primary badge">os</span><span class="badge-primary badge">osx</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/apple.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/apple.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">fruit</span><span class="badge-light badge">ios</span><span class="badge-light badge">mac</span><span class="badge-light badge">operating system</span><span class="badge-light badge">os</span><span class="badge-light badge">osx</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Apple</span><span class="badge-primary badge">水果</span><span class="badge-primary badge">ios</span><span class="badge-primary badge">mac</span><span class="badge-primary badge">操作系统</span><span class="badge-primary badge">os</span><span class="badge-primary badge">osx</span><span class="badge-primary badge">苹果</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/apple.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/apple.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Apple是生产一家著名的电脑、手机等电子产品的美国高科技企业，总部位于加利福尼亚州。</div>
 <div class="alert alert-dark">
   <i class="fab fa-apple fa-xs"></i>
   <i class="fab fa-apple fa-sm"></i>

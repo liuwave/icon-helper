@@ -9,11 +9,13 @@ search: document,m4v,movie,mp4,play
 
 ---
 
-# file-video  <small style="font-size: 60%;font-weight: 100">视频文件</small>
+# Video File  <small style="font-size: 60%;font-weight: 100">视频文件</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

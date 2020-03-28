@@ -9,11 +9,13 @@ search: add,calendar,create,date,event,new,positive,schedule,time,when
 
 ---
 
-# calendar-plus  <small style="font-size: 60%;font-weight: 100">添加</small>
+# Calendar Plus  <small style="font-size: 60%;font-weight: 100">添加</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

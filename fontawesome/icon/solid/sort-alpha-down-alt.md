@@ -9,11 +9,13 @@ search: alphabetical,arrange,filter,order,sort-alpha-asc
 
 ---
 
-# sort-alpha-down-alt  <small style="font-size: 60%;font-weight: 100">Alternate Sort按字母顺序向下</small>
+# Alternate Sort Alphabetical Down  <small style="font-size: 60%;font-weight: 100">Alternate Sort按字母顺序向下</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

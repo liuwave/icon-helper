@@ -2,18 +2,20 @@
 
 title: Renren(人人) ICON转svg、png下载
 name: renren
-zhTips: 人人
+zhTips: 人人,renren
 tags: []
 pre: fab
 search: 
 
 ---
 
-# renren  <small style="font-size: 60%;font-weight: 100">人人</small>
+# Renren  <small style="font-size: 60%;font-weight: 100">人人</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">人人</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/renren.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/renren.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">人人</span><span class="badge-primary badge">renren</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/renren.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/renren.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">人人曾是中国领先的实名制社交网络平台，现已经关闭。</div>
 <div class="alert alert-dark">
   <i class="fab fa-renren fa-xs"></i>
   <i class="fab fa-renren fa-sm"></i>

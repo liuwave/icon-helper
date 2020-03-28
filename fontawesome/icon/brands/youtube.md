@@ -9,11 +9,13 @@ search: film,video,youtube-play,youtube-square
 
 ---
 
-# youtube  <small style="font-size: 60%;font-weight: 100">电影</small>
+# YouTube  <small style="font-size: 60%;font-weight: 100">电影</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">film</span><span class="badge-light badge">video</span><span class="badge-light badge">youtube-play</span><span class="badge-light badge">youtube-square</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">YouTube</span><span class="badge-primary badge">电影</span><span class="badge-primary badge">视频</span><span class="badge-primary badge">YouTube播放</span><span class="badge-primary badge">YouTube正方形</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/youtube.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/youtube.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">YouTube是一个视频网站：在YouTube 上畅享您喜爱的视频和音乐,上传原创内容并与亲朋好友和全世界观众分享您的视频。</div>
 <div class="alert alert-dark">
   <i class="fab fa-youtube fa-xs"></i>
   <i class="fab fa-youtube fa-sm"></i>

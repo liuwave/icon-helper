@@ -1,19 +1,21 @@
 ---
 
-title: Tumblr(Tumblr) ICON转svg、png下载
+title: Tumblr(汤博乐) ICON转svg、png下载
 name: tumblr
-zhTips: Tumblr
+zhTips: 汤博乐
 tags: []
 pre: fab
 search: 
 
 ---
 
-# tumblr  <small style="font-size: 60%;font-weight: 100">Tumblr</small>
+# Tumblr  <small style="font-size: 60%;font-weight: 100">汤博乐</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Tumblr</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/tumblr.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/tumblr.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">汤博乐</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/tumblr.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/tumblr.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">汤博乐是全球最大的轻博客网站。</div>
 <div class="alert alert-dark">
   <i class="fab fa-tumblr fa-xs"></i>
   <i class="fab fa-tumblr fa-sm"></i>

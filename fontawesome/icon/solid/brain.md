@@ -2,18 +2,20 @@
 
 title: Brain(脑) ICON转svg、png下载
 name: brain
-zhTips: 脑,小脑,灰质,智力,长延髓,头脑,面条,机智
+zhTips: 脑,小脑,灰质,智力,长延髓,头脑,面条,机智,大脑
 tags: ["medical","science"]
 pre: fas
 search: cerebellum,gray matter,intellect,medulla oblongata,mind,noodle,wit
 
 ---
 
-# brain  <small style="font-size: 60%;font-weight: 100">脑</small>
+# Brain  <small style="font-size: 60%;font-weight: 100">脑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">cerebellum</span><span class="badge-light badge">gray matter</span><span class="badge-light badge">intellect</span><span class="badge-light badge">medulla oblongata</span><span class="badge-light badge">mind</span><span class="badge-light badge">noodle</span><span class="badge-light badge">wit</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">脑</span><span class="badge-primary badge">小脑</span><span class="badge-primary badge">灰质</span><span class="badge-primary badge">智力</span><span class="badge-primary badge">长延髓</span><span class="badge-primary badge">头脑</span><span class="badge-primary badge">面条</span><span class="badge-primary badge">机智</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/brain.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/brain.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">cerebellum</span><span class="badge-light badge">gray matter</span><span class="badge-light badge">intellect</span><span class="badge-light badge">medulla oblongata</span><span class="badge-light badge">mind</span><span class="badge-light badge">noodle</span><span class="badge-light badge">wit</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">脑</span><span class="badge-primary badge">小脑</span><span class="badge-primary badge">灰质</span><span class="badge-primary badge">智力</span><span class="badge-primary badge">长延髓</span><span class="badge-primary badge">头脑</span><span class="badge-primary badge">面条</span><span class="badge-primary badge">机智</span><span class="badge-primary badge">大脑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/brain.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/brain.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">大脑，通常用于表示神经科。</div>
 <div class="alert alert-dark">
   <i class="fas fa-brain fa-xs"></i>
   <i class="fas fa-brain fa-sm"></i>

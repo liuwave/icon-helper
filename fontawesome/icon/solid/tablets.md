@@ -9,11 +9,13 @@ search: drugs,medicine,pills,prescription
 
 ---
 
-# tablets  <small style="font-size: 60%;font-weight: 100">平板电脑</small>
+# Tablets  <small style="font-size: 60%;font-weight: 100">平板电脑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">drugs</span><span class="badge-light badge">medicine</span><span class="badge-light badge">pills</span><span class="badge-light badge">prescription</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">平板电脑</span><span class="badge-primary badge">药品</span><span class="badge-primary badge">药物</span><span class="badge-primary badge">药丸</span><span class="badge-primary badge">处方</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tablets.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tablets.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示一个平板电脑，也可用于表示电子设备。</div>
 <div class="alert alert-dark">
   <i class="fas fa-tablets fa-xs"></i>
   <i class="fas fa-tablets fa-sm"></i>

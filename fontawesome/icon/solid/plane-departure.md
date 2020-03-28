@@ -9,11 +9,13 @@ search: airplane,departing,destination,fly,location,mode,take off,taking off,tra
 
 ---
 
-# plane-departure  <small style="font-size: 60%;font-weight: 100">飞机起飞</small>
+# Plane Departure  <small style="font-size: 60%;font-weight: 100">飞机起飞</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

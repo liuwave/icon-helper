@@ -2,7 +2,7 @@
 
 title: magic(魔术师) ICON转svg、png下载
 name: magic
-zhTips: 魔术师,自动完成,自动,法师,咒语,魔法,魔女,巫师
+zhTips: 魔术师,自动完成,自动,法师,咒语,魔法,魔女,巫师,魔术棒
 tags: ["design","interfaces","objects"]
 pre: fas
 search: autocomplete,automatic,mage,magic,spell,wand,witch,wizard
@@ -14,6 +14,8 @@ search: autocomplete,automatic,mage,magic,spell,wand,witch,wizard
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">autocomplete</span><span class="badge-light badge">automatic</span><span class="badge-light badge">mage</span><span class="badge-light badge">magic</span><span class="badge-light badge">spell</span><span class="badge-light badge">wand</span><span class="badge-light badge">witch</span><span class="badge-light badge">wizard</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">魔术师</span><span class="badge-primary badge">自动完成</span><span class="badge-primary badge">自动</span><span class="badge-primary badge">法师</span><span class="badge-primary badge">咒语</span><span class="badge-primary badge">魔法</span><span class="badge-primary badge">魔女</span><span class="badge-primary badge">巫师</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/magic.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/magic.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">autocomplete</span><span class="badge-light badge">automatic</span><span class="badge-light badge">mage</span><span class="badge-light badge">magic</span><span class="badge-light badge">spell</span><span class="badge-light badge">wand</span><span class="badge-light badge">witch</span><span class="badge-light badge">wizard</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">魔术师</span><span class="badge-primary badge">自动完成</span><span class="badge-primary badge">自动</span><span class="badge-primary badge">法师</span><span class="badge-primary badge">咒语</span><span class="badge-primary badge">魔法</span><span class="badge-primary badge">魔女</span><span class="badge-primary badge">巫师</span><span class="badge-primary badge">魔术棒</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/magic.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/magic.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示选取相邻同种色块。</div>
 <div class="alert alert-dark">
   <i class="fas fa-magic fa-xs"></i>
   <i class="fas fa-magic fa-sm"></i>

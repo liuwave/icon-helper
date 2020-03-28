@@ -2,18 +2,20 @@
 
 title: Share(共享) ICON转svg、png下载
 name: share
-zhTips: 共享,转发,保存,发送,社交
+zhTips: 共享,转发,保存,发送,社交,转发粗黑
 tags: ["arrows","editors","interfaces","social"]
 pre: fas
 search: forward,save,send,social
 
 ---
 
-# share  <small style="font-size: 60%;font-weight: 100">共享</small>
+# Share  <small style="font-size: 60%;font-weight: 100">共享</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">forward</span><span class="badge-light badge">save</span><span class="badge-light badge">send</span><span class="badge-light badge">social</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">共享</span><span class="badge-primary badge">转发</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">发送</span><span class="badge-primary badge">社交</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/share.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/share.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">forward</span><span class="badge-light badge">save</span><span class="badge-light badge">send</span><span class="badge-light badge">social</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">共享</span><span class="badge-primary badge">转发</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">发送</span><span class="badge-primary badge">社交</span><span class="badge-primary badge">转发粗黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/share.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/share.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示信息、资源等的转发。</div>
 <div class="alert alert-dark">
   <i class="fas fa-share fa-xs"></i>
   <i class="fas fa-share fa-sm"></i>

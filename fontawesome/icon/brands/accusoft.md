@@ -1,19 +1,21 @@
 ---
 
-title: Accusoft(Accusoft) ICON转svg、png下载
+title: Accusoft(飞马公司) ICON转svg、png下载
 name: accusoft
-zhTips: Accusoft
+zhTips: 飞马公司,数字图像,压缩技术,飞马成像
 tags: []
 pre: fab
-search: 
+search: Accusoft Pegasus
 
 ---
 
-# accusoft  <small style="font-size: 60%;font-weight: 100">Accusoft</small>
+# Accusoft  <small style="font-size: 60%;font-weight: 100">飞马公司</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Accusoft</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/accusoft.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/accusoft.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">Accusoft Pegasus</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">飞马公司</span><span class="badge-primary badge">数字图像</span><span class="badge-primary badge">压缩技术</span><span class="badge-primary badge">飞马成像</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/accusoft.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/accusoft.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Accusoft Pegasus Imaging公司专注于数字图像软件的开发和压缩技术。飞马公司主要提供以下解决方案：viewing, scanning, printing, barcode, OCR, ICR, OMR, MICR, CAD viewing, compression (包括JPEG2000, JPEG, wavelet, TIFF and lossless JPEG)。官网地址：https://www.accusoft.com/</div>
 <div class="alert alert-dark">
   <i class="fab fa-accusoft fa-xs"></i>
   <i class="fab fa-accusoft fa-sm"></i>

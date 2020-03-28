@@ -9,11 +9,13 @@ search: animal,canine,fauna,mammal,pet,pooch,puppy,woof
 
 ---
 
-# dog  <small style="font-size: 60%;font-weight: 100">狗</small>
+# Dog  <small style="font-size: 60%;font-weight: 100">狗</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">animal</span><span class="badge-light badge">canine</span><span class="badge-light badge">fauna</span><span class="badge-light badge">mammal</span><span class="badge-light badge">pet</span><span class="badge-light badge">pooch</span><span class="badge-light badge">puppy</span><span class="badge-light badge">woof</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">狗</span><span class="badge-primary badge">动物</span><span class="badge-primary badge">犬</span><span class="badge-primary badge">哺乳动物</span><span class="badge-primary badge">宠物</span><span class="badge-primary badge">小狗</span><span class="badge-primary badge">低音</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dog.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/dog.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">狗，一种家养宠物</div>
 <div class="alert alert-dark">
   <i class="fas fa-dog fa-xs"></i>
   <i class="fas fa-dog fa-sm"></i>

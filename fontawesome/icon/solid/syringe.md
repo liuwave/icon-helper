@@ -9,11 +9,13 @@ search: covid-19,doctor,immunizations,medical,needle
 
 ---
 
-# syringe  <small style="font-size: 60%;font-weight: 100">注射器</small>
+# Syringe  <small style="font-size: 60%;font-weight: 100">注射器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">doctor</span><span class="badge-light badge">immunizations</span><span class="badge-light badge">medical</span><span class="badge-light badge">needle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">注射器</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">医生</span><span class="badge-primary badge">免疫</span><span class="badge-primary badge">医疗</span><span class="badge-primary badge">针</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/syringe.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/syringe.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示医院的治疗、诊断等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-syringe fa-xs"></i>
   <i class="fas fa-syringe fa-sm"></i>

@@ -9,11 +9,13 @@ search: lyrics,melody,note,sing,sound
 
 ---
 
-# music  <small style="font-size: 60%;font-weight: 100">音乐</small>
+# Music  <small style="font-size: 60%;font-weight: 100">音乐</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">lyrics</span><span class="badge-light badge">melody</span><span class="badge-light badge">note</span><span class="badge-light badge">sing</span><span class="badge-light badge">sound</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">音乐</span><span class="badge-primary badge">歌词</span><span class="badge-primary badge">旋律</span><span class="badge-primary badge">注释</span><span class="badge-primary badge">唱歌</span><span class="badge-primary badge">声音</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/music.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/music.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示音乐，表示音符，也可用于代表开心或歌曲。</div>
 <div class="alert alert-dark">
   <i class="fas fa-music fa-xs"></i>
   <i class="fas fa-music fa-sm"></i>

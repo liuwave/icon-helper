@@ -2,18 +2,20 @@
 
 title: Poo(小便) ICON转svg、png下载
 name: poo
-zhTips: 小便,废话,大便,屎,微笑,粪
+zhTips: 小便,废话,大便,屎,微笑,粪,便便
 tags: ["chat","interfaces","users-people"]
 pre: fas
 search: crap,poop,shit,smile,turd
 
 ---
 
-# poo  <small style="font-size: 60%;font-weight: 100">小便</small>
+# Poo  <small style="font-size: 60%;font-weight: 100">小便</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">crap</span><span class="badge-light badge">poop</span><span class="badge-light badge">shit</span><span class="badge-light badge">smile</span><span class="badge-light badge">turd</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">小便</span><span class="badge-primary badge">废话</span><span class="badge-primary badge">大便</span><span class="badge-primary badge">屎</span><span class="badge-primary badge">微笑</span><span class="badge-primary badge">粪</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/poo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/poo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">crap</span><span class="badge-light badge">poop</span><span class="badge-light badge">shit</span><span class="badge-light badge">smile</span><span class="badge-light badge">turd</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">小便</span><span class="badge-primary badge">废话</span><span class="badge-primary badge">大便</span><span class="badge-primary badge">屎</span><span class="badge-primary badge">微笑</span><span class="badge-primary badge">粪</span><span class="badge-primary badge">便便</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/poo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/poo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示恶心、脏的东西。</div>
 <div class="alert alert-dark">
   <i class="fas fa-poo fa-xs"></i>
   <i class="fas fa-poo fa-sm"></i>

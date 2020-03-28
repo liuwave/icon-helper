@@ -14,6 +14,8 @@ search: image,lens,photo,picture,record,shutter,video
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">image</span><span class="badge-light badge">lens</span><span class="badge-light badge">photo</span><span class="badge-light badge">picture</span><span class="badge-light badge">record</span><span class="badge-light badge">shutter</span><span class="badge-light badge">video</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">相机</span><span class="badge-primary badge">图像</span><span class="badge-primary badge">镜头</span><span class="badge-primary badge">照片</span><span class="badge-primary badge">图片</span><span class="badge-primary badge">记录</span><span class="badge-primary badge">快门</span><span class="badge-primary badge">视频</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/camera.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/camera.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">相机，可以表示为照相、上传照片内容。</div>
 <div class="alert alert-dark">
   <i class="fas fa-camera fa-xs"></i>
   <i class="fas fa-camera fa-sm"></i>

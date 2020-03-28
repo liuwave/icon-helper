@@ -9,11 +9,13 @@ search: edit,pen,pencil,update,write
 
 ---
 
-# edit  <small style="font-size: 60%;font-weight: 100">编辑</small>
+# Edit  <small style="font-size: 60%;font-weight: 100">编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">edit</span><span class="badge-light badge">pen</span><span class="badge-light badge">pencil</span><span class="badge-light badge">update</span><span class="badge-light badge">write</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">编辑</span><span class="badge-primary badge">笔</span><span class="badge-primary badge">铅笔</span><span class="badge-primary badge">更新</span><span class="badge-primary badge">编写</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/edit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/edit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">编辑修改，对内容进行修改、整改。</div>
 <div class="alert alert-dark">
   <i class="fas fa-edit fa-xs"></i>
   <i class="fas fa-edit fa-sm"></i>

@@ -9,11 +9,13 @@ search: accessibility,hearing,person,seeing,visual impairment
 
 ---
 
-# universal-access  <small style="font-size: 60%;font-weight: 100">通用访问</small>
+# Universal Access  <small style="font-size: 60%;font-weight: 100">通用访问</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

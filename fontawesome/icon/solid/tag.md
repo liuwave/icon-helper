@@ -2,7 +2,7 @@
 
 title: tag(标签) ICON转svg、png下载
 name: tag
-zhTips: 标签,折扣,价格,购物
+zhTips: 标签,折扣,价格,购物,标签黑
 tags: ["business","maps","objects","payments-shopping"]
 pre: fas
 search: discount,label,price,shopping
@@ -14,6 +14,8 @@ search: discount,label,price,shopping
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">discount</span><span class="badge-light badge">label</span><span class="badge-light badge">price</span><span class="badge-light badge">shopping</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标签</span><span class="badge-primary badge">折扣</span><span class="badge-primary badge">价格</span><span class="badge-primary badge">购物</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">discount</span><span class="badge-light badge">label</span><span class="badge-light badge">price</span><span class="badge-light badge">shopping</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标签</span><span class="badge-primary badge">折扣</span><span class="badge-primary badge">价格</span><span class="badge-primary badge">购物</span><span class="badge-primary badge">标签黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">可表示物品的商标、属性等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-tag fa-xs"></i>
   <i class="fas fa-tag fa-sm"></i>

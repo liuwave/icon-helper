@@ -9,11 +9,13 @@ search: mercury,status,temperature
 
 ---
 
-# thermometer-three-quarters  <small style="font-size: 60%;font-weight: 100">温度计3/4满</small>
+# Thermometer 3/4 Full  <small style="font-size: 60%;font-weight: 100">温度计3/4满</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

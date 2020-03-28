@@ -9,11 +9,13 @@ search: copy,document,send,upload
 
 ---
 
-# file-import  <small style="font-size: 60%;font-weight: 100">文件导入</small>
+# File Import  <small style="font-size: 60%;font-weight: 100">文件导入</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

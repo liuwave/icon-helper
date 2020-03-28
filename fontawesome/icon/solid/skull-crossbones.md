@@ -9,11 +9,13 @@ search: Dungeons & Dragons,alert,bones,d&d,danger,dead,deadly,death,dnd,fantasy,
 
 ---
 
-# skull-crossbones  <small style="font-size: 60%;font-weight: 100">头骨和骷髅</small>
+# Skull & Crossbones  <small style="font-size: 60%;font-weight: 100">头骨和骷髅</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

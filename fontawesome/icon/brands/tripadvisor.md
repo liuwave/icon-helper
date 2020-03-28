@@ -1,19 +1,21 @@
 ---
 
-title: TripAdvisor(TripAdvisor) ICON转svg、png下载
+title: TripAdvisor(猫途鹰) ICON转svg、png下载
 name: tripadvisor
-zhTips: TripAdvisor
+zhTips: TripAdvisor,猫途鹰
 tags: []
 pre: fab
 search: 
 
 ---
 
-# tripadvisor  <small style="font-size: 60%;font-weight: 100">TripAdvisor</small>
+# TripAdvisor  <small style="font-size: 60%;font-weight: 100">猫途鹰</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">TripAdvisor</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/tripadvisor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/tripadvisor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">TripAdvisor</span><span class="badge-primary badge">猫途鹰</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/tripadvisor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/tripadvisor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">猫途鹰是全球领先的旅行平台，分享旅游点评。</div>
 <div class="alert alert-dark">
   <i class="fab fa-tripadvisor fa-xs"></i>
   <i class="fab fa-tripadvisor fa-sm"></i>

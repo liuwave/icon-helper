@@ -9,11 +9,13 @@ search: checklist,completed,done,finished,intinerary,ol,schedule,tick,todo,ul
 
 ---
 
-# clipboard-list  <small style="font-size: 60%;font-weight: 100">剪贴板列表</small>
+# Clipboard List  <small style="font-size: 60%;font-weight: 100">剪贴板列表</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

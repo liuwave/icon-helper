@@ -2,18 +2,20 @@
 
 title: Outdent(align) ICON转svg、png下载
 name: outdent
-zhTips: Outdent,align,justify,paragraph,tab
+zhTips: Outdent,align,justify,paragraph,tab,减少缩进
 tags: ["editors"]
 pre: fas
 search: align,justify,paragraph,tab
 
 ---
 
-# outdent  <small style="font-size: 60%;font-weight: 100">align</small>
+# Outdent  <small style="font-size: 60%;font-weight: 100">align</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">align</span><span class="badge-light badge">justify</span><span class="badge-light badge">paragraph</span><span class="badge-light badge">tab</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Outdent</span><span class="badge-primary badge">align</span><span class="badge-primary badge">justify</span><span class="badge-primary badge">paragraph</span><span class="badge-primary badge">tab</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/outdent.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/outdent.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">align</span><span class="badge-light badge">justify</span><span class="badge-light badge">paragraph</span><span class="badge-light badge">tab</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Outdent</span><span class="badge-primary badge">align</span><span class="badge-primary badge">justify</span><span class="badge-primary badge">paragraph</span><span class="badge-primary badge">tab</span><span class="badge-primary badge">减少缩进</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/outdent.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/outdent.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示段落减少缩进。</div>
 <div class="alert alert-dark">
   <i class="fas fa-outdent fa-xs"></i>
   <i class="fas fa-outdent fa-sm"></i>

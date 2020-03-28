@@ -9,11 +9,13 @@ search:
 
 ---
 
-# adn  <small style="font-size: 60%;font-weight: 100">App.net</small>
+# App.net  <small style="font-size: 60%;font-weight: 100">App.net</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">App.net</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/adn.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/adn.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">App.net原本提供无广告的在线社交网络服务和微博服务，于2017年关闭服务。关闭服务后，域名App.net由Mobiblocks LLC收购，被用作提供构建、维护、发布及营销iOS和安卓app的在线工具集</div>
 <div class="alert alert-dark">
   <i class="fab fa-adn fa-xs"></i>
   <i class="fab fa-adn fa-sm"></i>

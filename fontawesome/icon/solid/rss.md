@@ -2,7 +2,7 @@
 
 title: rss(博客) ICON转svg、png下载
 name: rss
-zhTips: RSS,博客,提要,新闻,写作
+zhTips: RSS,博客,提要,新闻,写作,wifi黑
 tags: ["audio-video","communication","interfaces"]
 pre: fas
 search: blog,feed,journal,news,writing
@@ -14,6 +14,8 @@ search: blog,feed,journal,news,writing
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">blog</span><span class="badge-light badge">feed</span><span class="badge-light badge">journal</span><span class="badge-light badge">news</span><span class="badge-light badge">writing</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">RSS</span><span class="badge-primary badge">博客</span><span class="badge-primary badge">提要</span><span class="badge-primary badge">新闻</span><span class="badge-primary badge">写作</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rss.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rss.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">blog</span><span class="badge-light badge">feed</span><span class="badge-light badge">journal</span><span class="badge-light badge">news</span><span class="badge-light badge">writing</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">RSS</span><span class="badge-primary badge">博客</span><span class="badge-primary badge">提要</span><span class="badge-primary badge">新闻</span><span class="badge-primary badge">写作</span><span class="badge-primary badge">wifi黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rss.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rss.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示网络，互联网等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-rss fa-xs"></i>
   <i class="fas fa-rss fa-sm"></i>

@@ -9,11 +9,13 @@ search: $,carry,dollar sign,donation,giving,lift,money,price
 
 ---
 
-# hand-holding-usd  <small style="font-size: 60%;font-weight: 100">手拿着美元</small>
+# Hand Holding US Dollar  <small style="font-size: 60%;font-weight: 100">手拿着美元</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

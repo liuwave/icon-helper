@@ -9,11 +9,13 @@ search: alley,bin,commercial,danger,dangerous,euphemism,flame,heat,hot,trash,was
 
 ---
 
-# dumpster-fire  <small style="font-size: 60%;font-weight: 100">垃圾箱着火</small>
+# Dumpster Fire  <small style="font-size: 60%;font-weight: 100">垃圾箱着火</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -2,18 +2,20 @@
 
 title: Phone(电话) ICON转svg、png下载
 name: phone
-zhTips: 电话,耳机,号码,支持,语音
+zhTips: 电话,耳机,号码,支持,语音,话筒黑
 tags: ["business","chat","communication","maps","objects","status"]
 pre: fas
 search: call,earphone,number,support,telephone,voice
 
 ---
 
-# phone  <small style="font-size: 60%;font-weight: 100">电话</small>
+# Phone  <small style="font-size: 60%;font-weight: 100">电话</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">call</span><span class="badge-light badge">earphone</span><span class="badge-light badge">number</span><span class="badge-light badge">support</span><span class="badge-light badge">telephone</span><span class="badge-light badge">voice</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">电话</span><span class="badge-primary badge">耳机</span><span class="badge-primary badge">号码</span><span class="badge-primary badge">支持</span><span class="badge-primary badge">语音</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/phone.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/phone.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">call</span><span class="badge-light badge">earphone</span><span class="badge-light badge">number</span><span class="badge-light badge">support</span><span class="badge-light badge">telephone</span><span class="badge-light badge">voice</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">电话</span><span class="badge-primary badge">耳机</span><span class="badge-primary badge">号码</span><span class="badge-primary badge">支持</span><span class="badge-primary badge">语音</span><span class="badge-primary badge">话筒黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/phone.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/phone.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示通话，拨号，以深色背景为醒目识别。</div>
 <div class="alert alert-dark">
   <i class="fas fa-phone fa-xs"></i>
   <i class="fas fa-phone fa-sm"></i>

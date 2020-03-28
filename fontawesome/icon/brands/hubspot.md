@@ -9,11 +9,13 @@ search:
 
 ---
 
-# hubspot  <small style="font-size: 60%;font-weight: 100">HubSpot</small>
+# HubSpot  <small style="font-size: 60%;font-weight: 100">HubSpot</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">HubSpot</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/hubspot.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/hubspot.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">HubSpot是一家开发和销售软件产品的公司，提供了一个完整的营销，销售，客户服务和客户关系管理软件平台。</div>
 <div class="alert alert-dark">
   <i class="fab fa-hubspot fa-xs"></i>
   <i class="fab fa-hubspot fa-sm"></i>

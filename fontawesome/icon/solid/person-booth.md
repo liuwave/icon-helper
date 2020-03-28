@@ -9,11 +9,13 @@ search: changing,changing room,election,human,person,vote,voting
 
 ---
 
-# person-booth  <small style="font-size: 60%;font-weight: 100">人员进入展位</small>
+# Person Entering Booth  <small style="font-size: 60%;font-weight: 100">人员进入展位</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

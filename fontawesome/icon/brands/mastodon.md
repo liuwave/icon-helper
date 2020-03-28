@@ -2,18 +2,20 @@
 
 title: Mastodon(马斯托登) ICON转svg、png下载
 name: mastodon
-zhTips: 马斯托登
+zhTips: 马斯托登,mastodon
 tags: []
 pre: fab
 search: 
 
 ---
 
-# mastodon  <small style="font-size: 60%;font-weight: 100">马斯托登</small>
+# Mastodon  <small style="font-size: 60%;font-weight: 100">马斯托登</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">马斯托登</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/mastodon.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/mastodon.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">马斯托登</span><span class="badge-primary badge">mastodon</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/mastodon.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/mastodon.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light"> Mastodon是一个免费开源的去中心化的分布式微博客社交网络，任何人都可以运行自己的实例，并融入到社交网络中。</div>
 <div class="alert alert-dark">
   <i class="fab fa-mastodon fa-xs"></i>
   <i class="fab fa-mastodon fa-sm"></i>

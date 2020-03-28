@@ -9,11 +9,13 @@ search: anniversary,bakery,candles,celebration,dessert,frosting,holiday,party,pa
 
 ---
 
-# birthday-cake  <small style="font-size: 60%;font-weight: 100">生日蛋糕</small>
+# Birthday Cake  <small style="font-size: 60%;font-weight: 100">生日蛋糕</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

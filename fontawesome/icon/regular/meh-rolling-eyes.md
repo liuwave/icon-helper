@@ -9,11 +9,13 @@ search: emoticon,face,neutral,rating
 
 ---
 
-# meh-rolling-eyes  <small style="font-size: 60%;font-weight: 100">面部表情</small>
+# Face With Rolling Eyes  <small style="font-size: 60%;font-weight: 100">面部表情</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

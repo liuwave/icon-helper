@@ -2,18 +2,20 @@
 
 title: Trash(废纸,、删除) ICON转svg、png下载
 name: trash
-zhTips: 废纸,、删除,垃圾,隐藏,删除
+zhTips: 废纸,、删除,垃圾,隐藏,删除,垃圾箱黑
 tags: ["editors","interfaces","objects"]
 pre: fas
 search: delete,garbage,hide,remove
 
 ---
 
-# trash  <small style="font-size: 60%;font-weight: 100">废纸,、删除</small>
+# Trash  <small style="font-size: 60%;font-weight: 100">废纸,、删除</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">delete</span><span class="badge-light badge">garbage</span><span class="badge-light badge">hide</span><span class="badge-light badge">remove</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">废纸,、删除</span><span class="badge-primary badge">垃圾</span><span class="badge-primary badge">隐藏</span><span class="badge-primary badge">删除</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/trash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/trash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">delete</span><span class="badge-light badge">garbage</span><span class="badge-light badge">hide</span><span class="badge-light badge">remove</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">废纸,、删除</span><span class="badge-primary badge">垃圾</span><span class="badge-primary badge">隐藏</span><span class="badge-primary badge">删除</span><span class="badge-primary badge">垃圾箱黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/trash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/trash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示垃圾，废文件等的回收地。</div>
 <div class="alert alert-dark">
   <i class="fas fa-trash fa-xs"></i>
   <i class="fas fa-trash fa-sm"></i>

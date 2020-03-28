@@ -2,18 +2,20 @@
 
 title: Foursquare(四方) ICON转svg、png下载
 name: foursquare
-zhTips: 四方
+zhTips: 四方,foursquare
 tags: []
 pre: fab
 search: 
 
 ---
 
-# foursquare  <small style="font-size: 60%;font-weight: 100">四方</small>
+# Foursquare  <small style="font-size: 60%;font-weight: 100">四方</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">四方</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/foursquare.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/foursquare.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">四方</span><span class="badge-primary badge">foursquare</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/foursquare.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/foursquare.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">四方是一家基于用户地理位置信息(LBS)的手机服务网站。</div>
 <div class="alert alert-dark">
   <i class="fab fa-foursquare fa-xs"></i>
   <i class="fab fa-foursquare fa-sm"></i>

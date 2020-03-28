@@ -2,7 +2,7 @@
 
 title: rocket(火箭) ICON转svg、png下载
 name: rocket
-zhTips: 火箭,飞机,应用,喷射,发射,美国国家航空航天局,空间
+zhTips: 火箭,飞机,应用,喷射,发射,美国国家航空航天局,空间,火箭黑
 tags: ["maps","objects","science-fiction","vehicles"]
 pre: fas
 search: aircraft,app,jet,launch,nasa,space
@@ -14,6 +14,8 @@ search: aircraft,app,jet,launch,nasa,space
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">aircraft</span><span class="badge-light badge">app</span><span class="badge-light badge">jet</span><span class="badge-light badge">launch</span><span class="badge-light badge">nasa</span><span class="badge-light badge">space</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">火箭</span><span class="badge-primary badge">飞机</span><span class="badge-primary badge">应用</span><span class="badge-primary badge">喷射</span><span class="badge-primary badge">发射</span><span class="badge-primary badge">美国国家航空航天局</span><span class="badge-primary badge">空间</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rocket.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rocket.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">aircraft</span><span class="badge-light badge">app</span><span class="badge-light badge">jet</span><span class="badge-light badge">launch</span><span class="badge-light badge">nasa</span><span class="badge-light badge">space</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">火箭</span><span class="badge-primary badge">飞机</span><span class="badge-primary badge">应用</span><span class="badge-primary badge">喷射</span><span class="badge-primary badge">发射</span><span class="badge-primary badge">美国国家航空航天局</span><span class="badge-primary badge">空间</span><span class="badge-primary badge">火箭黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rocket.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rocket.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示蓬勃向上，势不可挡等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-rocket fa-xs"></i>
   <i class="fas fa-rocket fa-sm"></i>

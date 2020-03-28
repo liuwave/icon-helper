@@ -9,11 +9,13 @@ search:
 
 ---
 
-# creative-commons-nc-jp  <small style="font-size: 60%;font-weight: 100">非商业性知识共享（日元符号）</small>
+# Creative Commons Noncommercial (Yen Sign)  <small style="font-size: 60%;font-weight: 100">非商业性知识共享（日元符号）</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -9,11 +9,13 @@ search: bird,bullfrog,fauna,halloween,holiday,toad
 
 ---
 
-# crow  <small style="font-size: 60%;font-weight: 100">乌鸦</small>
+# Crow  <small style="font-size: 60%;font-weight: 100">乌鸦</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">bird</span><span class="badge-light badge">bullfrog</span><span class="badge-light badge">fauna</span><span class="badge-light badge">halloween</span><span class="badge-light badge">holiday</span><span class="badge-light badge">toad</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">乌鸦</span><span class="badge-primary badge">鸟</span><span class="badge-primary badge">牛蛙</span><span class="badge-primary badge">动物区系</span><span class="badge-primary badge">万圣节</span><span class="badge-primary badge">假日</span><span class="badge-primary badge">蟾蜍</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crow.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crow.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">乌鸦，不好的预兆，可以表示黑暗。</div>
 <div class="alert alert-dark">
   <i class="fas fa-crow fa-xs"></i>
   <i class="fas fa-crow fa-sm"></i>

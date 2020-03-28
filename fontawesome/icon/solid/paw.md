@@ -2,18 +2,20 @@
 
 title: Paw(爪子) ICON转svg、png下载
 name: paw
-zhTips: 爪子,动物,猫,狗,宠物,打印
+zhTips: 爪子,动物,猫,狗,宠物,打印,宠物黑
 tags: ["animals","maps","objects"]
 pre: fas
 search: animal,cat,dog,pet,print
 
 ---
 
-# paw  <small style="font-size: 60%;font-weight: 100">爪子</small>
+# Paw  <small style="font-size: 60%;font-weight: 100">爪子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">animal</span><span class="badge-light badge">cat</span><span class="badge-light badge">dog</span><span class="badge-light badge">pet</span><span class="badge-light badge">print</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">爪子</span><span class="badge-primary badge">动物</span><span class="badge-primary badge">猫</span><span class="badge-primary badge">狗</span><span class="badge-primary badge">宠物</span><span class="badge-primary badge">打印</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paw.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paw.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">animal</span><span class="badge-light badge">cat</span><span class="badge-light badge">dog</span><span class="badge-light badge">pet</span><span class="badge-light badge">print</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">爪子</span><span class="badge-primary badge">动物</span><span class="badge-primary badge">猫</span><span class="badge-primary badge">狗</span><span class="badge-primary badge">宠物</span><span class="badge-primary badge">打印</span><span class="badge-primary badge">宠物黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paw.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paw.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示百度搜索图标。</div>
 <div class="alert alert-dark">
   <i class="fas fa-paw fa-xs"></i>
   <i class="fas fa-paw fa-sm"></i>

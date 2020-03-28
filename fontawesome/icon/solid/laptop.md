@@ -2,18 +2,20 @@
 
 title: Laptop(笔记本电脑) ICON转svg、png下载
 name: laptop
-zhTips: 笔记本电脑,计算机,cpu,戴尔,演示,设备,mac,macbook,机器,pc
+zhTips: 笔记本电脑,计算机,cpu,戴尔,演示,设备,mac,macbook,机器,pc,笔电
 tags: ["computers","objects"]
 pre: fas
 search: computer,cpu,dell,demo,device,mac,macbook,machine,pc
 
 ---
 
-# laptop  <small style="font-size: 60%;font-weight: 100">笔记本电脑</small>
+# Laptop  <small style="font-size: 60%;font-weight: 100">笔记本电脑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">computer</span><span class="badge-light badge">cpu</span><span class="badge-light badge">dell</span><span class="badge-light badge">demo</span><span class="badge-light badge">device</span><span class="badge-light badge">mac</span><span class="badge-light badge">macbook</span><span class="badge-light badge">machine</span><span class="badge-light badge">pc</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">笔记本电脑</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">cpu</span><span class="badge-primary badge">戴尔</span><span class="badge-primary badge">演示</span><span class="badge-primary badge">设备</span><span class="badge-primary badge">mac</span><span class="badge-primary badge">macbook</span><span class="badge-primary badge">机器</span><span class="badge-primary badge">pc</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/laptop.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/laptop.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">computer</span><span class="badge-light badge">cpu</span><span class="badge-light badge">dell</span><span class="badge-light badge">demo</span><span class="badge-light badge">device</span><span class="badge-light badge">mac</span><span class="badge-light badge">macbook</span><span class="badge-light badge">machine</span><span class="badge-light badge">pc</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">笔记本电脑</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">cpu</span><span class="badge-primary badge">戴尔</span><span class="badge-primary badge">演示</span><span class="badge-primary badge">设备</span><span class="badge-primary badge">mac</span><span class="badge-primary badge">macbook</span><span class="badge-primary badge">机器</span><span class="badge-primary badge">pc</span><span class="badge-primary badge">笔电</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/laptop.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/laptop.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示笔记本电脑。</div>
 <div class="alert alert-dark">
   <i class="fas fa-laptop fa-xs"></i>
   <i class="fas fa-laptop fa-sm"></i>

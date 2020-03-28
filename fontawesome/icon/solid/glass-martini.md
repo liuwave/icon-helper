@@ -9,11 +9,13 @@ search: alcohol,bar,beverage,drink,liquor
 
 ---
 
-# glass-martini  <small style="font-size: 60%;font-weight: 100">马提尼酒杯</small>
+# Martini Glass  <small style="font-size: 60%;font-weight: 100">马提尼酒杯</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

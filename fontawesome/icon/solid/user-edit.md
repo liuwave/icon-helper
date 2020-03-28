@@ -9,11 +9,13 @@ search: edit,pen,pencil,person,update,write
 
 ---
 
-# user-edit  <small style="font-size: 60%;font-weight: 100">用户编辑</small>
+# User Edit  <small style="font-size: 60%;font-weight: 100">用户编辑</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

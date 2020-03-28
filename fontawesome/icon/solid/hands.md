@@ -2,18 +2,20 @@
 
 title: Hands(手) ICON转svg、png下载
 name: hands
-zhTips: 手,搬运,持有,抬起
+zhTips: 手,搬运,持有,抬起,手势开花
 tags: ["hands"]
 pre: fas
 search: carry,hold,lift
 
 ---
 
-# hands  <small style="font-size: 60%;font-weight: 100">手</small>
+# Hands  <small style="font-size: 60%;font-weight: 100">手</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">carry</span><span class="badge-light badge">hold</span><span class="badge-light badge">lift</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">手</span><span class="badge-primary badge">搬运</span><span class="badge-primary badge">持有</span><span class="badge-primary badge">抬起</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hands.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hands.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">carry</span><span class="badge-light badge">hold</span><span class="badge-light badge">lift</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">手</span><span class="badge-primary badge">搬运</span><span class="badge-primary badge">持有</span><span class="badge-primary badge">抬起</span><span class="badge-primary badge">手势开花</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hands.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hands.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示接住，捧住、爱心等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-hands fa-xs"></i>
   <i class="fas fa-hands fa-sm"></i>

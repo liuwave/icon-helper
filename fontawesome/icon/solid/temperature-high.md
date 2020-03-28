@@ -9,11 +9,13 @@ search: cook,covid-19,mercury,summer,thermometer,warm
 
 ---
 
-# temperature-high  <small style="font-size: 60%;font-weight: 100">高温</small>
+# High Temperature  <small style="font-size: 60%;font-weight: 100">高温</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

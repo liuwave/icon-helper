@@ -2,18 +2,20 @@
 
 title: Wallet(钱包) ICON转svg、png下载
 name: wallet
-zhTips: 钱包,现金,货币,钱
+zhTips: 钱包,现金,货币,钱,钱包黑
 tags: ["business","finance","objects"]
 pre: fas
 search: billfold,cash,currency,money
 
 ---
 
-# wallet  <small style="font-size: 60%;font-weight: 100">钱包</small>
+# Wallet  <small style="font-size: 60%;font-weight: 100">钱包</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">billfold</span><span class="badge-light badge">cash</span><span class="badge-light badge">currency</span><span class="badge-light badge">money</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">钱包</span><span class="badge-primary badge">现金</span><span class="badge-primary badge">货币</span><span class="badge-primary badge">钱</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wallet.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wallet.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">billfold</span><span class="badge-light badge">cash</span><span class="badge-light badge">currency</span><span class="badge-light badge">money</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">钱包</span><span class="badge-primary badge">现金</span><span class="badge-primary badge">货币</span><span class="badge-primary badge">钱</span><span class="badge-primary badge">钱包黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wallet.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wallet.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">生活中用于装货币的包。</div>
 <div class="alert alert-dark">
   <i class="fas fa-wallet fa-xs"></i>
   <i class="fas fa-wallet fa-sm"></i>

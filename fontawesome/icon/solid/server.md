@@ -9,11 +9,13 @@ search: computer,cpu,database,hardware,network
 
 ---
 
-# server  <small style="font-size: 60%;font-weight: 100">服务器</small>
+# Server  <small style="font-size: 60%;font-weight: 100">服务器</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">computer</span><span class="badge-light badge">cpu</span><span class="badge-light badge">database</span><span class="badge-light badge">hardware</span><span class="badge-light badge">network</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">服务器</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">CPU</span><span class="badge-primary badge">数据库</span><span class="badge-primary badge">硬件</span><span class="badge-primary badge">网络</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/server.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/server.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示响应、处理设备。</div>
 <div class="alert alert-dark">
   <i class="fas fa-server fa-xs"></i>
   <i class="fas fa-server fa-sm"></i>

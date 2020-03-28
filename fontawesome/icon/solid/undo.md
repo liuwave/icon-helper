@@ -2,18 +2,20 @@
 
 title: Undo(撤消) ICON转svg、png下载
 name: undo
-zhTips: 撤消,返回,控制z,交换,oops,旋转
+zhTips: 撤消,返回,控制z,交换,oops,旋转,取消箭头
 tags: ["arrows","audio-video","editors","interfaces"]
 pre: fas
 search: back,control z,exchange,oops,return,rotate,swap
 
 ---
 
-# undo  <small style="font-size: 60%;font-weight: 100">撤消</small>
+# Undo  <small style="font-size: 60%;font-weight: 100">撤消</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">back</span><span class="badge-light badge">control z</span><span class="badge-light badge">exchange</span><span class="badge-light badge">oops</span><span class="badge-light badge">return</span><span class="badge-light badge">rotate</span><span class="badge-light badge">swap</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">撤消</span><span class="badge-primary badge">返回</span><span class="badge-primary badge">控制z</span><span class="badge-primary badge">交换</span><span class="badge-primary badge">oops</span><span class="badge-primary badge">旋转</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/undo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/undo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">back</span><span class="badge-light badge">control z</span><span class="badge-light badge">exchange</span><span class="badge-light badge">oops</span><span class="badge-light badge">return</span><span class="badge-light badge">rotate</span><span class="badge-light badge">swap</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">撤消</span><span class="badge-primary badge">返回</span><span class="badge-primary badge">控制z</span><span class="badge-primary badge">交换</span><span class="badge-primary badge">oops</span><span class="badge-primary badge">旋转</span><span class="badge-primary badge">取消箭头</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/undo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/undo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示取消，返回上一步。</div>
 <div class="alert alert-dark">
   <i class="fas fa-undo fa-xs"></i>
   <i class="fas fa-undo fa-sm"></i>

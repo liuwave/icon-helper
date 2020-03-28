@@ -2,18 +2,20 @@
 
 title: WiFi(连接) ICON转svg、png下载
 name: wifi
-zhTips: WiFi,连接,热点,互联网,网络,无线
+zhTips: WiFi,连接,热点,互联网,网络,无线,wifi网络
 tags: ["communication","hotel","interfaces","maps","status","toggle"]
 pre: fas
 search: connection,hotspot,internet,network,wireless
 
 ---
 
-# wifi  <small style="font-size: 60%;font-weight: 100">连接</small>
+# WiFi  <small style="font-size: 60%;font-weight: 100">连接</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">connection</span><span class="badge-light badge">hotspot</span><span class="badge-light badge">internet</span><span class="badge-light badge">network</span><span class="badge-light badge">wireless</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">WiFi</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">热点</span><span class="badge-primary badge">互联网</span><span class="badge-primary badge">网络</span><span class="badge-primary badge">无线</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wifi.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wifi.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">connection</span><span class="badge-light badge">hotspot</span><span class="badge-light badge">internet</span><span class="badge-light badge">network</span><span class="badge-light badge">wireless</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">WiFi</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">热点</span><span class="badge-primary badge">互联网</span><span class="badge-primary badge">网络</span><span class="badge-primary badge">无线</span><span class="badge-primary badge">wifi网络</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wifi.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wifi.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">通常用于表示网络信号。</div>
 <div class="alert alert-dark">
   <i class="fas fa-wifi fa-xs"></i>
   <i class="fas fa-wifi fa-sm"></i>

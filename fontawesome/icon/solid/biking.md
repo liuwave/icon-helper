@@ -9,11 +9,13 @@ search: bicycle,bike,cycle,cycling,ride,wheel
 
 ---
 
-# biking  <small style="font-size: 60%;font-weight: 100">自行车</small>
+# Biking  <small style="font-size: 60%;font-weight: 100">自行车</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

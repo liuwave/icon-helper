@@ -2,18 +2,20 @@
 
 title: Stroopwafel(焦糖) ICON转svg、png下载
 name: stroopwafel
-zhTips: Stroopwafel,焦糖,饼干,甜点,甜食,华夫饼干
+zhTips: Stroopwafel,焦糖,饼干,甜点,甜食,华夫饼干,荷式松饼
 tags: ["food","objects","spinners"]
 pre: fas
 search: caramel,cookie,dessert,sweets,waffle
 
 ---
 
-# stroopwafel  <small style="font-size: 60%;font-weight: 100">焦糖</small>
+# Stroopwafel  <small style="font-size: 60%;font-weight: 100">焦糖</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">caramel</span><span class="badge-light badge">cookie</span><span class="badge-light badge">dessert</span><span class="badge-light badge">sweets</span><span class="badge-light badge">waffle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Stroopwafel</span><span class="badge-primary badge">焦糖</span><span class="badge-primary badge">饼干</span><span class="badge-primary badge">甜点</span><span class="badge-primary badge">甜食</span><span class="badge-primary badge">华夫饼干</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stroopwafel.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stroopwafel.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">caramel</span><span class="badge-light badge">cookie</span><span class="badge-light badge">dessert</span><span class="badge-light badge">sweets</span><span class="badge-light badge">waffle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Stroopwafel</span><span class="badge-primary badge">焦糖</span><span class="badge-primary badge">饼干</span><span class="badge-primary badge">甜点</span><span class="badge-primary badge">甜食</span><span class="badge-primary badge">华夫饼干</span><span class="badge-primary badge">荷式松饼</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stroopwafel.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stroopwafel.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">食物，可用于表示零食店，食品摊等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-stroopwafel fa-xs"></i>
   <i class="fas fa-stroopwafel fa-sm"></i>

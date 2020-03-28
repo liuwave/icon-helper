@@ -2,18 +2,20 @@
 
 title: Bone(骨) ICON转svg、png下载
 name: bone
-zhTips: 骨,钙,狗,骨骼,胫骨
+zhTips: 骨,钙,狗,骨骼,胫骨,骨科关节
 tags: ["food","medical"]
 pre: fas
 search: calcium,dog,skeletal,skeleton,tibia
 
 ---
 
-# bone  <small style="font-size: 60%;font-weight: 100">骨</small>
+# Bone  <small style="font-size: 60%;font-weight: 100">骨</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">calcium</span><span class="badge-light badge">dog</span><span class="badge-light badge">skeletal</span><span class="badge-light badge">skeleton</span><span class="badge-light badge">tibia</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">骨</span><span class="badge-primary badge">钙</span><span class="badge-primary badge">狗</span><span class="badge-primary badge">骨骼</span><span class="badge-primary badge">胫骨</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bone.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bone.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">calcium</span><span class="badge-light badge">dog</span><span class="badge-light badge">skeletal</span><span class="badge-light badge">skeleton</span><span class="badge-light badge">tibia</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">骨</span><span class="badge-primary badge">钙</span><span class="badge-primary badge">狗</span><span class="badge-primary badge">骨骼</span><span class="badge-primary badge">胫骨</span><span class="badge-primary badge">骨科关节</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bone.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bone.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">骨科关节，常用于表示医院骨科。</div>
 <div class="alert alert-dark">
   <i class="fas fa-bone fa-xs"></i>
   <i class="fas fa-bone fa-sm"></i>

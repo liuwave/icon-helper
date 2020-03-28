@@ -9,11 +9,13 @@ search: auto,car,garage,meter
 
 ---
 
-# parking  <small style="font-size: 60%;font-weight: 100">停车场</small>
+# Parking  <small style="font-size: 60%;font-weight: 100">停车场</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">auto</span><span class="badge-light badge">car</span><span class="badge-light badge">garage</span><span class="badge-light badge">meter</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">停车场</span><span class="badge-primary badge">汽车</span><span class="badge-primary badge">车库</span><span class="badge-primary badge">仪表</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/parking.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/parking.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示供车辆停放。</div>
 <div class="alert alert-dark">
   <i class="fas fa-parking fa-xs"></i>
   <i class="fas fa-parking fa-sm"></i>

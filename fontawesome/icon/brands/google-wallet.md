@@ -9,11 +9,13 @@ search:
 
 ---
 
-# google-wallet  <small style="font-size: 60%;font-weight: 100">Google电子钱包</small>
+# Google Wallet  <small style="font-size: 60%;font-weight: 100">Google电子钱包</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

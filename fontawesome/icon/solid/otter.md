@@ -9,11 +9,13 @@ search: animal,badger,fauna,fur,mammal,marten
 
 ---
 
-# otter  <small style="font-size: 60%;font-weight: 100">水獭</small>
+# Otter  <small style="font-size: 60%;font-weight: 100">水獭</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

@@ -9,11 +9,13 @@ search:
 
 ---
 
-# strava  <small style="font-size: 60%;font-weight: 100">Strava</small>
+# Strava  <small style="font-size: 60%;font-weight: 100">Strava</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">Strava</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/strava.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/strava.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">STRAVA一款测速分享app，可以让自行车、跑步爱好者分享自己的数据，进行排名。</div>
 <div class="alert alert-dark">
   <i class="fab fa-strava fa-xs"></i>
   <i class="fab fa-strava fa-sm"></i>

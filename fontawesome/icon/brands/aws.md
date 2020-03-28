@@ -2,18 +2,20 @@
 
 title: Amazon Web Services (AWS)(Amazon Web Services（AWS）) ICON转svg、png下载
 name: aws
-zhTips: Amazon Web Services（AWS）
+zhTips: Amazon Web Services（AWS）,aws
 tags: []
 pre: fab
 search: 
 
 ---
 
-# aws  <small style="font-size: 60%;font-weight: 100">Amazon Web Services（AWS）</small>
+# Amazon Web Services (AWS)  <small style="font-size: 60%;font-weight: 100">Amazon Web Services（AWS）</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Amazon Web Services（AWS）</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/aws.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/aws.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Amazon Web Services（AWS）</span><span class="badge-primary badge">aws</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/aws.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/aws.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">aws是亚马逊公司旗下云计算服务平台，为全世界各个国家和地区的客户提供一整套基础设施和云解决方案</div>
 <div class="alert alert-dark">
   <i class="fab fa-aws fa-xs"></i>
   <i class="fab fa-aws fa-sm"></i>

@@ -2,18 +2,20 @@
 
 title: Gulp(吞咽) ICON转svg、png下载
 name: gulp
-zhTips: 吞咽
+zhTips: 吞咽,gulp
 tags: []
 pre: fab
 search: 
 
 ---
 
-# gulp  <small style="font-size: 60%;font-weight: 100">吞咽</small>
+# Gulp  <small style="font-size: 60%;font-weight: 100">吞咽</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">吞咽</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gulp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gulp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">吞咽</span><span class="badge-primary badge">gulp</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gulp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/gulp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Gulp.js是一个是基于 Node.js 构建的自动化构建工具,开发者可以使用它在项目开发过程中自动执行常见任务。</div>
 <div class="alert alert-dark">
   <i class="fab fa-gulp fa-xs"></i>
   <i class="fab fa-gulp fa-sm"></i>

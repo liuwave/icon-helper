@@ -2,18 +2,20 @@
 
 title: Phabricator(炸药) ICON转svg、png下载
 name: phabricator
-zhTips: 炸药
+zhTips: 炸药,phabricator
 tags: []
 pre: fab
 search: 
 
 ---
 
-# phabricator  <small style="font-size: 60%;font-weight: 100">炸药</small>
+# Phabricator  <small style="font-size: 60%;font-weight: 100">炸药</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">炸药</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/phabricator.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/phabricator.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">炸药</span><span class="badge-primary badge">phabricator</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/phabricator.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/phabricator.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">phabricator是一个开源的软件开发平台。</div>
 <div class="alert alert-dark">
   <i class="fab fa-phabricator fa-xs"></i>
   <i class="fab fa-phabricator fa-sm"></i>

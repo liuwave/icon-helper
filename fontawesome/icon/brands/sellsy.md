@@ -9,11 +9,13 @@ search:
 
 ---
 
-# sellsy  <small style="font-size: 60%;font-weight: 100">Sellsy</small>
+# Sellsy  <small style="font-size: 60%;font-weight: 100">Sellsy</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">Sellsy</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/sellsy.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/sellsy.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Sellsy是法国的提供商业管理解决方案的公司。公司产品包括CRM、计费、会计等系统，支持集成在同一个直观的界面中。</div>
 <div class="alert alert-dark">
   <i class="fab fa-sellsy fa-xs"></i>
   <i class="fab fa-sellsy fa-sm"></i>

@@ -9,11 +9,13 @@ search: camping,fall,outdoors,teepee,tent,tipi
 
 ---
 
-# campground  <small style="font-size: 60%;font-weight: 100">露营地</small>
+# Campground  <small style="font-size: 60%;font-weight: 100">露营地</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

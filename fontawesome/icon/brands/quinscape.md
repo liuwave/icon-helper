@@ -9,11 +9,13 @@ search:
 
 ---
 
-# quinscape  <small style="font-size: 60%;font-weight: 100">QuinScape</small>
+# QuinScape  <small style="font-size: 60%;font-weight: 100">QuinScape</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">QuinScape</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/quinscape.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/quinscape.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">QuinScape是一家德国的业主管理的IT服务提供商。</div>
 <div class="alert alert-dark">
   <i class="fab fa-quinscape fa-xs"></i>
   <i class="fab fa-quinscape fa-sm"></i>

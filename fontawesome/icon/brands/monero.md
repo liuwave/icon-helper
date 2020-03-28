@@ -1,19 +1,21 @@
 ---
 
-title: Monero(门罗) ICON转svg、png下载
+title: Monero(门罗币) ICON转svg、png下载
 name: monero
-zhTips: 门罗
+zhTips: 门罗币
 tags: []
 pre: fab
 search: 
 
 ---
 
-# monero  <small style="font-size: 60%;font-weight: 100">门罗</small>
+# Monero  <small style="font-size: 60%;font-weight: 100">门罗币</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">门罗</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/monero.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/monero.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">门罗币</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/monero.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/monero.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">门罗币是一个开源的加密货币，创建于2014年。</div>
 <div class="alert alert-dark">
   <i class="fab fa-monero fa-xs"></i>
   <i class="fab fa-monero fa-sm"></i>

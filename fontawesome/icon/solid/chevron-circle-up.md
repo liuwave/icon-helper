@@ -9,11 +9,13 @@ search: arrow,collapse,upload
 
 ---
 
-# chevron-circle-up  <small style="font-size: 60%;font-weight: 100">雪佛龙（Chevron）向上旋转</small>
+# Chevron Circle Up  <small style="font-size: 60%;font-weight: 100">雪佛龙（Chevron）向上旋转</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

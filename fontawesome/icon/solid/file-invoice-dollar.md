@@ -9,11 +9,13 @@ search: $,account,bill,charge,document,dollar-sign,money,payment,receipt,usd
 
 ---
 
-# file-invoice-dollar  <small style="font-size: 60%;font-weight: 100">美元</small>
+# File Invoice with US Dollar  <small style="font-size: 60%;font-weight: 100">美元</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

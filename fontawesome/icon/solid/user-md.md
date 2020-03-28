@@ -9,11 +9,13 @@ search: covid-19,job,medical,nurse,occupation,physician,profile,surgeon
 
 ---
 
-# user-md  <small style="font-size: 60%;font-weight: 100">医生</small>
+# Doctor  <small style="font-size: 60%;font-weight: 100">医生</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

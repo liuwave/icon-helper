@@ -9,11 +9,13 @@ search: clean,shower,tub,wash
 
 ---
 
-# bath  <small style="font-size: 60%;font-weight: 100">浴</small>
+# Bath  <small style="font-size: 60%;font-weight: 100">浴</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -40,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">clean</span><span class="badge-light badge">shower</span><span class="badge-light badge">tub</span><span class="badge-light badge">wash</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">浴</span><span class="badge-primary badge">清洁</span><span class="badge-primary badge">淋浴</span><span class="badge-primary badge">浴缸</span><span class="badge-primary badge">洗</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bath.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bath.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">浴缸，可表示浴室。</div>
 <div class="alert alert-dark">
   <i class="fas fa-bath fa-xs"></i>
   <i class="fas fa-bath fa-sm"></i>

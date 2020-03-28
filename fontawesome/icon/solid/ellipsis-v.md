@@ -9,11 +9,13 @@ search: dots,drag,kebab,list,menu,nav,navigation,ol,reorder,settings,ul
 
 ---
 
-# ellipsis-v  <small style="font-size: 60%;font-weight: 100">垂直椭圆</small>
+# Vertical Ellipsis  <small style="font-size: 60%;font-weight: 100">垂直椭圆</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

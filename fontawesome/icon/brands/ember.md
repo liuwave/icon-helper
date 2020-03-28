@@ -2,18 +2,20 @@
 
 title: Ember(灰烬) ICON转svg、png下载
 name: ember
-zhTips: 灰烬
+zhTips: 灰烬,ember
 tags: []
 pre: fab
 search: 
 
 ---
 
-# ember  <small style="font-size: 60%;font-weight: 100">灰烬</small>
+# Ember  <small style="font-size: 60%;font-weight: 100">灰烬</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">灰烬</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ember.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ember.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">灰烬</span><span class="badge-primary badge">ember</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ember.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/ember.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">Ember是一个开源的JavaScript客户端框架。</div>
 <div class="alert alert-dark">
   <i class="fab fa-ember fa-xs"></i>
   <i class="fab fa-ember fa-sm"></i>

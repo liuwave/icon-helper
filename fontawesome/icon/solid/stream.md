@@ -2,18 +2,20 @@
 
 title: Stream(流) ICON转svg、png下载
 name: stream
-zhTips: 流,列表,时间轴
+zhTips: 流,列表,时间轴,河流标志
 tags: ["business","code","computers","status"]
 pre: fas
 search: flow,list,timeline
 
 ---
 
-# stream  <small style="font-size: 60%;font-weight: 100">流</small>
+# Stream  <small style="font-size: 60%;font-weight: 100">流</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">flow</span><span class="badge-light badge">list</span><span class="badge-light badge">timeline</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">流</span><span class="badge-primary badge">列表</span><span class="badge-primary badge">时间轴</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stream.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stream.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">flow</span><span class="badge-light badge">list</span><span class="badge-light badge">timeline</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">流</span><span class="badge-primary badge">列表</span><span class="badge-primary badge">时间轴</span><span class="badge-primary badge">河流标志</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stream.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stream.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示液体，流动、水流等。</div>
 <div class="alert alert-dark">
   <i class="fas fa-stream fa-xs"></i>
   <i class="fas fa-stream fa-sm"></i>

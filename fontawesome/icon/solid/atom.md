@@ -9,11 +9,13 @@ search: atheism,chemistry,electron,ion,isotope,neutron,nuclear,proton,science
 
 ---
 
-# atom  <small style="font-size: 60%;font-weight: 100">原子</small>
+# Atom  <small style="font-size: 60%;font-weight: 100">原子</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 

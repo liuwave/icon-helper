@@ -2,18 +2,20 @@
 
 title: Frowning Face(皱着眉头的脸) ICON转svg、png下载
 name: frown
-zhTips: 皱着眉头的脸,不赞成,图释,脸,评级,悲伤
+zhTips: 皱着眉头的脸,不赞成,图释,脸,评级,悲伤,沮丧脸
 tags: ["chat","emoji","interfaces","users-people"]
 pre: far
 search: disapprove,emoticon,face,rating,sad
 
 ---
 
-# frown  <small style="font-size: 60%;font-weight: 100">皱着眉头的脸</small>
+# Frowning Face  <small style="font-size: 60%;font-weight: 100">皱着眉头的脸</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">disapprove</span><span class="badge-light badge">emoticon</span><span class="badge-light badge">face</span><span class="badge-light badge">rating</span><span class="badge-light badge">sad</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">皱着眉头的脸</span><span class="badge-primary badge">不赞成</span><span class="badge-primary badge">图释</span><span class="badge-primary badge">脸</span><span class="badge-primary badge">评级</span><span class="badge-primary badge">悲伤</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/frown.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/frown.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">disapprove</span><span class="badge-light badge">emoticon</span><span class="badge-light badge">face</span><span class="badge-light badge">rating</span><span class="badge-light badge">sad</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">皱着眉头的脸</span><span class="badge-primary badge">不赞成</span><span class="badge-primary badge">图释</span><span class="badge-primary badge">脸</span><span class="badge-primary badge">评级</span><span class="badge-primary badge">悲伤</span><span class="badge-primary badge">沮丧脸</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/frown.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/frown.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示郁闷，难过，不开心，沮丧脸等。</div>
 <div class="alert alert-dark">
   <i class="far fa-frown fa-xs"></i>
   <i class="far fa-frown fa-sm"></i>

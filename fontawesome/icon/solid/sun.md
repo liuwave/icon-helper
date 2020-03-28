@@ -2,18 +2,20 @@
 
 title: Sun(太阳) ICON转svg、png下载
 name: sun
-zhTips: 太阳,提亮,对比度,天,打火机,溶胶,星,天气
+zhTips: 太阳,提亮,对比度,天,打火机,溶胶,星,天气,太阳黑
 tags: ["energy","objects","spinners","summer","weather"]
 pre: fas
 search: brighten,contrast,day,lighter,sol,solar,star,weather
 
 ---
 
-# sun  <small style="font-size: 60%;font-weight: 100">太阳</small>
+# Sun  <small style="font-size: 60%;font-weight: 100">太阳</small>
 
 
 <div class="detail-page">
 <p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
 <span>
 ICON库：
 <span class="badge-secondary badge">Font Awesome Icon Free</span> 
@@ -38,9 +40,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">brighten</span><span class="badge-light badge">contrast</span><span class="badge-light badge">day</span><span class="badge-light badge">lighter</span><span class="badge-light badge">sol</span><span class="badge-light badge">solar</span><span class="badge-light badge">star</span><span class="badge-light badge">weather</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">太阳</span><span class="badge-primary badge">提亮</span><span class="badge-primary badge">对比度</span><span class="badge-primary badge">天</span><span class="badge-primary badge">打火机</span><span class="badge-primary badge">溶胶</span><span class="badge-primary badge">星</span><span class="badge-primary badge">天气</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sun.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sun.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">brighten</span><span class="badge-light badge">contrast</span><span class="badge-light badge">day</span><span class="badge-light badge">lighter</span><span class="badge-light badge">sol</span><span class="badge-light badge">solar</span><span class="badge-light badge">star</span><span class="badge-light badge">weather</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">太阳</span><span class="badge-primary badge">提亮</span><span class="badge-primary badge">对比度</span><span class="badge-primary badge">天</span><span class="badge-primary badge">打火机</span><span class="badge-primary badge">溶胶</span><span class="badge-primary badge">星</span><span class="badge-primary badge">天气</span><span class="badge-primary badge">太阳黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sun.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sun.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示阳光、晴天。</div>
 <div class="alert alert-dark">
   <i class="fas fa-sun fa-xs"></i>
   <i class="fas fa-sun fa-sm"></i>
