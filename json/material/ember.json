@@ -9,8 +9,9 @@
   "author": "Contributors",
   "version": "2.8.94",
   "zhs": [
-    "灰烬"
+    "灰烬",
+    "ember"
   ],
-  "description": "",
+  "description": "Ember是一个开源的JavaScript客户端框架。",
   "comments": []
 }

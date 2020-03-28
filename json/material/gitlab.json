@@ -7,8 +7,9 @@
   "author": "Contributors",
   "version": "3.0.39",
   "zhs": [
-    "gitlab"
+    "gitlab",
+    "Axosoft"
   ],
-  "description": "",
+  "description": "GitLab是一个完整的DevOps平台，提供项目计划。源码管理到CI/CD、监视等一系列功能。",
   "comments": []
 }

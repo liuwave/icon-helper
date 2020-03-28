@@ -7,8 +7,12 @@
   "author": "Google",
   "version": "2.4.85",
   "zhs": [
-    "播客"
+    "播客",
+    "音频",
+    "广播",
+    "音乐",
+    "声音"
   ],
-  "description": "",
+  "description": "表示音频和视频期刊的播放工具。",
   "comments": []
 }

@@ -9,8 +9,14 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "平板电脑"
+    "平板电脑",
+    "平板黑屏",
+    "苹果",
+    "设备",
+    "ipad",
+    "kindle",
+    "屏幕"
   ],
-  "description": "",
+  "description": "可用于表示电脑、手机等的关机状态。",
   "comments": []
 }

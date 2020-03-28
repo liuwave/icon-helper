@@ -9,8 +9,12 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "回复"
+    "回复",
+    "回复黑",
+    "邮件",
+    "消息",
+    "响应"
   ],
-  "description": "",
+  "description": "表示撤销，回到上一步等。",
   "comments": []
 }

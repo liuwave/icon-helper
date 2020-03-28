@@ -7,8 +7,16 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "扫帚"
+    "扫帚",
+    "清洁",
+    "喷火",
+    "飞",
+    "万圣节",
+    "雨云2000",
+    "魁地奇",
+    "扫地",
+    "女巫"
   ],
-  "description": "",
+  "description": "扫帚，可以表示清理、清除。",
   "comments": []
 }

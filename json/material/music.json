@@ -10,8 +10,13 @@
   "author": "Austin Andrews",
   "version": "1.9.32",
   "zhs": [
-    "音乐"
+    "音乐",
+    "歌词",
+    "旋律",
+    "注释",
+    "唱歌",
+    "声音"
   ],
-  "description": "",
+  "description": "表示音乐，表示音符，也可用于代表开心或歌曲。",
   "comments": []
 }

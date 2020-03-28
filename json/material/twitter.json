@@ -10,8 +10,11 @@
   "author": "Contributors",
   "version": "1.5.54",
   "zhs": [
-    "推特"
+    "推特",
+    "Twitter",
+    "社交网络",
+    "推文"
   ],
-  "description": "",
+  "description": "Twitter是美国的一家提供社交网络服务的网站。",
   "comments": []
 }

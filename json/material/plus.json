@@ -11,8 +11,16 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "加"
+    "加",
+    "加号黑",
+    "plus",
+    "add",
+    "create",
+    "expand",
+    "new",
+    "positive",
+    "shape"
   ],
-  "description": "",
+  "description": "表示两数相加的运算符。",
   "comments": []
 }

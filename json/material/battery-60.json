@@ -11,8 +11,9 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "电池60"
+    "电池60",
+    "电量60%"
   ],
-  "description": "",
+  "description": "表示设备有60%的电量。",
   "comments": []
 }

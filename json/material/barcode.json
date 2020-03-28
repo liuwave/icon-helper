@@ -7,8 +7,14 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "条码"
+    "条码",
+    "条形码",
+    "信息",
+    "激光",
+    "价格",
+    "扫描",
+    "upc"
   ],
-  "description": "",
+  "description": "条码，可用于标出制造厂家，图书分类。",
   "comments": []
 }

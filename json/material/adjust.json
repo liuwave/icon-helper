@@ -7,8 +7,12 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "调整"
+    "调整",
+    "对比",
+    "深色",
+    "浅色",
+    "饱和度"
   ],
-  "description": "",
+  "description": "调整，表示黑与白各一半，也可表示白天黑夜。",
   "comments": []
 }

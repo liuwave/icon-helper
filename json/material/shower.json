@@ -9,8 +9,13 @@
   "author": "Augustin Ursu",
   "version": "2.4.85",
   "zhs": [
-    "淋浴"
+    "淋浴",
+    "淋浴黑",
+    "浴缸",
+    "清洁",
+    "水龙头",
+    "水"
   ],
-  "description": "",
+  "description": "淋浴喷头，可表示酒店、洗澡、浴室、清洗等。",
   "comments": []
 }

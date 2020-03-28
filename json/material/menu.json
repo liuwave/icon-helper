@@ -10,8 +10,9 @@
   "version": "1.5.54",
   "zhs": [
     "菜单",
-    "汉堡菜单"
+    "汉堡菜单",
+    "简明菜单"
   ],
-  "description": "",
+  "description": "菜单，表示可收缩或展开。",
   "comments": []
 }

@@ -11,6 +11,6 @@
   "zhs": [
     "nodejs"
   ],
-  "description": "",
+  "description": "一个基于 Chrome V8 引擎的 JavaScript 运行环境",
   "comments": []
 }

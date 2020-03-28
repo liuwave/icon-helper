@@ -13,8 +13,9 @@
   "version": "2.0.46",
   "zhs": [
     "闭路电视",
-    "监控摄像机"
+    "监控摄像机",
+    "中央电视台"
   ],
-  "description": "",
+  "description": "CCTV表示监控、或者处于监控的范围",
   "comments": []
 }

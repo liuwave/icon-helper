@@ -12,8 +12,9 @@
   "version": "1.5.54",
   "zhs": [
     "firefox",
-    "mozilla firefox"
+    "mozilla firefox",
+    "浏览器"
   ],
-  "description": "",
+  "description": "火狐浏览器一个开源的网页浏览器",
   "comments": []
 }

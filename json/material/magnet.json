@@ -7,8 +7,11 @@
   "author": "Cody",
   "version": "1.5.54",
   "zhs": [
-    "磁铁"
+    "磁铁",
+    "吸引物",
+    "磁铁矿",
+    "工具"
   ],
-  "description": "",
+  "description": "表示吸引，吸收等。",
   "comments": []
 }

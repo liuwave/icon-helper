@@ -9,8 +9,13 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "表"
+    "表",
+    "平板桌面",
+    "表格",
+    "数据",
+    "Excel",
+    "电子表格"
   ],
-  "description": "",
+  "description": "表示电脑桌面设备。",
   "comments": []
 }

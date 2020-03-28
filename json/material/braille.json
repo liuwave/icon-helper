@@ -7,8 +7,14 @@
   "author": "Michael Richins",
   "version": "2.5.94",
   "zhs": [
-    "盲文"
+    "盲文",
+    "点形字",
+    "字母",
+    "盲点",
+    "圆点",
+    "凸起",
+    "视觉"
   ],
-  "description": "",
+  "description": "点形字，可以代表一个阵列、连续等。",
   "comments": []
 }

@@ -12,8 +12,13 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "房屋"
+    "房屋",
+    "家",
+    "家庭",
+    "住所",
+    "建筑",
+    "主要"
   ],
-  "description": "",
+  "description": "表示住宅，房子、家等等。",
   "comments": []
 }

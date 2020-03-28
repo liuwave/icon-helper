@@ -9,8 +9,11 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "转发"
+    "转发",
+    "前进",
+    "下一个",
+    "跳过"
   ],
-  "description": "",
+  "description": "表示下一页。",
   "comments": []
 }

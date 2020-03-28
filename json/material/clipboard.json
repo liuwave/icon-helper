@@ -7,8 +7,13 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "剪贴板"
+    "剪贴板",
+    "画板空白",
+    "副本",
+    "笔记",
+    "粘贴",
+    "记录"
   ],
-  "description": "",
+  "description": "剪贴板，一块写字板，也可以表示空的列表。",
   "comments": []
 }

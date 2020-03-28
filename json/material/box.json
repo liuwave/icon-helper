@@ -9,8 +9,14 @@
   "author": "Contributors",
   "version": "1.5.54",
   "zhs": [
-    "箱"
+    "箱",
+    "箱子",
+    "盒",
+    "归档",
+    "容器",
+    "包装",
+    "存储"
   ],
-  "description": "",
+  "description": "箱子，可以表示礼品盒，储物箱。",
   "comments": []
 }

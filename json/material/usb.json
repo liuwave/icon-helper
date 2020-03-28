@@ -7,8 +7,9 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "USB"
+    "USB",
+    "通用串行总线"
   ],
-  "description": "",
+  "description": "USB是一个外部总线标准，被广泛地应用于个人电脑和移动设备之间的数据传输。",
   "comments": []
 }

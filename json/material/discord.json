@@ -10,8 +10,9 @@
   "author": "Contributors",
   "version": "1.6.50",
   "zhs": [
-    "不和谐"
+    "不和谐",
+    "discord"
   ],
-  "description": "",
+  "description": "Discord是一款语音聊天沟通软件",
   "comments": []
 }

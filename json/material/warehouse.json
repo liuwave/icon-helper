@@ -9,8 +9,14 @@
   "author": "Contributors",
   "version": "3.9.97",
   "zhs": [
-    "仓库"
+    "仓库",
+    "仓库黑",
+    "建筑物",
+    "容量",
+    "车库",
+    "库存",
+    "存储"
   ],
-  "description": "",
+  "description": "对物资进行储存、保管的库房。",
   "comments": []
 }

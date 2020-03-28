@@ -11,8 +11,9 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "电池40"
+    "电池40",
+    "电量40%"
   ],
-  "description": "",
+  "description": "表示只有40%的电量",
   "comments": []
 }

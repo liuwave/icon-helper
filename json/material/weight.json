@@ -7,8 +7,13 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "重量"
+    "重量",
+    "体重黑",
+    "体重",
+    "健康",
+    "测量",
+    "规模"
   ],
-  "description": "",
+  "description": "测量体重的仪器。",
   "comments": []
 }

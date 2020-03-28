@@ -9,8 +9,10 @@
   "author": "Contributors",
   "version": "1.7.12",
   "zhs": [
-    "带营"
+    "带营",
+    "bandcamp",
+    "乐队营"
   ],
-  "description": "",
+  "description": "Bandcamp是一个提供免费的无限流媒体以及MP3，FLAC等高品质下载的应用程序。",
   "comments": []
 }

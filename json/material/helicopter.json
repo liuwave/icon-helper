@@ -9,8 +9,12 @@
   "author": "Contributors",
   "version": "2.7.94",
   "zhs": [
-    "直升机"
+    "直升机",
+    "空军",
+    "阿帕奇",
+    "飞行",
+    "旅行"
   ],
-  "description": "",
+  "description": "表示医疗，救援，探测，科研，战斗等。",
   "comments": []
 }

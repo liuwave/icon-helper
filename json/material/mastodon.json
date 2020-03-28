@@ -9,8 +9,10 @@
   "author": "Contributors",
   "version": "2.7.94",
   "zhs": [
-    "乳齿象"
+    "乳齿象",
+    "mastodon",
+    "马斯托登"
   ],
-  "description": "",
+  "description": " Mastodon是一个免费开源的去中心化的分布式微博客社交网络，任何人都可以运行自己的实例，并融入到社交网络中。",
   "comments": []
 }

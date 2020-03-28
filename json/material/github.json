@@ -13,8 +13,9 @@
   "version": "1.5.54",
   "zhs": [
     "github",
-    "微软github"
+    "微软github",
+    "octocat"
   ],
-  "description": "",
+  "description": "GitHub是一个一个面向开源及私有软件项目的代码托管平台，目前已被微软收购。官网：https://github.com",
   "comments": []
 }

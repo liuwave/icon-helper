@@ -7,8 +7,9 @@
   "author": "Michael Irigoyen",
   "version": "2.6.95",
   "zhs": [
-    "手"
+    "手",
+    "捏手"
   ],
-  "description": "",
+  "description": "捏手，表示控制、指向、操作的事件。",
   "comments": []
 }

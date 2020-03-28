@@ -10,8 +10,9 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "扬声器"
+    "扬声器",
+    "喇叭"
   ],
-  "description": "",
+  "description": "喇叭，放大声音或播发的工具，可以表示公告，通知。",
   "comments": []
 }

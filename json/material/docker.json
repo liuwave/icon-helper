@@ -9,8 +9,10 @@
   "author": "Contributors",
   "version": "2.1.99",
   "zhs": [
-    "码头工人"
+    "码头工人",
+    "容器",
+    "Docker"
   ],
-  "description": "",
+  "description": "容器是一个开源的应用容器引擎，让开发者可以打包镜像，获得一个相对独立的运行环境",
   "comments": []
 }

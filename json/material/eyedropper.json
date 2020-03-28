@@ -13,8 +13,9 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "吸管"
+    "吸管",
+    "眼药水"
   ],
-  "description": "",
+  "description": "表示治疗眼睛的药物，滴管，ps中吸管工具。",
   "comments": []
 }

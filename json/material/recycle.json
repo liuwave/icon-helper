@@ -7,8 +7,12 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "回收"
+    "回收",
+    "回收符号",
+    "废物",
+    "垃圾",
+    "再利用"
   ],
-  "description": "",
+  "description": "循环利用，表示存放临时删除的文档资料等。",
   "comments": []
 }

@@ -7,8 +7,12 @@
   "author": "Michael Irigoyen",
   "version": "1.8.36",
   "zhs": [
-    "星号"
+    "星号",
+    "注释",
+    "详细信息",
+    "参考",
+    "星级"
   ],
-  "description": "",
+  "description": "星号，表示重点标注，电话暂停键，数学乘号，密码输入。",
   "comments": []
 }

@@ -9,8 +9,9 @@
   "author": "GreenTurtwig",
   "version": "2.4.85",
   "zhs": [
-    "电池80蓝牙"
+    "电池80蓝牙",
+    "蓝牙电量80%"
   ],
-  "description": "",
+  "description": "表示蓝牙设备有80%的电量。",
   "comments": []
 }

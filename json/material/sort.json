@@ -9,8 +9,11 @@
   "author": "Cody",
   "version": "1.5.54",
   "zhs": [
-    "排序"
+    "排序",
+    "排序标志",
+    "过滤器",
+    "订单"
   ],
-  "description": "",
+  "description": "表示一个排序标志，或向上点击增加，向下点击减少。",
   "comments": []
 }

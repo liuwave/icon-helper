@@ -10,8 +10,10 @@
   "author": "Contributors",
   "version": "1.7.22",
   "zhs": [
-    "角形"
+    "角形",
+    "angular",
+    "角"
   ],
-  "description": "",
+  "description": "angular是一款优秀的前端javascript框架，诞生于2009年，后被Google收购。",
   "comments": []
 }

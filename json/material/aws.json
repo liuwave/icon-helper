@@ -9,8 +9,9 @@
   "author": "Contributors",
   "version": "3.6.95",
   "zhs": [
-    "aws"
+    "aws",
+    "Amazon Web Services（AWS）"
   ],
-  "description": "",
+  "description": "aws是亚马逊公司旗下云计算服务平台，为全世界各个国家和地区的客户提供一整套基础设施和云解决方案",
   "comments": []
 }

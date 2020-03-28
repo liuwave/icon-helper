@@ -9,8 +9,10 @@
   "author": "Contributors",
   "version": "1.5.54",
   "zhs": [
-    "snapchat"
+    "snapchat",
+    "色拉布",
+    "阅后即焚"
   ],
-  "description": "",
+  "description": "snapchat是一款“阅后即焚”照片分享应用。",
   "comments": []
 }

@@ -12,8 +12,11 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "胶卷"
+    "胶卷",
+    "电影",
+    "带",
+    "视频"
   ],
-  "description": "",
+  "description": "表示电影、视频等富媒体文件",
   "comments": []
 }

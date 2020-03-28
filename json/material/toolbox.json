@@ -9,8 +9,14 @@
   "author": "Google",
   "version": "2.4.85",
   "zhs": [
-    "工具箱"
+    "工具箱",
+    "工具箱黑",
+    "管理员",
+    "容器",
+    "修复",
+    "设置",
+    "工具"
   ],
-  "description": "",
+  "description": "表示装工具的容器。",
   "comments": []
 }

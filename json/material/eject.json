@@ -7,8 +7,13 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "弹出"
+    "弹出",
+    "喷射",
+    "中止",
+    "取消",
+    "cd",
+    "放电"
   ],
-  "description": "",
+  "description": "弹出，表示对物体的冲击，放电、喷射。",
   "comments": []
 }

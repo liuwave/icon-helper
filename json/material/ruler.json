@@ -10,8 +10,15 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "标尺"
+    "标尺",
+    "规则黑标",
+    "尺子",
+    "设计",
+    "草稿",
+    "长度",
+    "度量",
+    "计划"
   ],
-  "description": "",
+  "description": "表示运行、运作规律所遵循的法则。",
   "comments": []
 }

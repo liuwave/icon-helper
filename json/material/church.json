@@ -10,8 +10,12 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "教堂"
+    "教堂",
+    "建筑",
+    "大教堂",
+    "社区",
+    "宗教"
   ],
-  "description": "",
+  "description": "教堂，可以表示西方文化。",
   "comments": []
 }

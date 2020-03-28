@@ -7,8 +7,12 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "qrcode"
+    "qrcode",
+    "二维码",
+    "条形码",
+    "信息",
+    "扫描"
   ],
-  "description": "",
+  "description": "表示编码，二位条码等。",
   "comments": []
 }

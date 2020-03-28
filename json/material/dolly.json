@@ -10,8 +10,11 @@
   "author": "Michael Irigoyen",
   "version": "3.7.94",
   "zhs": [
-    "手推车"
+    "手推车",
+    "搬运",
+    "多莉",
+    "运输"
   ],
-  "description": "",
+  "description": "搬运，可以表示移动物体。",
   "comments": []
 }

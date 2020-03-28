@@ -9,8 +9,13 @@
   "author": "Contributors",
   "version": "1.5.54",
   "zhs": [
-    "松弛"
+    "松弛",
+    "slack",
+    "松弛徽标",
+    "锚点",
+    "哈希",
+    "标签"
   ],
-  "description": "",
+  "description": "slack是一家提供将合适的人员、信息和工具聚集在一起以完成工作的协作中心。",
   "comments": []
 }

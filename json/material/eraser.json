@@ -7,8 +7,12 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "橡皮"
+    "橡皮",
+    "橡皮擦",
+    "艺术",
+    "删除",
+    "橡胶"
   ],
-  "description": "",
+  "description": "表示清除工具。",
   "comments": []
 }

@@ -9,8 +9,11 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "暂停"
+    "暂停",
+    "暂停黑",
+    "按住",
+    "等待"
   ],
-  "description": "",
+  "description": "表示视频、音乐等媒体的暂停。",
   "comments": []
 }

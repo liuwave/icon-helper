@@ -7,8 +7,13 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "报纸"
+    "报纸",
+    "报纸黑",
+    "文章",
+    "社论",
+    "标题",
+    "新闻"
   ],
-  "description": "",
+  "description": "报纸，表示新闻，条目，期刊等。",
   "comments": []
 }

@@ -9,8 +9,14 @@
   "author": "Cody",
   "version": "1.5.54",
   "zhs": [
-    "信号"
+    "信号",
+    "信号标志",
+    "条形图",
+    "图形",
+    "在线",
+    "接收",
+    "状态"
   ],
-  "description": "",
+  "description": "表示手机上的信号。",
   "comments": []
 }

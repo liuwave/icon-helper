@@ -7,8 +7,12 @@
   "author": "Michael Irigoyen",
   "version": "3.3.92",
   "zhs": [
-    "搅拌器"
+    "搅拌器",
+    "搅拌机",
+    "鸡尾酒",
+    "奶昔",
+    "果泥"
   ],
-  "description": "",
+  "description": "搅拌机，可以表示豆浆机。",
   "comments": []
 }

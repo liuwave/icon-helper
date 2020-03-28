@@ -9,8 +9,9 @@
   "author": "Contributors",
   "version": "2.1.99",
   "zhs": [
-    "以太坊"
+    "以太坊",
+    "ethereum"
   ],
-  "description": "",
+  "description": "以太坊是一个一个开源的公共区块链平台，一个为去中心化应用(Dapp)而生的全球开源平台。",
   "comments": []
 }

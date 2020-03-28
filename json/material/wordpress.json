@@ -9,8 +9,9 @@
   "author": "Contributors",
   "version": "1.5.54",
   "zhs": [
-    "wordpress"
+    "wordpress",
+    "WordPress徽标"
   ],
-  "description": "",
+  "description": "WordPress是基于PHP开发的一个博客平台。",
   "comments": []
 }

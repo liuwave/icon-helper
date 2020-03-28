@@ -12,8 +12,10 @@
   "version": "1.5.54",
   "zhs": [
     "靶心",
-    "目标"
+    "目标",
+    "Bullseye",
+    "射箭"
   ],
-  "description": "",
+  "description": "靶心，可以表示枪靶。",
   "comments": []
 }

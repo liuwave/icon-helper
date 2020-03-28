@@ -7,8 +7,13 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "存档"
+    "存档",
+    "档案",
+    "框",
+    "包装",
+    "保存",
+    "存储"
   ],
-  "description": "",
+  "description": "档案，多个文件，可以表示整理、收集。",
   "comments": []
 }

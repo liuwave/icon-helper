@@ -7,8 +7,14 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "内存"
+    "内存",
+    "记忆",
+    "DIMM",
+    "RAM",
+    "硬件",
+    "存储",
+    "技术"
   ],
-  "description": "",
+  "description": "表示存储、保持等。",
   "comments": []
 }

@@ -9,8 +9,14 @@
   "author": "Cody",
   "version": "1.5.54",
   "zhs": [
-    "眼镜"
+    "眼镜",
+    "太阳镜",
+    "时髦",
+    "书呆子",
+    "阅读",
+    "视线",
+    "视觉"
   ],
-  "description": "",
+  "description": "表示防晒，遮阳等。",
   "comments": []
 }

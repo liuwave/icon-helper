@@ -10,8 +10,12 @@
   "author": "Cody",
   "version": "1.5.54",
   "zhs": [
-    "传真"
+    "传真",
+    "业务",
+    "通信",
+    "副本",
+    "发送"
   ],
-  "description": "",
+  "description": "表示传真，座机。",
   "comments": []
 }

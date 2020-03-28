@@ -13,8 +13,17 @@
   "version": "1.5.54",
   "zhs": [
     "笔记本电脑",
-    "计算机"
+    "计算机",
+    "笔电",
+    "cpu",
+    "戴尔",
+    "演示",
+    "设备",
+    "mac",
+    "macbook",
+    "机器",
+    "pc"
   ],
-  "description": "",
+  "description": "表示笔记本电脑。",
   "comments": []
 }

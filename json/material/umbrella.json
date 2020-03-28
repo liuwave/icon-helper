@@ -9,8 +9,13 @@
   "author": "Cody",
   "version": "1.5.54",
   "zhs": [
-    "雨伞"
+    "雨伞",
+    "雨伞标志",
+    "防护",
+    "雨",
+    "暴雨",
+    "湿"
   ],
-  "description": "",
+  "description": "可用于表示雨天、下雨、天气等。",
   "comments": []
 }

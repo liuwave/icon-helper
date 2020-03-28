@@ -9,8 +9,9 @@
   "author": "GreenTurtwig",
   "version": "2.4.85",
   "zhs": [
-    "电池30蓝牙"
+    "电池30蓝牙",
+    "蓝牙电量30%"
   ],
-  "description": "",
+  "description": "表示蓝牙只有30%的电量",
   "comments": []
 }

@@ -9,8 +9,15 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "立方体"
+    "立方体",
+    "Cube",
+    "3d",
+    "block",
+    "dice",
+    "package",
+    "square",
+    "tesseract"
   ],
-  "description": "",
+  "description": "立方体，可以表示魔方。",
   "comments": []
 }

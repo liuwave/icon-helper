@@ -9,8 +9,13 @@
   "author": "Austin Andrews",
   "version": "1.9.32",
   "zhs": [
-    "平方"
+    "平方",
+    "圆角正方形",
+    "正方形",
+    "块状",
+    "盒子",
+    "形状"
   ],
-  "description": "",
+  "description": "表示颜色填充。",
   "comments": []
 }

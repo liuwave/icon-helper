@@ -7,8 +7,13 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "双筒望远镜"
+    "双筒望远镜",
+    "望远镜",
+    "眼镜",
+    "放大",
+    "风景",
+    "查看"
   ],
-  "description": "",
+  "description": "望远镜，象征着远方、距离。",
   "comments": []
 }

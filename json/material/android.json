@@ -9,8 +9,10 @@
   "author": "Google",
   "version": "1.5.54",
   "zhs": [
-    "android"
+    "android",
+    "安卓",
+    "机器人"
   ],
-  "description": "",
+  "description": "安卓是一种基于Linux自由及开发源代码的手机操作系统，现在份额全球第一。",
   "comments": []
 }

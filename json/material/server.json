@@ -7,8 +7,13 @@
   "author": "Austin Andrews",
   "version": "1.5.54",
   "zhs": [
-    "服务器"
+    "服务器",
+    "计算机",
+    "CPU",
+    "数据库",
+    "硬件",
+    "网络"
   ],
-  "description": "",
+  "description": "表示响应、处理设备。",
   "comments": []
 }
