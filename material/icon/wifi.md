@@ -2,7 +2,7 @@
 
 title:  wifi(wifi) ICON转svg、png下载
 name: wifi
-zhTips: wifi,wifi网络,连接,热点,互联网,网络,无线
+zhTips: wifi,wifi网络,连接,热点,互联网,网络,无线,无线信号
 tags: []
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">wifi</span><span class="badge-primary badge">wifi网络</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">热点</span><span class="badge-primary badge">互联网</span><span class="badge-primary badge">网络</span><span class="badge-primary badge">无线</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/wifi.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/wifi.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">wifi</span><span class="badge-primary badge">wifi网络</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">热点</span><span class="badge-primary badge">互联网</span><span class="badge-primary badge">网络</span><span class="badge-primary badge">无线</span><span class="badge-primary badge">无线信号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/wifi.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/wifi.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">通常用于表示网络信号。</div>
 <div class="alert alert-dark">

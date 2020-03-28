@@ -2,7 +2,7 @@
 
 title: Bandcamp(乐队营) ICON转svg、png下载
 name: bandcamp
-zhTips: 乐队营,bandcamp
+zhTips: 乐队营,bandcamp,环,纽扣
 tags: []
 pre: fab
 search: 
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">乐队营</span><span class="badge-primary badge">bandcamp</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/bandcamp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/bandcamp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">乐队营</span><span class="badge-primary badge">bandcamp</span><span class="badge-primary badge">环</span><span class="badge-primary badge">纽扣</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/bandcamp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/bandcamp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">Bandcamp是一个提供免费的无限流媒体以及MP3，FLAC等高品质下载的应用程序。</div>
 <div class="alert alert-dark">

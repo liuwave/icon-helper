@@ -2,7 +2,7 @@
 
 title: Check Square(检查正方形) ICON转svg、png下载
 name: check-square
-zhTips: 检查正方形,接受,同意,选中标记,确认,正确,完成,确定,选择,成功,刻度,待办事项,是
+zhTips: 检查正方形,接受,同意,选中标记,确认,正确,完成,确定,选择,成功,刻度,待办事项,是,审核
 tags: ["interfaces"]
 pre: fas
 search: accept,agree,checkmark,confirm,correct,done,ok,select,success,tick,todo,yes
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">accept</span><span class="badge-light badge">agree</span><span class="badge-light badge">checkmark</span><span class="badge-light badge">confirm</span><span class="badge-light badge">correct</span><span class="badge-light badge">done</span><span class="badge-light badge">ok</span><span class="badge-light badge">select</span><span class="badge-light badge">success</span><span class="badge-light badge">tick</span><span class="badge-light badge">todo</span><span class="badge-light badge">yes</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">检查正方形</span><span class="badge-primary badge">接受</span><span class="badge-primary badge">同意</span><span class="badge-primary badge">选中标记</span><span class="badge-primary badge">确认</span><span class="badge-primary badge">正确</span><span class="badge-primary badge">完成</span><span class="badge-primary badge">确定</span><span class="badge-primary badge">选择</span><span class="badge-primary badge">成功</span><span class="badge-primary badge">刻度</span><span class="badge-primary badge">待办事项</span><span class="badge-primary badge">是</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/check-square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/check-square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">accept</span><span class="badge-light badge">agree</span><span class="badge-light badge">checkmark</span><span class="badge-light badge">confirm</span><span class="badge-light badge">correct</span><span class="badge-light badge">done</span><span class="badge-light badge">ok</span><span class="badge-light badge">select</span><span class="badge-light badge">success</span><span class="badge-light badge">tick</span><span class="badge-light badge">todo</span><span class="badge-light badge">yes</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">检查正方形</span><span class="badge-primary badge">接受</span><span class="badge-primary badge">同意</span><span class="badge-primary badge">选中标记</span><span class="badge-primary badge">确认</span><span class="badge-primary badge">正确</span><span class="badge-primary badge">完成</span><span class="badge-primary badge">确定</span><span class="badge-primary badge">选择</span><span class="badge-primary badge">成功</span><span class="badge-primary badge">刻度</span><span class="badge-primary badge">待办事项</span><span class="badge-primary badge">是</span><span class="badge-primary badge">审核</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/check-square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/check-square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

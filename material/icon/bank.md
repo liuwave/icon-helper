@@ -2,7 +2,7 @@
 
 title:  bank(银行) ICON转svg、png下载
 name: bank
-zhTips: 银行,帐户余额,博物馆
+zhTips: 银行,帐户余额,博物馆,大学,学校,家,公司
 tags: ["banking","places"]
 search: account-balance,museum
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">account-balance</span><span class="badge-light badge">museum</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">银行</span><span class="badge-primary badge">帐户余额</span><span class="badge-primary badge">博物馆</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bank.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bank.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">account-balance</span><span class="badge-light badge">museum</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">银行</span><span class="badge-primary badge">帐户余额</span><span class="badge-primary badge">博物馆</span><span class="badge-primary badge">大学</span><span class="badge-primary badge">学校</span><span class="badge-primary badge">家</span><span class="badge-primary badge">公司</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bank.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bank.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

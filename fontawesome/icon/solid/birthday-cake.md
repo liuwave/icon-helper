@@ -2,7 +2,7 @@
 
 title: Birthday Cake(生日蛋糕) ICON转svg、png下载
 name: birthday-cake
-zhTips: 生日蛋糕,周年纪念日,面包店,蜡烛,庆祝活动,甜点,糖霜,假日,聚会,糕点
+zhTips: 生日蛋糕,周年纪念日,面包店,蜡烛,庆祝活动,甜点,糖霜,假日,聚会,糕点,生日
 tags: ["business","childhood","maps","objects","social"]
 pre: fas
 search: anniversary,bakery,candles,celebration,dessert,frosting,holiday,party,pastry
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">anniversary</span><span class="badge-light badge">bakery</span><span class="badge-light badge">candles</span><span class="badge-light badge">celebration</span><span class="badge-light badge">dessert</span><span class="badge-light badge">frosting</span><span class="badge-light badge">holiday</span><span class="badge-light badge">party</span><span class="badge-light badge">pastry</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">生日蛋糕</span><span class="badge-primary badge">周年纪念日</span><span class="badge-primary badge">面包店</span><span class="badge-primary badge">蜡烛</span><span class="badge-primary badge">庆祝活动</span><span class="badge-primary badge">甜点</span><span class="badge-primary badge">糖霜</span><span class="badge-primary badge">假日</span><span class="badge-primary badge">聚会</span><span class="badge-primary badge">糕点</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/birthday-cake.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/birthday-cake.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">anniversary</span><span class="badge-light badge">bakery</span><span class="badge-light badge">candles</span><span class="badge-light badge">celebration</span><span class="badge-light badge">dessert</span><span class="badge-light badge">frosting</span><span class="badge-light badge">holiday</span><span class="badge-light badge">party</span><span class="badge-light badge">pastry</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">生日蛋糕</span><span class="badge-primary badge">周年纪念日</span><span class="badge-primary badge">面包店</span><span class="badge-primary badge">蜡烛</span><span class="badge-primary badge">庆祝活动</span><span class="badge-primary badge">甜点</span><span class="badge-primary badge">糖霜</span><span class="badge-primary badge">假日</span><span class="badge-primary badge">聚会</span><span class="badge-primary badge">糕点</span><span class="badge-primary badge">生日</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/birthday-cake.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/birthday-cake.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title:  flask(烧瓶) ICON转svg、png下载
 name: flask
-zhTips: 烧瓶,烧杯,实验,实验室,科学
+zhTips: 烧瓶,烧杯,实验,实验室,科学,长颈瓶,细颈瓶,酒瓶
 tags: ["science","gaming-rpg"]
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">烧瓶</span><span class="badge-primary badge">烧杯</span><span class="badge-primary badge">实验</span><span class="badge-primary badge">实验室</span><span class="badge-primary badge">科学</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/flask.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/flask.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">烧瓶</span><span class="badge-primary badge">烧杯</span><span class="badge-primary badge">实验</span><span class="badge-primary badge">实验室</span><span class="badge-primary badge">科学</span><span class="badge-primary badge">长颈瓶</span><span class="badge-primary badge">细颈瓶</span><span class="badge-primary badge">酒瓶</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/flask.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/flask.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">化学试剂的加热、溶解或盛取溶液，也可表示科学实验。</div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title:  id card(身份证) ICON转svg、png下载
 name: id-card
-zhTips: 身份证
+zhTips: 身份证,证件
 tags: []
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">身份证</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/id-card.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/id-card.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">身份证</span><span class="badge-primary badge">证件</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/id-card.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/id-card.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

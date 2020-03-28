@@ -2,7 +2,7 @@
 
 title:  barcode(条码) ICON转svg、png下载
 name: barcode
-zhTips: 条码,条形码,信息,激光,价格,扫描,upc
+zhTips: 条码,条形码,信息,激光,价格,扫描,upc,一维码,二维码
 tags: []
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">条码</span><span class="badge-primary badge">条形码</span><span class="badge-primary badge">信息</span><span class="badge-primary badge">激光</span><span class="badge-primary badge">价格</span><span class="badge-primary badge">扫描</span><span class="badge-primary badge">upc</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/barcode.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/barcode.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">条码</span><span class="badge-primary badge">条形码</span><span class="badge-primary badge">信息</span><span class="badge-primary badge">激光</span><span class="badge-primary badge">价格</span><span class="badge-primary badge">扫描</span><span class="badge-primary badge">upc</span><span class="badge-primary badge">一维码</span><span class="badge-primary badge">二维码</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/barcode.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/barcode.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">条码，可用于标出制造厂家，图书分类。</div>
 <div class="alert alert-dark">

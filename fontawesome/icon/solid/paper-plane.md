@@ -2,7 +2,7 @@
 
 title: Paper Plane(纸飞机) ICON转svg、png下载
 name: paper-plane
-zhTips: 纸飞机,空气,漂浮物,折叠,邮件,纸张,发送
+zhTips: 纸飞机,空气,漂浮物,折叠,邮件,纸张,发送,活动
 tags: ["communication","editors","objects","vehicles","writing"]
 pre: fas
 search: air,float,fold,mail,paper,send
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">air</span><span class="badge-light badge">float</span><span class="badge-light badge">fold</span><span class="badge-light badge">mail</span><span class="badge-light badge">paper</span><span class="badge-light badge">send</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">纸飞机</span><span class="badge-primary badge">空气</span><span class="badge-primary badge">漂浮物</span><span class="badge-primary badge">折叠</span><span class="badge-primary badge">邮件</span><span class="badge-primary badge">纸张</span><span class="badge-primary badge">发送</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paper-plane.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paper-plane.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">air</span><span class="badge-light badge">float</span><span class="badge-light badge">fold</span><span class="badge-light badge">mail</span><span class="badge-light badge">paper</span><span class="badge-light badge">send</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">纸飞机</span><span class="badge-primary badge">空气</span><span class="badge-primary badge">漂浮物</span><span class="badge-primary badge">折叠</span><span class="badge-primary badge">邮件</span><span class="badge-primary badge">纸张</span><span class="badge-primary badge">发送</span><span class="badge-primary badge">活动</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paper-plane.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paper-plane.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

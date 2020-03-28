@@ -2,7 +2,7 @@
 
 title:  bell(响铃) ICON转svg、png下载
 name: bell
-zhTips: 响铃,通知,铃铛,铃声,警报,提示音,提醒
+zhTips: 响铃,通知,铃铛,铃声,警报,提示音,提醒,铃,钟,钟声
 tags: ["notification","home-automation","music"]
 search: notifications
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">notifications</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">响铃</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">铃铛</span><span class="badge-primary badge">铃声</span><span class="badge-primary badge">警报</span><span class="badge-primary badge">提示音</span><span class="badge-primary badge">提醒</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bell.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bell.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">notifications</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">响铃</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">铃铛</span><span class="badge-primary badge">铃声</span><span class="badge-primary badge">警报</span><span class="badge-primary badge">提示音</span><span class="badge-primary badge">提醒</span><span class="badge-primary badge">铃</span><span class="badge-primary badge">钟</span><span class="badge-primary badge">钟声</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bell.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bell.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">铃铛，一般用于声音、提示、警告的事件。表示铃声、通知、提醒、报警等等。</div>
 <div class="alert alert-dark">

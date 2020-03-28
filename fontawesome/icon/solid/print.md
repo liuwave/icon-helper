@@ -2,7 +2,7 @@
 
 title: print(打印) ICON转svg、png下载
 name: print
-zhTips: 打印,业务,副本,文档,办公室,纸张,打印机
+zhTips: 打印,业务,副本,文档,办公室,纸张,打印机,复印机,彩打机
 tags: ["business","computers","editors","maps","objects","status"]
 pre: fas
 search: business,copy,document,office,paper
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">business</span><span class="badge-light badge">copy</span><span class="badge-light badge">document</span><span class="badge-light badge">office</span><span class="badge-light badge">paper</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">打印</span><span class="badge-primary badge">业务</span><span class="badge-primary badge">副本</span><span class="badge-primary badge">文档</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">纸张</span><span class="badge-primary badge">打印机</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/print.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/print.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">business</span><span class="badge-light badge">copy</span><span class="badge-light badge">document</span><span class="badge-light badge">office</span><span class="badge-light badge">paper</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">打印</span><span class="badge-primary badge">业务</span><span class="badge-primary badge">副本</span><span class="badge-primary badge">文档</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">纸张</span><span class="badge-primary badge">打印机</span><span class="badge-primary badge">复印机</span><span class="badge-primary badge">彩打机</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/print.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/print.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示打印，计算机的输出设备。</div>
 <div class="alert alert-dark">

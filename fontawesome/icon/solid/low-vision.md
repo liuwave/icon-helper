@@ -2,7 +2,7 @@
 
 title: Low Vision(弱视) ICON转svg、png下载
 name: low-vision
-zhTips: 弱视,盲目,视力
+zhTips: 弱视,盲目,视力,低视力,看不清
 tags: ["accessibility","maps"]
 pre: fas
 search: blind,eye,sight
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">blind</span><span class="badge-light badge">eye</span><span class="badge-light badge">sight</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">弱视</span><span class="badge-primary badge">盲目</span><span class="badge-primary badge">视力</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/low-vision.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/low-vision.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">blind</span><span class="badge-light badge">eye</span><span class="badge-light badge">sight</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">弱视</span><span class="badge-primary badge">盲目</span><span class="badge-primary badge">视力</span><span class="badge-primary badge">低视力</span><span class="badge-primary badge">看不清</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/low-vision.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/low-vision.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

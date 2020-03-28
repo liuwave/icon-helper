@@ -2,7 +2,7 @@
 
 title: quote-left(quote左) ICON转svg、png下载
 name: quote-left
-zhTips: quote左,提,注,词组,文本,类型
+zhTips: quote左,提,注,词组,文本,类型,引用
 tags: ["chat","editors","interfaces","writing"]
 pre: fas
 search: mention,note,phrase,text,type
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">mention</span><span class="badge-light badge">note</span><span class="badge-light badge">phrase</span><span class="badge-light badge">text</span><span class="badge-light badge">type</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">quote左</span><span class="badge-primary badge">提</span><span class="badge-primary badge">注</span><span class="badge-primary badge">词组</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">类型</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/quote-left.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/quote-left.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">mention</span><span class="badge-light badge">note</span><span class="badge-light badge">phrase</span><span class="badge-light badge">text</span><span class="badge-light badge">type</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">quote左</span><span class="badge-primary badge">提</span><span class="badge-primary badge">注</span><span class="badge-primary badge">词组</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">类型</span><span class="badge-primary badge">引用</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/quote-left.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/quote-left.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

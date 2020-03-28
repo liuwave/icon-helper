@@ -2,7 +2,7 @@
 
 title: Film(电影) ICON转svg、png下载
 name: film
-zhTips: 电影,带,视频
+zhTips: 电影,带,视频,胶卷,录像,胶片
 tags: ["audio-video","images","objects"]
 pre: fas
 search: cinema,movie,strip,video
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">cinema</span><span class="badge-light badge">movie</span><span class="badge-light badge">strip</span><span class="badge-light badge">video</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">电影</span><span class="badge-primary badge">带</span><span class="badge-primary badge">视频</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/film.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/film.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">cinema</span><span class="badge-light badge">movie</span><span class="badge-light badge">strip</span><span class="badge-light badge">video</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">电影</span><span class="badge-primary badge">带</span><span class="badge-primary badge">视频</span><span class="badge-primary badge">胶卷</span><span class="badge-primary badge">录像</span><span class="badge-primary badge">胶片</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/film.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/film.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示电影、视频等富媒体文件</div>
 <div class="alert alert-dark">

@@ -9,7 +9,10 @@
   "author": "Austin Andrews",
   "version": "1.9.32",
   "zhs": [
-    "文件夹打开"
+    "文件夹打开",
+    "打开",
+    "文件夹",
+    "网址导航"
   ],
   "description": "",
   "comments": []

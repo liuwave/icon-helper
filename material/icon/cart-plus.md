@@ -2,7 +2,7 @@
 
 title:  cart plus(加购物车) ICON转svg、png下载
 name: cart-plus
-zhTips: 加购物车,添加购物车
+zhTips: 加购物车,添加购物车,购物车,加入购物车
 tags: ["shopping"]
 search: trolley-plus,add-shopping-cart,shopping-cart-plus,cart-add,trolley-add,shopping-cart-add
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">trolley-plus</span><span class="badge-light badge">add-shopping-cart</span><span class="badge-light badge">shopping-cart-plus</span><span class="badge-light badge">cart-add</span><span class="badge-light badge">trolley-add</span><span class="badge-light badge">shopping-cart-add</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">加购物车</span><span class="badge-primary badge">添加购物车</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cart-plus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cart-plus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">trolley-plus</span><span class="badge-light badge">add-shopping-cart</span><span class="badge-light badge">shopping-cart-plus</span><span class="badge-light badge">cart-add</span><span class="badge-light badge">trolley-add</span><span class="badge-light badge">shopping-cart-add</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">加购物车</span><span class="badge-primary badge">添加购物车</span><span class="badge-primary badge">购物车</span><span class="badge-primary badge">加入购物车</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cart-plus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cart-plus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

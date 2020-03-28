@@ -2,7 +2,7 @@
 
 title: Identification Badge(标识徽章) ICON转svg、png下载
 name: id-badge
-zhTips: 标识徽章,地址,联系方式,标识,许可证,配置文件
+zhTips: 标识徽章,地址,联系方式,标识,许可证,配置文件,认证,工作证,员工,实名认证
 tags: ["images","security","users-people"]
 pre: far
 search: address,contact,identification,license,profile
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">address</span><span class="badge-light badge">contact</span><span class="badge-light badge">identification</span><span class="badge-light badge">license</span><span class="badge-light badge">profile</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标识徽章</span><span class="badge-primary badge">地址</span><span class="badge-primary badge">联系方式</span><span class="badge-primary badge">标识</span><span class="badge-primary badge">许可证</span><span class="badge-primary badge">配置文件</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/id-badge.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/id-badge.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">address</span><span class="badge-light badge">contact</span><span class="badge-light badge">identification</span><span class="badge-light badge">license</span><span class="badge-light badge">profile</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">标识徽章</span><span class="badge-primary badge">地址</span><span class="badge-primary badge">联系方式</span><span class="badge-primary badge">标识</span><span class="badge-primary badge">许可证</span><span class="badge-primary badge">配置文件</span><span class="badge-primary badge">认证</span><span class="badge-primary badge">工作证</span><span class="badge-primary badge">员工</span><span class="badge-primary badge">实名认证</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/id-badge.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/id-badge.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: Shield Virus(抗体) ICON转svg、png下载
 name: shield-virus
-zhTips: Shield Virus,抗体,屏障,covid 19,健康,保护
+zhTips: Shield Virus,抗体,屏障,新型冠状病毒,新冠肺炎,健康,保护
 tags: ["medical"]
 pre: fas
 search: antibodies,barrier,covid-19,health,protect
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">antibodies</span><span class="badge-light badge">barrier</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">health</span><span class="badge-light badge">protect</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Shield Virus</span><span class="badge-primary badge">抗体</span><span class="badge-primary badge">屏障</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">保护</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shield-virus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shield-virus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">antibodies</span><span class="badge-light badge">barrier</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">health</span><span class="badge-light badge">protect</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Shield Virus</span><span class="badge-primary badge">抗体</span><span class="badge-primary badge">屏障</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">保护</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shield-virus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shield-virus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: Sitemap(站点地图) ICON转svg、png下载
 name: sitemap
-zhTips: 站点地图,目录,层次结构,信息系统,组织,网站地图
+zhTips: 站点地图,目录,层次结构,信息系统,组织,网站地图,层级,等级,树形
 tags: ["business","code","interfaces"]
 pre: fas
 search: directory,hierarchy,ia,information architecture,organization
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">directory</span><span class="badge-light badge">hierarchy</span><span class="badge-light badge">ia</span><span class="badge-light badge">information architecture</span><span class="badge-light badge">organization</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">站点地图</span><span class="badge-primary badge">目录</span><span class="badge-primary badge">层次结构</span><span class="badge-primary badge">信息系统</span><span class="badge-primary badge">组织</span><span class="badge-primary badge">网站地图</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sitemap.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sitemap.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">directory</span><span class="badge-light badge">hierarchy</span><span class="badge-light badge">ia</span><span class="badge-light badge">information architecture</span><span class="badge-light badge">organization</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">站点地图</span><span class="badge-primary badge">目录</span><span class="badge-primary badge">层次结构</span><span class="badge-primary badge">信息系统</span><span class="badge-primary badge">组织</span><span class="badge-primary badge">网站地图</span><span class="badge-primary badge">层级</span><span class="badge-primary badge">等级</span><span class="badge-primary badge">树形</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sitemap.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/sitemap.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示网站地图。</div>
 <div class="alert alert-dark">

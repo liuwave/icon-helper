@@ -2,7 +2,7 @@
 
 title: User Secret(用户秘密) ICON转svg、png下载
 name: user-secret
-zhTips: 用户秘密,衣服,外套,帽子,隐身,人,隐私,间谍,耳语
+zhTips: 用户秘密,衣服,外套,帽子,隐身,人,隐私,间谍,耳语,用户
 tags: ["code","security","users-people"]
 pre: fas
 search: clothing,coat,hat,incognito,person,privacy,spy,whisper
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">clothing</span><span class="badge-light badge">coat</span><span class="badge-light badge">hat</span><span class="badge-light badge">incognito</span><span class="badge-light badge">person</span><span class="badge-light badge">privacy</span><span class="badge-light badge">spy</span><span class="badge-light badge">whisper</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">用户秘密</span><span class="badge-primary badge">衣服</span><span class="badge-primary badge">外套</span><span class="badge-primary badge">帽子</span><span class="badge-primary badge">隐身</span><span class="badge-primary badge">人</span><span class="badge-primary badge">隐私</span><span class="badge-primary badge">间谍</span><span class="badge-primary badge">耳语</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-secret.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-secret.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">clothing</span><span class="badge-light badge">coat</span><span class="badge-light badge">hat</span><span class="badge-light badge">incognito</span><span class="badge-light badge">person</span><span class="badge-light badge">privacy</span><span class="badge-light badge">spy</span><span class="badge-light badge">whisper</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">用户秘密</span><span class="badge-primary badge">衣服</span><span class="badge-primary badge">外套</span><span class="badge-primary badge">帽子</span><span class="badge-primary badge">隐身</span><span class="badge-primary badge">人</span><span class="badge-primary badge">隐私</span><span class="badge-primary badge">间谍</span><span class="badge-primary badge">耳语</span><span class="badge-primary badge">用户</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-secret.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-secret.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

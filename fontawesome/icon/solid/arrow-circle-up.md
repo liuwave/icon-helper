@@ -2,7 +2,7 @@
 
 title: Arrow Circle Up(箭头圈向上) ICON转svg、png下载
 name: arrow-circle-up
-zhTips: 箭头圈向上,上传
+zhTips: 箭头圈向上,上传,向上
 tags: ["arrows"]
 pre: fas
 search: upload
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">upload</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">箭头圈向上</span><span class="badge-primary badge">上传</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/arrow-circle-up.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/arrow-circle-up.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">upload</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">箭头圈向上</span><span class="badge-primary badge">上传</span><span class="badge-primary badge">向上</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/arrow-circle-up.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/arrow-circle-up.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

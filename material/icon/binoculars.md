@@ -2,7 +2,7 @@
 
 title:  binoculars(双筒望远镜) ICON转svg、png下载
 name: binoculars
-zhTips: 双筒望远镜,望远镜,眼镜,放大,风景,查看
+zhTips: 双筒望远镜,望远镜,眼镜,放大,风景,查看,观察,视角,验真
 tags: []
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">双筒望远镜</span><span class="badge-primary badge">望远镜</span><span class="badge-primary badge">眼镜</span><span class="badge-primary badge">放大</span><span class="badge-primary badge">风景</span><span class="badge-primary badge">查看</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/binoculars.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/binoculars.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">双筒望远镜</span><span class="badge-primary badge">望远镜</span><span class="badge-primary badge">眼镜</span><span class="badge-primary badge">放大</span><span class="badge-primary badge">风景</span><span class="badge-primary badge">查看</span><span class="badge-primary badge">观察</span><span class="badge-primary badge">视角</span><span class="badge-primary badge">验真</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/binoculars.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/binoculars.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">望远镜，象征着远方、距离。</div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title:  filter(过滤器) ICON转svg、png下载
 name: filter
-zhTips: 过滤器,漏斗,渠道,选项,单独,排序
+zhTips: 过滤器,漏斗,渠道,选项,单独,排序,筛选
 tags: []
 search: funnel
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">funnel</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">过滤器</span><span class="badge-primary badge">漏斗</span><span class="badge-primary badge">渠道</span><span class="badge-primary badge">选项</span><span class="badge-primary badge">单独</span><span class="badge-primary badge">排序</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/filter.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/filter.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">funnel</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">过滤器</span><span class="badge-primary badge">漏斗</span><span class="badge-primary badge">渠道</span><span class="badge-primary badge">选项</span><span class="badge-primary badge">单独</span><span class="badge-primary badge">排序</span><span class="badge-primary badge">筛选</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/filter.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/filter.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">过滤，可表示筛选内容</div>
 <div class="alert alert-dark">

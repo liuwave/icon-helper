@@ -2,7 +2,7 @@
 
 title:  quora(quora) ICON转svg、png下载
 name: quora
-zhTips: quora
+zhTips: quora,问答,Q,问题
 tags: []
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">quora</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/quora.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/quora.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">quora</span><span class="badge-primary badge">问答</span><span class="badge-primary badge">Q</span><span class="badge-primary badge">问题</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/quora.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/quora.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">Quora是一个问答网站。</div>
 <div class="alert alert-dark">

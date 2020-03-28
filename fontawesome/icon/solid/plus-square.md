@@ -2,7 +2,7 @@
 
 title: Plus Square(Plus正方形) ICON转svg、png下载
 name: plus-square
-zhTips: Plus正方形,添加,创建,扩展,新,正,形状
+zhTips: Plus正方形,添加,创建,扩展,新,正,形状,新增,增加,insert
 tags: ["health","interfaces","maps","status"]
 pre: fas
 search: add,create,expand,new,positive,shape
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">add</span><span class="badge-light badge">create</span><span class="badge-light badge">expand</span><span class="badge-light badge">new</span><span class="badge-light badge">positive</span><span class="badge-light badge">shape</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Plus正方形</span><span class="badge-primary badge">添加</span><span class="badge-primary badge">创建</span><span class="badge-primary badge">扩展</span><span class="badge-primary badge">新</span><span class="badge-primary badge">正</span><span class="badge-primary badge">形状</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plus-square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plus-square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">add</span><span class="badge-light badge">create</span><span class="badge-light badge">expand</span><span class="badge-light badge">new</span><span class="badge-light badge">positive</span><span class="badge-light badge">shape</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Plus正方形</span><span class="badge-primary badge">添加</span><span class="badge-primary badge">创建</span><span class="badge-primary badge">扩展</span><span class="badge-primary badge">新</span><span class="badge-primary badge">正</span><span class="badge-primary badge">形状</span><span class="badge-primary badge">新增</span><span class="badge-primary badge">增加</span><span class="badge-primary badge">insert</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plus-square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plus-square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

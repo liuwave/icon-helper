@@ -1,15 +1,15 @@
 ---
 
-title: freeCodeCamp(freeCodeCamp) ICON转svg、png下载
+title: freeCodeCamp(火) ICON转svg、png下载
 name: free-code-camp
-zhTips: freeCodeCamp
+zhTips: freeCodeCamp,火,炒
 tags: []
 pre: fab
 search: 
 
 ---
 
-# freeCodeCamp  <small style="font-size: 60%;font-weight: 100">freeCodeCamp</small>
+# freeCodeCamp  <small style="font-size: 60%;font-weight: 100">火</small>
 
 
 <div class="detail-page">
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">freeCodeCamp</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/free-code-camp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/free-code-camp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">freeCodeCamp</span><span class="badge-primary badge">火</span><span class="badge-primary badge">炒</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/free-code-camp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/free-code-camp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

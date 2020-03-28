@@ -2,7 +2,7 @@
 
 title:  beer(啤酒) ICON转svg、png下载
 name: beer
-zhTips: 啤酒,品脱,酒吧,酒精,饮料,啤酒厂,酒,杯子,斯坦
+zhTips: 啤酒,品脱,酒吧,酒精,饮料,啤酒厂,酒,杯子,斯坦,啤酒杯,玻璃杯
 tags: ["food-drink"]
 search: pint,pub,bar
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">pint</span><span class="badge-light badge">pub</span><span class="badge-light badge">bar</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">啤酒</span><span class="badge-primary badge">品脱</span><span class="badge-primary badge">酒吧</span><span class="badge-primary badge">酒精</span><span class="badge-primary badge">饮料</span><span class="badge-primary badge">啤酒厂</span><span class="badge-primary badge">酒</span><span class="badge-primary badge">杯子</span><span class="badge-primary badge">斯坦</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/beer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/beer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">pint</span><span class="badge-light badge">pub</span><span class="badge-light badge">bar</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">啤酒</span><span class="badge-primary badge">品脱</span><span class="badge-primary badge">酒吧</span><span class="badge-primary badge">酒精</span><span class="badge-primary badge">饮料</span><span class="badge-primary badge">啤酒厂</span><span class="badge-primary badge">酒</span><span class="badge-primary badge">杯子</span><span class="badge-primary badge">斯坦</span><span class="badge-primary badge">啤酒杯</span><span class="badge-primary badge">玻璃杯</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/beer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/beer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">啤酒，表示欢乐、庆祝、酒吧、饮料等。</div>
 <div class="alert alert-dark">

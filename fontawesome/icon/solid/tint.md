@@ -2,7 +2,7 @@
 
 title: tint(色调) ICON转svg、png下载
 name: tint
-zhTips: 色调,颜色,拖放,水滴,雨滴,色彩
+zhTips: 色调,颜色,拖放,水滴,雨滴,色彩,water,油
 tags: ["design","images","maps","status"]
 pre: fas
 search: color,drop,droplet,raindrop,waterdrop
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">color</span><span class="badge-light badge">drop</span><span class="badge-light badge">droplet</span><span class="badge-light badge">raindrop</span><span class="badge-light badge">waterdrop</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">色调</span><span class="badge-primary badge">颜色</span><span class="badge-primary badge">拖放</span><span class="badge-primary badge">水滴</span><span class="badge-primary badge">雨滴</span><span class="badge-primary badge">色彩</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tint.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tint.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">color</span><span class="badge-light badge">drop</span><span class="badge-light badge">droplet</span><span class="badge-light badge">raindrop</span><span class="badge-light badge">waterdrop</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">色调</span><span class="badge-primary badge">颜色</span><span class="badge-primary badge">拖放</span><span class="badge-primary badge">水滴</span><span class="badge-primary badge">雨滴</span><span class="badge-primary badge">色彩</span><span class="badge-primary badge">water</span><span class="badge-primary badge">油</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tint.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tint.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示水滴、液体等。</div>
 <div class="alert alert-dark">

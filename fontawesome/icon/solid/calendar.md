@@ -2,7 +2,7 @@
 
 title: Calendar(日历) ICON转svg、png下载
 name: calendar
-zhTips: 日历,日历o,日期,事件,时间表,时间
+zhTips: 日历,日历o,日期,事件,时间表,时间,日历表,计划,记事本
 tags: ["business","date-time","interfaces","objects","shapes","status"]
 pre: fas
 search: calendar-o,date,event,schedule,time,when
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">calendar-o</span><span class="badge-light badge">date</span><span class="badge-light badge">event</span><span class="badge-light badge">schedule</span><span class="badge-light badge">time</span><span class="badge-light badge">when</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">日历</span><span class="badge-primary badge">日历o</span><span class="badge-primary badge">日期</span><span class="badge-primary badge">事件</span><span class="badge-primary badge">时间表</span><span class="badge-primary badge">时间</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/calendar.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/calendar.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">calendar-o</span><span class="badge-light badge">date</span><span class="badge-light badge">event</span><span class="badge-light badge">schedule</span><span class="badge-light badge">time</span><span class="badge-light badge">when</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">日历</span><span class="badge-primary badge">日历o</span><span class="badge-primary badge">日期</span><span class="badge-primary badge">事件</span><span class="badge-primary badge">时间表</span><span class="badge-primary badge">时间</span><span class="badge-primary badge">日历表</span><span class="badge-primary badge">计划</span><span class="badge-primary badge">记事本</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/calendar.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/calendar.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">日历，可以表示挂历、日期、时间安排等等。</div>
 <div class="alert alert-dark">

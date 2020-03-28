@@ -2,7 +2,7 @@
 
 title:  group(组) ICON转svg、png下载
 name: group
-zhTips: 组
+zhTips: 组,用户组,群组,用户,会员
 tags: []
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">组</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/group.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/group.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">组</span><span class="badge-primary badge">用户组</span><span class="badge-primary badge">群组</span><span class="badge-primary badge">用户</span><span class="badge-primary badge">会员</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/group.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/group.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: Stop Circle(停止圆) ICON转svg、png下载
 name: stop-circle
-zhTips: 停止圆,块,框,圆,正方形
+zhTips: 停止圆,块,框,圆,正方形,停止
 tags: ["audio-video"]
 pre: far
 search: block,box,circle,square
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">block</span><span class="badge-light badge">box</span><span class="badge-light badge">circle</span><span class="badge-light badge">square</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">停止圆</span><span class="badge-primary badge">块</span><span class="badge-primary badge">框</span><span class="badge-primary badge">圆</span><span class="badge-primary badge">正方形</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/stop-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/stop-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">block</span><span class="badge-light badge">box</span><span class="badge-light badge">circle</span><span class="badge-light badge">square</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">停止圆</span><span class="badge-primary badge">块</span><span class="badge-primary badge">框</span><span class="badge-primary badge">圆</span><span class="badge-primary badge">正方形</span><span class="badge-primary badge">停止</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/stop-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/stop-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

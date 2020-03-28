@@ -31,7 +31,10 @@
     "package",
     "square",
     "tesseract",
-    "立方体"
+    "立方体",
+    "方块",
+    "应用",
+    "盒子"
   ],
   "description": "立方体，可以表示魔方。",
   "comments": []

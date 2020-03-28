@@ -2,7 +2,7 @@
 
 title: Disease(疾病) ICON转svg、png下载
 name: disease
-zhTips: 疾病,细菌,癌症,covid 19,感染,病毒
+zhTips: 疾病,细菌,癌症,新型冠状病毒,新冠肺炎,感染,病毒
 tags: ["medical","pharmacy","science"]
 pre: fas
 search: bacteria,cancer,covid-19,illness,infection,sickness,virus
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">bacteria</span><span class="badge-light badge">cancer</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">illness</span><span class="badge-light badge">infection</span><span class="badge-light badge">sickness</span><span class="badge-light badge">virus</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">疾病</span><span class="badge-primary badge">细菌</span><span class="badge-primary badge">癌症</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">感染</span><span class="badge-primary badge">病毒</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/disease.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/disease.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">bacteria</span><span class="badge-light badge">cancer</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">illness</span><span class="badge-light badge">infection</span><span class="badge-light badge">sickness</span><span class="badge-light badge">virus</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">疾病</span><span class="badge-primary badge">细菌</span><span class="badge-primary badge">癌症</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">感染</span><span class="badge-primary badge">病毒</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/disease.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/disease.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

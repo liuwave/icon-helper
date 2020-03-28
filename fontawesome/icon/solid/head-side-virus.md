@@ -2,7 +2,7 @@
 
 title: Head Side Virus(冷) ICON转svg、png下载
 name: head-side-virus
-zhTips: Head Side Virus,冷,covid 19,流感,病
+zhTips: Head Side Virus,冷,新型冠状病毒,新冠肺炎,流感,病
 tags: ["medical"]
 pre: fas
 search: cold,covid-19,flu,sick
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">cold</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">flu</span><span class="badge-light badge">sick</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Head Side Virus</span><span class="badge-primary badge">冷</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">流感</span><span class="badge-primary badge">病</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/head-side-virus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/head-side-virus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">cold</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">flu</span><span class="badge-light badge">sick</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Head Side Virus</span><span class="badge-primary badge">冷</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">流感</span><span class="badge-primary badge">病</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/head-side-virus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/head-side-virus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

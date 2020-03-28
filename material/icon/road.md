@@ -2,7 +2,7 @@
 
 title:  road(道路) ICON转svg、png下载
 name: road
-zhTips: 道路,马路,高速公路,地图,路面,路线,街道,旅行
+zhTips: 道路,马路,高速公路,地图,路面,路线,街道,旅行,公路,路线图
 tags: ["transportation-road","transportation-road"]
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">道路</span><span class="badge-primary badge">马路</span><span class="badge-primary badge">高速公路</span><span class="badge-primary badge">地图</span><span class="badge-primary badge">路面</span><span class="badge-primary badge">路线</span><span class="badge-primary badge">街道</span><span class="badge-primary badge">旅行</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/road.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/road.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">道路</span><span class="badge-primary badge">马路</span><span class="badge-primary badge">高速公路</span><span class="badge-primary badge">地图</span><span class="badge-primary badge">路面</span><span class="badge-primary badge">路线</span><span class="badge-primary badge">街道</span><span class="badge-primary badge">旅行</span><span class="badge-primary badge">公路</span><span class="badge-primary badge">路线图</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/road.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/road.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示人行道图标。</div>
 <div class="alert alert-dark">

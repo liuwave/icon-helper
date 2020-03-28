@@ -2,7 +2,7 @@
 
 title: Chevron Circle Left(Chevron Circle左) ICON转svg、png下载
 name: chevron-circle-left
-zhTips: Chevron Circle左,箭头,后退,上一个
+zhTips: Chevron Circle左,箭头,后退,上一个,左边,向左,左
 tags: ["arrows"]
 pre: fas
 search: arrow,back,previous
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">arrow</span><span class="badge-light badge">back</span><span class="badge-light badge">previous</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Chevron Circle左</span><span class="badge-primary badge">箭头</span><span class="badge-primary badge">后退</span><span class="badge-primary badge">上一个</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/chevron-circle-left.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/chevron-circle-left.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">arrow</span><span class="badge-light badge">back</span><span class="badge-light badge">previous</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Chevron Circle左</span><span class="badge-primary badge">箭头</span><span class="badge-primary badge">后退</span><span class="badge-primary badge">上一个</span><span class="badge-primary badge">左边</span><span class="badge-primary badge">向左</span><span class="badge-primary badge">左</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/chevron-circle-left.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/chevron-circle-left.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

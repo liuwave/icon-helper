@@ -2,7 +2,7 @@
 
 title:  pencil(铅笔) ICON转svg、png下载
 name: pencil
-zhTips: 铅笔,编辑,创建,编辑模式
+zhTips: 铅笔,编辑,创建,编辑模式,绘画,修改,笔
 tags: ["drawing-art","edit-modify"]
 search: edit,create,mode-edit
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">edit</span><span class="badge-light badge">create</span><span class="badge-light badge">mode-edit</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">铅笔</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">创建</span><span class="badge-primary badge">编辑模式</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/pencil.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/pencil.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">edit</span><span class="badge-light badge">create</span><span class="badge-light badge">mode-edit</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">铅笔</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">创建</span><span class="badge-primary badge">编辑模式</span><span class="badge-primary badge">绘画</span><span class="badge-primary badge">修改</span><span class="badge-primary badge">笔</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/pencil.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/pencil.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

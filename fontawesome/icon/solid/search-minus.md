@@ -2,7 +2,7 @@
 
 title: Search Minus(搜索减号) ICON转svg、png下载
 name: search-minus
-zhTips: 搜索减号,缩小号,负号,较小,放大,缩小
+zhTips: 搜索减号,缩小号,负号,较小,放大,缩小,搜索,zoomout
 tags: ["interfaces","maps"]
 pre: fas
 search: minify,negative,smaller,zoom,zoom out
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">minify</span><span class="badge-light badge">negative</span><span class="badge-light badge">smaller</span><span class="badge-light badge">zoom</span><span class="badge-light badge">zoom out</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">搜索减号</span><span class="badge-primary badge">缩小号</span><span class="badge-primary badge">负号</span><span class="badge-primary badge">较小</span><span class="badge-primary badge">放大</span><span class="badge-primary badge">缩小</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search-minus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search-minus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">minify</span><span class="badge-light badge">negative</span><span class="badge-light badge">smaller</span><span class="badge-light badge">zoom</span><span class="badge-light badge">zoom out</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">搜索减号</span><span class="badge-primary badge">缩小号</span><span class="badge-primary badge">负号</span><span class="badge-primary badge">较小</span><span class="badge-primary badge">放大</span><span class="badge-primary badge">缩小</span><span class="badge-primary badge">搜索</span><span class="badge-primary badge">zoomout</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search-minus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search-minus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

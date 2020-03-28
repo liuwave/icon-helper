@@ -7,7 +7,11 @@
   "author": "Cody",
   "version": "1.5.54",
   "zhs": [
-    "组"
+    "组",
+    "用户组",
+    "群组",
+    "用户",
+    "会员"
   ],
   "description": "",
   "comments": []

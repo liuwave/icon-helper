@@ -2,7 +2,7 @@
 
 title: Gavel(木槌) ICON转svg、png下载
 name: gavel
-zhTips: 木槌,锤子,法官,法律,律师,意见
+zhTips: 木槌,锤子,法官,法律,律师,意见,拍卖锤
 tags: ["maps","objects"]
 pre: fas
 search: hammer,judge,law,lawyer,opinion
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">hammer</span><span class="badge-light badge">judge</span><span class="badge-light badge">law</span><span class="badge-light badge">lawyer</span><span class="badge-light badge">opinion</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">木槌</span><span class="badge-primary badge">锤子</span><span class="badge-primary badge">法官</span><span class="badge-primary badge">法律</span><span class="badge-primary badge">律师</span><span class="badge-primary badge">意见</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gavel.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gavel.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">hammer</span><span class="badge-light badge">judge</span><span class="badge-light badge">law</span><span class="badge-light badge">lawyer</span><span class="badge-light badge">opinion</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">木槌</span><span class="badge-primary badge">锤子</span><span class="badge-primary badge">法官</span><span class="badge-primary badge">法律</span><span class="badge-primary badge">律师</span><span class="badge-primary badge">意见</span><span class="badge-primary badge">拍卖锤</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gavel.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gavel.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示敲击，敲打等。</div>
 <div class="alert alert-dark">

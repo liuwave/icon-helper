@@ -2,7 +2,7 @@
 
 title: book(书籍) ICON转svg、png下载
 name: book
-zhTips: 书籍,日记,文档,期刊,图书馆,阅读
+zhTips: 书籍,日记,文档,期刊,图书馆,阅读,图书,字典,书签
 tags: ["business","finance","maps","objects","writing"]
 pre: fas
 search: diary,documentation,journal,library,read
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">diary</span><span class="badge-light badge">documentation</span><span class="badge-light badge">journal</span><span class="badge-light badge">library</span><span class="badge-light badge">read</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">书籍</span><span class="badge-primary badge">日记</span><span class="badge-primary badge">文档</span><span class="badge-primary badge">期刊</span><span class="badge-primary badge">图书馆</span><span class="badge-primary badge">阅读</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/book.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/book.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">diary</span><span class="badge-light badge">documentation</span><span class="badge-light badge">journal</span><span class="badge-light badge">library</span><span class="badge-light badge">read</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">书籍</span><span class="badge-primary badge">日记</span><span class="badge-primary badge">文档</span><span class="badge-primary badge">期刊</span><span class="badge-primary badge">图书馆</span><span class="badge-primary badge">阅读</span><span class="badge-primary badge">图书</span><span class="badge-primary badge">字典</span><span class="badge-primary badge">书签</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/book.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/book.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">书籍，象征着知识，可以表示为收藏、资料库、字典。</div>
 <div class="alert alert-dark">

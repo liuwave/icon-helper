@@ -2,7 +2,7 @@
 
 title: Mobile Phone(手机) ICON转svg、png下载
 name: mobile
-zhTips: 手机,苹果,电话,设备,iphone,数字,屏幕,手机黑屏
+zhTips: 手机,苹果,电话,设备,iphone,数字,屏幕,手机黑屏,android
 tags: ["communication","computers","objects"]
 pre: fas
 search: apple,call,cell phone,cellphone,device,iphone,number,screen,telephone
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">apple</span><span class="badge-light badge">call</span><span class="badge-light badge">cell phone</span><span class="badge-light badge">cellphone</span><span class="badge-light badge">device</span><span class="badge-light badge">iphone</span><span class="badge-light badge">number</span><span class="badge-light badge">screen</span><span class="badge-light badge">telephone</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">手机</span><span class="badge-primary badge">苹果</span><span class="badge-primary badge">电话</span><span class="badge-primary badge">设备</span><span class="badge-primary badge">iphone</span><span class="badge-primary badge">数字</span><span class="badge-primary badge">屏幕</span><span class="badge-primary badge">手机黑屏</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mobile.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mobile.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">apple</span><span class="badge-light badge">call</span><span class="badge-light badge">cell phone</span><span class="badge-light badge">cellphone</span><span class="badge-light badge">device</span><span class="badge-light badge">iphone</span><span class="badge-light badge">number</span><span class="badge-light badge">screen</span><span class="badge-light badge">telephone</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">手机</span><span class="badge-primary badge">苹果</span><span class="badge-primary badge">电话</span><span class="badge-primary badge">设备</span><span class="badge-primary badge">iphone</span><span class="badge-primary badge">数字</span><span class="badge-primary badge">屏幕</span><span class="badge-primary badge">手机黑屏</span><span class="badge-primary badge">android</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mobile.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mobile.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示手机、关机。</div>
 <div class="alert alert-dark">

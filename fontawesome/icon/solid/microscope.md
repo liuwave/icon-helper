@@ -2,7 +2,7 @@
 
 title: Microscope(显微镜) ICON转svg、png下载
 name: microscope
-zhTips: 显微镜,covid 19,电子,透镜,光学,科学,收缩
+zhTips: 显微镜,新型冠状病毒,新冠肺炎,电子,透镜,光学,科学,收缩
 tags: ["education","medical","science"]
 pre: fas
 search: covid-19,electron,lens,optics,science,shrink
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">electron</span><span class="badge-light badge">lens</span><span class="badge-light badge">optics</span><span class="badge-light badge">science</span><span class="badge-light badge">shrink</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">显微镜</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">电子</span><span class="badge-primary badge">透镜</span><span class="badge-primary badge">光学</span><span class="badge-primary badge">科学</span><span class="badge-primary badge">收缩</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microscope.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microscope.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">electron</span><span class="badge-light badge">lens</span><span class="badge-light badge">optics</span><span class="badge-light badge">science</span><span class="badge-light badge">shrink</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">显微镜</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">电子</span><span class="badge-primary badge">透镜</span><span class="badge-primary badge">光学</span><span class="badge-primary badge">科学</span><span class="badge-primary badge">收缩</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microscope.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/microscope.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

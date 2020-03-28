@@ -2,7 +2,7 @@
 
 title: Alternate Store Slash(备用商店大幅削减) ICON转svg、png下载
 name: store-alt-slash
-zhTips: 备用商店大幅削减,建筑,购买,关闭,covid 19,购物
+zhTips: 备用商店大幅削减,建筑,购买,关闭,新型冠状病毒,新冠肺炎,购物
 tags: ["shopping"]
 pre: fas
 search: building,buy,closed,covid-19,purchase,shopping
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">buy</span><span class="badge-light badge">closed</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">purchase</span><span class="badge-light badge">shopping</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">备用商店大幅削减</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">购买</span><span class="badge-primary badge">关闭</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">购物</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/store-alt-slash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/store-alt-slash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">buy</span><span class="badge-light badge">closed</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">purchase</span><span class="badge-light badge">shopping</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">备用商店大幅削减</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">购买</span><span class="badge-primary badge">关闭</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">购物</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/store-alt-slash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/store-alt-slash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

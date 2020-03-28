@@ -2,7 +2,7 @@
 
 title: Doctor(医生) ICON转svg、png下载
 name: user-md
-zhTips: 医生,covid 19,作业,医疗,护士,职业,医师,配置文件,外科医生
+zhTips: 医生,新型冠状病毒,新冠肺炎,作业,医疗,护士,职业,医师,配置文件,外科医生,用户
 tags: ["health","medical","users-people"]
 pre: fas
 search: covid-19,job,medical,nurse,occupation,physician,profile,surgeon
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">job</span><span class="badge-light badge">medical</span><span class="badge-light badge">nurse</span><span class="badge-light badge">occupation</span><span class="badge-light badge">physician</span><span class="badge-light badge">profile</span><span class="badge-light badge">surgeon</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">医生</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">作业</span><span class="badge-primary badge">医疗</span><span class="badge-primary badge">护士</span><span class="badge-primary badge">职业</span><span class="badge-primary badge">医师</span><span class="badge-primary badge">配置文件</span><span class="badge-primary badge">外科医生</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-md.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-md.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">job</span><span class="badge-light badge">medical</span><span class="badge-light badge">nurse</span><span class="badge-light badge">occupation</span><span class="badge-light badge">physician</span><span class="badge-light badge">profile</span><span class="badge-light badge">surgeon</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">医生</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">作业</span><span class="badge-primary badge">医疗</span><span class="badge-primary badge">护士</span><span class="badge-primary badge">职业</span><span class="badge-primary badge">医师</span><span class="badge-primary badge">配置文件</span><span class="badge-primary badge">外科医生</span><span class="badge-primary badge">用户</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-md.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-md.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

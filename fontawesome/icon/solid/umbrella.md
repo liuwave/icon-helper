@@ -2,7 +2,7 @@
 
 title: Umbrella(雨伞) ICON转svg、png下载
 name: umbrella
-zhTips: 雨伞,防护,雨,暴雨,湿,雨伞标志
+zhTips: 雨伞,防护,雨,暴雨,湿,雨伞标志,保护伞,杀毒软件
 tags: ["maps","objects","spring","weather"]
 pre: fas
 search: protection,rain,storm,wet
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">protection</span><span class="badge-light badge">rain</span><span class="badge-light badge">storm</span><span class="badge-light badge">wet</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">雨伞</span><span class="badge-primary badge">防护</span><span class="badge-primary badge">雨</span><span class="badge-primary badge">暴雨</span><span class="badge-primary badge">湿</span><span class="badge-primary badge">雨伞标志</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/umbrella.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/umbrella.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">protection</span><span class="badge-light badge">rain</span><span class="badge-light badge">storm</span><span class="badge-light badge">wet</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">雨伞</span><span class="badge-primary badge">防护</span><span class="badge-primary badge">雨</span><span class="badge-primary badge">暴雨</span><span class="badge-primary badge">湿</span><span class="badge-primary badge">雨伞标志</span><span class="badge-primary badge">保护伞</span><span class="badge-primary badge">杀毒软件</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/umbrella.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/umbrella.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">可用于表示雨天、下雨、天气等。</div>
 <div class="alert alert-dark">

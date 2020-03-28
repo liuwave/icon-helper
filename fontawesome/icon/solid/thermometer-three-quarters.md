@@ -2,7 +2,7 @@
 
 title: Thermometer 3/4 Full(温度计3/4满) ICON转svg、png下载
 name: thermometer-three-quarters
-zhTips: 温度计3/4满,汞,状态,温度
+zhTips: 温度计3/4满,汞,状态,温度,温度计
 tags: ["status"]
 pre: fas
 search: mercury,status,temperature
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">mercury</span><span class="badge-light badge">status</span><span class="badge-light badge">temperature</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">温度计3/4满</span><span class="badge-primary badge">汞</span><span class="badge-primary badge">状态</span><span class="badge-primary badge">温度</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/thermometer-three-quarters.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/thermometer-three-quarters.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">mercury</span><span class="badge-light badge">status</span><span class="badge-light badge">temperature</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">温度计3/4满</span><span class="badge-primary badge">汞</span><span class="badge-primary badge">状态</span><span class="badge-primary badge">温度</span><span class="badge-primary badge">温度计</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/thermometer-three-quarters.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/thermometer-three-quarters.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

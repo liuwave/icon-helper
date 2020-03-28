@@ -2,7 +2,7 @@
 
 title: Mouse Pointer(鼠标指针) ICON转svg、png下载
 name: mouse-pointer
-zhTips: 鼠标指针,箭头,光标,选择
+zhTips: 鼠标指针,箭头,光标,选择,鼠标光标
 tags: ["arrows"]
 pre: fas
 search: arrow,cursor,select
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">arrow</span><span class="badge-light badge">cursor</span><span class="badge-light badge">select</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">鼠标指针</span><span class="badge-primary badge">箭头</span><span class="badge-primary badge">光标</span><span class="badge-primary badge">选择</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mouse-pointer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mouse-pointer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">arrow</span><span class="badge-light badge">cursor</span><span class="badge-light badge">select</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">鼠标指针</span><span class="badge-primary badge">箭头</span><span class="badge-primary badge">光标</span><span class="badge-primary badge">选择</span><span class="badge-primary badge">鼠标光标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mouse-pointer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/mouse-pointer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

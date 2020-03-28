@@ -2,7 +2,7 @@
 
 title: Bomb(炸弹) ICON转svg、png下载
 name: bomb
-zhTips: 炸弹,错误,爆炸,保险丝,手榴弹,警告
+zhTips: 炸弹,错误,爆炸,保险丝,手榴弹,警告,地雷,危险,注意
 tags: ["maps","objects"]
 pre: fas
 search: error,explode,fuse,grenade,warning
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">error</span><span class="badge-light badge">explode</span><span class="badge-light badge">fuse</span><span class="badge-light badge">grenade</span><span class="badge-light badge">warning</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">炸弹</span><span class="badge-primary badge">错误</span><span class="badge-primary badge">爆炸</span><span class="badge-primary badge">保险丝</span><span class="badge-primary badge">手榴弹</span><span class="badge-primary badge">警告</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bomb.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bomb.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">error</span><span class="badge-light badge">explode</span><span class="badge-light badge">fuse</span><span class="badge-light badge">grenade</span><span class="badge-light badge">warning</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">炸弹</span><span class="badge-primary badge">错误</span><span class="badge-primary badge">爆炸</span><span class="badge-primary badge">保险丝</span><span class="badge-primary badge">手榴弹</span><span class="badge-primary badge">警告</span><span class="badge-primary badge">地雷</span><span class="badge-primary badge">危险</span><span class="badge-primary badge">注意</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bomb.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bomb.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">炸弹，象征着危险，也可以表示爆炸性的新闻。</div>
 <div class="alert alert-dark">

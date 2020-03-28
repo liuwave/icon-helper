@@ -2,7 +2,7 @@
 
 title: Genderless(无性别) ICON转svg、png下载
 name: genderless
-zhTips: 无性别,雌雄同体,无性
+zhTips: 无性别,雌雄同体,无性,圆圈
 tags: ["gender"]
 pre: fas
 search: androgynous,asexual,sexless
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">androgynous</span><span class="badge-light badge">asexual</span><span class="badge-light badge">sexless</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">无性别</span><span class="badge-primary badge">雌雄同体</span><span class="badge-primary badge">无性</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/genderless.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/genderless.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">androgynous</span><span class="badge-light badge">asexual</span><span class="badge-light badge">sexless</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">无性别</span><span class="badge-primary badge">雌雄同体</span><span class="badge-primary badge">无性</span><span class="badge-primary badge">圆圈</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/genderless.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/genderless.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">无性别，也可表示空心，终止等</div>
 <div class="alert alert-dark">

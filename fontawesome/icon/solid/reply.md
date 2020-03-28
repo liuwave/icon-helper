@@ -2,7 +2,7 @@
 
 title: Reply(回复) ICON转svg、png下载
 name: reply
-zhTips: 回复,邮件,消息,响应,回复黑
+zhTips: 回复,邮件,消息,响应,回复黑,撤销
 tags: ["arrows","editors","interfaces"]
 pre: fas
 search: mail,message,respond
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">mail</span><span class="badge-light badge">message</span><span class="badge-light badge">respond</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">回复</span><span class="badge-primary badge">邮件</span><span class="badge-primary badge">消息</span><span class="badge-primary badge">响应</span><span class="badge-primary badge">回复黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/reply.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/reply.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">mail</span><span class="badge-light badge">message</span><span class="badge-light badge">respond</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">回复</span><span class="badge-primary badge">邮件</span><span class="badge-primary badge">消息</span><span class="badge-primary badge">响应</span><span class="badge-primary badge">回复黑</span><span class="badge-primary badge">撤销</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/reply.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/reply.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示撤销，回到上一步等。</div>
 <div class="alert alert-dark">

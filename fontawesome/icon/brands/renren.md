@@ -2,7 +2,7 @@
 
 title: Renren(人人) ICON转svg、png下载
 name: renren
-zhTips: 人人,renren
+zhTips: 人人,renren,校内,人人网
 tags: []
 pre: fab
 search: 
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">人人</span><span class="badge-primary badge">renren</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/renren.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/renren.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">人人</span><span class="badge-primary badge">renren</span><span class="badge-primary badge">校内</span><span class="badge-primary badge">人人网</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/renren.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/renren.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">人人曾是中国领先的实名制社交网络平台，现已经关闭。</div>
 <div class="alert alert-dark">

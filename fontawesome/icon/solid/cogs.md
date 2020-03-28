@@ -2,7 +2,7 @@
 
 title: cogs(嵌齿轮) ICON转svg、png下载
 name: cogs
-zhTips: 嵌齿轮,齿轮,机械,设置,链轮,轮,一组齿轮
+zhTips: 嵌齿轮,齿轮,机械,设置,链轮,轮,一组齿轮,设定,查询
 tags: ["interfaces","objects"]
 pre: fas
 search: gears,mechanical,settings,sprocket,wheel
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">gears</span><span class="badge-light badge">mechanical</span><span class="badge-light badge">settings</span><span class="badge-light badge">sprocket</span><span class="badge-light badge">wheel</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">嵌齿轮</span><span class="badge-primary badge">齿轮</span><span class="badge-primary badge">机械</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">链轮</span><span class="badge-primary badge">轮</span><span class="badge-primary badge">一组齿轮</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cogs.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cogs.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">gears</span><span class="badge-light badge">mechanical</span><span class="badge-light badge">settings</span><span class="badge-light badge">sprocket</span><span class="badge-light badge">wheel</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">嵌齿轮</span><span class="badge-primary badge">齿轮</span><span class="badge-primary badge">机械</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">链轮</span><span class="badge-primary badge">轮</span><span class="badge-primary badge">一组齿轮</span><span class="badge-primary badge">设定</span><span class="badge-primary badge">查询</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cogs.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cogs.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">一组齿轮，可以表示复杂的系统管理。</div>
 <div class="alert alert-dark">

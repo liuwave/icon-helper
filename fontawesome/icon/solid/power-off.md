@@ -2,7 +2,7 @@
 
 title: Power Off(关机) ICON转svg、png下载
 name: power-off
-zhTips: 关机,取消,计算机,开机,重新启动
+zhTips: 关机,取消,计算机,开机,重新启动,退出,关闭
 tags: ["computers","energy","users-people"]
 pre: fas
 search: cancel,computer,on,reboot,restart
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">cancel</span><span class="badge-light badge">computer</span><span class="badge-light badge">on</span><span class="badge-light badge">reboot</span><span class="badge-light badge">restart</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">关机</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">开机</span><span class="badge-primary badge">重新启动</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/power-off.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/power-off.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">cancel</span><span class="badge-light badge">computer</span><span class="badge-light badge">on</span><span class="badge-light badge">reboot</span><span class="badge-light badge">restart</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">关机</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">开机</span><span class="badge-primary badge">重新启动</span><span class="badge-primary badge">退出</span><span class="badge-primary badge">关闭</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/power-off.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/power-off.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

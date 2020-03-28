@@ -2,7 +2,7 @@
 
 title: Gamepad(游戏手柄) ICON转svg、png下载
 name: gamepad
-zhTips: 游戏手柄,街机,控制器,d垫,游戏杆,视频,视频游戏
+zhTips: 游戏手柄,街机,控制器,d垫,游戏杆,视频,视频游戏,手柄,游戏控制器
 tags: ["childhood","games","maps","objects"]
 pre: fas
 search: arcade,controller,d-pad,joystick,video,video game
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">arcade</span><span class="badge-light badge">controller</span><span class="badge-light badge">d-pad</span><span class="badge-light badge">joystick</span><span class="badge-light badge">video</span><span class="badge-light badge">video game</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">游戏手柄</span><span class="badge-primary badge">街机</span><span class="badge-primary badge">控制器</span><span class="badge-primary badge">d垫</span><span class="badge-primary badge">游戏杆</span><span class="badge-primary badge">视频</span><span class="badge-primary badge">视频游戏</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gamepad.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gamepad.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">arcade</span><span class="badge-light badge">controller</span><span class="badge-light badge">d-pad</span><span class="badge-light badge">joystick</span><span class="badge-light badge">video</span><span class="badge-light badge">video game</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">游戏手柄</span><span class="badge-primary badge">街机</span><span class="badge-primary badge">控制器</span><span class="badge-primary badge">d垫</span><span class="badge-primary badge">游戏杆</span><span class="badge-primary badge">视频</span><span class="badge-primary badge">视频游戏</span><span class="badge-primary badge">手柄</span><span class="badge-primary badge">游戏控制器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gamepad.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/gamepad.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">游戏手柄，表示电子游戏机，游戏类控制等。</div>
 <div class="alert alert-dark">

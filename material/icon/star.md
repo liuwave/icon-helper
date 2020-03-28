@@ -2,7 +2,7 @@
 
 title:  star(星级) ICON转svg、png下载
 name: star
-zhTips: 星级,等级,黑星星,成就,奖项,最喜欢的,重要的,晚上,评分
+zhTips: 星级,等级,黑星星,成就,奖项,最喜欢的,重要的,晚上,评分,五角星,收藏
 tags: ["shape"]
 search: grade,star-rate
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">grade</span><span class="badge-light badge">star-rate</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">星级</span><span class="badge-primary badge">等级</span><span class="badge-primary badge">黑星星</span><span class="badge-primary badge">成就</span><span class="badge-primary badge">奖项</span><span class="badge-primary badge">最喜欢的</span><span class="badge-primary badge">重要的</span><span class="badge-primary badge">晚上</span><span class="badge-primary badge">评分</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/star.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/star.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">grade</span><span class="badge-light badge">star-rate</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">星级</span><span class="badge-primary badge">等级</span><span class="badge-primary badge">黑星星</span><span class="badge-primary badge">成就</span><span class="badge-primary badge">奖项</span><span class="badge-primary badge">最喜欢的</span><span class="badge-primary badge">重要的</span><span class="badge-primary badge">晚上</span><span class="badge-primary badge">评分</span><span class="badge-primary badge">五角星</span><span class="badge-primary badge">收藏</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/star.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/star.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">一种五角星图案，可以表示评论等级</div>
 <div class="alert alert-dark">

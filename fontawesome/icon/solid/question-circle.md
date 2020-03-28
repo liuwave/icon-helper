@@ -2,7 +2,7 @@
 
 title: Question Circle(问题圈) ICON转svg、png下载
 name: question-circle
-zhTips: 问题圈,帮助,信息,支持,未知
+zhTips: 问题圈,帮助,信息,支持,未知,help,问号
 tags: ["accessibility","interfaces","status"]
 pre: fas
 search: help,information,support,unknown
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">help</span><span class="badge-light badge">information</span><span class="badge-light badge">support</span><span class="badge-light badge">unknown</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">问题圈</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">信息</span><span class="badge-primary badge">支持</span><span class="badge-primary badge">未知</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/question-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/question-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">help</span><span class="badge-light badge">information</span><span class="badge-light badge">support</span><span class="badge-light badge">unknown</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">问题圈</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">信息</span><span class="badge-primary badge">支持</span><span class="badge-primary badge">未知</span><span class="badge-primary badge">help</span><span class="badge-primary badge">问号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/question-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/question-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

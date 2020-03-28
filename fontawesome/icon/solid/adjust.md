@@ -2,7 +2,7 @@
 
 title: adjust(调整) ICON转svg、png下载
 name: adjust
-zhTips: 调整,对比,深色,浅色,饱和度
+zhTips: 调整,对比,深色,浅色,饱和度,校准,适应,半色
 tags: ["design","images"]
 pre: fas
 search: contrast,dark,light,saturation
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">contrast</span><span class="badge-light badge">dark</span><span class="badge-light badge">light</span><span class="badge-light badge">saturation</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">调整</span><span class="badge-primary badge">对比</span><span class="badge-primary badge">深色</span><span class="badge-primary badge">浅色</span><span class="badge-primary badge">饱和度</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/adjust.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/adjust.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">contrast</span><span class="badge-light badge">dark</span><span class="badge-light badge">light</span><span class="badge-light badge">saturation</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">调整</span><span class="badge-primary badge">对比</span><span class="badge-primary badge">深色</span><span class="badge-primary badge">浅色</span><span class="badge-primary badge">饱和度</span><span class="badge-primary badge">校准</span><span class="badge-primary badge">适应</span><span class="badge-primary badge">半色</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/adjust.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/adjust.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">调整，表示黑与白各一半，也可表示白天黑夜。</div>
 <div class="alert alert-dark">

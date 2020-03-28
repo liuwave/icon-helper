@@ -2,7 +2,7 @@
 
 title: Bullseye(射箭) ICON转svg、png下载
 name: bullseye
-zhTips: Bullseye,射箭,目标,靶心
+zhTips: Bullseye,射箭,目标,靶心,圆心,靶眼,定位,位置
 tags: ["business","interfaces","marketing","objects","toggle"]
 pre: fas
 search: archery,goal,objective,target
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">archery</span><span class="badge-light badge">goal</span><span class="badge-light badge">objective</span><span class="badge-light badge">target</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Bullseye</span><span class="badge-primary badge">射箭</span><span class="badge-primary badge">目标</span><span class="badge-primary badge">靶心</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bullseye.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bullseye.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">archery</span><span class="badge-light badge">goal</span><span class="badge-light badge">objective</span><span class="badge-light badge">target</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Bullseye</span><span class="badge-primary badge">射箭</span><span class="badge-primary badge">目标</span><span class="badge-primary badge">靶心</span><span class="badge-primary badge">圆心</span><span class="badge-primary badge">靶眼</span><span class="badge-primary badge">定位</span><span class="badge-primary badge">位置</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bullseye.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bullseye.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">靶心，可以表示枪靶。</div>
 <div class="alert alert-dark">

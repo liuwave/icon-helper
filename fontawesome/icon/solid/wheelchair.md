@@ -2,7 +2,7 @@
 
 title: Wheelchair(轮椅) ICON转svg、png下载
 name: wheelchair
-zhTips: 轮椅,可访问,残障,人
+zhTips: 轮椅,可访问,残障,人,残疾人,绿色通道
 tags: ["accessibility","health","hotel","maps","objects","users-people","vehicles"]
 pre: fas
 search: accessible,handicap,person
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">accessible</span><span class="badge-light badge">handicap</span><span class="badge-light badge">person</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">轮椅</span><span class="badge-primary badge">可访问</span><span class="badge-primary badge">残障</span><span class="badge-primary badge">人</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wheelchair.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wheelchair.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">accessible</span><span class="badge-light badge">handicap</span><span class="badge-light badge">person</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">轮椅</span><span class="badge-primary badge">可访问</span><span class="badge-primary badge">残障</span><span class="badge-primary badge">人</span><span class="badge-primary badge">残疾人</span><span class="badge-primary badge">绿色通道</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wheelchair.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wheelchair.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">载人行走的工具，可用于表示行动不方便，残疾人等。</div>
 <div class="alert alert-dark">

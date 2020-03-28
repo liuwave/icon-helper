@@ -2,7 +2,7 @@
 
 title: Paint Brush(画笔) ICON转svg、png下载
 name: paint-brush
-zhTips: 画笔,丙烯酸,艺术,颜色,填充,油漆,颜料,水彩
+zhTips: 画笔,丙烯酸,艺术,颜色,填充,油漆,颜料,水彩,涂鸦
 tags: ["design","objects"]
 pre: fas
 search: acrylic,art,brush,color,fill,paint,pigment,watercolor
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">acrylic</span><span class="badge-light badge">art</span><span class="badge-light badge">brush</span><span class="badge-light badge">color</span><span class="badge-light badge">fill</span><span class="badge-light badge">paint</span><span class="badge-light badge">pigment</span><span class="badge-light badge">watercolor</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">画笔</span><span class="badge-primary badge">丙烯酸</span><span class="badge-primary badge">艺术</span><span class="badge-primary badge">颜色</span><span class="badge-primary badge">填充</span><span class="badge-primary badge">油漆</span><span class="badge-primary badge">颜料</span><span class="badge-primary badge">水彩</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paint-brush.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paint-brush.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">acrylic</span><span class="badge-light badge">art</span><span class="badge-light badge">brush</span><span class="badge-light badge">color</span><span class="badge-light badge">fill</span><span class="badge-light badge">paint</span><span class="badge-light badge">pigment</span><span class="badge-light badge">watercolor</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">画笔</span><span class="badge-primary badge">丙烯酸</span><span class="badge-primary badge">艺术</span><span class="badge-primary badge">颜色</span><span class="badge-primary badge">填充</span><span class="badge-primary badge">油漆</span><span class="badge-primary badge">颜料</span><span class="badge-primary badge">水彩</span><span class="badge-primary badge">涂鸦</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paint-brush.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paint-brush.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

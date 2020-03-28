@@ -2,7 +2,7 @@
 
 title: Window Restore(窗口还原) ICON转svg、png下载
 name: window-restore
-zhTips: 窗口还原,浏览器,计算机,开发
+zhTips: 窗口还原,浏览器,计算机,开发,窗口,还原
 tags: ["code"]
 pre: far
 search: browser,computer,development
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">browser</span><span class="badge-light badge">computer</span><span class="badge-light badge">development</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">窗口还原</span><span class="badge-primary badge">浏览器</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">开发</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/window-restore.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/window-restore.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">browser</span><span class="badge-light badge">computer</span><span class="badge-light badge">development</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">窗口还原</span><span class="badge-primary badge">浏览器</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">开发</span><span class="badge-primary badge">窗口</span><span class="badge-primary badge">还原</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/window-restore.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/window-restore.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

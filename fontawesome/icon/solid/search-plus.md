@@ -2,7 +2,7 @@
 
 title: Search Plus(更大) ICON转svg、png下载
 name: search-plus
-zhTips: Search Plus,更大,放大,正数
+zhTips: Search Plus,更大,放大,正数,搜索,放大镜
 tags: ["interfaces","maps"]
 pre: fas
 search: bigger,enlarge,magnify,positive,zoom,zoom in
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">bigger</span><span class="badge-light badge">enlarge</span><span class="badge-light badge">magnify</span><span class="badge-light badge">positive</span><span class="badge-light badge">zoom</span><span class="badge-light badge">zoom in</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Search Plus</span><span class="badge-primary badge">更大</span><span class="badge-primary badge">放大</span><span class="badge-primary badge">正数</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search-plus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search-plus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">bigger</span><span class="badge-light badge">enlarge</span><span class="badge-light badge">magnify</span><span class="badge-light badge">positive</span><span class="badge-light badge">zoom</span><span class="badge-light badge">zoom in</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Search Plus</span><span class="badge-primary badge">更大</span><span class="badge-primary badge">放大</span><span class="badge-primary badge">正数</span><span class="badge-primary badge">搜索</span><span class="badge-primary badge">放大镜</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search-plus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search-plus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

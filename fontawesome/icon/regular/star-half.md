@@ -2,7 +2,7 @@
 
 title: star-half(星级一半) ICON转svg、png下载
 name: star-half
-zhTips: 星级一半,成就,奖项,评分,星级一半空,星级一半满
+zhTips: 星级一半,成就,奖项,评分,星级一半空,星级一半满,五角星,收藏
 tags: ["interfaces","status","toggle"]
 pre: far
 search: achievement,award,rating,score,star-half-empty,star-half-full
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">achievement</span><span class="badge-light badge">award</span><span class="badge-light badge">rating</span><span class="badge-light badge">score</span><span class="badge-light badge">star-half-empty</span><span class="badge-light badge">star-half-full</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">星级一半</span><span class="badge-primary badge">成就</span><span class="badge-primary badge">奖项</span><span class="badge-primary badge">评分</span><span class="badge-primary badge">星级一半空</span><span class="badge-primary badge">星级一半满</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/star-half.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/star-half.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">achievement</span><span class="badge-light badge">award</span><span class="badge-light badge">rating</span><span class="badge-light badge">score</span><span class="badge-light badge">star-half-empty</span><span class="badge-light badge">star-half-full</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">星级一半</span><span class="badge-primary badge">成就</span><span class="badge-primary badge">奖项</span><span class="badge-primary badge">评分</span><span class="badge-primary badge">星级一半空</span><span class="badge-primary badge">星级一半满</span><span class="badge-primary badge">五角星</span><span class="badge-primary badge">收藏</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/star-half.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/star-half.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

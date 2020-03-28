@@ -2,7 +2,7 @@
 
 title: Child(儿童) ICON转svg、png下载
 name: child
-zhTips: 儿童,男孩,女孩,孩子,小孩,年轻
+zhTips: 儿童,男孩,女孩,孩子,小孩,年轻,小孩子
 tags: ["users-people"]
 pre: fas
 search: boy,girl,kid,toddler,young
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">boy</span><span class="badge-light badge">girl</span><span class="badge-light badge">kid</span><span class="badge-light badge">toddler</span><span class="badge-light badge">young</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">儿童</span><span class="badge-primary badge">男孩</span><span class="badge-primary badge">女孩</span><span class="badge-primary badge">孩子</span><span class="badge-primary badge">小孩</span><span class="badge-primary badge">年轻</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/child.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/child.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">boy</span><span class="badge-light badge">girl</span><span class="badge-light badge">kid</span><span class="badge-light badge">toddler</span><span class="badge-light badge">young</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">儿童</span><span class="badge-primary badge">男孩</span><span class="badge-primary badge">女孩</span><span class="badge-primary badge">孩子</span><span class="badge-primary badge">小孩</span><span class="badge-primary badge">年轻</span><span class="badge-primary badge">小孩子</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/child.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/child.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">小孩，表示懵懂、天真，可以表示幼儿园。</div>
 <div class="alert alert-dark">

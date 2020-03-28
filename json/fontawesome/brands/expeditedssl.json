@@ -11,7 +11,8 @@
   "version": "5.0.0",
   "zhs": [
     "快速SSL",
-    "expeditedssl"
+    "expeditedssl",
+    "锁"
   ],
   "description": "expeditedssl是为网络通信提供安全及数据完整性的一种安全协议",
   "comments": []

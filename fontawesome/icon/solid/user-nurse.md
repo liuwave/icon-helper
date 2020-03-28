@@ -2,7 +2,7 @@
 
 title: Nurse(护士) ICON转svg、png下载
 name: user-nurse
-zhTips: 护士,covid 19,医生,助产士,外科医生
+zhTips: 护士,新型冠状病毒,新冠肺炎,医生,助产士,外科医生
 tags: ["medical","users-people"]
 pre: fas
 search: covid-19,doctor,midwife,practitioner,surgeon
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">doctor</span><span class="badge-light badge">midwife</span><span class="badge-light badge">practitioner</span><span class="badge-light badge">surgeon</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">护士</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">医生</span><span class="badge-primary badge">助产士</span><span class="badge-primary badge">外科医生</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-nurse.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-nurse.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">doctor</span><span class="badge-light badge">midwife</span><span class="badge-light badge">practitioner</span><span class="badge-light badge">surgeon</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">护士</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">医生</span><span class="badge-primary badge">助产士</span><span class="badge-primary badge">外科医生</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-nurse.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-nurse.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

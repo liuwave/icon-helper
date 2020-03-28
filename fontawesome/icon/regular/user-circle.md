@@ -2,7 +2,7 @@
 
 title: User Circle(用户圈) ICON转svg、png下载
 name: user-circle
-zhTips: 用户圈,帐户,头像,头,人,个人资料
+zhTips: 用户圈,帐户,头像,头,人,个人资料,用户,会员管理,设为负责人,个人中心
 tags: ["interfaces","social","users-people"]
 pre: far
 search: account,avatar,head,human,man,person,profile
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">account</span><span class="badge-light badge">avatar</span><span class="badge-light badge">head</span><span class="badge-light badge">human</span><span class="badge-light badge">man</span><span class="badge-light badge">person</span><span class="badge-light badge">profile</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">用户圈</span><span class="badge-primary badge">帐户</span><span class="badge-primary badge">头像</span><span class="badge-primary badge">头</span><span class="badge-primary badge">人</span><span class="badge-primary badge">个人资料</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/user-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/user-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">account</span><span class="badge-light badge">avatar</span><span class="badge-light badge">head</span><span class="badge-light badge">human</span><span class="badge-light badge">man</span><span class="badge-light badge">person</span><span class="badge-light badge">profile</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">用户圈</span><span class="badge-primary badge">帐户</span><span class="badge-primary badge">头像</span><span class="badge-primary badge">头</span><span class="badge-primary badge">人</span><span class="badge-primary badge">个人资料</span><span class="badge-primary badge">用户</span><span class="badge-primary badge">会员管理</span><span class="badge-primary badge">设为负责人</span><span class="badge-primary badge">个人中心</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/user-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/user-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: Retro Camera(复古相机) ICON转svg、png下载
 name: camera-retro
-zhTips: 复古相机,图像,镜头,照片,图片,记录,快门,视频
+zhTips: 复古相机,图像,镜头,照片,图片,记录,快门,视频,照相机,相机
 tags: ["images","objects","payments-shopping"]
 pre: fas
 search: image,lens,photo,picture,record,shutter,video
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">image</span><span class="badge-light badge">lens</span><span class="badge-light badge">photo</span><span class="badge-light badge">picture</span><span class="badge-light badge">record</span><span class="badge-light badge">shutter</span><span class="badge-light badge">video</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">复古相机</span><span class="badge-primary badge">图像</span><span class="badge-primary badge">镜头</span><span class="badge-primary badge">照片</span><span class="badge-primary badge">图片</span><span class="badge-primary badge">记录</span><span class="badge-primary badge">快门</span><span class="badge-primary badge">视频</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/camera-retro.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/camera-retro.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">image</span><span class="badge-light badge">lens</span><span class="badge-light badge">photo</span><span class="badge-light badge">picture</span><span class="badge-light badge">record</span><span class="badge-light badge">shutter</span><span class="badge-light badge">video</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">复古相机</span><span class="badge-primary badge">图像</span><span class="badge-primary badge">镜头</span><span class="badge-primary badge">照片</span><span class="badge-primary badge">图片</span><span class="badge-primary badge">记录</span><span class="badge-primary badge">快门</span><span class="badge-primary badge">视频</span><span class="badge-primary badge">照相机</span><span class="badge-primary badge">相机</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/camera-retro.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/camera-retro.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

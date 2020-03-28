@@ -2,7 +2,7 @@
 
 title:  window minimize(窗口最小化) ICON转svg、png下载
 name: window-minimize
-zhTips: 窗口最小化
+zhTips: 窗口最小化,缩小,减号,间隔号
 tags: []
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">窗口最小化</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/window-minimize.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/window-minimize.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">窗口最小化</span><span class="badge-primary badge">缩小</span><span class="badge-primary badge">减号</span><span class="badge-primary badge">间隔号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/window-minimize.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/window-minimize.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

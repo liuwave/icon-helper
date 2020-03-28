@@ -2,7 +2,7 @@
 
 title: align-center(对齐中心) ICON转svg、png下载
 name: align-center
-zhTips: 对齐中心,格式,中间,段落,文本
+zhTips: 对齐中心,格式,中间,段落,文本,居中对齐
 tags: ["editors"]
 pre: fas
 search: format,middle,paragraph,text
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">format</span><span class="badge-light badge">middle</span><span class="badge-light badge">paragraph</span><span class="badge-light badge">text</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">对齐中心</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">中间</span><span class="badge-primary badge">段落</span><span class="badge-primary badge">文本</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/align-center.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/align-center.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">format</span><span class="badge-light badge">middle</span><span class="badge-light badge">paragraph</span><span class="badge-light badge">text</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">对齐中心</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">中间</span><span class="badge-primary badge">段落</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">居中对齐</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/align-center.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/align-center.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

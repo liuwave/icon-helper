@@ -2,7 +2,7 @@
 
 title: User Plus(用户加) ICON转svg、png下载
 name: user-plus
-zhTips: 用户加,添加,头像,正,注册,团队
+zhTips: 用户加,添加,头像,正,注册,团队,用户,添加用户
 tags: ["social","users-people"]
 pre: fas
 search: add,avatar,positive,sign up,signup,team
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">add</span><span class="badge-light badge">avatar</span><span class="badge-light badge">positive</span><span class="badge-light badge">sign up</span><span class="badge-light badge">signup</span><span class="badge-light badge">team</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">用户加</span><span class="badge-primary badge">添加</span><span class="badge-primary badge">头像</span><span class="badge-primary badge">正</span><span class="badge-primary badge">注册</span><span class="badge-primary badge">团队</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-plus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-plus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">add</span><span class="badge-light badge">avatar</span><span class="badge-light badge">positive</span><span class="badge-light badge">sign up</span><span class="badge-light badge">signup</span><span class="badge-light badge">team</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">用户加</span><span class="badge-primary badge">添加</span><span class="badge-primary badge">头像</span><span class="badge-primary badge">正</span><span class="badge-primary badge">注册</span><span class="badge-primary badge">团队</span><span class="badge-primary badge">用户</span><span class="badge-primary badge">添加用户</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-plus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/user-plus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

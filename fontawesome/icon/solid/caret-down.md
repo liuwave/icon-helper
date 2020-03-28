@@ -2,7 +2,7 @@
 
 title: Caret Down(向下跳动) ICON转svg、png下载
 name: caret-down
-zhTips: 向下跳动,箭头,下拉菜单,展开,菜单,更多,三角形
+zhTips: 向下跳动,箭头,下拉菜单,展开,菜单,更多,三角形,下拉,下方,向下,下
 tags: ["arrows"]
 pre: fas
 search: arrow,dropdown,expand,menu,more,triangle
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">arrow</span><span class="badge-light badge">dropdown</span><span class="badge-light badge">expand</span><span class="badge-light badge">menu</span><span class="badge-light badge">more</span><span class="badge-light badge">triangle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">向下跳动</span><span class="badge-primary badge">箭头</span><span class="badge-primary badge">下拉菜单</span><span class="badge-primary badge">展开</span><span class="badge-primary badge">菜单</span><span class="badge-primary badge">更多</span><span class="badge-primary badge">三角形</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/caret-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/caret-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">arrow</span><span class="badge-light badge">dropdown</span><span class="badge-light badge">expand</span><span class="badge-light badge">menu</span><span class="badge-light badge">more</span><span class="badge-light badge">triangle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">向下跳动</span><span class="badge-primary badge">箭头</span><span class="badge-primary badge">下拉菜单</span><span class="badge-primary badge">展开</span><span class="badge-primary badge">菜单</span><span class="badge-primary badge">更多</span><span class="badge-primary badge">三角形</span><span class="badge-primary badge">下拉</span><span class="badge-primary badge">下方</span><span class="badge-primary badge">向下</span><span class="badge-primary badge">下</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/caret-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/caret-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

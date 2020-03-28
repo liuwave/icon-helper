@@ -2,7 +2,7 @@
 
 title: Viruses(病毒) ICON转svg、png下载
 name: viruses
-zhTips: 病毒,bug,covid 19,流感,健康,乘法,病,传播
+zhTips: 病毒,bug,新型冠状病毒,新冠肺炎,流感,健康,乘法,病,传播
 tags: ["medical"]
 pre: fas
 search: bugs,covid-19,flu,health,multiply,sick,spread,viral
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">bugs</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">flu</span><span class="badge-light badge">health</span><span class="badge-light badge">multiply</span><span class="badge-light badge">sick</span><span class="badge-light badge">spread</span><span class="badge-light badge">viral</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">病毒</span><span class="badge-primary badge">bug</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">流感</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">乘法</span><span class="badge-primary badge">病</span><span class="badge-primary badge">传播</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/viruses.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/viruses.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">bugs</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">flu</span><span class="badge-light badge">health</span><span class="badge-light badge">multiply</span><span class="badge-light badge">sick</span><span class="badge-light badge">spread</span><span class="badge-light badge">viral</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">病毒</span><span class="badge-primary badge">bug</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">流感</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">乘法</span><span class="badge-primary badge">病</span><span class="badge-primary badge">传播</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/viruses.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/viruses.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

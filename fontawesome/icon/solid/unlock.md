@@ -2,7 +2,7 @@
 
 title: unlock(解锁) ICON转svg、png下载
 name: unlock
-zhTips: 解锁,管理,锁定,密码,私有,保护,未锁定
+zhTips: 解锁,管理,锁定,密码,私有,保护,未锁定,解除锁定
 tags: ["objects","security","status"]
 pre: fas
 search: admin,lock,password,private,protect
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">admin</span><span class="badge-light badge">lock</span><span class="badge-light badge">password</span><span class="badge-light badge">private</span><span class="badge-light badge">protect</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">解锁</span><span class="badge-primary badge">管理</span><span class="badge-primary badge">锁定</span><span class="badge-primary badge">密码</span><span class="badge-primary badge">私有</span><span class="badge-primary badge">保护</span><span class="badge-primary badge">未锁定</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/unlock.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/unlock.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">admin</span><span class="badge-light badge">lock</span><span class="badge-light badge">password</span><span class="badge-light badge">private</span><span class="badge-light badge">protect</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">解锁</span><span class="badge-primary badge">管理</span><span class="badge-primary badge">锁定</span><span class="badge-primary badge">密码</span><span class="badge-primary badge">私有</span><span class="badge-primary badge">保护</span><span class="badge-primary badge">未锁定</span><span class="badge-primary badge">解除锁定</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/unlock.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/unlock.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示打开，未锁上。通常用于重要信息、文件的保密或家庭门上的锁定</div>
 <div class="alert alert-dark">

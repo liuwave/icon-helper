@@ -10,7 +10,8 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "WPExplorer"
+    "WPExplorer",
+    "望远镜"
   ],
   "description": "WPExplorer是一家Wordpress插件开发网站，提供WordPress相关的知识、教程、资源、主题和插件。",
   "comments": []

@@ -2,7 +2,7 @@
 
 title: Hashtag(Twitter) ICON转svg、png下载
 name: hashtag
-zhTips: Hashtag,Twitter,instagram,英镑,社交媒体,标签,井号
+zhTips: Hashtag,Twitter,instagram,英镑,社交媒体,标签,井号,免提
 tags: ["interfaces","social"]
 pre: fas
 search: Twitter,instagram,pound,social media,tag
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">Twitter</span><span class="badge-light badge">instagram</span><span class="badge-light badge">pound</span><span class="badge-light badge">social media</span><span class="badge-light badge">tag</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Hashtag</span><span class="badge-primary badge">Twitter</span><span class="badge-primary badge">instagram</span><span class="badge-primary badge">英镑</span><span class="badge-primary badge">社交媒体</span><span class="badge-primary badge">标签</span><span class="badge-primary badge">井号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hashtag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hashtag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">Twitter</span><span class="badge-light badge">instagram</span><span class="badge-light badge">pound</span><span class="badge-light badge">social media</span><span class="badge-light badge">tag</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Hashtag</span><span class="badge-primary badge">Twitter</span><span class="badge-primary badge">instagram</span><span class="badge-primary badge">英镑</span><span class="badge-primary badge">社交媒体</span><span class="badge-primary badge">标签</span><span class="badge-primary badge">井号</span><span class="badge-primary badge">免提</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hashtag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hashtag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示话题，序数，手机拨号键。</div>
 <div class="alert alert-dark">

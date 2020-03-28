@@ -2,7 +2,7 @@
 
 title: Lungs Virus(肺病毒) ICON转svg、png下载
 name: lungs-virus
-zhTips: 肺病毒,呼吸,covid 19,呼吸道,病
+zhTips: 肺病毒,呼吸,新型冠状病毒,新冠肺炎,呼吸道,病
 tags: ["medical"]
 pre: fas
 search: breath,covid-19,respiratory,sick
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">breath</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">respiratory</span><span class="badge-light badge">sick</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">肺病毒</span><span class="badge-primary badge">呼吸</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">呼吸道</span><span class="badge-primary badge">病</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/lungs-virus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/lungs-virus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">breath</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">respiratory</span><span class="badge-light badge">sick</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">肺病毒</span><span class="badge-primary badge">呼吸</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">呼吸道</span><span class="badge-primary badge">病</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/lungs-virus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/lungs-virus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

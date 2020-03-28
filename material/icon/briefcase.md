@@ -2,7 +2,7 @@
 
 title:  briefcase(公文包) ICON转svg、png下载
 name: briefcase
-zhTips: 公文包,工作,袋子,业务,行李,办公室
+zhTips: 公文包,工作,袋子,业务,行李,办公室,行李箱,皮包,盒子
 tags: []
 search: work
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">work</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">公文包</span><span class="badge-primary badge">工作</span><span class="badge-primary badge">袋子</span><span class="badge-primary badge">业务</span><span class="badge-primary badge">行李</span><span class="badge-primary badge">办公室</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/briefcase.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/briefcase.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">work</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">公文包</span><span class="badge-primary badge">工作</span><span class="badge-primary badge">袋子</span><span class="badge-primary badge">业务</span><span class="badge-primary badge">行李</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">行李箱</span><span class="badge-primary badge">皮包</span><span class="badge-primary badge">盒子</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/briefcase.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/briefcase.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">公文包，可以表示正式，公关人员。</div>
 <div class="alert alert-dark">

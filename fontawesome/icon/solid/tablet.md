@@ -2,7 +2,7 @@
 
 title: tablet(平板电脑) ICON转svg、png下载
 name: tablet
-zhTips: 平板电脑,苹果,设备,ipad,kindle,屏幕,平板黑屏
+zhTips: 平板电脑,苹果,设备,ipad,kindle,屏幕,平板黑屏,平板,surface
 tags: ["computers","objects"]
 pre: fas
 search: apple,device,ipad,kindle,screen
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">apple</span><span class="badge-light badge">device</span><span class="badge-light badge">ipad</span><span class="badge-light badge">kindle</span><span class="badge-light badge">screen</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">平板电脑</span><span class="badge-primary badge">苹果</span><span class="badge-primary badge">设备</span><span class="badge-primary badge">ipad</span><span class="badge-primary badge">kindle</span><span class="badge-primary badge">屏幕</span><span class="badge-primary badge">平板黑屏</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tablet.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tablet.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">apple</span><span class="badge-light badge">device</span><span class="badge-light badge">ipad</span><span class="badge-light badge">kindle</span><span class="badge-light badge">screen</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">平板电脑</span><span class="badge-primary badge">苹果</span><span class="badge-primary badge">设备</span><span class="badge-primary badge">ipad</span><span class="badge-primary badge">kindle</span><span class="badge-primary badge">屏幕</span><span class="badge-primary badge">平板黑屏</span><span class="badge-primary badge">平板</span><span class="badge-primary badge">surface</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tablet.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/tablet.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">可用于表示电脑、手机等的关机状态。</div>
 <div class="alert alert-dark">

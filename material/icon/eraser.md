@@ -2,7 +2,7 @@
 
 title:  eraser(橡皮) ICON转svg、png下载
 name: eraser
-zhTips: 橡皮,橡皮擦,艺术,删除,橡胶
+zhTips: 橡皮,橡皮擦,艺术,删除,橡胶,擦除器,清除格式,清除
 tags: []
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">橡皮</span><span class="badge-primary badge">橡皮擦</span><span class="badge-primary badge">艺术</span><span class="badge-primary badge">删除</span><span class="badge-primary badge">橡胶</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/eraser.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/eraser.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">橡皮</span><span class="badge-primary badge">橡皮擦</span><span class="badge-primary badge">艺术</span><span class="badge-primary badge">删除</span><span class="badge-primary badge">橡胶</span><span class="badge-primary badge">擦除器</span><span class="badge-primary badge">清除格式</span><span class="badge-primary badge">清除</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/eraser.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/eraser.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示清除工具。</div>
 <div class="alert alert-dark">

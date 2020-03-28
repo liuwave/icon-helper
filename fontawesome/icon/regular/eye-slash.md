@@ -2,7 +2,7 @@
 
 title: Eye Slash(眼睛斜线) ICON转svg、png下载
 name: eye-slash
-zhTips: 眼睛斜线,盲点,隐藏,显示,切换,看不见,视图,可见,可见性
+zhTips: 眼睛斜线,盲点,隐藏,显示,切换,看不见,视图,可见,可见性,private,未公开,禁止观看,私密的
 tags: ["design","images","interfaces","maps","security","status"]
 pre: far
 search: blind,hide,show,toggle,unseen,views,visible,visiblity
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">blind</span><span class="badge-light badge">hide</span><span class="badge-light badge">show</span><span class="badge-light badge">toggle</span><span class="badge-light badge">unseen</span><span class="badge-light badge">views</span><span class="badge-light badge">visible</span><span class="badge-light badge">visiblity</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">眼睛斜线</span><span class="badge-primary badge">盲点</span><span class="badge-primary badge">隐藏</span><span class="badge-primary badge">显示</span><span class="badge-primary badge">切换</span><span class="badge-primary badge">看不见</span><span class="badge-primary badge">视图</span><span class="badge-primary badge">可见</span><span class="badge-primary badge">可见性</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/eye-slash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/eye-slash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">blind</span><span class="badge-light badge">hide</span><span class="badge-light badge">show</span><span class="badge-light badge">toggle</span><span class="badge-light badge">unseen</span><span class="badge-light badge">views</span><span class="badge-light badge">visible</span><span class="badge-light badge">visiblity</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">眼睛斜线</span><span class="badge-primary badge">盲点</span><span class="badge-primary badge">隐藏</span><span class="badge-primary badge">显示</span><span class="badge-primary badge">切换</span><span class="badge-primary badge">看不见</span><span class="badge-primary badge">视图</span><span class="badge-primary badge">可见</span><span class="badge-primary badge">可见性</span><span class="badge-primary badge">private</span><span class="badge-primary badge">未公开</span><span class="badge-primary badge">禁止观看</span><span class="badge-primary badge">私密的</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/eye-slash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/eye-slash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">带斜杠的眼睛，表示不可见。</div>
 <div class="alert alert-dark">

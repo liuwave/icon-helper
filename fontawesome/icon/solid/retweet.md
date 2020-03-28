@@ -2,7 +2,7 @@
 
 title: Retweet(转推) ICON转svg、png下载
 name: retweet
-zhTips: 转推,刷新,重新加载,共享,交换
+zhTips: 转推,刷新,重新加载,共享,交换,转发,转发微博,转发文章
 tags: ["arrows","social"]
 pre: fas
 search: refresh,reload,share,swap
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">refresh</span><span class="badge-light badge">reload</span><span class="badge-light badge">share</span><span class="badge-light badge">swap</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">转推</span><span class="badge-primary badge">刷新</span><span class="badge-primary badge">重新加载</span><span class="badge-primary badge">共享</span><span class="badge-primary badge">交换</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/retweet.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/retweet.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">refresh</span><span class="badge-light badge">reload</span><span class="badge-light badge">share</span><span class="badge-light badge">swap</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">转推</span><span class="badge-primary badge">刷新</span><span class="badge-primary badge">重新加载</span><span class="badge-primary badge">共享</span><span class="badge-primary badge">交换</span><span class="badge-primary badge">转发</span><span class="badge-primary badge">转发微博</span><span class="badge-primary badge">转发文章</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/retweet.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/retweet.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示微博，微信等上文章的转发。</div>
 <div class="alert alert-dark">

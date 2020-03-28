@@ -2,7 +2,7 @@
 
 title:  home(房屋) ICON转svg、png下载
 name: home
-zhTips: 房屋,家,家庭,住所,建筑,主要
+zhTips: 房屋,家,家庭,住所,建筑,主要,首页,主页
 tags: ["home-automation","places"]
 search: house
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">house</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">房屋</span><span class="badge-primary badge">家</span><span class="badge-primary badge">家庭</span><span class="badge-primary badge">住所</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">主要</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/home.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/home.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">house</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">房屋</span><span class="badge-primary badge">家</span><span class="badge-primary badge">家庭</span><span class="badge-primary badge">住所</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">主要</span><span class="badge-primary badge">首页</span><span class="badge-primary badge">主页</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/home.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/home.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示住宅，房子、家等等。</div>
 <div class="alert alert-dark">

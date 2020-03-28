@@ -2,7 +2,7 @@
 
 title:  cart arrow down(购物车向下箭头) ICON转svg、png下载
 name: cart-arrow-down
-zhTips: 购物车向下箭头
+zhTips: 购物车向下箭头,购物车,从购物车删除
 tags: ["shopping"]
 search: shopping-cart-arrow-down,trolley-arrow-down
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">shopping-cart-arrow-down</span><span class="badge-light badge">trolley-arrow-down</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">购物车向下箭头</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cart-arrow-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cart-arrow-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">shopping-cart-arrow-down</span><span class="badge-light badge">trolley-arrow-down</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">购物车向下箭头</span><span class="badge-primary badge">购物车</span><span class="badge-primary badge">从购物车删除</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/cart-arrow-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/cart-arrow-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

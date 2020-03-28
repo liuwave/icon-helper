@@ -2,7 +2,7 @@
 
 title: Terminal(端子) ICON转svg、png下载
 name: terminal
-zhTips: 端子,代码,命令,控制台,开发,提示,终点站
+zhTips: 端子,代码,命令,控制台,开发,提示,终点站,末端,终点,终端机
 tags: ["code"]
 pre: fas
 search: code,command,console,development,prompt
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">code</span><span class="badge-light badge">command</span><span class="badge-light badge">console</span><span class="badge-light badge">development</span><span class="badge-light badge">prompt</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">端子</span><span class="badge-primary badge">代码</span><span class="badge-primary badge">命令</span><span class="badge-primary badge">控制台</span><span class="badge-primary badge">开发</span><span class="badge-primary badge">提示</span><span class="badge-primary badge">终点站</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/terminal.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/terminal.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">code</span><span class="badge-light badge">command</span><span class="badge-light badge">console</span><span class="badge-light badge">development</span><span class="badge-light badge">prompt</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">端子</span><span class="badge-primary badge">代码</span><span class="badge-primary badge">命令</span><span class="badge-primary badge">控制台</span><span class="badge-primary badge">开发</span><span class="badge-primary badge">提示</span><span class="badge-primary badge">终点站</span><span class="badge-primary badge">末端</span><span class="badge-primary badge">终点</span><span class="badge-primary badge">终端机</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/terminal.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/terminal.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示完成，最后一个，可表示火车，地铁，高铁等的终点。</div>
 <div class="alert alert-dark">

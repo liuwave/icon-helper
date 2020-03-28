@@ -2,7 +2,7 @@
 
 title: Paw(爪子) ICON转svg、png下载
 name: paw
-zhTips: 爪子,动物,猫,狗,宠物,打印,宠物黑
+zhTips: 爪子,动物,猫,狗,宠物,打印,宠物黑,百度
 tags: ["animals","maps","objects"]
 pre: fas
 search: animal,cat,dog,pet,print
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">animal</span><span class="badge-light badge">cat</span><span class="badge-light badge">dog</span><span class="badge-light badge">pet</span><span class="badge-light badge">print</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">爪子</span><span class="badge-primary badge">动物</span><span class="badge-primary badge">猫</span><span class="badge-primary badge">狗</span><span class="badge-primary badge">宠物</span><span class="badge-primary badge">打印</span><span class="badge-primary badge">宠物黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paw.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paw.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">animal</span><span class="badge-light badge">cat</span><span class="badge-light badge">dog</span><span class="badge-light badge">pet</span><span class="badge-light badge">print</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">爪子</span><span class="badge-primary badge">动物</span><span class="badge-primary badge">猫</span><span class="badge-primary badge">狗</span><span class="badge-primary badge">宠物</span><span class="badge-primary badge">打印</span><span class="badge-primary badge">宠物黑</span><span class="badge-primary badge">百度</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paw.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paw.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示百度搜索图标。</div>
 <div class="alert alert-dark">

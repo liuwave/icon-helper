@@ -2,7 +2,7 @@
 
 title: Percent(百分比) ICON转svg、png下载
 name: percent
-zhTips: 百分比,折扣,分数,比例,比率,百分符
+zhTips: 百分比,折扣,分数,比例,比率,百分符,百分号
 tags: ["business"]
 pre: fas
 search: discount,fraction,proportion,rate,ratio
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">discount</span><span class="badge-light badge">fraction</span><span class="badge-light badge">proportion</span><span class="badge-light badge">rate</span><span class="badge-light badge">ratio</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">百分比</span><span class="badge-primary badge">折扣</span><span class="badge-primary badge">分数</span><span class="badge-primary badge">比例</span><span class="badge-primary badge">比率</span><span class="badge-primary badge">百分符</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/percent.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/percent.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">discount</span><span class="badge-light badge">fraction</span><span class="badge-light badge">proportion</span><span class="badge-light badge">rate</span><span class="badge-light badge">ratio</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">百分比</span><span class="badge-primary badge">折扣</span><span class="badge-primary badge">分数</span><span class="badge-primary badge">比例</span><span class="badge-primary badge">比率</span><span class="badge-primary badge">百分符</span><span class="badge-primary badge">百分号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/percent.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/percent.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示百分比图标或取余数的运算符。</div>
 <div class="alert alert-dark">

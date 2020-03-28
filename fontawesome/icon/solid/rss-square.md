@@ -2,7 +2,7 @@
 
 title: RSS Square(RSS广场) ICON转svg、png下载
 name: rss-square
-zhTips: RSS广场,博客,提要,新闻,写作
+zhTips: RSS广场,博客,提要,新闻,写作,聚合阅读,订阅
 tags: ["audio-video","communication","interfaces"]
 pre: fas
 search: blog,feed,journal,news,writing
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">blog</span><span class="badge-light badge">feed</span><span class="badge-light badge">journal</span><span class="badge-light badge">news</span><span class="badge-light badge">writing</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">RSS广场</span><span class="badge-primary badge">博客</span><span class="badge-primary badge">提要</span><span class="badge-primary badge">新闻</span><span class="badge-primary badge">写作</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rss-square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rss-square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">blog</span><span class="badge-light badge">feed</span><span class="badge-light badge">journal</span><span class="badge-light badge">news</span><span class="badge-light badge">writing</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">RSS广场</span><span class="badge-primary badge">博客</span><span class="badge-primary badge">提要</span><span class="badge-primary badge">新闻</span><span class="badge-primary badge">写作</span><span class="badge-primary badge">聚合阅读</span><span class="badge-primary badge">订阅</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rss-square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/rss-square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

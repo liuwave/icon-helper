@@ -2,7 +2,7 @@
 
 title: Add to Shopping Cart(添加到购物车) ICON转svg、png下载
 name: cart-plus
-zhTips: 添加到购物车,添加,创建,新建,正面,购物
+zhTips: 添加到购物车,添加,创建,新建,正面,购物,购物车,加入购物车
 tags: ["payments-shopping","shopping","status"]
 pre: fas
 search: add,create,new,positive,shopping
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">add</span><span class="badge-light badge">create</span><span class="badge-light badge">new</span><span class="badge-light badge">positive</span><span class="badge-light badge">shopping</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">添加到购物车</span><span class="badge-primary badge">添加</span><span class="badge-primary badge">创建</span><span class="badge-primary badge">新建</span><span class="badge-primary badge">正面</span><span class="badge-primary badge">购物</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cart-plus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cart-plus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">add</span><span class="badge-light badge">create</span><span class="badge-light badge">new</span><span class="badge-light badge">positive</span><span class="badge-light badge">shopping</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">添加到购物车</span><span class="badge-primary badge">添加</span><span class="badge-primary badge">创建</span><span class="badge-primary badge">新建</span><span class="badge-primary badge">正面</span><span class="badge-primary badge">购物</span><span class="badge-primary badge">购物车</span><span class="badge-primary badge">加入购物车</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cart-plus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cart-plus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

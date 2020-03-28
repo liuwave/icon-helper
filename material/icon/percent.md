@@ -2,7 +2,7 @@
 
 title:  percent(％) ICON转svg、png下载
 name: percent
-zhTips: ％,百分符,百分比,折扣,分数,比例,比率
+zhTips: ％,百分符,百分比,折扣,分数,比例,比率,百分号
 tags: ["math"]
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">％</span><span class="badge-primary badge">百分符</span><span class="badge-primary badge">百分比</span><span class="badge-primary badge">折扣</span><span class="badge-primary badge">分数</span><span class="badge-primary badge">比例</span><span class="badge-primary badge">比率</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/percent.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/percent.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">％</span><span class="badge-primary badge">百分符</span><span class="badge-primary badge">百分比</span><span class="badge-primary badge">折扣</span><span class="badge-primary badge">分数</span><span class="badge-primary badge">比例</span><span class="badge-primary badge">比率</span><span class="badge-primary badge">百分号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/percent.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/percent.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示百分比图标或取余数的运算符。</div>
 <div class="alert alert-dark">

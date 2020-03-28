@@ -2,7 +2,7 @@
 
 title: Times(时间) ICON转svg、png下载
 name: times
-zhTips: 时间,关闭,交叉,错误,退出,通知,问题,x,错号粗黑
+zhTips: 时间,关闭,交叉,错误,退出,通知,问题,x,错号粗黑,删除,remove,错,叉
 tags: ["interfaces","mathematics"]
 pre: fas
 search: close,cross,error,exit,incorrect,notice,notification,notify,problem,wrong,x
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">close</span><span class="badge-light badge">cross</span><span class="badge-light badge">error</span><span class="badge-light badge">exit</span><span class="badge-light badge">incorrect</span><span class="badge-light badge">notice</span><span class="badge-light badge">notification</span><span class="badge-light badge">notify</span><span class="badge-light badge">problem</span><span class="badge-light badge">wrong</span><span class="badge-light badge">x</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">时间</span><span class="badge-primary badge">关闭</span><span class="badge-primary badge">交叉</span><span class="badge-primary badge">错误</span><span class="badge-primary badge">退出</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">问题</span><span class="badge-primary badge">x</span><span class="badge-primary badge">错号粗黑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/times.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/times.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">close</span><span class="badge-light badge">cross</span><span class="badge-light badge">error</span><span class="badge-light badge">exit</span><span class="badge-light badge">incorrect</span><span class="badge-light badge">notice</span><span class="badge-light badge">notification</span><span class="badge-light badge">notify</span><span class="badge-light badge">problem</span><span class="badge-light badge">wrong</span><span class="badge-light badge">x</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">时间</span><span class="badge-primary badge">关闭</span><span class="badge-primary badge">交叉</span><span class="badge-primary badge">错误</span><span class="badge-primary badge">退出</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">问题</span><span class="badge-primary badge">x</span><span class="badge-primary badge">错号粗黑</span><span class="badge-primary badge">删除</span><span class="badge-primary badge">remove</span><span class="badge-primary badge">错</span><span class="badge-primary badge">叉</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/times.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/times.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示错误、关闭等。</div>
 <div class="alert alert-dark">

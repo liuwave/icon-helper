@@ -2,7 +2,7 @@
 
 title:  map marker(地图标记) ICON转svg、png下载
 name: map-marker
-zhTips: 地图标记,位置,地址标记,房间
+zhTips: 地图标记,位置,地址标记,房间,地图,定位,标记
 tags: ["navigation","geographic-information-system"]
 search: location,address-marker,location-on,place,room
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">location</span><span class="badge-light badge">address-marker</span><span class="badge-light badge">location-on</span><span class="badge-light badge">place</span><span class="badge-light badge">room</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">地图标记</span><span class="badge-primary badge">位置</span><span class="badge-primary badge">地址标记</span><span class="badge-primary badge">房间</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/map-marker.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/map-marker.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">location</span><span class="badge-light badge">address-marker</span><span class="badge-light badge">location-on</span><span class="badge-light badge">place</span><span class="badge-light badge">room</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">地图标记</span><span class="badge-primary badge">位置</span><span class="badge-primary badge">地址标记</span><span class="badge-primary badge">房间</span><span class="badge-primary badge">地图</span><span class="badge-primary badge">定位</span><span class="badge-primary badge">标记</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/map-marker.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/map-marker.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

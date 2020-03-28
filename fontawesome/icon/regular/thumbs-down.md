@@ -2,7 +2,7 @@
 
 title: thumbs-down(竖起大拇指) ICON转svg、png下载
 name: thumbs-down
-zhTips: 竖起大拇指,不同意,不喜欢,手,社交
+zhTips: 竖起大拇指,不同意,不喜欢,手,社交,大拇指,取消赞
 tags: ["hands","interfaces","payments-shopping","social","status"]
 pre: far
 search: disagree,disapprove,dislike,hand,social,thumbs-o-down
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">disagree</span><span class="badge-light badge">disapprove</span><span class="badge-light badge">dislike</span><span class="badge-light badge">hand</span><span class="badge-light badge">social</span><span class="badge-light badge">thumbs-o-down</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">竖起大拇指</span><span class="badge-primary badge">不同意</span><span class="badge-primary badge">不喜欢</span><span class="badge-primary badge">手</span><span class="badge-primary badge">社交</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/thumbs-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/thumbs-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">disagree</span><span class="badge-light badge">disapprove</span><span class="badge-light badge">dislike</span><span class="badge-light badge">hand</span><span class="badge-light badge">social</span><span class="badge-light badge">thumbs-o-down</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">竖起大拇指</span><span class="badge-primary badge">不同意</span><span class="badge-primary badge">不喜欢</span><span class="badge-primary badge">手</span><span class="badge-primary badge">社交</span><span class="badge-primary badge">大拇指</span><span class="badge-primary badge">取消赞</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/thumbs-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/thumbs-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

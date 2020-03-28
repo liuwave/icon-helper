@@ -2,7 +2,7 @@
 
 title: Bus(公共汽车) ICON转svg、png下载
 name: bus
-zhTips: 公共汽车,公共交通,运输,旅行,车辆,公交车
+zhTips: 公共汽车,公共交通,运输,旅行,车辆,公交车,汽车,长途汽车
 tags: ["automotive","objects","travel","vehicles"]
 pre: fas
 search: public transportation,transportation,travel,vehicle
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">public transportation</span><span class="badge-light badge">transportation</span><span class="badge-light badge">travel</span><span class="badge-light badge">vehicle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">公共汽车</span><span class="badge-primary badge">公共交通</span><span class="badge-primary badge">运输</span><span class="badge-primary badge">旅行</span><span class="badge-primary badge">车辆</span><span class="badge-primary badge">公交车</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">public transportation</span><span class="badge-light badge">transportation</span><span class="badge-light badge">travel</span><span class="badge-light badge">vehicle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">公共汽车</span><span class="badge-primary badge">公共交通</span><span class="badge-primary badge">运输</span><span class="badge-primary badge">旅行</span><span class="badge-primary badge">车辆</span><span class="badge-primary badge">公交车</span><span class="badge-primary badge">汽车</span><span class="badge-primary badge">长途汽车</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">公交车，可以表示为汽车站、公交车专行通道。</div>
 <div class="alert alert-dark">

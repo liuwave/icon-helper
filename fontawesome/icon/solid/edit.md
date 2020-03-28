@@ -2,7 +2,7 @@
 
 title: Edit(编辑) ICON转svg、png下载
 name: edit
-zhTips: 编辑,笔,铅笔,更新,编写
+zhTips: 编辑,笔,铅笔,更新,编写,todo,写字
 tags: ["business","design","editors","interfaces","writing"]
 pre: fas
 search: edit,pen,pencil,update,write
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">edit</span><span class="badge-light badge">pen</span><span class="badge-light badge">pencil</span><span class="badge-light badge">update</span><span class="badge-light badge">write</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">编辑</span><span class="badge-primary badge">笔</span><span class="badge-primary badge">铅笔</span><span class="badge-primary badge">更新</span><span class="badge-primary badge">编写</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/edit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/edit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">edit</span><span class="badge-light badge">pen</span><span class="badge-light badge">pencil</span><span class="badge-light badge">update</span><span class="badge-light badge">write</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">编辑</span><span class="badge-primary badge">笔</span><span class="badge-primary badge">铅笔</span><span class="badge-primary badge">更新</span><span class="badge-primary badge">编写</span><span class="badge-primary badge">todo</span><span class="badge-primary badge">写字</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/edit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/edit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">编辑修改，对内容进行修改、整改。</div>
 <div class="alert alert-dark">

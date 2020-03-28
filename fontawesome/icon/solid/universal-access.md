@@ -2,7 +2,7 @@
 
 title: Universal Access(通用访问) ICON转svg、png下载
 name: universal-access
-zhTips: 通用访问,可访问性,听力,人,视力,视觉障碍
+zhTips: 通用访问,可访问性,听力,人,视力,视觉障碍,帮助,辅助
 tags: ["accessibility"]
 pre: fas
 search: accessibility,hearing,person,seeing,visual impairment
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">accessibility</span><span class="badge-light badge">hearing</span><span class="badge-light badge">person</span><span class="badge-light badge">seeing</span><span class="badge-light badge">visual impairment</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">通用访问</span><span class="badge-primary badge">可访问性</span><span class="badge-primary badge">听力</span><span class="badge-primary badge">人</span><span class="badge-primary badge">视力</span><span class="badge-primary badge">视觉障碍</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/universal-access.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/universal-access.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">accessibility</span><span class="badge-light badge">hearing</span><span class="badge-light badge">person</span><span class="badge-light badge">seeing</span><span class="badge-light badge">visual impairment</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">通用访问</span><span class="badge-primary badge">可访问性</span><span class="badge-primary badge">听力</span><span class="badge-primary badge">人</span><span class="badge-primary badge">视力</span><span class="badge-primary badge">视觉障碍</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">辅助</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/universal-access.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/universal-access.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: Download(下载) ICON转svg、png下载
 name: download
-zhTips: 下载,导出,硬盘驱动器,保存,传输
+zhTips: 下载,导出,硬盘驱动器,保存,传输,获取,保存到本地
 tags: ["arrows","computers","interfaces"]
 pre: fas
 search: export,hard drive,save,transfer
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">export</span><span class="badge-light badge">hard drive</span><span class="badge-light badge">save</span><span class="badge-light badge">transfer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">下载</span><span class="badge-primary badge">导出</span><span class="badge-primary badge">硬盘驱动器</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">传输</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/download.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/download.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">export</span><span class="badge-light badge">hard drive</span><span class="badge-light badge">save</span><span class="badge-light badge">transfer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">下载</span><span class="badge-primary badge">导出</span><span class="badge-primary badge">硬盘驱动器</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">传输</span><span class="badge-primary badge">获取</span><span class="badge-primary badge">保存到本地</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/download.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/download.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">下载，就是把网络文件拷贝到本地。表示传输</div>
 <div class="alert alert-dark">

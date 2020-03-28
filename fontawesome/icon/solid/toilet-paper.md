@@ -2,7 +2,7 @@
 
 title: Toilet Paper(卫生纸) ICON转svg、png下载
 name: toilet-paper
-zhTips: 卫生纸,浴室,covid 19,万圣节,假日,厕所,胡闹,卷
+zhTips: 卫生纸,浴室,新型冠状病毒,新冠肺炎,万圣节,假日,厕所,胡闹,卷
 tags: ["camping","halloween","household"]
 pre: fas
 search: bathroom,covid-19,halloween,holiday,lavatory,prank,restroom,roll
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">bathroom</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">halloween</span><span class="badge-light badge">holiday</span><span class="badge-light badge">lavatory</span><span class="badge-light badge">prank</span><span class="badge-light badge">restroom</span><span class="badge-light badge">roll</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">卫生纸</span><span class="badge-primary badge">浴室</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">万圣节</span><span class="badge-primary badge">假日</span><span class="badge-primary badge">厕所</span><span class="badge-primary badge">胡闹</span><span class="badge-primary badge">卷</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/toilet-paper.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/toilet-paper.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">bathroom</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">halloween</span><span class="badge-light badge">holiday</span><span class="badge-light badge">lavatory</span><span class="badge-light badge">prank</span><span class="badge-light badge">restroom</span><span class="badge-light badge">roll</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">卫生纸</span><span class="badge-primary badge">浴室</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">万圣节</span><span class="badge-primary badge">假日</span><span class="badge-primary badge">厕所</span><span class="badge-primary badge">胡闹</span><span class="badge-primary badge">卷</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/toilet-paper.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/toilet-paper.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: Identification Card(身份证) ICON转svg、png下载
 name: id-card
-zhTips: 身份证,联系方式,人口统计学,文件,身份证明,已发布,个人资料
+zhTips: 身份证,联系方式,人口统计学,文件,身份证明,已发布,个人资料,证件
 tags: ["images","security","users-people"]
 pre: fas
 search: contact,demographics,document,identification,issued,profile
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">contact</span><span class="badge-light badge">demographics</span><span class="badge-light badge">document</span><span class="badge-light badge">identification</span><span class="badge-light badge">issued</span><span class="badge-light badge">profile</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">身份证</span><span class="badge-primary badge">联系方式</span><span class="badge-primary badge">人口统计学</span><span class="badge-primary badge">文件</span><span class="badge-primary badge">身份证明</span><span class="badge-primary badge">已发布</span><span class="badge-primary badge">个人资料</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/id-card.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/id-card.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">contact</span><span class="badge-light badge">demographics</span><span class="badge-light badge">document</span><span class="badge-light badge">identification</span><span class="badge-light badge">issued</span><span class="badge-light badge">profile</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">身份证</span><span class="badge-primary badge">联系方式</span><span class="badge-primary badge">人口统计学</span><span class="badge-primary badge">文件</span><span class="badge-primary badge">身份证明</span><span class="badge-primary badge">已发布</span><span class="badge-primary badge">个人资料</span><span class="badge-primary badge">证件</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/id-card.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/id-card.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

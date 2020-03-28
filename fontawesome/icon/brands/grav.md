@@ -2,7 +2,7 @@
 
 title: Grav(重力) ICON转svg、png下载
 name: grav
-zhTips: 重力,grav
+zhTips: 重力,grav,太空,宇航员,飞翔
 tags: []
 pre: fab
 search: 
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">重力</span><span class="badge-primary badge">grav</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/grav.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/grav.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">重力</span><span class="badge-primary badge">grav</span><span class="badge-primary badge">太空</span><span class="badge-primary badge">宇航员</span><span class="badge-primary badge">飞翔</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/grav.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/grav.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">Grav是一个现代开源的flat-file 内容管理系统CMS。</div>
 <div class="alert alert-dark">

@@ -1,15 +1,15 @@
 ---
 
-title: AngelList(AngelList) ICON转svg、png下载
+title: AngelList(胜利) ICON转svg、png下载
 name: angellist
-zhTips: AngelList
+zhTips: AngelList,胜利
 tags: []
 pre: fab
 search: 
 
 ---
 
-# AngelList  <small style="font-size: 60%;font-weight: 100">AngelList</small>
+# AngelList  <small style="font-size: 60%;font-weight: 100">胜利</small>
 
 
 <div class="detail-page">
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">AngelList</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/angellist.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/angellist.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">AngelList</span><span class="badge-primary badge">胜利</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/angellist.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/angellist.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">这是一家找工作、发布工作的初创公司</div>
 <div class="alert alert-dark">

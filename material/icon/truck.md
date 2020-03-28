@@ -2,7 +2,7 @@
 
 title:  truck(卡车) ICON转svg、png下载
 name: truck
-zhTips: 卡车,货车,当地运输,快递,货车标志,货物,交付,运输,车辆
+zhTips: 卡车,货车,当地运输,快递,货车标志,货物,交付,运输,车辆,交易
 tags: ["transportation-road"]
 search: lorry,local-shipping,courier
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">lorry</span><span class="badge-light badge">local-shipping</span><span class="badge-light badge">courier</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">卡车</span><span class="badge-primary badge">货车</span><span class="badge-primary badge">当地运输</span><span class="badge-primary badge">快递</span><span class="badge-primary badge">货车标志</span><span class="badge-primary badge">货物</span><span class="badge-primary badge">交付</span><span class="badge-primary badge">运输</span><span class="badge-primary badge">车辆</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/truck.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/truck.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">lorry</span><span class="badge-light badge">local-shipping</span><span class="badge-light badge">courier</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">卡车</span><span class="badge-primary badge">货车</span><span class="badge-primary badge">当地运输</span><span class="badge-primary badge">快递</span><span class="badge-primary badge">货车标志</span><span class="badge-primary badge">货物</span><span class="badge-primary badge">交付</span><span class="badge-primary badge">运输</span><span class="badge-primary badge">车辆</span><span class="badge-primary badge">交易</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/truck.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/truck.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">交通工具，可用于表示驾驶、运输、行驶。</div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: ExpeditedSSL(快速SSL) ICON转svg、png下载
 name: expeditedssl
-zhTips: 快速SSL,expeditedssl
+zhTips: 快速SSL,expeditedssl,锁
 tags: []
 pre: fab
 search: 
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">快速SSL</span><span class="badge-primary badge">expeditedssl</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/expeditedssl.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/expeditedssl.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">快速SSL</span><span class="badge-primary badge">expeditedssl</span><span class="badge-primary badge">锁</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/expeditedssl.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/expeditedssl.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">expeditedssl是为网络通信提供安全及数据完整性的一种安全协议</div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: Anchor(锚点) ICON转svg、png下载
 name: anchor
-zhTips: 锚点,泊位,船,码头,嵌入式,链接,海事,系泊,安全,船锚
+zhTips: 锚点,泊位,船,码头,嵌入式,链接,海事,系泊,安全,船锚,锚,驻扎,停船
 tags: ["maps","maritime","objects","summer"]
 pre: fas
 search: berth,boat,dock,embed,link,maritime,moor,secure
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">berth</span><span class="badge-light badge">boat</span><span class="badge-light badge">dock</span><span class="badge-light badge">embed</span><span class="badge-light badge">link</span><span class="badge-light badge">maritime</span><span class="badge-light badge">moor</span><span class="badge-light badge">secure</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">锚点</span><span class="badge-primary badge">泊位</span><span class="badge-primary badge">船</span><span class="badge-primary badge">码头</span><span class="badge-primary badge">嵌入式</span><span class="badge-primary badge">链接</span><span class="badge-primary badge">海事</span><span class="badge-primary badge">系泊</span><span class="badge-primary badge">安全</span><span class="badge-primary badge">船锚</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/anchor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/anchor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">berth</span><span class="badge-light badge">boat</span><span class="badge-light badge">dock</span><span class="badge-light badge">embed</span><span class="badge-light badge">link</span><span class="badge-light badge">maritime</span><span class="badge-light badge">moor</span><span class="badge-light badge">secure</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">锚点</span><span class="badge-primary badge">泊位</span><span class="badge-primary badge">船</span><span class="badge-primary badge">码头</span><span class="badge-primary badge">嵌入式</span><span class="badge-primary badge">链接</span><span class="badge-primary badge">海事</span><span class="badge-primary badge">系泊</span><span class="badge-primary badge">安全</span><span class="badge-primary badge">船锚</span><span class="badge-primary badge">锚</span><span class="badge-primary badge">驻扎</span><span class="badge-primary badge">停船</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/anchor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/anchor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">船锚，表示停泊的位置，网页中通常表示链接锚点的位置。</div>
 <div class="alert alert-dark">

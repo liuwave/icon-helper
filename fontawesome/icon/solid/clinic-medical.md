@@ -2,7 +2,7 @@
 
 title: Medical Clinic(医疗诊所) ICON转svg、png下载
 name: clinic-medical
-zhTips: 医疗诊所,covid 19,医生,普通科医生,医院,医务室,医学,办公室,门诊
+zhTips: 医疗诊所,新型冠状病毒,新冠肺炎,医生,普通科医生,医院,医务室,医学,办公室,门诊
 tags: ["buildings","medical","pharmacy"]
 pre: fas
 search: covid-19,doctor,general practitioner,hospital,infirmary,medicine,office,outpatient
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">doctor</span><span class="badge-light badge">general practitioner</span><span class="badge-light badge">hospital</span><span class="badge-light badge">infirmary</span><span class="badge-light badge">medicine</span><span class="badge-light badge">office</span><span class="badge-light badge">outpatient</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">医疗诊所</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">医生</span><span class="badge-primary badge">普通科医生</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">医务室</span><span class="badge-primary badge">医学</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">门诊</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/clinic-medical.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/clinic-medical.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">doctor</span><span class="badge-light badge">general practitioner</span><span class="badge-light badge">hospital</span><span class="badge-light badge">infirmary</span><span class="badge-light badge">medicine</span><span class="badge-light badge">office</span><span class="badge-light badge">outpatient</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">医疗诊所</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">医生</span><span class="badge-primary badge">普通科医生</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">医务室</span><span class="badge-primary badge">医学</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">门诊</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/clinic-medical.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/clinic-medical.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

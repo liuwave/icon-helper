@@ -9,7 +9,9 @@
   "author": "Contributors",
   "version": "1.5.54",
   "zhs": [
-    "电报"
+    "电报",
+    "发电报",
+    "发送"
   ],
   "description": "",
   "comments": []

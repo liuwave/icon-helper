@@ -2,7 +2,7 @@
 
 title: Pump Medical(泵医疗) ICON转svg、png下载
 name: pump-medical
-zhTips: 泵医疗,抗细菌,清洁,covid 19,消毒,卫生,医疗级,消毒剂,肥皂
+zhTips: 泵医疗,抗细菌,清洁,新型冠状病毒,新冠肺炎,消毒,卫生,医疗级,消毒剂,肥皂
 tags: ["medical"]
 pre: fas
 search: anti-bacterial,clean,covid-19,disinfect,hygiene,medical grade,sanitizer,soap
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">anti-bacterial</span><span class="badge-light badge">clean</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">disinfect</span><span class="badge-light badge">hygiene</span><span class="badge-light badge">medical grade</span><span class="badge-light badge">sanitizer</span><span class="badge-light badge">soap</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">泵医疗</span><span class="badge-primary badge">抗细菌</span><span class="badge-primary badge">清洁</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">消毒</span><span class="badge-primary badge">卫生</span><span class="badge-primary badge">医疗级</span><span class="badge-primary badge">消毒剂</span><span class="badge-primary badge">肥皂</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pump-medical.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pump-medical.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">anti-bacterial</span><span class="badge-light badge">clean</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">disinfect</span><span class="badge-light badge">hygiene</span><span class="badge-light badge">medical grade</span><span class="badge-light badge">sanitizer</span><span class="badge-light badge">soap</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">泵医疗</span><span class="badge-primary badge">抗细菌</span><span class="badge-primary badge">清洁</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">消毒</span><span class="badge-primary badge">卫生</span><span class="badge-primary badge">医疗级</span><span class="badge-primary badge">消毒剂</span><span class="badge-primary badge">肥皂</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pump-medical.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/pump-medical.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

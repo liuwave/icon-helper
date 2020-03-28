@@ -2,7 +2,7 @@
 
 title: Stopwatch 20(ABC) ICON转svg、png下载
 name: stopwatch-20
-zhTips: Stopwatch 20,ABC,倒计时,covid 19,生日快乐,我将生存,提醒,秒,时间,计时器
+zhTips: Stopwatch 20,ABC,倒计时,新型冠状病毒,新冠肺炎,生日快乐,我将生存,提醒,秒,时间,计时器
 tags: []
 pre: fas
 search: ABCs,countdown,covid-19,happy birthday,i will survive,reminder,seconds,time,timer
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">ABCs</span><span class="badge-light badge">countdown</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">happy birthday</span><span class="badge-light badge">i will survive</span><span class="badge-light badge">reminder</span><span class="badge-light badge">seconds</span><span class="badge-light badge">time</span><span class="badge-light badge">timer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Stopwatch 20</span><span class="badge-primary badge">ABC</span><span class="badge-primary badge">倒计时</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">生日快乐</span><span class="badge-primary badge">我将生存</span><span class="badge-primary badge">提醒</span><span class="badge-primary badge">秒</span><span class="badge-primary badge">时间</span><span class="badge-primary badge">计时器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stopwatch-20.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stopwatch-20.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">ABCs</span><span class="badge-light badge">countdown</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">happy birthday</span><span class="badge-light badge">i will survive</span><span class="badge-light badge">reminder</span><span class="badge-light badge">seconds</span><span class="badge-light badge">time</span><span class="badge-light badge">timer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Stopwatch 20</span><span class="badge-primary badge">ABC</span><span class="badge-primary badge">倒计时</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">生日快乐</span><span class="badge-primary badge">我将生存</span><span class="badge-primary badge">提醒</span><span class="badge-primary badge">秒</span><span class="badge-primary badge">时间</span><span class="badge-primary badge">计时器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stopwatch-20.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/stopwatch-20.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

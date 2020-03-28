@@ -2,7 +2,7 @@
 
 title:  shower(淋浴) ICON转svg、png下载
 name: shower
-zhTips: 淋浴,淋浴黑,浴缸,清洁,水龙头,水
+zhTips: 淋浴,淋浴黑,浴缸,清洁,水龙头,水,冲凉,淋雨,洗澡,路灯
 tags: ["home-automation"]
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Augustin Ursu</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">淋浴</span><span class="badge-primary badge">淋浴黑</span><span class="badge-primary badge">浴缸</span><span class="badge-primary badge">清洁</span><span class="badge-primary badge">水龙头</span><span class="badge-primary badge">水</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/shower.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/shower.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">淋浴</span><span class="badge-primary badge">淋浴黑</span><span class="badge-primary badge">浴缸</span><span class="badge-primary badge">清洁</span><span class="badge-primary badge">水龙头</span><span class="badge-primary badge">水</span><span class="badge-primary badge">冲凉</span><span class="badge-primary badge">淋雨</span><span class="badge-primary badge">洗澡</span><span class="badge-primary badge">路灯</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/shower.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/shower.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">淋浴喷头，可表示酒店、洗澡、浴室、清洗等。</div>
 <div class="alert alert-dark">

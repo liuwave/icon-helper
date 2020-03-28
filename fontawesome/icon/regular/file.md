@@ -2,7 +2,7 @@
 
 title: File(文件) ICON转svg、png下载
 name: file
-zhTips: 文件,文档,新文件,页面,pdf,简历
+zhTips: 文件,文档,新文件,页面,pdf,简历,认证
 tags: ["business","code","editors","files","interfaces","objects","shapes","status","writing"]
 pre: far
 search: document,new,page,pdf,resume
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">document</span><span class="badge-light badge">new</span><span class="badge-light badge">page</span><span class="badge-light badge">pdf</span><span class="badge-light badge">resume</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">文件</span><span class="badge-primary badge">文档</span><span class="badge-primary badge">新文件</span><span class="badge-primary badge">页面</span><span class="badge-primary badge">pdf</span><span class="badge-primary badge">简历</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/file.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/file.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">document</span><span class="badge-light badge">new</span><span class="badge-light badge">page</span><span class="badge-light badge">pdf</span><span class="badge-light badge">resume</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">文件</span><span class="badge-primary badge">文档</span><span class="badge-primary badge">新文件</span><span class="badge-primary badge">页面</span><span class="badge-primary badge">pdf</span><span class="badge-primary badge">简历</span><span class="badge-primary badge">认证</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/file.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/file.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示文件 。</div>
 <div class="alert alert-dark">

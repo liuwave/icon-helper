@@ -2,7 +2,7 @@
 
 title:  table(表) ICON转svg、png下载
 name: table
-zhTips: 表,平板桌面,表格,数据,Excel,电子表格
+zhTips: 表,平板桌面,表格,数据,Excel,电子表格,书架,盒子
 tags: ["text-content-format"]
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">表</span><span class="badge-primary badge">平板桌面</span><span class="badge-primary badge">表格</span><span class="badge-primary badge">数据</span><span class="badge-primary badge">Excel</span><span class="badge-primary badge">电子表格</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/table.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/table.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">表</span><span class="badge-primary badge">平板桌面</span><span class="badge-primary badge">表格</span><span class="badge-primary badge">数据</span><span class="badge-primary badge">Excel</span><span class="badge-primary badge">电子表格</span><span class="badge-primary badge">书架</span><span class="badge-primary badge">盒子</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/table.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/table.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示电脑桌面设备。</div>
 <div class="alert alert-dark">

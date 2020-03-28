@@ -2,7 +2,7 @@
 
 title:  rss(RSS) ICON转svg、png下载
 name: rss
-zhTips: RSS,RSS提要,wifi黑,博客,提要,新闻,写作
+zhTips: RSS,RSS提要,wifi黑,博客,提要,新闻,写作,聚合阅读,订阅
 tags: []
 search: rss-feed
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">rss-feed</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">RSS</span><span class="badge-primary badge">RSS提要</span><span class="badge-primary badge">wifi黑</span><span class="badge-primary badge">博客</span><span class="badge-primary badge">提要</span><span class="badge-primary badge">新闻</span><span class="badge-primary badge">写作</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/rss.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/rss.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">rss-feed</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">RSS</span><span class="badge-primary badge">RSS提要</span><span class="badge-primary badge">wifi黑</span><span class="badge-primary badge">博客</span><span class="badge-primary badge">提要</span><span class="badge-primary badge">新闻</span><span class="badge-primary badge">写作</span><span class="badge-primary badge">聚合阅读</span><span class="badge-primary badge">订阅</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/rss.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/rss.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示网络，互联网等。</div>
 <div class="alert alert-dark">

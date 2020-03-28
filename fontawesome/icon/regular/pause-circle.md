@@ -2,7 +2,7 @@
 
 title: Pause Circle(暂停圈) ICON转svg、png下载
 name: pause-circle
-zhTips: 暂停圈,等待
+zhTips: 暂停圈,等待,暂停
 tags: ["audio-video"]
 pre: far
 search: hold,wait
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">hold</span><span class="badge-light badge">wait</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">暂停圈</span><span class="badge-primary badge">等待</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/pause-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/pause-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">hold</span><span class="badge-light badge">wait</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">暂停圈</span><span class="badge-primary badge">等待</span><span class="badge-primary badge">暂停</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/pause-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/pause-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

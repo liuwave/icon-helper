@@ -2,7 +2,7 @@
 
 title: Bug(错误) ICON转svg、png下载
 name: bug
-zhTips: 错误,甲虫,昆虫,报告,臭虫
+zhTips: 错误,甲虫,昆虫,报告,臭虫,调试,病毒,木马
 tags: ["code","interfaces","objects","security"]
 pre: fas
 search: beetle,error,insect,report
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">beetle</span><span class="badge-light badge">error</span><span class="badge-light badge">insect</span><span class="badge-light badge">report</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">错误</span><span class="badge-primary badge">甲虫</span><span class="badge-primary badge">昆虫</span><span class="badge-primary badge">报告</span><span class="badge-primary badge">臭虫</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bug.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bug.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">beetle</span><span class="badge-light badge">error</span><span class="badge-light badge">insect</span><span class="badge-light badge">report</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">错误</span><span class="badge-primary badge">甲虫</span><span class="badge-primary badge">昆虫</span><span class="badge-primary badge">报告</span><span class="badge-primary badge">臭虫</span><span class="badge-primary badge">调试</span><span class="badge-primary badge">病毒</span><span class="badge-primary badge">木马</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bug.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bug.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">臭虫，可以表示电脑病毒、电脑bug、bug调试。</div>
 <div class="alert alert-dark">

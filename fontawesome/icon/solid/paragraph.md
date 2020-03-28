@@ -2,7 +2,7 @@
 
 title: paragraph(段落) ICON转svg、png下载
 name: paragraph
-zhTips: 段落,编辑,格式,文本,写作
+zhTips: 段落,编辑,格式,文本,写作,段落符号
 tags: ["editors","writing"]
 pre: fas
 search: edit,format,text,writing
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">edit</span><span class="badge-light badge">format</span><span class="badge-light badge">text</span><span class="badge-light badge">writing</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">段落</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">写作</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paragraph.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paragraph.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">edit</span><span class="badge-light badge">format</span><span class="badge-light badge">text</span><span class="badge-light badge">writing</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">段落</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">写作</span><span class="badge-primary badge">段落符号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paragraph.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paragraph.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示段落标记。</div>
 <div class="alert alert-dark">

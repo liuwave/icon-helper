@@ -2,7 +2,7 @@
 
 title: Recycle(回收) ICON转svg、png下载
 name: recycle
-zhTips: 回收,废物,垃圾,再利用,回收符号
+zhTips: 回收,废物,垃圾,再利用,回收符号,循环
 tags: ["arrows","maps"]
 pre: fas
 search: Waste,compost,garbage,reuse,trash
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">Waste</span><span class="badge-light badge">compost</span><span class="badge-light badge">garbage</span><span class="badge-light badge">reuse</span><span class="badge-light badge">trash</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">回收</span><span class="badge-primary badge">废物</span><span class="badge-primary badge">垃圾</span><span class="badge-primary badge">再利用</span><span class="badge-primary badge">回收符号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/recycle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/recycle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">Waste</span><span class="badge-light badge">compost</span><span class="badge-light badge">garbage</span><span class="badge-light badge">reuse</span><span class="badge-light badge">trash</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">回收</span><span class="badge-primary badge">废物</span><span class="badge-primary badge">垃圾</span><span class="badge-primary badge">再利用</span><span class="badge-primary badge">回收符号</span><span class="badge-primary badge">循环</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/recycle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/recycle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">循环利用，表示存放临时删除的文档资料等。</div>
 <div class="alert alert-dark">

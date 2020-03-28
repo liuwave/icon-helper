@@ -2,7 +2,7 @@
 
 title: Alternate Hospital(替代医院) ICON转svg、png下载
 name: hospital-alt
-zhTips: 替代医院,建筑物,covid 19,急诊室,医疗中心
+zhTips: 替代医院,建筑物,新型冠状病毒,新冠肺炎,急诊室,医疗中心
 tags: ["buildings","medical"]
 pre: fas
 search: building,covid-19,emergency room,medical center
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">emergency room</span><span class="badge-light badge">medical center</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">替代医院</span><span class="badge-primary badge">建筑物</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">急诊室</span><span class="badge-primary badge">医疗中心</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hospital-alt.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hospital-alt.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">building</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">emergency room</span><span class="badge-light badge">medical center</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">替代医院</span><span class="badge-primary badge">建筑物</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">急诊室</span><span class="badge-primary badge">医疗中心</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hospital-alt.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hospital-alt.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

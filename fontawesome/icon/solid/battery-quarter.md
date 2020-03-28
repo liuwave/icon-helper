@@ -2,7 +2,7 @@
 
 title: Battery 1/4 Full(电池1/4充满) ICON转svg、png下载
 name: battery-quarter
-zhTips: 电池1/4充满,充电,低,功率,状态
+zhTips: 电池1/4充满,充电,低,功率,状态,电池
 tags: ["energy","status"]
 pre: fas
 search: charge,low,power,status
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">charge</span><span class="badge-light badge">low</span><span class="badge-light badge">power</span><span class="badge-light badge">status</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">电池1/4充满</span><span class="badge-primary badge">充电</span><span class="badge-primary badge">低</span><span class="badge-primary badge">功率</span><span class="badge-primary badge">状态</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/battery-quarter.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/battery-quarter.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">charge</span><span class="badge-light badge">low</span><span class="badge-light badge">power</span><span class="badge-light badge">status</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">电池1/4充满</span><span class="badge-primary badge">充电</span><span class="badge-primary badge">低</span><span class="badge-primary badge">功率</span><span class="badge-primary badge">状态</span><span class="badge-primary badge">电池</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/battery-quarter.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/battery-quarter.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

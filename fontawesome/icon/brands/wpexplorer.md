@@ -1,15 +1,15 @@
 ---
 
-title: WPExplorer(WPExplorer) ICON转svg、png下载
+title: WPExplorer(望远镜) ICON转svg、png下载
 name: wpexplorer
-zhTips: WPExplorer
+zhTips: WPExplorer,望远镜
 tags: []
 pre: fab
 search: 
 
 ---
 
-# WPExplorer  <small style="font-size: 60%;font-weight: 100">WPExplorer</small>
+# WPExplorer  <small style="font-size: 60%;font-weight: 100">望远镜</small>
 
 
 <div class="detail-page">
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">WPExplorer</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wpexplorer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wpexplorer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">WPExplorer</span><span class="badge-primary badge">望远镜</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wpexplorer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wpexplorer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">WPExplorer是一家Wordpress插件开发网站，提供WordPress相关的知识、教程、资源、主题和插件。</div>
 <div class="alert alert-dark">

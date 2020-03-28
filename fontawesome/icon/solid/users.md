@@ -2,7 +2,7 @@
 
 title: Users(用户) ICON转svg、png下载
 name: users
-zhTips: 用户,朋友,组,人,个人资料,团队,用户组
+zhTips: 用户,朋友,组,人,个人资料,团队,用户组,群组,会员
 tags: ["social","users-people"]
 pre: fas
 search: friends,group,people,persons,profiles,team
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">friends</span><span class="badge-light badge">group</span><span class="badge-light badge">people</span><span class="badge-light badge">persons</span><span class="badge-light badge">profiles</span><span class="badge-light badge">team</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">用户</span><span class="badge-primary badge">朋友</span><span class="badge-primary badge">组</span><span class="badge-primary badge">人</span><span class="badge-primary badge">个人资料</span><span class="badge-primary badge">团队</span><span class="badge-primary badge">用户组</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/users.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/users.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">friends</span><span class="badge-light badge">group</span><span class="badge-light badge">people</span><span class="badge-light badge">persons</span><span class="badge-light badge">profiles</span><span class="badge-light badge">team</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">用户</span><span class="badge-primary badge">朋友</span><span class="badge-primary badge">组</span><span class="badge-primary badge">人</span><span class="badge-primary badge">个人资料</span><span class="badge-primary badge">团队</span><span class="badge-primary badge">用户组</span><span class="badge-primary badge">群组</span><span class="badge-primary badge">会员</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/users.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/users.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">通常用于表示qq、微信等通信软件的联系好友。</div>
 <div class="alert alert-dark">

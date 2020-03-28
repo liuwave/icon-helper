@@ -2,7 +2,7 @@
 
 title: Balance Scale(平衡秤) ICON转svg、png下载
 name: balance-scale
-zhTips: 平衡秤,平衡,正义,法律,措施,重量
+zhTips: 平衡秤,平衡,正义,法律,措施,重量,天枰,公平,天平
 tags: ["business","finance","maps","objects","political"]
 pre: fas
 search: balanced,justice,legal,measure,weight
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">balanced</span><span class="badge-light badge">justice</span><span class="badge-light badge">legal</span><span class="badge-light badge">measure</span><span class="badge-light badge">weight</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">平衡秤</span><span class="badge-primary badge">平衡</span><span class="badge-primary badge">正义</span><span class="badge-primary badge">法律</span><span class="badge-primary badge">措施</span><span class="badge-primary badge">重量</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/balance-scale.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/balance-scale.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">balanced</span><span class="badge-light badge">justice</span><span class="badge-light badge">legal</span><span class="badge-light badge">measure</span><span class="badge-light badge">weight</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">平衡秤</span><span class="badge-primary badge">平衡</span><span class="badge-primary badge">正义</span><span class="badge-primary badge">法律</span><span class="badge-primary badge">措施</span><span class="badge-primary badge">重量</span><span class="badge-primary badge">天枰</span><span class="badge-primary badge">公平</span><span class="badge-primary badge">天平</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/balance-scale.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/balance-scale.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

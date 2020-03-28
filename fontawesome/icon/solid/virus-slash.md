@@ -2,7 +2,7 @@
 
 title: Virus Slash(bug) ICON转svg、png下载
 name: virus-slash
-zhTips: Virus Slash,bug,covid 19,治愈,消除,流感,健康,生病,病毒
+zhTips: Virus Slash,bug,新型冠状病毒,新冠肺炎,治愈,消除,流感,健康,生病,病毒
 tags: ["medical"]
 pre: fas
 search: bug,covid-19,cure,eliminate,flu,health,sick,viral
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">bug</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">cure</span><span class="badge-light badge">eliminate</span><span class="badge-light badge">flu</span><span class="badge-light badge">health</span><span class="badge-light badge">sick</span><span class="badge-light badge">viral</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Virus Slash</span><span class="badge-primary badge">bug</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">治愈</span><span class="badge-primary badge">消除</span><span class="badge-primary badge">流感</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">生病</span><span class="badge-primary badge">病毒</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/virus-slash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/virus-slash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">bug</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">cure</span><span class="badge-light badge">eliminate</span><span class="badge-light badge">flu</span><span class="badge-light badge">health</span><span class="badge-light badge">sick</span><span class="badge-light badge">viral</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Virus Slash</span><span class="badge-primary badge">bug</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">治愈</span><span class="badge-primary badge">消除</span><span class="badge-primary badge">流感</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">生病</span><span class="badge-primary badge">病毒</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/virus-slash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/virus-slash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

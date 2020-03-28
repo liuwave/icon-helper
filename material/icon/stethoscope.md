@@ -2,7 +2,7 @@
 
 title:  stethoscope(听诊器) ICON转svg、png下载
 name: stethoscope
-zhTips: 听诊器,covid 19,诊断,医生,普通科医生,医院,医务室,医学,办公室,门诊
+zhTips: 听诊器,新型冠状病毒,新冠肺炎,诊断,医生,普通科医生,医院,医务室,医学,办公室,门诊,检查
 tags: ["medical-hospital"]
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">听诊器</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">诊断</span><span class="badge-primary badge">医生</span><span class="badge-primary badge">普通科医生</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">医务室</span><span class="badge-primary badge">医学</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">门诊</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/stethoscope.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/stethoscope.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">听诊器</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">诊断</span><span class="badge-primary badge">医生</span><span class="badge-primary badge">普通科医生</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">医务室</span><span class="badge-primary badge">医学</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">门诊</span><span class="badge-primary badge">检查</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/stethoscope.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/stethoscope.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">用于医院医疗，诊断。</div>
 <div class="alert alert-dark">

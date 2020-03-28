@@ -11,7 +11,10 @@
   "version": "5.0.0",
   "zhs": [
     "重力",
-    "grav"
+    "grav",
+    "太空",
+    "宇航员",
+    "飞翔"
   ],
   "description": "Grav是一个现代开源的flat-file 内容管理系统CMS。",
   "comments": []

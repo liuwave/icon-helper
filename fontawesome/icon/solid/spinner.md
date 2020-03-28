@@ -2,7 +2,7 @@
 
 title: Spinner(旋转器) ICON转svg、png下载
 name: spinner
-zhTips: 旋转器,圆,加载,进度,旋转加载
+zhTips: 旋转器,圆,加载,进度,旋转加载,滚动条,等待,waiting
 tags: ["spinners"]
 pre: fas
 search: circle,loading,progress
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">circle</span><span class="badge-light badge">loading</span><span class="badge-light badge">progress</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">旋转器</span><span class="badge-primary badge">圆</span><span class="badge-primary badge">加载</span><span class="badge-primary badge">进度</span><span class="badge-primary badge">旋转加载</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/spinner.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/spinner.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">circle</span><span class="badge-light badge">loading</span><span class="badge-light badge">progress</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">旋转器</span><span class="badge-primary badge">圆</span><span class="badge-primary badge">加载</span><span class="badge-primary badge">进度</span><span class="badge-primary badge">旋转加载</span><span class="badge-primary badge">滚动条</span><span class="badge-primary badge">等待</span><span class="badge-primary badge">waiting</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/spinner.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/spinner.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示内容正在加载。</div>
 <div class="alert alert-dark">

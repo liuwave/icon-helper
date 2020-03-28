@@ -2,7 +2,7 @@
 
 title:  plus(加) ICON转svg、png下载
 name: plus
-zhTips: 加,加号黑,plus,add,create,expand,new,positive,shape
+zhTips: 加,加号黑,plus,add,create,expand,new,positive,shape,新增,增加,添加
 tags: ["math"]
 search: add
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">add</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">加</span><span class="badge-primary badge">加号黑</span><span class="badge-primary badge">plus</span><span class="badge-primary badge">add</span><span class="badge-primary badge">create</span><span class="badge-primary badge">expand</span><span class="badge-primary badge">new</span><span class="badge-primary badge">positive</span><span class="badge-primary badge">shape</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/plus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/plus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">add</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">加</span><span class="badge-primary badge">加号黑</span><span class="badge-primary badge">plus</span><span class="badge-primary badge">add</span><span class="badge-primary badge">create</span><span class="badge-primary badge">expand</span><span class="badge-primary badge">new</span><span class="badge-primary badge">positive</span><span class="badge-primary badge">shape</span><span class="badge-primary badge">新增</span><span class="badge-primary badge">增加</span><span class="badge-primary badge">添加</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/plus.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/plus.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示两数相加的运算符。</div>
 <div class="alert alert-dark">

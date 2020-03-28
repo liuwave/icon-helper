@@ -2,7 +2,7 @@
 
 title: bookmark(书签) ICON转svg、png下载
 name: bookmark
-zhTips: 书签,收藏夹,标记,阅读,记住,保存
+zhTips: 书签,收藏夹,标记,阅读,记住,保存,标签
 tags: ["maps","objects","payments-shopping","shapes","writing"]
 pre: fas
 search: favorite,marker,read,remember,save
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">favorite</span><span class="badge-light badge">marker</span><span class="badge-light badge">read</span><span class="badge-light badge">remember</span><span class="badge-light badge">save</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">书签</span><span class="badge-primary badge">收藏夹</span><span class="badge-primary badge">标记</span><span class="badge-primary badge">阅读</span><span class="badge-primary badge">记住</span><span class="badge-primary badge">保存</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bookmark.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bookmark.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">favorite</span><span class="badge-light badge">marker</span><span class="badge-light badge">read</span><span class="badge-light badge">remember</span><span class="badge-light badge">save</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">书签</span><span class="badge-primary badge">收藏夹</span><span class="badge-primary badge">标记</span><span class="badge-primary badge">阅读</span><span class="badge-primary badge">记住</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">标签</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bookmark.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bookmark.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">书签，收藏夹，标记。一种记页码的方式，表示重要的事件。</div>
 <div class="alert alert-dark">

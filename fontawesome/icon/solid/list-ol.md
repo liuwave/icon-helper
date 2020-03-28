@@ -2,7 +2,7 @@
 
 title: list-ol(列表ol) ICON转svg、png下载
 name: list-ol
-zhTips: 列表ol,清单,完成,数字,ol,待办事项,ul
+zhTips: 列表ol,清单,完成,数字,ol,待办事项,ul,有序列表
 tags: ["editors"]
 pre: fas
 search: checklist,completed,done,finished,numbers,ol,todo,ul
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">checklist</span><span class="badge-light badge">completed</span><span class="badge-light badge">done</span><span class="badge-light badge">finished</span><span class="badge-light badge">numbers</span><span class="badge-light badge">ol</span><span class="badge-light badge">todo</span><span class="badge-light badge">ul</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">列表ol</span><span class="badge-primary badge">清单</span><span class="badge-primary badge">完成</span><span class="badge-primary badge">数字</span><span class="badge-primary badge">ol</span><span class="badge-primary badge">待办事项</span><span class="badge-primary badge">ul</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/list-ol.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/list-ol.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">checklist</span><span class="badge-light badge">completed</span><span class="badge-light badge">done</span><span class="badge-light badge">finished</span><span class="badge-light badge">numbers</span><span class="badge-light badge">ol</span><span class="badge-light badge">todo</span><span class="badge-light badge">ul</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">列表ol</span><span class="badge-primary badge">清单</span><span class="badge-primary badge">完成</span><span class="badge-primary badge">数字</span><span class="badge-primary badge">ol</span><span class="badge-primary badge">待办事项</span><span class="badge-primary badge">ul</span><span class="badge-primary badge">有序列表</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/list-ol.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/list-ol.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

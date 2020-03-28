@@ -2,7 +2,7 @@
 
 title: Paperclip(回形针) ICON转svg、png下载
 name: paperclip
-zhTips: 回形针,附件,连接,链接
+zhTips: 回形针,附件,连接,链接,曲别针
 tags: ["business","editors","objects","writing"]
 pre: fas
 search: attach,attachment,connect,link
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">attach</span><span class="badge-light badge">attachment</span><span class="badge-light badge">connect</span><span class="badge-light badge">link</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">回形针</span><span class="badge-primary badge">附件</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">链接</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paperclip.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paperclip.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">attach</span><span class="badge-light badge">attachment</span><span class="badge-light badge">connect</span><span class="badge-light badge">link</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">回形针</span><span class="badge-primary badge">附件</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">链接</span><span class="badge-primary badge">曲别针</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paperclip.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/paperclip.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示邮件中的附件图标。</div>
 <div class="alert alert-dark">

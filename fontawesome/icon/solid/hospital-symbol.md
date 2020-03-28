@@ -2,7 +2,7 @@
 
 title: Hospital Symbol(医院符号) ICON转svg、png下载
 name: hospital-symbol
-zhTips: 医院符号,诊所,covid 19,紧急情况,地图
+zhTips: 医院符号,诊所,新型冠状病毒,新冠肺炎,紧急情况,地图
 tags: ["medical"]
 pre: fas
 search: clinic,covid-19,emergency,map
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">clinic</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">emergency</span><span class="badge-light badge">map</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">医院符号</span><span class="badge-primary badge">诊所</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">紧急情况</span><span class="badge-primary badge">地图</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hospital-symbol.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hospital-symbol.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">clinic</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">emergency</span><span class="badge-light badge">map</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">医院符号</span><span class="badge-primary badge">诊所</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">紧急情况</span><span class="badge-primary badge">地图</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hospital-symbol.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hospital-symbol.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title:  gavel(木槌) ICON转svg、png下载
 name: gavel
-zhTips: 木槌,法院锤,锤子,法官,法律,律师,意见
+zhTips: 木槌,法院锤,锤子,法官,法律,律师,意见,拍卖锤
 tags: []
 search: court-hammer
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Austin Andrews</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">court-hammer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">木槌</span><span class="badge-primary badge">法院锤</span><span class="badge-primary badge">锤子</span><span class="badge-primary badge">法官</span><span class="badge-primary badge">法律</span><span class="badge-primary badge">律师</span><span class="badge-primary badge">意见</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/gavel.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/gavel.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">court-hammer</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">木槌</span><span class="badge-primary badge">法院锤</span><span class="badge-primary badge">锤子</span><span class="badge-primary badge">法官</span><span class="badge-primary badge">法律</span><span class="badge-primary badge">律师</span><span class="badge-primary badge">意见</span><span class="badge-primary badge">拍卖锤</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/gavel.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/gavel.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示敲击，敲打等。</div>
 <div class="alert alert-dark">

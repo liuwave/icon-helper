@@ -2,7 +2,7 @@
 
 title: Language(语言) ICON转svg、png下载
 name: language
-zhTips: 语言,方言,成语,本地化,语音,翻译,白话
+zhTips: 语言,方言,成语,本地化,语音,翻译,白话,多语言
 tags: ["communication","interfaces"]
 pre: fas
 search: dialect,idiom,localize,speech,translate,vernacular
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">dialect</span><span class="badge-light badge">idiom</span><span class="badge-light badge">localize</span><span class="badge-light badge">speech</span><span class="badge-light badge">translate</span><span class="badge-light badge">vernacular</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">语言</span><span class="badge-primary badge">方言</span><span class="badge-primary badge">成语</span><span class="badge-primary badge">本地化</span><span class="badge-primary badge">语音</span><span class="badge-primary badge">翻译</span><span class="badge-primary badge">白话</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/language.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/language.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">dialect</span><span class="badge-light badge">idiom</span><span class="badge-light badge">localize</span><span class="badge-light badge">speech</span><span class="badge-light badge">translate</span><span class="badge-light badge">vernacular</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">语言</span><span class="badge-primary badge">方言</span><span class="badge-primary badge">成语</span><span class="badge-primary badge">本地化</span><span class="badge-primary badge">语音</span><span class="badge-primary badge">翻译</span><span class="badge-primary badge">白话</span><span class="badge-primary badge">多语言</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/language.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/language.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示语言选择等动作。</div>
 <div class="alert alert-dark">

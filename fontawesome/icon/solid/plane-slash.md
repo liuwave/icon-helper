@@ -2,7 +2,7 @@
 
 title: Plane Slash(飞机斜线) ICON转svg、png下载
 name: plane-slash
-zhTips: 飞机斜线,飞机模式,取消,covid 19,延迟,着陆,行驶
+zhTips: 飞机斜线,飞机模式,取消,新型冠状病毒,新冠肺炎,延迟,着陆,行驶
 tags: []
 pre: fas
 search: airplane mode,canceled,covid-19,delayed,grounded,travel
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">airplane mode</span><span class="badge-light badge">canceled</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">delayed</span><span class="badge-light badge">grounded</span><span class="badge-light badge">travel</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">飞机斜线</span><span class="badge-primary badge">飞机模式</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">延迟</span><span class="badge-primary badge">着陆</span><span class="badge-primary badge">行驶</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plane-slash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plane-slash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">airplane mode</span><span class="badge-light badge">canceled</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">delayed</span><span class="badge-light badge">grounded</span><span class="badge-light badge">travel</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">飞机斜线</span><span class="badge-primary badge">飞机模式</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">延迟</span><span class="badge-primary badge">着陆</span><span class="badge-primary badge">行驶</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plane-slash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/plane-slash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -12,7 +12,9 @@
   "author": "Cody",
   "version": "3.4.93",
   "zhs": [
-    "购物车向下箭头"
+    "购物车向下箭头",
+    "购物车",
+    "从购物车删除"
   ],
   "description": "",
   "comments": []

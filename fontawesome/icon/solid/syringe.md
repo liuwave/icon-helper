@@ -2,7 +2,7 @@
 
 title: Syringe(注射器) ICON转svg、png下载
 name: syringe
-zhTips: 注射器,covid 19,医生,免疫,医疗,针
+zhTips: 注射器,新型冠状病毒,新冠肺炎,医生,免疫,医疗,针
 tags: ["medical","pharmacy","science"]
 pre: fas
 search: covid-19,doctor,immunizations,medical,needle
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">doctor</span><span class="badge-light badge">immunizations</span><span class="badge-light badge">medical</span><span class="badge-light badge">needle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">注射器</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">医生</span><span class="badge-primary badge">免疫</span><span class="badge-primary badge">医疗</span><span class="badge-primary badge">针</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/syringe.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/syringe.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">doctor</span><span class="badge-light badge">immunizations</span><span class="badge-light badge">medical</span><span class="badge-light badge">needle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">注射器</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">医生</span><span class="badge-primary badge">免疫</span><span class="badge-primary badge">医疗</span><span class="badge-primary badge">针</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/syringe.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/syringe.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示医院的治疗、诊断等。</div>
 <div class="alert alert-dark">

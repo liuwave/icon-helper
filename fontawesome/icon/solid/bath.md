@@ -2,7 +2,7 @@
 
 title: Bath(浴) ICON转svg、png下载
 name: bath
-zhTips: 浴,清洁,淋浴,浴缸,洗
+zhTips: 浴,清洁,淋浴,浴缸,洗,洗澡,泡澡,浴室
 tags: ["childhood","code","hotel","household","maps","objects"]
 pre: fas
 search: clean,shower,tub,wash
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">clean</span><span class="badge-light badge">shower</span><span class="badge-light badge">tub</span><span class="badge-light badge">wash</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">浴</span><span class="badge-primary badge">清洁</span><span class="badge-primary badge">淋浴</span><span class="badge-primary badge">浴缸</span><span class="badge-primary badge">洗</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bath.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bath.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">clean</span><span class="badge-light badge">shower</span><span class="badge-light badge">tub</span><span class="badge-light badge">wash</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">浴</span><span class="badge-primary badge">清洁</span><span class="badge-primary badge">淋浴</span><span class="badge-primary badge">浴缸</span><span class="badge-primary badge">洗</span><span class="badge-primary badge">洗澡</span><span class="badge-primary badge">泡澡</span><span class="badge-primary badge">浴室</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bath.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bath.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">浴缸，可表示浴室。</div>
 <div class="alert alert-dark">

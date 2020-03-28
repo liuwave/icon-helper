@@ -2,7 +2,7 @@
 
 title: I Beam Cursor(I Beam光标) ICON转svg、png下载
 name: i-cursor
-zhTips: I Beam光标,编辑,i Beam,类型,书写
+zhTips: I Beam光标,编辑,i Beam,类型,书写,光标
 tags: ["editors","interfaces"]
 pre: fas
 search: editing,i-beam,type,writing
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">editing</span><span class="badge-light badge">i-beam</span><span class="badge-light badge">type</span><span class="badge-light badge">writing</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">I Beam光标</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">i Beam</span><span class="badge-primary badge">类型</span><span class="badge-primary badge">书写</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/i-cursor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/i-cursor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">editing</span><span class="badge-light badge">i-beam</span><span class="badge-light badge">type</span><span class="badge-light badge">writing</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">I Beam光标</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">i Beam</span><span class="badge-primary badge">类型</span><span class="badge-primary badge">书写</span><span class="badge-primary badge">光标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/i-cursor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/i-cursor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

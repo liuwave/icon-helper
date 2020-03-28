@@ -2,7 +2,7 @@
 
 title: crop(作物) ICON转svg、png下载
 name: crop
-zhTips: 作物,设计,框架,蒙版,调整大小,缩小,剪切
+zhTips: 作物,设计,框架,蒙版,调整大小,缩小,剪切,裁剪
 tags: ["design"]
 pre: fas
 search: design,frame,mask,resize,shrink
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">design</span><span class="badge-light badge">frame</span><span class="badge-light badge">mask</span><span class="badge-light badge">resize</span><span class="badge-light badge">shrink</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">作物</span><span class="badge-primary badge">设计</span><span class="badge-primary badge">框架</span><span class="badge-primary badge">蒙版</span><span class="badge-primary badge">调整大小</span><span class="badge-primary badge">缩小</span><span class="badge-primary badge">剪切</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crop.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crop.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">design</span><span class="badge-light badge">frame</span><span class="badge-light badge">mask</span><span class="badge-light badge">resize</span><span class="badge-light badge">shrink</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">作物</span><span class="badge-primary badge">设计</span><span class="badge-primary badge">框架</span><span class="badge-primary badge">蒙版</span><span class="badge-primary badge">调整大小</span><span class="badge-primary badge">缩小</span><span class="badge-primary badge">剪切</span><span class="badge-primary badge">裁剪</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crop.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/crop.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">剪切，可以表示切片功能。</div>
 <div class="alert alert-dark">

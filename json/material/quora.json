@@ -7,7 +7,10 @@
   "author": "Contributors",
   "version": "3.3.92",
   "zhs": [
-    "quora"
+    "quora",
+    "问答",
+    "Q",
+    "问题"
   ],
   "description": "Quora是一个问答网站。",
   "comments": []

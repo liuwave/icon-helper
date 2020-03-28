@@ -1,15 +1,15 @@
 ---
 
-title: Wikipedia W(Wikipedia W) ICON转svg、png下载
+title: Wikipedia W(维基百科) ICON转svg、png下载
 name: wikipedia-w
-zhTips: Wikipedia W
+zhTips: Wikipedia W,维基百科
 tags: []
 pre: fab
 search: 
 
 ---
 
-# Wikipedia W  <small style="font-size: 60%;font-weight: 100">Wikipedia W</small>
+# Wikipedia W  <small style="font-size: 60%;font-weight: 100">维基百科</small>
 
 
 <div class="detail-page">
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Wikipedia W</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wikipedia-w.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wikipedia-w.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Wikipedia W</span><span class="badge-primary badge">维基百科</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wikipedia-w.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wikipedia-w.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

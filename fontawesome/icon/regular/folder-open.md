@@ -2,7 +2,7 @@
 
 title: Folder Open(文件夹打开) ICON转svg、png下载
 name: folder-open
-zhTips: 文件夹打开,归档,目录,文档,空,文件,新
+zhTips: 文件夹打开,归档,目录,文档,空,文件,新,打开,文件夹,网址导航
 tags: ["business","code","files","interfaces","status","writing"]
 pre: far
 search: archive,directory,document,empty,file,new
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">archive</span><span class="badge-light badge">directory</span><span class="badge-light badge">document</span><span class="badge-light badge">empty</span><span class="badge-light badge">file</span><span class="badge-light badge">new</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">文件夹打开</span><span class="badge-primary badge">归档</span><span class="badge-primary badge">目录</span><span class="badge-primary badge">文档</span><span class="badge-primary badge">空</span><span class="badge-primary badge">文件</span><span class="badge-primary badge">新</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/folder-open.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/folder-open.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">archive</span><span class="badge-light badge">directory</span><span class="badge-light badge">document</span><span class="badge-light badge">empty</span><span class="badge-light badge">file</span><span class="badge-light badge">new</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">文件夹打开</span><span class="badge-primary badge">归档</span><span class="badge-primary badge">目录</span><span class="badge-primary badge">文档</span><span class="badge-primary badge">空</span><span class="badge-primary badge">文件</span><span class="badge-primary badge">新</span><span class="badge-primary badge">打开</span><span class="badge-primary badge">文件夹</span><span class="badge-primary badge">网址导航</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/folder-open.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/folder-open.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

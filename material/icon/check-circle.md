@@ -2,7 +2,7 @@
 
 title:  check circle(检查圆圈) ICON转svg、png下载
 name: check-circle
-zhTips: 检查圆圈,刻度线
+zhTips: 检查圆圈,刻度线,审核,选择,完成,成功
 tags: []
 search: tick-circle
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">tick-circle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">检查圆圈</span><span class="badge-primary badge">刻度线</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/check-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/check-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">tick-circle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">检查圆圈</span><span class="badge-primary badge">刻度线</span><span class="badge-primary badge">审核</span><span class="badge-primary badge">选择</span><span class="badge-primary badge">完成</span><span class="badge-primary badge">成功</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/check-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/check-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

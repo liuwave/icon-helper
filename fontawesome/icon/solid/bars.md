@@ -2,7 +2,7 @@
 
 title: Bars(酒吧) ICON转svg、png下载
 name: bars
-zhTips: 酒吧,清单,拖动,汉堡包,列表,菜单,导航,ol,重新排序,设置,待办事项,栅栏
+zhTips: 酒吧,清单,拖动,汉堡包,列表,菜单,导航,ol,重新排序,设置,待办事项,栅栏,栏目,选项,下拉
 tags: ["interfaces"]
 pre: fas
 search: checklist,drag,hamburger,list,menu,nav,navigation,ol,reorder,settings,todo,ul
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">checklist</span><span class="badge-light badge">drag</span><span class="badge-light badge">hamburger</span><span class="badge-light badge">list</span><span class="badge-light badge">menu</span><span class="badge-light badge">nav</span><span class="badge-light badge">navigation</span><span class="badge-light badge">ol</span><span class="badge-light badge">reorder</span><span class="badge-light badge">settings</span><span class="badge-light badge">todo</span><span class="badge-light badge">ul</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">酒吧</span><span class="badge-primary badge">清单</span><span class="badge-primary badge">拖动</span><span class="badge-primary badge">汉堡包</span><span class="badge-primary badge">列表</span><span class="badge-primary badge">菜单</span><span class="badge-primary badge">导航</span><span class="badge-primary badge">ol</span><span class="badge-primary badge">重新排序</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">待办事项</span><span class="badge-primary badge">栅栏</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bars.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bars.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">checklist</span><span class="badge-light badge">drag</span><span class="badge-light badge">hamburger</span><span class="badge-light badge">list</span><span class="badge-light badge">menu</span><span class="badge-light badge">nav</span><span class="badge-light badge">navigation</span><span class="badge-light badge">ol</span><span class="badge-light badge">reorder</span><span class="badge-light badge">settings</span><span class="badge-light badge">todo</span><span class="badge-light badge">ul</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">酒吧</span><span class="badge-primary badge">清单</span><span class="badge-primary badge">拖动</span><span class="badge-primary badge">汉堡包</span><span class="badge-primary badge">列表</span><span class="badge-primary badge">菜单</span><span class="badge-primary badge">导航</span><span class="badge-primary badge">ol</span><span class="badge-primary badge">重新排序</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">待办事项</span><span class="badge-primary badge">栅栏</span><span class="badge-primary badge">栏目</span><span class="badge-primary badge">选项</span><span class="badge-primary badge">下拉</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bars.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/bars.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">栅栏，导航菜单，也可表示马路、围栏、简化版的导航菜单。</div>
 <div class="alert alert-dark">

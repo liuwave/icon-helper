@@ -2,7 +2,7 @@
 
 title: Volume Off(关闭音量) ICON转svg、png下载
 name: volume-off
-zhTips: 关闭音量,音频,禁令,音乐,静音,安静,声音
+zhTips: 关闭音量,音频,禁令,音乐,静音,安静,声音,音量
 tags: ["audio-video","interfaces","music","status"]
 pre: fas
 search: audio,ban,music,mute,quiet,silent,sound
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">audio</span><span class="badge-light badge">ban</span><span class="badge-light badge">music</span><span class="badge-light badge">mute</span><span class="badge-light badge">quiet</span><span class="badge-light badge">silent</span><span class="badge-light badge">sound</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">关闭音量</span><span class="badge-primary badge">音频</span><span class="badge-primary badge">禁令</span><span class="badge-primary badge">音乐</span><span class="badge-primary badge">静音</span><span class="badge-primary badge">安静</span><span class="badge-primary badge">声音</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/volume-off.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/volume-off.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">audio</span><span class="badge-light badge">ban</span><span class="badge-light badge">music</span><span class="badge-light badge">mute</span><span class="badge-light badge">quiet</span><span class="badge-light badge">silent</span><span class="badge-light badge">sound</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">关闭音量</span><span class="badge-primary badge">音频</span><span class="badge-primary badge">禁令</span><span class="badge-primary badge">音乐</span><span class="badge-primary badge">静音</span><span class="badge-primary badge">安静</span><span class="badge-primary badge">声音</span><span class="badge-primary badge">音量</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/volume-off.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/volume-off.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

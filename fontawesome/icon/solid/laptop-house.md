@@ -2,7 +2,7 @@
 
 title: Laptop House(计算机) ICON转svg、png下载
 name: laptop-house
-zhTips: Laptop House,计算机,covid 19,设备,办公室,远程,在家工作
+zhTips: Laptop House,计算机,新型冠状病毒,新冠肺炎,设备,办公室,远程,在家工作
 tags: ["business","computers","household"]
 pre: fas
 search: computer,covid-19,device,office,remote,work from home
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">computer</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">device</span><span class="badge-light badge">office</span><span class="badge-light badge">remote</span><span class="badge-light badge">work from home</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Laptop House</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">设备</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">远程</span><span class="badge-primary badge">在家工作</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/laptop-house.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/laptop-house.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">computer</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">device</span><span class="badge-light badge">office</span><span class="badge-light badge">remote</span><span class="badge-light badge">work from home</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Laptop House</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">设备</span><span class="badge-primary badge">办公室</span><span class="badge-primary badge">远程</span><span class="badge-primary badge">在家工作</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/laptop-house.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/laptop-house.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

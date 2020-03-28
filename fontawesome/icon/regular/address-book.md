@@ -2,7 +2,7 @@
 
 title: Address Book(通讯录) ICON转svg、png下载
 name: address-book
-zhTips: 通讯录,联系人,目录,索引,小黑皮书,rolodex
+zhTips: 通讯录,联系人,目录,索引,小黑皮书,rolodex,地址,电话本
 tags: ["business","communication","users-people"]
 pre: far
 search: contact,directory,index,little black book,rolodex
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">contact</span><span class="badge-light badge">directory</span><span class="badge-light badge">index</span><span class="badge-light badge">little black book</span><span class="badge-light badge">rolodex</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">通讯录</span><span class="badge-primary badge">联系人</span><span class="badge-primary badge">目录</span><span class="badge-primary badge">索引</span><span class="badge-primary badge">小黑皮书</span><span class="badge-primary badge">rolodex</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/address-book.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/address-book.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">contact</span><span class="badge-light badge">directory</span><span class="badge-light badge">index</span><span class="badge-light badge">little black book</span><span class="badge-light badge">rolodex</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">通讯录</span><span class="badge-primary badge">联系人</span><span class="badge-primary badge">目录</span><span class="badge-primary badge">索引</span><span class="badge-primary badge">小黑皮书</span><span class="badge-primary badge">rolodex</span><span class="badge-primary badge">地址</span><span class="badge-primary badge">电话本</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/address-book.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/address-book.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

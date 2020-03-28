@@ -32,7 +32,9 @@
   "version": "5.0.0",
   "zhs": [
     "切换关闭",
-    "切换"
+    "切换",
+    "checkbox",
+    "关"
   ],
   "description": "",
   "comments": []

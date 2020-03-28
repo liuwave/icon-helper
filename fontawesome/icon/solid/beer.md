@@ -2,7 +2,7 @@
 
 title: beer(啤酒) ICON转svg、png下载
 name: beer
-zhTips: 啤酒,酒精,酒吧,饮料,啤酒厂,酒,杯子,斯坦
+zhTips: 啤酒,酒精,酒吧,饮料,啤酒厂,酒,杯子,斯坦,啤酒杯,玻璃杯
 tags: ["beverage","interfaces","maps","objects"]
 pre: fas
 search: alcohol,ale,bar,beverage,brewery,drink,lager,liquor,mug,stein
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">alcohol</span><span class="badge-light badge">ale</span><span class="badge-light badge">bar</span><span class="badge-light badge">beverage</span><span class="badge-light badge">brewery</span><span class="badge-light badge">drink</span><span class="badge-light badge">lager</span><span class="badge-light badge">liquor</span><span class="badge-light badge">mug</span><span class="badge-light badge">stein</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">啤酒</span><span class="badge-primary badge">酒精</span><span class="badge-primary badge">酒吧</span><span class="badge-primary badge">饮料</span><span class="badge-primary badge">啤酒厂</span><span class="badge-primary badge">酒</span><span class="badge-primary badge">杯子</span><span class="badge-primary badge">斯坦</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/beer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/beer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">alcohol</span><span class="badge-light badge">ale</span><span class="badge-light badge">bar</span><span class="badge-light badge">beverage</span><span class="badge-light badge">brewery</span><span class="badge-light badge">drink</span><span class="badge-light badge">lager</span><span class="badge-light badge">liquor</span><span class="badge-light badge">mug</span><span class="badge-light badge">stein</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">啤酒</span><span class="badge-primary badge">酒精</span><span class="badge-primary badge">酒吧</span><span class="badge-primary badge">饮料</span><span class="badge-primary badge">啤酒厂</span><span class="badge-primary badge">酒</span><span class="badge-primary badge">杯子</span><span class="badge-primary badge">斯坦</span><span class="badge-primary badge">啤酒杯</span><span class="badge-primary badge">玻璃杯</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/beer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/beer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">啤酒，象征着欢乐、庆祝，可以表示酒吧、饮料。</div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title:  refresh(刷新) ICON转svg、png下载
 name: refresh
-zhTips: 刷新,循环
+zhTips: 刷新,循环,同步,获取,重发
 tags: []
 search: loop
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">loop</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">刷新</span><span class="badge-primary badge">循环</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/refresh.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/refresh.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">loop</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">刷新</span><span class="badge-primary badge">循环</span><span class="badge-primary badge">同步</span><span class="badge-primary badge">获取</span><span class="badge-primary badge">重发</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/refresh.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/refresh.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

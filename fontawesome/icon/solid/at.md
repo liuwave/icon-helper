@@ -2,7 +2,7 @@
 
 title: At(在) ICON转svg、png下载
 name: at
-zhTips: 在,地址,作者,电子邮件,句柄,邮件标记
+zhTips: 在,地址,作者,电子邮件,句柄,邮件标记,邮件,邮箱
 tags: ["communication"]
 pre: fas
 search: address,author,e-mail,email,handle
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">address</span><span class="badge-light badge">author</span><span class="badge-light badge">e-mail</span><span class="badge-light badge">email</span><span class="badge-light badge">handle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">在</span><span class="badge-primary badge">地址</span><span class="badge-primary badge">作者</span><span class="badge-primary badge">电子邮件</span><span class="badge-primary badge">句柄</span><span class="badge-primary badge">邮件标记</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/at.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/at.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">address</span><span class="badge-light badge">author</span><span class="badge-light badge">e-mail</span><span class="badge-light badge">email</span><span class="badge-light badge">handle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">在</span><span class="badge-primary badge">地址</span><span class="badge-primary badge">作者</span><span class="badge-primary badge">电子邮件</span><span class="badge-primary badge">句柄</span><span class="badge-primary badge">邮件标记</span><span class="badge-primary badge">邮件</span><span class="badge-primary badge">邮箱</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/at.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/at.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">at，在，表示邮件标记，电子邮件，也可以表示提醒。</div>
 <div class="alert alert-dark">

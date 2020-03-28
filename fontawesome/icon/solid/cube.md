@@ -2,7 +2,7 @@
 
 title: Cube(3d) ICON转svg、png下载
 name: cube
-zhTips: Cube,3d,block,dice,package,square,tesseract,立方体
+zhTips: Cube,3d,block,dice,package,square,tesseract,立方体,方块,应用,盒子
 tags: ["objects"]
 pre: fas
 search: 3d,block,dice,package,square,tesseract
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">3d</span><span class="badge-light badge">block</span><span class="badge-light badge">dice</span><span class="badge-light badge">package</span><span class="badge-light badge">square</span><span class="badge-light badge">tesseract</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Cube</span><span class="badge-primary badge">3d</span><span class="badge-primary badge">block</span><span class="badge-primary badge">dice</span><span class="badge-primary badge">package</span><span class="badge-primary badge">square</span><span class="badge-primary badge">tesseract</span><span class="badge-primary badge">立方体</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cube.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cube.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">3d</span><span class="badge-light badge">block</span><span class="badge-light badge">dice</span><span class="badge-light badge">package</span><span class="badge-light badge">square</span><span class="badge-light badge">tesseract</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Cube</span><span class="badge-primary badge">3d</span><span class="badge-primary badge">block</span><span class="badge-primary badge">dice</span><span class="badge-primary badge">package</span><span class="badge-primary badge">square</span><span class="badge-primary badge">tesseract</span><span class="badge-primary badge">立方体</span><span class="badge-primary badge">方块</span><span class="badge-primary badge">应用</span><span class="badge-primary badge">盒子</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cube.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cube.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">立方体，可以表示魔方。</div>
 <div class="alert alert-dark">

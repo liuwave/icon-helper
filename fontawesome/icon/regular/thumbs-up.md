@@ -2,7 +2,7 @@
 
 title: thumbs-up(竖起大拇指) ICON转svg、png下载
 name: thumbs-up
-zhTips: 竖起大拇指,同意,批准,收藏夹,手,像,好,社会,成功,是的,你知道了
+zhTips: 竖起大拇指,同意,批准,收藏夹,手,像,好,社会,成功,是的,你知道了,赞,点赞,喜欢,大拇指
 tags: ["hands","interfaces","payments-shopping","social","status"]
 pre: far
 search: agree,approve,favorite,hand,like,ok,okay,social,success,thumbs-o-up,yes,you got it dude
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">agree</span><span class="badge-light badge">approve</span><span class="badge-light badge">favorite</span><span class="badge-light badge">hand</span><span class="badge-light badge">like</span><span class="badge-light badge">ok</span><span class="badge-light badge">okay</span><span class="badge-light badge">social</span><span class="badge-light badge">success</span><span class="badge-light badge">thumbs-o-up</span><span class="badge-light badge">yes</span><span class="badge-light badge">you got it dude</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">竖起大拇指</span><span class="badge-primary badge">同意</span><span class="badge-primary badge">批准</span><span class="badge-primary badge">收藏夹</span><span class="badge-primary badge">手</span><span class="badge-primary badge">像</span><span class="badge-primary badge">好</span><span class="badge-primary badge">社会</span><span class="badge-primary badge">成功</span><span class="badge-primary badge">是的</span><span class="badge-primary badge">你知道了</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/thumbs-up.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/thumbs-up.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">agree</span><span class="badge-light badge">approve</span><span class="badge-light badge">favorite</span><span class="badge-light badge">hand</span><span class="badge-light badge">like</span><span class="badge-light badge">ok</span><span class="badge-light badge">okay</span><span class="badge-light badge">social</span><span class="badge-light badge">success</span><span class="badge-light badge">thumbs-o-up</span><span class="badge-light badge">yes</span><span class="badge-light badge">you got it dude</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">竖起大拇指</span><span class="badge-primary badge">同意</span><span class="badge-primary badge">批准</span><span class="badge-primary badge">收藏夹</span><span class="badge-primary badge">手</span><span class="badge-primary badge">像</span><span class="badge-primary badge">好</span><span class="badge-primary badge">社会</span><span class="badge-primary badge">成功</span><span class="badge-primary badge">是的</span><span class="badge-primary badge">你知道了</span><span class="badge-primary badge">赞</span><span class="badge-primary badge">点赞</span><span class="badge-primary badge">喜欢</span><span class="badge-primary badge">大拇指</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/thumbs-up.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/thumbs-up.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

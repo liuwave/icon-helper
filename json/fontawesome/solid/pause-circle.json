@@ -21,7 +21,8 @@
   "version": "5.0.0",
   "zhs": [
     "暂停圈",
-    "等待"
+    "等待",
+    "暂停"
   ],
   "description": "",
   "comments": []

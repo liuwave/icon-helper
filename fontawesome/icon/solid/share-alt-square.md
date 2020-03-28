@@ -2,7 +2,7 @@
 
 title: Alternate Share Square(备用共享广场) ICON转svg、png下载
 name: share-alt-square
-zhTips: 备用共享广场,转发,保存,发送,社交
+zhTips: 备用共享广场,转发,保存,发送,社交,分享
 tags: ["interfaces"]
 pre: fas
 search: forward,save,send,social
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">forward</span><span class="badge-light badge">save</span><span class="badge-light badge">send</span><span class="badge-light badge">social</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">备用共享广场</span><span class="badge-primary badge">转发</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">发送</span><span class="badge-primary badge">社交</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/share-alt-square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/share-alt-square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">forward</span><span class="badge-light badge">save</span><span class="badge-light badge">send</span><span class="badge-light badge">social</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">备用共享广场</span><span class="badge-primary badge">转发</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">发送</span><span class="badge-primary badge">社交</span><span class="badge-primary badge">分享</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/share-alt-square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/share-alt-square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title:  telegram(电报) ICON转svg、png下载
 name: telegram
-zhTips: 电报
+zhTips: 电报,发电报,发送
 tags: ["brand-logo"]
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">电报</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/telegram.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/telegram.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">电报</span><span class="badge-primary badge">发电报</span><span class="badge-primary badge">发送</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/telegram.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/telegram.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

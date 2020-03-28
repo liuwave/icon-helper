@@ -2,7 +2,7 @@
 
 title:  play circle(玩圈) ICON转svg、png下载
 name: play-circle
-zhTips: 玩圈,玩圈已填充
+zhTips: 玩圈,玩圈已填充,播放
 tags: []
 search: play-circle-filled
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">play-circle-filled</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">玩圈</span><span class="badge-primary badge">玩圈已填充</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/play-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/play-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">play-circle-filled</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">玩圈</span><span class="badge-primary badge">玩圈已填充</span><span class="badge-primary badge">播放</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/play-circle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/play-circle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

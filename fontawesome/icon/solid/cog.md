@@ -2,7 +2,7 @@
 
 title: cog(齿轮) ICON转svg、png下载
 name: cog
-zhTips: 齿轮,机械,设置,链轮,轮
+zhTips: 齿轮,机械,设置,链轮,轮,设定,修理,配置
 tags: ["interfaces","objects","spinners"]
 pre: fas
 search: gear,mechanical,settings,sprocket,wheel
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">gear</span><span class="badge-light badge">mechanical</span><span class="badge-light badge">settings</span><span class="badge-light badge">sprocket</span><span class="badge-light badge">wheel</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">齿轮</span><span class="badge-primary badge">机械</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">链轮</span><span class="badge-primary badge">轮</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cog.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cog.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">gear</span><span class="badge-light badge">mechanical</span><span class="badge-light badge">settings</span><span class="badge-light badge">sprocket</span><span class="badge-light badge">wheel</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">齿轮</span><span class="badge-primary badge">机械</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">链轮</span><span class="badge-primary badge">轮</span><span class="badge-primary badge">设定</span><span class="badge-primary badge">修理</span><span class="badge-primary badge">配置</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cog.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cog.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">齿轮，可以表示系统管理。</div>
 <div class="alert alert-dark">

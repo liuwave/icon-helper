@@ -10,7 +10,10 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "Quora"
+    "Quora",
+    "问答",
+    "Q",
+    "问题"
   ],
   "description": "Quora是一个问答网站。",
   "comments": []

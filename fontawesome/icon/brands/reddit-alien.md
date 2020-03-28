@@ -1,15 +1,15 @@
 ---
 
-title: reddit Alien(reddit Alien) ICON转svg、png下载
+title: reddit Alien(外星人) ICON转svg、png下载
 name: reddit-alien
-zhTips: reddit Alien
+zhTips: reddit Alien,外星人
 tags: []
 pre: fab
 search: 
 
 ---
 
-# reddit Alien  <small style="font-size: 60%;font-weight: 100">reddit Alien</small>
+# reddit Alien  <small style="font-size: 60%;font-weight: 100">外星人</small>
 
 
 <div class="detail-page">
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">reddit Alien</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/reddit-alien.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/reddit-alien.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">reddit Alien</span><span class="badge-primary badge">外星人</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/reddit-alien.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/reddit-alien.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

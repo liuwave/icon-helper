@@ -2,7 +2,7 @@
 
 title:  bullhorn(扩音器) ICON转svg、png下载
 name: bullhorn
-zhTips: 扩音器,公告
+zhTips: 扩音器,公告,通知,广播,消息
 tags: []
 search: announcement,megaphone
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">announcement</span><span class="badge-light badge">megaphone</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">扩音器</span><span class="badge-primary badge">公告</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bullhorn.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bullhorn.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">announcement</span><span class="badge-light badge">megaphone</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">扩音器</span><span class="badge-primary badge">公告</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">广播</span><span class="badge-primary badge">消息</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bullhorn.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bullhorn.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

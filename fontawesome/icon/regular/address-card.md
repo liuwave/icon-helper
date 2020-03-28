@@ -2,7 +2,7 @@
 
 title: Address Card(地址卡) ICON转svg、png下载
 name: address-card
-zhTips: 地址卡,关于,联系方式,ID,身份,明信片,个人资料
+zhTips: 地址卡,关于,联系方式,ID,身份,明信片,个人资料,地址,名片
 tags: ["business","communication","users-people"]
 pre: far
 search: about,contact,id,identification,postcard,profile
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">about</span><span class="badge-light badge">contact</span><span class="badge-light badge">id</span><span class="badge-light badge">identification</span><span class="badge-light badge">postcard</span><span class="badge-light badge">profile</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">地址卡</span><span class="badge-primary badge">关于</span><span class="badge-primary badge">联系方式</span><span class="badge-primary badge">ID</span><span class="badge-primary badge">身份</span><span class="badge-primary badge">明信片</span><span class="badge-primary badge">个人资料</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/address-card.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/address-card.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">about</span><span class="badge-light badge">contact</span><span class="badge-light badge">id</span><span class="badge-light badge">identification</span><span class="badge-light badge">postcard</span><span class="badge-light badge">profile</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">地址卡</span><span class="badge-primary badge">关于</span><span class="badge-primary badge">联系方式</span><span class="badge-primary badge">ID</span><span class="badge-primary badge">身份</span><span class="badge-primary badge">明信片</span><span class="badge-primary badge">个人资料</span><span class="badge-primary badge">地址</span><span class="badge-primary badge">名片</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/address-card.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/address-card.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: Shopping Cart Arrow Down(购物车Arrow Down) ICON转svg、png下载
 name: cart-arrow-down
-zhTips: 购物车Arrow Down,下载,保存,购物
+zhTips: 购物车Arrow Down,下载,保存,购物,购物车,从购物车删除
 tags: ["arrows","payments-shopping","shopping","status"]
 pre: fas
 search: download,save,shopping
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">download</span><span class="badge-light badge">save</span><span class="badge-light badge">shopping</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">购物车Arrow Down</span><span class="badge-primary badge">下载</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">购物</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cart-arrow-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cart-arrow-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">download</span><span class="badge-light badge">save</span><span class="badge-light badge">shopping</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">购物车Arrow Down</span><span class="badge-primary badge">下载</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">购物</span><span class="badge-primary badge">购物车</span><span class="badge-primary badge">从购物车删除</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cart-arrow-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cart-arrow-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

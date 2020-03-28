@@ -10,7 +10,10 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "腾讯QQ"
+    "腾讯QQ",
+    "扣扣",
+    "企鹅",
+    "oicq"
   ],
   "description": "腾讯QQ是一款8亿人在用的即时通讯软件,由腾讯公司开发。",
   "comments": []

@@ -2,7 +2,7 @@
 
 title: Indent(缩进) ICON转svg、png下载
 name: indent
-zhTips: 缩进,对齐,段落,制表符
+zhTips: 缩进,对齐,段落,制表符,首行缩进
 tags: ["editors"]
 pre: fas
 search: align,justify,paragraph,tab
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">align</span><span class="badge-light badge">justify</span><span class="badge-light badge">paragraph</span><span class="badge-light badge">tab</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">缩进</span><span class="badge-primary badge">对齐</span><span class="badge-primary badge">段落</span><span class="badge-primary badge">制表符</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/indent.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/indent.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">align</span><span class="badge-light badge">justify</span><span class="badge-light badge">paragraph</span><span class="badge-light badge">tab</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">缩进</span><span class="badge-primary badge">对齐</span><span class="badge-primary badge">段落</span><span class="badge-primary badge">制表符</span><span class="badge-primary badge">首行缩进</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/indent.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/indent.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">缩进，表示一段语言前面有空格。</div>
 <div class="alert alert-dark">

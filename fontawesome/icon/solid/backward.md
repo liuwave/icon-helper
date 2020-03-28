@@ -2,7 +2,7 @@
 
 title: backward(向后) ICON转svg、png下载
 name: backward
-zhTips: 向后,上一个,倒带,快退
+zhTips: 向后,上一个,倒带,快退,返回,前一首
 tags: ["audio-video"]
 pre: fas
 search: previous,rewind
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">previous</span><span class="badge-light badge">rewind</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">向后</span><span class="badge-primary badge">上一个</span><span class="badge-primary badge">倒带</span><span class="badge-primary badge">快退</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/backward.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/backward.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">previous</span><span class="badge-light badge">rewind</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">向后</span><span class="badge-primary badge">上一个</span><span class="badge-primary badge">倒带</span><span class="badge-primary badge">快退</span><span class="badge-primary badge">返回</span><span class="badge-primary badge">前一首</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/backward.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/backward.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">快退，播放器的后退、返回键，也表示方向。</div>
 <div class="alert alert-dark">

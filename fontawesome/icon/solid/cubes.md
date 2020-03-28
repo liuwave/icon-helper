@@ -2,7 +2,7 @@
 
 title: Cubes(多维数据集) ICON转svg、png下载
 name: cubes
-zhTips: 多维数据集,3d,块,骰子,包,金字塔,方形,堆栈,tesseract,立方组合
+zhTips: 多维数据集,3d,块,骰子,包,金字塔,方形,堆栈,tesseract,立方组合,方块,应用,盒子
 tags: ["objects"]
 pre: fas
 search: 3d,block,dice,package,pyramid,square,stack,tesseract
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">3d</span><span class="badge-light badge">block</span><span class="badge-light badge">dice</span><span class="badge-light badge">package</span><span class="badge-light badge">pyramid</span><span class="badge-light badge">square</span><span class="badge-light badge">stack</span><span class="badge-light badge">tesseract</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">多维数据集</span><span class="badge-primary badge">3d</span><span class="badge-primary badge">块</span><span class="badge-primary badge">骰子</span><span class="badge-primary badge">包</span><span class="badge-primary badge">金字塔</span><span class="badge-primary badge">方形</span><span class="badge-primary badge">堆栈</span><span class="badge-primary badge">tesseract</span><span class="badge-primary badge">立方组合</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cubes.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cubes.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">3d</span><span class="badge-light badge">block</span><span class="badge-light badge">dice</span><span class="badge-light badge">package</span><span class="badge-light badge">pyramid</span><span class="badge-light badge">square</span><span class="badge-light badge">stack</span><span class="badge-light badge">tesseract</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">多维数据集</span><span class="badge-primary badge">3d</span><span class="badge-primary badge">块</span><span class="badge-primary badge">骰子</span><span class="badge-primary badge">包</span><span class="badge-primary badge">金字塔</span><span class="badge-primary badge">方形</span><span class="badge-primary badge">堆栈</span><span class="badge-primary badge">tesseract</span><span class="badge-primary badge">立方组合</span><span class="badge-primary badge">方块</span><span class="badge-primary badge">应用</span><span class="badge-primary badge">盒子</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cubes.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cubes.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">立方组合，可以表示一种层叠的排列方式。</div>
 <div class="alert alert-dark">

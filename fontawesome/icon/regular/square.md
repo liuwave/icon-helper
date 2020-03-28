@@ -2,7 +2,7 @@
 
 title: Square(正方形) ICON转svg、png下载
 name: square
-zhTips: 正方形,块状,盒子,形状,圆角正方形
+zhTips: 正方形,块状,盒子,形状,圆角正方形,平方,广场,方块
 tags: ["shapes"]
 pre: far
 search: block,box,shape
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">block</span><span class="badge-light badge">box</span><span class="badge-light badge">shape</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">正方形</span><span class="badge-primary badge">块状</span><span class="badge-primary badge">盒子</span><span class="badge-primary badge">形状</span><span class="badge-primary badge">圆角正方形</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">block</span><span class="badge-light badge">box</span><span class="badge-light badge">shape</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">正方形</span><span class="badge-primary badge">块状</span><span class="badge-primary badge">盒子</span><span class="badge-primary badge">形状</span><span class="badge-primary badge">圆角正方形</span><span class="badge-primary badge">平方</span><span class="badge-primary badge">广场</span><span class="badge-primary badge">方块</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/square.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/square.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">表示颜色填充。</div>
 <div class="alert alert-dark">

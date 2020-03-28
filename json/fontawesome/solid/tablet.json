@@ -35,7 +35,9 @@
     "ipad",
     "kindle",
     "屏幕",
-    "平板黑屏"
+    "平板黑屏",
+    "平板",
+    "surface"
   ],
   "description": "可用于表示电脑、手机等的关机状态。",
   "comments": []

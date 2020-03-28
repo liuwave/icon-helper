@@ -2,7 +2,7 @@
 
 title: ban(禁止) ICON转svg、png下载
 name: ban
-zhTips: 禁止,中止,不允许,阻止,取消,删除,隐藏,停止,垃圾
+zhTips: 禁止,中止,不允许,阻止,取消,删除,隐藏,停止,垃圾,忙,禁止通行,路标
 tags: ["interfaces","security","status"]
 pre: fas
 search: abort,ban,block,cancel,delete,hide,prohibit,remove,stop,trash
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">abort</span><span class="badge-light badge">ban</span><span class="badge-light badge">block</span><span class="badge-light badge">cancel</span><span class="badge-light badge">delete</span><span class="badge-light badge">hide</span><span class="badge-light badge">prohibit</span><span class="badge-light badge">remove</span><span class="badge-light badge">stop</span><span class="badge-light badge">trash</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">禁止</span><span class="badge-primary badge">中止</span><span class="badge-primary badge">不允许</span><span class="badge-primary badge">阻止</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">删除</span><span class="badge-primary badge">隐藏</span><span class="badge-primary badge">停止</span><span class="badge-primary badge">垃圾</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ban.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ban.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">abort</span><span class="badge-light badge">ban</span><span class="badge-light badge">block</span><span class="badge-light badge">cancel</span><span class="badge-light badge">delete</span><span class="badge-light badge">hide</span><span class="badge-light badge">prohibit</span><span class="badge-light badge">remove</span><span class="badge-light badge">stop</span><span class="badge-light badge">trash</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">禁止</span><span class="badge-primary badge">中止</span><span class="badge-primary badge">不允许</span><span class="badge-primary badge">阻止</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">删除</span><span class="badge-primary badge">隐藏</span><span class="badge-primary badge">停止</span><span class="badge-primary badge">垃圾</span><span class="badge-primary badge">忙</span><span class="badge-primary badge">禁止通行</span><span class="badge-primary badge">路标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ban.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ban.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">禁止，也可以表示无法通过。</div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: Biohazard(生物危害) ICON转svg、png下载
 name: biohazard
-zhTips: 生物危害,covid 19,危险,危险品,医疗,放射性,有毒,废物,僵尸
+zhTips: 生物危害,新型冠状病毒,新冠肺炎,危险,危险品,医疗,放射性,有毒,废物,僵尸
 tags: ["medical","science"]
 pre: fas
 search: covid-19,danger,dangerous,hazmat,medical,radioactive,toxic,waste,zombie
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">danger</span><span class="badge-light badge">dangerous</span><span class="badge-light badge">hazmat</span><span class="badge-light badge">medical</span><span class="badge-light badge">radioactive</span><span class="badge-light badge">toxic</span><span class="badge-light badge">waste</span><span class="badge-light badge">zombie</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">生物危害</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">危险</span><span class="badge-primary badge">危险品</span><span class="badge-primary badge">医疗</span><span class="badge-primary badge">放射性</span><span class="badge-primary badge">有毒</span><span class="badge-primary badge">废物</span><span class="badge-primary badge">僵尸</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/biohazard.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/biohazard.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">danger</span><span class="badge-light badge">dangerous</span><span class="badge-light badge">hazmat</span><span class="badge-light badge">medical</span><span class="badge-light badge">radioactive</span><span class="badge-light badge">toxic</span><span class="badge-light badge">waste</span><span class="badge-light badge">zombie</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">生物危害</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">危险</span><span class="badge-primary badge">危险品</span><span class="badge-primary badge">医疗</span><span class="badge-primary badge">放射性</span><span class="badge-primary badge">有毒</span><span class="badge-primary badge">废物</span><span class="badge-primary badge">僵尸</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/biohazard.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/biohazard.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

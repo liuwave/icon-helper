@@ -43,7 +43,8 @@
     "macbook",
     "机器",
     "pc",
-    "笔电"
+    "笔电",
+    "苹果电脑"
   ],
   "description": "表示笔记本电脑。",
   "comments": []

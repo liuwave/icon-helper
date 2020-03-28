@@ -2,7 +2,7 @@
 
 title:  certificate(证书) ICON转svg、png下载
 name: certificate
-zhTips: 证书,文凭,图章,勋章,徽章,星级,已验证
+zhTips: 证书,文凭,图章,勋章,徽章,星级,已验证,执照,认证
 tags: []
 search: diploma,seal
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">diploma</span><span class="badge-light badge">seal</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">证书</span><span class="badge-primary badge">文凭</span><span class="badge-primary badge">图章</span><span class="badge-primary badge">勋章</span><span class="badge-primary badge">徽章</span><span class="badge-primary badge">星级</span><span class="badge-primary badge">已验证</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/certificate.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/certificate.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">diploma</span><span class="badge-light badge">seal</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">证书</span><span class="badge-primary badge">文凭</span><span class="badge-primary badge">图章</span><span class="badge-primary badge">勋章</span><span class="badge-primary badge">徽章</span><span class="badge-primary badge">星级</span><span class="badge-primary badge">已验证</span><span class="badge-primary badge">执照</span><span class="badge-primary badge">认证</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/certificate.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/certificate.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">勋章，奖章，象征着荣誉、光荣、优秀，可表示颁奖仪式。</div>
 <div class="alert alert-dark">

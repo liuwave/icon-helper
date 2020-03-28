@@ -2,7 +2,7 @@
 
 title:  television(电视) ICON转svg、png下载
 name: television
-zhTips: 电视
+zhTips: 电视,电视机,显示器,网站,订阅
 tags: ["device-tech","home-automation"]
 search: tv
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">tv</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">电视</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/television.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/television.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">tv</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">电视</span><span class="badge-primary badge">电视机</span><span class="badge-primary badge">显示器</span><span class="badge-primary badge">网站</span><span class="badge-primary badge">订阅</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/television.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/television.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

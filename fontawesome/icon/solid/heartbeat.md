@@ -2,7 +2,7 @@
 
 title: Heartbeat(心跳) ICON转svg、png下载
 name: heartbeat
-zhTips: 心跳,心电图,健康,生命线,生命体征
+zhTips: 心跳,心电图,健康,生命线,生命体征,心率
 tags: ["fitness","health","maps","medical"]
 pre: fas
 search: ekg,electrocardiogram,health,lifeline,vital signs
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">ekg</span><span class="badge-light badge">electrocardiogram</span><span class="badge-light badge">health</span><span class="badge-light badge">lifeline</span><span class="badge-light badge">vital signs</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">心跳</span><span class="badge-primary badge">心电图</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">生命线</span><span class="badge-primary badge">生命体征</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heartbeat.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heartbeat.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">ekg</span><span class="badge-light badge">electrocardiogram</span><span class="badge-light badge">health</span><span class="badge-light badge">lifeline</span><span class="badge-light badge">vital signs</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">心跳</span><span class="badge-primary badge">心电图</span><span class="badge-primary badge">健康</span><span class="badge-primary badge">生命线</span><span class="badge-primary badge">生命体征</span><span class="badge-primary badge">心率</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heartbeat.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/heartbeat.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">心跳。表示生命，活力，紧张。</div>
 <div class="alert alert-dark">

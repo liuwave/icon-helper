@@ -2,7 +2,7 @@
 
 title: Window Maximize(最大化窗口) ICON转svg、png下载
 name: window-maximize
-zhTips: 最大化窗口,浏览器,计算机,开发,扩展
+zhTips: 最大化窗口,浏览器,计算机,开发,扩展,最大化,窗口最大化
 tags: ["code"]
 pre: fas
 search: browser,computer,development,expand
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">browser</span><span class="badge-light badge">computer</span><span class="badge-light badge">development</span><span class="badge-light badge">expand</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">最大化窗口</span><span class="badge-primary badge">浏览器</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">开发</span><span class="badge-primary badge">扩展</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/window-maximize.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/window-maximize.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">browser</span><span class="badge-light badge">computer</span><span class="badge-light badge">development</span><span class="badge-light badge">expand</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">最大化窗口</span><span class="badge-primary badge">浏览器</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">开发</span><span class="badge-primary badge">扩展</span><span class="badge-primary badge">最大化</span><span class="badge-primary badge">窗口最大化</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/window-maximize.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/window-maximize.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

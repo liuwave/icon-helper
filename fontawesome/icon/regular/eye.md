@@ -2,7 +2,7 @@
 
 title: Eye(眼睛) ICON转svg、png下载
 name: eye
-zhTips: 眼睛,看,光学,看到,显示,视线,视图,可见
+zhTips: 眼睛,看,光学,看到,显示,视线,视图,可见,观察,公开
 tags: ["design","images","interfaces","maps","objects","security","status"]
 pre: far
 search: look,optic,see,seen,show,sight,views,visible
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">look</span><span class="badge-light badge">optic</span><span class="badge-light badge">see</span><span class="badge-light badge">seen</span><span class="badge-light badge">show</span><span class="badge-light badge">sight</span><span class="badge-light badge">views</span><span class="badge-light badge">visible</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">眼睛</span><span class="badge-primary badge">看</span><span class="badge-primary badge">光学</span><span class="badge-primary badge">看到</span><span class="badge-primary badge">显示</span><span class="badge-primary badge">视线</span><span class="badge-primary badge">视图</span><span class="badge-primary badge">可见</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/eye.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/eye.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">look</span><span class="badge-light badge">optic</span><span class="badge-light badge">see</span><span class="badge-light badge">seen</span><span class="badge-light badge">show</span><span class="badge-light badge">sight</span><span class="badge-light badge">views</span><span class="badge-light badge">visible</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">眼睛</span><span class="badge-primary badge">看</span><span class="badge-primary badge">光学</span><span class="badge-primary badge">看到</span><span class="badge-primary badge">显示</span><span class="badge-primary badge">视线</span><span class="badge-primary badge">视图</span><span class="badge-primary badge">可见</span><span class="badge-primary badge">观察</span><span class="badge-primary badge">公开</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/eye.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/regular/eye.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">眼睛，多用于表示内容可见。</div>
 <div class="alert alert-dark">

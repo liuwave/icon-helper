@@ -2,7 +2,7 @@
 
 title: Superpowers(超能力) ICON转svg、png下载
 name: superpowers
-zhTips: 超能力,superpowers
+zhTips: 超能力,superpowers,螺旋丸,台风,风力
 tags: []
 pre: fab
 search: 
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">超能力</span><span class="badge-primary badge">superpowers</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/superpowers.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/superpowers.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">超能力</span><span class="badge-primary badge">superpowers</span><span class="badge-primary badge">螺旋丸</span><span class="badge-primary badge">台风</span><span class="badge-primary badge">风力</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/superpowers.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/superpowers.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">superpowers一种虚构的超人能力的流行文化术语。它们是纸浆杂志，漫画书，科幻小说，电视节目，视频游戏和电影中最常使用的作为超级英雄的关键属性。</div>
 <div class="alert alert-dark">

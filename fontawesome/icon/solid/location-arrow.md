@@ -2,7 +2,7 @@
 
 title: location-arrow(位置箭头) ICON转svg、png下载
 name: location-arrow
-zhTips: 位置箭头,地址,指南针,坐标,方向,gps,地图,导航,位置
+zhTips: 位置箭头,地址,指南针,坐标,方向,gps,地图,导航,位置,定位,指针
 tags: ["arrows","maps"]
 pre: fas
 search: address,compass,coordinate,direction,gps,map,navigation,place
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">address</span><span class="badge-light badge">compass</span><span class="badge-light badge">coordinate</span><span class="badge-light badge">direction</span><span class="badge-light badge">gps</span><span class="badge-light badge">map</span><span class="badge-light badge">navigation</span><span class="badge-light badge">place</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">位置箭头</span><span class="badge-primary badge">地址</span><span class="badge-primary badge">指南针</span><span class="badge-primary badge">坐标</span><span class="badge-primary badge">方向</span><span class="badge-primary badge">gps</span><span class="badge-primary badge">地图</span><span class="badge-primary badge">导航</span><span class="badge-primary badge">位置</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/location-arrow.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/location-arrow.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">address</span><span class="badge-light badge">compass</span><span class="badge-light badge">coordinate</span><span class="badge-light badge">direction</span><span class="badge-light badge">gps</span><span class="badge-light badge">map</span><span class="badge-light badge">navigation</span><span class="badge-light badge">place</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">位置箭头</span><span class="badge-primary badge">地址</span><span class="badge-primary badge">指南针</span><span class="badge-primary badge">坐标</span><span class="badge-primary badge">方向</span><span class="badge-primary badge">gps</span><span class="badge-primary badge">地图</span><span class="badge-primary badge">导航</span><span class="badge-primary badge">位置</span><span class="badge-primary badge">定位</span><span class="badge-primary badge">指针</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/location-arrow.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/location-arrow.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: truck(卡车) ICON转svg、png下载
 name: truck
-zhTips: 卡车,货物,交付,运输,车辆,货车标志
+zhTips: 卡车,货物,交付,运输,车辆,货车标志,交易
 tags: ["automotive","logistics","maps","objects","shopping","vehicles"]
 pre: fas
 search: cargo,delivery,shipping,vehicle
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">cargo</span><span class="badge-light badge">delivery</span><span class="badge-light badge">shipping</span><span class="badge-light badge">vehicle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">卡车</span><span class="badge-primary badge">货物</span><span class="badge-primary badge">交付</span><span class="badge-primary badge">运输</span><span class="badge-primary badge">车辆</span><span class="badge-primary badge">货车标志</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/truck.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/truck.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">cargo</span><span class="badge-light badge">delivery</span><span class="badge-light badge">shipping</span><span class="badge-light badge">vehicle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">卡车</span><span class="badge-primary badge">货物</span><span class="badge-primary badge">交付</span><span class="badge-primary badge">运输</span><span class="badge-primary badge">车辆</span><span class="badge-primary badge">货车标志</span><span class="badge-primary badge">交易</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/truck.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/truck.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">交通工具，可用于表示驾驶、运输、行驶。</div>
 <div class="alert alert-dark">

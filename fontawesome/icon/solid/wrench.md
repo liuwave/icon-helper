@@ -2,7 +2,7 @@
 
 title: Wrench(扳手) ICON转svg、png下载
 name: wrench
-zhTips: 扳手,建筑,修复,机械,管道,设置,工具,更新,维修标志
+zhTips: 扳手,建筑,修复,机械,管道,设置,工具,更新,维修标志,扳钳,维修
 tags: ["construction","editors","interfaces","maps","objects"]
 pre: fas
 search: construction,fix,mechanic,plumbing,settings,spanner,tool,update
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">construction</span><span class="badge-light badge">fix</span><span class="badge-light badge">mechanic</span><span class="badge-light badge">plumbing</span><span class="badge-light badge">settings</span><span class="badge-light badge">spanner</span><span class="badge-light badge">tool</span><span class="badge-light badge">update</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">扳手</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">修复</span><span class="badge-primary badge">机械</span><span class="badge-primary badge">管道</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">工具</span><span class="badge-primary badge">更新</span><span class="badge-primary badge">维修标志</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wrench.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wrench.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">construction</span><span class="badge-light badge">fix</span><span class="badge-light badge">mechanic</span><span class="badge-light badge">plumbing</span><span class="badge-light badge">settings</span><span class="badge-light badge">spanner</span><span class="badge-light badge">tool</span><span class="badge-light badge">update</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">扳手</span><span class="badge-primary badge">建筑</span><span class="badge-primary badge">修复</span><span class="badge-primary badge">机械</span><span class="badge-primary badge">管道</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">工具</span><span class="badge-primary badge">更新</span><span class="badge-primary badge">维修标志</span><span class="badge-primary badge">扳钳</span><span class="badge-primary badge">维修</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wrench.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/wrench.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">常用于表示出现故障时的修复、维修等。</div>
 <div class="alert alert-dark">

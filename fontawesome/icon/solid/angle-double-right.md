@@ -2,7 +2,7 @@
 
 title: Angle Double Right(箭头) ICON转svg、png下载
 name: angle-double-right
-zhTips: Angle Double Right,箭头,插入符号,向前,更多,下一个,引用,raquo
+zhTips: Angle Double Right,箭头,插入符号,向前,更多,下一个,引用,raquo,折叠向右
 tags: ["arrows"]
 pre: fas
 search: arrows,caret,forward,more,next,quote,raquo
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">arrows</span><span class="badge-light badge">caret</span><span class="badge-light badge">forward</span><span class="badge-light badge">more</span><span class="badge-light badge">next</span><span class="badge-light badge">quote</span><span class="badge-light badge">raquo</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Angle Double Right</span><span class="badge-primary badge">箭头</span><span class="badge-primary badge">插入符号</span><span class="badge-primary badge">向前</span><span class="badge-primary badge">更多</span><span class="badge-primary badge">下一个</span><span class="badge-primary badge">引用</span><span class="badge-primary badge">raquo</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/angle-double-right.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/angle-double-right.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">arrows</span><span class="badge-light badge">caret</span><span class="badge-light badge">forward</span><span class="badge-light badge">more</span><span class="badge-light badge">next</span><span class="badge-light badge">quote</span><span class="badge-light badge">raquo</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Angle Double Right</span><span class="badge-primary badge">箭头</span><span class="badge-primary badge">插入符号</span><span class="badge-primary badge">向前</span><span class="badge-primary badge">更多</span><span class="badge-primary badge">下一个</span><span class="badge-primary badge">引用</span><span class="badge-primary badge">raquo</span><span class="badge-primary badge">折叠向右</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/angle-double-right.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/angle-double-right.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

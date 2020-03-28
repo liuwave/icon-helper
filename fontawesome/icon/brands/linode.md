@@ -1,15 +1,15 @@
 ---
 
-title: Linode(Linode) ICON转svg、png下载
+title: Linode(魔方) ICON转svg、png下载
 name: linode
-zhTips: Linode
+zhTips: Linode,魔方
 tags: []
 pre: fab
 search: 
 
 ---
 
-# Linode  <small style="font-size: 60%;font-weight: 100">Linode</small>
+# Linode  <small style="font-size: 60%;font-weight: 100">魔方</small>
 
 
 <div class="detail-page">
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Linode</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/linode.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/linode.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Linode</span><span class="badge-primary badge">魔方</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/linode.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/linode.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">Linode是一个云服务提供商，使用Linode强大的工具集简化云基础设施，可以快速容易地开发、部署和扩展应用程序。官网地址：https://www.linode.com/ </div>
 <div class="alert alert-dark">

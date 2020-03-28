@@ -2,7 +2,7 @@
 
 title: Graduation Cap(毕业帽) ICON转svg、png下载
 name: graduation-cap
-zhTips: 毕业帽,仪式,学院,研究生,学习,学校,学生
+zhTips: 毕业帽,仪式,学院,研究生,学习,学校,学生,博士帽,学士帽,毕业
 tags: ["clothing","education","maps","objects"]
 pre: fas
 search: ceremony,college,graduate,learning,school,student
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">ceremony</span><span class="badge-light badge">college</span><span class="badge-light badge">graduate</span><span class="badge-light badge">learning</span><span class="badge-light badge">school</span><span class="badge-light badge">student</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">毕业帽</span><span class="badge-primary badge">仪式</span><span class="badge-primary badge">学院</span><span class="badge-primary badge">研究生</span><span class="badge-primary badge">学习</span><span class="badge-primary badge">学校</span><span class="badge-primary badge">学生</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/graduation-cap.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/graduation-cap.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">ceremony</span><span class="badge-light badge">college</span><span class="badge-light badge">graduate</span><span class="badge-light badge">learning</span><span class="badge-light badge">school</span><span class="badge-light badge">student</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">毕业帽</span><span class="badge-primary badge">仪式</span><span class="badge-primary badge">学院</span><span class="badge-primary badge">研究生</span><span class="badge-primary badge">学习</span><span class="badge-primary badge">学校</span><span class="badge-primary badge">学生</span><span class="badge-primary badge">博士帽</span><span class="badge-primary badge">学士帽</span><span class="badge-primary badge">毕业</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/graduation-cap.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/graduation-cap.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

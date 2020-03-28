@@ -2,7 +2,7 @@
 
 title: Female(女性) ICON转svg、png下载
 name: female
-zhTips: 女性,人类,人物,个人资料,用户
+zhTips: 女性,人类,人物,个人资料,用户,妇女,girl,女孩子
 tags: ["users-people"]
 pre: fas
 search: human,person,profile,user,woman
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">human</span><span class="badge-light badge">person</span><span class="badge-light badge">profile</span><span class="badge-light badge">user</span><span class="badge-light badge">woman</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">女性</span><span class="badge-primary badge">人类</span><span class="badge-primary badge">人物</span><span class="badge-primary badge">个人资料</span><span class="badge-primary badge">用户</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/female.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/female.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">human</span><span class="badge-light badge">person</span><span class="badge-light badge">profile</span><span class="badge-light badge">user</span><span class="badge-light badge">woman</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">女性</span><span class="badge-primary badge">人类</span><span class="badge-primary badge">人物</span><span class="badge-primary badge">个人资料</span><span class="badge-primary badge">用户</span><span class="badge-primary badge">妇女</span><span class="badge-primary badge">girl</span><span class="badge-primary badge">女孩子</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/female.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/female.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">女性，也可以表示优先权。</div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title:  snapchat(snapchat) ICON转svg、png下载
 name: snapchat
-zhTips: snapchat,色拉布,阅后即焚
+zhTips: snapchat,色拉布,阅后即焚,邮件
 tags: ["brand-logo"]
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Contributors</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">snapchat</span><span class="badge-primary badge">色拉布</span><span class="badge-primary badge">阅后即焚</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/snapchat.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/snapchat.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">snapchat</span><span class="badge-primary badge">色拉布</span><span class="badge-primary badge">阅后即焚</span><span class="badge-primary badge">邮件</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/snapchat.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/snapchat.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">snapchat是一款“阅后即焚”照片分享应用。</div>
 <div class="alert alert-dark">

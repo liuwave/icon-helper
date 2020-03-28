@@ -2,7 +2,7 @@
 
 title:  volume off(音量关闭) ICON转svg、png下载
 name: volume-off
-zhTips: 音量关闭,静音,音频关闭,扬声器关闭
+zhTips: 音量关闭,静音,音频关闭,扬声器关闭,音量
 tags: ["audio","home-automation","cellphone-phone"]
 search: mute,audio-off,speaker-off,speakerphone-off
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">mute</span><span class="badge-light badge">audio-off</span><span class="badge-light badge">speaker-off</span><span class="badge-light badge">speakerphone-off</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">音量关闭</span><span class="badge-primary badge">静音</span><span class="badge-primary badge">音频关闭</span><span class="badge-primary badge">扬声器关闭</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/volume-off.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/volume-off.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">mute</span><span class="badge-light badge">audio-off</span><span class="badge-light badge">speaker-off</span><span class="badge-light badge">speakerphone-off</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">音量关闭</span><span class="badge-primary badge">静音</span><span class="badge-primary badge">音频关闭</span><span class="badge-primary badge">扬声器关闭</span><span class="badge-primary badge">音量</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/volume-off.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/volume-off.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

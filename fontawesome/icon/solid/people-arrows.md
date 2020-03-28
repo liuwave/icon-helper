@@ -1,15 +1,15 @@
 ---
 
-title: People Arrows(covid 19) ICON转svg、png下载
+title: People Arrows(新型冠状病毒) ICON转svg、png下载
 name: people-arrows
-zhTips: People Arrows,covid 19,个人空间,社交距离,空间,传播,用户
+zhTips: People Arrows,新型冠状病毒,新冠肺炎,个人空间,社交距离,空间,传播,用户
 tags: ["users-people"]
 pre: fas
 search: covid-19,personal space,social distance,space,spread,users
 
 ---
 
-# People Arrows  <small style="font-size: 60%;font-weight: 100">covid 19</small>
+# People Arrows  <small style="font-size: 60%;font-weight: 100">新型冠状病毒</small>
 
 
 <div class="detail-page">
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">personal space</span><span class="badge-light badge">social distance</span><span class="badge-light badge">space</span><span class="badge-light badge">spread</span><span class="badge-light badge">users</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">People Arrows</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">个人空间</span><span class="badge-primary badge">社交距离</span><span class="badge-primary badge">空间</span><span class="badge-primary badge">传播</span><span class="badge-primary badge">用户</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/people-arrows.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/people-arrows.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">personal space</span><span class="badge-light badge">social distance</span><span class="badge-light badge">space</span><span class="badge-light badge">spread</span><span class="badge-light badge">users</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">People Arrows</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">个人空间</span><span class="badge-primary badge">社交距离</span><span class="badge-primary badge">空间</span><span class="badge-primary badge">传播</span><span class="badge-primary badge">用户</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/people-arrows.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/people-arrows.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

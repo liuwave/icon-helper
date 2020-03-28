@@ -2,7 +2,7 @@
 
 title:  bolt(螺栓) ICON转svg、png下载
 name: bolt
-zhTips: 螺栓
+zhTips: 螺栓,闪电,雷电,危险,有电
 tags: ["hardware-tools"]
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Michael Irigoyen</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">螺栓</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bolt.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bolt.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">螺栓</span><span class="badge-primary badge">闪电</span><span class="badge-primary badge">雷电</span><span class="badge-primary badge">危险</span><span class="badge-primary badge">有电</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/bolt.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/bolt.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

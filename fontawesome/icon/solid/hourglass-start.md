@@ -2,7 +2,7 @@
 
 title: Hourglass Start(沙漏开始) ICON转svg、png下载
 name: hourglass-start
-zhTips: 沙漏开始,时,分,沙,秒表,时间
+zhTips: 沙漏开始,时,分,沙,秒表,时间,沙漏
 tags: ["date-time"]
 pre: fas
 search: hour,minute,sand,stopwatch,time
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">hour</span><span class="badge-light badge">minute</span><span class="badge-light badge">sand</span><span class="badge-light badge">stopwatch</span><span class="badge-light badge">time</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">沙漏开始</span><span class="badge-primary badge">时</span><span class="badge-primary badge">分</span><span class="badge-primary badge">沙</span><span class="badge-primary badge">秒表</span><span class="badge-primary badge">时间</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hourglass-start.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hourglass-start.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">hour</span><span class="badge-light badge">minute</span><span class="badge-light badge">sand</span><span class="badge-light badge">stopwatch</span><span class="badge-light badge">time</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">沙漏开始</span><span class="badge-primary badge">时</span><span class="badge-primary badge">分</span><span class="badge-primary badge">沙</span><span class="badge-primary badge">秒表</span><span class="badge-primary badge">时间</span><span class="badge-primary badge">沙漏</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hourglass-start.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hourglass-start.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

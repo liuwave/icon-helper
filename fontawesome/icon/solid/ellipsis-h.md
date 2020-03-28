@@ -2,7 +2,7 @@
 
 title: Horizontal Ellipsis(水平省略号) ICON转svg、png下载
 name: ellipsis-h
-zhTips: 水平省略号,圆点,拖动,烤肉串,列表,菜单,导航,ol,重新排序,设置,ul
+zhTips: 水平省略号,圆点,拖动,烤肉串,列表,菜单,导航,ol,重新排序,设置,ul,更多,省略号
 tags: ["interfaces"]
 pre: fas
 search: dots,drag,kebab,list,menu,nav,navigation,ol,reorder,settings,ul
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">dots</span><span class="badge-light badge">drag</span><span class="badge-light badge">kebab</span><span class="badge-light badge">list</span><span class="badge-light badge">menu</span><span class="badge-light badge">nav</span><span class="badge-light badge">navigation</span><span class="badge-light badge">ol</span><span class="badge-light badge">reorder</span><span class="badge-light badge">settings</span><span class="badge-light badge">ul</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">水平省略号</span><span class="badge-primary badge">圆点</span><span class="badge-primary badge">拖动</span><span class="badge-primary badge">烤肉串</span><span class="badge-primary badge">列表</span><span class="badge-primary badge">菜单</span><span class="badge-primary badge">导航</span><span class="badge-primary badge">ol</span><span class="badge-primary badge">重新排序</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">ul</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ellipsis-h.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ellipsis-h.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">dots</span><span class="badge-light badge">drag</span><span class="badge-light badge">kebab</span><span class="badge-light badge">list</span><span class="badge-light badge">menu</span><span class="badge-light badge">nav</span><span class="badge-light badge">navigation</span><span class="badge-light badge">ol</span><span class="badge-light badge">reorder</span><span class="badge-light badge">settings</span><span class="badge-light badge">ul</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">水平省略号</span><span class="badge-primary badge">圆点</span><span class="badge-primary badge">拖动</span><span class="badge-primary badge">烤肉串</span><span class="badge-primary badge">列表</span><span class="badge-primary badge">菜单</span><span class="badge-primary badge">导航</span><span class="badge-primary badge">ol</span><span class="badge-primary badge">重新排序</span><span class="badge-primary badge">设置</span><span class="badge-primary badge">ul</span><span class="badge-primary badge">更多</span><span class="badge-primary badge">省略号</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ellipsis-h.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ellipsis-h.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

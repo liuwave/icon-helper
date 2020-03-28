@@ -10,7 +10,8 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "WPForms"
+    "WPForms",
+    "表单"
   ],
   "description": "WPForms是WordPress一个表单插件，有300多万的用户。",
   "comments": []

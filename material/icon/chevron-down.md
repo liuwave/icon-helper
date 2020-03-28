@@ -2,7 +2,7 @@
 
 title:  chevron down(V形向下) ICON转svg、png下载
 name: chevron-down
-zhTips: V形向下,展开更多,键盘向下箭头
+zhTips: V形向下,展开更多,键盘向下箭头,下拉,位移
 tags: ["arrow"]
 search: expand-more,keyboard-arrow-down
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">expand-more</span><span class="badge-light badge">keyboard-arrow-down</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">V形向下</span><span class="badge-primary badge">展开更多</span><span class="badge-primary badge">键盘向下箭头</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/chevron-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/chevron-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">expand-more</span><span class="badge-light badge">keyboard-arrow-down</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">V形向下</span><span class="badge-primary badge">展开更多</span><span class="badge-primary badge">键盘向下箭头</span><span class="badge-primary badge">下拉</span><span class="badge-primary badge">位移</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/chevron-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/chevron-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

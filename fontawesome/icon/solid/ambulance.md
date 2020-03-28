@@ -2,7 +2,7 @@
 
 title: ambulance(救护车) ICON转svg、png下载
 name: ambulance
-zhTips: 救护车,covid 19,紧急情况,emt,er,帮助,医院,支持,车辆
+zhTips: 救护车,新型冠状病毒,新冠肺炎,紧急情况,emt,er,帮助,医院,支持,车辆,急救车
 tags: ["automotive","health","maps","medical","objects","vehicles"]
 pre: fas
 search: covid-19,emergency,emt,er,help,hospital,support,vehicle
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">emergency</span><span class="badge-light badge">emt</span><span class="badge-light badge">er</span><span class="badge-light badge">help</span><span class="badge-light badge">hospital</span><span class="badge-light badge">support</span><span class="badge-light badge">vehicle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">救护车</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">紧急情况</span><span class="badge-primary badge">emt</span><span class="badge-primary badge">er</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">支持</span><span class="badge-primary badge">车辆</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ambulance.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ambulance.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">covid-19</span><span class="badge-light badge">emergency</span><span class="badge-light badge">emt</span><span class="badge-light badge">er</span><span class="badge-light badge">help</span><span class="badge-light badge">hospital</span><span class="badge-light badge">support</span><span class="badge-light badge">vehicle</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">救护车</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">紧急情况</span><span class="badge-primary badge">emt</span><span class="badge-primary badge">er</span><span class="badge-primary badge">帮助</span><span class="badge-primary badge">医院</span><span class="badge-primary badge">支持</span><span class="badge-primary badge">车辆</span><span class="badge-primary badge">急救车</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ambulance.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/ambulance.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">救护车，一般指医疗事件，也可以表示紧急安全。</div>
 <div class="alert alert-dark">

@@ -2,7 +2,7 @@
 
 title: Toggle Off(切换关闭) ICON转svg、png下载
 name: toggle-off
-zhTips: 切换关闭,切换
+zhTips: 切换关闭,切换,checkbox,关
 tags: ["interfaces","status","toggle"]
 pre: fas
 search: switch
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">switch</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">切换关闭</span><span class="badge-primary badge">切换</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/toggle-off.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/toggle-off.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">switch</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">切换关闭</span><span class="badge-primary badge">切换</span><span class="badge-primary badge">checkbox</span><span class="badge-primary badge">关</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/toggle-off.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/toggle-off.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

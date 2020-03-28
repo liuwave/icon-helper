@@ -2,7 +2,7 @@
 
 title: Hand Holding Medical Cross(护理) ICON转svg、png下载
 name: hand-holding-medical
-zhTips: Hand Holding Medical Cross,护理,covid 19,捐赠,帮助
+zhTips: Hand Holding Medical Cross,护理,新型冠状病毒,新冠肺炎,捐赠,帮助
 tags: ["hands","medical"]
 pre: fas
 search: care,covid-19,donate,help
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">care</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">donate</span><span class="badge-light badge">help</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Hand Holding Medical Cross</span><span class="badge-primary badge">护理</span><span class="badge-primary badge">covid 19</span><span class="badge-primary badge">捐赠</span><span class="badge-primary badge">帮助</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hand-holding-medical.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hand-holding-medical.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">care</span><span class="badge-light badge">covid-19</span><span class="badge-light badge">donate</span><span class="badge-light badge">help</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Hand Holding Medical Cross</span><span class="badge-primary badge">护理</span><span class="badge-primary badge">新型冠状病毒</span><span class="badge-primary badge">新冠肺炎</span><span class="badge-primary badge">捐赠</span><span class="badge-primary badge">帮助</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hand-holding-medical.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/hand-holding-medical.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

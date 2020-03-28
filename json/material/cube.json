@@ -16,7 +16,10 @@
     "dice",
     "package",
     "square",
-    "tesseract"
+    "tesseract",
+    "方块",
+    "应用",
+    "盒子"
   ],
   "description": "立方体，可以表示魔方。",
   "comments": []

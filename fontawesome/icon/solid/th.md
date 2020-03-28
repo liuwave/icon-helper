@@ -2,7 +2,7 @@
 
 title: th(块) ICON转svg、png下载
 name: th
-zhTips: th,块,框,网格,正方形
+zhTips: th,块,框,网格,正方形,盒子
 tags: ["editors"]
 pre: fas
 search: blocks,boxes,grid,squares
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">blocks</span><span class="badge-light badge">boxes</span><span class="badge-light badge">grid</span><span class="badge-light badge">squares</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">th</span><span class="badge-primary badge">块</span><span class="badge-primary badge">框</span><span class="badge-primary badge">网格</span><span class="badge-primary badge">正方形</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/th.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/th.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">blocks</span><span class="badge-light badge">boxes</span><span class="badge-light badge">grid</span><span class="badge-light badge">squares</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">th</span><span class="badge-primary badge">块</span><span class="badge-primary badge">框</span><span class="badge-primary badge">网格</span><span class="badge-primary badge">正方形</span><span class="badge-primary badge">盒子</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/th.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/th.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

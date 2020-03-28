@@ -2,7 +2,7 @@
 
 title: Envelope(信封) ICON转svg、png下载
 name: envelope
-zhTips: 信封,电子邮件,信件,邮件,消息,通知,支持
+zhTips: 信封,电子邮件,信件,邮件,消息,通知,支持,信息
 tags: ["business","communication","interfaces","objects","social","writing"]
 pre: fas
 search: e-mail,email,letter,mail,message,notification,support
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">e-mail</span><span class="badge-light badge">email</span><span class="badge-light badge">letter</span><span class="badge-light badge">mail</span><span class="badge-light badge">message</span><span class="badge-light badge">notification</span><span class="badge-light badge">support</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">信封</span><span class="badge-primary badge">电子邮件</span><span class="badge-primary badge">信件</span><span class="badge-primary badge">邮件</span><span class="badge-primary badge">消息</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">支持</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/envelope.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/envelope.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">e-mail</span><span class="badge-light badge">email</span><span class="badge-light badge">letter</span><span class="badge-light badge">mail</span><span class="badge-light badge">message</span><span class="badge-light badge">notification</span><span class="badge-light badge">support</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">信封</span><span class="badge-primary badge">电子邮件</span><span class="badge-primary badge">信件</span><span class="badge-primary badge">邮件</span><span class="badge-primary badge">消息</span><span class="badge-primary badge">通知</span><span class="badge-primary badge">支持</span><span class="badge-primary badge">信息</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/envelope.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/envelope.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">信封，一般用于写信、邮件等动作。</div>
 <div class="alert alert-dark">

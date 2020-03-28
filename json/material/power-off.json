@@ -7,7 +7,9 @@
   "author": "Michael Richins",
   "version": "2.3.50",
   "zhs": [
-    "关机"
+    "关机",
+    "退出",
+    "关闭"
   ],
   "description": "",
   "comments": []

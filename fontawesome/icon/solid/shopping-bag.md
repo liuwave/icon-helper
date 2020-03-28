@@ -2,7 +2,7 @@
 
 title: Shopping Bag(购物袋) ICON转svg、png下载
 name: shopping-bag
-zhTips: 购物袋,购买,结帐,杂货,付款
+zhTips: 购物袋,购买,结帐,杂货,付款,shop
 tags: ["maps","objects","payments-shopping","shopping"]
 pre: fas
 search: buy,checkout,grocery,payment,purchase
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">buy</span><span class="badge-light badge">checkout</span><span class="badge-light badge">grocery</span><span class="badge-light badge">payment</span><span class="badge-light badge">purchase</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">购物袋</span><span class="badge-primary badge">购买</span><span class="badge-primary badge">结帐</span><span class="badge-primary badge">杂货</span><span class="badge-primary badge">付款</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shopping-bag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shopping-bag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">buy</span><span class="badge-light badge">checkout</span><span class="badge-light badge">grocery</span><span class="badge-light badge">payment</span><span class="badge-light badge">purchase</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">购物袋</span><span class="badge-primary badge">购买</span><span class="badge-primary badge">结帐</span><span class="badge-primary badge">杂货</span><span class="badge-primary badge">付款</span><span class="badge-primary badge">shop</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shopping-bag.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/shopping-bag.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

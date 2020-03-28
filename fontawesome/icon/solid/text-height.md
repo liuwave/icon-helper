@@ -2,7 +2,7 @@
 
 title: text-height(文本高度) ICON转svg、png下载
 name: text-height
-zhTips: 文本高度,编辑,字体,格式,文本,类型
+zhTips: 文本高度,编辑,字体,格式,文本,类型,行高
 tags: ["arrows","editors"]
 pre: fas
 search: edit,font,format,text,type
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">edit</span><span class="badge-light badge">font</span><span class="badge-light badge">format</span><span class="badge-light badge">text</span><span class="badge-light badge">type</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">文本高度</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">字体</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">类型</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/text-height.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/text-height.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">edit</span><span class="badge-light badge">font</span><span class="badge-light badge">format</span><span class="badge-light badge">text</span><span class="badge-light badge">type</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">文本高度</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">字体</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">类型</span><span class="badge-primary badge">行高</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/text-height.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/text-height.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

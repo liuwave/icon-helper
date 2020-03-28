@@ -2,7 +2,7 @@
 
 title:  rotate left(向左旋转) ICON转svg、png下载
 name: rotate-left
-zhTips: 向左旋转,箭头向左旋转
+zhTips: 向左旋转,箭头向左旋转,撤消
 tags: ["arrow"]
 search: arrow-rotate-left
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">arrow-rotate-left</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">向左旋转</span><span class="badge-primary badge">箭头向左旋转</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/rotate-left.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/rotate-left.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">arrow-rotate-left</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">向左旋转</span><span class="badge-primary badge">箭头向左旋转</span><span class="badge-primary badge">撤消</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/rotate-left.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/rotate-left.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

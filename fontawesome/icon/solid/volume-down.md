@@ -2,7 +2,7 @@
 
 title: Volume Down(降低音量) ICON转svg、png下载
 name: volume-down
-zhTips: 降低音量,音频,降低,音乐,更安静,声音,扬声器
+zhTips: 降低音量,音频,降低,音乐,更安静,声音,扬声器,音量减
 tags: ["audio-video","interfaces","music","status"]
 pre: fas
 search: audio,lower,music,quieter,sound,speaker
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">audio</span><span class="badge-light badge">lower</span><span class="badge-light badge">music</span><span class="badge-light badge">quieter</span><span class="badge-light badge">sound</span><span class="badge-light badge">speaker</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">降低音量</span><span class="badge-primary badge">音频</span><span class="badge-primary badge">降低</span><span class="badge-primary badge">音乐</span><span class="badge-primary badge">更安静</span><span class="badge-primary badge">声音</span><span class="badge-primary badge">扬声器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/volume-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/volume-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">audio</span><span class="badge-light badge">lower</span><span class="badge-light badge">music</span><span class="badge-light badge">quieter</span><span class="badge-light badge">sound</span><span class="badge-light badge">speaker</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">降低音量</span><span class="badge-primary badge">音频</span><span class="badge-primary badge">降低</span><span class="badge-primary badge">音乐</span><span class="badge-primary badge">更安静</span><span class="badge-primary badge">声音</span><span class="badge-primary badge">扬声器</span><span class="badge-primary badge">音量减</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/volume-down.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/volume-down.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

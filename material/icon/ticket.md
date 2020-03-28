@@ -2,7 +2,7 @@
 
 title:  ticket(门票) ICON转svg、png下载
 name: ticket
-zhTips: 门票,当地活动,当地玩乐,当地景点
+zhTips: 门票,当地活动,当地玩乐,当地景点,票,入场券,标签
 tags: []
 search: local-activity,local-play,local-attraction
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Google</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">local-activity</span><span class="badge-light badge">local-play</span><span class="badge-light badge">local-attraction</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">门票</span><span class="badge-primary badge">当地活动</span><span class="badge-primary badge">当地玩乐</span><span class="badge-primary badge">当地景点</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/ticket.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/ticket.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">local-activity</span><span class="badge-light badge">local-play</span><span class="badge-light badge">local-attraction</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">门票</span><span class="badge-primary badge">当地活动</span><span class="badge-primary badge">当地玩乐</span><span class="badge-primary badge">当地景点</span><span class="badge-primary badge">票</span><span class="badge-primary badge">入场券</span><span class="badge-primary badge">标签</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/ticket.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/ticket.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

@@ -1,15 +1,15 @@
 ---
 
-title: WPForms(WPForms) ICON转svg、png下载
+title: WPForms(表单) ICON转svg、png下载
 name: wpforms
-zhTips: WPForms
+zhTips: WPForms,表单
 tags: []
 pre: fab
 search: 
 
 ---
 
-# WPForms  <small style="font-size: 60%;font-weight: 100">WPForms</small>
+# WPForms  <small style="font-size: 60%;font-weight: 100">表单</small>
 
 
 <div class="detail-page">
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">WPForms</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wpforms.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wpforms.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">WPForms</span><span class="badge-primary badge">表单</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wpforms.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/wpforms.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">WPForms是WordPress一个表单插件，有300多万的用户。</div>
 <div class="alert alert-dark">

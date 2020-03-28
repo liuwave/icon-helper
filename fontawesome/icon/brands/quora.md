@@ -1,15 +1,15 @@
 ---
 
-title: Quora(Quora) ICON转svg、png下载
+title: Quora(问答) ICON转svg、png下载
 name: quora
-zhTips: Quora
+zhTips: Quora,问答,Q,问题
 tags: []
 pre: fab
 search: 
 
 ---
 
-# Quora  <small style="font-size: 60%;font-weight: 100">Quora</small>
+# Quora  <small style="font-size: 60%;font-weight: 100">问答</small>
 
 
 <div class="detail-page">
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Quora</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/quora.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/quora.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Quora</span><span class="badge-primary badge">问答</span><span class="badge-primary badge">Q</span><span class="badge-primary badge">问题</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/quora.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/brands/quora.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">Quora是一个问答网站。</div>
 <div class="alert alert-dark">

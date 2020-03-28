@@ -2,7 +2,7 @@
 
 title: Object Ungroup(对象取消分组) ICON转svg、png下载
 name: object-ungroup
-zhTips: 对象取消分组,复制,设计,合并,选择,分离
+zhTips: 对象取消分组,复制,设计,合并,选择,分离,取消组合
 tags: ["design"]
 pre: fas
 search: copy,design,merge,select,separate
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">copy</span><span class="badge-light badge">design</span><span class="badge-light badge">merge</span><span class="badge-light badge">select</span><span class="badge-light badge">separate</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">对象取消分组</span><span class="badge-primary badge">复制</span><span class="badge-primary badge">设计</span><span class="badge-primary badge">合并</span><span class="badge-primary badge">选择</span><span class="badge-primary badge">分离</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/object-ungroup.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/object-ungroup.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">copy</span><span class="badge-light badge">design</span><span class="badge-light badge">merge</span><span class="badge-light badge">select</span><span class="badge-light badge">separate</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">对象取消分组</span><span class="badge-primary badge">复制</span><span class="badge-primary badge">设计</span><span class="badge-primary badge">合并</span><span class="badge-primary badge">选择</span><span class="badge-primary badge">分离</span><span class="badge-primary badge">取消组合</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/object-ungroup.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/object-ungroup.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div>
 <div class="alert alert-dark">

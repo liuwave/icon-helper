@@ -2,7 +2,7 @@
 
 title:  database(数据库) ICON转svg、png下载
 name: database
-zhTips: 数据库,计算机,开发,目录,内存,存储
+zhTips: 数据库,计算机,开发,目录,内存,存储,数据统计,金额
 tags: ["geographic-information-system"]
 search: 
 
@@ -39,7 +39,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Cody</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">数据库</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">开发</span><span class="badge-primary badge">目录</span><span class="badge-primary badge">内存</span><span class="badge-primary badge">存储</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/database.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/database.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">数据库</span><span class="badge-primary badge">计算机</span><span class="badge-primary badge">开发</span><span class="badge-primary badge">目录</span><span class="badge-primary badge">内存</span><span class="badge-primary badge">存储</span><span class="badge-primary badge">数据统计</span><span class="badge-primary badge">金额</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/database.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/database.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">存储文件信息数据库，也可以代表云的圆柱体。</div>
 <div class="alert alert-dark">

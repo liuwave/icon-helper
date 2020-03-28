@@ -2,7 +2,7 @@
 
 title: Search(搜索) ICON转svg、png下载
 name: search
-zhTips: 搜索,更大,放大,查找,预览,缩放
+zhTips: 搜索,更大,放大,查找,预览,缩放,查询
 tags: ["interfaces","maps","objects"]
 pre: fas
 search: bigger,enlarge,find,magnify,preview,zoom
@@ -40,7 +40,7 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">fontawesome</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">bigger</span><span class="badge-light badge">enlarge</span><span class="badge-light badge">find</span><span class="badge-light badge">magnify</span><span class="badge-light badge">preview</span><span class="badge-light badge">zoom</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">搜索</span><span class="badge-primary badge">更大</span><span class="badge-primary badge">放大</span><span class="badge-primary badge">查找</span><span class="badge-primary badge">预览</span><span class="badge-primary badge">缩放</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">bigger</span><span class="badge-light badge">enlarge</span><span class="badge-light badge">find</span><span class="badge-light badge">magnify</span><span class="badge-light badge">preview</span><span class="badge-light badge">zoom</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">搜索</span><span class="badge-primary badge">更大</span><span class="badge-primary badge">放大</span><span class="badge-primary badge">查找</span><span class="badge-primary badge">预览</span><span class="badge-primary badge">缩放</span><span class="badge-primary badge">查询</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/search.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light">搜索，可以用做表示信息搜集、信息分类、用户查询。</div>
 <div class="alert alert-dark">
