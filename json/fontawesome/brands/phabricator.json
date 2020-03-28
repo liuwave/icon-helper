@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "炸药"
+    "炸药",
+    "phabricator"
   ],
-  "description": "",
+  "description": "phabricator是一个开源的软件开发平台。",
   "comments": []
 }

@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "WordPress徽标"
+    "WordPress徽标",
+    "wordpress"
   ],
-  "description": "",
+  "description": "WordPress是基于PHP开发的一个博客平台。",
   "comments": []
 }

@@ -12,6 +12,6 @@
   "zhs": [
     "npm"
   ],
-  "description": "",
+  "description": "NPM是Node.js的默认包管理器，NPM使JavaScript开发人员更容易共享和重用代码。",
   "comments": []
 }

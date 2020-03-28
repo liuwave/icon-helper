@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.10",
   "zhs": [
-    "自述文件"
+    "自述文件",
+    "readme"
   ],
-  "description": "",
+  "description": "README为团队提供工具，以便轻松地创建和管理漂亮的文档，监视他们的API，并以更个性化的方式与他们的用户联系。",
   "comments": []
 }

@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "推"
+    "推",
+    "pushed"
   ],
-  "description": "",
+  "description": "Pushed是一款推送APP，推允许您发送实时推送通知到iOS，安卓和桌面（浏览器，火狐和Safari浏览器）设备，不需要开发自己的应用。",
   "comments": []
 }

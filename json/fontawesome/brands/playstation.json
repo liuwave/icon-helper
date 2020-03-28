@@ -17,8 +17,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "PlayStation"
+    "PS",
+    "游戏站"
   ],
-  "description": "",
+  "description": "PS是日本Sony旗下的一款著名的游戏机。",
   "comments": []
 }

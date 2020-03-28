@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.8.0",
   "zhs": [
-    "团队发言"
+    "团队发言",
+    "TS"
   ],
-  "description": "",
+  "description": "Teamtalk是网络游戏的首选VoIP通信系统，简称TS。",
   "comments": []
 }

@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "更少"
+    "更少",
+    "less"
   ],
-  "description": "",
+  "description": "Less 是一门 CSS 预处理语言,可以运行在 Node 或浏览器端,扩展了 CSS 语言,增加了变量、Mixin、函数等特性。。",
   "comments": []
 }

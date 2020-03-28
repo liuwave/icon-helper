@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "反应"
+    "React.js",
+    "react"
   ],
-  "description": "",
+  "description": "React.js(React)是一个用来构建用户界面的JavaScript库，由Facebook发布开源。",
   "comments": []
 }

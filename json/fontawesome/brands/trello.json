@@ -12,8 +12,9 @@
   "author": "fontawesome",
   "version": "5.6.0",
   "zhs": [
-    "特洛洛"
+    "特洛洛",
+    "trello"
   ],
-  "description": "",
+  "description": "Trello是一个任务管理软件、团队协作工具。使用方便，完全免费。",
   "comments": []
 }

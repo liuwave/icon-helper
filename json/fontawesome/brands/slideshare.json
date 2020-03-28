@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "幻灯片分享"
+    "幻灯片分享",
+    "slide分享"
   ],
-  "description": "",
+  "description": "slideshare是一个专业的幻灯片分享平台。",
   "comments": []
 }

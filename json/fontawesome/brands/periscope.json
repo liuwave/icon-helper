@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.0",
   "zhs": [
-    "潜望镜"
+    "潜望镜",
+    "periscope"
   ],
-  "description": "",
+  "description": "periscope是一家直播服务运营商，于2015年被Twitter收购。",
   "comments": []
 }

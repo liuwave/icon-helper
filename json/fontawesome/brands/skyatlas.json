@@ -10,8 +10,9 @@
   "author": "fontawesome",
   "version": "5.0.3",
   "zhs": [
-    "摩天大楼"
+    "摩天大楼",
+    "skyatlas"
   ],
-  "description": "",
+  "description": "SkyAtlas是一家提供云平台公司，产品包括云服务器、云存储和网络基础设施等。",
   "comments": []
 }
