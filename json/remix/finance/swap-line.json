@@ -1,0 +1,29 @@
+{
+  "name": "swap-line",
+  "codepoint": "f10d",
+  "title": "swap line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zM7 9l3-3.5L13 9h-2v4H9V9H7zm10 6l-3 3.5-3-3.5h2v-4h2v4h2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "exchange",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Finance",
+      "titleZh": "金融",
+      "count": 65,
+      "name": "finance"
+    }
+  ],
+  "dir": "finance",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "交换",
+    "换算",
+    "兑换"
+  ],
+  "description": "",
+  "comments": []
+}

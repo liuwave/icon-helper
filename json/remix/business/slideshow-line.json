@@ -1,0 +1,35 @@
+{
+  "name": "slideshow-line",
+  "codepoint": "f0ac",
+  "title": "slideshow line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M13 21v2h-2v-2H3a1 1 0 0 1-1-1V6h20v14a1 1 0 0 1-1 1h-8zm-9-2h16V8H4v11zm9-9h5v2h-5v-2zm0 4h5v2h-5v-2zm-4-4v3h3a3 3 0 1 1-3-3zM2 3h20v2H2V3z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "presentation",
+    "meeting",
+    "PPT",
+    "keynote",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Business",
+      "titleZh": "商业",
+      "count": 81,
+      "name": "business"
+    }
+  ],
+  "dir": "business",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "投影",
+    "放映",
+    "演示",
+    "演讲",
+    "幻灯片",
+    "会议室"
+  ],
+  "description": "",
+  "comments": []
+}

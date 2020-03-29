@@ -1,0 +1,32 @@
+{
+  "name": "spy-fill",
+  "codepoint": "f0ce",
+  "title": "spy fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M17 13a4 4 0 1 1 0 8c-2.142 0-4-1.79-4-4h-2a4 4 0 1 1-.535-2h3.07A3.998 3.998 0 0 1 17 13zM2 12v-2h2V7a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v3h2v2H2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "incognito mode",
+    "detective",
+    "secret",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "User&Faces",
+      "titleZh": "用户界面",
+      "count": 55,
+      "name": "user-faces"
+    }
+  ],
+  "dir": "user-faces",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "间谍",
+    "侦探",
+    "无痕模式",
+    "隐私模式"
+  ],
+  "description": "",
+  "comments": []
+}

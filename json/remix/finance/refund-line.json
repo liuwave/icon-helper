@@ -1,0 +1,30 @@
+{
+  "name": "refund-line",
+  "codepoint": "efd9",
+  "title": "refund line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M20 8V5H4v3h16zm0 2H4v9h16v-9zM3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm8 11h6v2H6.5l4.5-4.5V14z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "credit card",
+    "repayment",
+    "cc",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Finance",
+      "titleZh": "金融",
+      "count": 65,
+      "name": "finance"
+    }
+  ],
+  "dir": "finance",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "银行卡",
+    "信用卡还款"
+  ],
+  "description": "",
+  "comments": []
+}

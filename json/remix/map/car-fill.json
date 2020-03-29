@@ -1,0 +1,26 @@
+{
+  "name": "car-fill",
+  "codepoint": "eb2e",
+  "title": "car fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M19 20H5v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-9l2.513-6.702A2 2 0 0 1 6.386 4h11.228a2 2 0 0 1 1.873 1.298L22 12v9a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1v-1zM4.136 12h15.728l-2.25-6H6.386l-2.25 6zM6.5 17a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm11 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Map",
+      "titleZh": "地图",
+      "count": 79,
+      "name": "map"
+    }
+  ],
+  "dir": "map",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "汽车"
+  ],
+  "description": "",
+  "comments": []
+}

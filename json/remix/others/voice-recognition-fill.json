@@ -1,0 +1,27 @@
+{
+  "name": "voice-recognition-fill",
+  "codepoint": "f1c5",
+  "title": "voice recognition fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M21 3v18H3V3h18zm-8 3h-2v12h2V6zM9 9H7v6h2V9zm8 0h-2v6h2V9z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "asr",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Others",
+      "titleZh": "其他",
+      "count": 34,
+      "name": "others"
+    }
+  ],
+  "dir": "others",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "语音识别"
+  ],
+  "description": "",
+  "comments": []
+}

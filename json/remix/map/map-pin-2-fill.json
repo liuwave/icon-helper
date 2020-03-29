@@ -1,0 +1,32 @@
+{
+  "name": "map-pin-2-fill",
+  "codepoint": "ee9e",
+  "title": "map pin 2 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M18.364 17.364L12 23.728l-6.364-6.364a9 9 0 1 1 12.728 0zM12 13a2 2 0 1 0 0-4 2 2 0 0 0 0 4z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "location",
+    "navigation",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Map",
+      "titleZh": "地图",
+      "count": 79,
+      "name": "map"
+    }
+  ],
+  "dir": "map",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "地图",
+    "坐标",
+    "定位",
+    "导航",
+    "位置"
+  ],
+  "description": "",
+  "comments": []
+}

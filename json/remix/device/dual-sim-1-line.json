@@ -1,0 +1,29 @@
+{
+  "name": "dual-sim-1-line",
+  "codepoint": "ec3a",
+  "title": "dual sim 1 line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path fill-rule=\"nonzero\" d=\"M15 2l4.707 4.707a1 1 0 0 1 .293.707V21a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h10zm-.829 2H6v16h12V7.829L14.171 4zM13 16h-2v-6h-1V8h3v8z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "sim card",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Device",
+      "titleZh": "设备",
+      "count": 51,
+      "name": "device"
+    }
+  ],
+  "dir": "device",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "电话卡",
+    "卡槽",
+    "双卡双待"
+  ],
+  "description": "",
+  "comments": []
+}

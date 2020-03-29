@@ -1,0 +1,27 @@
+{
+  "name": "arrow-up-s-line",
+  "codepoint": "ea76",
+  "title": "arrow up s line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M12 10.828l-4.95 4.95-1.414-1.414L12 8l6.364 6.364-1.414 1.414z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "箭头",
+    "向上"
+  ],
+  "description": "",
+  "comments": []
+}

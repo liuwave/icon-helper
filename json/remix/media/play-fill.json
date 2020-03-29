@@ -1,0 +1,28 @@
+{
+  "name": "play-fill",
+  "codepoint": "ef84",
+  "title": "play fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M19.376 12.416L8.777 19.482A.5.5 0 0 1 8 19.066V4.934a.5.5 0 0 1 .777-.416l10.599 7.066a.5.5 0 0 1 0 .832z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "start",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Media",
+      "titleZh": "媒体",
+      "count": 92,
+      "name": "media"
+    }
+  ],
+  "dir": "media",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "播放",
+    "开始"
+  ],
+  "description": "",
+  "comments": []
+}

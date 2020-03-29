@@ -1,0 +1,26 @@
+{
+  "name": "tablet-line",
+  "codepoint": "f120",
+  "title": "tablet line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M6 4v16h12V4H6zM5 2h14a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1zm7 15a1 1 0 1 1 0 2 1 1 0 0 1 0-2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Device",
+      "titleZh": "设备",
+      "count": 51,
+      "name": "device"
+    }
+  ],
+  "dir": "device",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "平板电脑"
+  ],
+  "description": "",
+  "comments": []
+}

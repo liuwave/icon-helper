@@ -1,0 +1,30 @@
+{
+  "name": "men-fill",
+  "codepoint": "eec0",
+  "title": "men fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M18.586 5H14V3h8v8h-2V6.414l-3.537 3.537a7.5 7.5 0 1 1-1.414-1.414L18.586 5z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "gender",
+    "male",
+    "man",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "User&Faces",
+      "titleZh": "用户界面",
+      "count": 55,
+      "name": "user-faces"
+    }
+  ],
+  "dir": "user-faces",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "男人",
+    "男性"
+  ],
+  "description": "",
+  "comments": []
+}

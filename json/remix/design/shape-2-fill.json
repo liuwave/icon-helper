@@ -1,0 +1,29 @@
+{
+  "name": "shape-2-fill",
+  "codepoint": "f051",
+  "title": "shape 2 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M2 2h5v5H2V2zm0 15h5v5H2v-5zM17 2h5v5h-5V2zm0 15h5v5h-5v-5zM8 4h8v2H8V4zM4 8h2v8H4V8zm14 0h2v8h-2V8zM8 18h8v2H8v-2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "border",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Design",
+      "titleZh": "设计",
+      "count": 80,
+      "name": "design"
+    }
+  ],
+  "dir": "design",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "形状",
+    "描边",
+    "边框"
+  ],
+  "description": "",
+  "comments": []
+}

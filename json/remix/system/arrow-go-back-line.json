@@ -1,0 +1,30 @@
+{
+  "name": "arrow-go-back-line",
+  "codepoint": "ea56",
+  "title": "arrow go back line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M5.828 7l2.536 2.536L6.95 10.95 2 6l4.95-4.95 1.414 1.414L5.828 5H13a8 8 0 1 1 0 16H4v-2h9a6 6 0 1 0 0-12H5.828z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "undo",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "箭头",
+    "返回",
+    "撤销",
+    "撤回"
+  ],
+  "description": "",
+  "comments": []
+}

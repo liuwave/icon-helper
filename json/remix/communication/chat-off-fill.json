@@ -1,0 +1,35 @@
+{
+  "name": "chat-off-fill",
+  "codepoint": "eb52",
+  "title": "chat off fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M2.808 1.393l19.799 19.8-1.415 1.414-3.608-3.608L6.455 19 2 22.5V4c0-.17.042-.329.116-.469l-.723-.723 1.415-1.415zM21 3a1 1 0 0 1 1 1v13.785L7.214 3H21z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "message",
+    "reply",
+    "comment",
+    "slash",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Communication",
+      "titleZh": "交流",
+      "count": 25,
+      "name": "communication"
+    }
+  ],
+  "dir": "communication",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "消息",
+    "聊天",
+    "回复",
+    "评论",
+    "禁止",
+    "关闭"
+  ],
+  "description": "",
+  "comments": []
+}

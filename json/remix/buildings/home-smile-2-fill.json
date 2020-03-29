@@ -1,0 +1,31 @@
+{
+  "name": "home-smile-2-fill",
+  "codepoint": "edd7",
+  "title": "home smile 2 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M21 20a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.314a1 1 0 0 1 .38-.785l8-6.311a1 1 0 0 1 1.24 0l8 6.31a1 1 0 0 1 .38.786V20zM7 12a5 5 0 0 0 10 0h-2a3 3 0 0 1-6 0H7z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "house",
+    "smart home",
+    "smile",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Buildings",
+      "titleZh": "建筑物",
+      "count": 27,
+      "name": "buildings"
+    }
+  ],
+  "dir": "buildings",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "房子",
+    "智能家居",
+    "微笑"
+  ],
+  "description": "",
+  "comments": []
+}

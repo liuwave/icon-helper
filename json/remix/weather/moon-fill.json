@@ -1,0 +1,30 @@
+{
+  "name": "moon-fill",
+  "codepoint": "eef8",
+  "title": "moon fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M11.38 2.019a7.5 7.5 0 1 0 10.6 10.6C21.662 17.854 17.316 22 12.001 22 6.477 22 2 17.523 2 12c0-5.315 4.146-9.661 9.38-9.981z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "dark mode",
+    "night",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Weather",
+      "titleZh": "天气",
+      "count": 35,
+      "name": "weather"
+    }
+  ],
+  "dir": "weather",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "月亮",
+    "夜间模式",
+    "月牙"
+  ],
+  "description": "",
+  "comments": []
+}

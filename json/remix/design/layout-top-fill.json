@@ -1,0 +1,27 @@
+{
+  "name": "layout-top-fill",
+  "codepoint": "ee3f",
+  "title": "layout top fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M22 10v10a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V10h20zm-1-7a1 1 0 0 1 1 1v4H2V4a1 1 0 0 1 1-1h18z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Design",
+      "titleZh": "设计",
+      "count": 80,
+      "name": "design"
+    }
+  ],
+  "dir": "design",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "顶部布局",
+    "顶部导航"
+  ],
+  "description": "",
+  "comments": []
+}

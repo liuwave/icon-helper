@@ -1,0 +1,31 @@
+{
+  "name": "record-mail-line",
+  "codepoint": "efcf",
+  "title": "record mail line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M14.257 15a5.5 5.5 0 1 1 4.243 2h-13a5.5 5.5 0 1 1 4.243-2h4.514zM5.5 15a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zm13 0a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "voice mail",
+    "tape",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Business",
+      "titleZh": "商业",
+      "count": 81,
+      "name": "business"
+    }
+  ],
+  "dir": "business",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "录音",
+    "留言",
+    "语音信箱",
+    "磁带"
+  ],
+  "description": "",
+  "comments": []
+}

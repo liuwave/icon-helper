@@ -1,0 +1,26 @@
+{
+  "name": "door-lock-line",
+  "codepoint": "ec1c",
+  "title": "door lock line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path fill-rule=\"nonzero\" d=\"M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-2a8 8 0 1 0 0-16 8 8 0 0 0 0 16zm-1-7.208a2.5 2.5 0 1 1 2 0V16h-2v-3.208z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Others",
+      "titleZh": "其他",
+      "count": 34,
+      "name": "others"
+    }
+  ],
+  "dir": "others",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "门锁"
+  ],
+  "description": "",
+  "comments": []
+}

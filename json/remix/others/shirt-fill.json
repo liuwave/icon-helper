@@ -1,0 +1,28 @@
+{
+  "name": "shirt-fill",
+  "codepoint": "f071",
+  "title": "shirt fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M7 4v7l5-2.5 5 2.5V4h3a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h3zm5 4L7.5 3h9L12 8zm1 3.236l-1-.5-1 .5V20h2v-8.764zM15 14v2h4v-2h-4z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "clothes",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Others",
+      "titleZh": "其他",
+      "count": 34,
+      "name": "others"
+    }
+  ],
+  "dir": "others",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "衬衫",
+    "衣服"
+  ],
+  "description": "",
+  "comments": []
+}

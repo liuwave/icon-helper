@@ -1,0 +1,28 @@
+{
+  "name": "cursor-fill",
+  "codepoint": "ebeb",
+  "title": "cursor fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M13.91 12.36L17 20.854l-2.818 1.026-3.092-8.494-4.172 3.156 1.49-14.909 10.726 10.463z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "mouse",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Development",
+      "titleZh": "开发",
+      "count": 24,
+      "name": "development"
+    }
+  ],
+  "dir": "development",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "指针",
+    "鼠标"
+  ],
+  "description": "",
+  "comments": []
+}

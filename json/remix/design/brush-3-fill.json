@@ -1,0 +1,26 @@
+{
+  "name": "brush-3-fill",
+  "codepoint": "eaf8",
+  "title": "brush 3 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M20 11V8h-6V4h-4v4H4v3h16zm1 2v8a1 1 0 0 1-1 1H10v-6H8v6H4a1 1 0 0 1-1-1v-8H2V7a1 1 0 0 1 1-1h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v3h5a1 1 0 0 1 1 1v6h-1z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Design",
+      "titleZh": "设计",
+      "count": 80,
+      "name": "design"
+    }
+  ],
+  "dir": "design",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "刷子"
+  ],
+  "description": "",
+  "comments": []
+}

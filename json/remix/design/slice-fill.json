@@ -1,0 +1,29 @@
+{
+  "name": "slice-fill",
+  "codepoint": "f0a3",
+  "title": "slice fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M13.768 12.232l2.121 2.122c-4.596 4.596-10.253 6.01-13.788 5.303L17.657 4.1l2.121 2.12-6.01 6.011z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "knife",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Design",
+      "titleZh": "设计",
+      "count": 80,
+      "name": "design"
+    }
+  ],
+  "dir": "design",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "切图",
+    "切片",
+    "刀"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,30 @@
+{
+  "name": "terminal-window-line",
+  "codepoint": "f13a",
+  "title": "terminal window line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M20 9V5H4v4h16zm0 2H4v8h16v-8zM3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm2 9h3v5H5v-5zm0-6h2v2H5V6zm4 0h2v2H9V6z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "code",
+    "command line",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Development",
+      "titleZh": "开发",
+      "count": 24,
+      "name": "development"
+    }
+  ],
+  "dir": "development",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "终端",
+    "代码",
+    "命令行"
+  ],
+  "description": "",
+  "comments": []
+}

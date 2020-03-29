@@ -1,0 +1,28 @@
+{
+  "name": "windows-line",
+  "codepoint": "f1f4",
+  "title": "windows line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M11 5H5v6h6V5zm2 0v6h6V5h-6zm6 8h-6v6h6v-6zm-8 6v-6H5v6h6zM3 3h18v18H3V3z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "microsoft",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Logos",
+      "titleZh": "徽标",
+      "count": 83,
+      "name": "logos"
+    }
+  ],
+  "dir": "logos",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "窗户",
+    "微软"
+  ],
+  "description": "",
+  "comments": []
+}

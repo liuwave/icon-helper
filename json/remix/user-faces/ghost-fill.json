@@ -1,0 +1,30 @@
+{
+  "name": "ghost-fill",
+  "codepoint": "ed6f",
+  "title": "ghost fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M12 2a9 9 0 0 1 9 9v7.5a3.5 3.5 0 0 1-6.39 1.976 2.999 2.999 0 0 1-5.223 0 3.5 3.5 0 0 1-6.382-1.783L3 18.499V11a9 9 0 0 1 9-9zm0 10c-1.105 0-2 1.12-2 2.5s.895 2.5 2 2.5 2-1.12 2-2.5-.895-2.5-2-2.5zM9.5 8a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "horror",
+    "thriller",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "User&Faces",
+      "titleZh": "用户界面",
+      "count": 55,
+      "name": "user-faces"
+    }
+  ],
+  "dir": "user-faces",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "鬼怪",
+    "恐怖",
+    "恐惧"
+  ],
+  "description": "",
+  "comments": []
+}

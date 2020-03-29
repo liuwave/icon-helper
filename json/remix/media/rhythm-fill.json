@@ -1,0 +1,27 @@
+{
+  "name": "rhythm-fill",
+  "codepoint": "eff6",
+  "title": "rhythm fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M2 9h2v12H2V9zm6-6h2v18H8V3zm6 9h2v9h-2v-9zm6-6h2v15h-2V6z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Media",
+      "titleZh": "媒体",
+      "count": 92,
+      "name": "media"
+    }
+  ],
+  "dir": "media",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "节奏",
+    "韵律"
+  ],
+  "description": "",
+  "comments": []
+}

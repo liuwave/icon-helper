@@ -1,0 +1,30 @@
+{
+  "name": "file-chart-2-line",
+  "codepoint": "ec95",
+  "title": "file chart 2 line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path fill-rule=\"nonzero\" d=\"M15 4H5v16h14V8h-4V4zM3 2.992C3 2.444 3.447 2 3.999 2H16l5 5v13.993A1 1 0 0 1 20.007 22H3.993A1 1 0 0 1 3 21.008V2.992zM12 8v4h4a4 4 0 1 1-4-4z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "report",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Document",
+      "titleZh": "文档",
+      "count": 95,
+      "name": "document"
+    }
+  ],
+  "dir": "document",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "文件",
+    "文档",
+    "饼图",
+    "报表"
+  ],
+  "description": "",
+  "comments": []
+}

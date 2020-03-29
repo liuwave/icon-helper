@@ -1,0 +1,34 @@
+{
+  "name": "bank-card-2-line",
+  "codepoint": "ea8e",
+  "title": "bank card 2 line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm17 9H4v7h16v-7zm0-4V5H4v3h16z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "credit",
+    "purchase",
+    "payment",
+    "cc",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Finance",
+      "titleZh": "金融",
+      "count": 65,
+      "name": "finance"
+    }
+  ],
+  "dir": "finance",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "银行卡",
+    "信用卡",
+    "购买",
+    "消费",
+    "支付"
+  ],
+  "description": "",
+  "comments": []
+}

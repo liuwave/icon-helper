@@ -1,0 +1,30 @@
+{
+  "name": "terminal-window-fill",
+  "codepoint": "f139",
+  "title": "terminal window fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M20 10H4v9h16v-9zM3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm2 3v2h2V6H5zm4 0v2h2V6H9zm-4 5h3v5H5v-5z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "code",
+    "command line",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Development",
+      "titleZh": "开发",
+      "count": 24,
+      "name": "development"
+    }
+  ],
+  "dir": "development",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "终端",
+    "代码",
+    "命令行"
+  ],
+  "description": "",
+  "comments": []
+}

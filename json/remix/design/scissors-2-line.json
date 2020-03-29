@@ -1,0 +1,28 @@
+{
+  "name": "scissors-2-line",
+  "codepoint": "f025",
+  "title": "scissors 2 line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M12 13.414l-2.554 2.554a4 4 0 1 1-1.414-1.414L10.586 12 4.565 5.98a2 2 0 0 1 0-2.83L12 10.587l7.435-7.435a2 2 0 0 1 0 2.828L13.415 12l2.553 2.554a4 4 0 1 1-1.414 1.414L12 13.414zM6 20a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm12 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Design",
+      "titleZh": "设计",
+      "count": 80,
+      "name": "design"
+    }
+  ],
+  "dir": "design",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "剪刀",
+    "裁剪",
+    "截屏"
+  ],
+  "description": "",
+  "comments": []
+}

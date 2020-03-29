@@ -1,0 +1,26 @@
+{
+  "name": "pause-mini-fill",
+  "codepoint": "ef57",
+  "title": "pause mini fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M15 7a1 1 0 0 1 2 0v10a1 1 0 1 1-2 0V7zM7 7a1 1 0 1 1 2 0v10a1 1 0 1 1-2 0V7z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Media",
+      "titleZh": "媒体",
+      "count": 92,
+      "name": "media"
+    }
+  ],
+  "dir": "media",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "暂停"
+  ],
+  "description": "",
+  "comments": []
+}

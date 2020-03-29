@@ -1,0 +1,27 @@
+{
+  "name": "picture-in-picture-fill",
+  "codepoint": "ef71",
+  "title": "picture in picture fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path fill-rule=\"nonzero\" d=\"M21 3a1 1 0 0 1 1 1v7h-2V5H4v14h6v2H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18zm0 10a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-8a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1h8z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Media",
+      "titleZh": "媒体",
+      "count": 92,
+      "name": "media"
+    }
+  ],
+  "dir": "media",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "画中画",
+    "小窗"
+  ],
+  "description": "",
+  "comments": []
+}

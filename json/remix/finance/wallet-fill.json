@@ -1,0 +1,27 @@
+{
+  "name": "wallet-fill",
+  "codepoint": "f1db",
+  "title": "wallet fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M2 9h19a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V9zm1-6h15v4H2V4a1 1 0 0 1 1-1zm12 11v2h3v-2h-3z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Finance",
+      "titleZh": "金融",
+      "count": 65,
+      "name": "finance"
+    }
+  ],
+  "dir": "finance",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "钱包",
+    "卡包"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "coupon-5-fill",
+  "codepoint": "ebcd",
+  "title": "coupon 5 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M21 14v7a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-7a2 2 0 1 0 0-4V3a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v7a2 2 0 1 0 0 4zM9 6v2h6V6H9zm0 10v2h6v-2H9z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Finance",
+      "titleZh": "金融",
+      "count": 65,
+      "name": "finance"
+    }
+  ],
+  "dir": "finance",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "优惠券",
+    "代金券"
+  ],
+  "description": "",
+  "comments": []
+}

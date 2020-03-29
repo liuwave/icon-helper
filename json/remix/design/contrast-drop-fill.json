@@ -1,0 +1,33 @@
+{
+  "name": "contrast-drop-fill",
+  "codepoint": "ebbb",
+  "title": "contrast drop fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M5.636 6.636L12 .272l6.364 6.364a9 9 0 1 1-12.728 0zM7.05 8.05A7 7 0 0 0 12.004 20L12 3.1 7.05 8.05z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "water",
+    "brightness",
+    "tonalit",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Design",
+      "titleZh": "设计",
+      "count": 80,
+      "name": "design"
+    }
+  ],
+  "dir": "design",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "水",
+    "对比度",
+    "亮度",
+    "色调",
+    "滴"
+  ],
+  "description": "",
+  "comments": []
+}

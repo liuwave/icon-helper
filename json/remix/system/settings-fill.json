@@ -1,0 +1,31 @@
+{
+  "name": "settings-fill",
+  "codepoint": "f04f",
+  "title": "settings fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M12 1l9.5 5.5v11L12 23l-9.5-5.5v-11L12 1zm0 14a3 3 0 1 0 0-6 3 3 0 0 0 0 6z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "edit",
+    "gear",
+    "preferences",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "偏好设置",
+    "编辑",
+    "齿轮"
+  ],
+  "description": "",
+  "comments": []
+}

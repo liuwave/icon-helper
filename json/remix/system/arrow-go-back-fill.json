@@ -1,0 +1,30 @@
+{
+  "name": "arrow-go-back-fill",
+  "codepoint": "ea55",
+  "title": "arrow go back fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M8 7v4L2 6l6-5v4h5a8 8 0 1 1 0 16H4v-2h9a6 6 0 1 0 0-12H8z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "undo",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "箭头",
+    "返回",
+    "撤销",
+    "撤回"
+  ],
+  "description": "",
+  "comments": []
+}

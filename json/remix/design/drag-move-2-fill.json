@@ -1,0 +1,29 @@
+{
+  "name": "drag-move-2-fill",
+  "codepoint": "ec2b",
+  "title": "drag move 2 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M18 11V8l4 4-4 4v-3h-5v5h3l-4 4-4-4h3v-5H6v3l-4-4 4-4v3h5V6H8l4-4 4 4h-3v5z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "arrow",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Design",
+      "titleZh": "设计",
+      "count": 80,
+      "name": "design"
+    }
+  ],
+  "dir": "design",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "拖拽",
+    "移动",
+    "箭头"
+  ],
+  "description": "",
+  "comments": []
+}

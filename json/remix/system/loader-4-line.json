@@ -1,0 +1,33 @@
+{
+  "name": "loader-4-line",
+  "codepoint": "ee61",
+  "title": "loader 4 line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M18.364 5.636L16.95 7.05A7 7 0 1 0 19 12h2a9 9 0 1 1-2.636-6.364z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "loader",
+    "spinner",
+    "ajax",
+    "waiting",
+    "delay",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "加载中",
+    "载入中",
+    "正在加载"
+  ],
+  "description": "",
+  "comments": []
+}

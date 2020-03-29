@@ -1,0 +1,31 @@
+{
+  "name": "folder-chart-2-fill",
+  "codepoint": "ed1a",
+  "title": "folder chart 2 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M12.414 5H21a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h7.414l2 2zM12 9a4 4 0 1 0 4 4h-4V9z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "report",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Document",
+      "titleZh": "文档",
+      "count": 95,
+      "name": "document"
+    }
+  ],
+  "dir": "document",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "文件夹",
+    "目录",
+    "文档",
+    "饼图",
+    "报表"
+  ],
+  "description": "",
+  "comments": []
+}

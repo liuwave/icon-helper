@@ -1,0 +1,27 @@
+{
+  "name": "macbook-line",
+  "codepoint": "ee7d",
+  "title": "macbook line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M4 5v11h16V5H4zm-2-.993C2 3.451 2.455 3 2.992 3h18.016c.548 0 .992.449.992 1.007V18H2V4.007zM1 19h22v2H1v-2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "laptop",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Device",
+      "titleZh": "设备",
+      "count": 51,
+      "name": "device"
+    }
+  ],
+  "dir": "device",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "笔记本"
+  ],
+  "description": "",
+  "comments": []
+}

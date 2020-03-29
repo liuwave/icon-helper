@@ -1,0 +1,27 @@
+{
+  "name": "number-6",
+  "codepoint": "ef28",
+  "title": "number 6",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M14.886 2l-4.438 7.686A6.5 6.5 0 1 1 6.4 12.7L12.576 2h2.31zM12 11.5a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "6"
+  ],
+  "tags": [
+    {
+      "title": "Editor",
+      "titleZh": "编辑器",
+      "count": 71,
+      "name": "editor"
+    }
+  ],
+  "dir": "editor",
+  "style": "regular",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "六",
+    "数字"
+  ],
+  "description": "",
+  "comments": []
+}

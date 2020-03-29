@@ -1,0 +1,29 @@
+{
+  "name": "home-6-fill",
+  "codepoint": "edcb",
+  "title": "home 6 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M21 20a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.49a1 1 0 0 1 .386-.79l8-6.222a1 1 0 0 1 1.228 0l8 6.222a1 1 0 0 1 .386.79V20zM7 15v2h10v-2H7z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "house",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Buildings",
+      "titleZh": "建筑物",
+      "count": 27,
+      "name": "buildings"
+    }
+  ],
+  "dir": "buildings",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "房子",
+    "家",
+    "主页"
+  ],
+  "description": "",
+  "comments": []
+}

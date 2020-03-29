@@ -1,0 +1,26 @@
+{
+  "name": "vuejs-fill",
+  "codepoint": "f1d3",
+  "title": "vuejs fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M1 3h4l7 12 7-12h4L12 22 1 3zm8.667 0L12 7l2.333-4h4.035L12 14 5.632 3h4.035z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "vue",
+    "programing framework",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Logos",
+      "titleZh": "徽标",
+      "count": 83,
+      "name": "logos"
+    }
+  ],
+  "dir": "logos",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [],
+  "description": "",
+  "comments": []
+}

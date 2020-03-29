@@ -1,0 +1,28 @@
+{
+  "name": "windows-fill",
+  "codepoint": "f1f3",
+  "title": "windows fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M11.5 3v8.5H3V3h8.5zm0 18H3v-8.5h8.5V21zm1-18H21v8.5h-8.5V3zm8.5 9.5V21h-8.5v-8.5H21z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "microsoft",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Logos",
+      "titleZh": "徽标",
+      "count": 83,
+      "name": "logos"
+    }
+  ],
+  "dir": "logos",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "窗户",
+    "微软"
+  ],
+  "description": "",
+  "comments": []
+}

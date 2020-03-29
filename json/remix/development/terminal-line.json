@@ -1,0 +1,30 @@
+{
+  "name": "terminal-line",
+  "codepoint": "f138",
+  "title": "terminal line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M11 12l-7.071 7.071-1.414-1.414L8.172 12 2.515 6.343 3.929 4.93 11 12zm0 7h10v2H11v-2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "code",
+    "command line",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Development",
+      "titleZh": "开发",
+      "count": 24,
+      "name": "development"
+    }
+  ],
+  "dir": "development",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "终端",
+    "代码",
+    "命令行"
+  ],
+  "description": "",
+  "comments": []
+}

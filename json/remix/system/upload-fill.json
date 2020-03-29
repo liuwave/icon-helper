@@ -1,0 +1,26 @@
+{
+  "name": "upload-fill",
+  "codepoint": "f189",
+  "title": "upload fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M3 19h18v2H3v-2zm10-9v8h-2v-8H4l8-8 8 8h-7z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "上传"
+  ],
+  "description": "",
+  "comments": []
+}

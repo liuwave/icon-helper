@@ -1,0 +1,29 @@
+{
+  "name": "chat-download-line",
+  "codepoint": "eb4b",
+  "title": "chat download line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M6.455 19L2 22.5V4a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H6.455zM4 18.385L5.763 17H20V5H4v13.385zM13 11h3l-4 4-4-4h3V7h2v4z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "message",
+    "comment",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Communication",
+      "titleZh": "交流",
+      "count": 25,
+      "name": "communication"
+    }
+  ],
+  "dir": "communication",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "消息",
+    "下载"
+  ],
+  "description": "",
+  "comments": []
+}

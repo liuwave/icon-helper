@@ -1,0 +1,28 @@
+{
+  "name": "article-line",
+  "codepoint": "ea7c",
+  "title": "article line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M20 22H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1zm-1-2V4H5v16h14zM7 6h4v4H7V6zm0 6h10v2H7v-2zm0 4h10v2H7v-2zm6-9h4v2h-4V7z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "newspaper",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Document",
+      "titleZh": "文档",
+      "count": 95,
+      "name": "document"
+    }
+  ],
+  "dir": "document",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "文章",
+    "报纸"
+  ],
+  "description": "",
+  "comments": []
+}

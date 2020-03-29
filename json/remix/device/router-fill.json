@@ -1,0 +1,34 @@
+{
+  "name": "router-fill",
+  "codepoint": "f008",
+  "title": "router fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M11 14v-3h2v3h5a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1h5zM2.51 8.837C3.835 4.864 7.584 2 12 2s8.166 2.864 9.49 6.837l-1.898.632a8.003 8.003 0 0 0-15.184 0l-1.897-.632zm3.796 1.265a6.003 6.003 0 0 1 11.388 0l-1.898.633a4.002 4.002 0 0 0-7.592 0l-1.898-.633z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "wifi",
+    "signal tower",
+    "radio",
+    "station",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Device",
+      "titleZh": "设备",
+      "count": 51,
+      "name": "device"
+    }
+  ],
+  "dir": "device",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "路由器",
+    "信号塔",
+    "广播",
+    "基站",
+    "流量"
+  ],
+  "description": "",
+  "comments": []
+}

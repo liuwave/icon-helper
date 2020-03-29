@@ -1,0 +1,25 @@
+{
+  "name": "font-size",
+  "codepoint": "ed4a",
+  "title": "font size",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M11.246 15H4.754l-2 5H.6L7 4h2l6.4 16h-2.154l-2-5zm-.8-2L8 6.885 5.554 13h4.892zM21 12.535V12h2v8h-2v-.535a4 4 0 1 1 0-6.93zM19 18a2 2 0 1 0 0-4 2 2 0 0 0 0 4z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [],
+  "tags": [
+    {
+      "title": "Editor",
+      "titleZh": "编辑器",
+      "count": 71,
+      "name": "editor"
+    }
+  ],
+  "dir": "editor",
+  "style": "regular",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "字号",
+    "字体大小"
+  ],
+  "description": "",
+  "comments": []
+}

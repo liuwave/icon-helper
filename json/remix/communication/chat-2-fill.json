@@ -1,0 +1,32 @@
+{
+  "name": "chat-2-fill",
+  "codepoint": "eb40",
+  "title": "chat 2 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M14.45 19L12 22.5 9.55 19H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1h-6.55z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "message",
+    "reply",
+    "comment",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Communication",
+      "titleZh": "交流",
+      "count": 25,
+      "name": "communication"
+    }
+  ],
+  "dir": "communication",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "消息",
+    "聊天",
+    "回复",
+    "评论"
+  ],
+  "description": "",
+  "comments": []
+}

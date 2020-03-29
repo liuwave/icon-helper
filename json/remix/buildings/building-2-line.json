@@ -1,0 +1,33 @@
+{
+  "name": "building-2-line",
+  "codepoint": "eb03",
+  "title": "building 2 line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M3 19V5.7a1 1 0 0 1 .658-.94l9.671-3.516a.5.5 0 0 1 .671.47v4.953l6.316 2.105a1 1 0 0 1 .684.949V19h2v2H1v-2h2zm2 0h7V3.855L5 6.401V19zm14 0v-8.558l-5-1.667V19h5z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "city",
+    "office",
+    "construction",
+    "enterprise",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Buildings",
+      "titleZh": "建筑物",
+      "count": 27,
+      "name": "buildings"
+    }
+  ],
+  "dir": "buildings",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "城市",
+    "建筑",
+    "楼",
+    "企业"
+  ],
+  "description": "",
+  "comments": []
+}

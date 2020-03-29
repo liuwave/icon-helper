@@ -1,0 +1,26 @@
+{
+  "name": "pushpin-2-line",
+  "codepoint": "efab",
+  "title": "pushpin 2 line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M18 3v2h-1v6l2 3v2h-6v7h-2v-7H5v-2l2-3V5H6V3h12zM9 5v6.606L7.404 14h9.192L15 11.606V5H9z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Map",
+      "titleZh": "地图",
+      "count": 79,
+      "name": "map"
+    }
+  ],
+  "dir": "map",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "图钉"
+  ],
+  "description": "",
+  "comments": []
+}

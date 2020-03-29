@@ -1,0 +1,31 @@
+{
+  "name": "bar-chart-line",
+  "codepoint": "ea9c",
+  "title": "bar chart line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M3 12h2v9H3v-9zm16-4h2v13h-2V8zm-8-6h2v19h-2V2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "statistics",
+    "rhythm",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Business",
+      "titleZh": "商业",
+      "count": 81,
+      "name": "business"
+    }
+  ],
+  "dir": "business",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "柱状图",
+    "统计",
+    "韵律",
+    "节奏"
+  ],
+  "description": "",
+  "comments": []
+}

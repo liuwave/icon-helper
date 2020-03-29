@@ -1,0 +1,31 @@
+{
+  "name": "flag-2-line",
+  "codepoint": "ecf9",
+  "title": "flag 2 line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M4 17v5H2V3h19.138a.5.5 0 0 1 .435.748L18 10l3.573 6.252a.5.5 0 0 1-.435.748H4zM4 5v10h14.554l-2.858-5 2.858-5H4z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "banner",
+    "pin",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Business",
+      "titleZh": "商业",
+      "count": 81,
+      "name": "business"
+    }
+  ],
+  "dir": "business",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "旗帜",
+    "旗子",
+    "国旗",
+    "标记"
+  ],
+  "description": "",
+  "comments": []
+}

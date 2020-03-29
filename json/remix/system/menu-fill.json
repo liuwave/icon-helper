@@ -1,0 +1,30 @@
+{
+  "name": "menu-fill",
+  "codepoint": "eecc",
+  "title": "menu fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M3 4h18v2H3V4zm0 7h18v2H3v-2zm0 7h18v2H3v-2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "navigation",
+    "hamburger",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "导航",
+    "菜单",
+    "汉堡包"
+  ],
+  "description": "",
+  "comments": []
+}

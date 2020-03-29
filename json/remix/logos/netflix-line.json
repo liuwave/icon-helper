@@ -1,0 +1,26 @@
+{
+  "name": "netflix-line",
+  "codepoint": "ef13",
+  "title": "netflix line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M15.984 17.208L16 2h2v20a7.593 7.593 0 0 0-2.02-.5L8 6.302V21.5a7.335 7.335 0 0 0-2 .5V2h2l7.984 15.208z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Logos",
+      "titleZh": "徽标",
+      "count": 83,
+      "name": "logos"
+    }
+  ],
+  "dir": "logos",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "网飞"
+  ],
+  "description": "",
+  "comments": []
+}

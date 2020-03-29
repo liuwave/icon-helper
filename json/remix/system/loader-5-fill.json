@@ -1,0 +1,33 @@
+{
+  "name": "loader-5-fill",
+  "codepoint": "ee62",
+  "title": "loader 5 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M12 3a9 9 0 0 1 9 9h-2a7 7 0 0 0-7-7V3z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "loader",
+    "spinner",
+    "ajax",
+    "waiting",
+    "delay",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "加载中",
+    "载入中",
+    "正在加载"
+  ],
+  "description": "",
+  "comments": []
+}

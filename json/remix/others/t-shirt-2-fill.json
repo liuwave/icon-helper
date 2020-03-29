@@ -1,0 +1,30 @@
+{
+  "name": "t-shirt-2-fill",
+  "codepoint": "f114",
+  "title": "t shirt 2 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M21 3a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1h-2.001L19 20a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1l-.001-8.001L3 12a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h6a3 3 0 0 0 6 0h6z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "skin",
+    "theme",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Others",
+      "titleZh": "其他",
+      "count": 34,
+      "name": "others"
+    }
+  ],
+  "dir": "others",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "T恤",
+    "皮肤",
+    "主题"
+  ],
+  "description": "",
+  "comments": []
+}

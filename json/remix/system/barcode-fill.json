@@ -1,0 +1,29 @@
+{
+  "name": "barcode-fill",
+  "codepoint": "ea9f",
+  "title": "barcode fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M2 4h2v16H2V4zm4 0h2v16H6V4zm3 0h3v16H9V4zm4 0h2v16h-2V4zm3 0h2v16h-2V4zm3 0h3v16h-3V4z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "scan",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "扫码",
+    "条形码",
+    "条码"
+  ],
+  "description": "",
+  "comments": []
+}

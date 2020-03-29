@@ -1,0 +1,28 @@
+{
+  "name": "filter-fill",
+  "codepoint": "ecec",
+  "title": "filter fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M14 15v7h-4v-7L5.333 8h13.334L14 15zm7-9H3V4h18v2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "filtration",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "筛选",
+    "过滤"
+  ],
+  "description": "",
+  "comments": []
+}

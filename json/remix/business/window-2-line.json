@@ -1,0 +1,32 @@
+{
+  "name": "window-2-line",
+  "codepoint": "f1f0",
+  "title": "window 2 line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm17 8H4v8h16v-8zm0-2V5H4v4h16zm-5-3h4v2h-4V6z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "browser",
+    "program",
+    "web",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Business",
+      "titleZh": "商业",
+      "count": 81,
+      "name": "business"
+    }
+  ],
+  "dir": "business",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "窗口",
+    "浏览器",
+    "程序",
+    "网站"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,32 @@
+{
+  "name": "building-3-fill",
+  "codepoint": "eb04",
+  "title": "building 3 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M10 10.111V1l11 6v14H3V7z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "factory",
+    "plant",
+    "enterprise",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Buildings",
+      "titleZh": "建筑物",
+      "count": 27,
+      "name": "buildings"
+    }
+  ],
+  "dir": "buildings",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "工厂",
+    "建筑",
+    "楼",
+    "企业"
+  ],
+  "description": "",
+  "comments": []
+}

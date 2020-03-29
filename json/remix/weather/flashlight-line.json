@@ -1,0 +1,26 @@
+{
+  "name": "flashlight-line",
+  "codepoint": "ecfd",
+  "title": "flashlight line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path fill-rule=\"nonzero\" d=\"M13 9h8L11 24v-9H4l9-15v9zm-2 2V7.22L7.532 13H13v4.394L17.263 11H11z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Weather",
+      "titleZh": "天气",
+      "count": 35,
+      "name": "weather"
+    }
+  ],
+  "dir": "weather",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "闪电"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "code-view",
+  "codepoint": "eb94",
+  "title": "code view",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M16.95 8.464l1.414-1.414 4.95 4.95-4.95 4.95-1.414-1.414L20.485 12 16.95 8.464zm-9.9 0L3.515 12l3.535 3.536-1.414 1.414L.686 12l4.95-4.95L7.05 8.464z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [],
+  "tags": [
+    {
+      "title": "Editor",
+      "titleZh": "编辑器",
+      "count": 71,
+      "name": "editor"
+    }
+  ],
+  "dir": "editor",
+  "style": "regular",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "代码视图"
+  ],
+  "description": "",
+  "comments": []
+}

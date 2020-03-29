@@ -1,0 +1,29 @@
+{
+  "name": "file-paper-line",
+  "codepoint": "ecc1",
+  "title": "file paper line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M17 17v2a1 1 0 0 0 2 0V4H5v11H3V3a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v16a3 3 0 0 1-3 3H4a3 3 0 0 1-3-3v-2h16z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Document",
+      "titleZh": "文档",
+      "count": 95,
+      "name": "document"
+    }
+  ],
+  "dir": "document",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "文件",
+    "文档",
+    "纸",
+    "谱"
+  ],
+  "description": "",
+  "comments": []
+}

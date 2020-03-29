@@ -1,0 +1,31 @@
+{
+  "name": "book-read-fill",
+  "codepoint": "eada",
+  "title": "book read fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M2 3.993A1 1 0 0 1 2.992 3h18.016c.548 0 .992.445.992.993v16.014a1 1 0 0 1-.992.993H2.992A.993.993 0 0 1 2 20.007V3.993zM12 5v14h8V5h-8zm1 2h6v2h-6V7zm0 3h6v2h-6v-2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "booklet",
+    "magazine",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Document",
+      "titleZh": "文档",
+      "count": 95,
+      "name": "document"
+    }
+  ],
+  "dir": "document",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "书",
+    "阅读",
+    "小册子",
+    "杂志"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "strikethrough-2",
+  "codepoint": "f0f6",
+  "title": "strikethrough 2",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M13 9h-2V6H5V4h14v2h-6v3zm0 6v5h-2v-5h2zM3 11h18v2H3v-2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "remove formatting"
+  ],
+  "tags": [
+    {
+      "title": "Editor",
+      "titleZh": "编辑器",
+      "count": 71,
+      "name": "editor"
+    }
+  ],
+  "dir": "editor",
+  "style": "regular",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "删除线"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,34 @@
+{
+  "name": "slideshow-3-fill",
+  "codepoint": "f0a7",
+  "title": "slideshow 3 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M13 18v2h4v2H7v-2h4v-2H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-8zM10 7.5v6l5-3-5-3z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "presentation",
+    "meeting",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Business",
+      "titleZh": "商业",
+      "count": 81,
+      "name": "business"
+    }
+  ],
+  "dir": "business",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "投影",
+    "放映",
+    "演示",
+    "演讲",
+    "视频会议",
+    "幻灯片",
+    "会议室"
+  ],
+  "description": "",
+  "comments": []
+}

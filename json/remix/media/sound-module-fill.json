@@ -1,0 +1,33 @@
+{
+  "name": "sound-module-fill",
+  "codepoint": "f0b3",
+  "title": "sound module fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M21 18v3h-2v-3h-2v-3h6v3h-2zM5 18v3H3v-3H1v-3h6v3H5zm6-12V3h2v3h2v3H9V6h2zm0 5h2v10h-2V11zm-8 2V3h2v10H3zm16 0V3h2v10h-2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "sliders",
+    "controls",
+    "settings",
+    "filter",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Media",
+      "titleZh": "媒体",
+      "count": 92,
+      "name": "media"
+    }
+  ],
+  "dir": "media",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "均衡器",
+    "控制器",
+    "设置",
+    "筛选"
+  ],
+  "description": "",
+  "comments": []
+}

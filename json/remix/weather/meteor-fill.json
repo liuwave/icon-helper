@@ -1,0 +1,27 @@
+{
+  "name": "meteor-fill",
+  "codepoint": "eed6",
+  "title": "meteor fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M21 1v12A9 9 0 1 1 7.375 5.278L14 1.453v2.77L21 1zm-9 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Weather",
+      "titleZh": "天气",
+      "count": 35,
+      "name": "weather"
+    }
+  ],
+  "dir": "weather",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "流星",
+    "陨石"
+  ],
+  "description": "",
+  "comments": []
+}

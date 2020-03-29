@@ -1,0 +1,28 @@
+{
+  "name": "fullscreen-fill",
+  "codepoint": "ed56",
+  "title": "fullscreen fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M16 3h6v6h-2V5h-4V3zM2 3h6v2H4v4H2V3zm18 16v-4h2v6h-6v-2h4zM4 19h4v2H2v-6h2v4z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "maximize",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Media",
+      "titleZh": "媒体",
+      "count": 92,
+      "name": "media"
+    }
+  ],
+  "dir": "media",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "全屏",
+    "最大化"
+  ],
+  "description": "",
+  "comments": []
+}

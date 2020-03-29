@@ -1,0 +1,32 @@
+{
+  "name": "map-2-fill",
+  "codepoint": "ee9a",
+  "title": "map 2 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M2 5l7-3 6 3 6.303-2.701a.5.5 0 0 1 .697.46V19l-7 3-6-3-6.303 2.701a.5.5 0 0 1-.697-.46V5zm13 14.764V7.176l-.065.028L9 4.236v12.588l.065-.028L15 19.764z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "location",
+    "navigation",
+    "travel",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Map",
+      "titleZh": "地图",
+      "count": 79,
+      "name": "map"
+    }
+  ],
+  "dir": "map",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "地图",
+    "定位",
+    "导航",
+    "旅行"
+  ],
+  "description": "",
+  "comments": []
+}

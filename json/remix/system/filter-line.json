@@ -1,0 +1,28 @@
+{
+  "name": "filter-line",
+  "codepoint": "eced",
+  "title": "filter line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path fill-rule=\"nonzero\" d=\"M9 13.5L4 6H3V4h18v2h-1l-5 7.5V22H9v-8.5zM6.404 6L11 12.894V20h2v-7.106L17.596 6H6.404z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "filtration",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "筛选",
+    "过滤"
+  ],
+  "description": "",
+  "comments": []
+}

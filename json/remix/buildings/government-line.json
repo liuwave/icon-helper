@@ -1,0 +1,29 @@
+{
+  "name": "government-line",
+  "codepoint": "ed94",
+  "title": "government line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M20 6h3v2h-1v11h1v2H1v-2h1V8H1V6h3V4a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v2zm0 2H4v11h3v-7h2v7h2v-7h2v7h2v-7h2v7h3V8zM6 5v1h12V5H6z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "building",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Buildings",
+      "titleZh": "建筑物",
+      "count": 27,
+      "name": "buildings"
+    }
+  ],
+  "dir": "buildings",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "政府",
+    "建筑",
+    "大会堂"
+  ],
+  "description": "",
+  "comments": []
+}

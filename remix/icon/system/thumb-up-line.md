@@ -1,0 +1,80 @@
+---
+
+title: thumb up line(喜欢) ICON转svg、png下载
+name: thumb-up-line
+zhTips: 喜欢,好
+tags: ["system"]
+search: like,good,line
+
+---
+
+# thumb up line  <small style="font-size: 60%;font-weight: 100">喜欢</small>
+
+
+<div class="detail-page">
+<p>
+<span><span class="badge-success badge">免费图标</span> </span>
+<br/>
+<span>
+ICON库：
+<span class="badge-secondary badge">Remix Icon</span> 
+</span>
+<br/>
+<span>
+CSS名称：
+<span class="badge-secondary badge">ri-thumb-up-line</span> 
+</span>
+<br/>
+<span>
+unicode：
+<span class="badge-secondary badge">f143</span> 
+<copy-btn content='f143' btn-title=""></copy-btn>
+<copy-btn :content='String.fromCodePoint(parseInt("f143", 16))' btn-title="复制U"></copy-btn>
+</span><br/><span>样式：<span class="badge-light badge">常规(regular)</span></span>
+<br/>
+<span>
+版本：
+<span class="badge-secondary badge">2.3.0</span> 
+</span><br/><span>标签：<span class="badge-light badge"><router-link to="/tags/system.html">系统</router-link></span></span>
+<br/>
+<span>图标来源/作者：<span class="badge-light badge">Remix Design Studio</span></span> 
+<br/>
+<span>别名：<span class="badge-light badge">like</span><span class="badge-light badge">good</span><span class="badge-light badge">line</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">喜欢</span><span class="badge-primary badge">好</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/system/thumb-up-line.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/system/thumb-up-line.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+</p>
+</div>
+<div class="alert alert-dark">
+  <i class="ri-thumb-up-line ri-xs"></i>
+  <i class="ri-thumb-up-line ri-sm"></i>
+  <i class="ri-thumb-up-line ri-lg"></i>
+  <i class="ri-thumb-up-line ri-2x"></i>
+  <i class="ri-thumb-up-line ri-3x"></i>
+  <i class="ri-thumb-up-line ri-5x"></i>
+  <i class="ri-thumb-up-line ri-7x"></i>
+</div>
+<div>
+  <p>引入css文件后，可以用<code>&lt;span&gt;</code>包裹，放在页面中。具体如下所示：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;span class="ri-thumb-up-line" aria-hidden="true"&gt;&lt;/span&gt;
+    <copy-btn content='<span class="ri-thumb-up-line" aria-hidden="true"></span>'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <i class="ri-thumb-up-line"
+    style="font-size: 24px"
+    aria-hidden="true"></i> ri-thumb-up-line
+    <copy-btn content="ri-thumb-up-line" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+<div id="svg" class="svg-wrap">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <g>
+        <path fill="none" d="M0 0h24v24H0z"/>
+        <path d="M14.6 8H21a2 2 0 0 1 2 2v2.104a2 2 0 0 1-.15.762l-3.095 7.515a1 1 0 0 1-.925.619H2a1 1 0 0 1-1-1V10a1 1 0 0 1 1-1h3.482a1 1 0 0 0 .817-.423L11.752.85a.5.5 0 0 1 .632-.159l1.814.907a2.5 2.5 0 0 1 1.305 2.853L14.6 8zM7 10.588V19h11.16L21 12.104V10h-6.4a2 2 0 0 1-1.938-2.493l.903-3.548a.5.5 0 0 0-.261-.571l-.661-.33-4.71 6.672c-.25.354-.57.644-.933.858zM5 11H3v8h2v-8z"/>
+    </g>
+</svg>
+
+</div>
+<detail full-name='ri-thumb-up-line'></detail>
+    
+<div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
+</p></div>

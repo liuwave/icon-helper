@@ -1,0 +1,30 @@
+{
+  "name": "add-line",
+  "codepoint": "ea11",
+  "title": "add line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M11 11V5h2v6h6v2h-6v6h-2v-6H5v-2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "plus",
+    "new",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "添加",
+    "新增",
+    "加号"
+  ],
+  "description": "",
+  "comments": []
+}

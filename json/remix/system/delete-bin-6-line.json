@@ -1,0 +1,34 @@
+{
+  "name": "delete-bin-6-line",
+  "codepoint": "ec04",
+  "title": "delete bin 6 line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M7 4V2h10v2h5v2h-2v15a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6H2V4h5zM6 6v14h12V6H6zm3 3h2v8H9V9zm4 0h2v8h-2V9z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "trash",
+    "remove",
+    "garbage",
+    "dustbin",
+    "uninstall",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "ash-bin",
+    "卸载",
+    "删除",
+    "垃圾桶"
+  ],
+  "description": "",
+  "comments": []
+}

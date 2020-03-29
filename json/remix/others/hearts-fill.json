@@ -1,0 +1,29 @@
+{
+  "name": "hearts-fill",
+  "codepoint": "edbf",
+  "title": "hearts fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M10.817 4.454l.183.175a6 6 0 0 1 10.231 3.875 5.507 5.507 0 0 0-4.119.534L17 9.104l-.112-.067a5.5 5.5 0 0 0-6.605 8.673l2.302 2.304L11 21.6l-8.485-8.485a6 6 0 0 1 8.302-8.661zm11.486 6.893a3.5 3.5 0 0 1 0 4.95L17 21.6l-5.303-5.303a3.5 3.5 0 1 1 4.95-4.95L17 11.7l.354-.353a3.5 3.5 0 0 1 4.95 0z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "romance",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Others",
+      "titleZh": "其他",
+      "count": 34,
+      "name": "others"
+    }
+  ],
+  "dir": "others",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "爱情",
+    "浪漫",
+    "心"
+  ],
+  "description": "",
+  "comments": []
+}

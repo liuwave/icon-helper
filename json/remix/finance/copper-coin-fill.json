@@ -1,0 +1,32 @@
+{
+  "name": "copper-coin-fill",
+  "codepoint": "ebbf",
+  "title": "copper coin fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm0-14.243L7.757 12 12 16.243 16.243 12 12 7.757z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "currency",
+    "payment",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Finance",
+      "titleZh": "金融",
+      "count": 65,
+      "name": "finance"
+    }
+  ],
+  "dir": "finance",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "铜币",
+    "硬币",
+    "货币",
+    "钱",
+    "支付"
+  ],
+  "description": "",
+  "comments": []
+}

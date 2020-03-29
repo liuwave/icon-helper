@@ -1,0 +1,29 @@
+{
+  "name": "goblet-fill",
+  "codepoint": "ed8d",
+  "title": "goblet fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M11 19v-5.111L3 5V3h18v2l-8 8.889V19h5v2H6v-2h5zM7.49 7h9.02l1.8-2H5.69l1.8 2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "cup",
+    "wine glass",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Map",
+      "titleZh": "地图",
+      "count": 79,
+      "name": "map"
+    }
+  ],
+  "dir": "map",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "高脚杯",
+    "酒杯"
+  ],
+  "description": "",
+  "comments": []
+}

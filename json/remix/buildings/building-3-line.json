@@ -1,0 +1,32 @@
+{
+  "name": "building-3-line",
+  "codepoint": "eb05",
+  "title": "building 3 line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M10 10.111V1l11 6v14H3V7l7 3.111zm2-5.742v8.82l-7-3.111V19h14V8.187L12 4.37z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "factory",
+    "plant",
+    "enterprise",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Buildings",
+      "titleZh": "建筑物",
+      "count": 27,
+      "name": "buildings"
+    }
+  ],
+  "dir": "buildings",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "工厂",
+    "建筑",
+    "楼",
+    "企业"
+  ],
+  "description": "",
+  "comments": []
+}

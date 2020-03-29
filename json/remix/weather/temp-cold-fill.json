@@ -1,0 +1,29 @@
+{
+  "name": "temp-cold-fill",
+  "codepoint": "f131",
+  "title": "temp cold fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M8 10.255V5a4 4 0 1 1 8 0v5.255a7 7 0 1 1-8 0zM8 16a4 4 0 1 0 8 0H8z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "temperature",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Weather",
+      "titleZh": "天气",
+      "count": 35,
+      "name": "weather"
+    }
+  ],
+  "dir": "weather",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "温度",
+    "低温",
+    "冷"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,31 @@
+{
+  "name": "folder-transfer-fill",
+  "codepoint": "ed3a",
+  "title": "folder transfer fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M12.414 5H21a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h7.414l2 2zM12 12H8v2h4v3l4-4-4-4v3z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "directory",
+    "file",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Document",
+      "titleZh": "文档",
+      "count": 95,
+      "name": "document"
+    }
+  ],
+  "dir": "document",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "文件夹",
+    "目录",
+    "文档",
+    "传输"
+  ],
+  "description": "",
+  "comments": []
+}

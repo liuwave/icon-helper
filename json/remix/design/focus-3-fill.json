@@ -1,0 +1,32 @@
+{
+  "name": "focus-3-fill",
+  "codepoint": "ed0a",
+  "title": "focus 3 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M13 1l.001 3.062A8.004 8.004 0 0 1 19.938 11H23v2l-3.062.001a8.004 8.004 0 0 1-6.937 6.937L13 23h-2v-3.062a8.004 8.004 0 0 1-6.938-6.937L1 13v-2h3.062A8.004 8.004 0 0 1 11 4.062V1h2zm-1 9a2 2 0 1 0 0 4 2 2 0 0 0 0-4z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "aim",
+    "target",
+    "bullseye",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Design",
+      "titleZh": "设计",
+      "count": 80,
+      "name": "design"
+    }
+  ],
+  "dir": "design",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "焦点",
+    "聚焦",
+    "目标",
+    "靶心"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,26 @@
+{
+  "name": "drizzle-fill",
+  "codepoint": "ec33",
+  "title": "drizzle fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M11 18v3H9v-3a8 8 0 1 1 7.458-10.901A5.5 5.5 0 1 1 17.5 18H11zm2 2h2v3h-2v-3z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Weather",
+      "titleZh": "天气",
+      "count": 35,
+      "name": "weather"
+    }
+  ],
+  "dir": "weather",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "小雨"
+  ],
+  "description": "",
+  "comments": []
+}

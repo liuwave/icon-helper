@@ -1,0 +1,28 @@
+{
+  "name": "brackets-line",
+  "codepoint": "eae9",
+  "title": "brackets line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M9 3v2H6v14h3v2H4V3h5zm6 0h5v18h-5v-2h3V5h-3V3z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "code",
+    "math",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Development",
+      "titleZh": "开发",
+      "count": 24,
+      "name": "development"
+    }
+  ],
+  "dir": "development",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "中括号"
+  ],
+  "description": "",
+  "comments": []
+}

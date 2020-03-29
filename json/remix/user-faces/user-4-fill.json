@@ -1,0 +1,26 @@
+{
+  "name": "user-4-fill",
+  "codepoint": "f18f",
+  "title": "user 4 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M5 20h14v2H5v-2zm7-2a8 8 0 1 1 0-16 8 8 0 0 1 0 16z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "User&Faces",
+      "titleZh": "用户界面",
+      "count": 55,
+      "name": "user-faces"
+    }
+  ],
+  "dir": "user-faces",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "用户"
+  ],
+  "description": "",
+  "comments": []
+}

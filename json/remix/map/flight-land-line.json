@@ -1,0 +1,33 @@
+{
+  "name": "flight-land-line",
+  "codepoint": "ed01",
+  "title": "flight land line",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M10.254 10.47l-.37-8.382 1.933.518 2.81 9.035 5.261 1.41a1.5 1.5 0 1 1-.776 2.898L4.14 11.937l.776-2.898.242.065.914 3.35-2.627-.703a1 1 0 0 1-.74-.983l.09-5.403 1.449.388.914 3.351 5.096 1.366zM4 19h16v2H4v-2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "airplane",
+    "plane",
+    "destination",
+    "line"
+  ],
+  "tags": [
+    {
+      "title": "Map",
+      "titleZh": "地图",
+      "count": 79,
+      "name": "map"
+    }
+  ],
+  "dir": "map",
+  "style": "line",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "着陆",
+    "到达",
+    "抵达",
+    "终点",
+    "飞机"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,31 @@
+{
+  "name": "hard-drive-2-fill",
+  "codepoint": "edab",
+  "title": "hard drive 2 fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M21 3v18a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1zM5 16v4h14v-4H5zm10 1h2v2h-2v-2z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "disc",
+    "server",
+    "storage",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Device",
+      "titleZh": "设备",
+      "count": 51,
+      "name": "device"
+    }
+  ],
+  "dir": "device",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "硬盘",
+    "服务器",
+    "存储"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "arrow-right-down-fill",
+  "codepoint": "ea67",
+  "title": "arrow right down fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M11.637 13.05L5.98 7.395 7.394 5.98l5.657 5.657L18 6.687V18H6.687z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "corner",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "右下"
+  ],
+  "description": "",
+  "comments": []
+}

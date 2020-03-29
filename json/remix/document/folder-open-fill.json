@@ -1,0 +1,31 @@
+{
+  "name": "folder-open-fill",
+  "codepoint": "ed2c",
+  "title": "folder open fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M3 21a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h7.414l2 2H20a1 1 0 0 1 1 1v3H4v9.996L6 11h16.5l-2.31 9.243a1 1 0 0 1-.97.757H3z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "directory",
+    "file",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Document",
+      "titleZh": "文档",
+      "count": 95,
+      "name": "document"
+    }
+  ],
+  "dir": "document",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "文件夹",
+    "目录",
+    "文档",
+    "打开"
+  ],
+  "description": "",
+  "comments": []
+}

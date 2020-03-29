@@ -1,0 +1,28 @@
+{
+  "name": "fullscreen-exit-fill",
+  "codepoint": "ed54",
+  "title": "fullscreen exit fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M18 7h4v2h-6V3h2v4zM8 9H2V7h4V3h2v6zm10 8v4h-2v-6h6v2h-4zM8 15v6H6v-4H2v-2h6z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "minimize",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "Media",
+      "titleZh": "媒体",
+      "count": 92,
+      "name": "media"
+    }
+  ],
+  "dir": "media",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "退出全屏",
+    "最小化"
+  ],
+  "description": "",
+  "comments": []
+}

@@ -1,0 +1,32 @@
+{
+  "name": "arrow-up-down-fill",
+  "codepoint": "ea71",
+  "title": "arrow up down fill",
+  "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\">\r\n    <g>\r\n        <path fill=\"none\" d=\"M0 0h24v24H0z\"/>\r\n        <path d=\"M12 8H8.001L8 20H6V8H2l5-5 5 5zm10 8l-5 5-5-5h4V4h2v12h4z\"/>\r\n    </g>\r\n</svg>\r\n",
+  "aliases": [
+    "exchange",
+    "swap",
+    "fill"
+  ],
+  "tags": [
+    {
+      "title": "System",
+      "titleZh": "系统",
+      "count": 166,
+      "name": "system"
+    }
+  ],
+  "dir": "system",
+  "style": "fill",
+  "author": "Remix Design Studio",
+  "version": "2.3.0",
+  "zhs": [
+    "箭头",
+    "上下",
+    "交换",
+    "换算",
+    "兑换"
+  ],
+  "description": "",
+  "comments": []
+}
