@@ -31,6 +31,14 @@ footer: MIT Licensed | Copyright © 2020-present liuwave
         class="d-inline-block rounded border border-primary"         
         to="fontawesome.html">Font Awesome Icon教程</router-link>
   </div>
+<div class="col-12 col-sm-12 col-md-4">    
+  <a style="width: 100%;height: 60px;line-height: 60px;text-align: center;overflow: hidden"
+   class="d-inline-block rounded border border-primary" 
+  href="https://remix.iconhelper.cn">Remix Icons中文搜索</a>
+<router-link style="width: 100%;height: 30px;line-height: 30px;text-align: center;overflow: hidden"
+        class="d-inline-block rounded border border-primary"         
+        to="remix.html">Remix Icon教程</router-link>
+  </div>
 </div>
 
 
