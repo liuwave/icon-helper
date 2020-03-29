@@ -42,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">acrylic</span><span class="badge-light badge">art</span><span class="badge-light badge">brush</span><span class="badge-light badge">color</span><span class="badge-light badge">fill</span><span class="badge-light badge">paint</span><span class="badge-light badge">pigment</span><span class="badge-light badge">watercolor</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">调色板</span><span class="badge-primary badge">丙烯酸</span><span class="badge-primary badge">艺术</span><span class="badge-primary badge">画笔</span><span class="badge-primary badge">颜色</span><span class="badge-primary badge">填充</span><span class="badge-primary badge">油漆</span><span class="badge-primary badge">颜料</span><span class="badge-primary badge">水彩</span><span class="badge-primary badge">颜料板</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/palette.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/palette.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light">用于吸取不同颜色。</div>
+</div><div class="description description alert alert-light">表示吸取不同颜色。</div>
 <div class="alert alert-dark">
   <i class="fas fa-palette fa-xs"></i>
   <i class="fas fa-palette fa-sm"></i>

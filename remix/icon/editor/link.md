@@ -2,7 +2,7 @@
 
 title: link(联系) ICON转svg、png下载
 name: link
-zhTips: 联系,链接,地址
+zhTips: 联系,链接,地址,附件,链条,连接,链接标识
 tags: ["editor"]
 search: connection,address
 
@@ -39,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Remix Design Studio</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">connection</span><span class="badge-light badge">address</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">联系</span><span class="badge-primary badge">链接</span><span class="badge-primary badge">地址</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/link.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/link.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">connection</span><span class="badge-light badge">address</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">联系</span><span class="badge-primary badge">链接</span><span class="badge-primary badge">地址</span><span class="badge-primary badge">附件</span><span class="badge-primary badge">链条</span><span class="badge-primary badge">连接</span><span class="badge-primary badge">链接标识</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/link.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/link.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示链接，可跳转。</div>
 <div class="alert alert-dark">
   <i class="ri-link ri-xs"></i>
   <i class="ri-link ri-sm"></i>

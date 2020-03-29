@@ -17,8 +17,14 @@
   "author": "Remix Design Studio",
   "version": "2.3.0",
   "zhs": [
-    "斜体"
+    "斜体",
+    "编辑",
+    "重点",
+    "字体",
+    "格式",
+    "文本",
+    "类型"
   ],
-  "description": "",
+  "description": "代表字体为斜体。",
   "comments": []
 }

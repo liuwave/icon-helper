@@ -2,7 +2,7 @@
 
 title: subscript(角标) ICON转svg、png下载
 name: subscript
-zhTips: 角标,下标,脚注
+zhTips: 角标,下标,脚注,编辑,字体,格式,文本,类型,下标标注
 tags: ["editor"]
 search: 
 
@@ -39,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Remix Design Studio</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">角标</span><span class="badge-primary badge">下标</span><span class="badge-primary badge">脚注</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/subscript.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/subscript.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">角标</span><span class="badge-primary badge">下标</span><span class="badge-primary badge">脚注</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">字体</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">类型</span><span class="badge-primary badge">下标标注</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/subscript.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/subscript.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">可用于表示一个任意数字。</div>
 <div class="alert alert-dark">
   <i class="ri-subscript ri-xs"></i>
   <i class="ri-subscript ri-sm"></i>

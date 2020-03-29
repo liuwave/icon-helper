@@ -17,8 +17,11 @@
   "author": "Remix Design Studio",
   "version": "2.3.0",
   "zhs": [
-    "标题"
+    "标题",
+    "格式",
+    "文本",
+    "头部标识"
   ],
-  "description": "",
+  "description": "表示头部标题内容。",
   "comments": []
 }

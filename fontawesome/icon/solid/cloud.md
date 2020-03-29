@@ -42,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">atmosphere</span><span class="badge-light badge">fog</span><span class="badge-light badge">overcast</span><span class="badge-light badge">save</span><span class="badge-light badge">upload</span><span class="badge-light badge">weather</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">云</span><span class="badge-primary badge">大气</span><span class="badge-primary badge">雾</span><span class="badge-primary badge">阴</span><span class="badge-primary badge">保存</span><span class="badge-primary badge">上传</span><span class="badge-primary badge">天气</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cloud.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/fontawesome/solid/cloud.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light">云，可以表示天空。</div>
+</div><div class="description description alert alert-light">云，可以表示天空、云服务。</div>
 <div class="alert alert-dark">
   <i class="fas fa-cloud fa-xs"></i>
   <i class="fas fa-cloud fa-sm"></i>

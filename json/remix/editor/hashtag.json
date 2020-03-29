@@ -18,8 +18,15 @@
   "version": "2.3.0",
   "zhs": [
     "#",
-    "井号"
+    "井号",
+    "Hashtag",
+    "Twitter",
+    "instagram",
+    "英镑",
+    "社交媒体",
+    "标签",
+    "免提"
   ],
-  "description": "",
+  "description": "表示话题，序数，手机拨号键。",
   "comments": []
 }

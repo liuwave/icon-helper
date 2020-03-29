@@ -2,7 +2,7 @@
 
 title: underline(下划线) ICON转svg、png下载
 name: underline
-zhTips: 下划线
+zhTips: 下划线,编辑,重点,格式,文本,写作,下划线标志
 tags: ["editor"]
 search: 
 
@@ -39,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Remix Design Studio</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">下划线</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/underline.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/underline.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">下划线</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">重点</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">写作</span><span class="badge-primary badge">下划线标志</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/underline.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/underline.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">表示文字添加各种下划线。</div>
 <div class="alert alert-dark">
   <i class="ri-underline ri-xs"></i>
   <i class="ri-underline ri-sm"></i>

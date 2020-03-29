@@ -2,7 +2,7 @@
 
 title: superscript(角标) ICON转svg、png下载
 name: superscript
-zhTips: 角标,上标
+zhTips: 角标,上标,编辑,指数,字体,格式,文本,类型,上标标识
 tags: ["editor"]
 search: 
 
@@ -39,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Remix Design Studio</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">角标</span><span class="badge-primary badge">上标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/superscript.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/superscript.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">角标</span><span class="badge-primary badge">上标</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">指数</span><span class="badge-primary badge">字体</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">类型</span><span class="badge-primary badge">上标标识</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/superscript.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/superscript.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">可用于表示任意一个数字的平方。</div>
 <div class="alert alert-dark">
   <i class="ri-superscript ri-xs"></i>
   <i class="ri-superscript ri-sm"></i>

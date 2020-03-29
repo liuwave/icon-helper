@@ -2,7 +2,7 @@
 
 title: strikethrough(删除线) ICON转svg、png下载
 name: strikethrough
-zhTips: 删除线
+zhTips: 删除线,取消,编辑,字体,格式,文本,类型,加删除线
 tags: ["editor"]
 search: remove formatting
 
@@ -39,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Remix Design Studio</span></span> 
 <br/>
-<span>别名：<span class="badge-light badge">remove formatting</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">删除线</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/strikethrough.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/strikethrough.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">remove formatting</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">删除线</span><span class="badge-primary badge">取消</span><span class="badge-primary badge">编辑</span><span class="badge-primary badge">字体</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">类型</span><span class="badge-primary badge">加删除线</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/strikethrough.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/strikethrough.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">可表示文字、图片等信息的删除。</div>
 <div class="alert alert-dark">
   <i class="ri-strikethrough ri-xs"></i>
   <i class="ri-strikethrough ri-sm"></i>

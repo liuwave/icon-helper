@@ -17,8 +17,13 @@
   "author": "Remix Design Studio",
   "version": "2.3.0",
   "zhs": [
-    "加粗"
+    "加粗",
+    "粗体",
+    "强调",
+    "格式",
+    "文本",
+    "粗"
   ],
-  "description": "",
+  "description": "粗，一般表示重点、显著的内容。",
   "comments": []
 }

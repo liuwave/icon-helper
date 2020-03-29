@@ -19,8 +19,15 @@
   "author": "Remix Design Studio",
   "version": "2.3.0",
   "zhs": [
-    "删除线"
+    "删除线",
+    "取消",
+    "编辑",
+    "字体",
+    "格式",
+    "文本",
+    "类型",
+    "加删除线"
   ],
-  "description": "",
+  "description": "可表示文字、图片等信息的删除。",
   "comments": []
 }

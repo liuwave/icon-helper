@@ -17,8 +17,13 @@
   "author": "Remix Design Studio",
   "version": "2.3.0",
   "zhs": [
-    "段落"
+    "段落",
+    "编辑",
+    "格式",
+    "文本",
+    "写作",
+    "段落符号"
   ],
-  "description": "",
+  "description": "表示段落标记。",
   "comments": []
 }

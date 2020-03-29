@@ -2,7 +2,7 @@
 
 title: bold(加粗) ICON转svg、png下载
 name: bold
-zhTips: 加粗
+zhTips: 加粗,粗体,强调,格式,文本,粗
 tags: ["editor"]
 search: 
 
@@ -39,9 +39,9 @@ unicode：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Remix Design Studio</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">加粗</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/bold.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/bold.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">加粗</span><span class="badge-primary badge">粗体</span><span class="badge-primary badge">强调</span><span class="badge-primary badge">格式</span><span class="badge-primary badge">文本</span><span class="badge-primary badge">粗</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/remix/editor/bold.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/remix/editor/bold.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div>
+</div><div class="description description alert alert-light">粗，一般表示重点、显著的内容。</div>
 <div class="alert alert-dark">
   <i class="ri-bold ri-xs"></i>
   <i class="ri-bold ri-sm"></i>

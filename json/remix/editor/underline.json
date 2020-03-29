@@ -17,8 +17,14 @@
   "author": "Remix Design Studio",
   "version": "2.3.0",
   "zhs": [
-    "下划线"
+    "下划线",
+    "编辑",
+    "重点",
+    "格式",
+    "文本",
+    "写作",
+    "下划线标志"
   ],
-  "description": "",
+  "description": "表示文字添加各种下划线。",
   "comments": []
 }
