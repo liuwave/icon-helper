@@ -2,7 +2,7 @@
 home: true
 heroText:  Remix Icon 所有图标
 tagline: ' '
-footer:  
+footer:  ' '
 
 ---
 
