@@ -30,7 +30,7 @@ unicode：
 <span class="badge-secondary badge">f198</span> 
 <copy-btn content='f198' btn-title=""></copy-btn>
 <copy-btn :content='String.fromCodePoint(parseInt("f198", 16))' btn-title="复制U"></copy-btn>
-</span><br/><span>样式：<span class="badge-light badge">常规(regular)</span></span>
+</span><br/><span>样式：<span class="badge-light badge">填充(fill)</span></span>
 <br/>
 <span>
 版本：

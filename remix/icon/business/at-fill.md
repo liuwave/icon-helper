@@ -2,7 +2,7 @@
 
 title: at fill(@) ICON转svg、png下载
 name: at-fill
-zhTips: @,提到,在
+zhTips: '@,提到,在'
 tags: ["business"]
 search: mention,fill
 
@@ -30,7 +30,7 @@ unicode：
 <span class="badge-secondary badge">ea80</span> 
 <copy-btn content='ea80' btn-title=""></copy-btn>
 <copy-btn :content='String.fromCodePoint(parseInt("ea80", 16))' btn-title="复制U"></copy-btn>
-</span><br/><span>样式：<span class="badge-light badge">常规(regular)</span></span>
+</span><br/><span>样式：<span class="badge-light badge">填充(fill)</span></span>
 <br/>
 <span>
 版本：

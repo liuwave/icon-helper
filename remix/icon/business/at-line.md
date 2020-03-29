@@ -2,7 +2,7 @@
 
 title: at line(@) ICON转svg、png下载
 name: at-line
-zhTips: @,提到,在
+zhTips: '@,提到,在'
 tags: ["business"]
 search: mention,line
 
@@ -30,7 +30,7 @@ unicode：
 <span class="badge-secondary badge">ea81</span> 
 <copy-btn content='ea81' btn-title=""></copy-btn>
 <copy-btn :content='String.fromCodePoint(parseInt("ea81", 16))' btn-title="复制U"></copy-btn>
-</span><br/><span>样式：<span class="badge-light badge">常规(regular)</span></span>
+</span><br/><span>样式：<span class="badge-light badge">线条(line)</span></span>
 <br/>
 <span>
 版本：

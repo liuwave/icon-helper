@@ -30,7 +30,7 @@ unicode：
 <span class="badge-secondary badge">eeef</span> 
 <copy-btn content='eeef' btn-title=""></copy-btn>
 <copy-btn :content='String.fromCodePoint(parseInt("eeef", 16))' btn-title="复制U"></copy-btn>
-</span><br/><span>样式：<span class="badge-light badge">常规(regular)</span></span>
+</span><br/><span>样式：<span class="badge-light badge">线条(line)</span></span>
 <br/>
 <span>
 版本：

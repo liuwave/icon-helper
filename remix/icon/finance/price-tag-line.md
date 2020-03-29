@@ -30,7 +30,7 @@ unicode：
 <span class="badge-secondary badge">ef9d</span> 
 <copy-btn content='ef9d' btn-title=""></copy-btn>
 <copy-btn :content='String.fromCodePoint(parseInt("ef9d", 16))' btn-title="复制U"></copy-btn>
-</span><br/><span>样式：<span class="badge-light badge">常规(regular)</span></span>
+</span><br/><span>样式：<span class="badge-light badge">线条(line)</span></span>
 <br/>
 <span>
 版本：

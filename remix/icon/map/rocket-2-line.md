@@ -30,7 +30,7 @@ unicode：
 <span class="badge-secondary badge">f001</span> 
 <copy-btn content='f001' btn-title=""></copy-btn>
 <copy-btn :content='String.fromCodePoint(parseInt("f001", 16))' btn-title="复制U"></copy-btn>
-</span><br/><span>样式：<span class="badge-light badge">常规(regular)</span></span>
+</span><br/><span>样式：<span class="badge-light badge">线条(line)</span></span>
 <br/>
 <span>
 版本：

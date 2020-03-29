@@ -2,7 +2,7 @@
 
 title: asterisk(*) ICON转svg、png下载
 name: asterisk
-zhTips: *,星号
+zhTips: '*,星号'
 tags: ["editor"]
 search: 
 
