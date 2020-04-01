@@ -16,7 +16,8 @@
     "@vuepress/plugin-search": "^1.4.0",
     "vuepress": "^1.4.0",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
-    "vuepress-plugin-baidu-google-analytics": "^1.0.0"
+    "vuepress-plugin-baidu-google-analytics": "^1.0.0",
+    "simple-icons": "^2.8.0"
   },
   "scripts": {
     "m:dev": "vuepress dev material",
