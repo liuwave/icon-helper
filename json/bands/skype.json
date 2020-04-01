@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Skype"
+  ],
+  "description": "Skype是一款即时通讯软件，提供免费的电脑间通话,打国内国际固定/移动电话只需市话费。",
   "source": "http://blogs.skype.com/?attachment_id=56273",
   "comments": []
 }

@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "来福车"
+  ],
+  "description": "lyft是美国的一个打车应用，目前排名第二。",
   "source": "https://www.lyft.com/press",
   "comments": []
 }

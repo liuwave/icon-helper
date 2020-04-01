@@ -11,8 +11,13 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "500px",
+    "摄影",
+    "照片分享",
+    "摄影师"
+  ],
+  "description": "500px.com，在线分享超过1500万创意发现和照片，是一个致力于摄影分享、发现、售卖的专业平台。",
   "source": "https://about.500px.com/press",
   "comments": []
 }

@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "瓦次普",
+    "whatsapp"
+  ],
+  "description": "whatsapp是一款用于手机之间通讯的应用程序。",
   "source": "https://www.whatsappbrand.com",
   "comments": []
 }

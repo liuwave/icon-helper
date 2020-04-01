@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Cloudsmith"
+  ],
+  "description": "Cloudsmith是安全存储和共享包和容器的首选软件平台。",
   "source": "https://cloudsmith.io/branding/",
   "comments": []
 }

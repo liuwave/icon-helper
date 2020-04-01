@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "门罗币"
+  ],
+  "description": "门罗币是一个开源的加密货币，创建于2014年。",
   "source": "https://getmonero.org",
   "comments": []
 }

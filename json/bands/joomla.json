@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Joomla徽标",
+    "joomla"
+  ],
+  "description": "joomla是一个使用PHP开发的内容管理系统。",
   "source": "https://docs.joomla.org/Joomla:Brand_Identity_Elements",
   "comments": []
 }

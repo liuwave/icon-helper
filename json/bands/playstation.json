@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "PS",
+    "游戏站"
+  ],
+  "description": "PS是日本Sony旗下的一款著名的游戏机。",
   "source": "http://uk.playstation.com/media/DPBjbK0o/CECH-4202_4203%20PS3_QSG_GB_Eastern_3_web_vf1.pdf",
   "comments": []
 }

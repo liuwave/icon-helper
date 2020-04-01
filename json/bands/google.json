@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Google徽标",
+    "google"
+  ],
+  "description": "google是全球最大的搜索引擎。",
   "source": "https://developers.google.com/+/branding-guidelines?hl=en",
   "comments": []
 }

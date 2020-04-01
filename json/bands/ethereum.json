@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "以太坊"
+  ],
+  "description": "以太坊是一个一个开源的公共区块链平台，一个为去中心化应用(Dapp)而生的全球开源平台。",
   "source": "https://www.ethereum.org/images/logos/Ethereum_Visual_Identity_1.0.0.pdf",
   "comments": []
 }

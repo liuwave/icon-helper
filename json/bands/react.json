@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "React.js",
+    "react"
+  ],
+  "description": "React.js(React)是一个用来构建用户界面的JavaScript库，由Facebook发布开源。",
   "source": "https://facebook.github.io/react/",
   "comments": []
 }

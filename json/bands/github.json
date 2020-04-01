@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "GitHub",
+    "octocat"
+  ],
+  "description": "GitHub是一个一个面向开源及私有软件项目的代码托管平台，目前已被微软收购。官网：https://github.com",
   "source": "https://github.com/logos",
   "comments": []
 }

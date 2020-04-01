@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "GitLab",
+    "Axosoft"
+  ],
+  "description": "GitLab是一个完整的DevOps平台，提供项目计划。源码管理到CI/CD、监视等一系列功能。",
   "source": "https://about.gitlab.com/press/press-kit/",
   "comments": []
 }

@@ -11,8 +11,13 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "乐队营",
+    "bandcamp",
+    "环",
+    "纽扣"
+  ],
+  "description": "Bandcamp是一个提供免费的无限流媒体以及MP3，FLAC等高品质下载的应用程序。",
   "source": "https://bandcamp.com/buttons",
   "comments": []
 }

@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "微软"
+  ],
+  "description": "微软是一家总部在美国华盛顿州的跨国科技公司。",
   "source": "https://ratnacahayarina.files.wordpress.com/2014/03/microsoft.pdf",
   "comments": []
 }

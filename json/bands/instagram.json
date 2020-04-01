@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "照片墙",
+    "IG"
+  ],
+  "description": "Instagram一款运行在移动端上的社交应用,可以快速进行照片分享。",
   "source": "https://www.instagram-brand.com",
   "comments": []
 }

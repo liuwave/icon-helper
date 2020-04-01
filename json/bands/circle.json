@@ -11,8 +11,16 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "圆形",
+    "圆形薄",
+    "直径",
+    "点",
+    "椭圆",
+    "通知",
+    "圆"
+  ],
+  "description": "圆，可以表示圆满、团结、圆月等。",
   "source": "https://www.circle.com/",
   "comments": []
 }

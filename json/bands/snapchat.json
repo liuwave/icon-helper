@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "色拉布",
+    "阅后即焚",
+    "邮件"
+  ],
+  "description": "snapchat是一款“阅后即焚”照片分享应用。",
   "source": "https://www.snapchat.com/brand-guidelines",
   "comments": []
 }

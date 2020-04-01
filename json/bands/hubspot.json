@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "HubSpot"
+  ],
+  "description": "HubSpot是一家开发和销售软件产品的公司，提供了一个完整的营销，销售，客户服务和客户关系管理软件平台。",
   "source": "https://www.hubspot.com/style-guide",
   "comments": []
 }

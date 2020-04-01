@@ -11,8 +11,14 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "松弛徽标",
+    "锚点",
+    "哈希",
+    "标签",
+    "slack"
+  ],
+  "description": "slack是一家提供将合适的人员、信息和工具聚集在一起以完成工作的协作中心。",
   "source": "https://slack.com/brand-guidelines",
   "comments": []
 }

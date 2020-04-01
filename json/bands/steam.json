@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "蒸汽",
+    "steam"
+  ],
+  "description": "Steam是一个整合游戏下载平台，于2002年推出，目前是世界最大的游戏平台。",
   "source": "https://partner.steamgames.com/public/marketing/Steam_Guidelines_02102016.pdf",
   "comments": []
 }

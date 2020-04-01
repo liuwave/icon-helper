@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Docker",
+    "容器"
+  ],
+  "description": "容器是一个开源的应用容器引擎，让开发者可以打包镜像，获得一个相对独立的运行环境",
   "source": "https://www.docker.com/company/newsroom/media-resources",
   "comments": []
 }

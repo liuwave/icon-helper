@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Etsy"
+  ],
+  "description": "Etsy是一个买卖手工艺成品的网络商店平台。",
   "source": "https://www.etsy.com/uk/press",
   "comments": []
 }

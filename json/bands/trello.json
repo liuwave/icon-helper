@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "特洛洛",
+    "trello"
+  ],
+  "description": "Trello是一个任务管理软件、团队协作工具。使用方便，完全免费。",
   "source": "https://trello.com/about/branding",
   "comments": []
 }

@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "潜望镜",
+    "periscope"
+  ],
+  "description": "periscope是一家直播服务运营商，于2015年被Twitter收购。",
   "source": "https://www.periscope.tv/press",
   "comments": []
 }

@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "iTunes",
+    "爱思"
+  ],
+  "description": "iTunes是一款专供Mac和PC使用、能管理和播放数字音乐和视频的免费应用程序",
   "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/ITunes_logo.svg",
   "comments": []
 }

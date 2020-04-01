@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "炸药",
+    "phabricator"
+  ],
+  "description": "phabricator是一个开源的软件开发平台。",
   "source": "https://phacility.com/trademarks/",
   "comments": []
 }

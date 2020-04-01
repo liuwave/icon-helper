@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "马斯托登",
+    "mastodon"
+  ],
+  "description": " Mastodon是一个免费开源的去中心化的分布式微博客社交网络，任何人都可以运行自己的实例，并融入到社交网络中。",
   "source": "https://source.joinmastodon.org/mastodon/joinmastodon/blob/master/public/press-kit.zip",
   "comments": []
 }

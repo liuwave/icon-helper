@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "优步"
+  ],
+  "description": "优步是一家提供网络打车服务的公司。",
   "source": "https://www.uber.com/media/",
   "comments": []
 }

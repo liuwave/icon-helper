@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "eBay",
+    "易趣"
+  ],
+  "description": "易趣是一家电商，提供类似淘宝的服务。",
   "source": "https://go.developer.ebay.com/logos",
   "comments": []
 }

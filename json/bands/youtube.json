@@ -11,8 +11,14 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "YouTube",
+    "电影",
+    "视频",
+    "YouTube播放",
+    "YouTube正方形"
+  ],
+  "description": "YouTube是一个视频网站：在YouTube 上畅享您喜爱的视频和音乐,上传原创内容并与亲朋好友和全世界观众分享您的视频。",
   "source": "https://www.youtube.com/yt/about/brand-resources/#logos-icons-colors",
   "comments": []
 }

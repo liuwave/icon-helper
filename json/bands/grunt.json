@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "格伦特",
+    "grunt"
+  ],
+  "description": "Grunt:JavaScript 世界的构建工具。Grunt 生态系统非常庞大，并且一直在增长。由于拥有数量庞大的插件可供选择，因此，你可以利用 Grunt 自动完成任何事，并且花费最少的代价。",
   "source": "https://github.com/gruntjs/gruntjs.com/tree/master/src/media",
   "comments": []
 }

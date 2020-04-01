@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Discord"
+  ],
+  "description": "Discord是一款语音聊天沟通软件",
   "source": "https://discordapp.com/branding",
   "comments": []
 }

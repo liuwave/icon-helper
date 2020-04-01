@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "团队发言",
+    "TS"
+  ],
+  "description": "Teamtalk是网络游戏的首选VoIP通信系统，简称TS。",
   "source": "https://www.teamspeak.com/en/more/media-pack/",
   "comments": []
 }

@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "有声",
+    "audible"
+  ],
+  "description": "有声是一个可以帮助那些有听力问题的人的应用程序，是你的Android设备上的一个方便的助听器",
   "source": "https://commons.wikimedia.org/wiki/File:Audible_logo.svg",
   "comments": []
 }

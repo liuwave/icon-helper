@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Mixcloud",
+    "云"
+  ],
+  "description": "Mixcloud是一个免费提供在线音乐分享的网站。",
   "source": "https://www.mixcloud.com/branding",
   "comments": []
 }

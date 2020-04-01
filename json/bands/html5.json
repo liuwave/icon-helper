@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "HTML 5徽标",
+    "html5"
+  ],
+  "description": "html指的是超文本标记语。 而HTML5是HTML最新的修订版本",
   "source": "http://www.w3.org/html/logo/",
   "comments": []
 }

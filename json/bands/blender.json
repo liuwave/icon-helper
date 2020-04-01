@@ -11,8 +11,13 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "搅拌机",
+    "鸡尾酒",
+    "奶昔",
+    "果泥"
+  ],
+  "description": "搅拌机，可以表示豆浆机。",
   "source": "https://www.blender.org/about/logo/",
   "comments": []
 }

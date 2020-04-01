@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "角",
+    "angular"
+  ],
+  "description": "angular是一款优秀的前端javascript框架，诞生于2009年，后被Google收购。",
   "source": "https://angular.io/assets/images/logos/angular/angular_solidBlack.svg",
   "comments": []
 }

@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Behance"
+  ],
+  "description": "Behance是一个著名设计社区，创意设计人士可以在上面展示自己的作品。",
   "source": "https://www.behance.net/dev/api/brand",
   "comments": []
 }

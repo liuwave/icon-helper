@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "吞咽",
+    "gulp"
+  ],
+  "description": "Gulp.js是一个是基于 Node.js 构建的自动化构建工具,开发者可以使用它在项目开发过程中自动执行常见任务。",
   "source": "https://github.com/gulpjs/artwork/blob/master/gulp.svg",
   "comments": []
 }

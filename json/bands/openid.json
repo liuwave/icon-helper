@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "OpenID基金会"
+  ],
+  "description": "OpenID基金会成立于2007年6月，是一个致力于支持、促进和保护OpenId技术的个人和公司的非营利国际性标准化组织。",
   "source": "https://openid.net/add-openid/logos/",
   "comments": []
 }

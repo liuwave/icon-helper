@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "TripAdvisor",
+    "猫途鹰"
+  ],
+  "description": "猫途鹰是全球领先的旅行平台，分享旅游点评。",
   "source": "https://tripadvisor.mediaroom.com/logo-guidelines",
   "comments": []
 }

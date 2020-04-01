@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "欧朋"
+  ],
+  "description": "Opera(欧朋)是一款挪威公司制作的手机浏览器。",
   "source": "https://github.com/operasoftware/logo",
   "comments": []
 }

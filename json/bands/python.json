@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Python"
+  ],
+  "description": "Python是一种面向对象的、跨平台的解释型计算机程序设计语言。",
   "source": "https://www.python.org/community/logos/",
   "comments": []
 }

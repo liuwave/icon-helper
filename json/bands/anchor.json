@@ -11,8 +11,22 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "锚点",
+    "泊位",
+    "船",
+    "码头",
+    "嵌入式",
+    "链接",
+    "海事",
+    "系泊",
+    "安全",
+    "船锚",
+    "锚",
+    "驻扎",
+    "停船"
+  ],
+  "description": "船锚，表示停泊的位置，网页中通常表示链接锚点的位置。",
   "source": "https://anchor.fm/",
   "comments": []
 }

@@ -11,8 +11,17 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "RSS",
+    "博客",
+    "提要",
+    "新闻",
+    "写作",
+    "wifi黑",
+    "聚合阅读",
+    "订阅"
+  ],
+  "description": "表示网络，互联网等。",
   "source": "https://en.wikipedia.org/wiki/Feed_icon",
   "comments": []
 }

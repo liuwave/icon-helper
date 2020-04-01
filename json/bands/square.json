@@ -11,8 +11,17 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "正方形",
+    "块状",
+    "盒子",
+    "形状",
+    "圆角正方形",
+    "平方",
+    "广场",
+    "方块"
+  ],
+  "description": "表示颜色填充。",
   "source": "https://squareup.com/",
   "comments": []
 }

@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Android",
+    "机器人",
+    "安卓"
+  ],
+  "description": "安卓是一种基于Linux自由及开发源代码的手机操作系统，现在份额全球第一。",
   "source": "https://developer.android.com/distribute/marketing-tools/brand-guidelines",
   "comments": []
 }

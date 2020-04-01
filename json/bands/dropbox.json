@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Dropbox"
+  ],
+  "description": "Dropbox是一个云盘服务商，提供免费和收费服务，能够将存储在本地的文件自动同步到云端服务器保存",
   "source": "https://www.dropbox.com/branding",
   "comments": []
 }

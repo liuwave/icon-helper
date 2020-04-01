@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "阿尔及利亚",
+    "云搜索"
+  ],
+  "description": "Algolia是一个搜索即服务平台，总部位于美国旧金山，为网站与移动应用提供托管式云搜索服务。公司网站：https://www.algolia.com",
   "source": "https://www.algolia.com/press/?section=brand-guidelines",
   "comments": []
 }

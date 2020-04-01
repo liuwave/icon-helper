@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "贝宝"
+  ],
+  "description": "paypal是一个全球支付平台，提供快捷安全的收款付款解决方案。",
   "source": "https://www.paypal-marketing.com/html/partner/na/portal-v2/pdf/PP_Masterbrandguidelines_v21_mm.pdf",
   "comments": []
 }

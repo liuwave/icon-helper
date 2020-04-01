@@ -11,8 +11,13 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "人人",
+    "renren",
+    "校内",
+    "人人网"
+  ],
+  "description": "人人曾是中国领先的实名制社交网络平台，现已经关闭。",
   "source": "https://seeklogo.com/vector-logo/184137/renren-inc",
   "comments": []
 }

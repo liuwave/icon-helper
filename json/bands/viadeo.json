@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "视频",
+    "viadeo"
+  ],
+  "description": "Viadeo集团是全球非英语国家市场最大的职业社交网站，LinkedIn的强大对手。",
   "source": "http://corporate.viadeo.com/en/media/resources",
   "comments": []
 }

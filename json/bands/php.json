@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "超文本预处理器"
+  ],
+  "description": "PHP（“超文本预处理器），是最流行的网站开发语言之一。嗯，也是世界上最好的语言。",
   "source": "http://php.net/download-logos.php",
   "comments": []
 }

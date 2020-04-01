@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Typo3"
+  ],
+  "description": "Typo3是一个基于PHP的免费企业级内容管理系统。",
   "source": "https://typo3.com/fileadmin/assets/typo3logos/typo3_bullet_01.svg",
   "comments": []
 }

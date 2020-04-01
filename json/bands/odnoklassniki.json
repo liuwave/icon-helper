@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "一个同学"
+  ],
+  "description": "一个同学是俄罗斯领先的社交网站，一个同学、老朋友的社交网站。",
   "source": "http://v.ok.ru/logo.html",
   "comments": []
 }

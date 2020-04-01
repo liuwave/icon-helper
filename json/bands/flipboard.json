@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Flipboard",
+    "红板报"
+  ],
+  "description": "红板报是一款免费的应用程序，将社交媒体上的内容整合起来供用户阅览。",
   "source": "https://about.flipboard.com/brand-guidelines",
   "comments": []
 }

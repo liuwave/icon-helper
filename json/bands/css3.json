@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "CSS 3徽标",
+    "代码",
+    "css3"
+  ],
+  "description": "css3是一种用于控制网页的样式和布局的语言。",
   "source": "http://www.w3.org/html/logo/",
   "comments": []
 }

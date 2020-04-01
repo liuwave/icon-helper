@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Flickr"
+  ],
+  "description": "Flickr是提供免费及付费照片储存、分享的线上服务，也提供网络社群服务的平台",
   "source": "https://worldvectorlogo.com/logo/flickr-1",
   "comments": []
 }

@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Magento"
+  ],
+  "description": "Magento一套专业开源的电子商务系统，提供电子商务平台和灵活的云解决方案。",
   "source": "http://magento.com",
   "comments": []
 }

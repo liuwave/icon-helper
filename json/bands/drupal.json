@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Drupal徽标"
+  ],
+  "description": "Drupal是一款使用PHP语言编写的开源内容管理框架。",
   "source": "https://www.drupal.org/drupalorg/style-guide/colors",
   "comments": []
 }

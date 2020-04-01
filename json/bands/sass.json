@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Scss"
+  ],
+  "description": "sass是一门CSS扩展语言，Sass 是一个 CSS 预处理器，帮助我们减少CSS重复的代码，节省开发时间。",
   "source": "http://sass-lang.com/styleguide/brand",
   "comments": []
 }

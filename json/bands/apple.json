@@ -11,8 +11,17 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Apple",
+    "水果",
+    "ios",
+    "mac",
+    "操作系统",
+    "os",
+    "osx",
+    "苹果"
+  ],
+  "description": "Apple是生产一家著名的电脑、手机等电子产品的美国高科技企业，总部位于加利福尼亚州。",
   "source": "https://worldvectorlogo.com/logo/apple",
   "comments": []
 }

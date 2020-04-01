@@ -11,8 +11,15 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "盒",
+    "归档",
+    "容器",
+    "包装",
+    "存储",
+    "箱子"
+  ],
+  "description": "箱子，可以表示礼品盒，储物箱。",
   "source": "https://www.box.com/en-gb/about-us/press",
   "comments": []
 }

@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "蓝牙",
+    "蓝牙黑"
+  ],
+  "description": "蓝牙是一种无线传输标准，在电子产品上有广泛的应用。",
   "source": "https://www.bluetooth.com/develop-with-bluetooth/marketing-branding/",
   "comments": []
 }

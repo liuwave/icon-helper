@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "IMDB"
+  ],
+  "description": "IMDB是一个全球最大的关于电影演员、电影、电视节目、电视明星和电影制作的在线数据库",
   "source": "http://www.imdb.com/pressroom/brand_guidelines",
   "comments": []
 }

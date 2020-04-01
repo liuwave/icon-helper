@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Twitch"
+  ],
+  "description": "Twitch是一个世界领先的游戏直播平台。",
   "source": "https://brand.twitch.tv",
   "comments": []
 }

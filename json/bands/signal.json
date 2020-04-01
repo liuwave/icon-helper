@@ -11,8 +11,17 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "信号",
+    "条形图",
+    "图形",
+    "在线",
+    "接收",
+    "状态",
+    "信号标志",
+    "无线信号"
+  ],
+  "description": "表示手机上的信号。",
   "source": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
   "comments": []
 }

@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "npm"
+  ],
+  "description": "NPM是Node.js的默认包管理器，NPM使JavaScript开发人员更容易共享和重用代码。",
   "source": "https://github.com/npm/logos",
   "comments": []
 }

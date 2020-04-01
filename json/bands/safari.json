@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Safari",
+    "浏览器"
+  ],
+  "description": "Safari是苹果计算机的操作系统Mac OS中的浏览器。",
   "source": "https://images.techhive.com/images/article/2014/11/safari-favorites-100530680-large.jpg",
   "comments": []
 }

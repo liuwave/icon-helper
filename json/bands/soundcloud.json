@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "SoundCloud"
+  ],
+  "description": "SoundCloud是一个音频分享服务平台，提供音乐分享社区服务。",
   "source": "https://soundcloud.com/press",
   "comments": []
 }

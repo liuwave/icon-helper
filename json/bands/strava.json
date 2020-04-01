@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Strava"
+  ],
+  "description": "STRAVA一款测速分享app，可以让自行车、跑步爱好者分享自己的数据，进行排名。",
   "source": "https://itunes.apple.com/us/app/strava-running-and-cycling-gps/id426826309",
   "comments": []
 }

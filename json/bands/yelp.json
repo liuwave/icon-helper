@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "尖叫"
+  ],
+  "description": "Yelp.com是美国一家点评网站。",
   "source": "http://www.yelp.com/brand",
   "comments": []
 }

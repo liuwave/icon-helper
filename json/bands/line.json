@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "线",
+    "line"
+  ],
+  "description": "Line是一款即时通讯软件，由韩国互联网集团NHN的日本子公司NHN Japan推出。",
   "source": "http://line.me/en/logo",
   "comments": []
 }

@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "WordPress徽标",
+    "wordpress"
+  ],
+  "description": "WordPress是基于PHP开发的一个博客平台。",
   "source": "https://wordpress.org/about/logos",
   "comments": []
 }

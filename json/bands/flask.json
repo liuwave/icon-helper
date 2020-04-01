@@ -11,8 +11,17 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "烧瓶",
+    "烧杯",
+    "实验",
+    "实验室",
+    "科学",
+    "长颈瓶",
+    "细颈瓶",
+    "酒瓶"
+  ],
+  "description": "化学试剂的加热、溶解或盛取溶液，也可表示科学实验。",
   "source": "http://flask.pocoo.org/community/logos/",
   "comments": []
 }

@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "四方",
+    "foursquare"
+  ],
+  "description": "四方是一家基于用户地理位置信息(LBS)的手机服务网站。",
   "source": "https://foursquare.com/about/logos",
   "comments": []
 }
