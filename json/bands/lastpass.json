@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "密码管理工具"
+  ],
+  "description": "lastpass是一款密码管理工具，跨平台，云存储，有收费版和免费版。",
   "source": "https://lastpass.com/press-room/",
   "comments": []
 }

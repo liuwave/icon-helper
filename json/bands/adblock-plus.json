@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "广告拦截",
+    "弹窗拦截"
+  ],
+  "description": "Adblock Plus 是 Firefox、Chrome、Safari、Android 和 iOS 上最受欢迎的广告拦截程序。拦截 Facebook 和 YouTube 等网站上的弹出窗口和烦人的广告。",
   "source": "https://adblockplus.org/",
   "comments": []
 }

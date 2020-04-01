@@ -6,13 +6,18 @@
   "title": "A-Frame",
   "slug": "a-frame",
   "svg": "<svg role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><title>A-Frame icon</title><path d=\"M17.37 17.07H6.57L4.24 24H3.01l8.23-24h1.52l8.23 24h-1.3zm-.39-1.13l-5-14.96-5.03 14.98h10.03Z\"/></svg>",
-  "aliases": [],
+  "aliases": [
+    "VR"
+  ],
   "tags": [],
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "虚拟现实",
+    "网页开发框架"
+  ],
+  "description": "A-Frame 是一个用来构建虚拟现实（VR）应用的网页开发框架，可用于桌面、iPhone以及 Oculus Rift。",
   "source": "https://aframe.io/docs/",
   "comments": []
 }

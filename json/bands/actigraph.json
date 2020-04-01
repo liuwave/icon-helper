@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "可穿戴设备",
+    "睡眠监测"
+  ],
+  "description": "Actics是为全球科学界提供可穿戴活动和睡眠监测解决方案的领先供应商，提供高精度、创新和成本效益高的客观监控解决方案",
   "source": "http://www.actigraphcorp.com/",
   "comments": []
 }

@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "ABB模拟与离线编程软件",
+    "ABB机器人仿真软件"
+  ],
+  "description": "ABB RobotStudio是一款计算机仿真软件，由ABB集团研发。借助ABB RobotStudio,可在办公室PC机上完成机器人编程。",
   "source": "https://new.abb.com/products/robotics/en/robotstudio/downloads",
   "comments": []
 }

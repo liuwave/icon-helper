@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "广告拦截"
+  ],
+  "description": "Adblock是一个网页浏览器扩展，允许用户拦截广告内容，并让其不被显示和下载。Adblock还使用户能够通过拦截广告商和技术公司在线上跟踪人员时使用的工具来保护自己的隐私。",
   "source": "https://getadblock.com/",
   "comments": []
 }

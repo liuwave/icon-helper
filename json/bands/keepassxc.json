@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "开源密码管理工具"
+  ],
+  "description": "KeePassXC是一个跨平台的开源的密码管理软件，从windows应用Keepass Password Safe移植而来。",
   "source": "https://github.com/keepassxreboot/keepassxc/",
   "comments": []
 }

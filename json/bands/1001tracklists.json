@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "百大制作人",
+    "一百零一大制作人"
+  ],
+  "description": "1001tracklists是一个追踪和记录艺人在演出现场所播放单曲信息的网站，并制作歌单、排行",
   "source": "https://www.1001tracklists.com/",
   "comments": []
 }

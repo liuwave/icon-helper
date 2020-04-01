@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "academia.edu",
+    "学术",
+    "论文"
+  ],
+  "description": "academia.edu是一个分享和跟踪学术研究的地方，一个免费分享论文的平台。",
   "source": "https://www.academia.edu/",
   "comments": []
 }
