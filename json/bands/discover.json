@@ -1,0 +1,18 @@
+{
+  "name": "discover",
+  "codepoint": "",
+  "background": "#FF6000",
+  "colorStyle": "brands-item--light",
+  "title": "Discover",
+  "slug": "discover",
+  "svg": "<svg role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><title>Discover icon</title><path d=\"M12 0A12 12 0 1 0 12 24A12 12 0 1 0 12 0Z\"/></svg>",
+  "aliases": [],
+  "tags": [],
+  "style": "regular",
+  "author": "Simple Icon",
+  "version": "2.8.0",
+  "zhs": [],
+  "description": "",
+  "source": "https://www.discovernetwork.com/en-us/business-resources/free-signage-logos",
+  "comments": []
+}

@@ -1,0 +1,18 @@
+{
+  "name": "delicious",
+  "codepoint": "",
+  "background": "#3399FF",
+  "colorStyle": "brands-item--light",
+  "title": "Delicious",
+  "slug": "delicious",
+  "svg": "<svg role=\"img\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><title>Delicious icon</title><path d=\"M12 12H0v12h12V12zM24 0H12v12h12V0z\"/></svg>",
+  "aliases": [],
+  "tags": [],
+  "style": "regular",
+  "author": "Simple Icon",
+  "version": "2.8.0",
+  "zhs": [],
+  "description": "",
+  "source": "https://en.wikipedia.org/wiki/Delicious_(website)",
+  "comments": []
+}

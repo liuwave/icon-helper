@@ -1,0 +1,18 @@
+{
+  "name": "flipboard",
+  "codepoint": "",
+  "background": "#E12828",
+  "colorStyle": "brands-item--light",
+  "title": "Flipboard",
+  "slug": "flipboard",
+  "svg": "<svg role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><title>Flipboard icon</title><path d=\"M0 0v24h24V0H0zm19.2 9.6h-4.8v4.8H9.6v4.8H4.8V4.8h14.4v4.8z\"/></svg>",
+  "aliases": [],
+  "tags": [],
+  "style": "regular",
+  "author": "Simple Icon",
+  "version": "2.8.0",
+  "zhs": [],
+  "description": "",
+  "source": "https://about.flipboard.com/brand-guidelines",
+  "comments": []
+}
