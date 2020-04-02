@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Adobe字体",
+    "字体服务"
+  ],
+  "description": "Adobe字体是一个字体服务，通过它可以更便捷的使用各种字体",
   "source": "https://www.adobe.com/creativecloud/services.html",
   "comments": []
 }

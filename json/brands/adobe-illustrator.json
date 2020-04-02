@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "AI",
+    "图像软件"
+  ],
+  "description": "Adobe Illustrator是一个用于出版、多媒体和在线图像的软件。",
   "source": "https://wwwimages2.adobe.com/etc/clientlibs/beagle/ace/source/font/aceui-fonts.svg",
   "comments": []
 }
