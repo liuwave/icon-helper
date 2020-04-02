@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+      "社交书签网站"
+  ],
   "description": "Addthis是国外一个网络书签按钮聚合网站。添加此共享按钮，可以帮助您获得更多的喜欢、共享和追随者，并使它们不断回来。",
   "source": "http://www.addthis.com/",
   "comments": []
