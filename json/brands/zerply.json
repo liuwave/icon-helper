@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "个人主页",
+    "个人首页"
+  ],
+  "description": "Zerply是一个提供免费的网络个人页面服务的平台，使用者可以很轻松的制作个人页面，放入照片、个人简介等信息。",
   "source": "https://zerply.com/about/resources",
   "comments": []
 }

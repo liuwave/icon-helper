@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "PHP MVC框架",
+    "ZF"
+  ],
+  "description": "ZendFramework是一个专业PHP包的集合，有5.7亿多个安装。它可以使用PHP5.6+开发Web应用程序和服务，并使用广泛的语言特性提供100%面向对象的代码。",
   "source": "https://framework.zend.com/",
   "comments": []
 }

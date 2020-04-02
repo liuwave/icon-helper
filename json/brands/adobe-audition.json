@@ -12,9 +12,9 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-      "Audition",
-      "Cool Edit Pro",
-      "Adobe Audition CC"
+    "Audition",
+    "Cool Edit Pro",
+    "Adobe Audition CC"
   ],
   "description": "Adobe Audition是一个多音轨编辑工具，支持多种音频特效和音频格式。",
   "source": "https://helpx.adobe.com/content/dam/help/mnemonics/au_cc_app_RGB.svg",

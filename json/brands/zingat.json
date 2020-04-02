@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "房地产中介"
+  ],
+  "description": "Zingat是一个多元化的房产中介网站，帮你找到合适的房子，提供房产的投资，购买，出售和出租信息。",
   "source": "https://www.zingat.com/kurumsal-logolar",
   "comments": []
 }

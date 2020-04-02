@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "PHP公司"
+  ],
+  "description": "Zend，PHP公司，提供企业级产品和服务，推动PHP进入企业级应用。",
   "source": "https://www.zend.com/",
   "comments": []
 }

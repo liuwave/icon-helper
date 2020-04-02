@@ -11,8 +11,13 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "华万",
+    "视频通信",
+    "屏幕共享",
+    "网络会议"
+  ],
+  "description": "Zoom是现代企业视频通信的领导者，拥有一个简单可靠的云平台，用于视频和音频会议、聊天、网络研讨会及屏幕共享",
   "source": "https://zoom.us/brandguidelines",
   "comments": []
 }

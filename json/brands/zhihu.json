@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "知乎",
+    "问答社区"
+  ],
+  "description": "知乎是一个知名的问答社区，人人都可以便捷接入的知识分享网络。",
   "source": "https://www.zhihu.com/",
   "comments": []
 }

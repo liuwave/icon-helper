@@ -12,8 +12,8 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-      "PDF阅读器",
-      "PDF查看程序"
+    "PDF阅读器",
+    "PDF查看程序"
   ],
   "description": "Adobe Acrobat Reader是PDF管理工具，可以用来查看、打印、管理PDF文件，但无法创建PDF文件。",
   "source": "https://wwwimages2.adobe.com/etc/clientlibs/beagle/ace/source/font/aceui-fonts.svg",

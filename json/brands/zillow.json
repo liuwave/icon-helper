@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "房地产",
+    "房产估价"
+  ],
+  "description": "zillow是美国一家提供免费房地产信息及估价服务的网站，提供各类房地产信息查询服务。",
   "source": "http://zillow.mediaroom.com/logos",
   "comments": []
 }

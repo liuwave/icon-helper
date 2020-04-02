@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Linux",
+    "Zorin操作系统",
+    "佐林"
+  ],
+  "description": "Zorin(佐林)操作系统成立于2008年，基于Linux构建。我们设计了Zorin操作系统，让每个人都有能力和可用性的完美融合。Zorin操作系统的构建是为了尽可能的简单，因此您无需学习任何东西就可以开始使用它熟悉的用户界面。它装载了所有的应用程序和工具，你需要从盒子里浏览网页，工作，玩和其他所有事情。",
   "source": "https://zorinos.com/press/",
   "comments": []
 }

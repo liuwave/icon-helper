@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "客户关系",
+    "客户管理软件公司"
+  ],
+  "description": "Zendesk是一家客户管理软件公司，打造旨在改进客户关系的软件。",
   "source": "https://www.zendesk.com/company/brand-assets/#logo",
   "comments": []
 }

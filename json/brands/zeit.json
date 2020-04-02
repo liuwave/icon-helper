@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "开源团队"
+  ],
+  "description": "Zeit是由Guillermo Rauch创办的公司，没有固定办公室。精英小团队，远程办公。",
   "source": "https://zeit.co/design/brand",
   "comments": []
 }

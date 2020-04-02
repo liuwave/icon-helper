@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "0MQ",
+    "零MQ"
+  ],
+  "description": "ZeroMQ是一个开放源代码的通用消息传递库。提供在进程内、进程间、TCP和多播等各种传输中携带原子消息的套接字",
   "source": "https://github.com/zeromq/zeromq.org/blob/master/static/safari-pinned-tab.svg",
   "comments": []
 }

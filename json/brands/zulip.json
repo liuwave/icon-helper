@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "祖利普",
+    "群聊天应用程序",
+    "即时聊天"
+  ],
+  "description": "Zulip是一个强大的、开源的群聊天应用程序，有即时性、线程式对话的高效率的特点。Zulip被开源项目、财富500强企业、大型标准机构和其他需要实时聊天系统的人所使用，允许用户每天轻松地处理数百条或数千条消息。每个月有超过500个贡献者贡献代码。",
   "source": "https://github.com/zulip/zulip/",
   "comments": []
 }
