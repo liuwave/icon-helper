@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+      "AE",
+      "视频处理软件"
+  ],
+  "description": "Adobe After Effects是一款图形、视频处理软件，主要用于设计和视频特技处理。",
   "source": "https://wwwimages2.adobe.com/etc/clientlibs/beagle/ace/source/font/aceui-fonts.svg",
   "comments": []
 }
