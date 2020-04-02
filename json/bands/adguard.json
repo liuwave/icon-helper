@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+      "广告卫士",
+      "广告拦截"
+  ],
+  "description": "AdGuard是一个广告拦截程序，可拦截各种广告，弹窗，视频广告，横幅广告等。",
   "source": "https://adguard.com/en/contribute.html",
   "comments": []
 }
