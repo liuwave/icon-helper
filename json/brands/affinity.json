@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "创意软件"
+  ],
+  "description": "Affinity是一款专业的创意软件。",
   "source": "https://affinity.serif.com/",
   "comments": []
 }

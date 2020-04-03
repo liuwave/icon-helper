@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "空中呼号"
+  ],
+  "description": "Aircall是一款移动即时通讯（IM）软件。",
   "source": "https://aircall.io/",
   "comments": []
 }

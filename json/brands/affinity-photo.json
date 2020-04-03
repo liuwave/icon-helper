@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "图像编辑软件",
+    "AP"
+  ],
+  "description": "Affinity Photo是一款适用于Mac、Windows和iOS的照片编辑器。",
   "source": "https://affinity.serif.com/en-gb/photo/",
   "comments": []
 }

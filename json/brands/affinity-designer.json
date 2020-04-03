@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "专业图形设计软件",
+    "AD"
+  ],
+  "description": "Affinity Designer，简称AD，是一款集成了PS、AI、sketch等软件功能的设计工具，适用于Windows、Mac和iPad。",
   "source": "https://affinity.serif.com/en-gb/designer/",
   "comments": []
 }

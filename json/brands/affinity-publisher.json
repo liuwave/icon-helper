@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "排版神器",
+    "专业设计软件"
+  ],
+  "description": "Affinity Publisher是一款桌面设计排版应用，适合专业设计人员使用。",
   "source": "https://affinity.serif.com/en-gb/publisher/",
   "comments": []
 }

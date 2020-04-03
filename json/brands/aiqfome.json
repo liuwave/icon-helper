@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "饥饿感",
+    "餐饮外卖"
+  ],
+  "description": "Aiqfome是葡萄牙的一个餐饮外卖平台。",
   "source": "https://aiqfome.com",
   "comments": []
 }
