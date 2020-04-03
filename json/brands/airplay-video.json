@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "视频播放器"
+  ],
+  "description": "AirPlay Video是一个视频播放器。",
   "source": "https://developer.apple.com/design/human-interface-guidelines/airplay/overview/icons/",
   "comments": []
 }

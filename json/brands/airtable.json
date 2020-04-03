@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "在线表格应用"
+  ],
+  "description": "Airtable是一款在线表格应用，是表格制作工具,可以把文字、图片、链接、文档等各种资料聚合在一起。",
   "source": "https://airtable.com/press",
   "comments": []
 }
