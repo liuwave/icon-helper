@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "在线字库",
+    "字体工具包"
+  ],
+  "description": "Adobe Typekit是一个在线字库。",
   "source": "https://helpx.adobe.com/content/dam/help/mnemonics/tk_appicon_RGB.svg",
   "comments": []
 }
