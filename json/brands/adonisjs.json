@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Node.js Web框架"
+  ],
+  "description": "AdonisJs是一个Node.js Web框架。",
   "source": "https://adonisjs.com/",
   "comments": []
 }
