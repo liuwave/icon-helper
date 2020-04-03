@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "YouTube游戏"
+  ],
+  "description": "YouTube Gaming，即YouTube游戏，是油管的游戏视频频道，专注于游戏玩家和游戏。",
   "source": "https://gaming.youtube.com/",
   "comments": []
 }

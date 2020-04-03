@@ -11,8 +11,13 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "YouTube电视版",
+    "优兔",
+    "油管",
+    "视频"
+  ],
+  "description": "YouTube TV,YouTube电视版针对是智能电视开发的版本，有更好的效果。在家中最大的屏幕上畅想来自YouTube的内容。",
   "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged",
   "comments": []
 }

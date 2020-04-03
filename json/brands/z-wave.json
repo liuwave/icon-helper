@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "无线连接管理系统",
+    "智能家居",
+    "Z-wave联盟"
+  ],
+  "description": "Z-Ware是用于智能家居设备的无线电系统，专门用于连接智能家居设备，简单、经济、通用的家用自动化系统",
   "source": "https://www.z-wave.com/",
   "comments": []
 }

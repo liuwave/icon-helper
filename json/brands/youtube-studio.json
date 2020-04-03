@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "YouTube工作室",
+    "视频管理软件"
+  ],
+  "description": "YouTube Studio是一款帮你轻松管理YouTube频道的手机APP,包括查看最新统计信息、回复评论、上传自定义视频缩略图等等。",
   "source": "https://www.youtube.com/",
   "comments": []
 }
