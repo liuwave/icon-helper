@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "照片处理工具"
+  ],
+  "description": "Adobe Lightroom CC是一款图片后期处理软件，适合照片后期制作。",
   "source": "https://www.adobe.com/products/photoshop-lightroom.html",
   "comments": []
 }
