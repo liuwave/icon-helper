@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "游戏引擎"
+  ],
+  "description": "Amazon Lumberyard是亚马逊的一款基于Crytek的CryEngine的免费的游戏引擎,可以用来开发PC和主机平台的游戏。",
   "source": "https://github.com/aws/lumberyard",
   "comments": []
 }

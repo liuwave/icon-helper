@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "AMD",
+    "超微半导体公司",
+    "美国超微半导体公司"
+  ],
+  "description": "AMD是美国的一家半导体公司，专门为计算机、通信和消费电子行业设计和制造各种微处理器（CPU、GPU、APU、主板芯片组、电视卡芯片等)。",
   "source": "https://subscriptions.amd.com/greatpower/img/amd-logo-black.svg",
   "comments": []
 }
