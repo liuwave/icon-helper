@@ -6,6 +6,7 @@ zhTips: Angle Double Down,箭头,插入号,下载,展开,折叠向下
 tags: ["arrows"]
 pre: fas
 search: arrows,caret,download,expand
+image: https://iconhelper.cn/svg/fontawesome/solid/angle-double-down.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M143 256.3L7 120.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0L313 86.3c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.4 9.5-24.6 9.5-34 .1zm34 192l136-136c9.4-9.4 9.4-24.6 0-33.9l-22.6-22.6c-9.4-9.4-24.6-9.4-33.9 0L160 352.1l-96.4-96.4c-9.4-9.4-24.6-9.4-33.9 0L7 278.3c-9.4 9.4-9.4 24.6 0 33.9l136 136c9.4 9.5 24.6 9.5 34 .1z"/></svg>
 </div>
 <detail full-name='fa-angle-double-down'></detail>
+
+<Vssue title="关于“Angle Double Down”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

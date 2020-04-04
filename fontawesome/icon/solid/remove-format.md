@@ -6,6 +6,7 @@ zhTips: 删除格式,取消,字体,格式,删除,样式,文本
 tags: ["editors"]
 pre: fas
 search: cancel,font,format,remove,style,text
+image: https://iconhelper.cn/svg/fontawesome/solid/remove-format.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M336 416h-11.17l9.26-27.77L267 336.4 240.49 416H208a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm297.82 42.1L377 259.59 426.17 112H544v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16H176a16 16 0 0 0-16 16v43.9L45.46 3.38A16 16 0 0 0 23 6.19L3.37 31.46a16 16 0 0 0 2.81 22.45l588.36 454.72a16 16 0 0 0 22.46-2.81l19.64-25.27a16 16 0 0 0-2.82-22.45zM309.91 207.76L224 141.36V112h117.83z"/></svg>
 </div>
 <detail full-name='fa-remove-format'></detail>
+
+<Vssue title="关于“Remove Format”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

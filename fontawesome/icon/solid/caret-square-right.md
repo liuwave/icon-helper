@@ -6,6 +6,7 @@ zhTips: Caret Square Right,箭头,Caret square o right,向前,下一个,三角�
 tags: ["arrows"]
 pre: fas
 search: arrow,caret-square-o-right,forward,next,triangle
+image: https://iconhelper.cn/svg/fontawesome/solid/caret-square-right.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M48 32h352c26.51 0 48 21.49 48 48v352c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48zm140.485 355.515l123.029-123.029c4.686-4.686 4.686-12.284 0-16.971l-123.029-123.03c-7.56-7.56-20.485-2.206-20.485 8.485v246.059c0 10.691 12.926 16.045 20.485 8.486z"/></svg>
 </div>
 <detail full-name='fa-caret-square-right'></detail>
+
+<Vssue title="关于“Caret Square Right”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

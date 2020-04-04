@@ -6,6 +6,7 @@ zhTips: 以太坊
 tags: ["currency","payments-shopping"]
 pre: fab
 search: 
+image: https://iconhelper.cn/svg/fontawesome/brands/ethereum.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M311.9 260.8L160 353.6 8 260.8 160 0l151.9 260.8zM160 383.4L8 290.6 160 512l152-221.4-152 92.8z"/></svg>
 </div>
 <detail full-name='fa-ethereum'></detail>
+
+<Vssue title="关于“Ethereum”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

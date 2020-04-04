@@ -6,6 +6,7 @@ zhTips: 面积图,分析图,区域,图表,图形
 tags: ["business"]
 pre: fas
 search: analytics,area,chart,graph
+image: https://iconhelper.cn/svg/fontawesome/solid/chart-area.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M500 384c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H12c-6.6 0-12-5.4-12-12V76c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v308h436zM372.7 159.5L288 216l-85.3-113.7c-5.1-6.8-15.5-6.3-19.9 1L96 248v104h384l-89.9-187.8c-3.2-6.5-11.4-8.7-17.4-4.7z"/></svg>
 </div>
 <detail full-name='fa-chart-area'></detail>
+
+<Vssue title="关于“Area Chart”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

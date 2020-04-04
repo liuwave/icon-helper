@@ -6,6 +6,7 @@ zhTips: 油漆滚筒,丙烯酸,艺术,画笔,颜色,填充,油漆,颜料,水彩
 tags: ["construction","design"]
 pre: fas
 search: acrylic,art,brush,color,fill,paint,pigment,watercolor
+image: https://iconhelper.cn/svg/fontawesome/solid/paint-roller.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M416 128V32c0-17.67-14.33-32-32-32H32C14.33 0 0 14.33 0 32v96c0 17.67 14.33 32 32 32h352c17.67 0 32-14.33 32-32zm32-64v128c0 17.67-14.33 32-32 32H256c-35.35 0-64 28.65-64 64v32c-17.67 0-32 14.33-32 32v128c0 17.67 14.33 32 32 32h64c17.67 0 32-14.33 32-32V352c0-17.67-14.33-32-32-32v-32h160c53.02 0 96-42.98 96-96v-64c0-35.35-28.65-64-64-64z"/></svg>
 </div>
 <detail full-name='fa-paint-roller'></detail>
+
+<Vssue title="关于“Paint Roller”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

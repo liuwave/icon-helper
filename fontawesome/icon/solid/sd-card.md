@@ -6,6 +6,7 @@ zhTips: SD卡,图像,内存,照片,保存
 tags: ["computers","objects"]
 pre: fas
 search: image,memory,photo,save
+image: https://iconhelper.cn/svg/fontawesome/solid/sd-card.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M320 0H128L0 128v320c0 35.3 28.7 64 64 64h256c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64zM160 160h-48V64h48v96zm80 0h-48V64h48v96zm80 0h-48V64h48v96z"/></svg>
 </div>
 <detail full-name='fa-sd-card'></detail>
+
+<Vssue title="关于“Sd Card”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

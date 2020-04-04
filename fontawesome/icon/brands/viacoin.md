@@ -6,6 +6,7 @@ zhTips: Viacoin
 tags: []
 pre: fab
 search: 
+image: https://iconhelper.cn/svg/fontawesome/brands/viacoin.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M384 32h-64l-80.7 192h-94.5L64 32H0l48 112H0v48h68.5l13.8 32H0v48h102.8L192 480l89.2-208H384v-48h-82.3l13.8-32H384v-48h-48l48-112zM192 336l-27-64h54l-27 64z"/></svg>
 </div>
 <detail full-name='fa-viacoin'></detail>
+
+<Vssue title="关于“Viacoin”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

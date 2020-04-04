@@ -6,6 +6,7 @@ zhTips: 播放,音频,音乐,声音,开始,视频,播放黑
 tags: ["arrows","audio-video","music","shapes"]
 pre: fas
 search: audio,music,playing,sound,start,video
+image: https://iconhelper.cn/svg/fontawesome/solid/play.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"/></svg>
 </div>
 <detail full-name='fa-play'></detail>
+
+<Vssue title="关于“play”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

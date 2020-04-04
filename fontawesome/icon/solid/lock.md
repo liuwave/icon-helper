@@ -6,6 +6,7 @@ zhTips: 锁定,管理,打开,密码,私有,保护,安全,锁
 tags: ["objects","security","status"]
 pre: fas
 search: admin,lock,open,password,private,protect,security
+image: https://iconhelper.cn/svg/fontawesome/solid/lock.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 224h-24v-72C376 68.2 307.8 0 224 0S72 68.2 72 152v72H48c-26.5 0-48 21.5-48 48v192c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V272c0-26.5-21.5-48-48-48zm-104 0H152v-72c0-39.7 32.3-72 72-72s72 32.3 72 72v72z"/></svg>
 </div>
 <detail full-name='fa-lock'></detail>
+
+<Vssue title="关于“lock”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

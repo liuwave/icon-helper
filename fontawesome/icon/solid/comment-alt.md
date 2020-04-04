@@ -6,6 +6,7 @@ zhTips: 备用评论,气泡,聊天,评论,会话,反馈,消息,注释,通知,短
 tags: ["chat","communication","social","status"]
 pre: fas
 search: bubble,chat,commenting,conversation,feedback,message,note,notification,sms,speech,texting
+image: https://iconhelper.cn/svg/fontawesome/solid/comment-alt.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M448 0H64C28.7 0 0 28.7 0 64v288c0 35.3 28.7 64 64 64h96v84c0 9.8 11.2 15.5 19.1 9.7L304 416h144c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64z"/></svg>
 </div>
 <detail full-name='fa-comment-alt'></detail>
+
+<Vssue title="关于“Alternate Comment”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

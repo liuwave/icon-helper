@@ -6,6 +6,7 @@ zhTips: 酒吧,清单,拖动,汉堡包,列表,菜单,导航,ol,重新排序,设�
 tags: ["interfaces"]
 pre: fas
 search: checklist,drag,hamburger,list,menu,nav,navigation,ol,reorder,settings,todo,ul
+image: https://iconhelper.cn/svg/fontawesome/solid/bars.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"/></svg>
 </div>
 <detail full-name='fa-bars'></detail>
+
+<Vssue title="关于“Bars”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

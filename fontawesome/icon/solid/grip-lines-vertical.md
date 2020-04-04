@@ -6,6 +6,7 @@ zhTips: 垂直,抓握,拖动,拖放,抓斗,手柄线
 tags: ["interfaces"]
 pre: fas
 search: affordance,drag,drop,grab,handle
+image: https://iconhelper.cn/svg/fontawesome/solid/grip-lines-vertical.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path d="M96 496V16c0-8.8-7.2-16-16-16H48c-8.8 0-16 7.2-16 16v480c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16zm128 0V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v480c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16z"/></svg>
 </div>
 <detail full-name='fa-grip-lines-vertical'></detail>
+
+<Vssue title="关于“Grip Lines Vertical”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

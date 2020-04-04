@@ -6,6 +6,7 @@ zhTips: 水平交替箭头,h箭头,展开,水平,横向,调整大小,宽
 tags: ["arrows"]
 pre: fas
 search: arrows-h,expand,horizontal,landscape,resize,wide
+image: https://iconhelper.cn/svg/fontawesome/solid/arrows-alt-h.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M377.941 169.941V216H134.059v-46.059c0-21.382-25.851-32.09-40.971-16.971L7.029 239.029c-9.373 9.373-9.373 24.568 0 33.941l86.059 86.059c15.119 15.119 40.971 4.411 40.971-16.971V296h243.882v46.059c0 21.382 25.851 32.09 40.971 16.971l86.059-86.059c9.373-9.373 9.373-24.568 0-33.941l-86.059-86.059c-15.119-15.12-40.971-4.412-40.971 16.97z"/></svg>
 </div>
 <detail full-name='fa-arrows-alt-h'></detail>
+
+<Vssue title="关于“Alternate Arrows Horizontal”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -6,6 +6,7 @@ zhTips: Laravel
 tags: []
 pre: fab
 search: 
+image: https://iconhelper.cn/svg/fontawesome/brands/laravel.svg
 
 ---
 
@@ -71,6 +72,8 @@ unicode：
 
 </div>
 <detail full-name='fa-laravel'></detail>
+
+<Vssue title="关于“Laravel”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

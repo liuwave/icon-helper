@@ -6,6 +6,7 @@ zhTips: 插头,连接,电气,在线,电源,插头黑,插件,插座,接口,接头
 tags: ["computers","energy","household","maps","objects"]
 pre: fas
 search: connect,electric,online,power
+image: https://iconhelper.cn/svg/fontawesome/solid/plug.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M320,32a32,32,0,0,0-64,0v96h64Zm48,128H16A16,16,0,0,0,0,176v32a16,16,0,0,0,16,16H32v32A160.07,160.07,0,0,0,160,412.8V512h64V412.8A160.07,160.07,0,0,0,352,256V224h16a16,16,0,0,0,16-16V176A16,16,0,0,0,368,160ZM128,32a32,32,0,0,0-64,0v96h64Z"/></svg>
 </div>
 <detail full-name='fa-plug'></detail>
+
+<Vssue title="关于“Plug”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

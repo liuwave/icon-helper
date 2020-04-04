@@ -6,6 +6,7 @@ zhTips: 书签,收藏夹,标记,阅读,记住,保存,标签
 tags: ["maps","objects","payments-shopping","shapes","writing"]
 pre: fas
 search: favorite,marker,read,remember,save
+image: https://iconhelper.cn/svg/fontawesome/solid/bookmark.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 512V48C0 21.49 21.49 0 48 0h288c26.51 0 48 21.49 48 48v464L192 400 0 512z"/></svg>
 </div>
 <detail full-name='fa-bookmark'></detail>
+
+<Vssue title="关于“bookmark”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

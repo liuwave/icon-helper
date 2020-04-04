@@ -6,6 +6,7 @@ zhTips: 手拿着美元,$,携带,美元符号,捐赠,给予,举起,钱,价格
 tags: ["charity","finance","hands"]
 pre: fas
 search: $,carry,dollar sign,donation,giving,lift,money,price
+image: https://iconhelper.cn/svg/fontawesome/solid/hand-holding-usd.svg
 
 ---
 
@@ -71,6 +72,8 @@ unicode：
 
 </div>
 <detail full-name='fa-hand-holding-usd'></detail>
+
+<Vssue title="关于“Hand Holding US Dollar”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

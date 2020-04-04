@@ -6,6 +6,7 @@ zhTips: 圆形,圆形薄,直径,点,椭圆,通知,黑圈,圆
 tags: ["audio-video","interfaces","shapes","toggle"]
 pre: fas
 search: circle-thin,diameter,dot,ellipse,notification,round
+image: https://iconhelper.cn/svg/fontawesome/solid/circle.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z"/></svg>
 </div>
 <detail full-name='fa-circle'></detail>
+
+<Vssue title="关于“Circle”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

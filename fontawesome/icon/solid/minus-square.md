@@ -6,6 +6,7 @@ zhTips: 减号正方形,崩溃,删除,隐藏,最小化,负数,形状,垃圾箱
 tags: ["interfaces","status"]
 pre: fas
 search: collapse,delete,hide,minify,negative,remove,shape,trash
+image: https://iconhelper.cn/svg/fontawesome/solid/minus-square.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM92 296c-6.6 0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h264c6.6 0 12 5.4 12 12v56c0 6.6-5.4 12-12 12H92z"/></svg>
 </div>
 <detail full-name='fa-minus-square'></detail>
+
+<Vssue title="关于“Minus Square”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

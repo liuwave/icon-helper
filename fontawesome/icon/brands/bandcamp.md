@@ -6,6 +6,7 @@ zhTips: 乐队营,bandcamp,环,纽扣
 tags: []
 pre: fab
 search: 
+image: https://iconhelper.cn/svg/fontawesome/brands/bandcamp.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm48.2 326.1h-181L199.9 178h181l-84.7 156.1z"/></svg>
 </div>
 <detail full-name='fa-bandcamp'></detail>
+
+<Vssue title="关于“Bandcamp”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

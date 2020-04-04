@@ -6,6 +6,7 @@ zhTips: 安赫,护身符,铜,科普特基督教,小公牛,克卢斯·安萨塔,�
 tags: ["religion"]
 pre: fas
 search: amulet,copper,coptic christianity,copts,crux ansata,egypt,venus
+image: https://iconhelper.cn/svg/fontawesome/solid/ankh.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M296 256h-44.62C272.46 222.01 288 181.65 288 144 288 55.63 230.69 0 160 0S32 55.63 32 144c0 37.65 15.54 78.01 36.62 112H24c-13.25 0-24 10.74-24 24v32c0 13.25 10.75 24 24 24h96v152c0 13.25 10.75 24 24 24h32c13.25 0 24-10.75 24-24V336h96c13.25 0 24-10.75 24-24v-32c0-13.26-10.75-24-24-24zM160 80c29.61 0 48 24.52 48 64 0 34.66-27.14 78.14-48 100.87-20.86-22.72-48-66.21-48-100.87 0-39.48 18.39-64 48-64z"/></svg>
 </div>
 <detail full-name='fa-ankh'></detail>
+
+<Vssue title="关于“Ankh”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

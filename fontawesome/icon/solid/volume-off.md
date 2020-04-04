@@ -6,6 +6,7 @@ zhTips: 关闭音量,音频,禁令,音乐,静音,安静,声音,音量
 tags: ["audio-video","interfaces","music","status"]
 pre: fas
 search: audio,ban,music,mute,quiet,silent,sound
+image: https://iconhelper.cn/svg/fontawesome/solid/volume-off.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path d="M215 71l-89 89H24a24 24 0 0 0-24 24v144a24 24 0 0 0 24 24h102.06L215 441c15 15 41 4.47 41-17V88c0-21.47-26-32-41-17z"/></svg>
 </div>
 <detail full-name='fa-volume-off'></detail>
+
+<Vssue title="关于“Volume Off”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

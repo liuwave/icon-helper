@@ -6,6 +6,7 @@ zhTips: 水平省略号,圆点,拖动,烤肉串,列表,菜单,导航,ol,重新�
 tags: ["interfaces"]
 pre: fas
 search: dots,drag,kebab,list,menu,nav,navigation,ol,reorder,settings,ul
+image: https://iconhelper.cn/svg/fontawesome/solid/ellipsis-h.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M328 256c0 39.8-32.2 72-72 72s-72-32.2-72-72 32.2-72 72-72 72 32.2 72 72zm104-72c-39.8 0-72 32.2-72 72s32.2 72 72 72 72-32.2 72-72-32.2-72-72-72zm-352 0c-39.8 0-72 32.2-72 72s32.2 72 72 72 72-32.2 72-72-32.2-72-72-72z"/></svg>
 </div>
 <detail full-name='fa-ellipsis-h'></detail>
+
+<Vssue title="关于“Horizontal Ellipsis”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

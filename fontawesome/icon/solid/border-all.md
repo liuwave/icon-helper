@@ -6,6 +6,7 @@ zhTips: 边框全部,单元格,网格,轮廓,描边,表
 tags: ["editors"]
 pre: fas
 search: cell,grid,outline,stroke,table
+image: https://iconhelper.cn/svg/fontawesome/solid/border-all.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M416 32H32A32 32 0 0 0 0 64v384a32 32 0 0 0 32 32h384a32 32 0 0 0 32-32V64a32 32 0 0 0-32-32zm-32 64v128H256V96zm-192 0v128H64V96zM64 416V288h128v128zm192 0V288h128v128z"/></svg>
 </div>
 <detail full-name='fa-border-all'></detail>
+
+<Vssue title="关于“Border All”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

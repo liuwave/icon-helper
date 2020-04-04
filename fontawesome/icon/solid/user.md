@@ -6,6 +6,7 @@ zhTips: 用户,帐户,头像,头,人,个人资料,用户标志,个人,我的
 tags: ["interfaces","social","status","users-people"]
 pre: fas
 search: account,avatar,head,human,man,person,profile
+image: https://iconhelper.cn/svg/fontawesome/solid/user.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm89.6 32h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-41.6c0-74.2-60.2-134.4-134.4-134.4z"/></svg>
 </div>
 <detail full-name='fa-user'></detail>
+
+<Vssue title="关于“User”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

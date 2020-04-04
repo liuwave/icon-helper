@@ -6,6 +6,7 @@ zhTips: 最大化窗口,浏览器,计算机,开发,扩展,最大化,窗口最大
 tags: ["code"]
 pre: far
 search: browser,computer,development,expand
+image: https://iconhelper.cn/svg/fontawesome/regular/window-maximize.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zm0 394c0 3.3-2.7 6-6 6H54c-3.3 0-6-2.7-6-6V192h416v234z"/></svg>
 </div>
 <detail full-name='fa-window-maximize'></detail>
+
+<Vssue title="关于“Window Maximize”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -6,6 +6,7 @@ zhTips: 以太网,电缆,5类,6类,连接,硬件,互联网,网络,有线
 tags: ["computers"]
 pre: fas
 search: cable,cat 5,cat 6,connection,hardware,internet,network,wired
+image: https://iconhelper.cn/svg/fontawesome/solid/ethernet.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496 192h-48v-48c0-8.8-7.2-16-16-16h-48V80c0-8.8-7.2-16-16-16H144c-8.8 0-16 7.2-16 16v48H80c-8.8 0-16 7.2-16 16v48H16c-8.8 0-16 7.2-16 16v224c0 8.8 7.2 16 16 16h80V320h32v128h64V320h32v128h64V320h32v128h64V320h32v128h80c8.8 0 16-7.2 16-16V208c0-8.8-7.2-16-16-16z"/></svg>
 </div>
 <detail full-name='fa-ethernet'></detail>
+
+<Vssue title="关于“Ethernet”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

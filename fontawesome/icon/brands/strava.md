@@ -6,6 +6,7 @@ zhTips: Strava
 tags: []
 pre: fab
 search: 
+image: https://iconhelper.cn/svg/fontawesome/brands/strava.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M158.4 0L7 292h89.2l62.2-116.1L220.1 292h88.5zm150.2 292l-43.9 88.2-44.6-88.2h-67.6l112.2 220 111.5-220z"/></svg>
 </div>
 <detail full-name='fa-strava'></detail>
+
+<Vssue title="关于“Strava”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

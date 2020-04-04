@@ -6,6 +6,7 @@ zhTips: 男性,人类,男人,人,个人资料,用户,男厕所,帅哥
 tags: ["maps","users-people"]
 pre: fas
 search: human,man,person,profile,user
+image: https://iconhelper.cn/svg/fontawesome/solid/male.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path d="M96 0c35.346 0 64 28.654 64 64s-28.654 64-64 64-64-28.654-64-64S60.654 0 96 0m48 144h-11.36c-22.711 10.443-49.59 10.894-73.28 0H48c-26.51 0-48 21.49-48 48v136c0 13.255 10.745 24 24 24h16v136c0 13.255 10.745 24 24 24h64c13.255 0 24-10.745 24-24V352h16c13.255 0 24-10.745 24-24V192c0-26.51-21.49-48-48-48z"/></svg>
 </div>
 <detail full-name='fa-male'></detail>
+
+<Vssue title="关于“Male”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

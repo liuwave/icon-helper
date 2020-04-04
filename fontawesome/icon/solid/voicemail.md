@@ -6,6 +6,7 @@ zhTips: 语音邮件,应答,收件箱,消息,电话
 tags: ["communication"]
 pre: fas
 search: answer,inbox,message,phone
+image: https://iconhelper.cn/svg/fontawesome/solid/voicemail.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M496 128a144 144 0 0 0-119.74 224H263.74A144 144 0 1 0 144 416h352a144 144 0 0 0 0-288zM64 272a80 80 0 1 1 80 80 80 80 0 0 1-80-80zm432 80a80 80 0 1 1 80-80 80 80 0 0 1-80 80z"/></svg>
 </div>
 <detail full-name='fa-voicemail'></detail>
+
+<Vssue title="关于“Voicemail”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

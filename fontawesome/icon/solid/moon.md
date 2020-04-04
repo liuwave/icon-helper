@@ -6,6 +6,7 @@ zhTips: 月亮,对比度,新月,黑暗,月球,夜晚
 tags: ["objects","science-fiction","weather"]
 pre: fas
 search: contrast,crescent,dark,lunar,night
+image: https://iconhelper.cn/svg/fontawesome/solid/moon.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M283.211 512c78.962 0 151.079-35.925 198.857-94.792 7.068-8.708-.639-21.43-11.562-19.35-124.203 23.654-238.262-71.576-238.262-196.954 0-72.222 38.662-138.635 101.498-174.394 9.686-5.512 7.25-20.197-3.756-22.23A258.156 258.156 0 0 0 283.211 0c-141.309 0-256 114.511-256 256 0 141.309 114.511 256 256 256z"/></svg>
 </div>
 <detail full-name='fa-moon'></detail>
+
+<Vssue title="关于“Moon”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -6,6 +6,7 @@ zhTips: 圆点,靶心,通知,目标
 tags: ["interfaces","toggle"]
 pre: fas
 search: bullseye,notification,target
+image: https://iconhelper.cn/svg/fontawesome/solid/dot-circle.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm80 248c0 44.112-35.888 80-80 80s-80-35.888-80-80 35.888-80 80-80 80 35.888 80 80z"/></svg>
 </div>
 <detail full-name='fa-dot-circle'></detail>
+
+<Vssue title="关于“Dot Circle”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

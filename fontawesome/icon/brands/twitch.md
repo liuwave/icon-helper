@@ -6,6 +6,7 @@ zhTips: Twitch
 tags: ["games"]
 pre: fab
 search: 
+image: https://iconhelper.cn/svg/fontawesome/brands/twitch.svg
 
 ---
 
@@ -71,6 +72,8 @@ unicode：
 
 </div>
 <detail full-name='fa-twitch'></detail>
+
+<Vssue title="关于“Twitch”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

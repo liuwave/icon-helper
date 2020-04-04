@@ -6,6 +6,7 @@ zhTips: 替代作物,设计,框架,蒙版,调整大小,缩小
 tags: ["design"]
 pre: fas
 search: design,frame,mask,resize,shrink
+image: https://iconhelper.cn/svg/fontawesome/solid/crop-alt.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M488 352h-40V96c0-17.67-14.33-32-32-32H192v96h160v328c0 13.25 10.75 24 24 24h48c13.25 0 24-10.75 24-24v-40h40c13.25 0 24-10.75 24-24v-48c0-13.26-10.75-24-24-24zM160 24c0-13.26-10.75-24-24-24H88C74.75 0 64 10.74 64 24v40H24C10.75 64 0 74.74 0 88v48c0 13.25 10.75 24 24 24h40v256c0 17.67 14.33 32 32 32h224v-96H160V24z"/></svg>
 </div>
 <detail full-name='fa-crop-alt'></detail>
+
+<Vssue title="关于“Alternate Crop”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

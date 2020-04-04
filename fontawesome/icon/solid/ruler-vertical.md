@@ -6,6 +6,7 @@ zhTips: 尺子垂直,设计,草稿,长度,尺寸,计划
 tags: ["construction","design","objects"]
 pre: fas
 search: design,draft,length,measure,planning
+image: https://iconhelper.cn/svg/fontawesome/solid/ruler-vertical.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path d="M168 416c-4.42 0-8-3.58-8-8v-16c0-4.42 3.58-8 8-8h88v-64h-88c-4.42 0-8-3.58-8-8v-16c0-4.42 3.58-8 8-8h88v-64h-88c-4.42 0-8-3.58-8-8v-16c0-4.42 3.58-8 8-8h88v-64h-88c-4.42 0-8-3.58-8-8v-16c0-4.42 3.58-8 8-8h88V32c0-17.67-14.33-32-32-32H32C14.33 0 0 14.33 0 32v448c0 17.67 14.33 32 32 32h192c17.67 0 32-14.33 32-32v-64h-88z"/></svg>
 </div>
 <detail full-name='fa-ruler-vertical'></detail>
+
+<Vssue title="关于“Ruler Vertical”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

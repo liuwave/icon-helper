@@ -6,6 +6,7 @@ zhTips: 橡皮擦,艺术,删除,橡胶,擦除器,清除格式,清除
 tags: ["business","design","editors","interfaces","objects","writing"]
 pre: fas
 search: art,delete,remove,rubber
+image: https://iconhelper.cn/svg/fontawesome/solid/eraser.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M497.941 273.941c18.745-18.745 18.745-49.137 0-67.882l-160-160c-18.745-18.745-49.136-18.746-67.883 0l-256 256c-18.745 18.745-18.745 49.137 0 67.882l96 96A48.004 48.004 0 0 0 144 480h356c6.627 0 12-5.373 12-12v-40c0-6.627-5.373-12-12-12H355.883l142.058-142.059zm-302.627-62.627l137.373 137.373L265.373 416H150.628l-80-80 124.686-124.686z"/></svg>
 </div>
 <detail full-name='fa-eraser'></detail>
+
+<Vssue title="关于“eraser”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

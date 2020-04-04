@@ -6,6 +6,7 @@ zhTips: 门关闭,进入,出口,上锁
 tags: ["hotel","household","objects","security","status"]
 pre: fas
 search: enter,exit,locked
+image: https://iconhelper.cn/svg/fontawesome/solid/door-closed.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M624 448H512V50.8C512 22.78 490.47 0 464 0H175.99c-26.47 0-48 22.78-48 50.8V448H16c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h608c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16zM415.99 288c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32c.01 17.67-14.32 32-32 32z"/></svg>
 </div>
 <detail full-name='fa-door-closed'></detail>
+
+<Vssue title="关于“Door Closed”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

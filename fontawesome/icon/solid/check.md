@@ -6,6 +6,7 @@ zhTips: 检查,接受,同意,选中标记,确认,正确,完成,通知,确定,选
 tags: ["interfaces"]
 pre: fas
 search: accept,agree,checkmark,confirm,correct,done,notice,notification,notify,ok,select,success,tick,todo,yes
+image: https://iconhelper.cn/svg/fontawesome/solid/check.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"/></svg>
 </div>
 <detail full-name='fa-check'></detail>
+
+<Vssue title="关于“Check”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

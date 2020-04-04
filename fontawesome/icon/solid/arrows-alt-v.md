@@ -6,6 +6,7 @@ zhTips: 垂直的替代箭头,箭头v,展开,人像,调整大小,高,垂直
 tags: ["arrows"]
 pre: fas
 search: arrows-v,expand,portrait,resize,tall,vertical
+image: https://iconhelper.cn/svg/fontawesome/solid/arrows-alt-v.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path d="M214.059 377.941H168V134.059h46.059c21.382 0 32.09-25.851 16.971-40.971L144.971 7.029c-9.373-9.373-24.568-9.373-33.941 0L24.971 93.088c-15.119 15.119-4.411 40.971 16.971 40.971H88v243.882H41.941c-21.382 0-32.09 25.851-16.971 40.971l86.059 86.059c9.373 9.373 24.568 9.373 33.941 0l86.059-86.059c15.12-15.119 4.412-40.971-16.97-40.971z"/></svg>
 </div>
 <detail full-name='fa-arrows-alt-v'></detail>
+
+<Vssue title="关于“Alternate Arrows Vertical”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

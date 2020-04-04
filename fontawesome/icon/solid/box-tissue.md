@@ -6,6 +6,7 @@ zhTips: 纸巾盒,咳嗽,子宫炎19,面巾纸,粘液,鼻子,喷嚏,鼻涕
 tags: ["household"]
 pre: fas
 search: cough,covid-19,kleenex,mucus,nose,sneeze,snot
+image: https://iconhelper.cn/svg/fontawesome/solid/box-tissue.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M383.88,287.82l64-192H338.47a70.2,70.2,0,0,1-66.59-48,70.21,70.21,0,0,0-66.6-48H63.88l64,288Zm-384,192a32,32,0,0,0,32,32h448a32,32,0,0,0,32-32v-64H-.12Zm480-256H438.94l-21.33,64h14.27a16,16,0,0,1,0,32h-352a16,16,0,1,1,0-32H95.09l-14.22-64h-49a32,32,0,0,0-32,32v128h512v-128A32,32,0,0,0,479.88,223.82Z"/></svg>
 </div>
 <detail full-name='fa-box-tissue'></detail>
+
+<Vssue title="关于“Tissue Box”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

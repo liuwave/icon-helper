@@ -6,6 +6,7 @@ zhTips: 播放圈子,音频,音乐,播放,声音,开始,视频
 tags: ["audio-video"]
 pre: fas
 search: audio,music,playing,sound,start,video
+image: https://iconhelper.cn/svg/fontawesome/solid/play-circle.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm115.7 272l-176 101c-15.8 8.8-35.7-2.5-35.7-21V152c0-18.4 19.8-29.8 35.7-21l176 107c16.4 9.2 16.4 32.9 0 42z"/></svg>
 </div>
 <detail full-name='fa-play-circle'></detail>
+
+<Vssue title="关于“Play Circle”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

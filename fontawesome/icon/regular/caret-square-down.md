@@ -6,6 +6,7 @@ zhTips: Caret Square Down,箭头,Caret square o down,下拉菜单,展开,菜单,
 tags: ["arrows"]
 pre: far
 search: arrow,caret-square-o-down,dropdown,expand,menu,more,triangle
+image: https://iconhelper.cn/svg/fontawesome/regular/caret-square-down.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M125.1 208h197.8c10.7 0 16.1 13 8.5 20.5l-98.9 98.3c-4.7 4.7-12.2 4.7-16.9 0l-98.9-98.3c-7.7-7.5-2.3-20.5 8.4-20.5zM448 80v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48zm-48 346V86c0-3.3-2.7-6-6-6H54c-3.3 0-6 2.7-6 6v340c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"/></svg>
 </div>
 <detail full-name='fa-caret-square-down'></detail>
+
+<Vssue title="关于“Caret Square Down”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

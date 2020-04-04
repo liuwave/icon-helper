@@ -6,6 +6,7 @@ zhTips: 时钟,日期,时间,时间表,计时器,时间戳,手表
 tags: ["date-time"]
 pre: fas
 search: date,late,schedule,time,timer,timestamp,watch
+image: https://iconhelper.cn/svg/fontawesome/solid/clock.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256,8C119,8,8,119,8,256S119,504,256,504,504,393,504,256,393,8,256,8Zm92.49,313h0l-20,25a16,16,0,0,1-22.49,2.5h0l-67-49.72a40,40,0,0,1-15-31.23V112a16,16,0,0,1,16-16h32a16,16,0,0,1,16,16V256l58,42.5A16,16,0,0,1,348.49,321Z"/></svg>
 </div>
 <detail full-name='fa-clock'></detail>
+
+<Vssue title="关于“Clock”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

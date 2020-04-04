@@ -6,6 +6,7 @@ zhTips: 位置箭头,地址,指南针,坐标,方向,gps,地图,导航,位置,定
 tags: ["arrows","maps"]
 pre: fas
 search: address,compass,coordinate,direction,gps,map,navigation,place
+image: https://iconhelper.cn/svg/fontawesome/solid/location-arrow.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M444.52 3.52L28.74 195.42c-47.97 22.39-31.98 92.75 19.19 92.75h175.91v175.91c0 51.17 70.36 67.17 92.75 19.19l191.9-415.78c15.99-38.39-25.59-79.97-63.97-63.97z"/></svg>
 </div>
 <detail full-name='fa-location-arrow'></detail>
+
+<Vssue title="关于“location-arrow”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

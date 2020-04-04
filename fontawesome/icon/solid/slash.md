@@ -6,6 +6,7 @@ zhTips: 斜杠,取消,关闭,静音,停止,x
 tags: ["spinners"]
 pre: fas
 search: cancel,close,mute,off,stop,x
+image: https://iconhelper.cn/svg/fontawesome/solid/slash.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M594.53 508.63L6.18 53.9c-6.97-5.42-8.23-15.47-2.81-22.45L23.01 6.18C28.43-.8 38.49-2.06 45.47 3.37L633.82 458.1c6.97 5.42 8.23 15.47 2.81 22.45l-19.64 25.27c-5.42 6.98-15.48 8.23-22.46 2.81z"/></svg>
 </div>
 <detail full-name='fa-slash'></detail>
+
+<Vssue title="关于“Slash”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -6,6 +6,7 @@ zhTips: 排序（升序）,箭头,升序,过滤器,顺序,升序排序
 tags: ["arrows","interfaces"]
 pre: fas
 search: arrow,ascending,filter,order,sort-asc
+image: https://iconhelper.cn/svg/fontawesome/solid/sort-up.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M279 224H41c-21.4 0-32.1-25.9-17-41L143 64c9.4-9.4 24.6-9.4 33.9 0l119 119c15.2 15.1 4.5 41-16.9 41z"/></svg>
 </div>
 <detail full-name='fa-sort-up'></detail>
+
+<Vssue title="关于“Sort Up (Ascending)”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -6,6 +6,7 @@ zhTips: 评论,泡沫,聊天,会话,反馈,消息,请注意,通知,短信,语音
 tags: ["chat","communication","shapes","social","status"]
 pre: fas
 search: bubble,chat,commenting,conversation,feedback,message,note,notification,sms,speech,texting
+image: https://iconhelper.cn/svg/fontawesome/solid/comment.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"/></svg>
 </div>
 <detail full-name='fa-comment'></detail>
+
+<Vssue title="关于“comment”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

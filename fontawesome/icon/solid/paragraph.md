@@ -6,6 +6,7 @@ zhTips: 段落,编辑,格式,文本,写作,段落符号
 tags: ["editors","writing"]
 pre: fas
 search: edit,format,text,writing
+image: https://iconhelper.cn/svg/fontawesome/solid/paragraph.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M448 48v32a16 16 0 0 1-16 16h-48v368a16 16 0 0 1-16 16h-32a16 16 0 0 1-16-16V96h-32v368a16 16 0 0 1-16 16h-32a16 16 0 0 1-16-16V352h-32a160 160 0 0 1 0-320h240a16 16 0 0 1 16 16z"/></svg>
 </div>
 <detail full-name='fa-paragraph'></detail>
+
+<Vssue title="关于“paragraph”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

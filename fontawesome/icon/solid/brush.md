@@ -6,6 +6,7 @@ zhTips: 画笔,艺术,鬃毛,颜色,手柄,油漆
 tags: ["construction","design"]
 pre: fas
 search: art,bristles,color,handle,paint
+image: https://iconhelper.cn/svg/fontawesome/solid/brush.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M352 0H32C14.33 0 0 14.33 0 32v224h384V32c0-17.67-14.33-32-32-32zM0 320c0 35.35 28.66 64 64 64h64v64c0 35.35 28.66 64 64 64s64-28.65 64-64v-64h64c35.34 0 64-28.65 64-64v-32H0v32zm192 104c13.25 0 24 10.74 24 24 0 13.25-10.75 24-24 24s-24-10.75-24-24c0-13.26 10.75-24 24-24z"/></svg>
 </div>
 <detail full-name='fa-brush'></detail>
+
+<Vssue title="关于“Brush”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

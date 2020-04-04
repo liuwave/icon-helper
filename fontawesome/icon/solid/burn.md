@@ -6,6 +6,7 @@ zhTips: 燃烧,卡路里,能量,火,火焰,气体,热,烧伤
 tags: ["energy","fitness","medical","science"]
 pre: fas
 search: caliente,energy,fire,flame,gas,heat,hot
+image: https://iconhelper.cn/svg/fontawesome/solid/burn.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M192 0C79.7 101.3 0 220.9 0 300.5 0 425 79 512 192 512s192-87 192-211.5c0-79.9-80.2-199.6-192-300.5zm0 448c-56.5 0-96-39-96-94.8 0-13.5 4.6-61.5 96-161.2 91.4 99.7 96 147.7 96 161.2 0 55.8-39.5 94.8-96 94.8z"/></svg>
 </div>
 <detail full-name='fa-burn'></detail>
+
+<Vssue title="关于“Burn”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

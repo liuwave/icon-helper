@@ -6,6 +6,7 @@ zhTips: 向下角,箭头,插入号,下载,扩展,下拉,倒三角
 tags: ["arrows"]
 pre: fas
 search: arrow,caret,download,expand
+image: https://iconhelper.cn/svg/fontawesome/solid/angle-down.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z"/></svg>
 </div>
 <detail full-name='fa-angle-down'></detail>
+
+<Vssue title="关于“angle-down”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

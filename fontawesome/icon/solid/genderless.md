@@ -6,6 +6,7 @@ zhTips: 无性别,雌雄同体,无性,圆圈
 tags: ["gender"]
 pre: fas
 search: androgynous,asexual,sexless
+image: https://iconhelper.cn/svg/fontawesome/solid/genderless.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 512"><path d="M144 176c44.1 0 80 35.9 80 80s-35.9 80-80 80-80-35.9-80-80 35.9-80 80-80m0-64C64.5 112 0 176.5 0 256s64.5 144 144 144 144-64.5 144-144-64.5-144-144-144z"/></svg>
 </div>
 <detail full-name='fa-genderless'></detail>
+
+<Vssue title="关于“Genderless”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

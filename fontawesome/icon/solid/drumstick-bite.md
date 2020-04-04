@@ -6,6 +6,7 @@ zhTips: 鸡腿取出,骨头,鸡肉,腿,肉,家禽,火鸡
 tags: ["autumn","food"]
 pre: fas
 search: bone,chicken,leg,meat,poultry,turkey
+image: https://iconhelper.cn/svg/fontawesome/solid/drumstick-bite.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M462.8 49.57a169.44 169.44 0 0 0-239.5 0C187.82 85 160.13 128 160.13 192v85.83l-40.62 40.59c-9.7 9.69-24 11.07-36.78 6a60.33 60.33 0 0 0-65 98.72C33 438.39 54.24 442.7 73.85 438.21c-4.5 19.6-.18 40.83 15.1 56.1a60.35 60.35 0 0 0 98.8-65c-5.09-12.73-3.72-27 6-36.75L234.36 352h85.89a187.87 187.87 0 0 0 61.89-10c-39.64-43.89-39.83-110.23 1.05-151.07 34.38-34.36 86.76-39.46 128.74-16.8 1.3-44.96-14.81-90.28-49.13-124.56z"/></svg>
 </div>
 <detail full-name='fa-drumstick-bite'></detail>
+
+<Vssue title="关于“Drumstick with Bite Taken Out”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -6,6 +6,7 @@ zhTips: 减号,崩溃,删除,隐藏,最小化,负数,垃圾箱,负号
 tags: ["interfaces","mathematics","status"]
 pre: fas
 search: collapse,delete,hide,minify,negative,remove,trash
+image: https://iconhelper.cn/svg/fontawesome/solid/minus.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"/></svg>
 </div>
 <detail full-name='fa-minus'></detail>
+
+<Vssue title="关于“minus”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

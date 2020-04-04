@@ -6,6 +6,7 @@ zhTips: 游戏手柄,街机,控制器,d垫,游戏杆,视频,视频游戏,手柄,
 tags: ["childhood","games","maps","objects"]
 pre: fas
 search: arcade,controller,d-pad,joystick,video,video game
+image: https://iconhelper.cn/svg/fontawesome/solid/gamepad.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M480.07 96H160a160 160 0 1 0 114.24 272h91.52A160 160 0 1 0 480.07 96zM248 268a12 12 0 0 1-12 12h-52v52a12 12 0 0 1-12 12h-24a12 12 0 0 1-12-12v-52H84a12 12 0 0 1-12-12v-24a12 12 0 0 1 12-12h52v-52a12 12 0 0 1 12-12h24a12 12 0 0 1 12 12v52h52a12 12 0 0 1 12 12zm216 76a40 40 0 1 1 40-40 40 40 0 0 1-40 40zm64-96a40 40 0 1 1 40-40 40 40 0 0 1-40 40z"/></svg>
 </div>
 <detail full-name='fa-gamepad'></detail>
+
+<Vssue title="关于“Gamepad”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

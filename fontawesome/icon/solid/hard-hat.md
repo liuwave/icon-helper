@@ -6,6 +6,7 @@ zhTips: 安全帽,建筑,头盔,安全
 tags: ["construction","logistics"]
 pre: fas
 search: construction,hardhat,helmet,safety
+image: https://iconhelper.cn/svg/fontawesome/solid/hard-hat.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M480 288c0-80.25-49.28-148.92-119.19-177.62L320 192V80a16 16 0 0 0-16-16h-96a16 16 0 0 0-16 16v112l-40.81-81.62C81.28 139.08 32 207.75 32 288v64h448zm16 96H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h480a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"/></svg>
 </div>
 <detail full-name='fa-hard-hat'></detail>
+
+<Vssue title="关于“Hard Hat”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -10,14 +10,15 @@
   "license": "MIT",
   "author": "liuwave",
   "devDependencies": {
+    "@liuwave/vuepress-plugin-social-share": "^0.2.1",
     "@vuepress/plugin-back-to-top": "^1.4.0",
     "@vuepress/plugin-medium-zoom": "^1.4.0",
     "@vuepress/plugin-pwa": "^1.4.0",
     "@vuepress/plugin-search": "^1.4.0",
+    "simple-icons": "^2.8.0",
     "vuepress": "^1.4.0",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
-    "vuepress-plugin-baidu-google-analytics": "^1.0.0",
-    "simple-icons": "^2.8.0"
+    "vuepress-plugin-baidu-google-analytics": "^1.0.0"
   },
   "scripts": {
     "m:dev": "vuepress dev material",
@@ -29,6 +30,8 @@
     "i:build": "vuepress build index"
   },
   "dependencies": {
+    "@vssue/api-gitee-v5": "^1.4.0",
+    "@vssue/vuepress-plugin-vssue": "^1.4.3",
     "@vuepress/theme-default": "^1.4.0",
     "canvg": "^3.0.5",
     "file-saver": "^2.0.2",

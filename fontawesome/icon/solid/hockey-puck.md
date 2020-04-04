@@ -6,6 +6,7 @@ zhTips: 冰球,冰,NHL,运动
 tags: ["sports"]
 pre: fas
 search: ice,nhl,sport
+image: https://iconhelper.cn/svg/fontawesome/solid/hockey-puck.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M0 160c0-53 114.6-96 256-96s256 43 256 96-114.6 96-256 96S0 213 0 160zm0 82.2V352c0 53 114.6 96 256 96s256-43 256-96V242.2c-113.4 82.3-398.5 82.4-512 0z"/></svg>
 </div>
 <detail full-name='fa-hockey-puck'></detail>
+
+<Vssue title="关于“Hockey Puck”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

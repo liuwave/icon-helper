@@ -6,6 +6,7 @@ zhTips: 向导帽子,地牢与龙,配件,带扣,服装,d＆d,dnd,幻想,万圣�
 tags: ["clothing","gaming-tabletop","halloween","objects"]
 pre: fas
 search: Dungeons & Dragons,accessory,buckle,clothing,d&d,dnd,fantasy,halloween,head,holiday,mage,magic,pointy,witch
+image: https://iconhelper.cn/svg/fontawesome/solid/hat-wizard.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M496 448H16c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h480c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16zm-304-64l-64-32 64-32 32-64 32 64 64 32-64 32-16 32h208l-86.41-201.63a63.955 63.955 0 0 1-1.89-45.45L416 0 228.42 107.19a127.989 127.989 0 0 0-53.46 59.15L64 416h144l-16-32zm64-224l16-32 16 32 32 16-32 16-16 32-16-32-32-16 32-16z"/></svg>
 </div>
 <detail full-name='fa-hat-wizard'></detail>
+
+<Vssue title="关于“Wizard's Hat”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

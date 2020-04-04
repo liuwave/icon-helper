@@ -6,6 +6,7 @@ zhTips: 冰淇淋,巧克力,甜筒,甜点,冰冻,浓汤,冰沙,香草,酸奶
 tags: ["childhood","food","summer"]
 pre: fas
 search: chocolate,cone,dessert,frozen,scoop,sorbet,vanilla,yogurt
+image: https://iconhelper.cn/svg/fontawesome/solid/ice-cream.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M368 160h-.94a144 144 0 1 0-286.12 0H80a48 48 0 0 0 0 96h288a48 48 0 0 0 0-96zM195.38 493.69a31.52 31.52 0 0 0 57.24 0L352 288H96z"/></svg>
 </div>
 <detail full-name='fa-ice-cream'></detail>
+
+<Vssue title="关于“Ice Cream”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

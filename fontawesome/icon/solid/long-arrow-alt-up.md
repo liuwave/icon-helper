@@ -6,6 +6,7 @@ zhTips: 备用长箭头向上,长箭头向上,上传
 tags: ["arrows"]
 pre: fas
 search: long-arrow-up,upload
+image: https://iconhelper.cn/svg/fontawesome/solid/long-arrow-alt-up.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512"><path d="M88 166.059V468c0 6.627 5.373 12 12 12h56c6.627 0 12-5.373 12-12V166.059h46.059c21.382 0 32.09-25.851 16.971-40.971l-86.059-86.059c-9.373-9.373-24.569-9.373-33.941 0l-86.059 86.059c-15.119 15.119-4.411 40.971 16.971 40.971H88z"/></svg>
 </div>
 <detail full-name='fa-long-arrow-alt-up'></detail>
+
+<Vssue title="关于“Alternate Long Arrow Up”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

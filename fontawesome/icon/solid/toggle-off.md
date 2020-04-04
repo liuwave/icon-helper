@@ -6,6 +6,7 @@ zhTips: 切换关闭,切换,checkbox,关
 tags: ["interfaces","status","toggle"]
 pre: fas
 search: switch
+image: https://iconhelper.cn/svg/fontawesome/solid/toggle-off.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M384 64H192C85.961 64 0 149.961 0 256s85.961 192 192 192h192c106.039 0 192-85.961 192-192S490.039 64 384 64zM64 256c0-70.741 57.249-128 128-128 70.741 0 128 57.249 128 128 0 70.741-57.249 128-128 128-70.741 0-128-57.249-128-128zm320 128h-48.905c65.217-72.858 65.236-183.12 0-256H384c70.741 0 128 57.249 128 128 0 70.74-57.249 128-128 128z"/></svg>
 </div>
 <detail full-name='fa-toggle-off'></detail>
+
+<Vssue title="关于“Toggle Off”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

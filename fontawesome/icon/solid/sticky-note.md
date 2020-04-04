@@ -6,6 +6,7 @@ zhTips: 粘滞便笺,消息,便条,纸张,提醒,贴纸
 tags: ["business","files","objects","writing"]
 pre: fas
 search: message,note,paper,reminder,sticker
+image: https://iconhelper.cn/svg/fontawesome/solid/sticky-note.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M312 320h136V56c0-13.3-10.7-24-24-24H24C10.7 32 0 42.7 0 56v400c0 13.3 10.7 24 24 24h264V344c0-13.2 10.8-24 24-24zm129 55l-98 98c-4.5 4.5-10.6 7-17 7h-6V352h128v6.1c0 6.3-2.5 12.4-7 16.9z"/></svg>
 </div>
 <detail full-name='fa-sticky-note'></detail>
+
+<Vssue title="关于“Sticky Note”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

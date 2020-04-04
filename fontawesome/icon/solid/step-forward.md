@@ -6,6 +6,7 @@ zhTips: 前进,结束,最后,下一个
 tags: ["audio-video"]
 pre: fas
 search: end,last,next
+image: https://iconhelper.cn/svg/fontawesome/solid/step-forward.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M384 44v424c0 6.6-5.4 12-12 12h-48c-6.6 0-12-5.4-12-12V291.6l-195.5 181C95.9 489.7 64 475.4 64 448V64c0-27.4 31.9-41.7 52.5-24.6L312 219.3V44c0-6.6 5.4-12 12-12h48c6.6 0 12 5.4 12 12z"/></svg>
 </div>
 <detail full-name='fa-step-forward'></detail>
+
+<Vssue title="关于“step-forward”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

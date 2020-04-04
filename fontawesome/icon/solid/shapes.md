@@ -6,6 +6,7 @@ zhTips: 形状,块,构建,圆形,正方形,三角形
 tags: ["childhood","education","shapes"]
 pre: fas
 search: blocks,build,circle,square,triangle
+image: https://iconhelper.cn/svg/fontawesome/solid/shapes.svg
 
 ---
 
@@ -71,6 +72,8 @@ unicode：
 
 </div>
 <detail full-name='fa-shapes'></detail>
+
+<Vssue title="关于“Shapes”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

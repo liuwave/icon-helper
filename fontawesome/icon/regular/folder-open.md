@@ -6,6 +6,7 @@ zhTips: 文件夹打开,归档,目录,文档,空,文件,新,打开,文件夹,网
 tags: ["business","code","files","interfaces","status","writing"]
 pre: far
 search: archive,directory,document,empty,file,new
+image: https://iconhelper.cn/svg/fontawesome/regular/folder-open.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M527.9 224H480v-48c0-26.5-21.5-48-48-48H272l-64-64H48C21.5 64 0 85.5 0 112v288c0 26.5 21.5 48 48 48h400c16.5 0 31.9-8.5 40.7-22.6l79.9-128c20-31.9-3-73.4-40.7-73.4zM48 118c0-3.3 2.7-6 6-6h134.1l64 64H426c3.3 0 6 2.7 6 6v42H152c-16.8 0-32.4 8.8-41.1 23.2L48 351.4zm400 282H72l77.2-128H528z"/></svg>
 </div>
 <detail full-name='fa-folder-open'></detail>
+
+<Vssue title="关于“Folder Open”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

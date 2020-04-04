@@ -6,6 +6,7 @@ zhTips: Swatchbook,Pantone,颜色,设计,色相,调色板
 tags: ["design"]
 pre: fas
 search: Pantone,color,design,hue,palette
+image: https://iconhelper.cn/svg/fontawesome/solid/swatchbook.svg
 
 ---
 
@@ -71,6 +72,8 @@ unicode：
 
 </div>
 <detail full-name='fa-swatchbook'></detail>
+
+<Vssue title="关于“Swatchbook”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -6,6 +6,7 @@ zhTips: 禁止,中止,不允许,阻止,取消,删除,隐藏,停止,垃圾,忙,�
 tags: ["interfaces","security","status"]
 pre: fas
 search: abort,ban,block,cancel,delete,hide,prohibit,remove,stop,trash
+image: https://iconhelper.cn/svg/fontawesome/solid/ban.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8C119.034 8 8 119.033 8 256s111.034 248 248 248 248-111.034 248-248S392.967 8 256 8zm130.108 117.892c65.448 65.448 70 165.481 20.677 235.637L150.47 105.216c70.204-49.356 170.226-44.735 235.638 20.676zM125.892 386.108c-65.448-65.448-70-165.481-20.677-235.637L361.53 406.784c-70.203 49.356-170.226 44.736-235.638-20.676z"/></svg>
 </div>
 <detail full-name='fa-ban'></detail>
+
+<Vssue title="关于“ban”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

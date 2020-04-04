@@ -6,6 +6,7 @@ zhTips: 眼睛,看,光学,看到,显示,视线,视图,可见,观察,公开
 tags: ["design","images","interfaces","maps","objects","security","status"]
 pre: fas
 search: look,optic,see,seen,show,sight,views,visible
+image: https://iconhelper.cn/svg/fontawesome/solid/eye.svg
 
 ---
 
@@ -70,6 +71,8 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M572.52 241.4C518.29 135.59 410.93 64 288 64S57.68 135.64 3.48 241.41a32.35 32.35 0 0 0 0 29.19C57.71 376.41 165.07 448 288 448s230.32-71.64 284.52-177.41a32.35 32.35 0 0 0 0-29.19zM288 400a144 144 0 1 1 144-144 143.93 143.93 0 0 1-144 144zm0-240a95.31 95.31 0 0 0-25.31 3.79 47.85 47.85 0 0 1-66.9 66.9A95.78 95.78 0 1 0 288 160z"/></svg>
 </div>
 <detail full-name='fa-eye'></detail>
+
+<Vssue title="关于“Eye”的评论" />
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>
