@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "亚马逊亚历克斯"
+  ],
+  "description": "Amazon Alexa是亚马逊旗下的一个智能语音助手。",
   "source": "https://developer.amazon.com/docs/alexa-voice-service/logo-and-brand.html",
   "comments": []
 }

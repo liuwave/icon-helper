@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "支付宝"
+  ],
+  "description": "alipay是阿里巴巴旗下的支付工具————支付宝，是一款国内的第三方支付平台。",
   "source": "https://gw.alipayobjects.com/os/rmsportal/trUJZfSrlnRCcFgfZGjD.ai",
   "comments": []
 }

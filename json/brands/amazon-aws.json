@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "AWS",
+    "亚马逊AWS"
+  ],
+  "description": "Amazon AWS是亚马逊公司旗下的云计算服务平台。",
   "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg",
   "comments": []
 }

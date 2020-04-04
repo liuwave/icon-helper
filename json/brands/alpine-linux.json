@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Linux操作系统",
+    "高山Linux"
+  ],
+  "description": "Alpine Linux是一个安全简单的轻量级Linux操作系统。",
   "source": "https://alpinelinux.org/",
   "comments": []
 }

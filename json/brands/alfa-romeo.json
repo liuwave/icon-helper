@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "伦巴第汽车制造厂",
+    "阿尔法·罗密欧",
+    "ALFA"
+  ],
+  "description": "Alfa Romeo（阿尔法·罗密欧）是一家意大利汽车制造商，创建于1910年，总部在米兰，原名伦巴第汽车制造厂。",
   "source": "http://www.fcaci.com/x/Alfa",
   "comments": []
 }

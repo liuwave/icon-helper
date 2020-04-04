@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "开源开发社区"
+  ],
+  "description": "AlliedModders是一个开源开发社区，专注于修改半条命游戏的服务器端。",
   "source": "https://forums.alliedmods.net/index.php",
   "comments": []
 }
