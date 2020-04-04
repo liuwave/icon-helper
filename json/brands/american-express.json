@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "美国运通公司"
+  ],
+  "description": "American Express（美国运通公司）是国际上最大的旅游服务及综合性财务、金融投资及信息处理的环球公司。",
   "source": "https://commons.wikimedia.org/wiki/File:American_Express_logo.svg",
   "comments": []
 }

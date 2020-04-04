@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "美国航空",
+    "美国航空公司"
+  ],
+  "description": "American Airlines是美国航空公司，世界上最大的航空公司。",
   "source": "https://en.wikipedia.org/wiki/File:American_Airlines_logo_2013.svg",
   "comments": []
 }

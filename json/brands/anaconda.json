@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "开源Python"
+  ],
+  "description": "Anaconda是一个开源的Python发行版本，其中包含conda、Python等180多个科学包及其依赖项。",
   "source": "https://www.anaconda.com/media-kit/",
   "comments": []
 }
