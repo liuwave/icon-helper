@@ -22,5 +22,6 @@
     "随机播放"
   ],
   "description": "",
-  "comments": []
+  "comments": [],
+  "slug": "shuffle"
 }

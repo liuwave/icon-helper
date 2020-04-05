@@ -22,5 +22,6 @@
     "卸载"
   ],
   "description": "",
-  "comments": []
+  "comments": [],
+  "slug": "uninstall"
 }

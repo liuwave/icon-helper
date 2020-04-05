@@ -22,5 +22,6 @@
     "锁定旋转屏幕"
   ],
   "description": "",
-  "comments": []
+  "comments": [],
+  "slug": "rotate-lock"
 }

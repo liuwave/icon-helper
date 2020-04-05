@@ -23,5 +23,6 @@
     "低电量"
   ],
   "description": "",
-  "comments": []
+  "comments": [],
+  "slug": "battery-low"
 }

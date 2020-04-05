@@ -29,5 +29,6 @@
     "发件箱"
   ],
   "description": "",
-  "comments": []
+  "comments": [],
+  "slug": "mail-send"
 }

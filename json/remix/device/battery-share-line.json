@@ -23,5 +23,6 @@
     "共享电量"
   ],
   "description": "",
-  "comments": []
+  "comments": [],
+  "slug": "battery-share"
 }

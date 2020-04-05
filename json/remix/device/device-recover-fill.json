@@ -22,5 +22,6 @@
     "恢复出厂设置"
   ],
   "description": "",
-  "comments": []
+  "comments": [],
+  "slug": "device-recover"
 }
