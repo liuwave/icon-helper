@@ -31,8 +31,11 @@
   },
   "dependencies": {
     "@vssue/api-gitee-v5": "^1.4.0",
+    "@vssue/api-github-v3": "^1.4.3",
+    "@vssue/api-github-v4": "^1.4.0",
     "@vssue/vuepress-plugin-vssue": "^1.4.3",
     "@vuepress/theme-default": "^1.4.0",
+    "algoliasearch": "^4.1.0",
     "canvg": "^3.0.5",
     "file-saver": "^2.0.2",
     "lodash": "^4.17.15",

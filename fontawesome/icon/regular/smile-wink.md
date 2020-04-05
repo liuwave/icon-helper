@@ -72,7 +72,7 @@ unicode：
 </div>
 <detail full-name='fa-smile-wink'></detail>
 
-<Vssue title="关于“Winking Face”的评论" />
+<Vssue title="关于“Winking Face”的评论" >关于“Winking Face”的评论</Vssue>
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

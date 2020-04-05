@@ -72,7 +72,7 @@ unicode：
 </div>
 <detail full-name='fa-microscope'></detail>
 
-<Vssue title="关于“Microscope”的评论" />
+<Vssue title="关于“Microscope”的评论" >关于“Microscope”的评论</Vssue>
     
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -2,6 +2,110 @@
 # yarn lockfile v1
 
 
+"@algolia/cache-browser-local-storage@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/cache-browser-local-storage/download/@algolia/cache-browser-local-storage-4.1.0.tgz#c4f1bfc57ea562248072b35831e3c4b646cc3921"
+  integrity sha1-xPG/xX6lYiSAcrNYMePEtkbMOSE=
+  dependencies:
+    "@algolia/cache-common" "4.1.0"
+
+"@algolia/cache-common@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/cache-common/download/@algolia/cache-common-4.1.0.tgz#ab895f8049ff7064ca1bfea504a56f97fd5d4683"
+  integrity sha1-q4lfgEn/cGTKG/6lBKVvl/1dRoM=
+
+"@algolia/cache-in-memory@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/cache-in-memory/download/@algolia/cache-in-memory-4.1.0.tgz#cb9b575df1ebe3befd198a50a444a7d181e50853"
+  integrity sha1-y5tXXfHr4779GYpQpESn0YHlCFM=
+  dependencies:
+    "@algolia/cache-common" "4.1.0"
+
+"@algolia/client-account@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/client-account/download/@algolia/client-account-4.1.0.tgz#a31d26c22e6a56554ea4aa8552d153b1a1aa4363"
+  integrity sha1-ox0mwi5qVlVOpKqFUtFTsaGqQ2M=
+  dependencies:
+    "@algolia/client-common" "4.1.0"
+    "@algolia/client-search" "4.1.0"
+    "@algolia/transporter" "4.1.0"
+
+"@algolia/client-analytics@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/client-analytics/download/@algolia/client-analytics-4.1.0.tgz#eb05ccb636351b2d6494b2affb6034b791236998"
+  integrity sha1-6wXMtjY1Gy1klLKv+2A0t5EjaZg=
+  dependencies:
+    "@algolia/client-common" "4.1.0"
+    "@algolia/client-search" "4.1.0"
+    "@algolia/requester-common" "4.1.0"
+    "@algolia/transporter" "4.1.0"
+
+"@algolia/client-common@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/client-common/download/@algolia/client-common-4.1.0.tgz#cd3a71cef1e0d87476252cbee20b0da938f6221c"
+  integrity sha1-zTpxzvHg2HR2JSy+4gsNqTj2Ihw=
+  dependencies:
+    "@algolia/requester-common" "4.1.0"
+    "@algolia/transporter" "4.1.0"
+
+"@algolia/client-recommendation@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/client-recommendation/download/@algolia/client-recommendation-4.1.0.tgz#a0a26de4a6dd902d7ca55cf381cce3a7280d5b49"
+  integrity sha1-oKJt5KbdkC18pVzzgczjpygNW0k=
+  dependencies:
+    "@algolia/client-common" "4.1.0"
+    "@algolia/requester-common" "4.1.0"
+    "@algolia/transporter" "4.1.0"
+
+"@algolia/client-search@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/client-search/download/@algolia/client-search-4.1.0.tgz#07cc422af997e409968d3b74142e984aa71ae38c"
+  integrity sha1-B8xCKvmX5AmWjTt0FC6YSqca44w=
+  dependencies:
+    "@algolia/client-common" "4.1.0"
+    "@algolia/requester-common" "4.1.0"
+    "@algolia/transporter" "4.1.0"
+
+"@algolia/logger-common@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/logger-common/download/@algolia/logger-common-4.1.0.tgz#05608dee38dfa35bfe37874683760140d471bfdc"
+  integrity sha1-BWCN7jjfo1v+N4dGg3YBQNRxv9w=
+
+"@algolia/logger-console@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/logger-console/download/@algolia/logger-console-4.1.0.tgz#099ee86716aea4c976345417397ddfa1338a5acc"
+  integrity sha1-CZ7oZxaupMl2NFQXOX3foTOKWsw=
+  dependencies:
+    "@algolia/logger-common" "4.1.0"
+
+"@algolia/requester-browser-xhr@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/requester-browser-xhr/download/@algolia/requester-browser-xhr-4.1.0.tgz#a7ab63f184f3d0aa8e85ac73ce39c528271c6d9b"
+  integrity sha1-p6tj8YTz0KqOhaxzzjnFKCccbZs=
+  dependencies:
+    "@algolia/requester-common" "4.1.0"
+
+"@algolia/requester-common@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/requester-common/download/@algolia/requester-common-4.1.0.tgz#91907e9963e455b11862d1cca02fc1d1d961dbce"
+  integrity sha1-kZB+mWPkVbEYYtHMoC/B0dlh284=
+
+"@algolia/requester-node-http@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/requester-node-http/download/@algolia/requester-node-http-4.1.0.tgz#db0a224538691f6fab18ced27c548cf3b4017689"
+  integrity sha1-2woiRThpH2+rGM7SfFSM87QBdok=
+  dependencies:
+    "@algolia/requester-common" "4.1.0"
+
+"@algolia/transporter@4.1.0":
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/@algolia/transporter/download/@algolia/transporter-4.1.0.tgz#18cb8837ca4079a23572a3b7dbefece71fb6fff3"
+  integrity sha1-GMuIN8pAeaI1cqO32+/s5x+2//M=
+  dependencies:
+    "@algolia/cache-common" "4.1.0"
+    "@algolia/logger-common" "4.1.0"
+    "@algolia/requester-common" "4.1.0"
+
 "@babel/code-frame@^7.8.3":
   version "7.8.3"
   resolved "https://registry.npm.taobao.org/@babel/code-frame/download/@babel/code-frame-7.8.3.tgz#33e25903d7481181534e12ec0a25f16b6fcf419e"
@@ -906,6 +1010,22 @@
     "@vssue/utils" "^1.4.0"
     axios "^0.18.1"
 
+"@vssue/api-github-v3@^1.4.3":
+  version "1.4.3"
+  resolved "https://registry.npm.taobao.org/@vssue/api-github-v3/download/@vssue/api-github-v3-1.4.3.tgz#c441036dd99463573d1b99c6d91eaa5e5920fabe"
+  integrity sha1-xEEDbdmUY1c9G5nG2R6qXlkg+r4=
+  dependencies:
+    "@vssue/utils" "^1.4.0"
+    axios "^0.18.1"
+
+"@vssue/api-github-v4@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.npm.taobao.org/@vssue/api-github-v4/download/@vssue/api-github-v4-1.4.0.tgz#30defd2220ff50e5ed4c50159e42eba52b004748"
+  integrity sha1-MN79IiD/UOXtTFAVnkLrpSsAR0g=
+  dependencies:
+    "@vssue/utils" "^1.4.0"
+    axios "^0.18.1"
+
 "@vssue/utils@^1.4.0":
   version "1.4.0"
   resolved "https://registry.npm.taobao.org/@vssue/utils/download/@vssue/utils-1.4.0.tgz#3cc2fd8492a3409e343289981e2209b6ca2f8313"
@@ -1390,6 +1510,26 @@ algoliasearch@^3.24.5:
     reduce "^1.0.1"
     semver "^5.1.0"
     tunnel-agent "^0.6.0"
+
+algoliasearch@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.npm.taobao.org/algoliasearch/download/algoliasearch-4.1.0.tgz?cache=0&sync_timestamp=1583775329918&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Falgoliasearch%2Fdownload%2Falgoliasearch-4.1.0.tgz#d422ac0d115497021a6c96f4b9747dbaa63f164a"
+  integrity sha1-1CKsDRFUlwIabJb0uXR9uqY/Fko=
+  dependencies:
+    "@algolia/cache-browser-local-storage" "4.1.0"
+    "@algolia/cache-common" "4.1.0"
+    "@algolia/cache-in-memory" "4.1.0"
+    "@algolia/client-account" "4.1.0"
+    "@algolia/client-analytics" "4.1.0"
+    "@algolia/client-common" "4.1.0"
+    "@algolia/client-recommendation" "4.1.0"
+    "@algolia/client-search" "4.1.0"
+    "@algolia/logger-common" "4.1.0"
+    "@algolia/logger-console" "4.1.0"
+    "@algolia/requester-browser-xhr" "4.1.0"
+    "@algolia/requester-common" "4.1.0"
+    "@algolia/requester-node-http" "4.1.0"
+    "@algolia/transporter" "4.1.0"
 
 alphanum-sort@^1.0.0:
   version "1.0.2"
