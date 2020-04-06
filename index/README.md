@@ -28,7 +28,7 @@ footer: MIT Licensed | Copyright © 2020-present liuwave
 <router-link style="width: 100%;height: 30px;line-height: 30px;text-align: center;overflow: hidden"
         class="d-inline-block rounded border border-primary"         
         to="fontawesome.html">Font Awesome Icon教程</router-link>
-  </div>
+</div>
 <div class="col-12 col-sm-12 col-md-4">    
   <a style="width: 100%;height: 60px;line-height: 60px;text-align: center;overflow: hidden"
    class="d-inline-block rounded border border-primary" 
@@ -36,7 +36,15 @@ footer: MIT Licensed | Copyright © 2020-present liuwave
 <router-link style="width: 100%;height: 30px;line-height: 30px;text-align: center;overflow: hidden"
         class="d-inline-block rounded border border-primary"         
         to="remix.html">Remix Icon教程</router-link>
-  </div>
+</div>
+<div class="col-12 col-sm-12 col-md-4">    
+  <a style="width: 100%;height: 60px;line-height: 60px;text-align: center;overflow: hidden"
+   class="d-inline-block rounded border border-primary" 
+  href="https://brands.iconhelper.cn">品牌图标(Simple Icon)中文搜索</a>
+<router-link style="width: 100%;height: 30px;line-height: 30px;text-align: center;overflow: hidden"
+        class="d-inline-block rounded border border-primary"         
+        to="brands.html">品牌图标(Simple Icon)教程</router-link>
+</div>
 </div>
 
 ## ICON转svg、png下载
