@@ -5,11 +5,6 @@ footer: MIT Licensed | Copyright © 2020-present liuwave
 
 ---
 
-
-
-
-
-
 <algolia-search/>
 
 <div class="mt-3">

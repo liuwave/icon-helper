@@ -1,0 +1,68 @@
+---
+
+title: Scala() ICON转svg、png下载
+name: scala
+zhTips: 
+search: 
+
+---
+
+# Scala  <small style="font-size: 60%;font-weight: 100"></small>
+
+<div id="svg" class="svg-wrap">
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Scala icon</title><path d="M4.589 24c4.537 0 13.81-1.516 14.821-3v-5.729c-.957 1.408-10.284 2.912-14.821 2.912V24zM4.589 16.365c4.537 0 13.81-1.516 14.821-3V7.636c-.957 1.408-10.284 2.912-14.821 2.912v5.817zM4.589 8.729c4.537 0 13.81-1.516 14.821-3V0C18.453 1.408 9.126 2.912 4.589 2.912v5.817z"/></svg>
+</div>
+<detail full-name='scala'></detail>
+
+<div class="detail-page">
+<p>
+<span><span class="badge-success badge">免费图标</span> <span class="badge-success badge">免费修改</span>  <span class="badge-success badge">免费下载</span> </span>
+<br/>
+<span>
+ICON库：
+<span class="badge-secondary badge">品牌图标(Simple Icon)</span> 
+</span>
+<br/>
+<span>
+CSS名称：
+<span class="badge-secondary badge">scala</span> 
+</span>
+
+<br/>
+<span>
+版本：
+<span class="badge-secondary badge">2.8.0</span> 
+</span>
+<br/>
+<span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
+<br/>
+<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/scala.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/scala.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+</p>
+</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.scala-lang.org/" target="_blank" rel="noopener noreferrer">https://www.scala-lang.org/</a></p></div>
+<div class="alert alert-dark">
+<img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scala.svg" />
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scala.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scala.svg" />
+<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scala.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scala.svg" />
+<img height="96" width="96" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scala.svg" />
+
+</div>
+<div>
+  <p>可以像图片那样使用：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scala.svg" /&gt;
+    <copy-btn content='<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scala.svg" />'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/scala.svg" />scala
+    <copy-btn content="scala" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+
+<Vssue title="关于“Scala”的评论" >关于“Scala”的评论</Vssue>
+
+
+<div><p>Simple Icon是一个免费的品牌图标库。图标Scala可以免费下载使用。更多关于  Simple Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/brands.html">品牌图标(Simple Icon)</a>
+</p></div>

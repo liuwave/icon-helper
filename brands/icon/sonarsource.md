@@ -1,0 +1,68 @@
+---
+
+title: SonarSource() ICON转svg、png下载
+name: sonarsource
+zhTips: 
+search: 
+
+---
+
+# SonarSource  <small style="font-size: 60%;font-weight: 100"></small>
+
+<div id="svg" class="svg-wrap">
+<svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>SonarSource icon</title><path d="M15.71.4l-.467.737c3.476 2.14 6.284 5.28 7.955 8.89L24 9.694c-1.671-3.81-4.68-7.086-8.29-9.292zM8.49.87l-.333 1.069c6.952 2.006 12.434 7.62 14.039 14.44l1.069-.268C21.527 8.958 15.778 2.942 8.49.87zM0 2.607v1.338c10.964 0 19.922 8.824 19.922 19.654h1.337C21.26 12.034 11.7 2.607 0 2.607z"/></svg>
+</div>
+<detail full-name='sonarsource'></detail>
+
+<div class="detail-page">
+<p>
+<span><span class="badge-success badge">免费图标</span> <span class="badge-success badge">免费修改</span>  <span class="badge-success badge">免费下载</span> </span>
+<br/>
+<span>
+ICON库：
+<span class="badge-secondary badge">品牌图标(Simple Icon)</span> 
+</span>
+<br/>
+<span>
+CSS名称：
+<span class="badge-secondary badge">sonarsource</span> 
+</span>
+
+<br/>
+<span>
+版本：
+<span class="badge-secondary badge">2.8.0</span> 
+</span>
+<br/>
+<span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
+<br/>
+<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/sonarsource.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/sonarsource.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+</p>
+</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.sonarsource.com/" target="_blank" rel="noopener noreferrer">https://www.sonarsource.com/</a></p></div>
+<div class="alert alert-dark">
+<img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sonarsource.svg" />
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sonarsource.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sonarsource.svg" />
+<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sonarsource.svg" />
+<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sonarsource.svg" />
+<img height="96" width="96" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sonarsource.svg" />
+
+</div>
+<div>
+  <p>可以像图片那样使用：    
+  </p>
+  <div class="alert alert-primary" style="font-size: 14px">
+    &lt;img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sonarsource.svg" /&gt;
+    <copy-btn content='<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sonarsource.svg" />'></copy-btn>
+  </div>
+  <div class="alert alert-secondary">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sonarsource.svg" />sonarsource
+    <copy-btn content="sonarsource" btn-title="复制图标名称"></copy-btn>
+  </div>
+</div>
+
+<Vssue title="关于“SonarSource”的评论" >关于“SonarSource”的评论</Vssue>
+
+
+<div><p>Simple Icon是一个免费的品牌图标库。图标SonarSource可以免费下载使用。更多关于  Simple Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/brands.html">品牌图标(Simple Icon)</a>
+</p></div>
