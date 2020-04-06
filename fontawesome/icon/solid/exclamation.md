@@ -71,8 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path d="M176 432c0 44.112-35.888 80-80 80s-80-35.888-80-80 35.888-80 80-80 80 35.888 80 80zM25.26 25.199l13.6 272C39.499 309.972 50.041 320 62.83 320h66.34c12.789 0 23.331-10.028 23.97-22.801l13.6-272C167.425 11.49 156.496 0 142.77 0H49.23C35.504 0 24.575 11.49 25.26 25.199z"/></svg>
 </div>
 <detail full-name='fa-exclamation'></detail>
-
-<Vssue title="关于“exclamation”的评论" >关于“exclamation”的评论</Vssue>
-    
+<div>
+<p>关于“exclamation”的评论:</p>
+</div>
+<Vssue title="关于“exclamation”的评论" ></Vssue>    
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -71,8 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path d="M192 127.338v257.324c0 17.818-21.543 26.741-34.142 14.142L29.196 270.142c-7.81-7.81-7.81-20.474 0-28.284l128.662-128.662c12.599-12.6 34.142-3.676 34.142 14.142z"/></svg>
 </div>
 <detail full-name='fa-caret-left'></detail>
-
-<Vssue title="关于“Caret Left”的评论" >关于“Caret Left”的评论</Vssue>
-    
+<div>
+<p>关于“Caret Left”的评论:</p>
+</div>
+<Vssue title="关于“Caret Left”的评论" ></Vssue>    
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

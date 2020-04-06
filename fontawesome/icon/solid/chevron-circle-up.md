@@ -71,8 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M8 256C8 119 119 8 256 8s248 111 248 248-111 248-248 248S8 393 8 256zm231-113.9L103.5 277.6c-9.4 9.4-9.4 24.6 0 33.9l17 17c9.4 9.4 24.6 9.4 33.9 0L256 226.9l101.6 101.6c9.4 9.4 24.6 9.4 33.9 0l17-17c9.4-9.4 9.4-24.6 0-33.9L273 142.1c-9.4-9.4-24.6-9.4-34 0z"/></svg>
 </div>
 <detail full-name='fa-chevron-circle-up'></detail>
-
-<Vssue title="关于“Chevron Circle Up”的评论" >关于“Chevron Circle Up”的评论</Vssue>
-    
+<div>
+<p>关于“Chevron Circle Up”的评论:</p>
+</div>
+<Vssue title="关于“Chevron Circle Up”的评论" ></Vssue>    
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -71,8 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path d="M96 184c39.8 0 72 32.2 72 72s-32.2 72-72 72-72-32.2-72-72 32.2-72 72-72zM24 80c0 39.8 32.2 72 72 72s72-32.2 72-72S135.8 8 96 8 24 40.2 24 80zm0 352c0 39.8 32.2 72 72 72s72-32.2 72-72-32.2-72-72-72-72 32.2-72 72z"/></svg>
 </div>
 <detail full-name='fa-ellipsis-v'></detail>
-
-<Vssue title="关于“Vertical Ellipsis”的评论" >关于“Vertical Ellipsis”的评论</Vssue>
-    
+<div>
+<p>关于“Vertical Ellipsis”的评论:</p>
+</div>
+<Vssue title="关于“Vertical Ellipsis”的评论" ></Vssue>    
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

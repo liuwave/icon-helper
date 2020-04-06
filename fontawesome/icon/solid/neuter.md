@@ -71,8 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 512"><path d="M288 176c0-79.5-64.5-144-144-144S0 96.5 0 176c0 68.5 47.9 125.9 112 140.4V468c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12V316.4c64.1-14.5 112-71.9 112-140.4zm-144 80c-44.1 0-80-35.9-80-80s35.9-80 80-80 80 35.9 80 80-35.9 80-80 80z"/></svg>
 </div>
 <detail full-name='fa-neuter'></detail>
-
-<Vssue title="关于“Neuter”的评论" >关于“Neuter”的评论</Vssue>
-    
+<div>
+<p>关于“Neuter”的评论:</p>
+</div>
+<Vssue title="关于“Neuter”的评论" ></Vssue>    
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

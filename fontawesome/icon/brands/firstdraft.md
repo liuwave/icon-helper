@@ -71,8 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M384 192h-64v128H192v128H0v-25.6h166.4v-128h128v-128H384V192zm-25.6 38.4v128h-128v128H64V512h192V384h128V230.4h-25.6zm25.6 192h-89.6V512H320v-64h64v-25.6zM0 0v384h128V256h128V128h128V0H0z"/></svg>
 </div>
 <detail full-name='fa-firstdraft'></detail>
-
-<Vssue title="关于“firstdraft”的评论" >关于“firstdraft”的评论</Vssue>
-    
+<div>
+<p>关于“firstdraft”的评论:</p>
+</div>
+<Vssue title="关于“firstdraft”的评论" ></Vssue>    
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

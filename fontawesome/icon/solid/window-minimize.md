@@ -71,8 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M464 352H48c-26.5 0-48 21.5-48 48v32c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48v-32c0-26.5-21.5-48-48-48z"/></svg>
 </div>
 <detail full-name='fa-window-minimize'></detail>
-
-<Vssue title="关于“Window Minimize”的评论" >关于“Window Minimize”的评论</Vssue>
-    
+<div>
+<p>关于“Window Minimize”的评论:</p>
+</div>
+<Vssue title="关于“Window Minimize”的评论" ></Vssue>    
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

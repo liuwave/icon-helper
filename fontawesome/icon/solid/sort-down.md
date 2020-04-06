@@ -71,8 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M41 288h238c21.4 0 32.1 25.9 17 41L177 448c-9.4 9.4-24.6 9.4-33.9 0L24 329c-15.1-15.1-4.4-41 17-41z"/></svg>
 </div>
 <detail full-name='fa-sort-down'></detail>
-
-<Vssue title="关于“Sort Down (Descending)”的评论" >关于“Sort Down (Descending)”的评论</Vssue>
-    
+<div>
+<p>关于“Sort Down (Descending)”的评论:</p>
+</div>
+<Vssue title="关于“Sort Down (Descending)”的评论" ></Vssue>    
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

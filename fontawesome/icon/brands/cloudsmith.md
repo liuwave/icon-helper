@@ -71,8 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 332 512"><path d="M332.5 419.9c0 46.4-37.6 84.1-84 84.1s-84-37.7-84-84.1 37.6-84 84-84 84 37.6 84 84zm-84-243.9c46.4 0 80-37.6 80-84s-33.6-84-80-84-88 37.6-88 84-29.6 76-76 76-84 41.6-84 88 37.6 80 84 80 84-33.6 84-80 33.6-80 80-80z"/></svg>
 </div>
 <detail full-name='fa-cloudsmith'></detail>
-
-<Vssue title="关于“Cloudsmith”的评论" >关于“Cloudsmith”的评论</Vssue>
-    
+<div>
+<p>关于“Cloudsmith”的评论:</p>
+</div>
+<Vssue title="关于“Cloudsmith”的评论" ></Vssue>    
 <div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>
