@@ -77,13 +77,12 @@ class="mdi mdi-book-account mdi-light mdi-inactive mdi-36px ml-3">mdi-light mdi-
 
 首先安装`@mdi/js`
 
-  npm install @mdi/js
+    npm install @mdi/js
 
 用法：
 
-  import { mdiAccount } from '@mdi/js'
-
-  console.log(mdiAccount); // "M...Z"
+    import { mdiAccount } from '@mdi/js'
+    console.log(mdiAccount); // "M...Z"
   
   
  ## ReactJS :<a target="_blank" href="https://github.com/Templarian/MaterialDesign-React">MaterialDesign-React</a>
@@ -93,7 +92,7 @@ class="mdi mdi-book-account mdi-light mdi-inactive mdi-36px ml-3">mdi-light mdi-
 安装`@mdi/react`
 
 
-  npm install @mdi/react --save-dev
+    npm install @mdi/react --save-dev
 
 示例
 
