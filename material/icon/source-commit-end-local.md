@@ -5,6 +5,7 @@ name: source-commit-end-local
 zhTips: 源代码提交结束本地
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/source-commit-end-local.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,7A5,5 0 0,1 17,12A5,5 0 0,1 12,17A5,5 0 0,1 7,12A5,5 0 0,1 12,7M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9M11,5V3H13V5H11Z" /></svg>
 </div>
 <detail full-name='mdi-source-commit-end-local'></detail>
-    
+<div>
+<p>关于“source commit end local”的评论:</p>
+</div>
+<Vssue title="关于“source commit end local”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: chevron-triple-right
 zhTips: 人字形三联
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/chevron-triple-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.58,16.59L19.17,12L14.58,7.41L16,6L22,12L16,18L14.58,16.59M8.58,16.59L13.17,12L8.58,7.41L10,6L16,12L10,18L8.58,16.59M2.58,16.59L7.17,12L2.58,7.41L4,6L10,12L4,18L2.58,16.59Z" /></svg>
 </div>
 <detail full-name='mdi-chevron-triple-right'></detail>
-    
+<div>
+<p>关于“chevron triple right”的评论:</p>
+</div>
+<Vssue title="关于“chevron triple right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

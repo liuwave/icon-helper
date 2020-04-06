@@ -5,6 +5,7 @@ name: distribute-horizontal-right
 zhTips: 分配水平右
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/distribute-horizontal-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 17V7H8V2H10V22H8V17H3M19 22H21V2H19V5H14V19H19V22Z" /></svg>
 </div>
 <detail full-name='mdi-distribute-horizontal-right'></detail>
-    
+<div>
+<p>关于“distribute horizontal right”的评论:</p>
+</div>
+<Vssue title="关于“distribute horizontal right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

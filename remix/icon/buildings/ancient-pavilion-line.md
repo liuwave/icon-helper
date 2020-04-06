@@ -5,6 +5,7 @@ name: ancient-pavilion-line
 zhTips: 旅行,旅游,凉亭,古代,历史,景区
 tags: ["buildings"]
 search: historical,genre,scenic,trip,travel,line
+image: https://iconhelper.cn/svg/remix/buildings/ancient-pavilion-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-ancient-pavilion-line'></detail>
-    
+<detail full-name='ri-ancient-pavilion-line'></detail>  
+<div>
+<p>关于“ancient pavilion line”的评论:</p>
+</div>
+<Vssue title="关于“ancient pavilion line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

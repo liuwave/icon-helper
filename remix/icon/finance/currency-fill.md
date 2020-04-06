@@ -5,6 +5,7 @@ name: currency-fill
 zhTips: 货币,钱
 tags: ["finance"]
 search: cash,payment,fill
+image: https://iconhelper.cn/svg/remix/finance/currency-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-currency-fill'></detail>
-    
+<detail full-name='ri-currency-fill'></detail>  
+<div>
+<p>关于“currency fill”的评论:</p>
+</div>
+<Vssue title="关于“currency fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

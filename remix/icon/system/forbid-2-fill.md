@@ -5,6 +5,7 @@ name: forbid-2-fill
 zhTips: 禁止,禁用
 tags: ["system"]
 search: slash,ban,fill
+image: https://iconhelper.cn/svg/remix/system/forbid-2-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-forbid-2-fill'></detail>
-    
+<detail full-name='ri-forbid-2-fill'></detail>  
+<div>
+<p>关于“forbid 2 fill”的评论:</p>
+</div>
+<Vssue title="关于“forbid 2 fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: table-column
 zhTips: 表列
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/table-column.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8,2H16A2,2 0 0,1 18,4V20A2,2 0 0,1 16,22H8A2,2 0 0,1 6,20V4A2,2 0 0,1 8,2M8,10V14H16V10H8M8,16V20H16V16H8M8,4V8H16V4H8Z" /></svg>
 </div>
 <detail full-name='mdi-table-column'></detail>
-    
+<div>
+<p>关于“table column”的评论:</p>
+</div>
+<Vssue title="关于“table column”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

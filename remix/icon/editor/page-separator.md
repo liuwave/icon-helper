@@ -5,6 +5,7 @@ name: page-separator
 zhTips: 分页符,插入
 tags: ["editor"]
 search: insert
+image: https://iconhelper.cn/svg/remix/editor/page-separator.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-page-separator'></detail>
-    
+<detail full-name='ri-page-separator'></detail>  
+<div>
+<p>关于“page separator”的评论:</p>
+</div>
+<Vssue title="关于“page separator”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: ray-start-arrow
 zhTips: 射线开始箭头
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/ray-start-arrow.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23,12L19,16V13H6.83C6.42,14.17 5.31,15 4,15A3,3 0 0,1 1,12A3,3 0 0,1 4,9C5.31,9 6.42,9.83 6.83,11H19V8L23,12Z" /></svg>
 </div>
 <detail full-name='mdi-ray-start-arrow'></detail>
-    
+<div>
+<p>关于“ray start arrow”的评论:</p>
+</div>
+<Vssue title="关于“ray start arrow”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: visa-line
 zhTips: 银行卡
 tags: ["logos"]
 search: bank card,line
+image: https://iconhelper.cn/svg/remix/logos/visa-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-visa-line'></detail>
-    
+<detail full-name='ri-visa-line'></detail>  
+<div>
+<p>关于“visa line”的评论:</p>
+</div>
+<Vssue title="关于“visa line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

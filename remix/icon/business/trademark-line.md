@@ -5,6 +5,7 @@ name: trademark-line
 zhTips: 注册,商标
 tags: ["business"]
 search: line
+image: https://iconhelper.cn/svg/remix/business/trademark-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-trademark-line'></detail>
-    
+<detail full-name='ri-trademark-line'></detail>  
+<div>
+<p>关于“trademark line”的评论:</p>
+</div>
+<Vssue title="关于“trademark line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

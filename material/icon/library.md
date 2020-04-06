@@ -5,6 +5,7 @@ name: library
 zhTips: 图书馆,当地图书馆
 tags: ["places"]
 search: local-library
+image: https://iconhelper.cn/svg/material/library.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,8A3,3 0 0,0 15,5A3,3 0 0,0 12,2A3,3 0 0,0 9,5A3,3 0 0,0 12,8M12,11.54C9.64,9.35 6.5,8 3,8V19C6.5,19 9.64,20.35 12,22.54C14.36,20.35 17.5,19 21,19V8C17.5,8 14.36,9.35 12,11.54Z" /></svg>
 </div>
 <detail full-name='mdi-library'></detail>
-    
+<div>
+<p>关于“library”的评论:</p>
+</div>
+<Vssue title="关于“library”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

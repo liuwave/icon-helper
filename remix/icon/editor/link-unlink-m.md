@@ -5,6 +5,7 @@ name: link-unlink-m
 zhTips: 去除链接
 tags: ["editor"]
 search: connection,remove address
+image: https://iconhelper.cn/svg/remix/editor/link-unlink-m.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-link-unlink-m'></detail>
-    
+<detail full-name='ri-link-unlink-m'></detail>  
+<div>
+<p>关于“link unlink m”的评论:</p>
+</div>
+<Vssue title="关于“link unlink m”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: video-box
 zhTips: 视频盒
 tags: ["video-movie"]
 search: 
+image: https://iconhelper.cn/svg/material/video-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,16L14,12.8V16H6V8H14V11.2L18,8M20,4H4A2,2 0 0,0 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C22,4.89 21.1,4 20,4Z" /></svg>
 </div>
 <detail full-name='mdi-video-box'></detail>
-    
+<div>
+<p>关于“video box”的评论:</p>
+</div>
+<Vssue title="关于“video box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

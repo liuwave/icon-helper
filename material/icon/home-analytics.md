@@ -5,6 +5,7 @@ name: home-analytics
 zhTips: 家庭分析,图表家庭,主页图表
 tags: ["home-automation"]
 search: chart-home,home-chart
+image: https://iconhelper.cn/svg/material/home-analytics.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3L2,12H5V20H19V12H22M9,18H7V12H9M13,18H11V10H13M17,18H15V14H17" /></svg>
 </div>
 <detail full-name='mdi-home-analytics'></detail>
-    
+<div>
+<p>关于“home analytics”的评论:</p>
+</div>
+<Vssue title="关于“home analytics”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

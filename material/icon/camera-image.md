@@ -5,6 +5,7 @@ name: camera-image
 zhTips: 相机图像
 tags: ["photography"]
 search: 
+image: https://iconhelper.cn/svg/material/camera-image.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,5H7L9,3H15L17,5H20A2,2 0 0,1 22,7V19A2,2 0 0,1 20,21H4A2,2 0 0,1 2,19V7A2,2 0 0,1 4,5M13.09,9.45L11.05,12.18L12.6,14.25L11.73,14.91L9.27,11.64L6,16H18L13.09,9.45Z" /></svg>
 </div>
 <detail full-name='mdi-camera-image'></detail>
-    
+<div>
+<p>关于“camera image”的评论:</p>
+</div>
+<Vssue title="关于“camera image”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

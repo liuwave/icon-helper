@@ -5,6 +5,7 @@ name: send-lock
 zhTips: 发送锁,发送安全
 tags: ["lock"]
 search: send-secure
+image: https://iconhelper.cn/svg/material/send-lock.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23,18V17.5A2.5,2.5 0 0,0 20.5,15A2.5,2.5 0 0,0 18,17.5V18A1,1 0 0,0 17,19V23A1,1 0 0,0 18,24H23A1,1 0 0,0 24,23V19A1,1 0 0,0 23,18M22,18H19V17.5A1.5,1.5 0 0,1 20.5,16A1.5,1.5 0 0,1 22,17.5V18M23,12L2,21V14L17,12L2,10V3L23,12Z" /></svg>
 </div>
 <detail full-name='mdi-send-lock'></detail>
-    
+<div>
+<p>关于“send lock”的评论:</p>
+</div>
+<Vssue title="关于“send lock”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

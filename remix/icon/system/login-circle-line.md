@@ -5,6 +5,7 @@ name: login-circle-line
 zhTips: 登录
 tags: ["system"]
 search: sign in,line
+image: https://iconhelper.cn/svg/remix/system/login-circle-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-login-circle-line'></detail>
-    
+<detail full-name='ri-login-circle-line'></detail>  
+<div>
+<p>关于“login circle line”的评论:</p>
+</div>
+<Vssue title="关于“login circle line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

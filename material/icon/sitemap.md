@@ -5,6 +5,7 @@ name: sitemap
 zhTips: 网站地图,工作流程,流程图,站点地图,目录,层次结构,信息系统,组织,层级,等级,树形
 tags: []
 search: workflow,flowchart
+image: https://iconhelper.cn/svg/material/sitemap.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,2V8H11V11H5C3.89,11 3,11.89 3,13V16H1V22H7V16H5V13H11V16H9V22H15V16H13V13H19V16H17V22H23V16H21V13C21,11.89 20.11,11 19,11H13V8H15V2H9Z" /></svg>
 </div>
 <detail full-name='mdi-sitemap'></detail>
-    
+<div>
+<p>关于“sitemap”的评论:</p>
+</div>
+<Vssue title="关于“sitemap”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: beaker-minus-outline
 zhTips: 烧杯减去轮廓
 tags: ["science"]
 search: 
+image: https://iconhelper.cn/svg/material/beaker-minus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23 17V19H15V17H23M3 3H21V5C19.9 5 19 5.9 19 7V15H17V5H7V7H12V8H7V9H10V10H7V11H10V12H7V13H12V14H7V15H10V16H7V19H13.08C13.2 19.72 13.45 20.39 13.8 21H7C5.9 21 5 20.11 5 19V7C5 5.9 4.11 5 3 5V3Z" /></svg>
 </div>
 <detail full-name='mdi-beaker-minus-outline'></detail>
-    
+<div>
+<p>关于“beaker minus outline”的评论:</p>
+</div>
+<Vssue title="关于“beaker minus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

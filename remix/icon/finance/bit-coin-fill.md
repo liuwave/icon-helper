@@ -5,6 +5,7 @@ name: bit-coin-fill
 zhTips: 货币,钱,比特币
 tags: ["finance"]
 search: currency,payment,fill
+image: https://iconhelper.cn/svg/remix/finance/bit-coin-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-bit-coin-fill'></detail>
-    
+<detail full-name='ri-bit-coin-fill'></detail>  
+<div>
+<p>关于“bit coin fill”的评论:</p>
+</div>
+<Vssue title="关于“bit coin fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

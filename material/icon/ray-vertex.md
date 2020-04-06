@@ -5,6 +5,7 @@ name: ray-vertex
 zhTips: 射线顶点
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/ray-vertex.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,11H9.17C9.58,9.83 10.69,9 12,9C13.31,9 14.42,9.83 14.83,11H22V13H14.83C14.42,14.17 13.31,15 12,15C10.69,15 9.58,14.17 9.17,13H2V11Z" /></svg>
 </div>
 <detail full-name='mdi-ray-vertex'></detail>
-    
+<div>
+<p>关于“ray vertex”的评论:</p>
+</div>
+<Vssue title="关于“ray vertex”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

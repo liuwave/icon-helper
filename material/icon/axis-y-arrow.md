@@ -5,6 +5,7 @@ name: axis-y-arrow
 zhTips: 箭头轴
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/axis-y-arrow.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22.5,20.5L17,21.96L18.53,19.35L12,15.58L2.61,21L1.61,19.27L11,13.85V3H13V13.85L19.53,17.61L21,15.03L22.5,20.5Z" /></svg>
 </div>
 <detail full-name='mdi-axis-y-arrow'></detail>
-    
+<div>
+<p>关于“axis y arrow”的评论:</p>
+</div>
+<Vssue title="关于“axis y arrow”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

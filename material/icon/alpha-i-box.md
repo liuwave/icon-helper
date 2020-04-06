@@ -5,6 +5,7 @@ name: alpha-i-box
 zhTips: 字母i框
 tags: ["alpha-numeric"]
 search: alphabet-i-box,letter-i-box
+image: https://iconhelper.cn/svg/material/alpha-i-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,7H10V9H11V15H10V17H14V15H13V9H14V7M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-i-box'></detail>
-    
+<div>
+<p>关于“alpha i box”的评论:</p>
+</div>
+<Vssue title="关于“alpha i box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

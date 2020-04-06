@@ -5,6 +5,7 @@ name: credit-card-minus
 zhTips: 信用卡号减去
 tags: ["banking"]
 search: 
+image: https://iconhelper.cn/svg/material/credit-card-minus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4A2 2 0 0 0 2 6V18A2 2 0 0 0 4 20H13V16H22V6A2 2 0 0 0 20 4M20 11H4V8H20M23 20H15V18H23Z" /></svg>
 </div>
 <detail full-name='mdi-credit-card-minus'></detail>
-    
+<div>
+<p>关于“credit card minus”的评论:</p>
+</div>
+<Vssue title="关于“credit card minus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

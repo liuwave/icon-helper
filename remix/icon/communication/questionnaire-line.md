@@ -5,6 +5,7 @@ name: questionnaire-line
 zhTips: 消息,聊天,回复,评论,讨论,调查问卷,帮助
 tags: ["communication"]
 search: message,comment,help,line
+image: https://iconhelper.cn/svg/remix/communication/questionnaire-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-questionnaire-line'></detail>
-    
+<detail full-name='ri-questionnaire-line'></detail>  
+<div>
+<p>关于“questionnaire line”的评论:</p>
+</div>
+<Vssue title="关于“questionnaire line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

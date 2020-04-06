@@ -5,6 +5,7 @@ name: bookmark-music-outline
 zhTips: 书签音乐轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/bookmark-music-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 3C5.9 3 5 3.9 5 5V21L12 18L19 21V5C19 3.89 18.1 3 17 3H7M7 5H17V18L12 15.82L7 18V5M12 6V11.3C11.7 11.1 11.4 11 11 11C9.9 11 9 11.9 9 13C9 14.11 9.9 15 11 15C12.11 15 13 14.11 13 13V8H15V6H12Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark-music-outline'></detail>
-    
+<div>
+<p>关于“bookmark music outline”的评论:</p>
+</div>
+<Vssue title="关于“bookmark music outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

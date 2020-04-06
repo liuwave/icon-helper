@@ -5,6 +5,7 @@ name: emotion-laugh-line
 zhTips: 表情,大笑,笑脸,开心,喜剧
 tags: ["user-faces"]
 search: comedy,happy,line
+image: https://iconhelper.cn/svg/remix/user-faces/emotion-laugh-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-emotion-laugh-line'></detail>
-    
+<detail full-name='ri-emotion-laugh-line'></detail>  
+<div>
+<p>关于“emotion laugh line”的评论:</p>
+</div>
+<Vssue title="关于“emotion laugh line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: sail-boat
 zhTips: 帆船,船
 tags: ["sport","transportation-water"]
 search: boat
+image: https://iconhelper.cn/svg/material/sail-boat.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,3L5,14H14M3,16L6,21H18L21,16" /></svg>
 </div>
 <detail full-name='mdi-sail-boat'></detail>
-    
+<div>
+<p>关于“sail boat”的评论:</p>
+</div>
+<Vssue title="关于“sail boat”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

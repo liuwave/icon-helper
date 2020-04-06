@@ -5,6 +5,7 @@ name: celsius-fill
 zhTips: 温度,摄氏度
 tags: ["weather"]
 search: temperature,fill
+image: https://iconhelper.cn/svg/remix/weather/celsius-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-celsius-fill'></detail>
-    
+<detail full-name='ri-celsius-fill'></detail>  
+<div>
+<p>关于“celsius fill”的评论:</p>
+</div>
+<Vssue title="关于“celsius fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

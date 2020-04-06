@@ -5,6 +5,7 @@ name: camera-retake-outline
 zhTips: 相机重新拍摄轮廓
 tags: ["photography"]
 search: 
+image: https://iconhelper.cn/svg/material/camera-retake-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,5H16.83L15,3H9L7.17,5H4A2,2 0 0,0 2,7V19A2,2 0 0,0 4,21H20A2,2 0 0,0 22,19V7A2,2 0 0,0 20,5M20,19H4V7H8.05L9.88,5H14.12L16,7H20V19M12,18C10.92,18 9.86,17.65 9,17L10.44,15.56C10.91,15.85 11.45,16 12,16A3,3 0 0,0 15,13A3,3 0 0,0 12,10C10.74,10 9.6,10.8 9.18,12H11L8,15L5,12H7.1C7.65,9.29 10.29,7.55 13,8.1C15.7,8.65 17.45,11.29 16.9,14C16.42,16.33 14.38,18 12,18Z" /></svg>
 </div>
 <detail full-name='mdi-camera-retake-outline'></detail>
-    
+<div>
+<p>关于“camera retake outline”的评论:</p>
+</div>
+<Vssue title="关于“camera retake outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: checkbook
 zhTips: 支票簿
 tags: []
 search: chequebook,cheque-book
+image: https://iconhelper.cn/svg/material/checkbook.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,14H19V15H5V14M21,17V8H3V17H21M1,5H23V19H1V5M5,10H12V12H5V10Z" /></svg>
 </div>
 <detail full-name='mdi-checkbook'></detail>
-    
+<div>
+<p>关于“checkbook”的评论:</p>
+</div>
+<Vssue title="关于“checkbook”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

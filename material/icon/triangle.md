@@ -5,6 +5,7 @@ name: triangle
 zhTips: 三角形
 tags: ["shape"]
 search: 
+image: https://iconhelper.cn/svg/material/triangle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1,21H23L12,2" /></svg>
 </div>
 <detail full-name='mdi-triangle'></detail>
-    
+<div>
+<p>关于“triangle”的评论:</p>
+</div>
+<Vssue title="关于“triangle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

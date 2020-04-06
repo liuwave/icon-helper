@@ -5,6 +5,7 @@ name: parentheses-line
 zhTips: 小括号
 tags: ["development"]
 search: code,math,line
+image: https://iconhelper.cn/svg/remix/development/parentheses-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-parentheses-line'></detail>
-    
+<detail full-name='ri-parentheses-line'></detail>  
+<div>
+<p>关于“parentheses line”的评论:</p>
+</div>
+<Vssue title="关于“parentheses line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

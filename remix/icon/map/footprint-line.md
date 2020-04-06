@@ -5,6 +5,7 @@ name: footprint-line
 zhTips: 脚印,足迹
 tags: ["map"]
 search: line
+image: https://iconhelper.cn/svg/remix/map/footprint-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-footprint-line'></detail>
-    
+<detail full-name='ri-footprint-line'></detail>  
+<div>
+<p>关于“footprint line”的评论:</p>
+</div>
+<Vssue title="关于“footprint line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

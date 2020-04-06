@@ -5,6 +5,7 @@ name: size-m
 zhTips: 尺寸m,中号
 tags: []
 search: size-medium
+image: https://iconhelper.cn/svg/material/size-m.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7C7.9 7 7 7.9 7 9V17H9V9H11V16H13V9H15V17H17V9C17 7.9 16.11 7 15 7H9Z" /></svg>
 </div>
 <detail full-name='mdi-size-m'></detail>
-    
+<div>
+<p>关于“size m”的评论:</p>
+</div>
+<Vssue title="关于“size m”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

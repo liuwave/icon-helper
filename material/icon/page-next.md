@@ -5,6 +5,7 @@ name: page-next
 zhTips: 下一页,更多
 tags: []
 search: read-more
+image: https://iconhelper.cn/svg/material/page-next.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,3H5A2,2 0 0,0 3,5V11H7V9L11,12L7,15V13H3V19A2,2 0 0,0 5,21H20A2,2 0 0,0 22,19V5A2,2 0 0,0 20,3M17,17H13V15H17V17M20,13H13V11H20V13M20,9H13V7H20V9M3,13H0V11H3V13Z" /></svg>
 </div>
 <detail full-name='mdi-page-next'></detail>
-    
+<div>
+<p>关于“page next”的评论:</p>
+</div>
+<Vssue title="关于“page next”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

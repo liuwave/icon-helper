@@ -5,6 +5,7 @@ name: dots-horizontal
 zhTips: 水平的点,更多,省略号,水平,菜单
 tags: []
 search: more,ellipsis-horizontal,more-horiz,menu
+image: https://iconhelper.cn/svg/material/dots-horizontal.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,12A2,2 0 0,1 18,10A2,2 0 0,1 20,12A2,2 0 0,1 18,14A2,2 0 0,1 16,12M10,12A2,2 0 0,1 12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12M4,12A2,2 0 0,1 6,10A2,2 0 0,1 8,12A2,2 0 0,1 6,14A2,2 0 0,1 4,12Z" /></svg>
 </div>
 <detail full-name='mdi-dots-horizontal'></detail>
-    
+<div>
+<p>关于“dots horizontal”的评论:</p>
+</div>
+<Vssue title="关于“dots horizontal”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

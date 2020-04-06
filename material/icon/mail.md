@@ -5,6 +5,7 @@ name: mail
 zhTips: 邮件
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/mail.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C22,4.89 21.1,4 20,4M17,17H7V15H17M17,13H7V11H17M20,9H17V6H20" /></svg>
 </div>
 <detail full-name='mdi-mail'></detail>
-    
+<div>
+<p>关于“mail”的评论:</p>
+</div>
+<Vssue title="关于“mail”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

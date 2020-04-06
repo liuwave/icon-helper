@@ -5,6 +5,7 @@ name: plus-circle-multiple-outline
 zhTips: 加圆圈多个轮廓,控制点重复,加圆圈轮廓,硬币加轮廓
 tags: []
 search: control-point-duplicate,plus-circles-outline,coins-plus-outline
+image: https://iconhelper.cn/svg/material/plus-circle-multiple-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,8H14V11H11V13H14V16H16V13H19V11H16M2,12C2,9.21 3.64,6.8 6,5.68V3.5C2.5,4.76 0,8.09 0,12C0,15.91 2.5,19.24 6,20.5V18.32C3.64,17.2 2,14.79 2,12M15,3C10.04,3 6,7.04 6,12C6,16.96 10.04,21 15,21C19.96,21 24,16.96 24,12C24,7.04 19.96,3 15,3M15,19C11.14,19 8,15.86 8,12C8,8.14 11.14,5 15,5C18.86,5 22,8.14 22,12C22,15.86 18.86,19 15,19Z" /></svg>
 </div>
 <detail full-name='mdi-plus-circle-multiple-outline'></detail>
-    
+<div>
+<p>关于“plus circle multiple outline”的评论:</p>
+</div>
+<Vssue title="关于“plus circle multiple outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

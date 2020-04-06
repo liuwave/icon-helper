@@ -5,6 +5,7 @@ name: home-remove
 zhTips: 主页删除
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/home-remove.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3L2 12H5V20H19V12H22L12 3M15.54 16.12L14.12 17.54L12 15.41L9.88 17.54L8.47 16.12L10.59 14L8.47 11.88L9.88 10.47L12 12.59L14.12 10.47L15.54 11.88L13.41 14L15.54 16.12Z" /></svg>
 </div>
 <detail full-name='mdi-home-remove'></detail>
-    
+<div>
+<p>关于“home remove”的评论:</p>
+</div>
+<Vssue title="关于“home remove”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

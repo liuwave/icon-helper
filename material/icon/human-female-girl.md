@@ -5,6 +5,7 @@ name: human-female-girl
 zhTips: 人类女性女孩,母亲,妈妈,女童
 tags: ["people-family"]
 search: mother,mom,woman-child,mum
+image: https://iconhelper.cn/svg/material/human-female-girl.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.5,2A2,2 0 0,1 9.5,4A2,2 0 0,1 7.5,6A2,2 0 0,1 5.5,4A2,2 0 0,1 7.5,2M6,22V16H3L5.6,8.4C5.9,7.6 6.6,7 7.5,7C8.4,7 9.2,7.6 9.4,8.4L12,16H9V22H6M14.5,12A2,2 0 0,1 16.5,10A2,2 0 0,1 18.5,12A2,2 0 0,1 16.5,14A2,2 0 0,1 14.5,12M15,15H18L19.5,19H18V22H15V19H13.5L15,15Z" /></svg>
 </div>
 <detail full-name='mdi-human-female-girl'></detail>
-    
+<div>
+<p>关于“human female girl”的评论:</p>
+</div>
+<Vssue title="关于“human female girl”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

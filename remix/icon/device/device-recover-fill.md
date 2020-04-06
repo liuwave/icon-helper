@@ -5,6 +5,7 @@ name: device-recover-fill
 zhTips: 恢复出厂设置
 tags: ["device"]
 search: fill
+image: https://iconhelper.cn/svg/remix/device/device-recover-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-device-recover-fill'></detail>
-    
+<detail full-name='ri-device-recover-fill'></detail>  
+<div>
+<p>关于“device recover fill”的评论:</p>
+</div>
+<Vssue title="关于“device recover fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

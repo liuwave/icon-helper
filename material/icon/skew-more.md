@@ -5,6 +5,7 @@ name: skew-more
 zhTips: 偏斜更多,偏斜增加
 tags: ["math"]
 search: skew-increase
+image: https://iconhelper.cn/svg/material/skew-more.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12.5,11L10.41,20H5.5L7.59,11H12.5M15,9H6L3,22H12L15,9M21,6L17,2V5H9V7H17V10L21,6Z" /></svg>
 </div>
 <detail full-name='mdi-skew-more'></detail>
-    
+<div>
+<p>关于“skew more”的评论:</p>
+</div>
+<Vssue title="关于“skew more”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

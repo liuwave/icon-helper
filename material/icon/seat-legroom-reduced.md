@@ -5,6 +5,7 @@ name: seat-legroom-reduced
 zhTips: 腿部座位减少,航空公司腿部座位减少
 tags: []
 search: airline-seat-legroom-reduced
+image: https://iconhelper.cn/svg/material/seat-legroom-reduced.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19.97,19.2C20.15,20.16 19.42,21 18.5,21H14V18L15,14H9A3,3 0 0,1 6,11V3H12V9H17A2,2 0 0,1 19,11L17,18H18.44C19.17,18 19.83,18.5 19.97,19.2M5,12V3H3V12A5,5 0 0,0 8,17H12V15H8A3,3 0 0,1 5,12Z" /></svg>
 </div>
 <detail full-name='mdi-seat-legroom-reduced'></detail>
-    
+<div>
+<p>关于“seat legroom reduced”的评论:</p>
+</div>
+<Vssue title="关于“seat legroom reduced”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

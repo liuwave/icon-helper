@@ -5,6 +5,7 @@ name: laptop-windows
 zhTips: 笔记本电脑窗口
 tags: ["device-tech","home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/laptop-windows.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,4H21A1,1 0 0,1 22,5V16A1,1 0 0,1 21,17H22L24,20V21H0V20L2,17H3A1,1 0 0,1 2,16V5A1,1 0 0,1 3,4M4,6V15H20V6H4Z" /></svg>
 </div>
 <detail full-name='mdi-laptop-windows'></detail>
-    
+<div>
+<p>关于“laptop windows”的评论:</p>
+</div>
+<Vssue title="关于“laptop windows”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

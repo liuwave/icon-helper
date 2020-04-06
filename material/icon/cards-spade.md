@@ -5,6 +5,7 @@ name: cards-spade
 zhTips: 卡锹,西装锹
 tags: ["gaming-rpg"]
 search: suit-spades
+image: https://iconhelper.cn/svg/material/cards-spade.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2C9,7 4,9 4,14C4,16 6,18 8,18C9,18 10,18 11,17C11,17 11.32,19 9,22H15C13,19 13,17 13,17C14,18 15,18 16,18C18,18 20,16 20,14C20,9 15,7 12,2Z" /></svg>
 </div>
 <detail full-name='mdi-cards-spade'></detail>
-    
+<div>
+<p>关于“cards spade”的评论:</p>
+</div>
+<Vssue title="关于“cards spade”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

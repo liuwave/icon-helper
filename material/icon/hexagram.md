@@ -5,6 +5,7 @@ name: hexagram
 zhTips: 卦
 tags: ["shape"]
 search: 
+image: https://iconhelper.cn/svg/material/hexagram.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.5,7.66L20.64,6.97L17,12L20.68,16.97L14.5,16.32L12.03,22L9.5,16.34L3.36,17.03L7,12L3.32,7.03L9.5,7.68L11.97,2L14.5,7.66Z" /></svg>
 </div>
 <detail full-name='mdi-hexagram'></detail>
-    
+<div>
+<p>关于“hexagram”的评论:</p>
+</div>
+<Vssue title="关于“hexagram”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

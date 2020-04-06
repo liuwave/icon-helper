@@ -5,6 +5,7 @@ name: home-export-outline
 zhTips: 房屋出口轮廓
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/home-export-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M24 13L20 9V12H11V14H20V17M18 16V21H2V12H0L10 2L18 10H15L10 5L4 11V19H16V16H18Z" /></svg>
 </div>
 <detail full-name='mdi-home-export-outline'></detail>
-    
+<div>
+<p>关于“home export outline”的评论:</p>
+</div>
+<Vssue title="关于“home export outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

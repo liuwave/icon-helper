@@ -5,6 +5,7 @@ name: arrow-right-down-fill
 zhTips: 右下
 tags: ["system"]
 search: corner,fill
+image: https://iconhelper.cn/svg/remix/system/arrow-right-down-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-arrow-right-down-fill'></detail>
-    
+<detail full-name='ri-arrow-right-down-fill'></detail>  
+<div>
+<p>关于“arrow right down fill”的评论:</p>
+</div>
+<Vssue title="关于“arrow right down fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

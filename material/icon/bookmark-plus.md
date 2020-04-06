@@ -5,6 +5,7 @@ name: bookmark-plus
 zhTips: 书签加,书签添加
 tags: []
 search: bookmark-add
+image: https://iconhelper.cn/svg/material/bookmark-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,3A2,2 0 0,1 19,5V21L12,18L5,21V5C5,3.89 5.9,3 7,3H17M11,7V9H9V11H11V13H13V11H15V9H13V7H11Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark-plus'></detail>
-    
+<div>
+<p>关于“bookmark plus”的评论:</p>
+</div>
+<Vssue title="关于“bookmark plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

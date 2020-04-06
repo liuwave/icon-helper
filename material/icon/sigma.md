@@ -5,6 +5,7 @@ name: sigma
 zhTips: sigma,求和
 tags: ["math"]
 search: summation
+image: https://iconhelper.cn/svg/material/sigma.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,6H8.83L14.83,12L8.83,18H18V20H6V18L12,12L6,6V4H18V6Z" /></svg>
 </div>
 <detail full-name='mdi-sigma'></detail>
-    
+<div>
+<p>关于“sigma”的评论:</p>
+</div>
+<Vssue title="关于“sigma”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

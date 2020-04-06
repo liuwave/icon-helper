@@ -5,6 +5,7 @@ name: sound-module-line
 zhTips: 均衡器,控制器,设置,筛选
 tags: ["media"]
 search: sliders,controls,settings,filter,line
+image: https://iconhelper.cn/svg/remix/media/sound-module-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-sound-module-line'></detail>
-    
+<detail full-name='ri-sound-module-line'></detail>  
+<div>
+<p>关于“sound module line”的评论:</p>
+</div>
+<Vssue title="关于“sound module line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

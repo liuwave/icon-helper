@@ -5,6 +5,7 @@ name: link
 zhTips: 联系,链接,地址,附件,链条,连接,链接标识
 tags: ["editor"]
 search: connection,address
+image: https://iconhelper.cn/svg/remix/editor/link.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-link'></detail>
-    
+<detail full-name='ri-link'></detail>  
+<div>
+<p>关于“link”的评论:</p>
+</div>
+<Vssue title="关于“link”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

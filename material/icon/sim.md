@@ -5,6 +5,7 @@ name: sim
 zhTips: sim,sim卡,用户识别模块
 tags: []
 search: sim-card,subscriber-identity-module,subscriber-identification-module
+image: https://iconhelper.cn/svg/material/sim.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,4A2,2 0 0,0 18,2H10L4,8V20A2,2 0 0,0 6,22H18C19.11,22 20,21.1 20,20V4M9,19H7V17H9V19M17,19H15V17H17V19M9,15H7V11H9V15M13,19H11V15H13V19M13,13H11V11H13V13M17,15H15V11H17V15Z" /></svg>
 </div>
 <detail full-name='mdi-sim'></detail>
-    
+<div>
+<p>关于“sim”的评论:</p>
+</div>
+<Vssue title="关于“sim”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

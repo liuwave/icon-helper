@@ -5,6 +5,7 @@ name: china-railway-fill
 zhTips: 中铁,铁路,火车
 tags: ["map"]
 search: fill
+image: https://iconhelper.cn/svg/remix/map/china-railway-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-china-railway-fill'></detail>
-    
+<detail full-name='ri-china-railway-fill'></detail>  
+<div>
+<p>关于“china railway fill”的评论:</p>
+</div>
+<Vssue title="关于“china railway fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

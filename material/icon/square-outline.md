@@ -5,6 +5,7 @@ name: square-outline
 zhTips: 方形轮廓
 tags: ["shape"]
 search: 
+image: https://iconhelper.cn/svg/material/square-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,3H21V21H3V3M5,5V19H19V5H5Z" /></svg>
 </div>
 <detail full-name='mdi-square-outline'></detail>
-    
+<div>
+<p>关于“square outline”的评论:</p>
+</div>
+<Vssue title="关于“square outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

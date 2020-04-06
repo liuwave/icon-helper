@@ -5,6 +5,7 @@ name: border-none
 zhTips: 边框无,边框清晰
 tags: ["text-content-format"]
 search: border-clear
+image: https://iconhelper.cn/svg/material/border-none.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,5H17V3H15M15,13H17V11H15M15,21H17V19H15M11,5H13V3H11M19,5H21V3H19M11,9H13V7H11M19,9H21V7H19M19,21H21V19H19M19,13H21V11H19M19,17H21V15H19M11,13H13V11H11M3,5H5V3H3M3,9H5V7H3M3,13H5V11H3M3,17H5V15H3M3,21H5V19H3M11,21H13V19H11M11,17H13V15H11M7,21H9V19H7M7,13H9V11H7M7,5H9V3H7V5Z" /></svg>
 </div>
 <detail full-name='mdi-border-none'></detail>
-    
+<div>
+<p>关于“border none”的评论:</p>
+</div>
+<Vssue title="关于“border none”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

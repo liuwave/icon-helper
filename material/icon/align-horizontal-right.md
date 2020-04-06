@@ -5,6 +5,7 @@ name: align-horizontal-right
 zhTips: 右对齐
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/align-horizontal-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 13V19H2V13H18M8 5V11H18V5H8M20 2V22H22V2H20Z" /></svg>
 </div>
 <detail full-name='mdi-align-horizontal-right'></detail>
-    
+<div>
+<p>关于“align horizontal right”的评论:</p>
+</div>
+<Vssue title="关于“align horizontal right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: gate-open
 zhTips: 开门
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/gate-open.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 20V6H5V10H3V8H1V20H3V18H5V20H7M3 16V12H5V16H3M21 8V10H19V6H17V20H19V18H21V20H23V8H21M21 16H19V12H21V16Z" /></svg>
 </div>
 <detail full-name='mdi-gate-open'></detail>
-    
+<div>
+<p>关于“gate open”的评论:</p>
+</div>
+<Vssue title="关于“gate open”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

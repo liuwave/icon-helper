@@ -5,6 +5,7 @@ name: share
 zhTips: 分享,转发,转发粗黑,共享,保存,发送,社交
 tags: ["arrow"]
 search: forward
+image: https://iconhelper.cn/svg/material/share.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,12L14,5V9C7,10 4,15 3,20C5.5,16.5 9,14.9 14,14.9V19L21,12Z" /></svg>
 </div>
 <detail full-name='mdi-share'></detail>
-    
+<div>
+<p>关于“share”的评论:</p>
+</div>
+<Vssue title="关于“share”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

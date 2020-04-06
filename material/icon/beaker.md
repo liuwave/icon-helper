@@ -5,6 +5,7 @@ name: beaker
 zhTips: 烧杯
 tags: ["science"]
 search: 
+image: https://iconhelper.cn/svg/material/beaker.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,3V5A2,2 0 0,1 5,7V19A2,2 0 0,0 7,21H17A2,2 0 0,0 19,19V7A2,2 0 0,1 21,5V3H3M7,9H10V10H7V9M7,11H10V12H7V11M10,16H7V15H10V16M12,14H7V13H12V14M12,8H7V7H12V8Z" /></svg>
 </div>
 <detail full-name='mdi-beaker'></detail>
-    
+<div>
+<p>关于“beaker”的评论:</p>
+</div>
+<Vssue title="关于“beaker”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

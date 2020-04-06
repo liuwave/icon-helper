@@ -5,6 +5,7 @@ name: slash-forward
 zhTips: 斜线前进,划分
 tags: ["math"]
 search: divide,division
+image: https://iconhelper.cn/svg/material/slash-forward.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 21L14.9 3H17L9.1 21H7Z" /></svg>
 </div>
 <detail full-name='mdi-slash-forward'></detail>
-    
+<div>
+<p>关于“slash forward”的评论:</p>
+</div>
+<Vssue title="关于“slash forward”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

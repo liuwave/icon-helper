@@ -5,6 +5,7 @@ name: arrow-split-horizontal
 zhTips: 箭头水平分割,垂直调整大小,调整大小
 tags: ["arrow"]
 search: resize-vertical,resize
+image: https://iconhelper.cn/svg/material/arrow-split-horizontal.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8,18H11V15H2V13H22V15H13V18H16L12,22L8,18M12,2L8,6H11V9H2V11H22V9H13V6H16L12,2Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-split-horizontal'></detail>
-    
+<div>
+<p>关于“arrow split horizontal”的评论:</p>
+</div>
+<Vssue title="关于“arrow split horizontal”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

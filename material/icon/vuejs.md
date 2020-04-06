@@ -5,6 +5,7 @@ name: vuejs
 zhTips: vuejs,vue js
 tags: ["brand-logo","developer-languages"]
 search: vue-js
+image: https://iconhelper.cn/svg/material/vuejs.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,3H5.5L12,15L18.5,3H22L12,21L2,3M6.5,3H9.5L12,7.58L14.5,3H17.5L12,13.08L6.5,3Z" /></svg>
 </div>
 <detail full-name='mdi-vuejs'></detail>
-    
+<div>
+<p>关于“vuejs”的评论:</p>
+</div>
+<Vssue title="关于“vuejs”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

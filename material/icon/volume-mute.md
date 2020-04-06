@@ -5,6 +5,7 @@ name: volume-mute
 zhTips: 静音
 tags: ["audio","cellphone-phone"]
 search: 
+image: https://iconhelper.cn/svg/material/volume-mute.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,9H7L12,4V20L7,15H3V9M16.59,12L14,9.41L15.41,8L18,10.59L20.59,8L22,9.41L19.41,12L22,14.59L20.59,16L18,13.41L15.41,16L14,14.59L16.59,12Z" /></svg>
 </div>
 <detail full-name='mdi-volume-mute'></detail>
-    
+<div>
+<p>关于“volume mute”的评论:</p>
+</div>
+<Vssue title="关于“volume mute”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

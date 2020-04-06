@@ -5,6 +5,7 @@ name: shape-square-plus
 zhTips: 形状正方形加
 tags: ["shape"]
 search: shape-square-add
+image: https://iconhelper.cn/svg/material/shape-square-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,5H22V7H19V10H17V7H14V5H17V2H19V5M17,19V13H19V21H3V5H11V7H5V19H17Z" /></svg>
 </div>
 <detail full-name='mdi-shape-square-plus'></detail>
-    
+<div>
+<p>关于“shape square plus”的评论:</p>
+</div>
+<Vssue title="关于“shape square plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

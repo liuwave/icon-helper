@@ -5,6 +5,7 @@ name: home-wifi-line
 zhTips: 房子,家具,智能家居
 tags: ["buildings"]
 search: smart home,line
+image: https://iconhelper.cn/svg/remix/buildings/home-wifi-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-home-wifi-line'></detail>
-    
+<detail full-name='ri-home-wifi-line'></detail>  
+<div>
+<p>关于“home wifi line”的评论:</p>
+</div>
+<Vssue title="关于“home wifi line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

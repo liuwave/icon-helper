@@ -5,6 +5,7 @@ name: speed-mini-line
 zhTips: 快进
 tags: ["media"]
 search: fast,line
+image: https://iconhelper.cn/svg/remix/media/speed-mini-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-speed-mini-line'></detail>
-    
+<detail full-name='ri-speed-mini-line'></detail>  
+<div>
+<p>关于“speed mini line”的评论:</p>
+</div>
+<Vssue title="关于“speed mini line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: calendar-alert
 zhTips: 日历警报,事件警报,日历警告
 tags: ["date-time","alert-error"]
 search: event-alert,calendar-warning
+image: https://iconhelper.cn/svg/material/calendar-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6 1V3H5C3.89 3 3 3.89 3 5V19C3 20.11 3.9 21 5 21H19C20.11 21 21 20.11 21 19V5C21 3.9 20.11 3 19 3H18V1H16V3H8V1H6M5 8H19V19H5V7M11 9V14H13V9H11M11 16V18H13V16H11Z" /></svg>
 </div>
 <detail full-name='mdi-calendar-alert'></detail>
-    
+<div>
+<p>关于“calendar alert”的评论:</p>
+</div>
+<Vssue title="关于“calendar alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

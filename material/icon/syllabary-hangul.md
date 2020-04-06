@@ -5,6 +5,7 @@ name: syllabary-hangul
 zhTips: 音节韩文,书写系统中文
 tags: ["alpha-numeric"]
 search: writing-system-hangul
+image: https://iconhelper.cn/svg/material/syllabary-hangul.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 4V6H4V8H6.39C5.55 8.74 5 9.8 5 11C5 13.2 6.8 15 9 15C11.2 15 13 13.2 13 11C13 9.8 12.45 8.74 11.61 8H14V6H10V4M15 4V16H17V11H20V9H17V4M9 9C10.12 9 11 9.88 11 11C11 12.12 10.12 13 9 13C7.88 13 7 12.12 7 11C7 9.88 7.88 9 9 9M7 16V20H17V18H9V16Z" /></svg>
 </div>
 <detail full-name='mdi-syllabary-hangul'></detail>
-    
+<div>
+<p>关于“syllabary hangul”的评论:</p>
+</div>
+<Vssue title="关于“syllabary hangul”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

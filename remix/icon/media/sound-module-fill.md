@@ -5,6 +5,7 @@ name: sound-module-fill
 zhTips: 均衡器,控制器,设置,筛选
 tags: ["media"]
 search: sliders,controls,settings,filter,fill
+image: https://iconhelper.cn/svg/remix/media/sound-module-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-sound-module-fill'></detail>
-    
+<detail full-name='ri-sound-module-fill'></detail>  
+<div>
+<p>关于“sound module fill”的评论:</p>
+</div>
+<Vssue title="关于“sound module fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

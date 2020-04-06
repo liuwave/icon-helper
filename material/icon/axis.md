@@ -5,6 +5,7 @@ name: axis
 zhTips: 轴
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/axis.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2.61,21L1.61,19.27L11,13.85V3H13V13.85L22.39,19.27L21.39,21L12,15.58L2.61,21Z" /></svg>
 </div>
 <detail full-name='mdi-axis'></detail>
-    
+<div>
+<p>关于“axis”的评论:</p>
+</div>
+<Vssue title="关于“axis”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

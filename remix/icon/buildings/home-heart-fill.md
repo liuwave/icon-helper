@@ -5,6 +5,7 @@ name: home-heart-fill
 zhTips: 心,房子,家,主页,孤儿院
 tags: ["buildings"]
 search: house,fill
+image: https://iconhelper.cn/svg/remix/buildings/home-heart-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-home-heart-fill'></detail>
-    
+<detail full-name='ri-home-heart-fill'></detail>  
+<div>
+<p>关于“home heart fill”的评论:</p>
+</div>
+<Vssue title="关于“home heart fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

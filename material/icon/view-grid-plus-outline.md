@@ -5,6 +5,7 @@ name: view-grid-plus-outline
 zhTips: 网格视图加轮廓
 tags: ["view"]
 search: 
+image: https://iconhelper.cn/svg/material/view-grid-plus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 21H11V13H3M5 15H9V19H5M3 11H11V3H3M5 5H9V9H5M13 3V11H21V3M19 9H15V5H19M18 16H21V18H18V21H16V18H13V16H16V13H18Z" /></svg>
 </div>
 <detail full-name='mdi-view-grid-plus-outline'></detail>
-    
+<div>
+<p>关于“view grid plus outline”的评论:</p>
+</div>
+<Vssue title="关于“view grid plus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

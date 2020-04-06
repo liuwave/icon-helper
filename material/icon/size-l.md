@@ -5,6 +5,7 @@ name: size-l
 zhTips: 尺码L,大码
 tags: []
 search: size-large
+image: https://iconhelper.cn/svg/material/size-l.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7V17H15V15H11V7H9Z" /></svg>
 </div>
 <detail full-name='mdi-size-l'></detail>
-    
+<div>
+<p>关于“size l”的评论:</p>
+</div>
+<Vssue title="关于“size l”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

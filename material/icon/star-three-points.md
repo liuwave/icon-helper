@@ -5,6 +5,7 @@ name: star-three-points
 zhTips: 星三点
 tags: ["shape"]
 search: 
+image: https://iconhelper.cn/svg/material/star-three-points.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2.6L9,12.4L2,19.9L12,17.6L22,20L15,12.5L12,2.6Z" /></svg>
 </div>
 <detail full-name='mdi-star-three-points'></detail>
-    
+<div>
+<p>关于“star three points”的评论:</p>
+</div>
+<Vssue title="关于“star three points”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

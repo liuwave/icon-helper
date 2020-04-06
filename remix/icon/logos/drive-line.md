@@ -5,6 +5,7 @@ name: drive-line
 zhTips: 谷歌云端硬盘
 tags: ["logos"]
 search: google drive,line
+image: https://iconhelper.cn/svg/remix/logos/drive-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-drive-line'></detail>
-    
+<detail full-name='ri-drive-line'></detail>  
+<div>
+<p>关于“drive line”的评论:</p>
+</div>
+<Vssue title="关于“drive line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

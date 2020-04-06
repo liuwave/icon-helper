@@ -5,6 +5,7 @@ name: check-outline
 zhTips: 检查轮廓,完成轮廓,刻度线
 tags: []
 search: done-outline,tick-outline
+image: https://iconhelper.cn/svg/material/check-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19.78,2.2L24,6.42L8.44,22L0,13.55L4.22,9.33L8.44,13.55L19.78,2.2M19.78,5L8.44,16.36L4.22,12.19L2.81,13.55L8.44,19.17L21.19,6.42L19.78,5Z" /></svg>
 </div>
 <detail full-name='mdi-check-outline'></detail>
-    
+<div>
+<p>关于“check outline”的评论:</p>
+</div>
+<Vssue title="关于“check outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

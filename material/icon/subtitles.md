@@ -5,6 +5,7 @@ name: subtitles
 zhTips: 字幕
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/subtitles.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,4H4A2,2 0 0,0 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6A2,2 0 0,0 20,4M4,12H8V14H4V12M14,18H4V16H14V18M20,18H16V16H20V18M20,14H10V12H20V14Z" /></svg>
 </div>
 <detail full-name='mdi-subtitles'></detail>
-    
+<div>
+<p>关于“subtitles”的评论:</p>
+</div>
+<Vssue title="关于“subtitles”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

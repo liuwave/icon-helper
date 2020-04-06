@@ -5,6 +5,7 @@ name: screenshot-line
 zhTips: 屏幕截图,截屏
 tags: ["design"]
 search: capture,line
+image: https://iconhelper.cn/svg/remix/design/screenshot-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-screenshot-line'></detail>
-    
+<detail full-name='ri-screenshot-line'></detail>  
+<div>
+<p>关于“screenshot line”的评论:</p>
+</div>
+<Vssue title="关于“screenshot line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

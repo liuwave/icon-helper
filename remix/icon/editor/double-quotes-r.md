@@ -5,6 +5,7 @@ name: double-quotes-r
 zhTips: 双引号
 tags: ["editor"]
 search: right,quotaion marks
+image: https://iconhelper.cn/svg/remix/editor/double-quotes-r.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-double-quotes-r'></detail>
-    
+<detail full-name='ri-double-quotes-r'></detail>  
+<div>
+<p>关于“double quotes r”的评论:</p>
+</div>
+<Vssue title="关于“double quotes r”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: shield-star
 zhTips: 盾牌星,徽章
 tags: []
 search: badge
+image: https://iconhelper.cn/svg/material/shield-star.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 1L3 5V11C3 16.55 6.84 21.74 12 23C17.16 21.74 21 16.55 21 11V5L12 1M15.08 16L12 14.15L8.93 16L9.74 12.5L7.03 10.16L10.61 9.85L12 6.55L13.39 9.84L16.97 10.15L14.26 12.5L15.08 16Z" /></svg>
 </div>
 <detail full-name='mdi-shield-star'></detail>
-    
+<div>
+<p>关于“shield star”的评论:</p>
+</div>
+<Vssue title="关于“shield star”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

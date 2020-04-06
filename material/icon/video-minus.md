@@ -5,6 +5,7 @@ name: video-minus
 zhTips: 视频减,视频删除
 tags: ["video-movie"]
 search: video-remove
+image: https://iconhelper.cn/svg/material/video-minus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,10.5V7A1,1 0 0,0 16,6H4A1,1 0 0,0 3,7V17A1,1 0 0,0 4,18H16A1,1 0 0,0 17,17V13.5L21,17.5V6.5L17,10.5M14,13H6V11H14V13Z" /></svg>
 </div>
 <detail full-name='mdi-video-minus'></detail>
-    
+<div>
+<p>关于“video minus”的评论:</p>
+</div>
+<Vssue title="关于“video minus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

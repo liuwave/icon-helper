@@ -5,6 +5,7 @@ name: car-battery
 zhTips: 汽车电池
 tags: ["battery","automotive"]
 search: 
+image: https://iconhelper.cn/svg/material/car-battery.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,3V6H1V20H23V6H20V3H14V6H10V3H4M3,8H21V18H3V8M15,10V12H13V14H15V16H17V14H19V12H17V10H15M5,12V14H11V12H5Z" /></svg>
 </div>
 <detail full-name='mdi-car-battery'></detail>
-    
+<div>
+<p>关于“car battery”的评论:</p>
+</div>
+<Vssue title="关于“car battery”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

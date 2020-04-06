@@ -5,6 +5,7 @@ name: molecule-co2
 zhTips: 分子二氧化碳,周期表中的二氧化碳
 tags: ["science","home-automation"]
 search: periodic-table-carbon-dioxide
+image: https://iconhelper.cn/svg/material/molecule-co2.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,7A2,2 0 0,0 3,9V15A2,2 0 0,0 5,17H8V15H5V9H8V7H5M11,7A2,2 0 0,0 9,9V15A2,2 0 0,0 11,17H13A2,2 0 0,0 15,15V9A2,2 0 0,0 13,7H11M11,9H13V15H11V9M16,10.5V12H19V13.5H17.5A1.5,1.5 0 0,0 16,15V18H20.5V16.5H17.5V15H19A1.5,1.5 0 0,0 20.5,13.5V12A1.5,1.5 0 0,0 19,10.5H16Z" /></svg>
 </div>
 <detail full-name='mdi-molecule-co2'></detail>
-    
+<div>
+<p>关于“molecule co2”的评论:</p>
+</div>
+<Vssue title="关于“molecule co2”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

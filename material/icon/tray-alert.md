@@ -5,6 +5,7 @@ name: tray-alert
 zhTips: 托盘警报,队列,打印机,收件箱
 tags: ["alert-error"]
 search: queue,printer,inbox
+image: https://iconhelper.cn/svg/material/tray-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12H4V17H20V12H22V17A2 2 0 0 1 20 19H4A2 2 0 0 1 2 17M13 12H11V14H13M13 4H11V10H13Z" /></svg>
 </div>
 <detail full-name='mdi-tray-alert'></detail>
-    
+<div>
+<p>关于“tray alert”的评论:</p>
+</div>
+<Vssue title="关于“tray alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

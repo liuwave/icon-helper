@@ -5,6 +5,7 @@ name: piano
 zhTips: 钢琴
 tags: ["music"]
 search: 
+image: https://iconhelper.cn/svg/material/piano.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,3H20A2,2 0 0,1 22,5V19A2,2 0 0,1 20,21H4A2,2 0 0,1 2,19V5A2,2 0 0,1 4,3M4,5V19H8V13H6.75V5H4M9,19H15V13H13.75V5H10.25V13H9V19M16,19H20V5H17.25V13H16V19Z" /></svg>
 </div>
 <detail full-name='mdi-piano'></detail>
-    
+<div>
+<p>关于“piano”的评论:</p>
+</div>
+<Vssue title="关于“piano”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

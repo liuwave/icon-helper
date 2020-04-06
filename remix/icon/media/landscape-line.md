@@ -5,6 +5,7 @@ name: landscape-line
 zhTips: 图片,照片
 tags: ["media"]
 search: picture,image,photo,line
+image: https://iconhelper.cn/svg/remix/media/landscape-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-landscape-line'></detail>
-    
+<detail full-name='ri-landscape-line'></detail>  
+<div>
+<p>关于“landscape line”的评论:</p>
+</div>
+<Vssue title="关于“landscape line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: folder-star-outline
 zhTips: 星形轮廓文件夹,特殊轮廓文件夹
 tags: ["files-folders"]
 search: folder-special-outline
+image: https://iconhelper.cn/svg/material/folder-star-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.78 12.05L13.81 11.79L15 9L16.19 11.79L19.22 12.05L16.92 14.04L17.61 17L15 15.47L12.39 17L13.08 14.04L10.78 12.05M22 8V18C22 19.11 21.11 20 20 20H4C2.9 20 2 19.11 2 18V6C2 4.89 2.9 4 4 4H10L12 6H20C21.11 6 22 6.9 22 8M20 8H4V18H20V8Z" /></svg>
 </div>
 <detail full-name='mdi-folder-star-outline'></detail>
-    
+<div>
+<p>关于“folder star outline”的评论:</p>
+</div>
+<Vssue title="关于“folder star outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

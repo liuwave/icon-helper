@@ -5,6 +5,7 @@ name: note-plus
 zhTips: 注释加,注释添加
 tags: []
 search: note-add
+image: https://iconhelper.cn/svg/material/note-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,10H19.5L14,4.5V10M5,3H15L21,9V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5C3,3.89 3.89,3 5,3M9,18H11V15H14V13H11V10H9V13H6V15H9V18Z" /></svg>
 </div>
 <detail full-name='mdi-note-plus'></detail>
-    
+<div>
+<p>关于“note plus”的评论:</p>
+</div>
+<Vssue title="关于“note plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

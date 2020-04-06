@@ -5,6 +5,7 @@ name: account-alert
 zhTips: 帐户警报,用户警报,帐户警告,用户警告,人员警报,人员警告
 tags: ["account-user","alert-error"]
 search: user-alert,account-warning,user-warning,person-alert,person-warning
+image: https://iconhelper.cn/svg/material/account-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,4A4,4 0 0,1 14,8A4,4 0 0,1 10,12A4,4 0 0,1 6,8A4,4 0 0,1 10,4M10,14C14.42,14 18,15.79 18,18V20H2V18C2,15.79 5.58,14 10,14M20,12V7H22V12H20M20,16V14H22V16H20Z" /></svg>
 </div>
 <detail full-name='mdi-account-alert'></detail>
-    
+<div>
+<p>关于“account alert”的评论:</p>
+</div>
+<Vssue title="关于“account alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

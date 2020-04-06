@@ -5,6 +5,7 @@ name: alpha-s-box-outline
 zhTips: 字母s框轮廓
 tags: ["alpha-numeric"]
 search: alphabet-s-box-outline,letter-s-box-outline
+image: https://iconhelper.cn/svg/material/alpha-s-box-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,7H15V9H11V11H13A2,2 0 0,1 15,13V15A2,2 0 0,1 13,17H9V15H13V13H11A2,2 0 0,1 9,11V9A2,2 0 0,1 11,7M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3M5,5V19H19V5H5Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-s-box-outline'></detail>
-    
+<div>
+<p>关于“alpha s box outline”的评论:</p>
+</div>
+<Vssue title="关于“alpha s box outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

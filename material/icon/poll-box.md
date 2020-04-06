@@ -5,6 +5,7 @@ name: poll-box
 zhTips: 民意调查箱,评估,插入图表
 tags: []
 search: assessment,insert-chart
+image: https://iconhelper.cn/svg/material/poll-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,17H15V13H17M13,17H11V7H13M9,17H7V10H9M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" /></svg>
 </div>
 <detail full-name='mdi-poll-box'></detail>
-    
+<div>
+<p>关于“poll box”的评论:</p>
+</div>
+<Vssue title="关于“poll box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

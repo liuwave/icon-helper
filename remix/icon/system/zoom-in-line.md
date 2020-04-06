@@ -5,6 +5,7 @@ name: zoom-in-line
 zhTips: 放大,放大镜
 tags: ["system"]
 search: line
+image: https://iconhelper.cn/svg/remix/system/zoom-in-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-zoom-in-line'></detail>
-    
+<detail full-name='ri-zoom-in-line'></detail>  
+<div>
+<p>关于“zoom in line”的评论:</p>
+</div>
+<Vssue title="关于“zoom in line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

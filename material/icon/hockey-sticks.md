@@ -5,6 +5,7 @@ name: hockey-sticks
 zhTips: 曲棍球棒
 tags: ["sport"]
 search: 
+image: https://iconhelper.cn/svg/material/hockey-sticks.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.58,3L5.05,4.61L9.04,10.87L10.82,8.08L7.58,3M16.43,3L7.5,17H2V21H8.5L18.96,4.61L16.43,3M14.97,14.59L13.19,17.38L15.5,21H22V17H16.5L14.97,14.59Z" /></svg>
 </div>
 <detail full-name='mdi-hockey-sticks'></detail>
-    
+<div>
+<p>关于“hockey sticks”的评论:</p>
+</div>
+<Vssue title="关于“hockey sticks”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

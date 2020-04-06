@@ -5,6 +5,7 @@ name: wifi-off-fill
 zhTips: connection-fail,无线网,关闭,断网,链接失败
 tags: ["system"]
 search: slash,offline,fill
+image: https://iconhelper.cn/svg/remix/system/wifi-off-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-wifi-off-fill'></detail>
-    
+<detail full-name='ri-wifi-off-fill'></detail>  
+<div>
+<p>关于“wifi off fill”的评论:</p>
+</div>
+<Vssue title="关于“wifi off fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

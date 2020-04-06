@@ -5,6 +5,7 @@ name: shape-line
 zhTips: 形状,描边,边框
 tags: ["design"]
 search: border,line
+image: https://iconhelper.cn/svg/remix/design/shape-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-shape-line'></detail>
-    
+<detail full-name='ri-shape-line'></detail>  
+<div>
+<p>关于“shape line”的评论:</p>
+</div>
+<Vssue title="关于“shape line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

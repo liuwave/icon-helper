@@ -5,6 +5,7 @@ name: star-box-outline
 zhTips: 星盒轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/star-box-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15.58,17L12,14.84L8.42,17L9.37,12.93L6.21,10.2L10.38,9.84L12,6L13.62,9.83L17.79,10.19L14.63,12.92L15.58,17M19,3A2,2 0 0,1 21,5V19C21,20.11 20.1,21 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3H19M5,5V19H19V5H5Z" /></svg>
 </div>
 <detail full-name='mdi-star-box-outline'></detail>
-    
+<div>
+<p>关于“star box outline”的评论:</p>
+</div>
+<Vssue title="关于“star box outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

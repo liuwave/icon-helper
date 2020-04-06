@@ -5,6 +5,7 @@ name: money-cny-circle-fill
 zhTips: 金币,货币,钱,支付,人民币
 tags: ["finance"]
 search: currency,coins,payment,fill
+image: https://iconhelper.cn/svg/remix/finance/money-cny-circle-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-money-cny-circle-fill'></detail>
-    
+<detail full-name='ri-money-cny-circle-fill'></detail>  
+<div>
+<p>关于“money cny circle fill”的评论:</p>
+</div>
+<Vssue title="关于“money cny circle fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

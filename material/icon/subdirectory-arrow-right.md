@@ -5,6 +5,7 @@ name: subdirectory-arrow-right
 zhTips: 右箭头子目录
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/subdirectory-arrow-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,15L13,21L11.58,19.58L15.17,16H4V4H6V14H15.17L11.58,10.42L13,9L19,15Z" /></svg>
 </div>
 <detail full-name='mdi-subdirectory-arrow-right'></detail>
-    
+<div>
+<p>关于“subdirectory arrow right”的评论:</p>
+</div>
+<Vssue title="关于“subdirectory arrow right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

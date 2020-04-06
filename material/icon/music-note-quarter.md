@@ -5,6 +5,7 @@ name: music-note-quarter
 zhTips: 音乐笔记季度
 tags: ["audio","music"]
 search: 
+image: https://iconhelper.cn/svg/material/music-note-quarter.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 3V13.56C13.41 13.21 12.73 13 12 13C9.79 13 8 14.79 8 17S9.79 21 12 21 16 19.21 16 17V3H14Z" /></svg>
 </div>
 <detail full-name='mdi-music-note-quarter'></detail>
-    
+<div>
+<p>关于“music note quarter”的评论:</p>
+</div>
+<Vssue title="关于“music note quarter”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

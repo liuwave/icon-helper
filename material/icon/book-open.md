@@ -5,6 +5,7 @@ name: book-open
 zhTips: 打开书本,Chrome阅读器模式
 tags: []
 search: chrome-reader-mode
+image: https://iconhelper.cn/svg/material/book-open.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,12H20V13.5H13M13,9.5H20V11H13M13,14.5H20V16H13M21,4H3A2,2 0 0,0 1,6V19A2,2 0 0,0 3,21H21A2,2 0 0,0 23,19V6A2,2 0 0,0 21,4M21,19H12V6H21" /></svg>
 </div>
 <detail full-name='mdi-book-open'></detail>
-    
+<div>
+<p>关于“book open”的评论:</p>
+</div>
+<Vssue title="关于“book open”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

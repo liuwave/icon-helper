@@ -5,6 +5,7 @@ name: numeric-7-circle
 zhTips: 数字7圈
 tags: ["alpha-numeric"]
 search: numeric-seven-circle,number-7-circle,number-seven-circle
+image: https://iconhelper.cn/svg/material/numeric-7-circle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,17L15,9V7H9V9H13L9,17H11M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2Z" /></svg>
 </div>
 <detail full-name='mdi-numeric-7-circle'></detail>
-    
+<div>
+<p>关于“numeric 7 circle”的评论:</p>
+</div>
+<Vssue title="关于“numeric 7 circle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

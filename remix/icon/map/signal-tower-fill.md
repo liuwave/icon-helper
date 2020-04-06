@@ -5,6 +5,7 @@ name: signal-tower-fill
 zhTips: 信号塔,基站,天线
 tags: ["map"]
 search: base station,antenna,fill
+image: https://iconhelper.cn/svg/remix/map/signal-tower-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-signal-tower-fill'></detail>
-    
+<detail full-name='ri-signal-tower-fill'></detail>  
+<div>
+<p>关于“signal tower fill”的评论:</p>
+</div>
+<Vssue title="关于“signal tower fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

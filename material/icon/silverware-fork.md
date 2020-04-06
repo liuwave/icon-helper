@@ -5,6 +5,7 @@ name: silverware-fork
 zhTips: 银器叉子
 tags: ["food-drink"]
 search: 
+image: https://iconhelper.cn/svg/material/silverware-fork.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.12,21.29L3.71,19.88L13.36,10.22L13.16,10C12.38,9.23 12.38,7.97 13.16,7.19L17.5,2.82L18.43,3.74L15.19,7L16.15,7.94L19.39,4.69L20.31,5.61L17.06,8.85L18,9.81L21.26,6.56L22.18,7.5L17.81,11.84C17.03,12.62 15.77,12.62 15,11.84L14.78,11.64L5.12,21.29Z" /></svg>
 </div>
 <detail full-name='mdi-silverware-fork'></detail>
-    
+<div>
+<p>关于“silverware fork”的评论:</p>
+</div>
+<Vssue title="关于“silverware fork”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: led-outline
 zhTips: led轮廓
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/led-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,6A4,4 0 0,0 8,10V16H6V18H9V23H11V18H13V23H15V18H18V16H16V10A4,4 0 0,0 12,6M12,8A2,2 0 0,1 14,10V15H10V10A2,2 0 0,1 12,8Z" /></svg>
 </div>
 <detail full-name='mdi-led-outline'></detail>
-    
+<div>
+<p>关于“led outline”的评论:</p>
+</div>
+<Vssue title="关于“led outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

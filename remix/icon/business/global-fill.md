@@ -5,6 +5,7 @@ name: global-fill
 zhTips: 地球,联合,世界,全球,语言
 tags: ["business"]
 search: earth,union,world,language,fill
+image: https://iconhelper.cn/svg/remix/business/global-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-global-fill'></detail>
-    
+<detail full-name='ri-global-fill'></detail>  
+<div>
+<p>关于“global fill”的评论:</p>
+</div>
+<Vssue title="关于“global fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

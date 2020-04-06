@@ -5,6 +5,7 @@ name: flag-checkered
 zhTips: 方格旗,旗,红旗,活动
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/flag-checkered.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.4,6H20V16H13L12.6,14H7V21H5V4H14L14.4,6M14,14H16V12H18V10H16V8H14V10L13,8V6H11V8H9V6H7V8H9V10H7V12H9V10H11V12H13V10L14,12V14M11,10V8H13V10H11M14,10H16V12H14V10Z" /></svg>
 </div>
 <detail full-name='mdi-flag-checkered'></detail>
-    
+<div>
+<p>关于“flag checkered”的评论:</p>
+</div>
+<Vssue title="关于“flag checkered”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

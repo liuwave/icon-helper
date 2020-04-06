@@ -5,6 +5,7 @@ name: call-received
 zhTips: 已接电话
 tags: ["cellphone-phone","arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/call-received.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,5.41L18.59,4L7,15.59V9H5V19H15V17H8.41" /></svg>
 </div>
 <detail full-name='mdi-call-received'></detail>
-    
+<div>
+<p>关于“call received”的评论:</p>
+</div>
+<Vssue title="关于“call received”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

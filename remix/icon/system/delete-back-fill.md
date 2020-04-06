@@ -5,6 +5,7 @@ name: delete-back-fill
 zhTips: 删除,退格
 tags: ["system"]
 search: backspace,fill
+image: https://iconhelper.cn/svg/remix/system/delete-back-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-delete-back-fill'></detail>
-    
+<detail full-name='ri-delete-back-fill'></detail>  
+<div>
+<p>关于“delete back fill”的评论:</p>
+</div>
+<Vssue title="关于“delete back fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

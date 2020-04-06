@@ -5,6 +5,7 @@ name: riding-line
 zhTips: 骑行,自行车
 tags: ["map"]
 search: bike,line
+image: https://iconhelper.cn/svg/remix/map/riding-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-riding-line'></detail>
-    
+<detail full-name='ri-riding-line'></detail>  
+<div>
+<p>关于“riding line”的评论:</p>
+</div>
+<Vssue title="关于“riding line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

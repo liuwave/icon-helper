@@ -5,6 +5,7 @@ name: battery-alert-variant
 zhTips: 电池警报口音
 tags: ["battery","alert-error"]
 search: 
+image: https://iconhelper.cn/svg/material/battery-alert-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.67 4H13V2H7V4H5.33C4.6 4 4 4.6 4 5.33V20.67C4 21.4 4.6 22 5.33 22H14.67C15.4 22 16 21.4 16 20.67V5.33C16 4.6 15.4 4 14.67 4M21 13H19V8H21V13M21 17H19V15H21V17Z" /></svg>
 </div>
 <detail full-name='mdi-battery-alert-variant'></detail>
-    
+<div>
+<p>关于“battery alert variant”的评论:</p>
+</div>
+<Vssue title="关于“battery alert variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: pandora
 zhTips: 潘朵拉
 tags: ["brand-logo"]
 search: 
+image: https://iconhelper.cn/svg/material/pandora.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,20A1,1 0 0,1 9,21H4V3H13.71A6.75,6.75 0 0,1 20.46,9.75C20.46,13.5 17.44,16.5 13.71,16.5H10V20Z" /></svg>
 </div>
 <detail full-name='mdi-pandora'></detail>
-    
+<div>
+<p>关于“pandora”的评论:</p>
+</div>
+<Vssue title="关于“pandora”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

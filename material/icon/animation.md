@@ -5,6 +5,7 @@ name: animation
 zhTips: 动画,超赞的动作
 tags: []
 search: auto-awesome-motion
+image: https://iconhelper.cn/svg/material/animation.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,2C2.89,2 2,2.89 2,4V14H4V4H14V2H4M8,6C6.89,6 6,6.89 6,8V18H8V8H18V6H8M12,10C10.89,10 10,10.89 10,12V20C10,21.11 10.89,22 12,22H20C21.11,22 22,21.11 22,20V12C22,10.89 21.11,10 20,10H12Z" /></svg>
 </div>
 <detail full-name='mdi-animation'></detail>
-    
+<div>
+<p>关于“animation”的评论:</p>
+</div>
+<Vssue title="关于“animation”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: format-vertical-align-bottom
 zhTips: 格式垂直对齐底部
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-vertical-align-bottom.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,13H13V3H11V13H8L12,17L16,13M4,19V21H20V19H4Z" /></svg>
 </div>
 <detail full-name='mdi-format-vertical-align-bottom'></detail>
-    
+<div>
+<p>关于“format vertical align bottom”的评论:</p>
+</div>
+<Vssue title="关于“format vertical align bottom”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

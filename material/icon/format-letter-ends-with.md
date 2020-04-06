@@ -5,6 +5,7 @@ name: format-letter-ends-with
 zhTips: 字母格式结尾为
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-letter-ends-with.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.14 4L6.43 16H8.36L9.32 13.43H14.67L15.64 16H17.57L12.86 4M12 6.29L14.03 11.71H9.96M20 14V18H2V20H22V14Z" /></svg>
 </div>
 <detail full-name='mdi-format-letter-ends-with'></detail>
-    
+<div>
+<p>关于“format letter ends with”的评论:</p>
+</div>
+<Vssue title="关于“format letter ends with”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

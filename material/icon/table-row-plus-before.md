@@ -5,6 +5,7 @@ name: table-row-plus-before
 zhTips: 表行加前
 tags: ["text-content-format"]
 search: table-row-add-before
+image: https://iconhelper.cn/svg/material/table-row-plus-before.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,14A2,2 0 0,0 20,12H4A2,2 0 0,0 2,14V21H4V19H8V21H10V19H14V21H16V19H20V21H22V14M4,14H8V17H4V14M10,14H14V17H10V14M20,14V17H16V14H20M11,10H13V7H16V5H13V2H11V5H8V7H11V10Z" /></svg>
 </div>
 <detail full-name='mdi-table-row-plus-before'></detail>
-    
+<div>
+<p>关于“table row plus before”的评论:</p>
+</div>
+<Vssue title="关于“table row plus before”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

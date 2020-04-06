@@ -5,6 +5,7 @@ name: camera
 zhTips: 照相机,摄影,照相机alt,本地观看,照相照相机,相机,图像,镜头,照片,图片,记录,快门,视频
 tags: ["photography","home-automation"]
 search: photography,camera-alt,local-see,photo-camera
+image: https://iconhelper.cn/svg/material/camera.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,4H7L9,2H15L17,4H20A2,2 0 0,1 22,6V18A2,2 0 0,1 20,20H4A2,2 0 0,1 2,18V6A2,2 0 0,1 4,4M12,7A5,5 0 0,0 7,12A5,5 0 0,0 12,17A5,5 0 0,0 17,12A5,5 0 0,0 12,7M12,9A3,3 0 0,1 15,12A3,3 0 0,1 12,15A3,3 0 0,1 9,12A3,3 0 0,1 12,9Z" /></svg>
 </div>
 <detail full-name='mdi-camera'></detail>
-    
+<div>
+<p>关于“camera”的评论:</p>
+</div>
+<Vssue title="关于“camera”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

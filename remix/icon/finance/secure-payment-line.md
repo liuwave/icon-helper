@@ -5,6 +5,7 @@ name: secure-payment-line
 zhTips: 银行卡,信用卡,购买,消费,支付,安全
 tags: ["finance"]
 search: credit,purchase,payment,cc,line
+image: https://iconhelper.cn/svg/remix/finance/secure-payment-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-secure-payment-line'></detail>
-    
+<detail full-name='ri-secure-payment-line'></detail>  
+<div>
+<p>关于“secure payment line”的评论:</p>
+</div>
+<Vssue title="关于“secure payment line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: keyboard-settings
 zhTips: 键盘设置
 tags: ["settings"]
 search: 
+image: https://iconhelper.cn/svg/material/keyboard-settings.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,10H17V8H19M19,13H17V11H19M16,10H14V8H16M16,13H14V11H16M16,17H8V15H16M7,10H5V8H7M7,13H5V11H7M8,11H10V13H8M8,8H10V10H8M11,11H13V13H11M11,8H13V10H11M20,5H4A2,2 0 0,0 2,7V17A2,2 0 0,0 4,19H20A2,2 0 0,0 22,17V7A2,2 0 0,0 20,5M7,22H9V24H7V22M11,22H13V24H11V22M15,22H17V24H15V22Z" /></svg>
 </div>
 <detail full-name='mdi-keyboard-settings'></detail>
-    
+<div>
+<p>关于“keyboard settings”的评论:</p>
+</div>
+<Vssue title="关于“keyboard settings”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

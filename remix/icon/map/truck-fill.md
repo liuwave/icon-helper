@@ -5,6 +5,7 @@ name: truck-fill
 zhTips: 卡车,货车,运输
 tags: ["map"]
 search: van,delivery,fill
+image: https://iconhelper.cn/svg/remix/map/truck-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-truck-fill'></detail>
-    
+<detail full-name='ri-truck-fill'></detail>  
+<div>
+<p>关于“truck fill”的评论:</p>
+</div>
+<Vssue title="关于“truck fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

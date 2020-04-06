@@ -5,6 +5,7 @@ name: file-word
 zhTips: word文件
 tags: ["files-folders"]
 search: 
+image: https://iconhelper.cn/svg/material/file-word.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2M15.2,20H13.8L12,13.2L10.2,20H8.8L6.6,11H8.1L9.5,17.8L11.3,11H12.6L14.4,17.8L15.8,11H17.3L15.2,20M13,9V3.5L18.5,9H13Z" /></svg>
 </div>
 <detail full-name='mdi-file-word'></detail>
-    
+<div>
+<p>关于“file word”的评论:</p>
+</div>
+<Vssue title="关于“file word”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

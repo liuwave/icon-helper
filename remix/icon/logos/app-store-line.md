@@ -5,6 +5,7 @@ name: app-store-line
 zhTips: 苹果应用商店
 tags: ["logos"]
 search: applications,line
+image: https://iconhelper.cn/svg/remix/logos/app-store-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-app-store-line'></detail>
-    
+<detail full-name='ri-app-store-line'></detail>  
+<div>
+<p>关于“app store line”的评论:</p>
+</div>
+<Vssue title="关于“app store line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

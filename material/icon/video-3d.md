@@ -5,6 +5,7 @@ name: video-3d
 zhTips: 3D视频
 tags: ["video-movie","video-movie"]
 search: 
+image: https://iconhelper.cn/svg/material/video-3d.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,7H9A2,2 0 0,1 11,9V15A2,2 0 0,1 9,17H5V15H9V13H6V11H9V9H5V7M13,7H16A3,3 0 0,1 19,10V14A3,3 0 0,1 16,17H13V7M16,15A1,1 0 0,0 17,14V10A1,1 0 0,0 16,9H15V15H16Z" /></svg>
 </div>
 <detail full-name='mdi-video-3d'></detail>
-    
+<div>
+<p>关于“video 3d”的评论:</p>
+</div>
+<Vssue title="关于“video 3d”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

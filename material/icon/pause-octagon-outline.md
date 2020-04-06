@@ -5,6 +5,7 @@ name: pause-octagon-outline
 zhTips: 暂停八边形轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/pause-octagon-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,16H13V8H15V16M11,16H9V8H11V16M15.73,3L21,8.27V15.73L15.73,21H8.27L3,15.73V8.27L8.27,3H15.73M14.9,5H9.1L5,9.1V14.9L9.1,19H14.9L19,14.9V9.1L14.9,5Z" /></svg>
 </div>
 <detail full-name='mdi-pause-octagon-outline'></detail>
-    
+<div>
+<p>关于“pause octagon outline”的评论:</p>
+</div>
+<Vssue title="关于“pause octagon outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

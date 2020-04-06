@@ -5,6 +5,7 @@ name: minus-box
 zhTips: 减号框,不确定的复选框
 tags: ["math"]
 search: indeterminate-check-box
+image: https://iconhelper.cn/svg/material/minus-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,13H7V11H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" /></svg>
 </div>
 <detail full-name='mdi-minus-box'></detail>
-    
+<div>
+<p>关于“minus box”的评论:</p>
+</div>
+<Vssue title="关于“minus box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

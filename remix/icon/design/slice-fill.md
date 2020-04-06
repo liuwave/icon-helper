@@ -5,6 +5,7 @@ name: slice-fill
 zhTips: 切图,切片,刀
 tags: ["design"]
 search: knife,fill
+image: https://iconhelper.cn/svg/remix/design/slice-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-slice-fill'></detail>
-    
+<detail full-name='ri-slice-fill'></detail>  
+<div>
+<p>关于“slice fill”的评论:</p>
+</div>
+<Vssue title="关于“slice fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

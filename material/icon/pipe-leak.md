@@ -5,6 +5,7 @@ name: pipe-leak
 zhTips: 管道泄漏
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/pipe-leak.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,5V13H4V11H10L12,9L10,7H4V5H2M20,5V7H12L14,9L12,11H20V13H22V5H20M12,13C12,13 10,15.17 10,16.5A2,2 0 0,0 12,18.5A2,2 0 0,0 14,16.5C14,15.17 12,13 12,13Z" /></svg>
 </div>
 <detail full-name='mdi-pipe-leak'></detail>
-    
+<div>
+<p>关于“pipe leak”的评论:</p>
+</div>
+<Vssue title="关于“pipe leak”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: cursor-text
 zhTips: 光标文本
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/cursor-text.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,19A1,1 0 0,0 14,20H16V22H13.5C12.95,22 12,21.55 12,21C12,21.55 11.05,22 10.5,22H8V20H10A1,1 0 0,0 11,19V5A1,1 0 0,0 10,4H8V2H10.5C11.05,2 12,2.45 12,3C12,2.45 12.95,2 13.5,2H16V4H14A1,1 0 0,0 13,5V19Z" /></svg>
 </div>
 <detail full-name='mdi-cursor-text'></detail>
-    
+<div>
+<p>关于“cursor text”的评论:</p>
+</div>
+<Vssue title="关于“cursor text”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

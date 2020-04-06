@@ -5,6 +5,7 @@ name: math-tan
 zhTips: 棕褐色类型,切线类型,棕褐色数学
 tags: ["math"]
 search: math-tangent,maths-tan
+image: https://iconhelper.cn/svg/material/math-tan.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,7V9H4V17H6V9H8V7H2M11,7A2,2 0 0,0 9,9V17H11V13H13V17H15V9A2,2 0 0,0 13,7H11M11,9H13V11H11V9M16,7V17H18V12L20,17H22V7H20V12L18,7H16Z" /></svg>
 </div>
 <detail full-name='mdi-math-tan'></detail>
-    
+<div>
+<p>关于“math tan”的评论:</p>
+</div>
+<Vssue title="关于“math tan”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: bold
 zhTips: 加粗,粗体,强调,格式,文本,粗
 tags: ["editor"]
 search: 
+image: https://iconhelper.cn/svg/remix/editor/bold.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-bold'></detail>
-    
+<detail full-name='ri-bold'></detail>  
+<div>
+<p>关于“bold”的评论:</p>
+</div>
+<Vssue title="关于“bold”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

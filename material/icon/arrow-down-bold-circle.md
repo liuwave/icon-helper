@@ -5,6 +5,7 @@ name: arrow-down-bold-circle
 zhTips: 向下的粗体箭头,底部的粗体箭头
 tags: ["arrow"]
 search: arrow-bottom-bold-circle
+image: https://iconhelper.cn/svg/material/arrow-down-bold-circle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2M12,17L17,12H14V8H10V12H7L12,17Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-down-bold-circle'></detail>
-    
+<div>
+<p>关于“arrow down bold circle”的评论:</p>
+</div>
+<Vssue title="关于“arrow down bold circle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

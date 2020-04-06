@@ -5,6 +5,7 @@ name: drag-horizontal
 zhTips: 水平拖动
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/drag-horizontal.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,15V13H5V15H3M3,11V9H5V11H3M7,15V13H9V15H7M7,11V9H9V11H7M11,15V13H13V15H11M11,11V9H13V11H11M15,15V13H17V15H15M15,11V9H17V11H15M19,15V13H21V15H19M19,11V9H21V11H19Z" /></svg>
 </div>
 <detail full-name='mdi-drag-horizontal'></detail>
-    
+<div>
+<p>关于“drag horizontal”的评论:</p>
+</div>
+<Vssue title="关于“drag horizontal”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

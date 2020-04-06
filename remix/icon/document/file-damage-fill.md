@@ -5,6 +5,7 @@ name: file-damage-fill
 zhTips: 文件,文档,损坏,破损,破裂
 tags: ["document"]
 search: breakdown,broken,fill
+image: https://iconhelper.cn/svg/remix/document/file-damage-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-file-damage-fill'></detail>
-    
+<detail full-name='ri-file-damage-fill'></detail>  
+<div>
+<p>关于“file damage fill”的评论:</p>
+</div>
+<Vssue title="关于“file damage fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

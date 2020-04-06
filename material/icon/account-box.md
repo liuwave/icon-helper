@@ -5,6 +5,7 @@ name: account-box
 zhTips: 帐户框,自拍照,用户框,人员框,联系人
 tags: ["account-user"]
 search: selfie,user-box,person-box,contact
+image: https://iconhelper.cn/svg/material/account-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,17C6,15 10,13.9 12,13.9C14,13.9 18,15 18,17V18H6M15,9A3,3 0 0,1 12,12A3,3 0 0,1 9,9A3,3 0 0,1 12,6A3,3 0 0,1 15,9M3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3H5C3.89,3 3,3.9 3,5Z" /></svg>
 </div>
 <detail full-name='mdi-account-box'></detail>
-    
+<div>
+<p>关于“account box”的评论:</p>
+</div>
+<Vssue title="关于“account box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

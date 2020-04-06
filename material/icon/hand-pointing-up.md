@@ -5,6 +5,7 @@ name: hand-pointing-up
 zhTips: 向上指的手
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/hand-pointing-up.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,3V13L17.2,11.31L17.42,11.28C17.71,11.28 17.97,11.4 18.16,11.6L18.9,12.37L14,16.57C13.74,16.84 13.39,17 13,17H6.5C5.73,17 5,16.3 5,15.5V11.14C5,10.53 5.35,10 5.85,9.8L10.79,7.6L12,7.47V3A1,1 0 0,1 13,2A1,1 0 0,1 14,3M5,19H13V22H5V19Z" /></svg>
 </div>
 <detail full-name='mdi-hand-pointing-up'></detail>
-    
+<div>
+<p>关于“hand pointing up”的评论:</p>
+</div>
+<Vssue title="关于“hand pointing up”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

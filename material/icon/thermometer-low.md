@@ -5,6 +5,7 @@ name: thermometer-low
 zhTips: 温度计低
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/thermometer-low.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 13V5A3 3 0 0 0 9 5V13A5 5 0 1 0 15 13M12 4A1 1 0 0 1 13 5V12H11V5A1 1 0 0 1 12 4Z" /></svg>
 </div>
 <detail full-name='mdi-thermometer-low'></detail>
-    
+<div>
+<p>关于“thermometer low”的评论:</p>
+</div>
+<Vssue title="关于“thermometer low”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

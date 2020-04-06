@@ -5,6 +5,7 @@ name: keyboard-space
 zhTips: 键盘空间
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/keyboard-space.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 15H5V19H19V15H21V19C21 20.1 20.1 21 19 21H5C3.9 21 3 20.1 3 19V15Z" /></svg>
 </div>
 <detail full-name='mdi-keyboard-space'></detail>
-    
+<div>
+<p>关于“keyboard space”的评论:</p>
+</div>
+<Vssue title="关于“keyboard space”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

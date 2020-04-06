@@ -5,6 +5,7 @@ name: attachment-line
 zhTips: 附件,曲别针
 tags: ["business"]
 search: annex,paperclip,line
+image: https://iconhelper.cn/svg/remix/business/attachment-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-attachment-line'></detail>
-    
+<detail full-name='ri-attachment-line'></detail>  
+<div>
+<p>关于“attachment line”的评论:</p>
+</div>
+<Vssue title="关于“attachment line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

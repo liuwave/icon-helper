@@ -5,6 +5,7 @@ name: increase-decrease-line
 zhTips: 计算器
 tags: ["finance"]
 search: line
+image: https://iconhelper.cn/svg/remix/finance/increase-decrease-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-increase-decrease-line'></detail>
-    
+<detail full-name='ri-increase-decrease-line'></detail>  
+<div>
+<p>关于“increase decrease line”的评论:</p>
+</div>
+<Vssue title="关于“increase decrease line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: contacts-book-upload-line
 zhTips: 通讯录,联系人,上传
 tags: ["document"]
 search: upload,line
+image: https://iconhelper.cn/svg/remix/document/contacts-book-upload-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-contacts-book-upload-line'></detail>
-    
+<detail full-name='ri-contacts-book-upload-line'></detail>  
+<div>
+<p>关于“contacts book upload line”的评论:</p>
+</div>
+<Vssue title="关于“contacts book upload line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

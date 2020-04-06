@@ -5,6 +5,7 @@ name: share-circle-fill
 zhTips: 分享,转发
 tags: ["system"]
 search: fill
+image: https://iconhelper.cn/svg/remix/system/share-circle-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-share-circle-fill'></detail>
-    
+<detail full-name='ri-share-circle-fill'></detail>  
+<div>
+<p>关于“share circle fill”的评论:</p>
+</div>
+<Vssue title="关于“share circle fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: tent
 zhTips: 露营帐篷
 tags: []
 search: camping
+image: https://iconhelper.cn/svg/material/tent.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,6C4,7.19 4.39,8.27 5,9A3,3 0 0,1 2,6A3,3 0 0,1 5,3C4.39,3.73 4,4.81 4,6M2,21V19H4.76L12,4.78L19.24,19H22V21H2M12,9.19L7,19H17L12,9.19Z" /></svg>
 </div>
 <detail full-name='mdi-tent'></detail>
-    
+<div>
+<p>关于“tent”的评论:</p>
+</div>
+<Vssue title="关于“tent”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

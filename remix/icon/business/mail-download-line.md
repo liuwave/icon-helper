@@ -5,6 +5,7 @@ name: mail-download-line
 zhTips: 信封,邮箱,邮件,下载
 tags: ["business"]
 search: envelope,email,inbox,download,line
+image: https://iconhelper.cn/svg/remix/business/mail-download-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-mail-download-line'></detail>
-    
+<detail full-name='ri-mail-download-line'></detail>  
+<div>
+<p>关于“mail download line”的评论:</p>
+</div>
+<Vssue title="关于“mail download line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

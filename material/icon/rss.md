@@ -5,6 +5,7 @@ name: rss
 zhTips: RSS,RSS提要,wifi黑,博客,提要,新闻,写作,聚合阅读,订阅
 tags: []
 search: rss-feed
+image: https://iconhelper.cn/svg/material/rss.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.18,15.64A2.18,2.18 0 0,1 8.36,17.82C8.36,19 7.38,20 6.18,20C5,20 4,19 4,17.82A2.18,2.18 0 0,1 6.18,15.64M4,4.44A15.56,15.56 0 0,1 19.56,20H16.73A12.73,12.73 0 0,0 4,7.27V4.44M4,10.1A9.9,9.9 0 0,1 13.9,20H11.07A7.07,7.07 0 0,0 4,12.93V10.1Z" /></svg>
 </div>
 <detail full-name='mdi-rss'></detail>
-    
+<div>
+<p>关于“rss”的评论:</p>
+</div>
+<Vssue title="关于“rss”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

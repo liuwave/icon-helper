@@ -5,6 +5,7 @@ name: arrow-top-right-bottom-left
 zhTips: 箭头右上右下左
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/arrow-top-right-bottom-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,21H3V13H5V17.59L17.59,5H13V3H21V11H19V6.41L6.41,19H11V21Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-top-right-bottom-left'></detail>
-    
+<div>
+<p>关于“arrow top right bottom left”的评论:</p>
+</div>
+<Vssue title="关于“arrow top right bottom left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

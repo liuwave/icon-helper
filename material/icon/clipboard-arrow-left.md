@@ -5,6 +5,7 @@ name: clipboard-arrow-left
 zhTips: 向左剪贴板箭头,任务返回
 tags: []
 search: assignment-return
+image: https://iconhelper.cn/svg/material/clipboard-arrow-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,15H12V18L7,13L12,8V11H16M12,3A1,1 0 0,1 13,4A1,1 0 0,1 12,5A1,1 0 0,1 11,4A1,1 0 0,1 12,3M19,3H14.82C14.4,1.84 13.3,1 12,1C10.7,1 9.6,1.84 9.18,3H5A2,2 0 0,0 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3Z" /></svg>
 </div>
 <detail full-name='mdi-clipboard-arrow-left'></detail>
-    
+<div>
+<p>关于“clipboard arrow left”的评论:</p>
+</div>
+<Vssue title="关于“clipboard arrow left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

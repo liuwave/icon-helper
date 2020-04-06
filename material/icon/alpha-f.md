@@ -5,6 +5,7 @@ name: alpha-f
 zhTips: alpha f,字母f
 tags: ["alpha-numeric"]
 search: alphabet-f,letter-f
+image: https://iconhelper.cn/svg/material/alpha-f.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,7V17H11V13H14V11H11V9H15V7H9Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-f'></detail>
-    
+<div>
+<p>关于“alpha f”的评论:</p>
+</div>
+<Vssue title="关于“alpha f”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

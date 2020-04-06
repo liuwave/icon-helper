@@ -5,6 +5,7 @@ name: factory
 zhTips: 工业厂房
 tags: ["places"]
 search: industrial
+image: https://iconhelper.cn/svg/material/factory.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,18V20H8V18H4M4,14V16H14V14H4M10,18V20H14V18H10M16,14V16H20V14H16M16,18V20H20V18H16M2,22V8L7,12V8L12,12V8L17,12L18,2H21L22,12V22H2Z" /></svg>
 </div>
 <detail full-name='mdi-factory'></detail>
-    
+<div>
+<p>关于“factory”的评论:</p>
+</div>
+<Vssue title="关于“factory”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

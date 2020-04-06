@@ -5,6 +5,7 @@ name: moon-waning-crescent
 zhTips: 月亮减弱的新月
 tags: ["weather"]
 search: 
+image: https://iconhelper.cn/svg/material/moon-waning-crescent.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12A10 10 0 0 0 15 21.54A10 10 0 0 1 15 2.46A10 10 0 0 0 2 12Z" /></svg>
 </div>
 <detail full-name='mdi-moon-waning-crescent'></detail>
-    
+<div>
+<p>关于“moon waning crescent”的评论:</p>
+</div>
+<Vssue title="关于“moon waning crescent”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

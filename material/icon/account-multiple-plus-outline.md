@@ -5,6 +5,7 @@ name: account-multiple-plus-outline
 zhTips: 多个帐户加轮廓,组添加轮廓,多个用户轮廓,用户加轮廓,人员加轮廓,多个添加轮廓,人员添加轮廓,多个帐户添加轮廓,帐户添加轮廓,用户多个添加轮廓,用户添加轮廓,邀请
 tags: ["account-user"]
 search: group-add-outline,user-multiple-plus-outline,accounts-plus-outline,users-plus-outline,person-multiple-plus-outline,people-plus-outline,person-multiple-add-outline,people-add-outline,account-multiple-add-outline,accounts-add-outline,user-multiple-add-outline,users-add-outline,invite
+image: https://iconhelper.cn/svg/material/account-multiple-plus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 11A3 3 0 1 0 10 8A3 3 0 0 0 13 11M13 7A1 1 0 1 1 12 8A1 1 0 0 1 13 7M17.11 10.86A5 5 0 0 0 17.11 5.14A2.91 2.91 0 0 1 18 5A3 3 0 0 1 18 11A2.91 2.91 0 0 1 17.11 10.86M13 13C7 13 7 17 7 17V19H19V17S19 13 13 13M9 17C9 16.71 9.32 15 13 15C16.5 15 16.94 16.56 17 17M24 17V19H21V17A5.6 5.6 0 0 0 19.2 13.06C24 13.55 24 17 24 17M8 12H5V15H3V12H0V10H3V7H5V10H8Z" /></svg>
 </div>
 <detail full-name='mdi-account-multiple-plus-outline'></detail>
-    
+<div>
+<p>关于“account multiple plus outline”的评论:</p>
+</div>
+<Vssue title="关于“account multiple plus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

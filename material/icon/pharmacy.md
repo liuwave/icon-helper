@@ -5,6 +5,7 @@ name: pharmacy
 zhTips: 药房,本地药房
 tags: ["medical-hospital"]
 search: chemist,local-pharmacy
+image: https://iconhelper.cn/svg/material/pharmacy.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,14H13V17H11V14H8V12H11V9H13V12H16M21,5H18.35L19.5,1.85L17.15,1L15.69,5H3V7L5,13L3,19V21H21V19L19,13L21,7V5Z" /></svg>
 </div>
 <detail full-name='mdi-pharmacy'></detail>
-    
+<div>
+<p>关于“pharmacy”的评论:</p>
+</div>
+<Vssue title="关于“pharmacy”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

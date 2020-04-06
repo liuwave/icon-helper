@@ -5,6 +5,7 @@ name: volume-source
 zhTips: 体积来源
 tags: ["cellphone-phone","audio"]
 search: 
+image: https://iconhelper.cn/svg/material/volume-source.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 9V15H7L12 20V4L7 9H3M16 15H14V9H16V15M20 19H18V5H20V19Z" /></svg>
 </div>
 <detail full-name='mdi-volume-source'></detail>
-    
+<div>
+<p>关于“volume source”的评论:</p>
+</div>
+<Vssue title="关于“volume source”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

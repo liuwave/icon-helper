@@ -5,6 +5,7 @@ name: valve-closed
 zhTips: 阀门关闭
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/valve-closed.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 2V22H20V13H14.82A3 3 0 0 1 9.18 13H4V22H2V2H4V11H9.18A3 3 0 0 1 14.82 11H20V2Z" /></svg>
 </div>
 <detail full-name='mdi-valve-closed'></detail>
-    
+<div>
+<p>关于“valve closed”的评论:</p>
+</div>
+<Vssue title="关于“valve closed”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

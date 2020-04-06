@@ -5,6 +5,7 @@ name: stretch-to-page
 zhTips: 延伸至页面
 tags: ["text-content-format","arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/stretch-to-page.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,2H4C2.89,2 2,2.89 2,4V20C2,21.11 2.89,22 4,22H20C21.11,22 22,21.11 22,20V4C22,2.89 21.11,2 20,2M9,19H5V15L6.29,16.29L7.83,14.75L9.25,16.17L7.71,17.71M7.83,9.25L6.29,7.71L5,9V5H9L7.71,6.29L9.25,7.83M19,19H15L16.29,17.71L14.75,16.17L16.17,14.75L17.71,16.29L19,15M19,9L17.71,7.71L16.17,9.25L14.75,7.83L16.29,6.29L15,5H19" /></svg>
 </div>
 <detail full-name='mdi-stretch-to-page'></detail>
-    
+<div>
+<p>关于“stretch to page”的评论:</p>
+</div>
+<Vssue title="关于“stretch to page”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

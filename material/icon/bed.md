@@ -5,6 +5,7 @@ name: bed
 zhTips: 床,酒店,住宿,床垫,休息,睡眠,旅行
 tags: ["home-automation","holiday"]
 search: hotel
+image: https://iconhelper.cn/svg/material/bed.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,7H11V14H3V5H1V20H3V17H21V20H23V11A4,4 0 0,0 19,7M7,13A3,3 0 0,0 10,10A3,3 0 0,0 7,7A3,3 0 0,0 4,10A3,3 0 0,0 7,13Z" /></svg>
 </div>
 <detail full-name='mdi-bed'></detail>
-    
+<div>
+<p>关于“bed”的评论:</p>
+</div>
+<Vssue title="关于“bed”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

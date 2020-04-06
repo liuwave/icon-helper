@@ -5,6 +5,7 @@ name: axis-arrow
 zhTips: 轴箭头,加速度计,陀螺仪
 tags: ["arrow"]
 search: accelerometer,gyro
+image: https://iconhelper.cn/svg/material/axis-arrow.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2L16,6H13V13.85L19.53,17.61L21,15.03L22.5,20.5L17,21.96L18.53,19.35L12,15.58L5.47,19.35L7,21.96L1.5,20.5L3,15.03L4.47,17.61L11,13.85V6H8L12,2Z" /></svg>
 </div>
 <detail full-name='mdi-axis-arrow'></detail>
-    
+<div>
+<p>关于“axis arrow”的评论:</p>
+</div>
+<Vssue title="关于“axis arrow”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

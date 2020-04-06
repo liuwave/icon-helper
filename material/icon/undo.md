@@ -5,6 +5,7 @@ name: undo
 zhTips: 撤消,箭头,取消箭头,返回,控制z,交换,oops,旋转
 tags: []
 search: arrow
+image: https://iconhelper.cn/svg/material/undo.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12.5,8C9.85,8 7.45,9 5.6,10.6L2,7V16H11L7.38,12.38C8.77,11.22 10.54,10.5 12.5,10.5C16.04,10.5 19.05,12.81 20.1,16L22.47,15.22C21.08,11.03 17.15,8 12.5,8Z" /></svg>
 </div>
 <detail full-name='mdi-undo'></detail>
-    
+<div>
+<p>关于“undo”的评论:</p>
+</div>
+<Vssue title="关于“undo”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: book-multiple-outline
 zhTips: 预订多个轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/book-multiple-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 2A2 2 0 0 1 21 4V16A2 2 0 0 1 19 18H9A2 2 0 0 1 7 16V4A2 2 0 0 1 9 2H19M19 4H16V10L13.5 7.75L11 10V4H9V16H19M3 20A2 2 0 0 0 5 22H17V20H5V6H3Z" /></svg>
 </div>
 <detail full-name='mdi-book-multiple-outline'></detail>
-    
+<div>
+<p>关于“book multiple outline”的评论:</p>
+</div>
+<Vssue title="关于“book multiple outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

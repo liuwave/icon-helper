@@ -5,6 +5,7 @@ name: semantic-web
 zhTips: 语义网,rdf,资源描述框架,owl,网络本体语言,w3c
 tags: ["developer-languages","brand-logo"]
 search: rdf,resource-description-framework,owl,web-ontology-language,w3c
+image: https://iconhelper.cn/svg/material/semantic-web.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12.9 4.22C18.73 6.84 20 2 20 2S18.89 8.07 13.79 10.55C12.75 11.06 12.1 11.33 12.1 11.33L3.73 7.25L12.1 3.82C12.1 3.82 11.9 3.76 12.9 4.22M11.12 22L3.33 17.78V9.07L11.12 13.04V22M12.88 22L20.68 17.78V9.07L12.88 13.04V22Z" /></svg>
 </div>
 <detail full-name='mdi-semantic-web'></detail>
-    
+<div>
+<p>关于“semantic web”的评论:</p>
+</div>
+<Vssue title="关于“semantic web”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

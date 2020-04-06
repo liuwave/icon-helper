@@ -5,6 +5,7 @@ name: user-unfollow-line
 zhTips: 用户,取消关注
 tags: ["user-faces"]
 search: line
+image: https://iconhelper.cn/svg/remix/user-faces/user-unfollow-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-user-unfollow-line'></detail>
-    
+<detail full-name='ri-user-unfollow-line'></detail>  
+<div>
+<p>关于“user unfollow line”的评论:</p>
+</div>
+<Vssue title="关于“user unfollow line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

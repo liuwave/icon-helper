@@ -5,6 +5,7 @@ name: single-quotes-r
 zhTips: 单引号
 tags: ["editor"]
 search: right,quotaion marks
+image: https://iconhelper.cn/svg/remix/editor/single-quotes-r.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-single-quotes-r'></detail>
-    
+<detail full-name='ri-single-quotes-r'></detail>  
+<div>
+<p>关于“single quotes r”的评论:</p>
+</div>
+<Vssue title="关于“single quotes r”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

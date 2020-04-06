@@ -5,6 +5,7 @@ name: skip-next-circle
 zhTips: 跳过下一个圈子
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/skip-next-circle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M8,8L13,12L8,16M14,8H16V16H14" /></svg>
 </div>
 <detail full-name='mdi-skip-next-circle'></detail>
-    
+<div>
+<p>关于“skip next circle”的评论:</p>
+</div>
+<Vssue title="关于“skip next circle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

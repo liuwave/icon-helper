@@ -5,6 +5,7 @@ name: table-arrow-left
 zhTips: 表格左箭头,表格导入
 tags: []
 search: table-import
+image: https://iconhelper.cn/svg/material/table-arrow-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 3H18C19.11 3 20 3.9 20 5V12.08C18.45 11.82 16.92 12.18 15.68 13H12V17H13.08C12.97 17.68 12.97 18.35 13.08 19H4C2.9 19 2 18.11 2 17V5C2 3.9 2.9 3 4 3M4 7V11H10V7H4M12 7V11H18V7H12M4 13V17H10V13H4M18.44 15V17H22.44V19H18.44V21L15.44 18L18.44 15" /></svg>
 </div>
 <detail full-name='mdi-table-arrow-left'></detail>
-    
+<div>
+<p>关于“table arrow left”的评论:</p>
+</div>
+<Vssue title="关于“table arrow left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: brightness-6
 zhTips: 亮度6,中等亮度,浅暗主题
 tags: []
 search: brightness-medium,theme-light-dark
+image: https://iconhelper.cn/svg/material/brightness-6.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,18V6A6,6 0 0,1 18,12A6,6 0 0,1 12,18M20,15.31L23.31,12L20,8.69V4H15.31L12,0.69L8.69,4H4V8.69L0.69,12L4,15.31V20H8.69L12,23.31L15.31,20H20V15.31Z" /></svg>
 </div>
 <detail full-name='mdi-brightness-6'></detail>
-    
+<div>
+<p>关于“brightness 6”的评论:</p>
+</div>
+<Vssue title="关于“brightness 6”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

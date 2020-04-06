@@ -5,6 +5,7 @@ name: alpha-q-box
 zhTips: 字母q框
 tags: ["alpha-numeric"]
 search: alphabet-q-box,letter-q-box
+image: https://iconhelper.cn/svg/material/alpha-q-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,7A2,2 0 0,0 9,9V15A2,2 0 0,0 11,17V19H13V17A2,2 0 0,0 15,15V9A2,2 0 0,0 13,7H11M11,9H13V15H11V9M5,4H19A2,2 0 0,1 21,6V20A2,2 0 0,1 19,22H5A2,2 0 0,1 3,20V6A2,2 0 0,1 5,4Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-q-box'></detail>
-    
+<div>
+<p>关于“alpha q box”的评论:</p>
+</div>
+<Vssue title="关于“alpha q box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

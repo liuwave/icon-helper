@@ -5,6 +5,7 @@ name: youtube-subscription
 zhTips: youtube订阅
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/youtube-subscription.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,8H4V6H20V8M18,2H6V4H18V2M22,12V20A2,2 0 0,1 20,22H4A2,2 0 0,1 2,20V12A2,2 0 0,1 4,10H20A2,2 0 0,1 22,12M16,16L10,12.73V19.26L16,16Z" /></svg>
 </div>
 <detail full-name='mdi-youtube-subscription'></detail>
-    
+<div>
+<p>关于“youtube subscription”的评论:</p>
+</div>
+<Vssue title="关于“youtube subscription”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

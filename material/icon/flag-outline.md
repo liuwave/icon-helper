@@ -5,6 +5,7 @@ name: flag-outline
 zhTips: 国旗轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/flag-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12.36,6L12.76,8H18V14H14.64L14.24,12H7V6H12.36M14,4H5V21H7V14H12.6L13,16H20V6H14.4" /></svg>
 </div>
 <detail full-name='mdi-flag-outline'></detail>
-    
+<div>
+<p>关于“flag outline”的评论:</p>
+</div>
+<Vssue title="关于“flag outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

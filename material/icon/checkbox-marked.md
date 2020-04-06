@@ -5,6 +5,7 @@ name: checkbox-marked
 zhTips: 复选框已标记,复选框
 tags: ["form"]
 search: check-box
+image: https://iconhelper.cn/svg/material/checkbox-marked.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,17L5,12L6.41,10.58L10,14.17L17.59,6.58L19,8M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" /></svg>
 </div>
 <detail full-name='mdi-checkbox-marked'></detail>
-    
+<div>
+<p>关于“checkbox marked”的评论:</p>
+</div>
+<Vssue title="关于“checkbox marked”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

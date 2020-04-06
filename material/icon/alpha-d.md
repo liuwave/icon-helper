@@ -5,6 +5,7 @@ name: alpha-d
 zhTips: 字母d,驱动器
 tags: ["automotive","alpha-numeric"]
 search: alphabet-d,letter-d,drive
+image: https://iconhelper.cn/svg/material/alpha-d.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,7V17H13A2,2 0 0,0 15,15V9A2,2 0 0,0 13,7H9M11,9H13V15H11V9Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-d'></detail>
-    
+<div>
+<p>关于“alpha d”的评论:</p>
+</div>
+<Vssue title="关于“alpha d”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

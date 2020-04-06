@@ -5,6 +5,7 @@ name: equalizer-outline
 zhTips: 均衡器轮廓
 tags: ["audio"]
 search: 
+image: https://iconhelper.cn/svg/material/equalizer-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,21H9V3H15V21M11,19H13V5H11V19M8,21H2V11H8V21M4,19H6V13H4V19M22,21H16V8H22V21M18,19H20V10H18V19Z" /></svg>
 </div>
 <detail full-name='mdi-equalizer-outline'></detail>
-    
+<div>
+<p>关于“equalizer outline”的评论:</p>
+</div>
+<Vssue title="关于“equalizer outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

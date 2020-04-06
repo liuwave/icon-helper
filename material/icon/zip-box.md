@@ -5,6 +5,7 @@ name: zip-box
 zhTips: 压缩包,压缩文件
 tags: ["files-folders"]
 search: compressed-file
+image: https://iconhelper.cn/svg/material/zip-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,17H12V15H10V13H12V15H14M14,9H12V11H14V13H12V11H10V9H12V7H10V5H12V7H14M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" /></svg>
 </div>
 <detail full-name='mdi-zip-box'></detail>
-    
+<div>
+<p>关于“zip box”的评论:</p>
+</div>
+<Vssue title="关于“zip box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: file-multiple
 zhTips: 文件多个,文件
 tags: ["files-folders"]
 search: files
+image: https://iconhelper.cn/svg/material/file-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,7H20.5L15,1.5V7M8,0H16L22,6V18A2,2 0 0,1 20,20H8C6.89,20 6,19.1 6,18V2A2,2 0 0,1 8,0M4,4V22H20V24H4A2,2 0 0,1 2,22V4H4Z" /></svg>
 </div>
 <detail full-name='mdi-file-multiple'></detail>
-    
+<div>
+<p>关于“file multiple”的评论:</p>
+</div>
+<Vssue title="关于“file multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

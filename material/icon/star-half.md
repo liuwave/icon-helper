@@ -5,6 +5,7 @@ name: star-half
 zhTips: 星半,五角星,收藏
 tags: ["shape"]
 search: 
+image: https://iconhelper.cn/svg/material/star-half.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L9.19 8.62L2 9.24L7.45 13.97L5.82 21L12 17.27V2Z" /></svg>
 </div>
 <detail full-name='mdi-star-half'></detail>
-    
+<div>
+<p>关于“star half”的评论:</p>
+</div>
+<Vssue title="关于“star half”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

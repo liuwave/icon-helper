@@ -5,6 +5,7 @@ name: human-male
 zhTips: 人类男性,男人
 tags: ["people-family"]
 search: man
+image: https://iconhelper.cn/svg/material/human-male.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2A2,2 0 0,1 14,4A2,2 0 0,1 12,6A2,2 0 0,1 10,4A2,2 0 0,1 12,2M10.5,7H13.5A2,2 0 0,1 15.5,9V14.5H14V22H10V14.5H8.5V9A2,2 0 0,1 10.5,7Z" /></svg>
 </div>
 <detail full-name='mdi-human-male'></detail>
-    
+<div>
+<p>关于“human male”的评论:</p>
+</div>
+<Vssue title="关于“human male”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

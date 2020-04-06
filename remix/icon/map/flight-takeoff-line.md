@@ -5,6 +5,7 @@ name: flight-takeoff-line
 zhTips: 起飞,出发,始发,起点,飞机
 tags: ["map"]
 search: airplane,plane,origin,line
+image: https://iconhelper.cn/svg/remix/map/flight-takeoff-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-flight-takeoff-line'></detail>
-    
+<detail full-name='ri-flight-takeoff-line'></detail>  
+<div>
+<p>关于“flight takeoff line”的评论:</p>
+</div>
+<Vssue title="关于“flight takeoff line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

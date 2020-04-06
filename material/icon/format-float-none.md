@@ -5,6 +5,7 @@ name: format-float-none
 zhTips: 浮点格式无
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-float-none.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,7H9V13H3V7M3,3H21V5H3V3M21,11V13H11V11H21M3,15H17V17H3V15M3,19H21V21H3V19Z" /></svg>
 </div>
 <detail full-name='mdi-format-float-none'></detail>
-    
+<div>
+<p>关于“format float none”的评论:</p>
+</div>
+<Vssue title="关于“format float none”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

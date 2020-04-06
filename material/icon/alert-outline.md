@@ -5,6 +5,7 @@ name: alert-outline
 zhTips: 警报轮廓,警告轮廓
 tags: ["alert-error"]
 search: warning-outline
+image: https://iconhelper.cn/svg/material/alert-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2L1,21H23M12,6L19.53,19H4.47M11,10V14H13V10M11,16V18H13V16" /></svg>
 </div>
 <detail full-name='mdi-alert-outline'></detail>
-    
+<div>
+<p>关于“alert outline”的评论:</p>
+</div>
+<Vssue title="关于“alert outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

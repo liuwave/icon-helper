@@ -5,6 +5,7 @@ name: delete
 zhTips: 删除,垃圾桶,垃圾
 tags: []
 search: trash,bin,rubbish,garbage,rubbish-bin,trash-can,garbage-can
+image: https://iconhelper.cn/svg/material/delete.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z" /></svg>
 </div>
 <detail full-name='mdi-delete'></detail>
-    
+<div>
+<p>关于“delete”的评论:</p>
+</div>
+<Vssue title="关于“delete”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

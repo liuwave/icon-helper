@@ -5,6 +5,7 @@ name: play-box-multiple-outline
 zhTips: 播放盒多个轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/play-box-multiple-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 6H2V20C2 21.1 2.9 22 4 22H18V20H4V6M20 4V16H8V4H20M20 2H8C6.9 2 6 2.9 6 4V16C6 17.1 6.9 18 8 18H20C21.1 18 22 17.1 22 16V4C22 2.9 21.1 2 20 2M12 14.5V5.5L18 10L12 14.5Z" /></svg>
 </div>
 <detail full-name='mdi-play-box-multiple-outline'></detail>
-    
+<div>
+<p>关于“play box multiple outline”的评论:</p>
+</div>
+<Vssue title="关于“play box multiple outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

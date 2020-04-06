@@ -5,6 +5,7 @@ name: close-box-outline
 zhTips: 关闭框的轮廓
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/close-box-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,3H5A2,2 0 0,0 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3M19,19H5V5H19V19M17,8.4L13.4,12L17,15.6L15.6,17L12,13.4L8.4,17L7,15.6L10.6,12L7,8.4L8.4,7L12,10.6L15.6,7L17,8.4Z" /></svg>
 </div>
 <detail full-name='mdi-close-box-outline'></detail>
-    
+<div>
+<p>关于“close box outline”的评论:</p>
+</div>
+<Vssue title="关于“close box outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

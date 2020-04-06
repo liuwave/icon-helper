@@ -5,6 +5,7 @@ name: widgets
 zhTips: 小部件
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/widgets.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,3H11V7.34L16.66,1.69L22.31,7.34L16.66,13H21V21H13V13H16.66L11,7.34V11H3V3M3,13H11V21H3V13Z" /></svg>
 </div>
 <detail full-name='mdi-widgets'></detail>
-    
+<div>
+<p>关于“widgets”的评论:</p>
+</div>
+<Vssue title="关于“widgets”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

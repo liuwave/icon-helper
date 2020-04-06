@@ -5,6 +5,7 @@ name: roman-numeral-10
 zhTips: 罗马数字10
 tags: ["alpha-numeric"]
 search: 
+image: https://iconhelper.cn/svg/material/roman-numeral-10.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7L11 12L9 17H11L12 14.5L13 17H15L13 12L15 7H13L12 9.5L11 7H9Z" /></svg>
 </div>
 <detail full-name='mdi-roman-numeral-10'></detail>
-    
+<div>
+<p>关于“roman numeral 10”的评论:</p>
+</div>
+<Vssue title="关于“roman numeral 10”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

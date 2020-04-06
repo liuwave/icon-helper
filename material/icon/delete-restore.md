@@ -5,6 +5,7 @@ name: delete-restore
 zhTips: 删除还原,垃圾回收,bin还原,从垃圾回收
 tags: []
 search: trash-restore,bin-restore,restore-from-trash
+image: https://iconhelper.cn/svg/material/delete-restore.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,14H16L12,10L8,14H10V18H14V14M6,7H18V19C18,19.5 17.8,20 17.39,20.39C17,20.8 16.5,21 16,21H8C7.5,21 7,20.8 6.61,20.39C6.2,20 6,19.5 6,19V7M19,4V6H5V4H8.5L9.5,3H14.5L15.5,4H19Z" /></svg>
 </div>
 <detail full-name='mdi-delete-restore'></detail>
-    
+<div>
+<p>关于“delete restore”的评论:</p>
+</div>
+<Vssue title="关于“delete restore”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

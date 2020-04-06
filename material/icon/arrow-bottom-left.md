@@ -5,6 +5,7 @@ name: arrow-bottom-left
 zhTips: 左下箭头
 tags: ["arrow"]
 search: arrow-down-left
+image: https://iconhelper.cn/svg/material/arrow-bottom-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,6.41L17.59,5L7,15.59V9H5V19H15V17H8.41L19,6.41Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-bottom-left'></detail>
-    
+<div>
+<p>关于“arrow bottom left”的评论:</p>
+</div>
+<Vssue title="关于“arrow bottom left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: signal-cellular-3
 zhTips: 蜂窝信号3
 tags: ["cellphone-phone"]
 search: 
+image: https://iconhelper.cn/svg/material/signal-cellular-3.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,4H16V20H21V4M14,9H9V20H14V9M7,14H2V20H7V14Z" /></svg>
 </div>
 <detail full-name='mdi-signal-cellular-3'></detail>
-    
+<div>
+<p>关于“signal cellular 3”的评论:</p>
+</div>
+<Vssue title="关于“signal cellular 3”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: folder-move
 zhTips: 文件夹移动
 tags: ["files-folders"]
 search: 
+image: https://iconhelper.cn/svg/material/folder-move.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,18V15H10V11H14V8L19,13M20,6H12L10,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V8C22,6.89 21.1,6 20,6Z" /></svg>
 </div>
 <detail full-name='mdi-folder-move'></detail>
-    
+<div>
+<p>关于“folder move”的评论:</p>
+</div>
+<Vssue title="关于“folder move”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

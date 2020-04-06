@@ -5,6 +5,7 @@ name: led-variant-off
 zhTips: led重音符号关闭
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/led-variant-off.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3C10.05,3 8.43,4.4 8.08,6.25L16.82,15H18V13H16V7A4,4 0 0,0 12,3M3.28,4L2,5.27L8,11.27V13H6V15H9V21H11V15H11.73L13,16.27V21H15V18.27L18.73,22L20,20.72L15,15.72L8,8.72L3.28,4Z" /></svg>
 </div>
 <detail full-name='mdi-led-variant-off'></detail>
-    
+<div>
+<p>关于“led variant off”的评论:</p>
+</div>
+<Vssue title="关于“led variant off”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

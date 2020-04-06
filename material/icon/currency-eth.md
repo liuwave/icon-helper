@@ -5,6 +5,7 @@ name: currency-eth
 zhTips: 货币ETH,以太坊,西
 tags: ["currency","brand-logo","banking"]
 search: ethereum,xi
+image: https://iconhelper.cn/svg/material/currency-eth.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,5H18V7H6M7,11H17V13H7M5.5,17H18.5V19H5.5" /></svg>
 </div>
 <detail full-name='mdi-currency-eth'></detail>
-    
+<div>
+<p>关于“currency eth”的评论:</p>
+</div>
+<Vssue title="关于“currency eth”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

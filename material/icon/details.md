@@ -5,6 +5,7 @@ name: details
 zhTips: 详细信息
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/details.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.38,6H17.63L12,16L6.38,6M3,4L12,20L21,4H3Z" /></svg>
 </div>
 <detail full-name='mdi-details'></detail>
-    
+<div>
+<p>关于“details”的评论:</p>
+</div>
+<Vssue title="关于“details”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

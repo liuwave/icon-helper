@@ -5,6 +5,7 @@ name: bread-slice
 zhTips: 面包切片
 tags: ["food-drink"]
 search: 
+image: https://iconhelper.cn/svg/material/bread-slice.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2C17.5,2 22,5.36 22,9.5C22,11.19 21.26,12.75 20,14V22H4V14C2.74,12.75 2,11.19 2,9.5C2,5.36 6.5,2 12,2M8,18H12V14H8V18Z" /></svg>
 </div>
 <detail full-name='mdi-bread-slice'></detail>
-    
+<div>
+<p>关于“bread slice”的评论:</p>
+</div>
+<Vssue title="关于“bread slice”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

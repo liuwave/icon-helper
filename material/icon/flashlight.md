@@ -5,6 +5,7 @@ name: flashlight
 zhTips: 手电,手电筒
 tags: []
 search: torch
+image: https://iconhelper.cn/svg/material/flashlight.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,10L6,5H18L15,10H9M18,4H6V2H18V4M9,22V11H15V22H9M12,13A1,1 0 0,0 11,14A1,1 0 0,0 12,15A1,1 0 0,0 13,14A1,1 0 0,0 12,13Z" /></svg>
 </div>
 <detail full-name='mdi-flashlight'></detail>
-    
+<div>
+<p>关于“flashlight”的评论:</p>
+</div>
+<Vssue title="关于“flashlight”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: filter-3-line
 zhTips: 筛选,过滤
 tags: ["system"]
 search: filtration,line
+image: https://iconhelper.cn/svg/remix/system/filter-3-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-filter-3-line'></detail>
-    
+<detail full-name='ri-filter-3-line'></detail>  
+<div>
+<p>关于“filter 3 line”的评论:</p>
+</div>
+<Vssue title="关于“filter 3 line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

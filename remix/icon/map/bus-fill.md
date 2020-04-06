@@ -5,6 +5,7 @@ name: bus-fill
 zhTips: 大巴,巴士
 tags: ["map"]
 search: fill
+image: https://iconhelper.cn/svg/remix/map/bus-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-bus-fill'></detail>
-    
+<detail full-name='ri-bus-fill'></detail>  
+<div>
+<p>关于“bus fill”的评论:</p>
+</div>
+<Vssue title="关于“bus fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

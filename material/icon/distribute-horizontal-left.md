@@ -5,6 +5,7 @@ name: distribute-horizontal-left
 zhTips: 向左分配水平
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/distribute-horizontal-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 7V17H16V22H14V2H16V7H21M5 2H3V22H5V19H10V5H5V2Z" /></svg>
 </div>
 <detail full-name='mdi-distribute-horizontal-left'></detail>
-    
+<div>
+<p>关于“distribute horizontal left”的评论:</p>
+</div>
+<Vssue title="关于“distribute horizontal left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

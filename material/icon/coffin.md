@@ -5,6 +5,7 @@ name: coffin
 zhTips: 棺材
 tags: ["holiday"]
 search: 
+image: https://iconhelper.cn/svg/material/coffin.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8,22L5,8L8,2H16L19,8L16,22H8M11,6V8H9V10H11V15H13V10H15V8H13V6H11Z" /></svg>
 </div>
 <detail full-name='mdi-coffin'></detail>
-    
+<div>
+<p>关于“coffin”的评论:</p>
+</div>
+<Vssue title="关于“coffin”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

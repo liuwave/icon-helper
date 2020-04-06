@@ -5,6 +5,7 @@ name: map-marker-check-outline
 zhTips: 地图标记检查轮廓
 tags: ["navigation","geographic-information-system"]
 search: 
+image: https://iconhelper.cn/svg/material/map-marker-check-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4C14.8 4 17 6.2 17 9C17 11.9 14.1 16.2 12 18.9C9.9 16.2 7 11.9 7 9C7 6.2 9.2 4 12 4M12 2C8.1 2 5 5.1 5 9C5 14.2 12 22 12 22S19 14.2 19 9C19 5.1 15.9 2 12 2M11.3 14L16.2 9L14.8 7.6L11.3 11.2L9.7 9.6L8.3 11L11.3 14Z" /></svg>
 </div>
 <detail full-name='mdi-map-marker-check-outline'></detail>
-    
+<div>
+<p>关于“map marker check outline”的评论:</p>
+</div>
+<Vssue title="关于“map marker check outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

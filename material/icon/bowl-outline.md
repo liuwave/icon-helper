@@ -5,6 +5,7 @@ name: bowl-outline
 zhTips: 碗轮廓
 tags: ["food-drink"]
 search: 
+image: https://iconhelper.cn/svg/material/bowl-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 12V15C2 18.9 5.1 22 9 22H15C18.9 22 22 18.9 22 15V12H2M4 14H20V15C20 17.8 17.8 20 15 20H9C6.2 20 4 17.8 4 15V14Z" /></svg>
 </div>
 <detail full-name='mdi-bowl-outline'></detail>
-    
+<div>
+<p>关于“bowl outline”的评论:</p>
+</div>
+<Vssue title="关于“bowl outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

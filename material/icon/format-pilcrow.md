@@ -5,6 +5,7 @@ name: format-pilcrow
 zhTips: 格式pilcrow
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-pilcrow.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,11A4,4 0 0,1 6,7A4,4 0 0,1 10,3H18V5H16V21H14V5H12V21H10V11Z" /></svg>
 </div>
 <detail full-name='mdi-format-pilcrow'></detail>
-    
+<div>
+<p>关于“format pilcrow”的评论:</p>
+</div>
+<Vssue title="关于“format pilcrow”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

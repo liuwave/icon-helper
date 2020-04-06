@@ -5,6 +5,7 @@ name: location-exit
 zhTips: 出口位置,存在出口
 tags: ["home-automation"]
 search: presence-exit
+image: https://iconhelper.cn/svg/material/location-exit.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 12L18 8V11H10V13H18V16M20 18A10 10 0 1 1 20 6H17.27A8 8 0 1 0 17.27 18Z" /></svg>
 </div>
 <detail full-name='mdi-location-exit'></detail>
-    
+<div>
+<p>关于“location exit”的评论:</p>
+</div>
+<Vssue title="关于“location exit”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

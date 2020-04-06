@@ -5,6 +5,7 @@ name: comment-text-multiple
 zhTips: 多个文本注释,文本注释
 tags: []
 search: comments-text
+image: https://iconhelper.cn/svg/material/comment-text-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,15H1V3A2,2 0 0,1 3,1H19V3H3V15M12,23A1,1 0 0,1 11,22V19H7A2,2 0 0,1 5,17V7A2,2 0 0,1 7,5H21A2,2 0 0,1 23,7V17A2,2 0 0,1 21,19H16.9L13.2,22.71C13,22.89 12.76,23 12.5,23H12M9,9V11H19V9H9M9,13V15H17V13H9Z" /></svg>
 </div>
 <detail full-name='mdi-comment-text-multiple'></detail>
-    
+<div>
+<p>关于“comment text multiple”的评论:</p>
+</div>
+<Vssue title="关于“comment text multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: import
 zhTips: 进口
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/import.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,12L10,8V11H2V13H10V16M20,18V6C20,4.89 19.1,4 18,4H6A2,2 0 0,0 4,6V9H6V6H18V18H6V15H4V18A2,2 0 0,0 6,20H18A2,2 0 0,0 20,18Z" /></svg>
 </div>
 <detail full-name='mdi-import'></detail>
-    
+<div>
+<p>关于“import”的评论:</p>
+</div>
+<Vssue title="关于“import”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

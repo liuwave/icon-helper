@@ -5,6 +5,7 @@ name: align-horizontal-left
 zhTips: 左对齐
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/align-horizontal-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 13V19H6V13H22M6 5V11H16V5H6M2 2V22H4V2H2" /></svg>
 </div>
 <detail full-name='mdi-align-horizontal-left'></detail>
-    
+<div>
+<p>关于“align horizontal left”的评论:</p>
+</div>
+<Vssue title="关于“align horizontal left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

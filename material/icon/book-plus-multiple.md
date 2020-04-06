@@ -5,6 +5,7 @@ name: book-plus-multiple
 zhTips: 书籍加多个,书籍加,书籍多个添加,书籍添加
 tags: []
 search: books-plus,book-multiple-add,books-add
+image: https://iconhelper.cn/svg/material/book-plus-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.09 20H5V6H3V20A2 2 0 0 0 5 22H13.81A5.5 5.5 0 0 1 13.09 20M19 2H14V7L12 5.5L10 7V2H9A2 2 0 0 0 7 4V16A2 2 0 0 0 9 18H13.09A6 6 0 0 1 21 13.34V4A2 2 0 0 0 19 2M20 15V18H23V20H20V23H18V20H15V18H18V15Z" /></svg>
 </div>
 <detail full-name='mdi-book-plus-multiple'></detail>
-    
+<div>
+<p>关于“book plus multiple”的评论:</p>
+</div>
+<Vssue title="关于“book plus multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

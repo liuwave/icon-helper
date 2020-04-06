@@ -5,6 +5,7 @@ name: moon-waning-gibbous
 zhTips: 月亮渐渐隆起
 tags: ["weather"]
 search: 
+image: https://iconhelper.cn/svg/material/moon-waning-gibbous.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 12C18 7.5 16.08 3.26 12 2A10 10 0 0 0 12 22C16.08 20.74 18 16.5 18 12Z" /></svg>
 </div>
 <detail full-name='mdi-moon-waning-gibbous'></detail>
-    
+<div>
+<p>关于“moon waning gibbous”的评论:</p>
+</div>
+<Vssue title="关于“moon waning gibbous”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

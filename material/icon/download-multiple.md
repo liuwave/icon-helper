@@ -5,6 +5,7 @@ name: download-multiple
 zhTips: 多次下载,下载
 tags: []
 search: downloads
+image: https://iconhelper.cn/svg/material/download-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,1V7H5L12,14L19,7H15V1H9M5,16V18H19V16H5M5,20V22H19V20H5Z" /></svg>
 </div>
 <detail full-name='mdi-download-multiple'></detail>
-    
+<div>
+<p>关于“download multiple”的评论:</p>
+</div>
+<Vssue title="关于“download multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

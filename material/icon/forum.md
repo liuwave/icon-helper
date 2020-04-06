@@ -5,6 +5,7 @@ name: forum
 zhTips: 论坛,消息组,问题答案,聊天
 tags: []
 search: message-group,question-answer,chat
+image: https://iconhelper.cn/svg/material/forum.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,12V3A1,1 0 0,0 16,2H3A1,1 0 0,0 2,3V17L6,13H16A1,1 0 0,0 17,12M21,6H19V15H6V17A1,1 0 0,0 7,18H18L22,22V7A1,1 0 0,0 21,6Z" /></svg>
 </div>
 <detail full-name='mdi-forum'></detail>
-    
+<div>
+<p>关于“forum”的评论:</p>
+</div>
+<Vssue title="关于“forum”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

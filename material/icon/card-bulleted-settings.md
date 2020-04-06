@@ -5,6 +5,7 @@ name: card-bulleted-settings
 zhTips: 卡项目符号设置
 tags: ["settings"]
 search: 
+image: https://iconhelper.cn/svg/material/card-bulleted-settings.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,22V24H7V22H9M13,22V24H11V22H13M17,22V24H15V22H17M20,20H4A2,2 0 0,1 2,18V6A2,2 0 0,1 4,4H20A2,2 0 0,1 22,6V18A2,2 0 0,1 20,20M11,13H9V15H11V13M19,13H13V15H19V13M7,9H5V11H7V9M19,9H9V11H19V9Z" /></svg>
 </div>
 <detail full-name='mdi-card-bulleted-settings'></detail>
-    
+<div>
+<p>关于“card bulleted settings”的评论:</p>
+</div>
+<Vssue title="关于“card bulleted settings”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

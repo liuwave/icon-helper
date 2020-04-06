@@ -5,6 +5,7 @@ name: human-male-boy
 zhTips: 人类男孩,父亲,男孩
 tags: ["people-family"]
 search: father,dad,man-child
+image: https://iconhelper.cn/svg/material/human-male-boy.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.5,2A2,2 0 0,1 9.5,4A2,2 0 0,1 7.5,6A2,2 0 0,1 5.5,4A2,2 0 0,1 7.5,2M6,7H9A2,2 0 0,1 11,9V14.5H9.5V22H5.5V14.5H4V9A2,2 0 0,1 6,7M14.5,12A2,2 0 0,1 16.5,10A2,2 0 0,1 18.5,12A2,2 0 0,1 16.5,14A2,2 0 0,1 14.5,12M13.5,15H19.5V19H18V22H15V19H13.5V15Z" /></svg>
 </div>
 <detail full-name='mdi-human-male-boy'></detail>
-    
+<div>
+<p>关于“human male boy”的评论:</p>
+</div>
+<Vssue title="关于“human male boy”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

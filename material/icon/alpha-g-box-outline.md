@@ -5,6 +5,7 @@ name: alpha-g-box-outline
 zhTips: alpha g框轮廓,字母g框轮廓
 tags: ["alpha-numeric"]
 search: alphabet-g-box-outline,letter-g-box-outline
+image: https://iconhelper.cn/svg/material/alpha-g-box-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,7H15V9H11V15H13V11H15V15A2,2 0 0,1 13,17H11A2,2 0 0,1 9,15V9A2,2 0 0,1 11,7M3,5A2,2 0 0,1 5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5M5,5V19H19V5H5Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-g-box-outline'></detail>
-    
+<div>
+<p>关于“alpha g box outline”的评论:</p>
+</div>
+<Vssue title="关于“alpha g box outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

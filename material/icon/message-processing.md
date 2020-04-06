@@ -5,6 +5,7 @@ name: message-processing
 zhTips: 消息处理,短信
 tags: []
 search: sms,textsms
+image: https://iconhelper.cn/svg/material/message-processing.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,11H15V9H17M13,11H11V9H13M9,11H7V9H9M20,2H4A2,2 0 0,0 2,4V22L6,18H20A2,2 0 0,0 22,16V4C22,2.89 21.1,2 20,2Z" /></svg>
 </div>
 <detail full-name='mdi-message-processing'></detail>
-    
+<div>
+<p>关于“message processing”的评论:</p>
+</div>
+<Vssue title="关于“message processing”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

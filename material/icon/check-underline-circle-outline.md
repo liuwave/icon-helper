@@ -5,6 +5,7 @@ name: check-underline-circle-outline
 zhTips: 检查下划线圆圈轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/check-underline-circle-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4 20,7.59 20,12C20,16.41 16.41,20 12,20M7,15H17V17H7V15M10.3,11.2L8.4,9.3L7,10.7L10.3,14L17,7.3L15.6,5.9L10.3,11.2Z" /></svg>
 </div>
 <detail full-name='mdi-check-underline-circle-outline'></detail>
-    
+<div>
+<p>关于“check underline circle outline”的评论:</p>
+</div>
+<Vssue title="关于“check underline circle outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

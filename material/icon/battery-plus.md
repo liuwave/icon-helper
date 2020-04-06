@@ -5,6 +5,7 @@ name: battery-plus
 zhTips: 电池加,省电
 tags: ["battery","home-automation"]
 search: battery-saver,battery-add
+image: https://iconhelper.cn/svg/material/battery-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.67,4C17.4,4 18,4.6 18,5.33V20.67A1.33,1.33 0 0,1 16.67,22H7.33C6.6,22 6,21.4 6,20.67V5.33A1.33,1.33 0 0,1 7.33,4H9V2H15V4H16.67M16,14V12H13V9H11V12H8V14H11V17H13V14H16Z" /></svg>
 </div>
 <detail full-name='mdi-battery-plus'></detail>
-    
+<div>
+<p>关于“battery plus”的评论:</p>
+</div>
+<Vssue title="关于“battery plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

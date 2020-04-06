@@ -5,6 +5,7 @@ name: account-box-multiple
 zhTips: 帐户箱多个,切换帐户,用户箱多个,帐户箱,用户箱,人员箱多个,人员箱
 tags: ["account-user"]
 search: switch-account,user-box-multiple,account-boxes,user-boxes,person-box-multiple,person-boxes
+image: https://iconhelper.cn/svg/material/account-box-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,6H2V20A2,2 0 0,0 4,22H18V20H4V6M20,2A2,2 0 0,1 22,4V16A2,2 0 0,1 20,18H8A2,2 0 0,1 6,16V4A2,2 0 0,1 8,2H20M17,7A3,3 0 0,0 14,4A3,3 0 0,0 11,7A3,3 0 0,0 14,10A3,3 0 0,0 17,7M8,15V16H20V15C20,13 16,11.9 14,11.9C12,11.9 8,13 8,15Z" /></svg>
 </div>
 <detail full-name='mdi-account-box-multiple'></detail>
-    
+<div>
+<p>关于“account box multiple”的评论:</p>
+</div>
+<Vssue title="关于“account box multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

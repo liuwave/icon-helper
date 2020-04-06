@@ -5,6 +5,7 @@ name: history
 zhTips: 历史记录,最近,最新,时钟箭头,逆时针,恢复时钟,历史纪录,历史,倒带,时钟,反向,时间,时间机器,刷新时间,更新
 tags: []
 search: recent,latest,clock-arrow,counterclockwise,restore-clock
+image: https://iconhelper.cn/svg/material/history.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.5,8H12V13L16.28,15.54L17,14.33L13.5,12.25V8M13,3A9,9 0 0,0 4,12H1L4.96,16.03L9,12H6A7,7 0 0,1 13,5A7,7 0 0,1 20,12A7,7 0 0,1 13,19C11.07,19 9.32,18.21 8.06,16.94L6.64,18.36C8.27,20 10.5,21 13,21A9,9 0 0,0 22,12A9,9 0 0,0 13,3" /></svg>
 </div>
 <detail full-name='mdi-history'></detail>
-    
+<div>
+<p>关于“history”的评论:</p>
+</div>
+<Vssue title="关于“history”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: greater-than
 zhTips: 大于
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/greater-than.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.5,4.14L4.5,5.86L15,12L4.5,18.14L5.5,19.86L19,12L5.5,4.14Z" /></svg>
 </div>
 <detail full-name='mdi-greater-than'></detail>
-    
+<div>
+<p>关于“greater than”的评论:</p>
+</div>
+<Vssue title="关于“greater than”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

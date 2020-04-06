@@ -5,6 +5,7 @@ name: plus-box-outline
 zhTips: 加框轮廓
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/plus-box-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,19V5H5V19H19M19,3A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5C3,3.89 3.9,3 5,3H19M11,7H13V11H17V13H13V17H11V13H7V11H11V7Z" /></svg>
 </div>
 <detail full-name='mdi-plus-box-outline'></detail>
-    
+<div>
+<p>关于“plus box outline”的评论:</p>
+</div>
+<Vssue title="关于“plus box outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

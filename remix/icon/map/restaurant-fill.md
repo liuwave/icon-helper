@@ -5,6 +5,7 @@ name: restaurant-fill
 zhTips: 餐厅,饭店
 tags: ["map"]
 search: fill
+image: https://iconhelper.cn/svg/remix/map/restaurant-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-restaurant-fill'></detail>
-    
+<detail full-name='ri-restaurant-fill'></detail>  
+<div>
+<p>关于“restaurant fill”的评论:</p>
+</div>
+<Vssue title="关于“restaurant fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

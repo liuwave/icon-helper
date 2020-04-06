@@ -5,6 +5,7 @@ name: 4k-fill
 zhTips: 高清晰度,高品质,超清
 tags: ["media"]
 search: high definition,high quality,fill
+image: https://iconhelper.cn/svg/remix/media/4k-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-4k-fill'></detail>
-    
+<detail full-name='ri-4k-fill'></detail>  
+<div>
+<p>关于“4k fill”的评论:</p>
+</div>
+<Vssue title="关于“4k fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

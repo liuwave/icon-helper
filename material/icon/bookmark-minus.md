@@ -5,6 +5,7 @@ name: bookmark-minus
 zhTips: 减去书签
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/bookmark-minus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5A2,2 0 0,0 17,3M15,11H9V9H15V11Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark-minus'></detail>
-    
+<div>
+<p>关于“bookmark minus”的评论:</p>
+</div>
+<Vssue title="关于“bookmark minus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

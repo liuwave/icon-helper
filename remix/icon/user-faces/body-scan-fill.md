@@ -5,6 +5,7 @@ name: body-scan-fill
 zhTips: 扫描身体,体态识别,动作之别,手势识别
 tags: ["user-faces"]
 search: gesture recognition,body,fill
+image: https://iconhelper.cn/svg/remix/user-faces/body-scan-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-body-scan-fill'></detail>
-    
+<detail full-name='ri-body-scan-fill'></detail>  
+<div>
+<p>关于“body scan fill”的评论:</p>
+</div>
+<Vssue title="关于“body scan fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

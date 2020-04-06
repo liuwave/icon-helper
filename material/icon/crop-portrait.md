@@ -5,6 +5,7 @@ name: crop-portrait
 zhTips: 作物肖像
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/crop-portrait.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,19H7V5H17M17,3H7A2,2 0 0,0 5,5V19A2,2 0 0,0 7,21H17A2,2 0 0,0 19,19V5C19,3.89 18.1,3 17,3Z" /></svg>
 </div>
 <detail full-name='mdi-crop-portrait'></detail>
-    
+<div>
+<p>关于“crop portrait”的评论:</p>
+</div>
+<Vssue title="关于“crop portrait”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

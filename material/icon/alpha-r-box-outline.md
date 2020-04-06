@@ -5,6 +5,7 @@ name: alpha-r-box-outline
 zhTips: 字母r框轮廓
 tags: ["alpha-numeric"]
 search: alphabet-r-box-outline,letter-r-box-outline
+image: https://iconhelper.cn/svg/material/alpha-r-box-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,7H13A2,2 0 0,1 15,9V11C15,11.84 14.5,12.55 13.76,12.85L15,17H13L11.8,13H11V17H9V7M11,9V11H13V9H11M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3M5,5V19H19V5H5Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-r-box-outline'></detail>
-    
+<div>
+<p>关于“alpha r box outline”的评论:</p>
+</div>
+<Vssue title="关于“alpha r box outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

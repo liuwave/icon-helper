@@ -5,6 +5,7 @@ name: vector-line
 zhTips: 矢量线
 tags: ["vector","geographic-information-system"]
 search: 
+image: https://iconhelper.cn/svg/material/vector-line.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,3V7.59L7.59,15H3V21H9V16.42L16.42,9H21V3M17,5H19V7H17M5,17H7V19H5" /></svg>
 </div>
 <detail full-name='mdi-vector-line'></detail>
-    
+<div>
+<p>关于“vector line”的评论:</p>
+</div>
+<Vssue title="关于“vector line”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

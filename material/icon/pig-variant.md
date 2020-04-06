@@ -5,6 +5,7 @@ name: pig-variant
 zhTips: 口音颜料
 tags: ["animal"]
 search: 
+image: https://iconhelper.cn/svg/material/pig-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 12C20 8.69 16.42 6 12 6C11.15 6 10.34 6.1 9.57 6.28L7 5V7.32C5.5 8.22 4.45 9.5 4.12 11H2V15H5.08C5.58 15.65 6.23 16.22 7 16.68V20H9V17.56C9.93 17.84 10.94 18 12 18S14.07 17.84 15 17.56V20H17V16.68C18.15 16 19.03 15.06 19.54 14H22V12H20M7 11C6.45 11 6 10.55 6 10S6.45 9 7 9 8 9.45 8 10 7.55 11 7 11Z" /></svg>
 </div>
 <detail full-name='mdi-pig-variant'></detail>
-    
+<div>
+<p>关于“pig variant”的评论:</p>
+</div>
+<Vssue title="关于“pig variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

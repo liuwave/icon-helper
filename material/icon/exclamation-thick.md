@@ -5,6 +5,7 @@ name: exclamation-thick
 zhTips: 感叹号
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/exclamation-thick.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 3H14V14H10V3M10 21V17H14V21H10Z" /></svg>
 </div>
 <detail full-name='mdi-exclamation-thick'></detail>
-    
+<div>
+<p>关于“exclamation thick”的评论:</p>
+</div>
+<Vssue title="关于“exclamation thick”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

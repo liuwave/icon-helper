@@ -5,6 +5,7 @@ name: file-tree
 zhTips: 文件树,子任务
 tags: ["files-folders"]
 search: subtasks
+image: https://iconhelper.cn/svg/material/file-tree.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,3H9V7H3V3M15,10H21V14H15V10M15,17H21V21H15V17M13,13H7V18H13V20H7L5,20V9H7V11H13V13Z" /></svg>
 </div>
 <detail full-name='mdi-file-tree'></detail>
-    
+<div>
+<p>关于“file tree”的评论:</p>
+</div>
+<Vssue title="关于“file tree”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

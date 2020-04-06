@@ -5,6 +5,7 @@ name: volume-variant-off
 zhTips: 浓淡的口音
 tags: ["audio","cellphone-phone"]
 search: 
+image: https://iconhelper.cn/svg/material/volume-variant-off.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.64,3.64L21.36,19.36L19.95,20.78L16,16.83V20L11,15H7V9H8.17L4.22,5.05L5.64,3.64M16,4V11.17L12.41,7.58L16,4Z" /></svg>
 </div>
 <detail full-name='mdi-volume-variant-off'></detail>
-    
+<div>
+<p>关于“volume variant off”的评论:</p>
+</div>
+<Vssue title="关于“volume variant off”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

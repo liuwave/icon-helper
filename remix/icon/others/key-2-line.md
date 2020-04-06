@@ -5,6 +5,7 @@ name: key-2-line
 zhTips: 钥匙,密码
 tags: ["others"]
 search: password,line
+image: https://iconhelper.cn/svg/remix/others/key-2-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-key-2-line'></detail>
-    
+<detail full-name='ri-key-2-line'></detail>  
+<div>
+<p>关于“key 2 line”的评论:</p>
+</div>
+<Vssue title="关于“key 2 line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

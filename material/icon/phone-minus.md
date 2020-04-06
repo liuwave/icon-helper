@@ -5,6 +5,7 @@ name: phone-minus
 zhTips: 手机减号
 tags: ["cellphone-phone"]
 search: 
+image: https://iconhelper.cn/svg/material/phone-minus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,3A1,1 0 0,0 3,4A17,17 0 0,0 20,21A1,1 0 0,0 21,20V16.5A1,1 0 0,0 20,15.5C18.76,15.5 17.55,15.3 16.43,14.93C16.08,14.82 15.69,14.9 15.41,15.18L13.21,17.38C10.38,15.94 8.07,13.62 6.62,10.79L8.82,8.58C9.1,8.31 9.18,7.92 9.07,7.57C8.7,6.45 8.5,5.24 8.5,4A1,1 0 0,0 7.5,3M13,6V8H21V6" /></svg>
 </div>
 <detail full-name='mdi-phone-minus'></detail>
-    
+<div>
+<p>关于“phone minus”的评论:</p>
+</div>
+<Vssue title="关于“phone minus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

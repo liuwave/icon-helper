@@ -5,6 +5,7 @@ name: vidicon-line
 zhTips: 摄像机,摄影机,视频
 tags: ["media"]
 search: video,camera,line
+image: https://iconhelper.cn/svg/remix/media/vidicon-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-vidicon-line'></detail>
-    
+<detail full-name='ri-vidicon-line'></detail>  
+<div>
+<p>关于“vidicon line”的评论:</p>
+</div>
+<Vssue title="关于“vidicon line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

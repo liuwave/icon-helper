@@ -5,6 +5,7 @@ name: upload-cloud-2-fill
 zhTips: 上传,云
 tags: ["system"]
 search: fill
+image: https://iconhelper.cn/svg/remix/system/upload-cloud-2-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-upload-cloud-2-fill'></detail>
-    
+<detail full-name='ri-upload-cloud-2-fill'></detail>  
+<div>
+<p>关于“upload cloud 2 fill”的评论:</p>
+</div>
+<Vssue title="关于“upload cloud 2 fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

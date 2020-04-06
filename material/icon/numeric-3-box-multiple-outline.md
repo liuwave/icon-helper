@@ -5,6 +5,7 @@ name: numeric-3-box-multiple-outline
 zhTips: 数字3框多重轮廓,过滤器3
 tags: ["alpha-numeric"]
 search: filter-3,numeric-three-box-multiple-outline,numeric-3-boxes-outline,number-3-box-multiple-outline
+image: https://iconhelper.cn/svg/material/numeric-3-box-multiple-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,13V11.5A1.5,1.5 0 0,0 15.5,10A1.5,1.5 0 0,0 17,8.5V7C17,5.89 16.1,5 15,5H11V7H15V9H13V11H15V13H11V15H15A2,2 0 0,0 17,13M3,5H1V21A2,2 0 0,0 3,23H19V21H3M21,17H7V3H21M21,1H7A2,2 0 0,0 5,3V17A2,2 0 0,0 7,19H21A2,2 0 0,0 23,17V3A2,2 0 0,0 21,1Z" /></svg>
 </div>
 <detail full-name='mdi-numeric-3-box-multiple-outline'></detail>
-    
+<div>
+<p>关于“numeric 3 box multiple outline”的评论:</p>
+</div>
+<Vssue title="关于“numeric 3 box multiple outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

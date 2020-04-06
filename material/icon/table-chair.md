@@ -5,6 +5,7 @@ name: table-chair
 zhTips: 桌椅,餐厅,厨房
 tags: ["home-automation"]
 search: restaurant,kitchen,dining
+image: https://iconhelper.cn/svg/material/table-chair.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 22H6A2 2 0 0 1 8 20V8H2V5H16V8H10V20A2 2 0 0 1 12 22M22 2V22H20V15H15V22H13V14A2 2 0 0 1 15 12H20V2Z" /></svg>
 </div>
 <detail full-name='mdi-table-chair'></detail>
-    
+<div>
+<p>关于“table chair”的评论:</p>
+</div>
+<Vssue title="关于“table chair”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

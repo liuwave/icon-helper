@@ -5,6 +5,7 @@ name: checkerboard
 zhTips: 棋盘格,栅格
 tags: ["gaming-rpg","geographic-information-system"]
 search: raster
+image: https://iconhelper.cn/svg/material/checkerboard.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 2V22H22V2H2M20 12H16V16H20V20H16V16H12V20H8V16H4V12H8V8H4V4H8V8H12V4H16V8H20V12M16 8V12H12V8H16M12 12V16H8V12H12Z" /></svg>
 </div>
 <detail full-name='mdi-checkerboard'></detail>
-    
+<div>
+<p>关于“checkerboard”的评论:</p>
+</div>
+<Vssue title="关于“checkerboard”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

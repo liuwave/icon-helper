@@ -5,6 +5,7 @@ name: blur-off-fill
 zhTips: 模糊,水,滴,禁止,关闭
 tags: ["design"]
 search: water,drop,slash,fill
+image: https://iconhelper.cn/svg/remix/design/blur-off-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-blur-off-fill'></detail>
-    
+<detail full-name='ri-blur-off-fill'></detail>  
+<div>
+<p>关于“blur off fill”的评论:</p>
+</div>
+<Vssue title="关于“blur off fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

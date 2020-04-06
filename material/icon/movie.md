@@ -5,6 +5,7 @@ name: movie
 zhTips: 电影,板岩,clapperboard,电影创作
 tags: ["video-movie"]
 search: slate,clapperboard,film,movie-creation
+image: https://iconhelper.cn/svg/material/movie.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,4L20,8H17L15,4H13L15,8H12L10,4H8L10,8H7L5,4H4A2,2 0 0,0 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V4H18Z" /></svg>
 </div>
 <detail full-name='mdi-movie'></detail>
-    
+<div>
+<p>关于“movie”的评论:</p>
+</div>
+<Vssue title="关于“movie”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

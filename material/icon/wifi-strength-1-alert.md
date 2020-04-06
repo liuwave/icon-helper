@@ -5,6 +5,7 @@ name: wifi-strength-1-alert
 zhTips: wifi强度1警报,wifi强度1警告
 tags: ["alert-error"]
 search: wifi-strength-1-warning
+image: https://iconhelper.cn/svg/material/wifi-strength-1-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3C7.79,3 3.7,4.41 0.38,7C4.41,12.06 7.89,16.37 12,21.5C14.45,18.45 16.68,15.68 19,12.78V9.59L15.61,13.81C14.5,13.28 13.25,13 12,13C10.75,13 9.5,13.28 8.39,13.8L3.27,7.44C5.91,5.85 8.93,5 12,5C15.07,5 18.09,5.86 20.71,7.45L20.27,8H22.84C23.09,7.7 23.41,7.29 23.65,7C20.32,4.41 16.22,3 12,3M21,10V18H23V10M21,20V22H23V20" /></svg>
 </div>
 <detail full-name='mdi-wifi-strength-1-alert'></detail>
-    
+<div>
+<p>关于“wifi strength 1 alert”的评论:</p>
+</div>
+<Vssue title="关于“wifi strength 1 alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

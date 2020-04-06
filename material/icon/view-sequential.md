@@ -5,6 +5,7 @@ name: view-sequential
 zhTips: 顺序视图
 tags: ["view"]
 search: 
+image: https://iconhelper.cn/svg/material/view-sequential.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,4H21V8H3V4M3,10H21V14H3V10M3,16H21V20H3V16Z" /></svg>
 </div>
 <detail full-name='mdi-view-sequential'></detail>
-    
+<div>
+<p>关于“view sequential”的评论:</p>
+</div>
+<Vssue title="关于“view sequential”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

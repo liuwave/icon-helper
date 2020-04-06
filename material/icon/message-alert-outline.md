@@ -5,6 +5,7 @@ name: message-alert-outline
 zhTips: 邮件警报轮廓,公告轮廓,反馈轮廓,邮件警告轮廓,短信失败轮廓
 tags: ["alert-error"]
 search: announcement-outline,feedback-outline,message-warning-outline,sms-failed-outline
+image: https://iconhelper.cn/svg/material/message-alert-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,10H11V6H13V10M13,12H11V14H13V12M22,4V16A2,2 0 0,1 20,18H6L2,22V4A2,2 0 0,1 4,2H20A2,2 0 0,1 22,4M20,4H4V17.2L5.2,16H20V4Z" /></svg>
 </div>
 <detail full-name='mdi-message-alert-outline'></detail>
-    
+<div>
+<p>关于“message alert outline”的评论:</p>
+</div>
+<Vssue title="关于“message alert outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

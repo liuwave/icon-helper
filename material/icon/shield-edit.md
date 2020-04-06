@@ -5,6 +5,7 @@ name: shield-edit
 zhTips: 盾牌编辑
 tags: ["edit-modify"]
 search: 
+image: https://iconhelper.cn/svg/material/shield-edit.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.7 14.4L20.7 15.4L18.6 13.3L19.6 12.3C19.8 12.1 20.2 12.1 20.4 12.3L21.7 13.6C21.9 13.8 21.9 14.1 21.7 14.4M12 19.9L18.1 13.8L20.2 15.9L14.1 22H12V19.9M10 19.1L21 8.1V5L12 1L3 5V11C3 15.8 5.9 20.3 10 22.3V19.1Z" /></svg>
 </div>
 <detail full-name='mdi-shield-edit'></detail>
-    
+<div>
+<p>关于“shield edit”的评论:</p>
+</div>
+<Vssue title="关于“shield edit”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

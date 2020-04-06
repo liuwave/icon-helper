@@ -5,6 +5,7 @@ name: math-log
 zhTips: 好日志
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/math-log.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 7C16.9 7 16 7.9 16 9V15C16 16.1 16.9 17 18 17H20C21.1 17 22 16.1 22 15V11H20V15H18V9H22V7H18M2 7V17H8V15H4V7H2M11 7C9.9 7 9 7.9 9 9V15C9 16.1 9.9 17 11 17H13C14.1 17 15 16.1 15 15V9C15 7.9 14.1 7 13 7H11M11 9H13V15H11V9Z" /></svg>
 </div>
 <detail full-name='mdi-math-log'></detail>
-    
+<div>
+<p>关于“math log”的评论:</p>
+</div>
+<Vssue title="关于“math log”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

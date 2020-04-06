@@ -5,6 +5,7 @@ name: safe-fill
 zhTips: 保险柜,保险箱
 tags: ["finance"]
 search: fill
+image: https://iconhelper.cn/svg/remix/finance/safe-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-safe-fill'></detail>
-    
+<detail full-name='ri-safe-fill'></detail>  
+<div>
+<p>关于“safe fill”的评论:</p>
+</div>
+<Vssue title="关于“safe fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

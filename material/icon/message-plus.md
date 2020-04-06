@@ -5,6 +5,7 @@ name: message-plus
 zhTips: 消息加,消息添加
 tags: []
 search: message-add
+image: https://iconhelper.cn/svg/material/message-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,2A2,2 0 0,1 22,4V16A2,2 0 0,1 20,18H6L2,22V4C2,2.89 2.9,2 4,2H20M11,6V9H8V11H11V14H13V11H16V9H13V6H11Z" /></svg>
 </div>
 <detail full-name='mdi-message-plus'></detail>
-    
+<div>
+<p>关于“message plus”的评论:</p>
+</div>
+<Vssue title="关于“message plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

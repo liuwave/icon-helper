@@ -5,6 +5,7 @@ name: folder-plus-outline
 zhTips: 文件夹加轮廓,创建新的文件夹轮廓,文件夹添加轮廓
 tags: ["files-folders"]
 search: create-new-folder-outline,folder-add-outline
+image: https://iconhelper.cn/svg/material/folder-plus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 12H14V10H16V12H18V14H16V16H14V14H12V12M22 8V18C22 19.11 21.11 20 20 20H4C2.89 20 2 19.11 2 18V6C2 4.89 2.89 4 4 4H10L12 6H20C21.11 6 22 6.89 22 8M20 8H4V18H20V8Z" /></svg>
 </div>
 <detail full-name='mdi-folder-plus-outline'></detail>
-    
+<div>
+<p>关于“folder plus outline”的评论:</p>
+</div>
+<Vssue title="关于“folder plus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

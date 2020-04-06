@@ -5,6 +5,7 @@ name: poll
 zhTips: 孔,条形图
 tags: []
 search: bar-chart
+image: https://iconhelper.cn/svg/material/poll.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,22V8H7V22H3M10,22V2H14V22H10M17,22V14H21V22H17Z" /></svg>
 </div>
 <detail full-name='mdi-poll'></detail>
-    
+<div>
+<p>关于“poll”的评论:</p>
+</div>
+<Vssue title="关于“poll”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

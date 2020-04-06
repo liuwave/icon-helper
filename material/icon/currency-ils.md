@@ -5,6 +5,7 @@ name: currency-ils
 zhTips: 货币ils
 tags: ["banking","currency"]
 search: 
+image: https://iconhelper.cn/svg/material/currency-ils.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,16A5,5 0 0,1 17,21H8V9H10V19H17A3,3 0 0,0 20,16V3H22V16M16,8V15H14V8A3,3 0 0,0 11,5H4V21H2V3H11A5,5 0 0,1 16,8Z" /></svg>
 </div>
 <detail full-name='mdi-currency-ils'></detail>
-    
+<div>
+<p>关于“currency ils”的评论:</p>
+</div>
+<Vssue title="关于“currency ils”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

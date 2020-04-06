@@ -5,6 +5,7 @@ name: calendar-check-fill
 zhTips: check-in,日历,日期,月份,计划,日程,时间表,签到,打卡
 tags: ["business"]
 search: date,plan,schedule,agenda,punch,fill
+image: https://iconhelper.cn/svg/remix/business/calendar-check-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-calendar-check-fill'></detail>
-    
+<detail full-name='ri-calendar-check-fill'></detail>  
+<div>
+<p>关于“calendar check fill”的评论:</p>
+</div>
+<Vssue title="关于“calendar check fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

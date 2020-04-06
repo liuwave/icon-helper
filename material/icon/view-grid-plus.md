@@ -5,6 +5,7 @@ name: view-grid-plus
 zhTips: 查看网格加,查看网格添加
 tags: ["view"]
 search: view-grid-add
+image: https://iconhelper.cn/svg/material/view-grid-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 3V11H21V3H13M3 21H11V13H3V21M3 3V11H11V3H3M13 16H16V13H18V16H21V18H18V21H16V18H13V16Z" /></svg>
 </div>
 <detail full-name='mdi-view-grid-plus'></detail>
-    
+<div>
+<p>关于“view grid plus”的评论:</p>
+</div>
+<Vssue title="关于“view grid plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

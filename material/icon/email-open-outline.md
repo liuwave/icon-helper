@@ -5,6 +5,7 @@ name: email-open-outline
 zhTips: 电子邮件打开轮廓,信封打开轮廓
 tags: []
 search: envelope-open-outline
+image: https://iconhelper.cn/svg/material/email-open-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.03 6.29L12 .64L2.97 6.29C2.39 6.64 2 7.27 2 8V18C2 19.1 2.9 20 4 20H20C21.1 20 22 19.1 22 18V8C22 7.27 21.61 6.64 21.03 6.29M20 18H4V10L12 15L20 10V18M12 13L4 8L12 3L20 8L12 13Z" /></svg>
 </div>
 <detail full-name='mdi-email-open-outline'></detail>
-    
+<div>
+<p>关于“email open outline”的评论:</p>
+</div>
+<Vssue title="关于“email open outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

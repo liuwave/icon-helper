@@ -5,6 +5,7 @@ name: beer
 zhTips: 啤酒,品脱,酒吧,酒精,饮料,啤酒厂,酒,杯子,斯坦,啤酒杯,玻璃杯
 tags: ["food-drink"]
 search: pint,pub,bar
+image: https://iconhelper.cn/svg/material/beer.svg
 
 ---
 
@@ -41,7 +42,7 @@ unicode：
 <br/>
 <span>别名：<span class="badge-light badge">pint</span><span class="badge-light badge">pub</span><span class="badge-light badge">bar</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">啤酒</span><span class="badge-primary badge">品脱</span><span class="badge-primary badge">酒吧</span><span class="badge-primary badge">酒精</span><span class="badge-primary badge">饮料</span><span class="badge-primary badge">啤酒厂</span><span class="badge-primary badge">酒</span><span class="badge-primary badge">杯子</span><span class="badge-primary badge">斯坦</span><span class="badge-primary badge">啤酒杯</span><span class="badge-primary badge">玻璃杯</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/material/beer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/material/beer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light">啤酒，表示欢乐、庆祝、酒吧、饮料等。</div>
+</div><div class="description description alert alert-light">啤酒，表示欢乐、庆祝、酒吧、饮料。</div>
 <div class="alert alert-dark">
   <i class="mdi mdi-beer mdi-48px"></i>
   <i class="mdi mdi-beer mdi-36px"></i>
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,2H19L17,22H6L4,2M6.2,4L7.8,20H8.8L7.43,6.34C8.5,6 9.89,5.89 11,7C12.56,8.56 15.33,7.69 16.5,7.23L16.8,4H6.2Z" /></svg>
 </div>
 <detail full-name='mdi-beer'></detail>
-    
+<div>
+<p>关于“beer”的评论:</p>
+</div>
+<Vssue title="关于“beer”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

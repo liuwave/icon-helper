@@ -5,6 +5,7 @@ name: trending-neutral
 zhTips: 中性趋势,持平趋势
 tags: []
 search: trending-flat
+image: https://iconhelper.cn/svg/material/trending-neutral.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,12L18,8V11H3V13H18V16L22,12Z" /></svg>
 </div>
 <detail full-name='mdi-trending-neutral'></detail>
-    
+<div>
+<p>关于“trending neutral”的评论:</p>
+</div>
+<Vssue title="关于“trending neutral”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

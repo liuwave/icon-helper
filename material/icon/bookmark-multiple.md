@@ -5,6 +5,7 @@ name: bookmark-multiple
 zhTips: 多个书签
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/bookmark-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,5A2,2 0 0,1 17,7V23L10,20L3,23V7C3,5.89 3.9,5 5,5H15M9,1H19A2,2 0 0,1 21,3V19L19,18.13V3H7A2,2 0 0,1 9,1Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark-multiple'></detail>
-    
+<div>
+<p>关于“bookmark multiple”的评论:</p>
+</div>
+<Vssue title="关于“bookmark multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

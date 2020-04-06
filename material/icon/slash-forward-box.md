@@ -5,6 +5,7 @@ name: slash-forward-box
 zhTips: 斜线前进盒,分隔盒
 tags: ["math"]
 search: divide-box,division-box
+image: https://iconhelper.cn/svg/material/slash-forward-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5C3.9 3 3 3.9 3 5V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V5C21 3.9 20.1 3 19 3M9.3 19H7L14.7 5H17L9.3 19Z" /></svg>
 </div>
 <detail full-name='mdi-slash-forward-box'></detail>
-    
+<div>
+<p>关于“slash forward box”的评论:</p>
+</div>
+<Vssue title="关于“slash forward box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

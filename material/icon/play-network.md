@@ -5,6 +5,7 @@ name: play-network
 zhTips: 播放网络,媒体网络
 tags: []
 search: media-network
+image: https://iconhelper.cn/svg/material/play-network.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,20A1,1 0 0,0 14,19H13V17H17A2,2 0 0,0 19,15V5A2,2 0 0,0 17,3H7A2,2 0 0,0 5,5V15A2,2 0 0,0 7,17H11V19H10A1,1 0 0,0 9,20H2V22H9A1,1 0 0,0 10,23H14A1,1 0 0,0 15,22H22V20H15M10,14V6L15,10L10,14Z" /></svg>
 </div>
 <detail full-name='mdi-play-network'></detail>
-    
+<div>
+<p>关于“play network”的评论:</p>
+</div>
+<Vssue title="关于“play network”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: format-text-wrapping-wrap
 zhTips: 包装自动换行文字格式
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-text-wrapping-wrap.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,21H5V3H7V21M19,3H17V21H19V3M13,8H9V10H12.97C13.14,10 14,10.16 14,12C14,13.84 13.14,14 13,14H11V12L8,15L11,18V16H13C14.04,16 16,15.16 16,12C16,8.84 14.04,8 13,8Z" /></svg>
 </div>
 <detail full-name='mdi-format-text-wrapping-wrap'></detail>
-    
+<div>
+<p>关于“format text wrapping wrap”的评论:</p>
+</div>
+<Vssue title="关于“format text wrapping wrap”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

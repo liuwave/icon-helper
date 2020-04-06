@@ -5,6 +5,7 @@ name: bookmark-minus-outline
 zhTips: 书签减去轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/bookmark-minus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,11V9H15V11H9M19,5V21L12,18L5,21V5C5,3.89 5.9,3 7,3H17C18.11,3 19,3.9 19,5M17,5H7V18L12,15.82L17,18V5Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark-minus-outline'></detail>
-    
+<div>
+<p>关于“bookmark minus outline”的评论:</p>
+</div>
+<Vssue title="关于“bookmark minus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

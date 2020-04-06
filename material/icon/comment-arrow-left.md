@@ -5,6 +5,7 @@ name: comment-arrow-left
 zhTips: 向左评论箭头,向前评论
 tags: []
 search: comment-previous
+image: https://iconhelper.cn/svg/material/comment-arrow-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 2H4C2.9 2 2 2.9 2 4V16C2 17.1 2.9 18 4 18H8V21C8 21.6 8.4 22 9 22H9.5C9.7 22 10 21.9 10.2 21.7L13.9 18H20C21.1 18 22 17.1 22 16V4C22 2.9 21.1 2 20 2M16 11H11.5L13.3 12.8L12 14L8 10L12 6L13.2 7.2L11.5 9H16V11Z" /></svg>
 </div>
 <detail full-name='mdi-comment-arrow-left'></detail>
-    
+<div>
+<p>关于“comment arrow left”的评论:</p>
+</div>
+<Vssue title="关于“comment arrow left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: heart-add-line
 zhTips: 心,喜欢,爱,收藏
 tags: ["system"]
 search: like,love,favorite,line
+image: https://iconhelper.cn/svg/remix/system/heart-add-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-heart-add-line'></detail>
-    
+<detail full-name='ri-heart-add-line'></detail>  
+<div>
+<p>关于“heart add line”的评论:</p>
+</div>
+<Vssue title="关于“heart add line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

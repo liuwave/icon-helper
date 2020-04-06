@@ -5,6 +5,7 @@ name: emoticon-confused
 zhTips: 困惑的图释
 tags: ["emoji"]
 search: 
+image: https://iconhelper.cn/svg/material/emoticon-confused.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 1 0 22 12A10 10 0 0 0 12 2M8.5 8A1.5 1.5 0 1 1 7 9.5A1.54 1.54 0 0 1 8.5 8M17 16H13A4 4 0 0 0 9.53 18L7.8 17A6 6 0 0 1 13 14H17M15.5 11A1.5 1.5 0 1 1 17 9.5A1.54 1.54 0 0 1 15.5 11Z" /></svg>
 </div>
 <detail full-name='mdi-emoticon-confused'></detail>
-    
+<div>
+<p>关于“emoticon confused”的评论:</p>
+</div>
+<Vssue title="关于“emoticon confused”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

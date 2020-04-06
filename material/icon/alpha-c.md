@@ -5,6 +5,7 @@ name: alpha-c
 zhTips: alpha c,字母c
 tags: ["alpha-numeric"]
 search: alphabet-c,letter-c
+image: https://iconhelper.cn/svg/material/alpha-c.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,7A2,2 0 0,0 9,9V15A2,2 0 0,0 11,17H13A2,2 0 0,0 15,15V14H13V15H11V9H13V10H15V9A2,2 0 0,0 13,7H11Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-c'></detail>
-    
+<div>
+<p>关于“alpha c”的评论:</p>
+</div>
+<Vssue title="关于“alpha c”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

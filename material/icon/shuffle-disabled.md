@@ -5,6 +5,7 @@ name: shuffle-disabled
 zhTips: 无序播放
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/shuffle-disabled.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,4.5V7H5V9H16V11.5L19.5,8M16,12.5V15H5V17H16V19.5L19.5,16" /></svg>
 </div>
 <detail full-name='mdi-shuffle-disabled'></detail>
-    
+<div>
+<p>关于“shuffle disabled”的评论:</p>
+</div>
+<Vssue title="关于“shuffle disabled”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

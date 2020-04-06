@@ -5,6 +5,7 @@ name: play-protected-content
 zhTips: 播放受保护的内容
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/play-protected-content.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,5V18H11V16H4V7H17V11H19V5H2M9,9V14L12.5,11.5L9,9M21.04,11.67L16.09,16.62L13.96,14.5L12.55,15.91L16.09,19.45L22.45,13.09L21.04,11.67Z" /></svg>
 </div>
 <detail full-name='mdi-play-protected-content'></detail>
-    
+<div>
+<p>关于“play protected content”的评论:</p>
+</div>
+<Vssue title="关于“play protected content”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

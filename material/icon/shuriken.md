@@ -5,6 +5,7 @@ name: shuriken
 zhTips: shuriken
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/shuriken.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.5 9.5L12 2L9.5 9.5L2 12L9.5 14.5L12 22L14.5 14.5L22 12L14.5 9.5M12 13.7C11.1 13.7 10.3 13 10.3 12C10.3 11.1 11 10.3 12 10.3C12.9 10.3 13.7 11 13.7 12C13.7 12.9 12.9 13.7 12 13.7Z" /></svg>
 </div>
 <detail full-name='mdi-shuriken'></detail>
-    
+<div>
+<p>关于“shuriken”的评论:</p>
+</div>
+<Vssue title="关于“shuriken”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

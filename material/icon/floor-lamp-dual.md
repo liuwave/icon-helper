@@ -5,6 +5,7 @@ name: floor-lamp-dual
 zhTips: 落地灯双
 tags: ["home-automation"]
 search: floor-light-dual
+image: https://iconhelper.cn/svg/material/floor-lamp-dual.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.73 10.06L10.17 11.24L11 12.2V20H8V22H16V20H13V12.3L13.85 11.26L12.27 10.07L11.73 10.06M9.08 10.82L3 6.81L9.39 2L11.55 8.93L9.08 10.82M14.61 2L21 6.81L14.92 10.82L12.44 8.95L14.61 2Z" /></svg>
 </div>
 <detail full-name='mdi-floor-lamp-dual'></detail>
-    
+<div>
+<p>关于“floor lamp dual”的评论:</p>
+</div>
+<Vssue title="关于“floor lamp dual”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

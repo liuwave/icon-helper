@@ -5,6 +5,7 @@ name: input-cursor-move
 zhTips: 移动输入光标
 tags: ["editor"]
 search: 
+image: https://iconhelper.cn/svg/remix/editor/input-cursor-move.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-input-cursor-move'></detail>
-    
+<detail full-name='ri-input-cursor-move'></detail>  
+<div>
+<p>关于“input cursor move”的评论:</p>
+</div>
+<Vssue title="关于“input cursor move”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

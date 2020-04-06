@@ -5,6 +5,7 @@ name: message-outline
 zhTips: 消息轮廓,聊天气泡轮廓
 tags: []
 search: chat-bubble-outline
+image: https://iconhelper.cn/svg/material/message-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,2H4A2,2 0 0,0 2,4V22L6,18H20A2,2 0 0,0 22,16V4A2,2 0 0,0 20,2M20,16H6L4,18V4H20" /></svg>
 </div>
 <detail full-name='mdi-message-outline'></detail>
-    
+<div>
+<p>关于“message outline”的评论:</p>
+</div>
+<Vssue title="关于“message outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

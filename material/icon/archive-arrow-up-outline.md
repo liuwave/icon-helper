@@ -5,6 +5,7 @@ name: archive-arrow-up-outline
 zhTips: 存档向上箭头
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/archive-arrow-up-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 21H4V10H6V19H18V10H20V21M3 3H21V9H3V3M5 5V7H19V5M10.5 17V14H8L12 10L16 14H13.5V17" /></svg>
 </div>
 <detail full-name='mdi-archive-arrow-up-outline'></detail>
-    
+<div>
+<p>关于“archive arrow up outline”的评论:</p>
+</div>
+<Vssue title="关于“archive arrow up outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

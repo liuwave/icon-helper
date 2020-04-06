@@ -5,6 +5,7 @@ name: book-open-line
 zhTips: 书,阅读,小册子,杂志
 tags: ["document"]
 search: read,booklet,magazine,line
+image: https://iconhelper.cn/svg/remix/document/book-open-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-book-open-line'></detail>
-    
+<detail full-name='ri-book-open-line'></detail>  
+<div>
+<p>关于“book open line”的评论:</p>
+</div>
+<Vssue title="关于“book open line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

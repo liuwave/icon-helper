@@ -5,6 +5,7 @@ name: network-strength-4-alert
 zhTips: 网络强度4警报
 tags: ["cellphone-phone","alert-error"]
 search: network-strength-4-warning
+image: https://iconhelper.cn/svg/material/network-strength-4-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,17H21V9H19M19,21H21V19H19M1,21H17V7H21V1" /></svg>
 </div>
 <detail full-name='mdi-network-strength-4-alert'></detail>
-    
+<div>
+<p>关于“network strength 4 alert”的评论:</p>
+</div>
+<Vssue title="关于“network strength 4 alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

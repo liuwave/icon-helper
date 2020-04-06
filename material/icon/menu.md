@@ -5,6 +5,7 @@ name: menu
 zhTips: 菜单,汉堡菜单,简明菜单
 tags: []
 search: hamburger-menu
+image: https://iconhelper.cn/svg/material/menu.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" /></svg>
 </div>
 <detail full-name='mdi-menu'></detail>
-    
+<div>
+<p>关于“menu”的评论:</p>
+</div>
+<Vssue title="关于“menu”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

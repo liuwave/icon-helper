@@ -5,6 +5,7 @@ name: markdown-fill
 zhTips: 箭头,下
 tags: ["document"]
 search: arrow,fill
+image: https://iconhelper.cn/svg/remix/document/markdown-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-markdown-fill'></detail>
-    
+<detail full-name='ri-markdown-fill'></detail>  
+<div>
+<p>关于“markdown fill”的评论:</p>
+</div>
+<Vssue title="关于“markdown fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

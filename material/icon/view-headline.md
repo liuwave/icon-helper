@@ -5,6 +5,7 @@ name: view-headline
 zhTips: 查看标题
 tags: ["view"]
 search: 
+image: https://iconhelper.cn/svg/material/view-headline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,5V7H21V5M4,11H21V9H4M4,19H21V17H4M4,15H21V13H4V15Z" /></svg>
 </div>
 <detail full-name='mdi-view-headline'></detail>
-    
+<div>
+<p>关于“view headline”的评论:</p>
+</div>
+<Vssue title="关于“view headline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

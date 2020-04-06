@@ -5,6 +5,7 @@ name: sort-numeric-ascending
 zhTips: 按数字升序排序
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/sort-numeric-ascending.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 17H22L18 21L14 17H17V3H19V17M9 13H7C5.9 13 5 13.9 5 15V16C5 17.11 5.9 18 7 18H9V19H5V21H9C10.11 21 11 20.11 11 19V15C11 13.9 10.11 13 9 13M9 16H7V15H9V16M9 3H7C5.9 3 5 3.9 5 5V9C5 10.11 5.9 11 7 11H9C10.11 11 11 10.11 11 9V5C11 3.9 10.11 3 9 3M9 9H7V5H9V9Z" /></svg>
 </div>
 <detail full-name='mdi-sort-numeric-ascending'></detail>
-    
+<div>
+<p>关于“sort numeric ascending”的评论:</p>
+</div>
+<Vssue title="关于“sort numeric ascending”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

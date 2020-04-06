@@ -5,6 +5,7 @@ name: pan
 zhTips: 锅
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/pan.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2.5L8,7H16L12,2.5M7,8L2.5,12L7,16V8M17,8V16L21.5,12L17,8M12,10A2,2 0 0,0 10,12A2,2 0 0,0 12,14A2,2 0 0,0 14,12A2,2 0 0,0 12,10M8,17L12,21.5L16,17H8Z" /></svg>
 </div>
 <detail full-name='mdi-pan'></detail>
-    
+<div>
+<p>关于“pan”的评论:</p>
+</div>
+<Vssue title="关于“pan”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

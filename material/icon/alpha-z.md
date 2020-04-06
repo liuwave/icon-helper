@@ -5,6 +5,7 @@ name: alpha-z
 zhTips: alpha z,字母z
 tags: ["alpha-numeric"]
 search: alphabet-z,letter-z
+image: https://iconhelper.cn/svg/material/alpha-z.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,7V9H13L9,15V17H15V15H11L15,9V7H9Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-z'></detail>
-    
+<div>
+<p>关于“alpha z”的评论:</p>
+</div>
+<Vssue title="关于“alpha z”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

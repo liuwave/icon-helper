@@ -5,6 +5,7 @@ name: file-download-outline
 zhTips: 文件下载概述
 tags: ["files-folders"]
 search: 
+image: https://iconhelper.cn/svg/material/file-download-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,2L20,8V20A2,2 0 0,1 18,22H6A2,2 0 0,1 4,20V4A2,2 0 0,1 6,2H14M18,20V9H13V4H6V20H18M12,19L8,15H10.5V12H13.5V15H16L12,19Z" /></svg>
 </div>
 <detail full-name='mdi-file-download-outline'></detail>
-    
+<div>
+<p>关于“file download outline”的评论:</p>
+</div>
+<Vssue title="关于“file download outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

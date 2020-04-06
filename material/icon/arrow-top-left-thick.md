@@ -5,6 +5,7 @@ name: arrow-top-left-thick
 zhTips: 左上箭头粗
 tags: ["arrow"]
 search: arrow-up-left-thick
+image: https://iconhelper.cn/svg/material/arrow-top-left-thick.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.12,11.94V16.89H5.69V5.69H16.89V9.12H11.94L18.31,15.5L15.5,18.31L9.12,11.94Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-top-left-thick'></detail>
-    
+<div>
+<p>关于“arrow top left thick”的评论:</p>
+</div>
+<Vssue title="关于“arrow top left thick”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

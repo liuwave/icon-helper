@@ -5,6 +5,7 @@ name: home-smile-line
 zhTips: 房子,智能家居,微笑
 tags: ["buildings"]
 search: house,smart home,smile,line
+image: https://iconhelper.cn/svg/remix/buildings/home-smile-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-home-smile-line'></detail>
-    
+<detail full-name='ri-home-smile-line'></detail>  
+<div>
+<p>关于“home smile line”的评论:</p>
+</div>
+<Vssue title="关于“home smile line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: blur-off-line
 zhTips: 模糊,水,滴,禁止,关闭
 tags: ["design"]
 search: water,drop,slash,line
+image: https://iconhelper.cn/svg/remix/design/blur-off-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-blur-off-line'></detail>
-    
+<detail full-name='ri-blur-off-line'></detail>  
+<div>
+<p>关于“blur off line”的评论:</p>
+</div>
+<Vssue title="关于“blur off line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: moon-last-quarter
 zhTips: 上季度的月亮
 tags: ["weather"]
 search: 
+image: https://iconhelper.cn/svg/material/moon-last-quarter.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 12 22Z" /></svg>
 </div>
 <detail full-name='mdi-moon-last-quarter'></detail>
-    
+<div>
+<p>关于“moon last quarter”的评论:</p>
+</div>
+<Vssue title="关于“moon last quarter”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

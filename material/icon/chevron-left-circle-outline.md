@@ -5,6 +5,7 @@ name: chevron-left-circle-outline
 zhTips: V形左圆轮廓
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/chevron-left-circle-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12M15.4,16.6L10.8,12L15.4,7.4L14,6L8,12L14,18L15.4,16.6Z" /></svg>
 </div>
 <detail full-name='mdi-chevron-left-circle-outline'></detail>
-    
+<div>
+<p>关于“chevron left circle outline”的评论:</p>
+</div>
+<Vssue title="关于“chevron left circle outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

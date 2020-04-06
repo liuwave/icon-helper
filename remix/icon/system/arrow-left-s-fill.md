@@ -5,6 +5,7 @@ name: arrow-left-s-fill
 zhTips: 箭头,向左,返回
 tags: ["system"]
 search: fill
+image: https://iconhelper.cn/svg/remix/system/arrow-left-s-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-arrow-left-s-fill'></detail>
-    
+<detail full-name='ri-arrow-left-s-fill'></detail>  
+<div>
+<p>关于“arrow left s fill”的评论:</p>
+</div>
+<Vssue title="关于“arrow left s fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

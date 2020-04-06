@@ -5,6 +5,7 @@ name: clipboard-text-outline
 zhTips: 剪贴板文本轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/clipboard-text-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,3H14.82C14.25,1.44 12.53,0.64 11,1.2C10.14,1.5 9.5,2.16 9.18,3H5A2,2 0 0,0 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3M12,3A1,1 0 0,1 13,4A1,1 0 0,1 12,5A1,1 0 0,1 11,4A1,1 0 0,1 12,3M7,7H17V5H19V19H5V5H7V7M17,11H7V9H17V11M15,15H7V13H15V15Z" /></svg>
 </div>
 <detail full-name='mdi-clipboard-text-outline'></detail>
-    
+<div>
+<p>关于“clipboard text outline”的评论:</p>
+</div>
+<Vssue title="关于“clipboard text outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

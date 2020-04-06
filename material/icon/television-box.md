@@ -5,6 +5,7 @@ name: television-box
 zhTips: 电视盒,电视指南
 tags: []
 search: tv-box,tv-guide
+image: https://iconhelper.cn/svg/material/television-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3M16,16L19,8H16.5L15,12.5L13.5,8H5V10H8V16H10V10H11.77L14,16H16Z" /></svg>
 </div>
 <detail full-name='mdi-television-box'></detail>
-    
+<div>
+<p>关于“television box”的评论:</p>
+</div>
+<Vssue title="关于“television box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

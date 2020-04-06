@@ -5,6 +5,7 @@ name: label
 zhTips: 标签
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/label.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.63,5.84C17.27,5.33 16.67,5 16,5H5A2,2 0 0,0 3,7V17A2,2 0 0,0 5,19H16C16.67,19 17.27,18.66 17.63,18.15L22,12L17.63,5.84Z" /></svg>
 </div>
 <detail full-name='mdi-label'></detail>
-    
+<div>
+<p>关于“label”的评论:</p>
+</div>
+<Vssue title="关于“label”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

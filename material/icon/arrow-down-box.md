@@ -5,6 +5,7 @@ name: arrow-down-box
 zhTips: 向下箭头框
 tags: ["arrow"]
 search: arrow-bottom-box
+image: https://iconhelper.cn/svg/material/arrow-down-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,5A2,2 0 0,1 5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5M11,6V14.5L7.5,11L6.08,12.42L12,18.34L17.92,12.42L16.5,11L13,14.5V6H11Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-down-box'></detail>
-    
+<div>
+<p>关于“arrow down box”的评论:</p>
+</div>
+<Vssue title="关于“arrow down box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

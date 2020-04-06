@@ -5,6 +5,7 @@ name: key
 zhTips: 键,vpn密钥,钥匙,密钥,锁,密码,私有,秘密,解锁,打开
 tags: ["automotive"]
 search: vpn-key
+image: https://iconhelper.cn/svg/material/key.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,14A2,2 0 0,1 5,12A2,2 0 0,1 7,10A2,2 0 0,1 9,12A2,2 0 0,1 7,14M12.65,10C11.83,7.67 9.61,6 7,6A6,6 0 0,0 1,12A6,6 0 0,0 7,18C9.61,18 11.83,16.33 12.65,14H17V18H21V14H23V10H12.65Z" /></svg>
 </div>
 <detail full-name='mdi-key'></detail>
-    
+<div>
+<p>关于“key”的评论:</p>
+</div>
+<Vssue title="关于“key”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

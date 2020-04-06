@@ -5,6 +5,7 @@ name: logout-box-r-fill
 zhTips: 登出,注销
 tags: ["system"]
 search: sign out,fill
+image: https://iconhelper.cn/svg/remix/system/logout-box-r-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-logout-box-r-fill'></detail>
-    
+<detail full-name='ri-logout-box-r-fill'></detail>  
+<div>
+<p>关于“logout box r fill”的评论:</p>
+</div>
+<Vssue title="关于“logout box r fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

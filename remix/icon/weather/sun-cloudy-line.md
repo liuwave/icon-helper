@@ -5,6 +5,7 @@ name: sun-cloudy-line
 zhTips: 晴转多云
 tags: ["weather"]
 search: line
+image: https://iconhelper.cn/svg/remix/weather/sun-cloudy-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-sun-cloudy-line'></detail>
-    
+<detail full-name='ri-sun-cloudy-line'></detail>  
+<div>
+<p>关于“sun cloudy line”的评论:</p>
+</div>
+<Vssue title="关于“sun cloudy line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

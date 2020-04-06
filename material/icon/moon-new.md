@@ -5,6 +5,7 @@ name: moon-new
 zhTips: 月亮新
 tags: ["weather"]
 search: 
+image: https://iconhelper.cn/svg/material/moon-new.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20A8 8 0 1 1 20 12A8 8 0 0 1 12 20M12 2A10 10 0 1 0 22 12A10 10 0 0 0 12 2Z" /></svg>
 </div>
 <detail full-name='mdi-moon-new'></detail>
-    
+<div>
+<p>关于“moon new”的评论:</p>
+</div>
+<Vssue title="关于“moon new”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

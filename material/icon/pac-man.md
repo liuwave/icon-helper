@@ -5,6 +5,7 @@ name: pac-man
 zhTips: 吃豆人
 tags: ["gaming-rpg"]
 search: 
+image: https://iconhelper.cn/svg/material/pac-man.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,12L19.07,19.07C15.17,23 8.83,23 4.93,19.07C1,15.17 1,8.84 4.93,4.93C8.83,1 15.16,1 19.07,4.93L12,12M19,10A2,2 0 0,0 17,12A2,2 0 0,0 19,14A2,2 0 0,0 21,12A2,2 0 0,0 19,10Z" /></svg>
 </div>
 <detail full-name='mdi-pac-man'></detail>
-    
+<div>
+<p>关于“pac man”的评论:</p>
+</div>
+<Vssue title="关于“pac man”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

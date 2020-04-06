@@ -5,6 +5,7 @@ name: map-line
 zhTips: 地图,导航,旅行
 tags: ["map"]
 search: navigation,travel,line
+image: https://iconhelper.cn/svg/remix/map/map-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-map-line'></detail>
-    
+<detail full-name='ri-map-line'></detail>  
+<div>
+<p>关于“map line”的评论:</p>
+</div>
+<Vssue title="关于“map line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

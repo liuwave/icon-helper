@@ -5,6 +5,7 @@ name: bottle-soda-classic
 zhTips: 瓶汽水经典,瓶可乐经典,瓶流行经典
 tags: ["food-drink"]
 search: bottle-coke-classic,bottle-pop-classic
+image: https://iconhelper.cn/svg/material/bottle-soda-classic.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 13.77A3 3 0 0 0 15 18.23V20A2 2 0 0 1 13 22H11A2 2 0 0 1 9 20V18.23A3 3 0 0 0 9 13.77V9A12.28 12.28 0 0 0 10.91 4H10V2H14V4H13.09A12.28 12.28 0 0 0 15 9Z" /></svg>
 </div>
 <detail full-name='mdi-bottle-soda-classic'></detail>
-    
+<div>
+<p>关于“bottle soda classic”的评论:</p>
+</div>
+<Vssue title="关于“bottle soda classic”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

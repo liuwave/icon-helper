@@ -5,6 +5,7 @@ name: plane-fill
 zhTips: 飞机,航班
 tags: ["map"]
 search: fight,fill
+image: https://iconhelper.cn/svg/remix/map/plane-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-plane-fill'></detail>
-    
+<detail full-name='ri-plane-fill'></detail>  
+<div>
+<p>关于“plane fill”的评论:</p>
+</div>
+<Vssue title="关于“plane fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

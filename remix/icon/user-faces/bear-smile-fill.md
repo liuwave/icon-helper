@@ -5,6 +5,7 @@ name: bear-smile-fill
 zhTips: 小熊,微笑,儿童,动画片,卡通,动漫
 tags: ["user-faces"]
 search: cartoon,anime,cartoon,fill
+image: https://iconhelper.cn/svg/remix/user-faces/bear-smile-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-bear-smile-fill'></detail>
-    
+<detail full-name='ri-bear-smile-fill'></detail>  
+<div>
+<p>关于“bear smile fill”的评论:</p>
+</div>
+<Vssue title="关于“bear smile fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

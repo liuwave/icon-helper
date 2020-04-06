@@ -5,6 +5,7 @@ name: aliens-fill
 zhTips: 外星人,科幻小说
 tags: ["user-faces"]
 search: science fiction,ET,fill
+image: https://iconhelper.cn/svg/remix/user-faces/aliens-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-aliens-fill'></detail>
-    
+<detail full-name='ri-aliens-fill'></detail>  
+<div>
+<p>关于“aliens fill”的评论:</p>
+</div>
+<Vssue title="关于“aliens fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

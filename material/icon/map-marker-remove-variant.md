@@ -5,6 +5,7 @@ name: map-marker-remove-variant
 zhTips: 地图标记删除重音符号
 tags: ["navigation","geographic-information-system","geographic-information-system","geographic-information-system"]
 search: 
+image: https://iconhelper.cn/svg/material/map-marker-remove-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2C8.14,2 5,5.14 5,9C5,14.25 12,22 12,22C12,22 19,14.25 19,9C19,5.14 15.86,2 12,2M9.59,5.17L12,7.58L14.41,5.17L15.83,6.58L13.41,9L15.83,11.41L14.41,12.83L12,10.41L9.59,12.83L8.17,11.41L10.59,9L8.17,6.58" /></svg>
 </div>
 <detail full-name='mdi-map-marker-remove-variant'></detail>
-    
+<div>
+<p>关于“map marker remove variant”的评论:</p>
+</div>
+<Vssue title="关于“map marker remove variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

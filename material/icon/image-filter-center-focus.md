@@ -5,6 +5,7 @@ name: image-filter-center-focus
 zhTips: 图像滤镜中心焦点
 tags: ["photography"]
 search: image-filter-centre-focus
+image: https://iconhelper.cn/svg/material/image-filter-center-focus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9M19,19H15V21H19A2,2 0 0,0 21,19V15H19M19,3H15V5H19V9H21V5A2,2 0 0,0 19,3M5,5H9V3H5A2,2 0 0,0 3,5V9H5M5,15H3V19A2,2 0 0,0 5,21H9V19H5V15Z" /></svg>
 </div>
 <detail full-name='mdi-image-filter-center-focus'></detail>
-    
+<div>
+<p>关于“image filter center focus”的评论:</p>
+</div>
+<Vssue title="关于“image filter center focus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: certificate-outline
 zhTips: 证书轮廓,文凭轮廓,印章轮廓
 tags: []
 search: diploma-outline,seal-outline
+image: https://iconhelper.cn/svg/material/certificate-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 21L15 20L17 21V14H13M17 9V7L15 8L13 7V9L11 10L13 11V13L15 12L17 13V11L19 10M20 3H4A2 2 0 0 0 2 5V15A2 2 0 0 0 4 17H11V15H4V5H20V15H19V17H20A2 2 0 0 0 22 15V5A2 2 0 0 0 20 3M11 8H5V6H11M9 11H5V9H9M11 14H5V12H11Z" /></svg>
 </div>
 <detail full-name='mdi-certificate-outline'></detail>
-    
+<div>
+<p>关于“certificate outline”的评论:</p>
+</div>
+<Vssue title="关于“certificate outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

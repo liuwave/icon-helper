@@ -5,6 +5,7 @@ name: git-pull-request-fill
 zhTips: 合并申请
 tags: ["development"]
 search: fill
+image: https://iconhelper.cn/svg/remix/development/git-pull-request-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-git-pull-request-fill'></detail>
-    
+<detail full-name='ri-git-pull-request-fill'></detail>  
+<div>
+<p>关于“git pull request fill”的评论:</p>
+</div>
+<Vssue title="关于“git pull request fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

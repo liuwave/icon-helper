@@ -5,6 +5,7 @@ name: garage-alert
 zhTips: 车库警报,车库警告
 tags: ["home-automation","alert-error"]
 search: garage-warning
+image: https://iconhelper.cn/svg/material/garage-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,20H15V11H5V20H3V9L10,5L17,9V20M6,12H14V14H6V12M6,15H14V17H6V15M19,15V10H21V15H19M19,19V17H21V19H19Z" /></svg>
 </div>
 <detail full-name='mdi-garage-alert'></detail>
-    
+<div>
+<p>关于“garage alert”的评论:</p>
+</div>
+<Vssue title="关于“garage alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

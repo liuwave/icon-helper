@@ -5,6 +5,7 @@ name: parking
 zhTips: 停车,停车场,本地停车,汽车,车库,仪表
 tags: ["places"]
 search: car-park,local-parking
+image: https://iconhelper.cn/svg/material/parking.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.2,11H10V7H13.2A2,2 0 0,1 15.2,9A2,2 0 0,1 13.2,11M13,3H6V21H10V15H13A6,6 0 0,0 19,9C19,5.68 16.31,3 13,3Z" /></svg>
 </div>
 <detail full-name='mdi-parking'></detail>
-    
+<div>
+<p>关于“parking”的评论:</p>
+</div>
+<Vssue title="关于“parking”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

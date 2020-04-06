@@ -5,6 +5,7 @@ name: download
 zhTips: 下载,文件下载,获取应用,导出,硬盘驱动器,保存,传输,获取,保存到本地
 tags: []
 search: file-download,get-app
+image: https://iconhelper.cn/svg/material/download.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,20H19V18H5M19,9H15V3H9V9H5L12,16L19,9Z" /></svg>
 </div>
 <detail full-name='mdi-download'></detail>
-    
+<div>
+<p>关于“download”的评论:</p>
+</div>
+<Vssue title="关于“download”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

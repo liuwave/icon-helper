@@ -5,6 +5,7 @@ name: chart-tree
 zhTips: 图表树
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/chart-tree.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,6H22V22H14V6M2,4H22V2H2V4M2,8H12V6H2V8M9,22H12V10H9V22M2,22H7V10H2V22Z" /></svg>
 </div>
 <detail full-name='mdi-chart-tree'></detail>
-    
+<div>
+<p>关于“chart tree”的评论:</p>
+</div>
+<Vssue title="关于“chart tree”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

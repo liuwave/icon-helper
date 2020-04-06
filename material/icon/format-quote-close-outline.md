@@ -5,6 +5,7 @@ name: format-quote-close-outline
 zhTips: 格式报价关闭轮廓
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-quote-close-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 6V14H14.88L12.88 18H18.62L21 13.24V6M15 8H19V12.76L17.38 16H16.12L18.12 12H15M3 6V14H4.88L2.88 18H8.62L11 13.24V6M5 8H9V12.76L7.38 16H6.12L8.12 12H5Z" /></svg>
 </div>
 <detail full-name='mdi-format-quote-close-outline'></detail>
-    
+<div>
+<p>关于“format quote close outline”的评论:</p>
+</div>
+<Vssue title="关于“format quote close outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

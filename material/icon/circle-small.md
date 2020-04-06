@@ -5,6 +5,7 @@ name: circle-small
 zhTips: 小圆圈,子弹,乘法
 tags: ["math"]
 search: bullet,multiplication
+image: https://iconhelper.cn/svg/material/circle-small.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,10A2,2 0 0,0 10,12C10,13.11 10.9,14 12,14C13.11,14 14,13.11 14,12A2,2 0 0,0 12,10Z" /></svg>
 </div>
 <detail full-name='mdi-circle-small'></detail>
-    
+<div>
+<p>关于“circle small”的评论:</p>
+</div>
+<Vssue title="关于“circle small”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

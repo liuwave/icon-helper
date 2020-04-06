@@ -5,6 +5,7 @@ name: function-line
 zhTips: 功能,应用,卡片布局
 tags: ["system"]
 search: layout,line
+image: https://iconhelper.cn/svg/remix/system/function-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-function-line'></detail>
-    
+<detail full-name='ri-function-line'></detail>  
+<div>
+<p>关于“function line”的评论:</p>
+</div>
+<Vssue title="关于“function line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

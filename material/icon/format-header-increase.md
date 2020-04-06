@@ -5,6 +5,7 @@ name: format-header-increase
 zhTips: 格式头增加
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-header-increase.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,4H6V10H10V4H12V18H10V12H6V18H4V4M14.59,7.41L18.17,11L14.59,14.59L16,16L21,11L16,6L14.59,7.41Z" /></svg>
 </div>
 <detail full-name='mdi-format-header-increase'></detail>
-    
+<div>
+<p>关于“format header increase”的评论:</p>
+</div>
+<Vssue title="关于“format header increase”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

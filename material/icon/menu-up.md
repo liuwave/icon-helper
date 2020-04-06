@@ -5,6 +5,7 @@ name: menu-up
 zhTips: 菜单向上,箭头下拉
 tags: ["arrow"]
 search: arrow-drop-up
+image: https://iconhelper.cn/svg/material/menu-up.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,15L12,10L17,15H7Z" /></svg>
 </div>
 <detail full-name='mdi-menu-up'></detail>
-    
+<div>
+<p>关于“menu up”的评论:</p>
+</div>
+<Vssue title="关于“menu up”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

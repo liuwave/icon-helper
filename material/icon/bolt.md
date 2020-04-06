@@ -5,6 +5,7 @@ name: bolt
 zhTips: 螺栓,闪电,雷电,危险,有电
 tags: ["hardware-tools"]
 search: 
+image: https://iconhelper.cn/svg/material/bolt.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,17.7V21H10V20.3L14,17.7M17,3H7V6H17V3M15,7L14,7.7V7H10V10.3L9,11V12L15,8.1V7M15,11L14,11.7V9.7L10,12.4V14.4L9,15V16L15,12.1V11M15,15L14,15.7V13.7L10,16.4V18.4L9,19V20L15,16.1V15Z" /></svg>
 </div>
 <detail full-name='mdi-bolt'></detail>
-    
+<div>
+<p>关于“bolt”的评论:</p>
+</div>
+<Vssue title="关于“bolt”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: format-list-bulleted-square
 zhTips: 格式列表项目符号正方形
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-list-bulleted-square.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,4H7V8H3V4M9,5V7H21V5H9M3,10H7V14H3V10M9,11V13H21V11H9M3,16H7V20H3V16M9,17V19H21V17H9" /></svg>
 </div>
 <detail full-name='mdi-format-list-bulleted-square'></detail>
-    
+<div>
+<p>关于“format list bulleted square”的评论:</p>
+</div>
+<Vssue title="关于“format list bulleted square”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

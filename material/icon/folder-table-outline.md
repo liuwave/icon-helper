@@ -5,6 +5,7 @@ name: folder-table-outline
 zhTips: 文件夹表轮廓
 tags: ["files-folders"]
 search: 
+image: https://iconhelper.cn/svg/material/folder-table-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 4C2.89 4 2 4.89 2 6V18A2 2 0 0 0 4 20H20A2 2 0 0 0 22 18V8C22 6.89 21.1 6 20 6H12L10 4H4M4 8H20V18H4V8M12 9V11H15V9H12M16 9V11H19V9H16M12 12V14H15V12H12M16 12V14H19V12H16M12 15V17H15V15H12M16 15V17H19V15H16Z" /></svg>
 </div>
 <detail full-name='mdi-folder-table-outline'></detail>
-    
+<div>
+<p>关于“folder table outline”的评论:</p>
+</div>
+<Vssue title="关于“folder table outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

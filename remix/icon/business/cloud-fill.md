@@ -5,6 +5,7 @@ name: cloud-fill
 zhTips: 云端
 tags: ["business"]
 search: weather,fill
+image: https://iconhelper.cn/svg/remix/business/cloud-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-cloud-fill'></detail>
-    
+<detail full-name='ri-cloud-fill'></detail>  
+<div>
+<p>关于“cloud fill”的评论:</p>
+</div>
+<Vssue title="关于“cloud fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

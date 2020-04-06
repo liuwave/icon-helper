@@ -5,6 +5,7 @@ name: arrow-down-bold-outline
 zhTips: 向下箭头加粗轮廓
 tags: ["arrow"]
 search: arrow-bottom-bold-outline
+image: https://iconhelper.cn/svg/material/arrow-down-bold-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,11L12,21L2,11H8V3H16V11H22M12,18L17,13H14V5H10V13H7L12,18Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-down-bold-outline'></detail>
-    
+<div>
+<p>关于“arrow down bold outline”的评论:</p>
+</div>
+<Vssue title="关于“arrow down bold outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: drive-fill
 zhTips: 谷歌云端硬盘
 tags: ["logos"]
 search: google drive,fill
+image: https://iconhelper.cn/svg/remix/logos/drive-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-drive-fill'></detail>
-    
+<detail full-name='ri-drive-fill'></detail>  
+<div>
+<p>关于“drive fill”的评论:</p>
+</div>
+<Vssue title="关于“drive fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

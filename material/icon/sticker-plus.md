@@ -5,6 +5,7 @@ name: sticker-plus
 zhTips: 贴纸加
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/sticker-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.5 2H5.5C3.6 2 2 3.6 2 5.5V18.5C2 20.4 3.6 22 5.5 22H16L22 16V5.5C22 3.6 20.4 2 18.5 2M13 16H11V13H8V11H11V8H13V11H16V13H13V16M15 20V18.5C15 16.6 16.6 15 18.5 15H20L15 20Z" /></svg>
 </div>
 <detail full-name='mdi-sticker-plus'></detail>
-    
+<div>
+<p>关于“sticker plus”的评论:</p>
+</div>
+<Vssue title="关于“sticker plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

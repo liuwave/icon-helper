@@ -5,6 +5,7 @@ name: purse
 zhTips: 钱包
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/purse.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,19.1L21,10.5A1.65,1.65 0 0,0 19.3,9H16V5L14,3H10L8,5V9H4.7A1.65,1.65 0 0,0 3,10.5L2,19.1A1.74,1.74 0 0,0 3.7,21H20.3A1.74,1.74 0 0,0 22,19.1M10,5H14V9H10" /></svg>
 </div>
 <detail full-name='mdi-purse'></detail>
-    
+<div>
+<p>关于“purse”的评论:</p>
+</div>
+<Vssue title="关于“purse”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

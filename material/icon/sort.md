@@ -5,6 +5,7 @@ name: sort
 zhTips: 排序,排序标志,过滤器,订单
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/sort.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 21L14 17H17V7H14L18 3L22 7H19V17H22M2 19V17H12V19M2 13V11H9V13M2 7V5H6V7H2Z" /></svg>
 </div>
 <detail full-name='mdi-sort'></detail>
-    
+<div>
+<p>关于“sort”的评论:</p>
+</div>
+<Vssue title="关于“sort”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

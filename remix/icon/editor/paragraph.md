@@ -5,6 +5,7 @@ name: paragraph
 zhTips: 段落,编辑,格式,文本,写作,段落符号
 tags: ["editor"]
 search: 
+image: https://iconhelper.cn/svg/remix/editor/paragraph.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-paragraph'></detail>
-    
+<detail full-name='ri-paragraph'></detail>  
+<div>
+<p>关于“paragraph”的评论:</p>
+</div>
+<Vssue title="关于“paragraph”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

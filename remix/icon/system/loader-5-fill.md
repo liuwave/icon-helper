@@ -5,6 +5,7 @@ name: loader-5-fill
 zhTips: 加载中,载入中,正在加载
 tags: ["system"]
 search: loader,spinner,ajax,waiting,delay,fill
+image: https://iconhelper.cn/svg/remix/system/loader-5-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-loader-5-fill'></detail>
-    
+<detail full-name='ri-loader-5-fill'></detail>  
+<div>
+<p>关于“loader 5 fill”的评论:</p>
+</div>
+<Vssue title="关于“loader 5 fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

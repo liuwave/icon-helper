@@ -5,6 +5,7 @@ name: fullscreen-exit-fill
 zhTips: 退出全屏,最小化
 tags: ["media"]
 search: minimize,fill
+image: https://iconhelper.cn/svg/remix/media/fullscreen-exit-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-fullscreen-exit-fill'></detail>
-    
+<detail full-name='ri-fullscreen-exit-fill'></detail>  
+<div>
+<p>关于“fullscreen exit fill”的评论:</p>
+</div>
+<Vssue title="关于“fullscreen exit fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

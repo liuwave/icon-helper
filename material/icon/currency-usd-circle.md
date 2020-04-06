@@ -5,6 +5,7 @@ name: currency-usd-circle
 zhTips: 货币美元圆,硬币
 tags: ["banking","currency"]
 search: coin
+image: https://iconhelper.cn/svg/material/currency-usd-circle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 1 0 22 12A10 10 0 0 0 12 2M15 10H11V11H14A1 1 0 0 1 15 12V15A1 1 0 0 1 14 16H13V17H11V16H9V14H13V13H10A1 1 0 0 1 9 12V9A1 1 0 0 1 10 8H11V7H13V8H15Z" /></svg>
 </div>
 <detail full-name='mdi-currency-usd-circle'></detail>
-    
+<div>
+<p>关于“currency usd circle”的评论:</p>
+</div>
+<Vssue title="关于“currency usd circle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: step-forward-2
 zhTips: 前进2,前进框架
 tags: []
 search: frame-forward
+image: https://iconhelper.cn/svg/material/step-forward-2.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,5H10V19H7V5M12,5L23,12L12,19V5M2,5H5V19H2V5Z" /></svg>
 </div>
 <detail full-name='mdi-step-forward-2'></detail>
-    
+<div>
+<p>关于“step forward 2”的评论:</p>
+</div>
+<Vssue title="关于“step forward 2”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

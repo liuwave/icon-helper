@@ -5,6 +5,7 @@ name: store-3-line
 zhTips: 商店,超市,店铺,商家
 tags: ["buildings"]
 search: shop,mall,supermarket,line
+image: https://iconhelper.cn/svg/remix/buildings/store-3-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-store-3-line'></detail>
-    
+<detail full-name='ri-store-3-line'></detail>  
+<div>
+<p>关于“store 3 line”的评论:</p>
+</div>
+<Vssue title="关于“store 3 line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

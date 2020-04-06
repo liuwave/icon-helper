@@ -5,6 +5,7 @@ name: facebook-box-fill
 zhTips: 脸书
 tags: ["logos"]
 search: fill
+image: https://iconhelper.cn/svg/remix/logos/facebook-box-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-facebook-box-fill'></detail>
-    
+<detail full-name='ri-facebook-box-fill'></detail>  
+<div>
+<p>关于“facebook box fill”的评论:</p>
+</div>
+<Vssue title="关于“facebook box fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

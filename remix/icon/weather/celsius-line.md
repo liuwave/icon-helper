@@ -5,6 +5,7 @@ name: celsius-line
 zhTips: 温度,摄氏度
 tags: ["weather"]
 search: temperature,line
+image: https://iconhelper.cn/svg/remix/weather/celsius-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-celsius-line'></detail>
-    
+<detail full-name='ri-celsius-line'></detail>  
+<div>
+<p>关于“celsius line”的评论:</p>
+</div>
+<Vssue title="关于“celsius line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

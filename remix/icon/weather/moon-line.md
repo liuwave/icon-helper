@@ -5,6 +5,7 @@ name: moon-line
 zhTips: 月亮,夜间模式,月牙
 tags: ["weather"]
 search: dark mode,night,line
+image: https://iconhelper.cn/svg/remix/weather/moon-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-moon-line'></detail>
-    
+<detail full-name='ri-moon-line'></detail>  
+<div>
+<p>关于“moon line”的评论:</p>
+</div>
+<Vssue title="关于“moon line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

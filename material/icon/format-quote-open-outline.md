@@ -5,6 +5,7 @@ name: format-quote-open-outline
 zhTips: 引用引用打开轮廓
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-quote-open-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 18V10H9.12L11.12 6H5.38L3 10.76V18M9 16H5V11.24L6.62 8H7.88L5.88 12H9M21 18V10H19.12L21.12 6H15.38L13 10.76V18M19 16H15V11.24L16.62 8H17.88L15.88 12H19Z" /></svg>
 </div>
 <detail full-name='mdi-format-quote-open-outline'></detail>
-    
+<div>
+<p>关于“format quote open outline”的评论:</p>
+</div>
+<Vssue title="关于“format quote open outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

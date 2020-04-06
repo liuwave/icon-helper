@@ -5,6 +5,7 @@ name: table-large
 zhTips: 大桌子
 tags: ["text-content-format","geographic-information-system"]
 search: 
+image: https://iconhelper.cn/svg/material/table-large.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,3H20A2,2 0 0,1 22,5V20A2,2 0 0,1 20,22H4A2,2 0 0,1 2,20V5A2,2 0 0,1 4,3M4,7V10H8V7H4M10,7V10H14V7H10M20,10V7H16V10H20M4,12V15H8V12H4M4,20H8V17H4V20M10,12V15H14V12H10M10,20H14V17H10V20M20,20V17H16V20H20M20,12H16V15H20V12Z" /></svg>
 </div>
 <detail full-name='mdi-table-large'></detail>
-    
+<div>
+<p>关于“table large”的评论:</p>
+</div>
+<Vssue title="关于“table large”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

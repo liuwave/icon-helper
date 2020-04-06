@@ -5,6 +5,7 @@ name: upload-off
 zhTips: 上传关闭
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/upload-off.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22.11 21.46L2.39 1.73L1.11 3L6.56 8.45L5 10H8.11L9 10.89V16H14.11L16.11 18H5V20H18.11L20.84 22.73L22.11 21.46M15 10H19L12 3L9.1 5.9L15 11.8V10Z" /></svg>
 </div>
 <detail full-name='mdi-upload-off'></detail>
-    
+<div>
+<p>关于“upload off”的评论:</p>
+</div>
+<Vssue title="关于“upload off”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

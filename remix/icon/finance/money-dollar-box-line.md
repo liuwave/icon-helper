@@ -5,6 +5,7 @@ name: money-dollar-box-line
 zhTips: 货币,钱,支付,美元
 tags: ["finance"]
 search: currency,payment,line
+image: https://iconhelper.cn/svg/remix/finance/money-dollar-box-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-money-dollar-box-line'></detail>
-    
+<detail full-name='ri-money-dollar-box-line'></detail>  
+<div>
+<p>关于“money dollar box line”的评论:</p>
+</div>
+<Vssue title="关于“money dollar box line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

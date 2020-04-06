@@ -5,6 +5,7 @@ name: strikethrough
 zhTips: 删除线,取消,编辑,字体,格式,文本,类型,加删除线
 tags: ["editor"]
 search: remove formatting
+image: https://iconhelper.cn/svg/remix/editor/strikethrough.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-strikethrough'></detail>
-    
+<detail full-name='ri-strikethrough'></detail>  
+<div>
+<p>关于“strikethrough”的评论:</p>
+</div>
+<Vssue title="关于“strikethrough”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

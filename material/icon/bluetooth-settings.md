@@ -5,6 +5,7 @@ name: bluetooth-settings
 zhTips: 蓝牙设置
 tags: ["settings"]
 search: settings-bluetooth
+image: https://iconhelper.cn/svg/material/bluetooth-settings.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.88,14.29L13,16.17V12.41L14.88,14.29M13,3.83L14.88,5.71L13,7.59M17.71,5.71L12,0H11V7.59L6.41,3L5,4.41L10.59,10L5,15.59L6.41,17L11,12.41V20H12L17.71,14.29L13.41,10L17.71,5.71M15,24H17V22H15M7,24H9V22H7M11,24H13V22H11V24Z" /></svg>
 </div>
 <detail full-name='mdi-bluetooth-settings'></detail>
-    
+<div>
+<p>关于“bluetooth settings”的评论:</p>
+</div>
+<Vssue title="关于“bluetooth settings”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

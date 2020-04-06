@@ -5,6 +5,7 @@ name: arrow-collapse-left
 zhTips: 向左箭头折叠,向左箭头压缩
 tags: ["arrow"]
 search: arrow-compress-left
+image: https://iconhelper.cn/svg/material/arrow-collapse-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.92,19.92L4,12L11.92,4.08L13.33,5.5L7.83,11H22V13H7.83L13.34,18.5L11.92,19.92M4,12V2H2V22H4V12Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-collapse-left'></detail>
-    
+<div>
+<p>关于“arrow collapse left”的评论:</p>
+</div>
+<Vssue title="关于“arrow collapse left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: focus-field-vertical
 zhTips: 垂直场聚焦
 tags: ["photography"]
 search: 
+image: https://iconhelper.cn/svg/material/focus-field-vertical.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H15V21H19C20.1 21 21 20.1 21 19V15H19M19 3H15V5H19V9H21V5C21 3.9 20.1 3 19 3M5 5H9V3H5C3.9 3 3 3.9 3 5V9H5M5 15H3V19C3 20.1 3.9 21 5 21H9V19H5V15M11 11H13V13H11V11M11 7H13V9H11V7M11 15H13V17H11V15Z" /></svg>
 </div>
 <detail full-name='mdi-focus-field-vertical'></detail>
-    
+<div>
+<p>关于“focus field vertical”的评论:</p>
+</div>
+<Vssue title="关于“focus field vertical”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

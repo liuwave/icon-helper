@@ -5,6 +5,7 @@ name: brightness-3
 zhTips: 亮度3
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/brightness-3.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,2C7.95,2 6.95,2.16 6,2.46C10.06,3.73 13,7.5 13,12C13,16.5 10.06,20.27 6,21.54C6.95,21.84 7.95,22 9,22A10,10 0 0,0 19,12A10,10 0 0,0 9,2Z" /></svg>
 </div>
 <detail full-name='mdi-brightness-3'></detail>
-    
+<div>
+<p>关于“brightness 3”的评论:</p>
+</div>
+<Vssue title="关于“brightness 3”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

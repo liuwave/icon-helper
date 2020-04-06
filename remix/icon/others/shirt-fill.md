@@ -5,6 +5,7 @@ name: shirt-fill
 zhTips: 衬衫,衣服
 tags: ["others"]
 search: clothes,fill
+image: https://iconhelper.cn/svg/remix/others/shirt-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-shirt-fill'></detail>
-    
+<detail full-name='ri-shirt-fill'></detail>  
+<div>
+<p>关于“shirt fill”的评论:</p>
+</div>
+<Vssue title="关于“shirt fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

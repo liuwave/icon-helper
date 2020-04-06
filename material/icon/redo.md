@@ -5,6 +5,7 @@ name: redo
 zhTips: 重做,箭头,重做箭头,转发,刷新,重新加载,重复
 tags: []
 search: arrow
+image: https://iconhelper.cn/svg/material/redo.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.4,10.6C16.55,9 14.15,8 11.5,8C6.85,8 2.92,11.03 1.54,15.22L3.9,16C4.95,12.81 7.95,10.5 11.5,10.5C13.45,10.5 15.23,11.22 16.62,12.38L13,16H22V7L18.4,10.6Z" /></svg>
 </div>
 <detail full-name='mdi-redo'></detail>
-    
+<div>
+<p>关于“redo”的评论:</p>
+</div>
+<Vssue title="关于“redo”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

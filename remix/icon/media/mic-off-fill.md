@@ -5,6 +5,7 @@ name: mic-off-fill
 zhTips: 关闭话筒,关闭语音,录音,关闭声音,静音,禁止
 tags: ["media"]
 search: record,voice,slash,fill
+image: https://iconhelper.cn/svg/remix/media/mic-off-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-mic-off-fill'></detail>
-    
+<detail full-name='ri-mic-off-fill'></detail>  
+<div>
+<p>关于“mic off fill”的评论:</p>
+</div>
+<Vssue title="关于“mic off fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

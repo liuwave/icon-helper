@@ -5,6 +5,7 @@ name: ellipse
 zhTips: 椭圆
 tags: ["shape"]
 search: 
+image: https://iconhelper.cn/svg/material/ellipse.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,4C6.5,4 2,7.58 2,12C2,16.42 6.5,20 12,20C17.5,20 22,16.42 22,12C22,7.58 17.5,4 12,4Z" /></svg>
 </div>
 <detail full-name='mdi-ellipse'></detail>
-    
+<div>
+<p>关于“ellipse”的评论:</p>
+</div>
+<Vssue title="关于“ellipse”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

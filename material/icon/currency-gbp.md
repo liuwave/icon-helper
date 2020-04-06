@@ -5,6 +5,7 @@ name: currency-gbp
 zhTips: 货币gbp,英镑
 tags: ["currency","banking"]
 search: pound,sterling
+image: https://iconhelper.cn/svg/material/currency-gbp.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,21V19C10,17 9.5,13 9.5,13H7V11H9.5C8.5,6.5 10,3 14,3C16,3 17,3.5 17,3.5V5.5C11,3.5 11,8 11.5,11H16V13H11.5C11.5,13 12,17 9.5,19H18V21H6Z" /></svg>
 </div>
 <detail full-name='mdi-currency-gbp'></detail>
-    
+<div>
+<p>关于“currency gbp”的评论:</p>
+</div>
+<Vssue title="关于“currency gbp”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

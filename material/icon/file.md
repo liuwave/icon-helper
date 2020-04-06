@@ -5,6 +5,7 @@ name: file
 zhTips: 文件,插入驱动器文件,草稿,纸张,文档,新文件,页面,pdf,简历,认证
 tags: ["files-folders"]
 search: insert-drive-file,draft,paper
+image: https://iconhelper.cn/svg/material/file.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,9V3.5L18.5,9M6,2C4.89,2 4,2.89 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2H6Z" /></svg>
 </div>
 <detail full-name='mdi-file'></detail>
-    
+<div>
+<p>关于“file”的评论:</p>
+</div>
+<Vssue title="关于“file”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

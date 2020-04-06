@@ -5,6 +5,7 @@ name: email-alert
 zhTips: 电子邮件警报,电子邮件警告,信封警报,信封警告
 tags: ["alert-error"]
 search: email-warning,envelope-alert,envelope-warning
+image: https://iconhelper.cn/svg/material/email-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,9V7L10,11L4,7V9L10,13L16,9M16,5A2,2 0 0,1 18,7V16A2,2 0 0,1 16,18H4C2.89,18 2,17.1 2,16V7A2,2 0 0,1 4,5H16M20,12V7H22V12H20M20,16V14H22V16H20Z" /></svg>
 </div>
 <detail full-name='mdi-email-alert'></detail>
-    
+<div>
+<p>关于“email alert”的评论:</p>
+</div>
+<Vssue title="关于“email alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

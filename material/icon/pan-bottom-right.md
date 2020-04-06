@@ -5,6 +5,7 @@ name: pan-bottom-right
 zhTips: 右下锅,右下时
 tags: []
 search: pan-down-right
+image: https://iconhelper.cn/svg/material/pan-bottom-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12A2,2 0 0,1 12,10M13,18.65L18.65,13L19,19L13,18.65Z" /></svg>
 </div>
 <detail full-name='mdi-pan-bottom-right'></detail>
-    
+<div>
+<p>关于“pan bottom right”的评论:</p>
+</div>
+<Vssue title="关于“pan bottom right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

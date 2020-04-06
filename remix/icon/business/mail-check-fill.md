@@ -5,6 +5,7 @@ name: mail-check-fill
 zhTips: 信封,邮箱,邮件,已读
 tags: ["business"]
 search: envelope,email,inbox,read,fill
+image: https://iconhelper.cn/svg/remix/business/mail-check-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-mail-check-fill'></detail>
-    
+<detail full-name='ri-mail-check-fill'></detail>  
+<div>
+<p>关于“mail check fill”的评论:</p>
+</div>
+<Vssue title="关于“mail check fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: map-marker-plus
 zhTips: 加地图标记,添加位置
 tags: ["navigation","geographic-information-system"]
 search: add-location
+image: https://iconhelper.cn/svg/material/map-marker-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,11.5A2.5,2.5 0 0,0 11.5,9A2.5,2.5 0 0,0 9,6.5A2.5,2.5 0 0,0 6.5,9A2.5,2.5 0 0,0 9,11.5M9,2C12.86,2 16,5.13 16,9C16,14.25 9,22 9,22C9,22 2,14.25 2,9A7,7 0 0,1 9,2M15,17H18V14H20V17H23V19H20V22H18V19H15V17Z" /></svg>
 </div>
 <detail full-name='mdi-map-marker-plus'></detail>
-    
+<div>
+<p>关于“map marker plus”的评论:</p>
+</div>
+<Vssue title="关于“map marker plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

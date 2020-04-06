@@ -5,6 +5,7 @@ name: microsoft-bing
 zhTips: 微软必应
 tags: ["brand-logo"]
 search: 
+image: https://iconhelper.cn/svg/material/microsoft-bing.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,3V19L8.72,21L18,15.82V11.73H18L9.77,8.95L11.38,12.84L13.94,14L8.7,16.92V4.27L5,3" /></svg>
 </div>
 <detail full-name='mdi-microsoft-bing'></detail>
-    
+<div>
+<p>关于“microsoft bing”的评论:</p>
+</div>
+<Vssue title="关于“microsoft bing”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

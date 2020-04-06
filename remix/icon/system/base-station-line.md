@@ -5,6 +5,7 @@ name: base-station-line
 zhTips: 基站,信号塔,路由器,广播,流量
 tags: ["system"]
 search: wifi,signal tower,router,cast,line
+image: https://iconhelper.cn/svg/remix/system/base-station-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-base-station-line'></detail>
-    
+<detail full-name='ri-base-station-line'></detail>  
+<div>
+<p>关于“base station line”的评论:</p>
+</div>
+<Vssue title="关于“base station line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

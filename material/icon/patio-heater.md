@@ -5,6 +5,7 @@ name: patio-heater
 zhTips: 露台加热器
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/patio-heater.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 22H9V21H15V22M19 4L15 2H9L5 4H19M8 5L8.4 6H15.6L16 5H8M10 10H11V15C10.4 15 10 15.4 10 16V20H14V16C14 15.4 13.6 15 13 15V10H14L14.4 9H9.6L10 10M9.2 8H14.8L15.2 7H8.8L9.2 8Z" /></svg>
 </div>
 <detail full-name='mdi-patio-heater'></detail>
-    
+<div>
+<p>关于“patio heater”的评论:</p>
+</div>
+<Vssue title="关于“patio heater”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

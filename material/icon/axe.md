@@ -5,6 +5,7 @@ name: axe
 zhTips: 斧头
 tags: ["hardware-tools"]
 search: 
+image: https://iconhelper.cn/svg/material/axe.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2L22,8C22,12 20,14 16,15L13,10L9,6L12,2M4.11,19.84L2.12,18.33L9.19,9L11,10.81L4.11,19.84Z" /></svg>
 </div>
 <detail full-name='mdi-axe'></detail>
-    
+<div>
+<p>关于“axe”的评论:</p>
+</div>
+<Vssue title="关于“axe”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

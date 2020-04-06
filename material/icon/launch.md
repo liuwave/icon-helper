@@ -5,6 +5,7 @@ name: launch
 zhTips: 发射
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/launch.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,3V5H17.59L7.76,14.83L9.17,16.24L19,6.41V10H21V3M19,19H5V5H12V3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V12H19V19Z" /></svg>
 </div>
 <detail full-name='mdi-launch'></detail>
-    
+<div>
+<p>关于“launch”的评论:</p>
+</div>
+<Vssue title="关于“launch”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

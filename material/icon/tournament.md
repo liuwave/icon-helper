@@ -5,6 +5,7 @@ name: tournament
 zhTips: 比赛,托架
 tags: ["gaming-rpg","sport"]
 search: bracket
+image: https://iconhelper.cn/svg/material/tournament.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,2V4H7V8H2V10H7C8.11,10 9,9.11 9,8V7H14V17H9V16C9,14.89 8.11,14 7,14H2V16H7V20H2V22H7C8.11,22 9,21.11 9,20V19H14C15.11,19 16,18.11 16,17V13H22V11H16V7C16,5.89 15.11,5 14,5H9V4C9,2.89 8.11,2 7,2H2Z" /></svg>
 </div>
 <detail full-name='mdi-tournament'></detail>
-    
+<div>
+<p>关于“tournament”的评论:</p>
+</div>
+<Vssue title="关于“tournament”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

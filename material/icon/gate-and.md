@@ -5,6 +5,7 @@ name: gate-and
 zhTips: 门与,逻辑门与
 tags: []
 search: logic-gate-and
+image: https://iconhelper.cn/svg/material/gate-and.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,4V20H14A8,8 0 0,0 22,12A8,8 0 0,0 14,4H2M4,6H14A6,6 0 0,1 20,12A6,6 0 0,1 14,18H4V6Z" /></svg>
 </div>
 <detail full-name='mdi-gate-and'></detail>
-    
+<div>
+<p>关于“gate and”的评论:</p>
+</div>
+<Vssue title="关于“gate and”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

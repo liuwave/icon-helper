@@ -5,6 +5,7 @@ name: office-building
 zhTips: 办公大楼
 tags: ["places"]
 search: 
+image: https://iconhelper.cn/svg/material/office-building.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,3V21H11V17.5H13V21H19V3H5M7,5H9V7H7V5M11,5H13V7H11V5M15,5H17V7H15V5M7,9H9V11H7V9M11,9H13V11H11V9M15,9H17V11H15V9M7,13H9V15H7V13M11,13H13V15H11V13M15,13H17V15H15V13M7,17H9V19H7V17M15,17H17V19H15V17Z" /></svg>
 </div>
 <detail full-name='mdi-office-building'></detail>
-    
+<div>
+<p>关于“office building”的评论:</p>
+</div>
+<Vssue title="关于“office building”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

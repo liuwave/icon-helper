@@ -5,6 +5,7 @@ name: menu-down-outline
 zhTips: 菜单向下轮廓
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/menu-down-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,9V10.5L12,16.5L6,10.5V9H18M12,13.67L14.67,11H9.33L12,13.67Z" /></svg>
 </div>
 <detail full-name='mdi-menu-down-outline'></detail>
-    
+<div>
+<p>关于“menu down outline”的评论:</p>
+</div>
+<Vssue title="关于“menu down outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

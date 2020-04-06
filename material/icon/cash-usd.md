@@ -5,6 +5,7 @@ name: cash-usd
 zhTips: Cash USD,Local atm,money usd
 tags: ["currency","banking"]
 search: local-atm,money-usd
+image: https://iconhelper.cn/svg/material/cash-usd.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4H4C2.89 4 2 4.89 2 6V18C2 19.11 2.9 20 4 20H20C21.11 20 22 19.11 22 18V6C22 4.89 21.1 4 20 4M15 10H11V11H14C14.55 11 15 11.45 15 12V15C15 15.55 14.55 16 14 16H13V17H11V16H9V14H13V13H10C9.45 13 9 12.55 9 12V9C9 8.45 9.45 8 10 8H11V7H13V8H15V10Z" /></svg>
 </div>
 <detail full-name='mdi-cash-usd'></detail>
-    
+<div>
+<p>关于“cash usd”的评论:</p>
+</div>
+<Vssue title="关于“cash usd”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

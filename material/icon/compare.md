@@ -5,6 +5,7 @@ name: compare
 zhTips: 比较,浅黑主题
 tags: []
 search: theme-light-dark
+image: https://iconhelper.cn/svg/material/compare.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,3H14V5H19V18L14,12V21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3M10,18H5L10,12M10,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H10V23H12V1H10V3Z" /></svg>
 </div>
 <detail full-name='mdi-compare'></detail>
-    
+<div>
+<p>关于“compare”的评论:</p>
+</div>
+<Vssue title="关于“compare”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

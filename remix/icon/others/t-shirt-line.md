@@ -5,6 +5,7 @@ name: t-shirt-line
 zhTips: T恤,皮肤,主题
 tags: ["others"]
 search: skin,theme,line
+image: https://iconhelper.cn/svg/remix/others/t-shirt-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-t-shirt-line'></detail>
-    
+<detail full-name='ri-t-shirt-line'></detail>  
+<div>
+<p>关于“t shirt line”的评论:</p>
+</div>
+<Vssue title="关于“t shirt line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

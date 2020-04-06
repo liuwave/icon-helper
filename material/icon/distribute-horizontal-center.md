@@ -5,6 +5,7 @@ name: distribute-horizontal-center
 zhTips: 分配水平中心
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/distribute-horizontal-center.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 2V5H10V19H8V22H6V19H4V5H6V2H8M16 2V7H14V17H16V22H18V17H20V7H18V2H16Z" /></svg>
 </div>
 <detail full-name='mdi-distribute-horizontal-center'></detail>
-    
+<div>
+<p>关于“distribute horizontal center”的评论:</p>
+</div>
+<Vssue title="关于“distribute horizontal center”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

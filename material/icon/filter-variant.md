@@ -5,6 +5,7 @@ name: filter-variant
 zhTips: 过滤器变量,过滤器列表
 tags: []
 search: filter-list
+image: https://iconhelper.cn/svg/material/filter-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,13H18V11H6M3,6V8H21V6M10,18H14V16H10V18Z" /></svg>
 </div>
 <detail full-name='mdi-filter-variant'></detail>
-    
+<div>
+<p>关于“filter variant”的评论:</p>
+</div>
+<Vssue title="关于“filter variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

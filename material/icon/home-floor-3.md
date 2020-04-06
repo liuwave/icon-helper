@@ -5,6 +5,7 @@ name: home-floor-3
 zhTips: 家庭地板3,房屋地板3,房屋地板三
 tags: ["home-automation"]
 search: house-floor-3,home-floor-three,house-floor-three,home-floor-third,house-floor-third
+image: https://iconhelper.cn/svg/material/home-floor-3.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3L22,12H19V20H5V12H2L12,3M15,11.5V10C15,8.89 14.1,8 13,8H9V10H13V12H11V14H13V16H9V18H13A2,2 0 0,0 15,16V14.5A1.5,1.5 0 0,0 13.5,13A1.5,1.5 0 0,0 15,11.5Z" /></svg>
 </div>
 <detail full-name='mdi-home-floor-3'></detail>
-    
+<div>
+<p>关于“home floor 3”的评论:</p>
+</div>
+<Vssue title="关于“home floor 3”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

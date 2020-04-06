@@ -5,6 +5,7 @@ name: border-style
 zhTips: 边框样式
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/border-style.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,21H17V19H15M19,21H21V19H19M7,21H9V19H7M11,21H13V19H11M19,17H21V15H19M19,13H21V11H19M3,3V21H5V5H21V3M19,9H21V7H19" /></svg>
 </div>
 <detail full-name='mdi-border-style'></detail>
-    
+<div>
+<p>关于“border style”的评论:</p>
+</div>
+<Vssue title="关于“border style”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

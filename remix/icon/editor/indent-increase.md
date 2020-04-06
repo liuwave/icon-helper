@@ -5,6 +5,7 @@ name: indent-increase
 zhTips: 缩进
 tags: ["editor"]
 search: indent less
+image: https://iconhelper.cn/svg/remix/editor/indent-increase.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-indent-increase'></detail>
-    
+<detail full-name='ri-indent-increase'></detail>  
+<div>
+<p>关于“indent increase”的评论:</p>
+</div>
+<Vssue title="关于“indent increase”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: music-rest-sixteenth
 zhTips: 音乐休息第十六
 tags: ["music"]
 search: 
+image: https://iconhelper.cn/svg/material/music-rest-sixteenth.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 3A5.56 5.56 0 0 1 11.95 4.86A1.5 1.5 0 1 0 10.5 6H10.74A6.32 6.32 0 0 0 14.25 4.93L12.9 9.1A5.56 5.56 0 0 1 9.95 10.86A1.5 1.5 0 1 0 8.5 12H8.74A6.32 6.32 0 0 0 12.25 10.93L9 21H11L17 3Z" /></svg>
 </div>
 <detail full-name='mdi-music-rest-sixteenth'></detail>
-    
+<div>
+<p>关于“music rest sixteenth”的评论:</p>
+</div>
+<Vssue title="关于“music rest sixteenth”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

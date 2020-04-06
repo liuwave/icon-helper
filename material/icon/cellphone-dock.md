@@ -5,6 +5,7 @@ name: cellphone-dock
 zhTips: 手机底座,智能手机底座
 tags: ["cellphone-phone","device-tech"]
 search: mobile-phone-dock,smartphone-dock
+image: https://iconhelper.cn/svg/material/cellphone-dock.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,15H8V5H16M16,1H8C6.89,1 6,1.89 6,3V17A2,2 0 0,0 8,19H16A2,2 0 0,0 18,17V3C18,1.89 17.1,1 16,1M8,23H16V21H8V23Z" /></svg>
 </div>
 <detail full-name='mdi-cellphone-dock'></detail>
-    
+<div>
+<p>关于“cellphone dock”的评论:</p>
+</div>
+<Vssue title="关于“cellphone dock”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

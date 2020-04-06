@@ -5,6 +5,7 @@ name: skip-backward
 zhTips: 向后跳,标题向后,上一个标题
 tags: ["home-automation"]
 search: title-backward,previous-title
+image: https://iconhelper.cn/svg/material/skip-backward.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,5V19L13,12M6,5V19H4V5M13,5V19L6,12" /></svg>
 </div>
 <detail full-name='mdi-skip-backward'></detail>
-    
+<div>
+<p>关于“skip backward”的评论:</p>
+</div>
+<Vssue title="关于“skip backward”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

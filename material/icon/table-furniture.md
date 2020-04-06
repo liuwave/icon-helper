@@ -5,6 +5,7 @@ name: table-furniture
 zhTips: 餐桌家具
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/table-furniture.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 7H22V10H20L21 19H18.5L17.94 14H6.06L5.5 19H3L4 10H2V7M17.5 10H6.5L6.29 12H17.71L17.5 10Z" /></svg>
 </div>
 <detail full-name='mdi-table-furniture'></detail>
-    
+<div>
+<p>关于“table furniture”的评论:</p>
+</div>
+<Vssue title="关于“table furniture”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

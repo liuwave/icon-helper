@@ -5,6 +5,7 @@ name: shield-edit-outline
 zhTips: 盾牌编辑轮廓
 tags: ["edit-modify"]
 search: 
+image: https://iconhelper.cn/svg/material/shield-edit-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.7 13.6L20.4 12.3C20.3 12.2 20.2 12.1 20 12.1C19.9 12.1 19.7 12.2 19.6 12.3L18.6 13.3L20.6 15.3L21.6 14.3C21.9 14.1 21.9 13.8 21.7 13.6M12 19.9V22H14.1L20.2 15.9L18.2 13.8L12 19.9M10 22.3C5.9 20.3 3 15.8 3 11V5L12 1L21 5V8.1L19 10.1V6.3L12 3.2L5 6.3V11.2C5 14.7 7.2 18.3 10 20.1V22.3Z" /></svg>
 </div>
 <detail full-name='mdi-shield-edit-outline'></detail>
-    
+<div>
+<p>关于“shield edit outline”的评论:</p>
+</div>
+<Vssue title="关于“shield edit outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

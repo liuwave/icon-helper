@@ -5,6 +5,7 @@ name: road
 zhTips: 道路,马路,高速公路,地图,路面,路线,街道,旅行,公路,路线图
 tags: ["transportation-road","transportation-road"]
 search: 
+image: https://iconhelper.cn/svg/material/road.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,16H13V20H11M11,10H13V14H11M11,4H13V8H11M4,22H20V2H4V22Z" /></svg>
 </div>
 <detail full-name='mdi-road'></detail>
-    
+<div>
+<p>关于“road”的评论:</p>
+</div>
+<Vssue title="关于“road”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

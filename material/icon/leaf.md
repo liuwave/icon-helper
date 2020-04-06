@@ -5,6 +5,7 @@ name: leaf
 zhTips: 叶,叶子,生态,植物区系,自然,植物,素食主义者,树叶
 tags: ["nature","food-drink"]
 search: 
+image: https://iconhelper.cn/svg/material/leaf.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,8C8,10 5.9,16.17 3.82,21.34L5.71,22L6.66,19.7C7.14,19.87 7.64,20 8,20C19,20 22,3 22,3C21,5 14,5.25 9,6.25C4,7.25 2,11.5 2,13.5C2,15.5 3.75,17.25 3.75,17.25C7,8 17,8 17,8Z" /></svg>
 </div>
 <detail full-name='mdi-leaf'></detail>
-    
+<div>
+<p>关于“leaf”的评论:</p>
+</div>
+<Vssue title="关于“leaf”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

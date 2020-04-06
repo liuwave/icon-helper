@@ -5,6 +5,7 @@ name: clock
 zhTips: 时钟,稍后观看,日期,时间,时间表,计时器,时间戳,手表
 tags: ["date-time"]
 search: watch-later
+image: https://iconhelper.cn/svg/material/clock.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M16.2,16.2L11,13V7H12.5V12.2L17,14.9L16.2,16.2Z" /></svg>
 </div>
 <detail full-name='mdi-clock'></detail>
-    
+<div>
+<p>关于“clock”的评论:</p>
+</div>
+<Vssue title="关于“clock”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: view-dashboard
 zhTips: 仪表板视图
 tags: ["view"]
 search: 
+image: https://iconhelper.cn/svg/material/view-dashboard.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,3V9H21V3M13,21H21V11H13M3,21H11V15H3M3,13H11V3H3V13Z" /></svg>
 </div>
 <detail full-name='mdi-view-dashboard'></detail>
-    
+<div>
+<p>关于“view dashboard”的评论:</p>
+</div>
+<Vssue title="关于“view dashboard”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

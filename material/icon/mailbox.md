@@ -5,6 +5,7 @@ name: mailbox
 zhTips: 邮箱
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/mailbox.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,4H7A5,5 0 0,0 2,9V20H20A2,2 0 0,0 22,18V9A5,5 0 0,0 17,4M10,18H4V9A3,3 0 0,1 7,6A3,3 0 0,1 10,9V18M19,15H17V13H13V11H19V15M9,11H5V9H9V11Z" /></svg>
 </div>
 <detail full-name='mdi-mailbox'></detail>
-    
+<div>
+<p>关于“mailbox”的评论:</p>
+</div>
+<Vssue title="关于“mailbox”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

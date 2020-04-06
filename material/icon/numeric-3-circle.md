@@ -5,6 +5,7 @@ name: numeric-3-circle
 zhTips: 数字3圈
 tags: ["alpha-numeric"]
 search: numeric-three-circle,number-3-circle,number-three-circle
+image: https://iconhelper.cn/svg/material/numeric-3-circle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,15V13.5A1.5,1.5 0 0,0 13.5,12A1.5,1.5 0 0,0 15,10.5V9C15,7.89 14.1,7 13,7H9V9H13V11H11V13H13V15H9V17H13A2,2 0 0,0 15,15M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2Z" /></svg>
 </div>
 <detail full-name='mdi-numeric-3-circle'></detail>
-    
+<div>
+<p>关于“numeric 3 circle”的评论:</p>
+</div>
+<Vssue title="关于“numeric 3 circle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: global-line
 zhTips: 地球,联合,世界,全球,语言
 tags: ["business"]
 search: earth,union,world,language,line
+image: https://iconhelper.cn/svg/remix/business/global-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-global-line'></detail>
-    
+<detail full-name='ri-global-line'></detail>  
+<div>
+<p>关于“global line”的评论:</p>
+</div>
+<Vssue title="关于“global line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

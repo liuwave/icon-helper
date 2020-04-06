@@ -5,6 +5,7 @@ name: numeric-8-box
 zhTips: 数字8框
 tags: ["alpha-numeric","alpha-numeric"]
 search: numeric-eight-box,number-8-box
+image: https://iconhelper.cn/svg/material/numeric-8-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,3A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3H19M11,17H13A2,2 0 0,0 15,15V13.5A1.5,1.5 0 0,0 13.5,12A1.5,1.5 0 0,0 15,10.5V9C15,7.89 14.1,7 13,7H11A2,2 0 0,0 9,9V10.5A1.5,1.5 0 0,0 10.5,12A1.5,1.5 0 0,0 9,13.5V15C9,16.11 9.9,17 11,17M11,13H13V15H11V13M11,9H13V11H11V9Z" /></svg>
 </div>
 <detail full-name='mdi-numeric-8-box'></detail>
-    
+<div>
+<p>关于“numeric 8 box”的评论:</p>
+</div>
+<Vssue title="关于“numeric 8 box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

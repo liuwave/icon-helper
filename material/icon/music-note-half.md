@@ -5,6 +5,7 @@ name: music-note-half
 zhTips: 音符一半
 tags: ["audio","music"]
 search: 
+image: https://iconhelper.cn/svg/material/music-note-half.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 3H14V13.56A3.96 3.96 0 0 0 12 13A4 4 0 1 0 16 17V3M12 19A2 2 0 1 1 14 17A2 2 0 0 1 12 19Z" /></svg>
 </div>
 <detail full-name='mdi-music-note-half'></detail>
-    
+<div>
+<p>关于“music note half”的评论:</p>
+</div>
+<Vssue title="关于“music note half”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

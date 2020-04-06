@@ -5,6 +5,7 @@ name: book-minus-multiple
 zhTips: 减去本书的倍数
 tags: []
 search: books-minus
+image: https://iconhelper.cn/svg/material/book-minus-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 20V6H3V20A2 2 0 0 0 5 22H13V20M19 2H14V7L12 5.5L10 7V2H9A2 2 0 0 0 7 4V16A2 2 0 0 0 9 18H13V16H21V4A2 2 0 0 0 19 2M23 20H15V18H23Z" /></svg>
 </div>
 <detail full-name='mdi-book-minus-multiple'></detail>
-    
+<div>
+<p>关于“book minus multiple”的评论:</p>
+</div>
+<Vssue title="关于“book minus multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

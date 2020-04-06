@@ -5,6 +5,7 @@ name: elevation-decline
 zhTips: 海拔下降
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/elevation-decline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,21H3V11.25L9.45,15L13.22,12.8L21,17.29V21M3,8.94V6.75L9.45,10.5L13.22,8.3L21,12.79V15L13.22,10.5L9.45,12.67L3,8.94Z" /></svg>
 </div>
 <detail full-name='mdi-elevation-decline'></detail>
-    
+<div>
+<p>关于“elevation decline”的评论:</p>
+</div>
+<Vssue title="关于“elevation decline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

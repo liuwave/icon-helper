@@ -5,6 +5,7 @@ name: chevron-down
 zhTips: V形向下,展开更多,键盘向下箭头,下拉,位移
 tags: ["arrow"]
 search: expand-more,keyboard-arrow-down
+image: https://iconhelper.cn/svg/material/chevron-down.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z" /></svg>
 </div>
 <detail full-name='mdi-chevron-down'></detail>
-    
+<div>
+<p>关于“chevron down”的评论:</p>
+</div>
+<Vssue title="关于“chevron down”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

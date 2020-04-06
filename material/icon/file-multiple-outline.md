@@ -5,6 +5,7 @@ name: file-multiple-outline
 zhTips: 归档多个轮廓
 tags: ["files-folders"]
 search: 
+image: https://iconhelper.cn/svg/material/file-multiple-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 0H8C6.9 0 6 .9 6 2V18C6 19.1 6.9 20 8 20H20C21.1 20 22 19.1 22 18V6L16 0M20 18H8V2H15V7H20V18M4 4V22H20V24H4C2.9 24 2 23.1 2 22V4H4Z" /></svg>
 </div>
 <detail full-name='mdi-file-multiple-outline'></detail>
-    
+<div>
+<p>关于“file multiple outline”的评论:</p>
+</div>
+<Vssue title="关于“file multiple outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

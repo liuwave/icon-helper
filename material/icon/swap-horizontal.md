@@ -5,6 +5,7 @@ name: swap-horizontal
 zhTips: 交换水平,向左箭头向右
 tags: ["arrow"]
 search: arrow-left-right
+image: https://iconhelper.cn/svg/material/swap-horizontal.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,9L17,5V8H10V10H17V13M7,11L3,15L7,19V16H14V14H7V11Z" /></svg>
 </div>
 <detail full-name='mdi-swap-horizontal'></detail>
-    
+<div>
+<p>关于“swap horizontal”的评论:</p>
+</div>
+<Vssue title="关于“swap horizontal”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

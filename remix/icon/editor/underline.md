@@ -5,6 +5,7 @@ name: underline
 zhTips: 下划线,编辑,重点,格式,文本,写作,下划线标志
 tags: ["editor"]
 search: 
+image: https://iconhelper.cn/svg/remix/editor/underline.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-underline'></detail>
-    
+<detail full-name='ri-underline'></detail>  
+<div>
+<p>关于“underline”的评论:</p>
+</div>
+<Vssue title="关于“underline”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

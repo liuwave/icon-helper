@@ -5,6 +5,7 @@ name: font-size-2
 zhTips: 字号,字体大小
 tags: ["editor"]
 search: 
+image: https://iconhelper.cn/svg/remix/editor/font-size-2.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-font-size-2'></detail>
-    
+<detail full-name='ri-font-size-2'></detail>  
+<div>
+<p>关于“font size 2”的评论:</p>
+</div>
+<Vssue title="关于“font size 2”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

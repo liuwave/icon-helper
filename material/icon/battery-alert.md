@@ -5,6 +5,7 @@ name: battery-alert
 zhTips: 电池警报,电池警告
 tags: ["battery","home-automation","alert-error"]
 search: battery-warning
+image: https://iconhelper.cn/svg/material/battery-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,14H11V9H13M13,18H11V16H13M16.67,4H15V2H9V4H7.33A1.33,1.33 0 0,0 6,5.33V20.67C6,21.4 6.6,22 7.33,22H16.67A1.33,1.33 0 0,0 18,20.67V5.33C18,4.6 17.4,4 16.67,4Z" /></svg>
 </div>
 <detail full-name='mdi-battery-alert'></detail>
-    
+<div>
+<p>关于“battery alert”的评论:</p>
+</div>
+<Vssue title="关于“battery alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

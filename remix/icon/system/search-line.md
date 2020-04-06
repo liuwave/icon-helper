@@ -5,6 +5,7 @@ name: search-line
 zhTips: 搜索,放大镜
 tags: ["system"]
 search: line
+image: https://iconhelper.cn/svg/remix/system/search-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-search-line'></detail>
-    
+<detail full-name='ri-search-line'></detail>  
+<div>
+<p>关于“search line”的评论:</p>
+</div>
+<Vssue title="关于“search line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

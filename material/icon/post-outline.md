@@ -5,6 +5,7 @@ name: post-outline
 zhTips: 帖子轮廓,博客轮廓
 tags: []
 search: blog-outline
+image: https://iconhelper.cn/svg/material/post-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 5V19H5V5H19M21 3H3V21H21V3M17 17H7V16H17V17M17 15H7V14H17V15M17 12H7V7H17V12Z" /></svg>
 </div>
 <detail full-name='mdi-post-outline'></detail>
-    
+<div>
+<p>关于“post outline”的评论:</p>
+</div>
+<Vssue title="关于“post outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

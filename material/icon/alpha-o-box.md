@@ -5,6 +5,7 @@ name: alpha-o-box
 zhTips: 字母o框
 tags: ["alpha-numeric"]
 search: alphabet-o-box,letter-o-box
+image: https://iconhelper.cn/svg/material/alpha-o-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,7A2,2 0 0,0 9,9V15A2,2 0 0,0 11,17H13A2,2 0 0,0 15,15V9A2,2 0 0,0 13,7H11M11,9H13V15H11V9M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-o-box'></detail>
-    
+<div>
+<p>关于“alpha o box”的评论:</p>
+</div>
+<Vssue title="关于“alpha o box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

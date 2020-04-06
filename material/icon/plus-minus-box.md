@@ -5,6 +5,7 @@ name: plus-minus-box
 zhTips: 加减号框
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/plus-minus-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,3C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3H5M11,6H13V9H16V11H13V14H11V11H8V9H11V6M8,16H16V18H8V16Z" /></svg>
 </div>
 <detail full-name='mdi-plus-minus-box'></detail>
-    
+<div>
+<p>关于“plus minus box”的评论:</p>
+</div>
+<Vssue title="关于“plus minus box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

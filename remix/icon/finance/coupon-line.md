@@ -5,6 +5,7 @@ name: coupon-line
 zhTips: 票,优惠券,代金券
 tags: ["finance"]
 search: ticket,line
+image: https://iconhelper.cn/svg/remix/finance/coupon-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-coupon-line'></detail>
-    
+<detail full-name='ri-coupon-line'></detail>  
+<div>
+<p>关于“coupon line”的评论:</p>
+</div>
+<Vssue title="关于“coupon line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

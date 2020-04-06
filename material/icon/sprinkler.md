@@ -5,6 +5,7 @@ name: sprinkler
 zhTips: 喷灌,灌溉
 tags: ["home-automation"]
 search: irrigation
+image: https://iconhelper.cn/svg/material/sprinkler.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 7H13V9H11V7M5 22H9V10H5V22M14 11H16V9H14V11M17 10H19V8H17V10M17 5V7H19V5H17M14 8H16V6H14V8M17 13H19V11H17V13M5 7H5.33L6 9H8L8.67 7H9V6H5V7Z" /></svg>
 </div>
 <detail full-name='mdi-sprinkler'></detail>
-    
+<div>
+<p>关于“sprinkler”的评论:</p>
+</div>
+<Vssue title="关于“sprinkler”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

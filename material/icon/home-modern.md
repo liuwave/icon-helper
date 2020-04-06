@@ -5,6 +5,7 @@ name: home-modern
 zhTips: 现代家庭,现代住宅
 tags: ["home-automation"]
 search: house-modern
+image: https://iconhelper.cn/svg/material/home-modern.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,21V8A2,2 0 0,1 8,6L16,3V6A2,2 0 0,1 18,8V21H12V16H8V21H6M14,19H16V16H14V19M8,13H10V9H8V13M12,13H16V9H12V13Z" /></svg>
 </div>
 <detail full-name='mdi-home-modern'></detail>
-    
+<div>
+<p>关于“home modern”的评论:</p>
+</div>
+<Vssue title="关于“home modern”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

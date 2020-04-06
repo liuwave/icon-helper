@@ -5,6 +5,7 @@ name: voice-recognition-line
 zhTips: 语音识别
 tags: ["others"]
 search: asr,line
+image: https://iconhelper.cn/svg/remix/others/voice-recognition-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-voice-recognition-line'></detail>
-    
+<detail full-name='ri-voice-recognition-line'></detail>  
+<div>
+<p>关于“voice recognition line”的评论:</p>
+</div>
+<Vssue title="关于“voice recognition line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

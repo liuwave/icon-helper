@@ -5,6 +5,7 @@ name: check-box-multiple-outline
 zhTips: 复选框多个轮廓,复选框轮廓,勾选框多个轮廓
 tags: []
 search: check-boxes-outline,tick-box-multiple-outline
+image: https://iconhelper.cn/svg/material/check-box-multiple-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,2H8A2,2 0 0,0 6,4V16A2,2 0 0,0 8,18H20A2,2 0 0,0 22,16V4A2,2 0 0,0 20,2M20,16H8V4H20V16M16,20V22H4A2,2 0 0,1 2,20V7H4V20H16M18.53,8.06L17.47,7L12.59,11.88L10.47,9.76L9.41,10.82L12.59,14L18.53,8.06Z" /></svg>
 </div>
 <detail full-name='mdi-check-box-multiple-outline'></detail>
-    
+<div>
+<p>关于“check box multiple outline”的评论:</p>
+</div>
+<Vssue title="关于“check box multiple outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: dolby
 zhTips: 杜比
 tags: ["audio","brand-logo","home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/dolby.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,5V19H22V5H2M6,17H4V7H6C8.86,7.09 11.1,9.33 11,12C11.1,14.67 8.86,16.91 6,17M20,17H18C15.14,16.91 12.9,14.67 13,12C12.9,9.33 15.14,7.09 18,7H20V17Z" /></svg>
 </div>
 <detail full-name='mdi-dolby'></detail>
-    
+<div>
+<p>关于“dolby”的评论:</p>
+</div>
+<Vssue title="关于“dolby”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: lipstick
 zhTips: 口红
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/lipstick.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 23C8.45 23 8 22.55 8 22V13C8 12.45 8.45 12 9 12H15C15.55 12 16 12.45 16 13V22C16 22.55 15.55 23 15 23H9M10 11C9.45 11 9 10.55 9 10V5.25C9 5.25 11 3 11.75 1C12.83 1.67 13.92 2.33 14.46 3.83C15 5.33 15 7.67 15 10C15 10.55 14.55 11 14 11H10Z" /></svg>
 </div>
 <detail full-name='mdi-lipstick'></detail>
-    
+<div>
+<p>关于“lipstick”的评论:</p>
+</div>
+<Vssue title="关于“lipstick”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

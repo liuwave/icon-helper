@@ -5,6 +5,7 @@ name: file-alert-outline
 zhTips: 文件警报轮廓,文件警告轮廓
 tags: ["files-folders","alert-error"]
 search: file-warning-outline
+image: https://iconhelper.cn/svg/material/file-alert-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,18H8V16H10V18M10,14H8V9H10V14M14,2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2M18,20H6V4H13V9H18V20Z" /></svg>
 </div>
 <detail full-name='mdi-file-alert-outline'></detail>
-    
+<div>
+<p>关于“file alert outline”的评论:</p>
+</div>
+<Vssue title="关于“file alert outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: creative-commons-by-line
 zhTips: 版权,知识共享,署名
 tags: ["business"]
 search: attribution,copyright,line
+image: https://iconhelper.cn/svg/remix/business/creative-commons-by-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-creative-commons-by-line'></detail>
-    
+<detail full-name='ri-creative-commons-by-line'></detail>  
+<div>
+<p>关于“creative commons by line”的评论:</p>
+</div>
+<Vssue title="关于“creative commons by line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: plus-circle
 zhTips: 加圆圈
 tags: []
 search: add-circle
+image: https://iconhelper.cn/svg/material/plus-circle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,13H13V17H11V13H7V11H11V7H13V11H17M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z" /></svg>
 </div>
 <detail full-name='mdi-plus-circle'></detail>
-    
+<div>
+<p>关于“plus circle”的评论:</p>
+</div>
+<Vssue title="关于“plus circle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

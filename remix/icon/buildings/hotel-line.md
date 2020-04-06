@@ -5,6 +5,7 @@ name: hotel-line
 zhTips: 建筑,酒店,楼,办公楼,写字楼,企业
 tags: ["buildings"]
 search: building,hotel,office,enterprise,tavern,line
+image: https://iconhelper.cn/svg/remix/buildings/hotel-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-hotel-line'></detail>
-    
+<detail full-name='ri-hotel-line'></detail>  
+<div>
+<p>关于“hotel line”的评论:</p>
+</div>
+<Vssue title="关于“hotel line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

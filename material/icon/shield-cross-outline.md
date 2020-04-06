@@ -5,6 +5,7 @@ name: shield-cross-outline
 zhTips: 盾牌交叉轮廓,盾牌圣堂武士轮廓,盾牌基督教轮廓
 tags: ["gaming-rpg","religion"]
 search: shield-templar-outline,shield-christianity-outline
+image: https://iconhelper.cn/svg/material/shield-cross-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,11C21,16.5 17.2,21.7 12,23C6.8,21.7 3,16.5 3,11V5L12,1L21,5V11M12,21C15.8,20 19,15.5 19,11.2V6.3L12,3.2L5,6.3V11.2C5,15.5 8.3,20 12,21M16,9H13V6H11V9H8V11H11V19H13V11H16V9Z" /></svg>
 </div>
 <detail full-name='mdi-shield-cross-outline'></detail>
-    
+<div>
+<p>关于“shield cross outline”的评论:</p>
+</div>
+<Vssue title="关于“shield cross outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

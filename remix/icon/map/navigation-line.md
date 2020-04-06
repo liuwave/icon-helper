@@ -5,6 +5,7 @@ name: navigation-line
 zhTips: 导航
 tags: ["map"]
 search: gps,line
+image: https://iconhelper.cn/svg/remix/map/navigation-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-navigation-line'></detail>
-    
+<detail full-name='ri-navigation-line'></detail>  
+<div>
+<p>关于“navigation line”的评论:</p>
+</div>
+<Vssue title="关于“navigation line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

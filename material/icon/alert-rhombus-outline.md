@@ -5,6 +5,7 @@ name: alert-rhombus-outline
 zhTips: 菱形警戒线
 tags: ["alert-error"]
 search: 
+image: https://iconhelper.cn/svg/material/alert-rhombus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.54 10.8L13.24 2.5A1.63 1.63 0 0 0 10.84 2.5L2.54 10.8A1.63 1.63 0 0 0 2.54 13.2L10.84 21.5A1.63 1.63 0 0 0 13.24 21.5L21.54 13.2A1.83 1.83 0 0 0 21.54 10.8M20.34 12L12 20.3L3.74 12L12 3.7M13 17H11V15H13M13 13H11V7H13Z" /></svg>
 </div>
 <detail full-name='mdi-alert-rhombus-outline'></detail>
-    
+<div>
+<p>关于“alert rhombus outline”的评论:</p>
+</div>
+<Vssue title="关于“alert rhombus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

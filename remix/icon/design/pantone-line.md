@@ -5,6 +5,7 @@ name: pantone-line
 zhTips: 色板,潘通色,色号
 tags: ["design"]
 search: line
+image: https://iconhelper.cn/svg/remix/design/pantone-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-pantone-line'></detail>
-    
+<detail full-name='ri-pantone-line'></detail>  
+<div>
+<p>关于“pantone line”的评论:</p>
+</div>
+<Vssue title="关于“pantone line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

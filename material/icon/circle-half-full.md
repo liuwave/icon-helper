@@ -5,6 +5,7 @@ name: circle-half-full
 zhTips: 圈半满
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/circle-half-full.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12A10 10 0 0 0 12 22A10 10 0 0 0 22 12A10 10 0 0 0 12 2M12 4A8 8 0 0 1 20 12A8 8 0 0 1 12 20V4Z" /></svg>
 </div>
 <detail full-name='mdi-circle-half-full'></detail>
-    
+<div>
+<p>关于“circle half full”的评论:</p>
+</div>
+<Vssue title="关于“circle half full”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

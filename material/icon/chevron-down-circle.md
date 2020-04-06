@@ -5,6 +5,7 @@ name: chevron-down-circle
 zhTips: V形底圈
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/chevron-down-circle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M6,10L12,16L18,10L16.6,8.6L12,13.2L7.4,8.6L6,10Z" /></svg>
 </div>
 <detail full-name='mdi-chevron-down-circle'></detail>
-    
+<div>
+<p>关于“chevron down circle”的评论:</p>
+</div>
+<Vssue title="关于“chevron down circle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

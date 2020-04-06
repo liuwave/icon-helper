@@ -5,6 +5,7 @@ name: camera-lens-line
 zhTips: 照相机,拍照,照片,朋友圈
 tags: ["media"]
 search: aperture,photo,line
+image: https://iconhelper.cn/svg/remix/media/camera-lens-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-camera-lens-line'></detail>
-    
+<detail full-name='ri-camera-lens-line'></detail>  
+<div>
+<p>关于“camera lens line”的评论:</p>
+</div>
+<Vssue title="关于“camera lens line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: chevron-up
 zhTips: V形,向上缩小,键盘箭头向上,插入符号
 tags: ["arrow","math"]
 search: expand-less,keyboard-arrow-up,caret
+image: https://iconhelper.cn/svg/material/chevron-up.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.41,15.41L12,10.83L16.59,15.41L18,14L12,8L6,14L7.41,15.41Z" /></svg>
 </div>
 <detail full-name='mdi-chevron-up'></detail>
-    
+<div>
+<p>关于“chevron up”的评论:</p>
+</div>
+<Vssue title="关于“chevron up”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

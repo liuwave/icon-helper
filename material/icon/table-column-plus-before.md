@@ -5,6 +5,7 @@ name: table-column-plus-before
 zhTips: 表列加之前
 tags: ["text-content-format"]
 search: table-column-add-before
+image: https://iconhelper.cn/svg/material/table-column-plus-before.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,2A2,2 0 0,0 11,4V20A2,2 0 0,0 13,22H22V2H13M20,10V14H13V10H20M20,16V20H13V16H20M20,4V8H13V4H20M9,11H6V8H4V11H1V13H4V16H6V13H9V11Z" /></svg>
 </div>
 <detail full-name='mdi-table-column-plus-before'></detail>
-    
+<div>
+<p>关于“table column plus before”的评论:</p>
+</div>
+<Vssue title="关于“table column plus before”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

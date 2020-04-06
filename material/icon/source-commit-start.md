@@ -5,6 +5,7 @@ name: source-commit-start
 zhTips: 源提交开始
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/source-commit-start.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,7A5,5 0 0,1 17,12C17,14.42 15.28,16.44 13,16.9V21H11V16.9C8.72,16.44 7,14.42 7,12A5,5 0 0,1 12,7M12,9A3,3 0 0,0 9,12A3,3 0 0,0 12,15A3,3 0 0,0 15,12A3,3 0 0,0 12,9Z" /></svg>
 </div>
 <detail full-name='mdi-source-commit-start'></detail>
-    
+<div>
+<p>关于“source commit start”的评论:</p>
+</div>
+<Vssue title="关于“source commit start”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

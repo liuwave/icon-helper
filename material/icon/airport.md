@@ -5,6 +5,7 @@ name: airport
 zhTips: 机场
 tags: ["places","transportation-flying"]
 search: 
+image: https://iconhelper.cn/svg/material/airport.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.97,5.92C14.83,5.41 14.3,5.1 13.79,5.24L10.39,6.15L5.95,2.03L4.72,2.36L7.38,6.95L4.19,7.8L2.93,6.82L2,7.07L3.66,9.95L14.28,7.11C14.8,6.96 15.1,6.43 14.97,5.92M21,10L20,12H15L14,10L15,9H17V7H18V9H20L21,10M22,20V22H2V20H15V13H20V20H22Z" /></svg>
 </div>
 <detail full-name='mdi-airport'></detail>
-    
+<div>
+<p>关于“airport”的评论:</p>
+</div>
+<Vssue title="关于“airport”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

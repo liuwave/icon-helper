@@ -5,6 +5,7 @@ name: volume-minus
 zhTips: 体积减,体积减少
 tags: ["audio","home-automation","cellphone-phone"]
 search: volume-decrease
+image: https://iconhelper.cn/svg/material/volume-minus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,9H7L12,4V20L7,15H3V9M14,11H22V13H14V11Z" /></svg>
 </div>
 <detail full-name='mdi-volume-minus'></detail>
-    
+<div>
+<p>关于“volume minus”的评论:</p>
+</div>
+<Vssue title="关于“volume minus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

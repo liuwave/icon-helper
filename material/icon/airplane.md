@@ -5,6 +5,7 @@ name: airplane
 zhTips: 飞机,主动飞机模式,飞行,当地机场,飞行模式
 tags: ["transportation-flying","navigation"]
 search: aeroplane,airplanemode-active,flight,local-airport,flight-mode,plane
+image: https://iconhelper.cn/svg/material/airplane.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,16V14L13,9V3.5A1.5,1.5 0 0,0 11.5,2A1.5,1.5 0 0,0 10,3.5V9L2,14V16L10,13.5V19L8,20.5V22L11.5,21L15,22V20.5L13,19V13.5L21,16Z" /></svg>
 </div>
 <detail full-name='mdi-airplane'></detail>
-    
+<div>
+<p>关于“airplane”的评论:</p>
+</div>
+<Vssue title="关于“airplane”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: glass-cocktail
 zhTips: 玻璃鸡尾酒,当地酒吧,鸡尾酒,马提尼酒
 tags: ["food-drink"]
 search: local-bar,cocktail,martini
+image: https://iconhelper.cn/svg/material/glass-cocktail.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.5,7L5.5,5H18.5L16.5,7M11,13V19H6V21H18V19H13V13L21,5V3H3V5L11,13Z" /></svg>
 </div>
 <detail full-name='mdi-glass-cocktail'></detail>
-    
+<div>
+<p>关于“glass cocktail”的评论:</p>
+</div>
+<Vssue title="关于“glass cocktail”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

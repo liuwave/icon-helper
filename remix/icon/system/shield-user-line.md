@@ -5,6 +5,7 @@ name: shield-user-line
 zhTips: 盾牌,卫士,安全,防御,用户
 tags: ["system"]
 search: safety,protect,user protected,guarantor,line
+image: https://iconhelper.cn/svg/remix/system/shield-user-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-shield-user-line'></detail>
-    
+<detail full-name='ri-shield-user-line'></detail>  
+<div>
+<p>关于“shield user line”的评论:</p>
+</div>
+<Vssue title="关于“shield user line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

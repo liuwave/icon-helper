@@ -5,6 +5,7 @@ name: home-variant-outline
 zhTips: 房屋简介
 tags: ["home-automation"]
 search: house-variant-outline
+image: https://iconhelper.cn/svg/material/home-variant-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,13H15V19H18V10L12,5.5L6,10V19H9V13M4,21V9L12,3L20,9V21H4Z" /></svg>
 </div>
 <detail full-name='mdi-home-variant-outline'></detail>
-    
+<div>
+<p>关于“home variant outline”的评论:</p>
+</div>
+<Vssue title="关于“home variant outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

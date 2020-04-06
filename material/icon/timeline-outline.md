@@ -5,6 +5,7 @@ name: timeline-outline
 zhTips: 时间线轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/timeline-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 2V8H2V2H4M2 22V16H4V22H2M5 12C5 13.11 4.11 14 3 14C1.9 14 1 13.11 1 12C1 10.9 1.9 10 3 10C4.11 10 5 10.9 5 12M24 6V18C24 19.11 23.11 20 22 20H10C8.9 20 8 19.11 8 18V14L6 12L8 10V6C8 4.89 8.9 4 10 4H22C23.11 4 24 4.89 24 6M10 6V18H22V6H10Z" /></svg>
 </div>
 <detail full-name='mdi-timeline-outline'></detail>
-    
+<div>
+<p>关于“timeline outline”的评论:</p>
+</div>
+<Vssue title="关于“timeline outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

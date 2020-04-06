@@ -5,6 +5,7 @@ name: projector-fill
 zhTips: 投影仪,会议室
 tags: ["business"]
 search: projection,meeting,fill
+image: https://iconhelper.cn/svg/remix/business/projector-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-projector-fill'></detail>
-    
+<detail full-name='ri-projector-fill'></detail>  
+<div>
+<p>关于“projector fill”的评论:</p>
+</div>
+<Vssue title="关于“projector fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

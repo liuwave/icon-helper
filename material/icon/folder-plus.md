@@ -5,6 +5,7 @@ name: folder-plus
 zhTips: 文件夹加上,创建新文件夹,文件夹添加
 tags: ["files-folders"]
 search: create-new-folder,folder-add
+image: https://iconhelper.cn/svg/material/folder-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,4L12,6H20A2,2 0 0,1 22,8V18A2,2 0 0,1 20,20H4C2.89,20 2,19.1 2,18V6C2,4.89 2.89,4 4,4H10M15,9V12H12V14H15V17H17V14H20V12H17V9H15Z" /></svg>
 </div>
 <detail full-name='mdi-folder-plus'></detail>
-    
+<div>
+<p>关于“folder plus”的评论:</p>
+</div>
+<Vssue title="关于“folder plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

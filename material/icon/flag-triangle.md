@@ -5,6 +5,7 @@ name: flag-triangle
 zhTips: 标志三角形,里程碑
 tags: []
 search: milestone
+image: https://iconhelper.cn/svg/material/flag-triangle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,2H9V22H7V2M19,9L11,14.6V3.4L19,9Z" /></svg>
 </div>
 <detail full-name='mdi-flag-triangle'></detail>
-    
+<div>
+<p>关于“flag triangle”的评论:</p>
+</div>
+<Vssue title="关于“flag triangle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

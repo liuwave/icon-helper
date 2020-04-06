@@ -5,6 +5,7 @@ name: flag-plus-outline
 zhTips: 标志加轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/flag-plus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 16L12.6 14H7V21H5V4H14L14.4 6H20V13.09C19.67 13.04 19.34 13 19 13C18.66 13 18.33 13.04 18 13.09V8H12.76L12.36 6H7V12H14.24L14.64 14H15.69C14.92 14.5 14.27 15.2 13.81 16H13M18 15V18H15V20H18V23H20V20H23V18H20V15H18Z" /></svg>
 </div>
 <detail full-name='mdi-flag-plus-outline'></detail>
-    
+<div>
+<p>关于“flag plus outline”的评论:</p>
+</div>
+<Vssue title="关于“flag plus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

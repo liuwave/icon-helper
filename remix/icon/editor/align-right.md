@@ -5,6 +5,7 @@ name: align-right
 zhTips: 右对齐
 tags: ["editor"]
 search: 
+image: https://iconhelper.cn/svg/remix/editor/align-right.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-align-right'></detail>
-    
+<detail full-name='ri-align-right'></detail>  
+<div>
+<p>关于“align right”的评论:</p>
+</div>
+<Vssue title="关于“align right”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

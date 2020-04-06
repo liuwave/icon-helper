@@ -5,6 +5,7 @@ name: replay
 zhTips: 重播
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/replay.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,5V1L7,6L12,11V7A6,6 0 0,1 18,13A6,6 0 0,1 12,19A6,6 0 0,1 6,13H4A8,8 0 0,0 12,21A8,8 0 0,0 20,13A8,8 0 0,0 12,5Z" /></svg>
 </div>
 <detail full-name='mdi-replay'></detail>
-    
+<div>
+<p>关于“replay”的评论:</p>
+</div>
+<Vssue title="关于“replay”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

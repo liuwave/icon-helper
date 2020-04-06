@@ -5,6 +5,7 @@ name: microphone
 zhTips: 麦克风,键盘声音,语音,音频,播客,唱片,唱歌,声音,话筒,录音
 tags: ["music"]
 search: keyboard-voice
+image: https://iconhelper.cn/svg/material/microphone.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2A3,3 0 0,1 15,5V11A3,3 0 0,1 12,14A3,3 0 0,1 9,11V5A3,3 0 0,1 12,2M19,11C19,14.53 16.39,17.44 13,17.93V21H11V17.93C7.61,17.44 5,14.53 5,11H7A5,5 0 0,0 12,16A5,5 0 0,0 17,11H19Z" /></svg>
 </div>
 <detail full-name='mdi-microphone'></detail>
-    
+<div>
+<p>关于“microphone”的评论:</p>
+</div>
+<Vssue title="关于“microphone”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

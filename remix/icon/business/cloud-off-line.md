@@ -5,6 +5,7 @@ name: cloud-off-line
 zhTips: offline-mode,connection-fail,云端,断网,无信号,连接失败
 tags: ["business"]
 search: slash,weather,line
+image: https://iconhelper.cn/svg/remix/business/cloud-off-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-cloud-off-line'></detail>
-    
+<detail full-name='ri-cloud-off-line'></detail>  
+<div>
+<p>关于“cloud off line”的评论:</p>
+</div>
+<Vssue title="关于“cloud off line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

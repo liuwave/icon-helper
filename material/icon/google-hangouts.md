@@ -5,6 +5,7 @@ name: google-hangouts
 zhTips: Google视频群聊
 tags: ["brand-logo"]
 search: 
+image: https://iconhelper.cn/svg/material/google-hangouts.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,11L14,13H12.5L13.5,11H12V8H15M11,11L10,13H8.5L9.5,11H8V8H11M11.5,2A8.5,8.5 0 0,0 3,10.5A8.5,8.5 0 0,0 11.5,19H12V22.5C16.86,20.15 20,15 20,10.5C20,5.8 16.19,2 11.5,2Z" /></svg>
 </div>
 <detail full-name='mdi-google-hangouts'></detail>
-    
+<div>
+<p>关于“google hangouts”的评论:</p>
+</div>
+<Vssue title="关于“google hangouts”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

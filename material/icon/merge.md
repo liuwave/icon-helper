@@ -5,6 +5,7 @@ name: merge
 zhTips: 合并
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/merge.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 17L12 13H15.2C15.6 14.2 16.7 15 18 15C19.7 15 21 13.7 21 12S19.7 9 18 9C16.7 9 15.6 9.8 15.2 11H12L8 7V3H3V8H6L10.2 12L6 16H3V21H8V17Z" /></svg>
 </div>
 <detail full-name='mdi-merge'></detail>
-    
+<div>
+<p>关于“merge”的评论:</p>
+</div>
+<Vssue title="关于“merge”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

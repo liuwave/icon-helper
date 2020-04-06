@@ -5,6 +5,7 @@ name: perspective-more
 zhTips: 透视图更多,透视图增加
 tags: ["math"]
 search: perspective-increase
+image: https://iconhelper.cn/svg/material/perspective-more.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.56,12L19.23,20H4.78L7.44,12H16.56M17,1L13,5L17,9V6H21V4H17V1M7,1V4H3V6H7V9L11,5L7,1M18,10H6L2,22H22L18,10Z" /></svg>
 </div>
 <detail full-name='mdi-perspective-more'></detail>
-    
+<div>
+<p>关于“perspective more”的评论:</p>
+</div>
+<Vssue title="关于“perspective more”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

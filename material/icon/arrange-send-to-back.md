@@ -5,6 +5,7 @@ name: arrange-send-to-back
 zhTips: 安排发送回
 tags: ["arrange","geographic-information-system"]
 search: 
+image: https://iconhelper.cn/svg/material/arrange-send-to-back.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,2H11V11H2V2M9,4H4V9H9V4M22,13V22H13V13H22M15,20H20V15H15V20M16,8V11H13V8H16M11,16H8V13H11V16Z" /></svg>
 </div>
 <detail full-name='mdi-arrange-send-to-back'></detail>
-    
+<div>
+<p>关于“arrange send to back”的评论:</p>
+</div>
+<Vssue title="关于“arrange send to back”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

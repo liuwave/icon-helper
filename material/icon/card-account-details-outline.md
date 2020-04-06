@@ -5,6 +5,7 @@ name: card-account-details-outline
 zhTips: 卡帐户详细信息轮廓,识别卡概述,用户卡概述轮廓,人卡详细说明轮廓,驾驶执照轮廓,名片轮廓
 tags: ["account-user"]
 search: identification-card-outline,user-card-details-outline,id-card-outline,person-card-details-outline,drivers-license-outline,business-card-outline
+image: https://iconhelper.cn/svg/material/card-account-details-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,3H2C0.91,3.04 0.04,3.91 0,5V19C0.04,20.09 0.91,20.96 2,21H22C23.09,20.96 23.96,20.09 24,19V5C23.96,3.91 23.09,3.04 22,3M22,19H2V5H22V19M14,17V15.75C14,14.09 10.66,13.25 9,13.25C7.34,13.25 4,14.09 4,15.75V17H14M9,7A2.5,2.5 0 0,0 6.5,9.5A2.5,2.5 0 0,0 9,12A2.5,2.5 0 0,0 11.5,9.5A2.5,2.5 0 0,0 9,7M14,7V8H20V7H14M14,9V10H20V9H14M14,11V12H18V11H14" /></svg>
 </div>
 <detail full-name='mdi-card-account-details-outline'></detail>
-    
+<div>
+<p>关于“card account details outline”的评论:</p>
+</div>
+<Vssue title="关于“card account details outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: window-shutter-alert
 zhTips: 百叶窗警报
 tags: ["home-automation","alert-error"]
 search: 
+image: https://iconhelper.cn/svg/material/window-shutter-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 4H20V8H18V20H16V8H6V20H4V8H2V4M7 9H15V11H7V9M7 12H15V14H7V12M20 19V17H22V19H20M20 15V10H22V15H20Z" /></svg>
 </div>
 <detail full-name='mdi-window-shutter-alert'></detail>
-    
+<div>
+<p>关于“window shutter alert”的评论:</p>
+</div>
+<Vssue title="关于“window shutter alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

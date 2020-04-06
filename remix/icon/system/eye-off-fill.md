@@ -5,6 +5,7 @@ name: eye-off-fill
 zhTips: 眼睛,不可见,关闭,禁止
 tags: ["system"]
 search: slash,fill
+image: https://iconhelper.cn/svg/remix/system/eye-off-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-eye-off-fill'></detail>
-    
+<detail full-name='ri-eye-off-fill'></detail>  
+<div>
+<p>关于“eye off fill”的评论:</p>
+</div>
+<Vssue title="关于“eye off fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

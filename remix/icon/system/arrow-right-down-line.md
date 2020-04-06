@@ -5,6 +5,7 @@ name: arrow-right-down-line
 zhTips: 右下
 tags: ["system"]
 search: corner,line
+image: https://iconhelper.cn/svg/remix/system/arrow-right-down-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-arrow-right-down-line'></detail>
-    
+<detail full-name='ri-arrow-right-down-line'></detail>  
+<div>
+<p>关于“arrow right down line”的评论:</p>
+</div>
+<Vssue title="关于“arrow right down line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

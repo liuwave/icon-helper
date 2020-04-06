@@ -5,6 +5,7 @@ name: lighthouse-on
 zhTips: 灯塔,信标
 tags: []
 search: beacon
+image: https://iconhelper.cn/svg/material/lighthouse-on.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1,10V2L10,5V7L1,10M8,10V8H13V4H8V3L12,1L16,3V4H15V8H16V10H14.74L8.44,13.64L9,10H8M7,23L7.04,22.76L16.15,17.5L16.67,20.88L13,23H7M8.05,16.17L15.31,12L15.83,15.37L7.43,20.22L8.05,16.17Z" /></svg>
 </div>
 <detail full-name='mdi-lighthouse-on'></detail>
-    
+<div>
+<p>关于“lighthouse on”的评论:</p>
+</div>
+<Vssue title="关于“lighthouse on”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

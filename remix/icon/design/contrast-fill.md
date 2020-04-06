@@ -5,6 +5,7 @@ name: contrast-fill
 zhTips: 对比度,亮度,色调
 tags: ["design"]
 search: brightness,tonalit,fill
+image: https://iconhelper.cn/svg/remix/design/contrast-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-contrast-fill'></detail>
-    
+<detail full-name='ri-contrast-fill'></detail>  
+<div>
+<p>关于“contrast fill”的评论:</p>
+</div>
+<Vssue title="关于“contrast fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

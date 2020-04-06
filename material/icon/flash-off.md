@@ -5,6 +5,7 @@ name: flash-off
 zhTips: 熄灭
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/flash-off.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,10H13L17,2H7V4.18L15.46,12.64M3.27,3L2,4.27L7,9.27V13H10V22L13.58,15.86L17.73,20L19,18.73L3.27,3Z" /></svg>
 </div>
 <detail full-name='mdi-flash-off'></detail>
-    
+<div>
+<p>关于“flash off”的评论:</p>
+</div>
+<Vssue title="关于“flash off”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: trending-down
 zhTips: 下降趋势
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/trending-down.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,18L18.29,15.71L13.41,10.83L9.41,14.83L2,7.41L3.41,6L9.41,12L13.41,8L19.71,14.29L22,12V18H16Z" /></svg>
 </div>
 <detail full-name='mdi-trending-down'></detail>
-    
+<div>
+<p>关于“trending down”的评论:</p>
+</div>
+<Vssue title="关于“trending down”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

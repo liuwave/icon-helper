@@ -5,6 +5,7 @@ name: input-method-line
 zhTips: 输入法,文字
 tags: ["design"]
 search: line
+image: https://iconhelper.cn/svg/remix/design/input-method-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-input-method-line'></detail>
-    
+<detail full-name='ri-input-method-line'></detail>  
+<div>
+<p>关于“input method line”的评论:</p>
+</div>
+<Vssue title="关于“input method line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

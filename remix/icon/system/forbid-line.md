@@ -5,6 +5,7 @@ name: forbid-line
 zhTips: 禁止,禁用
 tags: ["system"]
 search: slash,ban,line
+image: https://iconhelper.cn/svg/remix/system/forbid-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-forbid-line'></detail>
-    
+<detail full-name='ri-forbid-line'></detail>  
+<div>
+<p>关于“forbid line”的评论:</p>
+</div>
+<Vssue title="关于“forbid line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

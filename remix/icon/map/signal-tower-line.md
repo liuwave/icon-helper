@@ -5,6 +5,7 @@ name: signal-tower-line
 zhTips: 信号塔,基站,天线
 tags: ["map"]
 search: base station,antenna,line
+image: https://iconhelper.cn/svg/remix/map/signal-tower-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-signal-tower-line'></detail>
-    
+<detail full-name='ri-signal-tower-line'></detail>  
+<div>
+<p>关于“signal tower line”的评论:</p>
+</div>
+<Vssue title="关于“signal tower line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

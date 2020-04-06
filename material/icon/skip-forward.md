@@ -5,6 +5,7 @@ name: skip-forward
 zhTips: 向前跳过,标题向前,下一个标题
 tags: ["home-automation"]
 search: title-forward,next-title
+image: https://iconhelper.cn/svg/material/skip-forward.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,5V19L11,12M18,5V19H20V5M11,5V19L18,12" /></svg>
 </div>
 <detail full-name='mdi-skip-forward'></detail>
-    
+<div>
+<p>关于“skip forward”的评论:</p>
+</div>
+<Vssue title="关于“skip forward”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

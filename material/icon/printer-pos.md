@@ -5,6 +5,7 @@ name: printer-pos
 zhTips: 打印机pos,打印机销售点
 tags: ["printer"]
 search: printer-point-of-sale
+image: https://iconhelper.cn/svg/material/printer-pos.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 10H6A2 2 0 0 0 4 12V19H20V12A2 2 0 0 0 18 10M18 14H14V12H18M17 9H7V4H17Z" /></svg>
 </div>
 <detail full-name='mdi-printer-pos'></detail>
-    
+<div>
+<p>关于“printer pos”的评论:</p>
+</div>
+<Vssue title="关于“printer pos”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: equal-box
 zhTips: 等盒
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/equal-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,16V14H7V16H17M19,3A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5C3,3.89 3.89,3 5,3H19M17,10V8H7V10H17Z" /></svg>
 </div>
 <detail full-name='mdi-equal-box'></detail>
-    
+<div>
+<p>关于“equal box”的评论:</p>
+</div>
+<Vssue title="关于“equal box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

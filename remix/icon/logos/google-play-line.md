@@ -5,6 +5,7 @@ name: google-play-line
 zhTips: 谷歌应用商店
 tags: ["logos"]
 search: applications,line
+image: https://iconhelper.cn/svg/remix/logos/google-play-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-google-play-line'></detail>
-    
+<detail full-name='ri-google-play-line'></detail>  
+<div>
+<p>关于“google play line”的评论:</p>
+</div>
+<Vssue title="关于“google play line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

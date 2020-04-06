@@ -5,6 +5,7 @@ name: email-send-outline
 zhTips: 电子邮件发送轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/email-send-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 17H17V14L22 18.5L17 23V20H13V17M20 4H4A2 2 0 0 0 2 6V18A2 2 0 0 0 4 20H11V18H4V8L12 13L20 8V14H22V6A2 2 0 0 0 20 4M12 11L4 6H20Z" /></svg>
 </div>
 <detail full-name='mdi-email-send-outline'></detail>
-    
+<div>
+<p>关于“email send outline”的评论:</p>
+</div>
+<Vssue title="关于“email send outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

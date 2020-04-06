@@ -5,6 +5,7 @@ name: numeric-1-box
 zhTips: 数字1框,外观为1,数字为1框
 tags: ["alpha-numeric"]
 search: looks-one,numeric-one-box,number-1-box
+image: https://iconhelper.cn/svg/material/numeric-1-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,17H12V9H10V7H14M19,3H5A2,2 0 0,0 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3Z" /></svg>
 </div>
 <detail full-name='mdi-numeric-1-box'></detail>
-    
+<div>
+<p>关于“numeric 1 box”的评论:</p>
+</div>
+<Vssue title="关于“numeric 1 box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

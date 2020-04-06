@@ -5,6 +5,7 @@ name: alpha-w-box
 zhTips: 字母w框
 tags: ["alpha-numeric"]
 search: alphabet-w-box,letter-w-box
+image: https://iconhelper.cn/svg/material/alpha-w-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,17H15A2,2 0 0,0 17,15V7H15V15H13V8H11V15H9V7H7V15A2,2 0 0,0 9,17M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-w-box'></detail>
-    
+<div>
+<p>关于“alpha w box”的评论:</p>
+</div>
+<Vssue title="关于“alpha w box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

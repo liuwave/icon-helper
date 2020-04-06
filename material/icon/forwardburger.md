@@ -5,6 +5,7 @@ name: forwardburger
 zhTips: 前锋汉堡
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/forwardburger.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,13H3V11H19L15,7L16.4,5.6L22.8,12L16.4,18.4L15,17L19,13M3,6H13V8H3V6M13,16V18H3V16H13Z" /></svg>
 </div>
 <detail full-name='mdi-forwardburger'></detail>
-    
+<div>
+<p>关于“forwardburger”的评论:</p>
+</div>
+<Vssue title="关于“forwardburger”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: arrow-go-forward-fill
 zhTips: 箭头,重做,撤回
 tags: ["system"]
 search: redo,fill
+image: https://iconhelper.cn/svg/remix/system/arrow-go-forward-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-arrow-go-forward-fill'></detail>
-    
+<detail full-name='ri-arrow-go-forward-fill'></detail>  
+<div>
+<p>关于“arrow go forward fill”的评论:</p>
+</div>
+<Vssue title="关于“arrow go forward fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

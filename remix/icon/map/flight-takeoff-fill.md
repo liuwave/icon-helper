@@ -5,6 +5,7 @@ name: flight-takeoff-fill
 zhTips: 起飞,出发,始发,起点,飞机
 tags: ["map"]
 search: airplane,plane,origin,fill
+image: https://iconhelper.cn/svg/remix/map/flight-takeoff-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-flight-takeoff-fill'></detail>
-    
+<detail full-name='ri-flight-takeoff-fill'></detail>  
+<div>
+<p>关于“flight takeoff fill”的评论:</p>
+</div>
+<Vssue title="关于“flight takeoff fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

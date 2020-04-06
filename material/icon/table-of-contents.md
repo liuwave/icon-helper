@@ -5,6 +5,7 @@ name: table-of-contents
 zhTips: 目录
 tags: []
 search: toc
+image: https://iconhelper.cn/svg/material/table-of-contents.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,9H17V7H3V9M3,13H17V11H3V13M3,17H17V15H3V17M19,17H21V15H19V17M19,7V9H21V7H19M19,13H21V11H19V13Z" /></svg>
 </div>
 <detail full-name='mdi-table-of-contents'></detail>
-    
+<div>
+<p>关于“table of contents”的评论:</p>
+</div>
+<Vssue title="关于“table of contents”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

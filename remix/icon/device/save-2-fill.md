@@ -5,6 +5,7 @@ name: save-2-fill
 zhTips: 保存,软盘
 tags: ["device"]
 search: floppy,fill
+image: https://iconhelper.cn/svg/remix/device/save-2-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-save-2-fill'></detail>
-    
+<detail full-name='ri-save-2-fill'></detail>  
+<div>
+<p>关于“save 2 fill”的评论:</p>
+</div>
+<Vssue title="关于“save 2 fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

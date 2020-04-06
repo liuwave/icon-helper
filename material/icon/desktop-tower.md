@@ -5,6 +5,7 @@ name: desktop-tower
 zhTips: 台式塔
 tags: ["device-tech","home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/desktop-tower.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8,2H16A2,2 0 0,1 18,4V20A2,2 0 0,1 16,22H8A2,2 0 0,1 6,20V4A2,2 0 0,1 8,2M8,4V6H16V4H8M16,8H8V10H16V8M16,18H14V20H16V18Z" /></svg>
 </div>
 <detail full-name='mdi-desktop-tower'></detail>
-    
+<div>
+<p>关于“desktop tower”的评论:</p>
+</div>
+<Vssue title="关于“desktop tower”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

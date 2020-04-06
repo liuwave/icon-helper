@@ -5,6 +5,7 @@ name: medical-bag
 zhTips: 医疗袋,急救箱
 tags: ["medical-hospital"]
 search: first-aid-kit
+image: https://iconhelper.cn/svg/material/medical-bag.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,3L8,5V7H5C3.85,7 3.12,8 3,9L2,19C1.88,20 2.54,21 4,21H20C21.46,21 22.12,20 22,19L21,9C20.88,8 20.06,7 19,7H16V5L14,3H10M10,5H14V7H10V5M11,10H13V13H16V15H13V18H11V15H8V13H11V10Z" /></svg>
 </div>
 <detail full-name='mdi-medical-bag'></detail>
-    
+<div>
+<p>关于“medical bag”的评论:</p>
+</div>
+<Vssue title="关于“medical bag”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: format-list-text
 zhTips: 格式列表文本
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/format-list-text.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 14H8V20H2M16 8H10V10H16M2 10H8V4H2M10 4V6H22V4M10 20H16V18H10M10 16H22V14H10" /></svg>
 </div>
 <detail full-name='mdi-format-list-text'></detail>
-    
+<div>
+<p>关于“format list text”的评论:</p>
+</div>
+<Vssue title="关于“format list text”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

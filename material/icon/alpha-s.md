@@ -5,6 +5,7 @@ name: alpha-s
 zhTips: alpha s,字母s
 tags: ["alpha-numeric"]
 search: alphabet-s,letter-s
+image: https://iconhelper.cn/svg/material/alpha-s.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,7A2,2 0 0,0 9,9V11A2,2 0 0,0 11,13H13V15H9V17H13A2,2 0 0,0 15,15V13A2,2 0 0,0 13,11H11V9H15V7H11Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-s'></detail>
-    
+<div>
+<p>关于“alpha s”的评论:</p>
+</div>
+<Vssue title="关于“alpha s”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

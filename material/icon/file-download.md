@@ -5,6 +5,7 @@ name: file-download
 zhTips: 文件下载
 tags: ["files-folders"]
 search: 
+image: https://iconhelper.cn/svg/material/file-download.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,2H6C4.89,2 4,2.89 4,4V20C4,21.11 4.89,22 6,22H18C19.11,22 20,21.11 20,20V8L14,2M12,19L8,15H10.5V12H13.5V15H16L12,19M13,9V3.5L18.5,9H13Z" /></svg>
 </div>
 <detail full-name='mdi-file-download'></detail>
-    
+<div>
+<p>关于“file download”的评论:</p>
+</div>
+<Vssue title="关于“file download”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

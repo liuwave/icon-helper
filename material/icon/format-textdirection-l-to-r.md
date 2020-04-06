@@ -5,6 +5,7 @@ name: format-textdirection-l-to-r
 zhTips: 格式化文本方向l到r
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-textdirection-l-to-r.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,18L17,14V17H5V19H17V22M9,10V15H11V4H13V15H15V4H17V2H9A4,4 0 0,0 5,6A4,4 0 0,0 9,10Z" /></svg>
 </div>
 <detail full-name='mdi-format-textdirection-l-to-r'></detail>
-    
+<div>
+<p>关于“format textdirection l to r”的评论:</p>
+</div>
+<Vssue title="关于“format textdirection l to r”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

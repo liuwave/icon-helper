@@ -5,6 +5,7 @@ name: creative-commons-zero-line
 zhTips: 版权,知识共享
 tags: ["business"]
 search: cc0,copyright,line
+image: https://iconhelper.cn/svg/remix/business/creative-commons-zero-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-creative-commons-zero-line'></detail>
-    
+<detail full-name='ri-creative-commons-zero-line'></detail>  
+<div>
+<p>关于“creative commons zero line”的评论:</p>
+</div>
+<Vssue title="关于“creative commons zero line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

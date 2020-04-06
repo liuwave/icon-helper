@@ -5,6 +5,7 @@ name: arrow-up-bold-outline
 zhTips: 向上箭头加粗轮廓
 tags: ["arrow"]
 search: arrow-top-bold-outline
+image: https://iconhelper.cn/svg/material/arrow-up-bold-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,13V21H8V13H2L12,3L22,13H16M7,11H10V19H14V11H17L12,6L7,11Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-up-bold-outline'></detail>
-    
+<div>
+<p>关于“arrow up bold outline”的评论:</p>
+</div>
+<Vssue title="关于“arrow up bold outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

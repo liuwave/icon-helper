@@ -5,6 +5,7 @@ name: swap-vertical-variant
 zhTips: 交换垂直变体,交换呼叫
 tags: ["arrow"]
 search: swap-calls
+image: https://iconhelper.cn/svg/material/swap-vertical-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,4L14,8H17V16A2,2 0 0,1 15,18A2,2 0 0,1 13,16V8A4,4 0 0,0 9,4A4,4 0 0,0 5,8V16H2L6,20L10,16H7V8A2,2 0 0,1 9,6A2,2 0 0,1 11,8V16A4,4 0 0,0 15,20A4,4 0 0,0 19,16V8H22L18,4Z" /></svg>
 </div>
 <detail full-name='mdi-swap-vertical-variant'></detail>
-    
+<div>
+<p>关于“swap vertical variant”的评论:</p>
+</div>
+<Vssue title="关于“swap vertical variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

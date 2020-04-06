@@ -5,6 +5,7 @@ name: minecraft
 zhTips: 我的世界,Microsoft minecraft
 tags: ["brand-logo"]
 search: microsoft-minecraft
+image: https://iconhelper.cn/svg/material/minecraft.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,2H20A2,2 0 0,1 22,4V20A2,2 0 0,1 20,22H4A2,2 0 0,1 2,20V4A2,2 0 0,1 4,2M6,6V10H10V12H8V18H10V16H14V18H16V12H14V10H18V6H14V10H10V6H6Z" /></svg>
 </div>
 <detail full-name='mdi-minecraft'></detail>
-    
+<div>
+<p>关于“minecraft”的评论:</p>
+</div>
+<Vssue title="关于“minecraft”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

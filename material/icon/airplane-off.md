@@ -5,6 +5,7 @@ name: airplane-off
 zhTips: 飞机已关闭,空中飞机已关闭,飞机模式无效,飞行模式已关闭
 tags: ["transportation-flying"]
 search: aeroplane-off,airplanemode-inactive,flight-mode-off,plane-off
+image: https://iconhelper.cn/svg/material/airplane-off.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.15,5.27L8.13,10.26L2.15,14V16L10.15,13.5V19L8.15,20.5V22L11.65,21L15.15,22V20.5L13.15,19V15.27L18.87,21L20.15,19.73L4.42,4M13.15,9V3.5A1.5,1.5 0 0,0 11.65,2A1.5,1.5 0 0,0 10.15,3.5V7.18L17.97,15L21.15,16V14L13.15,9Z" /></svg>
 </div>
 <detail full-name='mdi-airplane-off'></detail>
-    
+<div>
+<p>关于“airplane off”的评论:</p>
+</div>
+<Vssue title="关于“airplane off”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

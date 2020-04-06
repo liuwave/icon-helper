@@ -5,6 +5,7 @@ name: format-overline
 zhTips: 格式上划线
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-overline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,5H19V3H5V5M9.62,16L12,9.67L14.37,16M11,7L5.5,21H7.75L8.87,18H15.12L16.25,21H18.5L13,7H11Z" /></svg>
 </div>
 <detail full-name='mdi-format-overline'></detail>
-    
+<div>
+<p>关于“format overline”的评论:</p>
+</div>
+<Vssue title="关于“format overline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

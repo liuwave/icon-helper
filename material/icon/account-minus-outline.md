@@ -5,6 +5,7 @@ name: account-minus-outline
 zhTips: 帐户减轮廓,用户减轮廓,人减轮廓
 tags: ["account-user"]
 search: user-minus-outline,person-minus-outline
+image: https://iconhelper.cn/svg/material/account-minus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,4A4,4 0 0,0 11,8A4,4 0 0,0 15,12A4,4 0 0,0 19,8A4,4 0 0,0 15,4M15,5.9C16.16,5.9 17.1,6.84 17.1,8C17.1,9.16 16.16,10.1 15,10.1A2.1,2.1 0 0,1 12.9,8A2.1,2.1 0 0,1 15,5.9M1,10V12H9V10H1M15,13C12.33,13 7,14.33 7,17V20H23V17C23,14.33 17.67,13 15,13M15,14.9C17.97,14.9 21.1,16.36 21.1,17V18.1H8.9V17C8.9,16.36 12,14.9 15,14.9Z" /></svg>
 </div>
 <detail full-name='mdi-account-minus-outline'></detail>
-    
+<div>
+<p>关于“account minus outline”的评论:</p>
+</div>
+<Vssue title="关于“account minus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: label-variant-outline
 zhTips: 标签变体轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/label-variant-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.5,17H15L18.5,12L15,7H6.5L10,12L6.5,17M15,19H3L7.5,12L3,5H15C15.69,5 16.23,5.3 16.64,5.86L21,12L16.64,18.14C16.23,18.7 15.69,19 15,19Z" /></svg>
 </div>
 <detail full-name='mdi-label-variant-outline'></detail>
-    
+<div>
+<p>关于“label variant outline”的评论:</p>
+</div>
+<Vssue title="关于“label variant outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

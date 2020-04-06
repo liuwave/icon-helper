@@ -5,6 +5,7 @@ name: blaze-line
 zhTips: 火灾
 tags: ["weather"]
 search: line
+image: https://iconhelper.cn/svg/remix/weather/blaze-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-blaze-line'></detail>
-    
+<detail full-name='ri-blaze-line'></detail>  
+<div>
+<p>关于“blaze line”的评论:</p>
+</div>
+<Vssue title="关于“blaze line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

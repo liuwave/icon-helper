@@ -5,6 +5,7 @@ name: skip-next
 zhTips: 跳过下一个
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/skip-next.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,18H18V6H16M6,18L14.5,12L6,6V18Z" /></svg>
 </div>
 <detail full-name='mdi-skip-next'></detail>
-    
+<div>
+<p>关于“skip next”的评论:</p>
+</div>
+<Vssue title="关于“skip next”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

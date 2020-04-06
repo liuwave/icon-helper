@@ -5,6 +5,7 @@ name: stop-circle-outline
 zhTips: 停止圈轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/stop-circle-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M12,4C16.41,4 20,7.59 20,12C20,16.41 16.41,20 12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4M9,9V15H15V9" /></svg>
 </div>
 <detail full-name='mdi-stop-circle-outline'></detail>
-    
+<div>
+<p>关于“stop circle outline”的评论:</p>
+</div>
+<Vssue title="关于“stop circle outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

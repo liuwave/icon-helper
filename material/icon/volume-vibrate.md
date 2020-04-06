@@ -5,6 +5,7 @@ name: volume-vibrate
 zhTips: 体积振动
 tags: ["cellphone-phone","audio"]
 search: 
+image: https://iconhelper.cn/svg/material/volume-vibrate.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 9V15H8L13 20V4L8 9H4M16.55 2.47L15.5 3.53L17.93 6L15 9L17.93 12L15 15L17.93 18L15.5 20.47L16.55 21.53L20 18L17.07 15L20 12L17.07 9L20 6L16.55 2.47Z" /></svg>
 </div>
 <detail full-name='mdi-volume-vibrate'></detail>
-    
+<div>
+<p>关于“volume vibrate”的评论:</p>
+</div>
+<Vssue title="关于“volume vibrate”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

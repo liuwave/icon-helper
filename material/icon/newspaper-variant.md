@@ -5,6 +5,7 @@ name: newspaper-variant
 zhTips: 报纸的口音
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/newspaper-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 4V18C2 18 2 20 4 20H20C20 20 22 20 22 18V4H2M9 13H5V7H9V13M19 13H11V11H19V13M19 9H11V7H19V9Z" /></svg>
 </div>
 <detail full-name='mdi-newspaper-variant'></detail>
-    
+<div>
+<p>关于“newspaper variant”的评论:</p>
+</div>
+<Vssue title="关于“newspaper variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

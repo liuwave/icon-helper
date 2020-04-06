@@ -5,6 +5,7 @@ name: blender
 zhTips: 搅拌器,搅拌机,鸡尾酒,奶昔,果泥
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/blender.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,5H17.8L18,2H4L5,4H6L6.94,16.19L5,22H19L17.06,16.17L17.2,14H19C20.3,14 21,12.97 21,12V7C21,5.7 19.97,5 19,5M12,20A1.5,1.5 0 0,1 10.5,18.5A1.5,1.5 0 0,1 12,17A1.5,1.5 0 0,1 13.5,18.5A1.5,1.5 0 0,1 12,20M15.13,15H8.85L8.7,13H13V12H8.62L8.47,10H13V9H8.39L8.24,7H13V6H8.16L8,4H15.86L15.13,15M19,12H17.33L17.67,7H19V12Z" /></svg>
 </div>
 <detail full-name='mdi-blender'></detail>
-    
+<div>
+<p>关于“blender”的评论:</p>
+</div>
+<Vssue title="关于“blender”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

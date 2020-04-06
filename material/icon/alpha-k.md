@@ -5,6 +5,7 @@ name: alpha-k
 zhTips: alpha k,字母k
 tags: ["alpha-numeric"]
 search: alphabet-k,letter-k
+image: https://iconhelper.cn/svg/material/alpha-k.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,7V17H11V13.67L13,17H15L12,12L15,7H13L11,10.33V7H9Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-k'></detail>
-    
+<div>
+<p>关于“alpha k”的评论:</p>
+</div>
+<Vssue title="关于“alpha k”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

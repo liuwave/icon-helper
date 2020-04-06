@@ -5,6 +5,7 @@ name: valve-open
 zhTips: 阀门打开
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/valve-open.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 22H2V2H4M22 2H20V22H22M11 4V9.18A3 3 0 0 0 11 14.82V20H13V14.82A3 3 0 0 0 13 9.18V4Z" /></svg>
 </div>
 <detail full-name='mdi-valve-open'></detail>
-    
+<div>
+<p>关于“valve open”的评论:</p>
+</div>
+<Vssue title="关于“valve open”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

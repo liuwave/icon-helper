@@ -5,6 +5,7 @@ name: mail-settings-line
 zhTips: 信封,邮箱,邮件,设置
 tags: ["business"]
 search: envelope,email,inbox,settings,line
+image: https://iconhelper.cn/svg/remix/business/mail-settings-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-mail-settings-line'></detail>
-    
+<detail full-name='ri-mail-settings-line'></detail>  
+<div>
+<p>关于“mail settings line”的评论:</p>
+</div>
+<Vssue title="关于“mail settings line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

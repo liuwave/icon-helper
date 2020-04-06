@@ -5,6 +5,7 @@ name: compass
 zhTips: 指南针,探索,方向,目录,位置,菜单,导航,野生动物园,旅行
 tags: ["navigation","geographic-information-system"]
 search: explore
+image: https://iconhelper.cn/svg/material/compass.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.19,14.19L6,18L9.81,9.81L18,6M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M12,10.9A1.1,1.1 0 0,0 10.9,12A1.1,1.1 0 0,0 12,13.1A1.1,1.1 0 0,0 13.1,12A1.1,1.1 0 0,0 12,10.9Z" /></svg>
 </div>
 <detail full-name='mdi-compass'></detail>
-    
+<div>
+<p>关于“compass”的评论:</p>
+</div>
+<Vssue title="关于“compass”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

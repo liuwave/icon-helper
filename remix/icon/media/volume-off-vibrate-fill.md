@@ -5,6 +5,7 @@ name: volume-off-vibrate-fill
 zhTips: 静音,喇叭,声音,扬声器,静音模式
 tags: ["media"]
 search: trumpet,sound,speaker,fill
+image: https://iconhelper.cn/svg/remix/media/volume-off-vibrate-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-volume-off-vibrate-fill'></detail>
-    
+<detail full-name='ri-volume-off-vibrate-fill'></detail>  
+<div>
+<p>关于“volume off vibrate fill”的评论:</p>
+</div>
+<Vssue title="关于“volume off vibrate fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

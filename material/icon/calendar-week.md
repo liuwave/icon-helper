@@ -5,6 +5,7 @@ name: calendar-week
 zhTips: 日历周,活动周
 tags: ["date-time"]
 search: event-week
+image: https://iconhelper.cn/svg/material/calendar-week.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6 1H8V3H16V1H18V3H19C20.11 3 21 3.9 21 5V19C21 20.11 20.11 21 19 21H5C3.89 21 3 20.1 3 19V5C3 3.89 3.89 3 5 3H6V1M5 8V19H19V8H5M7 10H17V12H7V10Z" /></svg>
 </div>
 <detail full-name='mdi-calendar-week'></detail>
-    
+<div>
+<p>关于“calendar week”的评论:</p>
+</div>
+<Vssue title="关于“calendar week”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

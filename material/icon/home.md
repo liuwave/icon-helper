@@ -5,6 +5,7 @@ name: home
 zhTips: 房屋,家,家庭,住所,建筑,主要,首页,主页
 tags: ["home-automation","places"]
 search: house
+image: https://iconhelper.cn/svg/material/home.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z" /></svg>
 </div>
 <detail full-name='mdi-home'></detail>
-    
+<div>
+<p>关于“home”的评论:</p>
+</div>
+<Vssue title="关于“home”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

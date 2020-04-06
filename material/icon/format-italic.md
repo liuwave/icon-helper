@@ -5,6 +5,7 @@ name: format-italic
 zhTips: 斜体格式
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-italic.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,4V7H12.21L8.79,15H6V18H14V15H11.79L15.21,7H18V4H10Z" /></svg>
 </div>
 <detail full-name='mdi-format-italic'></detail>
-    
+<div>
+<p>关于“format italic”的评论:</p>
+</div>
+<Vssue title="关于“format italic”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

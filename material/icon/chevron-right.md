@@ -5,6 +5,7 @@ name: chevron-right
 zhTips: V形向右,键盘向右箭头,下一步导航
 tags: ["arrow"]
 search: keyboard-arrow-right,navigate-next
+image: https://iconhelper.cn/svg/material/chevron-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
 </div>
 <detail full-name='mdi-chevron-right'></detail>
-    
+<div>
+<p>关于“chevron right”的评论:</p>
+</div>
+<Vssue title="关于“chevron right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: film-line
 zhTips: 影片,电影,视频
 tags: ["media"]
 search: movie,video,line
+image: https://iconhelper.cn/svg/remix/media/film-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-film-line'></detail>
-    
+<detail full-name='ri-film-line'></detail>  
+<div>
+<p>关于“film line”的评论:</p>
+</div>
+<Vssue title="关于“film line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

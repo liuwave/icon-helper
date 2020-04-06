@@ -5,6 +5,7 @@ name: alert-box
 zhTips: 警报框,警告框
 tags: ["alert-error"]
 search: warning-box
+image: https://iconhelper.cn/svg/material/alert-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3M13,13V7H11V13H13M13,17V15H11V17H13Z" /></svg>
 </div>
 <detail full-name='mdi-alert-box'></detail>
-    
+<div>
+<p>关于“alert box”的评论:</p>
+</div>
+<Vssue title="关于“alert box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

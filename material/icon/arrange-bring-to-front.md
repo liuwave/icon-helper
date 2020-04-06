@@ -5,6 +5,7 @@ name: arrange-bring-to-front
 zhTips: 排在最前面
 tags: ["arrange","geographic-information-system"]
 search: 
+image: https://iconhelper.cn/svg/material/arrange-bring-to-front.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,2H11V6H9V4H4V9H6V11H2V2M22,13V22H13V18H15V20H20V15H18V13H22M8,8H16V16H8V8Z" /></svg>
 </div>
 <detail full-name='mdi-arrange-bring-to-front'></detail>
-    
+<div>
+<p>关于“arrange bring to front”的评论:</p>
+</div>
+<Vssue title="关于“arrange bring to front”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

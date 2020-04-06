@@ -5,6 +5,7 @@ name: arrow-up-down-bold
 zhTips: 粗体向上箭头
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/arrow-up-down-bold.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,8H6L12,2L18,8H14V16H18L12,22L6,16H10V8Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-up-down-bold'></detail>
-    
+<div>
+<p>关于“arrow up down bold”的评论:</p>
+</div>
+<Vssue title="关于“arrow up down bold”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

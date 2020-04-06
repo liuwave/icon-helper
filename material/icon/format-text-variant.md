@@ -5,6 +5,7 @@ name: format-text-variant
 zhTips: 设置文字口音格式
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-text-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.6,14L12,7.7L14.4,14M11,5L5.5,19H7.7L8.8,16H15L16.1,19H18.3L13,5H11Z" /></svg>
 </div>
 <detail full-name='mdi-format-text-variant'></detail>
-    
+<div>
+<p>关于“format text variant”的评论:</p>
+</div>
+<Vssue title="关于“format text variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

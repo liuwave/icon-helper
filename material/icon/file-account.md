@@ -5,6 +5,7 @@ name: file-account
 zhTips: 文件帐户,用户文件,简历
 tags: ["account-user","files-folders"]
 search: file-user,resume
+image: https://iconhelper.cn/svg/material/file-account.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,9H18.5L13,3.5V9M6,2H14L20,8V20A2,2 0 0,1 18,22H6C4.89,22 4,21.1 4,20V4C4,2.89 4.89,2 6,2M14,20V19C14,17.67 11.33,17 10,17C8.67,17 6,17.67 6,19V20H14M10,12A2,2 0 0,0 8,14A2,2 0 0,0 10,16A2,2 0 0,0 12,14A2,2 0 0,0 10,12Z" /></svg>
 </div>
 <detail full-name='mdi-file-account'></detail>
-    
+<div>
+<p>关于“file account”的评论:</p>
+</div>
+<Vssue title="关于“file account”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

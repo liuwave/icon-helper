@@ -5,6 +5,7 @@ name: file-excel
 zhTips: excel文件
 tags: ["files-folders"]
 search: 
+image: https://iconhelper.cn/svg/material/file-excel.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V8L14,2M15.8,20H14L12,16.6L10,20H8.2L11.1,15.5L8.2,11H10L12,14.4L14,11H15.8L12.9,15.5L15.8,20M13,9V3.5L18.5,9H13Z" /></svg>
 </div>
 <detail full-name='mdi-file-excel'></detail>
-    
+<div>
+<p>关于“file excel”的评论:</p>
+</div>
+<Vssue title="关于“file excel”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

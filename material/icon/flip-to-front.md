@@ -5,6 +5,7 @@ name: flip-to-front
 zhTips: 翻转到前面
 tags: ["arrange"]
 search: 
+image: https://iconhelper.cn/svg/material/flip-to-front.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,21H9V19H7M11,21H13V19H11M19,15H9V5H19M19,3H9C7.89,3 7,3.89 7,5V15A2,2 0 0,0 9,17H14L18,17H19A2,2 0 0,0 21,15V5C21,3.89 20.1,3 19,3M15,21H17V19H15M3,9H5V7H3M5,21V19H3A2,2 0 0,0 5,21M3,17H5V15H3M3,13H5V11H3V13Z" /></svg>
 </div>
 <detail full-name='mdi-flip-to-front'></detail>
-    
+<div>
+<p>关于“flip to front”的评论:</p>
+</div>
+<Vssue title="关于“flip to front”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

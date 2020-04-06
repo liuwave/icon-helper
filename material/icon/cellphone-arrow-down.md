@@ -5,6 +5,7 @@ name: cellphone-arrow-down
 zhTips: 手机向下箭头,手机系统更新,智能手机向下箭头
 tags: ["cellphone-phone","device-tech"]
 search: cellphone-system-update,mobile-phone-arrow-down,smartphone-arrow-down
+image: https://iconhelper.cn/svg/material/cellphone-arrow-down.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,1H7A2,2 0 0,0 5,3V21A2,2 0 0,0 7,23H17A2,2 0 0,0 19,21V3A2,2 0 0,0 17,1M17,19H7V5H17V19M16,13H13V8H11V13H8L12,17L16,13Z" /></svg>
 </div>
 <detail full-name='mdi-cellphone-arrow-down'></detail>
-    
+<div>
+<p>关于“cellphone arrow down”的评论:</p>
+</div>
+<Vssue title="关于“cellphone arrow down”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

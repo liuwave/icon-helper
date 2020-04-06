@@ -5,6 +5,7 @@ name: bowl-mix-outline
 zhTips: 搅拌碗轮廓
 tags: ["food-drink"]
 search: mixing-bowl-outline
+image: https://iconhelper.cn/svg/material/bowl-mix-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15.6 12H2V15C2 18.9 5.1 22 9 22H15C18.9 22 22 18.9 22 15V12H15.6M20 15C20 17.8 17.8 20 15 20H9C6.2 20 4 17.8 4 15V14H20V15M16.2 11L20.3 4.4L22 5.5L18.6 11H16.2Z" /></svg>
 </div>
 <detail full-name='mdi-bowl-mix-outline'></detail>
-    
+<div>
+<p>关于“bowl mix outline”的评论:</p>
+</div>
+<Vssue title="关于“bowl mix outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

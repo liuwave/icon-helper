@@ -5,6 +5,7 @@ name: checkbox-indeterminate-line
 zhTips: 复选框
 tags: ["system"]
 search: line
+image: https://iconhelper.cn/svg/remix/system/checkbox-indeterminate-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-checkbox-indeterminate-line'></detail>
-    
+<detail full-name='ri-checkbox-indeterminate-line'></detail>  
+<div>
+<p>关于“checkbox indeterminate line”的评论:</p>
+</div>
+<Vssue title="关于“checkbox indeterminate line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

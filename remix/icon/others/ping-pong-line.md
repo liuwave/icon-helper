@@ -5,6 +5,7 @@ name: ping-pong-line
 zhTips: 运动,乒乓球
 tags: ["others"]
 search: sports,table tennis,line
+image: https://iconhelper.cn/svg/remix/others/ping-pong-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-ping-pong-line'></detail>
-    
+<detail full-name='ri-ping-pong-line'></detail>  
+<div>
+<p>关于“ping pong line”的评论:</p>
+</div>
+<Vssue title="关于“ping pong line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

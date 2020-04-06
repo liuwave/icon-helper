@@ -5,6 +5,7 @@ name: rotate-left-variant
 zhTips: 向左旋转变体
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/rotate-left-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,2H7A2,2 0 0,1 9,4V20A2,2 0 0,1 7,22H4A2,2 0 0,1 2,20V4A2,2 0 0,1 4,2M20,15A2,2 0 0,1 22,17V20A2,2 0 0,1 20,22H11V15H20M14,4A8,8 0 0,1 22,12L21.94,13H19.92L20,12A6,6 0 0,0 14,6V9L10,5L14,1V4Z" /></svg>
 </div>
 <detail full-name='mdi-rotate-left-variant'></detail>
-    
+<div>
+<p>关于“rotate left variant”的评论:</p>
+</div>
+<Vssue title="关于“rotate left variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: language-fortran
 zhTips: 语言fortran
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/language-fortran.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 4V6H6C6.55 6 7 6.45 7 7V17C7 17.55 6.55 18 6 18H5V20H14V18H12C11.45 18 11 17.55 11 17V13H13C13.55 13 14 13.45 14 14V16H16V8H14V10C14 10.55 13.55 11 13 11H11V6H16C17.11 6 18 7.34 18 9V10H20V4Z" /></svg>
 </div>
 <detail full-name='mdi-language-fortran'></detail>
-    
+<div>
+<p>关于“language fortran”的评论:</p>
+</div>
+<Vssue title="关于“language fortran”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

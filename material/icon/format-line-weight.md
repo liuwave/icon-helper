@@ -5,6 +5,7 @@ name: format-line-weight
 zhTips: 重量线格式
 tags: ["text-content-format","drawing-art"]
 search: 
+image: https://iconhelper.cn/svg/material/format-line-weight.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,17H21V15H3V17M3,20H21V19H3V20M3,13H21V10H3V13M3,4V8H21V4H3Z" /></svg>
 </div>
 <detail full-name='mdi-format-line-weight'></detail>
-    
+<div>
+<p>关于“format line weight”的评论:</p>
+</div>
+<Vssue title="关于“format line weight”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

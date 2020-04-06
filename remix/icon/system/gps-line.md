@@ -5,6 +5,7 @@ name: gps-line
 zhTips: 定位,信号
 tags: ["system"]
 search: signal,line
+image: https://iconhelper.cn/svg/remix/system/gps-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-gps-line'></detail>
-    
+<detail full-name='ri-gps-line'></detail>  
+<div>
+<p>关于“gps line”的评论:</p>
+</div>
+<Vssue title="关于“gps line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: alpha-o
 zhTips: alpha o,字母o
 tags: ["alpha-numeric"]
 search: alphabet-o,letter-o
+image: https://iconhelper.cn/svg/material/alpha-o.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,7A2,2 0 0,0 9,9V15A2,2 0 0,0 11,17H13A2,2 0 0,0 15,15V9A2,2 0 0,0 13,7H11M11,9H13V15H11V9Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-o'></detail>
-    
+<div>
+<p>关于“alpha o”的评论:</p>
+</div>
+<Vssue title="关于“alpha o”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

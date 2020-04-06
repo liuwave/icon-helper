@@ -5,6 +5,7 @@ name: handbag-line
 zhTips: 时尚,手提包,女包
 tags: ["others"]
 search: fashion,line
+image: https://iconhelper.cn/svg/remix/others/handbag-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-handbag-line'></detail>
-    
+<detail full-name='ri-handbag-line'></detail>  
+<div>
+<p>关于“handbag line”的评论:</p>
+</div>
+<Vssue title="关于“handbag line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

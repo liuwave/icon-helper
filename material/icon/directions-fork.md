@@ -5,6 +5,7 @@ name: directions-fork
 zhTips: 前叉方向
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/directions-fork.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,4V12.5L6,9.5L9,13C10,14 10,15 10,15V21H14V14C14,14 14,13 13.47,12C12.94,11 12,10 12,10L9,6.58L11.5,4M18,4L13.54,8.47L14,9C14,9 14.93,10 15.47,11C15.68,11.4 15.8,11.79 15.87,12.13L21,7" /></svg>
 </div>
 <detail full-name='mdi-directions-fork'></detail>
-    
+<div>
+<p>关于“directions fork”的评论:</p>
+</div>
+<Vssue title="关于“directions fork”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

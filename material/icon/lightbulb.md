@@ -5,6 +5,7 @@ name: lightbulb
 zhTips: 灯泡,主意,灯泡黑,能源,理念,灵感,光
 tags: ["home-automation"]
 search: idea,bulb
+image: https://iconhelper.cn/svg/material/lightbulb.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2A7,7 0 0,0 5,9C5,11.38 6.19,13.47 8,14.74V17A1,1 0 0,0 9,18H15A1,1 0 0,0 16,17V14.74C17.81,13.47 19,11.38 19,9A7,7 0 0,0 12,2M9,21A1,1 0 0,0 10,22H14A1,1 0 0,0 15,21V20H9V21Z" /></svg>
 </div>
 <detail full-name='mdi-lightbulb'></detail>
-    
+<div>
+<p>关于“lightbulb”的评论:</p>
+</div>
+<Vssue title="关于“lightbulb”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

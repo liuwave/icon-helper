@@ -5,6 +5,7 @@ name: backup-restore
 zhTips: 备份还原,备份还原设置
 tags: []
 search: settings-backup-restore
+image: https://iconhelper.cn/svg/material/backup-restore.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3A9,9 0 0,0 3,12H0L4,16L8,12H5A7,7 0 0,1 12,5A7,7 0 0,1 19,12A7,7 0 0,1 12,19C10.5,19 9.09,18.5 7.94,17.7L6.5,19.14C8.04,20.3 9.94,21 12,21A9,9 0 0,0 21,12A9,9 0 0,0 12,3M14,12A2,2 0 0,0 12,10A2,2 0 0,0 10,12A2,2 0 0,0 12,14A2,2 0 0,0 14,12Z" /></svg>
 </div>
 <detail full-name='mdi-backup-restore'></detail>
-    
+<div>
+<p>关于“backup restore”的评论:</p>
+</div>
+<Vssue title="关于“backup restore”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

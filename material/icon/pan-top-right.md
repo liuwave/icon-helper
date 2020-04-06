@@ -5,6 +5,7 @@ name: pan-top-right
 zhTips: 向右平移
 tags: []
 search: pan-up-right
+image: https://iconhelper.cn/svg/material/pan-top-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,10A2,2 0 0,1 14,12A2,2 0 0,1 12,14A2,2 0 0,1 10,12A2,2 0 0,1 12,10M18.65,11L13,5.35L19,5L18.65,11Z" /></svg>
 </div>
 <detail full-name='mdi-pan-top-right'></detail>
-    
+<div>
+<p>关于“pan top right”的评论:</p>
+</div>
+<Vssue title="关于“pan top right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

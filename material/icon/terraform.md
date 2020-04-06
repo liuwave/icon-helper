@@ -5,6 +5,7 @@ name: terraform
 zhTips: 地形
 tags: ["brand-logo"]
 search: 
+image: https://iconhelper.cn/svg/material/terraform.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 5.4V11.8L15.4 15V8.7L21 5.4M14.8 8.7V15L9.2 11.8V5.4L14.8 8.7M14.8 15.7V22.1L9.2 18.9V12.5L14.8 15.7M8.6 5.1V11.5L3 8.3V1.9L8.6 5.1Z" /></svg>
 </div>
 <detail full-name='mdi-terraform'></detail>
-    
+<div>
+<p>关于“terraform”的评论:</p>
+</div>
+<Vssue title="关于“terraform”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

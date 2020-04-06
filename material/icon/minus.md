@@ -5,6 +5,7 @@ name: minus
 zhTips: 减去,移除,水平线,负号,减号,崩溃,删除,隐藏,最小化,负数,垃圾箱
 tags: ["math"]
 search: remove,horizontal-line
+image: https://iconhelper.cn/svg/material/minus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,13H5V11H19V13Z" /></svg>
 </div>
 <detail full-name='mdi-minus'></detail>
-    
+<div>
+<p>关于“minus”的评论:</p>
+</div>
+<Vssue title="关于“minus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

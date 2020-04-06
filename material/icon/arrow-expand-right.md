@@ -5,6 +5,7 @@ name: arrow-expand-right
 zhTips: 箭头向右扩展
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/arrow-expand-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,2H2V22H4V13H18.17L12.67,18.5L14.08,19.92L22,12L14.08,4.08L12.67,5.5L18.17,11H4V2Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-expand-right'></detail>
-    
+<div>
+<p>关于“arrow expand right”的评论:</p>
+</div>
+<Vssue title="关于“arrow expand right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

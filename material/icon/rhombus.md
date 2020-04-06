@@ -5,6 +5,7 @@ name: rhombus
 zhTips: 菱形菱形
 tags: ["shape"]
 search: diamond
+image: https://iconhelper.cn/svg/material/rhombus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.5,10.8L13.2,2.5C12.5,1.8 11.5,1.8 10.8,2.5L2.5,10.8C1.8,11.5 1.8,12.5 2.5,13.2L10.8,21.5C11.5,22.2 12.5,22.2 13.2,21.5L21.5,13.2C22.1,12.5 22.1,11.5 21.5,10.8Z" /></svg>
 </div>
 <detail full-name='mdi-rhombus'></detail>
-    
+<div>
+<p>关于“rhombus”的评论:</p>
+</div>
+<Vssue title="关于“rhombus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

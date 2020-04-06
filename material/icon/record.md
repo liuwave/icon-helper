@@ -5,6 +5,7 @@ name: record
 zhTips: 记录,光纤手动记录
 tags: ["home-automation"]
 search: fiber-manual-record
+image: https://iconhelper.cn/svg/material/record.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,12C19,15.86 15.86,19 12,19C8.14,19 5,15.86 5,12C5,8.14 8.14,5 12,5C15.86,5 19,8.14 19,12Z" /></svg>
 </div>
 <detail full-name='mdi-record'></detail>
-    
+<div>
+<p>关于“record”的评论:</p>
+</div>
+<Vssue title="关于“record”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: keyboard-f2
 zhTips: 键盘F2
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/keyboard-f2.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 7H11V9H7V11H10V13H7V17H5V7M13 7H17C18.11 7 19 7.9 19 9V11C19 12.11 18.11 13 17 13H15V15H19V17H13V13C13 11.9 13.9 11 15 11H17V9H13V7Z" /></svg>
 </div>
 <detail full-name='mdi-keyboard-f2'></detail>
-    
+<div>
+<p>关于“keyboard f2”的评论:</p>
+</div>
+<Vssue title="关于“keyboard f2”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

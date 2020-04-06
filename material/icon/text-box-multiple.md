@@ -5,6 +5,7 @@ name: text-box-multiple
 zhTips: 文本框多个,文件文件框,文件文件框多个
 tags: ["files-folders"]
 search: file-document-boxes,file-document-box-multiple
+image: https://iconhelper.cn/svg/material/text-box-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,15H9V13H16M19,11H9V9H19M19,7H9V5H19M21,1H7C5.89,1 5,1.89 5,3V17C5,18.11 5.9,19 7,19H21C22.11,19 23,18.11 23,17V3C23,1.89 22.1,1 21,1M3,5V21H19V23H3A2,2 0 0,1 1,21V5H3Z" /></svg>
 </div>
 <detail full-name='mdi-text-box-multiple'></detail>
-    
+<div>
+<p>关于“text box multiple”的评论:</p>
+</div>
+<Vssue title="关于“text box multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

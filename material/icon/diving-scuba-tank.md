@@ -5,6 +5,7 @@ name: diving-scuba-tank
 zhTips: 潜水水肺坦克
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/diving-scuba-tank.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,18.5A2.5,2.5 0 0,1 16.5,21A2.5,2.5 0 0,1 14,18.5C14,17.47 14.62,16.59 15.5,16.21V6H11V7.35C12.22,7.93 13,9.15 13,10.5V22H6V10.5C6,9.15 6.78,7.93 8,7.35V6H6V4H8V3.5A1.5,1.5 0 0,1 9.5,2A1.5,1.5 0 0,1 11,3.5V4H15.5A2,2 0 0,1 17.5,6V16.21C18.38,16.59 19,17.47 19,18.5Z" /></svg>
 </div>
 <detail full-name='mdi-diving-scuba-tank'></detail>
-    
+<div>
+<p>关于“diving scuba tank”的评论:</p>
+</div>
+<Vssue title="关于“diving scuba tank”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: chart-gantt
 zhTips: 甘特图
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/chart-gantt.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,5H10V2H12V22H10V18H6V15H10V13H4V10H10V8H2V5M14,5H17V8H14V5M14,10H19V13H14V10M14,15H22V18H14V15Z" /></svg>
 </div>
 <detail full-name='mdi-chart-gantt'></detail>
-    
+<div>
+<p>关于“chart gantt”的评论:</p>
+</div>
+<Vssue title="关于“chart gantt”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: book-search
 zhTips: 图书搜索
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/book-search.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15.5,12C18,12 20,14 20,16.5C20,17.38 19.75,18.21 19.31,18.9L22.39,22L21,23.39L17.88,20.32C17.19,20.75 16.37,21 15.5,21C13,21 11,19 11,16.5C11,14 13,12 15.5,12M15.5,14A2.5,2.5 0 0,0 13,16.5A2.5,2.5 0 0,0 15.5,19A2.5,2.5 0 0,0 18,16.5A2.5,2.5 0 0,0 15.5,14M6,22A2,2 0 0,1 4,20V4C4,2.89 4.9,2 6,2H7V9L9.5,7.5L12,9V2H18A2,2 0 0,1 20,4V11.81C18.83,10.69 17.25,10 15.5,10A6.5,6.5 0 0,0 9,16.5C9,18.81 10.21,20.85 12.03,22H6Z" /></svg>
 </div>
 <detail full-name='mdi-book-search'></detail>
-    
+<div>
+<p>关于“book search”的评论:</p>
+</div>
+<Vssue title="关于“book search”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

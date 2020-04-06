@@ -5,6 +5,7 @@ name: game-line
 zhTips: 游戏,吃豆人
 tags: ["others"]
 search: pac man,line
+image: https://iconhelper.cn/svg/remix/others/game-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-game-line'></detail>
-    
+<detail full-name='ri-game-line'></detail>  
+<div>
+<p>关于“game line”的评论:</p>
+</div>
+<Vssue title="关于“game line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

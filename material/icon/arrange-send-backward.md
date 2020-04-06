@@ -5,6 +5,7 @@ name: arrange-send-backward
 zhTips: 安排向后发送
 tags: ["arrange","geographic-information-system"]
 search: 
+image: https://iconhelper.cn/svg/material/arrange-send-backward.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,2H16V16H2V2M22,8V22H8V18H18V8H22M4,4V14H14V4H4Z" /></svg>
 </div>
 <detail full-name='mdi-arrange-send-backward'></detail>
-    
+<div>
+<p>关于“arrange send backward”的评论:</p>
+</div>
+<Vssue title="关于“arrange send backward”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

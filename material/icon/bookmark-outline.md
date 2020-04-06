@@ -5,6 +5,7 @@ name: bookmark-outline
 zhTips: 书签轮廓,书签边框,未打开
 tags: []
 search: bookmark-border,turned-in-not
+image: https://iconhelper.cn/svg/material/bookmark-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,18L12,15.82L7,18V5H17M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark-outline'></detail>
-    
+<div>
+<p>关于“bookmark outline”的评论:</p>
+</div>
+<Vssue title="关于“bookmark outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

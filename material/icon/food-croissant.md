@@ -5,6 +5,7 @@ name: food-croissant
 zhTips: 食品牛角包
 tags: ["food-drink"]
 search: 
+image: https://iconhelper.cn/svg/material/food-croissant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,19L19,17L22,15V19M15,15L19,9L22,13L18,16L15,15M5,17L2,19V15L5,17M9,15L6,16L2,13L5,9L9,15M14,6L18,8L13,15H11L6,8L10,6H14Z" /></svg>
 </div>
 <detail full-name='mdi-food-croissant'></detail>
-    
+<div>
+<p>关于“food croissant”的评论:</p>
+</div>
+<Vssue title="关于“food croissant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

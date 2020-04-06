@@ -5,6 +5,7 @@ name: reserved-fill
 zhTips: 已预定
 tags: ["others"]
 search: fill
+image: https://iconhelper.cn/svg/remix/others/reserved-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-reserved-fill'></detail>
-    
+<detail full-name='ri-reserved-fill'></detail>  
+<div>
+<p>关于“reserved fill”的评论:</p>
+</div>
+<Vssue title="关于“reserved fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

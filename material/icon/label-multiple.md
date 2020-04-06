@@ -5,6 +5,7 @@ name: label-multiple
 zhTips: 标签多个
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/label-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 19H13L11 21H4C3.5 21 2.97 20.79 2.59 20.41C2.21 20.03 2 19.5 2 19V9H4V19M17.63 5.84C17.27 5.33 16.67 5 16 5H8C6.9 5 6 5.9 6 7V15C6 16.1 6.9 17 8 17H16C16.67 17 17.27 16.66 17.63 16.15L22 11L17.63 5.84Z" /></svg>
 </div>
 <detail full-name='mdi-label-multiple'></detail>
-    
+<div>
+<p>关于“label multiple”的评论:</p>
+</div>
+<Vssue title="关于“label multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

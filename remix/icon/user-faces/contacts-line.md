@@ -5,6 +5,7 @@ name: contacts-line
 zhTips: 联系人
 tags: ["user-faces"]
 search: line
+image: https://iconhelper.cn/svg/remix/user-faces/contacts-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-contacts-line'></detail>
-    
+<detail full-name='ri-contacts-line'></detail>  
+<div>
+<p>关于“contacts line”的评论:</p>
+</div>
+<Vssue title="关于“contacts line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

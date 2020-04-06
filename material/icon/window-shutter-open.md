@@ -5,6 +5,7 @@ name: window-shutter-open
 zhTips: 百叶窗打开
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/window-shutter-open.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 4H21V8H19V20H17V8H7V20H5V8H3V4M8 9H16V11H8V9Z" /></svg>
 </div>
 <detail full-name='mdi-window-shutter-open'></detail>
-    
+<div>
+<p>关于“window shutter open”的评论:</p>
+</div>
+<Vssue title="关于“window shutter open”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

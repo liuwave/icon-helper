@@ -5,6 +5,7 @@ name: panorama
 zhTips: 全景
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/panorama.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.5,12.5L11,15.5L14.5,11L19,17H5M23,18V6A2,2 0 0,0 21,4H3A2,2 0 0,0 1,6V18A2,2 0 0,0 3,20H21A2,2 0 0,0 23,18Z" /></svg>
 </div>
 <detail full-name='mdi-panorama'></detail>
-    
+<div>
+<p>关于“panorama”的评论:</p>
+</div>
+<Vssue title="关于“panorama”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

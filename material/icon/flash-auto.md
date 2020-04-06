@@ -5,6 +5,7 @@ name: flash-auto
 zhTips: 自动闪光
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/flash-auto.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.85,7.65L18,4L19.15,7.65M19,2H17L13.8,11H15.7L16.4,9H19.6L20.3,11H22.2M3,2V14H6V23L13,11H9L13,2H3Z" /></svg>
 </div>
 <detail full-name='mdi-flash-auto'></detail>
-    
+<div>
+<p>关于“flash auto”的评论:</p>
+</div>
+<Vssue title="关于“flash auto”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

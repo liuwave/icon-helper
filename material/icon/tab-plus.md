@@ -5,6 +5,7 @@ name: tab-plus
 zhTips: 选项卡加号,选项卡添加
 tags: []
 search: tab-add
+image: https://iconhelper.cn/svg/material/tab-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,3A2,2 0 0,0 1,5V19A2,2 0 0,0 3,21H21A2,2 0 0,0 23,19V5A2,2 0 0,0 21,3H3M3,5H13V9H21V19H3V5M10,10V13H7V15H10V18H12V15H15V13H12V10H10Z" /></svg>
 </div>
 <detail full-name='mdi-tab-plus'></detail>
-    
+<div>
+<p>关于“tab plus”的评论:</p>
+</div>
+<Vssue title="关于“tab plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

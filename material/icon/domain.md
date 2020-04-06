@@ -5,6 +5,7 @@ name: domain
 zhTips: 域,建筑物,公司,业务
 tags: ["places"]
 search: building,company,business
+image: https://iconhelper.cn/svg/material/domain.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,15H16V17H18M18,11H16V13H18M20,19H12V17H14V15H12V13H14V11H12V9H20M10,7H8V5H10M10,11H8V9H10M10,15H8V13H10M10,19H8V17H10M6,7H4V5H6M6,11H4V9H6M6,15H4V13H6M6,19H4V17H6M12,7V3H2V21H22V7H12Z" /></svg>
 </div>
 <detail full-name='mdi-domain'></detail>
-    
+<div>
+<p>关于“domain”的评论:</p>
+</div>
+<Vssue title="关于“domain”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

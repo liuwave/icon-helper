@@ -5,6 +5,7 @@ name: calendar-blank-multiple
 zhTips: 日历空白多个
 tags: ["date-time"]
 search: 
+image: https://iconhelper.cn/svg/material/calendar-blank-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 17V8H7V17H21M21 3C22.1 3 23 3.9 23 5V17C23 18.1 22.1 19 21 19H7C5.89 19 5 18.1 5 17V5C5 3.9 5.9 3 7 3H8V1H10V3H18V1H20V3H21M3 21H17V23H3C1.89 23 1 22.1 1 21V9H3V21Z" /></svg>
 </div>
 <detail full-name='mdi-calendar-blank-multiple'></detail>
-    
+<div>
+<p>关于“calendar blank multiple”的评论:</p>
+</div>
+<Vssue title="关于“calendar blank multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

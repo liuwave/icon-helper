@@ -5,6 +5,7 @@ name: format-header-decrease
 zhTips: 格式头减少
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-header-decrease.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,4H6V10H10V4H12V18H10V12H6V18H4V4M20.42,7.41L16.83,11L20.42,14.59L19,16L14,11L19,6L20.42,7.41Z" /></svg>
 </div>
 <detail full-name='mdi-format-header-decrease'></detail>
-    
+<div>
+<p>关于“format header decrease”的评论:</p>
+</div>
+<Vssue title="关于“format header decrease”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

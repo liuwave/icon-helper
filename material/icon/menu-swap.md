@@ -5,6 +5,7 @@ name: menu-swap
 zhTips: 交换菜单
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/menu-swap.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,6L7,11H17L12,6M7,13L12,18L17,13H7Z" /></svg>
 </div>
 <detail full-name='mdi-menu-swap'></detail>
-    
+<div>
+<p>关于“menu swap”的评论:</p>
+</div>
+<Vssue title="关于“menu swap”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

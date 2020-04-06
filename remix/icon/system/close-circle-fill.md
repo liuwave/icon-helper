@@ -5,6 +5,7 @@ name: close-circle-fill
 zhTips: 关闭,取消,移除,删除,清空
 tags: ["system"]
 search: cancel,remove,delete,empty,x,fill
+image: https://iconhelper.cn/svg/remix/system/close-circle-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-close-circle-fill'></detail>
-    
+<detail full-name='ri-close-circle-fill'></detail>  
+<div>
+<p>关于“close circle fill”的评论:</p>
+</div>
+<Vssue title="关于“close circle fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

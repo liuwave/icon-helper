@@ -5,6 +5,7 @@ name: align-vertical-center
 zhTips: 对齐垂直中心
 tags: []
 search: align-vertical-centre
+image: https://iconhelper.cn/svg/material/align-vertical-center.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 20V13H2V11H5V4H11V11H13V7H19V11H22V13H19V17H13V13H11V20H5Z" /></svg>
 </div>
 <detail full-name='mdi-align-vertical-center'></detail>
-    
+<div>
+<p>关于“align vertical center”的评论:</p>
+</div>
+<Vssue title="关于“align vertical center”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

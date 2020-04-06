@@ -5,6 +5,7 @@ name: video-image
 zhTips: 视频图像
 tags: ["video-movie"]
 search: 
+image: https://iconhelper.cn/svg/material/video-image.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,10.5L21,6.5V17.5L17,13.5V17A1,1 0 0,1 16,18H4A1,1 0 0,1 3,17V7A1,1 0 0,1 4,6H16A1,1 0 0,1 17,7V10.5M10.91,9.55L9.2,11.82L10.5,13.55L9.77,14.09L7.73,11.36L5,15H15L10.91,9.55Z" /></svg>
 </div>
 <detail full-name='mdi-video-image'></detail>
-    
+<div>
+<p>关于“video image”的评论:</p>
+</div>
+<Vssue title="关于“video image”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

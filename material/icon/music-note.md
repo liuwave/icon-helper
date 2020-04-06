@@ -5,6 +5,7 @@ name: music-note
 zhTips: 音乐笔记
 tags: ["audio","music"]
 search: 
+image: https://iconhelper.cn/svg/material/music-note.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3V13.55C11.41 13.21 10.73 13 10 13C7.79 13 6 14.79 6 17S7.79 21 10 21 14 19.21 14 17V7H18V3H12Z" /></svg>
 </div>
 <detail full-name='mdi-music-note'></detail>
-    
+<div>
+<p>关于“music note”的评论:</p>
+</div>
+<Vssue title="关于“music note”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: toaster
 zhTips: 烤面包机
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/toaster.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 11A2 2 0 0 0 19 9H5A2 2 0 0 0 3 11H2V13H3V20H21V13H22V11M17 15A2 2 0 1 1 19 13A2 2 0 0 1 17 15M18 8H6C6.33 5.75 8.88 4 12 4S17.63 5.75 18 8Z" /></svg>
 </div>
 <detail full-name='mdi-toaster'></detail>
-    
+<div>
+<p>关于“toaster”的评论:</p>
+</div>
+<Vssue title="关于“toaster”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

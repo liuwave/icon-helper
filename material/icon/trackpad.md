@@ -5,6 +5,7 @@ name: trackpad
 zhTips: 触控板
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/trackpad.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,3H20A2,2 0 0,1 22,5V19A2,2 0 0,1 20,21H4A2,2 0 0,1 2,19V5A2,2 0 0,1 4,3M4,5V13H20V5H4M4,19H11V15H4V19M20,19V15H13V19H20Z" /></svg>
 </div>
 <detail full-name='mdi-trackpad'></detail>
-    
+<div>
+<p>关于“trackpad”的评论:</p>
+</div>
+<Vssue title="关于“trackpad”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

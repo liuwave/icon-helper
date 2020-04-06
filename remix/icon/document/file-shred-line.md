@@ -5,6 +5,7 @@ name: file-shred-line
 zhTips: 文档,销毁,碎纸机,破裂,粉碎
 tags: ["document"]
 search: shredder,shred,destroy,cut,line
+image: https://iconhelper.cn/svg/remix/document/file-shred-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-file-shred-line'></detail>
-    
+<detail full-name='ri-file-shred-line'></detail>  
+<div>
+<p>关于“file shred line”的评论:</p>
+</div>
+<Vssue title="关于“file shred line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

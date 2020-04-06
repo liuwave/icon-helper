@@ -5,6 +5,7 @@ name: power-on
 zhTips: 开机
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/power-on.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,3H13V21H11V3Z" /></svg>
 </div>
 <detail full-name='mdi-power-on'></detail>
-    
+<div>
+<p>关于“power on”的评论:</p>
+</div>
+<Vssue title="关于“power on”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: arrow-right-bold-outline
 zhTips: 右箭头加粗轮廓
 tags: ["arrow","automotive"]
 search: 
+image: https://iconhelper.cn/svg/material/arrow-right-bold-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,16H3V8H11V2L21,12L11,22V16M13,7V10H5V14H13V17L18,12L13,7Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-right-bold-outline'></detail>
-    
+<div>
+<p>关于“arrow right bold outline”的评论:</p>
+</div>
+<Vssue title="关于“arrow right bold outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: playlist-star
 zhTips: 星级播放列表
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/playlist-star.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,19.09L19.45,20.58L18.8,17.77L21,15.89L18.11,15.64L17,13L15.87,15.64L13,15.89L15.18,17.77L14.5,20.58L17,19.09M4,14H12V16H4V14M4,6H16V8H4V6M4,10H16V12H4V10Z" /></svg>
 </div>
 <detail full-name='mdi-playlist-star'></detail>
-    
+<div>
+<p>关于“playlist star”的评论:</p>
+</div>
+<Vssue title="关于“playlist star”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

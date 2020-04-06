@@ -5,6 +5,7 @@ name: email-plus
 zhTips: 电子邮件加,电子邮件添加,信封添加,信封加
 tags: []
 search: email-add,envelope-add,envelope-plus
+image: https://iconhelper.cn/svg/material/email-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,4C1.89,4 1,4.89 1,6V18A2,2 0 0,0 3,20H14.09C14.03,19.67 14,19.34 14,19A6,6 0 0,1 20,13C20.34,13 20.67,13.03 21,13.09V6C21,4.89 20.1,4 19,4H3M3,6L11,11L19,6V8L11,13L3,8V6M19,15V18H16V20H19V23H21V20H24V18H21V15H19Z" /></svg>
 </div>
 <detail full-name='mdi-email-plus'></detail>
-    
+<div>
+<p>关于“email plus”的评论:</p>
+</div>
+<Vssue title="关于“email plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

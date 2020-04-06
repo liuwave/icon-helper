@@ -5,6 +5,7 @@ name: tooth
 zhTips: 牙齿,牙医
 tags: ["medical-hospital"]
 search: dentist
+image: https://iconhelper.cn/svg/material/tooth.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,2C4,2 2,5 2,8C2,10.11 3,13 4,14C5,15 6,22 8,22C12.54,22 10,15 12,15C14,15 11.46,22 16,22C18,22 19,15 20,14C21,13 22,10.11 22,8C22,5 20,2 17,2C14,2 14,3 12,3C10,3 10,2 7,2Z" /></svg>
 </div>
 <detail full-name='mdi-tooth'></detail>
-    
+<div>
+<p>关于“tooth”的评论:</p>
+</div>
+<Vssue title="关于“tooth”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

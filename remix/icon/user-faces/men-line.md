@@ -5,6 +5,7 @@ name: men-line
 zhTips: 男人,男性
 tags: ["user-faces"]
 search: gender,male,man,line
+image: https://iconhelper.cn/svg/remix/user-faces/men-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-men-line'></detail>
-    
+<detail full-name='ri-men-line'></detail>  
+<div>
+<p>关于“men line”的评论:</p>
+</div>
+<Vssue title="关于“men line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

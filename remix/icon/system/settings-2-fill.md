@@ -5,6 +5,7 @@ name: settings-2-fill
 zhTips: 偏好设置,编辑,齿轮
 tags: ["system"]
 search: edit,gear,preferences,fill
+image: https://iconhelper.cn/svg/remix/system/settings-2-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-settings-2-fill'></detail>
-    
+<detail full-name='ri-settings-2-fill'></detail>  
+<div>
+<p>关于“settings 2 fill”的评论:</p>
+</div>
+<Vssue title="关于“settings 2 fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

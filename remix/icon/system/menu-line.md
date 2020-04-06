@@ -5,6 +5,7 @@ name: menu-line
 zhTips: 导航,菜单,汉堡包
 tags: ["system"]
 search: navigation,hamburger,line
+image: https://iconhelper.cn/svg/remix/system/menu-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-menu-line'></detail>
-    
+<detail full-name='ri-menu-line'></detail>  
+<div>
+<p>关于“menu line”的评论:</p>
+</div>
+<Vssue title="关于“menu line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

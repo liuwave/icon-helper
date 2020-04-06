@@ -5,6 +5,7 @@ name: folder-download-fill
 zhTips: 文件夹,目录,文档,下载
 tags: ["document"]
 search: directory,file,fill
+image: https://iconhelper.cn/svg/remix/document/folder-download-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-folder-download-fill'></detail>
-    
+<detail full-name='ri-folder-download-fill'></detail>  
+<div>
+<p>关于“folder download fill”的评论:</p>
+</div>
+<Vssue title="关于“folder download fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

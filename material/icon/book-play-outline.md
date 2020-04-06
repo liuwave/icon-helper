@@ -5,6 +5,7 @@ name: book-play-outline
 zhTips: 书籍播放轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/book-play-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,16L22,19L17,22V16M18,2A2,2 0 0,1 20,4V15.42L18,14.27V4H13V12L10.5,9.75L8,12V4H6V20H15V22H6A2,2 0 0,1 4,20V4A2,2 0 0,1 6,2H18Z" /></svg>
 </div>
 <detail full-name='mdi-book-play-outline'></detail>
-    
+<div>
+<p>关于“book play outline”的评论:</p>
+</div>
+<Vssue title="关于“book play outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

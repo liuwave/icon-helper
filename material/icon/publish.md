@@ -5,6 +5,7 @@ name: publish
 zhTips: 发布
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/publish.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,4V6H19V4H5M5,14H9V20H15V14H19L12,7L5,14Z" /></svg>
 </div>
 <detail full-name='mdi-publish'></detail>
-    
+<div>
+<p>关于“publish”的评论:</p>
+</div>
+<Vssue title="关于“publish”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

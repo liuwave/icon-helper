@@ -5,6 +5,7 @@ name: music-clef-alto
 zhTips: 中音谱号,男高音谱号,女高音谱号,男中音谱号
 tags: ["music"]
 search: music-c-clef,music-clef-tenor,music-clef-soprano,music-clef-baritone
+image: https://iconhelper.cn/svg/material/music-clef-alto.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 4H7V20H5M15.46 13H14.83L13.83 12L14.83 11H15.46A3.5 3.5 0 1 0 11.96 7.5H13.96A1.5 1.5 0 1 1 15.46 9H14L12 11H11V4H9V20H11V13H12L14 15H15.46A1.5 1.5 0 1 1 13.96 16.5H11.96A3.5 3.5 0 1 0 15.46 13Z" /></svg>
 </div>
 <detail full-name='mdi-music-clef-alto'></detail>
-    
+<div>
+<p>关于“music clef alto”的评论:</p>
+</div>
+<Vssue title="关于“music clef alto”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

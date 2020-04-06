@@ -5,6 +5,7 @@ name: album-fill
 zhTips: 唱片,音乐
 tags: ["media"]
 search: music,fill
+image: https://iconhelper.cn/svg/remix/media/album-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-album-fill'></detail>
-    
+<detail full-name='ri-album-fill'></detail>  
+<div>
+<p>关于“album fill”的评论:</p>
+</div>
+<Vssue title="关于“album fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

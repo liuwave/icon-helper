@@ -5,6 +5,7 @@ name: apple-keyboard-control
 zhTips: 苹果键盘控制
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/apple-keyboard-control.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19.78,11.78L18.36,13.19L12,6.83L5.64,13.19L4.22,11.78L12,4L19.78,11.78Z" /></svg>
 </div>
 <detail full-name='mdi-apple-keyboard-control'></detail>
-    
+<div>
+<p>关于“apple keyboard control”的评论:</p>
+</div>
+<Vssue title="关于“apple keyboard control”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

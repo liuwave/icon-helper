@@ -5,6 +5,7 @@ name: folder-shield-2-line
 zhTips: 文件夹,目录,文档,保护,盾牌,安全
 tags: ["document"]
 search: directory,file,protected,secured,line
+image: https://iconhelper.cn/svg/remix/document/folder-shield-2-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-folder-shield-2-line'></detail>
-    
+<detail full-name='ri-folder-shield-2-line'></detail>  
+<div>
+<p>关于“folder shield 2 line”的评论:</p>
+</div>
+<Vssue title="关于“folder shield 2 line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

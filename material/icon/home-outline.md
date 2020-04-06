@@ -5,6 +5,7 @@ name: home-outline
 zhTips: 家庭轮廓,轮廓房子
 tags: ["home-automation"]
 search: house-outline
+image: https://iconhelper.cn/svg/material/home-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.69L17 10.19V18H15V12H9V18H7V10.19L12 5.69M12 3L2 12H5V20H11V14H13V20H19V12H22L12 3Z" /></svg>
 </div>
 <detail full-name='mdi-home-outline'></detail>
-    
+<div>
+<p>关于“home outline”的评论:</p>
+</div>
+<Vssue title="关于“home outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

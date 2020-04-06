@@ -5,6 +5,7 @@ name: numeric-7-box-multiple
 zhTips: 数字7框倍数
 tags: ["alpha-numeric"]
 search: 
+image: https://iconhelper.cn/svg/material/numeric-7-box-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,5V21H19V23H3A2,2 0 0,1 1,21V5H3M13,15L17,7V5H11V7H15L11,15H13M21,1A2,2 0 0,1 23,3V17A2,2 0 0,1 21,19H7A2,2 0 0,1 5,17V3A2,2 0 0,1 7,1H21Z" /></svg>
 </div>
 <detail full-name='mdi-numeric-7-box-multiple'></detail>
-    
+<div>
+<p>关于“numeric 7 box multiple”的评论:</p>
+</div>
+<Vssue title="关于“numeric 7 box multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

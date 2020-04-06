@@ -5,6 +5,7 @@ name: delete-empty
 zhTips: 删除为空,垃圾为空,垃圾箱为空
 tags: []
 search: trash-empty,bin-empty,rubbish-empty,rubbish-bin-empty,trash-can-empty,garbage-empty,garbage-can-empty
+image: https://iconhelper.cn/svg/material/delete-empty.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.37,8.91L19.37,10.64L7.24,3.64L8.24,1.91L11.28,3.66L12.64,3.29L16.97,5.79L17.34,7.16L20.37,8.91M6,19V7H11.07L18,11V19A2,2 0 0,1 16,21H8A2,2 0 0,1 6,19Z" /></svg>
 </div>
 <detail full-name='mdi-delete-empty'></detail>
-    
+<div>
+<p>关于“delete empty”的评论:</p>
+</div>
+<Vssue title="关于“delete empty”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

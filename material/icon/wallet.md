@@ -5,6 +5,7 @@ name: wallet
 zhTips: 钱包,帐户余额钱包,钱包黑,现金,货币,钱
 tags: ["currency","banking"]
 search: account-balance-wallet
+image: https://iconhelper.cn/svg/material/wallet.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,18V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5A2,2 0 0,1 5,3H19A2,2 0 0,1 21,5V6H12C10.89,6 10,6.9 10,8V16A2,2 0 0,0 12,18M12,16H22V8H12M16,13.5A1.5,1.5 0 0,1 14.5,12A1.5,1.5 0 0,1 16,10.5A1.5,1.5 0 0,1 17.5,12A1.5,1.5 0 0,1 16,13.5Z" /></svg>
 </div>
 <detail full-name='mdi-wallet'></detail>
-    
+<div>
+<p>关于“wallet”的评论:</p>
+</div>
+<Vssue title="关于“wallet”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: credit-card-outline
 zhTips: 信用卡轮廓,付款
 tags: ["shopping","banking","currency"]
 search: payment
+image: https://iconhelper.cn/svg/material/credit-card-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,8H4V6H20M20,18H4V12H20M20,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C22,4.89 21.1,4 20,4Z" /></svg>
 </div>
 <detail full-name='mdi-credit-card-outline'></detail>
-    
+<div>
+<p>关于“credit card outline”的评论:</p>
+</div>
+<Vssue title="关于“credit card outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

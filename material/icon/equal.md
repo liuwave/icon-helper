@@ -5,6 +5,7 @@ name: equal
 zhTips: 相等
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/equal.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,10H5V8H19V10M19,16H5V14H19V16Z" /></svg>
 </div>
 <detail full-name='mdi-equal'></detail>
-    
+<div>
+<p>关于“equal”的评论:</p>
+</div>
+<Vssue title="关于“equal”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

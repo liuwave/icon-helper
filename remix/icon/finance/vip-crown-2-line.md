@@ -5,6 +5,7 @@ name: vip-crown-2-line
 zhTips: 皇冠,会员,国王,女王,王后
 tags: ["finance"]
 search: king,queen,line
+image: https://iconhelper.cn/svg/remix/finance/vip-crown-2-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-vip-crown-2-line'></detail>
-    
+<detail full-name='ri-vip-crown-2-line'></detail>  
+<div>
+<p>关于“vip crown 2 line”的评论:</p>
+</div>
+<Vssue title="关于“vip crown 2 line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

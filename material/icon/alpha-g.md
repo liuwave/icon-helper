@@ -5,6 +5,7 @@ name: alpha-g
 zhTips: alpha g,字母g
 tags: ["alpha-numeric"]
 search: alphabet-g,letter-g
+image: https://iconhelper.cn/svg/material/alpha-g.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,7A2,2 0 0,0 9,9V15A2,2 0 0,0 11,17H13A2,2 0 0,0 15,15V11H13V15H11V9H15V7H11Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-g'></detail>
-    
+<div>
+<p>关于“alpha g”的评论:</p>
+</div>
+<Vssue title="关于“alpha g”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

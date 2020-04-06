@@ -5,6 +5,7 @@ name: information
 zhTips: 信息,关于,信息圈,关于圈
 tags: []
 search: about,information-circle,info-circle,about-circle
+image: https://iconhelper.cn/svg/material/information.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,9H11V7H13M13,17H11V11H13M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2Z" /></svg>
 </div>
 <detail full-name='mdi-information'></detail>
-    
+<div>
+<p>关于“information”的评论:</p>
+</div>
+<Vssue title="关于“information”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

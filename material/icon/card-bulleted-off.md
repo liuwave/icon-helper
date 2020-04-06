@@ -5,6 +5,7 @@ name: card-bulleted-off
 zhTips: 卡被弹开
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/card-bulleted-off.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.35,3.58L20.65,20.87L19.23,22.29L16.94,20H4A2,2 0 0,1 2,18V6C2,5.72 2.06,5.46 2.16,5.22L1.23,4.29L2.65,2.87L3.35,3.58M6.6,4H20A2,2 0 0,1 22,6V18C22,18.4 21.88,18.77 21.68,19.08L17.6,15H20V13H15.6L13.6,11H20V9H11.6L6.6,4M9.94,13H9V15H11V14.06L9.94,13M5.94,9H5V11H7V10.06L5.94,9Z" /></svg>
 </div>
 <detail full-name='mdi-card-bulleted-off'></detail>
-    
+<div>
+<p>关于“card bulleted off”的评论:</p>
+</div>
+<Vssue title="关于“card bulleted off”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

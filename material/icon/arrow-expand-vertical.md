@@ -5,6 +5,7 @@ name: arrow-expand-vertical
 zhTips: 箭头垂直展开
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/arrow-expand-vertical.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,9V15H16L12,19L8,15H11V9H8L12,5L16,9H13M4,2H20V4H4V2M4,20H20V22H4V20Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-expand-vertical'></detail>
-    
+<div>
+<p>关于“arrow expand vertical”的评论:</p>
+</div>
+<Vssue title="关于“arrow expand vertical”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

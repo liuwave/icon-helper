@@ -5,6 +5,7 @@ name: copyright-line
 zhTips: 版权
 tags: ["business"]
 search: line
+image: https://iconhelper.cn/svg/remix/business/copyright-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-copyright-line'></detail>
-    
+<detail full-name='ri-copyright-line'></detail>  
+<div>
+<p>关于“copyright line”的评论:</p>
+</div>
+<Vssue title="关于“copyright line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

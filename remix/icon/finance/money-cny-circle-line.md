@@ -5,6 +5,7 @@ name: money-cny-circle-line
 zhTips: 金币,货币,钱,支付,人民币
 tags: ["finance"]
 search: currency,coins,payment,line
+image: https://iconhelper.cn/svg/remix/finance/money-cny-circle-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-money-cny-circle-line'></detail>
-    
+<detail full-name='ri-money-cny-circle-line'></detail>  
+<div>
+<p>关于“money cny circle line”的评论:</p>
+</div>
+<Vssue title="关于“money cny circle line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

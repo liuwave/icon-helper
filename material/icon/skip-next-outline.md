@@ -5,6 +5,7 @@ name: skip-next-outline
 zhTips: 跳过下一个轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/skip-next-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,18L14.5,12L6,6M8,9.86L11.03,12L8,14.14M16,6H18V18H16" /></svg>
 </div>
 <detail full-name='mdi-skip-next-outline'></detail>
-    
+<div>
+<p>关于“skip next outline”的评论:</p>
+</div>
+<Vssue title="关于“skip next outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

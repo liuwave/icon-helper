@@ -5,6 +5,7 @@ name: format-quote-open
 zhTips: 开放式报价格式
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-quote-open.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,7L8,11H11V17H5V11L7,7H10M18,7L16,11H19V17H13V11L15,7H18Z" /></svg>
 </div>
 <detail full-name='mdi-format-quote-open'></detail>
-    
+<div>
+<p>关于“format quote open”的评论:</p>
+</div>
+<Vssue title="关于“format quote open”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

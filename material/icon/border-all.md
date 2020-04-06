@@ -5,6 +5,7 @@ name: border-all
 zhTips: 边框全部
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/border-all.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,11H13V5H19M19,19H13V13H19M11,11H5V5H11M11,19H5V13H11M3,21H21V3H3V21Z" /></svg>
 </div>
 <detail full-name='mdi-border-all'></detail>
-    
+<div>
+<p>关于“border all”的评论:</p>
+</div>
+<Vssue title="关于“border all”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

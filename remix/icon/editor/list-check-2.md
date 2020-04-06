@@ -5,6 +5,7 @@ name: list-check-2
 zhTips: 清单列表
 tags: ["editor"]
 search: check list
+image: https://iconhelper.cn/svg/remix/editor/list-check-2.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-list-check-2'></detail>
-    
+<detail full-name='ri-list-check-2'></detail>  
+<div>
+<p>关于“list check 2”的评论:</p>
+</div>
+<Vssue title="关于“list check 2”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

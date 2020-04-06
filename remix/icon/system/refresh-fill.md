@@ -5,6 +5,7 @@ name: refresh-fill
 zhTips: 刷新,同步
 tags: ["system"]
 search: synchronization,reload,restart,spinner,loader,ajax,update,fill
+image: https://iconhelper.cn/svg/remix/system/refresh-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-refresh-fill'></detail>
-    
+<detail full-name='ri-refresh-fill'></detail>  
+<div>
+<p>关于“refresh fill”的评论:</p>
+</div>
+<Vssue title="关于“refresh fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

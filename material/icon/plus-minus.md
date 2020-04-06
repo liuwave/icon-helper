@@ -5,6 +5,7 @@ name: plus-minus
 zhTips: 加号
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/plus-minus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,4V9H6V11H11V16H13V11H18V9H13V4H11M6,18V20H18V18H6Z" /></svg>
 </div>
 <detail full-name='mdi-plus-minus'></detail>
-    
+<div>
+<p>关于“plus minus”的评论:</p>
+</div>
+<Vssue title="关于“plus minus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

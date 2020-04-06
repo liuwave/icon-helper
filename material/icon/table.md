@@ -5,6 +5,7 @@ name: table
 zhTips: 表,平板桌面,表格,数据,Excel,电子表格,书架,盒子
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/table.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,4H19A2,2 0 0,1 21,6V18A2,2 0 0,1 19,20H5A2,2 0 0,1 3,18V6A2,2 0 0,1 5,4M5,8V12H11V8H5M13,8V12H19V8H13M5,14V18H11V14H5M13,14V18H19V14H13Z" /></svg>
 </div>
 <detail full-name='mdi-table'></detail>
-    
+<div>
+<p>关于“table”的评论:</p>
+</div>
+<Vssue title="关于“table”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

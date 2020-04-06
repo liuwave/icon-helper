@@ -5,6 +5,7 @@ name: toy-brick-plus-outline
 zhTips: 积木,轮廓,乐高,插件,扩展
 tags: []
 search: lego,plugin,extension
+image: https://iconhelper.cn/svg/material/toy-brick-plus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6V5A2 2 0 0 0 17 3H15A2 2 0 0 0 13 5V6H11V5A2 2 0 0 0 9 3H7A2 2 0 0 0 5 5V6H3V20H14V18H5V8H19V13H21V6M21 15V18H24V20H21V23H19V20H16V18H19V15Z" /></svg>
 </div>
 <detail full-name='mdi-toy-brick-plus-outline'></detail>
-    
+<div>
+<p>关于“toy brick plus outline”的评论:</p>
+</div>
+<Vssue title="关于“toy brick plus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

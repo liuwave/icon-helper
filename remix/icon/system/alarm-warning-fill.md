@@ -5,6 +5,7 @@ name: alarm-warning-fill
 zhTips: 告警,举报,警灯
 tags: ["system"]
 search: alert,report,police light,fill
+image: https://iconhelper.cn/svg/remix/system/alarm-warning-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-alarm-warning-fill'></detail>
-    
+<detail full-name='ri-alarm-warning-fill'></detail>  
+<div>
+<p>关于“alarm warning fill”的评论:</p>
+</div>
+<Vssue title="关于“alarm warning fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

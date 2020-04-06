@@ -5,6 +5,7 @@ name: home-lightbulb
 zhTips: 家用灯泡
 tags: ["home-automation"]
 search: home-bulb
+image: https://iconhelper.cn/svg/material/home-lightbulb.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3L2 12H5V20H19V12H22M13 18H11V17H13M13.5 14.58V16H10.5V14.58A3 3 0 1 1 13.5 14.58Z" /></svg>
 </div>
 <detail full-name='mdi-home-lightbulb'></detail>
-    
+<div>
+<p>关于“home lightbulb”的评论:</p>
+</div>
+<Vssue title="关于“home lightbulb”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

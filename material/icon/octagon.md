@@ -5,6 +5,7 @@ name: octagon
 zhTips: 八边形
 tags: ["shape","transportation-road"]
 search: 
+image: https://iconhelper.cn/svg/material/octagon.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15.73,3H8.27L3,8.27V15.73L8.27,21H15.73L21,15.73V8.27" /></svg>
 </div>
 <detail full-name='mdi-octagon'></detail>
-    
+<div>
+<p>关于“octagon”的评论:</p>
+</div>
+<Vssue title="关于“octagon”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: format-quote-close
 zhTips: 格式报价关闭
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-quote-close.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,17H17L19,13V7H13V13H16M6,17H9L11,13V7H5V13H8L6,17Z" /></svg>
 </div>
 <detail full-name='mdi-format-quote-close'></detail>
-    
+<div>
+<p>关于“format quote close”的评论:</p>
+</div>
+<Vssue title="关于“format quote close”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

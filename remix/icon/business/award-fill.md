@@ -5,6 +5,7 @@ name: award-fill
 zhTips: 成就,奖牌,金牌,勋章
 tags: ["business"]
 search: medal,achievement,badge,fill
+image: https://iconhelper.cn/svg/remix/business/award-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-award-fill'></detail>
-    
+<detail full-name='ri-award-fill'></detail>  
+<div>
+<p>关于“award fill”的评论:</p>
+</div>
+<Vssue title="关于“award fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

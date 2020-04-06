@@ -5,6 +5,7 @@ name: text
 zhTips: 字体
 tags: ["editor"]
 search: 
+image: https://iconhelper.cn/svg/remix/editor/text.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-text'></detail>
-    
+<detail full-name='ri-text'></detail>  
+<div>
+<p>关于“text”的评论:</p>
+</div>
+<Vssue title="关于“text”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

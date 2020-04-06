@@ -5,6 +5,7 @@ name: hospital
 zhTips: 瑞士十字医院,医院,建筑,新型冠状病毒,新冠肺炎,急诊室,医疗中心
 tags: ["medical-hospital"]
 search: swiss-cross
+image: https://iconhelper.cn/svg/material/hospital.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 14H14V18H10V14H6V10H10V6H14V10H18" /></svg>
 </div>
 <detail full-name='mdi-hospital'></detail>
-    
+<div>
+<p>关于“hospital”的评论:</p>
+</div>
+<Vssue title="关于“hospital”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

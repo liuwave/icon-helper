@@ -5,6 +5,7 @@ name: unfold-less-horizontal
 zhTips: 展开较少水平,人字形向下,折叠水平
 tags: []
 search: chevron-down-up,collapse-horizontal
+image: https://iconhelper.cn/svg/material/unfold-less-horizontal.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.59,5.41L15.17,4L12,7.17L8.83,4L7.41,5.41L12,10M7.41,18.59L8.83,20L12,16.83L15.17,20L16.58,18.59L12,14L7.41,18.59Z" /></svg>
 </div>
 <detail full-name='mdi-unfold-less-horizontal'></detail>
-    
+<div>
+<p>关于“unfold less horizontal”的评论:</p>
+</div>
+<Vssue title="关于“unfold less horizontal”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

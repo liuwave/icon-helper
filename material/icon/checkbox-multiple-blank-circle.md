@@ -5,6 +5,7 @@ name: checkbox-multiple-blank-circle
 zhTips: 复选框多个空白圆圈,复选框空白圆圈
 tags: ["form"]
 search: checkboxes-blank-circle
+image: https://iconhelper.cn/svg/material/checkbox-multiple-blank-circle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,2A8,8 0 0,0 6,10A8,8 0 0,0 14,18A8,8 0 0,0 22,10A8,8 0 0,0 14,2M4.93,5.82C3.08,7.34 2,9.61 2,12A8,8 0 0,0 10,20C10.64,20 11.27,19.92 11.88,19.77C10.12,19.38 8.5,18.5 7.17,17.29C5.22,16.25 4,14.21 4,12C4,11.7 4.03,11.41 4.07,11.11C4.03,10.74 4,10.37 4,10C4,8.56 4.32,7.13 4.93,5.82Z" /></svg>
 </div>
 <detail full-name='mdi-checkbox-multiple-blank-circle'></detail>
-    
+<div>
+<p>关于“checkbox multiple blank circle”的评论:</p>
+</div>
+<Vssue title="关于“checkbox multiple blank circle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

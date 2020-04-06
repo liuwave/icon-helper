@@ -5,6 +5,7 @@ name: printer-alert
 zhTips: 打印机警报,打印机警告
 tags: ["printer","home-automation","alert-error"]
 search: printer-warning
+image: https://iconhelper.cn/svg/material/printer-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,4V8H6V4H14M15,13A1,1 0 0,0 16,12A1,1 0 0,0 15,11A1,1 0 0,0 14,12A1,1 0 0,0 15,13M13,19V15H7V19H13M15,9A3,3 0 0,1 18,12V17H15V21H5V17H2V12A3,3 0 0,1 5,9H15M22,7V12H20V7H22M22,14V16H20V14H22Z" /></svg>
 </div>
 <detail full-name='mdi-printer-alert'></detail>
-    
+<div>
+<p>关于“printer alert”的评论:</p>
+</div>
+<Vssue title="关于“printer alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

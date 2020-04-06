@@ -5,6 +5,7 @@ name: music-note-quarter-dotted
 zhTips: 点缀音乐笔记
 tags: ["music"]
 search: 
+image: https://iconhelper.cn/svg/material/music-note-quarter-dotted.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 13V13.56A3.96 3.96 0 0 0 10 13A4 4 0 1 0 14 17V3H12M16.5 17A1.5 1.5 0 1 1 15 18.5A1.5 1.5 0 0 1 16.5 17Z" /></svg>
 </div>
 <detail full-name='mdi-music-note-quarter-dotted'></detail>
-    
+<div>
+<p>关于“music note quarter dotted”的评论:</p>
+</div>
+<Vssue title="关于“music note quarter dotted”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

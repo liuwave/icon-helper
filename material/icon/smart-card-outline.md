@@ -5,6 +5,7 @@ name: smart-card-outline
 zhTips: 智能卡概述
 tags: ["account-user"]
 search: 
+image: https://iconhelper.cn/svg/material/smart-card-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 3H2A2.07 2.07 0 0 0 0 5V19A2.07 2.07 0 0 0 2 21H22A2.07 2.07 0 0 0 24 19V5A2.07 2.07 0 0 0 22 3M22 19H2V5H22M14 17V15.75C14 14.09 10.66 13.25 9 13.25S4 14.09 4 15.75V17H14M9 7A2.5 2.5 0 1 0 11.5 9.5A2.5 2.5 0 0 0 9 7M15 10V13H19V10H15" /></svg>
 </div>
 <detail full-name='mdi-smart-card-outline'></detail>
-    
+<div>
+<p>关于“smart card outline”的评论:</p>
+</div>
+<Vssue title="关于“smart card outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

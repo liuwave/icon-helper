@@ -5,6 +5,7 @@ name: email-alert-outline
 zhTips: 电子邮件警报概述
 tags: ["alert-error"]
 search: 
+image: https://iconhelper.cn/svg/material/email-alert-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 12V7H22V12H20M20 16V14H22V16H20M18 7C18 5.9 17.1 5 16 5H4C2.9 5 2 5.9 2 7V16C2 17.1 2.9 18 4 18H16C17.1 18 18 17.1 18 16V7M16 7L10 11L4 7H16M16 16H4V9L10 13L16 9V16Z" /></svg>
 </div>
 <detail full-name='mdi-email-alert-outline'></detail>
-    
+<div>
+<p>关于“email alert outline”的评论:</p>
+</div>
+<Vssue title="关于“email alert outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

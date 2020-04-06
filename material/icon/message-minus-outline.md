@@ -5,6 +5,7 @@ name: message-minus-outline
 zhTips: 消息减去轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/message-minus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 2H4C2.9 2 2 2.9 2 4V22L6 18H20C21.11 18 22 17.11 22 16V4C22 2.9 21.11 2 20 2M20 16H6L4 18V4H20M8 9V11H16V9H8Z" /></svg>
 </div>
 <detail full-name='mdi-message-minus-outline'></detail>
-    
+<div>
+<p>关于“message minus outline”的评论:</p>
+</div>
+<Vssue title="关于“message minus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

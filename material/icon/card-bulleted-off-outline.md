@@ -5,6 +5,7 @@ name: card-bulleted-off-outline
 zhTips: 卡的轮廓略过
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/card-bulleted-off-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.59,20.87L19.17,22.29L16.88,20H4A2,2 0 0,1 2,18V6C2,5.74 2.05,5.5 2.14,5.26L1.17,4.29L2.59,2.87L3.73,4L20.59,20.87V20.87M6.54,4H20A2,2 0 0,1 22,6V18C22,18.41 21.87,18.8 21.66,19.12L20,17.46V6H8.54L6.54,4M4,18H14.88L11.88,15H10V13.12L7.88,11H6V9.12L4,7.12V18M18,15H17.54L15.54,13H18V15M18,11H13.54L11.54,9H18V11Z" /></svg>
 </div>
 <detail full-name='mdi-card-bulleted-off-outline'></detail>
-    
+<div>
+<p>关于“card bulleted off outline”的评论:</p>
+</div>
+<Vssue title="关于“card bulleted off outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

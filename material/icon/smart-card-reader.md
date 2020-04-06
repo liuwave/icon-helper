@@ -5,6 +5,7 @@ name: smart-card-reader
 zhTips: 智能卡读卡器
 tags: ["account-user"]
 search: 
+image: https://iconhelper.cn/svg/material/smart-card-reader.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 4A2.07 2.07 0 0 0 19 2H5A2.07 2.07 0 0 0 3 4V18H21M8.25 16H7V6H8.25C9.91 6 10.75 9.34 10.75 11S9.91 16 8.25 16M14.5 13.5A2.5 2.5 0 1 1 17 11A2.5 2.5 0 0 1 14.5 13.5M23 21V22H1V21A2 2 0 0 1 3 19H21A2 2 0 0 1 23 21Z" /></svg>
 </div>
 <detail full-name='mdi-smart-card-reader'></detail>
-    
+<div>
+<p>关于“smart card reader”的评论:</p>
+</div>
+<Vssue title="关于“smart card reader”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

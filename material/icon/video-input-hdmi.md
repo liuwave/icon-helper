@@ -5,6 +5,7 @@ name: video-input-hdmi
 zhTips: 视频输入HDMI,设置输入HDMI
 tags: ["video-movie"]
 search: settings-input-hdmi
+image: https://iconhelper.cn/svg/material/video-input-hdmi.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,7V4A2,2 0 0,0 16,2H8A2,2 0 0,0 6,4V7H5V13L8,19V22H16V19L19,13V7H18M8,4H16V7H14V5H13V7H11V5H10V7H8V4Z" /></svg>
 </div>
 <detail full-name='mdi-video-input-hdmi'></detail>
-    
+<div>
+<p>关于“video input hdmi”的评论:</p>
+</div>
+<Vssue title="关于“video input hdmi”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

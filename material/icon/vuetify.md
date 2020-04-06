@@ -5,6 +5,7 @@ name: vuetify
 zhTips: vuetify
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/vuetify.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,11.64L7.92,2H16.08L12,11.64M12,21.95L3.27,4.91H7.84L12,14.47L16.16,4.91H20.73L12,21.95Z" /></svg>
 </div>
 <detail full-name='mdi-vuetify'></detail>
-    
+<div>
+<p>关于“vuetify”的评论:</p>
+</div>
+<Vssue title="关于“vuetify”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

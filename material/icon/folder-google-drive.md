@@ -5,6 +5,7 @@ name: folder-google-drive
 zhTips: 文件夹google驱动器,文件夹mydrive
 tags: ["files-folders"]
 search: folder-mydrive
+image: https://iconhelper.cn/svg/material/folder-google-drive.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.75,9H16.14L19,14H16.05L13.5,9.46M18.3,17H12.75L14.15,14.5H19.27L19.53,14.96M11.5,17L10.4,14.86L13.24,9.9L14.74,12.56L12.25,17M20,6H12L10,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V8C22,6.89 21.1,6 20,6Z" /></svg>
 </div>
 <detail full-name='mdi-folder-google-drive'></detail>
-    
+<div>
+<p>关于“folder google drive”的评论:</p>
+</div>
+<Vssue title="关于“folder google drive”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

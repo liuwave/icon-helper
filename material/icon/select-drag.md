@@ -5,6 +5,7 @@ name: select-drag
 zhTips: 选择拖动
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/select-drag.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,17H17V13H19V17H23V19H19V23H17V19H13V17M11,17V19H9V17H11M7,17V19H5V17H7M19,9V11H17V9H19M19,5V7H17V5H19M15,5V7H13V5H15M11,5V7H9V5H11M7,5V7H5V5H7M7,13V15H5V13H7M7,9V11H5V9H7Z" /></svg>
 </div>
 <detail full-name='mdi-select-drag'></detail>
-    
+<div>
+<p>关于“select drag”的评论:</p>
+</div>
+<Vssue title="关于“select drag”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

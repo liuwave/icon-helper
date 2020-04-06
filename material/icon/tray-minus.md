@@ -5,6 +5,7 @@ name: tray-minus
 zhTips: 托盘减号,队列,打印机,收件箱
 tags: []
 search: queue,printer,inbox
+image: https://iconhelper.cn/svg/material/tray-minus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 10H8V8H16M2 17A2 2 0 0 0 4 19H20A2 2 0 0 0 22 17V12H20V17H4V12H2Z" /></svg>
 </div>
 <detail full-name='mdi-tray-minus'></detail>
-    
+<div>
+<p>关于“tray minus”的评论:</p>
+</div>
+<Vssue title="关于“tray minus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: format-text-rotation-down
 zhTips: 向下格式化文本
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-text-rotation-down.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,19.73L3,16.73H5V4.27H7V16.73H9L6,19.73M14,9.38V13.13L19.03,11.25L14,9.38M21,12L10,16.73V14.67L12.19,13.73V8.77L10,7.83V5.77L21,10.5V12Z" /></svg>
 </div>
 <detail full-name='mdi-format-text-rotation-down'></detail>
-    
+<div>
+<p>关于“format text rotation down”的评论:</p>
+</div>
+<Vssue title="关于“format text rotation down”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

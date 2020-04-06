@@ -5,6 +5,7 @@ name: delete-off-outline
 zhTips: 删除轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/delete-off-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 5.27L3.28 4L5 5.72L5.28 6L6.28 7L8.28 9L16 16.72L18 18.72L20 20.72L18.73 22L17.27 20.54C16.93 20.83 16.5 21 16 21H8C6.9 21 6 20.1 6 19V9.27L2 5.27M8 19H15.73L8 11.27V19M18 7V16.18L16 14.18V9H10.82L8.82 7H18M15.5 4H19V6H7.82L5.82 4H8.5L9.5 3H14.5L15.5 4Z" /></svg>
 </div>
 <detail full-name='mdi-delete-off-outline'></detail>
-    
+<div>
+<p>关于“delete off outline”的评论:</p>
+</div>
+<Vssue title="关于“delete off outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

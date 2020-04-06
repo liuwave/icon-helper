@@ -5,6 +5,7 @@ name: home-floor-g
 zhTips: 家庭地板g,家庭地板地面,房屋地板g,地面房屋
 tags: ["home-automation"]
 search: home-floor-ground,house-floor-g,house-floor-ground
+image: https://iconhelper.cn/svg/material/home-floor-g.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3L2,12H5V20H19V12H22L12,3M11,8H15V10H11V16H13V12H15V16C15,17.11 14.1,18 13,18H11A2,2 0 0,1 9,16V10C9,8.89 9.9,8 11,8Z" /></svg>
 </div>
 <detail full-name='mdi-home-floor-g'></detail>
-    
+<div>
+<p>关于“home floor g”的评论:</p>
+</div>
+<Vssue title="关于“home floor g”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

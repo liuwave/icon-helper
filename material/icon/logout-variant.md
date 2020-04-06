@@ -5,6 +5,7 @@ name: logout-variant
 zhTips: 注销变量
 tags: []
 search: log-out-variant,sign-out-variant
+image: https://iconhelper.cn/svg/material/logout-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.08,15.59L16.67,13H7V11H16.67L14.08,8.41L15.5,7L20.5,12L15.5,17L14.08,15.59M19,3A2,2 0 0,1 21,5V9.67L19,7.67V5H5V19H19V16.33L21,14.33V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5C3,3.89 3.89,3 5,3H19Z" /></svg>
 </div>
 <detail full-name='mdi-logout-variant'></detail>
-    
+<div>
+<p>关于“logout variant”的评论:</p>
+</div>
+<Vssue title="关于“logout variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

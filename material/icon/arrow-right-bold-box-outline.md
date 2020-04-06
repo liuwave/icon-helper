@@ -5,6 +5,7 @@ name: arrow-right-bold-box-outline
 zhTips: 右箭头加粗框轮廓
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/arrow-right-bold-box-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,12L12,17V14H8V10H12V7L17,12M3,19V5A2,2 0 0,1 5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19M5,19H19V5H5V19Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-right-bold-box-outline'></detail>
-    
+<div>
+<p>关于“arrow right bold box outline”的评论:</p>
+</div>
+<Vssue title="关于“arrow right bold box outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

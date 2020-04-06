@@ -5,6 +5,7 @@ name: currency-try
 zhTips: 货币尝试,里拉
 tags: ["currency","banking"]
 search: lira
+image: https://iconhelper.cn/svg/material/currency-try.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,12A9,9 0 0,1 10,21H8V12.77L5,13.87V11.74L8,10.64V8.87L5,9.96V7.84L8,6.74V3H10V6L15,4.2V6.32L10,8.14V9.92L15,8.1V10.23L10,12.05V19A7,7 0 0,0 17,12H19Z" /></svg>
 </div>
 <detail full-name='mdi-currency-try'></detail>
-    
+<div>
+<p>关于“currency try”的评论:</p>
+</div>
+<Vssue title="关于“currency try”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

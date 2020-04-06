@@ -5,6 +5,7 @@ name: flash-outline
 zhTips: 闪光灯轮廓,闪电轮廓
 tags: ["weather"]
 search: lightning-bolt-outline
+image: https://iconhelper.cn/svg/material/flash-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,2H17L13.5,9H17L10,22V14H7V2M9,4V12H12V14.66L14,11H10.24L13.76,4H9Z" /></svg>
 </div>
 <detail full-name='mdi-flash-outline'></detail>
-    
+<div>
+<p>关于“flash outline”的评论:</p>
+</div>
+<Vssue title="关于“flash outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

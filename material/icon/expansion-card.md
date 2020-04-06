@@ -5,6 +5,7 @@ name: expansion-card
 zhTips: 卡扩展,GPU,图形处理单元,NIC,网络接口卡
 tags: ["gaming-rpg"]
 search: gpu,graphics-processing-unit,nic,network-interface-card
+image: https://iconhelper.cn/svg/material/expansion-card.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,7V8.5H3V17H4.5V7C3.7,7 2.8,7 2,7M6,7V7L6,16H7V17H14V16H22V7H6M17.5,9A2.5,2.5 0 0,1 20,11.5A2.5,2.5 0 0,1 17.5,14A2.5,2.5 0 0,1 15,11.5A2.5,2.5 0 0,1 17.5,9Z" /></svg>
 </div>
 <detail full-name='mdi-expansion-card'></detail>
-    
+<div>
+<p>关于“expansion card”的评论:</p>
+</div>
+<Vssue title="关于“expansion card”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

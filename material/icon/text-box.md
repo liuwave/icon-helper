@@ -5,6 +5,7 @@ name: text-box
 zhTips: 文本框,文档驱动器,文件文档框
 tags: ["files-folders"]
 search: drive-document,file-document-box
+image: https://iconhelper.cn/svg/material/text-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" /></svg>
 </div>
 <detail full-name='mdi-text-box'></detail>
-    
+<div>
+<p>关于“text box”的评论:</p>
+</div>
+<Vssue title="关于“text box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

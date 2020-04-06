@@ -5,6 +5,7 @@ name: pan-left
 zhTips: 向左平移
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/pan-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,8L2.5,12L7,16V8M12,10A2,2 0 0,0 10,12A2,2 0 0,0 12,14A2,2 0 0,0 14,12A2,2 0 0,0 12,10Z" /></svg>
 </div>
 <detail full-name='mdi-pan-left'></detail>
-    
+<div>
+<p>关于“pan left”的评论:</p>
+</div>
+<Vssue title="关于“pan left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

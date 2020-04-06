@@ -5,6 +5,7 @@ name: whistle-outline
 zhTips: 哨声轮廓
 tags: ["sport"]
 search: 
+image: https://iconhelper.cn/svg/material/whistle-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.76 3.7L2.14 4.88L4.43 8A8.23 8.23 0 0 1 6.35 7.28M11 9V11H18V11.29L13 12.71V15.5A4.5 4.5 0 1 1 8.5 11H9V9H8.5A6.5 6.5 0 1 0 15 15.5V13.91L22 12V9M16.24 3.7L13.85 7H16.32L17.86 4.88M9 2V7H11V2Z" /></svg>
 </div>
 <detail full-name='mdi-whistle-outline'></detail>
-    
+<div>
+<p>关于“whistle outline”的评论:</p>
+</div>
+<Vssue title="关于“whistle outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

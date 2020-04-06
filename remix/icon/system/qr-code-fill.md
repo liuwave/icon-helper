@@ -5,6 +5,7 @@ name: qr-code-fill
 zhTips: 二维码
 tags: ["system"]
 search: fill
+image: https://iconhelper.cn/svg/remix/system/qr-code-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-qr-code-fill'></detail>
-    
+<detail full-name='ri-qr-code-fill'></detail>  
+<div>
+<p>关于“qr code fill”的评论:</p>
+</div>
+<Vssue title="关于“qr code fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

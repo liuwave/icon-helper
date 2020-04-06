@@ -5,6 +5,7 @@ name: monitor-cellphone
 zhTips: 手机监控器,智能手机监控器
 tags: ["cellphone-phone","device-tech"]
 search: monitor-mobile-phone,monitor-smartphone
+image: https://iconhelper.cn/svg/material/monitor-cellphone.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23,11H18A1,1 0 0,0 17,12V21A1,1 0 0,0 18,22H23A1,1 0 0,0 24,21V12A1,1 0 0,0 23,11M23,20H18V13H23V20M20,2H2C0.89,2 0,2.89 0,4V16A2,2 0 0,0 2,18H9V20H7V22H15V20H13V18H15V16H2V4H20V9H22V4C22,2.89 21.1,2 20,2Z" /></svg>
 </div>
 <detail full-name='mdi-monitor-cellphone'></detail>
-    
+<div>
+<p>关于“monitor cellphone”的评论:</p>
+</div>
+<Vssue title="关于“monitor cellphone”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

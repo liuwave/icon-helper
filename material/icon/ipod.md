@@ -5,6 +5,7 @@ name: ipod
 zhTips: ipod,苹果ipod
 tags: []
 search: apple-ipod
+image: https://iconhelper.cn/svg/material/ipod.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,2A2,2 0 0,0 5,4V20A2,2 0 0,0 7,22H17A2,2 0 0,0 19,20V4A2,2 0 0,0 17,2H7M7,4H17V10H7V4M12,12A4,4 0 0,1 16,16A4,4 0 0,1 12,20A4,4 0 0,1 8,16A4,4 0 0,1 12,12M12,14A2,2 0 0,0 10,16A2,2 0 0,0 12,18A2,2 0 0,0 14,16A2,2 0 0,0 12,14Z" /></svg>
 </div>
 <detail full-name='mdi-ipod'></detail>
-    
+<div>
+<p>关于“ipod”的评论:</p>
+</div>
+<Vssue title="关于“ipod”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

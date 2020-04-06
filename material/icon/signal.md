@@ -5,6 +5,7 @@ name: signal
 zhTips: 信号,信号标志,条形图,图形,在线,接收,状态,无线信号
 tags: ["cellphone-phone"]
 search: 
+image: https://iconhelper.cn/svg/material/signal.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,21H6V18H3M8,21H11V14H8M13,21H16V9H13M18,21H21V3H18V21Z" /></svg>
 </div>
 <detail full-name='mdi-signal'></detail>
-    
+<div>
+<p>关于“signal”的评论:</p>
+</div>
+<Vssue title="关于“signal”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

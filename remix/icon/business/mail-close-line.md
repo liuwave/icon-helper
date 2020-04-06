@@ -5,6 +5,7 @@ name: mail-close-line
 zhTips: 信封,邮箱,邮件,失败
 tags: ["business"]
 search: envelope,email,inbox,failed,x,line
+image: https://iconhelper.cn/svg/remix/business/mail-close-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-mail-close-line'></detail>
-    
+<detail full-name='ri-mail-close-line'></detail>  
+<div>
+<p>关于“mail close line”的评论:</p>
+</div>
+<Vssue title="关于“mail close line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

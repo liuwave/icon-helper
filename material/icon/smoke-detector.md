@@ -5,6 +5,7 @@ name: smoke-detector
 zhTips: 烟雾探测器,防鸟巢,低音炮
 tags: ["device-tech","home-automation"]
 search: nest-protect,subwoofer
+image: https://iconhelper.cn/svg/material/smoke-detector.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,18A6,6 0 0,0 18,12C18,8.68 15.31,6 12,6C8.68,6 6,8.68 6,12A6,6 0 0,0 12,18M19,3A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5C3,3.89 3.89,3 5,3H19M8,12A4,4 0 0,1 12,8A4,4 0 0,1 16,12A4,4 0 0,1 12,16A4,4 0 0,1 8,12Z" /></svg>
 </div>
 <detail full-name='mdi-smoke-detector'></detail>
-    
+<div>
+<p>关于“smoke detector”的评论:</p>
+</div>
+<Vssue title="关于“smoke detector”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: cup-outline
 zhTips: 杯子轮廓
 tags: ["food-drink"]
 search: 
+image: https://iconhelper.cn/svg/material/cup-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 2L5 20.23C5.13 21.23 5.97 22 7 22H17C18 22 18.87 21.23 19 20.23L21 2H3M5.22 4H18.78L17 20H7L5.22 4Z" /></svg>
 </div>
 <detail full-name='mdi-cup-outline'></detail>
-    
+<div>
+<p>关于“cup outline”的评论:</p>
+</div>
+<Vssue title="关于“cup outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: reorder-horizontal
 zhTips: 水平重新排序
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/reorder-horizontal.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,15H21V13H3V15M3,19H21V17H3V19M3,11H21V9H3V11M3,5V7H21V5H3Z" /></svg>
 </div>
 <detail full-name='mdi-reorder-horizontal'></detail>
-    
+<div>
+<p>关于“reorder horizontal”的评论:</p>
+</div>
+<Vssue title="关于“reorder horizontal”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

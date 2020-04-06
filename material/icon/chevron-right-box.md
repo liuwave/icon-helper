@@ -5,6 +5,7 @@ name: chevron-right-box
 zhTips: V形人字形右框
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/chevron-right-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,3H5A2,2 0 0,0 3,5V19C3,20.11 3.9,21 5,21H19C20.11,21 21,20.11 21,19V5A2,2 0 0,0 19,3M9.71,18L8.29,16.59L12.88,12L8.29,7.41L9.71,6L15.71,12L9.71,18Z" /></svg>
 </div>
 <detail full-name='mdi-chevron-right-box'></detail>
-    
+<div>
+<p>关于“chevron right box”的评论:</p>
+</div>
+<Vssue title="关于“chevron right box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

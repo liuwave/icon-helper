@@ -5,6 +5,7 @@ name: database-check
 zhTips: 数据库检查,数据库打勾
 tags: ["geographic-information-system"]
 search: database-tick
+image: https://iconhelper.cn/svg/material/database-check.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.75,22.16L15,19.16L16.16,18L17.75,19.59L21.34,16L22.5,17.41L17.75,22.16M12,3C16.42,3 20,4.79 20,7C20,9.21 16.42,11 12,11C7.58,11 4,9.21 4,7C4,4.79 7.58,3 12,3M4,9C4,11.21 7.58,13 12,13C16.42,13 20,11.21 20,9V12C20,12.43 19.87,12.84 19.62,13.22C19.1,13.08 18.56,13 18,13C15.79,13 13.85,14.2 12.81,16H12C7.58,16 4,14.21 4,12V9M4,14C4,16.21 7.58,18 12.08,18L12,19C12,19.7 12.12,20.37 12.34,21H12C7.58,21 4,19.21 4,17V14Z" /></svg>
 </div>
 <detail full-name='mdi-database-check'></detail>
-    
+<div>
+<p>关于“database check”的评论:</p>
+</div>
+<Vssue title="关于“database check”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

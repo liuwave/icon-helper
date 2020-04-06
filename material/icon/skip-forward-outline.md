@@ -5,6 +5,7 @@ name: skip-forward-outline
 zhTips: 略过轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/skip-forward-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,9.83L8.17,12L6,14.17V9.83M4,5V19L11,12M20,5H18V19H20M13,9.83L15.17,12L13,14.17V9.83M11,5V19L18,12" /></svg>
 </div>
 <detail full-name='mdi-skip-forward-outline'></detail>
-    
+<div>
+<p>关于“skip forward outline”的评论:</p>
+</div>
+<Vssue title="关于“skip forward outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: star-s-fill
 zhTips: 星星,星标,喜欢,半星
 tags: ["system"]
 search: favorite,like,mark,fill
+image: https://iconhelper.cn/svg/remix/system/star-s-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-star-s-fill'></detail>
-    
+<detail full-name='ri-star-s-fill'></detail>  
+<div>
+<p>关于“star s fill”的评论:</p>
+</div>
+<Vssue title="关于“star s fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

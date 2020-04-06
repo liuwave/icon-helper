@@ -5,6 +5,7 @@ name: diameter
 zhTips: 直径,圆直径,球体直径
 tags: ["math"]
 search: circle-diameter,sphere-diameter
+image: https://iconhelper.cn/svg/material/diameter.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M17,15V13H7V15L4,12L7,9V11H17V9L20,12L17,15Z" /></svg>
 </div>
 <detail full-name='mdi-diameter'></detail>
-    
+<div>
+<p>关于“diameter”的评论:</p>
+</div>
+<Vssue title="关于“diameter”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

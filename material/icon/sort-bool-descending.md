@@ -5,6 +5,7 @@ name: sort-bool-descending
 zhTips: 排序布尔降序
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/sort-bool-descending.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 7H22L18 3L14 7H17V21H19M5 7C5 8.1 5.9 9 7 9C8.1 9 9 8.1 9 7C9 5.9 8.1 5 7 5C5.9 5 5 5.9 5 7M7 3C9.21 3 11 4.79 11 7C11 9.21 9.21 11 7 11C4.79 11 3 9.21 3 7C3 4.79 4.79 3 7 3M7 13C4.79 13 3 14.79 3 17C3 19.21 4.79 21 7 21C9.21 21 11 19.21 11 17C11 14.79 9.21 13 7 13Z" /></svg>
 </div>
 <detail full-name='mdi-sort-bool-descending'></detail>
-    
+<div>
+<p>关于“sort bool descending”的评论:</p>
+</div>
+<Vssue title="关于“sort bool descending”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

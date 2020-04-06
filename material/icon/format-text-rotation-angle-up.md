@@ -5,6 +5,7 @@ name: format-text-rotation-angle-up
 zhTips: 格式化文本旋转角度
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-text-rotation-angle-up.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.58 9.33V13.55L19.17 12.14L10.31 21L8.91 19.59L17.72 10.73L16.31 9.33M7.59 11L10.22 8.39L5.34 6.14M4.5 4.22L15.61 8.63L14.16 10.13L11.96 9.19L8.39 12.75L9.33 14.91L7.83 16.41L3.42 5.25Z" /></svg>
 </div>
 <detail full-name='mdi-format-text-rotation-angle-up'></detail>
-    
+<div>
+<p>关于“format text rotation angle up”的评论:</p>
+</div>
+<Vssue title="关于“format text rotation angle up”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

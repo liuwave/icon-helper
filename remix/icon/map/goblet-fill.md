@@ -5,6 +5,7 @@ name: goblet-fill
 zhTips: 高脚杯,酒杯
 tags: ["map"]
 search: cup,wine glass,fill
+image: https://iconhelper.cn/svg/remix/map/goblet-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-goblet-fill'></detail>
-    
+<detail full-name='ri-goblet-fill'></detail>  
+<div>
+<p>关于“goblet fill”的评论:</p>
+</div>
+<Vssue title="关于“goblet fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

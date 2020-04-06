@@ -5,6 +5,7 @@ name: volume-plus
 zhTips: 音量增加
 tags: ["audio","home-automation","cellphone-phone"]
 search: volume-increase
+image: https://iconhelper.cn/svg/material/volume-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,9H7L12,4V20L7,15H3V9M14,11H17V8H19V11H22V13H19V16H17V13H14V11Z" /></svg>
 </div>
 <detail full-name='mdi-volume-plus'></detail>
-    
+<div>
+<p>关于“volume plus”的评论:</p>
+</div>
+<Vssue title="关于“volume plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

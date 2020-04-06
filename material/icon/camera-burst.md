@@ -5,6 +5,7 @@ name: camera-burst
 zhTips: 相机连拍,连拍模式
 tags: ["photography"]
 search: burst-mode
+image: https://iconhelper.cn/svg/material/camera-burst.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1,5H3V19H1V5M5,5H7V19H5V5M22,5H10A1,1 0 0,0 9,6V18A1,1 0 0,0 10,19H22A1,1 0 0,0 23,18V6A1,1 0 0,0 22,5M11,17L13.5,13.85L15.29,16L17.79,12.78L21,17H11Z" /></svg>
 </div>
 <detail full-name='mdi-camera-burst'></detail>
-    
+<div>
+<p>关于“camera burst”的评论:</p>
+</div>
+<Vssue title="关于“camera burst”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

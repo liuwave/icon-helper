@@ -5,6 +5,7 @@ name: application-export
 zhTips: 出口申请
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/application-export.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8,12H17.76L15.26,9.5L16.67,8.08L21.59,13L16.67,17.92L15.26,16.5L17.76,14H8V12M19,3C20.11,3 21,3.9 21,5V9.67L19,7.67V7H5V19H19V18.33L21,16.33V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V5A2,2 0 0,1 5,3H19Z" /></svg>
 </div>
 <detail full-name='mdi-application-export'></detail>
-    
+<div>
+<p>关于“application export”的评论:</p>
+</div>
+<Vssue title="关于“application export”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: rocket-line
 zhTips: 火箭
 tags: ["map"]
 search: line
+image: https://iconhelper.cn/svg/remix/map/rocket-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-rocket-line'></detail>
-    
+<detail full-name='ri-rocket-line'></detail>  
+<div>
+<p>关于“rocket line”的评论:</p>
+</div>
+<Vssue title="关于“rocket line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

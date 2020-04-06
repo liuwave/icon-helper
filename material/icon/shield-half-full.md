@@ -5,6 +5,7 @@ name: shield-half-full
 zhTips: 盾半满
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/shield-half-full.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,11C21,16.55 17.16,21.74 12,23C6.84,21.74 3,16.55 3,11V5L12,1L21,5V11M12,21C15.75,20 19,15.54 19,11.22V6.3L12,3.18V21Z" /></svg>
 </div>
 <detail full-name='mdi-shield-half-full'></detail>
-    
+<div>
+<p>关于“shield half full”的评论:</p>
+</div>
+<Vssue title="关于“shield half full”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

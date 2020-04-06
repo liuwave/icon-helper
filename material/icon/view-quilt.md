@@ -5,6 +5,7 @@ name: view-quilt
 zhTips: 被子视图
 tags: ["view"]
 search: 
+image: https://iconhelper.cn/svg/material/view-quilt.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,5V11H21V5M16,18H21V12H16M4,18H9V5H4M10,18H15V12H10V18Z" /></svg>
 </div>
 <detail full-name='mdi-view-quilt'></detail>
-    
+<div>
+<p>关于“view quilt”的评论:</p>
+</div>
+<Vssue title="关于“view quilt”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

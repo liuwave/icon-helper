@@ -5,6 +5,7 @@ name: note-multiple-outline
 zhTips: 注意多个轮廓,轮廓注释
 tags: []
 search: notes-outline
+image: https://iconhelper.cn/svg/material/note-multiple-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,6V22H21V24H3A2,2 0 0,1 1,22V6H3M16,9H21.5L16,3.5V9M7,2H17L23,8V18A2,2 0 0,1 21,20H7C5.89,20 5,19.1 5,18V4A2,2 0 0,1 7,2M7,4V18H21V11H14V4H7Z" /></svg>
 </div>
 <detail full-name='mdi-note-multiple-outline'></detail>
-    
+<div>
+<p>关于“note multiple outline”的评论:</p>
+</div>
+<Vssue title="关于“note multiple outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: network-strength-off
 zhTips: 网络实力关
 tags: ["cellphone-phone"]
 search: 
+image: https://iconhelper.cn/svg/material/network-strength-off.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,1L12.4,9.6L21,18.19M4.77,4.5L3.5,5.77L9.86,12.13L1,21H18.73L20.73,23L22,21.73" /></svg>
 </div>
 <detail full-name='mdi-network-strength-off'></detail>
-    
+<div>
+<p>关于“network strength off”的评论:</p>
+</div>
+<Vssue title="关于“network strength off”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

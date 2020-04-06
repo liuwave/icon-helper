@@ -5,6 +5,7 @@ name: ceiling-light
 zhTips: 吸顶灯
 tags: ["home-automation"]
 search: ceiling-lamp
+image: https://iconhelper.cn/svg/material/ceiling-light.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8,9H11V4H13V9H16L20,17H4L8,9M14,18A2,2 0 0,1 12,20A2,2 0 0,1 10,18H14Z" /></svg>
 </div>
 <detail full-name='mdi-ceiling-light'></detail>
-    
+<div>
+<p>关于“ceiling light”的评论:</p>
+</div>
+<Vssue title="关于“ceiling light”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

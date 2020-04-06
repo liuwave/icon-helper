@@ -5,6 +5,7 @@ name: aspect-ratio-fill
 zhTips: 宽高比,比例
 tags: ["media"]
 search: fill
+image: https://iconhelper.cn/svg/remix/media/aspect-ratio-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-aspect-ratio-fill'></detail>
-    
+<detail full-name='ri-aspect-ratio-fill'></detail>  
+<div>
+<p>关于“aspect ratio fill”的评论:</p>
+</div>
+<Vssue title="关于“aspect ratio fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

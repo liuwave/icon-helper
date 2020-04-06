@@ -5,6 +5,7 @@ name: briefcase-minus
 zhTips: 减去公文包
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/briefcase-minus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,17V19H14V17H22M10,2H14A2,2 0 0,1 16,4V6H20A2,2 0 0,1 22,8V13.53C20.94,12.58 19.54,12 18,12A6,6 0 0,0 12,18C12,19.09 12.29,20.12 12.8,21H4C2.89,21 2,20.1 2,19V8C2,6.89 2.89,6 4,6H8V4C8,2.89 8.89,2 10,2M14,6V4H10V6H14Z" /></svg>
 </div>
 <detail full-name='mdi-briefcase-minus'></detail>
-    
+<div>
+<p>关于“briefcase minus”的评论:</p>
+</div>
+<Vssue title="关于“briefcase minus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

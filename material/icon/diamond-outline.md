@@ -5,6 +5,7 @@ name: diamond-outline
 zhTips: 钻石轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/diamond-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,2H6L2,8L12,22L22,8L18,2M4.43,8L7.07,4H16.93L19.57,8L12,18.56L4.43,8Z" /></svg>
 </div>
 <detail full-name='mdi-diamond-outline'></detail>
-    
+<div>
+<p>关于“diamond outline”的评论:</p>
+</div>
+<Vssue title="关于“diamond outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: comment-arrow-right-outline
 zhTips: 评论箭头右轮廓,评论下一个轮廓
 tags: []
 search: comment-next-outline
+image: https://iconhelper.cn/svg/material/comment-arrow-right-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 2H4C2.9 2 2 2.9 2 4V16C2 17.1 2.9 18 4 18H8V21C8 21.6 8.4 22 9 22H9.5C9.7 22 10 21.9 10.2 21.7L13.9 18H20C21.1 18 22 17.1 22 16V4C22 2.9 21.1 2 20 2M20 16H13.1L10 19.1V16H4V4H20V16M8 9V11H12.5L10.7 12.8L12 14L16 10L12 6L10.8 7.2L12.5 9H8Z" /></svg>
 </div>
 <detail full-name='mdi-comment-arrow-right-outline'></detail>
-    
+<div>
+<p>关于“comment arrow right outline”的评论:</p>
+</div>
+<Vssue title="关于“comment arrow right outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

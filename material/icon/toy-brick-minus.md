@@ -5,6 +5,7 @@ name: toy-brick-minus
 zhTips: 玩具砖减号,乐高,插件,扩展名
 tags: []
 search: lego,plugin,extension
+image: https://iconhelper.cn/svg/material/toy-brick-minus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6V5A2 2 0 0 0 17 3H15A2 2 0 0 0 13 5V6H11V5A2 2 0 0 0 9 3H7A2 2 0 0 0 5 5V6H3V20H13V16H21V6M23 20H15V18H23Z" /></svg>
 </div>
 <detail full-name='mdi-toy-brick-minus'></detail>
-    
+<div>
+<p>关于“toy brick minus”的评论:</p>
+</div>
+<Vssue title="关于“toy brick minus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

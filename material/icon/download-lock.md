@@ -5,6 +5,7 @@ name: download-lock
 zhTips: 下载锁
 tags: ["lock"]
 search: 
+image: https://iconhelper.cn/svg/material/download-lock.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 20H14V18H5M19 9H15V3H9V9H5L12 16M22 16A1.08 1.08 0 0 1 23 17V21A1.08 1.08 0 0 1 22 22H17A1.08 1.08 0 0 1 16 21V17A1.08 1.08 0 0 1 17 16V14.5A2.5 2.5 0 0 1 22 14.5V16M21 16V14.5A1.5 1.5 0 0 0 18 14.5V16H21" /></svg>
 </div>
 <detail full-name='mdi-download-lock'></detail>
-    
+<div>
+<p>关于“download lock”的评论:</p>
+</div>
+<Vssue title="关于“download lock”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

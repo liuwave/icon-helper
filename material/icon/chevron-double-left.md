@@ -5,6 +5,7 @@ name: chevron-double-left
 zhTips: V形双左
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/chevron-double-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.41,7.41L17,6L11,12L17,18L18.41,16.59L13.83,12L18.41,7.41M12.41,7.41L11,6L5,12L11,18L12.41,16.59L7.83,12L12.41,7.41Z" /></svg>
 </div>
 <detail full-name='mdi-chevron-double-left'></detail>
-    
+<div>
+<p>关于“chevron double left”的评论:</p>
+</div>
+<Vssue title="关于“chevron double left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

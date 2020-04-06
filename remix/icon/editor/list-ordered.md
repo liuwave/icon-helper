@@ -5,6 +5,7 @@ name: list-ordered
 zhTips: 有序列表
 tags: ["editor"]
 search: number list
+image: https://iconhelper.cn/svg/remix/editor/list-ordered.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-list-ordered'></detail>
-    
+<detail full-name='ri-list-ordered'></detail>  
+<div>
+<p>关于“list ordered”的评论:</p>
+</div>
+<Vssue title="关于“list ordered”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

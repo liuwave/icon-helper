@@ -5,6 +5,7 @@ name: format-align-justify
 zhTips: 格式对齐对齐
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-align-justify.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,3H21V5H3V3M3,7H21V9H3V7M3,11H21V13H3V11M3,15H21V17H3V15M3,19H21V21H3V19Z" /></svg>
 </div>
 <detail full-name='mdi-format-align-justify'></detail>
-    
+<div>
+<p>关于“format align justify”的评论:</p>
+</div>
+<Vssue title="关于“format align justify”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

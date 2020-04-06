@@ -5,6 +5,7 @@ name: arrow-right
 zhTips: 向右箭头,向前箭头
 tags: ["arrow"]
 search: arrow-forward
+image: https://iconhelper.cn/svg/material/arrow-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,11V13H16L10.5,18.5L11.92,19.92L19.84,12L11.92,4.08L10.5,5.5L16,11H4Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-right'></detail>
-    
+<div>
+<p>关于“arrow right”的评论:</p>
+</div>
+<Vssue title="关于“arrow right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

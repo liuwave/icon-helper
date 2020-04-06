@@ -5,6 +5,7 @@ name: service-fill
 zhTips: 服务,握手,心,合作
 tags: ["business"]
 search: heart,handshake,cooperation,fill
+image: https://iconhelper.cn/svg/remix/business/service-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-service-fill'></detail>
-    
+<detail full-name='ri-service-fill'></detail>  
+<div>
+<p>关于“service fill”的评论:</p>
+</div>
+<Vssue title="关于“service fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

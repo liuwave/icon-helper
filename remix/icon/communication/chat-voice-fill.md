@@ -5,6 +5,7 @@ name: chat-voice-fill
 zhTips: 消息,语音消息
 tags: ["communication"]
 search: message,comment,fill
+image: https://iconhelper.cn/svg/remix/communication/chat-voice-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-chat-voice-fill'></detail>
-    
+<detail full-name='ri-chat-voice-fill'></detail>  
+<div>
+<p>关于“chat voice fill”的评论:</p>
+</div>
+<Vssue title="关于“chat voice fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

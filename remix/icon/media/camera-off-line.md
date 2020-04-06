@@ -5,6 +5,7 @@ name: camera-off-line
 zhTips: 照相机,拍照,照片,禁止,关闭
 tags: ["media"]
 search: photo,slash,line
+image: https://iconhelper.cn/svg/remix/media/camera-off-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-camera-off-line'></detail>
-    
+<detail full-name='ri-camera-off-line'></detail>  
+<div>
+<p>关于“camera off line”的评论:</p>
+</div>
+<Vssue title="关于“camera off line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

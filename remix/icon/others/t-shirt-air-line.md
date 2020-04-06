@@ -5,6 +5,7 @@ name: t-shirt-air-line
 zhTips: T恤,风干,烘干
 tags: ["others"]
 search: dry,line
+image: https://iconhelper.cn/svg/remix/others/t-shirt-air-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-t-shirt-air-line'></detail>
-    
+<detail full-name='ri-t-shirt-air-line'></detail>  
+<div>
+<p>关于“t shirt air line”的评论:</p>
+</div>
+<Vssue title="关于“t shirt air line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

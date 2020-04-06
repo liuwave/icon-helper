@@ -5,6 +5,7 @@ name: arrow-left-box
 zhTips: 左箭头框
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/arrow-left-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,3A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5C3,3.89 3.9,3 5,3H19M18,11H9.5L13,7.5L11.58,6.08L5.66,12L11.58,17.92L13,16.5L9.5,13H18V11Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-left-box'></detail>
-    
+<div>
+<p>关于“arrow left box”的评论:</p>
+</div>
+<Vssue title="关于“arrow left box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

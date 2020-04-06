@@ -5,6 +5,7 @@ name: terminal-window-fill
 zhTips: 终端,代码,命令行
 tags: ["development"]
 search: code,command line,fill
+image: https://iconhelper.cn/svg/remix/development/terminal-window-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-terminal-window-fill'></detail>
-    
+<detail full-name='ri-terminal-window-fill'></detail>  
+<div>
+<p>关于“terminal window fill”的评论:</p>
+</div>
+<Vssue title="关于“terminal window fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

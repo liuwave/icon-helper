@@ -5,6 +5,7 @@ name: chart-sankey-variant
 zhTips: 图表sankey变体,图表蛇形变体
 tags: ["math"]
 search: chart-snakey-variant
+image: https://iconhelper.cn/svg/material/chart-sankey-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 4V6H4V4H2V12H4V10C8.16 10 9.92 12.11 11.77 14.34S15.65 19 20 19V21H22V15H20V17C16.59 17 15.07 15.17 13.31 13.06C11.34 10.69 9.1 8 4 8H20V10H22V4Z" /></svg>
 </div>
 <detail full-name='mdi-chart-sankey-variant'></detail>
-    
+<div>
+<p>关于“chart sankey variant”的评论:</p>
+</div>
+<Vssue title="关于“chart sankey variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

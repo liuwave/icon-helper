@@ -5,6 +5,7 @@ name: pot-mix
 zhTips: 锅混
 tags: ["food-drink"]
 search: 
+image: https://iconhelper.cn/svg/material/pot-mix.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.6 9L18 3.1L19.7 4.1L16.9 9H14.6M14 10H3V12H5V19C5 20.1 5.9 21 7 21H17C18.1 21 19 20.1 19 19V12H21V10H14Z" /></svg>
 </div>
 <detail full-name='mdi-pot-mix'></detail>
-    
+<div>
+<p>关于“pot mix”的评论:</p>
+</div>
+<Vssue title="关于“pot mix”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

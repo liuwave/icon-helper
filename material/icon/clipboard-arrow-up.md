@@ -5,6 +5,7 @@ name: clipboard-arrow-up
 zhTips: 剪贴板向上箭头,剪贴板顶部箭头
 tags: []
 search: clipboard-arrow-top
+image: https://iconhelper.cn/svg/material/clipboard-arrow-up.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,3A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3H9.18C9.6,1.84 10.7,1 12,1C13.3,1 14.4,1.84 14.82,3H19M12,8L7,13H10V17H14V13H17L12,8M12,3A1,1 0 0,0 11,4A1,1 0 0,0 12,5A1,1 0 0,0 13,4A1,1 0 0,0 12,3Z" /></svg>
 </div>
 <detail full-name='mdi-clipboard-arrow-up'></detail>
-    
+<div>
+<p>关于“clipboard arrow up”的评论:</p>
+</div>
+<Vssue title="关于“clipboard arrow up”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

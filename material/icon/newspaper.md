@@ -5,6 +5,7 @@ name: newspaper
 zhTips: 报纸,报纸黑,文章,社论,标题,新闻
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/newspaper.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,11H4V8H20M20,15H13V13H20M20,19H13V17H20M11,19H4V13H11M20.33,4.67L18.67,3L17,4.67L15.33,3L13.67,4.67L12,3L10.33,4.67L8.67,3L7,4.67L5.33,3L3.67,4.67L2,3V19A2,2 0 0,0 4,21H20A2,2 0 0,0 22,19V3L20.33,4.67Z" /></svg>
 </div>
 <detail full-name='mdi-newspaper'></detail>
-    
+<div>
+<p>关于“newspaper”的评论:</p>
+</div>
+<Vssue title="关于“newspaper”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

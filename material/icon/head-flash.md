@@ -5,6 +5,7 @@ name: head-flash
 zhTips: 头闪,头痛
 tags: []
 search: head-ache
+image: https://iconhelper.cn/svg/material/head-flash.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 3C9.2 3 6.2 6 6 9.7L4.1 12.2C3.9 12.5 4.1 13 4.5 13H6V16C6 17.1 6.9 18 8 18H9V21H16V16.3C18.4 15.2 20 12.8 20 10C20 6.1 16.9 3 13 3M15 9L11.9 15L12.5 11H10.5L12.5 6H15L13.5 9H15Z" /></svg>
 </div>
 <detail full-name='mdi-head-flash'></detail>
-    
+<div>
+<p>关于“head flash”的评论:</p>
+</div>
+<Vssue title="关于“head flash”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

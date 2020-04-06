@@ -5,6 +5,7 @@ name: plus-one
 zhTips: 加一
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/plus-one.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,8V12H14V14H10V18H8V14H4V12H8V8H10M14.5,6.08L19,5V18H17V7.4L14.5,7.9V6.08Z" /></svg>
 </div>
 <detail full-name='mdi-plus-one'></detail>
-    
+<div>
+<p>关于“plus one”的评论:</p>
+</div>
+<Vssue title="关于“plus one”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: file-table-box
 zhTips: 文件表框
 tags: ["files-folders"]
 search: 
+image: https://iconhelper.cn/svg/material/file-table-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5C3.89 3 3 3.89 3 5V19C3 20.1 3.9 21 5 21H19C20.1 21 21 20.1 21 19V5C21 3.89 20.1 3 19 3M9 18H6V16H9V18M9 15H6V13H9V15M9 12H6V10H9V12M13 18H10V16H13V18M13 15H10V13H13V15M13 12H10V10H13V12Z" /></svg>
 </div>
 <detail full-name='mdi-file-table-box'></detail>
-    
+<div>
+<p>关于“file table box”的评论:</p>
+</div>
+<Vssue title="关于“file table box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

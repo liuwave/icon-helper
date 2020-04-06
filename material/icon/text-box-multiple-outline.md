@@ -5,6 +5,7 @@ name: text-box-multiple-outline
 zhTips: 文本框多个轮廓,文件文档框轮廓,文件文件框多个轮廓
 tags: ["files-folders"]
 search: file-document-boxes-outline,file-document-box-multiple-outline
+image: https://iconhelper.cn/svg/material/text-box-multiple-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,15H9V13H16V15M19,11H9V9H19V11M19,7H9V5H19V7M3,5V21H19V23H3A2,2 0 0,1 1,21V5H3M21,1A2,2 0 0,1 23,3V17C23,18.11 22.11,19 21,19H7A2,2 0 0,1 5,17V3C5,1.89 5.89,1 7,1H21M7,3V17H21V3H7Z" /></svg>
 </div>
 <detail full-name='mdi-text-box-multiple-outline'></detail>
-    
+<div>
+<p>关于“text box multiple outline”的评论:</p>
+</div>
+<Vssue title="关于“text box multiple outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

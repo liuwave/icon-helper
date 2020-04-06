@@ -5,6 +5,7 @@ name: menu-left-outline
 zhTips: 菜单左侧轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/menu-left-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,18H13.5L7.5,12L13.5,6H15V18M10.33,12L13,14.67V9.33L10.33,12Z" /></svg>
 </div>
 <detail full-name='mdi-menu-left-outline'></detail>
-    
+<div>
+<p>关于“menu left outline”的评论:</p>
+</div>
+<Vssue title="关于“menu left outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

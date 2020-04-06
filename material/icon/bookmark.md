@@ -5,6 +5,7 @@ name: bookmark
 zhTips: 书签,已打开,收藏夹,标记,阅读,记住,保存,标签
 tags: []
 search: turned-in
+image: https://iconhelper.cn/svg/material/bookmark.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,3H7A2,2 0 0,0 5,5V21L12,18L19,21V5C19,3.89 18.1,3 17,3Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark'></detail>
-    
+<div>
+<p>关于“bookmark”的评论:</p>
+</div>
+<Vssue title="关于“bookmark”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

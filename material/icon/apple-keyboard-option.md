@@ -5,6 +5,7 @@ name: apple-keyboard-option
 zhTips: 苹果键盘选项
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/apple-keyboard-option.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,4H9.11L16.15,18H21V20H14.88L7.84,6H3V4M14,4H21V6H14V4Z" /></svg>
 </div>
 <detail full-name='mdi-apple-keyboard-option'></detail>
-    
+<div>
+<p>关于“apple keyboard option”的评论:</p>
+</div>
+<Vssue title="关于“apple keyboard option”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

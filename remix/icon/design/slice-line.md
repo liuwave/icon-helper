@@ -5,6 +5,7 @@ name: slice-line
 zhTips: 切图,切片,刀
 tags: ["design"]
 search: knife,line
+image: https://iconhelper.cn/svg/remix/design/slice-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-slice-line'></detail>
-    
+<detail full-name='ri-slice-line'></detail>  
+<div>
+<p>关于“slice line”的评论:</p>
+</div>
+<Vssue title="关于“slice line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: upload
 zhTips: 上传,文件上传,上传黑,硬盘驱动器,导入,发布
 tags: []
 search: file-upload
+image: https://iconhelper.cn/svg/material/upload.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,16V10H5L12,3L19,10H15V16H9M5,20V18H19V20H5Z" /></svg>
 </div>
 <detail full-name='mdi-upload'></detail>
-    
+<div>
+<p>关于“upload”的评论:</p>
+</div>
+<Vssue title="关于“upload”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

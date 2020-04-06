@@ -5,6 +5,7 @@ name: git-repository-commits-line
 zhTips: 仓库,提交
 tags: ["development"]
 search: line
+image: https://iconhelper.cn/svg/remix/development/git-repository-commits-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-git-repository-commits-line'></detail>
-    
+<detail full-name='ri-git-repository-commits-line'></detail>  
+<div>
+<p>关于“git repository commits line”的评论:</p>
+</div>
+<Vssue title="关于“git repository commits line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

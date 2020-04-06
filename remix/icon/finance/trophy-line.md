@@ -5,6 +5,7 @@ name: trophy-line
 zhTips: 奖品,奖杯,金杯
 tags: ["finance"]
 search: line
+image: https://iconhelper.cn/svg/remix/finance/trophy-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-trophy-line'></detail>
-    
+<detail full-name='ri-trophy-line'></detail>  
+<div>
+<p>关于“trophy line”的评论:</p>
+</div>
+<Vssue title="关于“trophy line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: square-small
 zhTips: 方形小,子弹
 tags: []
 search: bullet
+image: https://iconhelper.cn/svg/material/square-small.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,14V10H14V14H10Z" /></svg>
 </div>
 <detail full-name='mdi-square-small'></detail>
-    
+<div>
+<p>关于“square small”的评论:</p>
+</div>
+<Vssue title="关于“square small”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

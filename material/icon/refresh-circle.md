@@ -5,6 +5,7 @@ name: refresh-circle
 zhTips: 刷新圈子
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/refresh-circle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 1 0 22 12A10 10 0 0 0 12 2M18 11H13L14.81 9.19A3.94 3.94 0 0 0 12 8A4 4 0 1 0 15.86 13H17.91A6 6 0 1 1 12 6A5.91 5.91 0 0 1 16.22 7.78L18 6Z" /></svg>
 </div>
 <detail full-name='mdi-refresh-circle'></detail>
-    
+<div>
+<p>关于“refresh circle”的评论:</p>
+</div>
+<Vssue title="关于“refresh circle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: hard-drive-fill
 zhTips: 硬盘,存储
 tags: ["device"]
 search: disc,storage,fill
+image: https://iconhelper.cn/svg/remix/device/hard-drive-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-hard-drive-fill'></detail>
-    
+<detail full-name='ri-hard-drive-fill'></detail>  
+<div>
+<p>关于“hard drive fill”的评论:</p>
+</div>
+<Vssue title="关于“hard drive fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

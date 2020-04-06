@@ -5,6 +5,7 @@ name: table-row-remove
 zhTips: 表格行删除
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/table-row-remove.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.41,13L12,15.59L14.59,13L16,14.41L13.41,17L16,19.59L14.59,21L12,18.41L9.41,21L8,19.59L10.59,17L8,14.41L9.41,13M22,9A2,2 0 0,1 20,11H4A2,2 0 0,1 2,9V6A2,2 0 0,1 4,4H20A2,2 0 0,1 22,6V9M4,9H8V6H4V9M10,9H14V6H10V9M16,9H20V6H16V9Z" /></svg>
 </div>
 <detail full-name='mdi-table-row-remove'></detail>
-    
+<div>
+<p>关于“table row remove”的评论:</p>
+</div>
+<Vssue title="关于“table row remove”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

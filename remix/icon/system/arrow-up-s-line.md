@@ -5,6 +5,7 @@ name: arrow-up-s-line
 zhTips: 箭头,向上
 tags: ["system"]
 search: line
+image: https://iconhelper.cn/svg/remix/system/arrow-up-s-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-arrow-up-s-line'></detail>
-    
+<detail full-name='ri-arrow-up-s-line'></detail>  
+<div>
+<p>关于“arrow up s line”的评论:</p>
+</div>
+<Vssue title="关于“arrow up s line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

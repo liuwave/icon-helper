@@ -5,6 +5,7 @@ name: credit-card-plus-outline
 zhTips: 信用卡加轮廓,信用卡添加
 tags: ["banking"]
 search: credit-card-add
+image: https://iconhelper.cn/svg/material/credit-card-plus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,18H24V20H21V23H19V20H16V18H19V15H21V18M19,8V6H3V8H19M19,12H3V18H14V20H3C1.89,20 1,19.1 1,18V6C1,4.89 1.89,4 3,4H19A2,2 0 0,1 21,6V13H19V12Z" /></svg>
 </div>
 <detail full-name='mdi-credit-card-plus-outline'></detail>
-    
+<div>
+<p>关于“credit card plus outline”的评论:</p>
+</div>
+<Vssue title="关于“credit card plus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

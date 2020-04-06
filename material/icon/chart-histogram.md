@@ -5,6 +5,7 @@ name: chart-histogram
 zhTips: 直方图
 tags: ["math","math"]
 search: 
+image: https://iconhelper.cn/svg/material/chart-histogram.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,3H5V13H9V7H13V11H17V15H21V21H3V3Z" /></svg>
 </div>
 <detail full-name='mdi-chart-histogram'></detail>
-    
+<div>
+<p>关于“chart histogram”的评论:</p>
+</div>
+<Vssue title="关于“chart histogram”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

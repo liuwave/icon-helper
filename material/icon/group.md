@@ -5,6 +5,7 @@ name: group
 zhTips: 组,用户组,群组,用户,会员
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/group.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1,1V5H2V19H1V23H5V22H19V23H23V19H22V5H23V1H19V2H5V1M5,4H19V5H20V19H19V20H5V19H4V5H5M6,6V14H9V18H18V9H14V6M8,8H12V12H8M14,11H16V16H11V14H14" /></svg>
 </div>
 <detail full-name='mdi-group'></detail>
-    
+<div>
+<p>关于“group”的评论:</p>
+</div>
+<Vssue title="关于“group”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

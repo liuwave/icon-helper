@@ -5,6 +5,7 @@ name: volume-up-fill
 zhTips: 音量高,喇叭,声音,扬声器
 tags: ["media"]
 search: trumpet,sound,speaker,fill
+image: https://iconhelper.cn/svg/remix/media/volume-up-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-volume-up-fill'></detail>
-    
+<detail full-name='ri-volume-up-fill'></detail>  
+<div>
+<p>关于“volume up fill”的评论:</p>
+</div>
+<Vssue title="关于“volume up fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

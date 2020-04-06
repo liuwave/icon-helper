@@ -5,6 +5,7 @@ name: step-backward-2
 zhTips: 向后移动2,向后框架
 tags: []
 search: frame-backward
+image: https://iconhelper.cn/svg/material/step-backward-2.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,5H14V19H17V5M12,5L1,12L12,19V5M22,5H19V19H22V5Z" /></svg>
 </div>
 <detail full-name='mdi-step-backward-2'></detail>
-    
+<div>
+<p>关于“step backward 2”的评论:</p>
+</div>
+<Vssue title="关于“step backward 2”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

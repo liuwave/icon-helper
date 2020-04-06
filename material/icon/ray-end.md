@@ -5,6 +5,7 @@ name: ray-end
 zhTips: 射线末端
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/ray-end.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,9C18.69,9 17.58,9.83 17.17,11H2V13H17.17C17.58,14.17 18.69,15 20,15A3,3 0 0,0 23,12A3,3 0 0,0 20,9Z" /></svg>
 </div>
 <detail full-name='mdi-ray-end'></detail>
-    
+<div>
+<p>关于“ray end”的评论:</p>
+</div>
+<Vssue title="关于“ray end”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

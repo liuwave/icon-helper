@@ -5,6 +5,7 @@ name: note-plus-outline
 zhTips: 注释加轮廓
 tags: []
 search: note-add-outline
+image: https://iconhelper.cn/svg/material/note-plus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,10H20.5L15,4.5V10M4,3H16L22,9V19A2,2 0 0,1 20,21H4C2.89,21 2,20.1 2,19V5C2,3.89 2.89,3 4,3M4,5V19H20V12H13V5H4M8,17V15H6V13H8V11H10V13H12V15H10V17H8Z" /></svg>
 </div>
 <detail full-name='mdi-note-plus-outline'></detail>
-    
+<div>
+<p>关于“note plus outline”的评论:</p>
+</div>
+<Vssue title="关于“note plus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

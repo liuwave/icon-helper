@@ -5,6 +5,7 @@ name: sign-direction-plus
 zhTips: 标志方向加,里程碑加
 tags: []
 search: milestone-plus,sign-direction-add,milestone-add
+image: https://iconhelper.cn/svg/material/sign-direction-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20H13.09A5.5 5.5 0 0 0 13.81 22H9A2 2 0 0 1 11 20V12H3.5L6 9.5L3.5 7H11V3L12 2L13 3V7H18L20.5 9.5L18 12H13M18 15V18H15V20H18V23H20V20H23V18H20V15Z" /></svg>
 </div>
 <detail full-name='mdi-sign-direction-plus'></detail>
-    
+<div>
+<p>关于“sign direction plus”的评论:</p>
+</div>
+<Vssue title="关于“sign direction plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

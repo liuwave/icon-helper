@@ -5,6 +5,7 @@ name: file-list-3-line
 zhTips: 清单,列表,报纸
 tags: ["document"]
 search: newspaper,line
+image: https://iconhelper.cn/svg/remix/document/file-list-3-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-file-list-3-line'></detail>
-    
+<detail full-name='ri-file-list-3-line'></detail>  
+<div>
+<p>关于“file list 3 line”的评论:</p>
+</div>
+<Vssue title="关于“file list 3 line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

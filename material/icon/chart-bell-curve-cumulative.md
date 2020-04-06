@@ -5,6 +5,7 @@ name: chart-bell-curve-cumulative
 zhTips: 累积钟形曲线
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/chart-bell-curve-cumulative.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 19V20H22V22H2V2H4V17C7 17 10 15 12.1 11.4C15.1 6.4 18.4 4 22 4V6C19.2 6 16.5 8.1 13.9 12.5C11.3 16.6 7.7 19 4 19Z" /></svg>
 </div>
 <detail full-name='mdi-chart-bell-curve-cumulative'></detail>
-    
+<div>
+<p>关于“chart bell curve cumulative”的评论:</p>
+</div>
+<Vssue title="关于“chart bell curve cumulative”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

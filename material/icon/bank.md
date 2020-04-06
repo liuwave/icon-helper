@@ -5,6 +5,7 @@ name: bank
 zhTips: 银行,帐户余额,博物馆,大学,学校,家,公司
 tags: ["banking","places"]
 search: account-balance,museum
+image: https://iconhelper.cn/svg/material/bank.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.5,1L2,6V8H21V6M16,10V17H19V10M2,22H21V19H2M10,10V17H13V10M4,10V17H7V10H4Z" /></svg>
 </div>
 <detail full-name='mdi-bank'></detail>
-    
+<div>
+<p>关于“bank”的评论:</p>
+</div>
+<Vssue title="关于“bank”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

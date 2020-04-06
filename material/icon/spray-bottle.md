@@ -5,6 +5,7 @@ name: spray-bottle
 zhTips: 喷雾瓶,清洁
 tags: []
 search: cleaning
+image: https://iconhelper.cn/svg/material/spray-bottle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,7H15C15.66,7.64 16,8.31 16,9V22H8V15C8,14.72 8.11,14.39 8.3,14L12,7M16,4L15,6H12V5L10,7H9L10,5V4H9V2H14.5A1.5,1.5 0 0,1 16,3.5V4Z" /></svg>
 </div>
 <detail full-name='mdi-spray-bottle'></detail>
-    
+<div>
+<p>关于“spray bottle”的评论:</p>
+</div>
+<Vssue title="关于“spray bottle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

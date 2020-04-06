@@ -5,6 +5,7 @@ name: slope-uphill
 zhTips: 上坡
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/slope-uphill.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,13V22H2V19L22,13M21.68,7.06L16.86,4.46L17.7,7.24L7.58,10.24C6.63,8.95 4.82,8.67 3.53,9.62C2.24,10.57 1.96,12.38 2.91,13.67C3.85,14.97 5.67,15.24 6.96,14.29C7.67,13.78 8.1,12.97 8.14,12.09L18.26,9.09L19.1,11.87L21.68,7.06Z" /></svg>
 </div>
 <detail full-name='mdi-slope-uphill'></detail>
-    
+<div>
+<p>关于“slope uphill”的评论:</p>
+</div>
+<Vssue title="关于“slope uphill”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

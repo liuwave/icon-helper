@@ -5,6 +5,7 @@ name: volume-mute-line
 zhTips: 音量低,喇叭,声音,静音
 tags: ["media"]
 search: trumpet,sound,off,line
+image: https://iconhelper.cn/svg/remix/media/volume-mute-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-volume-mute-line'></detail>
-    
+<detail full-name='ri-volume-mute-line'></detail>  
+<div>
+<p>关于“volume mute line”的评论:</p>
+</div>
+<Vssue title="关于“volume mute line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: delete-sweep
 zhTips: 删除扫描
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/delete-sweep.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,16H19V18H15V16M15,8H22V10H15V8M15,12H21V14H15V12M3,18A2,2 0 0,0 5,20H11A2,2 0 0,0 13,18V8H3V18M14,5H11L10,4H6L5,5H2V7H14V5Z" /></svg>
 </div>
 <detail full-name='mdi-delete-sweep'></detail>
-    
+<div>
+<p>关于“delete sweep”的评论:</p>
+</div>
+<Vssue title="关于“delete sweep”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

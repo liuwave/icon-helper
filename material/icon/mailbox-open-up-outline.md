@@ -5,6 +5,7 @@ name: mailbox-open-up-outline
 zhTips: 邮箱打开轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/mailbox-open-up-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,12.85V6.85H18V8.85H16V12.85H14M18,3.85H8A5,5 0 0,0 3,8.85V17.85H1V19.85H21A2,2 0 0,0 23,17.85V8.85A5,5 0 0,0 18,3.85M11,17.85H5V8.85A3,3 0 0,1 8,5.85A3,3 0 0,1 11,8.85V17.85M21,17.85H13V8.85C13,7.76 12.65,6.71 12,5.85H18A3,3 0 0,1 21,8.85V17.85Z" /></svg>
 </div>
 <detail full-name='mdi-mailbox-open-up-outline'></detail>
-    
+<div>
+<p>关于“mailbox open up outline”的评论:</p>
+</div>
+<Vssue title="关于“mailbox open up outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

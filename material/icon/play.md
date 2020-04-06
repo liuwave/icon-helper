@@ -5,6 +5,7 @@ name: play
 zhTips: 播放,播放箭头,播放黑,音频,音乐,声音,开始,视频
 tags: ["home-automation"]
 search: play-arrow
+image: https://iconhelper.cn/svg/material/play.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8,5.14V19.14L19,12.14L8,5.14Z" /></svg>
 </div>
 <detail full-name='mdi-play'></detail>
-    
+<div>
+<p>关于“play”的评论:</p>
+</div>
+<Vssue title="关于“play”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

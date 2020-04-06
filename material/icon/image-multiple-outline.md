@@ -5,6 +5,7 @@ name: image-multiple-outline
 zhTips: 图像多个轮廓,图像滤镜,图像轮廓
 tags: ["photography"]
 search: image-filter,images-outline
+image: https://iconhelper.cn/svg/material/image-multiple-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,17H7V3H21M21,1H7A2,2 0 0,0 5,3V17A2,2 0 0,0 7,19H21A2,2 0 0,0 23,17V3A2,2 0 0,0 21,1M3,5H1V21A2,2 0 0,0 3,23H19V21H3M15.96,10.29L13.21,13.83L11.25,11.47L8.5,15H19.5L15.96,10.29Z" /></svg>
 </div>
 <detail full-name='mdi-image-multiple-outline'></detail>
-    
+<div>
+<p>关于“image multiple outline”的评论:</p>
+</div>
+<Vssue title="关于“image multiple outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

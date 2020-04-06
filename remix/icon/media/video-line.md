@@ -5,6 +5,7 @@ name: video-line
 zhTips: 视频
 tags: ["media"]
 search: line
+image: https://iconhelper.cn/svg/remix/media/video-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-video-line'></detail>
-    
+<detail full-name='ri-video-line'></detail>  
+<div>
+<p>关于“video line”的评论:</p>
+</div>
+<Vssue title="关于“video line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

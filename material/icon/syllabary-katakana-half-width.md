@@ -5,6 +5,7 @@ name: syllabary-katakana-half-width
 zhTips: 音节片假名半宽度,书写系统片假名半宽度
 tags: ["alpha-numeric"]
 search: writing-system-katakana-half-width
+image: https://iconhelper.cn/svg/material/syllabary-katakana-half-width.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 4V6H14L13 10.81L15 11.2L16 6.1V4M10 9V12C10 14.86 9.34 17.29 8.08 18.61L9.5 20C11.35 18.08 12 15.15 12 12V9Z" /></svg>
 </div>
 <detail full-name='mdi-syllabary-katakana-half-width'></detail>
-    
+<div>
+<p>关于“syllabary katakana half width”的评论:</p>
+</div>
+<Vssue title="关于“syllabary katakana half width”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

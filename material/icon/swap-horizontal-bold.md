@@ -5,6 +5,7 @@ name: swap-horizontal-bold
 zhTips: 交换水平粗体,向左箭头粗体
 tags: ["arrow"]
 search: arrow-left-right-bold
+image: https://iconhelper.cn/svg/material/swap-horizontal-bold.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8,10V13H14V18H8V21L2,15.5L8,10M22,8.5L16,3V6H10V11H16V14L22,8.5Z" /></svg>
 </div>
 <detail full-name='mdi-swap-horizontal-bold'></detail>
-    
+<div>
+<p>关于“swap horizontal bold”的评论:</p>
+</div>
+<Vssue title="关于“swap horizontal bold”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

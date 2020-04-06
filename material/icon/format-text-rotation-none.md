@@ -5,6 +5,7 @@ name: format-text-rotation-none
 zhTips: 格式文本旋转无
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-text-rotation-none.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.5,18L17.5,21V19H5V17H17.5V15L20.5,18M10.13,10H13.88L12,4.97L10.13,10M12.75,3L17.5,14H15.42L14.5,11.81H9.5L8.58,14H6.5L11.25,3H12.75Z" /></svg>
 </div>
 <detail full-name='mdi-format-text-rotation-none'></detail>
-    
+<div>
+<p>关于“format text rotation none”的评论:</p>
+</div>
+<Vssue title="关于“format text rotation none”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

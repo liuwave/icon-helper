@@ -5,6 +5,7 @@ name: call-merge
 zhTips: 呼叫合并,合并类型
 tags: ["cellphone-phone","arrow"]
 search: merge-type
+image: https://iconhelper.cn/svg/material/call-merge.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,20.41L18.41,19L15,15.59L13.59,17M7.5,8H11V13.59L5.59,19L7,20.41L13,14.41V8H16.5L12,3.5" /></svg>
 </div>
 <detail full-name='mdi-call-merge'></detail>
-    
+<div>
+<p>关于“call merge”的评论:</p>
+</div>
+<Vssue title="关于“call merge”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: file-export-outline
 zhTips: 文件导出概述
 tags: ["files-folders"]
 search: 
+image: https://iconhelper.cn/svg/material/file-export-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 2H6C4.9 2 4 2.9 4 4V20C4 21.1 4.9 22 6 22H18C19.1 22 20 21.1 20 20V8L14 2M18 20H6V4H13V9H18V20M16 11V18.1L13.9 16L11.1 18.8L8.3 16L11.1 13.2L8.9 11H16Z" /></svg>
 </div>
 <detail full-name='mdi-file-export-outline'></detail>
-    
+<div>
+<p>关于“file export outline”的评论:</p>
+</div>
+<Vssue title="关于“file export outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

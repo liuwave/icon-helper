@@ -5,6 +5,7 @@ name: hashtag
 zhTips: #,井号,Hashtag,Twitter,instagram,英镑,社交媒体,标签,免提
 tags: ["editor"]
 search: 
+image: https://iconhelper.cn/svg/remix/editor/hashtag.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-hashtag'></detail>
-    
+<detail full-name='ri-hashtag'></detail>  
+<div>
+<p>关于“hashtag”的评论:</p>
+</div>
+<Vssue title="关于“hashtag”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

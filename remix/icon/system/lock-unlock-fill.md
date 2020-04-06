@@ -5,6 +5,7 @@ name: lock-unlock-fill
 zhTips: 锁子,安全,密码
 tags: ["system"]
 search: security,password,fill
+image: https://iconhelper.cn/svg/remix/system/lock-unlock-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-lock-unlock-fill'></detail>
-    
+<detail full-name='ri-lock-unlock-fill'></detail>  
+<div>
+<p>关于“lock unlock fill”的评论:</p>
+</div>
+<Vssue title="关于“lock unlock fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

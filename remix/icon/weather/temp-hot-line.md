@@ -5,6 +5,7 @@ name: temp-hot-line
 zhTips: 温度,高温,热
 tags: ["weather"]
 search: temperature,line
+image: https://iconhelper.cn/svg/remix/weather/temp-hot-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-temp-hot-line'></detail>
-    
+<detail full-name='ri-temp-hot-line'></detail>  
+<div>
+<p>关于“temp hot line”的评论:</p>
+</div>
+<Vssue title="关于“temp hot line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: map-marker-check
 zhTips: 地图标记检查,地图标记刻度线,投票位置
 tags: ["navigation","geographic-information-system"]
 search: map-marker-tick,where-to-vote
+image: https://iconhelper.cn/svg/material/map-marker-check.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2C15.86,2 19,5.14 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9C5,5.14 8.14,2 12,2M10.47,14L17,7.41L15.6,6L10.47,11.18L8.4,9.09L7,10.5L10.47,14Z" /></svg>
 </div>
 <detail full-name='mdi-map-marker-check'></detail>
-    
+<div>
+<p>关于“map marker check”的评论:</p>
+</div>
+<Vssue title="关于“map marker check”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

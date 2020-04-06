@@ -5,6 +5,7 @@ name: slideshow-2-line
 zhTips: 投影,放映,演示,演讲,幻灯片,会议室
 tags: ["business"]
 search: presentation,meeting,line
+image: https://iconhelper.cn/svg/remix/business/slideshow-2-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-slideshow-2-line'></detail>
-    
+<detail full-name='ri-slideshow-2-line'></detail>  
+<div>
+<p>关于“slideshow 2 line”的评论:</p>
+</div>
+<Vssue title="关于“slideshow 2 line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: bank-outline
 zhTips: 银行轮廓,博物馆轮廓
 tags: ["banking"]
 search: museum-outline
+image: https://iconhelper.cn/svg/material/bank-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.5,10H4.5V17H6.5V10M12.5,10H10.5V17H12.5V10M21,19H2V21H21V19M18.5,10H16.5V17H18.5V10M11.5,3.26L16.71,6H6.29L11.5,3.26M11.5,1L2,6V8H21V6L11.5,1Z" /></svg>
 </div>
 <detail full-name='mdi-bank-outline'></detail>
-    
+<div>
+<p>关于“bank outline”的评论:</p>
+</div>
+<Vssue title="关于“bank outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

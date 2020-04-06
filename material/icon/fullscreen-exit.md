@@ -5,6 +5,7 @@ name: fullscreen-exit
 zhTips: 全屏退出
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/fullscreen-exit.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,14H19V16H16V19H14V14M5,14H10V19H8V16H5V14M8,5H10V10H5V8H8V5M19,8V10H14V5H16V8H19Z" /></svg>
 </div>
 <detail full-name='mdi-fullscreen-exit'></detail>
-    
+<div>
+<p>关于“fullscreen exit”的评论:</p>
+</div>
+<Vssue title="关于“fullscreen exit”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

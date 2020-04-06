@@ -5,6 +5,7 @@ name: window-restore
 zhTips: 窗口还原,窗口,还原
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/window-restore.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,8H8V4H20V16H16V20H4V8M16,8V14H18V6H10V8H16M6,12V18H14V12H6Z" /></svg>
 </div>
 <detail full-name='mdi-window-restore'></detail>
-    
+<div>
+<p>关于“window restore”的评论:</p>
+</div>
+<Vssue title="关于“window restore”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

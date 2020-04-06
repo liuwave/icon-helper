@@ -5,6 +5,7 @@ name: ideogram-cjk
 zhTips: 表意文字cjk,表意文字中文日韩,书写系统cjk
 tags: ["alpha-numeric"]
 search: ideogram-chinese-japanese-korean,writing-system-cjk
+image: https://iconhelper.cn/svg/material/ideogram-cjk.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 4V6H4V10H6V8H18V10H20V6H13V4M8 10V12H13.59L11.59 14H4V16H11V18H10V20H13V16H20V14H14.21L16 12.21V10Z" /></svg>
 </div>
 <detail full-name='mdi-ideogram-cjk'></detail>
-    
+<div>
+<p>关于“ideogram cjk”的评论:</p>
+</div>
+<Vssue title="关于“ideogram cjk”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

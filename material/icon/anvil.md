@@ -5,6 +5,7 @@ name: anvil
 zhTips: 铁砧
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/anvil.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,5V10C13.03,12.47 8.44,14.97 6,16V19H21V16C14.59,13.27 17.47,9 22,8V5H9M2,6C2.81,8.13 4.42,9.5 7,10V6H2Z" /></svg>
 </div>
 <detail full-name='mdi-anvil'></detail>
-    
+<div>
+<p>关于“anvil”的评论:</p>
+</div>
+<Vssue title="关于“anvil”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

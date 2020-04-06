@@ -5,6 +5,7 @@ name: rectangle-outline
 zhTips: 矩形轮廓
 tags: ["shape"]
 search: 
+image: https://iconhelper.cn/svg/material/rectangle-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,6V19H20V6H4M18,17H6V8H18V17Z" /></svg>
 </div>
 <detail full-name='mdi-rectangle-outline'></detail>
-    
+<div>
+<p>关于“rectangle outline”的评论:</p>
+</div>
+<Vssue title="关于“rectangle outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

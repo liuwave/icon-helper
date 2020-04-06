@@ -5,6 +5,7 @@ name: bed-single-outline
 zhTips: 床单轮廓
 tags: ["home-automation","holiday"]
 search: 
+image: https://iconhelper.cn/svg/material/bed-single-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 10V7C17 5.9 16.11 5 15 5H9C7.9 5 7 5.9 7 7V10C5.9 10 5 10.9 5 12V17H6.33L7 19H8L8.67 17H15.33L16 19H17L17.67 17H19V12C19 10.9 18.11 10 17 10M9 7H15V10H9M17 15H7V12H17Z" /></svg>
 </div>
 <detail full-name='mdi-bed-single-outline'></detail>
-    
+<div>
+<p>关于“bed single outline”的评论:</p>
+</div>
+<Vssue title="关于“bed single outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

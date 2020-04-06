@@ -5,6 +5,7 @@ name: fast-forward-outline
 zhTips: 快进轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/fast-forward-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,9.9L18,12L15,14.1V9.9M6,9.9L9,12L6,14.1V9.9M13,6V18L21.5,12L13,6M4,6V18L12.5,12L4,6Z" /></svg>
 </div>
 <detail full-name='mdi-fast-forward-outline'></detail>
-    
+<div>
+<p>关于“fast forward outline”的评论:</p>
+</div>
+<Vssue title="关于“fast forward outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

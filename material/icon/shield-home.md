@@ -5,6 +5,7 @@ name: shield-home
 zhTips: 盾构房屋,家庭安全
 tags: ["home-automation"]
 search: security-home,shield-house
+image: https://iconhelper.cn/svg/material/shield-home.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,13H13V16H16V11H18L12,6L6,11H8V16H11V13M12,1L21,5V11C21,16.55 17.16,21.74 12,23C6.84,21.74 3,16.55 3,11V5L12,1Z" /></svg>
 </div>
 <detail full-name='mdi-shield-home'></detail>
-    
+<div>
+<p>关于“shield home”的评论:</p>
+</div>
+<Vssue title="关于“shield home”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

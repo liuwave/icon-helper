@@ -5,6 +5,7 @@ name: note-text-outline
 zhTips: 注意文字轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/note-text-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 3H5A2 2 0 0 0 3 5V19A2 2 0 0 0 5 21H19A2 2 0 0 0 21 19V9L15 3M19 19H5V5H14V10H19M17 14H7V12H17M14 17H7V15H14" /></svg>
 </div>
 <detail full-name='mdi-note-text-outline'></detail>
-    
+<div>
+<p>关于“note text outline”的评论:</p>
+</div>
+<Vssue title="关于“note text outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

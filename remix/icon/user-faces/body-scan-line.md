@@ -5,6 +5,7 @@ name: body-scan-line
 zhTips: 扫描身体,体态识别,动作之别,手势识别
 tags: ["user-faces"]
 search: gesture recognition,body,line
+image: https://iconhelper.cn/svg/remix/user-faces/body-scan-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-body-scan-line'></detail>
-    
+<detail full-name='ri-body-scan-line'></detail>  
+<div>
+<p>关于“body scan line”的评论:</p>
+</div>
+<Vssue title="关于“body scan line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

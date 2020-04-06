@@ -5,6 +5,7 @@ name: post
 zhTips: 帖子,博客
 tags: []
 search: blog
+image: https://iconhelper.cn/svg/material/post.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3V21H21V3H3M18 18H6V17H18V18M18 16H6V15H18V16M18 12H6V6H18V12Z" /></svg>
 </div>
 <detail full-name='mdi-post'></detail>
-    
+<div>
+<p>关于“post”的评论:</p>
+</div>
+<Vssue title="关于“post”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

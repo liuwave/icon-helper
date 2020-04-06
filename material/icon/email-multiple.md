@@ -5,6 +5,7 @@ name: email-multiple
 zhTips: 多个电子邮件
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/email-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,6V4L14,9L6,4V6L14,11L22,6M22,2A2,2 0 0,1 24,4V16A2,2 0 0,1 22,18H6C4.89,18 4,17.1 4,16V4C4,2.89 4.89,2 6,2H22M2,6V20H20V22H2A2,2 0 0,1 0,20V6H2Z" /></svg>
 </div>
 <detail full-name='mdi-email-multiple'></detail>
-    
+<div>
+<p>关于“email multiple”的评论:</p>
+</div>
+<Vssue title="关于“email multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

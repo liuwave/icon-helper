@@ -5,6 +5,7 @@ name: format-float-right
 zhTips: 格式向右浮动
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-float-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,7H21V13H15V7M3,3H21V5H3V3M13,7V9H3V7H13M9,11V13H3V11H9M3,15H17V17H3V15M3,19H21V21H3V19Z" /></svg>
 </div>
 <detail full-name='mdi-format-float-right'></detail>
-    
+<div>
+<p>关于“format float right”的评论:</p>
+</div>
+<Vssue title="关于“format float right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: home-thermometer
 zhTips: 家庭温度计,家庭气候,家庭温度
 tags: ["home-automation"]
 search: home-climate,home-temperature
+image: https://iconhelper.cn/svg/material/home-thermometer.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3L2 12H5V20H19V12H22L12 3M12 8A1 1 0 0 1 13 9V14.27A2 2 0 0 1 14 16A2 2 0 0 1 12 18A2 2 0 0 1 10 16A2 2 0 0 1 11 14.27V9A1 1 0 0 1 12 8Z" /></svg>
 </div>
 <detail full-name='mdi-home-thermometer'></detail>
-    
+<div>
+<p>关于“home thermometer”的评论:</p>
+</div>
+<Vssue title="关于“home thermometer”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

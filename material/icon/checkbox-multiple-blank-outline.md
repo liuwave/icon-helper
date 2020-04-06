@@ -5,6 +5,7 @@ name: checkbox-multiple-blank-outline
 zhTips: 复选框多个空白轮廓,复选框空白轮廓
 tags: ["form"]
 search: checkboxes-blank-outline
+image: https://iconhelper.cn/svg/material/checkbox-multiple-blank-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,16V4H8V16H20M22,16A2,2 0 0,1 20,18H8C6.89,18 6,17.1 6,16V4C6,2.89 6.89,2 8,2H20A2,2 0 0,1 22,4V16M16,20V22H4A2,2 0 0,1 2,20V7H4V20H16Z" /></svg>
 </div>
 <detail full-name='mdi-checkbox-multiple-blank-outline'></detail>
-    
+<div>
+<p>关于“checkbox multiple blank outline”的评论:</p>
+</div>
+<Vssue title="关于“checkbox multiple blank outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

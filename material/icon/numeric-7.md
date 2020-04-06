@@ -5,6 +5,7 @@ name: numeric-7
 zhTips: 数字7
 tags: ["alpha-numeric"]
 search: number-7,numeric-seven
+image: https://iconhelper.cn/svg/material/numeric-7.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,17L15,9V7H9V9H13L9,17" /></svg>
 </div>
 <detail full-name='mdi-numeric-7'></detail>
-    
+<div>
+<p>关于“numeric 7”的评论:</p>
+</div>
+<Vssue title="关于“numeric 7”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

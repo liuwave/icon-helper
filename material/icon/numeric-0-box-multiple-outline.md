@@ -5,6 +5,7 @@ name: numeric-0-box-multiple-outline
 zhTips: 数字0框多个轮廓
 tags: ["alpha-numeric"]
 search: numeric-zero-box-multiple-outline,numeric-0-boxes-outline,number-0-box-multiple-outline
+image: https://iconhelper.cn/svg/material/numeric-0-box-multiple-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,17V3H7V17H21M21,1A2,2 0 0,1 23,3V17A2,2 0 0,1 21,19H7A2,2 0 0,1 5,17V3A2,2 0 0,1 7,1H21M3,5V21H19V23H3A2,2 0 0,1 1,21V5H3M13,5H15A2,2 0 0,1 17,7V13A2,2 0 0,1 15,15H13A2,2 0 0,1 11,13V7A2,2 0 0,1 13,5M13,7V13H15V7H13Z" /></svg>
 </div>
 <detail full-name='mdi-numeric-0-box-multiple-outline'></detail>
-    
+<div>
+<p>关于“numeric 0 box multiple outline”的评论:</p>
+</div>
+<Vssue title="关于“numeric 0 box multiple outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

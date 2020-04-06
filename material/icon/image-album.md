@@ -5,6 +5,7 @@ name: image-album
 zhTips: 相册
 tags: []
 search: photo-album
+image: https://iconhelper.cn/svg/material/image-album.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,19L9,15.14L11.14,17.72L14.14,13.86L18,19H6M6,4H11V12L8.5,10.5L6,12M18,2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V4A2,2 0 0,0 18,2Z" /></svg>
 </div>
 <detail full-name='mdi-image-album'></detail>
-    
+<div>
+<p>关于“image album”的评论:</p>
+</div>
+<Vssue title="关于“image album”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

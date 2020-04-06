@@ -5,6 +5,7 @@ name: file-upload-outline
 zhTips: 文件上传概述
 tags: ["files-folders"]
 search: 
+image: https://iconhelper.cn/svg/material/file-upload-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,2L20,8V20A2,2 0 0,1 18,22H6A2,2 0 0,1 4,20V4A2,2 0 0,1 6,2H14M18,20V9H13V4H6V20H18M12,12L16,16H13.5V19H10.5V16H8L12,12Z" /></svg>
 </div>
 <detail full-name='mdi-file-upload-outline'></detail>
-    
+<div>
+<p>关于“file upload outline”的评论:</p>
+</div>
+<Vssue title="关于“file upload outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

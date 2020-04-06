@@ -5,6 +5,7 @@ name: car-washing-line
 zhTips: 汽车,洗车
 tags: ["map"]
 search: line
+image: https://iconhelper.cn/svg/remix/map/car-washing-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-car-washing-line'></detail>
-    
+<detail full-name='ri-car-washing-line'></detail>  
+<div>
+<p>关于“car washing line”的评论:</p>
+</div>
+<Vssue title="关于“car washing line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

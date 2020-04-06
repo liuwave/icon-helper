@@ -5,6 +5,7 @@ name: menu-left
 zhTips: 菜单左,左箭头
 tags: ["arrow"]
 search: arrow-left
+image: https://iconhelper.cn/svg/material/menu-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,7L9,12L14,17V7Z" /></svg>
 </div>
 <detail full-name='mdi-menu-left'></detail>
-    
+<div>
+<p>关于“menu left”的评论:</p>
+</div>
+<Vssue title="关于“menu left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

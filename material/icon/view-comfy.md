@@ -5,6 +5,7 @@ name: view-comfy
 zhTips: 舒适的风景
 tags: ["view"]
 search: 
+image: https://iconhelper.cn/svg/material/view-comfy.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,9H7V5H3V9M3,14H7V10H3V14M8,14H12V10H8V14M13,14H17V10H13V14M8,9H12V5H8V9M13,5V9H17V5H13M18,14H22V10H18V14M3,19H7V15H3V19M8,19H12V15H8V19M13,19H17V15H13V19M18,19H22V15H18V19M18,5V9H22V5H18Z" /></svg>
 </div>
 <detail full-name='mdi-view-comfy'></detail>
-    
+<div>
+<p>关于“view comfy”的评论:</p>
+</div>
+<Vssue title="关于“view comfy”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

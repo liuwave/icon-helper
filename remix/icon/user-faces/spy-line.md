@@ -5,6 +5,7 @@ name: spy-line
 zhTips: 间谍,侦探,无痕模式,隐私模式
 tags: ["user-faces"]
 search: incognito mode,detective,secret,line
+image: https://iconhelper.cn/svg/remix/user-faces/spy-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-spy-line'></detail>
-    
+<detail full-name='ri-spy-line'></detail>  
+<div>
+<p>关于“spy line”的评论:</p>
+</div>
+<Vssue title="关于“spy line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

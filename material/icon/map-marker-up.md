@@ -5,6 +5,7 @@ name: map-marker-up
 zhTips: 将地图标记向上
 tags: ["navigation","geographic-information-system"]
 search: 
+image: https://iconhelper.cn/svg/material/map-marker-up.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A7 7 0 0 0 5 9C5 14.25 12 22 12 22S19 14.25 19 9A7 7 0 0 0 12 2M16.5 9H14V14H10V9H7.5L12 4.5Z" /></svg>
 </div>
 <detail full-name='mdi-map-marker-up'></detail>
-    
+<div>
+<p>关于“map marker up”的评论:</p>
+</div>
+<Vssue title="关于“map marker up”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

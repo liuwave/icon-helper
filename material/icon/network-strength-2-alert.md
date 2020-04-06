@@ -5,6 +5,7 @@ name: network-strength-2-alert
 zhTips: 网络强度2警告
 tags: ["cellphone-phone","alert-error"]
 search: network-strength-2-warning
+image: https://iconhelper.cn/svg/material/network-strength-2-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,1L1,21H17V19H13V11.83L19,5.83V7H21M19,9V17H21V9M19,19V21H21V19" /></svg>
 </div>
 <detail full-name='mdi-network-strength-2-alert'></detail>
-    
+<div>
+<p>关于“network strength 2 alert”的评论:</p>
+</div>
+<Vssue title="关于“network strength 2 alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

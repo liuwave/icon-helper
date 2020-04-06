@@ -5,6 +5,7 @@ name: camera-switch
 zhTips: 摄像机开关
 tags: ["photography"]
 search: switch-camera
+image: https://iconhelper.cn/svg/material/camera-switch.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,15.5V13H9V15.5L5.5,12L9,8.5V11H15V8.5L18.5,12M20,4H16.83L15,2H9L7.17,4H4A2,2 0 0,0 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C22,4.89 21.1,4 20,4Z" /></svg>
 </div>
 <detail full-name='mdi-camera-switch'></detail>
-    
+<div>
+<p>关于“camera switch”的评论:</p>
+</div>
+<Vssue title="关于“camera switch”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

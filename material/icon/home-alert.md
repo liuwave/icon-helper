@@ -5,6 +5,7 @@ name: home-alert
 zhTips: 家庭警报
 tags: ["home-automation","alert-error"]
 search: home-warning
+image: https://iconhelper.cn/svg/material/home-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3L2,12H5V20H19V12H22L12,3M13,18H11V16H13V18M13,14H11V9H13V14Z" /></svg>
 </div>
 <detail full-name='mdi-home-alert'></detail>
-    
+<div>
+<p>关于“home alert”的评论:</p>
+</div>
+<Vssue title="关于“home alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

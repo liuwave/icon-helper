@@ -5,6 +5,7 @@ name: thumb-up-fill
 zhTips: 喜欢,好
 tags: ["system"]
 search: like,good,fill
+image: https://iconhelper.cn/svg/remix/system/thumb-up-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-thumb-up-fill'></detail>
-    
+<detail full-name='ri-thumb-up-fill'></detail>  
+<div>
+<p>关于“thumb up fill”的评论:</p>
+</div>
+<Vssue title="关于“thumb up fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: bitbucket
 zhTips: bitbucket
 tags: ["brand-logo"]
 search: 
+image: https://iconhelper.cn/svg/material/bitbucket.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2.65 3C2.3 3 2 3.3 2 3.65C2 3.69 2 3.73 2 3.77L4.73 20.27C4.8 20.69 5.16 21 5.58 21H18.63C18.94 21 19.22 20.78 19.27 20.46L22 3.77C22.05 3.42 21.81 3.09 21.46 3.04C21.43 3.03 21.39 3.03 21.35 3.03L2.65 3M14.1 14.95H9.94L8.81 9.07H15.11L14.1 14.95Z" /></svg>
 </div>
 <detail full-name='mdi-bitbucket'></detail>
-    
+<div>
+<p>关于“bitbucket”的评论:</p>
+</div>
+<Vssue title="关于“bitbucket”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

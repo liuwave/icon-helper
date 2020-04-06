@@ -5,6 +5,7 @@ name: movie-2-fill
 zhTips: 电影,硬盘,视频
 tags: ["media"]
 search: film,video,fill
+image: https://iconhelper.cn/svg/remix/media/movie-2-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-movie-2-fill'></detail>
-    
+<detail full-name='ri-movie-2-fill'></detail>  
+<div>
+<p>关于“movie 2 fill”的评论:</p>
+</div>
+<Vssue title="关于“movie 2 fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

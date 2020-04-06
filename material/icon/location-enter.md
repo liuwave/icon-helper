@@ -5,6 +5,7 @@ name: location-enter
 zhTips: 位置输入,状态输入
 tags: ["home-automation"]
 search: presence-enter
+image: https://iconhelper.cn/svg/material/location-enter.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 12L10 8V11H2V13H10V16M22 12A10 10 0 0 1 2.46 15H4.59A8 8 0 1 0 4.59 9H2.46A10 10 0 0 1 22 12Z" /></svg>
 </div>
 <detail full-name='mdi-location-enter'></detail>
-    
+<div>
+<p>关于“location enter”的评论:</p>
+</div>
+<Vssue title="关于“location enter”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

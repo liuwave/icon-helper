@@ -5,6 +5,7 @@ name: format-line-spacing
 zhTips: 间距行格式
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-line-spacing.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,13H22V11H10M10,19H22V17H10M10,7H22V5H10M6,7H8.5L5,3.5L1.5,7H4V17H1.5L5,20.5L8.5,17H6V7Z" /></svg>
 </div>
 <detail full-name='mdi-format-line-spacing'></detail>
-    
+<div>
+<p>关于“format line spacing”的评论:</p>
+</div>
+<Vssue title="关于“format line spacing”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

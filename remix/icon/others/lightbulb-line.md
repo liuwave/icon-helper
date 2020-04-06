@@ -5,6 +5,7 @@ name: lightbulb-line
 zhTips: 灯泡,能源
 tags: ["others"]
 search: energy,creativity,line
+image: https://iconhelper.cn/svg/remix/others/lightbulb-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-lightbulb-line'></detail>
-    
+<detail full-name='ri-lightbulb-line'></detail>  
+<div>
+<p>关于“lightbulb line”的评论:</p>
+</div>
+<Vssue title="关于“lightbulb line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

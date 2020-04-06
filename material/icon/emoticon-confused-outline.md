@@ -5,6 +5,7 @@ name: emoticon-confused-outline
 zhTips: 表情混淆轮廓
 tags: ["emoji"]
 search: 
+image: https://iconhelper.cn/svg/material/emoticon-confused-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 12A8 8 0 1 0 12 20A8 8 0 0 0 20 12M22 12A10 10 0 1 1 12 2A10 10 0 0 1 22 12M15.5 8A1.5 1.5 0 1 1 14 9.5A1.54 1.54 0 0 1 15.5 8M10 9.5A1.5 1.5 0 1 1 8.5 8A1.54 1.54 0 0 1 10 9.5M17 15H13A4 4 0 0 0 9.53 17L7.8 16A6 6 0 0 1 13 13H17Z" /></svg>
 </div>
 <detail full-name='mdi-emoticon-confused-outline'></detail>
-    
+<div>
+<p>关于“emoticon confused outline”的评论:</p>
+</div>
+<Vssue title="关于“emoticon confused outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

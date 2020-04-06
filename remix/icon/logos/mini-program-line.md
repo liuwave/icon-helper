@@ -5,6 +5,7 @@ name: mini-program-line
 zhTips: 微信小程序
 tags: ["logos"]
 search: line
+image: https://iconhelper.cn/svg/remix/logos/mini-program-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-mini-program-line'></detail>
-    
+<detail full-name='ri-mini-program-line'></detail>  
+<div>
+<p>关于“mini program line”的评论:</p>
+</div>
+<Vssue title="关于“mini program line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

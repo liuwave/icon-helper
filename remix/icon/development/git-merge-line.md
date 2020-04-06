@@ -5,6 +5,7 @@ name: git-merge-line
 zhTips: 合并
 tags: ["development"]
 search: line
+image: https://iconhelper.cn/svg/remix/development/git-merge-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-git-merge-line'></detail>
-    
+<detail full-name='ri-git-merge-line'></detail>  
+<div>
+<p>关于“git merge line”的评论:</p>
+</div>
+<Vssue title="关于“git merge line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

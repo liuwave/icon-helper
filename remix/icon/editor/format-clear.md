@@ -5,6 +5,7 @@ name: format-clear
 zhTips: 清除格式
 tags: ["editor"]
 search: remove formatting
+image: https://iconhelper.cn/svg/remix/editor/format-clear.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-format-clear'></detail>
-    
+<detail full-name='ri-format-clear'></detail>  
+<div>
+<p>关于“format clear”的评论:</p>
+</div>
+<Vssue title="关于“format clear”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

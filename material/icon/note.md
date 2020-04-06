@@ -5,6 +5,7 @@ name: note
 zhTips: 笔记,纸
 tags: []
 search: paper
+image: https://iconhelper.cn/svg/material/note.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,10V4.5L19.5,10M5,3C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V9L15,3H5Z" /></svg>
 </div>
 <detail full-name='mdi-note'></detail>
-    
+<div>
+<p>关于“note”的评论:</p>
+</div>
+<Vssue title="关于“note”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

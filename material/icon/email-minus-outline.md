@@ -5,6 +5,7 @@ name: email-minus-outline
 zhTips: 电子邮件减去轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/email-minus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 18V20H24V18H16M14 18H3V8L11 13L19 8V16H21V6C21 4.9 20.1 4 19 4H3C1.9 4 1 4.9 1 6V18C1 19.1 1.9 20 3 20H14V18M19 6L11 11L3 6H19Z" /></svg>
 </div>
 <detail full-name='mdi-email-minus-outline'></detail>
-    
+<div>
+<p>关于“email minus outline”的评论:</p>
+</div>
+<Vssue title="关于“email minus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

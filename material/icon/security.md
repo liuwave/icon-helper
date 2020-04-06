@@ -5,6 +5,7 @@ name: security
 zhTips: 安全
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/security.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,12H19C18.47,16.11 15.72,19.78 12,20.92V12H5V6.3L12,3.19M12,1L3,5V11C3,16.55 6.84,21.73 12,23C17.16,21.73 21,16.55 21,11V5L12,1Z" /></svg>
 </div>
 <detail full-name='mdi-security'></detail>
-    
+<div>
+<p>关于“security”的评论:</p>
+</div>
+<Vssue title="关于“security”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

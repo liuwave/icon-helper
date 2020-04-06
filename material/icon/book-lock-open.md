@@ -5,6 +5,7 @@ name: book-lock-open
 zhTips: 开锁书,书不安全
 tags: ["lock"]
 search: book-unsecure
+image: https://iconhelper.cn/svg/material/book-lock-open.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,2H12V9L9.5,7.5L7,9V2H6A2,2 0 0,0 4,4V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V4A2,2 0 0,0 18,2M18,20H10V16H11V14A3,3 0 0,1 14,11A3,3 0 0,1 17,14H15A1,1 0 0,0 14,13A1,1 0 0,0 13,14V16H18V20Z" /></svg>
 </div>
 <detail full-name='mdi-book-lock-open'></detail>
-    
+<div>
+<p>关于“book lock open”的评论:</p>
+</div>
+<Vssue title="关于“book lock open”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

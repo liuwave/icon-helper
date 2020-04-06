@@ -5,6 +5,7 @@ name: currency-rub
 zhTips: 货币卢布,卢布
 tags: ["currency","banking"]
 search: ruble
+image: https://iconhelper.cn/svg/material/currency-rub.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,10H7V3H14.5C17,3 19,5 19,7.5C19,10 17,12 14.5,12H9V14H15V16H9V21H7V16H6V14H7V12H6V10M14.5,5H9V10H14.5A2.5,2.5 0 0,0 17,7.5A2.5,2.5 0 0,0 14.5,5Z" /></svg>
 </div>
 <detail full-name='mdi-currency-rub'></detail>
-    
+<div>
+<p>关于“currency rub”的评论:</p>
+</div>
+<Vssue title="关于“currency rub”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

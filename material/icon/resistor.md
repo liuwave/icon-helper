@@ -5,6 +5,7 @@ name: resistor
 zhTips: 电阻
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/resistor.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,11H7L10.07,15.35L13.11,4L18,11H22V13H17L13.93,8.65L10.89,20L6,13H2V11Z" /></svg>
 </div>
 <detail full-name='mdi-resistor'></detail>
-    
+<div>
+<p>关于“resistor”的评论:</p>
+</div>
+<Vssue title="关于“resistor”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

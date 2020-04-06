@@ -5,6 +5,7 @@ name: floppy
 zhTips: 软盘
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/floppy.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,3A2,2 0 0,0 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5.5L18.5,3H17V9A1,1 0 0,1 16,10H8A1,1 0 0,1 7,9V3H5M12,4V9H15V4H12M7,12H17A1,1 0 0,1 18,13V19H6V13A1,1 0 0,1 7,12Z" /></svg>
 </div>
 <detail full-name='mdi-floppy'></detail>
-    
+<div>
+<p>关于“floppy”的评论:</p>
+</div>
+<Vssue title="关于“floppy”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

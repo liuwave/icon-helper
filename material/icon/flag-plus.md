@@ -5,6 +5,7 @@ name: flag-plus
 zhTips: 标志加号
 tags: []
 search: flag-add
+image: https://iconhelper.cn/svg/material/flag-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,14H19V17H22V19H19V22H17V19H14V17H17V14M12.4,5H18V12C15.78,12 13.84,13.21 12.8,15H11L10.6,13H5V20H3V3H12L12.4,5Z" /></svg>
 </div>
 <detail full-name='mdi-flag-plus'></detail>
-    
+<div>
+<p>关于“flag plus”的评论:</p>
+</div>
+<Vssue title="关于“flag plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

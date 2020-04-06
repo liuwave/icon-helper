@@ -5,6 +5,7 @@ name: bell-fill
 zhTips: 铃铛,哆啦A梦,卡通,动漫
 tags: ["others"]
 search: cartoon,anime,doraemon,fill
+image: https://iconhelper.cn/svg/remix/others/bell-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-bell-fill'></detail>
-    
+<detail full-name='ri-bell-fill'></detail>  
+<div>
+<p>关于“bell fill”的评论:</p>
+</div>
+<Vssue title="关于“bell fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: focus-2-line
 zhTips: 焦点,聚焦,目标,靶心
 tags: ["design"]
 search: aim,target,bullseye,line
+image: https://iconhelper.cn/svg/remix/design/focus-2-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-focus-2-line'></detail>
-    
+<detail full-name='ri-focus-2-line'></detail>  
+<div>
+<p>关于“focus 2 line”的评论:</p>
+</div>
+<Vssue title="关于“focus 2 line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

@@ -5,6 +5,7 @@ name: mic-line
 zhTips: 话筒,语音,录音,声音
 tags: ["media"]
 search: record,voice,line
+image: https://iconhelper.cn/svg/remix/media/mic-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-mic-line'></detail>
-    
+<detail full-name='ri-mic-line'></detail>  
+<div>
+<p>关于“mic line”的评论:</p>
+</div>
+<Vssue title="关于“mic line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

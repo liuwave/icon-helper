@@ -5,6 +5,7 @@ name: message-image
 zhTips: 消息图像,彩信
 tags: []
 search: mms
+image: https://iconhelper.cn/svg/material/message-image.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,14L8.5,9.5L11,12.5L14.5,8L19,14M20,2H4A2,2 0 0,0 2,4V22L6,18H20A2,2 0 0,0 22,16V4C22,2.89 21.1,2 20,2Z" /></svg>
 </div>
 <detail full-name='mdi-message-image'></detail>
-    
+<div>
+<p>关于“message image”的评论:</p>
+</div>
+<Vssue title="关于“message image”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

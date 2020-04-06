@@ -5,6 +5,7 @@ name: account-arrow-left
 zhTips: 帐户向左箭头,用户向左箭头,人向左箭头
 tags: ["account-user"]
 search: user-arrow-left,person-arrow-left
+image: https://iconhelper.cn/svg/material/account-arrow-left.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,21L15,18L18,15V17H22V19H18V21M10,4A4,4 0 0,1 14,8A4,4 0 0,1 10,12A4,4 0 0,1 6,8A4,4 0 0,1 10,4M10,14C11.15,14 12.25,14.12 13.24,14.34C12.46,15.35 12,16.62 12,18C12,18.7 12.12,19.37 12.34,20H2V18C2,15.79 5.58,14 10,14Z" /></svg>
 </div>
 <detail full-name='mdi-account-arrow-left'></detail>
-    
+<div>
+<p>关于“account arrow left”的评论:</p>
+</div>
+<Vssue title="关于“account arrow left”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

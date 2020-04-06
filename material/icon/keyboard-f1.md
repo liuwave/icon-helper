@@ -5,6 +5,7 @@ name: keyboard-f1
 zhTips: 键盘F1
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/keyboard-f1.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6 7H12V9H8V11H11V13H8V17H6V7M14 7H18V17H16V9H14V7Z" /></svg>
 </div>
 <detail full-name='mdi-keyboard-f1'></detail>
-    
+<div>
+<p>关于“keyboard f1”的评论:</p>
+</div>
+<Vssue title="关于“keyboard f1”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

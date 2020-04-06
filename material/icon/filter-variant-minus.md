@@ -5,6 +5,7 @@ name: filter-variant-minus
 zhTips: 滤除负号
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/filter-variant-minus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 8H3V6H21V8M13.81 16H10V18H13.09C13.21 17.28 13.46 16.61 13.81 16M18 11H6V13H18V11M23 18H15V20H23V18Z" /></svg>
 </div>
 <detail full-name='mdi-filter-variant-minus'></detail>
-    
+<div>
+<p>关于“filter variant minus”的评论:</p>
+</div>
+<Vssue title="关于“filter variant minus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

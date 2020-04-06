@@ -5,6 +5,7 @@ name: dice-1-outline
 zhTips: 骰子1轮廓
 tags: ["gaming-rpg"]
 search: 
+image: https://iconhelper.cn/svg/material/dice-1-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 5V19H5V5H19M19 3H5C3.9 3 3 3.9 3 5V19C3 20.11 3.9 21 5 21H19C20.11 21 21 20.11 21 19V5C21 3.9 20.11 3 19 3M12 10.5C11.17 10.5 10.5 11.17 10.5 12S11.17 13.5 12 13.5 13.5 12.83 13.5 12 12.83 10.5 12 10.5" /></svg>
 </div>
 <detail full-name='mdi-dice-1-outline'></detail>
-    
+<div>
+<p>关于“dice 1 outline”的评论:</p>
+</div>
+<Vssue title="关于“dice 1 outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

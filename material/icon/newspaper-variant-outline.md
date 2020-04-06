@@ -5,6 +5,7 @@ name: newspaper-variant-outline
 zhTips: 报纸变型轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/newspaper-variant-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 6V18H4V6H20M22 4H2V18C2 18 2 20 4 20H20C20 20 22 20 22 18V4M10 13H6V8H10V13M18 13H11V11H18V13M18 10H11V8H18V10Z" /></svg>
 </div>
 <detail full-name='mdi-newspaper-variant-outline'></detail>
-    
+<div>
+<p>关于“newspaper variant outline”的评论:</p>
+</div>
+<Vssue title="关于“newspaper variant outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

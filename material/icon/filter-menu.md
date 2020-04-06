@@ -5,6 +5,7 @@ name: filter-menu
 zhTips: 过滤菜单
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/filter-menu.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 11L16.76 3.62A1 1 0 0 0 16.59 2.22A1 1 0 0 0 16 2H2A1 1 0 0 0 1.38 2.22A1 1 0 0 0 1.21 3.62L7 11V16.87A1 1 0 0 0 7.29 17.7L9.29 19.7A1 1 0 0 0 10.7 19.7A1 1 0 0 0 11 18.87V11M13 16L18 21L23 16Z" /></svg>
 </div>
 <detail full-name='mdi-filter-menu'></detail>
-    
+<div>
+<p>关于“filter menu”的评论:</p>
+</div>
+<Vssue title="关于“filter menu”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

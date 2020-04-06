@@ -5,6 +5,7 @@ name: alpha-l-box
 zhTips: 字母l框
 tags: ["alpha-numeric"]
 search: alphabet-l-box,letter-l-box
+image: https://iconhelper.cn/svg/material/alpha-l-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,7V17H15V15H11V7H9M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-l-box'></detail>
-    
+<div>
+<p>关于“alpha l box”的评论:</p>
+</div>
+<Vssue title="关于“alpha l box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

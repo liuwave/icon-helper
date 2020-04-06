@@ -5,6 +5,7 @@ name: collapse-all
 zhTips: 收合全部,减去动画
 tags: []
 search: animation-minus
+image: https://iconhelper.cn/svg/material/collapse-all.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,4H4V14H2V4A2,2 0 0,1 4,2H14V4M18,6H8A2,2 0 0,0 6,8V18H8V8H18V6M22,12V20A2,2 0 0,1 20,22H12A2,2 0 0,1 10,20V12A2,2 0 0,1 12,10H20A2,2 0 0,1 22,12M20,15H12V17H20V15Z" /></svg>
 </div>
 <detail full-name='mdi-collapse-all'></detail>
-    
+<div>
+<p>关于“collapse all”的评论:</p>
+</div>
+<Vssue title="关于“collapse all”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

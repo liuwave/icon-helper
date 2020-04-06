@@ -5,6 +5,7 @@ name: elevation-rise
 zhTips: 海拔升高
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/elevation-rise.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,21V17.29L10.78,12.8L14.55,15L21,11.25V21H3M21,8.94L14.55,12.67L10.78,10.5L3,15V12.79L10.78,8.3L14.55,10.5L21,6.75V8.94Z" /></svg>
 </div>
 <detail full-name='mdi-elevation-rise'></detail>
-    
+<div>
+<p>关于“elevation rise”的评论:</p>
+</div>
+<Vssue title="关于“elevation rise”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

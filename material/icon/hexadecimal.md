@@ -5,6 +5,7 @@ name: hexadecimal
 zhTips: 十六进制
 tags: ["developer-languages"]
 search: 
+image: https://iconhelper.cn/svg/material/hexadecimal.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 7C5.9 7 5 7.9 5 9V15C5 16.11 5.9 17 7 17H9C10.11 17 11 16.11 11 15V9C11 7.9 10.11 7 9 7H7M7 9H9V15H7V9M17.6 17L15.5 14.9L13.4 17L12 15.6L14.1 13.5L12 11.4L13.4 10L15.5 12.1L17.6 10L19 11.4L16.9 13.5L19 15.6L17.6 17Z" /></svg>
 </div>
 <detail full-name='mdi-hexadecimal'></detail>
-    
+<div>
+<p>关于“hexadecimal”的评论:</p>
+</div>
+<Vssue title="关于“hexadecimal”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

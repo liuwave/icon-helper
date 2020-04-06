@@ -5,6 +5,7 @@ name: arrow-down-bold-box
 zhTips: 向下箭头加粗框,底部箭头加粗框
 tags: ["arrow"]
 search: arrow-bottom-bold-box
+image: https://iconhelper.cn/svg/material/arrow-down-bold-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3M12,17L17,12H14V8H10V12H7L12,17Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-down-bold-box'></detail>
-    
+<div>
+<p>关于“arrow down bold box”的评论:</p>
+</div>
+<Vssue title="关于“arrow down bold box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

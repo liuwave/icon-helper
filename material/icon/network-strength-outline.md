@@ -5,6 +5,7 @@ name: network-strength-outline
 zhTips: 网络强度轮廓,网络强度0
 tags: ["cellphone-phone"]
 search: network-strength-0
+image: https://iconhelper.cn/svg/material/network-strength-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1,21H21V1M19,5.83V19H6" /></svg>
 </div>
 <detail full-name='mdi-network-strength-outline'></detail>
-    
+<div>
+<p>关于“network strength outline”的评论:</p>
+</div>
+<Vssue title="关于“network strength outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

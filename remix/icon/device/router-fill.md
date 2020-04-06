@@ -5,6 +5,7 @@ name: router-fill
 zhTips: 路由器,信号塔,广播,基站,流量
 tags: ["device"]
 search: wifi,signal tower,radio,station,fill
+image: https://iconhelper.cn/svg/remix/device/router-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-router-fill'></detail>
-    
+<detail full-name='ri-router-fill'></detail>  
+<div>
+<p>关于“router fill”的评论:</p>
+</div>
+<Vssue title="关于“router fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

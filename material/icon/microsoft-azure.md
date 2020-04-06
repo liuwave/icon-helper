@@ -5,6 +5,7 @@ name: microsoft-azure
 zhTips: Microsoft Azure
 tags: ["brand-logo"]
 search: 
+image: https://iconhelper.cn/svg/material/microsoft-azure.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.05,4.24L6.56,18.05L2,18L7.09,9.24L13.05,4.24M13.75,5.33L22,19.76H6.74L16.04,18.1L11.17,12.31L13.75,5.33Z" /></svg>
 </div>
 <detail full-name='mdi-microsoft-azure'></detail>
-    
+<div>
+<p>关于“microsoft azure”的评论:</p>
+</div>
+<Vssue title="关于“microsoft azure”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

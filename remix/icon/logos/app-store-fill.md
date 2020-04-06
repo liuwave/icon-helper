@@ -5,6 +5,7 @@ name: app-store-fill
 zhTips: 苹果应用商店
 tags: ["logos"]
 search: applications,fill
+image: https://iconhelper.cn/svg/remix/logos/app-store-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-app-store-fill'></detail>
-    
+<detail full-name='ri-app-store-fill'></detail>  
+<div>
+<p>关于“app store fill”的评论:</p>
+</div>
+<Vssue title="关于“app store fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

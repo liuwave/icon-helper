@@ -5,6 +5,7 @@ name: arrow-go-back-line
 zhTips: 箭头,返回,撤销,撤回
 tags: ["system"]
 search: undo,line
+image: https://iconhelper.cn/svg/remix/system/arrow-go-back-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-arrow-go-back-line'></detail>
-    
+<detail full-name='ri-arrow-go-back-line'></detail>  
+<div>
+<p>关于“arrow go back line”的评论:</p>
+</div>
+<Vssue title="关于“arrow go back line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

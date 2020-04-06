@@ -5,6 +5,7 @@ name: taxi-wifi-line
 zhTips: 出租车,汽车
 tags: ["map"]
 search: car,line
+image: https://iconhelper.cn/svg/remix/map/taxi-wifi-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-taxi-wifi-line'></detail>
-    
+<detail full-name='ri-taxi-wifi-line'></detail>  
+<div>
+<p>关于“taxi wifi line”的评论:</p>
+</div>
+<Vssue title="关于“taxi wifi line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

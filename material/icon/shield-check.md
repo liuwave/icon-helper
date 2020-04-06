@@ -5,6 +5,7 @@ name: shield-check
 zhTips: 屏蔽检查,用户验证,屏蔽刻度,已验证
 tags: ["account-user"]
 search: verified-user,shield-tick,verified
+image: https://iconhelper.cn/svg/material/shield-check.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,17L6,13L7.41,11.59L10,14.17L16.59,7.58L18,9M12,1L3,5V11C3,16.55 6.84,21.74 12,23C17.16,21.74 21,16.55 21,11V5L12,1Z" /></svg>
 </div>
 <detail full-name='mdi-shield-check'></detail>
-    
+<div>
+<p>关于“shield check”的评论:</p>
+</div>
+<Vssue title="关于“shield check”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

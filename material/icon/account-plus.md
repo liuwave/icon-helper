@@ -5,6 +5,7 @@ name: account-plus
 zhTips: 帐户加号,注册,用户加号,人员添加,人员加号,用户添加,邀请
 tags: ["account-user","home-automation"]
 search: register,user-plus,person-add,account-add,person-plus,user-add,invite
+image: https://iconhelper.cn/svg/material/account-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,14C12.33,14 7,15.33 7,18V20H23V18C23,15.33 17.67,14 15,14M6,10V7H4V10H1V12H4V15H6V12H9V10M15,12A4,4 0 0,0 19,8A4,4 0 0,0 15,4A4,4 0 0,0 11,8A4,4 0 0,0 15,12Z" /></svg>
 </div>
 <detail full-name='mdi-account-plus'></detail>
-    
+<div>
+<p>关于“account plus”的评论:</p>
+</div>
+<Vssue title="关于“account plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

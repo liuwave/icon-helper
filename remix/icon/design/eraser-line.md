@@ -5,6 +5,7 @@ name: eraser-line
 zhTips: 橡皮,擦除,清除格式
 tags: ["design"]
 search: remove formatting,line
+image: https://iconhelper.cn/svg/remix/design/eraser-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-eraser-line'></detail>
-    
+<detail full-name='ri-eraser-line'></detail>  
+<div>
+<p>关于“eraser line”的评论:</p>
+</div>
+<Vssue title="关于“eraser line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

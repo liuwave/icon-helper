@@ -5,6 +5,7 @@ name: arrow-top-left-bold-outline
 zhTips: 左上方的粗体轮廓箭头
 tags: ["arrow"]
 search: arrow-up-left-bold-outline
+image: https://iconhelper.cn/svg/material/arrow-top-left-bold-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.12,8.46L19.78,14.12L14.12,19.78L8.46,14.12L4.22,18.36V4.22H18.36L14.12,8.46M6.34,13.41L8.46,11.29L14.12,16.95L16.95,14.12L11.29,8.47L13.41,6.34H6.34V13.41Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-top-left-bold-outline'></detail>
-    
+<div>
+<p>关于“arrow top left bold outline”的评论:</p>
+</div>
+<Vssue title="关于“arrow top left bold outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

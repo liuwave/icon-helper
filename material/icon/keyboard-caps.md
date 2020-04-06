@@ -5,6 +5,7 @@ name: keyboard-caps
 zhTips: 键盘盖,键盘盖锁
 tags: []
 search: keyboard-capslock
+image: https://iconhelper.cn/svg/material/keyboard-caps.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,18H18V16H6M12,8.41L16.59,13L18,11.58L12,5.58L6,11.58L7.41,13L12,8.41Z" /></svg>
 </div>
 <detail full-name='mdi-keyboard-caps'></detail>
-    
+<div>
+<p>关于“keyboard caps”的评论:</p>
+</div>
+<Vssue title="关于“keyboard caps”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

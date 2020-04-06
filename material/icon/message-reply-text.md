@@ -5,6 +5,7 @@ name: message-reply-text
 zhTips: 消息回复文字,评论,插入评论
 tags: []
 search: comment,insert-comment
+image: https://iconhelper.cn/svg/material/message-reply-text.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,8H6V6H18V8M18,11H6V9H18V11M18,14H6V12H18V14M22,4A2,2 0 0,0 20,2H4A2,2 0 0,0 2,4V16A2,2 0 0,0 4,18H18L22,22V4Z" /></svg>
 </div>
 <detail full-name='mdi-message-reply-text'></detail>
-    
+<div>
+<p>关于“message reply text”的评论:</p>
+</div>
+<Vssue title="关于“message reply text”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

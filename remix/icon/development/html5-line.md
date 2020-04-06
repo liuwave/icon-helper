@@ -5,6 +5,7 @@ name: html5-line
 zhTips: 
 tags: ["development"]
 search: html,h5,line
+image: https://iconhelper.cn/svg/remix/development/html5-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-html5-line'></detail>
-    
+<detail full-name='ri-html5-line'></detail>  
+<div>
+<p>关于“html5 line”的评论:</p>
+</div>
+<Vssue title="关于“html5 line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

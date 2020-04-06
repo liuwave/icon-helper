@@ -5,6 +5,7 @@ name: flight-land-fill
 zhTips: 着陆,到达,抵达,终点,飞机
 tags: ["map"]
 search: airplane,plane,destination,fill
+image: https://iconhelper.cn/svg/remix/map/flight-land-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-flight-land-fill'></detail>
-    
+<detail full-name='ri-flight-land-fill'></detail>  
+<div>
+<p>关于“flight land fill”的评论:</p>
+</div>
+<Vssue title="关于“flight land fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

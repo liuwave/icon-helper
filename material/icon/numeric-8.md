@@ -5,6 +5,7 @@ name: numeric-8
 zhTips: 数字8
 tags: ["alpha-numeric","alpha-numeric"]
 search: number-8,numeric-eight
+image: https://iconhelper.cn/svg/material/numeric-8.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,13H13V15H11M11,9H13V11H11M11,17H13A2,2 0 0,0 15,15V13.5A1.5,1.5 0 0,0 13.5,12A1.5,1.5 0 0,0 15,10.5V9C15,7.89 14.1,7 13,7H11A2,2 0 0,0 9,9V10.5A1.5,1.5 0 0,0 10.5,12A1.5,1.5 0 0,0 9,13.5V15C9,16.11 9.9,17 11,17" /></svg>
 </div>
 <detail full-name='mdi-numeric-8'></detail>
-    
+<div>
+<p>关于“numeric 8”的评论:</p>
+</div>
+<Vssue title="关于“numeric 8”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

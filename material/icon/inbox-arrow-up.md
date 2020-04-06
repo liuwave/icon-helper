@@ -5,6 +5,7 @@ name: inbox-arrow-up
 zhTips: 收件箱向上箭头,从收件箱移动
 tags: []
 search: move-from-inbox
+image: https://iconhelper.cn/svg/material/inbox-arrow-up.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,14H10V11H8L12,7L16,11H14V14M16,11M5,15V5H19V15H15A3,3 0 0,1 12,18A3,3 0 0,1 9,15H5M19,3H5C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3" /></svg>
 </div>
 <detail full-name='mdi-inbox-arrow-up'></detail>
-    
+<div>
+<p>关于“inbox arrow up”的评论:</p>
+</div>
+<Vssue title="关于“inbox arrow up”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

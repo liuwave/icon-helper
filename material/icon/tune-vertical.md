@@ -5,6 +5,7 @@ name: tune-vertical
 zhTips: 垂直调整,垂直均衡,即时混音
 tags: ["settings"]
 search: equaliser-vertical,instant-mix
+image: https://iconhelper.cn/svg/material/tune-vertical.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 3H5V9H7V3M19 3H17V13H19V3M3 13H5V21H7V13H9V11H3V13M15 7H13V3H11V7H9V9H15V7M11 21H13V11H11V21M15 15V17H17V21H19V17H21V15H15Z" /></svg>
 </div>
 <detail full-name='mdi-tune-vertical'></detail>
-    
+<div>
+<p>关于“tune vertical”的评论:</p>
+</div>
+<Vssue title="关于“tune vertical”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

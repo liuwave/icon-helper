@@ -5,6 +5,7 @@ name: numeric-9-box
 zhTips: 数字9框
 tags: ["alpha-numeric"]
 search: numeric-nine-box,number-9-box
+image: https://iconhelper.cn/svg/material/numeric-9-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,3A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3H19M13,11H11V9H13V11M13,7H11A2,2 0 0,0 9,9V11C9,12.11 9.9,13 11,13H13V15H9V17H13A2,2 0 0,0 15,15V9C15,7.89 14.1,7 13,7Z" /></svg>
 </div>
 <detail full-name='mdi-numeric-9-box'></detail>
-    
+<div>
+<p>关于“numeric 9 box”的评论:</p>
+</div>
+<Vssue title="关于“numeric 9 box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: emby
 zhTips: Emby
 tags: ["brand-logo"]
 search: 
+image: https://iconhelper.cn/svg/material/emby.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,2L6,7L7,8L2,13L7,18L8,17L13,22L18,17L17,16L22,11L17,6L16,7L11,2M10,8.5L16,12L10,15.5V8.5Z" /></svg>
 </div>
 <detail full-name='mdi-emby'></detail>
-    
+<div>
+<p>关于“emby”的评论:</p>
+</div>
+<Vssue title="关于“emby”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

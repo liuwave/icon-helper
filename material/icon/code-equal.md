@@ -5,6 +5,7 @@ name: code-equal
 zhTips: 代码相等
 tags: ["developer-languages"]
 search: 
+image: https://iconhelper.cn/svg/material/code-equal.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,13H11V15H6M13,13H18V15H13M13,9H18V11H13M6,9H11V11H6M5,3C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3H5Z" /></svg>
 </div>
 <detail full-name='mdi-code-equal'></detail>
-    
+<div>
+<p>关于“code equal”的评论:</p>
+</div>
+<Vssue title="关于“code equal”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

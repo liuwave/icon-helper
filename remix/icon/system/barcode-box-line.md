@@ -5,6 +5,7 @@ name: barcode-box-line
 zhTips: 扫码,条形码,条码
 tags: ["system"]
 search: scan,line
+image: https://iconhelper.cn/svg/remix/system/barcode-box-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-barcode-box-line'></detail>
-    
+<detail full-name='ri-barcode-box-line'></detail>  
+<div>
+<p>关于“barcode box line”的评论:</p>
+</div>
+<Vssue title="关于“barcode box line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

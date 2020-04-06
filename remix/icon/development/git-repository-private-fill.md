@@ -5,6 +5,7 @@ name: git-repository-private-fill
 zhTips: 私密仓库,私人仓库
 tags: ["development"]
 search: fill
+image: https://iconhelper.cn/svg/remix/development/git-repository-private-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-git-repository-private-fill'></detail>
-    
+<detail full-name='ri-git-repository-private-fill'></detail>  
+<div>
+<p>关于“git repository private fill”的评论:</p>
+</div>
+<Vssue title="关于“git repository private fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

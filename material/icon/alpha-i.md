@@ -5,6 +5,7 @@ name: alpha-i
 zhTips: alpha i,字母i,罗马数字1
 tags: ["alpha-numeric"]
 search: alphabet-i,letter-i,roman-numeral-1
+image: https://iconhelper.cn/svg/material/alpha-i.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,7V9H13V15H14V17H10V15H11V9H10V7H14Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-i'></detail>
-    
+<div>
+<p>关于“alpha i”的评论:</p>
+</div>
+<Vssue title="关于“alpha i”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

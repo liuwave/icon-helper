@@ -5,6 +5,7 @@ name: school
 zhTips: 学校,毕业帽,大学,学院,学术帽,学校黑,建筑,教育,学习,学生,老师
 tags: []
 search: graduation-cap,university,college,academic-cap
+image: https://iconhelper.cn/svg/material/school.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3L1,9L12,15L21,10.09V17H23V9M5,13.18V17.18L12,21L19,17.18V13.18L12,17L5,13.18Z" /></svg>
 </div>
 <detail full-name='mdi-school'></detail>
-    
+<div>
+<p>关于“school”的评论:</p>
+</div>
+<Vssue title="关于“school”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

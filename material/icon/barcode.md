@@ -5,6 +5,7 @@ name: barcode
 zhTips: 条码,条形码,信息,激光,价格,扫描,upc,一维码,二维码
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/barcode.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,6H4V18H2V6M5,6H6V18H5V6M7,6H10V18H7V6M11,6H12V18H11V6M14,6H16V18H14V6M17,6H20V18H17V6M21,6H22V18H21V6Z" /></svg>
 </div>
 <detail full-name='mdi-barcode'></detail>
-    
+<div>
+<p>关于“barcode”的评论:</p>
+</div>
+<Vssue title="关于“barcode”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: git-commit-fill
 zhTips: 提交
 tags: ["development"]
 search: node,fill
+image: https://iconhelper.cn/svg/remix/development/git-commit-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-git-commit-fill'></detail>
-    
+<detail full-name='ri-git-commit-fill'></detail>  
+<div>
+<p>关于“git commit fill”的评论:</p>
+</div>
+<Vssue title="关于“git commit fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

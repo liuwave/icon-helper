@@ -5,6 +5,7 @@ name: chat-forward-line
 zhTips: 消息,聊天,转发
 tags: ["communication"]
 search: message,comment,line
+image: https://iconhelper.cn/svg/remix/communication/chat-forward-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-chat-forward-line'></detail>
-    
+<detail full-name='ri-chat-forward-line'></detail>  
+<div>
+<p>关于“chat forward line”的评论:</p>
+</div>
+<Vssue title="关于“chat forward line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

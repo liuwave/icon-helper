@@ -5,6 +5,7 @@ name: format-header-4
 zhTips: 格式标题4
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-header-4.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,4H5V10H9V4H11V18H9V12H5V18H3V4M18,18V13H13V11L18,4H20V11H21V13H20V18H18M18,11V7.42L15.45,11H18Z" /></svg>
 </div>
 <detail full-name='mdi-format-header-4'></detail>
-    
+<div>
+<p>关于“format header 4”的评论:</p>
+</div>
+<Vssue title="关于“format header 4”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

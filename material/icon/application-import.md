@@ -5,6 +5,7 @@ name: application-import
 zhTips: 应用程序导入
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/application-import.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M1,12H10.76L8.26,9.5L9.67,8.08L14.59,13L9.67,17.92L8.26,16.5L10.76,14H1V12M19,3C20.11,3 21,3.9 21,5V19A2,2 0 0,1 19,21H5C3.89,21 3,20.1 3,19V16H5V19H19V7H5V10H3V5A2,2 0 0,1 5,3H19Z" /></svg>
 </div>
 <detail full-name='mdi-application-import'></detail>
-    
+<div>
+<p>关于“application import”的评论:</p>
+</div>
+<Vssue title="关于“application import”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

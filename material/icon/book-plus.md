@@ -5,6 +5,7 @@ name: book-plus
 zhTips: 预订加号
 tags: []
 search: book-add
+image: https://iconhelper.cn/svg/material/book-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,22H6A2,2 0 0,1 4,20V4C4,2.89 4.9,2 6,2H7V9L9.5,7.5L12,9V2H18A2,2 0 0,1 20,4V20A2,2 0 0,1 18,22M14,20H16V18H18V16H16V14H14V16H12V18H14V20Z" /></svg>
 </div>
 <detail full-name='mdi-book-plus'></detail>
-    
+<div>
+<p>关于“book plus”的评论:</p>
+</div>
+<Vssue title="关于“book plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

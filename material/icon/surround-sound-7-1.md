@@ -5,6 +5,7 @@ name: surround-sound-7-1
 zhTips: 环绕声7 1
 tags: ["audio"]
 search: 
+image: https://iconhelper.cn/svg/material/surround-sound-7-1.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,17A1,1 0 0,1 11,16A1,1 0 0,1 12,15A1,1 0 0,1 13,16A1,1 0 0,1 12,17M18,7V15H19V17H15V15H16V9H15L16,7H18M11,7L8,17H6L8.4,9H5V7H11Z" /></svg>
 </div>
 <detail full-name='mdi-surround-sound-7-1'></detail>
-    
+<div>
+<p>关于“surround sound 7 1”的评论:</p>
+</div>
+<Vssue title="关于“surround sound 7 1”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

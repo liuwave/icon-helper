@@ -5,6 +5,7 @@ name: delete-bin-5-fill
 zhTips: ash-bin,卸载,删除,垃圾桶
 tags: ["system"]
 search: trash,remove,garbage,dustbin,uninstall,fill
+image: https://iconhelper.cn/svg/remix/system/delete-bin-5-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-delete-bin-5-fill'></detail>
-    
+<detail full-name='ri-delete-bin-5-fill'></detail>  
+<div>
+<p>关于“delete bin 5 fill”的评论:</p>
+</div>
+<Vssue title="关于“delete bin 5 fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

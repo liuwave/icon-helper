@@ -5,6 +5,7 @@ name: file-4-line
 zhTips: 文件,文档,新建
 tags: ["document"]
 search: new,paper,line
+image: https://iconhelper.cn/svg/remix/document/file-4-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-file-4-line'></detail>
-    
+<detail full-name='ri-file-4-line'></detail>  
+<div>
+<p>关于“file 4 line”的评论:</p>
+</div>
+<Vssue title="关于“file 4 line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

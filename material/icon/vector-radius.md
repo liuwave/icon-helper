@@ -5,6 +5,7 @@ name: vector-radius
 zhTips: 向量半径
 tags: ["vector","geographic-information-system"]
 search: 
+image: https://iconhelper.cn/svg/material/vector-radius.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,4H4V2H10V4A10,10 0 0,1 20,14H22V20H20V22H18V20H16V14H18A8,8 0 0,0 10,6V8H4V6H2V4M18,16V18H20V16H18M6,4V6H8V4H6Z" /></svg>
 </div>
 <detail full-name='mdi-vector-radius'></detail>
-    
+<div>
+<p>关于“vector radius”的评论:</p>
+</div>
+<Vssue title="关于“vector radius”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

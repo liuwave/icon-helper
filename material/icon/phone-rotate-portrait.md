@@ -5,6 +5,7 @@ name: phone-rotate-portrait
 zhTips: 手机旋转人像
 tags: ["cellphone-phone"]
 search: 
+image: https://iconhelper.cn/svg/material/phone-rotate-portrait.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,1H3A2,2 0 0,0 1,3V16A2,2 0 0,0 3,18H4V15H3V3H9V11H11V3A2,2 0 0,0 9,1M23,21V15A2,2 0 0,0 21,13H8A2,2 0 0,0 6,15V21A2,2 0 0,0 8,23H21A2,2 0 0,0 23,21M9,21V15H21V21H9M23,10H21.5C21.5,7 19.69,4.27 16.92,3.09L16,5L14,1A9,9 0 0,1 23,10Z" /></svg>
 </div>
 <detail full-name='mdi-phone-rotate-portrait'></detail>
-    
+<div>
+<p>关于“phone rotate portrait”的评论:</p>
+</div>
+<Vssue title="关于“phone rotate portrait”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

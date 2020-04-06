@@ -5,6 +5,7 @@ name: folder-zip-outline
 zhTips: zip轮廓文件夹,压缩文件夹轮廓
 tags: ["files-folders"]
 search: compressed-folder-outline
+image: https://iconhelper.cn/svg/material/folder-zip-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 6H12L10 4H4C2.9 4 2 4.9 2 6V18C2 19.1 2.9 20 4 20H20C21.1 20 22 19.1 22 18V8C22 6.9 21.1 6 20 6M20 18H16V16H14V18H4V8H14V10H16V8H20V18M16 12V10H18V12H16M14 12H16V14H14V12M18 16H16V14H18V16Z" /></svg>
 </div>
 <detail full-name='mdi-folder-zip-outline'></detail>
-    
+<div>
+<p>关于“folder zip outline”的评论:</p>
+</div>
+<Vssue title="关于“folder zip outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: resize-bottom-right
 zhTips: 调整右下角的大小,拖动
 tags: []
 search: drag
+image: https://iconhelper.cn/svg/material/resize-bottom-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,22H20V20H22V22M22,18H20V16H22V18M18,22H16V20H18V22M18,18H16V16H18V18M14,22H12V20H14V22M22,14H20V12H22V14Z" /></svg>
 </div>
 <detail full-name='mdi-resize-bottom-right'></detail>
-    
+<div>
+<p>关于“resize bottom right”的评论:</p>
+</div>
+<Vssue title="关于“resize bottom right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

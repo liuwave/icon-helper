@@ -5,6 +5,7 @@ name: flash-alert
 zhTips: 闪光警报,闪电警报,咨询风暴
 tags: ["weather","alert-error"]
 search: lightning-alert,storm-advisory
+image: https://iconhelper.cn/svg/material/flash-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,2V13H8V22L15,10H11L15,2M17,15H19V17H17V15M17,7H19V13H17V7Z" /></svg>
 </div>
 <detail full-name='mdi-flash-alert'></detail>
-    
+<div>
+<p>关于“flash alert”的评论:</p>
+</div>
+<Vssue title="关于“flash alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

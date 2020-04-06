@@ -5,6 +5,7 @@ name: printer-3d-nozzle
 zhTips: 打印机3D喷嘴
 tags: ["printer"]
 search: 
+image: https://iconhelper.cn/svg/material/printer-3d-nozzle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,2H17V8H19V13H16.5L13,17H11L7.5,13H5V8H7V2M10,22H2V20H10A1,1 0 0,0 11,19V18H13V19A3,3 0 0,1 10,22Z" /></svg>
 </div>
 <detail full-name='mdi-printer-3d-nozzle'></detail>
-    
+<div>
+<p>关于“printer 3d nozzle”的评论:</p>
+</div>
+<Vssue title="关于“printer 3d nozzle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

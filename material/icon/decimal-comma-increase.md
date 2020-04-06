@@ -5,6 +5,7 @@ name: decimal-comma-increase
 zhTips: 十进制逗号增加
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/decimal-comma-increase.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 5A3 3 0 0 0 6 8V11A3 3 0 0 0 12 11V8A3 3 0 0 0 9 5M10 11A1 1 0 0 1 8 11V8A1 1 0 0 1 10 8M16 14A3 3 0 0 0 19 11V8A3 3 0 0 0 13 8V11A3 3 0 0 0 16 14M15 8A1 1 0 0 1 17 8V11A1 1 0 0 1 15 11M19 20V18H13V16H19V14L22 17M5 13V16H4L3 13A1 1 0 0 1 5 13Z" /></svg>
 </div>
 <detail full-name='mdi-decimal-comma-increase'></detail>
-    
+<div>
+<p>关于“decimal comma increase”的评论:</p>
+</div>
+<Vssue title="关于“decimal comma increase”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

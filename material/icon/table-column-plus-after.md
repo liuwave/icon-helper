@@ -5,6 +5,7 @@ name: table-column-plus-after
 zhTips: 表列加后
 tags: ["text-content-format"]
 search: table-column-add-after
+image: https://iconhelper.cn/svg/material/table-column-plus-after.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,2A2,2 0 0,1 13,4V20A2,2 0 0,1 11,22H2V2H11M4,10V14H11V10H4M4,16V20H11V16H4M4,4V8H11V4H4M15,11H18V8H20V11H23V13H20V16H18V13H15V11Z" /></svg>
 </div>
 <detail full-name='mdi-table-column-plus-after'></detail>
-    
+<div>
+<p>关于“table column plus after”的评论:</p>
+</div>
+<Vssue title="关于“table column plus after”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

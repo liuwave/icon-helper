@@ -5,6 +5,7 @@ name: twitter-retweet
 zhTips: Twitter转推
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/twitter-retweet.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,5.75L10.25,10H7V16H13.5L15.5,18H7A2,2 0 0,1 5,16V10H1.75L6,5.75M18,18.25L13.75,14H17V8H10.5L8.5,6H17A2,2 0 0,1 19,8V14H22.25L18,18.25Z" /></svg>
 </div>
 <detail full-name='mdi-twitter-retweet'></detail>
-    
+<div>
+<p>关于“twitter retweet”的评论:</p>
+</div>
+<Vssue title="关于“twitter retweet”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: eraser-fill
 zhTips: 橡皮,擦除,清除格式
 tags: ["design"]
 search: remove formatting,fill
+image: https://iconhelper.cn/svg/remix/design/eraser-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-eraser-fill'></detail>
-    
+<detail full-name='ri-eraser-fill'></detail>  
+<div>
+<p>关于“eraser fill”的评论:</p>
+</div>
+<Vssue title="关于“eraser fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

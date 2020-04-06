@@ -5,6 +5,7 @@ name: crop
 zhTips: 农作物,剪切,作物,设计,框架,蒙版,调整大小,缩小,裁剪
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/crop.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,17V1H5V5H1V7H5V17A2,2 0 0,0 7,19H17V23H19V19H23V17M17,15H19V7C19,5.89 18.1,5 17,5H9V7H17V15Z" /></svg>
 </div>
 <detail full-name='mdi-crop'></detail>
-    
+<div>
+<p>关于“crop”的评论:</p>
+</div>
+<Vssue title="关于“crop”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

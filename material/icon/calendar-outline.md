@@ -5,6 +5,7 @@ name: calendar-outline
 zhTips: 日历轮廓,活动轮廓
 tags: ["date-time"]
 search: event-outline
+image: https://iconhelper.cn/svg/material/calendar-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,4H18V2H16V4H8V2H6V4H5C3.89,4 3,4.9 3,6V20A2,2 0 0,0 5,22H19A2,2 0 0,0 21,20V6A2,2 0 0,0 19,4M19,20H5V10H19V20M19,8H5V6H19V8M12,13H17V18H12V13Z" /></svg>
 </div>
 <detail full-name='mdi-calendar-outline'></detail>
-    
+<div>
+<p>关于“calendar outline”的评论:</p>
+</div>
+<Vssue title="关于“calendar outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

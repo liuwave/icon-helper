@@ -5,6 +5,7 @@ name: head-alert
 zhTips: 头部警报
 tags: ["alert-error"]
 search: 
+image: https://iconhelper.cn/svg/material/head-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 3C9.23 3 6.19 5.95 6 9.66L4.08 12.19C3.84 12.5 4.08 13 4.5 13H6V16C6 17.11 6.89 18 8 18H9V21H16V16.31C18.37 15.19 20 12.8 20 10C20 6.14 16.88 3 13 3M14 14H12V12H14V14M14 10H12V5H14V10Z" /></svg>
 </div>
 <detail full-name='mdi-head-alert'></detail>
-    
+<div>
+<p>关于“head alert”的评论:</p>
+</div>
+<Vssue title="关于“head alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

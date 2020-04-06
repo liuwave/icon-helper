@@ -5,6 +5,7 @@ name: format-paragraph
 zhTips: 段落格式
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-paragraph.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,4A4,4 0 0,1 17,8A4,4 0 0,1 13,12H11V18H9V4H13M13,10A2,2 0 0,0 15,8A2,2 0 0,0 13,6H11V10H13Z" /></svg>
 </div>
 <detail full-name='mdi-format-paragraph'></detail>
-    
+<div>
+<p>关于“format paragraph”的评论:</p>
+</div>
+<Vssue title="关于“format paragraph”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

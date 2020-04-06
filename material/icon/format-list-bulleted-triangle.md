@@ -5,6 +5,7 @@ name: format-list-bulleted-triangle
 zhTips: 格式列表项目符号三角形
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-list-bulleted-triangle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,15.5L7.5,20H2.5L5,15.5M9,19H21V17H9V19M5,9.5L7.5,14H2.5L5,9.5M9,13H21V11H9V13M5,3.5L7.5,8H2.5L5,3.5M9,7H21V5H9V7Z" /></svg>
 </div>
 <detail full-name='mdi-format-list-bulleted-triangle'></detail>
-    
+<div>
+<p>关于“format list bulleted triangle”的评论:</p>
+</div>
+<Vssue title="关于“format list bulleted triangle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

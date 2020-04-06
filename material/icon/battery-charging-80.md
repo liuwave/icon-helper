@@ -5,6 +5,7 @@ name: battery-charging-80
 zhTips: 电池充电80
 tags: ["battery","home-automation","automotive"]
 search: 
+image: https://iconhelper.cn/svg/material/battery-charging-80.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23,11H20V4L15,14H18V22M12,9H4V6H12M12.67,4H11V2H5V4H3.33A1.33,1.33 0 0,0 2,5.33V20.67C2,21.4 2.6,22 3.33,22H12.67C13.4,22 14,21.4 14,20.67V5.33A1.33,1.33 0 0,0 12.67,4Z" /></svg>
 </div>
 <detail full-name='mdi-battery-charging-80'></detail>
-    
+<div>
+<p>关于“battery charging 80”的评论:</p>
+</div>
+<Vssue title="关于“battery charging 80”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

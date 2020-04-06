@@ -5,6 +5,7 @@ name: direction-line
 zhTips: 方向,右转
 tags: ["map"]
 search: right,line
+image: https://iconhelper.cn/svg/remix/map/direction-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-direction-line'></detail>
-    
+<detail full-name='ri-direction-line'></detail>  
+<div>
+<p>关于“direction line”的评论:</p>
+</div>
+<Vssue title="关于“direction line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

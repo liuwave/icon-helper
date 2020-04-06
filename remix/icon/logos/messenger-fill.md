@@ -5,6 +5,7 @@ name: messenger-fill
 zhTips: 脸书,信使
 tags: ["logos"]
 search: facebook,fill
+image: https://iconhelper.cn/svg/remix/logos/messenger-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-messenger-fill'></detail>
-    
+<detail full-name='ri-messenger-fill'></detail>  
+<div>
+<p>关于“messenger fill”的评论:</p>
+</div>
+<Vssue title="关于“messenger fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

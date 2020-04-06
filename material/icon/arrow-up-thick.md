@@ -5,6 +5,7 @@ name: arrow-up-thick
 zhTips: 向上箭头粗,顶部箭头粗
 tags: ["arrow"]
 search: arrow-top-thick
+image: https://iconhelper.cn/svg/material/arrow-up-thick.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,20H10V11L6.5,14.5L4.08,12.08L12,4.16L19.92,12.08L17.5,14.5L14,11V20Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-up-thick'></detail>
-    
+<div>
+<p>关于“arrow up thick”的评论:</p>
+</div>
+<Vssue title="关于“arrow up thick”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

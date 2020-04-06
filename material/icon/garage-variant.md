@@ -5,6 +5,7 @@ name: garage-variant
 zhTips: 车库口音
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/garage-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 9V20H20V11H4V20H2V9L12 5L22 9M19 12H5V14H19V12M19 18H5V20H19V18M19 15H5V17H19V15Z" /></svg>
 </div>
 <detail full-name='mdi-garage-variant'></detail>
-    
+<div>
+<p>关于“garage variant”的评论:</p>
+</div>
+<Vssue title="关于“garage variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

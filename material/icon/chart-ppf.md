@@ -5,6 +5,7 @@ name: chart-ppf
 zhTips: 图表PPF,图表生产潜力前沿
 tags: ["math"]
 search: chart-production-possibility-frontier
+image: https://iconhelper.cn/svg/material/chart-ppf.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 6V8C8.2 8 11.36 9.18 13.57 11.15C15.64 13 16.83 15.5 17 18H18.97A14 12.5 0 0 0 5 6M22 21H2V3H4V19H22Z" /></svg>
 </div>
 <detail full-name='mdi-chart-ppf'></detail>
-    
+<div>
+<p>关于“chart ppf”的评论:</p>
+</div>
+<Vssue title="关于“chart ppf”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

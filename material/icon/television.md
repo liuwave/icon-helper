@@ -5,6 +5,7 @@ name: television
 zhTips: 电视,电视机,显示器,网站,订阅
 tags: ["device-tech","home-automation"]
 search: tv
+image: https://iconhelper.cn/svg/material/television.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,17H3V5H21M21,3H3A2,2 0 0,0 1,5V17A2,2 0 0,0 3,19H8V21H16V19H21A2,2 0 0,0 23,17V5A2,2 0 0,0 21,3Z" /></svg>
 </div>
 <detail full-name='mdi-television'></detail>
-    
+<div>
+<p>关于“television”的评论:</p>
+</div>
+<Vssue title="关于“television”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

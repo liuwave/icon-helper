@@ -5,6 +5,7 @@ name: hospital-box
 zhTips: 医院医疗箱,当地医院,瑞士十字医疗箱
 tags: ["medical-hospital"]
 search: local-hospital,swiss-cross-box
+image: https://iconhelper.cn/svg/material/hospital-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,14H14V18H10V14H6V10H10V6H14V10H18M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" /></svg>
 </div>
 <detail full-name='mdi-hospital-box'></detail>
-    
+<div>
+<p>关于“hospital box”的评论:</p>
+</div>
+<Vssue title="关于“hospital box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

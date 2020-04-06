@@ -5,6 +5,7 @@ name: keyboard-backspace
 zhTips: 键盘退格键
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/keyboard-backspace.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,11H6.83L10.41,7.41L9,6L3,12L9,18L10.41,16.58L6.83,13H21V11Z" /></svg>
 </div>
 <detail full-name='mdi-keyboard-backspace'></detail>
-    
+<div>
+<p>关于“keyboard backspace”的评论:</p>
+</div>
+<Vssue title="关于“keyboard backspace”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

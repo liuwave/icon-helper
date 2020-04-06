@@ -5,6 +5,7 @@ name: temp-hot-fill
 zhTips: 温度,高温,热
 tags: ["weather"]
 search: temperature,fill
+image: https://iconhelper.cn/svg/remix/weather/temp-hot-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-temp-hot-fill'></detail>
-    
+<detail full-name='ri-temp-hot-fill'></detail>  
+<div>
+<p>关于“temp hot fill”的评论:</p>
+</div>
+<Vssue title="关于“temp hot fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

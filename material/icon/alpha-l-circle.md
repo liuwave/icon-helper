@@ -5,6 +5,7 @@ name: alpha-l-circle
 zhTips: 字母l圈
 tags: ["alpha-numeric"]
 search: alphabet-l-circle,letter-l-circle
+image: https://iconhelper.cn/svg/material/alpha-l-circle.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,7V17H15V15H11V7H9M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-l-circle'></detail>
-    
+<div>
+<p>关于“alpha l circle”的评论:</p>
+</div>
+<Vssue title="关于“alpha l circle”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

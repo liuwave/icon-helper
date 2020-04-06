@@ -5,6 +5,7 @@ name: format-horizontal-align-center
 zhTips: 格式化水平对齐中心
 tags: ["text-content-format"]
 search: format-horizontal-align-centre
+image: https://iconhelper.cn/svg/material/format-horizontal-align-center.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,16V13H23V11H19V8L15,12L19,16M5,8V11H1V13H5V16L9,12L5,8M11,20H13V4H11V20Z" /></svg>
 </div>
 <detail full-name='mdi-format-horizontal-align-center'></detail>
-    
+<div>
+<p>关于“format horizontal align center”的评论:</p>
+</div>
+<Vssue title="关于“format horizontal align center”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: bookmark-off-outline
 zhTips: 取消轮廓书签
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/bookmark-off-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.28,4L2,5.27L5,8.27V21L12,18L16.78,20.05L18.73,22L20,20.72L3.28,4M7,18V10.27L13,16.25L12,15.82L7,18M7,5.16L5.5,3.67C5.88,3.26 6.41,3 7,3H17A2,2 0 0,1 19,5V17.16L17,15.16V5H7V5.16Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark-off-outline'></detail>
-    
+<div>
+<p>关于“bookmark off outline”的评论:</p>
+</div>
+<Vssue title="关于“bookmark off outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

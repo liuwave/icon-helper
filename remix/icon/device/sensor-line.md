@@ -5,6 +5,7 @@ name: sensor-line
 zhTips: 传感器,电容器
 tags: ["device"]
 search: capacitor,line
+image: https://iconhelper.cn/svg/remix/device/sensor-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-sensor-line'></detail>
-    
+<detail full-name='ri-sensor-line'></detail>  
+<div>
+<p>关于“sensor line”的评论:</p>
+</div>
+<Vssue title="关于“sensor line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

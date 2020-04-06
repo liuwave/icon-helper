@@ -5,6 +5,7 @@ name: snapchat-line
 zhTips: 色拉布,幽灵
 tags: ["logos"]
 search: ghost,line
+image: https://iconhelper.cn/svg/remix/logos/snapchat-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-snapchat-line'></detail>
-    
+<detail full-name='ri-snapchat-line'></detail>  
+<div>
+<p>关于“snapchat line”的评论:</p>
+</div>
+<Vssue title="关于“snapchat line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

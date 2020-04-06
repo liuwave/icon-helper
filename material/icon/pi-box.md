@@ -5,6 +5,7 @@ name: pi-box
 zhTips: pi盒
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/pi-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,3C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3M6,7H17V9H15V14A1,1 0 0,0 16,15A1,1 0 0,0 17,14H19A3,3 0 0,1 16,17A3,3 0 0,1 13,14V9H10V17H8V9H6" /></svg>
 </div>
 <detail full-name='mdi-pi-box'></detail>
-    
+<div>
+<p>关于“pi box”的评论:</p>
+</div>
+<Vssue title="关于“pi box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

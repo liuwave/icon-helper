@@ -5,6 +5,7 @@ name: send-outline
 zhTips: 发送轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/send-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 6.03L11.5 9.25L4 8.25L4 6.03M11.5 14.75L4 17.97V15.75L11.5 14.75M2 3L2 10L17 12L2 14L2 21L23 12L2 3Z" /></svg>
 </div>
 <detail full-name='mdi-send-outline'></detail>
-    
+<div>
+<p>关于“send outline”的评论:</p>
+</div>
+<Vssue title="关于“send outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

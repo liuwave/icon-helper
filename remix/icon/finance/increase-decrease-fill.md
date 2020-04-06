@@ -5,6 +5,7 @@ name: increase-decrease-fill
 zhTips: 计算器
 tags: ["finance"]
 search: fill
+image: https://iconhelper.cn/svg/remix/finance/increase-decrease-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-increase-decrease-fill'></detail>
-    
+<detail full-name='ri-increase-decrease-fill'></detail>  
+<div>
+<p>关于“increase decrease fill”的评论:</p>
+</div>
+<Vssue title="关于“increase decrease fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

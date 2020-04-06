@@ -5,6 +5,7 @@ name: home-plus-outline
 zhTips: 主页加轮廓
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/home-plus-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L2 12H4V21H20V12H22M12 5L18 11V19H6V11M11 10H13V13H16V15H13V18H11V15H8V13H11V10Z" /></svg>
 </div>
 <detail full-name='mdi-home-plus-outline'></detail>
-    
+<div>
+<p>关于“home plus outline”的评论:</p>
+</div>
+<Vssue title="关于“home plus outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

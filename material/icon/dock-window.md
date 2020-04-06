@@ -5,6 +5,7 @@ name: dock-window
 zhTips: 窗台
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/dock-window.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 18V20H4A2 2 0 0 1 2 18V8H4V18M22 6V14A2 2 0 0 1 20 16H8A2 2 0 0 1 6 14V6A2 2 0 0 1 8 4H20A2 2 0 0 1 22 6M20 6H8V14H20Z" /></svg>
 </div>
 <detail full-name='mdi-dock-window'></detail>
-    
+<div>
+<p>关于“dock window”的评论:</p>
+</div>
+<Vssue title="关于“dock window”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

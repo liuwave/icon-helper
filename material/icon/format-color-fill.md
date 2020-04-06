@@ -5,6 +5,7 @@ name: format-color-fill
 zhTips: 颜色填充格式,油漆,油漆桶
 tags: ["text-content-format","color"]
 search: format-colour-fill,paint,paint-bucket
+image: https://iconhelper.cn/svg/material/format-color-fill.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,11.5C19,11.5 17,13.67 17,15A2,2 0 0,0 19,17A2,2 0 0,0 21,15C21,13.67 19,11.5 19,11.5M5.21,10L10,5.21L14.79,10M16.56,8.94L7.62,0L6.21,1.41L8.59,3.79L3.44,8.94C2.85,9.5 2.85,10.47 3.44,11.06L8.94,16.56C9.23,16.85 9.62,17 10,17C10.38,17 10.77,16.85 11.06,16.56L16.56,11.06C17.15,10.47 17.15,9.5 16.56,8.94Z" /></svg>
 </div>
 <detail full-name='mdi-format-color-fill'></detail>
-    
+<div>
+<p>关于“format color fill”的评论:</p>
+</div>
+<Vssue title="关于“format color fill”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

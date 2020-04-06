@@ -5,6 +5,7 @@ name: console-line
 zhTips: 控制台线,终端线
 tags: []
 search: terminal-line
+image: https://iconhelper.cn/svg/material/console-line.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,19V16H21V19H13M8.5,13L2.47,7H6.71L11.67,11.95C12.25,12.54 12.25,13.5 11.67,14.07L6.74,19H2.5L8.5,13Z" /></svg>
 </div>
 <detail full-name='mdi-console-line'></detail>
-    
+<div>
+<p>关于“console line”的评论:</p>
+</div>
+<Vssue title="关于“console line”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

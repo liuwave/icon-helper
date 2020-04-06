@@ -5,6 +5,7 @@ name: floor-lamp-variant
 zhTips: 落地灯装饰物
 tags: ["home-automation"]
 search: floor-light-variant
+image: https://iconhelper.cn/svg/material/floor-lamp-variant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 2L10 9H14L17 2H7M15.92 22L13 15V22H11V15L8.08 22H5.92L10.92 10H13.08L18.08 22H15.92Z" /></svg>
 </div>
 <detail full-name='mdi-floor-lamp-variant'></detail>
-    
+<div>
+<p>关于“floor lamp variant”的评论:</p>
+</div>
+<Vssue title="关于“floor lamp variant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

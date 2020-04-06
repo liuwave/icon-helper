@@ -5,6 +5,7 @@ name: shield
 zhTips: 盾,杀毒软件,盾牌,保护者
 tags: ["gaming-rpg"]
 search: 
+image: https://iconhelper.cn/svg/material/shield.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,1L3,5V11C3,16.55 6.84,21.74 12,23C17.16,21.74 21,16.55 21,11V5L12,1Z" /></svg>
 </div>
 <detail full-name='mdi-shield'></detail>
-    
+<div>
+<p>关于“shield”的评论:</p>
+</div>
+<Vssue title="关于“shield”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: contain
 zhTips: 包含
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/contain.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,3H8V5H4V19H8V21H2V3M7,17V15H9V17H7M11,17V15H13V17H11M15,17V15H17V17H15M22,3V21H16V19H20V5H16V3H22Z" /></svg>
 </div>
 <detail full-name='mdi-contain'></detail>
-    
+<div>
+<p>关于“contain”的评论:</p>
+</div>
+<Vssue title="关于“contain”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

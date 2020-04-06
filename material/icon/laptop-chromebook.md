@@ -5,6 +5,7 @@ name: laptop-chromebook
 zhTips: 笔记本电脑Chromebook
 tags: ["device-tech","home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/laptop-chromebook.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,15H4V5H20M14,18H10V17H14M22,18V3H2V18H0V20H24V18H22Z" /></svg>
 </div>
 <detail full-name='mdi-laptop-chromebook'></detail>
-    
+<div>
+<p>关于“laptop chromebook”的评论:</p>
+</div>
+<Vssue title="关于“laptop chromebook”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

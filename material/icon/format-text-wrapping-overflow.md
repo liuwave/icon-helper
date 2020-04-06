@@ -5,6 +5,7 @@ name: format-text-wrapping-overflow
 zhTips: 格式文字换行溢出
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-text-wrapping-overflow.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,21H5V3H7V21M14,3H12V9H14V3M14,15H12V21H14V15M19,12L16,9V11H9V13H16V15L19,12Z" /></svg>
 </div>
 <detail full-name='mdi-format-text-wrapping-overflow'></detail>
-    
+<div>
+<p>关于“format text wrapping overflow”的评论:</p>
+</div>
+<Vssue title="关于“format text wrapping overflow”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

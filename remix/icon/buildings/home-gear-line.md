@@ -5,6 +5,7 @@ name: home-gear-line
 zhTips: 房子,工厂
 tags: ["buildings"]
 search: house,line
+image: https://iconhelper.cn/svg/remix/buildings/home-gear-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-home-gear-line'></detail>
-    
+<detail full-name='ri-home-gear-line'></detail>  
+<div>
+<p>关于“home gear line”的评论:</p>
+</div>
+<Vssue title="关于“home gear line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

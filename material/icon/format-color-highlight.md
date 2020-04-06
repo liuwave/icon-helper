@@ -5,6 +5,7 @@ name: format-color-highlight
 zhTips: 格式颜色突出显示,颜色格式突出显示
 tags: ["color","text-content-format"]
 search: format-colour-highlight
+image: https://iconhelper.cn/svg/material/format-color-highlight.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,17L6.75,14.25L6.72,14.23C6.14,13.64 6.14,12.69 6.72,12.11L11.46,7.37L15.7,11.61L10.96,16.35C10.39,16.93 9.46,16.93 8.87,16.37L8.24,17H4M15.91,2.91C16.5,2.33 17.45,2.33 18.03,2.91L20.16,5.03C20.74,5.62 20.74,6.57 20.16,7.16L16.86,10.45L12.62,6.21L15.91,2.91Z" /></svg>
 </div>
 <detail full-name='mdi-format-color-highlight'></detail>
-    
+<div>
+<p>关于“format color highlight”的评论:</p>
+</div>
+<Vssue title="关于“format color highlight”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

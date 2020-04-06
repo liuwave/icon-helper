@@ -5,6 +5,7 @@ name: pi
 zhTips: pi
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/pi.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,5V7H6V19H8V7H14V16A3,3 0 0,0 17,19A3,3 0 0,0 20,16H18A1,1 0 0,1 17,17A1,1 0 0,1 16,16V7H18V5" /></svg>
 </div>
 <detail full-name='mdi-pi'></detail>
-    
+<div>
+<p>关于“pi”的评论:</p>
+</div>
+<Vssue title="关于“pi”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

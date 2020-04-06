@@ -5,6 +5,7 @@ name: diving-scuba-flag
 zhTips: 潜水水肺标志
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/diving-scuba-flag.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,6L19,20H2V6M5,4L22,18V4H5Z" /></svg>
 </div>
 <detail full-name='mdi-diving-scuba-flag'></detail>
-    
+<div>
+<p>关于“diving scuba flag”的评论:</p>
+</div>
+<Vssue title="关于“diving scuba flag”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

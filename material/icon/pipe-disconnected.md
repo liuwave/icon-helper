@@ -5,6 +5,7 @@ name: pipe-disconnected
 zhTips: 断开的管道
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/pipe-disconnected.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,9V11H8V9H10V8H4V10H2V2H4V4H12A2,2 0 0,1 14,6V9H16M10,15V18A2,2 0 0,0 12,20H20V22H22V14H20V16H14V15H16V13H8V15H10Z" /></svg>
 </div>
 <detail full-name='mdi-pipe-disconnected'></detail>
-    
+<div>
+<p>关于“pipe disconnected”的评论:</p>
+</div>
+<Vssue title="关于“pipe disconnected”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

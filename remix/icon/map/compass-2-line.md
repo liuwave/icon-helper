@@ -5,6 +5,7 @@ name: compass-2-line
 zhTips: 指南针,导航,方向,发现,探索
 tags: ["map"]
 search: navigation,direction,discover,line
+image: https://iconhelper.cn/svg/remix/map/compass-2-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-compass-2-line'></detail>
-    
+<detail full-name='ri-compass-2-line'></detail>  
+<div>
+<p>关于“compass 2 line”的评论:</p>
+</div>
+<Vssue title="关于“compass 2 line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

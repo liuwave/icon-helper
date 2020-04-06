@@ -5,6 +5,7 @@ name: garage-open
 zhTips: 车库开放
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/garage-open.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,20H17V11H7V20H5V9L12,5L19,9V20M8,12H16V14H8V12Z" /></svg>
 </div>
 <detail full-name='mdi-garage-open'></detail>
-    
+<div>
+<p>关于“garage open”的评论:</p>
+</div>
+<Vssue title="关于“garage open”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

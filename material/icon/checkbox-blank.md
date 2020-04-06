@@ -5,6 +5,7 @@ name: checkbox-blank
 zhTips: 复选框为空白
 tags: ["form"]
 search: 
+image: https://iconhelper.cn/svg/material/checkbox-blank.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" /></svg>
 </div>
 <detail full-name='mdi-checkbox-blank'></detail>
-    
+<div>
+<p>关于“checkbox blank”的评论:</p>
+</div>
+<Vssue title="关于“checkbox blank”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: alpha-x-box
 zhTips: 字母x框
 tags: ["alpha-numeric"]
 search: alphabet-x-box,letter-x-box
+image: https://iconhelper.cn/svg/material/alpha-x-box.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,7L11,12L9,17H11L12,14.5L13,17H15L13,12L15,7H13L12,9.5L11,7H9M5,3H19A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-x-box'></detail>
-    
+<div>
+<p>关于“alpha x box”的评论:</p>
+</div>
+<Vssue title="关于“alpha x box”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: cards-diamond-outline
 zhTips: 菱形卡轮廓,高架车道轮廓,高占用车辆车道轮廓,拼车车道轮廓
 tags: ["transportation-road"]
 search: hov-lane-outline,high-occupancy-vehicle-lane-outline,carpool-lane-outline
+image: https://iconhelper.cn/svg/material/cards-diamond-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L5 12L12 22L19 12M7.44 12L12 5.5L16.56 12L12 18.5" /></svg>
 </div>
 <detail full-name='mdi-cards-diamond-outline'></detail>
-    
+<div>
+<p>关于“cards diamond outline”的评论:</p>
+</div>
+<Vssue title="关于“cards diamond outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

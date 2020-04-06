@@ -5,6 +5,7 @@ name: menu-right
 zhTips: 菜单右,右箭头
 tags: ["arrow"]
 search: arrow-right
+image: https://iconhelper.cn/svg/material/menu-right.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,17L15,12L10,7V17Z" /></svg>
 </div>
 <detail full-name='mdi-menu-right'></detail>
-    
+<div>
+<p>关于“menu right”的评论:</p>
+</div>
+<Vssue title="关于“menu right”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

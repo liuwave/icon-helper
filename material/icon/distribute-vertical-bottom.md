@@ -5,6 +5,7 @@ name: distribute-vertical-bottom
 zhTips: 分配垂直底部
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/distribute-vertical-bottom.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 3H17V8H22V10H2V8H7V3M2 19V21H22V19H19V14H5V19H2Z" /></svg>
 </div>
 <detail full-name='mdi-distribute-vertical-bottom'></detail>
-    
+<div>
+<p>关于“distribute vertical bottom”的评论:</p>
+</div>
+<Vssue title="关于“distribute vertical bottom”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

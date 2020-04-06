@@ -5,6 +5,7 @@ name: calendar-text-outline
 zhTips: 日历文本轮廓,事件文本轮廓,事件注释轮廓
 tags: ["date-time"]
 search: event-text-outline,event-note-outline
+image: https://iconhelper.cn/svg/material/calendar-text-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,4H18V2H16V4H8V2H6V4H5A2,2 0 0,0 3,6V20A2,2 0 0,0 5,22H19A2,2 0 0,0 21,20V6A2,2 0 0,0 19,4M19,20H5V10H19V20M5,8V6H19V8H5M7,12H17V14H7V12M7,16H14V18H7V16Z" /></svg>
 </div>
 <detail full-name='mdi-calendar-text-outline'></detail>
-    
+<div>
+<p>关于“calendar text outline”的评论:</p>
+</div>
+<Vssue title="关于“calendar text outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

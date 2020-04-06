@@ -5,6 +5,7 @@ name: map-pin-fill
 zhTips: 地图,坐标,定位,导航,位置
 tags: ["map"]
 search: location,navigation,fill
+image: https://iconhelper.cn/svg/remix/map/map-pin-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-map-pin-fill'></detail>
-    
+<detail full-name='ri-map-pin-fill'></detail>  
+<div>
+<p>关于“map pin fill”的评论:</p>
+</div>
+<Vssue title="关于“map pin fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

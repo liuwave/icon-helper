@@ -5,6 +5,7 @@ name: signal-hspa
 zhTips: hspa信号
 tags: ["cellphone-phone"]
 search: 
+image: https://iconhelper.cn/svg/material/signal-hspa.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.5,10.5H13.5V4.5H16.5V19.5H13.5V13.5H10.5V19.5H7.5V4.5H10.5V10.5Z" /></svg>
 </div>
 <detail full-name='mdi-signal-hspa'></detail>
-    
+<div>
+<p>关于“signal hspa”的评论:</p>
+</div>
+<Vssue title="关于“signal hspa”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

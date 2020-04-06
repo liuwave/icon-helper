@@ -5,6 +5,7 @@ name: record-mail-line
 zhTips: 录音,留言,语音信箱,磁带
 tags: ["business"]
 search: voice mail,tape,line
+image: https://iconhelper.cn/svg/remix/business/record-mail-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-record-mail-line'></detail>
-    
+<detail full-name='ri-record-mail-line'></detail>  
+<div>
+<p>关于“record mail line”的评论:</p>
+</div>
+<Vssue title="关于“record mail line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

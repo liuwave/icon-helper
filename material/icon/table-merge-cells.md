@@ -5,6 +5,7 @@ name: table-merge-cells
 zhTips: 表合并单元格
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/table-merge-cells.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,10H3V4H11V6H5V10M19,18H13V20H21V14H19V18M5,18V14H3V20H11V18H5M21,4H13V6H19V10H21V4M8,13V15L11,12L8,9V11H3V13H8M16,11V9L13,12L16,15V13H21V11H16Z" /></svg>
 </div>
 <detail full-name='mdi-table-merge-cells'></detail>
-    
+<div>
+<p>关于“table merge cells”的评论:</p>
+</div>
+<Vssue title="关于“table merge cells”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

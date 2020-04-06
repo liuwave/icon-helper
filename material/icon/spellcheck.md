@@ -5,6 +5,7 @@ name: spellcheck
 zhTips: 拼写检查
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/spellcheck.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.59,11.59L13.5,19.68L9.83,16L8.42,17.41L13.5,22.5L23,13M6.43,11L8.5,5.5L10.57,11M12.45,16H14.54L9.43,3H7.57L2.46,16H4.55L5.67,13H11.31L12.45,16Z" /></svg>
 </div>
 <detail full-name='mdi-spellcheck'></detail>
-    
+<div>
+<p>关于“spellcheck”的评论:</p>
+</div>
+<Vssue title="关于“spellcheck”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: add-box-fill
 zhTips: 复选框,添加,加号,新增
 tags: ["system"]
 search: plus,new,fill
+image: https://iconhelper.cn/svg/remix/system/add-box-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-add-box-fill'></detail>
-    
+<detail full-name='ri-add-box-fill'></detail>  
+<div>
+<p>关于“add box fill”的评论:</p>
+</div>
+<Vssue title="关于“add box fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

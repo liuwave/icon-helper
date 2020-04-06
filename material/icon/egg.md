@@ -5,6 +5,7 @@ name: egg
 zhTips: 鸡蛋
 tags: ["food-drink"]
 search: 
+image: https://iconhelper.cn/svg/material/egg.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19.5,14.5A7.5,7.5 0 0,1 12,22A7.5,7.5 0 0,1 4.5,14.5C4.5,10.36 7.86,2 12,2C16.14,2 19.5,10.36 19.5,14.5Z" /></svg>
 </div>
 <detail full-name='mdi-egg'></detail>
-    
+<div>
+<p>关于“egg”的评论:</p>
+</div>
+<Vssue title="关于“egg”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

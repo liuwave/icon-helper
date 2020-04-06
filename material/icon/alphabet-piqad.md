@@ -5,6 +5,7 @@ name: alphabet-piqad
 zhTips: 字母piqad,书写系统piqad
 tags: ["alpha-numeric","alpha-numeric"]
 search: writing-system-piqad
+image: https://iconhelper.cn/svg/material/alphabet-piqad.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.04 4L6.54 17.85C6.21 18.55 5.5 19 4.73 19H4V20H16C17.2 20 18.27 20.54 19 21.39H20C19.05 19.32 17 18 14.7 18H12C11.29 18 10.62 17.63 10.24 17.03C9.85 16.43 9.8 15.68 10.1 15.03L10.58 14H19V13H17.5C15.29 13 13.5 11.21 13.5 9C13.5 6.79 15.29 5 17.5 5H20V4Z" /></svg>
 </div>
 <detail full-name='mdi-alphabet-piqad'></detail>
-    
+<div>
+<p>关于“alphabet piqad”的评论:</p>
+</div>
+<Vssue title="关于“alphabet piqad”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

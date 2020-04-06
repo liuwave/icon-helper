@@ -5,6 +5,7 @@ name: format-color-text
 zhTips: 彩色文本格式
 tags: ["text-content-format","color"]
 search: format-colour-text
+image: https://iconhelper.cn/svg/material/format-color-text.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.62,12L12,5.67L14.37,12M11,3L5.5,17H7.75L8.87,14H15.12L16.25,17H18.5L13,3H11Z" /></svg>
 </div>
 <detail full-name='mdi-format-color-text'></detail>
-    
+<div>
+<p>关于“format color text”的评论:</p>
+</div>
+<Vssue title="关于“format color text”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

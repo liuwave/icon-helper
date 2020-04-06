@@ -5,6 +5,7 @@ name: wifi-off-line
 zhTips: connection-fail,无线网,关闭,断网,链接失败
 tags: ["system"]
 search: slash,offline,line
+image: https://iconhelper.cn/svg/remix/system/wifi-off-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-wifi-off-line'></detail>
-    
+<detail full-name='ri-wifi-off-line'></detail>  
+<div>
+<p>关于“wifi off line”的评论:</p>
+</div>
+<Vssue title="关于“wifi off line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

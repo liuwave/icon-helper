@@ -5,6 +5,7 @@ name: tray-full
 zhTips: 纸盒已满,队列,打印机,收件箱
 tags: []
 search: queue,printer,inbox
+image: https://iconhelper.cn/svg/material/tray-full.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 5H6V7H18M6 9H18V11H6M2 12H4V17H20V12H22V17A2 2 0 0 1 20 19H4A2 2 0 0 1 2 17M18 13H6V15H18Z" /></svg>
 </div>
 <detail full-name='mdi-tray-full'></detail>
-    
+<div>
+<p>关于“tray full”的评论:</p>
+</div>
+<Vssue title="关于“tray full”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

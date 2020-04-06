@@ -5,6 +5,7 @@ name: television-play
 zhTips: 电视剧
 tags: ["device-tech"]
 search: 
+image: https://iconhelper.cn/svg/material/television-play.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,3H3C1.89,3 1,3.89 1,5V17A2,2 0 0,0 3,19H8V21H16V19H21A2,2 0 0,0 23,17V5C23,3.89 22.1,3 21,3M21,17H3V5H21M16,11L9,15V7" /></svg>
 </div>
 <detail full-name='mdi-television-play'></detail>
-    
+<div>
+<p>关于“television play”的评论:</p>
+</div>
+<Vssue title="关于“television play”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

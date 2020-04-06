@@ -5,6 +5,7 @@ name: car-shift-pattern
 zhTips: 换挡车,变速箱车,手动变速箱车
 tags: ["automotive"]
 search: car-transmission,car-manual-transmission
+image: https://iconhelper.cn/svg/material/car-shift-pattern.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 5H4V2H8V5M4 22H8V19H4V22M14 2H10V5H14V2M10 22H14V19H10V22M16 2V5H20V2H16M17 11H13V7H11V11H7V7H5V17H7V13H11V17H13V13H19V7H17V11Z" /></svg>
 </div>
 <detail full-name='mdi-car-shift-pattern'></detail>
-    
+<div>
+<p>关于“car shift pattern”的评论:</p>
+</div>
+<Vssue title="关于“car shift pattern”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

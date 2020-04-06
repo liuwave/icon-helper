@@ -5,6 +5,7 @@ name: border-outside
 zhTips: 外部边框
 tags: ["text-content-format"]
 search: border-outer
+image: https://iconhelper.cn/svg/material/border-outside.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,11H7V13H9M13,15H11V17H13M19,19H5V5H19M3,21H21V3H3M17,11H15V13H17M13,11H11V13H13M13,7H11V9H13V7Z" /></svg>
 </div>
 <detail full-name='mdi-border-outside'></detail>
-    
+<div>
+<p>关于“border outside”的评论:</p>
+</div>
+<Vssue title="关于“border outside”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

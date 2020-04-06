@@ -5,6 +5,7 @@ name: comment-remove-outline
 zhTips: 评论删除轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/comment-remove-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,22A1,1 0 0,1 8,21V18H4A2,2 0 0,1 2,16V4C2,2.89 2.9,2 4,2H20A2,2 0 0,1 22,4V16A2,2 0 0,1 20,18H13.9L10.2,21.71C10,21.9 9.75,22 9.5,22V22H9M10,16V19.08L13.08,16H20V4H4V16H10M9.41,6L12,8.59L14.59,6L16,7.41L13.41,10L16,12.59L14.59,14L12,11.41L9.41,14L8,12.59L10.59,10L8,7.41L9.41,6Z" /></svg>
 </div>
 <detail full-name='mdi-comment-remove-outline'></detail>
-    
+<div>
+<p>关于“comment remove outline”的评论:</p>
+</div>
+<Vssue title="关于“comment remove outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

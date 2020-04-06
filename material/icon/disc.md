@@ -5,6 +5,7 @@ name: disc
 zhTips: 光盘
 tags: ["music"]
 search: 
+image: https://iconhelper.cn/svg/material/disc.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,14C10.89,14 10,13.1 10,12C10,10.89 10.89,10 12,10C13.11,10 14,10.89 14,12A2,2 0 0,1 12,14M12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4Z" /></svg>
 </div>
 <detail full-name='mdi-disc'></detail>
-    
+<div>
+<p>关于“disc”的评论:</p>
+</div>
+<Vssue title="关于“disc”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: home-floor-b
 zhTips: 家庭地板b,家庭地板地下室,房屋地板b,房屋地板地下室
 tags: ["home-automation"]
 search: home-floor-basement,house-floor-b,house-floor-basement
+image: https://iconhelper.cn/svg/material/home-floor-b.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3L2,12H5V20H19V12H22L12,3M9,8H13A2,2 0 0,1 15,10V11.5A1.5,1.5 0 0,1 13.5,13A1.5,1.5 0 0,1 15,14.5V16A2,2 0 0,1 13,18H9V8M11,10V12H13V10H11M11,14V16H13V14H11Z" /></svg>
 </div>
 <detail full-name='mdi-home-floor-b'></detail>
-    
+<div>
+<p>关于“home floor b”的评论:</p>
+</div>
+<Vssue title="关于“home floor b”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

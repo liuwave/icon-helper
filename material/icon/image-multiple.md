@@ -5,6 +5,7 @@ name: image-multiple
 zhTips: 图像多个,收藏集,图片库,图像
 tags: []
 search: collections,photo-library,images
+image: https://iconhelper.cn/svg/material/image-multiple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,16V4A2,2 0 0,0 20,2H8A2,2 0 0,0 6,4V16A2,2 0 0,0 8,18H20A2,2 0 0,0 22,16M11,12L13.03,14.71L16,11L20,16H8M2,6V20A2,2 0 0,0 4,22H18V20H4V6" /></svg>
 </div>
 <detail full-name='mdi-image-multiple'></detail>
-    
+<div>
+<p>关于“image multiple”的评论:</p>
+</div>
+<Vssue title="关于“image multiple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

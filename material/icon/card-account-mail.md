@@ -5,6 +5,7 @@ name: card-account-mail
 zhTips: 卡帐户邮件,联系邮件
 tags: ["account-user"]
 search: contact-mail
+image: https://iconhelper.cn/svg/material/card-account-mail.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,8V7L18,9L15,7V8L18,10M22,3H2A2,2 0 0,0 0,5V19A2,2 0 0,0 2,21H22A2,2 0 0,0 24,19V5A2,2 0 0,0 22,3M8,6A3,3 0 0,1 11,9A3,3 0 0,1 8,12A3,3 0 0,1 5,9A3,3 0 0,1 8,6M14,18H2V17C2,15 6,13.9 8,13.9C10,13.9 14,15 14,17M22,12H14V6H22" /></svg>
 </div>
 <detail full-name='mdi-card-account-mail'></detail>
-    
+<div>
+<p>关于“card account mail”的评论:</p>
+</div>
+<Vssue title="关于“card account mail”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

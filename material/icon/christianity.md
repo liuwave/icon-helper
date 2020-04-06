@@ -5,6 +5,7 @@ name: christianity
 zhTips: 基督教,宗教基督教徒,十字架
 tags: ["religion"]
 search: religion-christian,cross
+image: https://iconhelper.cn/svg/material/christianity.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.5,2H13.5V8H19V11H13.5V22H10.5V11H5V8H10.5V2Z" /></svg>
 </div>
 <detail full-name='mdi-christianity'></detail>
-    
+<div>
+<p>关于“christianity”的评论:</p>
+</div>
+<Vssue title="关于“christianity”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

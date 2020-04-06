@@ -5,6 +5,7 @@ name: unfold-more-vertical
 zhTips: 展开更多垂直,V形向左展开,垂直展开
 tags: []
 search: chevron-left-right,expand-vertical
+image: https://iconhelper.cn/svg/material/unfold-more-vertical.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.17,12L15,8.83L16.41,7.41L21,12L16.41,16.58L15,15.17L18.17,12M5.83,12L9,15.17L7.59,16.59L3,12L7.59,7.42L9,8.83L5.83,12Z" /></svg>
 </div>
 <detail full-name='mdi-unfold-more-vertical'></detail>
-    
+<div>
+<p>关于“unfold more vertical”的评论:</p>
+</div>
+<Vssue title="关于“unfold more vertical”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

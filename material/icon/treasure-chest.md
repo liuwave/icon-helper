@@ -5,6 +5,7 @@ name: treasure-chest
 zhTips: 百宝箱
 tags: ["gaming-rpg"]
 search: 
+image: https://iconhelper.cn/svg/material/treasure-chest.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,4H19A3,3 0 0,1 22,7V11H15V10H9V11H2V7A3,3 0 0,1 5,4M11,11H13V13H11V11M2,12H9V13L11,15H13L15,13V12H22V20H2V12Z" /></svg>
 </div>
 <detail full-name='mdi-treasure-chest'></detail>
-    
+<div>
+<p>关于“treasure chest”的评论:</p>
+</div>
+<Vssue title="关于“treasure chest”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

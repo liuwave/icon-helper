@@ -5,6 +5,7 @@ name: checkbox-blank-circle-fill
 zhTips: 复选框,空
 tags: ["system"]
 search: fill
+image: https://iconhelper.cn/svg/remix/system/checkbox-blank-circle-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-checkbox-blank-circle-fill'></detail>
-    
+<detail full-name='ri-checkbox-blank-circle-fill'></detail>  
+<div>
+<p>关于“checkbox blank circle fill”的评论:</p>
+</div>
+<Vssue title="关于“checkbox blank circle fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

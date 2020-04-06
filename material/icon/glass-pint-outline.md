@@ -5,6 +5,7 @@ name: glass-pint-outline
 zhTips: 玻璃品脱轮廓
 tags: ["food-drink"]
 search: 
+image: https://iconhelper.cn/svg/material/glass-pint-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 2L6 22H17L19 2H4M6.2 4H16.8L15.2 20H7.8L6.2 4Z" /></svg>
 </div>
 <detail full-name='mdi-glass-pint-outline'></detail>
-    
+<div>
+<p>关于“glass pint outline”的评论:</p>
+</div>
+<Vssue title="关于“glass pint outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

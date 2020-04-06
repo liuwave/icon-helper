@@ -5,6 +5,7 @@ name: spotlight-beam
 zhTips: 光束射灯
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/spotlight-beam.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,16.5L9.91,15.59L15.13,20.8L14.21,21.71L9,16.5M15.5,10L16.41,9.09L21.63,14.3L20.71,15.21L15.5,10M6.72,2.72L10.15,6.15L6.15,10.15L2.72,6.72C1.94,5.94 1.94,4.67 2.72,3.89L3.89,2.72C4.67,1.94 5.94,1.94 6.72,2.72M14.57,7.5L15.28,8.21L8.21,15.28L7.5,14.57L6.64,11.07L11.07,6.64L14.57,7.5Z" /></svg>
 </div>
 <detail full-name='mdi-spotlight-beam'></detail>
-    
+<div>
+<p>关于“spotlight beam”的评论:</p>
+</div>
+<Vssue title="关于“spotlight beam”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

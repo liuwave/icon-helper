@@ -5,6 +5,7 @@ name: square-off
 zhTips: 平方关闭
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/square-off.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.84 22.73L19.11 21H3V4.89L1.11 3L2.39 1.73L22.11 21.46L20.84 22.73M21 3H6.2L21 17.8V3Z" /></svg>
 </div>
 <detail full-name='mdi-square-off'></detail>
-    
+<div>
+<p>关于“square off”的评论:</p>
+</div>
+<Vssue title="关于“square off”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

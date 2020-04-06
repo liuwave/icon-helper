@@ -5,6 +5,7 @@ name: file-plus
 zhTips: 文件加,注意添加
 tags: ["files-folders"]
 search: note-add
+image: https://iconhelper.cn/svg/material/file-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,9H18.5L13,3.5V9M6,2H14L20,8V20A2,2 0 0,1 18,22H6C4.89,22 4,21.1 4,20V4C4,2.89 4.89,2 6,2M11,15V12H9V15H6V17H9V20H11V17H14V15H11Z" /></svg>
 </div>
 <detail full-name='mdi-file-plus'></detail>
-    
+<div>
+<p>关于“file plus”的评论:</p>
+</div>
+<Vssue title="关于“file plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

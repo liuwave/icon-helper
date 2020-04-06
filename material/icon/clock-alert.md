@@ -5,6 +5,7 @@ name: clock-alert
 zhTips: 时钟警报,时钟警告
 tags: ["date-time","alert-error"]
 search: clock-warning
+image: https://iconhelper.cn/svg/material/clock-alert.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2C16.46,2 20.26,4.95 21.54,9H18V20C16.33,21.25 14.25,22 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2M16.2,16.2L17,14.9L12.5,12.2V7H11V13L16.2,16.2M20,11H22V18H20V11M20,20H22V22H20V20Z" /></svg>
 </div>
 <detail full-name='mdi-clock-alert'></detail>
-    
+<div>
+<p>关于“clock alert”的评论:</p>
+</div>
+<Vssue title="关于“clock alert”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

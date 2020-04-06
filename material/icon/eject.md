@@ -5,6 +5,7 @@ name: eject
 zhTips: 弹出,喷射,中止,取消,cd,放电
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/eject.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,5L5.33,15H18.67M5,17H19V19H5V17Z" /></svg>
 </div>
 <detail full-name='mdi-eject'></detail>
-    
+<div>
+<p>关于“eject”的评论:</p>
+</div>
+<Vssue title="关于“eject”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

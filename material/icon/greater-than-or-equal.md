@@ -5,6 +5,7 @@ name: greater-than-or-equal
 zhTips: 大于或等于
 tags: ["math"]
 search: 
+image: https://iconhelper.cn/svg/material/greater-than-or-equal.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.5,2.27L20,10.14L6.5,18L5.5,16.27L16.03,10.14L5.5,4L6.5,2.27M20,20V22H5V20H20Z" /></svg>
 </div>
 <detail full-name='mdi-greater-than-or-equal'></detail>
-    
+<div>
+<p>关于“greater than or equal”的评论:</p>
+</div>
+<Vssue title="关于“greater than or equal”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

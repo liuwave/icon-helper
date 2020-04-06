@@ -5,6 +5,7 @@ name: gallery-line
 zhTips: 图片,相册
 tags: ["media"]
 search: picture,image,line
+image: https://iconhelper.cn/svg/remix/media/gallery-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-gallery-line'></detail>
-    
+<detail full-name='ri-gallery-line'></detail>  
+<div>
+<p>关于“gallery line”的评论:</p>
+</div>
+<Vssue title="关于“gallery line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

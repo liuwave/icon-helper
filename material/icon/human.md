@@ -5,6 +5,7 @@ name: human
 zhTips: 人类,可访问性
 tags: ["people-family"]
 search: accessibility
+image: https://iconhelper.cn/svg/material/human.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,9H15V22H13V16H11V22H9V9H3V7H21M12,2A2,2 0 0,1 14,4A2,2 0 0,1 12,6C10.89,6 10,5.1 10,4C10,2.89 10.89,2 12,2Z" /></svg>
 </div>
 <detail full-name='mdi-human'></detail>
-    
+<div>
+<p>关于“human”的评论:</p>
+</div>
+<Vssue title="关于“human”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

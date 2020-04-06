@@ -5,6 +5,7 @@ name: cards-heart
 zhTips: 卡心,西装心
 tags: ["gaming-rpg"]
 search: suit-hearts
+image: https://iconhelper.cn/svg/material/cards-heart.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,21.35L10.55,20.03C5.4,15.36 2,12.27 2,8.5C2,5.41 4.42,3 7.5,3C9.24,3 10.91,3.81 12,5.08C13.09,3.81 14.76,3 16.5,3C19.58,3 22,5.41 22,8.5C22,12.27 18.6,15.36 13.45,20.03L12,21.35Z" /></svg>
 </div>
 <detail full-name='mdi-cards-heart'></detail>
-    
+<div>
+<p>关于“cards heart”的评论:</p>
+</div>
+<Vssue title="关于“cards heart”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

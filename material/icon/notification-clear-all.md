@@ -5,6 +5,7 @@ name: notification-clear-all
 zhTips: 通知全部清除
 tags: ["notification"]
 search: 
+image: https://iconhelper.cn/svg/material/notification-clear-all.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,13H19V11H5M3,17H17V15H3M7,7V9H21V7" /></svg>
 </div>
 <detail full-name='mdi-notification-clear-all'></detail>
-    
+<div>
+<p>关于“notification clear all”的评论:</p>
+</div>
+<Vssue title="关于“notification clear all”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

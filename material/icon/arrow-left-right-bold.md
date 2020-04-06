@@ -5,6 +5,7 @@ name: arrow-left-right-bold
 zhTips: 箭头左,右,粗体
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/arrow-left-right-bold.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8,14V18L2,12L8,6V10H16V6L22,12L16,18V14H8Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-left-right-bold'></detail>
-    
+<div>
+<p>关于“arrow left right bold”的评论:</p>
+</div>
+<Vssue title="关于“arrow left right bold”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

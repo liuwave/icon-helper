@@ -5,6 +5,7 @@ name: store-outline
 zhTips: 商店轮廓,商店购物中心目录轮廓
 tags: ["places","shopping"]
 search: shop-outline,store-mall-directory-outline
+image: https://iconhelper.cn/svg/material/store-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.36 9L18.96 12H5.04L5.64 9H18.36M20 4H4V6H20V4M20 7H4L3 12V14H4V20H14V14H18V20H20V14H21V12L20 7M6 18V14H12V18H6Z" /></svg>
 </div>
 <detail full-name='mdi-store-outline'></detail>
-    
+<div>
+<p>关于“store outline”的评论:</p>
+</div>
+<Vssue title="关于“store outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

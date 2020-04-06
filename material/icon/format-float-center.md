@@ -5,6 +5,7 @@ name: format-float-center
 zhTips: 格式浮动中心
 tags: ["text-content-format"]
 search: format-float-centre
+image: https://iconhelper.cn/svg/material/format-float-center.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,7H15V13H9V7M3,3H21V5H3V3M3,15H21V17H3V15M3,19H17V21H3V19Z" /></svg>
 </div>
 <detail full-name='mdi-format-float-center'></detail>
-    
+<div>
+<p>关于“format float center”的评论:</p>
+</div>
+<Vssue title="关于“format float center”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

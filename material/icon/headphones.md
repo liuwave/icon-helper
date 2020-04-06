@@ -5,6 +5,7 @@ name: headphones
 zhTips: 耳机,耳麦,音频,听音乐,音乐,声音,扬声器
 tags: ["audio","device-tech","music"]
 search: headset
+image: https://iconhelper.cn/svg/material/headphones.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,1C7,1 3,5 3,10V17A3,3 0 0,0 6,20H9V12H5V10A7,7 0 0,1 12,3A7,7 0 0,1 19,10V12H15V20H18A3,3 0 0,0 21,17V10C21,5 16.97,1 12,1Z" /></svg>
 </div>
 <detail full-name='mdi-headphones'></detail>
-    
+<div>
+<p>关于“headphones”的评论:</p>
+</div>
+<Vssue title="关于“headphones”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

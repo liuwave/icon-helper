@@ -5,6 +5,7 @@ name: lamp
 zhTips: 灯
 tags: ["home-automation"]
 search: 
+image: https://iconhelper.cn/svg/material/lamp.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8,2H16L20,14H4L8,2M11,15H13V20H18V22H6V20H11V15Z" /></svg>
 </div>
 <detail full-name='mdi-lamp'></detail>
-    
+<div>
+<p>关于“lamp”的评论:</p>
+</div>
+<Vssue title="关于“lamp”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

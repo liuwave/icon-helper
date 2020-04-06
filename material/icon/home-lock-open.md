@@ -5,6 +5,7 @@ name: home-lock-open
 zhTips: 打开锁首页
 tags: ["home-automation","lock"]
 search: 
+image: https://iconhelper.cn/svg/material/home-lock-open.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3L2,12H5V20H19V12H22L12,3M12,8A3,3 0 0,1 15,11H13A1,1 0 0,0 12,10A1,1 0 0,0 11,11V13H16V17H8V13H9V11A3,3 0 0,1 12,8Z" /></svg>
 </div>
 <detail full-name='mdi-home-lock-open'></detail>
-    
+<div>
+<p>关于“home lock open”的评论:</p>
+</div>
+<Vssue title="关于“home lock open”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: code-greater-than
 zhTips: 代码大于
 tags: ["developer-languages","math"]
 search: 
+image: https://iconhelper.cn/svg/material/code-greater-than.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.41,7.41L15,12L10.41,16.6L9,15.18L12.18,12L9,8.82M5,3C3.89,3 3,3.9 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5A2,2 0 0,0 19,3H5Z" /></svg>
 </div>
 <detail full-name='mdi-code-greater-than'></detail>
-    
+<div>
+<p>关于“code greater than”的评论:</p>
+</div>
+<Vssue title="关于“code greater than”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

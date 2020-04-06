@@ -5,6 +5,7 @@ name: number-4
 zhTips: 四,数字
 tags: ["editor"]
 search: 4
+image: https://iconhelper.cn/svg/remix/editor/number-4.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-number-4'></detail>
-    
+<detail full-name='ri-number-4'></detail>  
+<div>
+<p>关于“number 4”的评论:</p>
+</div>
+<Vssue title="关于“number 4”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

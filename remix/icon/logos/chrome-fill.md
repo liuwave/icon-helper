@@ -5,6 +5,7 @@ name: chrome-fill
 zhTips: 谷歌浏览器
 tags: ["logos"]
 search: fill
+image: https://iconhelper.cn/svg/remix/logos/chrome-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-chrome-fill'></detail>
-    
+<detail full-name='ri-chrome-fill'></detail>  
+<div>
+<p>关于“chrome fill”的评论:</p>
+</div>
+<Vssue title="关于“chrome fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

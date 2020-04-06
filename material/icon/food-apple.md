@@ -5,6 +5,7 @@ name: food-apple
 zhTips: 苹果食品
 tags: ["food-drink","food-drink"]
 search: 
+image: https://iconhelper.cn/svg/material/food-apple.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,10C22,13 17,22 15,22C13,22 13,21 12,21C11,21 11,22 9,22C7,22 2,13 4,10C6,7 9,7 11,8V5C5.38,8.07 4.11,3.78 4.11,3.78C4.11,3.78 6.77,0.19 11,5V3H13V8C15,7 18,7 20,10Z" /></svg>
 </div>
 <detail full-name='mdi-food-apple'></detail>
-    
+<div>
+<p>关于“food apple”的评论:</p>
+</div>
+<Vssue title="关于“food apple”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

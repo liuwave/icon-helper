@@ -5,6 +5,7 @@ name: map-marker-right-outline
 zhTips: 地图标记右侧轮廓
 tags: ["navigation","geographic-information-system"]
 search: 
+image: https://iconhelper.cn/svg/material/map-marker-right-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 6.5C10.38 6.5 11.5 7.62 11.5 9S10.38 11.5 9 11.5 6.5 10.38 6.5 9 7.62 6.5 9 6.5M9 2C12.87 2 16 5.13 16 9C16 14.25 9 22 9 22S2 14.25 2 9C2 5.13 5.13 2 9 2M9 4C6.24 4 4 6.24 4 9C4 10 4 12 9 18.71C14 12 14 10 14 9C14 6.24 11.76 4 9 4M18 17L23 12L18 7V17Z" /></svg>
 </div>
 <detail full-name='mdi-map-marker-right-outline'></detail>
-    
+<div>
+<p>关于“map marker right outline”的评论:</p>
+</div>
+<Vssue title="关于“map marker right outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

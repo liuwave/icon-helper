@@ -5,6 +5,7 @@ name: anticlockwise-line
 zhTips: 左翻转,左旋转
 tags: ["design"]
 search: rotate,left,line
+image: https://iconhelper.cn/svg/remix/design/anticlockwise-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-anticlockwise-line'></detail>
-    
+<detail full-name='ri-anticlockwise-line'></detail>  
+<div>
+<p>关于“anticlockwise line”的评论:</p>
+</div>
+<Vssue title="关于“anticlockwise line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

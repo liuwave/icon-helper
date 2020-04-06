@@ -5,6 +5,7 @@ name: format-indent-decrease
 zhTips: 格式缩进减少
 tags: ["text-content-format"]
 search: 
+image: https://iconhelper.cn/svg/material/format-indent-decrease.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,13H21V11H11M11,9H21V7H11M3,3V5H21V3M3,21H21V19H3M3,12L7,16V8M11,17H21V15H11V17Z" /></svg>
 </div>
 <detail full-name='mdi-format-indent-decrease'></detail>
-    
+<div>
+<p>关于“format indent decrease”的评论:</p>
+</div>
+<Vssue title="关于“format indent decrease”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

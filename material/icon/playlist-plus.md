@@ -5,6 +5,7 @@ name: playlist-plus
 zhTips: 播放列表加,播放列表添加
 tags: []
 search: playlist-add
+image: https://iconhelper.cn/svg/material/playlist-plus.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,16H10V14H2M18,14V10H16V14H12V16H16V20H18V16H22V14M14,6H2V8H14M14,10H2V12H14V10Z" /></svg>
 </div>
 <detail full-name='mdi-playlist-plus'></detail>
-    
+<div>
+<p>关于“playlist plus”的评论:</p>
+</div>
+<Vssue title="关于“playlist plus”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

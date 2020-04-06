@@ -5,6 +5,7 @@ name: square-medium-outline
 zhTips: 方形中等轮廓
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/square-medium-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,10V14H10V10H14M16,8H8V16H16V8Z" /></svg>
 </div>
 <detail full-name='mdi-square-medium-outline'></detail>
-    
+<div>
+<p>关于“square medium outline”的评论:</p>
+</div>
+<Vssue title="关于“square medium outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -5,6 +5,7 @@ name: size-xxs
 zhTips: 尺寸xxs,超小尺寸
 tags: []
 search: size-extra-extra-small
+image: https://iconhelper.cn/svg/material/size-xxs.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7H11L12 9.5L13 7H15L13 12L15 17H13L12 14.5L11 17H9L11 12L9 7M18 7H22V9H18V11H20C21.11 11 22 11.9 22 13V15C22 16.11 21.11 17 20 17H16V15H20V13H18C16.9 13 16 12.11 16 11V9C16 7.9 16.9 7 18 7M2 7H4L5 9.5L6 7H8L6 12L8 17H6L5 14.5L4 17H2L4 12L2 7Z" /></svg>
 </div>
 <detail full-name='mdi-size-xxs'></detail>
-    
+<div>
+<p>关于“size xxs”的评论:</p>
+</div>
+<Vssue title="关于“size xxs”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

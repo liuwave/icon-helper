@@ -5,6 +5,7 @@ name: arrow-up-down
 zhTips: 向下箭头
 tags: ["arrow"]
 search: 
+image: https://iconhelper.cn/svg/material/arrow-up-down.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.45,17.55L12,23L6.55,17.55L7.96,16.14L11,19.17V4.83L7.96,7.86L6.55,6.45L12,1L17.45,6.45L16.04,7.86L13,4.83V19.17L16.04,16.14L17.45,17.55Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-up-down'></detail>
-    
+<div>
+<p>关于“arrow up down”的评论:</p>
+</div>
+<Vssue title="关于“arrow up down”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

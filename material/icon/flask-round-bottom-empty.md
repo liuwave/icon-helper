@@ -5,6 +5,7 @@ name: flask-round-bottom-empty
 zhTips: 烧瓶圆底空
 tags: ["science"]
 search: 
+image: https://iconhelper.cn/svg/material/flask-round-bottom-empty.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 15C19 18.87 15.87 22 12 22C8.13 22 5 18.87 5 15C5 12.21 6.64 9.8 9 8.67V5C9 4.45 9.45 4 10 4H10.5L9.5 2H14.5L13.5 4H14C14.55 4 15 4.45 15 5V8.67C17.36 9.8 19 12.21 19 15Z" /></svg>
 </div>
 <detail full-name='mdi-flask-round-bottom-empty'></detail>
-    
+<div>
+<p>关于“flask round bottom empty”的评论:</p>
+</div>
+<Vssue title="关于“flask round bottom empty”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

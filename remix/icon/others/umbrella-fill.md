@@ -5,6 +5,7 @@ name: umbrella-fill
 zhTips: 雨伞,保护
 tags: ["others"]
 search: protect,fill
+image: https://iconhelper.cn/svg/remix/others/umbrella-fill.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-umbrella-fill'></detail>
-    
+<detail full-name='ri-umbrella-fill'></detail>  
+<div>
+<p>关于“umbrella fill”的评论:</p>
+</div>
+<Vssue title="关于“umbrella fill”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

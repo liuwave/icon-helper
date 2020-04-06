@@ -5,6 +5,7 @@ name: building-line
 zhTips: 建筑,城市,楼,办公楼,写字楼,企业
 tags: ["buildings"]
 search: city,office,enterprise,line
+image: https://iconhelper.cn/svg/remix/buildings/building-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-building-line'></detail>
-    
+<detail full-name='ri-building-line'></detail>  
+<div>
+<p>关于“building line”的评论:</p>
+</div>
+<Vssue title="关于“building line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

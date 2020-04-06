@@ -5,6 +5,7 @@ name: cellphone-link-off
 zhTips: 手机链接关闭,智能手机链接关闭,phonelink关闭
 tags: ["cellphone-phone","device-tech"]
 search: mobile-phone-link-off,smartphone-link-off,phonelink-off
+image: https://iconhelper.cn/svg/material/cellphone-link-off.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23,8H17A1,1 0 0,0 16,9V13.18L18,15.18V10H22V17H19.82L22.82,20H23A1,1 0 0,0 24,19V9A1,1 0 0,0 23,8M4,6.27L14.73,17H4V6.27M1.92,1.65L0.65,2.92L2.47,4.74C2.18,5.08 2,5.5 2,6V17H0V20H17.73L20.08,22.35L21.35,21.08L3.89,3.62L1.92,1.65M22,6V4H6.82L8.82,6H22Z" /></svg>
 </div>
 <detail full-name='mdi-cellphone-link-off'></detail>
-    
+<div>
+<p>关于“cellphone link off”的评论:</p>
+</div>
+<Vssue title="关于“cellphone link off”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

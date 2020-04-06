@@ -5,6 +5,7 @@ name: assistant
 zhTips: 助手
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/assistant.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,2H5A2,2 0 0,0 3,4V18A2,2 0 0,0 5,20H9L12,23L15,20H19A2,2 0 0,0 21,18V4A2,2 0 0,0 19,2M13.88,12.88L12,17L10.12,12.88L6,11L10.12,9.12L12,5L13.88,9.12L18,11" /></svg>
 </div>
 <detail full-name='mdi-assistant'></detail>
-    
+<div>
+<p>关于“assistant”的评论:</p>
+</div>
+<Vssue title="关于“assistant”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

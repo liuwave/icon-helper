@@ -5,6 +5,7 @@ name: instagram-line
 zhTips: 照片墙
 tags: ["logos"]
 search: line
+image: https://iconhelper.cn/svg/remix/logos/instagram-line.svg
 
 ---
 
@@ -74,7 +75,10 @@ unicode：
 </svg>
 
 </div>
-<detail full-name='ri-instagram-line'></detail>
-    
+<detail full-name='ri-instagram-line'></detail>  
+<div>
+<p>关于“instagram line”的评论:</p>
+</div>
+<Vssue title="关于“instagram line”的评论" ></Vssue>    
 <div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

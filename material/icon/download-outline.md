@@ -5,6 +5,7 @@ name: download-outline
 zhTips: 下载概述
 tags: []
 search: 
+image: https://iconhelper.cn/svg/material/download-outline.svg
 
 ---
 
@@ -66,6 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,5V11H14.17L12,13.17L9.83,11H11V5H13M15,3H9V9H5L12,16L19,9H15V3M19,18H5V20H19V18Z" /></svg>
 </div>
 <detail full-name='mdi-download-outline'></detail>
-    
+<div>
+<p>关于“download outline”的评论:</p>
+</div>
+<Vssue title="关于“download outline”的评论" ></Vssue>    
 <div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
