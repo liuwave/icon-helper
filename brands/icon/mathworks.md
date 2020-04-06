@@ -4,6 +4,7 @@ title: Mathworks() ICON转svg、png下载
 name: mathworks
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mathworks.svg
 
 ---
 

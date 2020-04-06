@@ -4,6 +4,7 @@ title: Chef() ICON转svg、png下载
 name: chef
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/chef.svg
 
 ---
 

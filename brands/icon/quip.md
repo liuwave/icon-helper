@@ -4,6 +4,7 @@ title: Quip() ICON转svg、png下载
 name: quip
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/quip.svg
 
 ---
 

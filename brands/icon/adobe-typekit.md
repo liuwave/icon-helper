@@ -4,6 +4,7 @@ title: Adobe Typekit(在线字库) ICON转svg、png下载
 name: adobe-typekit
 zhTips: 在线字库,字体工具包
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-typekit.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: SonicWall() ICON转svg、png下载
 name: sonicwall
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sonicwall.svg
 
 ---
 

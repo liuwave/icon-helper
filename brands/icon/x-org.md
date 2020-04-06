@@ -4,6 +4,7 @@ title: X.Org() ICON转svg、png下载
 name: x-org
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/x-org.svg
 
 ---
 

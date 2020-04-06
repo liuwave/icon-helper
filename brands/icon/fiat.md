@@ -4,6 +4,7 @@ title: Fiat() ICON转svg、png下载
 name: fiat
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fiat.svg
 
 ---
 

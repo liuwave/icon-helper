@@ -4,6 +4,7 @@ title: Flattr() ICON转svg、png下载
 name: flattr
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/flattr.svg
 
 ---
 

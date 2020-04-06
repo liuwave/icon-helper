@@ -4,6 +4,7 @@ title: VMware() ICON转svg、png下载
 name: vmware
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vmware.svg
 
 ---
 

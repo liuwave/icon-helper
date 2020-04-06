@@ -4,6 +4,7 @@ title: Shopify() ICON转svg、png下载
 name: shopify
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/shopify.svg
 
 ---
 

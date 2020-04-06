@@ -4,6 +4,7 @@ title: WordPress(WordPress徽标) ICON转svg、png下载
 name: wordpress
 zhTips: WordPress徽标,wordpress
 search: 
+image: https://iconhelper.cn/svg/brands/wordpress.svg
 
 ---
 

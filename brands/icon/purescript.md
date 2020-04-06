@@ -4,6 +4,7 @@ title: PureScript() ICON转svg、png下载
 name: purescript
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/purescript.svg
 
 ---
 

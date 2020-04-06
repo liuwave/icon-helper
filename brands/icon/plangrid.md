@@ -4,6 +4,7 @@ title: PlanGrid() ICON转svg、png下载
 name: plangrid
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/plangrid.svg
 
 ---
 

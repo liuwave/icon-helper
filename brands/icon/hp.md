@@ -4,6 +4,7 @@ title: HP() ICON转svg、png下载
 name: hp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hp.svg
 
 ---
 

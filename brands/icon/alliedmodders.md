@@ -4,6 +4,7 @@ title: AlliedModders(开源开发社区) ICON转svg、png下载
 name: alliedmodders
 zhTips: 开源开发社区
 search: 
+image: https://iconhelper.cn/svg/brands/alliedmodders.svg
 
 ---
 

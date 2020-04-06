@@ -4,6 +4,7 @@ title: EPEL() ICON转svg、png下载
 name: epel
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/epel.svg
 
 ---
 

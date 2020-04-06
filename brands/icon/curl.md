@@ -4,6 +4,7 @@ title: curl() ICON转svg、png下载
 name: curl
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/curl.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Marriott() ICON转svg、png下载
 name: marriott
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/marriott.svg
 
 ---
 

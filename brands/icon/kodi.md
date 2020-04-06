@@ -4,6 +4,7 @@ title: Kodi() ICON转svg、png下载
 name: kodi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/kodi.svg
 
 ---
 

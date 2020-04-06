@@ -4,6 +4,7 @@ title: Atom() ICON转svg、png下载
 name: atom
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/atom.svg
 
 ---
 

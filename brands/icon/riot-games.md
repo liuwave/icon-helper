@@ -4,6 +4,7 @@ title: Riot Games() ICON转svg、png下载
 name: riot-games
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/riot-games.svg
 
 ---
 

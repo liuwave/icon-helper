@@ -4,6 +4,7 @@ title: Smashing Magazine() ICON转svg、png下载
 name: smashing-magazine
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/smashing-magazine.svg
 
 ---
 

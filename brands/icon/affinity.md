@@ -4,6 +4,7 @@ title: Affinity(创意软件) ICON转svg、png下载
 name: affinity
 zhTips: 创意软件
 search: 
+image: https://iconhelper.cn/svg/brands/affinity.svg
 
 ---
 

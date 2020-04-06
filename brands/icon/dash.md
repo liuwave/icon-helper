@@ -4,6 +4,7 @@ title: Dash() ICON转svg、png下载
 name: dash
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dash.svg
 
 ---
 

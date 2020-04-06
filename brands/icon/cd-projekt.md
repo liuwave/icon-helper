@@ -4,6 +4,7 @@ title: CD Projekt() ICON转svg、png下载
 name: cd-projekt
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cd-projekt.svg
 
 ---
 

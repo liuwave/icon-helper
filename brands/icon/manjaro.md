@@ -4,6 +4,7 @@ title: Manjaro() ICON转svg、png下载
 name: manjaro
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/manjaro.svg
 
 ---
 

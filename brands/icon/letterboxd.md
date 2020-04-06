@@ -4,6 +4,7 @@ title: Letterboxd() ICON转svg、png下载
 name: letterboxd
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/letterboxd.svg
 
 ---
 

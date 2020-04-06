@@ -4,6 +4,7 @@ title: Notist() ICON转svg、png下载
 name: notist
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/notist.svg
 
 ---
 

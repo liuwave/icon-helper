@@ -4,6 +4,7 @@ title: Patreon() ICON转svg、png下载
 name: patreon
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/patreon.svg
 
 ---
 

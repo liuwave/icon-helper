@@ -4,6 +4,7 @@ title: PlayStation 2() ICON转svg、png下载
 name: playstation-2
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/playstation-2.svg
 
 ---
 

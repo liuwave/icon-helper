@@ -4,6 +4,7 @@ title: BuzzFeed() ICON转svg、png下载
 name: buzzfeed
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/buzzfeed.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Swarm() ICON转svg、png下载
 name: swarm
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/swarm.svg
 
 ---
 

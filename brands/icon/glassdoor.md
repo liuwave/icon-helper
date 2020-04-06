@@ -4,6 +4,7 @@ title: Glassdoor() ICON转svg、png下载
 name: glassdoor
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/glassdoor.svg
 
 ---
 

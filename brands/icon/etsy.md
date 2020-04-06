@@ -4,6 +4,7 @@ title: Etsy(Etsy) ICON转svg、png下载
 name: etsy
 zhTips: Etsy
 search: 
+image: https://iconhelper.cn/svg/brands/etsy.svg
 
 ---
 

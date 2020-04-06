@@ -4,6 +4,7 @@ title: Citroën() ICON转svg、png下载
 name: citroen
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/citroen.svg
 
 ---
 

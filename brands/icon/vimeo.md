@@ -4,6 +4,7 @@ title: Vimeo(Vimeo) ICON转svg、png下载
 name: vimeo
 zhTips: Vimeo
 search: 
+image: https://iconhelper.cn/svg/brands/vimeo.svg
 
 ---
 

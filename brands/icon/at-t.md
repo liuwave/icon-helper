@@ -4,6 +4,7 @@ title: AT&T() ICON转svg、png下载
 name: at-t
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/at-t.svg
 
 ---
 

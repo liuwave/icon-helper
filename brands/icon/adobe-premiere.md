@@ -4,6 +4,7 @@ title: Adobe Premiere(数码视频编辑软件) ICON转svg、png下载
 name: adobe-premiere
 zhTips: Pr,数码视频编辑软件
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-premiere.svg
 
 ---
 

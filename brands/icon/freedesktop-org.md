@@ -4,6 +4,7 @@ title: freedesktop.org() ICON转svg、png下载
 name: freedesktop-org
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/freedesktop-org.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: iCloud() ICON转svg、png下载
 name: icloud
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/icloud.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Trustpilot() ICON转svg、png下载
 name: trustpilot
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/trustpilot.svg
 
 ---
 

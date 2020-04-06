@@ -4,6 +4,7 @@ title: Shopware() ICON转svg、png下载
 name: shopware
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/shopware.svg
 
 ---
 

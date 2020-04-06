@@ -4,6 +4,7 @@ title: Adobe PhoneGap(开源开发框架) ICON转svg、png下载
 name: adobe-phonegap
 zhTips: 开源开发框架
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-phonegap.svg
 
 ---
 

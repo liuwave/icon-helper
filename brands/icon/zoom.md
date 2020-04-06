@@ -4,6 +4,7 @@ title: Zoom(华万) ICON转svg、png下载
 name: zoom
 zhTips: 华万,视频通信,屏幕共享,网络会议
 search: 
+image: https://iconhelper.cn/svg/brands/zoom.svg
 
 ---
 

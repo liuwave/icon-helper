@@ -4,6 +4,7 @@ title: ActiGraph(可穿戴设备) ICON转svg、png下载
 name: actigraph
 zhTips: 可穿戴设备,睡眠监测
 search: 
+image: https://iconhelper.cn/svg/brands/actigraph.svg
 
 ---
 

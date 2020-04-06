@@ -4,6 +4,7 @@ title: Microsoft Visio() ICON转svg、png下载
 name: microsoft-visio
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-visio.svg
 
 ---
 

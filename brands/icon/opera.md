@@ -4,6 +4,7 @@ title: Opera(欧朋) ICON转svg、png下载
 name: opera
 zhTips: 欧朋
 search: 
+image: https://iconhelper.cn/svg/brands/opera.svg
 
 ---
 

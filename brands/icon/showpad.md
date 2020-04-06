@@ -4,6 +4,7 @@ title: Showpad() ICON转svg、png下载
 name: showpad
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/showpad.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: SaltStack() ICON转svg、png下载
 name: saltstack
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/saltstack.svg
 
 ---
 

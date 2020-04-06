@@ -4,6 +4,7 @@ title: Uber Eats() ICON转svg、png下载
 name: uber-eats
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/uber-eats.svg
 
 ---
 

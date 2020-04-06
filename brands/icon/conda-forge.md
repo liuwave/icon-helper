@@ -4,6 +4,7 @@ title: Conda-Forge() ICON转svg、png下载
 name: conda-forge
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/conda-forge.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Rails() ICON转svg、png下载
 name: rails
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/rails.svg
 
 ---
 

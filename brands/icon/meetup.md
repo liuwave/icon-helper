@@ -4,6 +4,7 @@ title: Meetup(会议) ICON转svg、png下载
 name: meetup
 zhTips: 会议
 search: 
+image: https://iconhelper.cn/svg/brands/meetup.svg
 
 ---
 

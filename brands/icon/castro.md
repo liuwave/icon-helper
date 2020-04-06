@@ -4,6 +4,7 @@ title: Castro() ICON转svg、png下载
 name: castro
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/castro.svg
 
 ---
 

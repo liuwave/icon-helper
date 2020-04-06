@@ -4,6 +4,7 @@ title: easyJet() ICON转svg、png下载
 name: easyjet
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/easyjet.svg
 
 ---
 

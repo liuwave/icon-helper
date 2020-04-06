@@ -4,6 +4,7 @@ title: Kyocera() ICON转svg、png下载
 name: kyocera
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/kyocera.svg
 
 ---
 

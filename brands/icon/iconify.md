@@ -4,6 +4,7 @@ title: Iconify() ICON转svg、png下载
 name: iconify
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/iconify.svg
 
 ---
 

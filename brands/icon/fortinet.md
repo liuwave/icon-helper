@@ -4,6 +4,7 @@ title: Fortinet() ICON转svg、png下载
 name: fortinet
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fortinet.svg
 
 ---
 

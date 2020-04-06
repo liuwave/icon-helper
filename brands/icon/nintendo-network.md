@@ -4,6 +4,7 @@ title: Nintendo Network() ICON转svg、png下载
 name: nintendo-network
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nintendo-network.svg
 
 ---
 

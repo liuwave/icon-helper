@@ -4,6 +4,7 @@ title: LGTM() ICON转svg、png下载
 name: lgtm
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/lgtm.svg
 
 ---
 

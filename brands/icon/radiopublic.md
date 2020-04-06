@@ -4,6 +4,7 @@ title: RadioPublic() ICON转svg、png下载
 name: radiopublic
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/radiopublic.svg
 
 ---
 

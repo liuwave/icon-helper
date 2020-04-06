@@ -4,6 +4,7 @@ title: Statuspage() ICON转svg、png下载
 name: statuspage
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/statuspage.svg
 
 ---
 

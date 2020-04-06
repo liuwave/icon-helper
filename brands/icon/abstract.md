@@ -4,6 +4,7 @@ title: Abstract(设计) ICON转svg、png下载
 name: abstract
 zhTips: 设计,版本控制,抽象派
 search: 
+image: https://iconhelper.cn/svg/brands/abstract.svg
 
 ---
 

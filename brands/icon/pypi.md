@@ -4,6 +4,7 @@ title: PyPI() ICON转svg、png下载
 name: pypi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pypi.svg
 
 ---
 

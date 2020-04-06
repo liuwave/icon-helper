@@ -4,6 +4,7 @@ title: Imgur() ICON转svg、png下载
 name: imgur
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/imgur.svg
 
 ---
 

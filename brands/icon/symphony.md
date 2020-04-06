@@ -4,6 +4,7 @@ title: Symphony() ICON转svg、png下载
 name: symphony
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/symphony.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Behance(Behance) ICON转svg、png下载
 name: behance
 zhTips: Behance
 search: 
+image: https://iconhelper.cn/svg/brands/behance.svg
 
 ---
 

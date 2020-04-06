@@ -4,6 +4,7 @@ title: Gentoo() ICON转svg、png下载
 name: gentoo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gentoo.svg
 
 ---
 

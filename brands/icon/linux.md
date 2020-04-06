@@ -4,6 +4,7 @@ title: Linux(tux) ICON转svg、png下载
 name: linux
 zhTips: Linux,tux,企鹅,animal
 search: 
+image: https://iconhelper.cn/svg/brands/linux.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Raspberry Pi() ICON转svg、png下载
 name: raspberry-pi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/raspberry-pi.svg
 
 ---
 

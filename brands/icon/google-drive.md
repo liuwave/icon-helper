@@ -4,6 +4,7 @@ title: Google Drive() ICON转svg、png下载
 name: google-drive
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-drive.svg
 
 ---
 

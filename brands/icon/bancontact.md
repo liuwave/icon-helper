@@ -4,6 +4,7 @@ title: Bancontact() ICON转svg、png下载
 name: bancontact
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bancontact.svg
 
 ---
 

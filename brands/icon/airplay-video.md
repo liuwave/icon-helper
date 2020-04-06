@@ -4,6 +4,7 @@ title: AirPlay Video(视频播放器) ICON转svg、png下载
 name: airplay-video
 zhTips: 视频播放器
 search: 
+image: https://iconhelper.cn/svg/brands/airplay-video.svg
 
 ---
 

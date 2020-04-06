@@ -4,6 +4,7 @@ title: Blogger(博客) ICON转svg、png下载
 name: blogger
 zhTips: 博客,网络日志
 search: 
+image: https://iconhelper.cn/svg/brands/blogger.svg
 
 ---
 

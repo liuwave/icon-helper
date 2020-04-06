@@ -4,6 +4,7 @@ title: elementary() ICON转svg、png下载
 name: elementary
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/elementary.svg
 
 ---
 

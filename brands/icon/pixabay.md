@@ -4,6 +4,7 @@ title: Pixabay() ICON转svg、png下载
 name: pixabay
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pixabay.svg
 
 ---
 

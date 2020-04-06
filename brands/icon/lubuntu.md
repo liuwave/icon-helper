@@ -4,6 +4,7 @@ title: Lubuntu() ICON转svg、png下载
 name: lubuntu
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/lubuntu.svg
 
 ---
 

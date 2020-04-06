@@ -4,6 +4,7 @@ title: Udacity() ICON转svg、png下载
 name: udacity
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/udacity.svg
 
 ---
 

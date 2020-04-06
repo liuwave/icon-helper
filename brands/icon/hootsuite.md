@@ -4,6 +4,7 @@ title: Hootsuite() ICON转svg、png下载
 name: hootsuite
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hootsuite.svg
 
 ---
 

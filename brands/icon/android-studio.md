@@ -4,6 +4,7 @@ title: Android Studio() ICON转svg、png下载
 name: android-studio
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/android-studio.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Go() ICON转svg、png下载
 name: go
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/go.svg
 
 ---
 

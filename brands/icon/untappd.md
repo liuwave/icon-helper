@@ -4,6 +4,7 @@ title: Untappd(Untappd) ICON转svg、png下载
 name: untappd
 zhTips: Untappd
 search: 
+image: https://iconhelper.cn/svg/brands/untappd.svg
 
 ---
 

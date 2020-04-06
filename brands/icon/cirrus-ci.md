@@ -4,6 +4,7 @@ title: Cirrus CI() ICON转svg、png下载
 name: cirrus-ci
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cirrus-ci.svg
 
 ---
 

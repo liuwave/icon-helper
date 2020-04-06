@@ -4,6 +4,7 @@ title: SmugMug() ICON转svg、png下载
 name: smugmug
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/smugmug.svg
 
 ---
 

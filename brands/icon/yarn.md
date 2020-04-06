@@ -4,6 +4,7 @@ title: Yarn(Yarn) ICON转svg、png下载
 name: yarn
 zhTips: Yarn
 search: 
+image: https://iconhelper.cn/svg/brands/yarn.svg
 
 ---
 

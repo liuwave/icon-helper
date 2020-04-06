@@ -4,6 +4,7 @@ title: Zalando(扎兰多) ICON转svg、png下载
 name: zalando
 zhTips: 扎兰多,电子商城
 search: 
+image: https://iconhelper.cn/svg/brands/zalando.svg
 
 ---
 

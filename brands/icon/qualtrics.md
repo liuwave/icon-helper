@@ -4,6 +4,7 @@ title: Qualtrics() ICON转svg、png下载
 name: qualtrics
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/qualtrics.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: niconico() ICON转svg、png下载
 name: niconico
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/niconico.svg
 
 ---
 

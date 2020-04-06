@@ -4,6 +4,7 @@ title: Empire Kred() ICON转svg、png下载
 name: empire-kred
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/empire-kred.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Spacemacs() ICON转svg、png下载
 name: spacemacs
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/spacemacs.svg
 
 ---
 

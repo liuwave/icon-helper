@@ -4,6 +4,7 @@ title: Sat.1() ICON转svg、png下载
 name: sat-1
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sat-1.svg
 
 ---
 

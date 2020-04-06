@@ -4,6 +4,7 @@ title: Bitcoin(比特币) ICON转svg、png下载
 name: bitcoin
 zhTips: 比特币
 search: 
+image: https://iconhelper.cn/svg/brands/bitcoin.svg
 
 ---
 

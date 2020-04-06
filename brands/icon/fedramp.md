@@ -4,6 +4,7 @@ title: FedRAMP() ICON转svg、png下载
 name: fedramp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fedramp.svg
 
 ---
 

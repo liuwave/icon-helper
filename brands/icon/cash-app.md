@@ -4,6 +4,7 @@ title: Cash App() ICON转svg、png下载
 name: cash-app
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cash-app.svg
 
 ---
 

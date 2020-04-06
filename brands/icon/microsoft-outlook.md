@@ -4,6 +4,7 @@ title: Microsoft Outlook() ICON转svg、png下载
 name: microsoft-outlook
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-outlook.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Google Maps() ICON转svg、png下载
 name: google-maps
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-maps.svg
 
 ---
 

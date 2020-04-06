@@ -4,6 +4,7 @@ title: TensorFlow() ICON转svg、png下载
 name: tensorflow
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/tensorflow.svg
 
 ---
 

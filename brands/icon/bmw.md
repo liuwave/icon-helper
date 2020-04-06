@@ -4,6 +4,7 @@ title: BMW() ICON转svg、png下载
 name: bmw
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bmw.svg
 
 ---
 

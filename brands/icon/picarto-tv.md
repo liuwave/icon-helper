@@ -4,6 +4,7 @@ title: Picarto.TV() ICON转svg、png下载
 name: picarto-tv
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/picarto-tv.svg
 
 ---
 

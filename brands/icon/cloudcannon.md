@@ -4,6 +4,7 @@ title: CloudCannon() ICON转svg、png下载
 name: cloudcannon
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cloudcannon.svg
 
 ---
 

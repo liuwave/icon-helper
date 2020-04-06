@@ -4,6 +4,7 @@ title: Nuke() ICON转svg、png下载
 name: nuke
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nuke.svg
 
 ---
 

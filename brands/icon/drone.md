@@ -4,6 +4,7 @@ title: Drone() ICON转svg、png下载
 name: drone
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/drone.svg
 
 ---
 

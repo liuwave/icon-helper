@@ -4,6 +4,7 @@ title: Vim() ICON转svg、png下载
 name: vim
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vim.svg
 
 ---
 

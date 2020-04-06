@@ -4,6 +4,7 @@ title: EA() ICON转svg、png下载
 name: ea
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ea.svg
 
 ---
 

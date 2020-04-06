@@ -4,6 +4,7 @@ title: Valve() ICON转svg、png下载
 name: valve
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/valve.svg
 
 ---
 

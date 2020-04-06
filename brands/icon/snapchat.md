@@ -4,6 +4,7 @@ title: Snapchat(色拉布) ICON转svg、png下载
 name: snapchat
 zhTips: 色拉布,阅后即焚,邮件
 search: 
+image: https://iconhelper.cn/svg/brands/snapchat.svg
 
 ---
 

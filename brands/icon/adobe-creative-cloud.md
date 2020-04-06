@@ -4,6 +4,7 @@ title: Adobe Creative Cloud(创意云) ICON转svg、png下载
 name: adobe-creative-cloud
 zhTips: 创意云
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-creative-cloud.svg
 
 ---
 

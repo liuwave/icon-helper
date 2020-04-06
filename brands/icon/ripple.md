@@ -4,6 +4,7 @@ title: Ripple() ICON转svg、png下载
 name: ripple
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ripple.svg
 
 ---
 

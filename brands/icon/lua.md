@@ -4,6 +4,7 @@ title: Lua() ICON转svg、png下载
 name: lua
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/lua.svg
 
 ---
 

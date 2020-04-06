@@ -4,6 +4,7 @@ title: Tencent Weibo() ICON转svg、png下载
 name: tencent-weibo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/tencent-weibo.svg
 
 ---
 

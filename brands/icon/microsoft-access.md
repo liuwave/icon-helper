@@ -4,6 +4,7 @@ title: Microsoft Access() ICON转svg、png下载
 name: microsoft-access
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-access.svg
 
 ---
 

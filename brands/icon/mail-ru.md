@@ -4,6 +4,7 @@ title: Mail.Ru() ICON转svg、png下载
 name: mail-ru
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mail-ru.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: IPFS() ICON转svg、png下载
 name: ipfs
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ipfs.svg
 
 ---
 

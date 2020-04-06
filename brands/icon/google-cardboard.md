@@ -4,6 +4,7 @@ title: Google Cardboard() ICON转svg、png下载
 name: google-cardboard
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-cardboard.svg
 
 ---
 

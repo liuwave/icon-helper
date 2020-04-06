@@ -4,6 +4,7 @@ title: SonarLint() ICON转svg、png下载
 name: sonarlint
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sonarlint.svg
 
 ---
 

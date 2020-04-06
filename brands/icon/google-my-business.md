@@ -4,6 +4,7 @@ title: Google My Business() ICON转svg、png下载
 name: google-my-business
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-my-business.svg
 
 ---
 

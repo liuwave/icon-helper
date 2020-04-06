@@ -4,6 +4,7 @@ title: Algolia(阿尔及利亚) ICON转svg、png下载
 name: algolia
 zhTips: 阿尔及利亚,云搜索
 search: 
+image: https://iconhelper.cn/svg/brands/algolia.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Keybase() ICON转svg、png下载
 name: keybase
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/keybase.svg
 
 ---
 

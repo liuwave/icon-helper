@@ -4,6 +4,7 @@ title: Lenovo() ICON转svg、png下载
 name: lenovo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/lenovo.svg
 
 ---
 

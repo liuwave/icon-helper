@@ -4,6 +4,7 @@ title: Grunt(格伦特) ICON转svg、png下载
 name: grunt
 zhTips: 格伦特,grunt
 search: 
+image: https://iconhelper.cn/svg/brands/grunt.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Scrutinizer CI() ICON转svg、png下载
 name: scrutinizer-ci
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/scrutinizer-ci.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Google Scholar() ICON转svg、png下载
 name: google-scholar
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-scholar.svg
 
 ---
 

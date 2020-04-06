@@ -4,6 +4,7 @@ title: Monkey tie() ICON转svg、png下载
 name: monkey-tie
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/monkey-tie.svg
 
 ---
 

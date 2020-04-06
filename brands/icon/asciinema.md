@@ -4,6 +4,7 @@ title: asciinema() ICON转svg、png下载
 name: asciinema
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/asciinema.svg
 
 ---
 

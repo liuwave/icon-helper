@@ -4,6 +4,7 @@ title: Android(机器人) ICON转svg、png下载
 name: android
 zhTips: Android,机器人,安卓
 search: 
+image: https://iconhelper.cn/svg/brands/android.svg
 
 ---
 

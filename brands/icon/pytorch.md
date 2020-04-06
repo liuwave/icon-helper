@@ -4,6 +4,7 @@ title: PyTorch() ICON转svg、png下载
 name: pytorch
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pytorch.svg
 
 ---
 

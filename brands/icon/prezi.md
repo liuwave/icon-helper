@@ -4,6 +4,7 @@ title: Prezi() ICON转svg、png下载
 name: prezi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/prezi.svg
 
 ---
 

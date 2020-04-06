@@ -4,6 +4,7 @@ title: Bandsintown() ICON转svg、png下载
 name: bandsintown
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bandsintown.svg
 
 ---
 

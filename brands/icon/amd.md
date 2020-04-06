@@ -4,6 +4,7 @@ title: AMD(超微半导体公司) ICON转svg、png下载
 name: amd
 zhTips: AMD,超微半导体公司,美国超微半导体公司
 search: 
+image: https://iconhelper.cn/svg/brands/amd.svg
 
 ---
 

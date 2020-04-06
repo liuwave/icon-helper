@@ -4,6 +4,7 @@ title: Wix() ICON转svg、png下载
 name: wix
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wix.svg
 
 ---
 

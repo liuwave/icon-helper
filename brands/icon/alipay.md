@@ -4,6 +4,7 @@ title: Alipay(支付宝) ICON转svg、png下载
 name: alipay
 zhTips: 支付宝
 search: 
+image: https://iconhelper.cn/svg/brands/alipay.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: DAF() ICON转svg、png下载
 name: daf
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/daf.svg
 
 ---
 

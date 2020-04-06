@@ -4,6 +4,7 @@ title: Dailymotion() ICON转svg、png下载
 name: dailymotion
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dailymotion.svg
 
 ---
 

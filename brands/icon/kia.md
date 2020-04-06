@@ -4,6 +4,7 @@ title: Kia() ICON转svg、png下载
 name: kia
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/kia.svg
 
 ---
 

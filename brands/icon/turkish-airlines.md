@@ -4,6 +4,7 @@ title: Turkish Airlines() ICON转svg、png下载
 name: turkish-airlines
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/turkish-airlines.svg
 
 ---
 

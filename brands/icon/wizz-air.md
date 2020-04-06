@@ -4,6 +4,7 @@ title: Wizz Air() ICON转svg、png下载
 name: wizz-air
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wizz-air.svg
 
 ---
 

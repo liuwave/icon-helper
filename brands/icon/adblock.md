@@ -4,6 +4,7 @@ title: AdBlock(广告拦截) ICON转svg、png下载
 name: adblock
 zhTips: 广告拦截
 search: 
+image: https://iconhelper.cn/svg/brands/adblock.svg
 
 ---
 

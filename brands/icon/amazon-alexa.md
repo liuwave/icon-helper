@@ -4,6 +4,7 @@ title: Amazon Alexa(亚马逊亚历克斯) ICON转svg、png下载
 name: amazon-alexa
 zhTips: 亚马逊亚历克斯
 search: 
+image: https://iconhelper.cn/svg/brands/amazon-alexa.svg
 
 ---
 

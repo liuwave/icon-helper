@@ -4,6 +4,7 @@ title: MediaTemple() ICON转svg、png下载
 name: mediatemple
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mediatemple.svg
 
 ---
 

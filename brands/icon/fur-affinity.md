@@ -4,6 +4,7 @@ title: Fur Affinity() ICON转svg、png下载
 name: fur-affinity
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fur-affinity.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Adobe Lightroom Classic(数字摄影工具) ICON转svg、png下载
 name: adobe-lightroom-classic
 zhTips: 数字摄影工具
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-lightroom-classic.svg
 
 ---
 

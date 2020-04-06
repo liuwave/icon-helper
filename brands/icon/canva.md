@@ -4,6 +4,7 @@ title: Canva() ICON转svg、png下载
 name: canva
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/canva.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: GitLab(Axosoft) ICON转svg、png下载
 name: gitlab
 zhTips: GitLab,Axosoft
 search: 
+image: https://iconhelper.cn/svg/brands/gitlab.svg
 
 ---
 

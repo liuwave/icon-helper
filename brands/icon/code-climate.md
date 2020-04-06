@@ -4,6 +4,7 @@ title: Code Climate() ICON转svg、png下载
 name: code-climate
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/code-climate.svg
 
 ---
 

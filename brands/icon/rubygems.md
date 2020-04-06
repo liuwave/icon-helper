@@ -4,6 +4,7 @@ title: RubyGems() ICON转svg、png下载
 name: rubygems
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/rubygems.svg
 
 ---
 

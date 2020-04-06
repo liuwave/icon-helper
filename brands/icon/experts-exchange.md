@@ -4,6 +4,7 @@ title: Experts Exchange() ICON转svg、png下载
 name: experts-exchange
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/experts-exchange.svg
 
 ---
 

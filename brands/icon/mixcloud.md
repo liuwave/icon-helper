@@ -4,6 +4,7 @@ title: Mixcloud(云) ICON转svg、png下载
 name: mixcloud
 zhTips: Mixcloud,云
 search: 
+image: https://iconhelper.cn/svg/brands/mixcloud.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: LG() ICON转svg、png下载
 name: lg
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/lg.svg
 
 ---
 

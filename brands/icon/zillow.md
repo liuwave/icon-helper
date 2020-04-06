@@ -4,6 +4,7 @@ title: Zillow(房地产) ICON转svg、png下载
 name: zillow
 zhTips: 房地产,房产估价
 search: 
+image: https://iconhelper.cn/svg/brands/zillow.svg
 
 ---
 

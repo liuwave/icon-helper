@@ -4,6 +4,7 @@ title: Mapbox() ICON转svg、png下载
 name: mapbox
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mapbox.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: IntelliJ IDEA() ICON转svg、png下载
 name: intellij-idea
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/intellij-idea.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Palo Alto Software() ICON转svg、png下载
 name: palo-alto-software
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/palo-alto-software.svg
 
 ---
 

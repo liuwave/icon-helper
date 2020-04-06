@@ -4,6 +4,7 @@ title: Citrix() ICON转svg、png下载
 name: citrix
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/citrix.svg
 
 ---
 

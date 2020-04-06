@@ -4,6 +4,7 @@ title: Logitech() ICON转svg、png下载
 name: logitech
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/logitech.svg
 
 ---
 

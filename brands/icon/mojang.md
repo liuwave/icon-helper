@@ -4,6 +4,7 @@ title: Mojang() ICON转svg、png下载
 name: mojang
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mojang.svg
 
 ---
 

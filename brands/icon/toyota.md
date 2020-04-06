@@ -4,6 +4,7 @@ title: Toyota() ICON转svg、png下载
 name: toyota
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/toyota.svg
 
 ---
 

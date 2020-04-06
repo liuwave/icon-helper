@@ -4,6 +4,7 @@ title: IconJar() ICON转svg、png下载
 name: iconjar
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/iconjar.svg
 
 ---
 

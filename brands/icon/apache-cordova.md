@@ -4,6 +4,7 @@ title: Apache Cordova() ICON转svg、png下载
 name: apache-cordova
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/apache-cordova.svg
 
 ---
 

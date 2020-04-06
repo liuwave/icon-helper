@@ -4,6 +4,7 @@ title: Symfony() ICON转svg、png下载
 name: symfony
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/symfony.svg
 
 ---
 

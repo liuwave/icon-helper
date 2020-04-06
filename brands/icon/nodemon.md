@@ -4,6 +4,7 @@ title: Nodemon() ICON转svg、png下载
 name: nodemon
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nodemon.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Tencent QQ() ICON转svg、png下载
 name: tencent-qq
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/tencent-qq.svg
 
 ---
 

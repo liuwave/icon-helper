@@ -4,6 +4,7 @@ title: WhatsApp(瓦次普) ICON转svg、png下载
 name: whatsapp
 zhTips: 瓦次普,whatsapp
 search: 
+image: https://iconhelper.cn/svg/brands/whatsapp.svg
 
 ---
 

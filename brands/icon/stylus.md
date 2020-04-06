@@ -4,6 +4,7 @@ title: Stylus() ICON转svg、png下载
 name: stylus
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/stylus.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: ioBroker() ICON转svg、png下载
 name: iobroker
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/iobroker.svg
 
 ---
 

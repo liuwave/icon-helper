@@ -4,6 +4,7 @@ title: Upwork() ICON转svg、png下载
 name: upwork
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/upwork.svg
 
 ---
 

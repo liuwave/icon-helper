@@ -4,6 +4,7 @@ title: Habr() ICON转svg、png下载
 name: habr
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/habr.svg
 
 ---
 

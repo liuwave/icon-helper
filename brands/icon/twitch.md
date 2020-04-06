@@ -4,6 +4,7 @@ title: Twitch(Twitch) ICON转svg、png下载
 name: twitch
 zhTips: Twitch
 search: 
+image: https://iconhelper.cn/svg/brands/twitch.svg
 
 ---
 

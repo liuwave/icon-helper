@@ -4,6 +4,7 @@ title: Tripadvisor(猫途鹰) ICON转svg、png下载
 name: tripadvisor
 zhTips: TripAdvisor,猫途鹰
 search: 
+image: https://iconhelper.cn/svg/brands/tripadvisor.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: FIFA() ICON转svg、png下载
 name: fifa
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fifa.svg
 
 ---
 

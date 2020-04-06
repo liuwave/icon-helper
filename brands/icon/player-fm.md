@@ -4,6 +4,7 @@ title: Player FM() ICON转svg、png下载
 name: player-fm
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/player-fm.svg
 
 ---
 

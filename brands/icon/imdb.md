@@ -4,6 +4,7 @@ title: IMDb(IMDB) ICON转svg、png下载
 name: imdb
 zhTips: IMDB
 search: 
+image: https://iconhelper.cn/svg/brands/imdb.svg
 
 ---
 

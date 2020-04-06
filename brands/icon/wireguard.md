@@ -4,6 +4,7 @@ title: WireGuard() ICON转svg、png下载
 name: wireguard
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wireguard.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Formstack() ICON转svg、png下载
 name: formstack
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/formstack.svg
 
 ---
 

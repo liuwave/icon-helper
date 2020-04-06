@@ -4,6 +4,7 @@ title: Pocket Casts() ICON转svg、png下载
 name: pocket-casts
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pocket-casts.svg
 
 ---
 

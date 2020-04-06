@@ -4,6 +4,7 @@ title: webcomponents.org() ICON转svg、png下载
 name: webcomponents-org
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/webcomponents-org.svg
 
 ---
 

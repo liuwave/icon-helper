@@ -4,6 +4,7 @@ title: Sogou() ICON转svg、png下载
 name: sogou
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sogou.svg
 
 ---
 

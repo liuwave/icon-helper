@@ -4,6 +4,7 @@ title: QEMU() ICON转svg、png下载
 name: qemu
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/qemu.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: iFixit() ICON转svg、png下载
 name: ifixit
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ifixit.svg
 
 ---
 

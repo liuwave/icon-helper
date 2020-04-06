@@ -4,6 +4,7 @@ title: Microsoft Teams() ICON转svg、png下载
 name: microsoft-teams
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-teams.svg
 
 ---
 

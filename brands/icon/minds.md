@@ -4,6 +4,7 @@ title: Minds() ICON转svg、png下载
 name: minds
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/minds.svg
 
 ---
 

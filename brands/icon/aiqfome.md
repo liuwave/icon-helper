@@ -4,6 +4,7 @@ title: Aiqfome(饥饿感) ICON转svg、png下载
 name: aiqfome
 zhTips: 饥饿感,餐饮外卖
 search: 
+image: https://iconhelper.cn/svg/brands/aiqfome.svg
 
 ---
 

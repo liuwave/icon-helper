@@ -4,6 +4,7 @@ title: OSMC() ICON转svg、png下载
 name: osmc
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/osmc.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Wire() ICON转svg、png下载
 name: wire
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wire.svg
 
 ---
 

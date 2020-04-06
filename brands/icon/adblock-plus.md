@@ -4,6 +4,7 @@ title: Adblock Plus(广告拦截) ICON转svg、png下载
 name: adblock-plus
 zhTips: 广告拦截,弹窗拦截
 search: 
+image: https://iconhelper.cn/svg/brands/adblock-plus.svg
 
 ---
 

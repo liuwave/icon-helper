@@ -4,6 +4,7 @@ title: GNU Bash() ICON转svg、png下载
 name: gnu-bash
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gnu-bash.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Nintendo Switch() ICON转svg、png下载
 name: nintendo-switch
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nintendo-switch.svg
 
 ---
 

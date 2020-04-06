@@ -4,6 +4,7 @@ title: Sublime Text() ICON转svg、png下载
 name: sublime-text
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sublime-text.svg
 
 ---
 

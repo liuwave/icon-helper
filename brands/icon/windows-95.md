@@ -4,6 +4,7 @@ title: Windows 95() ICON转svg、png下载
 name: windows-95
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/windows-95.svg
 
 ---
 

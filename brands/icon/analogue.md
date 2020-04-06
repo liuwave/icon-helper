@@ -4,6 +4,7 @@ title: Analogue() ICON转svg、png下载
 name: analogue
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/analogue.svg
 
 ---
 

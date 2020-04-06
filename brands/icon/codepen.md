@@ -4,6 +4,7 @@ title: CodePen(代码笔) ICON转svg、png下载
 name: codepen
 zhTips: 代码笔
 search: 
+image: https://iconhelper.cn/svg/brands/codepen.svg
 
 ---
 

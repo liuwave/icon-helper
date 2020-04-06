@@ -4,6 +4,7 @@ title: Pluralsight() ICON转svg、png下载
 name: pluralsight
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pluralsight.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Duolingo() ICON转svg、png下载
 name: duolingo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/duolingo.svg
 
 ---
 

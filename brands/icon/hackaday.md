@@ -4,6 +4,7 @@ title: Hackaday() ICON转svg、png下载
 name: hackaday
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hackaday.svg
 
 ---
 

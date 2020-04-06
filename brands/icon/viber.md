@@ -4,6 +4,7 @@ title: Viber() ICON转svg、png下载
 name: viber
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/viber.svg
 
 ---
 

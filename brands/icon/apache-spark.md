@@ -4,6 +4,7 @@ title: Apache Spark() ICON转svg、png下载
 name: apache-spark
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/apache-spark.svg
 
 ---
 

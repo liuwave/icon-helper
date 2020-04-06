@@ -4,6 +4,7 @@ title: Coursera() ICON转svg、png下载
 name: coursera
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/coursera.svg
 
 ---
 

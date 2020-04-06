@@ -4,6 +4,7 @@ title: Wii() ICON转svg、png下载
 name: wii
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wii.svg
 
 ---
 

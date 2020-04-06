@@ -4,6 +4,7 @@ title: Chupa Chups() ICON转svg、png下载
 name: chupa-chups
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/chupa-chups.svg
 
 ---
 

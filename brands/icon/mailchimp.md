@@ -4,6 +4,7 @@ title: MailChimp() ICON转svg、png下载
 name: mailchimp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mailchimp.svg
 
 ---
 

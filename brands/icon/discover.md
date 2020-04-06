@@ -4,6 +4,7 @@ title: Discover() ICON转svg、png下载
 name: discover
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/discover.svg
 
 ---
 

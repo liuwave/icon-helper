@@ -4,6 +4,7 @@ title: JSFiddle(jsFiddle) ICON转svg、png下载
 name: jsfiddle
 zhTips: jsFiddle
 search: 
+image: https://iconhelper.cn/svg/brands/jsfiddle.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: DeviantArt() ICON转svg、png下载
 name: deviantart
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/deviantart.svg
 
 ---
 

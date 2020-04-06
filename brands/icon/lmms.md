@@ -4,6 +4,7 @@ title: LMMS() ICON转svg、png下载
 name: lmms
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/lmms.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Spotify(Spotify) ICON转svg、png下载
 name: spotify
 zhTips: Spotify
 search: 
+image: https://iconhelper.cn/svg/brands/spotify.svg
 
 ---
 

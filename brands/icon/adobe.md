@@ -4,6 +4,7 @@ title: Adobe(奥多比系统公司) ICON转svg、png下载
 name: adobe
 zhTips: 奥多比系统公司,Adobe系统公司,应用程序,图像编辑,设计,PDF,插画
 search: 
+image: https://iconhelper.cn/svg/brands/adobe.svg
 
 ---
 

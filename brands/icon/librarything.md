@@ -4,6 +4,7 @@ title: LibraryThing() ICON转svg、png下载
 name: librarything
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/librarything.svg
 
 ---
 

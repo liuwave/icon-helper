@@ -4,6 +4,7 @@ title: Google Fit() ICON转svg、png下载
 name: google-fit
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-fit.svg
 
 ---
 

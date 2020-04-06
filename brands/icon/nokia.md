@@ -4,6 +4,7 @@ title: Nokia() ICON转svg、png下载
 name: nokia
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nokia.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: GoldenLine() ICON转svg、png下载
 name: goldenline
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/goldenline.svg
 
 ---
 

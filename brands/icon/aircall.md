@@ -4,6 +4,7 @@ title: Aircall(空中呼号) ICON转svg、png下载
 name: aircall
 zhTips: 空中呼号
 search: 
+image: https://iconhelper.cn/svg/brands/aircall.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: About.me(关于我) ICON转svg、png下载
 name: about-me
 zhTips: 关于我,主页托管
 search: homepage
+image: https://iconhelper.cn/svg/brands/about-me.svg
 
 ---
 

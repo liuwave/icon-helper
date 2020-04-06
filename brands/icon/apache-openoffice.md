@@ -4,6 +4,7 @@ title: Apache OpenOffice() ICON转svg、png下载
 name: apache-openoffice
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/apache-openoffice.svg
 
 ---
 

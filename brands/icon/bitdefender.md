@@ -4,6 +4,7 @@ title: Bitdefender() ICON转svg、png下载
 name: bitdefender
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bitdefender.svg
 
 ---
 

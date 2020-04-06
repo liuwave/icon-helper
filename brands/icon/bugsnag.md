@@ -4,6 +4,7 @@ title: Bugsnag() ICON转svg、png下载
 name: bugsnag
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bugsnag.svg
 
 ---
 

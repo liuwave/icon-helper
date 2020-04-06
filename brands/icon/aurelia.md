@@ -4,6 +4,7 @@ title: Aurelia() ICON转svg、png下载
 name: aurelia
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/aurelia.svg
 
 ---
 

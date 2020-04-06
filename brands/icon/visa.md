@@ -4,6 +4,7 @@ title: Visa() ICON转svg、png下载
 name: visa
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/visa.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Spotlight() ICON转svg、png下载
 name: spotlight
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/spotlight.svg
 
 ---
 

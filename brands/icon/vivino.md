@@ -4,6 +4,7 @@ title: Vivino() ICON转svg、png下载
 name: vivino
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vivino.svg
 
 ---
 

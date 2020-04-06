@@ -4,6 +4,7 @@ title: Auth0() ICON转svg、png下载
 name: auth0
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/auth0.svg
 
 ---
 

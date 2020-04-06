@@ -4,6 +4,7 @@ title: freeCodeCamp() ICON转svg、png下载
 name: freecodecamp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/freecodecamp.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: RabbitMQ() ICON转svg、png下载
 name: rabbitmq
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/rabbitmq.svg
 
 ---
 

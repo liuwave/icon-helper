@@ -4,6 +4,7 @@ title: Venmo() ICON转svg、png下载
 name: venmo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/venmo.svg
 
 ---
 

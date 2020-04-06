@@ -4,6 +4,7 @@ title: Elsevier() ICON转svg、png下载
 name: elsevier
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/elsevier.svg
 
 ---
 

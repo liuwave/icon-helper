@@ -4,6 +4,7 @@ title: Font Awesome() ICON转svg、png下载
 name: font-awesome
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/font-awesome.svg
 
 ---
 

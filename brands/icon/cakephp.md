@@ -4,6 +4,7 @@ title: CakePHP() ICON转svg、png下载
 name: cakephp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cakephp.svg
 
 ---
 

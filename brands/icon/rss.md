@@ -4,6 +4,7 @@ title: RSS(博客) ICON转svg、png下载
 name: rss
 zhTips: RSS,博客,提要,新闻,写作,wifi黑,聚合阅读,订阅
 search: 
+image: https://iconhelper.cn/svg/brands/rss.svg
 
 ---
 

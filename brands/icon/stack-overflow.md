@@ -4,6 +4,7 @@ title: Stack Overflow() ICON转svg、png下载
 name: stack-overflow
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/stack-overflow.svg
 
 ---
 

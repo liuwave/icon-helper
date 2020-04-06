@@ -4,6 +4,7 @@ title: Wolfram Language() ICON转svg、png下载
 name: wolfram-language
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wolfram-language.svg
 
 ---
 

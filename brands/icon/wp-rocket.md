@@ -4,6 +4,7 @@ title: WP Rocket() ICON转svg、png下载
 name: wp-rocket
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wp-rocket.svg
 
 ---
 

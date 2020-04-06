@@ -4,6 +4,7 @@ title: Vivaldi() ICON转svg、png下载
 name: vivaldi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vivaldi.svg
 
 ---
 

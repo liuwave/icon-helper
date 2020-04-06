@@ -4,6 +4,7 @@ title: General Motors() ICON转svg、png下载
 name: general-motors
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/general-motors.svg
 
 ---
 

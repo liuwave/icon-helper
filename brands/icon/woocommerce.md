@@ -4,6 +4,7 @@ title: WooCommerce() ICON转svg、png下载
 name: woocommerce
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/woocommerce.svg
 
 ---
 

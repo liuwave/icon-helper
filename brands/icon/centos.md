@@ -4,6 +4,7 @@ title: CentOS() ICON转svg、png下载
 name: centos
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/centos.svg
 
 ---
 

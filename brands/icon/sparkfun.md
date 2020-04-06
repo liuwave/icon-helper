@@ -4,6 +4,7 @@ title: SparkFun() ICON转svg、png下载
 name: sparkfun
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sparkfun.svg
 
 ---
 

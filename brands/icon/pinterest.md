@@ -4,6 +4,7 @@ title: Pinterest(Pinterest) ICON转svg、png下载
 name: pinterest
 zhTips: Pinterest
 search: 
+image: https://iconhelper.cn/svg/brands/pinterest.svg
 
 ---
 

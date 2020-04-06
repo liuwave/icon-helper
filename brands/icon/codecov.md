@@ -4,6 +4,7 @@ title: Codecov() ICON转svg、png下载
 name: codecov
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/codecov.svg
 
 ---
 

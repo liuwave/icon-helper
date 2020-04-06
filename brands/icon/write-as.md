@@ -4,6 +4,7 @@ title: write.as() ICON转svg、png下载
 name: write-as
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/write-as.svg
 
 ---
 

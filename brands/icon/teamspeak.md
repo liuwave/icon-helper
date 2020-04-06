@@ -4,6 +4,7 @@ title: TeamSpeak(团队发言) ICON转svg、png下载
 name: teamspeak
 zhTips: 团队发言,TS
 search: 
+image: https://iconhelper.cn/svg/brands/teamspeak.svg
 
 ---
 

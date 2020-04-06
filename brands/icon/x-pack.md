@@ -4,6 +4,7 @@ title: X-Pack() ICON转svg、png下载
 name: x-pack
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/x-pack.svg
 
 ---
 

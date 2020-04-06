@@ -4,6 +4,7 @@ title: Bath ASU() ICON转svg、png下载
 name: bath-asu
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bath-asu.svg
 
 ---
 

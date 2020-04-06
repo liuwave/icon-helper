@@ -4,6 +4,7 @@ title: Instapaper() ICON转svg、png下载
 name: instapaper
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/instapaper.svg
 
 ---
 

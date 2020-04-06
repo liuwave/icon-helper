@@ -4,6 +4,7 @@ title: Gatsby() ICON转svg、png下载
 name: gatsby
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gatsby.svg
 
 ---
 

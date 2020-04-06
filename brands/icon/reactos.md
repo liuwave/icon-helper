@@ -4,6 +4,7 @@ title: ReactOS() ICON转svg、png下载
 name: reactos
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/reactos.svg
 
 ---
 

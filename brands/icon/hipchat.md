@@ -4,6 +4,7 @@ title: HipChat() ICON转svg、png下载
 name: hipchat
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hipchat.svg
 
 ---
 

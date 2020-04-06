@@ -4,6 +4,7 @@ title: ComproPago() ICON转svg、png下载
 name: compropago
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/compropago.svg
 
 ---
 

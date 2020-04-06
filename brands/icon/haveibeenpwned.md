@@ -4,6 +4,7 @@ title: haveibeenpwned() ICON转svg、png下载
 name: haveibeenpwned
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/haveibeenpwned.svg
 
 ---
 

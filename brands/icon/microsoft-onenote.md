@@ -4,6 +4,7 @@ title: Microsoft OneNote() ICON转svg、png下载
 name: microsoft-onenote
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-onenote.svg
 
 ---
 

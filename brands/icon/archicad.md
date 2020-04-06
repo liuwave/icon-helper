@@ -4,6 +4,7 @@ title: ARCHICAD() ICON转svg、png下载
 name: archicad
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/archicad.svg
 
 ---
 

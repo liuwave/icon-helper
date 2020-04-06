@@ -4,6 +4,7 @@ title: ARAL() ICON转svg、png下载
 name: aral
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/aral.svg
 
 ---
 

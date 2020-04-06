@@ -4,6 +4,7 @@ title: Ferrari N.V.() ICON转svg、png下载
 name: ferrari-n-v-dot
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ferrari-n-v-dot.svg
 
 ---
 

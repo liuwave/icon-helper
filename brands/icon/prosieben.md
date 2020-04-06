@@ -4,6 +4,7 @@ title: ProSieben() ICON转svg、png下载
 name: prosieben
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/prosieben.svg
 
 ---
 

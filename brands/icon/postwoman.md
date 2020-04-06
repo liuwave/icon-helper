@@ -4,6 +4,7 @@ title: Postwoman() ICON转svg、png下载
 name: postwoman
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/postwoman.svg
 
 ---
 

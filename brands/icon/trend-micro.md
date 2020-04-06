@@ -4,6 +4,7 @@ title: Trend Micro() ICON转svg、png下载
 name: trend-micro
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/trend-micro.svg
 
 ---
 

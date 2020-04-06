@@ -4,6 +4,7 @@ title: pre-commit() ICON转svg、png下载
 name: pre-commit
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pre-commit.svg
 
 ---
 

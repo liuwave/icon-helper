@@ -4,6 +4,7 @@ title: HubSpot(HubSpot) ICON转svg、png下载
 name: hubspot
 zhTips: HubSpot
 search: 
+image: https://iconhelper.cn/svg/brands/hubspot.svg
 
 ---
 

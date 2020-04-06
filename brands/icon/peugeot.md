@@ -4,6 +4,7 @@ title: Peugeot() ICON转svg、png下载
 name: peugeot
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/peugeot.svg
 
 ---
 

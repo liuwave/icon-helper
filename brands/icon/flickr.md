@@ -4,6 +4,7 @@ title: Flickr(Flickr) ICON转svg、png下载
 name: flickr
 zhTips: Flickr
 search: 
+image: https://iconhelper.cn/svg/brands/flickr.svg
 
 ---
 

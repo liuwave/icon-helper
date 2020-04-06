@@ -4,6 +4,7 @@ title: Square Enix() ICON转svg、png下载
 name: square-enix
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/square-enix.svg
 
 ---
 

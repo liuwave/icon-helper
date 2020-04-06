@@ -4,6 +4,7 @@ title: JavaScript() ICON转svg、png下载
 name: javascript
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/javascript.svg
 
 ---
 

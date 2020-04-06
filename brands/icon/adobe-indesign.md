@@ -4,6 +4,7 @@ title: Adobe InDesign(Unicode文本处理) ICON转svg、png下载
 name: adobe-indesign
 zhTips: Unicode文本处理,PageMaker,排版软件
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-indesign.svg
 
 ---
 

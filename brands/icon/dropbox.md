@@ -4,6 +4,7 @@ title: Dropbox(Dropbox) ICON转svg、png下载
 name: dropbox
 zhTips: Dropbox
 search: 
+image: https://iconhelper.cn/svg/brands/dropbox.svg
 
 ---
 

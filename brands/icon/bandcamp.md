@@ -4,6 +4,7 @@ title: Bandcamp(乐队营) ICON转svg、png下载
 name: bandcamp
 zhTips: 乐队营,bandcamp,环,纽扣
 search: 
+image: https://iconhelper.cn/svg/brands/bandcamp.svg
 
 ---
 

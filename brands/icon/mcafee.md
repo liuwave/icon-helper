@@ -4,6 +4,7 @@ title: McAfee() ICON转svg、png下载
 name: mcafee
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mcafee.svg
 
 ---
 

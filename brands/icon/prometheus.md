@@ -4,6 +4,7 @@ title: Prometheus() ICON转svg、png下载
 name: prometheus
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/prometheus.svg
 
 ---
 

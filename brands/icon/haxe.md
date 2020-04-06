@@ -4,6 +4,7 @@ title: Haxe() ICON转svg、png下载
 name: haxe
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/haxe.svg
 
 ---
 

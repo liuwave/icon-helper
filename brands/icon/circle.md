@@ -4,6 +4,7 @@ title: Circle(圆形) ICON转svg、png下载
 name: circle
 zhTips: 圆形,圆形薄,直径,点,椭圆,通知,圆
 search: 
+image: https://iconhelper.cn/svg/brands/circle.svg
 
 ---
 

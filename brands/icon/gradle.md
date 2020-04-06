@@ -4,6 +4,7 @@ title: Gradle() ICON转svg、png下载
 name: gradle
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gradle.svg
 
 ---
 

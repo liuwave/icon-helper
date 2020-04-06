@@ -4,6 +4,7 @@ title: Puppet() ICON转svg、png下载
 name: puppet
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/puppet.svg
 
 ---
 

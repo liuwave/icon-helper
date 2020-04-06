@@ -4,6 +4,7 @@ title: Zigbee(家用RF Lite) ICON转svg、png下载
 name: zigbee
 zhTips: 家用RF Lite,火萤,紫蜂协议,无线通信技术
 search: Home RF Lite,FireFly
+image: https://iconhelper.cn/svg/brands/zigbee.svg
 
 ---
 

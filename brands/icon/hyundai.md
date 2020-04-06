@@ -4,6 +4,7 @@ title: Hyundai() ICON转svg、png下载
 name: hyundai
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hyundai.svg
 
 ---
 

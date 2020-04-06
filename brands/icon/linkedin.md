@@ -4,6 +4,7 @@ title: LinkedIn() ICON转svg、png下载
 name: linkedin
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/linkedin.svg
 
 ---
 

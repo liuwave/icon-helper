@@ -4,6 +4,7 @@ title: StackPath() ICON转svg、png下载
 name: stackpath
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/stackpath.svg
 
 ---
 

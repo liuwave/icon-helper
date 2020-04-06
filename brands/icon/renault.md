@@ -4,6 +4,7 @@ title: Renault() ICON转svg、png下载
 name: renault
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/renault.svg
 
 ---
 

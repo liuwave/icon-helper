@@ -4,6 +4,7 @@ title: rollup.js() ICON转svg、png下载
 name: rollup-js
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/rollup-js.svg
 
 ---
 

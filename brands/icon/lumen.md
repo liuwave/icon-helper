@@ -4,6 +4,7 @@ title: Lumen() ICON转svg、png下载
 name: lumen
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/lumen.svg
 
 ---
 

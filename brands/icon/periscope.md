@@ -4,6 +4,7 @@ title: Periscope(潜望镜) ICON转svg、png下载
 name: periscope
 zhTips: 潜望镜,periscope
 search: 
+image: https://iconhelper.cn/svg/brands/periscope.svg
 
 ---
 

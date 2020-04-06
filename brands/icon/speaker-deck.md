@@ -4,6 +4,7 @@ title: Speaker Deck() ICON转svg、png下载
 name: speaker-deck
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/speaker-deck.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Songkick() ICON转svg、png下载
 name: songkick
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/songkick.svg
 
 ---
 

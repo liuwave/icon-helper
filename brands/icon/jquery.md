@@ -4,6 +4,7 @@ title: jQuery() ICON转svg、png下载
 name: jquery
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jquery.svg
 
 ---
 

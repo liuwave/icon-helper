@@ -4,6 +4,7 @@ title: Quantcast() ICON转svg、png下载
 name: quantcast
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/quantcast.svg
 
 ---
 

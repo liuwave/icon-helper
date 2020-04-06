@@ -4,6 +4,7 @@ title: Zulip(祖利普) ICON转svg、png下载
 name: zulip
 zhTips: 祖利普,群聊天应用程序,即时聊天
 search: 
+image: https://iconhelper.cn/svg/brands/zulip.svg
 
 ---
 

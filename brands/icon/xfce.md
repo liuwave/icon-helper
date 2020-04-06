@@ -4,6 +4,7 @@ title: XFCE() ICON转svg、png下载
 name: xfce
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/xfce.svg
 
 ---
 

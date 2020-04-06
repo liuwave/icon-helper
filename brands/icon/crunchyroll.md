@@ -4,6 +4,7 @@ title: Crunchyroll() ICON转svg、png下载
 name: crunchyroll
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/crunchyroll.svg
 
 ---
 

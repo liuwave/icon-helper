@@ -4,6 +4,7 @@ title: vBulletin() ICON转svg、png下载
 name: vbulletin
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vbulletin.svg
 
 ---
 

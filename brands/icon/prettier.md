@@ -4,6 +4,7 @@ title: Prettier() ICON转svg、png下载
 name: prettier
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/prettier.svg
 
 ---
 

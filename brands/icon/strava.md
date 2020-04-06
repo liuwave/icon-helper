@@ -4,6 +4,7 @@ title: Strava(Strava) ICON转svg、png下载
 name: strava
 zhTips: Strava
 search: 
+image: https://iconhelper.cn/svg/brands/strava.svg
 
 ---
 

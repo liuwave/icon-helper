@@ -4,6 +4,7 @@ title: Solus() ICON转svg、png下载
 name: solus
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/solus.svg
 
 ---
 

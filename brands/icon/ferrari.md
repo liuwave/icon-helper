@@ -4,6 +4,7 @@ title: Ferrari() ICON转svg、png下载
 name: ferrari
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ferrari.svg
 
 ---
 

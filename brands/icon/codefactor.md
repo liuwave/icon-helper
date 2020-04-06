@@ -4,6 +4,7 @@ title: CodeFactor() ICON转svg、png下载
 name: codefactor
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/codefactor.svg
 
 ---
 

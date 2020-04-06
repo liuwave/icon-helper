@@ -4,6 +4,7 @@ title: Bootstrap() ICON转svg、png下载
 name: bootstrap
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bootstrap.svg
 
 ---
 

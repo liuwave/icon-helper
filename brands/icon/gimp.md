@@ -4,6 +4,7 @@ title: GIMP() ICON转svg、png下载
 name: gimp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gimp.svg
 
 ---
 

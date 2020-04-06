@@ -4,6 +4,7 @@ title: The Register() ICON转svg、png下载
 name: the-register
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/the-register.svg
 
 ---
 

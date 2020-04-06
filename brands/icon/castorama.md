@@ -4,6 +4,7 @@ title: Castorama() ICON转svg、png下载
 name: castorama
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/castorama.svg
 
 ---
 

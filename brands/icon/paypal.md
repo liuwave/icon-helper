@@ -4,6 +4,7 @@ title: PayPal(贝宝) ICON转svg、png下载
 name: paypal
 zhTips: 贝宝
 search: 
+image: https://iconhelper.cn/svg/brands/paypal.svg
 
 ---
 

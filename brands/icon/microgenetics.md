@@ -4,6 +4,7 @@ title: Microgenetics() ICON转svg、png下载
 name: microgenetics
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microgenetics.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Simple Icons() ICON转svg、png下载
 name: simple-icons
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/simple-icons.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Zorin(Zorin操作系统) ICON转svg、png下载
 name: zorin
 zhTips: Linux,Zorin操作系统,佐林
 search: 
+image: https://iconhelper.cn/svg/brands/zorin.svg
 
 ---
 

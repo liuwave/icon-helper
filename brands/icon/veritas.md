@@ -4,6 +4,7 @@ title: Veritas() ICON转svg、png下载
 name: veritas
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/veritas.svg
 
 ---
 

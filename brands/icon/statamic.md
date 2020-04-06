@@ -4,6 +4,7 @@ title: Statamic() ICON转svg、png下载
 name: statamic
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/statamic.svg
 
 ---
 

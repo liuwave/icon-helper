@@ -4,6 +4,7 @@ title: Internet Explorer() ICON转svg、png下载
 name: internet-explorer
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/internet-explorer.svg
 
 ---
 

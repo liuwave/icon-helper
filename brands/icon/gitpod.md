@@ -4,6 +4,7 @@ title: Gitpod() ICON转svg、png下载
 name: gitpod
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gitpod.svg
 
 ---
 

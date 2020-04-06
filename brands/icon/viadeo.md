@@ -4,6 +4,7 @@ title: Viadeo(视频) ICON转svg、png下载
 name: viadeo
 zhTips: 视频,viadeo
 search: 
+image: https://iconhelper.cn/svg/brands/viadeo.svg
 
 ---
 

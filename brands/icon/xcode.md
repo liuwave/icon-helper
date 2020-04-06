@@ -4,6 +4,7 @@ title: Xcode() ICON转svg、png下载
 name: xcode
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/xcode.svg
 
 ---
 

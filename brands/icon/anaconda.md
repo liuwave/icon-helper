@@ -4,6 +4,7 @@ title: Anaconda(开源Python) ICON转svg、png下载
 name: anaconda
 zhTips: 开源Python
 search: 
+image: https://iconhelper.cn/svg/brands/anaconda.svg
 
 ---
 

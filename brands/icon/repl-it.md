@@ -4,6 +4,7 @@ title: repl.it() ICON转svg、png下载
 name: repl-it
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/repl-it.svg
 
 ---
 

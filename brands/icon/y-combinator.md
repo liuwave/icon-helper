@@ -4,6 +4,7 @@ title: Y Combinator() ICON转svg、png下载
 name: y-combinator
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/y-combinator.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Garmin() ICON转svg、png下载
 name: garmin
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/garmin.svg
 
 ---
 

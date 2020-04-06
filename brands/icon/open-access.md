@@ -4,6 +4,7 @@ title: Open Access() ICON转svg、png下载
 name: open-access
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/open-access.svg
 
 ---
 

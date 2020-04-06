@@ -4,6 +4,7 @@ title: YouTube TV(YouTube电视版) ICON转svg、png下载
 name: youtube-tv
 zhTips: YouTube电视版,优兔,油管,视频
 search: 
+image: https://iconhelper.cn/svg/brands/youtube-tv.svg
 
 ---
 

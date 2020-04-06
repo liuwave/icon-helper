@@ -4,6 +4,7 @@ title: Pivotal Tracker() ICON转svg、png下载
 name: pivotal-tracker
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pivotal-tracker.svg
 
 ---
 

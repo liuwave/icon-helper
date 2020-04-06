@@ -4,6 +4,7 @@ title: Dassault Systèmes() ICON转svg、png下载
 name: dassault-systemes
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dassault-systemes.svg
 
 ---
 

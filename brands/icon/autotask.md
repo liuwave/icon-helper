@@ -4,6 +4,7 @@ title: Autotask() ICON转svg、png下载
 name: autotask
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/autotask.svg
 
 ---
 

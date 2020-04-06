@@ -4,6 +4,7 @@ title: Highly() ICON转svg、png下载
 name: highly
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/highly.svg
 
 ---
 

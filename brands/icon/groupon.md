@@ -4,6 +4,7 @@ title: Groupon() ICON转svg、png下载
 name: groupon
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/groupon.svg
 
 ---
 

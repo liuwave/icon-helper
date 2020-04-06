@@ -4,6 +4,7 @@ title: Adobe Acrobat Reader(PDF阅读器) ICON转svg、png下载
 name: adobe-acrobat-reader
 zhTips: PDF阅读器,PDF查看程序
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-acrobat-reader.svg
 
 ---
 

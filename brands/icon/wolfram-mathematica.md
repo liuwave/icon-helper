@@ -4,6 +4,7 @@ title: Wolfram Mathematica() ICON转svg、png下载
 name: wolfram-mathematica
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wolfram-mathematica.svg
 
 ---
 

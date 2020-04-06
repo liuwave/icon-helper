@@ -4,6 +4,7 @@ title: GitKraken() ICON转svg、png下载
 name: gitkraken
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gitkraken.svg
 
 ---
 

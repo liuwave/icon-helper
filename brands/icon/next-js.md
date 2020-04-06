@@ -4,6 +4,7 @@ title: Next.js() ICON转svg、png下载
 name: next-js
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/next-js.svg
 
 ---
 

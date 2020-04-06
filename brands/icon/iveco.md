@@ -4,6 +4,7 @@ title: IVECO() ICON转svg、png下载
 name: iveco
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/iveco.svg
 
 ---
 

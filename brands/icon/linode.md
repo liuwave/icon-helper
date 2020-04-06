@@ -4,6 +4,7 @@ title: Linode(魔方) ICON转svg、png下载
 name: linode
 zhTips: Linode,魔方
 search: 
+image: https://iconhelper.cn/svg/brands/linode.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Gumroad() ICON转svg、png下载
 name: gumroad
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gumroad.svg
 
 ---
 

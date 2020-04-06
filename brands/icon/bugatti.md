@@ -4,6 +4,7 @@ title: Bugatti() ICON转svg、png下载
 name: bugatti
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bugatti.svg
 
 ---
 

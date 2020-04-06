@@ -4,6 +4,7 @@ title: LastPass(密码管理工具) ICON转svg、png下载
 name: lastpass
 zhTips: 密码管理工具
 search: 
+image: https://iconhelper.cn/svg/brands/lastpass.svg
 
 ---
 

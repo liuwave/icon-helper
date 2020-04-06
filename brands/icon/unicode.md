@@ -4,6 +4,7 @@ title: Unicode() ICON转svg、png下载
 name: unicode
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/unicode.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Linux Mint() ICON转svg、png下载
 name: linux-mint
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/linux-mint.svg
 
 ---
 

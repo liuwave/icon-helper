@@ -4,6 +4,7 @@ title: Basecamp() ICON转svg、png下载
 name: basecamp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/basecamp.svg
 
 ---
 

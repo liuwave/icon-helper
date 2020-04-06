@@ -4,6 +4,7 @@ title: Trakt() ICON转svg、png下载
 name: trakt
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/trakt.svg
 
 ---
 

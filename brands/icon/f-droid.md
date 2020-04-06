@@ -4,6 +4,7 @@ title: F-Droid() ICON转svg、png下载
 name: f-droid
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/f-droid.svg
 
 ---
 

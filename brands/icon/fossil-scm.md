@@ -4,6 +4,7 @@ title: Fossil SCM() ICON转svg、png下载
 name: fossil-scm
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fossil-scm.svg
 
 ---
 

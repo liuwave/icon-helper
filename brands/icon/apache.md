@@ -4,6 +4,7 @@ title: Apache() ICON转svg、png下载
 name: apache
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/apache.svg
 
 ---
 

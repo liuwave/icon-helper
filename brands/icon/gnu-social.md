@@ -4,6 +4,7 @@ title: GNU social() ICON转svg、png下载
 name: gnu-social
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gnu-social.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Skype for Business() ICON转svg、png下载
 name: skype-for-business
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/skype-for-business.svg
 
 ---
 

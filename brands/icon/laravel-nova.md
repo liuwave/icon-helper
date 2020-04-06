@@ -4,6 +4,7 @@ title: Laravel Nova() ICON转svg、png下载
 name: laravel-nova
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/laravel-nova.svg
 
 ---
 

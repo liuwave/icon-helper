@@ -4,6 +4,7 @@ title: Scala() ICON转svg、png下载
 name: scala
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/scala.svg
 
 ---
 

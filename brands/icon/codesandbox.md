@@ -4,6 +4,7 @@ title: CodeSandbox() ICON转svg、png下载
 name: codesandbox
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/codesandbox.svg
 
 ---
 

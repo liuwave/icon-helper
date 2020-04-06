@@ -4,6 +4,7 @@ title: Adobe XD(UX/UI设计平台) ICON转svg、png下载
 name: adobe-xd
 zhTips: XD,UX/UI设计平台
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-xd.svg
 
 ---
 

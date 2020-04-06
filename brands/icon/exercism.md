@@ -4,6 +4,7 @@ title: Exercism() ICON转svg、png下载
 name: exercism
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/exercism.svg
 
 ---
 

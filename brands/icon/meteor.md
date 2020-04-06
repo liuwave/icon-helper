@@ -4,6 +4,7 @@ title: Meteor() ICON转svg、png下载
 name: meteor
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/meteor.svg
 
 ---
 

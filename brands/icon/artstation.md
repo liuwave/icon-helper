@@ -4,6 +4,7 @@ title: ArtStation() ICON转svg、png下载
 name: artstation
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/artstation.svg
 
 ---
 

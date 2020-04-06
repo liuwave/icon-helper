@@ -4,6 +4,7 @@ title: AppVeyor() ICON转svg、png下载
 name: appveyor
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/appveyor.svg
 
 ---
 

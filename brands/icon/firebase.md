@@ -4,6 +4,7 @@ title: Firebase() ICON转svg、png下载
 name: firebase
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/firebase.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: DTube() ICON转svg、png下载
 name: dtube
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dtube.svg
 
 ---
 

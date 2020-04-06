@@ -4,6 +4,7 @@ title: openSUSE() ICON转svg、png下载
 name: opensuse
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/opensuse.svg
 
 ---
 

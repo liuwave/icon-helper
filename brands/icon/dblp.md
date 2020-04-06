@@ -4,6 +4,7 @@ title: dblp() ICON转svg、png下载
 name: dblp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dblp.svg
 
 ---
 

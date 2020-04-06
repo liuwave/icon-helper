@@ -4,6 +4,7 @@ title: Palantir() ICON转svg、png下载
 name: palantir
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/palantir.svg
 
 ---
 

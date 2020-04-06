@@ -4,6 +4,7 @@ title: Jenkins() ICON转svg、png下载
 name: jenkins
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jenkins.svg
 
 ---
 

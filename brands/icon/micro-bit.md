@@ -4,6 +4,7 @@ title: micro:bit() ICON转svg、png下载
 name: micro-bit
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/micro-bit.svg
 
 ---
 

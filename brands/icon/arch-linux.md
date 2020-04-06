@@ -4,6 +4,7 @@ title: Arch Linux() ICON转svg、png下载
 name: arch-linux
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/arch-linux.svg
 
 ---
 

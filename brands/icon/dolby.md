@@ -4,6 +4,7 @@ title: Dolby() ICON转svg、png下载
 name: dolby
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dolby.svg
 
 ---
 

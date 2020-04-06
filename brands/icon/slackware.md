@@ -4,6 +4,7 @@ title: Slackware() ICON转svg、png下载
 name: slackware
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/slackware.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Tableau() ICON转svg、png下载
 name: tableau
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/tableau.svg
 
 ---
 

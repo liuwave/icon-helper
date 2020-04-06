@@ -4,6 +4,7 @@ title: devRant() ICON转svg、png下载
 name: devrant
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/devrant.svg
 
 ---
 

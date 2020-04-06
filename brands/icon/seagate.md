@@ -4,6 +4,7 @@ title: Seagate() ICON转svg、png下载
 name: seagate
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/seagate.svg
 
 ---
 

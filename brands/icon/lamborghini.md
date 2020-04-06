@@ -4,6 +4,7 @@ title: Lamborghini() ICON转svg、png下载
 name: lamborghini
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/lamborghini.svg
 
 ---
 

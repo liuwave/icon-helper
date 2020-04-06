@@ -4,6 +4,7 @@ title: Fujifilm() ICON转svg、png下载
 name: fujifilm
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fujifilm.svg
 
 ---
 

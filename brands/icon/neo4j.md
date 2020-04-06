@@ -4,6 +4,7 @@ title: Neo4j() ICON转svg、png下载
 name: neo4j
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/neo4j.svg
 
 ---
 

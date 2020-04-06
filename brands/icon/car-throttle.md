@@ -4,6 +4,7 @@ title: Car Throttle() ICON转svg、png下载
 name: car-throttle
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/car-throttle.svg
 
 ---
 

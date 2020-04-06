@@ -4,6 +4,7 @@ title: MariaDB() ICON转svg、png下载
 name: mariadb
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mariadb.svg
 
 ---
 

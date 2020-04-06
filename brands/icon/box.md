@@ -4,6 +4,7 @@ title: Box(盒) ICON转svg、png下载
 name: box
 zhTips: 盒,归档,容器,包装,存储,箱子
 search: 
+image: https://iconhelper.cn/svg/brands/box.svg
 
 ---
 

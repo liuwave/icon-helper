@@ -4,6 +4,7 @@ title: Zerply(个人主页) ICON转svg、png下载
 name: zerply
 zhTips: 个人主页,个人首页
 search: 
+image: https://iconhelper.cn/svg/brands/zerply.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Quantopian() ICON转svg、png下载
 name: quantopian
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/quantopian.svg
 
 ---
 

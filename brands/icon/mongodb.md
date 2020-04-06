@@ -4,6 +4,7 @@ title: MongoDB() ICON转svg、png下载
 name: mongodb
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mongodb.svg
 
 ---
 

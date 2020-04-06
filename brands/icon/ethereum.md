@@ -4,6 +4,7 @@ title: Ethereum(以太坊) ICON转svg、png下载
 name: ethereum
 zhTips: 以太坊
 search: 
+image: https://iconhelper.cn/svg/brands/ethereum.svg
 
 ---
 

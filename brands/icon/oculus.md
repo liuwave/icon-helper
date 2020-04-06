@@ -4,6 +4,7 @@ title: Oculus() ICON转svg、png下载
 name: oculus
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/oculus.svg
 
 ---
 

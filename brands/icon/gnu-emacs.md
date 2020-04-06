@@ -4,6 +4,7 @@ title: GNU Emacs() ICON转svg、png下载
 name: gnu-emacs
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gnu-emacs.svg
 
 ---
 

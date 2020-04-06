@@ -4,6 +4,7 @@ title: Badgr() ICON转svg、png下载
 name: badgr
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/badgr.svg
 
 ---
 

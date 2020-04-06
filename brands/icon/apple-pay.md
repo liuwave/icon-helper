@@ -4,6 +4,7 @@ title: Apple Pay() ICON转svg、png下载
 name: apple-pay
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/apple-pay.svg
 
 ---
 

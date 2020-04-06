@@ -4,6 +4,7 @@ title: Django() ICON转svg、png下载
 name: django
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/django.svg
 
 ---
 

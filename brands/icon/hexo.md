@@ -4,6 +4,7 @@ title: Hexo() ICON转svg、png下载
 name: hexo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hexo.svg
 
 ---
 

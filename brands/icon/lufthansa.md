@@ -4,6 +4,7 @@ title: Lufthansa() ICON转svg、png下载
 name: lufthansa
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/lufthansa.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Google Keep() ICON转svg、png下载
 name: google-keep
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-keep.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: VLC media player() ICON转svg、png下载
 name: vlc-media-player
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vlc-media-player.svg
 
 ---
 

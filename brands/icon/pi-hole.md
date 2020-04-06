@@ -4,6 +4,7 @@ title: Pi-hole() ICON转svg、png下载
 name: pi-hole
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pi-hole.svg
 
 ---
 

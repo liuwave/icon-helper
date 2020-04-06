@@ -4,6 +4,7 @@ title: Instagram(照片墙) ICON转svg、png下载
 name: instagram
 zhTips: 照片墙,IG
 search: 
+image: https://iconhelper.cn/svg/brands/instagram.svg
 
 ---
 

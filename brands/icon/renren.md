@@ -4,6 +4,7 @@ title: Renren(人人) ICON转svg、png下载
 name: renren
 zhTips: 人人,renren,校内,人人网
 search: 
+image: https://iconhelper.cn/svg/brands/renren.svg
 
 ---
 

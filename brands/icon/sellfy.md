@@ -4,6 +4,7 @@ title: Sellfy() ICON转svg、png下载
 name: sellfy
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sellfy.svg
 
 ---
 

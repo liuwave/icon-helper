@@ -4,6 +4,7 @@ title: Microsoft OneDrive() ICON转svg、png下载
 name: microsoft-onedrive
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-onedrive.svg
 
 ---
 

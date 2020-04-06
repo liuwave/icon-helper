@@ -4,6 +4,7 @@ title: Gulp(吞咽) ICON转svg、png下载
 name: gulp
 zhTips: 吞咽,gulp
 search: 
+image: https://iconhelper.cn/svg/brands/gulp.svg
 
 ---
 

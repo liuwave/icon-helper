@@ -4,6 +4,7 @@ title: Pleroma() ICON转svg、png下载
 name: pleroma
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pleroma.svg
 
 ---
 

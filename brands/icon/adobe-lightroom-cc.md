@@ -4,6 +4,7 @@ title: Adobe Lightroom CC(照片处理工具) ICON转svg、png下载
 name: adobe-lightroom-cc
 zhTips: 照片处理工具
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-lightroom-cc.svg
 
 ---
 

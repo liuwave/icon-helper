@@ -4,6 +4,7 @@ title: TELE5() ICON转svg、png下载
 name: tele5
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/tele5.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: PagSeguro() ICON转svg、png下载
 name: pagseguro
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pagseguro.svg
 
 ---
 

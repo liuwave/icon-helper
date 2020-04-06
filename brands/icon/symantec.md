@@ -4,6 +4,7 @@ title: Symantec() ICON转svg、png下载
 name: symantec
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/symantec.svg
 
 ---
 

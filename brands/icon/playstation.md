@@ -4,6 +4,7 @@ title: PlayStation(游戏站) ICON转svg、png下载
 name: playstation
 zhTips: PS,游戏站
 search: 
+image: https://iconhelper.cn/svg/brands/playstation.svg
 
 ---
 

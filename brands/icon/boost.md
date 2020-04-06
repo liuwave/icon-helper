@@ -4,6 +4,7 @@ title: Boost() ICON转svg、png下载
 name: boost
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/boost.svg
 
 ---
 

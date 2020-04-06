@@ -4,6 +4,7 @@ title: XMPP() ICON转svg、png下载
 name: xmpp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/xmpp.svg
 
 ---
 

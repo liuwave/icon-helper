@@ -4,6 +4,7 @@ title: Fido Alliance() ICON转svg、png下载
 name: fido-alliance
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fido-alliance.svg
 
 ---
 

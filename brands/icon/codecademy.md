@@ -4,6 +4,7 @@ title: Codecademy() ICON转svg、png下载
 name: codecademy
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/codecademy.svg
 
 ---
 

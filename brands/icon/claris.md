@@ -4,6 +4,7 @@ title: Claris() ICON转svg、png下载
 name: claris
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/claris.svg
 
 ---
 

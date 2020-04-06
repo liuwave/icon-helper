@@ -4,6 +4,7 @@ title: The Washington Post() ICON转svg、png下载
 name: the-washington-post
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/the-washington-post.svg
 
 ---
 

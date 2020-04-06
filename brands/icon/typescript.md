@@ -4,6 +4,7 @@ title: TypeScript() ICON转svg、png下载
 name: typescript
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/typescript.svg
 
 ---
 

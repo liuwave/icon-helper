@@ -4,6 +4,7 @@ title: Castbox() ICON转svg、png下载
 name: castbox
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/castbox.svg
 
 ---
 

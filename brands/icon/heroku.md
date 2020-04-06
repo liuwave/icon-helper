@@ -4,6 +4,7 @@ title: Heroku() ICON转svg、png下载
 name: heroku
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/heroku.svg
 
 ---
 

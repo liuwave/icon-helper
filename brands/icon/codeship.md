@@ -4,6 +4,7 @@ title: Codeship() ICON转svg、png下载
 name: codeship
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/codeship.svg
 
 ---
 

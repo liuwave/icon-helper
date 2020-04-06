@@ -4,6 +4,7 @@ title: OVH() ICON转svg、png下载
 name: ovh
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ovh.svg
 
 ---
 

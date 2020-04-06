@@ -4,6 +4,7 @@ title: Minutemailer() ICON转svg、png下载
 name: minutemailer
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/minutemailer.svg
 
 ---
 

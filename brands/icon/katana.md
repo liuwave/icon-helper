@@ -4,6 +4,7 @@ title: Katana() ICON转svg、png下载
 name: katana
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/katana.svg
 
 ---
 

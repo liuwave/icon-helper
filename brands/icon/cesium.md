@@ -4,6 +4,7 @@ title: Cesium() ICON转svg、png下载
 name: cesium
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cesium.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Authy() ICON转svg、png下载
 name: authy
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/authy.svg
 
 ---
 

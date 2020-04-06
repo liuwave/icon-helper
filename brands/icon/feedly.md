@@ -4,6 +4,7 @@ title: Feedly() ICON转svg、png下载
 name: feedly
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/feedly.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Just Eat() ICON转svg、png下载
 name: just-eat
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/just-eat.svg
 
 ---
 

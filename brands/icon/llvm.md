@@ -4,6 +4,7 @@ title: LLVM() ICON转svg、png下载
 name: llvm
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/llvm.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: CSS Wizardry() ICON转svg、png下载
 name: css-wizardry
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/css-wizardry.svg
 
 ---
 

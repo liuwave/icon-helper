@@ -4,6 +4,7 @@ title: Proto.io() ICON转svg、png下载
 name: proto-io
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/proto-io.svg
 
 ---
 

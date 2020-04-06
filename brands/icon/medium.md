@@ -4,6 +4,7 @@ title: Medium() ICON转svg、png下载
 name: medium
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/medium.svg
 
 ---
 

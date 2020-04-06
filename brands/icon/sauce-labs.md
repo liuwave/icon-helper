@@ -4,6 +4,7 @@ title: Sauce Labs() ICON转svg、png下载
 name: sauce-labs
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sauce-labs.svg
 
 ---
 

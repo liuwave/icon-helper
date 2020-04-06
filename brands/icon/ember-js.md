@@ -4,6 +4,7 @@ title: Ember.js() ICON转svg、png下载
 name: ember-js
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ember-js.svg
 
 ---
 

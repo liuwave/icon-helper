@@ -4,6 +4,7 @@ title: Opel() ICON转svg、png下载
 name: opel
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/opel.svg
 
 ---
 

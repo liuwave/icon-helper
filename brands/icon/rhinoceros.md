@@ -4,6 +4,7 @@ title: Rhinoceros() ICON转svg、png下载
 name: rhinoceros
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/rhinoceros.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: WebAuthn() ICON转svg、png下载
 name: webauthn
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/webauthn.svg
 
 ---
 

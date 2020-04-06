@@ -4,6 +4,7 @@ title: SonarQube() ICON转svg、png下载
 name: sonarqube
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sonarqube.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Dependabot() ICON转svg、png下载
 name: dependabot
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dependabot.svg
 
 ---
 

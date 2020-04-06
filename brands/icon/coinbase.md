@@ -4,6 +4,7 @@ title: Coinbase() ICON转svg、png下载
 name: coinbase
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/coinbase.svg
 
 ---
 

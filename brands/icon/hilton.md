@@ -4,6 +4,7 @@ title: Hilton() ICON转svg、png下载
 name: hilton
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hilton.svg
 
 ---
 

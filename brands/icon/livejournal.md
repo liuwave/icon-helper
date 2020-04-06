@@ -4,6 +4,7 @@ title: LiveJournal() ICON转svg、png下载
 name: livejournal
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/livejournal.svg
 
 ---
 

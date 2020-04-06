@@ -4,6 +4,7 @@ title: Uber(优步) ICON转svg、png下载
 name: uber
 zhTips: 优步
 search: 
+image: https://iconhelper.cn/svg/brands/uber.svg
 
 ---
 

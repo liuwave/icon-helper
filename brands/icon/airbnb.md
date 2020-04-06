@@ -4,6 +4,7 @@ title: Airbnb(爱彼迎) ICON转svg、png下载
 name: airbnb
 zhTips: 爱彼迎,民宿短租,AirBed and Breakfast
 search: 
+image: https://iconhelper.cn/svg/brands/airbnb.svg
 
 ---
 

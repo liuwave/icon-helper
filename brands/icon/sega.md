@@ -4,6 +4,7 @@ title: Sega() ICON转svg、png下载
 name: sega
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sega.svg
 
 ---
 

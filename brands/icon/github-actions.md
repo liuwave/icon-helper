@@ -4,6 +4,7 @@ title: GitHub Actions() ICON转svg、png下载
 name: github-actions
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/github-actions.svg
 
 ---
 

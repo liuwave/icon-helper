@@ -4,6 +4,7 @@ title: PlayStation 4() ICON转svg、png下载
 name: playstation-4
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/playstation-4.svg
 
 ---
 

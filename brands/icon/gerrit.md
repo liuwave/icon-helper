@@ -4,6 +4,7 @@ title: Gerrit() ICON转svg、png下载
 name: gerrit
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gerrit.svg
 
 ---
 

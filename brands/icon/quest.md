@@ -4,6 +4,7 @@ title: Quest() ICON转svg、png下载
 name: quest
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/quest.svg
 
 ---
 

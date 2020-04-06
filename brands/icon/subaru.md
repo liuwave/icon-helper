@@ -4,6 +4,7 @@ title: Subaru() ICON转svg、png下载
 name: subaru
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/subaru.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Stack Exchange() ICON转svg、png下载
 name: stack-exchange
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/stack-exchange.svg
 
 ---
 

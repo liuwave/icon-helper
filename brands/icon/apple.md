@@ -4,6 +4,7 @@ title: Apple(水果) ICON转svg、png下载
 name: apple
 zhTips: Apple,水果,ios,mac,操作系统,os,osx,苹果
 search: 
+image: https://iconhelper.cn/svg/brands/apple.svg
 
 ---
 

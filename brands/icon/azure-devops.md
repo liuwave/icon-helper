@@ -4,6 +4,7 @@ title: Azure DevOps() ICON转svg、png下载
 name: azure-devops
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/azure-devops.svg
 
 ---
 

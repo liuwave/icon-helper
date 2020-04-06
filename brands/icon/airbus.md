@@ -4,6 +4,7 @@ title: Airbus(空中巴士) ICON转svg、png下载
 name: airbus
 zhTips: 空中巴士,空客,空中客车公司
 search: 
+image: https://iconhelper.cn/svg/brands/airbus.svg
 
 ---
 

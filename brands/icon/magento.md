@@ -4,6 +4,7 @@ title: Magento(Magento) ICON转svg、png下载
 name: magento
 zhTips: Magento
 search: 
+image: https://iconhelper.cn/svg/brands/magento.svg
 
 ---
 

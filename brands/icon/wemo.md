@@ -4,6 +4,7 @@ title: WEMO() ICON转svg、png下载
 name: wemo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wemo.svg
 
 ---
 

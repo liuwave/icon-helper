@@ -4,6 +4,7 @@ title: iFood() ICON转svg、png下载
 name: ifood
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ifood.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: CMake() ICON转svg、png下载
 name: cmake
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cmake.svg
 
 ---
 

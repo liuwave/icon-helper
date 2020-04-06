@@ -4,6 +4,7 @@ title: Trulia() ICON转svg、png下载
 name: trulia
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/trulia.svg
 
 ---
 

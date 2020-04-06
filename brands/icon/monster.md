@@ -4,6 +4,7 @@ title: Monster() ICON转svg、png下载
 name: monster
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/monster.svg
 
 ---
 

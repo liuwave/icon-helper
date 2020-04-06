@@ -4,6 +4,7 @@ title: American Express(美国运通公司) ICON转svg、png下载
 name: american-express
 zhTips: 美国运通公司
 search: 
+image: https://iconhelper.cn/svg/brands/american-express.svg
 
 ---
 

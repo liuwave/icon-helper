@@ -4,6 +4,7 @@ title: LeetCode() ICON转svg、png下载
 name: leetcode
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/leetcode.svg
 
 ---
 

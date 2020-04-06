@@ -4,6 +4,7 @@ title: Siemens() ICON转svg、png下载
 name: siemens
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/siemens.svg
 
 ---
 

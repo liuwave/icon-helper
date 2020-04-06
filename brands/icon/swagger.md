@@ -4,6 +4,7 @@ title: Swagger() ICON转svg、png下载
 name: swagger
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/swagger.svg
 
 ---
 

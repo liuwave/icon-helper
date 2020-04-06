@@ -4,6 +4,7 @@ title: Visual Studio Code() ICON转svg、png下载
 name: visual-studio-code
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/visual-studio-code.svg
 
 ---
 

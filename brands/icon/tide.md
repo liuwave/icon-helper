@@ -4,6 +4,7 @@ title: Tide() ICON转svg、png下载
 name: tide
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/tide.svg
 
 ---
 

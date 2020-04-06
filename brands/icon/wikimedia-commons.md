@@ -4,6 +4,7 @@ title: Wikimedia Commons() ICON转svg、png下载
 name: wikimedia-commons
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wikimedia-commons.svg
 
 ---
 

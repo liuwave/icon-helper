@@ -4,6 +4,7 @@ title: GitHub(octocat) ICON转svg、png下载
 name: github
 zhTips: GitHub,octocat
 search: 
+image: https://iconhelper.cn/svg/brands/github.svg
 
 ---
 

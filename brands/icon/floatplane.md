@@ -4,6 +4,7 @@ title: Floatplane() ICON转svg、png下载
 name: floatplane
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/floatplane.svg
 
 ---
 

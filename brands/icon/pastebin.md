@@ -4,6 +4,7 @@ title: Pastebin() ICON转svg、png下载
 name: pastebin
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pastebin.svg
 
 ---
 

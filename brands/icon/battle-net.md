@@ -4,6 +4,7 @@ title: Battle.net() ICON转svg、png下载
 name: battle-net
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/battle-net.svg
 
 ---
 

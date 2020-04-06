@@ -4,6 +4,7 @@ title: Invoice Ninja() ICON转svg、png下载
 name: invoice-ninja
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/invoice-ninja.svg
 
 ---
 

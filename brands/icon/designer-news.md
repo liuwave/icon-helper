@@ -4,6 +4,7 @@ title: Designer News() ICON转svg、png下载
 name: designer-news
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/designer-news.svg
 
 ---
 

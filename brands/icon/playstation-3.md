@@ -4,6 +4,7 @@ title: PlayStation 3() ICON转svg、png下载
 name: playstation-3
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/playstation-3.svg
 
 ---
 

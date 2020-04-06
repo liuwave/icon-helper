@@ -4,6 +4,7 @@ title: Chase() ICON转svg、png下载
 name: chase
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/chase.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Blender(搅拌机) ICON转svg、png下载
 name: blender
 zhTips: 搅拌机,鸡尾酒,奶昔,果泥
 search: 
+image: https://iconhelper.cn/svg/brands/blender.svg
 
 ---
 

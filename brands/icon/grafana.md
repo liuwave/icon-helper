@@ -4,6 +4,7 @@ title: Grafana() ICON转svg、png下载
 name: grafana
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/grafana.svg
 
 ---
 

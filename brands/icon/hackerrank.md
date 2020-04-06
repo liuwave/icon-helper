@@ -4,6 +4,7 @@ title: HackerRank() ICON转svg、png下载
 name: hackerrank
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hackerrank.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: AdGuard(广告卫士) ICON转svg、png下载
 name: adguard
 zhTips: 广告卫士,广告拦截
 search: 
+image: https://iconhelper.cn/svg/brands/adguard.svg
 
 ---
 

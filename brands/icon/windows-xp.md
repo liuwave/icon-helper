@@ -4,6 +4,7 @@ title: Windows XP() ICON转svg、png下载
 name: windows-xp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/windows-xp.svg
 
 ---
 

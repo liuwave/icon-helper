@@ -4,6 +4,7 @@ title: Microsoft Excel() ICON转svg、png下载
 name: microsoft-excel
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-excel.svg
 
 ---
 

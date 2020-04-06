@@ -4,6 +4,7 @@ title: Digg(Digg徽标) ICON转svg、png下载
 name: digg
 zhTips: Digg徽标,点赞,掘客网
 search: 
+image: https://iconhelper.cn/svg/brands/digg.svg
 
 ---
 

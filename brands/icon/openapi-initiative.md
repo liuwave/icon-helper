@@ -4,6 +4,7 @@ title: OpenAPI Initiative() ICON转svg、png下载
 name: openapi-initiative
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/openapi-initiative.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Timescale() ICON转svg、png下载
 name: timescale
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/timescale.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: NEC() ICON转svg、png下载
 name: nec
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nec.svg
 
 ---
 

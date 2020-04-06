@@ -4,6 +4,7 @@ title: PrestaShop() ICON转svg、png下载
 name: prestashop
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/prestashop.svg
 
 ---
 

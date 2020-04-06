@@ -4,6 +4,7 @@ title: Pepsi() ICON转svg、png下载
 name: pepsi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pepsi.svg
 
 ---
 

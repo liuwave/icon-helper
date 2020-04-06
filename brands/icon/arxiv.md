@@ -4,6 +4,7 @@ title: arXiv() ICON转svg、png下载
 name: arxiv
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/arxiv.svg
 
 ---
 

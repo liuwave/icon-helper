@@ -4,6 +4,7 @@ title: Google Ads() ICON转svg、png下载
 name: google-ads
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-ads.svg
 
 ---
 

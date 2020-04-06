@@ -4,6 +4,7 @@ title: Cloudsmith(Cloudsmith) ICON转svg、png下载
 name: cloudsmith
 zhTips: Cloudsmith
 search: 
+image: https://iconhelper.cn/svg/brands/cloudsmith.svg
 
 ---
 

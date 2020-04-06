@@ -4,6 +4,7 @@ title: Google Messages() ICON转svg、png下载
 name: google-messages
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-messages.svg
 
 ---
 

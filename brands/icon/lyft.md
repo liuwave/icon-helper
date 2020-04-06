@@ -4,6 +4,7 @@ title: Lyft(来福车) ICON转svg、png下载
 name: lyft
 zhTips: 来福车
 search: 
+image: https://iconhelper.cn/svg/brands/lyft.svg
 
 ---
 

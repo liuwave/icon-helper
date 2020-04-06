@@ -4,6 +4,7 @@ title: Air Canada(加拿大航空) ICON转svg、png下载
 name: air-canada
 zhTips: 加拿大航空,加拿大航空公司,加拿大枫叶航空公司
 search: 
+image: https://iconhelper.cn/svg/brands/air-canada.svg
 
 ---
 

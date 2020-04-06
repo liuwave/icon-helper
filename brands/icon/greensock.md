@@ -4,6 +4,7 @@ title: GreenSock() ICON转svg、png下载
 name: greensock
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/greensock.svg
 
 ---
 

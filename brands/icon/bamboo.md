@@ -4,6 +4,7 @@ title: Bamboo() ICON转svg、png下载
 name: bamboo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bamboo.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Dynatrace() ICON转svg、png下载
 name: dynatrace
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dynatrace.svg
 
 ---
 

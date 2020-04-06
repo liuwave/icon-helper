@@ -4,6 +4,7 @@ title: Serverless() ICON转svg、png下载
 name: serverless
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/serverless.svg
 
 ---
 

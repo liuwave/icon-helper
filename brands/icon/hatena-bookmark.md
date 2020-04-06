@@ -4,6 +4,7 @@ title: Hatena Bookmark() ICON转svg、png下载
 name: hatena-bookmark
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hatena-bookmark.svg
 
 ---
 

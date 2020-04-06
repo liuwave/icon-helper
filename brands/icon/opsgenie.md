@@ -4,6 +4,7 @@ title: Opsgenie() ICON转svg、png下载
 name: opsgenie
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/opsgenie.svg
 
 ---
 

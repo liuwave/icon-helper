@@ -4,6 +4,7 @@ title: Qi() ICON转svg、png下载
 name: qi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/qi.svg
 
 ---
 

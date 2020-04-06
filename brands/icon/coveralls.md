@@ -4,6 +4,7 @@ title: Coveralls() ICON转svg、png下载
 name: coveralls
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/coveralls.svg
 
 ---
 

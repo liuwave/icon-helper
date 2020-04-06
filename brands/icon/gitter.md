@@ -4,6 +4,7 @@ title: Gitter() ICON转svg、png下载
 name: gitter
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gitter.svg
 
 ---
 

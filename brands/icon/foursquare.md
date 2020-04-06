@@ -4,6 +4,7 @@ title: Foursquare(四方) ICON转svg、png下载
 name: foursquare
 zhTips: 四方,foursquare
 search: 
+image: https://iconhelper.cn/svg/brands/foursquare.svg
 
 ---
 

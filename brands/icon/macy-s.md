@@ -4,6 +4,7 @@ title: Macy’s() ICON转svg、png下载
 name: macy-s
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/macy-s.svg
 
 ---
 

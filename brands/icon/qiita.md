@@ -4,6 +4,7 @@ title: Qiita() ICON转svg、png下载
 name: qiita
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/qiita.svg
 
 ---
 

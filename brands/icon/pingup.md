@@ -4,6 +4,7 @@ title: Pingup() ICON转svg、png下载
 name: pingup
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pingup.svg
 
 ---
 

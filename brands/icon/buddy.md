@@ -4,6 +4,7 @@ title: Buddy() ICON转svg、png下载
 name: buddy
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/buddy.svg
 
 ---
 

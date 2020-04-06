@@ -4,6 +4,7 @@ title: Elasticsearch() ICON转svg、png下载
 name: elasticsearch
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/elasticsearch.svg
 
 ---
 

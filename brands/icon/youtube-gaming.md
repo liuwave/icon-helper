@@ -4,6 +4,7 @@ title: YouTube Gaming(YouTube游戏) ICON转svg、png下载
 name: youtube-gaming
 zhTips: YouTube游戏
 search: 
+image: https://iconhelper.cn/svg/brands/youtube-gaming.svg
 
 ---
 

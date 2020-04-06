@@ -4,6 +4,7 @@ title: Kentico() ICON转svg、png下载
 name: kentico
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/kentico.svg
 
 ---
 

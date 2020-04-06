@@ -4,6 +4,7 @@ title: Apple Music() ICON转svg、png下载
 name: apple-music
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/apple-music.svg
 
 ---
 

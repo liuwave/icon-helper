@@ -4,6 +4,7 @@ title: OpenID(OpenID基金会) ICON转svg、png下载
 name: openid
 zhTips: OpenID基金会
 search: 
+image: https://iconhelper.cn/svg/brands/openid.svg
 
 ---
 

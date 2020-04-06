@@ -4,6 +4,7 @@ title: Issuu() ICON转svg、png下载
 name: issuu
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/issuu.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Terraform() ICON转svg、png下载
 name: terraform
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/terraform.svg
 
 ---
 

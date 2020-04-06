@@ -4,6 +4,7 @@ title: Pexels() ICON转svg、png下载
 name: pexels
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pexels.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Disroot() ICON转svg、png下载
 name: disroot
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/disroot.svg
 
 ---
 

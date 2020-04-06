@@ -4,6 +4,7 @@ title: Vauxhall() ICON转svg、png下载
 name: vauxhall
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vauxhall.svg
 
 ---
 

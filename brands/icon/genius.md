@@ -4,6 +4,7 @@ title: Genius() ICON转svg、png下载
 name: genius
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/genius.svg
 
 ---
 

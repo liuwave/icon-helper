@@ -4,6 +4,7 @@ title: Webpack() ICON转svg、png下载
 name: webpack
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/webpack.svg
 
 ---
 

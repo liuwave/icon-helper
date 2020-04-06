@@ -4,6 +4,7 @@ title: Kik() ICON转svg、png下载
 name: kik
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/kik.svg
 
 ---
 

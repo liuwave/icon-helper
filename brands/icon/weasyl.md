@@ -4,6 +4,7 @@ title: Weasyl() ICON转svg、png下载
 name: weasyl
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/weasyl.svg
 
 ---
 

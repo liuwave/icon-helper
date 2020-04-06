@@ -4,6 +4,7 @@ title: Google Calendar() ICON转svg、png下载
 name: google-calendar
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-calendar.svg
 
 ---
 

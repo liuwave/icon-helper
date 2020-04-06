@@ -4,6 +4,7 @@ title: MediaFire() ICON转svg、png下载
 name: mediafire
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mediafire.svg
 
 ---
 

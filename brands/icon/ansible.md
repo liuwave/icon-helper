@@ -4,6 +4,7 @@ title: Ansible() ICON转svg、png下载
 name: ansible
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ansible.svg
 
 ---
 

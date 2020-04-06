@@ -4,6 +4,7 @@ title: OpenVPN() ICON转svg、png下载
 name: openvpn
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/openvpn.svg
 
 ---
 

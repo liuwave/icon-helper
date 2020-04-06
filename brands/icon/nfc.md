@@ -4,6 +4,7 @@ title: NFC() ICON转svg、png下载
 name: nfc
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nfc.svg
 
 ---
 

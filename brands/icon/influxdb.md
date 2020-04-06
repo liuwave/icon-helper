@@ -4,6 +4,7 @@ title: InfluxDB() ICON转svg、png下载
 name: influxdb
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/influxdb.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Signal(信号) ICON转svg、png下载
 name: signal
 zhTips: 信号,条形图,图形,在线,接收,状态,信号标志,无线信号
 search: 
+image: https://iconhelper.cn/svg/brands/signal.svg
 
 ---
 

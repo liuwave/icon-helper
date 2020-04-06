@@ -4,6 +4,7 @@ title: Aer Lingus(爱尔兰航空公司) ICON转svg、png下载
 name: aer-lingus
 zhTips: 爱尔兰航空公司,爱尔兰的国家航空公司
 search: 
+image: https://iconhelper.cn/svg/brands/aer-lingus.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Deliveroo() ICON转svg、png下载
 name: deliveroo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/deliveroo.svg
 
 ---
 

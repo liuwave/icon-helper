@@ -4,6 +4,7 @@ title: F-Secure() ICON转svg、png下载
 name: f-secure
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/f-secure.svg
 
 ---
 

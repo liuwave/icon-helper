@@ -4,6 +4,7 @@ title: PHP(超文本预处理器) ICON转svg、png下载
 name: php
 zhTips: 超文本预处理器
 search: 
+image: https://iconhelper.cn/svg/brands/php.svg
 
 ---
 

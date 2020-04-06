@@ -4,6 +4,7 @@ title: Alpine Linux(Linux操作系统) ICON转svg、png下载
 name: alpine-linux
 zhTips: Linux操作系统,高山Linux
 search: 
+image: https://iconhelper.cn/svg/brands/alpine-linux.svg
 
 ---
 

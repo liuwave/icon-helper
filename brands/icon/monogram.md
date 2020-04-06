@@ -4,6 +4,7 @@ title: Monogram() ICON转svg、png下载
 name: monogram
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/monogram.svg
 
 ---
 

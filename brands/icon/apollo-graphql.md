@@ -4,6 +4,7 @@ title: Apollo GraphQL() ICON转svg、png下载
 name: apollo-graphql
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/apollo-graphql.svg
 
 ---
 

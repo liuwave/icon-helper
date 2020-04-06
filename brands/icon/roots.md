@@ -4,6 +4,7 @@ title: Roots() ICON转svg、png下载
 name: roots
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/roots.svg
 
 ---
 

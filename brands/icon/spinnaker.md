@@ -4,6 +4,7 @@ title: Spinnaker() ICON转svg、png下载
 name: spinnaker
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/spinnaker.svg
 
 ---
 

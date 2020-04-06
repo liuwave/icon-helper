@@ -4,6 +4,7 @@ title: American Airlines(美国航空) ICON转svg、png下载
 name: american-airlines
 zhTips: 美国航空,美国航空公司
 search: 
+image: https://iconhelper.cn/svg/brands/american-airlines.svg
 
 ---
 

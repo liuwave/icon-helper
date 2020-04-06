@@ -4,6 +4,7 @@ title: Plurk() ICON转svg、png下载
 name: plurk
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/plurk.svg
 
 ---
 

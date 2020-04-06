@@ -4,6 +4,7 @@ title: Big Cartel() ICON转svg、png下载
 name: big-cartel
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/big-cartel.svg
 
 ---
 

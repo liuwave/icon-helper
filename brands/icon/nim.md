@@ -4,6 +4,7 @@ title: Nim() ICON转svg、png下载
 name: nim
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nim.svg
 
 ---
 

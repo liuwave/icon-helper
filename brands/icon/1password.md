@@ -4,6 +4,7 @@ title: 1Password(密码管理) ICON转svg、png下载
 name: 1password
 zhTips: 密码管理,1P
 search: 
+image: https://iconhelper.cn/svg/brands/1password.svg
 
 ---
 

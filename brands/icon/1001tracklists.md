@@ -4,6 +4,7 @@ title: 1001Tracklists(百大制作人) ICON转svg、png下载
 name: 1001tracklists
 zhTips: 百大制作人,一百零一大制作人
 search: 
+image: https://iconhelper.cn/svg/brands/1001tracklists.svg
 
 ---
 

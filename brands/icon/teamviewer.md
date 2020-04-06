@@ -4,6 +4,7 @@ title: TeamViewer() ICON转svg、png下载
 name: teamviewer
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/teamviewer.svg
 
 ---
 

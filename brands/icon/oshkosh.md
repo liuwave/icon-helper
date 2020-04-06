@@ -4,6 +4,7 @@ title: Oshkosh() ICON转svg、png下载
 name: oshkosh
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/oshkosh.svg
 
 ---
 

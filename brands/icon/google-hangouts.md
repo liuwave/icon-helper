@@ -4,6 +4,7 @@ title: Google Hangouts() ICON转svg、png下载
 name: google-hangouts
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-hangouts.svg
 
 ---
 

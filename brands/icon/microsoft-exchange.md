@@ -4,6 +4,7 @@ title: Microsoft Exchange() ICON转svg、png下载
 name: microsoft-exchange
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-exchange.svg
 
 ---
 

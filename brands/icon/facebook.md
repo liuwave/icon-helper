@@ -4,6 +4,7 @@ title: Facebook(facebook官方) ICON转svg、png下载
 name: facebook
 zhTips: Facebook,facebook官方,社交网络
 search: 
+image: https://iconhelper.cn/svg/brands/facebook.svg
 
 ---
 

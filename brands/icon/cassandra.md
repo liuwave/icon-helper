@@ -4,6 +4,7 @@ title: Cassandra() ICON转svg、png下载
 name: cassandra
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cassandra.svg
 
 ---
 

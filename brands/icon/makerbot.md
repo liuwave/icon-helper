@@ -4,6 +4,7 @@ title: MakerBot() ICON转svg、png下载
 name: makerbot
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/makerbot.svg
 
 ---
 

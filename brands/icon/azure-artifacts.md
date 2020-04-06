@@ -4,6 +4,7 @@ title: Azure Artifacts() ICON转svg、png下载
 name: azure-artifacts
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/azure-artifacts.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: LineageOS() ICON转svg、png下载
 name: lineageos
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/lineageos.svg
 
 ---
 

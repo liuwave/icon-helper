@@ -4,6 +4,7 @@ title: smart() ICON转svg、png下载
 name: smart
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/smart.svg
 
 ---
 

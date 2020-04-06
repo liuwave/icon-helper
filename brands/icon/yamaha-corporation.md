@@ -4,6 +4,7 @@ title: Yamaha Corporation() ICON转svg、png下载
 name: yamaha-corporation
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/yamaha-corporation.svg
 
 ---
 

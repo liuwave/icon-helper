@@ -4,6 +4,7 @@ title: Celery() ICON转svg、png下载
 name: celery
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/celery.svg
 
 ---
 

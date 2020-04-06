@@ -4,6 +4,7 @@ title: IBM() ICON转svg、png下载
 name: ibm
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ibm.svg
 
 ---
 

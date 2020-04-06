@@ -4,6 +4,7 @@ title: GOG.com() ICON转svg、png下载
 name: gog-com
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gog-com.svg
 
 ---
 

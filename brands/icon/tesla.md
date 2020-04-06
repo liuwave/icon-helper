@@ -4,6 +4,7 @@ title: Tesla() ICON转svg、png下载
 name: tesla
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/tesla.svg
 
 ---
 

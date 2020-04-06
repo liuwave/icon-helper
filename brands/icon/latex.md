@@ -4,6 +4,7 @@ title: LaTeX() ICON转svg、png下载
 name: latex
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/latex.svg
 
 ---
 

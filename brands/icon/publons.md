@@ -4,6 +4,7 @@ title: Publons() ICON转svg、png下载
 name: publons
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/publons.svg
 
 ---
 

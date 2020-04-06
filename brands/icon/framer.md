@@ -4,6 +4,7 @@ title: Framer() ICON转svg、png下载
 name: framer
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/framer.svg
 
 ---
 

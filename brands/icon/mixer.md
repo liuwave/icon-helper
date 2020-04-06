@@ -4,6 +4,7 @@ title: Mixer() ICON转svg、png下载
 name: mixer
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mixer.svg
 
 ---
 

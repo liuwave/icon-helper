@@ -4,6 +4,7 @@ title: Affinity Photo(图像编辑软件) ICON转svg、png下载
 name: affinity-photo
 zhTips: 图像编辑软件,AP
 search: 
+image: https://iconhelper.cn/svg/brands/affinity-photo.svg
 
 ---
 

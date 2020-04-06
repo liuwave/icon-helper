@@ -4,6 +4,7 @@ title: Material Design() ICON转svg、png下载
 name: material-design
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/material-design.svg
 
 ---
 

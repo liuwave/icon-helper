@@ -4,6 +4,7 @@ title: ORCID() ICON转svg、png下载
 name: orcid
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/orcid.svg
 
 ---
 

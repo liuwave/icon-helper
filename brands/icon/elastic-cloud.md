@@ -4,6 +4,7 @@ title: Elastic Cloud() ICON转svg、png下载
 name: elastic-cloud
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/elastic-cloud.svg
 
 ---
 

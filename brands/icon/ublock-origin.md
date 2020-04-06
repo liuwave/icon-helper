@@ -4,6 +4,7 @@ title: uBlock Origin() ICON转svg、png下载
 name: ublock-origin
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ublock-origin.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Flood() ICON转svg、png下载
 name: flood
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/flood.svg
 
 ---
 

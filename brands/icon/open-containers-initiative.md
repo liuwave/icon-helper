@@ -4,6 +4,7 @@ title: Open Containers Initiative() ICON转svg、png下载
 name: open-containers-initiative
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/open-containers-initiative.svg
 
 ---
 

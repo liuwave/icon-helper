@@ -4,6 +4,7 @@ title: Google Cast() ICON转svg、png下载
 name: google-cast
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-cast.svg
 
 ---
 

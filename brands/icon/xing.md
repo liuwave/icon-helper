@@ -4,6 +4,7 @@ title: Xing(Xing.com) ICON转svg、png下载
 name: xing
 zhTips: Xing.com
 search: 
+image: https://iconhelper.cn/svg/brands/xing.svg
 
 ---
 

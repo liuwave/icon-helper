@@ -4,6 +4,7 @@ title: RStudio() ICON转svg、png下载
 name: rstudio
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/rstudio.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: ŠKODA() ICON转svg、png下载
 name: skoda
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/skoda.svg
 
 ---
 

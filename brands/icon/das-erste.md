@@ -4,6 +4,7 @@ title: Das Erste() ICON转svg、png下载
 name: das-erste
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/das-erste.svg
 
 ---
 

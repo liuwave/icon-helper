@@ -4,6 +4,7 @@ title: SmartThings() ICON转svg、png下载
 name: smartthings
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/smartthings.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Dynamics 365() ICON转svg、png下载
 name: dynamics-365
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dynamics-365.svg
 
 ---
 

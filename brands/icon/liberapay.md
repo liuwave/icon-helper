@@ -4,6 +4,7 @@ title: Liberapay() ICON转svg、png下载
 name: liberapay
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/liberapay.svg
 
 ---
 

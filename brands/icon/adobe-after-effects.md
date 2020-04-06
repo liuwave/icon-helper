@@ -4,6 +4,7 @@ title: Adobe After Effects(视频处理软件) ICON转svg、png下载
 name: adobe-after-effects
 zhTips: AE,视频处理软件
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-after-effects.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Roundcube() ICON转svg、png下载
 name: roundcube
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/roundcube.svg
 
 ---
 

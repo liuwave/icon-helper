@@ -4,6 +4,7 @@ title: Baidu() ICON转svg、png下载
 name: baidu
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/baidu.svg
 
 ---
 

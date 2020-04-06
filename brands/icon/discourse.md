@@ -4,6 +4,7 @@ title: Discourse(话语) ICON转svg、png下载
 name: discourse
 zhTips: 话语,discourse
 search: 
+image: https://iconhelper.cn/svg/brands/discourse.svg
 
 ---
 

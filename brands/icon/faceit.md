@@ -4,6 +4,7 @@ title: FACEIT() ICON转svg、png下载
 name: faceit
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/faceit.svg
 
 ---
 

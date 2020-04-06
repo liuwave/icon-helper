@@ -4,6 +4,7 @@ title: Tailwind CSS() ICON转svg、png下载
 name: tailwind-css
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/tailwind-css.svg
 
 ---
 

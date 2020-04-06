@@ -4,6 +4,7 @@ title: Spectrum() ICON转svg、png下载
 name: spectrum
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/spectrum.svg
 
 ---
 

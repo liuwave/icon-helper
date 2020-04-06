@@ -4,6 +4,7 @@ title: FITE() ICON转svg、png下载
 name: fite
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fite.svg
 
 ---
 

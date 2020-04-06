@@ -4,6 +4,7 @@ title: Polymer Project() ICON转svg、png下载
 name: polymer-project
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/polymer-project.svg
 
 ---
 

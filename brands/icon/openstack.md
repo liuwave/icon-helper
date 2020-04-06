@@ -4,6 +4,7 @@ title: OpenStack() ICON转svg、png下载
 name: openstack
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/openstack.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Affinity Designer(专业图形设计软件) ICON转svg、png下载
 name: affinity-designer
 zhTips: 专业图形设计软件,AD
 search: 
+image: https://iconhelper.cn/svg/brands/affinity-designer.svg
 
 ---
 

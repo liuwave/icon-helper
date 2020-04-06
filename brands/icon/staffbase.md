@@ -4,6 +4,7 @@ title: Staffbase() ICON转svg、png下载
 name: staffbase
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/staffbase.svg
 
 ---
 

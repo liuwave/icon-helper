@@ -4,6 +4,7 @@ title: Zeit(开源团队) ICON转svg、png下载
 name: zeit
 zhTips: 开源团队
 search: 
+image: https://iconhelper.cn/svg/brands/zeit.svg
 
 ---
 

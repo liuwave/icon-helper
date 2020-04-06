@@ -4,6 +4,7 @@ title: Bing() ICON转svg、png下载
 name: bing
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bing.svg
 
 ---
 

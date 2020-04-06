@@ -4,6 +4,7 @@ title: HappyCow() ICON转svg、png下载
 name: happycow
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/happycow.svg
 
 ---
 

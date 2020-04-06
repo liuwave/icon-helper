@@ -4,6 +4,7 @@ title: Flask(烧瓶) ICON转svg、png下载
 name: flask
 zhTips: 烧瓶,烧杯,实验,实验室,科学,长颈瓶,细颈瓶,酒瓶
 search: 
+image: https://iconhelper.cn/svg/brands/flask.svg
 
 ---
 

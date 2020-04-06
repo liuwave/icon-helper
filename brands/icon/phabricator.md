@@ -4,6 +4,7 @@ title: Phabricator(炸药) ICON转svg、png下载
 name: phabricator
 zhTips: 炸药,phabricator
 search: 
+image: https://iconhelper.cn/svg/brands/phabricator.svg
 
 ---
 

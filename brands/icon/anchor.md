@@ -4,6 +4,7 @@ title: Anchor(锚点) ICON转svg、png下载
 name: anchor
 zhTips: 锚点,泊位,船,码头,嵌入式,链接,海事,系泊,安全,船锚,锚,驻扎,停船
 search: 
+image: https://iconhelper.cn/svg/brands/anchor.svg
 
 ---
 

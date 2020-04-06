@@ -4,6 +4,7 @@ title: Jupyter() ICON转svg、png下载
 name: jupyter
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jupyter.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: ChartMogul() ICON转svg、png下载
 name: chartmogul
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/chartmogul.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Google Cloud() ICON转svg、png下载
 name: google-cloud
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-cloud.svg
 
 ---
 

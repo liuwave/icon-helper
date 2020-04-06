@@ -4,6 +4,7 @@ title: Tapas() ICON转svg、png下载
 name: tapas
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/tapas.svg
 
 ---
 

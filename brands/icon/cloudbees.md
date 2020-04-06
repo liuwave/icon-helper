@@ -4,6 +4,7 @@ title: CloudBees() ICON转svg、png下载
 name: cloudbees
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cloudbees.svg
 
 ---
 

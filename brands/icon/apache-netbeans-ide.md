@@ -4,6 +4,7 @@ title: Apache NetBeans IDE() ICON转svg、png下载
 name: apache-netbeans-ide
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/apache-netbeans-ide.svg
 
 ---
 

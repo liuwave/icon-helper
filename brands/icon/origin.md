@@ -4,6 +4,7 @@ title: Origin() ICON转svg、png下载
 name: origin
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/origin.svg
 
 ---
 

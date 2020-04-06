@@ -4,6 +4,7 @@ title: Moo() ICON转svg、png下载
 name: moo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/moo.svg
 
 ---
 

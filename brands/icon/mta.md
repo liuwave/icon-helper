@@ -4,6 +4,7 @@ title: MTA() ICON转svg、png下载
 name: mta
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mta.svg
 
 ---
 

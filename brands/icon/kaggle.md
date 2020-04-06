@@ -4,6 +4,7 @@ title: Kaggle() ICON转svg、png下载
 name: kaggle
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/kaggle.svg
 
 ---
 

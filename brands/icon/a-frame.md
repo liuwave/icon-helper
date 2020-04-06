@@ -4,6 +4,7 @@ title: A-Frame(虚拟现实) ICON转svg、png下载
 name: a-frame
 zhTips: 虚拟现实,网页开发框架
 search: VR
+image: https://iconhelper.cn/svg/brands/a-frame.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Elastic Stack() ICON转svg、png下载
 name: elastic-stack
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/elastic-stack.svg
 
 ---
 

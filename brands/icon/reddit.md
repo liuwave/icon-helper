@@ -4,6 +4,7 @@ title: Reddit(reddit徽标) ICON转svg、png下载
 name: reddit
 zhTips: reddit徽标,reddit
 search: 
+image: https://iconhelper.cn/svg/brands/reddit.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: LibreOffice() ICON转svg、png下载
 name: libreoffice
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/libreoffice.svg
 
 ---
 

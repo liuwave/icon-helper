@@ -4,6 +4,7 @@ title: LabVIEW() ICON转svg、png下载
 name: labview
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/labview.svg
 
 ---
 

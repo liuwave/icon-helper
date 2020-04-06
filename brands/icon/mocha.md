@@ -4,6 +4,7 @@ title: Mocha() ICON转svg、png下载
 name: mocha
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mocha.svg
 
 ---
 

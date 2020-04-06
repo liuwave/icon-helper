@@ -4,6 +4,7 @@ title: Android Auto() ICON转svg、png下载
 name: android-auto
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/android-auto.svg
 
 ---
 

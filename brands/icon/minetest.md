@@ -4,6 +4,7 @@ title: Minetest() ICON转svg、png下载
 name: minetest
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/minetest.svg
 
 ---
 

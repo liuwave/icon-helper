@@ -4,6 +4,7 @@ title: Semantic Web() ICON转svg、png下载
 name: semantic-web
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/semantic-web.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Scaleway() ICON转svg、png下载
 name: scaleway
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/scaleway.svg
 
 ---
 

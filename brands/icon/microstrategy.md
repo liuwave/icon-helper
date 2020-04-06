@@ -4,6 +4,7 @@ title: MicroStrategy() ICON转svg、png下载
 name: microstrategy
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microstrategy.svg
 
 ---
 

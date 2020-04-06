@@ -4,6 +4,7 @@ title: JET() ICON转svg、png下载
 name: jet
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jet.svg
 
 ---
 

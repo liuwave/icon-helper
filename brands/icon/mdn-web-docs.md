@@ -4,6 +4,7 @@ title: MDN Web Docs() ICON转svg、png下载
 name: mdn-web-docs
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mdn-web-docs.svg
 
 ---
 

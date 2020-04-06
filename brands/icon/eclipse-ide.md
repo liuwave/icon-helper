@@ -4,6 +4,7 @@ title: Eclipse IDE() ICON转svg、png下载
 name: eclipse-ide
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/eclipse-ide.svg
 
 ---
 

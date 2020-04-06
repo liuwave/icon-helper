@@ -4,6 +4,7 @@ title: CoffeeScript() ICON转svg、png下载
 name: coffeescript
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/coffeescript.svg
 
 ---
 

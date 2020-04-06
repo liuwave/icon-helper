@@ -4,6 +4,7 @@ title: Plex() ICON转svg、png下载
 name: plex
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/plex.svg
 
 ---
 

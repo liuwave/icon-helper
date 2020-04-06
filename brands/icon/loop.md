@@ -4,6 +4,7 @@ title: Loop() ICON转svg、png下载
 name: loop
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/loop.svg
 
 ---
 

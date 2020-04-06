@@ -4,6 +4,7 @@ title: LINE WEBTOON() ICON转svg、png下载
 name: line-webtoon
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/line-webtoon.svg
 
 ---
 

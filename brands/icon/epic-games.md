@@ -4,6 +4,7 @@ title: Epic Games() ICON转svg、png下载
 name: epic-games
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/epic-games.svg
 
 ---
 

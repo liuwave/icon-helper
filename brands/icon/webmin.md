@@ -4,6 +4,7 @@ title: Webmin() ICON转svg、png下载
 name: webmin
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/webmin.svg
 
 ---
 

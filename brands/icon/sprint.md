@@ -4,6 +4,7 @@ title: Sprint() ICON转svg、png下载
 name: sprint
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sprint.svg
 
 ---
 

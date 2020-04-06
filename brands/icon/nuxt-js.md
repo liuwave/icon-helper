@@ -4,6 +4,7 @@ title: Nuxt.js() ICON转svg、png下载
 name: nuxt-js
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nuxt-js.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Buy Me A Coffee() ICON转svg、png下载
 name: buy-me-a-coffee
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/buy-me-a-coffee.svg
 
 ---
 

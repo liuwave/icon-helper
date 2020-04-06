@@ -4,6 +4,7 @@ title: Synology() ICON转svg、png下载
 name: synology
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/synology.svg
 
 ---
 

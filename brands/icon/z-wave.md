@@ -4,6 +4,7 @@ title: Z-Wave(无线连接管理系统) ICON转svg、png下载
 name: z-wave
 zhTips: 无线连接管理系统,智能家居,Z-wave联盟
 search: 
+image: https://iconhelper.cn/svg/brands/z-wave.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Microsoft(微软) ICON转svg、png下载
 name: microsoft
 zhTips: 微软
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft.svg
 
 ---
 

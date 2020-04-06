@@ -4,6 +4,7 @@ title: Scania() ICON转svg、png下载
 name: scania
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/scania.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Delicious(美味) ICON转svg、png下载
 name: delicious
 zhTips: 美味,delicious
 search: 
+image: https://iconhelper.cn/svg/brands/delicious.svg
 
 ---
 

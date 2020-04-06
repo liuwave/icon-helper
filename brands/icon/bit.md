@@ -4,6 +4,7 @@ title: Bit() ICON转svg、png下载
 name: bit
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bit.svg
 
 ---
 

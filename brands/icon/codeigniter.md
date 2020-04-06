@@ -4,6 +4,7 @@ title: CodeIgniter() ICON转svg、png下载
 name: codeigniter
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/codeigniter.svg
 
 ---
 

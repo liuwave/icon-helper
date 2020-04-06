@@ -4,6 +4,7 @@ title: NativeScript() ICON转svg、png下载
 name: nativescript
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nativescript.svg
 
 ---
 

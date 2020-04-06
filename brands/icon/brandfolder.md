@@ -4,6 +4,7 @@ title: Brandfolder() ICON转svg、png下载
 name: brandfolder
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/brandfolder.svg
 
 ---
 

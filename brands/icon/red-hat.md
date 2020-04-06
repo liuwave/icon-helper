@@ -4,6 +4,7 @@ title: Red Hat() ICON转svg、png下载
 name: red-hat
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/red-hat.svg
 
 ---
 

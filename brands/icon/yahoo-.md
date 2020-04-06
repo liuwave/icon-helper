@@ -4,6 +4,7 @@ title: Yahoo!() ICON转svg、png下载
 name: yahoo-
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/yahoo-.svg
 
 ---
 

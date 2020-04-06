@@ -4,6 +4,7 @@ title: strongSwan() ICON转svg、png下载
 name: strongswan
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/strongswan.svg
 
 ---
 

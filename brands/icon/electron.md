@@ -4,6 +4,7 @@ title: Electron() ICON转svg、png下载
 name: electron
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/electron.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: JustGiving() ICON转svg、png下载
 name: justgiving
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/justgiving.svg
 
 ---
 

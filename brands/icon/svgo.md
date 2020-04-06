@@ -4,6 +4,7 @@ title: SVGO() ICON转svg、png下载
 name: svgo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/svgo.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Fossa() ICON转svg、png下载
 name: fossa
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fossa.svg
 
 ---
 

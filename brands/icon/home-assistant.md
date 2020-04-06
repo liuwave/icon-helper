@@ -4,6 +4,7 @@ title: Home Assistant() ICON转svg、png下载
 name: home-assistant
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/home-assistant.svg
 
 ---
 

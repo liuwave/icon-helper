@@ -4,6 +4,7 @@ title: Mozilla Firefox() ICON转svg、png下载
 name: mozilla-firefox
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mozilla-firefox.svg
 
 ---
 

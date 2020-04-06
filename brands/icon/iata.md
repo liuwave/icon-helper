@@ -4,6 +4,7 @@ title: Iata() ICON转svg、png下载
 name: iata
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/iata.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Samsung Pay() ICON转svg、png下载
 name: samsung-pay
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/samsung-pay.svg
 
 ---
 

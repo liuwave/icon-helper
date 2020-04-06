@@ -4,6 +4,7 @@ title: homify() ICON转svg、png下载
 name: homify
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/homify.svg
 
 ---
 

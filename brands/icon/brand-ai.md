@@ -4,6 +4,7 @@ title: Brand.ai() ICON转svg、png下载
 name: brand-ai
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/brand-ai.svg
 
 ---
 

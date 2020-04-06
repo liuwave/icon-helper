@@ -4,6 +4,7 @@ title: iDEAL() ICON转svg、png下载
 name: ideal
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ideal.svg
 
 ---
 

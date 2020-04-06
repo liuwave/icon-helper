@@ -4,6 +4,7 @@ title: Quora(问答) ICON转svg、png下载
 name: quora
 zhTips: Quora,问答,Q,问题
 search: 
+image: https://iconhelper.cn/svg/brands/quora.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Plesk() ICON转svg、png下载
 name: plesk
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/plesk.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Ko-fi() ICON转svg、png下载
 name: ko-fi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ko-fi.svg
 
 ---
 

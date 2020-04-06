@@ -4,6 +4,7 @@ title: Codacy() ICON转svg、png下载
 name: codacy
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/codacy.svg
 
 ---
 

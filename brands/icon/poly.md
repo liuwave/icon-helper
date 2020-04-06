@@ -4,6 +4,7 @@ title: Poly() ICON转svg、png下载
 name: poly
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/poly.svg
 
 ---
 

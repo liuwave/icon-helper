@@ -4,6 +4,7 @@ title: Git(Git) ICON转svg、png下载
 name: git
 zhTips: Git
 search: 
+image: https://iconhelper.cn/svg/brands/git.svg
 
 ---
 

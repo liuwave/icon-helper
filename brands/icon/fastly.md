@@ -4,6 +4,7 @@ title: Fastly() ICON转svg、png下载
 name: fastly
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fastly.svg
 
 ---
 

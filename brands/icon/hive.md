@@ -4,6 +4,7 @@ title: Hive() ICON转svg、png下载
 name: hive
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hive.svg
 
 ---
 

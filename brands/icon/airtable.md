@@ -4,6 +4,7 @@ title: Airtable(在线表格应用) ICON转svg、png下载
 name: airtable
 zhTips: 在线表格应用
 search: 
+image: https://iconhelper.cn/svg/brands/airtable.svg
 
 ---
 

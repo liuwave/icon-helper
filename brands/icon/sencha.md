@@ -4,6 +4,7 @@ title: Sencha() ICON转svg、png下载
 name: sencha
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sencha.svg
 
 ---
 

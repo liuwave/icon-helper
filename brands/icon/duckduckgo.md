@@ -4,6 +4,7 @@ title: DuckDuckGo() ICON转svg、png下载
 name: duckduckgo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/duckduckgo.svg
 
 ---
 

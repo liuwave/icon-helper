@@ -4,6 +4,7 @@ title: NGINX() ICON转svg、png下载
 name: nginx
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nginx.svg
 
 ---
 

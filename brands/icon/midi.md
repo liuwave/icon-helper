@@ -4,6 +4,7 @@ title: MIDI() ICON转svg、png下载
 name: midi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/midi.svg
 
 ---
 

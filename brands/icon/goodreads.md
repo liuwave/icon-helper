@@ -4,6 +4,7 @@ title: Goodreads() ICON转svg、png下载
 name: goodreads
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/goodreads.svg
 
 ---
 

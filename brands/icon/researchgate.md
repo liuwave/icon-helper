@@ -4,6 +4,7 @@ title: ResearchGate() ICON转svg、png下载
 name: researchgate
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/researchgate.svg
 
 ---
 

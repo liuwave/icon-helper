@@ -4,6 +4,7 @@ title: Warner Bros.() ICON转svg、png下载
 name: warner-bros-dot
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/warner-bros-dot.svg
 
 ---
 

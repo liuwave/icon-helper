@@ -4,6 +4,7 @@ title: Houzz(胡兹) ICON转svg、png下载
 name: houzz
 zhTips: 胡兹,室内设计
 search: 
+image: https://iconhelper.cn/svg/brands/houzz.svg
 
 ---
 

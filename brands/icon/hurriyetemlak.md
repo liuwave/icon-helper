@@ -4,6 +4,7 @@ title: Hurriyetemlak() ICON转svg、png下载
 name: hurriyetemlak
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hurriyetemlak.svg
 
 ---
 

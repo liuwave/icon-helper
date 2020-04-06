@@ -4,6 +4,7 @@ title: Yelp(尖叫) ICON转svg、png下载
 name: yelp
 zhTips: 尖叫
 search: 
+image: https://iconhelper.cn/svg/brands/yelp.svg
 
 ---
 

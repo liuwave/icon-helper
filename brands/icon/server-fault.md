@@ -4,6 +4,7 @@ title: Server Fault() ICON转svg、png下载
 name: server-fault
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/server-fault.svg
 
 ---
 

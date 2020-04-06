@@ -4,6 +4,7 @@ title: StackShare() ICON转svg、png下载
 name: stackshare
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/stackshare.svg
 
 ---
 

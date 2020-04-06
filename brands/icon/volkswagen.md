@@ -4,6 +4,7 @@ title: Volkswagen() ICON转svg、png下载
 name: volkswagen
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/volkswagen.svg
 
 ---
 

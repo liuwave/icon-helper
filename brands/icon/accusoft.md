@@ -4,6 +4,7 @@ title: Accusoft(飞马公司) ICON转svg、png下载
 name: accusoft
 zhTips: 飞马公司,数字图像,压缩技术,飞马成像
 search: 
+image: https://iconhelper.cn/svg/brands/accusoft.svg
 
 ---
 

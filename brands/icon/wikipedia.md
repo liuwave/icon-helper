@@ -4,6 +4,7 @@ title: Wikipedia() ICON转svg、png下载
 name: wikipedia
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wikipedia.svg
 
 ---
 

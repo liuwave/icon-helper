@@ -4,6 +4,7 @@ title: Ubuntu() ICON转svg、png下载
 name: ubuntu
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ubuntu.svg
 
 ---
 

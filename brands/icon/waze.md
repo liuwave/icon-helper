@@ -4,6 +4,7 @@ title: Waze() ICON转svg、png下载
 name: waze
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/waze.svg
 
 ---
 

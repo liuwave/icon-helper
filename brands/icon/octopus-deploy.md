@@ -4,6 +4,7 @@ title: Octopus Deploy() ICON转svg、png下载
 name: octopus-deploy
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/octopus-deploy.svg
 
 ---
 

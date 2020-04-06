@@ -4,6 +4,7 @@ title: Beats by Dre() ICON转svg、png下载
 name: beats-by-dre
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/beats-by-dre.svg
 
 ---
 

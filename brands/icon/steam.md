@@ -4,6 +4,7 @@ title: Steam(蒸汽) ICON转svg、png下载
 name: steam
 zhTips: 蒸汽,steam
 search: 
+image: https://iconhelper.cn/svg/brands/steam.svg
 
 ---
 

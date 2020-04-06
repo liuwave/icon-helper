@@ -4,6 +4,7 @@ title: Roku() ICON转svg、png下载
 name: roku
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/roku.svg
 
 ---
 

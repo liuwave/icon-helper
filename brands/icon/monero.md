@@ -4,6 +4,7 @@ title: Monero(门罗币) ICON转svg、png下载
 name: monero
 zhTips: 门罗币
 search: 
+image: https://iconhelper.cn/svg/brands/monero.svg
 
 ---
 

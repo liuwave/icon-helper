@@ -4,6 +4,7 @@ title: Directus() ICON转svg、png下载
 name: directus
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/directus.svg
 
 ---
 

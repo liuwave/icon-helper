@@ -4,6 +4,7 @@ title: Vuetify() ICON转svg、png下载
 name: vuetify
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vuetify.svg
 
 ---
 

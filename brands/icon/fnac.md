@@ -4,6 +4,7 @@ title: Fnac() ICON转svg、png下载
 name: fnac
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fnac.svg
 
 ---
 

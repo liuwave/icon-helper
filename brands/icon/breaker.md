@@ -4,6 +4,7 @@ title: Breaker() ICON转svg、png下载
 name: breaker
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/breaker.svg
 
 ---
 

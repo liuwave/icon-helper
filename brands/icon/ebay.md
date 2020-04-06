@@ -4,6 +4,7 @@ title: eBay(易趣) ICON转svg、png下载
 name: ebay
 zhTips: eBay,易趣
 search: 
+image: https://iconhelper.cn/svg/brands/ebay.svg
 
 ---
 

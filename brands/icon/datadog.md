@@ -4,6 +4,7 @@ title: Datadog() ICON转svg、png下载
 name: datadog
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/datadog.svg
 
 ---
 

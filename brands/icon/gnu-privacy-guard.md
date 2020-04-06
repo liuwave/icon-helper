@@ -4,6 +4,7 @@ title: GNU Privacy Guard() ICON转svg、png下载
 name: gnu-privacy-guard
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gnu-privacy-guard.svg
 
 ---
 

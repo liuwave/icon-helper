@@ -4,6 +4,7 @@ title: Stackbit() ICON转svg、png下载
 name: stackbit
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/stackbit.svg
 
 ---
 

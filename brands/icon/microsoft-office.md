@@ -4,6 +4,7 @@ title: Microsoft Office() ICON转svg、png下载
 name: microsoft-office
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-office.svg
 
 ---
 

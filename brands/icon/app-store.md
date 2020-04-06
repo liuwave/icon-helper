@@ -4,6 +4,7 @@ title: App Store() ICON转svg、png下载
 name: app-store
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/app-store.svg
 
 ---
 

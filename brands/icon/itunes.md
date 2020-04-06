@@ -4,6 +4,7 @@ title: iTunes(爱思) ICON转svg、png下载
 name: itunes
 zhTips: iTunes,爱思
 search: 
+image: https://iconhelper.cn/svg/brands/itunes.svg
 
 ---
 

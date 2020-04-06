@@ -4,6 +4,7 @@ title: Qwiklabs() ICON转svg、png下载
 name: qwiklabs
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/qwiklabs.svg
 
 ---
 

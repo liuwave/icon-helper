@@ -4,6 +4,7 @@ title: Jenkins X() ICON转svg、png下载
 name: jenkins-x
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jenkins-x.svg
 
 ---
 

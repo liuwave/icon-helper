@@ -4,6 +4,7 @@ title: Atlassian() ICON转svg、png下载
 name: atlassian
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/atlassian.svg
 
 ---
 

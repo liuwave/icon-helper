@@ -4,6 +4,7 @@ title: Audi() ICON转svg、png下载
 name: audi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/audi.svg
 
 ---
 

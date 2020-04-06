@@ -4,6 +4,7 @@ title: Riseup() ICON转svg、png下载
 name: riseup
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/riseup.svg
 
 ---
 

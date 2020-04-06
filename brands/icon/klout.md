@@ -4,6 +4,7 @@ title: Klout() ICON转svg、png下载
 name: klout
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/klout.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Runkeeper() ICON转svg、png下载
 name: runkeeper
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/runkeeper.svg
 
 ---
 

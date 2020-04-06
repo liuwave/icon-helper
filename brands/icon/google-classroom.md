@@ -4,6 +4,7 @@ title: Google Classroom() ICON转svg、png下载
 name: google-classroom
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-classroom.svg
 
 ---
 

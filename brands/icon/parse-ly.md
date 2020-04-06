@@ -4,6 +4,7 @@ title: Parse.ly() ICON转svg、png下载
 name: parse-ly
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/parse-ly.svg
 
 ---
 

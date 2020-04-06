@@ -4,6 +4,7 @@ title: Microsoft PowerPoint() ICON转svg、png下载
 name: microsoft-powerpoint
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-powerpoint.svg
 
 ---
 

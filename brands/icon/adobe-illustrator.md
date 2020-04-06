@@ -4,6 +4,7 @@ title: Adobe Illustrator(图像软件) ICON转svg、png下载
 name: adobe-illustrator
 zhTips: AI,图像软件
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-illustrator.svg
 
 ---
 

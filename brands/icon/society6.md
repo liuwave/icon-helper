@@ -4,6 +4,7 @@ title: Society6() ICON转svg、png下载
 name: society6
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/society6.svg
 
 ---
 

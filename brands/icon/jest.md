@@ -4,6 +4,7 @@ title: Jest() ICON转svg、png下载
 name: jest
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jest.svg
 
 ---
 

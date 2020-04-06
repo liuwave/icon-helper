@@ -4,6 +4,7 @@ title: Sina Weibo() ICON转svg、png下载
 name: sina-weibo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sina-weibo.svg
 
 ---
 

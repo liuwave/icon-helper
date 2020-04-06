@@ -4,6 +4,7 @@ title: Jinja() ICON转svg、png下载
 name: jinja
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jinja.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Vagrant() ICON转svg、png下载
 name: vagrant
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vagrant.svg
 
 ---
 

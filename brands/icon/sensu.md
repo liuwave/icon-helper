@@ -4,6 +4,7 @@ title: Sensu() ICON转svg、png下载
 name: sensu
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sensu.svg
 
 ---
 

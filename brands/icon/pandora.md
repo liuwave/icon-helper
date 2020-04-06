@@ -4,6 +4,7 @@ title: Pandora() ICON转svg、png下载
 name: pandora
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pandora.svg
 
 ---
 

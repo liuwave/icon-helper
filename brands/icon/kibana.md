@@ -4,6 +4,7 @@ title: Kibana() ICON转svg、png下载
 name: kibana
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/kibana.svg
 
 ---
 

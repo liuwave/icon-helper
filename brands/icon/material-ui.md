@@ -4,6 +4,7 @@ title: Material-UI() ICON转svg、png下载
 name: material-ui
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/material-ui.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: C++() ICON转svg、png下载
 name: cplusplus
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cplusplus.svg
 
 ---
 

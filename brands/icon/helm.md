@@ -4,6 +4,7 @@ title: Helm() ICON转svg、png下载
 name: helm
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/helm.svg
 
 ---
 

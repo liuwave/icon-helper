@@ -4,6 +4,7 @@ title: Codeforces() ICON转svg、png下载
 name: codeforces
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/codeforces.svg
 
 ---
 

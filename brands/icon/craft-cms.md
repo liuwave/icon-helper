@@ -4,6 +4,7 @@ title: Craft CMS() ICON转svg、png下载
 name: craft-cms
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/craft-cms.svg
 
 ---
 

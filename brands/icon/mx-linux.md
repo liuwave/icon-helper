@@ -4,6 +4,7 @@ title: MX Linux() ICON转svg、png下载
 name: mx-linux
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mx-linux.svg
 
 ---
 

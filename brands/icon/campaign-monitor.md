@@ -4,6 +4,7 @@ title: Campaign Monitor() ICON转svg、png下载
 name: campaign-monitor
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/campaign-monitor.svg
 
 ---
 

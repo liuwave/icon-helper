@@ -4,6 +4,7 @@ title: ZDF(德国电视二台) ICON转svg、png下载
 name: zdf
 zhTips: 德国电视二台,公共电视台
 search: Zweites Deutsches Fernsehen
+image: https://iconhelper.cn/svg/brands/zdf.svg
 
 ---
 

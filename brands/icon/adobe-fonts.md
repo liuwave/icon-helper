@@ -4,6 +4,7 @@ title: Adobe Fonts(Adobe字体) ICON转svg、png下载
 name: adobe-fonts
 zhTips: Adobe字体,字体服务
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-fonts.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Toshiba() ICON转svg、png下载
 name: toshiba
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/toshiba.svg
 
 ---
 

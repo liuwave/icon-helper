@@ -4,6 +4,7 @@ title: CiviCRM() ICON转svg、png下载
 name: civicrm
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/civicrm.svg
 
 ---
 

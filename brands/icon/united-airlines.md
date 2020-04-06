@@ -4,6 +4,7 @@ title: United Airlines() ICON转svg、png下载
 name: united-airlines
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/united-airlines.svg
 
 ---
 

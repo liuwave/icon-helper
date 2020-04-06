@@ -4,6 +4,7 @@ title: Travis CI() ICON转svg、png下载
 name: travis-ci
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/travis-ci.svg
 
 ---
 

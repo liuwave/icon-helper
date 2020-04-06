@@ -4,6 +4,7 @@ title: figshare() ICON转svg、png下载
 name: figshare
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/figshare.svg
 
 ---
 

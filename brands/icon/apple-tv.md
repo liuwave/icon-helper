@@ -4,6 +4,7 @@ title: Apple TV() ICON转svg、png下载
 name: apple-tv
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/apple-tv.svg
 
 ---
 

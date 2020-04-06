@@ -4,6 +4,7 @@ title: PowerShell() ICON转svg、png下载
 name: powershell
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/powershell.svg
 
 ---
 

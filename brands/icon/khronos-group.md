@@ -4,6 +4,7 @@ title: Khronos Group() ICON转svg、png下载
 name: khronos-group
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/khronos-group.svg
 
 ---
 

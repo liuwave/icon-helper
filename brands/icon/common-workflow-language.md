@@ -4,6 +4,7 @@ title: Common Workflow Language() ICON转svg、png下载
 name: common-workflow-language
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/common-workflow-language.svg
 
 ---
 

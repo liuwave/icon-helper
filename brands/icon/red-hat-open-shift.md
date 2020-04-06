@@ -4,6 +4,7 @@ title: Red Hat Open Shift() ICON转svg、png下载
 name: red-hat-open-shift
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/red-hat-open-shift.svg
 
 ---
 

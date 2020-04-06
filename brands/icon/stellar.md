@@ -4,6 +4,7 @@ title: Stellar() ICON转svg、png下载
 name: stellar
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/stellar.svg
 
 ---
 

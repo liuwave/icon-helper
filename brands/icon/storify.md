@@ -4,6 +4,7 @@ title: Storify() ICON转svg、png下载
 name: storify
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/storify.svg
 
 ---
 

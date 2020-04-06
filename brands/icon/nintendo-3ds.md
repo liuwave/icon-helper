@@ -4,6 +4,7 @@ title: Nintendo 3DS() ICON转svg、png下载
 name: nintendo-3ds
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nintendo-3ds.svg
 
 ---
 

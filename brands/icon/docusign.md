@@ -4,6 +4,7 @@ title: DocuSign() ICON转svg、png下载
 name: docusign
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/docusign.svg
 
 ---
 

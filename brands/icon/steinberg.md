@@ -4,6 +4,7 @@ title: Steinberg() ICON转svg、png下载
 name: steinberg
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/steinberg.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Academia(academia.edu) ICON转svg、png下载
 name: academia
 zhTips: academia.edu,学术,论文
 search: 
+image: https://iconhelper.cn/svg/brands/academia.svg
 
 ---
 

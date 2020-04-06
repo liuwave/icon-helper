@@ -4,6 +4,7 @@ title: Storybook() ICON转svg、png下载
 name: storybook
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/storybook.svg
 
 ---
 

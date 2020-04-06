@@ -4,6 +4,7 @@ title: Hypothesis() ICON转svg、png下载
 name: hypothesis
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hypothesis.svg
 
 ---
 

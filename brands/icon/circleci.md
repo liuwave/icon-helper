@@ -4,6 +4,7 @@ title: CircleCI() ICON转svg、png下载
 name: circleci
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/circleci.svg
 
 ---
 

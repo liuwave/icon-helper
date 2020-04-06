@@ -4,6 +4,7 @@ title: Micro.blog() ICON转svg、png下载
 name: micro-blog
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/micro-blog.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Humble Bundle() ICON转svg、png下载
 name: humble-bundle
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/humble-bundle.svg
 
 ---
 

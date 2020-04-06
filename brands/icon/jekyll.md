@@ -4,6 +4,7 @@ title: Jekyll() ICON转svg、png下载
 name: jekyll
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jekyll.svg
 
 ---
 

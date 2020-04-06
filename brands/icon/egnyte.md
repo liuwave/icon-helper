@@ -4,6 +4,7 @@ title: Egnyte() ICON转svg、png下载
 name: egnyte
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/egnyte.svg
 
 ---
 

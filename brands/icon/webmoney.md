@@ -4,6 +4,7 @@ title: WebMoney() ICON转svg、png下载
 name: webmoney
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/webmoney.svg
 
 ---
 

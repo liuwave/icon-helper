@@ -4,6 +4,7 @@ title: Mitsubishi() ICON转svg、png下载
 name: mitsubishi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mitsubishi.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Suzuki() ICON转svg、png下载
 name: suzuki
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/suzuki.svg
 
 ---
 

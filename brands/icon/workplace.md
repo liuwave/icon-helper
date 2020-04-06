@@ -4,6 +4,7 @@ title: Workplace() ICON转svg、png下载
 name: workplace
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/workplace.svg
 
 ---
 

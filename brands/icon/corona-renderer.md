@@ -4,6 +4,7 @@ title: Corona Renderer() ICON转svg、png下载
 name: corona-renderer
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/corona-renderer.svg
 
 ---
 

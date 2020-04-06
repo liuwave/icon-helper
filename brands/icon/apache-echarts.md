@@ -4,6 +4,7 @@ title: Apache ECharts() ICON转svg、png下载
 name: apache-echarts
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/apache-echarts.svg
 
 ---
 

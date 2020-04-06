@@ -4,6 +4,7 @@ title: XDA Developers() ICON转svg、png下载
 name: xda-developers
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/xda-developers.svg
 
 ---
 

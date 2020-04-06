@@ -4,6 +4,7 @@ title: Cinema 4D() ICON转svg、png下载
 name: cinema-4d
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cinema-4d.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: NixOS() ICON转svg、png下载
 name: nixos
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nixos.svg
 
 ---
 

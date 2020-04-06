@@ -4,6 +4,7 @@ title: Joomla(Joomla徽标) ICON转svg、png下载
 name: joomla
 zhTips: Joomla徽标,joomla
 search: 
+image: https://iconhelper.cn/svg/brands/joomla.svg
 
 ---
 

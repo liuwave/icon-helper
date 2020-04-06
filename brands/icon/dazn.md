@@ -4,6 +4,7 @@ title: DAZN() ICON转svg、png下载
 name: dazn
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dazn.svg
 
 ---
 

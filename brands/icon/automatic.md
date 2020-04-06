@@ -4,6 +4,7 @@ title: Automatic() ICON转svg、png下载
 name: automatic
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/automatic.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: SPDX() ICON转svg、png下载
 name: spdx
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/spdx.svg
 
 ---
 

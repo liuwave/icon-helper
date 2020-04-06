@@ -4,6 +4,7 @@ title: Qgis() ICON转svg、png下载
 name: qgis
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/qgis.svg
 
 ---
 

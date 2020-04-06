@@ -4,6 +4,7 @@ title: T-Mobile() ICON转svg、png下载
 name: t-mobile
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/t-mobile.svg
 
 ---
 

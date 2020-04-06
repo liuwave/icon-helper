@@ -4,6 +4,7 @@ title: New York Times() ICON转svg、png下载
 name: new-york-times
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/new-york-times.svg
 
 ---
 

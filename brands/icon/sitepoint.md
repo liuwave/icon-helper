@@ -4,6 +4,7 @@ title: SitePoint() ICON转svg、png下载
 name: sitepoint
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sitepoint.svg
 
 ---
 

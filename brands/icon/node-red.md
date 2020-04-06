@@ -4,6 +4,7 @@ title: Node-RED() ICON转svg、png下载
 name: node-red
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/node-red.svg
 
 ---
 

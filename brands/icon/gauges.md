@@ -4,6 +4,7 @@ title: Gauges() ICON转svg、png下载
 name: gauges
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gauges.svg
 
 ---
 

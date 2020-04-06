@@ -4,6 +4,7 @@ title: ABB RobotStudio(ABB模拟与离线编程软件) ICON转svg、png下载
 name: abb-robotstudio
 zhTips: ABB模拟与离线编程软件,ABB机器人仿真软件
 search: 
+image: https://iconhelper.cn/svg/brands/abb-robotstudio.svg
 
 ---
 

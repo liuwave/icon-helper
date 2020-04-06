@@ -4,6 +4,7 @@ title: NVIDIA() ICON转svg、png下载
 name: nvidia
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/nvidia.svg
 
 ---
 

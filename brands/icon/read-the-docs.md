@@ -4,6 +4,7 @@ title: Read the Docs() ICON转svg、png下载
 name: read-the-docs
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/read-the-docs.svg
 
 ---
 

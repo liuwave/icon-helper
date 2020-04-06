@@ -4,6 +4,7 @@ title: AngelList(胜利) ICON转svg、png下载
 name: angellist
 zhTips: AngelList,胜利
 search: 
+image: https://iconhelper.cn/svg/brands/angellist.svg
 
 ---
 

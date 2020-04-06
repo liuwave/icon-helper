@@ -4,6 +4,7 @@ title: AlloCiné(阿洛) ICON转svg、png下载
 name: allocine
 zhTips: 阿洛
 search: 
+image: https://iconhelper.cn/svg/brands/allocine.svg
 
 ---
 

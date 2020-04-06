@@ -4,6 +4,7 @@ title: Teespring() ICON转svg、png下载
 name: teespring
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/teespring.svg
 
 ---
 

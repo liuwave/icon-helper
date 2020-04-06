@@ -4,6 +4,7 @@ title: Slides() ICON转svg、png下载
 name: slides
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/slides.svg
 
 ---
 

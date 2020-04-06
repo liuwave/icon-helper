@@ -4,6 +4,7 @@ title: Freelancer() ICON转svg、png下载
 name: freelancer
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/freelancer.svg
 
 ---
 

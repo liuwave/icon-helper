@@ -4,6 +4,7 @@ title: Microsoft SQL Server() ICON转svg、png下载
 name: microsoft-sql-server
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-sql-server.svg
 
 ---
 

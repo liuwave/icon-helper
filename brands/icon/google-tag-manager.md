@@ -4,6 +4,7 @@ title: Google Tag Manager() ICON转svg、png下载
 name: google-tag-manager
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-tag-manager.svg
 
 ---
 

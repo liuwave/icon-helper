@@ -4,6 +4,7 @@ title: Platzi() ICON转svg、png下载
 name: platzi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/platzi.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Glitch() ICON转svg、png下载
 name: glitch
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/glitch.svg
 
 ---
 

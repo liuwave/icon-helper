@@ -4,6 +4,7 @@ title: Bluetooth(蓝牙) ICON转svg、png下载
 name: bluetooth
 zhTips: 蓝牙,蓝牙黑
 search: 
+image: https://iconhelper.cn/svg/brands/bluetooth.svg
 
 ---
 

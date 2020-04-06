@@ -4,6 +4,7 @@ title: Beatport() ICON转svg、png下载
 name: beatport
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/beatport.svg
 
 ---
 

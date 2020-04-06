@@ -4,6 +4,7 @@ title: Virb() ICON转svg、png下载
 name: virb
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/virb.svg
 
 ---
 

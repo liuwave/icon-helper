@@ -4,6 +4,7 @@ title: Semaphore CI() ICON转svg、png下载
 name: semaphore-ci
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/semaphore-ci.svg
 
 ---
 

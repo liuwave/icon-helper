@@ -4,6 +4,7 @@ title: XAML() ICON转svg、png下载
 name: xaml
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/xaml.svg
 
 ---
 

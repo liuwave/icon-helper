@@ -4,6 +4,7 @@ title: Stadia() ICON转svg、png下载
 name: stadia
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/stadia.svg
 
 ---
 

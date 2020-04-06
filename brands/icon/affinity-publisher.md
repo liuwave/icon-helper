@@ -4,6 +4,7 @@ title: Affinity Publisher(排版神器) ICON转svg、png下载
 name: affinity-publisher
 zhTips: 排版神器,专业设计软件
 search: 
+image: https://iconhelper.cn/svg/brands/affinity-publisher.svg
 
 ---
 

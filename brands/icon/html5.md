@@ -4,6 +4,7 @@ title: HTML5(HTML 5徽标) ICON转svg、png下载
 name: html5
 zhTips: HTML 5徽标,html5
 search: 
+image: https://iconhelper.cn/svg/brands/html5.svg
 
 ---
 

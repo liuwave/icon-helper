@@ -4,6 +4,7 @@ title: KeyCDN() ICON转svg、png下载
 name: keycdn
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/keycdn.svg
 
 ---
 

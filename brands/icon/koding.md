@@ -4,6 +4,7 @@ title: Koding() ICON转svg、png下载
 name: koding
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/koding.svg
 
 ---
 

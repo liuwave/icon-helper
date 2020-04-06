@@ -4,6 +4,7 @@ title: Rust() ICON转svg、png下载
 name: rust
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/rust.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: VK() ICON转svg、png下载
 name: vk
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vk.svg
 
 ---
 

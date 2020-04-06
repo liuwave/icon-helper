@@ -4,6 +4,7 @@ title: Umbraco() ICON转svg、png下载
 name: umbraco
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/umbraco.svg
 
 ---
 

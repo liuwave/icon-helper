@@ -4,6 +4,7 @@ title: Safari(浏览器) ICON转svg、png下载
 name: safari
 zhTips: Safari,浏览器
 search: 
+image: https://iconhelper.cn/svg/brands/safari.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Staticman() ICON转svg、png下载
 name: staticman
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/staticman.svg
 
 ---
 

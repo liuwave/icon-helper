@@ -4,6 +4,7 @@ title: Geocaching() ICON转svg、png下载
 name: geocaching
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/geocaching.svg
 
 ---
 

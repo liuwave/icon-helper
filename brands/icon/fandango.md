@@ -4,6 +4,7 @@ title: Fandango() ICON转svg、png下载
 name: fandango
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fandango.svg
 
 ---
 

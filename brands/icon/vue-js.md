@@ -4,6 +4,7 @@ title: Vue.js() ICON转svg、png下载
 name: vue-js
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vue-js.svg
 
 ---
 

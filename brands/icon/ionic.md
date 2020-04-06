@@ -4,6 +4,7 @@ title: Ionic() ICON转svg、png下载
 name: ionic
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ionic.svg
 
 ---
 

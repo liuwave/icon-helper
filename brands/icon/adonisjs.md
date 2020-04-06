@@ -4,6 +4,7 @@ title: AdonisJS(Node.js Web框架) ICON转svg、png下载
 name: adonisjs
 zhTips: Node.js Web框架
 search: 
+image: https://iconhelper.cn/svg/brands/adonisjs.svg
 
 ---
 

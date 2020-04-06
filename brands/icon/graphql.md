@@ -4,6 +4,7 @@ title: GraphQL() ICON转svg、png下载
 name: graphql
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/graphql.svg
 
 ---
 

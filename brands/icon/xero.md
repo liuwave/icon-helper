@@ -4,6 +4,7 @@ title: Xero() ICON转svg、png下载
 name: xero
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/xero.svg
 
 ---
 

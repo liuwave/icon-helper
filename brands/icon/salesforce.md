@@ -4,6 +4,7 @@ title: Salesforce() ICON转svg、png下载
 name: salesforce
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/salesforce.svg
 
 ---
 

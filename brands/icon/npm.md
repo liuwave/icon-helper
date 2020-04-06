@@ -4,6 +4,7 @@ title: NPM(npm) ICON转svg、png下载
 name: npm
 zhTips: npm
 search: 
+image: https://iconhelper.cn/svg/brands/npm.svg
 
 ---
 

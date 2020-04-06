@@ -4,6 +4,7 @@ title: Corona Engine() ICON转svg、png下载
 name: corona-engine
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/corona-engine.svg
 
 ---
 

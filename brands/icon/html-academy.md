@@ -4,6 +4,7 @@ title: HTML Academy() ICON转svg、png下载
 name: html-academy
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/html-academy.svg
 
 ---
 

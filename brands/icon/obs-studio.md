@@ -4,6 +4,7 @@ title: OBS Studio() ICON转svg、png下载
 name: obs-studio
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/obs-studio.svg
 
 ---
 

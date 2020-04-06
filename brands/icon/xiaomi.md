@@ -4,6 +4,7 @@ title: Xiaomi() ICON转svg、png下载
 name: xiaomi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/xiaomi.svg
 
 ---
 

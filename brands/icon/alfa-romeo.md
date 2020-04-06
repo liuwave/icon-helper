@@ -4,6 +4,7 @@ title: Alfa Romeo(伦巴第汽车制造厂) ICON转svg、png下载
 name: alfa-romeo
 zhTips: 伦巴第汽车制造厂,阿尔法·罗密欧,ALFA
 search: 
+image: https://iconhelper.cn/svg/brands/alfa-romeo.svg
 
 ---
 

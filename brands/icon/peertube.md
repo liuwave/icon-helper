@@ -4,6 +4,7 @@ title: PeerTube() ICON转svg、png下载
 name: peertube
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/peertube.svg
 
 ---
 

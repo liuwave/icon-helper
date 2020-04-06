@@ -4,6 +4,7 @@ title: Mastodon(马斯托登) ICON转svg、png下载
 name: mastodon
 zhTips: 马斯托登,mastodon
 search: 
+image: https://iconhelper.cn/svg/brands/mastodon.svg
 
 ---
 

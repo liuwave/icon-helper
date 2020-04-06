@@ -4,6 +4,7 @@ title: Wear OS() ICON转svg、png下载
 name: wear-os
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wear-os.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Steemit() ICON转svg、png下载
 name: steemit
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/steemit.svg
 
 ---
 

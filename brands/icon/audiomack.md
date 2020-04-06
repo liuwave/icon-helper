@@ -4,6 +4,7 @@ title: Audiomack() ICON转svg、png下载
 name: audiomack
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/audiomack.svg
 
 ---
 

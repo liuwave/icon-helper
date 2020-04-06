@@ -4,6 +4,7 @@ title: DataCamp() ICON转svg、png下载
 name: datacamp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/datacamp.svg
 
 ---
 

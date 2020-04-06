@@ -4,6 +4,7 @@ title: C Sharp() ICON转svg、png下载
 name: c-sharp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/c-sharp.svg
 
 ---
 

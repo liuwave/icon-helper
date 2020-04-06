@@ -4,6 +4,7 @@ title: Laravel Horizon() ICON转svg、png下载
 name: laravel-horizon
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/laravel-horizon.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Brave() ICON转svg、png下载
 name: brave
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/brave.svg
 
 ---
 

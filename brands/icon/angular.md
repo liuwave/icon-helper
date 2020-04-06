@@ -4,6 +4,7 @@ title: Angular(角) ICON转svg、png下载
 name: angular
 zhTips: 角,angular
 search: 
+image: https://iconhelper.cn/svg/brands/angular.svg
 
 ---
 

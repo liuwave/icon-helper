@@ -4,6 +4,7 @@ title: McDonald's() ICON转svg、png下载
 name: mcdonald-s
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mcdonald-s.svg
 
 ---
 

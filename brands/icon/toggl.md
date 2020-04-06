@@ -4,6 +4,7 @@ title: Toggl() ICON转svg、png下载
 name: toggl
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/toggl.svg
 
 ---
 

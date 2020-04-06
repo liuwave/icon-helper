@@ -4,6 +4,7 @@ title: Sass(Scss) ICON转svg、png下载
 name: sass
 zhTips: Scss
 search: 
+image: https://iconhelper.cn/svg/brands/sass.svg
 
 ---
 

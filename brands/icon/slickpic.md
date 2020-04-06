@@ -4,6 +4,7 @@ title: SlickPic() ICON转svg、png下载
 name: slickpic
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/slickpic.svg
 
 ---
 

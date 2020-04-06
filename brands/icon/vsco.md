@@ -4,6 +4,7 @@ title: VSCO() ICON转svg、png下载
 name: vsco
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/vsco.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Volvo() ICON转svg、png下载
 name: volvo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/volvo.svg
 
 ---
 

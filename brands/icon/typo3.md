@@ -4,6 +4,7 @@ title: TYPO3(Typo3) ICON转svg、png下载
 name: typo3
 zhTips: Typo3
 search: 
+image: https://iconhelper.cn/svg/brands/typo3.svg
 
 ---
 

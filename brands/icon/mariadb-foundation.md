@@ -4,6 +4,7 @@ title: MariaDB Foundation() ICON转svg、png下载
 name: mariadb-foundation
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mariadb-foundation.svg
 
 ---
 

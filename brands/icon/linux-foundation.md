@@ -4,6 +4,7 @@ title: Linux Foundation() ICON转svg、png下载
 name: linux-foundation
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/linux-foundation.svg
 
 ---
 

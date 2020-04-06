@@ -4,6 +4,7 @@ title: Antena 3() ICON转svg、png下载
 name: antena-3
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/antena-3.svg
 
 ---
 

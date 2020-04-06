@@ -4,6 +4,7 @@ title: Draugiem.lv() ICON转svg、png下载
 name: draugiem-lv
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/draugiem-lv.svg
 
 ---
 

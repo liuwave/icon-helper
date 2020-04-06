@@ -4,6 +4,7 @@ title: Samsung() ICON转svg、png下载
 name: samsung
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/samsung.svg
 
 ---
 

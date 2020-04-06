@@ -4,6 +4,7 @@ title: Google Pay() ICON转svg、png下载
 name: google-pay
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-pay.svg
 
 ---
 

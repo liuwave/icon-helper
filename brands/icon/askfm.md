@@ -4,6 +4,7 @@ title: ASKfm() ICON转svg、png下载
 name: askfm
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/askfm.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Favro() ICON转svg、png下载
 name: favro
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/favro.svg
 
 ---
 

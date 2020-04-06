@@ -4,6 +4,7 @@ title: Adobe Audition(Cool Edit Pro) ICON转svg、png下载
 name: adobe-audition
 zhTips: Audition,Cool Edit Pro,Adobe Audition CC
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-audition.svg
 
 ---
 

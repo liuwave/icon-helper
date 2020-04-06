@@ -4,6 +4,7 @@ title: KaiOS() ICON转svg、png下载
 name: kaios
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/kaios.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: OCaml() ICON转svg、png下载
 name: ocaml
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ocaml.svg
 
 ---
 

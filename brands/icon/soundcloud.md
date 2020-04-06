@@ -4,6 +4,7 @@ title: SoundCloud(SoundCloud) ICON转svg、png下载
 name: soundcloud
 zhTips: SoundCloud
 search: 
+image: https://iconhelper.cn/svg/brands/soundcloud.svg
 
 ---
 

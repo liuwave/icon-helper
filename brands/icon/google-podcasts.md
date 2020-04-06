@@ -4,6 +4,7 @@ title: Google Podcasts() ICON转svg、png下载
 name: google-podcasts
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-podcasts.svg
 
 ---
 

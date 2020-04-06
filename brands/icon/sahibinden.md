@@ -4,6 +4,7 @@ title: Sahibinden() ICON转svg、png下载
 name: sahibinden
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sahibinden.svg
 
 ---
 

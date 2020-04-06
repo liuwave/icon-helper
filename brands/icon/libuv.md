@@ -4,6 +4,7 @@ title: libuv() ICON转svg、png下载
 name: libuv
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/libuv.svg
 
 ---
 

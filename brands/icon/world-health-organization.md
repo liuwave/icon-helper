@@ -4,6 +4,7 @@ title: World Health Organization() ICON转svg、png下载
 name: world-health-organization
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/world-health-organization.svg
 
 ---
 

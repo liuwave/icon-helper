@@ -4,6 +4,7 @@ title: Slack(松弛徽标) ICON转svg、png下载
 name: slack
 zhTips: 松弛徽标,锚点,哈希,标签,slack
 search: 
+image: https://iconhelper.cn/svg/brands/slack.svg
 
 ---
 

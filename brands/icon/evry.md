@@ -4,6 +4,7 @@ title: EVRY() ICON转svg、png下载
 name: evry
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/evry.svg
 
 ---
 

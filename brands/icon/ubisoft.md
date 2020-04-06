@@ -4,6 +4,7 @@ title: Ubisoft() ICON转svg、png下载
 name: ubisoft
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ubisoft.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: KeePassXC(开源密码管理工具) ICON转svg、png下载
 name: keepassxc
 zhTips: 开源密码管理工具
 search: 
+image: https://iconhelper.cn/svg/brands/keepassxc.svg
 
 ---
 

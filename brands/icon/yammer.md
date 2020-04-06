@@ -4,6 +4,7 @@ title: Yammer() ICON转svg、png下载
 name: yammer
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/yammer.svg
 
 ---
 

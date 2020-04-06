@@ -4,6 +4,7 @@ title: HockeyApp() ICON转svg、png下载
 name: hockeyapp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hockeyapp.svg
 
 ---
 

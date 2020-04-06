@@ -4,6 +4,7 @@ title: Zingat(房地产中介) ICON转svg、png下载
 name: zingat
 zhTips: 房地产中介
 search: 
+image: https://iconhelper.cn/svg/brands/zingat.svg
 
 ---
 

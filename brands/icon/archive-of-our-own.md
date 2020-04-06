@@ -4,6 +4,7 @@ title: Archive of Our Own() ICON转svg、png下载
 name: archive-of-our-own
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/archive-of-our-own.svg
 
 ---
 

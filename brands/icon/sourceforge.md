@@ -4,6 +4,7 @@ title: SourceForge() ICON转svg、png下载
 name: sourceforge
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sourceforge.svg
 
 ---
 

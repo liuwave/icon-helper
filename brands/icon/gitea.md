@@ -4,6 +4,7 @@ title: Gitea() ICON转svg、png下载
 name: gitea
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gitea.svg
 
 ---
 

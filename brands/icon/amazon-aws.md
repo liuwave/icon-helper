@@ -4,6 +4,7 @@ title: Amazon AWS(亚马逊AWS) ICON转svg、png下载
 name: amazon-aws
 zhTips: AWS,亚马逊AWS
 search: 
+image: https://iconhelper.cn/svg/brands/amazon-aws.svg
 
 ---
 

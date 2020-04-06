@@ -4,6 +4,7 @@ title: Odnoklassniki(一个同学) ICON转svg、png下载
 name: odnoklassniki
 zhTips: 一个同学
 search: 
+image: https://iconhelper.cn/svg/brands/odnoklassniki.svg
 
 ---
 

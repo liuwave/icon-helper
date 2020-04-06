@@ -4,6 +4,7 @@ title: WeChat() ICON转svg、png下载
 name: wechat
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wechat.svg
 
 ---
 

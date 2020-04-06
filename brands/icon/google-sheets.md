@@ -4,6 +4,7 @@ title: Google Sheets() ICON转svg、png下载
 name: google-sheets
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-sheets.svg
 
 ---
 

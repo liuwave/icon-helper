@@ -4,6 +4,7 @@ title: styled-components() ICON转svg、png下载
 name: styled-components
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/styled-components.svg
 
 ---
 

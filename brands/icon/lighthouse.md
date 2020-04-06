@@ -4,6 +4,7 @@ title: Lighthouse() ICON转svg、png下载
 name: lighthouse
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/lighthouse.svg
 
 ---
 

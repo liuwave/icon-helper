@@ -4,6 +4,7 @@ title: Zapier(自动化工具) ICON转svg、png下载
 name: zapier
 zhTips: 自动化工具,拉链,监狱
 search: IFTTT
+image: https://iconhelper.cn/svg/brands/zapier.svg
 
 ---
 

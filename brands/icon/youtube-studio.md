@@ -4,6 +4,7 @@ title: YouTube Studio(YouTube工作室) ICON转svg、png下载
 name: youtube-studio
 zhTips: YouTube工作室,视频管理软件
 search: 
+image: https://iconhelper.cn/svg/brands/youtube-studio.svg
 
 ---
 

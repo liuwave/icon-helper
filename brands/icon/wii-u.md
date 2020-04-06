@@ -4,6 +4,7 @@ title: Wii U() ICON转svg、png下载
 name: wii-u
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wii-u.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Apache Airflow() ICON转svg、png下载
 name: apache-airflow
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/apache-airflow.svg
 
 ---
 

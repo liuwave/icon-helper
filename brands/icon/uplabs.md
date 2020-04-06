@@ -4,6 +4,7 @@ title: UpLabs() ICON转svg、png下载
 name: uplabs
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/uplabs.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: PostgreSQL() ICON转svg、png下载
 name: postgresql
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/postgresql.svg
 
 ---
 

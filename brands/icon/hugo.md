@@ -4,6 +4,7 @@ title: Hugo() ICON转svg、png下载
 name: hugo
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hugo.svg
 
 ---
 

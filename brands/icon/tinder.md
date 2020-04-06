@@ -4,6 +4,7 @@ title: Tinder() ICON转svg、png下载
 name: tinder
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/tinder.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Google Assistant() ICON转svg、png下载
 name: google-assistant
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-assistant.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Inkscape() ICON转svg、png下载
 name: inkscape
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/inkscape.svg
 
 ---
 

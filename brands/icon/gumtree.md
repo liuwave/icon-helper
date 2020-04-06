@@ -4,6 +4,7 @@ title: Gumtree() ICON转svg、png下载
 name: gumtree
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gumtree.svg
 
 ---
 

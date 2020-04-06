@@ -4,6 +4,7 @@ title: Magisk() ICON转svg、png下载
 name: magisk
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/magisk.svg
 
 ---
 

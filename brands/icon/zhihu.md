@@ -4,6 +4,7 @@ title: Zhihu(知乎) ICON转svg、png下载
 name: zhihu
 zhTips: 知乎,问答社区
 search: 
+image: https://iconhelper.cn/svg/brands/zhihu.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Bulma() ICON转svg、png下载
 name: bulma
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bulma.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Farfetch() ICON转svg、png下载
 name: farfetch
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/farfetch.svg
 
 ---
 

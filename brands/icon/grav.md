@@ -4,6 +4,7 @@ title: Grav(重力) ICON转svg、png下载
 name: grav
 zhTips: 重力,grav,太空,宇航员,飞翔
 search: 
+image: https://iconhelper.cn/svg/brands/grav.svg
 
 ---
 

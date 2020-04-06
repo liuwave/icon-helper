@@ -4,6 +4,7 @@ title: ACM(计算机机械协会) ICON转svg、png下载
 name: acm
 zhTips: 计算机机械协会
 search: association for computing machinery
+image: https://iconhelper.cn/svg/brands/acm.svg
 
 ---
 

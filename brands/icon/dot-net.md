@@ -4,6 +4,7 @@ title: .NET() ICON转svg、png下载
 name: dot-net
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dot-net.svg
 
 ---
 

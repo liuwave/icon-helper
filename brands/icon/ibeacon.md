@@ -4,6 +4,7 @@ title: iBeacon() ICON转svg、png下载
 name: ibeacon
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ibeacon.svg
 
 ---
 

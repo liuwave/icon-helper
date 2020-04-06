@@ -4,6 +4,7 @@ title: Microsoft SharePoint() ICON转svg、png下载
 name: microsoft-sharepoint
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/microsoft-sharepoint.svg
 
 ---
 

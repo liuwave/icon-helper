@@ -4,6 +4,7 @@ title: Furry Network() ICON转svg、png下载
 name: furry-network
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/furry-network.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Prismic() ICON转svg、png下载
 name: prismic
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/prismic.svg
 
 ---
 

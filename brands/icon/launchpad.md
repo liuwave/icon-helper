@@ -4,6 +4,7 @@ title: Launchpad() ICON转svg、png下载
 name: launchpad
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/launchpad.svg
 
 ---
 

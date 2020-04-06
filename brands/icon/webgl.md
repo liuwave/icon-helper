@@ -4,6 +4,7 @@ title: WebGL() ICON转svg、png下载
 name: webgl
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/webgl.svg
 
 ---
 

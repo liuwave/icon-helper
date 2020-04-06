@@ -4,6 +4,7 @@ title: Huawei() ICON转svg、png下载
 name: huawei
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/huawei.svg
 
 ---
 

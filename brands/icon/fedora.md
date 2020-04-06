@@ -4,6 +4,7 @@ title: Fedora() ICON转svg、png下载
 name: fedora
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fedora.svg
 
 ---
 

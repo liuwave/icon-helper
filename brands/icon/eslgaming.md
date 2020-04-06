@@ -4,6 +4,7 @@ title: ESLGaming() ICON转svg、png下载
 name: eslgaming
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/eslgaming.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Steamworks() ICON转svg、png下载
 name: steamworks
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/steamworks.svg
 
 ---
 

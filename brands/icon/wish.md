@@ -4,6 +4,7 @@ title: Wish() ICON转svg、png下载
 name: wish
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/wish.svg
 
 ---
 

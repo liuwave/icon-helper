@@ -4,6 +4,7 @@ title: Kotlin() ICON转svg、png下载
 name: kotlin
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/kotlin.svg
 
 ---
 

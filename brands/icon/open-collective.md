@@ -4,6 +4,7 @@ title: Open Collective() ICON转svg、png下载
 name: open-collective
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/open-collective.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Google Hangouts Chat() ICON转svg、png下载
 name: google-hangouts-chat
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-hangouts-chat.svg
 
 ---
 

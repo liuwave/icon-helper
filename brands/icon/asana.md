@@ -4,6 +4,7 @@ title: Asana() ICON转svg、png下载
 name: asana
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/asana.svg
 
 ---
 

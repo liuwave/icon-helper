@@ -4,6 +4,7 @@ title: Clyp() ICON转svg、png下载
 name: clyp
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/clyp.svg
 
 ---
 

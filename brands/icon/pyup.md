@@ -4,6 +4,7 @@ title: PyUp() ICON转svg、png下载
 name: pyup
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/pyup.svg
 
 ---
 

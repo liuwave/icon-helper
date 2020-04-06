@@ -4,6 +4,7 @@ title: Flipboard(红板报) ICON转svg、png下载
 name: flipboard
 zhTips: Flipboard,红板报
 search: 
+image: https://iconhelper.cn/svg/brands/flipboard.svg
 
 ---
 

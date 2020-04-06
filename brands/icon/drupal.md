@@ -4,6 +4,7 @@ title: Drupal(Drupal徽标) ICON转svg、png下载
 name: drupal
 zhTips: Drupal徽标
 search: 
+image: https://iconhelper.cn/svg/brands/drupal.svg
 
 ---
 

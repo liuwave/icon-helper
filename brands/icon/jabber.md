@@ -4,6 +4,7 @@ title: Jabber() ICON转svg、png下载
 name: jabber
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jabber.svg
 
 ---
 

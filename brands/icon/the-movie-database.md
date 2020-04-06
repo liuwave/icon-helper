@@ -4,6 +4,7 @@ title: The Movie Database() ICON转svg、png下载
 name: the-movie-database
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/the-movie-database.svg
 
 ---
 

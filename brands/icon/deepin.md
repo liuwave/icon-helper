@@ -4,6 +4,7 @@ title: deepin() ICON转svg、png下载
 name: deepin
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/deepin.svg
 
 ---
 

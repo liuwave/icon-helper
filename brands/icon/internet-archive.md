@@ -4,6 +4,7 @@ title: Internet Archive() ICON转svg、png下载
 name: internet-archive
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/internet-archive.svg
 
 ---
 

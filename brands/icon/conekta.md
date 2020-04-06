@@ -4,6 +4,7 @@ title: Conekta() ICON转svg、png下载
 name: conekta
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/conekta.svg
 
 ---
 

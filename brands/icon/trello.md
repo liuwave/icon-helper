@@ -4,6 +4,7 @@ title: Trello(特洛洛) ICON转svg、png下载
 name: trello
 zhTips: 特洛洛,trello
 search: 
+image: https://iconhelper.cn/svg/brands/trello.svg
 
 ---
 

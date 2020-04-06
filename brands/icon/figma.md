@@ -4,6 +4,7 @@ title: Figma() ICON转svg、png下载
 name: figma
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/figma.svg
 
 ---
 

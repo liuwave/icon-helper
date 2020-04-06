@@ -4,6 +4,7 @@ title: FreeBSD(FreeBSD) ICON转svg、png下载
 name: freebsd
 zhTips: FreeBSD
 search: 
+image: https://iconhelper.cn/svg/brands/freebsd.svg
 
 ---
 

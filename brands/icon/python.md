@@ -4,6 +4,7 @@ title: Python(Python) ICON转svg、png下载
 name: python
 zhTips: Python
 search: 
+image: https://iconhelper.cn/svg/brands/python.svg
 
 ---
 

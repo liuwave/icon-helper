@@ -4,6 +4,7 @@ title: AddThis(社交书签网站) ICON转svg、png下载
 name: addthis
 zhTips: 社交书签网站
 search: 
+image: https://iconhelper.cn/svg/brands/addthis.svg
 
 ---
 

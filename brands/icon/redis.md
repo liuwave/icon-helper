@@ -4,6 +4,7 @@ title: Redis() ICON转svg、png下载
 name: redis
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/redis.svg
 
 ---
 

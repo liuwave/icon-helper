@@ -4,6 +4,7 @@ title: Netlify() ICON转svg、png下载
 name: netlify
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/netlify.svg
 
 ---
 

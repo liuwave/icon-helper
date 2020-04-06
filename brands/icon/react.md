@@ -4,6 +4,7 @@ title: React(React.js) ICON转svg、png下载
 name: react
 zhTips: React.js,react
 search: 
+image: https://iconhelper.cn/svg/brands/react.svg
 
 ---
 

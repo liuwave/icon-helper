@@ -4,6 +4,7 @@ title: cPanel() ICON转svg、png下载
 name: cpanel
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/cpanel.svg
 
 ---
 

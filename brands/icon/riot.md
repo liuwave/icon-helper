@@ -4,6 +4,7 @@ title: Riot() ICON转svg、png下载
 name: riot
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/riot.svg
 
 ---
 

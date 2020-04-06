@@ -4,6 +4,7 @@ title: GNU IceCat() ICON转svg、png下载
 name: gnu-icecat
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gnu-icecat.svg
 
 ---
 

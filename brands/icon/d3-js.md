@@ -4,6 +4,7 @@ title: D3.js() ICON转svg、png下载
 name: d3-js
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/d3-js.svg
 
 ---
 

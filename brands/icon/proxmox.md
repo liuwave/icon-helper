@@ -4,6 +4,7 @@ title: Proxmox() ICON转svg、png下载
 name: proxmox
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/proxmox.svg
 
 ---
 

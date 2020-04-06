@@ -4,6 +4,7 @@ title: SonarCloud() ICON转svg、png下载
 name: sonarcloud
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sonarcloud.svg
 
 ---
 

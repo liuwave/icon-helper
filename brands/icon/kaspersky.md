@@ -4,6 +4,7 @@ title: Kaspersky() ICON转svg、png下载
 name: kaspersky
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/kaspersky.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: JCB() ICON转svg、png下载
 name: jcb
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jcb.svg
 
 ---
 

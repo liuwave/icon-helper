@@ -4,6 +4,7 @@ title: Keras() ICON转svg、png下载
 name: keras
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/keras.svg
 
 ---
 

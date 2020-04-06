@@ -4,6 +4,7 @@ title: Itch.io() ICON转svg、png下载
 name: itch-io
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/itch-io.svg
 
 ---
 

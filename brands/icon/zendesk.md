@@ -4,6 +4,7 @@ title: Zendesk(客户关系) ICON转svg、png下载
 name: zendesk
 zhTips: 客户关系,客户管理软件公司
 search: 
+image: https://iconhelper.cn/svg/brands/zendesk.svg
 
 ---
 

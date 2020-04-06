@@ -4,6 +4,7 @@ title: Contactless Payment() ICON转svg、png下载
 name: contactless-payment
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/contactless-payment.svg
 
 ---
 

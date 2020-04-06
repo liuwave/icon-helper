@@ -4,6 +4,7 @@ title: Khan Academy() ICON转svg、png下载
 name: khan-academy
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/khan-academy.svg
 
 ---
 

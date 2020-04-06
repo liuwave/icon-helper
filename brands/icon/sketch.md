@@ -4,6 +4,7 @@ title: Sketch() ICON转svg、png下载
 name: sketch
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sketch.svg
 
 ---
 

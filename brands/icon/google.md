@@ -4,6 +4,7 @@ title: Google(Google徽标) ICON转svg、png下载
 name: google
 zhTips: Google徽标,google
 search: 
+image: https://iconhelper.cn/svg/brands/google.svg
 
 ---
 

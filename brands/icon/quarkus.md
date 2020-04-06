@@ -4,6 +4,7 @@ title: Quarkus() ICON转svg、png下载
 name: quarkus
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/quarkus.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: OpenBSD() ICON转svg、png下载
 name: openbsd
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/openbsd.svg
 
 ---
 

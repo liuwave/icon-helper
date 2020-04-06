@@ -4,6 +4,7 @@ title: Google Play() ICON转svg、png下载
 name: google-play
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/google-play.svg
 
 ---
 

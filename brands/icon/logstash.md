@@ -4,6 +4,7 @@ title: Logstash() ICON转svg、png下载
 name: logstash
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/logstash.svg
 
 ---
 

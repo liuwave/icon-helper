@@ -4,6 +4,7 @@ title: Player.me() ICON转svg、png下载
 name: player-me
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/player-me.svg
 
 ---
 

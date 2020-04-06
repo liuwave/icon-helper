@@ -4,6 +4,7 @@ title: Open Source Initiative() ICON转svg、png下载
 name: open-source-initiative
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/open-source-initiative.svg
 
 ---
 

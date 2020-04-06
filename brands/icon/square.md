@@ -4,6 +4,7 @@ title: Square(正方形) ICON转svg、png下载
 name: square
 zhTips: 正方形,块状,盒子,形状,圆角正方形,平方,广场,方块
 search: 
+image: https://iconhelper.cn/svg/brands/square.svg
 
 ---
 

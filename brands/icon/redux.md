@@ -4,6 +4,7 @@ title: Redux() ICON转svg、png下载
 name: redux
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/redux.svg
 
 ---
 

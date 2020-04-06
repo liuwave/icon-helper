@@ -4,6 +4,7 @@ title: Angular Universal() ICON转svg、png下载
 name: angular-universal
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/angular-universal.svg
 
 ---
 

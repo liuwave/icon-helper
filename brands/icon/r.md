@@ -4,6 +4,7 @@ title: R() ICON转svg、png下载
 name: r
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/r.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Indeed() ICON转svg、png下载
 name: indeed
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/indeed.svg
 
 ---
 

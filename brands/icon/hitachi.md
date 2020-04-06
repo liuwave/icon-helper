@@ -4,6 +4,7 @@ title: Hitachi() ICON转svg、png下载
 name: hitachi
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/hitachi.svg
 
 ---
 

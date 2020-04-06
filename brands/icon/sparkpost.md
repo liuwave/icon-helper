@@ -4,6 +4,7 @@ title: SparkPost() ICON转svg、png下载
 name: sparkpost
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/sparkpost.svg
 
 ---
 

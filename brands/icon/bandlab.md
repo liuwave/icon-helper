@@ -4,6 +4,7 @@ title: BandLab() ICON转svg、png下载
 name: bandlab
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/bandlab.svg
 
 ---
 

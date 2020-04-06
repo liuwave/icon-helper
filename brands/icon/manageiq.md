@@ -4,6 +4,7 @@ title: ManageIQ() ICON转svg、png下载
 name: manageiq
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/manageiq.svg
 
 ---
 

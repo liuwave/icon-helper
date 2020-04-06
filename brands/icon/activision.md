@@ -4,6 +4,7 @@ title: Activision(动视) ICON转svg、png下载
 name: activision
 zhTips: 动视,视频游戏
 search: game
+image: https://iconhelper.cn/svg/brands/activision.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Adobe Photoshop(Photoshop) ICON转svg、png下载
 name: adobe-photoshop
 zhTips: PS,Photoshop
 search: 
+image: https://iconhelper.cn/svg/brands/adobe-photoshop.svg
 
 ---
 

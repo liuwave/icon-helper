@@ -4,6 +4,7 @@ title: JetBrains() ICON转svg、png下载
 name: jetbrains
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jetbrains.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Ello() ICON转svg、png下载
 name: ello
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/ello.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Mercedes() ICON转svg、png下载
 name: mercedes
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/mercedes.svg
 
 ---
 

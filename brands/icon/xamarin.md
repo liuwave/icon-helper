@@ -4,6 +4,7 @@ title: Xamarin() ICON转svg、png下载
 name: xamarin
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/xamarin.svg
 
 ---
 

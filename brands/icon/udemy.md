@@ -4,6 +4,7 @@ title: Udemy() ICON转svg、png下载
 name: udemy
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/udemy.svg
 
 ---
 

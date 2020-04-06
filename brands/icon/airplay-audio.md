@@ -4,6 +4,7 @@ title: AirPlay Audio(AP) ICON转svg、png下载
 name: airplay-audio
 zhTips: AirPlay,AP,飞乐
 search: 
+image: https://iconhelper.cn/svg/brands/airplay-audio.svg
 
 ---
 

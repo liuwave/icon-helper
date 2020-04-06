@@ -4,6 +4,7 @@ title: Fujitsu() ICON转svg、png下载
 name: fujitsu
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/fujitsu.svg
 
 ---
 

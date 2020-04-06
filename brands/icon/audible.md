@@ -4,6 +4,7 @@ title: Audible(有声) ICON转svg、png下载
 name: audible
 zhTips: 有声,audible
 search: 
+image: https://iconhelper.cn/svg/brands/audible.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Toptal() ICON转svg、png下载
 name: toptal
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/toptal.svg
 
 ---
 

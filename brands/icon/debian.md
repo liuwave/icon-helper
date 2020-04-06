@@ -4,6 +4,7 @@ title: Debian() ICON转svg、png下载
 name: debian
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/debian.svg
 
 ---
 

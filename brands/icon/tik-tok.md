@@ -4,6 +4,7 @@ title: Tik Tok() ICON转svg、png下载
 name: tik-tok
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/tik-tok.svg
 
 ---
 

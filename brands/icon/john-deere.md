@@ -4,6 +4,7 @@ title: John Deere() ICON转svg、png下载
 name: john-deere
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/john-deere.svg
 
 ---
 

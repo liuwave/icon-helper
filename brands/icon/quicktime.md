@@ -4,6 +4,7 @@ title: QuickTime() ICON转svg、png下载
 name: quicktime
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/quicktime.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: DC Entertainment() ICON转svg、png下载
 name: dc-entertainment
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/dc-entertainment.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Douban() ICON转svg、png下载
 name: douban
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/douban.svg
 
 ---
 

@@ -4,6 +4,7 @@ title: Gutenberg() ICON转svg、png下载
 name: gutenberg
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/gutenberg.svg
 
 ---
 

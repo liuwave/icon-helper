@@ -4,6 +4,7 @@ title: Tumblr(汤博乐) ICON转svg、png下载
 name: tumblr
 zhTips: 汤博乐
 search: 
+image: https://iconhelper.cn/svg/brands/tumblr.svg
 
 ---
 

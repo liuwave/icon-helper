@@ -4,6 +4,7 @@ title: Amazon(亚马逊) ICON转svg、png下载
 name: amazon
 zhTips: 亚马逊
 search: 
+image: https://iconhelper.cn/svg/brands/amazon.svg
 
 ---
 

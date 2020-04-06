@@ -4,6 +4,7 @@ title: Jira() ICON转svg、png下载
 name: jira
 zhTips: 
 search: 
+image: https://iconhelper.cn/svg/brands/jira.svg
 
 ---
 

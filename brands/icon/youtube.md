@@ -4,6 +4,7 @@ title: YouTube(电影) ICON转svg、png下载
 name: youtube
 zhTips: YouTube,电影,视频,YouTube播放,YouTube正方形
 search: 
+image: https://iconhelper.cn/svg/brands/youtube.svg
 
 ---
 
