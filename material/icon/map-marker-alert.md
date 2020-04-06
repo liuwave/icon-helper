@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2C15.86,2 19,5.13 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M11,6V11H13V6H11M11,13V15H13V13H11Z" /></svg>
 </div>
 <detail full-name='mdi-map-marker-alert'></detail>
-<div>
-<p>关于“map marker alert”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>map marker alert</b>”的评论:</p>
 </div>
-<Vssue title="关于“map marker alert”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“map marker alert”的评论" />    
+<div><p>图标map marker alert来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

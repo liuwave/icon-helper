@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M80 368H16a16 16 0 0 0-16 16v64a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16v-64a16 16 0 0 0-16-16zm0-320H16A16 16 0 0 0 0 64v64a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16V64a16 16 0 0 0-16-16zm0 160H16a16 16 0 0 0-16 16v64a16 16 0 0 0 16 16h64a16 16 0 0 0 16-16v-64a16 16 0 0 0-16-16zm416 176H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-320H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16V80a16 16 0 0 0-16-16zm0 160H176a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h320a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"/></svg>
 </div>
 <detail full-name='fa-list'></detail>
-<div>
-<p>关于“List”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>List</b>”的评论:</p>
 </div>
-<Vssue title="关于“List”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“List”的评论" />    
+<div><p>图标List来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

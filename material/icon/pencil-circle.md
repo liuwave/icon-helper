@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2C6.47,2 2,6.47 2,12C2,17.53 6.47,22 12,22C17.53,22 22,17.53 22,12C22,6.47 17.53,2 12,2M15.1,7.07C15.24,7.07 15.38,7.12 15.5,7.23L16.77,8.5C17,8.72 17,9.07 16.77,9.28L15.77,10.28L13.72,8.23L14.72,7.23C14.82,7.12 14.96,7.07 15.1,7.07M13.13,8.81L15.19,10.87L9.13,16.93H7.07V14.87L13.13,8.81Z" /></svg>
 </div>
 <detail full-name='mdi-pencil-circle'></detail>
-<div>
-<p>关于“pencil circle”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>pencil circle</b>”的评论:</p>
 </div>
-<Vssue title="关于“pencil circle”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“pencil circle”的评论" />    
+<div><p>图标pencil circle来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

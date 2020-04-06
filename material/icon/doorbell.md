@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 10C10.9 10 10 10.9 10 12S10.9 14 12 14 14 13.1 14 12 13.1 10 12 10M16 2H8C6.9 2 6 2.9 6 4V20C6 21.1 6.9 22 8 22H16C17.1 22 18 21.1 18 20V4C18 2.9 17.1 2 16 2M16 20H8V4H16V20Z" /></svg>
 </div>
 <detail full-name='mdi-doorbell'></detail>
-<div>
-<p>关于“doorbell”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>doorbell</b>”的评论:</p>
 </div>
-<Vssue title="关于“doorbell”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“doorbell”的评论" />    
+<div><p>图标doorbell来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

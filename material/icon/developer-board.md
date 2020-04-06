@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,9V7H20V5A2,2 0 0,0 18,3H4A2,2 0 0,0 2,5V19A2,2 0 0,0 4,21H18A2,2 0 0,0 20,19V17H22V15H20V13H22V11H20V9H22M18,19H4V5H18V19M6,13H11V17H6V13M12,7H16V10H12V7M6,7H11V12H6V7M12,11H16V17H12V11Z" /></svg>
 </div>
 <detail full-name='mdi-developer-board'></detail>
-<div>
-<p>关于“developer board”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>developer board</b>”的评论:</p>
 </div>
-<Vssue title="关于“developer board”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“developer board”的评论" />    
+<div><p>图标developer board来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

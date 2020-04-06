@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M448 32v448H0V32h448zM236 287.5L313.5 142h-32.7L235 233c-4.7 9.3-9 18.3-12.8 26.8L210 233l-45.2-91h-35l76.7 143.8v94.5H236v-92.8z"/></svg>
 </div>
 <detail full-name='fa-y-combinator'></detail>
-<div>
-<p>关于“Y Combinator”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Y Combinator</b>”的评论:</p>
 </div>
-<Vssue title="关于“Y Combinator”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Y Combinator”的评论" />    
+<div><p>图标Y Combinator来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

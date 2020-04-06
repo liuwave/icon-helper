@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,11H21V23H3V11M12,15A2,2 0 0,1 14,17A2,2 0 0,1 12,19A2,2 0 0,1 10,17A2,2 0 0,1 12,15M7,13A2,2 0 0,1 5,15V19A2,2 0 0,1 7,21H17A2,2 0 0,1 19,19V15A2,2 0 0,1 17,13H7M17,5V10H15.5V6.5H9.88L12.3,8.93L11.24,10L7,5.75L11.24,1.5L12.3,2.57L9.88,5H17Z" /></svg>
 </div>
 <detail full-name='mdi-cash-refund'></detail>
-<div>
-<p>关于“cash refund”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>cash refund</b>”的评论:</p>
 </div>
-<Vssue title="关于“cash refund”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“cash refund”的评论" />    
+<div><p>图标cash refund来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

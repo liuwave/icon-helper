@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 480H48c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h352c26.51 0 48 21.49 48 48v352c0 26.51-21.49 48-48 48zM259.515 124.485l-123.03 123.03c-4.686 4.686-4.686 12.284 0 16.971l123.029 123.029c7.56 7.56 20.485 2.206 20.485-8.485V132.971c.001-10.691-12.925-16.045-20.484-8.486z"/></svg>
 </div>
 <detail full-name='fa-caret-square-left'></detail>
-<div>
-<p>关于“Caret Square Left”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Caret Square Left</b>”的评论:</p>
 </div>
-<Vssue title="关于“Caret Square Left”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Caret Square Left”的评论" />    
+<div><p>图标Caret Square Left来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

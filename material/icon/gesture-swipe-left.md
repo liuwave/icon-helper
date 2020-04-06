@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,9A1,1 0 0,1 11,8A1,1 0 0,1 12,9V13.47L13.21,13.6L18.15,15.79C18.68,16.03 19,16.56 19,17.14V21.5C18.97,22.32 18.32,22.97 17.5,23H11C10.62,23 10.26,22.85 10,22.57L5.1,18.37L5.84,17.6C6.03,17.39 6.3,17.28 6.58,17.28H6.8L10,19V9M3,4L6,7V5H12V3H6V1L3,4Z" /></svg>
 </div>
 <detail full-name='mdi-gesture-swipe-left'></detail>
-<div>
-<p>关于“gesture swipe left”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>gesture swipe left</b>”的评论:</p>
 </div>
-<Vssue title="关于“gesture swipe left”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“gesture swipe left”的评论" />    
+<div><p>图标gesture swipe left来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

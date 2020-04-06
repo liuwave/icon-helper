@@ -76,9 +76,9 @@ unicode：
 
 </div>
 <detail full-name='ri-video-fill'></detail>  
-<div>
-<p>关于“video fill”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>video fill</b>”的评论:</p>
 </div>
-<Vssue title="关于“video fill”的评论" ></Vssue>    
-<div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
+<Vssue title="关于“video fill”的评论" />    
+<div><p>图标video fill来源于 Remix Icon，可免费使用，更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

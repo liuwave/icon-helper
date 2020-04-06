@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,6L15.5,18H2L8.5,6H22Z" /></svg>
 </div>
 <detail full-name='mdi-bandcamp'></detail>
-<div>
-<p>关于“bandcamp”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bandcamp</b>”的评论:</p>
 </div>
-<Vssue title="关于“bandcamp”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“bandcamp”的评论" />    
+<div><p>图标bandcamp来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

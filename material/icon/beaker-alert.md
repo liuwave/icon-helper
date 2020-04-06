@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3H21V5C19.9 5 19 5.9 19 7V19C19 20.1 18.1 21 17 21H7C5.9 21 5 20.1 5 19V7C5 5.9 4.1 5 3 5V3M7 9V10H10V9H7M7 11V12H10V11H7M10 16V15H7V16H10M12 14V13H7V14H12M12 8V7H7V8H12M21 13V8H23V13H21M21 17V15H23V17H21Z" /></svg>
 </div>
 <detail full-name='mdi-beaker-alert'></detail>
-<div>
-<p>关于“beaker alert”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>beaker alert</b>”的评论:</p>
 </div>
-<Vssue title="关于“beaker alert”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“beaker alert”的评论" />    
+<div><p>图标beaker alert来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

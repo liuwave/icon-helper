@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M124 328c-6.6 0-12-5.4-12-12v-24c0-6.6 5.4-12 12-12h200c6.6 0 12 5.4 12 12v24c0 6.6-5.4 12-12 12H124zm324-216v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"/></svg>
 </div>
 <detail full-name='fa-calendar-minus'></detail>
-<div>
-<p>关于“Calendar Minus”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Calendar Minus</b>”的评论:</p>
 </div>
-<Vssue title="关于“Calendar Minus”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Calendar Minus”的评论" />    
+<div><p>图标Calendar Minus来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.12,14L7.5,7.67L9.87,14M6.5,5L1,19H3.25L4.37,16H10.62L11.75,19H14L8.5,5H6.5M18,7L13,12.07L14.41,13.5L17,10.9V17H19V10.9L21.59,13.5L23,12.07L18,7Z" /></svg>
 </div>
 <detail full-name='mdi-format-font-size-increase'></detail>
-<div>
-<p>关于“format font size increase”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>format font size increase</b>”的评论:</p>
 </div>
-<Vssue title="关于“format font size increase”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“format font size increase”的评论" />    
+<div><p>图标format font size increase来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

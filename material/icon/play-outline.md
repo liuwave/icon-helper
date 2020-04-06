@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8.5,8.64L13.77,12L8.5,15.36V8.64M6.5,5V19L17.5,12" /></svg>
 </div>
 <detail full-name='mdi-play-outline'></detail>
-<div>
-<p>关于“play outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>play outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“play outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“play outline”的评论" />    
+<div><p>图标play outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

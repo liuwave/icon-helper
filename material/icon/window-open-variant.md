@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 20V2H3V20H1V23H23V20M19 4V11H17V4M5 4H7V11H5M5 20V13H7V20M9 20V4H15V20M17 20V13H19V20Z" /></svg>
 </div>
 <detail full-name='mdi-window-open-variant'></detail>
-<div>
-<p>关于“window open variant”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>window open variant</b>”的评论:</p>
 </div>
-<Vssue title="关于“window open variant”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“window open variant”的评论" />    
+<div><p>图标window open variant来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

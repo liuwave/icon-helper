@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,16A3,3 0 0,0 22,13A3,3 0 0,0 19,10H17.5V9.5A5.5,5.5 0 0,0 12,4C9.5,4 7.37,5.69 6.71,8H6A4,4 0 0,0 2,12A4,4 0 0,0 6,16V11H18V16H19M19.36,8.04C21.95,8.22 24,10.36 24,13A5,5 0 0,1 19,18H18V22H6V18A6,6 0 0,1 0,12C0,8.91 2.34,6.36 5.35,6.04C6.6,3.64 9.11,2 12,2C15.64,2 18.67,4.6 19.36,8.04M8,13V20H16V13H8M9,18H15V19H9V18M15,17H9V16H15V17M9,14H15V15H9V14Z" /></svg>
 </div>
 <detail full-name='mdi-cloud-print-outline'></detail>
-<div>
-<p>关于“cloud print outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>cloud print outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“cloud print outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“cloud print outline”的评论" />    
+<div><p>图标cloud print outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

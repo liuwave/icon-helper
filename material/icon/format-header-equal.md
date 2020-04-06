@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,4H6V10H10V4H12V18H10V12H6V18H4V4M14,10V8H21V10H14M14,12H21V14H14V12Z" /></svg>
 </div>
 <detail full-name='mdi-format-header-equal'></detail>
-<div>
-<p>关于“format header equal”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>format header equal</b>”的评论:</p>
 </div>
-<Vssue title="关于“format header equal”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“format header equal”的评论" />    
+<div><p>图标format header equal来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

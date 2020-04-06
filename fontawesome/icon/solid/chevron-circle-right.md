@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm113.9 231L234.4 103.5c-9.4-9.4-24.6-9.4-33.9 0l-17 17c-9.4 9.4-9.4 24.6 0 33.9L285.1 256 183.5 357.6c-9.4 9.4-9.4 24.6 0 33.9l17 17c9.4 9.4 24.6 9.4 33.9 0L369.9 273c9.4-9.4 9.4-24.6 0-34z"/></svg>
 </div>
 <detail full-name='fa-chevron-circle-right'></detail>
-<div>
-<p>关于“Chevron Circle Right”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Chevron Circle Right</b>”的评论:</p>
 </div>
-<Vssue title="关于“Chevron Circle Right”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Chevron Circle Right”的评论" />    
+<div><p>图标Chevron Circle Right来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

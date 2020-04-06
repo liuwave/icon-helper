@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,19.88V22L18.2,20.83L13.41,11.83C14.07,11.62 14.67,11.28 15.19,10.83L20,19.88M15,7A3,3 0 0,1 12,10C11.85,10 11.71,10 11.56,10L5.8,20.83L4,22V19.88L9.79,9C8.69,7.77 8.79,5.87 10.03,4.76C10.57,4.28 11.27,4 12,4V2A1,1 0 0,1 13,3V4.18C14.2,4.6 15,5.73 15,7M13,7A1,1 0 0,0 12,6A1,1 0 0,0 11,7A1,1 0 0,0 12,8A1,1 0 0,0 13,7Z" /></svg>
 </div>
 <detail full-name='mdi-math-compass'></detail>
-<div>
-<p>关于“math compass”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>math compass</b>”的评论:</p>
 </div>
-<Vssue title="关于“math compass”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“math compass”的评论" />    
+<div><p>图标math compass来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

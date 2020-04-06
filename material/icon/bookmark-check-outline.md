@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.47 9.65L8.06 11.07L11 14L16.19 8.82L14.78 7.4L11 11.18M17 3H7C5.9 3 5 3.9 5 5L5 21L12 18L19 21V5C19 3.9 18.1 3 17 3M17 18L12 15.82L7 18V5H17Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark-check-outline'></detail>
-<div>
-<p>关于“bookmark check outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bookmark check outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“bookmark check outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“bookmark check outline”的评论" />    
+<div><p>图标bookmark check outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

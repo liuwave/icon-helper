@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,17A2,2 0 0,0 15,15V9A2,2 0 0,0 13,7H11A2,2 0 0,0 9,9V11A2,2 0 0,0 11,13H13V15H9V17H13M13,11H11V9H13V11Z" /></svg>
 </div>
 <detail full-name='mdi-numeric-9'></detail>
-<div>
-<p>关于“numeric 9”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>numeric 9</b>”的评论:</p>
 </div>
-<Vssue title="关于“numeric 9”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“numeric 9”的评论" />    
+<div><p>图标numeric 9来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,4H15L7.1,16.63L4.5,12L9,4H5L0.5,12L5,20H9L16.89,7.37L19.5,12L15,20H19L23.5,12L19,4Z" /></svg>
 </div>
 <detail full-name='mdi-polymer'></detail>
-<div>
-<p>关于“polymer”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>polymer</b>”的评论:</p>
 </div>
-<Vssue title="关于“polymer”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“polymer”的评论" />    
+<div><p>图标polymer来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

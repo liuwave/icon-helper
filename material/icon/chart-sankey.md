@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 5H4V2H2V22H22V20H4V9C8.09 9 10.13 11 12.29 13.21S17.09 18 22 18V16C17.91 16 15.87 14 13.71 11.79S8.91 7 4 7H22Z" /></svg>
 </div>
 <detail full-name='mdi-chart-sankey'></detail>
-<div>
-<p>关于“chart sankey”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>chart sankey</b>”的评论:</p>
 </div>
-<Vssue title="关于“chart sankey”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“chart sankey”的评论" />    
+<div><p>图标chart sankey来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

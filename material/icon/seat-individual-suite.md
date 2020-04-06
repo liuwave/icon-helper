@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,13A3,3 0 0,0 10,10A3,3 0 0,0 7,7A3,3 0 0,0 4,10A3,3 0 0,0 7,13M19,7H11V14H3V7H1V17H23V11A4,4 0 0,0 19,7Z" /></svg>
 </div>
 <detail full-name='mdi-seat-individual-suite'></detail>
-<div>
-<p>关于“seat individual suite”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>seat individual suite</b>”的评论:</p>
 </div>
-<Vssue title="关于“seat individual suite”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“seat individual suite”的评论" />    
+<div><p>图标seat individual suite来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

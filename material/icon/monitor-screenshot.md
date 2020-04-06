@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,6H5V10H7V8H9M19,10H17V12H15V14H19M21,16H3V4H21M21,2H3C1.89,2 1,2.89 1,4V16A2,2 0 0,0 3,18H10V20H8V22H16V20H14V18H21A2,2 0 0,0 23,16V4C23,2.89 22.1,2 21,2" /></svg>
 </div>
 <detail full-name='mdi-monitor-screenshot'></detail>
-<div>
-<p>关于“monitor screenshot”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>monitor screenshot</b>”的评论:</p>
 </div>
-<Vssue title="关于“monitor screenshot”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“monitor screenshot”的评论" />    
+<div><p>图标monitor screenshot来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,5H17V3H15M15,13H17V11H15M19,21H21V19H19M19,13H21V11H19M19,5H21V3H19M19,17H21V15H19M15,21H17V19H15M19,9H21V7H19M3,21H5V3H3M7,13H9V11H7M7,5H9V3H7M7,21H9V19H7M11,13H13V11H11M11,9H13V7H11M11,5H13V3H11M11,17H13V15H11M11,21H13V19H11V21Z" /></svg>
 </div>
 <detail full-name='mdi-border-left'></detail>
-<div>
-<p>关于“border left”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>border left</b>”的评论:</p>
 </div>
-<Vssue title="关于“border left”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“border left”的评论" />    
+<div><p>图标border left来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

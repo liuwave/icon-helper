@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,17H7V14L3,18L7,22V19H19V13H17M7,7H17V10L21,6L17,2V5H5V11H7V7Z" /></svg>
 </div>
 <detail full-name='mdi-repeat'></detail>
-<div>
-<p>关于“repeat”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>repeat</b>”的评论:</p>
 </div>
-<Vssue title="关于“repeat”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“repeat”的评论" />    
+<div><p>图标repeat来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

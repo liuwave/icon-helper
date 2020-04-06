@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,11H18V13H16V11M12,3H19C20.11,3 21,3.89 21,5V19H22V21H2V19H10V5C10,3.89 10.89,3 12,3M12,5V19H19V5H12Z" /></svg>
 </div>
 <detail full-name='mdi-door-closed'></detail>
-<div>
-<p>关于“door closed”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>door closed</b>”的评论:</p>
 </div>
-<Vssue title="关于“door closed”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“door closed”的评论" />    
+<div><p>图标door closed来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

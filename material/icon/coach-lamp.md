@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 5L15 2H13L12 5L6 8H8L8.6 11H4V7H2V17H4V13H9L10 18L12 20L13 22H15L16 20L18 18L20 8H22M16.16 17H11.84L10 8H18Z" /></svg>
 </div>
 <detail full-name='mdi-coach-lamp'></detail>
-<div>
-<p>关于“coach lamp”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>coach lamp</b>”的评论:</p>
 </div>
-<Vssue title="关于“coach lamp”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“coach lamp”的评论" />    
+<div><p>图标coach lamp来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

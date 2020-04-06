@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,11H11V17H19V11M17,15H13V13H17V15M21,3H3A2,2 0 0,0 1,5V19A2,2 0 0,0 3,21H21A2,2 0 0,0 23,19V5C23,3.88 22.1,3 21,3M21,19H3V4.97H21V19Z" /></svg>
 </div>
 <detail full-name='mdi-picture-in-picture-bottom-right-outline'></detail>
-<div>
-<p>关于“picture in picture bottom right outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>picture in picture bottom right outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“picture in picture bottom right outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“picture in picture bottom right outline”的评论" />    
+<div><p>图标picture in picture bottom right outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

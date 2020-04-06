@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3A4,4 0 0,0 8,7V13H6V15H9V21H11V15H13V21H15V15H18V13H16V7A4,4 0 0,0 12,3Z" /></svg>
 </div>
 <detail full-name='mdi-led-variant-on'></detail>
-<div>
-<p>关于“led variant on”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>led variant on</b>”的评论:</p>
 </div>
-<Vssue title="关于“led variant on”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“led variant on”的评论" />    
+<div><p>图标led variant on来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

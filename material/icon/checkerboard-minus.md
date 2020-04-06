@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17V19H22V17M8 16H12V12H8V16M12 12H16V8H12V12M2 2V22H13.5C13 21.4 12.6 20.7 12.3 20H8V16H4V12H8V8H4V4H8V8H12V4H16V8H20V12.4C20.7 12.7 21.4 13.1 22 13.6V2H2Z" /></svg>
 </div>
 <detail full-name='mdi-checkerboard-minus'></detail>
-<div>
-<p>关于“checkerboard minus”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>checkerboard minus</b>”的评论:</p>
 </div>
-<Vssue title="关于“checkerboard minus”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“checkerboard minus”的评论" />    
+<div><p>图标checkerboard minus来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

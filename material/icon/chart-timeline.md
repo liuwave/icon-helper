@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,2H4V20H22V22H2V2M7,10H17V13H7V10M11,15H21V18H11V15M6,4H22V8H20V6H8V8H6V4Z" /></svg>
 </div>
 <detail full-name='mdi-chart-timeline'></detail>
-<div>
-<p>关于“chart timeline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>chart timeline</b>”的评论:</p>
 </div>
-<Vssue title="关于“chart timeline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“chart timeline”的评论" />    
+<div><p>图标chart timeline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

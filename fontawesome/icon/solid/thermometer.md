@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M476.8 20.4c-37.5-30.7-95.5-26.3-131.9 10.2l-45.7 46 50.5 50.5c3.1 3.1 3.1 8.2 0 11.3l-11.3 11.3c-3.1 3.1-8.2 3.1-11.3 0l-50.4-50.5-45.1 45.4 50.3 50.4c3.1 3.1 3.1 8.2 0 11.3l-11.3 11.3c-3.1 3.1-8.2 3.1-11.3 0L209 167.4l-45.1 45.4L214 263c3.1 3.1 3.1 8.2 0 11.3l-11.3 11.3c-3.1 3.1-8.2 3.1-11.3 0l-50.1-50.2L96 281.1V382L7 471c-9.4 9.4-9.4 24.6 0 33.9 9.4 9.4 24.6 9.4 33.9 0l89-89h99.9L484 162.6c34.9-34.9 42.2-101.5-7.2-142.2z"/></svg>
 </div>
 <detail full-name='fa-thermometer'></detail>
-<div>
-<p>关于“Thermometer”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Thermometer</b>”的评论:</p>
 </div>
-<Vssue title="关于“Thermometer”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Thermometer”的评论" />    
+<div><p>图标Thermometer来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

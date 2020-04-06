@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,20V9H5V20H19M16,2H18V4H19A2,2 0 0,1 21,6V20A2,2 0 0,1 19,22H5A2,2 0 0,1 3,20V6A2,2 0 0,1 5,4H6V2H8V4H16V2M7,18V11H9V18H7M15,11H17V18H15V11Z" /></svg>
 </div>
 <detail full-name='mdi-calendar-weekend'></detail>
-<div>
-<p>关于“calendar weekend”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>calendar weekend</b>”的评论:</p>
 </div>
-<Vssue title="关于“calendar weekend”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“calendar weekend”的评论" />    
+<div><p>图标calendar weekend来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

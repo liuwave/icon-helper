@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M480 480H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h448c17.7 0 32 14.3 32 32s-14.3 32-32 32z"/></svg>
 </div>
 <detail full-name='fa-window-minimize'></detail>
-<div>
-<p>关于“Window Minimize”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Window Minimize</b>”的评论:</p>
 </div>
-<Vssue title="关于“Window Minimize”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Window Minimize”的评论" />    
+<div><p>图标Window Minimize来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

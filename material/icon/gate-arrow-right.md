@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 5V10H13V6H11V10H9V8H7V20H9V18H11V20H12.09A6 6 0 0 1 12 19A6 6 0 0 1 13 15.69V12H15V13.81A6 6 0 0 1 17 13.09V12H19V13.09A6 6 0 0 1 21 13.81V12H22V10H21V5H19V10H17V5H15M9 12H11V16H9V12M19 16V18H15V20H19V22L22 19L19 16Z" /></svg>
 </div>
 <detail full-name='mdi-gate-arrow-right'></detail>
-<div>
-<p>关于“gate arrow right”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>gate arrow right</b>”的评论:</p>
 </div>
-<Vssue title="关于“gate arrow right”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“gate arrow right”的评论" />    
+<div><p>图标gate arrow right来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

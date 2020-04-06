@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,3A2,2 0 0,1 21,5V19A2,2 0 0,1 19,21H5A2,2 0 0,1 3,19V5A2,2 0 0,1 5,3H9.18C9.6,1.84 10.7,1 12,1C13.3,1 14.4,1.84 14.82,3H19M12,3A1,1 0 0,0 11,4A1,1 0 0,0 12,5A1,1 0 0,0 13,4A1,1 0 0,0 12,3M7,7V5H5V19H19V5H17V7H7M16.91,13L11.91,18V15H7.91V11H11.91V8L16.91,13Z" /></svg>
 </div>
 <detail full-name='mdi-clipboard-arrow-right-outline'></detail>
-<div>
-<p>关于“clipboard arrow right outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>clipboard arrow right outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“clipboard arrow right outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“clipboard arrow right outline”的评论" />    
+<div><p>图标clipboard arrow right outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

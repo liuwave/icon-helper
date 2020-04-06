@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M368 160h-.94a144 144 0 1 0-286.12 0H80a48 48 0 0 0 0 96h288a48 48 0 0 0 0-96zM195.38 493.69a31.52 31.52 0 0 0 57.24 0L352 288H96z"/></svg>
 </div>
 <detail full-name='fa-ice-cream'></detail>
-<div>
-<p>关于“Ice Cream”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Ice Cream</b>”的评论:</p>
 </div>
-<Vssue title="关于“Ice Cream”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Ice Cream”的评论" />    
+<div><p>图标Ice Cream来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,7V17H5V13H8V11H5V9H9V7H3M13,7A2,2 0 0,0 11,9V17H13V9H15V16H17V9H19V17H21V9A2,2 0 0,0 19,7H13Z" /></svg>
 </div>
 <detail full-name='mdi-radio-fm'></detail>
-<div>
-<p>关于“radio fm”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>radio fm</b>”的评论:</p>
 </div>
-<Vssue title="关于“radio fm”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“radio fm”的评论" />    
+<div><p>图标radio fm来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

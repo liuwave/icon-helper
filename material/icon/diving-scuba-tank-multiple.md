@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,18.5A2.5,2.5 0 0,1 19.5,21A2.5,2.5 0 0,1 17,18.5C17,17.47 17.62,16.59 18.5,16.21V6H14V7.35C15.22,7.93 16,9.15 16,10.5V22H2V10.5C2,9.15 2.78,7.93 4,7.35V6H2V4H4V3.5A1.5,1.5 0 0,1 5.5,2A1.5,1.5 0 0,1 7,3.5V4H11V3.5A1.5,1.5 0 0,1 12.5,2A1.5,1.5 0 0,1 14,3.5V4H18.5A2,2 0 0,1 20.5,6V16.21C21.38,16.59 22,17.47 22,18.5M11,7.35V6H7V7.35C8.22,7.93 9,9.15 9,10.5C9,9.15 9.78,7.93 11,7.35Z" /></svg>
 </div>
 <detail full-name='mdi-diving-scuba-tank-multiple'></detail>
-<div>
-<p>关于“diving scuba tank multiple”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>diving scuba tank multiple</b>”的评论:</p>
 </div>
-<Vssue title="关于“diving scuba tank multiple”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“diving scuba tank multiple”的评论" />    
+<div><p>图标diving scuba tank multiple来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

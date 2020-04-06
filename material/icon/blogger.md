@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12.5 10H10C9.45 10 9 9.55 9 9C9 8.45 9.45 8 10 8H12.5C13.05 8 13.5 8.45 13.5 9C13.5 9.55 13.05 10 12.5 10M15 14C15 13.45 14.55 13 14 13H10C9.45 13 9 13.45 9 14C9 14.55 9.45 15 10 15H14C14.55 15 15 14.55 15 14M22 4V20C22 21.11 21.11 22 20 22H4C2.89 22 2 21.11 2 20V4C2 2.89 2.89 2 4 2H20C21.11 2 22 2.89 22 4M18 12C18 12 18 11 17 11C16.05 11.03 16 10 16 10L16 8C16 6.34 14.66 5 13 5H9C7.34 5 6 6.34 6 8V15C6 16.66 7.34 18 9 18H15C16.66 18 18 16.66 18 15L18 12Z" /></svg>
 </div>
 <detail full-name='mdi-blogger'></detail>
-<div>
-<p>关于“blogger”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>blogger</b>”的评论:</p>
 </div>
-<Vssue title="关于“blogger”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“blogger”的评论" />    
+<div><p>图标blogger来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 18C13.34 18 12 16.66 12 15C12 13 15 9.63 15 9.63S18 13 18 15C18 16.66 16.66 18 15 18M20 4V20H10V4H8V20C8 21.11 8.89 22 10 22H20C21.11 22 22 21.11 22 20V4H20M2 19L7 14L2 9V19M16 6V2H14V6H11V8H19V6H16Z" /></svg>
 </div>
 <detail full-name='mdi-hydraulic-oil-level'></detail>
-<div>
-<p>关于“hydraulic oil level”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>hydraulic oil level</b>”的评论:</p>
 </div>
-<Vssue title="关于“hydraulic oil level”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“hydraulic oil level”的评论" />    
+<div><p>图标hydraulic oil level来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

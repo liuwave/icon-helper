@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,13H22V11H10M10,19H22V17H10M10,7H22V5H10M6,7H8.5L5,3.5L1.5,7H4V17H1.5L5,20.5L8.5,17H6V7Z" /></svg>
 </div>
 <detail full-name='mdi-format-line-spacing'></detail>
-<div>
-<p>关于“format line spacing”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>format line spacing</b>”的评论:</p>
 </div>
-<Vssue title="关于“format line spacing”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“format line spacing”的评论" />    
+<div><p>图标format line spacing来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,6A4,4 0 0,0 8,10V16H6V18H9V23H11V18H13V23H15V18H18V16H16V10A4,4 0 0,0 12,6Z" /></svg>
 </div>
 <detail full-name='mdi-led-off'></detail>
-<div>
-<p>关于“led off”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>led off</b>”的评论:</p>
 </div>
-<Vssue title="关于“led off”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“led off”的评论" />    
+<div><p>图标led off来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,7V9H13V11H11A2,2 0 0,0 9,13V17H11L15,17V15H11V13H13A2,2 0 0,0 15,11V9A2,2 0 0,0 13,7H9Z" /></svg>
 </div>
 <detail full-name='mdi-numeric-2'></detail>
-<div>
-<p>关于“numeric 2”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>numeric 2</b>”的评论:</p>
 </div>
-<Vssue title="关于“numeric 2”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“numeric 2”的评论" />    
+<div><p>图标numeric 2来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

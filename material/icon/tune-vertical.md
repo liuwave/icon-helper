@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 3H5V9H7V3M19 3H17V13H19V3M3 13H5V21H7V13H9V11H3V13M15 7H13V3H11V7H9V9H15V7M11 21H13V11H11V21M15 15V17H17V21H19V17H21V15H15Z" /></svg>
 </div>
 <detail full-name='mdi-tune-vertical'></detail>
-<div>
-<p>关于“tune vertical”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>tune vertical</b>”的评论:</p>
 </div>
-<Vssue title="关于“tune vertical”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“tune vertical”的评论" />    
+<div><p>图标tune vertical来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

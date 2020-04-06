@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C11.6 2 11.3 2.2 11.1 2.6L6.5 15H11V19C11 19.6 10.6 20 10 20C9.4 20 9 19.6 9 19V18H7V19C7 20.7 8.3 22 10 22S13 20.7 13 19V15H17.5L12.9 2.6C12.7 2.2 12.4 2 12 2Z" /></svg>
 </div>
 <detail full-name='mdi-umbrella-closed'></detail>
-<div>
-<p>关于“umbrella closed”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>umbrella closed</b>”的评论:</p>
 </div>
-<Vssue title="关于“umbrella closed”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“umbrella closed”的评论" />    
+<div><p>图标umbrella closed来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

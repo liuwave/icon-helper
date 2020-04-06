@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,11L12,21L2,11H8V3H16V11H22M12,18L17,13H14V5H10V13H7L12,18Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-down-bold-outline'></detail>
-<div>
-<p>关于“arrow down bold outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>arrow down bold outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“arrow down bold outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“arrow down bold outline”的评论" />    
+<div><p>图标arrow down bold outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

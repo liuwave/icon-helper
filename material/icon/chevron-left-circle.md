@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2A10,10 0 0,1 22,12M15.4,16.6L10.8,12L15.4,7.4L14,6L8,12L14,18L15.4,16.6Z" /></svg>
 </div>
 <detail full-name='mdi-chevron-left-circle'></detail>
-<div>
-<p>关于“chevron left circle”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>chevron left circle</b>”的评论:</p>
 </div>
-<Vssue title="关于“chevron left circle”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“chevron left circle”的评论" />    
+<div><p>图标chevron left circle来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

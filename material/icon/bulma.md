@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.38 2L6.38 7L5.13 15.75L11.38 22L18.88 17L13.88 12L17.63 8.25L11.38 2Z" /></svg>
 </div>
 <detail full-name='mdi-bulma'></detail>
-<div>
-<p>关于“bulma”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bulma</b>”的评论:</p>
 </div>
-<Vssue title="关于“bulma”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“bulma”的评论" />    
+<div><p>图标bulma来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

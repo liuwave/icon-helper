@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,19V17H17L15.26,15.24L16.67,13.83L20.84,18L16.67,22.17L15.26,20.76L17,19H3M17,8V5H15V8H17M17,3C18.11,3 19,3.9 19,5V8C19,9.11 18.11,10 17,10H15V11A4,4 0 0,1 11,15H7A4,4 0 0,1 3,11V3H17Z" /></svg>
 </div>
 <detail full-name='mdi-coffee-to-go'></detail>
-<div>
-<p>关于“coffee to go”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>coffee to go</b>”的评论:</p>
 </div>
-<Vssue title="关于“coffee to go”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“coffee to go”的评论" />    
+<div><p>图标coffee to go来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

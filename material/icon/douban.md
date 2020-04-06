@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,6H4V4H20V6M20,18V20H4V18H7.33L6.26,14H5V8H19V14H17.74L16.67,18H20M7,12H17V10H7V12M9.4,18H14.6L15.67,14H8.33L9.4,18Z" /></svg>
 </div>
 <detail full-name='mdi-douban'></detail>
-<div>
-<p>关于“douban”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>douban</b>”的评论:</p>
 </div>
-<Vssue title="关于“douban”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“douban”的评论" />    
+<div><p>图标douban来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

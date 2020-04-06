@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2L2 12H4V21H20V12H22M12 5L18 11V19H6V11M16 13V15H8V13H16Z" /></svg>
 </div>
 <detail full-name='mdi-home-minus-outline'></detail>
-<div>
-<p>关于“home minus outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>home minus outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“home minus outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“home minus outline”的评论" />    
+<div><p>图标home minus outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

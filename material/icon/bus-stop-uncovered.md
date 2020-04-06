@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6 22V19H4V22H2V14A1 1 0 0 1 3 13A1 1 0 0 1 4 14V17H7A1 1 0 0 1 8 18V22M20 11V22H19V11A2.5 2.5 0 1 1 20 11M15 11.55V16H14V22H12.5V17H11.5V22H10V16H9V11.5A1.5 1.5 0 0 1 10.5 10H13.5A1.5 1.5 0 0 1 15 11.5M12 6.55A1.5 1.5 0 1 0 13.5 8A1.5 1.5 0 0 0 12 6.5Z" /></svg>
 </div>
 <detail full-name='mdi-bus-stop-uncovered'></detail>
-<div>
-<p>关于“bus stop uncovered”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bus stop uncovered</b>”的评论:</p>
 </div>
-<Vssue title="关于“bus stop uncovered”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“bus stop uncovered”的评论" />    
+<div><p>图标bus stop uncovered来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

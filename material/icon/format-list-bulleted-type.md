@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,9.5L7.5,14H2.5L5,9.5M3,4H7V8H3V4M5,20A2,2 0 0,0 7,18A2,2 0 0,0 5,16A2,2 0 0,0 3,18A2,2 0 0,0 5,20M9,5V7H21V5H9M9,19H21V17H9V19M9,13H21V11H9V13Z" /></svg>
 </div>
 <detail full-name='mdi-format-list-bulleted-type'></detail>
-<div>
-<p>关于“format list bulleted type”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>format list bulleted type</b>”的评论:</p>
 </div>
-<Vssue title="关于“format list bulleted type”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“format list bulleted type”的评论" />    
+<div><p>图标format list bulleted type来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

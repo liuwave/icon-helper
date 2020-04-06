@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,12V3H3V12A5,5 0 0,0 8,17H14V15H8A3,3 0 0,1 5,12M20.5,18H19V11A2,2 0 0,0 17,9H12V3H6V11A3,3 0 0,0 9,14H16V21H20.5A1.5,1.5 0 0,0 22,19.5A1.5,1.5 0 0,0 20.5,18Z" /></svg>
 </div>
 <detail full-name='mdi-seat-legroom-normal'></detail>
-<div>
-<p>关于“seat legroom normal”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>seat legroom normal</b>”的评论:</p>
 </div>
-<Vssue title="关于“seat legroom normal”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“seat legroom normal”的评论" />    
+<div><p>图标seat legroom normal来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

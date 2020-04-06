@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,9V5L6,12L13,19V14.9C18,14.9 21.5,16.5 24,20C23,15 20,10 13,9M7,8V5L0,12L7,19V16L3,12L7,8Z" /></svg>
 </div>
 <detail full-name='mdi-reply-all'></detail>
-<div>
-<p>关于“reply all”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>reply all</b>”的评论:</p>
 </div>
-<Vssue title="关于“reply all”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“reply all”的评论" />    
+<div><p>图标reply all来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

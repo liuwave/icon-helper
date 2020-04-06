@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15.5,6V1H8.5V6H3V13H8.5V23H15.5V13H21V6H15.5M19,11H13.5V21H10.5V11H5V8H10.5V3H13.5V8H19V11Z" /></svg>
 </div>
 <detail full-name='mdi-christianity-outline'></detail>
-<div>
-<p>关于“christianity outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>christianity outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“christianity outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“christianity outline”的评论" />    
+<div><p>图标christianity outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

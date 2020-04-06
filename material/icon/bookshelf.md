@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 3V18H12V3H9M12 5L16 18L19 17L15 4L12 5M5 5V18H8V5H5M3 19V21H21V19H3Z" /></svg>
 </div>
 <detail full-name='mdi-bookshelf'></detail>
-<div>
-<p>关于“bookshelf”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bookshelf</b>”的评论:</p>
 </div>
-<Vssue title="关于“bookshelf”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“bookshelf”的评论" />    
+<div><p>图标bookshelf来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

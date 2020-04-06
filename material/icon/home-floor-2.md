@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3L2,12H5V20H19V12H22L12,3M9,8H13A2,2 0 0,1 15,10V12A2,2 0 0,1 13,14H11V16H15V18H9V14A2,2 0 0,1 11,12H13V10H9V8Z" /></svg>
 </div>
 <detail full-name='mdi-home-floor-2'></detail>
-<div>
-<p>关于“home floor 2”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>home floor 2</b>”的评论:</p>
 </div>
-<Vssue title="关于“home floor 2”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“home floor 2”的评论" />    
+<div><p>图标home floor 2来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

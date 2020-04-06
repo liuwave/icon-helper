@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 8H3V6H21V8M13.81 16H10V18H13.09C13.21 17.28 13.46 16.61 13.81 16M18 11H6V13H18V11M18 15V18H15V20H18V23H20V20H23V18H20V15H18Z" /></svg>
 </div>
 <detail full-name='mdi-filter-variant-plus'></detail>
-<div>
-<p>关于“filter variant plus”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>filter variant plus</b>”的评论:</p>
 </div>
-<Vssue title="关于“filter variant plus”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“filter variant plus”的评论" />    
+<div><p>图标filter variant plus来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,3H17V5H19V8H16V14H8V8H5V5H7V3M17,9H19V14H17V9M11,15H13V22H11V15M5,9H7V14H5V9Z" /></svg>
 </div>
 <detail full-name='mdi-serial-port'></detail>
-<div>
-<p>关于“serial port”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>serial port</b>”的评论:</p>
 </div>
-<Vssue title="关于“serial port”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“serial port”的评论" />    
+<div><p>图标serial port来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22.11 21.46L2.39 1.73L1.11 3L7.11 9H5L12 16L13.06 14.95L16.11 18H5V20H18.11L20.84 22.73L22.11 21.46M11 5H13V9.8L15.6 12.4L19 9H15V3H9V5.8L11 7.8V5Z" /></svg>
 </div>
 <detail full-name='mdi-download-off-outline'></detail>
-<div>
-<p>关于“download off outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>download off outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“download off outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“download off outline”的评论" />    
+<div><p>图标download off outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

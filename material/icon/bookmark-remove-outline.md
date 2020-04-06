@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 3C5.9 3 5 3.9 5 5V21L12 18L19 21V5C19 3.89 18.1 3 17 3H7M7 5H17V18L12 15.82L7 18V5M9.88 7.47L8.47 8.88L10.59 11L8.47 13.12L9.88 14.54L12 12.42L14.12 14.53L15.54 13.12L13.42 11L15.53 8.88L14.12 7.47L12 9.59L9.88 7.47Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark-remove-outline'></detail>
-<div>
-<p>关于“bookmark remove outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bookmark remove outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“bookmark remove outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“bookmark remove outline”的评论" />    
+<div><p>图标bookmark remove outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

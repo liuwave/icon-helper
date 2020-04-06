@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.6,14L12,7.7L14.4,14M11,5L5.5,19H7.7L8.8,16H15L16.1,19H18.3L13,5H11Z" /></svg>
 </div>
 <detail full-name='mdi-format-text-variant'></detail>
-<div>
-<p>关于“format text variant”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>format text variant</b>”的评论:</p>
 </div>
-<Vssue title="关于“format text variant”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“format text variant”的评论" />    
+<div><p>图标format text variant来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

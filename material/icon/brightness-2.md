@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,2C8.18,2 6.47,2.5 5,3.35C8,5.08 10,8.3 10,12C10,15.7 8,18.92 5,20.65C6.47,21.5 8.18,22 10,22A10,10 0 0,0 20,12A10,10 0 0,0 10,2Z" /></svg>
 </div>
 <detail full-name='mdi-brightness-2'></detail>
-<div>
-<p>关于“brightness 2”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>brightness 2</b>”的评论:</p>
 </div>
-<Vssue title="关于“brightness 2”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“brightness 2”的评论" />    
+<div><p>图标brightness 2来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

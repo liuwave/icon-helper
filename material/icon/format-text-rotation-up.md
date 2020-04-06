@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 12V13.5L14 18.25V16.15L11.8 15.25V10.25L14 9.35V7.25L3 12M10 14.62L5 12.75L10 10.88V14.62M18 4.25L15 7.25H17V19.75H19V7.25H21L18 4.25Z" /></svg>
 </div>
 <detail full-name='mdi-format-text-rotation-up'></detail>
-<div>
-<p>关于“format text rotation up”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>format text rotation up</b>”的评论:</p>
 </div>
-<Vssue title="关于“format text rotation up”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“format text rotation up”的评论" />    
+<div><p>图标format text rotation up来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

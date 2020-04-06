@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21,8H3V6H21M9,13H21V11H9M9,18H21V16H9" /></svg>
 </div>
 <detail full-name='mdi-segment'></detail>
-<div>
-<p>关于“segment”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>segment</b>”的评论:</p>
 </div>
-<Vssue title="关于“segment”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“segment”的评论" />    
+<div><p>图标segment来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

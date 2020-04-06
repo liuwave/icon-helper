@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 21H20V8H4M14 15V18H10V15H7L12 10L17 15M3 3H21V7H3" /></svg>
 </div>
 <detail full-name='mdi-archive-arrow-up'></detail>
-<div>
-<p>关于“archive arrow up”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>archive arrow up</b>”的评论:</p>
 </div>
-<Vssue title="关于“archive arrow up”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“archive arrow up”的评论" />    
+<div><p>图标archive arrow up来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.45,15.18L22,7.31V19L22,21H2V3H4V15.54L9.5,6L16,9.78L20.24,2.45L21.97,3.45L16.74,12.5L10.23,8.75L4.31,19H6.57L10.96,11.44L17.45,15.18Z" /></svg>
 </div>
 <detail full-name='mdi-chart-areaspline'></detail>
-<div>
-<p>关于“chart areaspline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>chart areaspline</b>”的评论:</p>
 </div>
-<Vssue title="关于“chart areaspline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“chart areaspline”的评论" />    
+<div><p>图标chart areaspline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

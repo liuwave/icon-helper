@@ -61,9 +61,9 @@ CSS名称：
     <copy-btn content="weasyl" btn-title="复制图标名称"></copy-btn>
   </div>
 </div>
-
-<Vssue title="关于“Weasyl”的评论" >关于“Weasyl”的评论</Vssue>
-
-
+<div class="icon-detail__container">
+<p>关于“<b>Weasyl</b>”的评论:</p>
+</div>
+<Vssue title="关于“Weasyl”的评论" />
 <div><p>Simple Icon是一个免费的品牌图标库。图标Weasyl可以免费下载使用。更多关于  Simple Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/brands.html">品牌图标(Simple Icon)</a>
 </p></div>

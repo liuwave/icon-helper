@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,16V22L24,12L14,2V8H10V2L0,12L10,22V16H14M8,14V17L3,12L8,7V10H16V7L21,12L16,17V14H8Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-left-right-bold-outline'></detail>
-<div>
-<p>关于“arrow left right bold outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>arrow left right bold outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“arrow left right bold outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“arrow left right bold outline”的评论" />    
+<div><p>图标arrow left right bold outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

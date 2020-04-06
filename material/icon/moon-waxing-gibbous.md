@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6 12C6 7.5 7.93 3.26 12 2A10 10 0 0 1 12 22C7.93 20.74 6 16.5 6 12Z" /></svg>
 </div>
 <detail full-name='mdi-moon-waxing-gibbous'></detail>
-<div>
-<p>关于“moon waxing gibbous”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>moon waxing gibbous</b>”的评论:</p>
 </div>
-<Vssue title="关于“moon waxing gibbous”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“moon waxing gibbous”的评论" />    
+<div><p>图标moon waxing gibbous来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

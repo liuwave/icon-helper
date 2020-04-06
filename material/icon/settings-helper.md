@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,22H9V24H7V22M11,22H13V24H11V22M15,22H17V24H15V22Z" /></svg>
 </div>
 <detail full-name='mdi-settings-helper'></detail>
-<div>
-<p>关于“settings helper”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>settings helper</b>”的评论:</p>
 </div>
-<Vssue title="关于“settings helper”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“settings helper”的评论" />    
+<div><p>图标settings helper来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

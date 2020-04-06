@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,5V11H19V5H5M5.27,13.32L3.5,15.09L4.91,16.5L6.68,14.73L5.27,13.32M18.73,13.32L17.32,14.73L19.09,16.5L20.5,15.09L18.73,13.32M11,16V19H13V16H11Z" /></svg>
 </div>
 <detail full-name='mdi-wall-sconce-flat'></detail>
-<div>
-<p>关于“wall sconce flat”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>wall sconce flat</b>”的评论:</p>
 </div>
-<Vssue title="关于“wall sconce flat”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“wall sconce flat”的评论" />    
+<div><p>图标wall sconce flat来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.85,7.65L18,4L19.15,7.65M19,2H17L13.8,11H15.7L16.4,9H19.6L20.3,11H22.2M3,2V14H6V23L13,11H9L13,2H3Z" /></svg>
 </div>
 <detail full-name='mdi-flash-auto'></detail>
-<div>
-<p>关于“flash auto”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>flash auto</b>”的评论:</p>
 </div>
-<Vssue title="关于“flash auto”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“flash auto”的评论" />    
+<div><p>图标flash auto来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

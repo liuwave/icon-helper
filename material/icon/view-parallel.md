@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,21V3H8V21H4M10,21V3H14V21H10M16,21V3H20V21H16Z" /></svg>
 </div>
 <detail full-name='mdi-view-parallel'></detail>
-<div>
-<p>关于“view parallel”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>view parallel</b>”的评论:</p>
 </div>
-<Vssue title="关于“view parallel”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“view parallel”的评论" />    
+<div><p>图标view parallel来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

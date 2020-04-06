@@ -76,9 +76,9 @@ unicode：
 
 </div>
 <detail full-name='ri-customer-service-line'></detail>  
-<div>
-<p>关于“customer service line”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>customer service line</b>”的评论:</p>
 </div>
-<Vssue title="关于“customer service line”的评论" ></Vssue>    
-<div><p>更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
+<Vssue title="关于“customer service line”的评论" />    
+<div><p>图标customer service line来源于 Remix Icon，可免费使用，更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>

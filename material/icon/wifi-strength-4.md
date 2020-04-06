@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,3C7.79,3 3.7,4.41 0.38,7C4.41,12.06 7.89,16.37 12,21.5C16.08,16.42 20.24,11.24 23.65,7C20.32,4.41 16.22,3 12,3Z" /></svg>
 </div>
 <detail full-name='mdi-wifi-strength-4'></detail>
-<div>
-<p>关于“wifi strength 4”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>wifi strength 4</b>”的评论:</p>
 </div>
-<Vssue title="关于“wifi strength 4”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“wifi strength 4”的评论" />    
+<div><p>图标wifi strength 4来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

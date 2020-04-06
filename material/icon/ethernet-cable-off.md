@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,3H13V7H11V3M8,4H10V8H14V4H16V11H12.82L8,6.18V4M20,20.72L18.73,22L14,17.27V22H10V13.27L2,5.27L3.28,4L20,20.72Z" /></svg>
 </div>
 <detail full-name='mdi-ethernet-cable-off'></detail>
-<div>
-<p>关于“ethernet cable off”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>ethernet cable off</b>”的评论:</p>
 </div>
-<Vssue title="关于“ethernet cable off”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“ethernet cable off”的评论" />    
+<div><p>图标ethernet cable off来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

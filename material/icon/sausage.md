@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3.5,3H9.5L7.96,5.32C9.16,5.87 10,7.09 10,8.5A5.5,5.5 0 0,0 15.5,14C16.91,14 18.13,14.84 18.68,16.04L21,14.5V20.5L18.68,18.96C18.13,20.16 16.91,21 15.5,21A12.5,12.5 0 0,1 3,8.5C3,7.09 3.84,5.87 5.04,5.32L3.5,3Z" /></svg>
 </div>
 <detail full-name='mdi-sausage'></detail>
-<div>
-<p>关于“sausage”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>sausage</b>”的评论:</p>
 </div>
-<Vssue title="关于“sausage”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“sausage”的评论" />    
+<div><p>图标sausage来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5,0A3,3 0 0,0 6.5,3A3,3 0 0,0 9.5,6C10.81,6 11.92,5.17 12.33,4H14.5V6H16.5V4H17.5V2H12.33C11.92,0.83 10.81,0 9.5,0M9.5,2A1,1 0 0,1 10.5,3A1,1 0 0,1 9.5,4A1,1 0 0,1 8.5,3A1,1 0 0,1 9.5,2M6.5,8C5.84,8 5.28,8.42 5.08,9L3,15V23A1,1 0 0,0 4,24H5A1,1 0 0,0 6,23V22H18V23A1,1 0 0,0 19,24H20A1,1 0 0,0 21,23V15L18.92,9C18.72,8.42 18.16,8 17.5,8H6.5M6.5,9.5H17.5L19,14H5L6.5,9.5M6.5,16A1.5,1.5 0 0,1 8,17.5A1.5,1.5 0 0,1 6.5,19A1.5,1.5 0 0,1 5,17.5A1.5,1.5 0 0,1 6.5,16M17.5,16A1.5,1.5 0 0,1 19,17.5A1.5,1.5 0 0,1 17.5,19A1.5,1.5 0 0,1 16,17.5A1.5,1.5 0 0,1 17.5,16Z" /></svg>
 </div>
 <detail full-name='mdi-car-key'></detail>
-<div>
-<p>关于“car key”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>car key</b>”的评论:</p>
 </div>
-<Vssue title="关于“car key”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“car key”的评论" />    
+<div><p>图标car key来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

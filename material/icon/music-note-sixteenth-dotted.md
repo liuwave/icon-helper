@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 18.5A1.5 1.5 0 1 1 16.5 17A1.5 1.5 0 0 1 18 18.5M18 7V3H12V13.55A4 4 0 1 0 14 17V11H18V8H14V7Z" /></svg>
 </div>
 <detail full-name='mdi-music-note-sixteenth-dotted'></detail>
-<div>
-<p>关于“music note sixteenth dotted”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>music note sixteenth dotted</b>”的评论:</p>
 </div>
-<Vssue title="关于“music note sixteenth dotted”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“music note sixteenth dotted”的评论" />    
+<div><p>图标music note sixteenth dotted来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 5V8H13V5H11M4.91 7.5L3.5 8.91L5.27 10.68L6.68 9.27L4.91 7.5M19.09 7.5L17.32 9.27L18.73 10.68L20.5 8.91L19.09 7.5M4 12C4 14.86 5.5 17.5 8 18.93S13.5 20.36 16 18.93 20 14.86 20 12H4Z" /></svg>
 </div>
 <detail full-name='mdi-wall-sconce-round-variant'></detail>
-<div>
-<p>关于“wall sconce round variant”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>wall sconce round variant</b>”的评论:</p>
 </div>
-<Vssue title="关于“wall sconce round variant”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“wall sconce round variant”的评论" />    
+<div><p>图标wall sconce round variant来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

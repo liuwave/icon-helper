@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.88,11.53L5.12,21.29L3.71,19.88L13.47,10.12C12.76,8.59 13.26,6.44 14.85,4.85C16.76,2.93 19.5,2.57 20.96,4.03C22.43,5.5 22.07,8.24 20.15,10.15C18.56,11.74 16.41,12.24 14.88,11.53Z" /></svg>
 </div>
 <detail full-name='mdi-silverware-spoon'></detail>
-<div>
-<p>关于“silverware spoon”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>silverware spoon</b>”的评论:</p>
 </div>
-<Vssue title="关于“silverware spoon”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“silverware spoon”的评论" />    
+<div><p>图标silverware spoon来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

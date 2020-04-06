@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 4V11H14.23L22 4H19L13.46 9H5V4H3M3 13V20H5V15H13.46L19 20H22L14.23 13H3Z" /></svg>
 </div>
 <detail full-name='mdi-alphabet-aurebesh'></detail>
-<div>
-<p>关于“alphabet aurebesh”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>alphabet aurebesh</b>”的评论:</p>
 </div>
-<Vssue title="关于“alphabet aurebesh”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“alphabet aurebesh”的评论" />    
+<div><p>图标alphabet aurebesh来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

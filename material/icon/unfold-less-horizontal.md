@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.59,5.41L15.17,4L12,7.17L8.83,4L7.41,5.41L12,10M7.41,18.59L8.83,20L12,16.83L15.17,20L16.58,18.59L12,14L7.41,18.59Z" /></svg>
 </div>
 <detail full-name='mdi-unfold-less-horizontal'></detail>
-<div>
-<p>关于“unfold less horizontal”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>unfold less horizontal</b>”的评论:</p>
 </div>
-<Vssue title="关于“unfold less horizontal”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“unfold less horizontal”的评论" />    
+<div><p>图标unfold less horizontal来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

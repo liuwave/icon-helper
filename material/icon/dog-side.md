@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,3L15,7L18,10L19,9L20,10L22,8L19,5V3M3,7L2,8L5,11V14L4,15V21H6V18L8,15H15V21H17V11L14,8L13,9H5L3,7Z" /></svg>
 </div>
 <detail full-name='mdi-dog-side'></detail>
-<div>
-<p>关于“dog side”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>dog side</b>”的评论:</p>
 </div>
-<Vssue title="关于“dog side”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“dog side”的评论" />    
+<div><p>图标dog side来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

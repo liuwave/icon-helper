@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.83,8.66L3,11.5V3H11.5L8.66,5.83L18.17,15.34L21,12.5V21H12.5L15.34,18.17L5.83,8.66Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-top-left-bottom-right-bold'></detail>
-<div>
-<p>关于“arrow top left bottom right bold”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>arrow top left bottom right bold</b>”的评论:</p>
 </div>
-<Vssue title="关于“arrow top left bottom right bold”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“arrow top left bottom right bold”的评论" />    
+<div><p>图标arrow top left bottom right bold来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

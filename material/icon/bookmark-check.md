@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,3A2,2 0 0,1 19,5V21L12,18L5,21V5C5,3.89 5.9,3 7,3H17M11,14L17.25,7.76L15.84,6.34L11,11.18L8.41,8.59L7,10L11,14Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark-check'></detail>
-<div>
-<p>关于“bookmark check”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bookmark check</b>”的评论:</p>
 </div>
-<Vssue title="关于“bookmark check”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“bookmark check”的评论" />    
+<div><p>图标bookmark check来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

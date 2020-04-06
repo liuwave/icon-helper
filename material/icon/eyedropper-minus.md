@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19.35 11.72L17.22 13.85L15.81 12.43L8.1 20.14L3.5 22L2 20.5L3.86 15.9L11.57 8.19L10.15 6.78L12.28 4.65L19.35 11.72M16.76 3C17.93 1.83 19.83 1.83 21 3S22.17 6.07 21 7.24L19.08 9.16L14.84 4.92L16.76 3M5.56 17.03L4.5 19.5L6.97 18.44L14.4 11L13 9.6L5.56 17.03M9 4V6H1V4H9Z" /></svg>
 </div>
 <detail full-name='mdi-eyedropper-minus'></detail>
-<div>
-<p>关于“eyedropper minus”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>eyedropper minus</b>”的评论:</p>
 </div>
-<Vssue title="关于“eyedropper minus”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“eyedropper minus”的评论" />    
+<div><p>图标eyedropper minus来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

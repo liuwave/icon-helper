@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,20.72L18.73,22L16.78,20.05L12,18L5,21V8.27L2,5.27L3.28,4L20,20.72M19,17.16V5C19,3.89 18.1,3 17,3H7C6.41,3 5.89,3.27 5.5,3.68L19,17.16Z" /></svg>
 </div>
 <detail full-name='mdi-bookmark-off'></detail>
-<div>
-<p>关于“bookmark off”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bookmark off</b>”的评论:</p>
 </div>
-<Vssue title="关于“bookmark off”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“bookmark off”的评论" />    
+<div><p>图标bookmark off来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

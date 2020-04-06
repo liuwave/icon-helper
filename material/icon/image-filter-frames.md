@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18,8H6V18H18M20,20H4V6H8.5L12.04,2.5L15.5,6H20M20,4H16L12,0L8,4H4A2,2 0 0,0 2,6V20A2,2 0 0,0 4,22H20A2,2 0 0,0 22,20V6A2,2 0 0,0 20,4Z" /></svg>
 </div>
 <detail full-name='mdi-image-filter-frames'></detail>
-<div>
-<p>关于“image filter frames”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>image filter frames</b>”的评论:</p>
 </div>
-<Vssue title="关于“image filter frames”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“image filter frames”的评论" />    
+<div><p>图标image filter frames来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

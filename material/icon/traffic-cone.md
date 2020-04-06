@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 15L18 19H21V22H3V19H6L7 15H17M15 8L16 12H8L9 8H15M13 1L14 5H10L11 1H13Z" /></svg>
 </div>
 <detail full-name='mdi-traffic-cone'></detail>
-<div>
-<p>关于“traffic cone”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>traffic cone</b>”的评论:</p>
 </div>
-<Vssue title="关于“traffic cone”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“traffic cone”的评论" />    
+<div><p>图标traffic cone来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 18H4V8H20M20 6H12L10 4H4A2 2 0 0 0 2 6V18A2 2 0 0 0 4 20H20A2 2 0 0 0 22 18V8A2 2 0 0 0 20 6M16 17H14V13H11L15 9L19 13H16Z" /></svg>
 </div>
 <detail full-name='mdi-folder-upload-outline'></detail>
-<div>
-<p>关于“folder upload outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>folder upload outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“folder upload outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“folder upload outline”的评论" />    
+<div><p>图标folder upload outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

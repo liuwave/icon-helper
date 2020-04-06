@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,2L17.25,8.5L13.5,11.5L6,8V2M6,9L9.5,11.25L6,22L18,9V15L6,22V9Z" /></svg>
 </div>
 <detail full-name='mdi-microsoft-dynamics-365'></detail>
-<div>
-<p>关于“microsoft dynamics 365”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>microsoft dynamics 365</b>”的评论:</p>
 </div>
-<Vssue title="关于“microsoft dynamics 365”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“microsoft dynamics 365”的评论" />    
+<div><p>图标microsoft dynamics 365来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

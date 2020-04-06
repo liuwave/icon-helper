@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 2L10 9H14L17 2H7M15.92 22L13 15V22H11V15L8.08 22H5.92L10.92 10H13.08L18.08 22H15.92Z" /></svg>
 </div>
 <detail full-name='mdi-floor-lamp-variant'></detail>
-<div>
-<p>关于“floor lamp variant”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>floor lamp variant</b>”的评论:</p>
 </div>
-<Vssue title="关于“floor lamp variant”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“floor lamp variant”的评论" />    
+<div><p>图标floor lamp variant来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,22H18L12,16M21,3H3A2,2 0 0,0 1,5V17A2,2 0 0,0 3,19H7V17H3V5H21V17H17V19H21A2,2 0 0,0 23,17V5A2,2 0 0,0 21,3Z" /></svg>
 </div>
 <detail full-name='mdi-apple-airplay'></detail>
-<div>
-<p>关于“apple airplay”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>apple airplay</b>”的评论:</p>
 </div>
-<Vssue title="关于“apple airplay”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“apple airplay”的评论" />    
+<div><p>图标apple airplay来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

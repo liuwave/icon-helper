@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,5V10H9V5H5V13H9V12H10V17H9V14H5V19H12V17H13V19H19V17H21V21H3V3H21V15H19V10H13V15H12V9H19V5H10Z" /></svg>
 </div>
 <detail full-name='mdi-floor-plan'></detail>
-<div>
-<p>关于“floor plan”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>floor plan</b>”的评论:</p>
 </div>
-<Vssue title="关于“floor plan”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“floor plan”的评论" />    
+<div><p>图标floor plan来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

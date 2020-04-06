@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 14H8V20H2M16 8H10V10H16M2 10H8V4H2M10 4V6H22V4M10 20H16V18H10M10 16H22V14H10" /></svg>
 </div>
 <detail full-name='mdi-format-list-text'></detail>
-<div>
-<p>关于“format list text”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>format list text</b>”的评论:</p>
 </div>
-<Vssue title="关于“format list text”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“format list text”的评论" />    
+<div><p>图标format list text来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 4V6H4V8H15.36C15.13 8.87 14.63 9.77 13.88 10.69C13.35 11.35 12.71 12 12 12.67C11.29 12 10.65 11.35 10.12 10.69C9.65 10.12 9.3 9.55 9.03 9H6.85C7.21 10.05 7.82 11.03 8.56 11.95C9.13 12.66 9.79 13.34 10.5 14L5.36 18.23L6.64 19.77L12 15.34L17.36 19.77L18.64 18.23L13.5 14C14.21 13.34 14.87 12.66 15.44 11.95C16.41 10.74 17.16 9.43 17.4 8H20V6H13V4Z" /></svg>
 </div>
 <detail full-name='mdi-ideogram-cjk-variant'></detail>
-<div>
-<p>关于“ideogram cjk variant”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>ideogram cjk variant</b>”的评论:</p>
 </div>
-<Vssue title="关于“ideogram cjk variant”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“ideogram cjk variant”的评论" />    
+<div><p>图标ideogram cjk variant来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -72,9 +72,9 @@ unicode：
 
 </div>
 <detail full-name='fa-safari'></detail>
-<div>
-<p>关于“Safari”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Safari</b>”的评论:</p>
 </div>
-<Vssue title="关于“Safari”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Safari”的评论" />    
+<div><p>图标Safari来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

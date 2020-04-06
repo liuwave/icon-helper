@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 7H11V9H7V11H10V13H7V17H5V7M17 17H13V15H17V13H15C13.9 13 13 12.11 13 11V9C13 7.9 13.9 7 15 7H17C18.11 7 19 7.9 19 9V15C19 16.11 18.11 17 17 17M17 11V9H15V11H17Z" /></svg>
 </div>
 <detail full-name='mdi-keyboard-f9'></detail>
-<div>
-<p>关于“keyboard f9”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>keyboard f9</b>”的评论:</p>
 </div>
-<Vssue title="关于“keyboard f9”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“keyboard f9”的评论" />    
+<div><p>图标keyboard f9来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

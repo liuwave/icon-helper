@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,8V11H22V14H19V17H16V14H13V11H16V8H19M5,10.5H8V4.5H11V19.5H8V13.5H5V19.5H2V4.5H5V10.5Z" /></svg>
 </div>
 <detail full-name='mdi-signal-hspa-plus'></detail>
-<div>
-<p>关于“signal hspa plus”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>signal hspa plus</b>”的评论:</p>
 </div>
-<Vssue title="关于“signal hspa plus”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“signal hspa plus”的评论" />    
+<div><p>图标signal hspa plus来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

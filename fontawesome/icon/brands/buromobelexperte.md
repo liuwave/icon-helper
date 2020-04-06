@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M0 32v128h128V32H0zm120 120H8V40h112v112zm40-120v128h128V32H160zm120 120H168V40h112v112zm40-120v128h128V32H320zm120 120H328V40h112v112zM0 192v128h128V192H0zm120 120H8V200h112v112zm40-120v128h128V192H160zm120 120H168V200h112v112zm40-120v128h128V192H320zm120 120H328V200h112v112zM0 352v128h128V352H0zm120 120H8V360h112v112zm40-120v128h128V352H160zm120 120H168V360h112v112zm40-120v128h128V352H320z"/></svg>
 </div>
 <detail full-name='fa-buromobelexperte'></detail>
-<div>
-<p>关于“Büromöbel-Experte GmbH & Co. KG.”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Büromöbel-Experte GmbH & Co. KG.</b>”的评论:</p>
 </div>
-<Vssue title="关于“Büromöbel-Experte GmbH & Co. KG.”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Büromöbel-Experte GmbH & Co. KG.”的评论" />    
+<div><p>图标Büromöbel-Experte GmbH & Co. KG.来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

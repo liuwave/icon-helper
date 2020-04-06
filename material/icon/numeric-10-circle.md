@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 9H16V15H14V9M22 12C22 17.5 17.5 22 12 22S2 17.5 2 12 6.5 2 12 2 22 6.5 22 12M10 7H6V9H8V17H10V7M18 9C18 7.9 17.11 7 16 7H14C12.9 7 12 7.9 12 9V15C12 16.11 12.9 17 14 17H16C17.11 17 18 16.11 18 15V9Z" /></svg>
 </div>
 <detail full-name='mdi-numeric-10-circle'></detail>
-<div>
-<p>关于“numeric 10 circle”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>numeric 10 circle</b>”的评论:</p>
 </div>
-<Vssue title="关于“numeric 10 circle”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“numeric 10 circle”的评论" />    
+<div><p>图标numeric 10 circle来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,4H13V16L18.5,10.5L19.92,11.92L12,19.84L4.08,11.92L5.5,10.5L11,16V4Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-down'></detail>
-<div>
-<p>关于“arrow down”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>arrow down</b>”的评论:</p>
 </div>
-<Vssue title="关于“arrow down”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“arrow down”的评论" />    
+<div><p>图标arrow down来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

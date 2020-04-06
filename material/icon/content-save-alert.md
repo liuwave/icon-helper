@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 12H20V7H22M22 14H20V16H22M14 4H4A2 2 0 0 0 2 6V18A2 2 0 0 0 4 20H16A2 2 0 0 0 18 18V8M4 6H12V9H4M10 18A2.5 2.5 0 1 1 12.5 15.5A2.5 2.5 0 0 1 10 18Z" /></svg>
 </div>
 <detail full-name='mdi-content-save-alert'></detail>
-<div>
-<p>关于“content save alert”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>content save alert</b>”的评论:</p>
 </div>
-<Vssue title="关于“content save alert”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“content save alert”的评论" />    
+<div><p>图标content save alert来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

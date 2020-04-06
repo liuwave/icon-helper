@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,10H11V6H13V10M13,12H11V14H13V12M22,4V16A2,2 0 0,1 20,18H6L2,22V4A2,2 0 0,1 4,2H20A2,2 0 0,1 22,4M20,4H4V17.2L5.2,16H20V4Z" /></svg>
 </div>
 <detail full-name='mdi-message-alert-outline'></detail>
-<div>
-<p>关于“message alert outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>message alert outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“message alert outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“message alert outline”的评论" />    
+<div><p>图标message alert outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

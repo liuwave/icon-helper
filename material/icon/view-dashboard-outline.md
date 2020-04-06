@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,5V7H15V5H19M9,5V11H5V5H9M19,13V19H15V13H19M9,17V19H5V17H9M21,3H13V9H21V3M11,3H3V13H11V3M21,11H13V21H21V11M11,15H3V21H11V15Z" /></svg>
 </div>
 <detail full-name='mdi-view-dashboard-outline'></detail>
-<div>
-<p>关于“view dashboard outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>view dashboard outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“view dashboard outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“view dashboard outline”的评论" />    
+<div><p>图标view dashboard outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

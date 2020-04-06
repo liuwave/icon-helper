@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6 7H8L9 9.5L10 7H12L10 12L12 17H10L9 14.5L8 17H6L8 12L6 7M13 7H15V15H19V17H13V7Z" /></svg>
 </div>
 <detail full-name='mdi-size-xl'></detail>
-<div>
-<p>关于“size xl”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>size xl</b>”的评论:</p>
 </div>
-<Vssue title="关于“size xl”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“size xl”的评论" />    
+<div><p>图标size xl来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 6V4H15V6H11M6 9H8V13H6V9M6 6C6 4.89 6.9 4 8 4H9V6H8V7H6V6M8 18C6.89 18 6 17.1 6 16V15H8V16H9V18H8M18 4C19.11 4 20 4.9 20 6V7H18V6H17V4H18M15 16V18H11V16H15M20 13H18V9H20V13M20 16C20 17.11 19.1 18 18 18H17V16H18V15H20V16M3 8H4V20H16V21C16 21.54 15.57 22 15.03 22H15L3 22C2.45 22 2 21.55 2 21V9C2 8.45 2.45 8 3 8Z" /></svg>
 </div>
 <detail full-name='mdi-selection-mutliple'></detail>
-<div>
-<p>关于“selection mutliple”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>selection mutliple</b>”的评论:</p>
 </div>
-<Vssue title="关于“selection mutliple”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“selection mutliple”的评论" />    
+<div><p>图标selection mutliple来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

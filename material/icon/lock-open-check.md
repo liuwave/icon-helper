@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 8C19.1 8 20 8.9 20 10V20C20 21.1 19.1 22 18 22H6C4.89 22 4 21.1 4 20V10C4 8.9 4.89 8 6 8H15V6C15 4.34 13.66 3 12 3C10.34 3 9 4.34 9 6H7C7 3.24 9.24 1 12 1C14.76 1 17 3.24 17 6V8H18M11 19L17.25 12.76L15.84 11.35L11 16.18L8.41 13.6L7 15L11 19Z" /></svg>
 </div>
 <detail full-name='mdi-lock-open-check'></detail>
-<div>
-<p>关于“lock open check”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>lock open check</b>”的评论:</p>
 </div>
-<Vssue title="关于“lock open check”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“lock open check”的评论" />    
+<div><p>图标lock open check来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

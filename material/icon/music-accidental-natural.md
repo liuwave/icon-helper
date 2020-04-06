@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 8.75V3.5H8V17.5L14 15.25V20.5H16V6.5L10 8.75M14 13.25L10 14.75V10.75L14 9.25V13.25Z" /></svg>
 </div>
 <detail full-name='mdi-music-accidental-natural'></detail>
-<div>
-<p>关于“music accidental natural”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>music accidental natural</b>”的评论:</p>
 </div>
-<Vssue title="关于“music accidental natural”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“music accidental natural”的评论" />    
+<div><p>图标music accidental natural来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

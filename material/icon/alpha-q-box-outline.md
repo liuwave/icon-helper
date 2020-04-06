@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,4H19A2,2 0 0,1 21,6V20A2,2 0 0,1 19,22H5A2,2 0 0,1 3,20V6A2,2 0 0,1 5,4M5,6V20H19V6H5M11,7H13A2,2 0 0,1 15,9V15A2,2 0 0,1 13,17V19H11V17A2,2 0 0,1 9,15V9A2,2 0 0,1 11,7M11,9V15H13V9H11Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-q-box-outline'></detail>
-<div>
-<p>关于“alpha q box outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>alpha q box outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“alpha q box outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“alpha q box outline”的评论" />    
+<div><p>图标alpha q box outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

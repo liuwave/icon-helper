@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17.25,18H6.75V4H17.25M14,21H10V20H14M16,1H8A3,3 0 0,0 5,4V20A3,3 0 0,0 8,23H16A3,3 0 0,0 19,20V4A3,3 0 0,0 16,1Z" /></svg>
 </div>
 <detail full-name='mdi-cellphone-android'></detail>
-<div>
-<p>关于“cellphone android”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>cellphone android</b>”的评论:</p>
 </div>
-<Vssue title="关于“cellphone android”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“cellphone android”的评论" />    
+<div><p>图标cellphone android来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

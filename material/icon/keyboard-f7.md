@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 7H11V9H7V11H10V13H7V17H5V7M15 17H13L17 9H13V7H19V9L15 17Z" /></svg>
 </div>
 <detail full-name='mdi-keyboard-f7'></detail>
-<div>
-<p>关于“keyboard f7”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>keyboard f7</b>”的评论:</p>
 </div>
-<Vssue title="关于“keyboard f7”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“keyboard f7”的评论" />    
+<div><p>图标keyboard f7来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

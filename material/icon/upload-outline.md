@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,10V16H15V10H19L12,3L5,10H9M12,5.8L14.2,8H13V14H11V8H9.8L12,5.8M19,18H5V20H19V18Z" /></svg>
 </div>
 <detail full-name='mdi-upload-outline'></detail>
-<div>
-<p>关于“upload outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>upload outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“upload outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“upload outline”的评论" />    
+<div><p>图标upload outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

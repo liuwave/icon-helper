@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.84 22.73L18.73 20.62C18.32 21.43 17.5 22 16.5 22C15.12 22 14 20.88 14 19.5C14 18.5 14.57 17.68 15.38 17.27L14.11 16H4V5.89L1.11 3L2.39 1.73L22.11 21.46L20.84 22.73M19 15C19 10 14 10 14 10H13.2L18.72 15.5C19 15.27 19 15 19 15M11.64 7.5L11.43 6H9.24V4.5H11.21L11 3H6.2L10.7 7.5H11.64M6.5 17C5.12 17 4 18.12 4 19.5S5.12 22 6.5 22 9 20.88 9 19.5 7.88 17 6.5 17Z" /></svg>
 </div>
 <detail full-name='mdi-roller-skate-off'></detail>
-<div>
-<p>关于“roller skate off”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>roller skate off</b>”的评论:</p>
 </div>
-<Vssue title="关于“roller skate off”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“roller skate off”的评论" />    
+<div><p>图标roller skate off来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

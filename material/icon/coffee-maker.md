@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 1V4H7V21H21V23H2V3C2 1.89 2.89 1 4 1H21M22 13V15C22 16.11 21.11 17 20 17H18C18 20 15 20 14 20S10 20 10 17V11H20C21.11 11 22 11.9 22 13M20 13H18V15H20V13M17 9L19 5H9L11 9H17Z" /></svg>
 </div>
 <detail full-name='mdi-coffee-maker'></detail>
-<div>
-<p>关于“coffee maker”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>coffee maker</b>”的评论:</p>
 </div>
-<Vssue title="关于“coffee maker”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“coffee maker”的评论" />    
+<div><p>图标coffee maker来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M192 0C86 0 0 214 0 320s86 192 192 192 192-86 192-192S298 0 192 0z"/></svg>
 </div>
 <detail full-name='fa-egg'></detail>
-<div>
-<p>关于“Egg”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Egg</b>”的评论:</p>
 </div>
-<Vssue title="关于“Egg”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Egg”的评论" />    
+<div><p>图标Egg来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

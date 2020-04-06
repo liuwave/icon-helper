@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.14 4L6.43 16H8.36L9.32 13.43H14.67L15.64 16H17.57L12.86 4M12 6.29L14.03 11.71H9.96M20 14V18H4V15H2V20H22V14Z" /></svg>
 </div>
 <detail full-name='mdi-format-letter-matches'></detail>
-<div>
-<p>关于“format letter matches”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>format letter matches</b>”的评论:</p>
 </div>
-<Vssue title="关于“format letter matches”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“format letter matches”的评论" />    
+<div><p>图标format letter matches来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

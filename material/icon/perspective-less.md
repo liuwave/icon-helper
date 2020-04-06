@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.56,12L19.23,20H4.78L7.44,12H16.56M7,1L3,5L7,9V6H11V4H7V1M17,1V4H13V6H17V9L21,5L17,1M18,10H6L2,22H22L18,10Z" /></svg>
 </div>
 <detail full-name='mdi-perspective-less'></detail>
-<div>
-<p>关于“perspective less”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>perspective less</b>”的评论:</p>
 </div>
-<Vssue title="关于“perspective less”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“perspective less”的评论" />    
+<div><p>图标perspective less来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

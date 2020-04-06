@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19.5,3.09L15,7.59V4H13V11H20V9H16.41L20.91,4.5L19.5,3.09M4,13V15H7.59L3.09,19.5L4.5,20.91L9,16.41V20H11V13H4Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-collapse'></detail>
-<div>
-<p>关于“arrow collapse”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>arrow collapse</b>”的评论:</p>
 </div>
-<Vssue title="关于“arrow collapse”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“arrow collapse”的评论" />    
+<div><p>图标arrow collapse来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

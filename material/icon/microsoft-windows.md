@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,12V6.75L9,5.43V11.91L3,12M20,3V11.75L10,11.9V5.21L20,3M3,13L9,13.09V19.9L3,18.75V13M20,13.25V22L10,20.09V13.1L20,13.25Z" /></svg>
 </div>
 <detail full-name='mdi-microsoft-windows'></detail>
-<div>
-<p>关于“microsoft windows”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>microsoft windows</b>”的评论:</p>
 </div>
-<Vssue title="关于“microsoft windows”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“microsoft windows”的评论" />    
+<div><p>图标microsoft windows来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

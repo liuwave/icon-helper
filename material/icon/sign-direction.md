@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11,12H3.5L6,9.5L3.5,7H11V3L12,2L13,3V7H18L20.5,9.5L18,12H13V20A2,2 0 0,1 15,22H9A2,2 0 0,1 11,20V12Z" /></svg>
 </div>
 <detail full-name='mdi-sign-direction'></detail>
-<div>
-<p>关于“sign direction”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>sign direction</b>”的评论:</p>
 </div>
-<Vssue title="关于“sign direction”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“sign direction”的评论" />    
+<div><p>图标sign direction来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

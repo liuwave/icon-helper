@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,2V5H2V2H22M2,8H7L9,10H10V20A2,2 0 0,0 12,22A2,2 0 0,0 14,20V10H15L17,8H22V6H2V8Z" /></svg>
 </div>
 <detail full-name='mdi-squeegee'></detail>
-<div>
-<p>关于“squeegee”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>squeegee</b>”的评论:</p>
 </div>
-<Vssue title="关于“squeegee”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“squeegee”的评论" />    
+<div><p>图标squeegee来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

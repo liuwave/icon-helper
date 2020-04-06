@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 4H11L10 2H14L13 4M19 13V22H5V13C5 10.24 7.24 8 10 8V6H9V5H15V6H14V8C16.76 8 19 10.24 19 13M17 13C17 11.35 15.65 10 14 10H10C8.35 10 7 11.35 7 13V20H17V13M15 16H13V18H11V16H9V14H11V12H13V14H15V16Z" /></svg>
 </div>
 <detail full-name='mdi-bottle-tonic-plus-outline'></detail>
-<div>
-<p>关于“bottle tonic plus outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bottle tonic plus outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“bottle tonic plus outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“bottle tonic plus outline”的评论" />    
+<div><p>图标bottle tonic plus outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

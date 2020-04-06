@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3V21H21V3H3M18 18H6V17H18V18M18 16H6V15H18V16M18 12H6V6H18V12Z" /></svg>
 </div>
 <detail full-name='mdi-post'></detail>
-<div>
-<p>关于“post”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>post</b>”的评论:</p>
 </div>
-<Vssue title="关于“post”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“post”的评论" />    
+<div><p>图标post来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

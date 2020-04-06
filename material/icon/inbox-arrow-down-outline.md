@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3H5A2 2 0 0 0 3 5V19A2 2 0 0 0 5 21H19A2 2 0 0 0 21 19V5A2 2 0 0 0 19 3M5 19V17H8.13A4.13 4.13 0 0 0 9.4 19M19 19H14.6A4.13 4.13 0 0 0 15.87 17H19M19 15H14V16A2 2 0 0 1 10 16V15H5V5H19M16 10H14V7H10V10H8L12 14" /></svg>
 </div>
 <detail full-name='mdi-inbox-arrow-down-outline'></detail>
-<div>
-<p>关于“inbox arrow down outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>inbox arrow down outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“inbox arrow down outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“inbox arrow down outline”的评论" />    
+<div><p>图标inbox arrow down outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

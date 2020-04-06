@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.5 6.08C5.72 6.12 5 6.62 4.72 7.4L3 12.13V22H7V12.84L8.42 8.94L10.7 10H14V8H11.15L7.29 6.2C7.03 6.11 6.76 6.07 6.5 6.08M9 17H21V19H9M10 3.5A2 2 0 0 1 8 5.5A2 2 0 0 1 6 3.5A2 2 0 0 1 8 1.5A2 2 0 0 1 10 3.5M21 14.5A1.5 1.5 0 0 1 19.5 16A1.5 1.5 0 0 1 18 14.5A1.5 1.5 0 0 1 19.5 13A1.5 1.5 0 0 1 21 14.5M9 11V13H11V14C11 15.11 11.89 16 13 16H15C16.11 16 17 15.11 17 14V11H15V13H13V12A1 1 0 0 0 12 11Z" /></svg>
 </div>
 <detail full-name='mdi-human-baby-changing-table'></detail>
-<div>
-<p>关于“human baby changing table”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>human baby changing table</b>”的评论:</p>
 </div>
-<Vssue title="关于“human baby changing table”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“human baby changing table”的评论" />    
+<div><p>图标human baby changing table来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

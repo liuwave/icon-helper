@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15,15H17V11H15M7,15H9V11H7M11,13H13V9H11M8.83,7H15.2L19,10.8V17H5V10.8M8,5L3,10V19H21V10L16,5H8Z" /></svg>
 </div>
 <detail full-name='mdi-power-socket'></detail>
-<div>
-<p>关于“power socket”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>power socket</b>”的评论:</p>
 </div>
-<Vssue title="关于“power socket”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“power socket”的评论" />    
+<div><p>图标power socket来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

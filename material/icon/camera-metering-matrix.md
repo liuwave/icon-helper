@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,4H20A2,2 0 0,1 22,6V18A2,2 0 0,1 20,20H4A2,2 0 0,1 2,18V6A2,2 0 0,1 4,4M4,6V18H20V6H4M5.5,7.5H11V9.17C10.15,9.47 9.47,10.15 9.17,11H5.5V7.5M18.5,7.5V11H14.83C14.53,10.15 13.85,9.47 13,9.17V7.5H18.5M18.5,16.5H13V14.83C13.85,14.53 14.53,13.85 14.83,13H18.5V16.5M5.5,16.5V13H9.17C9.47,13.85 10.15,14.53 11,14.83V16.5H5.5M12,10.5A1.5,1.5 0 0,1 13.5,12A1.5,1.5 0 0,1 12,13.5A1.5,1.5 0 0,1 10.5,12A1.5,1.5 0 0,1 12,10.5Z" /></svg>
 </div>
 <detail full-name='mdi-camera-metering-matrix'></detail>
-<div>
-<p>关于“camera metering matrix”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>camera metering matrix</b>”的评论:</p>
 </div>
-<Vssue title="关于“camera metering matrix”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“camera metering matrix”的评论" />    
+<div><p>图标camera metering matrix来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

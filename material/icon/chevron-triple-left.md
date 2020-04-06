@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.42,7.41L4.83,12L9.42,16.59L8,18L2,12L8,6L9.42,7.41M15.42,7.41L10.83,12L15.42,16.59L14,18L8,12L14,6L15.42,7.41M21.42,7.41L16.83,12L21.42,16.59L20,18L14,12L20,6L21.42,7.41Z" /></svg>
 </div>
 <detail full-name='mdi-chevron-triple-left'></detail>
-<div>
-<p>关于“chevron triple left”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>chevron triple left</b>”的评论:</p>
 </div>
-<Vssue title="关于“chevron triple left”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“chevron triple left”的评论" />    
+<div><p>图标chevron triple left来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

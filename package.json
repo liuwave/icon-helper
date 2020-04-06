@@ -27,11 +27,13 @@
     "f:dev": "vuepress dev fontawesome",
     "f:build": "vuepress build fontawesome",
     "i:dev": "vuepress dev index",
-    "i:build": "vuepress build index"
+    "i:build": "vuepress build index",
+    "remix:build": "vuepress build remix",
+    "remix:dev": "vuepress dev remix",
+    "brands:build": "vuepress build brands",
+    "brands:dev": "vuepress dev brands"
   },
   "dependencies": {
-    "@vssue/api-gitee-v5": "^1.4.0",
-    "@vssue/api-github-v3": "^1.4.3",
     "@vssue/api-github-v4": "^1.4.0",
     "@vssue/vuepress-plugin-vssue": "^1.4.3",
     "@vuepress/theme-default": "^1.4.0",

@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M0 512V48C0 21.49 21.49 0 48 0h288c26.51 0 48 21.49 48 48v464L192 400 0 512z"/></svg>
 </div>
 <detail full-name='fa-bookmark'></detail>
-<div>
-<p>关于“bookmark”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bookmark</b>”的评论:</p>
 </div>
-<Vssue title="关于“bookmark”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“bookmark”的评论" />    
+<div><p>图标bookmark来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

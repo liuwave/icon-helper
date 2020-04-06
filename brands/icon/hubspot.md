@@ -61,9 +61,9 @@ CSS名称：
     <copy-btn content="hubspot" btn-title="复制图标名称"></copy-btn>
   </div>
 </div>
-
-<Vssue title="关于“HubSpot”的评论" >关于“HubSpot”的评论</Vssue>
-
-
+<div class="icon-detail__container">
+<p>关于“<b>HubSpot</b>”的评论:</p>
+</div>
+<Vssue title="关于“HubSpot”的评论" />
 <div><p>Simple Icon是一个免费的品牌图标库。图标HubSpot可以免费下载使用。更多关于  Simple Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/brands.html">品牌图标(Simple Icon)</a>
 </p></div>

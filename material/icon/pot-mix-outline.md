@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.6 9L18 3.1L19.7 4.1L16.9 9H14.6M16.3 10H21V12H19V19C19 20.1 18.1 21 17 21H7C5.9 21 5 20.1 5 19V12H3V10H16.3M17 12H7V19H17V12Z" /></svg>
 </div>
 <detail full-name='mdi-pot-mix-outline'></detail>
-<div>
-<p>关于“pot mix outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>pot mix outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“pot mix outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“pot mix outline”的评论" />    
+<div><p>图标pot mix outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

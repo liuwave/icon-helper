@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,5H21V19H13V5M3,5H11V7H3V5M3,11V9H11V11H3M3,19V17H11V19H3M3,15V13H11V15H3Z" /></svg>
 </div>
 <detail full-name='mdi-view-split-vertical'></detail>
-<div>
-<p>关于“view split vertical”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>view split vertical</b>”的评论:</p>
 </div>
-<Vssue title="关于“view split vertical”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“view split vertical”的评论" />    
+<div><p>图标view split vertical来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

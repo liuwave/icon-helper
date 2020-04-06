@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 13V5A3 3 0 0 0 9 5V13A5 5 0 1 0 15 13M12 4A1 1 0 0 1 13 5H11A1 1 0 0 1 12 4Z" /></svg>
 </div>
 <detail full-name='mdi-thermometer-high'></detail>
-<div>
-<p>关于“thermometer high”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>thermometer high</b>”的评论:</p>
 </div>
-<Vssue title="关于“thermometer high”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“thermometer high”的评论" />    
+<div><p>图标thermometer high来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

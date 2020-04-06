@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6 14H8V10H16V14H18V15H6V14Z" /></svg>
 </div>
 <detail full-name='mdi-music-rest-half'></detail>
-<div>
-<p>关于“music rest half”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>music rest half</b>”的评论:</p>
 </div>
-<Vssue title="关于“music rest half”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“music rest half”的评论" />    
+<div><p>图标music rest half来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

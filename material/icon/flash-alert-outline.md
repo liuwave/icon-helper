@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5,2H15L11.5,9H15L8,22V14H5V2M7,4V12H10V14.66L12,11H8.24L11.76,4M17,15H19V17H17V15M17,7H19V13H17V7Z" /></svg>
 </div>
 <detail full-name='mdi-flash-alert-outline'></detail>
-<div>
-<p>关于“flash alert outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>flash alert outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“flash alert outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“flash alert outline”的评论" />    
+<div><p>图标flash alert outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

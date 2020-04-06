@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 10V7C17 5.9 16.11 5 15 5H9C7.9 5 7 5.9 7 7V10C5.9 10 4.89 10.9 5 12V17H6.33L7 19H8L8.67 17H15.33L16 19H17L17.67 17H19V12C19 10.9 18.11 10 17 10M15 10H9V7H15Z" /></svg>
 </div>
 <detail full-name='mdi-bed-single'></detail>
-<div>
-<p>关于“bed single”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bed single</b>”的评论:</p>
 </div>
-<Vssue title="关于“bed single”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“bed single”的评论" />    
+<div><p>图标bed single来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

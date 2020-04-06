@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M 11,4L 13,4L 13,15L 11,15L 11,4 Z M 13,18L 13,20L 11,20L 11,18L 13,18 Z" /></svg>
 </div>
 <detail full-name='mdi-exclamation'></detail>
-<div>
-<p>关于“exclamation”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>exclamation</b>”的评论:</p>
 </div>
-<Vssue title="关于“exclamation”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“exclamation”的评论" />    
+<div><p>图标exclamation来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

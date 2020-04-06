@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14,2L20,8V20A2,2 0 0,1 18,22H6A2,2 0 0,1 4,20V4A2,2 0 0,1 6,2H14M18,20V9H13V4H6V20H18M11.2,18.46L8.45,15.46L9.61,14.3L11.2,15.88L14.78,12.3L15.95,13.71L11.2,18.46Z" /></svg>
 </div>
 <detail full-name='mdi-file-check-outline'></detail>
-<div>
-<p>关于“file check outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>file check outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“file check outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“file check outline”的评论" />    
+<div><p>图标file check outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

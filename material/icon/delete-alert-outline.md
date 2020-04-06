@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 19V7H16V19C16 20.1 15.1 21 14 21H6C4.9 21 4 20.1 4 19M6 9V19H14V9H6M13.5 4H17V6H3V4H6.5L7.5 3H12.5L13.5 4M19 18V16H21V18H19M19 14V9H21V14H19Z" /></svg>
 </div>
 <detail full-name='mdi-delete-alert-outline'></detail>
-<div>
-<p>关于“delete alert outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>delete alert outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“delete alert outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“delete alert outline”的评论" />    
+<div><p>图标delete alert outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 7H22L18 3L14 7H17V21H19M2 17H12V19H2M6 5V7H2V5M2 11H9V13H2V11Z" /></svg>
 </div>
 <detail full-name='mdi-sort-descending'></detail>
-<div>
-<p>关于“sort descending”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>sort descending</b>”的评论:</p>
 </div>
-<Vssue title="关于“sort descending”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“sort descending”的评论" />    
+<div><p>图标sort descending来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

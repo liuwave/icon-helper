@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A7 7 0 0 0 5 9C5 14.25 12 22 12 22S19 14.25 19 9A7 7 0 0 0 12 2M7.5 10H10V5H14V10H16.5L12 14.5Z" /></svg>
 </div>
 <detail full-name='mdi-map-marker-down'></detail>
-<div>
-<p>关于“map marker down”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>map marker down</b>”的评论:</p>
 </div>
-<Vssue title="关于“map marker down”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“map marker down”的评论" />    
+<div><p>图标map marker down来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

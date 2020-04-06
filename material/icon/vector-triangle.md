@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,3V9H9.73L5.79,16H2V22H8V20H16V22H22V16H18.21L14.27,9H15V3M11,5H13V7H11M12,9.04L16,16.15V18H8V16.15M4,18H6V20H4M18,18H20V20H18" /></svg>
 </div>
 <detail full-name='mdi-vector-triangle'></detail>
-<div>
-<p>关于“vector triangle”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>vector triangle</b>”的评论:</p>
 </div>
-<Vssue title="关于“vector triangle”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“vector triangle”的评论" />    
+<div><p>图标vector triangle来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

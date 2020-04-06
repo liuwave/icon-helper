@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,21V19H6.41L10.91,14.5L9.5,13.09L5,17.59V14H3V21H10M14.5,10.91L19,6.41V10H21V3H14V5H17.59L13.09,9.5L14.5,10.91Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-expand'></detail>
-<div>
-<p>关于“arrow expand”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>arrow expand</b>”的评论:</p>
 </div>
-<Vssue title="关于“arrow expand”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“arrow expand”的评论" />    
+<div><p>图标arrow expand来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

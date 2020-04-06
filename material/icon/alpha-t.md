@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9,7V9H11V17H13V9H15V7H9Z" /></svg>
 </div>
 <detail full-name='mdi-alpha-t'></detail>
-<div>
-<p>关于“alpha t”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>alpha t</b>”的评论:</p>
 </div>
-<Vssue title="关于“alpha t”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“alpha t”的评论" />    
+<div><p>图标alpha t来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

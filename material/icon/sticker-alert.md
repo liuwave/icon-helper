@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.5 2H5.5C3.6 2 2 3.6 2 5.5V18.5C2 20.4 3.6 22 5.5 22H16L22 16V5.5C22 3.6 20.4 2 18.5 2M13 16H11V14H13V16M13 12H11V8H13V12M15 20V18.5C15 16.6 16.6 15 18.5 15H20L15 20Z" /></svg>
 </div>
 <detail full-name='mdi-sticker-alert'></detail>
-<div>
-<p>关于“sticker alert”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>sticker alert</b>”的评论:</p>
 </div>
-<Vssue title="关于“sticker alert”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“sticker alert”的评论" />    
+<div><p>图标sticker alert来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

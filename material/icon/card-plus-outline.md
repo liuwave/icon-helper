@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 15V18H24V20H21V23H19V20H16V18H19V15H21M14 18H3V6H19V13H21V6C21 4.89 20.11 4 19 4H3C1.9 4 1 4.89 1 6V18C1 19.11 1.9 20 3 20H14V18Z" /></svg>
 </div>
 <detail full-name='mdi-card-plus-outline'></detail>
-<div>
-<p>关于“card plus outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>card plus outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“card plus outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“card plus outline”的评论" />    
+<div><p>图标card plus outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

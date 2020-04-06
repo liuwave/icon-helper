@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4,4H20V20H4V4M6,8V18H18V8H6Z" /></svg>
 </div>
 <detail full-name='mdi-window-maximize'></detail>
-<div>
-<p>关于“window maximize”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>window maximize</b>”的评论:</p>
 </div>
-<Vssue title="关于“window maximize”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“window maximize”的评论" />    
+<div><p>图标window maximize来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

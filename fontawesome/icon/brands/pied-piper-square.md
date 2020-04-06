@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M32 419L0 479.2l.8-328C.8 85.3 54 32 120 32h327.2c-93 28.9-189.9 94.2-253.9 168.6C122.7 282 82.6 338 32 419M448 32S305.2 98.8 261.6 199.1c-23.2 53.6-28.9 118.1-71 158.6-28.9 27.8-69.8 38.2-105.3 56.3-23.2 12-66.4 40.5-84.9 66h328.4c66 0 119.3-53.3 119.3-119.2-.1 0-.1-328.8-.1-328.8z"/></svg>
 </div>
 <detail full-name='fa-pied-piper-square'></detail>
-<div>
-<p>关于“Pied Piper Square Logo (Old)”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Pied Piper Square Logo (Old)</b>”的评论:</p>
 </div>
-<Vssue title="关于“Pied Piper Square Logo (Old)”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Pied Piper Square Logo (Old)”的评论" />    
+<div><p>图标Pied Piper Square Logo (Old)来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

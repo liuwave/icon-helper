@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,9V14L16,20A2,2 0 0,1 14,22H10A2,2 0 0,1 8,20V14L8,9C8,7.14 9.27,5.57 11,5.13V4H9V2H15V4H13V5.13C14.73,5.57 16,7.14 16,9Z" /></svg>
 </div>
 <detail full-name='mdi-gas-cylinder'></detail>
-<div>
-<p>关于“gas cylinder”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>gas cylinder</b>”的评论:</p>
 </div>
-<Vssue title="关于“gas cylinder”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“gas cylinder”的评论" />    
+<div><p>图标gas cylinder来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,21H21V19H19M15,21H17V19H15M19,17H21V15H19M3,5H21V3H3M19,13H21V11H19M19,9H21V7H19M3,9H5V7H3M3,13H5V11H3M3,21H5V19H3M3,17H5V15H3M11,21H13V19H11M7,21H9V19H7V21Z" /></svg>
 </div>
 <detail full-name='mdi-border-top-variant'></detail>
-<div>
-<p>关于“border top variant”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>border top variant</b>”的评论:</p>
 </div>
-<Vssue title="关于“border top variant”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“border top variant”的评论" />    
+<div><p>图标border top variant来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

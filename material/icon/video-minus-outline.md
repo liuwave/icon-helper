@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 8V16H5V8H15M16 6H4C3.45 6 3 6.45 3 7V17C3 17.55 3.45 18 4 18H16C16.55 18 17 17.55 17 17V13.5L21 17.5V6.5L17 10.5V7C17 6.45 16.55 6 16 6M13 13H7V11H13V13Z" /></svg>
 </div>
 <detail full-name='mdi-video-minus-outline'></detail>
-<div>
-<p>关于“video minus outline”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>video minus outline</b>”的评论:</p>
 </div>
-<Vssue title="关于“video minus outline”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“video minus outline”的评论" />    
+<div><p>图标video minus outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2C15.86,2 19,5.13 19,9C19,14.25 12,22 12,22C12,22 5,14.25 5,9A7,7 0 0,1 12,2M9,6V12H11V10H13V12H15V6H13V8H11V6H9Z" /></svg>
 </div>
 <detail full-name='mdi-hospital-marker'></detail>
-<div>
-<p>关于“hospital marker”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>hospital marker</b>”的评论:</p>
 </div>
-<Vssue title="关于“hospital marker”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“hospital marker”的评论" />    
+<div><p>图标hospital marker来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

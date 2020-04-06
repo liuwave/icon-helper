@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.5,7H11.75L12,5H10.25L6,7.5V9H4V6.5L10,3H12V2H14V3H16L17,2.5V5.5L16,5H14L14.25,7H15.5A1.5,1.5 0 0,1 17,8.5V22H9V8.5A1.5,1.5 0 0,1 10.5,7Z" /></svg>
 </div>
 <detail full-name='mdi-fire-extinguisher'></detail>
-<div>
-<p>关于“fire extinguisher”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>fire extinguisher</b>”的评论:</p>
 </div>
-<Vssue title="关于“fire extinguisher”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“fire extinguisher”的评论" />    
+<div><p>图标fire extinguisher来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

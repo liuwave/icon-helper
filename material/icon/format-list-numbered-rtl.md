@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3,13V11H17V13H3M3,19V17H17V19H3M3,7V5H17V7H3M20,8V5H19V4H21V8H20M19,17V16H22V20H19V19H21V18.5H20V17.5H21V17H19M21.25,10C21.67,10 22,10.34 22,10.75C22,10.95 21.92,11.14 21.79,11.27L20.12,13H22V14H19V13.08L21,11H19V10H21.25Z" /></svg>
 </div>
 <detail full-name='mdi-format-list-numbered-rtl'></detail>
-<div>
-<p>关于“format list numbered rtl”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>format list numbered rtl</b>”的评论:</p>
 </div>
-<Vssue title="关于“format list numbered rtl”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“format list numbered rtl”的评论" />    
+<div><p>图标format list numbered rtl来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

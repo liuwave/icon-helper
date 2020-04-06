@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10,4L12,6H20A2,2 0 0,1 22,8V11.5C21.23,11.18 20.39,11 19.5,11A6.5,6.5 0 0,0 13,17.5C13,18.39 13.18,19.23 13.5,20H4C2.89,20 2,19.1 2,18V6C2,4.89 2.89,4 4,4H10M19,12V13.5A4,4 0 0,1 23,17.5C23,18.32 22.75,19.08 22.33,19.71L21.24,18.62C21.41,18.28 21.5,17.9 21.5,17.5A2.5,2.5 0 0,0 19,15V16.5L16.75,14.25L19,12M19,23V21.5A4,4 0 0,1 15,17.5C15,16.68 15.25,15.92 15.67,15.29L16.76,16.38C16.59,16.72 16.5,17.1 16.5,17.5A2.5,2.5 0 0,0 19,20V18.5L21.25,20.75L19,23Z" /></svg>
 </div>
 <detail full-name='mdi-folder-sync'></detail>
-<div>
-<p>关于“folder sync”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>folder sync</b>”的评论:</p>
 </div>
-<Vssue title="关于“folder sync”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“folder sync”的评论" />    
+<div><p>图标folder sync来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

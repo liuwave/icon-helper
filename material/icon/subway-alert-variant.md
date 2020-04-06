@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,11V6H11V11H16M14.5,17A1.5,1.5 0 0,0 16,15.5A1.5,1.5 0 0,0 14.5,14A1.5,1.5 0 0,0 13,15.5A1.5,1.5 0 0,0 14.5,17M9,11V6H4V11H9M5.5,17A1.5,1.5 0 0,0 7,15.5A1.5,1.5 0 0,0 5.5,14A1.5,1.5 0 0,0 4,15.5A1.5,1.5 0 0,0 5.5,17M10,2C14.42,2 18,2.5 18,6V15.5A3.5,3.5 0 0,1 14.5,19L16,20.5V21H4V20.5L5.5,19A3.5,3.5 0 0,1 2,15.5V6C2,2.5 5.58,2 10,2M20,12V7H22V12H20M20,16V14H22V16H20Z" /></svg>
 </div>
 <detail full-name='mdi-subway-alert-variant'></detail>
-<div>
-<p>关于“subway alert variant”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>subway alert variant</b>”的评论:</p>
 </div>
-<Vssue title="关于“subway alert variant”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“subway alert variant”的评论" />    
+<div><p>图标subway alert variant来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

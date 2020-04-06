@@ -71,9 +71,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M544 160v64h32v64h-32v64H64V160h480m16-64H48c-26.51 0-48 21.49-48 48v224c0 26.51 21.49 48 48 48h512c26.51 0 48-21.49 48-48v-16h8c13.255 0 24-10.745 24-24V184c0-13.255-10.745-24-24-24h-8v-16c0-26.51-21.49-48-48-48zm-144 96H96v128h320V192z"/></svg>
 </div>
 <detail full-name='fa-battery-three-quarters'></detail>
-<div>
-<p>关于“Battery 3/4 Full”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>Battery 3/4 Full</b>”的评论:</p>
 </div>
-<Vssue title="关于“Battery 3/4 Full”的评论" ></Vssue>    
-<div><p>更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
+<Vssue title="关于“Battery 3/4 Full”的评论" />    
+<div><p>图标Battery 3/4 Full来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>

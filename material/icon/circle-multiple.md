@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 4A8 8 0 1 1 7 12A8 8 0 0 1 15 4M3 12A6 6 0 0 0 7 17.65V19.74A8 8 0 0 1 7 4.26V6.35A6 6 0 0 0 3 12Z" /></svg>
 </div>
 <detail full-name='mdi-circle-multiple'></detail>
-<div>
-<p>关于“circle multiple”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>circle multiple</b>”的评论:</p>
 </div>
-<Vssue title="关于“circle multiple”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“circle multiple”的评论" />    
+<div><p>图标circle multiple来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

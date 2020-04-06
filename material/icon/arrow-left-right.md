@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.45,17.45L1,12L6.45,6.55L7.86,7.96L4.83,11H19.17L16.14,7.96L17.55,6.55L23,12L17.55,17.45L16.14,16.04L19.17,13H4.83L7.86,16.04L6.45,17.45Z" /></svg>
 </div>
 <detail full-name='mdi-arrow-left-right'></detail>
-<div>
-<p>关于“arrow left right”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>arrow left right</b>”的评论:</p>
 </div>
-<Vssue title="关于“arrow left right”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“arrow left right”的评论" />    
+<div><p>图标arrow left right来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19,5A2,2 0 0,0 17,3H10L7.66,5.34L19,16.68V5M3.65,3.88L2.38,5.15L5,7.77V19A2,2 0 0,0 7,21H17C17.36,21 17.68,20.9 17.97,20.74L19.85,22.62L21.12,21.35L3.65,3.88Z" /></svg>
 </div>
 <detail full-name='mdi-sim-off'></detail>
-<div>
-<p>关于“sim off”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>sim off</b>”的评论:</p>
 </div>
-<Vssue title="关于“sim off”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“sim off”的评论" />    
+<div><p>图标sim off来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

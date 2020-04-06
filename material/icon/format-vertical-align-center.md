@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8,19H11V23H13V19H16L12,15L8,19M16,5H13V1H11V5H8L12,9L16,5M4,11V13H20V11H4Z" /></svg>
 </div>
 <detail full-name='mdi-format-vertical-align-center'></detail>
-<div>
-<p>关于“format vertical align center”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>format vertical align center</b>”的评论:</p>
 </div>
-<Vssue title="关于“format vertical align center”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“format vertical align center”的评论" />    
+<div><p>图标format vertical align center来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

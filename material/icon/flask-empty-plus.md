@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 14H20V17H23V19H20V22H18V19H15V17H18V14M6 22C4.34 22 3 20.66 3 19C3 18.4 3.18 17.84 3.5 17.36L9 7.81V6C8.45 6 8 5.55 8 5V4C8 2.9 8.9 2 10 2H14C15.11 2 16 2.9 16 4V5C16 5.55 15.55 6 15 6V7.81L17.5 12.18C14.92 12.84 13 15.2 13 18C13 19.54 13.58 20.94 14.53 22H6Z" /></svg>
 </div>
 <detail full-name='mdi-flask-empty-plus'></detail>
-<div>
-<p>关于“flask empty plus”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>flask empty plus</b>”的评论:</p>
 </div>
-<Vssue title="关于“flask empty plus”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“flask empty plus”的评论" />    
+<div><p>图标flask empty plus来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

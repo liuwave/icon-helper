@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22,22H2V20H22V22M22,6H2V3H22V6M20,7V19H17V11C17,11 14.5,10 12,10C9.5,10 7,11 7,11V19H4V7H20Z" /></svg>
 </div>
 <detail full-name='mdi-fireplace-off'></detail>
-<div>
-<p>关于“fireplace off”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>fireplace off</b>”的评论:</p>
 </div>
-<Vssue title="关于“fireplace off”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“fireplace off”的评论" />    
+<div><p>图标fireplace off来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

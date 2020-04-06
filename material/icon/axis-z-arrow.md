@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2L16,6H13V13.82L22.39,19.25L21.39,21L12,15.56L2.61,21L1.61,19.25L11,13.82V6H8L12,2Z" /></svg>
 </div>
 <detail full-name='mdi-axis-z-arrow'></detail>
-<div>
-<p>关于“axis z arrow”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>axis z arrow</b>”的评论:</p>
 </div>
-<Vssue title="关于“axis z arrow”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“axis z arrow”的评论" />    
+<div><p>图标axis z arrow来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17,3A2,2 0 0,1 19,5V15A2,2 0 0,1 17,17H13V19H14A1,1 0 0,1 15,20H22V22H15A1,1 0 0,1 14,23H10A1,1 0 0,1 9,22H2V20H9A1,1 0 0,1 10,19H11V17H7A2,2 0 0,1 5,15V5A2,2 0 0,1 7,3H17M7,7L11,11L7,15H9.85L13.13,11.72C13.5,11.33 13.5,10.7 13.13,10.3L9.83,7H7M17,13H14V15H17V13Z" /></svg>
 </div>
 <detail full-name='mdi-console-network'></detail>
-<div>
-<p>关于“console network”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>console network</b>”的评论:</p>
 </div>
-<Vssue title="关于“console network”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“console network”的评论" />    
+<div><p>图标console network来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

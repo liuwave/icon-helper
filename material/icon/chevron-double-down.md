@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.59,5.59L18,7L12,13L6,7L7.41,5.59L12,10.17L16.59,5.59M16.59,11.59L18,13L12,19L6,13L7.41,11.59L12,16.17L16.59,11.59Z" /></svg>
 </div>
 <detail full-name='mdi-chevron-double-down'></detail>
-<div>
-<p>关于“chevron double down”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>chevron double down</b>”的评论:</p>
 </div>
-<Vssue title="关于“chevron double down”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“chevron double down”的评论" />    
+<div><p>图标chevron double down来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

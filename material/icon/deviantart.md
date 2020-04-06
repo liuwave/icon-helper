@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6,6H12L14,2H18V6L14.5,13H18V18H12L10,22H6V18L9.5,11H6V6Z" /></svg>
 </div>
 <detail full-name='mdi-deviantart'></detail>
-<div>
-<p>关于“deviantart”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>deviantart</b>”的评论:</p>
 </div>
-<Vssue title="关于“deviantart”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“deviantart”的评论" />    
+<div><p>图标deviantart来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

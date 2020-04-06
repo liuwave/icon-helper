@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20,6A2,2 0 0,1 22,8V18A2,2 0 0,1 20,20H4C2.89,20 2,19.1 2,18V6C2,4.89 2.89,4 4,4H10L12,6H20M19,17V13H18L16,13H14V11A1,1 0 0,1 15,10A1,1 0 0,1 16,11H18A3,3 0 0,0 15,8A3,3 0 0,0 12,11V13H11V17H19Z" /></svg>
 </div>
 <detail full-name='mdi-folder-lock-open'></detail>
-<div>
-<p>关于“folder lock open”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>folder lock open</b>”的评论:</p>
 </div>
-<Vssue title="关于“folder lock open”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“folder lock open”的评论" />    
+<div><p>图标folder lock open来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

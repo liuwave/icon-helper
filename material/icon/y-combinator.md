@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2,2H22V22H2V2M11.25,17.5H12.75V13.06L16,7H14.5L12,11.66L9.5,7H8L11.25,13.06V17.5Z" /></svg>
 </div>
 <detail full-name='mdi-y-combinator'></detail>
-<div>
-<p>关于“y combinator”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>y combinator</b>”的评论:</p>
 </div>
-<Vssue title="关于“y combinator”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“y combinator”的评论" />    
+<div><p>图标y combinator来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

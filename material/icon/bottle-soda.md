@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 11V20A2 2 0 0 1 13 22H11A2 2 0 0 1 9 20V11A2 2 0 0 1 9.6 9.58C11.1 7.89 11 4 11 4H10V2H14V4H13S12.9 7.89 14.4 9.58A2 2 0 0 1 15 11Z" /></svg>
 </div>
 <detail full-name='mdi-bottle-soda'></detail>
-<div>
-<p>关于“bottle soda”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>bottle soda</b>”的评论:</p>
 </div>
-<Vssue title="关于“bottle soda”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“bottle soda”的评论" />    
+<div><p>图标bottle soda来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

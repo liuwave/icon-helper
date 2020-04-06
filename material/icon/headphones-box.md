@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7.2,18C6.54,18 6,17.46 6,16.8V13.2L6,12A6,6 0 0,1 12,6A6,6 0 0,1 18,12V13.2L18,16.8A1.2,1.2 0 0,1 16.8,18H14V14H16V12A4,4 0 0,0 12,8A4,4 0 0,0 8,12V14H10V18M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" /></svg>
 </div>
 <detail full-name='mdi-headphones-box'></detail>
-<div>
-<p>关于“headphones box”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>headphones box</b>”的评论:</p>
 </div>
-<Vssue title="关于“headphones box”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“headphones box”的评论" />    
+<div><p>图标headphones box来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>

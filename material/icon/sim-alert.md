@@ -67,9 +67,9 @@ unicode：
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13,13H11V8H13M13,17H11V15H13M18,2H10L4,8V20A2,2 0 0,0 6,22H18A2,2 0 0,0 20,20V4A2,2 0 0,0 18,2Z" /></svg>
 </div>
 <detail full-name='mdi-sim-alert'></detail>
-<div>
-<p>关于“sim alert”的评论:</p>
+<div class="icon-detail__container">
+<p>关于“<b>sim alert</b>”的评论:</p>
 </div>
-<Vssue title="关于“sim alert”的评论" ></Vssue>    
-<div><p>更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
+<Vssue title="关于“sim alert”的评论" />    
+<div><p>图标sim alert来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
