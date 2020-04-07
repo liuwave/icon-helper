@@ -143,7 +143,7 @@ Stack用法
 
  ![](/images/material/desktop-font.png)   
 
-通过<a target="_blank" href="https://material.iconhelper.cn">Material Design Icon助手</a>可以复制字体字符、SVG、codepoint、字符名称，也可以选择尺寸、颜色后进行导出，支持svg/png格式。
+<a target="_blank" href="https://material.iconhelper.cn">Material Design Icon助手</a>支持中文搜索图标，通过它可以复制字体字符、SVG、codepoint、字符名称，也可以选择尺寸、颜色后进行导出，支持svg/png格式。
 
 
         
