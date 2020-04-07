@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Yammer",
+    "办公协同",
+    "企业社会化网络"
+  ],
+  "description": "Yammer是一个微软旗下的一个企业内部通信平台，提供企业社会化网络服务，能够减少管理、注册和验证员工成本。",
   "source": "https://developer.microsoft.com/en-us/fabric#/styles/web/colors/products",
   "comments": []
 }

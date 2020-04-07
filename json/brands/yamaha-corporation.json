@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "雅马哈公司",
+    "雅马哈株式会社"
+  ],
+  "description": "Yamaha Corporation，即雅马哈公司，是一家日本跨国公司，业务范围十分广泛，涉及钢琴、机动车、家具、学校、半导体等等。",
   "source": "https://www.yamaha.com/en/",
   "comments": []
 }

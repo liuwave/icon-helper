@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "轻量级桌面环境"
+  ],
+  "description": "Xfce是一个用于类UNIX操作系统的轻量级桌面环境，快速、轻量、界面美观。",
   "source": "https://www.xfce.org/download#artwork",
   "comments": []
 }

@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "小米公司"
+  ],
+  "description": "小米公司成立于2010年4月，是一家互联网公司，以手机智能硬件和loT平台为核心。",
   "source": "https://www.mi.com/global",
   "comments": []
 }

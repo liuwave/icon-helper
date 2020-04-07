@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "MacOS 上的集成开发工具",
+    "IDE"
+  ],
+  "description": "Xcode是MacOS 上的集成开发工具，即IDE。“Xcode包含了为iPhone、iPad、Mac、Apple Watch和Apple TV创建令人惊叹的应用程序所需的一切。”",
   "source": "https://developer.apple.com/develop/",
   "comments": []
 }

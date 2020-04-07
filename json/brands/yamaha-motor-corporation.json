@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "雅马哈发动机有限公司",
+    "雅马哈发动机株式会社"
+  ],
+  "description": "Yamaha Motor Corporation，即雅马哈发动机有限公司，是一家日本的发动机生产厂家。这家公司生产摩托车、踏板车、电动自行车、轮船等等。雅马哈是水上交通工具的全球领先者。",
   "source": "https://en.wikipedia.org/wiki/Yamaha_Motor_Company",
   "comments": []
 }

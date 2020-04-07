@@ -11,8 +11,14 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "PHP开发环境软件",
+    "Apache",
+    "MariaDB",
+    "PHP",
+    "Perl"
+  ],
+  "description": "XAMPP是一款的PHP开发环境软件。XAMPP是一个完全免费的、易于安装的Apache集成包，包含MariaDB、PHP和Perl。",
   "source": "https://www.apachefriends.org/en/",
   "comments": []
 }

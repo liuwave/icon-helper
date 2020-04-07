@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "X包",
+    "Elastic Stack扩展"
+  ],
+  "description": "X-Pack是一个Elastic Stack扩展，提供用户验证、授权和基于角色的访问控制、节点/客户端认证和信道加密及审计功能。",
   "source": "https://www.elastic.co/brand",
   "comments": []
 }

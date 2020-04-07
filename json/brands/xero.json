@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "在线会计软件"
+  ],
+  "description": "Xero是新西兰一家在线会计软件公司，提供为中小企业设计的在线会计软件。Xero采用云端服务器，无需安装任何软件，就可以使用会计系统。",
   "source": "https://www.xero.com/uk/about/media/downloads",
   "comments": []
 }

@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "XDA开发者",
+    "移动软件开发"
+  ],
+  "description": "XDA Developers是一个移动软件开发社区,主要讨论安卓系统。",
   "source": "https://www.xda-developers.com/",
   "comments": []
 }

@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "Y组合器",
+    "创业孵化器",
+    "创业加速器"
+  ],
+  "description": "Y Combinator是一家著名的创业孵化器，主要的业务是扶持初创公司，提供创业指南。",
   "source": "https://www.ycombinator.com/press/",
   "comments": []
 }
