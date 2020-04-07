@@ -73,3 +73,6 @@ unicode：
 <Vssue title="关于“microsoft visual studio code”的评论" />    
 <div><p>图标microsoft visual studio code来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/microsoft-visual-studio.html">microsoft-visual-studio</router-link></span> <span class="next"><router-link to="/icon/microsoft-windows.html">microsoft-windows</router-link>→</span></p></div>
+

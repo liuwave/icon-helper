@@ -73,3 +73,6 @@ unicode：
 <Vssue title="关于“home floor 2”的评论" />    
 <div><p>图标home floor 2来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/home-floor-1.html">home-floor-1</router-link></span> <span class="next"><router-link to="/icon/home-floor-3.html">home-floor-3</router-link>→</span></p></div>
+

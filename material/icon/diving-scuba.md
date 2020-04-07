@@ -73,3 +73,6 @@ unicode：
 <Vssue title="关于“diving scuba”的评论" />    
 <div><p>图标diving scuba来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/diving-helmet.html">diving-helmet</router-link></span> <span class="next"><router-link to="/icon/diving-scuba-flag.html">diving-scuba-flag</router-link>→</span></p></div>
+

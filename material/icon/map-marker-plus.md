@@ -73,3 +73,6 @@ unicode：
 <Vssue title="关于“map marker plus”的评论" />    
 <div><p>图标map marker plus来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/map-marker-path.html">map-marker-path</router-link></span> <span class="next"><router-link to="/icon/map-marker-plus-outline.html">map-marker-plus-outline</router-link>→</span></p></div>
+

@@ -73,3 +73,6 @@ unicode：
 <Vssue title="关于“order numeric ascending”的评论" />    
 <div><p>图标order numeric ascending来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/order-bool-descending-variant.html">order-bool-descending-variant</router-link></span> <span class="next"><router-link to="/icon/order-numeric-descending.html">order-numeric-descending</router-link>→</span></p></div>
+

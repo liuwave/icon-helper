@@ -73,3 +73,6 @@ unicode：
 <Vssue title="关于“format textdirection l to r”的评论" />    
 <div><p>图标format textdirection l to r来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/format-textbox.html">format-textbox</router-link></span> <span class="next"><router-link to="/icon/format-textdirection-r-to-l.html">format-textdirection-r-to-l</router-link>→</span></p></div>
+

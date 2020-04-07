@@ -73,3 +73,6 @@ unicode：
 <Vssue title="关于“format quote open outline”的评论" />    
 <div><p>图标format quote open outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/format-quote-open.html">format-quote-open</router-link></span> <span class="next"><router-link to="/icon/format-rotate-90.html">format-rotate-90</router-link>→</span></p></div>
+

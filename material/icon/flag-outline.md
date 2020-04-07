@@ -73,3 +73,6 @@ unicode：
 <Vssue title="关于“flag outline”的评论" />    
 <div><p>图标flag outline来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/flag-minus-outline.html">flag-minus-outline</router-link></span> <span class="next"><router-link to="/icon/flag-plus.html">flag-plus</router-link>→</span></p></div>
+

@@ -73,3 +73,6 @@ unicode：
 <Vssue title="关于“emoticon confused”的评论" />    
 <div><p>图标emoticon confused来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/emoticon-angry-outline.html">emoticon-angry-outline</router-link></span> <span class="next"><router-link to="/icon/emoticon-confused-outline.html">emoticon-confused-outline</router-link>→</span></p></div>
+

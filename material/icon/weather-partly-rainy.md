@@ -73,3 +73,6 @@ unicode：
 <Vssue title="关于“weather partly rainy”的评论" />    
 <div><p>图标weather partly rainy来源于Material Design Icons，可免费使用，更多关于 Material Design Icons的信息，参见：<a target="_blank" href="https://iconhelper.cn/material.html"> Material Design Icons</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/weather-partly-lightning.html">weather-partly-lightning</router-link></span> <span class="next"><router-link to="/icon/weather-partly-snowy.html">weather-partly-snowy</router-link>→</span></p></div>
+
