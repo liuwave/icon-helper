@@ -82,3 +82,5 @@ unicode：
 <Vssue title="关于“temp hot fill”的评论" />    
 <div><p>图标temp hot fill来源于 Remix Icon，可免费使用，更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/weather/moon-clear-line.html">moon clear line</router-link></span> <span class="next"><router-link to="/icon/weather/temp-hot-line.html">temp hot line</router-link>→</span></p></div>

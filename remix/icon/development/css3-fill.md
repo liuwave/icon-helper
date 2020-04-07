@@ -82,3 +82,5 @@ unicode：
 <Vssue title="关于“css3 fill”的评论" />    
 <div><p>图标css3 fill来源于 Remix Icon，可免费使用，更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/development/html5-line.html">html5 line</router-link></span> <span class="next"><router-link to="/icon/development/css3-line.html">css3 line</router-link>→</span></p></div>

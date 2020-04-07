@@ -82,3 +82,5 @@ unicode：
 <Vssue title="关于“cellphone line”的评论" />    
 <div><p>图标cellphone line来源于 Remix Icon，可免费使用，更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/device/cellphone-fill.html">cellphone fill</router-link></span> <span class="next"><router-link to="/icon/device/smartphone-fill.html">smartphone fill</router-link>→</span></p></div>

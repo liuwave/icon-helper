@@ -82,3 +82,5 @@ unicode：
 <Vssue title="关于“link unlink”的评论" />    
 <div><p>图标link unlink来源于 Remix Icon，可免费使用，更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/editor/link.html">link</router-link></span> <span class="next"><router-link to="/icon/editor/link-m.html">link m</router-link>→</span></p></div>

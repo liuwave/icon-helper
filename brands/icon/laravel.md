@@ -67,3 +67,6 @@ CSS名称：
 <Vssue title="关于“Laravel”的评论" />
 <div><p>Simple Icon是一个免费的品牌图标库。图标Laravel可以免费下载使用。更多关于  Simple Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/brands.html">品牌图标(Simple Icon)</a>
 </p></div>
+
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/lamborghini.html">Lamborghini</router-link></span> <span class="next"><router-link to="/icon/laravel-horizon.html">Laravel Horizon</router-link>→</span></p></div>

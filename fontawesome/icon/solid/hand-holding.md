@@ -77,3 +77,5 @@ unicode：
 <Vssue title="关于“Hand Holding”的评论" />    
 <div><p>图标Hand Holding来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/solid/hamsa.html">Hamsa</router-link></span> <span class="next"><router-link to="/icon/solid/hand-holding-heart.html">Hand Holding Heart</router-link>→</span></p></div>

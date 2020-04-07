@@ -82,3 +82,5 @@ unicode：
 <Vssue title="关于“number 6”的评论" />    
 <div><p>图标number 6来源于 Remix Icon，可免费使用，更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/editor/number-5.html">number 5</router-link></span> <span class="next"><router-link to="/icon/editor/number-7.html">number 7</router-link>→</span></p></div>

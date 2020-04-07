@@ -82,3 +82,5 @@ unicode：
 <Vssue title="关于“text spacing”的评论" />    
 <div><p>图标text spacing来源于 Remix Icon，可免费使用，更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/editor/line-height.html">line height</router-link></span> <span class="next"><router-link to="/icon/editor/text-wrap.html">text wrap</router-link>→</span></p></div>

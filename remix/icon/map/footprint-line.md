@@ -82,3 +82,5 @@ unicode：
 <Vssue title="关于“footprint line”的评论" />    
 <div><p>图标footprint line来源于 Remix Icon，可免费使用，更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/map/footprint-fill.html">footprint fill</router-link></span> <span class="next"><router-link to="/icon/map/traffic-light-fill.html">traffic light fill</router-link>→</span></p></div>

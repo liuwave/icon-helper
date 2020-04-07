@@ -82,3 +82,5 @@ unicode：
 <Vssue title="关于“question fill”的评论" />    
 <div><p>图标question fill来源于 Remix Icon，可免费使用，更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/system/error-warning-line.html">error warning line</router-link></span> <span class="next"><router-link to="/icon/system/question-line.html">question line</router-link>→</span></p></div>

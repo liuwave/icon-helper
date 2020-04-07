@@ -77,3 +77,5 @@ unicode：
 <Vssue title="关于“Wheelchair”的评论" />    
 <div><p>图标Wheelchair来源于Fontawesome Icon Free，可免费使用，更多关于  Fontawesome Icon Free的信息，参见：<a target="_blank" href="https://iconhelper.cn/fontawesome.html">Fontawesome Icon Free</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/brands/whatsapp-square.html">What's App Square</router-link></span> <span class="next"><router-link to="/icon/brands/whmcs.html">WHMCS</router-link>→</span></p></div>

@@ -82,3 +82,5 @@ unicode：
 <Vssue title="关于“eraser line”的评论" />    
 <div><p>图标eraser line来源于 Remix Icon，可免费使用，更多关于  Remix Icon的信息，参见：<a target="_blank" href="https://iconhelper.cn/remix.html">Remix Icon</a>
 </p></div>
+
+<div style="padding:2rem 0 " class="page-nav"><p class="inner"><span class="prev">←<router-link to="/icon/design/eraser-fill.html">eraser fill</router-link></span> <span class="next"><router-link to="/icon/design/ruler-fill.html">ruler fill</router-link>→</span></p></div>
