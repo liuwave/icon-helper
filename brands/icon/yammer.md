@@ -1,14 +1,14 @@
 ---
 
-title: Yammer() ICON转svg、png下载
+title: Yammer(办公协同) ICON转svg、png下载
 name: yammer
-zhTips: 
+zhTips: Yammer,办公协同,企业社会化网络
 search: 
 image: https://iconhelper.cn/svg/brands/yammer.svg
 
 ---
 
-# Yammer  <small style="font-size: 60%;font-weight: 100"></small>
+# Yammer  <small style="font-size: 60%;font-weight: 100">办公协同</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Yammer icon</title><path d="M23.5094 7.391a.696.696 0 00-.859-.527l-2.31.626A17.4135 17.4135 0 0016.3897.226a.69.69 0 00-.509-.225.677.677 0 00-.482.2L9.7667 5.8379H1.023C.458 5.838 0 6.296 0 6.862v10.2368c0 .566.458 1.025 1.023 1.025h8.7037l5.6719 5.6768a.687.687 0 00.99-.025 17.4305 17.4305 0 003.9509-7.2638l2.3109.626a.696.696 0 00.859-.527 21.9024 21.9024 0 000-9.2198zm-7.6738-5.45a15.8536 15.8536 0 013.0229 5.9499l-6.5958 1.786v-2.815a1.02 1.02 0 00-.48-.865zM9.2738 9.226l-2.205 3.8809v2.0219a.938.938 0 11-1.876 0v-2.193L3.085 9.226a.8637.8637 0 111.501-.855l1.594 2.9779 1.5939-2.978a.861.861 0 011.176-.324.866.866 0 01.324 1.179zm9.5847 6.8848a15.8536 15.8536 0 01-3.023 5.9498l-4.0788-4.0819c.301-.178.506-.504.506-.88v-2.7739zm3.316-.698l-9.9118-2.684v-1.4559l9.9117-2.684a20.4075 20.4075 0 010 6.8239Z"/></svg>
@@ -37,9 +37,9 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/yammer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/yammer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Yammer</span><span class="badge-primary badge">办公协同</span><span class="badge-primary badge">企业社会化网络</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/yammer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/yammer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://developer.microsoft.com/en-us/fabric#/styles/web/colors/products" target="_blank" rel="noopener noreferrer">https://developer.microsoft.com/en-us/fabric#/styles/web/colors/products</a></p></div>
+</div><div class="description description alert alert-light"><p>Yammer是一个微软旗下的一个企业内部通信平台，提供企业社会化网络服务，能够减少管理、注册和验证员工成本。</p><p>图标来源地址：<a href="https://developer.microsoft.com/en-us/fabric#/styles/web/colors/products" target="_blank" rel="noopener noreferrer">https://developer.microsoft.com/en-us/fabric#/styles/web/colors/products</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/yammer.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/yammer.svg" />

@@ -1,14 +1,14 @@
 ---
 
-title: XSplit() ICON转svg、png下载
+title: XSplit(录制直播视频) ICON转svg、png下载
 name: xsplit
-zhTips: 
+zhTips: XS,录制直播视频,游戏直播软件
 search: 
 image: https://iconhelper.cn/svg/brands/xsplit.svg
 
 ---
 
-# XSplit  <small style="font-size: 60%;font-weight: 100"></small>
+# XSplit  <small style="font-size: 60%;font-weight: 100">录制直播视频</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>XSplit icon</title><path d="M24 19.5c-.7-.1-2.5-.3-2.7-.3-.1 0-2.8 2.3-4 3.399l-.1.101c.1-1.3.3-2.601.399-3.9C11.7 18.1 5.9 17.4 0 16.7V1.5v-.2H.3C.9 1.4 22.9 3.9 24 4v15.5zm-2.6-2.6V6.2C15.1 5.5 8.7 4.7 2.4 4v10.6c6.3.8 12.7 1.5 19 2.3z"/></svg>
@@ -37,9 +37,9 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/xsplit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/xsplit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">XS</span><span class="badge-primary badge">录制直播视频</span><span class="badge-primary badge">游戏直播软件</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/xsplit.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/xsplit.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.xsplit.com/presskit" target="_blank" rel="noopener noreferrer">https://www.xsplit.com/presskit</a></p></div>
+</div><div class="description description alert alert-light"><p>XSplit是一款游戏直播平台的直播软件，提供录制视频、直播视频功能和广播网络流媒体平台。</p><p>图标来源地址：<a href="https://www.xsplit.com/presskit" target="_blank" rel="noopener noreferrer">https://www.xsplit.com/presskit</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xsplit.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/xsplit.svg" />

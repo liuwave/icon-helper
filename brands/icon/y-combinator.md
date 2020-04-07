@@ -1,14 +1,14 @@
 ---
 
-title: Y Combinator() ICON转svg、png下载
+title: Y Combinator(Y组合器) ICON转svg、png下载
 name: y-combinator
-zhTips: 
+zhTips: Y组合器,创业孵化器,创业加速器
 search: 
 image: https://iconhelper.cn/svg/brands/y-combinator.svg
 
 ---
 
-# Y Combinator  <small style="font-size: 60%;font-weight: 100"></small>
+# Y Combinator  <small style="font-size: 60%;font-weight: 100">Y组合器</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Y Combinator icon</title><path d="M0 24V0h24v24H0zM6.951 5.896l4.112 7.708v5.064h1.583v-4.972l4.148-7.799h-1.749l-2.457 4.875c-.372.745-.688 1.434-.688 1.434s-.297-.708-.651-1.434L8.831 5.896h-1.88z"/></svg>
@@ -37,9 +37,9 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/y-combinator.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/y-combinator.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Y组合器</span><span class="badge-primary badge">创业孵化器</span><span class="badge-primary badge">创业加速器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/y-combinator.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/y-combinator.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.ycombinator.com/press/" target="_blank" rel="noopener noreferrer">https://www.ycombinator.com/press/</a></p></div>
+</div><div class="description description alert alert-light"><p>Y Combinator是一家著名的创业孵化器，主要的业务是扶持初创公司，提供创业指南。</p><p>图标来源地址：<a href="https://www.ycombinator.com/press/" target="_blank" rel="noopener noreferrer">https://www.ycombinator.com/press/</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ycombinator.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ycombinator.svg" />

@@ -1,14 +1,14 @@
 ---
 
-title: X-Pack() ICON转svg、png下载
+title: X-Pack(X包) ICON转svg、png下载
 name: x-pack
-zhTips: 
+zhTips: X包,Elastic Stack扩展
 search: 
 image: https://iconhelper.cn/svg/brands/x-pack.svg
 
 ---
 
-# X-Pack  <small style="font-size: 60%;font-weight: 100"></small>
+# X-Pack  <small style="font-size: 60%;font-weight: 100">X包</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>X-Pack icon</title><path d="M13.7 19.55l5.88-5.89 3.35 3.36a3.57 3.57 0 0 1 0 5.05l-.83.83a3.57 3.57 0 0 1-5.05 0zM22.92 1.9l-.83-.83a3.57 3.57 0 0 0-5.05 0L12 6.12 6.95 1.07a3.57 3.57 0 0 0-5.05 0l-.83.83a3.57 3.57 0 0 0 0 5.05L6.12 12l-5.05 5.05a3.57 3.57 0 0 0 0 5.05l.83.83a3.57 3.57 0 0 0 5.05 0L12 17.88l3.68-3.68 2.2-2.2 5.05-5.05a3.57 3.57 0 0 0 0-5.05z"/></svg>
@@ -37,9 +37,9 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/x-pack.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/x-pack.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">X包</span><span class="badge-primary badge">Elastic Stack扩展</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/x-pack.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/x-pack.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.elastic.co/brand" target="_blank" rel="noopener noreferrer">https://www.elastic.co/brand</a></p></div>
+</div><div class="description description alert alert-light"><p>X-Pack是一个Elastic Stack扩展，提供用户验证、授权和基于角色的访问控制、节点/客户端认证和信道加密及审计功能。</p><p>图标来源地址：<a href="https://www.elastic.co/brand" target="_blank" rel="noopener noreferrer">https://www.elastic.co/brand</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x-pack.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x-pack.svg" />

@@ -1,14 +1,14 @@
 ---
 
-title: Yahoo!() ICON转svg、png下载
+title: Yahoo!(雅虎) ICON转svg、png下载
 name: yahoo-
-zhTips: 
+zhTips: 雅虎
 search: 
 image: https://iconhelper.cn/svg/brands/yahoo-.svg
 
 ---
 
-# Yahoo!  <small style="font-size: 60%;font-weight: 100"></small>
+# Yahoo!  <small style="font-size: 60%;font-weight: 100">雅虎</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Yahoo! icon</title><path d="M18.86 1.56L14.27 11.87H19.4L24 1.56H18.86M0 6.71L5.15 18.27L3.3 22.44H7.83L14.69 6.71H10.19L7.39 13.44L4.62 6.71H0M15.62 12.87C13.95 12.87 12.71 14.12 12.71 15.58C12.71 17 13.91 18.19 15.5 18.19C17.18 18.19 18.43 16.96 18.43 15.5C18.43 14.03 17.23 12.87 15.62 12.87Z"/></svg>
@@ -37,9 +37,9 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/yahoo-.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/yahoo-.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">雅虎</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/yahoo-.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/yahoo-.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://yahoo.com/" target="_blank" rel="noopener noreferrer">https://yahoo.com/</a></p></div>
+</div><div class="description description alert alert-light"><p>雅虎是一家互联网门户网站，提供包括搜索引擎、电邮、新闻等服务</p><p>图标来源地址：<a href="https://yahoo.com/" target="_blank" rel="noopener noreferrer">https://yahoo.com/</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/yahoo.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/yahoo.svg" />
