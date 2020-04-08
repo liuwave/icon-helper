@@ -1,14 +1,14 @@
 ---
 
-title: Spinrilla() ICON转svg、png下载
+title: Spinrilla(Spinrilla) ICON转svg、png下载
 name: spinrilla
-zhTips: 
+zhTips: Spinrilla
 search: 
 image: https://iconhelper.cn/svg/brands/spinrilla.svg
 
 ---
 
-# Spinrilla  <small style="font-size: 60%;font-weight: 100"></small>
+# Spinrilla  <small style="font-size: 60%;font-weight: 100">Spinrilla</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Spinrilla icon</title><path d="M12 8.816a3.184 3.184 0 1 0 0 6.368 3.184 3.184 0 1 0 0-6.368zM12 0v3.918A8.082 8.082 0 0 0 3.918 12H0A12 12 0 0 1 12 0zm0 24v-3.918A8.082 8.082 0 0 0 20.082 12H24a12 12 0 0 1-12 12z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/spinrilla.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/spinrilla.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Spinrilla</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/spinrilla.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/spinrilla.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://spinrilla.com" target="_blank" rel="noopener noreferrer">https://spinrilla.com</a></p></div>
 <div class="alert alert-dark">

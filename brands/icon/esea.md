@@ -1,14 +1,14 @@
 ---
 
-title: ESEA() ICON转svg、png下载
+title: ESEA(ESEA) ICON转svg、png下载
 name: esea
-zhTips: 
+zhTips: ESEA
 search: 
 image: https://iconhelper.cn/svg/brands/esea.svg
 
 ---
 
-# ESEA  <small style="font-size: 60%;font-weight: 100"></small>
+# ESEA  <small style="font-size: 60%;font-weight: 100">ESEA</small>
 
 <div id="svg" class="svg-wrap">
 <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><title>ESEA icon</title><path d="M14.054 3L8.95 9.746 0 9.883l5.832 4.47-4.79 6.879 8.491-4.088 5.711 4.323v-7.114L24 10.029 6.745 14.05a12.575 12.575 0 0 0 1.589-1.955 5.475 5.475 0 0 0 .617-1.786l5.593-.151z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/esea.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/esea.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">ESEA</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/esea.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/esea.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://play.esea.net/" target="_blank" rel="noopener noreferrer">https://play.esea.net/</a></p></div>
 <div class="alert alert-dark">

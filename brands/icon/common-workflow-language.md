@@ -1,14 +1,14 @@
 ---
 
-title: Common Workflow Language() ICON转svg、png下载
+title: Common Workflow Language(通用工作流语言) ICON转svg、png下载
 name: common-workflow-language
-zhTips: 
+zhTips: 通用工作流语言
 search: 
 image: https://iconhelper.cn/svg/brands/common-workflow-language.svg
 
 ---
 
-# Common Workflow Language  <small style="font-size: 60%;font-weight: 100"></small>
+# Common Workflow Language  <small style="font-size: 60%;font-weight: 100">通用工作流语言</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Common Workflow Language icon</title><path d="M12.063 9.205l-3.565 3.568 3.518 3.512 1.545-1.545-1.975-1.967 2.023-2.023-1.546-1.545zM13.606 22.423L11.6 20.375l3.786-3.815-1.559-1.573-5.33 5.403.115.114-.015.008 3.456 3.484zm1.896-13.565l-3.685-3.541 3.685-3.722L13.936 0 8.598 5.352l.108.101v.007l5.252 4.943z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/common-workflow-language.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/common-workflow-language.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">通用工作流语言</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/common-workflow-language.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/common-workflow-language.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/common-workflow-language/logo/blob/master/CWL-Logo-nofonts.svg" target="_blank" rel="noopener noreferrer">https://github.com/common-workflow-language/logo/blob/master/CWL-Logo-nofonts.svg</a></p></div>
 <div class="alert alert-dark">

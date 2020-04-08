@@ -1,14 +1,14 @@
 ---
 
-title: Letterboxd() ICON转svg、png下载
+title: Letterboxd(信箱) ICON转svg、png下载
 name: letterboxd
-zhTips: 
+zhTips: 信箱
 search: 
 image: https://iconhelper.cn/svg/brands/letterboxd.svg
 
 ---
 
-# Letterboxd  <small style="font-size: 60%;font-weight: 100"></small>
+# Letterboxd  <small style="font-size: 60%;font-weight: 100">信箱</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Letterboxd icon</title><path d="M8.29 16.752V7.2H6.546V4.8h6.328v2.4h-1.746v9.574h3.925v-2.618h2.839V19.2H6.545v-2.448h1.746zM0 12c0 6.628 5.372 12 12 12s12-5.372 12-12S18.628 0 12 0 0 5.372 0 12z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/letterboxd.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/letterboxd.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">信箱</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/letterboxd.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/letterboxd.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://letterboxd.com/about/logos/" target="_blank" rel="noopener noreferrer">https://letterboxd.com/about/logos/</a></p></div>
 <div class="alert alert-dark">

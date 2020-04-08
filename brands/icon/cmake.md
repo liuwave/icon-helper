@@ -1,14 +1,14 @@
 ---
 
-title: CMake() ICON转svg、png下载
+title: CMake(CMake) ICON转svg、png下载
 name: cmake
-zhTips: 
+zhTips: CMake
 search: 
 image: https://iconhelper.cn/svg/brands/cmake.svg
 
 ---
 
-# CMake  <small style="font-size: 60%;font-weight: 100"></small>
+# CMake  <small style="font-size: 60%;font-weight: 100">CMake</small>
 
 <div id="svg" class="svg-wrap">
 <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><title>CMake icon</title><path d="M11.769.066L.067 23.206l12.76-10.843zM23.207 23.934L7.471 17.587 0 23.934zM24 23.736L12.298.463l1.719 19.24zM12.893 12.959l-5.025 4.298 5.62 2.248z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/cmake.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/cmake.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">CMake</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/cmake.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/cmake.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.kitware.com/platforms/" target="_blank" rel="noopener noreferrer">https://www.kitware.com/platforms/</a></p></div>
 <div class="alert alert-dark">

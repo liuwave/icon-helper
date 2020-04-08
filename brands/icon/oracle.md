@@ -1,14 +1,14 @@
 ---
 
-title: Oracle() ICON转svg、png下载
+title: Oracle(甲骨文) ICON转svg、png下载
 name: oracle
-zhTips: 
+zhTips: 甲骨文
 search: 
 image: https://iconhelper.cn/svg/brands/oracle.svg
 
 ---
 
-# Oracle  <small style="font-size: 60%;font-weight: 100"></small>
+# Oracle  <small style="font-size: 60%;font-weight: 100">甲骨文</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Oracle icon</title><path d="M16.412 4.412h-8.82a7.588 7.588 0 0 0-.008 15.176h8.828a7.588 7.588 0 0 0 0-15.176zm-.193 12.502H7.786a4.915 4.915 0 0 1 0-9.828h8.433a4.914 4.914 0 1 1 0 9.828z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/oracle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/oracle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">甲骨文</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/oracle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/oracle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.oracle.com/webfolder/s/brand/identity/index.html" target="_blank" rel="noopener noreferrer">https://www.oracle.com/webfolder/s/brand/identity/index.html</a></p></div>
 <div class="alert alert-dark">

@@ -1,14 +1,14 @@
 ---
 
-title: Sublime Text() ICON转svg、png下载
+title: Sublime Text(崇高文字) ICON转svg、png下载
 name: sublime-text
-zhTips: 
+zhTips: 崇高文字
 search: 
 image: https://iconhelper.cn/svg/brands/sublime-text.svg
 
 ---
 
-# Sublime Text  <small style="font-size: 60%;font-weight: 100"></small>
+# Sublime Text  <small style="font-size: 60%;font-weight: 100">崇高文字</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Sublime Text icon</title><path d="M21.24,12.06a.72.72,0,0,0-.46-.65L13.4,9.07l7.37-2.34a.73.73,0,0,0,.47-.66V.38A.35.35,0,0,0,20.77,0L3.23,5.58a.68.68,0,0,0-.47.64v5.7a.65.65,0,0,0,.46.62l7.46,2.37L3.22,17.27a.73.73,0,0,0-.46.66v5.69a.34.34,0,0,0,.46.36l17.56-5.57a.65.65,0,0,0,.46-.62Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/sublime-text.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/sublime-text.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">崇高文字</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/sublime-text.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/sublime-text.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.sublimetext.com/images/logo.svg" target="_blank" rel="noopener noreferrer">https://www.sublimetext.com/images/logo.svg</a></p></div>
 <div class="alert alert-dark">

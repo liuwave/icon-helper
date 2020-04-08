@@ -1,14 +1,14 @@
 ---
 
-title: Google Keep() ICON转svg、png下载
+title: Google Keep(Google Keep) ICON转svg、png下载
 name: google-keep
-zhTips: 
+zhTips: Google Keep
 search: 
 image: https://iconhelper.cn/svg/brands/google-keep.svg
 
 ---
 
-# Google Keep  <small style="font-size: 60%;font-weight: 100"></small>
+# Google Keep  <small style="font-size: 60%;font-weight: 100">Google Keep</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Google Keep icon</title><path d="M19.995 7.995C19.995 3.6 16.396 0 12 0S4.005 3.6 4.005 7.995c0 2.55 1.2 4.89 3.194 6.405v7.979H8.82V24h6.359v-1.62H16.8V14.4c2.011-1.5 3.195-3.87 3.195-6.405zM8.805 20.774v-1.575h6.391v1.575H8.805zm0-3.194v-1.575h6.391v1.575H8.805zm6.75-4.261l-.359.24v.841H8.805v-.84l-.345-.24c-1.8-1.199-2.85-3.18-2.85-5.324 0-3.525 2.85-6.391 6.39-6.391s6.39 2.851 6.39 6.391c0 2.145-1.05 4.14-2.85 5.324h.015z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/google-keep.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/google-keep.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Google Keep</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/google-keep.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/google-keep.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://play.google.com/store/apps/details?id=com.google.android.keep" target="_blank" rel="noopener noreferrer">https://play.google.com/store/apps/details?id=com.google.android.keep</a></p></div>
 <div class="alert alert-dark">

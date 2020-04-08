@@ -1,14 +1,14 @@
 ---
 
-title: Trulia() ICON转svg、png下载
+title: Trulia(Trulia) ICON转svg、png下载
 name: trulia
-zhTips: 
+zhTips: Trulia
 search: 
 image: https://iconhelper.cn/svg/brands/trulia.svg
 
 ---
 
-# Trulia  <small style="font-size: 60%;font-weight: 100"></small>
+# Trulia  <small style="font-size: 60%;font-weight: 100">Trulia</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Trulia icon</title><path d="M12 0C8.19.021 5.729 2.58 5.729 6.445c0 3.201 2.088 5.94 3.277 10.1.684 2.385 1.052 5.303 1.242 7.455h3.504c.192-2.152.558-5.07 1.241-7.455 1.189-4.16 3.277-6.898 3.277-10.1C18.271 2.58 15.81.021 12 0zm.02 9.852c-1.584 0-2.869-1.286-2.869-2.869 0-1.582 1.285-2.867 2.869-2.867 1.585 0 2.869 1.283 2.869 2.867s-1.285 2.869-2.869 2.869z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/trulia.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/trulia.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Trulia</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/trulia.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/trulia.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://www.trulia.com" target="_blank" rel="noopener noreferrer">http://www.trulia.com</a></p></div>
 <div class="alert alert-dark">

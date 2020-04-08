@@ -1,14 +1,14 @@
 ---
 
-title: Haskell() ICON转svg、png下载
+title: Haskell(哈斯克尔) ICON转svg、png下载
 name: haskell
-zhTips: 
+zhTips: 哈斯克尔
 search: 
 image: https://iconhelper.cn/svg/brands/haskell.svg
 
 ---
 
-# Haskell  <small style="font-size: 60%;font-weight: 100"></small>
+# Haskell  <small style="font-size: 60%;font-weight: 100">哈斯克尔</small>
 
 <div id="svg" class="svg-wrap">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img"><title>Haskell icon</title><path d="M.006 20.47L5.649 12 .006 3.531h4.235l5.674 8.47-5.674 8.468zm5.643 0L11.29 12 5.65 3.531h4.266l11.253 16.938h-4.224l-3.535-5.34-3.495 5.34zM19.3 15.525l-1.877-2.827h6.571v2.826zm-2.826-4.235l-1.877-2.827h9.387v2.827z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/haskell.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/haskell.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">哈斯克尔</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/haskell.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/haskell.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://commons.wikimedia.org/wiki/File:Haskell-Logo.svg" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/wiki/File:Haskell-Logo.svg</a></p></div>
 <div class="alert alert-dark">

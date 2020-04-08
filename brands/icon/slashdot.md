@@ -1,14 +1,14 @@
 ---
 
-title: Slashdot() ICON转svg、png下载
+title: Slashdot(Slashdot) ICON转svg、png下载
 name: slashdot
-zhTips: 
+zhTips: Slashdot
 search: 
 image: https://iconhelper.cn/svg/brands/slashdot.svg
 
 ---
 
-# Slashdot  <small style="font-size: 60%;font-weight: 100"></small>
+# Slashdot  <small style="font-size: 60%;font-weight: 100">Slashdot</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Slashdot icon</title><path d="M19.777 0L7.037 24H1.868L14.605 0h5.172zm2.354 19.801c0 2.268-1.841 4.105-4.109 4.105s-4.107-1.838-4.107-4.105 1.839-4.107 4.107-4.107 4.109 1.839 4.109 4.107z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/slashdot.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/slashdot.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Slashdot</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/slashdot.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/slashdot.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://commons.wikimedia.org/wiki/File:Slashdot_wordmark_and_logo.svg" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/wiki/File:Slashdot_wordmark_and_logo.svg</a></p></div>
 <div class="alert alert-dark">

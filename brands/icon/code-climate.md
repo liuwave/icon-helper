@@ -1,14 +1,14 @@
 ---
 
-title: Code Climate() ICON转svg、png下载
+title: Code Climate(气候代码) ICON转svg、png下载
 name: code-climate
-zhTips: 
+zhTips: 气候代码
 search: 
 image: https://iconhelper.cn/svg/brands/code-climate.svg
 
 ---
 
-# Code Climate  <small style="font-size: 60%;font-weight: 100"></small>
+# Code Climate  <small style="font-size: 60%;font-weight: 100">气候代码</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Code Climate icon</title><path d="M 16.046875 5.039062 L 24 12.992188 L 21.292969 15.703125 L 16.046875 10.457031 L 14.203125 12.308594 L 11.488281 9.597656 Z M 10.652344 10.4375 L 13.359375 13.152344 L 15.90625 15.691406 L 13.191406 18.398438 L 7.953125 13.160156 L 3.777344 17.335938 L 2.707031 18.398438 L 0 15.691406 L 7.953125 7.738281 Z M 10.652344 10.4375"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/code-climate.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/code-climate.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">气候代码</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/code-climate.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/code-climate.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://codeclimate.com/" target="_blank" rel="noopener noreferrer">https://codeclimate.com/</a></p></div>
 <div class="alert alert-dark">

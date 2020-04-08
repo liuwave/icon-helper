@@ -1,14 +1,14 @@
 ---
 
-title: Elastic Stack() ICON转svg、png下载
+title: Elastic Stack(弹性堆叠) ICON转svg、png下载
 name: elastic-stack
-zhTips: 
+zhTips: 弹性堆叠
 search: 
 image: https://iconhelper.cn/svg/brands/elastic-stack.svg
 
 ---
 
-# Elastic Stack  <small style="font-size: 60%;font-weight: 100"></small>
+# Elastic Stack  <small style="font-size: 60%;font-weight: 100">弹性堆叠</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Elastic Stack icon</title><path d="M.07 2.45A2.4 2.4 0 0 1 2.45.07h19.1a2.4 2.4 0 0 1 2.38 2.38v4.78H.07zM.07 16.77H11.4v7.16H2.45a2.38 2.38 0 0 1-2.38-2.32zM12.6 16.77h11.33v4.78c0 1.28-1.1 2.38-2.38 2.38H12.6zM.07 8.42h23.86v7.16H.07z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/elastic-stack.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/elastic-stack.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">弹性堆叠</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/elastic-stack.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/elastic-stack.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.elastic.co/brand" target="_blank" rel="noopener noreferrer">https://www.elastic.co/brand</a></p></div>
 <div class="alert alert-dark">

@@ -1,14 +1,14 @@
 ---
 
-title: Semantic Web() ICON转svg、png下载
+title: Semantic Web(语义网) ICON转svg、png下载
 name: semantic-web
-zhTips: 
+zhTips: 语义网
 search: 
 image: https://iconhelper.cn/svg/brands/semantic-web.svg
 
 ---
 
-# Semantic Web  <small style="font-size: 60%;font-weight: 100"></small>
+# Semantic Web  <small style="font-size: 60%;font-weight: 100">语义网</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Semantic Web icon</title><path d="M21.602 0s-1.524 5.809-8.516 2.658c-.776-.35-.954-.444-.982-.469L2.074 6.301l10.043 4.896s.776-.326 2.026-.933C20.273 7.287 21.602 0 21.602 0zM1.59 8.486v10.448L10.947 24V13.242L1.59 8.486zm20.82 0l-9.357 4.756V24l9.357-5.066V8.486Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/semantic-web.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/semantic-web.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">语义网</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/semantic-web.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/semantic-web.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.w3.org/2007/10/sw-logos.html" target="_blank" rel="noopener noreferrer">https://www.w3.org/2007/10/sw-logos.html</a></p></div>
 <div class="alert alert-dark">

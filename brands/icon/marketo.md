@@ -1,14 +1,14 @@
 ---
 
-title: Marketo() ICON转svg、png下载
+title: Marketo(Marketo) ICON转svg、png下载
 name: marketo
-zhTips: 
+zhTips: Marketo
 search: 
 image: https://iconhelper.cn/svg/brands/marketo.svg
 
 ---
 
-# Marketo  <small style="font-size: 60%;font-weight: 100"></small>
+# Marketo  <small style="font-size: 60%;font-weight: 100">Marketo</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Marketo icon</title><path d="M16.146 0v24l6.134-4.886V3.334zM13.293 18.758l-4.939 2.157V2.086l4.939 1.462zM1.721 18.205l3.78-.999V5.188l-3.762-.606z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/marketo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/marketo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Marketo</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/marketo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/marketo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.marketo.com/" target="_blank" rel="noopener noreferrer">https://www.marketo.com/</a></p></div>
 <div class="alert alert-dark">

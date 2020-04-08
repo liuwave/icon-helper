@@ -1,14 +1,14 @@
 ---
 
-title: Buy Me A Coffee() ICON转svg、png下载
+title: Buy Me A Coffee(给我买咖啡) ICON转svg、png下载
 name: buy-me-a-coffee
-zhTips: 
+zhTips: 给我买咖啡
 search: 
 image: https://iconhelper.cn/svg/brands/buy-me-a-coffee.svg
 
 ---
 
-# Buy Me A Coffee  <small style="font-size: 60%;font-weight: 100"></small>
+# Buy Me A Coffee  <small style="font-size: 60%;font-weight: 100">给我买咖啡</small>
 
 <div id="svg" class="svg-wrap">
 <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><title>Buy Me A Coffee icon</title><path d="M6.898 0L5.682 2.799H3.877v2.523h.695L5.277 9.8H4.172l1.46 8.23.938-.01L7.512 24h8.918l.062-.4.88-5.58.888.01 1.46-8.231h-1.056l.705-4.477h.756V2.8h-1.918L16.99 0H6.898zm.528.805h9.043l.771 1.78H6.652l.774-1.78zm-2.75 2.797H19.32v.92H4.676v-.92zm.453 6.998h13.635l-1.176 6.62-5.649-.06-5.636.06-1.174-6.62z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/buy-me-a-coffee.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/buy-me-a-coffee.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">给我买咖啡</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/buy-me-a-coffee.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/buy-me-a-coffee.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.buymeacoffee.com/brand" target="_blank" rel="noopener noreferrer">https://www.buymeacoffee.com/brand</a></p></div>
 <div class="alert alert-dark">

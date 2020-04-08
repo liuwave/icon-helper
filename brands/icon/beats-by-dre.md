@@ -1,14 +1,14 @@
 ---
 
-title: Beats by Dre() ICON转svg、png下载
+title: Beats by Dre(Dre击败) ICON转svg、png下载
 name: beats-by-dre
-zhTips: 
+zhTips: Dre击败
 search: 
 image: https://iconhelper.cn/svg/brands/beats-by-dre.svg
 
 ---
 
-# Beats by Dre  <small style="font-size: 60%;font-weight: 100"></small>
+# Beats by Dre  <small style="font-size: 60%;font-weight: 100">Dre击败</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Beats by Dre icon</title><path d="M12.0098 0a12 12 0 00-3.5996.5527v6.6465A6 6 0 116.0098 12V1.6016a12 12 0 106-1.6016zm.1504 8.4023A3.6 3.6 0 008.4102 12a3.6 3.6 0 003.5996 3.5996 3.6 3.6 0 00.1504-7.1973Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/beats-by-dre.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/beats-by-dre.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Dre击败</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/beats-by-dre.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/beats-by-dre.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.beatsbydre.com/" target="_blank" rel="noopener noreferrer">https://www.beatsbydre.com/</a></p></div>
 <div class="alert alert-dark">

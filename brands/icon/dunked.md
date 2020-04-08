@@ -1,14 +1,14 @@
 ---
 
-title: Dunked() ICON转svg、png下载
+title: Dunked(扣篮) ICON转svg、png下载
 name: dunked
-zhTips: 
+zhTips: 扣篮
 search: 
 image: https://iconhelper.cn/svg/brands/dunked.svg
 
 ---
 
-# Dunked  <small style="font-size: 60%;font-weight: 100"></small>
+# Dunked  <small style="font-size: 60%;font-weight: 100">扣篮</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Dunked icon</title><path d="M13.791 0V19.766a4.18 4.18 0 004.182 4.12h4.18V4.122A4.18 4.18 0 0017.972 0H13.79zM6.326 14.93a4.479 4.479 0 00-4.478 4.37v.221a4.479 4.479 0 008.957 0v-.214a4.479 4.479 0 00-4.479-4.377Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/dunked.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/dunked.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">扣篮</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/dunked.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/dunked.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://dunked.com/" target="_blank" rel="noopener noreferrer">https://dunked.com/</a></p></div>
 <div class="alert alert-dark">

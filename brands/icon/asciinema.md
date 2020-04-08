@@ -1,14 +1,14 @@
 ---
 
-title: asciinema() ICON转svg、png下载
+title: asciinema(腹水) ICON转svg、png下载
 name: asciinema
-zhTips: 
+zhTips: 腹水
 search: 
 image: https://iconhelper.cn/svg/brands/asciinema.svg
 
 ---
 
-# asciinema  <small style="font-size: 60%;font-weight: 100"></small>
+# asciinema  <small style="font-size: 60%;font-weight: 100">腹水</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>asciinema icon</title><path d="M1.61 0V24L22.39 12L1.61 0M5.76 7.2L10.06 9.68L5.76 12.16V7.2M12.55 11.12L14.08 12L5.76 16.8V15.04L12.55 11.12Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/asciinema.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/asciinema.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">腹水</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/asciinema.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/asciinema.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/asciinema/asciinema-logo" target="_blank" rel="noopener noreferrer">https://github.com/asciinema/asciinema-logo</a></p></div>
 <div class="alert alert-dark">

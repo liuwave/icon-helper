@@ -1,14 +1,14 @@
 ---
 
-title: BuzzFeed() ICON转svg、png下载
+title: BuzzFeed(BuzzFeed) ICON转svg、png下载
 name: buzzfeed
-zhTips: 
+zhTips: BuzzFeed
 search: 
 image: https://iconhelper.cn/svg/brands/buzzfeed.svg
 
 ---
 
-# BuzzFeed  <small style="font-size: 60%;font-weight: 100"></small>
+# BuzzFeed  <small style="font-size: 60%;font-weight: 100">BuzzFeed</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>BuzzFeed icon</title><path d="M24 12c0 6.627-5.373 12-12 12S0 18.627 0 12 5.373 0 12 0s12 5.373 12 12zm-4.148-.273l-.977-6.94-6.5 2.624 2.575 1.487-2.435 4.215L8.3 10.68l-4.153 7.19 2.327 1.346 2.812-4.868L13.5 16.78l3.777-6.54 2.575 1.487z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/buzzfeed.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/buzzfeed.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">BuzzFeed</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/buzzfeed.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/buzzfeed.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://www.buzzfeed.com/press/downloads" target="_blank" rel="noopener noreferrer">http://www.buzzfeed.com/press/downloads</a></p></div>
 <div class="alert alert-dark">

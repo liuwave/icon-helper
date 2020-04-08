@@ -1,14 +1,14 @@
 ---
 
-title: CodeFactor() ICON转svg、png下载
+title: CodeFactor(CodeFactor) ICON转svg、png下载
 name: codefactor
-zhTips: 
+zhTips: CodeFactor
 search: 
 image: https://iconhelper.cn/svg/brands/codefactor.svg
 
 ---
 
-# CodeFactor  <small style="font-size: 60%;font-weight: 100"></small>
+# CodeFactor  <small style="font-size: 60%;font-weight: 100">CodeFactor</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>CodeFactor icon</title><path d="M5.37 2.65A2.64 2.64 0 0 1 2.75 5.3 2.64 2.64 0 0 1 .12 2.65 2.64 2.64 0 0 1 2.75 0a2.64 2.64 0 0 1 2.62 2.65zm0 9.35a2.64 2.64 0 0 1-2.62 2.65A2.64 2.64 0 0 1 .12 12a2.64 2.64 0 0 1 2.63-2.65A2.64 2.64 0 0 1 5.37 12zm0 9.35A2.64 2.64 0 0 1 2.75 24a2.64 2.64 0 0 1-2.63-2.65 2.64 2.64 0 0 1 2.63-2.65 2.64 2.64 0 0 1 2.62 2.65zM11.31 0A2.64 2.64 0 0 0 8.7 2.65 2.64 2.64 0 0 0 11.3 5.3h9.94a2.64 2.64 0 0 0 2.63-2.65A2.64 2.64 0 0 0 21.25 0h-9.94zM8.7 12a2.64 2.64 0 0 1 2.62-2.65H17A2.64 2.64 0 0 1 19.6 12 2.64 2.64 0 0 1 17 14.65H11.3A2.64 2.64 0 0 1 8.7 12z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/codefactor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/codefactor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">CodeFactor</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/codefactor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/codefactor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.codefactor.io/" target="_blank" rel="noopener noreferrer">https://www.codefactor.io/</a></p></div>
 <div class="alert alert-dark">

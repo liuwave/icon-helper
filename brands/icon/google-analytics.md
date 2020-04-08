@@ -1,14 +1,14 @@
 ---
 
-title: Google Analytics() ICON转svg、png下载
+title: Google Analytics(Google Analytics（分析）) ICON转svg、png下载
 name: google-analytics
-zhTips: 
+zhTips: Google Analytics（分析）
 search: 
 image: https://iconhelper.cn/svg/brands/google-analytics.svg
 
 ---
 
-# Google Analytics  <small style="font-size: 60%;font-weight: 100"></small>
+# Google Analytics  <small style="font-size: 60%;font-weight: 100">Google Analytics（分析）</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Google Analytics icon</title><path d="M7.36 21.14A2.86 2.86 0 014.5 24a2.86 2.86 0 01-2.86-2.86 2.86 2.86 0 012.86-2.87 2.86 2.86 0 012.86 2.87zM9.14 12v8.86C9.14 22.88 10.53 24 12 24c1.36 0 2.86-.95 2.86-3.14v-8.72c0-1.85-1.36-3-2.86-3A2.91 2.91 0 009.14 12zm7.5-9.14v18c0 2.02 1.39 3.14 2.86 3.14 1.36 0 2.86-.95 2.86-3.14V3c0-1.85-1.36-3-2.86-3a2.91 2.91 0 00-2.86 2.86Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/google-analytics.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/google-analytics.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Google Analytics（分析）</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/google-analytics.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/google-analytics.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://analytics.google.com" target="_blank" rel="noopener noreferrer">https://analytics.google.com</a></p></div>
 <div class="alert alert-dark">

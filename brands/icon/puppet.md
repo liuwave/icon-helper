@@ -1,14 +1,14 @@
 ---
 
-title: Puppet() ICON转svg、png下载
+title: Puppet(木偶) ICON转svg、png下载
 name: puppet
-zhTips: 
+zhTips: 木偶
 search: 
 image: https://iconhelper.cn/svg/brands/puppet.svg
 
 ---
 
-# Puppet  <small style="font-size: 60%;font-weight: 100"></small>
+# Puppet  <small style="font-size: 60%;font-weight: 100">木偶</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Puppet icon</title><path d="M8.984 21.611H6.595v-2.388h2.39zM6.595 2.39h2.39v2.388h-2.39zm13.198 6.028h-5.48l.001-.002-2.941-2.941V0H4.207v7.166h5.48l2.938 2.938.002-.001v3.794l-.003-.003-2.94 2.94H4.207V24h7.166v-5.477l2.94-2.94h5.48V8.417"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/puppet.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/puppet.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">木偶</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/puppet.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/puppet.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://puppet.com/company/press-room/" target="_blank" rel="noopener noreferrer">https://puppet.com/company/press-room/</a></p></div>
 <div class="alert alert-dark">

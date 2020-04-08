@@ -1,14 +1,14 @@
 ---
 
-title: PJSIP() ICON转svg、png下载
+title: PJSIP(PJSIP) ICON转svg、png下载
 name: pjsip
-zhTips: 
+zhTips: PJSIP
 search: 
 image: https://iconhelper.cn/svg/brands/pjsip.svg
 
 ---
 
-# PJSIP  <small style="font-size: 60%;font-weight: 100"></small>
+# PJSIP  <small style="font-size: 60%;font-weight: 100">PJSIP</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>PJSIP icon</title><path d="M5.272 20.562H10.2l2.657 2.657c.873.874 2.114 1.039 2.782.371l7.951-7.951c.668-.668.503-1.909-.37-2.782L11.142.781C10.27-.093 9.029-.258 8.36.41L.41 8.36c-.668.668-.503 1.909.37 2.782l4.492 4.492zm2.142-2.142v-3.768l-.88-.88h.016l-2.507-2.507c-.873-.873-1.039-2.114-.371-2.782l4.811-4.811c.668-.668 1.909-.502 2.782.371l8.692 8.692c.873.873 1.039 2.114.371 2.782l-4.811 4.811c-.438.438-1.12.511-1.786.269a1.218 3.063 25.325 00.557-2.845 1.218 3.063 25.325 00-1.557.033 1.218 3.063 25.325 00-.931 1.252l-.618-.617zM5.172 11.24a1.628 1.628 0 002.302 0 1.628 1.628 0 000-2.302 1.628 1.628 0 00-2.303 0 1.628 1.628 0 000 2.302z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/pjsip.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/pjsip.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">PJSIP</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/pjsip.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/pjsip.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.pjsip.org/favicon.ico" target="_blank" rel="noopener noreferrer">https://www.pjsip.org/favicon.ico</a></p></div>
 <div class="alert alert-dark">

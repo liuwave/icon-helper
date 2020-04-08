@@ -1,14 +1,14 @@
 ---
 
-title: ReverbNation() ICON转svg、png下载
+title: ReverbNation(混响) ICON转svg、png下载
 name: reverbnation
-zhTips: 
+zhTips: 混响
 search: 
 image: https://iconhelper.cn/svg/brands/reverbnation.svg
 
 ---
 
-# ReverbNation  <small style="font-size: 60%;font-weight: 100"></small>
+# ReverbNation  <small style="font-size: 60%;font-weight: 100">混响</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>ReverbNation icon</title><path d="M24 9.324l-9.143-.03L11.971.57 9.143 9.294 0 9.324h.031l7.367 5.355-2.855 8.749h.029l7.459-5.386 7.396 5.386-2.855-8.73L24 9.315"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/reverbnation.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/reverbnation.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">混响</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/reverbnation.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/reverbnation.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.reverbnation.com" target="_blank" rel="noopener noreferrer">https://www.reverbnation.com</a></p></div>
 <div class="alert alert-dark">

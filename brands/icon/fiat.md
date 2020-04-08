@@ -1,14 +1,14 @@
 ---
 
-title: Fiat() ICON转svg、png下载
+title: Fiat(菲亚特) ICON转svg、png下载
 name: fiat
-zhTips: 
+zhTips: 菲亚特
 search: 
 image: https://iconhelper.cn/svg/brands/fiat.svg
 
 ---
 
-# Fiat  <small style="font-size: 60%;font-weight: 100"></small>
+# Fiat  <small style="font-size: 60%;font-weight: 100">菲亚特</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Fiat icon</title><path d="M12.572 11.348l.027-5.957h1.34c.608 1.327.998 3.081 1.304 5.957zm-2.141 9.42h2.222l.025-7.252h2.663c.209 1.28.26 5.231.273 7.252h2.155c.204-8.953-.428-14.014-2.174-17.537h-5.367zm8.873 0h2.322l.493-15.327H24l-.014-2.21h-6.524v2.213h1.896zM8.952 3.233H6.21l.294 17.537h2.4zm-6.2 10.264h1.95V11.23h-1.95l.007-5.706h2.545L5.29 3.232H0l.478 17.537h2.325Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/fiat.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/fiat.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">菲亚特</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/fiat.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/fiat.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://en.wikipedia.org/wiki/File:Fiat_Logo.svg" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/File:Fiat_Logo.svg</a></p></div>
 <div class="alert alert-dark">

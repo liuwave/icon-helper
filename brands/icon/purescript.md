@@ -1,14 +1,14 @@
 ---
 
-title: PureScript() ICON转svg、png下载
+title: PureScript(PureScript) ICON转svg、png下载
 name: purescript
-zhTips: 
+zhTips: PureScript
 search: 
 image: https://iconhelper.cn/svg/brands/purescript.svg
 
 ---
 
-# PureScript  <small style="font-size: 60%;font-weight: 100"></small>
+# PureScript  <small style="font-size: 60%;font-weight: 100">PureScript</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>PureScript icon</title><path d="M19.16 4.6l-1.24 1.24 3.97 3.97-3.97 3.97 1.24 1.24 4.58-4.6a.87.87 0 000-1.23L19.16 4.6zM6.95 6.74l1.87 1.75h8.23l-1.87-1.75H6.95zm-2.1 2.24l-4.6 4.6a.87.87 0 000 1.23l4.6 4.59 1.23-1.24-3.97-3.97 3.97-3.97-1.24-1.24zm3.97 2.14l-1.87 1.76h8.23l1.87-1.76H8.82zm-1.87 4.39l1.87 1.75h8.23l-1.87-1.75H6.95z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/purescript.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/purescript.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">PureScript</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/purescript.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/purescript.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/purescript/logo" target="_blank" rel="noopener noreferrer">https://github.com/purescript/logo</a></p></div>
 <div class="alert alert-dark">

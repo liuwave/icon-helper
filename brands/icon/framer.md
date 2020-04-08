@@ -1,14 +1,14 @@
 ---
 
-title: Framer() ICON转svg、png下载
+title: Framer(成帧器) ICON转svg、png下载
 name: framer
-zhTips: 
+zhTips: 成帧器
 search: 
 image: https://iconhelper.cn/svg/brands/framer.svg
 
 ---
 
-# Framer  <small style="font-size: 60%;font-weight: 100"></small>
+# Framer  <small style="font-size: 60%;font-weight: 100">成帧器</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Framer icon</title><path d="M4 0h16v8h-8zM4 8h8l8 8H4zM4 16h8v8z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/framer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/framer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">成帧器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/framer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/framer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://framer.com" target="_blank" rel="noopener noreferrer">https://framer.com</a></p></div>
 <div class="alert alert-dark">

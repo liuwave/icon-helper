@@ -1,14 +1,14 @@
 ---
 
-title: Bitbucket() ICON转svg、png下载
+title: Bitbucket(Bitbucket) ICON转svg、png下载
 name: bitbucket
-zhTips: 
+zhTips: Bitbucket
 search: 
 image: https://iconhelper.cn/svg/brands/bitbucket.svg
 
 ---
 
-# Bitbucket  <small style="font-size: 60%;font-weight: 100"></small>
+# Bitbucket  <small style="font-size: 60%;font-weight: 100">Bitbucket</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Bitbucket icon</title><path d="M.778 1.211c-.424-.006-.772.334-.778.758 0 .045.002.09.01.134l3.263 19.811c.084.499.515.867 1.022.872H19.95c.382.004.708-.271.77-.646l3.27-20.03c.068-.418-.216-.813-.635-.881-.045-.008-.089-.011-.133-.01L.778 1.211zM14.52 15.528H9.522L8.17 8.464h7.561l-1.211 7.064z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/bitbucket.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/bitbucket.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Bitbucket</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/bitbucket.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/bitbucket.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.atlassian.com/company/news/press-kit" target="_blank" rel="noopener noreferrer">https://www.atlassian.com/company/news/press-kit</a></p></div>
 <div class="alert alert-dark">

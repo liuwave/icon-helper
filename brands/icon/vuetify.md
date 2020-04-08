@@ -1,14 +1,14 @@
 ---
 
-title: Vuetify() ICON转svg、png下载
+title: Vuetify(Vuetify) ICON转svg、png下载
 name: vuetify
-zhTips: 
+zhTips: Vuetify
 search: 
 image: https://iconhelper.cn/svg/brands/vuetify.svg
 
 ---
 
-# Vuetify  <small style="font-size: 60%;font-weight: 100"></small>
+# Vuetify  <small style="font-size: 60%;font-weight: 100">Vuetify</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vuetify icon</title><path d="M7.094 0L12 11.596 16.906 0H7.094zM1.5 3.5L12 24 22.5 3.5H17L12 15 7 3.5z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/vuetify.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/vuetify.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Vuetify</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/vuetify.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/vuetify.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://vuetifyjs.com/" target="_blank" rel="noopener noreferrer">https://vuetifyjs.com/</a></p></div>
 <div class="alert alert-dark">

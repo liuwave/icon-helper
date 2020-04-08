@@ -1,14 +1,14 @@
 ---
 
-title: Hurriyetemlak() ICON转svg、png下载
+title: Hurriyetemlak(hurriyetemlak) ICON转svg、png下载
 name: hurriyetemlak
-zhTips: 
+zhTips: hurriyetemlak
 search: 
 image: https://iconhelper.cn/svg/brands/hurriyetemlak.svg
 
 ---
 
-# Hurriyetemlak  <small style="font-size: 60%;font-weight: 100"></small>
+# Hurriyetemlak  <small style="font-size: 60%;font-weight: 100">hurriyetemlak</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Hurriyetemlak icon</title><path d="M24 16.085L11.994 4.091 0 16.097l3.817 3.812 8.182-8.189 8.189 8.182z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/hurriyetemlak.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/hurriyetemlak.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">hurriyetemlak</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/hurriyetemlak.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/hurriyetemlak.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://ilan.hurriyetemlak.com/emlak-ilani-yayinlama-kurallari" target="_blank" rel="noopener noreferrer">https://ilan.hurriyetemlak.com/emlak-ilani-yayinlama-kurallari</a></p></div>
 <div class="alert alert-dark">

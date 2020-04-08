@@ -1,14 +1,14 @@
 ---
 
-title: smart() ICON转svg、png下载
+title: smart(智能) ICON转svg、png下载
 name: smart
-zhTips: 
+zhTips: 智能
 search: 
 image: https://iconhelper.cn/svg/brands/smart.svg
 
 ---
 
-# smart  <small style="font-size: 60%;font-weight: 100"></small>
+# smart  <small style="font-size: 60%;font-weight: 100">智能</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>smart icon</title><path d="M17.048 2.611c.318 3.819.248 16.941.012 18.605-.016.125-.018.341.113.239A23.879 23.879 0 0 0 24 12.003c-1.467-3.684-3.722-6.74-6.604-9.258-.167-.147-.267-.229-.314-.229-.03 0-.04.03-.034.095M0 12.002c0 6.215 5.064 11.252 11.245 11.252 1.612 0 3.138-.35 4.332-.86.34-.146.32-.377.325-.478l.001-4.945c0-.244-.192-.139-.29-.087-2.292 1.228-4.374 1.15-4.374 1.15-3.416 0-6.032-2.797-6.032-6.03 0-3.306 2.671-6.055 6.049-6.055 1.788 0 3.19.56 4.385 1.164.106.054.256.042.263-.117l-.002-4.729s.023-.53-.42-.705C13.951.96 12.584.746 11.26.746A11.245 11.245 0 0 0 0 12.002Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/smart.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/smart.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">智能</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/smart.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/smart.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.smart.com/gb/en/models/eq-fortwo-coupe" target="_blank" rel="noopener noreferrer">https://www.smart.com/gb/en/models/eq-fortwo-coupe</a></p></div>
 <div class="alert alert-dark">

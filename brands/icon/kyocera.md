@@ -1,14 +1,14 @@
 ---
 
-title: Kyocera() ICON转svg、png下载
+title: Kyocera(京瓷) ICON转svg、png下载
 name: kyocera
-zhTips: 
+zhTips: 京瓷
 search: 
 image: https://iconhelper.cn/svg/brands/kyocera.svg
 
 ---
 
-# Kyocera  <small style="font-size: 60%;font-weight: 100"></small>
+# Kyocera  <small style="font-size: 60%;font-weight: 100">京瓷</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Kyocera icon</title><path d="M14.323 0L9.677 4.631h7.393V12l4.647-4.631V0zm2.747 12v7.369H9.677L14.323 24h7.394v-7.369zm0 0L9.677 4.631V19.37zm-7.393 7.369L2.283 12v7.369zM2.283 12l7.394-7.369H2.283Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/kyocera.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/kyocera.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">京瓷</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/kyocera.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/kyocera.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://en.wikipedia.org/wiki/Kyocera" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Kyocera</a></p></div>
 <div class="alert alert-dark">

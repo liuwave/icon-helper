@@ -1,14 +1,14 @@
 ---
 
-title: DeviantArt() ICON转svg、png下载
+title: DeviantArt(DeviantArt) ICON转svg、png下载
 name: deviantart
-zhTips: 
+zhTips: DeviantArt
 search: 
 image: https://iconhelper.cn/svg/brands/deviantart.svg
 
 ---
 
-# DeviantArt  <small style="font-size: 60%;font-weight: 100"></small>
+# DeviantArt  <small style="font-size: 60%;font-weight: 100">DeviantArt</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>DeviantArt icon</title><path d="M19.207 4.794l.23-.43V0H15.07l-.436.44-2.058 3.925-.646.436H4.58v5.993h4.04l.36.436-4.175 7.98-.24.43V24H8.93l.436-.44 2.07-3.925.644-.436h7.35v-5.993h-4.05l-.36-.438 4.186-7.977z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/deviantart.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/deviantart.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">DeviantArt</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/deviantart.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/deviantart.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://help.deviantart.com/21" target="_blank" rel="noopener noreferrer">http://help.deviantart.com/21</a></p></div>
 <div class="alert alert-dark">

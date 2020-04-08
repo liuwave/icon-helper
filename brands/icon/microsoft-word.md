@@ -1,14 +1,14 @@
 ---
 
-title: Microsoft Word() ICON转svg、png下载
+title: Microsoft Word(Microsoft Word) ICON转svg、png下载
 name: microsoft-word
-zhTips: 
+zhTips: Microsoft Word
 search: 
 image: https://iconhelper.cn/svg/brands/microsoft-word.svg
 
 ---
 
-# Microsoft Word  <small style="font-size: 60%;font-weight: 100"></small>
+# Microsoft Word  <small style="font-size: 60%;font-weight: 100">Microsoft Word</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Microsoft Word icon</title><path d="M23.004 1.5q.41 0 .703.293t.293.703v19.008q0 .41-.293.703t-.703.293H6.996q-.41 0-.703-.293T6 21.504V18H.996q-.41 0-.703-.293T0 17.004V6.996q0-.41.293-.703T.996 6H6V2.496q0-.41.293-.703t.703-.293zM6.035 11.203l1.442 4.735h1.64l1.57-7.876H9.036l-.937 4.653-1.325-4.5H5.38l-1.406 4.523-.938-4.675H1.312l1.57 7.874h1.641zM22.5 21v-3h-15v3zm0-4.5v-3.75H12v3.75zm0-5.25V7.5H12v3.75zm0-5.25V3h-15v3Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/microsoft-word.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/microsoft-word.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Microsoft Word</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/microsoft-word.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/microsoft-word.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://developer.microsoft.com/en-us/fabric#/styles/web/colors/products" target="_blank" rel="noopener noreferrer">https://developer.microsoft.com/en-us/fabric#/styles/web/colors/products</a></p></div>
 <div class="alert alert-dark">

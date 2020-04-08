@@ -1,14 +1,14 @@
 ---
 
-title: Boost() ICON转svg、png下载
+title: Boost(提升) ICON转svg、png下载
 name: boost
-zhTips: 
+zhTips: 提升
 search: 
 image: https://iconhelper.cn/svg/brands/boost.svg
 
 ---
 
-# Boost  <small style="font-size: 60%;font-weight: 100"></small>
+# Boost  <small style="font-size: 60%;font-weight: 100">提升</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Boost icon</title><path d="M15.818 18.157c.058-.045.112-.099.163-.15a2.28 2.28 0 0 0 0-3.169l-7.802-8c-.054.05-.109.099-.16.152a2.278 2.278 0 0 0 0 3.17l7.799 7.997zm5.727-11.399a2.957 2.957 0 0 1 1.573.873c1.176 1.24 1.176 3.25 0 4.49l-5.557 5.847a2.145 2.145 0 0 1-1.298.637L19.567 22l-17.11-3.758a2.998 2.998 0 0 1-1.572-.878c-1.18-1.237-1.18-3.248 0-4.494l5.552-5.838a2.129 2.129 0 0 1 1.303-.643L4.434 3l17.11 3.758z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/boost.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/boost.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">提升</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/boost.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/boost.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.boostmobile.com/" target="_blank" rel="noopener noreferrer">https://www.boostmobile.com/</a></p></div>
 <div class="alert alert-dark">

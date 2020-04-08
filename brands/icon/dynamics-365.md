@@ -1,14 +1,14 @@
 ---
 
-title: Dynamics 365() ICON转svg、png下载
+title: Dynamics 365(动态365) ICON转svg、png下载
 name: dynamics-365
-zhTips: 
+zhTips: 动态365
 search: 
 image: https://iconhelper.cn/svg/brands/dynamics-365.svg
 
 ---
 
-# Dynamics 365  <small style="font-size: 60%;font-weight: 100"></small>
+# Dynamics 365  <small style="font-size: 60%;font-weight: 100">动态365</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Dynamics 365 icon</title><path d="M4.59 7.41l4.94 3.54L4.59 24zm0-7.41v6.36l9.53 5.29 4.59-3.52zm0 24l14.82-8.47v-6.7Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/dynamics-365.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/dynamics-365.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">动态365</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/dynamics-365.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/dynamics-365.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://thepartnerchannel.com/wp-content/uploads/Dynamics365_styleguide_092816.pdf" target="_blank" rel="noopener noreferrer">http://thepartnerchannel.com/wp-content/uploads/Dynamics365_styleguide_092816.pdf</a></p></div>
 <div class="alert alert-dark">

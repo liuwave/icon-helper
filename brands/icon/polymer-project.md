@@ -1,14 +1,14 @@
 ---
 
-title: Polymer Project() ICON转svg、png下载
+title: Polymer Project(聚合物项目) ICON转svg、png下载
 name: polymer-project
-zhTips: 
+zhTips: 聚合物项目
 search: 
 image: https://iconhelper.cn/svg/brands/polymer-project.svg
 
 ---
 
-# Polymer Project  <small style="font-size: 60%;font-weight: 100"></small>
+# Polymer Project  <small style="font-size: 60%;font-weight: 100">聚合物项目</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Polymer Project icon</title><path d="M14.4 3.686L7.2 16.16 4.8 12l4.8-8.314H4.8L0 12l2.4 4.159 2.4 4.155h4.8l7.2-12.469L19.2 12l-4.8 8.314h4.8l2.4-4.155L24 12l-2.4-4.155-2.4-4.159Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/polymer-project.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/polymer-project.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">聚合物项目</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/polymer-project.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/polymer-project.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/Polymer/polymer-project.org/tree/master/app/images/logos" target="_blank" rel="noopener noreferrer">https://github.com/Polymer/polymer-project.org/tree/master/app/images/logos</a></p></div>
 <div class="alert alert-dark">

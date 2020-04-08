@@ -1,14 +1,14 @@
 ---
 
-title: Terraform() ICON转svg、png下载
+title: Terraform(地形) ICON转svg、png下载
 name: terraform
-zhTips: 
+zhTips: 地形
 search: 
 image: https://iconhelper.cn/svg/brands/terraform.svg
 
 ---
 
-# Terraform  <small style="font-size: 60%;font-weight: 100"></small>
+# Terraform  <small style="font-size: 60%;font-weight: 100">地形</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Terraform icon</title><path d="M8.283 4.265l7.433 3.776v7.551l-7.433-3.776V4.265zm8.248 3.776v7.551l7.436-3.776V4.265l-7.436 3.776zM.035.051v7.551l7.433 3.776V3.827L.035.051zm8.248 20.141l7.433 3.776V16.42l-7.433-3.776v7.548z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/terraform.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/terraform.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">地形</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/terraform.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/terraform.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.hashicorp.com/brand#terraform" target="_blank" rel="noopener noreferrer">https://www.hashicorp.com/brand#terraform</a></p></div>
 <div class="alert alert-dark">

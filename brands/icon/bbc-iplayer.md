@@ -1,14 +1,14 @@
 ---
 
-title: BBC iPlayer() ICON转svg、png下载
+title: BBC iPlayer(BBC iPlayer) ICON转svg、png下载
 name: bbc-iplayer
-zhTips: 
+zhTips: BBC iPlayer
 search: 
 image: https://iconhelper.cn/svg/brands/bbc-iplayer.svg
 
 ---
 
-# BBC iPlayer  <small style="font-size: 60%;font-weight: 100"></small>
+# BBC iPlayer  <small style="font-size: 60%;font-weight: 100">BBC iPlayer</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>BBC iPlayer icon</title><path d="M8.315 0H2.382v6.022h5.933V3.506l9.618 8.45-9.618 8.538V8.99H2.382V24h5.933l13.303-12.045Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/bbc-iplayer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/bbc-iplayer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">BBC iPlayer</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/bbc-iplayer.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/bbc-iplayer.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.bbc.co.uk/iplayer" target="_blank" rel="noopener noreferrer">https://www.bbc.co.uk/iplayer</a></p></div>
 <div class="alert alert-dark">

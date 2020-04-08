@@ -1,14 +1,14 @@
 ---
 
-title: Helly Hansen() ICON转svg、png下载
+title: Helly Hansen(Helly Hansen) ICON转svg、png下载
 name: helly-hansen
-zhTips: 
+zhTips: Helly Hansen
 search: 
 image: https://iconhelper.cn/svg/brands/helly-hansen.svg
 
 ---
 
-# Helly Hansen  <small style="font-size: 60%;font-weight: 100"></small>
+# Helly Hansen  <small style="font-size: 60%;font-weight: 100">Helly Hansen</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Helly Hansen icon</title><path d="M4.27 10.09h4.08V5.63h4.11L9.98 18.37H8.34V14H4.26v4.37H0V5.63h4.27zm15.45 3.82h-4.07v4.46h-4.1l2.47-12.74h1.64V10h4.08V5.63H24v12.74h-4.28Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/helly-hansen.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/helly-hansen.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Helly Hansen</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/helly-hansen.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/helly-hansen.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.hellyhansen.com/" target="_blank" rel="noopener noreferrer">https://www.hellyhansen.com/</a></p></div>
 <div class="alert alert-dark">

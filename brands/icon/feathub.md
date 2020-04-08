@@ -1,14 +1,14 @@
 ---
 
-title: FeatHub() ICON转svg、png下载
+title: FeatHub(FeatHub) ICON转svg、png下载
 name: feathub
-zhTips: 
+zhTips: FeatHub
 search: 
 image: https://iconhelper.cn/svg/brands/feathub.svg
 
 ---
 
-# FeatHub  <small style="font-size: 60%;font-weight: 100"></small>
+# FeatHub  <small style="font-size: 60%;font-weight: 100">FeatHub</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>FeatHub icon</title><path d="M8.73.01h6.54v6.867H8.73V.01zm0 17.113h6.54v6.867H8.73v-6.867zM.01 8.73h23.98v6.54H.01V8.73z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/feathub.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/feathub.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">FeatHub</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/feathub.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/feathub.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://feathub.com/" target="_blank" rel="noopener noreferrer">http://feathub.com/</a></p></div>
 <div class="alert alert-dark">

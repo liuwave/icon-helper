@@ -1,14 +1,14 @@
 ---
 
-title: Plex() ICON转svg、png下载
+title: Plex(Plex) ICON转svg、png下载
 name: plex
-zhTips: 
+zhTips: Plex
 search: 
 image: https://iconhelper.cn/svg/brands/plex.svg
 
 ---
 
-# Plex  <small style="font-size: 60%;font-weight: 100"></small>
+# Plex  <small style="font-size: 60%;font-weight: 100">Plex</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Plex icon</title><path d="M11.643 0H4.68l7.679 12L4.68 24h6.963l7.677-12-7.677-12"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/plex.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/plex.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Plex</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/plex.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/plex.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://brand.plex.tv/d/qxmJ3odkK0fj/plex-style-guide" target="_blank" rel="noopener noreferrer">http://brand.plex.tv/d/qxmJ3odkK0fj/plex-style-guide</a></p></div>
 <div class="alert alert-dark">

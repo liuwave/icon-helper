@@ -1,14 +1,14 @@
 ---
 
-title: Car Throttle() ICON转svg、png下载
+title: Car Throttle(汽车油门) ICON转svg、png下载
 name: car-throttle
-zhTips: 
+zhTips: 汽车油门
 search: 
 image: https://iconhelper.cn/svg/brands/car-throttle.svg
 
 ---
 
-# Car Throttle  <small style="font-size: 60%;font-weight: 100"></small>
+# Car Throttle  <small style="font-size: 60%;font-weight: 100">汽车油门</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Car Throttle icon</title><path d="M0 19.99h5.31l1-5.76h2.673L7.97 19.99h5.272l1.037-5.76h2.824l-1 5.76h7.584L21.9 17.029 24 4.01h-5.16l-.987 5.647h-2.86l.936-5.647H8.483l1.724 2.749-.487 2.898H6.996l.9-5.647H.35l1.76 2.774Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/car-throttle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/car-throttle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">汽车油门</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/car-throttle.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/car-throttle.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.carthrottle.com/" target="_blank" rel="noopener noreferrer">https://www.carthrottle.com/</a></p></div>
 <div class="alert alert-dark">

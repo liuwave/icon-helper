@@ -1,14 +1,14 @@
 ---
 
-title: Linux Foundation() ICON转svg、png下载
+title: Linux Foundation(Linux基金会) ICON转svg、png下载
 name: linux-foundation
-zhTips: 
+zhTips: Linux基金会
 search: 
 image: https://iconhelper.cn/svg/brands/linux-foundation.svg
 
 ---
 
-# Linux Foundation  <small style="font-size: 60%;font-weight: 100"></small>
+# Linux Foundation  <small style="font-size: 60%;font-weight: 100">Linux基金会</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Linux Foundation icon</title><path d="M4.8 9.6v9.6h9.6V24H0V9.6h4.8zM24 0v24h-7.2v-4.8h2.4V4.8H4.8v2.4H0V0h24z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/linux-foundation.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/linux-foundation.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Linux基金会</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/linux-foundation.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/linux-foundation.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://www.linuxfoundation.org/about/about-linux" target="_blank" rel="noopener noreferrer">http://www.linuxfoundation.org/about/about-linux</a></p></div>
 <div class="alert alert-dark">

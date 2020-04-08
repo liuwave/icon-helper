@@ -1,14 +1,14 @@
 ---
 
-title: Snapcraft() ICON转svg、png下载
+title: Snapcraft(Snapcraft) ICON转svg、png下载
 name: snapcraft
-zhTips: 
+zhTips: Snapcraft
 search: 
 image: https://iconhelper.cn/svg/brands/snapcraft.svg
 
 ---
 
-# Snapcraft  <small style="font-size: 60%;font-weight: 100"></small>
+# Snapcraft  <small style="font-size: 60%;font-weight: 100">Snapcraft</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Snapcraft icon</title><path d="M13.804 13.367V5.69l5.292 2.362-5.292 5.315zM3.701 23.514l6.49-12.22 2.847 2.843L3.7 23.514zM0 .486l13.355 4.848v8.484L0 .486zM21.803 5.334H14.11L24 9.748z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/snapcraft.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/snapcraft.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Snapcraft</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/snapcraft.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/snapcraft.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/snapcore/snap-store-badges" target="_blank" rel="noopener noreferrer">https://github.com/snapcore/snap-store-badges</a></p></div>
 <div class="alert alert-dark">

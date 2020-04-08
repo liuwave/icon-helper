@@ -1,14 +1,14 @@
 ---
 
-title: Autotask() ICON转svg、png下载
+title: Autotask(自动任务) ICON转svg、png下载
 name: autotask
-zhTips: 
+zhTips: 自动任务
 search: 
 image: https://iconhelper.cn/svg/brands/autotask.svg
 
 ---
 
-# Autotask  <small style="font-size: 60%;font-weight: 100"></small>
+# Autotask  <small style="font-size: 60%;font-weight: 100">自动任务</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Autotask icon</title><path d="M17.93 11.626l2.782 6.988h-4.298l-1.825-4.736-9.885 6.667L1 12.6h.815l4.39 3.418 7.61-4.148-1.085-2.82-1.168 2.481-4.938 2.716 3.553-9.342h5.077l2.022 5.08L24 6.32V0H0v24h24V7.532z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/autotask.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/autotask.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">自动任务</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/autotask.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/autotask.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.autotask.com/branding" target="_blank" rel="noopener noreferrer">https://www.autotask.com/branding</a></p></div>
 <div class="alert alert-dark">

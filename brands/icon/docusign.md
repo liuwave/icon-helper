@@ -1,14 +1,14 @@
 ---
 
-title: DocuSign() ICON转svg、png下载
+title: DocuSign(DocuSign) ICON转svg、png下载
 name: docusign
-zhTips: 
+zhTips: DocuSign
 search: 
 image: https://iconhelper.cn/svg/brands/docusign.svg
 
 ---
 
-# DocuSign  <small style="font-size: 60%;font-weight: 100"></small>
+# DocuSign  <small style="font-size: 60%;font-weight: 100">DocuSign</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>DocuSign icon</title><path d="M9.517 3.31h4.966v6.621h3.31L12 16.552 6.207 9.931h3.31V3.31zM0 19.034h24v1.655H0v-1.655z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/docusign.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/docusign.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">DocuSign</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/docusign.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/docusign.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/simple-icons/simple-icons/issues/1098" target="_blank" rel="noopener noreferrer">https://github.com/simple-icons/simple-icons/issues/1098</a></p></div>
 <div class="alert alert-dark">

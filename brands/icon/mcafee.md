@@ -1,14 +1,14 @@
 ---
 
-title: McAfee() ICON转svg、png下载
+title: McAfee(McAfee) ICON转svg、png下载
 name: mcafee
-zhTips: 
+zhTips: McAfee
 search: 
 image: https://iconhelper.cn/svg/brands/mcafee.svg
 
 ---
 
-# McAfee  <small style="font-size: 60%;font-weight: 100"></small>
+# McAfee  <small style="font-size: 60%;font-weight: 100">McAfee</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>McAfee icon</title><path d="M12 4.843L1.608.033v19.124L12 23.967l10.392-4.81V.033zm6.155 11.594l-6.126 2.835-6.127-2.835V6.704l6.127 2.834 6.126-2.834z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/mcafee.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/mcafee.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">McAfee</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/mcafee.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/mcafee.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.mcafee.com/" target="_blank" rel="noopener noreferrer">https://www.mcafee.com/</a></p></div>
 <div class="alert alert-dark">

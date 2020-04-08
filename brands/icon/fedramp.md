@@ -1,14 +1,14 @@
 ---
 
-title: FedRAMP() ICON转svg、png下载
+title: FedRAMP(FedRAMP) ICON转svg、png下载
 name: fedramp
-zhTips: 
+zhTips: FedRAMP
 search: 
 image: https://iconhelper.cn/svg/brands/fedramp.svg
 
 ---
 
-# FedRAMP  <small style="font-size: 60%;font-weight: 100"></small>
+# FedRAMP  <small style="font-size: 60%;font-weight: 100">FedRAMP</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>FedRAMP icon</title><path d="M1.886 3.412A1.85 1.85 0 000 5.27v15.319h3.922v-6.094h4.934V10.66H3.922V7.336h14.595a1.67 1.67 0 010 3.324h-6.844a1.431 1.431 0 00-1.298 1.325v8.601h3.919V14.54h2.168l3.138 6.047h4.378l-3.46-6.657a5.442 5.442 0 00-2.001-10.517z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/fedramp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/fedramp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">FedRAMP</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/fedramp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/fedramp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.fedramp.gov/assets/resources/documents/FedRAMP_Branding_Guidance.pdf" target="_blank" rel="noopener noreferrer">https://www.fedramp.gov/assets/resources/documents/FedRAMP_Branding_Guidance.pdf</a></p></div>
 <div class="alert alert-dark">

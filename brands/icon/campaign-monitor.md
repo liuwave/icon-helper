@@ -1,14 +1,14 @@
 ---
 
-title: Campaign Monitor() ICON转svg、png下载
+title: Campaign Monitor(广告系列监控器) ICON转svg、png下载
 name: campaign-monitor
-zhTips: 
+zhTips: 广告系列监控器
 search: 
 image: https://iconhelper.cn/svg/brands/campaign-monitor.svg
 
 ---
 
-# Campaign Monitor  <small style="font-size: 60%;font-weight: 100"></small>
+# Campaign Monitor  <small style="font-size: 60%;font-weight: 100">广告系列监控器</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Campaign Monitor icon</title><path d="M23.836 4.27c-.29-.413-.86-.515-1.273-.226L.163 19.73c.167.235.437.39.747.39h22.18c.503 0 .91-.41.91-.914V4.78c-.004-.176-.058-.352-.164-.51zm-22.4-.226c-.413-.29-.982-.19-1.272.226-.107.154-.162.332-.164.51v14.45l10.664-8.736-9.227-6.45v-.002z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/campaign-monitor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/campaign-monitor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">广告系列监控器</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/campaign-monitor.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/campaign-monitor.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.campaignmonitor.com/company/brand/" target="_blank" rel="noopener noreferrer">https://www.campaignmonitor.com/company/brand/</a></p></div>
 <div class="alert alert-dark">

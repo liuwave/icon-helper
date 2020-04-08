@@ -1,14 +1,14 @@
 ---
 
-title: MicroStrategy() ICON转svg、png下载
+title: MicroStrategy(MicroStrategy) ICON转svg、png下载
 name: microstrategy
-zhTips: 
+zhTips: MicroStrategy
 search: 
 image: https://iconhelper.cn/svg/brands/microstrategy.svg
 
 ---
 
-# MicroStrategy  <small style="font-size: 60%;font-weight: 100"></small>
+# MicroStrategy  <small style="font-size: 60%;font-weight: 100">MicroStrategy</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>MicroStrategy icon</title><path d="M9.103 2.596h5.811v18.808h-5.81zm-9.072 0h5.81v18.808H.032zm18.127 0v18.806h5.811V8.339z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/microstrategy.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/microstrategy.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">MicroStrategy</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/microstrategy.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/microstrategy.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.microstrategy.com/us/company/press-kit" target="_blank" rel="noopener noreferrer">https://www.microstrategy.com/us/company/press-kit</a></p></div>
 <div class="alert alert-dark">

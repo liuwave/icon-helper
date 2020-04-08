@@ -1,14 +1,14 @@
 ---
 
-title: Pandora() ICON转svg、png下载
+title: Pandora(Pandora) ICON转svg、png下载
 name: pandora
-zhTips: 
+zhTips: Pandora
 search: 
 image: https://iconhelper.cn/svg/brands/pandora.svg
 
 ---
 
-# Pandora  <small style="font-size: 60%;font-weight: 100"></small>
+# Pandora  <small style="font-size: 60%;font-weight: 100">Pandora</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Pandora icon</title><path d="M1.882 0v24H8.32a1.085 1.085 0 001.085-1.085v-4.61h1.612c7.88 0 11.103-4.442 11.103-9.636C22.119 2.257 17.247 0 12.662 0H1.882Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/pandora.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/pandora.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Pandora</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/pandora.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/pandora.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.pandoraforbrands.com/" target="_blank" rel="noopener noreferrer">https://www.pandoraforbrands.com/</a></p></div>
 <div class="alert alert-dark">

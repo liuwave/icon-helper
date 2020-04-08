@@ -1,14 +1,14 @@
 ---
 
-title: Experts Exchange() ICON转svg、png下载
+title: Experts Exchange(专家交流) ICON转svg、png下载
 name: experts-exchange
-zhTips: 
+zhTips: 专家交流
 search: 
 image: https://iconhelper.cn/svg/brands/experts-exchange.svg
 
 ---
 
-# Experts Exchange  <small style="font-size: 60%;font-weight: 100"></small>
+# Experts Exchange  <small style="font-size: 60%;font-weight: 100">专家交流</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Experts Exchange icon</title><path d="M7.28.9H0L8.36 12 0 23.1h7.28L15.64 12zM24 .9h-7.28l-2.3 3.06 3.64 4.82zM14.42 20.05l2.3 3.05H24l-5.94-7.88z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/experts-exchange.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/experts-exchange.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">专家交流</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/experts-exchange.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/experts-exchange.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.experts-exchange.com/" target="_blank" rel="noopener noreferrer">https://www.experts-exchange.com/</a></p></div>
 <div class="alert alert-dark">

@@ -1,14 +1,14 @@
 ---
 
-title: Garmin() ICON转svg、png下载
+title: Garmin(Garmin) ICON转svg、png下载
 name: garmin
-zhTips: 
+zhTips: Garmin
 search: 
 image: https://iconhelper.cn/svg/brands/garmin.svg
 
 ---
 
-# Garmin  <small style="font-size: 60%;font-weight: 100"></small>
+# Garmin  <small style="font-size: 60%;font-weight: 100">Garmin</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Garmin icon</title><path d="M22.017 22.67H1.984c-.77 0-1.388-.383-1.694-1.002-.387-.61-.387-1.39 0-2.002L10.304 2.33c.385-.615 1.002-1 1.695-1 .77 0 1.386.385 1.69 1l10.02 17.336c.387.617.387 1.39 0 2.002-.31.695-.927 1.002-1.693 1.002z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/garmin.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/garmin.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Garmin</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/garmin.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/garmin.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://developer.garmin.com/resources/brand-guidelines/" target="_blank" rel="noopener noreferrer">https://developer.garmin.com/resources/brand-guidelines/</a></p></div>
 <div class="alert alert-dark">

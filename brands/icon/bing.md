@@ -1,14 +1,14 @@
 ---
 
-title: Bing() ICON转svg、png下载
+title: Bing(必应) ICON转svg、png下载
 name: bing
-zhTips: 
+zhTips: 必应
 search: 
 image: https://iconhelper.cn/svg/brands/bing.svg
 
 ---
 
-# Bing  <small style="font-size: 60%;font-weight: 100"></small>
+# Bing  <small style="font-size: 60%;font-weight: 100">必应</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Bing icon</title><path d="M3.605 0L8.4 1.686V18.56l6.753-3.895-3.31-1.555-2.09-5.2 10.64 3.738v5.435L8.403 24l-4.797-2.67V0z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/bing.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/bing.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">必应</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/bing.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/bing.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://commons.wikimedia.org/wiki/File:Bing_logo_(2016).svg" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/wiki/File:Bing_logo_(2016).svg</a></p></div>
 <div class="alert alert-dark">

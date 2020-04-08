@@ -1,14 +1,14 @@
 ---
 
-title: Elm() ICON转svg、png下载
+title: Elm(榆木) ICON转svg、png下载
 name: elm
-zhTips: 
+zhTips: 榆木
 search: 
 image: https://iconhelper.cn/svg/brands/elm.svg
 
 ---
 
-# Elm  <small style="font-size: 60%;font-weight: 100"></small>
+# Elm  <small style="font-size: 60%;font-weight: 100">榆木</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Elm icon</title><path d="M23.986 12.806V23.2l-5.197-5.197zM6.796 6.01H17.19l-5.197 5.197zm9.275-1.12H5.677L.8.015h10.394zm7.116 7.117L17.99 6.81l-5.197 5.197 5.197 5.197zm.813-.813L12.806 0H24zM0 23.2V.813l11.194 11.194zm23.187.8H.8l11.193-11.194Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/elm.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/elm.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">榆木</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/elm.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/elm.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/elm/foundation.elm-lang.org/blob/2d097b317d8af2aaeab49284830260a32d817305/assets/elm_logo.svg" target="_blank" rel="noopener noreferrer">https://github.com/elm/foundation.elm-lang.org/blob/2d097b317d8af2aaeab49284830260a32d817305/assets/elm_logo.svg</a></p></div>
 <div class="alert alert-dark">

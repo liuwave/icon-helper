@@ -1,14 +1,14 @@
 ---
 
-title: awesomeWM() ICON转svg、png下载
+title: awesomeWM(真棒) ICON转svg、png下载
 name: awesomewm
-zhTips: 
+zhTips: 真棒
 search: 
 image: https://iconhelper.cn/svg/brands/awesomewm.svg
 
 ---
 
-# awesomeWM  <small style="font-size: 60%;font-weight: 100"></small>
+# awesomeWM  <small style="font-size: 60%;font-weight: 100">真棒</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>awesomeWM icon</title><path d="M0 24V8.25h16.5V7.5H0V0h24v24h-7.5v-8.25h-9v.75h8.25V24z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/awesomewm.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/awesomewm.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">真棒</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/awesomewm.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/awesomewm.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://awesomewm.org/" target="_blank" rel="noopener noreferrer">https://awesomewm.org/</a></p></div>
 <div class="alert alert-dark">

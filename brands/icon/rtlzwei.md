@@ -1,14 +1,14 @@
 ---
 
-title: RTLZWEI() ICON转svg、png下载
+title: RTLZWEI(RTLZWEI) ICON转svg、png下载
 name: rtlzwei
-zhTips: 
+zhTips: RTLZWEI
 search: 
 image: https://iconhelper.cn/svg/brands/rtlzwei.svg
 
 ---
 
-# RTLZWEI  <small style="font-size: 60%;font-weight: 100"></small>
+# RTLZWEI  <small style="font-size: 60%;font-weight: 100">RTLZWEI</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>RTLZWEI icon</title><path d="M0 0v24h7.38v-3.69H3.692L3.69 3.69h9.229V0H0zm16.61 0v3.69h3.7v16.62h-9.238V24H24V0h-7.39zm-.003 6.49l-3.689.717v9.227l3.69-.715V6.49zm-5.535 1.076l-3.69.715v9.229l3.69-.717V7.566z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/rtlzwei.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/rtlzwei.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">RTLZWEI</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/rtlzwei.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/rtlzwei.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.rtl2.de/" target="_blank" rel="noopener noreferrer">https://www.rtl2.de/</a></p></div>
 <div class="alert alert-dark">

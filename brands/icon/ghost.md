@@ -1,14 +1,14 @@
 ---
 
-title: Ghost() ICON转svg、png下载
+title: Ghost(Ghost) ICON转svg、png下载
 name: ghost
-zhTips: 
+zhTips: Ghost
 search: 
 image: https://iconhelper.cn/svg/brands/ghost.svg
 
 ---
 
-# Ghost  <small style="font-size: 60%;font-weight: 100"></small>
+# Ghost  <small style="font-size: 60%;font-weight: 100">Ghost</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Ghost icon</title><path d="M9.604 19.199H.008V24h9.597v-4.801zm14.39 0h-9.591V24h9.591v-4.801zm.003-9.599H0v4.8h23.997V9.6zM24 0h-4.801v4.801H24V0zm-9.596 0H.008v4.801h14.396V0z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/ghost.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/ghost.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Ghost</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/ghost.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/ghost.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://ghost.org/design" target="_blank" rel="noopener noreferrer">https://ghost.org/design</a></p></div>
 <div class="alert alert-dark">

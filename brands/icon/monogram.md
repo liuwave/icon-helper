@@ -1,14 +1,14 @@
 ---
 
-title: Monogram() ICON转svg、png下载
+title: Monogram(字母组合) ICON转svg、png下载
 name: monogram
-zhTips: 
+zhTips: 字母组合
 search: 
 image: https://iconhelper.cn/svg/brands/monogram.svg
 
 ---
 
-# Monogram  <small style="font-size: 60%;font-weight: 100"></small>
+# Monogram  <small style="font-size: 60%;font-weight: 100">字母组合</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Monogram icon</title><path d="M23.158 0v23.503c0 .451-.533.668-.83.338L12 12.38 3.301 2.73.842 0h22.316zM11.029 13.46L1.672 23.841c-.297.33-.83.111-.83-.338V0l10.187 13.46z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/monogram.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/monogram.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">字母组合</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/monogram.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/monogram.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://monogram.me" target="_blank" rel="noopener noreferrer">http://monogram.me</a></p></div>
 <div class="alert alert-dark">

@@ -1,14 +1,14 @@
 ---
 
-title: Vue.js() ICON转svg、png下载
+title: Vue.js(Vue.js) ICON转svg、png下载
 name: vue-js
-zhTips: 
+zhTips: Vue.js
 search: 
 image: https://iconhelper.cn/svg/brands/vue-js.svg
 
 ---
 
-# Vue.js  <small style="font-size: 60%;font-weight: 100"></small>
+# Vue.js  <small style="font-size: 60%;font-weight: 100">Vue.js</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vue.js icon</title><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/vue-js.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/vue-js.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Vue.js</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/vue-js.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/vue-js.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/vuejs/art" target="_blank" rel="noopener noreferrer">https://github.com/vuejs/art</a></p></div>
 <div class="alert alert-dark">

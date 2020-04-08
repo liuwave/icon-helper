@@ -1,14 +1,14 @@
 ---
 
-title: Big Cartel() ICON转svg、png下载
+title: Big Cartel(大卡特尔) ICON转svg、png下载
 name: big-cartel
-zhTips: 
+zhTips: 大卡特尔
 search: 
 image: https://iconhelper.cn/svg/brands/big-cartel.svg
 
 ---
 
-# Big Cartel  <small style="font-size: 60%;font-weight: 100"></small>
+# Big Cartel  <small style="font-size: 60%;font-weight: 100">大卡特尔</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Big Cartel icon</title><path d="M12 13.068v-1.006c0-.63.252-1.256.88-1.508l7.79-4.9c.503-.252.755-.88.755-1.51V0L12 6.03 2.575 0v12.69c0 3.394 1.51 6.284 4.02 7.917L11.875 24l5.28-3.393c2.513-1.51 4.02-4.398 4.02-7.916V7.036L12 13.068z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/big-cartel.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/big-cartel.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">大卡特尔</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/big-cartel.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/big-cartel.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.bigcartel.com" target="_blank" rel="noopener noreferrer">https://www.bigcartel.com</a></p></div>
 <div class="alert alert-dark">

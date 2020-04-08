@@ -1,14 +1,14 @@
 ---
 
-title: ProSieben() ICON转svg、png下载
+title: ProSieben(ProSieben) ICON转svg、png下载
 name: prosieben
-zhTips: 
+zhTips: ProSieben
 search: 
 image: https://iconhelper.cn/svg/brands/prosieben.svg
 
 ---
 
-# ProSieben  <small style="font-size: 60%;font-weight: 100"></small>
+# ProSieben  <small style="font-size: 60%;font-weight: 100">ProSieben</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>ProSieben icon</title><path d="M.24 0H23.68V6.64H.24M23.76 7.92V24H.24s2.88-7.84 10.48-12.48c7.12-4.4 13.04-3.6 13.04-3.6Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/prosieben.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/prosieben.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">ProSieben</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/prosieben.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/prosieben.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.prosieben.de/" target="_blank" rel="noopener noreferrer">https://www.prosieben.de/</a></p></div>
 <div class="alert alert-dark">

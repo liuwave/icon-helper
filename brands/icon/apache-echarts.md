@@ -1,14 +1,14 @@
 ---
 
-title: Apache ECharts() ICON转svg、png下载
+title: Apache ECharts(Apache ECharts) ICON转svg、png下载
 name: apache-echarts
-zhTips: 
+zhTips: Apache ECharts
 search: 
 image: https://iconhelper.cn/svg/brands/apache-echarts.svg
 
 ---
 
-# Apache ECharts  <small style="font-size: 60%;font-weight: 100"></small>
+# Apache ECharts  <small style="font-size: 60%;font-weight: 100">Apache ECharts</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Apache ECharts icon</title><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm8.354 17.813a1.319 1.319 0 0 0-1.284-1.616c-.383 0-.718.172-.967.424-1.358 1.371-3.304 2.134-5.386 2.134-4.329 0-7.825-3.327-7.797-7.656.021-3.286 2.72-5.937 6.016-5.937a6.016 6.016 0 0 1 5.068 9.258 1.343 1.343 0 0 0-.209.721 1.319 1.319 0 1 0 1.319-1.319c-.019 0-.037.002-.056.003a1.467 1.467 0 0 1 2.486 1.286l.024-.001c.81 0 1.467.657 1.467 1.467a1.47 1.47 0 0 1-.681 1.236z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/apache-echarts.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/apache-echarts.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Apache ECharts</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/apache-echarts.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/apache-echarts.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://echarts.apache.org/" target="_blank" rel="noopener noreferrer">https://echarts.apache.org/</a></p></div>
 <div class="alert alert-dark">

@@ -1,14 +1,14 @@
 ---
 
-title: Material-UI() ICON转svg、png下载
+title: Material-UI(材料UI) ICON转svg、png下载
 name: material-ui
-zhTips: 
+zhTips: 材料UI
 search: 
 image: https://iconhelper.cn/svg/brands/material-ui.svg
 
 ---
 
-# Material-UI  <small style="font-size: 60%;font-weight: 100"></small>
+# Material-UI  <small style="font-size: 60%;font-weight: 100">材料UI</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Material-UI icon</title><path d="M0 2.475v10.39l3 1.733V7.67l6 3.465 6-3.465v3.465l-6 3.463v3.464l6 3.463 9-5.195V9.402l-3 1.733v3.463l-6 3.464-3-1.732 6-3.465V2.475L9 7.67 0 2.475zm24 0l-3 1.73V7.67l3-1.732V2.474Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/material-ui.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/material-ui.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">材料UI</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/material-ui.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/material-ui.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://material-ui.com/" target="_blank" rel="noopener noreferrer">https://material-ui.com/</a></p></div>
 <div class="alert alert-dark">

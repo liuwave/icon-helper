@@ -1,14 +1,14 @@
 ---
 
-title: Instapaper() ICON转svg、png下载
+title: Instapaper(Instapaper) ICON转svg、png下载
 name: instapaper
-zhTips: 
+zhTips: Instapaper
 search: 
 image: https://iconhelper.cn/svg/brands/instapaper.svg
 
 ---
 
-# Instapaper  <small style="font-size: 60%;font-weight: 100"></small>
+# Instapaper  <small style="font-size: 60%;font-weight: 100">Instapaper</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Instapaper icon</title><path d="M14.766 20.259c0 1.819.271 2.089 2.934 2.292V24H6.301v-1.449c2.666-.203 2.934-.473 2.934-2.292V3.708c0-1.784-.27-2.089-2.934-2.292V0h11.398v1.416c-2.662.203-2.934.506-2.934 2.292v16.551z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/instapaper.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/instapaper.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Instapaper</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/instapaper.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/instapaper.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.instapaper.com/" target="_blank" rel="noopener noreferrer">https://www.instapaper.com/</a></p></div>
 <div class="alert alert-dark">

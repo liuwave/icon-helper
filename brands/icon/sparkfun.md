@@ -1,14 +1,14 @@
 ---
 
-title: SparkFun() ICON转svg、png下载
+title: SparkFun(SparkFun) ICON转svg、png下载
 name: sparkfun
-zhTips: 
+zhTips: SparkFun
 search: 
 image: https://iconhelper.cn/svg/brands/sparkfun.svg
 
 ---
 
-# SparkFun  <small style="font-size: 60%;font-weight: 100"></small>
+# SparkFun  <small style="font-size: 60%;font-weight: 100">SparkFun</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>SparkFun icon</title><path d="M17.805 3.852s.34 1.441-.746 1.64c-.754.133-1.973-.617-2.586-1.363-.758-.922-.66-1.649-.075-2.29.883-.98 2.399-.6 2.399-.6s-2.774-2.43-5.66-.438c-2.57 1.77-1.832 4.18.488 6.285 2.09 1.902.422 3.988-1.688 3.719-1.44-.184-2.03-1.344-1.687-2.055.3-.61 1.336-.984 1.336-.984s-1.191-.48-2.59.046c-1.262.473-2.297 1.512-2.215 4.122v12.078s1.301-1.602 2.832-3.235c1.711-1.84 2.492-3.082 4.25-2.937 3.328.207 5.735-1.274 7.371-3.645 3.141-4.562.68-9.66-1.43-10.343zm0 0"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/sparkfun.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/sparkfun.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">SparkFun</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/sparkfun.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/sparkfun.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.sparkfun.com/brand_assets" target="_blank" rel="noopener noreferrer">https://www.sparkfun.com/brand_assets</a></p></div>
 <div class="alert alert-dark">

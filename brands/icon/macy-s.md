@@ -1,14 +1,14 @@
 ---
 
-title: Macy’s() ICON转svg、png下载
+title: Macy’s(梅西百货) ICON转svg、png下载
 name: macy-s
-zhTips: 
+zhTips: 梅西百货
 search: 
 image: https://iconhelper.cn/svg/brands/macy-s.svg
 
 ---
 
-# Macy’s  <small style="font-size: 60%;font-weight: 100"></small>
+# Macy’s  <small style="font-size: 60%;font-weight: 100">梅西百货</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Macy’s icon</title><path d="M12.015.624L9.19 9.293H0l7.445 5.384-2.819 8.673L12 17.986l7.422 5.393-2.835-8.713L24 9.292h-9.162L12.015.622v.002z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/macy-s.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/macy-s.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">梅西百货</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/macy-s.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/macy-s.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://www.macysinc.com/press-room/logo-photo-gallery/logos-macys-inc/default.aspx" target="_blank" rel="noopener noreferrer">http://www.macysinc.com/press-room/logo-photo-gallery/logos-macys-inc/default.aspx</a></p></div>
 <div class="alert alert-dark">

@@ -1,14 +1,14 @@
 ---
 
-title: Unsplash() ICON转svg、png下载
+title: Unsplash(不飞溅) ICON转svg、png下载
 name: unsplash
-zhTips: 
+zhTips: 不飞溅
 search: 
 image: https://iconhelper.cn/svg/brands/unsplash.svg
 
 ---
 
-# Unsplash  <small style="font-size: 60%;font-weight: 100"></small>
+# Unsplash  <small style="font-size: 60%;font-weight: 100">不飞溅</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Unsplash icon</title><path d="M7.5 6.75V0h9v6.75h-9zm9 3.75H24V24H0V10.5h7.5v6.75h9V10.5z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/unsplash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/unsplash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">不飞溅</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/unsplash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/unsplash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">https://unsplash.com/</a></p></div>
 <div class="alert alert-dark">

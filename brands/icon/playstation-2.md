@@ -1,14 +1,14 @@
 ---
 
-title: PlayStation 2() ICON转svg、png下载
+title: PlayStation 2(PlayStation 2) ICON转svg、png下载
 name: playstation-2
-zhTips: 
+zhTips: PlayStation 2
 search: 
 image: https://iconhelper.cn/svg/brands/playstation-2.svg
 
 ---
 
-# PlayStation 2  <small style="font-size: 60%;font-weight: 100"></small>
+# PlayStation 2  <small style="font-size: 60%;font-weight: 100">PlayStation 2</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>PlayStation 2 icon</title><path d="M7.46 13.779v.292h4.142v-3.85h3.796V9.93h-4.115v3.85zm16.248-3.558v1.62h-7.195v2.23H24v-.292h-7.168v-1.646H24V9.929h-7.487v.292zm-16.513 0v1.62H0v2.23h.292v-1.938H7.46V9.929H0v.292Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/playstation-2.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/playstation-2.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">PlayStation 2</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/playstation-2.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/playstation-2.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://commons.wikimedia.org/wiki/File:PlayStation_2_logo.svg" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/wiki/File:PlayStation_2_logo.svg</a></p></div>
 <div class="alert alert-dark">

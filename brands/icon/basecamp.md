@@ -1,14 +1,14 @@
 ---
 
-title: Basecamp() ICON转svg、png下载
+title: Basecamp(大本营) ICON转svg、png下载
 name: basecamp
-zhTips: 
+zhTips: 大本营
 search: 
 image: https://iconhelper.cn/svg/brands/basecamp.svg
 
 ---
 
-# Basecamp  <small style="font-size: 60%;font-weight: 100"></small>
+# Basecamp  <small style="font-size: 60%;font-weight: 100">大本营</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Basecamp icon</title><path d="M12 2C5.54 2 .48 10.22 0 17.16 2.028 20.68 6.915 22 12 22s9.975-1.32 12-4.84C23.52 10.218 18.46 2 12 2zm.15 18.4c-9.54 0-10.456-4.034-10.456-4.034l.18-.976S4.5 9.72 6.15 9.72s2.34 2.34 3.69 2.34 4.274-5.19 5.324-5.19c1.047 0 2.82 1.95 4.27 3.75 1.45 1.802 2.878 4.887 2.878 4.887l-.008.034.15.886S21.688 20.4 12.148 20.4z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/basecamp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/basecamp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">大本营</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/basecamp.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/basecamp.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://basecamp.com/about/press" target="_blank" rel="noopener noreferrer">https://basecamp.com/about/press</a></p></div>
 <div class="alert alert-dark">

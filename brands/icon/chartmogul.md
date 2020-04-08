@@ -1,14 +1,14 @@
 ---
 
-title: ChartMogul() ICON转svg、png下载
+title: ChartMogul(ChartMogul) ICON转svg、png下载
 name: chartmogul
-zhTips: 
+zhTips: ChartMogul
 search: 
 image: https://iconhelper.cn/svg/brands/chartmogul.svg
 
 ---
 
-# ChartMogul  <small style="font-size: 60%;font-weight: 100"></small>
+# ChartMogul  <small style="font-size: 60%;font-weight: 100">ChartMogul</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>ChartMogul icon</title><path d="M10.621 19.89V8.75L2.867 19.89H0V4.11h2.758v11.112l7.754-11.113h2.867v11.14L21.16 4.11H24v15.782h-2.73V8.75l-7.755 11.14Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/chartmogul.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/chartmogul.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">ChartMogul</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/chartmogul.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/chartmogul.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://chartmogul.com/company/" target="_blank" rel="noopener noreferrer">https://chartmogul.com/company/</a></p></div>
 <div class="alert alert-dark">

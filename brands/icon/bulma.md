@@ -1,14 +1,14 @@
 ---
 
-title: Bulma() ICON转svg、png下载
+title: Bulma(查找) ICON转svg、png下载
 name: bulma
-zhTips: 
+zhTips: 查找
 search: 
 image: https://iconhelper.cn/svg/brands/bulma.svg
 
 ---
 
-# Bulma  <small style="font-size: 60%;font-weight: 100"></small>
+# Bulma  <small style="font-size: 60%;font-weight: 100">查找</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Bulma icon</title><path d="M11.25 0l-6 6 -1.5 10.5 7.5 7.5 9 -6 -6 -6 4.5 -4.5 -7.5 -7.5Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/bulma.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/bulma.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">查找</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/bulma.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/bulma.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/jgthms/bulma/" target="_blank" rel="noopener noreferrer">https://github.com/jgthms/bulma/</a></p></div>
 <div class="alert alert-dark">

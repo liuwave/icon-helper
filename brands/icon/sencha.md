@@ -1,14 +1,14 @@
 ---
 
-title: Sencha() ICON转svg、png下载
+title: Sencha(煎茶) ICON转svg、png下载
 name: sencha
-zhTips: 
+zhTips: 煎茶
 search: 
 image: https://iconhelper.cn/svg/brands/sencha.svg
 
 ---
 
-# Sencha  <small style="font-size: 60%;font-weight: 100"></small>
+# Sencha  <small style="font-size: 60%;font-weight: 100">煎茶</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Sencha icon</title><path d="M15.287,24c0.458-1.221,0.917-1.532,0.917-2.442c0-1.452-0.878-2.8-2.237-3.434 l-5.831-2.813C5.211,13.85,3.392,10.97,3.392,7.797c0-3.23,1.867-6.133,4.871-7.576L8.712,0C8.129,0.674,7.796,1.532,7.796,2.44 c0,1.453,0.878,2.801,2.237,3.435l5.831,2.813c2.926,1.462,4.744,4.342,4.744,7.514c0,3.23-1.867,6.133-4.871,7.577L15.287,24"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/sencha.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/sencha.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">煎茶</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/sencha.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/sencha.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://design.sencha.com/" target="_blank" rel="noopener noreferrer">http://design.sencha.com/</a></p></div>
 <div class="alert alert-dark">

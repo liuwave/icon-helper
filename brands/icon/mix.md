@@ -1,14 +1,14 @@
 ---
 
-title: Mix() ICON转svg、png下载
+title: Mix(Mix) ICON转svg、png下载
 name: mix
-zhTips: 
+zhTips: Mix
 search: 
 image: https://iconhelper.cn/svg/brands/mix.svg
 
 ---
 
-# Mix  <small style="font-size: 60%;font-weight: 100"></small>
+# Mix  <small style="font-size: 60%;font-weight: 100">Mix</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Mix icon</title><path d="M4.8 6.1v15.15c0 1.35-1.05 2.35-2.4 2.35-1.35 0-2.4-1.05-2.4-2.35V0h24v13.35c0 1.3-1.1 2.35-2.4 2.35-1.35 0-2.45-1.05-2.45-2.35v-1.2c0-1.35-1.05-2.35-2.4-2.35-1.137 0-2.121.803-2.35 1.875V15.5c0 1.35-1.1 2.35-2.4 2.35-1.35 0-2.4-1.05-2.4-2.35V6.25c0-1.3-1.1-2.35-2.4-2.35a2.4 2.4 0 0 0-2.4 2.2z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/mix.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/mix.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Mix</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/mix.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/mix.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://mix.com" target="_blank" rel="noopener noreferrer">https://mix.com</a></p></div>
 <div class="alert alert-dark">

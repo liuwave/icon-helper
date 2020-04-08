@@ -1,14 +1,14 @@
 ---
 
-title: Beats() ICON转svg、png下载
+title: Beats(节拍) ICON转svg、png下载
 name: beats
-zhTips: 
+zhTips: 节拍
 search: 
 image: https://iconhelper.cn/svg/brands/beats.svg
 
 ---
 
-# Beats  <small style="font-size: 60%;font-weight: 100"></small>
+# Beats  <small style="font-size: 60%;font-weight: 100">节拍</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Beats icon</title><path d="M21.55 16.77a7.14 7.14 0 0 1-7.16 7.16H2.45v-7.16h8.36a9.61 9.61 0 0 0 8.5-5.19 7.09 7.09 0 0 1 2.24 5.2zm-4.24-6.53a7.29 7.29 0 0 0 .66-3.01A7.14 7.14 0 0 0 10.8.07H2.46v14.32h8.35c2.9 0 5.37-1.7 6.5-4.15z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/beats.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/beats.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">节拍</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/beats.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/beats.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.elastic.co/brand" target="_blank" rel="noopener noreferrer">https://www.elastic.co/brand</a></p></div>
 <div class="alert alert-dark">

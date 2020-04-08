@@ -1,14 +1,14 @@
 ---
 
-title: Patreon() ICON转svg、png下载
+title: Patreon(Patreon) ICON转svg、png下载
 name: patreon
-zhTips: 
+zhTips: Patreon
 search: 
 image: https://iconhelper.cn/svg/brands/patreon.svg
 
 ---
 
-# Patreon  <small style="font-size: 60%;font-weight: 100"></small>
+# Patreon  <small style="font-size: 60%;font-weight: 100">Patreon</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Patreon icon</title><path d="M15.386.524c-4.764 0-8.64 3.876-8.64 8.64 0 4.75 3.876 8.613 8.64 8.613 4.75 0 8.614-3.864 8.614-8.613C24 4.4 20.136.524 15.386.524M.003 23.537h4.22V.524H.003"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/patreon.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/patreon.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Patreon</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/patreon.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/patreon.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.patreon.com/brand/downloads" target="_blank" rel="noopener noreferrer">https://www.patreon.com/brand/downloads</a></p></div>
 <div class="alert alert-dark">

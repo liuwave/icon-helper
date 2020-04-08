@@ -1,14 +1,14 @@
 ---
 
-title: Dolby() ICON转svg、png下载
+title: Dolby(杜比（Dolby）) ICON转svg、png下载
 name: dolby
-zhTips: 
+zhTips: 杜比（Dolby）
 search: 
 image: https://iconhelper.cn/svg/brands/dolby.svg
 
 ---
 
-# Dolby  <small style="font-size: 60%;font-weight: 100"></small>
+# Dolby  <small style="font-size: 60%;font-weight: 100">杜比（Dolby）</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Dolby icon</title><path d="M24,20.352V3.648H0v16.704H24z M18.433,5.806h2.736v12.387h-2.736c-2.839,0-5.214-2.767-5.214-6.194S15.594,5.806,18.433,5.806z M2.831,5.806h2.736c2.839,0,5.214,2.767,5.214,6.194s-2.374,6.194-5.214,6.194H2.831V5.806z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/dolby.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/dolby.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">杜比（Dolby）</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/dolby.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/dolby.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.dolby.com/us/en/about/brand-identity.html" target="_blank" rel="noopener noreferrer">https://www.dolby.com/us/en/about/brand-identity.html</a></p></div>
 <div class="alert alert-dark">

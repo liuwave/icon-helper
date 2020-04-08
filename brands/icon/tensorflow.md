@@ -1,14 +1,14 @@
 ---
 
-title: TensorFlow() ICON转svg、png下载
+title: TensorFlow(TensorFlow) ICON转svg、png下载
 name: tensorflow
-zhTips: 
+zhTips: TensorFlow
 search: 
 image: https://iconhelper.cn/svg/brands/tensorflow.svg
 
 ---
 
-# TensorFlow  <small style="font-size: 60%;font-weight: 100"></small>
+# TensorFlow  <small style="font-size: 60%;font-weight: 100">TensorFlow</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>TensorFlow icon</title><path d="M19.6 12l.1 4.7-3.1-1.8v6.7L12.5 24V0l10.2 5.9v5.3l-6.1-3.6v2.7zM1.3 5.9L11.5 0v24l-4.1-2.4v-14l-6.1 3.6z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/tensorflow.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/tensorflow.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">TensorFlow</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/tensorflow.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/tensorflow.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.tensorflow.org/extras/tensorflow_brand_guidelines.pdf" target="_blank" rel="noopener noreferrer">https://www.tensorflow.org/extras/tensorflow_brand_guidelines.pdf</a></p></div>
 <div class="alert alert-dark">

@@ -1,14 +1,14 @@
 ---
 
-title: iCloud() ICON转svg、png下载
+title: iCloud(iCloud) ICON转svg、png下载
 name: icloud
-zhTips: 
+zhTips: iCloud
 search: 
 image: https://iconhelper.cn/svg/brands/icloud.svg
 
 ---
 
-# iCloud  <small style="font-size: 60%;font-weight: 100"></small>
+# iCloud  <small style="font-size: 60%;font-weight: 100">iCloud</small>
 
 <div id="svg" class="svg-wrap">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img"><title>iCloud icon</title><path d="M20.013 10.726l.001-.028A6.346 6.346 0 0 0 8.09 7.67a3.414 3.414 0 0 0-4.989 2.829A4.72 4.72 0 0 0 0 14.929a4.72 4.72 0 0 0 4.719 4.719h14.807a4.475 4.475 0 0 0 .487-8.922z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/icloud.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/icloud.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">iCloud</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/icloud.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/icloud.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.icloud.com/" target="_blank" rel="noopener noreferrer">https://www.icloud.com/</a></p></div>
 <div class="alert alert-dark">

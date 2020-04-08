@@ -1,14 +1,14 @@
 ---
 
-title: vBulletin() ICON转svg、png下载
+title: vBulletin(v公告) ICON转svg、png下载
 name: vbulletin
-zhTips: 
+zhTips: v公告
 search: 
 image: https://iconhelper.cn/svg/brands/vbulletin.svg
 
 ---
 
-# vBulletin  <small style="font-size: 60%;font-weight: 100"></small>
+# vBulletin  <small style="font-size: 60%;font-weight: 100">v公告</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>vBulletin icon</title><path d="M1.09 10.316V24h21.82V0h-2.417l-5.461 19.613h-6.09l-3.134-9.246zm9.283-4.444l1.363 6.308L13.955 0H1.089v5.872Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/vbulletin.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/vbulletin.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">v公告</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/vbulletin.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/vbulletin.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://commons.wikimedia.org/wiki/File:VBulletin.svg" target="_blank" rel="noopener noreferrer">https://commons.wikimedia.org/wiki/File:VBulletin.svg</a></p></div>
 <div class="alert alert-dark">

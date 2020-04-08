@@ -1,14 +1,14 @@
 ---
 
-title: Transport for Ireland() ICON转svg、png下载
+title: Transport for Ireland(爱尔兰运输) ICON转svg、png下载
 name: transport-for-ireland
-zhTips: 
+zhTips: 爱尔兰运输
 search: 
 image: https://iconhelper.cn/svg/brands/transport-for-ireland.svg
 
 ---
 
-# Transport for Ireland  <small style="font-size: 60%;font-weight: 100"></small>
+# Transport for Ireland  <small style="font-size: 60%;font-weight: 100">爱尔兰运输</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Transport for Ireland icon</title><path d="M0 0v12c0 6.62 5.38 12 12 12h12V11.978h-.022c0-6.62-5.38-11.978-12-11.978zm3.376 8.145h6.337v1.546h-2.33v6.12H5.706v-6.12h-2.33zm8.014 0h5.837V9.67h-4.138v1.633h3.659v1.546h-3.659v2.962H11.39zm7.535 0h1.678v7.666h-1.678Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/transport-for-ireland.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/transport-for-ireland.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">爱尔兰运输</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/transport-for-ireland.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/transport-for-ireland.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://tfl.gov.uk/" target="_blank" rel="noopener noreferrer">https://tfl.gov.uk/</a></p></div>
 <div class="alert alert-dark">

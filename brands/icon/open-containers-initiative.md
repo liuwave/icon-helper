@@ -1,14 +1,14 @@
 ---
 
-title: Open Containers Initiative() ICON转svg、png下载
+title: Open Containers Initiative(开放式集装箱计划) ICON转svg、png下载
 name: open-containers-initiative
-zhTips: 
+zhTips: 开放式集装箱计划
 search: 
 image: https://iconhelper.cn/svg/brands/open-containers-initiative.svg
 
 ---
 
-# Open Containers Initiative  <small style="font-size: 60%;font-weight: 100"></small>
+# Open Containers Initiative  <small style="font-size: 60%;font-weight: 100">开放式集装箱计划</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Open Containers Initiative icon</title><path d="M0 0v24h24V0zm20.547 20.431H3.448V3.573h17.104V20.43zm-5.155-9.979h3.436v8.255h-3.436zm0-5.16h3.436v3.436h-3.436zm-6.789 9.976V8.732h5.074v-3.44H5.164v13.415h8.513v-3.44Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/open-containers-initiative.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/open-containers-initiative.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">开放式集装箱计划</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/open-containers-initiative.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/open-containers-initiative.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/opencontainers/artwork/tree/master/oci/icon" target="_blank" rel="noopener noreferrer">https://github.com/opencontainers/artwork/tree/master/oci/icon</a></p></div>
 <div class="alert alert-dark">

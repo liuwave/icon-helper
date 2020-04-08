@@ -1,14 +1,14 @@
 ---
 
-title: Ello() ICON转svg、png下载
+title: Ello(它) ICON转svg、png下载
 name: ello
-zhTips: 
+zhTips: 它
 search: 
 image: https://iconhelper.cn/svg/brands/ello.svg
 
 ---
 
-# Ello  <small style="font-size: 60%;font-weight: 100"></small>
+# Ello  <small style="font-size: 60%;font-weight: 100">它</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Ello icon</title><path d="M12 0C5.377 0 0 5.377 0 12s5.377 12 12 12 12-5.377 12-12S18.623 0 12 0zm6.96 13.8c-.8 3.16-3.68 5.4-6.96 5.4s-6.16-2.24-6.96-5.4c-.08-.36.12-.76.48-.84s.76.12.84.48c.68 2.56 3 4.36 5.64 4.36 2.64 0 4.96-1.8 5.64-4.36.08-.36.48-.6.84-.48.36.08.6.48.48.84z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/ello.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/ello.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">它</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/ello.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/ello.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://ello.co" target="_blank" rel="noopener noreferrer">https://ello.co</a></p></div>
 <div class="alert alert-dark">

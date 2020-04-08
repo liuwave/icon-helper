@@ -1,14 +1,14 @@
 ---
 
-title: Flutter() ICON转svg、png下载
+title: Flutter(扑) ICON转svg、png下载
 name: flutter
-zhTips: 
+zhTips: 扑
 search: 
 image: https://iconhelper.cn/svg/brands/flutter.svg
 
 ---
 
-# Flutter  <small style="font-size: 60%;font-weight: 100"></small>
+# Flutter  <small style="font-size: 60%;font-weight: 100">扑</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Flutter icon</title><path d="M14.314 0L2.3 12 6 15.7 21.684.012h-7.357L14.314 0zm.014 11.072l-6.471 6.457 6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.371z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/flutter.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/flutter.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">扑</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/flutter.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/flutter.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://flutter.dev/brand" target="_blank" rel="noopener noreferrer">https://flutter.dev/brand</a></p></div>
 <div class="alert alert-dark">

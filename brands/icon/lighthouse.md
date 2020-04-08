@@ -1,14 +1,14 @@
 ---
 
-title: Lighthouse() ICON转svg、png下载
+title: Lighthouse(灯塔) ICON转svg、png下载
 name: lighthouse
-zhTips: 
+zhTips: 灯塔
 search: 
 image: https://iconhelper.cn/svg/brands/lighthouse.svg
 
 ---
 
-# Lighthouse  <small style="font-size: 60%;font-weight: 100"></small>
+# Lighthouse  <small style="font-size: 60%;font-weight: 100">灯塔</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Lighthouse icon</title><path d="M12 0l5.5 3.5v5H20v3h-2.25l2 12.5H4.25l2-12.5H4v-3h2.5V3.53zm2.94 13.25l-6.22 2.26L8 20.04l7.5-2.75zM12 3.56L9.5 5.17V8.5h5V5.15Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/lighthouse.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/lighthouse.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">灯塔</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/lighthouse.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/lighthouse.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/GoogleChrome/lighthouse/blob/80d2e6c1948f232ec4f1bdeabc8bc632fc5d0bfd/assets/lh_favicon.svg" target="_blank" rel="noopener noreferrer">https://github.com/GoogleChrome/lighthouse/blob/80d2e6c1948f232ec4f1bdeabc8bc632fc5d0bfd/assets/lh_favicon.svg</a></p></div>
 <div class="alert alert-dark">

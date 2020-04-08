@@ -1,14 +1,14 @@
 ---
 
-title: Pingup() ICON转svg、png下载
+title: Pingup(Pingup) ICON转svg、png下载
 name: pingup
-zhTips: 
+zhTips: Pingup
 search: 
 image: https://iconhelper.cn/svg/brands/pingup.svg
 
 ---
 
-# Pingup  <small style="font-size: 60%;font-weight: 100"></small>
+# Pingup  <small style="font-size: 60%;font-weight: 100">Pingup</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Pingup icon</title><path d="M13.667 0H1.721v24h7.536V9.717h-2.76c-.504 0-.65-.314-.32-.698l4.324-5.044c.327-.384.867-.384 1.195 0l4.324 5.044c.314.384.18.698-.33.698h-2.759v6.676h.73c6.225 0 8.617-4.309 8.617-8.481C22.291 3.906 19.666 0 13.667 0"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/pingup.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/pingup.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Pingup</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/pingup.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/pingup.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://pingup.com/resources" target="_blank" rel="noopener noreferrer">http://pingup.com/resources</a></p></div>
 <div class="alert alert-dark">

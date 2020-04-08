@@ -1,14 +1,14 @@
 ---
 
-title: Spreaker() ICON转svg、png下载
+title: Spreaker(Spreaker) ICON转svg、png下载
 name: spreaker
-zhTips: 
+zhTips: Spreaker
 search: 
 image: https://iconhelper.cn/svg/brands/spreaker.svg
 
 ---
 
-# Spreaker  <small style="font-size: 60%;font-weight: 100"></small>
+# Spreaker  <small style="font-size: 60%;font-weight: 100">Spreaker</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Spreaker icon</title><path d="M14.615 0l-5.64 6.54L.529 4.718l8.68 7.372-8.537 7.463 8.411-1.984L14.843 24l.71-8.601 7.918-3.483-7.963-3.33L14.621 0h-.006z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/spreaker.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/spreaker.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Spreaker</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/spreaker.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/spreaker.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://www.spreaker.com/press" target="_blank" rel="noopener noreferrer">http://www.spreaker.com/press</a></p></div>
 <div class="alert alert-dark">

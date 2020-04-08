@@ -1,14 +1,14 @@
 ---
 
-title: Google Assistant() ICON转svg、png下载
+title: Google Assistant(Google助理) ICON转svg、png下载
 name: google-assistant
-zhTips: 
+zhTips: Google助理
 search: 
 image: https://iconhelper.cn/svg/brands/google-assistant.svg
 
 ---
 
-# Google Assistant  <small style="font-size: 60%;font-weight: 100"></small>
+# Google Assistant  <small style="font-size: 60%;font-weight: 100">Google助理</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Google Assistant icon</title><path d="M6.545 1.03C2.93 1.03 0 3.975 0 7.61c0 3.635 2.93 6.582 6.545 6.582 3.615 0 6.545-2.947 6.545-6.582S10.16 1.03 6.545 1.03zm15.818 4.388a1.64 1.64 0 00-1.636 1.644c0 .909.733 1.647 1.636 1.647.904 0 1.637-.738 1.637-1.646a1.64 1.64 0 00-1.637-1.645zm-4.91 2.193a3.28 3.28 0 00-3.271 3.291 3.28 3.28 0 003.271 3.291 3.282 3.282 0 003.274-3.29 3.282 3.282 0 00-3.274-3.292zm0 7.68c-2.109 0-3.818 1.72-3.818 3.84s1.71 3.84 3.818 3.84c2.109 0 3.818-1.72 3.818-3.84s-1.71-3.84-3.818-3.84Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/google-assistant.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/google-assistant.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Google助理</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/google-assistant.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/google-assistant.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://assistant.google.com/" target="_blank" rel="noopener noreferrer">https://assistant.google.com/</a></p></div>
 <div class="alert alert-dark">

@@ -1,14 +1,14 @@
 ---
 
-title: Google Drive() ICON转svg、png下载
+title: Google Drive(Google云端硬盘) ICON转svg、png下载
 name: google-drive
-zhTips: 
+zhTips: Google云端硬盘
 search: 
 image: https://iconhelper.cn/svg/brands/google-drive.svg
 
 ---
 
-# Google Drive  <small style="font-size: 60%;font-weight: 100"></small>
+# Google Drive  <small style="font-size: 60%;font-weight: 100">Google云端硬盘</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Google Drive icon</title><path d="M4.433 22.396l4-6.929H24l-4 6.929H4.433zm3.566-6.929l-3.998 6.929L0 15.467 7.785 1.98l3.999 6.931-3.785 6.556zm15.784-.375h-7.999L7.999 1.605h8.002l7.785 13.486h-.003z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/google-drive.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/google-drive.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Google云端硬盘</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/google-drive.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/google-drive.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://developers.google.com/drive/web/branding" target="_blank" rel="noopener noreferrer">https://developers.google.com/drive/web/branding</a></p></div>
 <div class="alert alert-dark">

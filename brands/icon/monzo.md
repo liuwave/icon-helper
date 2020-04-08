@@ -1,14 +1,14 @@
 ---
 
-title: Monzo() ICON转svg、png下载
+title: Monzo(蒙佐) ICON转svg、png下载
 name: monzo
-zhTips: 
+zhTips: 蒙佐
 search: 
 image: https://iconhelper.cn/svg/brands/monzo.svg
 
 ---
 
-# Monzo  <small style="font-size: 60%;font-weight: 100"></small>
+# Monzo  <small style="font-size: 60%;font-weight: 100">蒙佐</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Monzo icon</title><path d="M11.99 17.26H12l5.93-5.92v11.04a.45.45-180 0 0 .76.31l4.98-4.97a1.11 1.11-180 0 0 .32-.8V5.29l.01-.01-3.98-3.97a.44.44-180 0 0-.63 0L12 8.69l-7.41-7.4a.44.44-180 0 0-.63 0L0 5.28h.01H0v11.66a1.11 1.11-180 0 0 .32.79l4.97 4.98a.45.45-180 0 0 .76-.32l.01-11.06 5.93 5.94z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/monzo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/monzo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">蒙佐</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/monzo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/monzo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://monzo.com/press/" target="_blank" rel="noopener noreferrer">https://monzo.com/press/</a></p></div>
 <div class="alert alert-dark">

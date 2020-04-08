@@ -1,14 +1,14 @@
 ---
 
-title: Stitcher() ICON转svg、png下载
+title: Stitcher(订书机) ICON转svg、png下载
 name: stitcher
-zhTips: 
+zhTips: 订书机
 search: 
 image: https://iconhelper.cn/svg/brands/stitcher.svg
 
 ---
 
-# Stitcher  <small style="font-size: 60%;font-weight: 100"></small>
+# Stitcher  <small style="font-size: 60%;font-weight: 100">订书机</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Stitcher icon</title><path d="M17.98 6.938h-.359v10.125h.359V6.938zm-.745 1.125h-.36v7.875h.36V8.063zm-1.116 0H0v7.875h16.119V8.063zm7.881 0h-4.508v7.875H24V8.063zm-5.256 0h-.36v7.875h.36V8.063z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/stitcher.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/stitcher.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">订书机</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/stitcher.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/stitcher.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.stitcher.com/" target="_blank" rel="noopener noreferrer">https://www.stitcher.com/</a></p></div>
 <div class="alert alert-dark">

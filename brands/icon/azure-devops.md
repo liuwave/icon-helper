@@ -1,14 +1,14 @@
 ---
 
-title: Azure DevOps() ICON转svg、png下载
+title: Azure DevOps(Azure DevOps) ICON转svg、png下载
 name: azure-devops
-zhTips: 
+zhTips: Azure DevOps
 search: 
 image: https://iconhelper.cn/svg/brands/azure-devops.svg
 
 ---
 
-# Azure DevOps  <small style="font-size: 60%;font-weight: 100"></small>
+# Azure DevOps  <small style="font-size: 60%;font-weight: 100">Azure DevOps</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Azure DevOps icon</title><path d="M0 8.899l2.247-2.966 8.405-3.416V.045l7.37 5.393L2.966 8.36v8.224L0 15.73zm24-4.45v14.652L18.247 24l-9.303-3.056V24l-5.978-7.416 15.057 1.798V5.438z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/azure-devops.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/azure-devops.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Azure DevOps</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/azure-devops.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/azure-devops.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://azure.com/devops" target="_blank" rel="noopener noreferrer">http://azure.com/devops</a></p></div>
 <div class="alert alert-dark">

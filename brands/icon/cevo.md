@@ -1,14 +1,14 @@
 ---
 
-title: CEVO() ICON转svg、png下载
+title: CEVO(CEVO) ICON转svg、png下载
 name: cevo
-zhTips: 
+zhTips: CEVO
 search: 
 image: https://iconhelper.cn/svg/brands/cevo.svg
 
 ---
 
-# CEVO  <small style="font-size: 60%;font-weight: 100"></small>
+# CEVO  <small style="font-size: 60%;font-weight: 100">CEVO</small>
 
 <div id="svg" class="svg-wrap">
 <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24"><title>CEVO icon</title><path d="M3.5 6h12l6 10.3L24 12 18 1.6H6L3.5 6zm-.9 1.5L0 12l6 10.4h12l2.6-4.5-2.5-4.3-2.6 4.5h-7L5 12l2.6-4.5h-5z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/cevo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/cevo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">CEVO</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/cevo.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/cevo.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://cevo.com/" target="_blank" rel="noopener noreferrer">https://cevo.com/</a></p></div>
 <div class="alert alert-dark">

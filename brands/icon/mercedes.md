@@ -1,14 +1,14 @@
 ---
 
-title: Mercedes() ICON转svg、png下载
+title: Mercedes(奔驰) ICON转svg、png下载
 name: mercedes
-zhTips: 
+zhTips: 奔驰
 search: 
 image: https://iconhelper.cn/svg/brands/mercedes.svg
 
 ---
 
-# Mercedes  <small style="font-size: 60%;font-weight: 100"></small>
+# Mercedes  <small style="font-size: 60%;font-weight: 100">奔驰</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Mercedes icon</title><path d="M12.005 0c6.623 0 12 5.377 12 12s-5.377 12-12 12-12-5.377-12-12 5.377-12 12-12zM3.25 17.539a10.357 10.357 0 0 0 8.755 4.821c3.681 0 6.917-1.924 8.755-4.821l-8.755-3.336-8.755 3.336zm10.663-6.641l7.267 5.915A10.306 10.306 0 0 0 22.365 12c0-5.577-4.417-10.131-9.94-10.352l1.488 9.25zm-2.328-9.25C6.062 1.869 1.645 6.423 1.645 12c0 1.737.428 3.374 1.185 4.813l7.267-5.915 1.488-9.25z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/mercedes.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/mercedes.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">奔驰</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/mercedes.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/mercedes.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.mercedes-benz.com/" target="_blank" rel="noopener noreferrer">https://www.mercedes-benz.com/</a></p></div>
 <div class="alert alert-dark">

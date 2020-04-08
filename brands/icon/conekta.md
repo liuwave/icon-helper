@@ -1,14 +1,14 @@
 ---
 
-title: Conekta() ICON转svg、png下载
+title: Conekta(Conekta) ICON转svg、png下载
 name: conekta
-zhTips: 
+zhTips: Conekta
 search: 
 image: https://iconhelper.cn/svg/brands/conekta.svg
 
 ---
 
-# Conekta  <small style="font-size: 60%;font-weight: 100"></small>
+# Conekta  <small style="font-size: 60%;font-weight: 100">Conekta</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Conekta icon</title><path d="M8.25 19.502L2.7 12l5.55-7.5 3.45 4.65L9.447 12l2.25 3-3.45 4.502zM12.45 24l8.85-12-8.85-12h-6.9l9 12-9 12h6.9z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/conekta.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/conekta.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Conekta</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/conekta.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/conekta.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.conekta.io" target="_blank" rel="noopener noreferrer">https://www.conekta.io</a></p></div>
 <div class="alert alert-dark">

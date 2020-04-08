@@ -1,14 +1,14 @@
 ---
 
-title: Jira() ICON转svg、png下载
+title: Jira(吉拉) ICON转svg、png下载
 name: jira
-zhTips: 
+zhTips: 吉拉
 search: 
 image: https://iconhelper.cn/svg/brands/jira.svg
 
 ---
 
-# Jira  <small style="font-size: 60%;font-weight: 100"></small>
+# Jira  <small style="font-size: 60%;font-weight: 100">吉拉</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Jira icon</title><path d="M23.323 11.33L13.001 1 12 0 4.225 7.775.67 11.33a.96.96 0 0 0 0 1.347l7.103 7.103L12 24l7.771-7.771.121-.121 3.431-3.431a.945.945 0 0 0 0-1.347zM12 15.551L8.449 12 12 8.453 15.548 12 12 15.551z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/jira.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/jira.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">吉拉</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/jira.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/jira.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.atlassian.com/company/news/press-kit" target="_blank" rel="noopener noreferrer">https://www.atlassian.com/company/news/press-kit</a></p></div>
 <div class="alert alert-dark">

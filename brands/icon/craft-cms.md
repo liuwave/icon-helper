@@ -1,14 +1,14 @@
 ---
 
-title: Craft CMS() ICON转svg、png下载
+title: Craft CMS(Craft CMS) ICON转svg、png下载
 name: craft-cms
-zhTips: 
+zhTips: Craft CMS
 search: 
 image: https://iconhelper.cn/svg/brands/craft-cms.svg
 
 ---
 
-# Craft CMS  <small style="font-size: 60%;font-weight: 100"></small>
+# Craft CMS  <small style="font-size: 60%;font-weight: 100">Craft CMS</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Craft CMS icon</title><path d="M21.5 0h-19C1.1 0 0 1.1 0 2.5v18.9C0 22.9 1.1 24 2.5 24h19c1.4 0 2.5-1.1 2.5-2.5v-19C24 1.1 22.9 0 21.5 0zM12 14.6c.8 0 1.6-.3 2.4-1l1.1 1.3c-1.2 1-2.5 1.5-3.9 1.5-2.7 0-4.3-1.8-4-4.3.4-2.5 2.7-4.3 5.4-4.3 1.3 0 2.5.5 3.3 1.4l-1.6 1.3c-.5-.6-1.2-1-2-1-1.6 0-2.8 1-3.1 2.5-.2 1.6.7 2.6 2.4 2.6z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/craft-cms.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/craft-cms.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Craft CMS</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/craft-cms.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/craft-cms.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://craftcms.com/brand-resources" target="_blank" rel="noopener noreferrer">https://craftcms.com/brand-resources</a></p></div>
 <div class="alert alert-dark">

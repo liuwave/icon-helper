@@ -1,14 +1,14 @@
 ---
 
-title: Hulu() ICON转svg、png下载
+title: Hulu(Hulu) ICON转svg、png下载
 name: hulu
-zhTips: 
+zhTips: Hulu
 search: 
 image: https://iconhelper.cn/svg/brands/hulu.svg
 
 ---
 
-# Hulu  <small style="font-size: 60%;font-weight: 100"></small>
+# Hulu  <small style="font-size: 60%;font-weight: 100">Hulu</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Hulu icon</title><path d="M14.4 7.355h-3.607a5.91 5.91 0 0 0-2.063.405V-.03H2.94v24.06h5.8v-9.51a1.61 1.61 0 0 1 1.56-1.7h3.39a1.59 1.59 0 0 1 1.59 1.56v9.59h5.78V13.54c0-4.41-2.25-6.162-5.9-6.162"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/hulu.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/hulu.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Hulu</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/hulu.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/hulu.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.hulu.com/press/brand-assets/" target="_blank" rel="noopener noreferrer">https://www.hulu.com/press/brand-assets/</a></p></div>
 <div class="alert alert-dark">

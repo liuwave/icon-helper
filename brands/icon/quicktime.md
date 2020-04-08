@@ -1,14 +1,14 @@
 ---
 
-title: QuickTime() ICON转svg、png下载
+title: QuickTime(QuickTime) ICON转svg、png下载
 name: quicktime
-zhTips: 
+zhTips: QuickTime
 search: 
 image: https://iconhelper.cn/svg/brands/quicktime.svg
 
 ---
 
-# QuickTime  <small style="font-size: 60%;font-weight: 100"></small>
+# QuickTime  <small style="font-size: 60%;font-weight: 100">QuickTime</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>QuickTime icon</title><path d="M12 0A12 12 0 1 0 18.63 22L20.61 23.97H23.75L24 23.72V20.57L22 18.59A11.94 11.94 0 0 0 24 12A12 12 0 0 0 12 0M12 4.2A7.8 7.8 0 0 1 18.95 15.53L13.7 10.27A2.4 2.4 0 1 0 10.3 13.67L15.57 18.93A7.76 7.76 0 0 1 12 19.8A7.8 7.8 0 0 1 12 4.2Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/quicktime.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/quicktime.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">QuickTime</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/quicktime.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/quicktime.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://support.apple.com/quicktime" target="_blank" rel="noopener noreferrer">https://support.apple.com/quicktime</a></p></div>
 <div class="alert alert-dark">

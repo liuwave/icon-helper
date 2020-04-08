@@ -1,14 +1,14 @@
 ---
 
-title: Klout() ICON转svg、png下载
+title: Klout(Klout) ICON转svg、png下载
 name: klout
-zhTips: 
+zhTips: Klout
 search: 
 image: https://iconhelper.cn/svg/brands/klout.svg
 
 ---
 
-# Klout  <small style="font-size: 60%;font-weight: 100"></small>
+# Klout  <small style="font-size: 60%;font-weight: 100">Klout</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Klout icon</title><path d="M0 2.673v14.72h16.17L24 21.327V2.673H0zm9.827 8.42h-1.17l-2.88 4.054H2.35l3.94-5.265-3.638-5.07h3.336l2.66 3.885h1.18v2.397zm8.407 4.053l-2.88-4.053h-1.966v4.053h-2.73V4.812h2.734v3.885h1.965l2.658-3.885h3.33l-3.636 5.07 3.94 5.265h-3.416z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/klout.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/klout.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Klout</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/klout.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/klout.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://klout.com/s/developers/styleguide" target="_blank" rel="noopener noreferrer">https://klout.com/s/developers/styleguide</a></p></div>
 <div class="alert alert-dark">

@@ -1,14 +1,14 @@
 ---
 
-title: Google Hangouts() ICON转svg、png下载
+title: Google Hangouts(Google环聊) ICON转svg、png下载
 name: google-hangouts
-zhTips: 
+zhTips: Google环聊
 search: 
 image: https://iconhelper.cn/svg/brands/google-hangouts.svg
 
 ---
 
-# Google Hangouts  <small style="font-size: 60%;font-weight: 100"></small>
+# Google Hangouts  <small style="font-size: 60%;font-weight: 100">Google环聊</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Google Hangouts icon</title><path d="M12 0C6.2 0 1.5 4.7 1.5 10.5c0 5.5 5 10 10.5 10V24c6.35-3.1 10.5-8.2 10.5-13.5C22.5 4.7 17.8 0 12 0zm-.5 12c0 1.4-.9 2.5-2 2.5V12H7V7.5h4.5V12zm6 0c0 1.4-.9 2.5-2 2.5V12H13V7.5h4.5V12z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/google-hangouts.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/google-hangouts.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Google环聊</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/google-hangouts.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/google-hangouts.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://material.google.com/resources/sticker-sheets-icons.html#sticker-sheets-icons-components" target="_blank" rel="noopener noreferrer">https://material.google.com/resources/sticker-sheets-icons.html#sticker-sheets-icons-components</a></p></div>
 <div class="alert alert-dark">

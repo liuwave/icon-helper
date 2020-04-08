@@ -1,14 +1,14 @@
 ---
 
-title: Reason Studios() ICON转svg、png下载
+title: Reason Studios(Reason Studios) ICON转svg、png下载
 name: reason-studios
-zhTips: 
+zhTips: Reason Studios
 search: 
 image: https://iconhelper.cn/svg/brands/reason-studios.svg
 
 ---
 
-# Reason Studios  <small style="font-size: 60%;font-weight: 100"></small>
+# Reason Studios  <small style="font-size: 60%;font-weight: 100">Reason Studios</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Reason Studios icon</title><path d="M2.49,5.114l8.299-4.79c0.739-0.427,1.647-0.432,2.391-0.017l0.03,0.017 l8.299,4.79c0.74,0.427,1.2,1.212,1.211,2.065V7.21v9.58c0,0.854-0.451,1.644-1.184,2.08l-0.027,0.016l-8.299,4.79 c-0.739,0.427-1.647,0.432-2.391,0.017l-0.03-0.017l-8.299-4.79c-0.74-0.427-1.199-1.213-1.21-2.065V16.79V7.21 c0-0.854,0.45-1.644,1.184-2.08L2.49,5.114l8.299-4.79L2.49,5.114z M12,4.026L5.092,8.013v7.974L12,19.974V12l6.908-3.987L12,4.026 z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/reason-studios.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/reason-studios.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Reason Studios</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/reason-studios.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/reason-studios.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.reasonstudios.com/press" target="_blank" rel="noopener noreferrer">https://www.reasonstudios.com/press</a></p></div>
 <div class="alert alert-dark">

@@ -1,14 +1,14 @@
 ---
 
-title: Quantcast() ICON转svg、png下载
+title: Quantcast(Quantcast) ICON转svg、png下载
 name: quantcast
-zhTips: 
+zhTips: Quantcast
 search: 
 image: https://iconhelper.cn/svg/brands/quantcast.svg
 
 ---
 
-# Quantcast  <small style="font-size: 60%;font-weight: 100"></small>
+# Quantcast  <small style="font-size: 60%;font-weight: 100">Quantcast</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Quantcast icon</title><path d="M15.11 20.474A10.024 10.024 0 0 0 19.737 12c0-5.523-4.419-10-9.869-10S0 6.477 0 12s4.418 10 9.868 10H24v-1.526h-8.89z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/quantcast.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/quantcast.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Quantcast</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/quantcast.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/quantcast.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://branding.quantcast.com/logouse/" target="_blank" rel="noopener noreferrer">http://branding.quantcast.com/logouse/</a></p></div>
 <div class="alert alert-dark">

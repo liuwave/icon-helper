@@ -1,14 +1,14 @@
 ---
 
-title: McDonald's() ICON转svg、png下载
+title: McDonald's(麦当劳) ICON转svg、png下载
 name: mcdonald-s
-zhTips: 
+zhTips: 麦当劳
 search: 
 image: https://iconhelper.cn/svg/brands/mcdonald-s.svg
 
 ---
 
-# McDonald's  <small style="font-size: 60%;font-weight: 100"></small>
+# McDonald's  <small style="font-size: 60%;font-weight: 100">麦当劳</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>McDonald's icon</title><path d="M17.243 3.006c2.066 0 3.742 8.714 3.742 19.478H24c0-11.588-3.042-20.968-6.766-20.968-2.127 0-4.007 2.81-5.248 7.227-1.241-4.416-3.121-7.227-5.231-7.227C3.031 1.516 0 10.888 0 22.476h3.014c0-10.763 1.658-19.47 3.724-19.47 2.066 0 3.741 8.05 3.741 17.98h2.997c0-9.93 1.684-17.98 3.75-17.98Z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/mcdonald-s.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/mcdonald-s.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">麦当劳</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/mcdonald-s.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/mcdonald-s.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.mcdonalds.com/gb/en-gb/newsroom.html" target="_blank" rel="noopener noreferrer">https://www.mcdonalds.com/gb/en-gb/newsroom.html</a></p></div>
 <div class="alert alert-dark">

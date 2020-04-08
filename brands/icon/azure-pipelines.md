@@ -1,14 +1,14 @@
 ---
 
-title: Azure Pipelines() ICON转svg、png下载
+title: Azure Pipelines(Azure管道) ICON转svg、png下载
 name: azure-pipelines
-zhTips: 
+zhTips: Azure管道
 search: 
 image: https://iconhelper.cn/svg/brands/azure-pipelines.svg
 
 ---
 
-# Azure Pipelines  <small style="font-size: 60%;font-weight: 100"></small>
+# Azure Pipelines  <small style="font-size: 60%;font-weight: 100">Azure管道</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Azure Pipelines icon</title><path d="M1.8 18H0v6h6v-1.8H1.8zM23 0h-8.93a2 2 0 0 0-1.67.89L9 5.99H1a1 1 0 0 0-1 1v5.5l3.5 3.61 1.2-1.29 1.5 1.5L5 17.53l1.48 1.48 1.22-1.22 1.5 1.51L8 20.5l3.5 3.5H17a1 1 0 0 0 1-1v-8l5.11-3.4A2 2 0 0 0 24 9.92V1a1 1 0 0 0-1-1zm-5 9a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/azure-pipelines.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/azure-pipelines.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Azure管道</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/azure-pipelines.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/azure-pipelines.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://github.com/vscode-icons/vscode-icons/pull/1741" target="_blank" rel="noopener noreferrer">https://github.com/vscode-icons/vscode-icons/pull/1741</a></p></div>
 <div class="alert alert-dark">

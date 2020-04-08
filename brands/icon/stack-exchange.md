@@ -1,14 +1,14 @@
 ---
 
-title: Stack Exchange() ICON转svg、png下载
+title: Stack Exchange(堆栈交换) ICON转svg、png下载
 name: stack-exchange
-zhTips: 
+zhTips: 堆栈交换
 search: 
 image: https://iconhelper.cn/svg/brands/stack-exchange.svg
 
 ---
 
-# Stack Exchange  <small style="font-size: 60%;font-weight: 100"></small>
+# Stack Exchange  <small style="font-size: 60%;font-weight: 100">堆栈交换</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Stack Exchange icon</title><path d="M21.728 15.577v1.036c0 1.754-1.395 3.177-3.1 3.177h-.904L13.645 24v-4.21H5.371c-1.704 0-3.099-1.423-3.099-3.181v-1.032h19.456zM2.275 10.463h19.323v3.979H2.275v-3.979zm0-5.141h19.323v3.979H2.275V5.322zM18.575 0c1.681 0 3.023 1.42 3.023 3.178v1.034H2.275V3.178C2.275 1.422 3.67 0 5.375 0h13.2z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/stack-exchange.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/stack-exchange.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">堆栈交换</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/stack-exchange.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/stack-exchange.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://stackoverflow.com/company/logos" target="_blank" rel="noopener noreferrer">http://stackoverflow.com/company/logos</a></p></div>
 <div class="alert alert-dark">

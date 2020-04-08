@@ -1,14 +1,14 @@
 ---
 
-title: Logstash() ICON转svg、png下载
+title: Logstash(Logstash) ICON转svg、png下载
 name: logstash
-zhTips: 
+zhTips: Logstash
 search: 
 image: https://iconhelper.cn/svg/brands/logstash.svg
 
 ---
 
-# Logstash  <small style="font-size: 60%;font-weight: 100"></small>
+# Logstash  <small style="font-size: 60%;font-weight: 100">Logstash</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Logstash icon</title><path d="M12.6 7.2V24c-5.2 0-10.8-4-10.8-9.3V0h3.6c3.8 0 7.2 3.4 7.2 7.2zm2.4 6V24h7.2V13.2z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/logstash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/logstash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Logstash</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/logstash.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/logstash.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.elastic.co/brand" target="_blank" rel="noopener noreferrer">https://www.elastic.co/brand</a></p></div>
 <div class="alert alert-dark">

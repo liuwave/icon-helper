@@ -1,14 +1,14 @@
 ---
 
-title: Kotlin() ICON转svg、png下载
+title: Kotlin(科特琳) ICON转svg、png下载
 name: kotlin
-zhTips: 
+zhTips: 科特琳
 search: 
 image: https://iconhelper.cn/svg/brands/kotlin.svg
 
 ---
 
-# Kotlin  <small style="font-size: 60%;font-weight: 100"></small>
+# Kotlin  <small style="font-size: 60%;font-weight: 100">科特琳</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Kotlin icon</title><path d="M1.3 24l11.3-11.5L24 24zM0 0h12L0 12.5zM13.4 0L0 14v10l12-12L24 0z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/kotlin.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/kotlin.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">科特琳</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/kotlin.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/kotlin.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://resources.jetbrains.com/storage/products/kotlin/docs/kotlin_logos.zip" target="_blank" rel="noopener noreferrer">https://resources.jetbrains.com/storage/products/kotlin/docs/kotlin_logos.zip</a></p></div>
 <div class="alert alert-dark">

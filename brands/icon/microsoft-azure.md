@@ -1,14 +1,14 @@
 ---
 
-title: Microsoft Azure() ICON转svg、png下载
+title: Microsoft Azure(Microsoft Azure) ICON转svg、png下载
 name: microsoft-azure
-zhTips: 
+zhTips: Microsoft Azure
 search: 
 image: https://iconhelper.cn/svg/brands/microsoft-azure.svg
 
 ---
 
-# Microsoft Azure  <small style="font-size: 60%;font-weight: 100"></small>
+# Microsoft Azure  <small style="font-size: 60%;font-weight: 100">Microsoft Azure</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Microsoft Azure icon</title><path d="M5.483 21.3H24L14.025 4.013l-3.038 8.347 5.836 6.938L5.483 21.3zM13.23 2.7L6.105 8.677 0 19.253h5.505v.014L13.23 2.7z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/microsoft-azure.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/microsoft-azure.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Microsoft Azure</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/microsoft-azure.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/microsoft-azure.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" target="_blank" rel="noopener noreferrer">https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg</a></p></div>
 <div class="alert alert-dark">

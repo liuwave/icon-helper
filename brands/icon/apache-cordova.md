@@ -1,14 +1,14 @@
 ---
 
-title: Apache Cordova() ICON转svg、png下载
+title: Apache Cordova(Apache Cordova) ICON转svg、png下载
 name: apache-cordova
-zhTips: 
+zhTips: Apache Cordova
 search: 
 image: https://iconhelper.cn/svg/brands/apache-cordova.svg
 
 ---
 
-# Apache Cordova  <small style="font-size: 60%;font-weight: 100"></small>
+# Apache Cordova  <small style="font-size: 60%;font-weight: 100">Apache Cordova</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Apache Cordova icon</title><path d="M18.545,0.545H5.455L0,9.273l2.182,14.182h3.886l-0.273-3.273h1.909l0.273,3.273 h8.045l0.273-3.273h1.909l-0.273,3.273h3.886L24,9.273L18.545,0.545z M18.545,18H5.455L4.364,9.273l2.182-4.364h3.506L9.818,6.545 h4.364l-0.234-1.636h3.506l2.182,4.364L18.545,18z M15.545,11.045c0.301,0,0.545,0.908,0.545,2.029 c0,1.121-0.244,2.029-0.545,2.029c-0.301,0-0.545-0.908-0.545-2.029C15,11.954,15.244,11.045,15.545,11.045z M8.659,11.215 c0.301,0,0.545,0.908,0.545,2.029c0,1.121-0.244,2.029-0.545,2.029c-0.301,0-0.545-0.908-0.545-2.029 C8.114,12.123,8.358,11.215,8.659,11.215z"/></svg>
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：暂无<span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/apache-cordova.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/apache-cordova.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Apache Cordova</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/apache-cordova.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/apache-cordova.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://cordova.apache.org/artwork/" target="_blank" rel="noopener noreferrer">https://cordova.apache.org/artwork/</a></p></div>
 <div class="alert alert-dark">
