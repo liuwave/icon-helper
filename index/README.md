@@ -1,7 +1,7 @@
 ---
 
 home: true
-footer: MIT Licensed | Copyright © 2020-present liuwave 
+footer: MIT Licensed | Copyright © 2020-present <a href="https://iconhelper.cn">Icon助手 </a>
 
 ---
 

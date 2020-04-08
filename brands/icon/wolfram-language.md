@@ -3,7 +3,7 @@
 title: Wolfram Language(Wolfram语言) ICON转svg、png下载
 name: wolfram-language
 zhTips: Wolfram语言
-search: 
+search: Wolflang,Mathematica
 image: https://iconhelper.cn/svg/brands/wolfram-language.svg
 
 ---
@@ -37,9 +37,9 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Wolfram语言</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/wolfram-language.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/wolfram-language.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span>别名：<span class="badge-light badge">Wolflang</span><span class="badge-light badge">Mathematica</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">Wolfram语言</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/wolfram-language.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/wolfram-language.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="http://company.wolfram.com/press-center/language/" target="_blank" rel="noopener noreferrer">http://company.wolfram.com/press-center/language/</a></p></div>
+</div><div class="description description alert alert-light"><p>Wolfram Language是 Wolfram Research 开发的一门通用多范式计算语言，可以用于解决大量专业领域的问题。</p><p>图标来源地址：<a href="http://company.wolfram.com/press-center/language/" target="_blank" rel="noopener noreferrer">http://company.wolfram.com/press-center/language/</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wolframlanguage.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wolframlanguage.svg" />

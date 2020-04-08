@@ -2,7 +2,7 @@
 
 title: WordPress(WordPress徽标) ICON转svg、png下载
 name: wordpress
-zhTips: WordPress徽标,wordpress
+zhTips: WordPress徽标
 search: 
 image: https://iconhelper.cn/svg/brands/wordpress.svg
 
@@ -37,7 +37,7 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">WordPress徽标</span><span class="badge-primary badge">wordpress</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/wordpress.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/wordpress.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">WordPress徽标</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/wordpress.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/wordpress.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
 </div><div class="description description alert alert-light"><p>WordPress是基于PHP开发的一个博客平台。</p><p>图标来源地址：<a href="https://wordpress.org/about/logos" target="_blank" rel="noopener noreferrer">https://wordpress.org/about/logos</a></p></div>
 <div class="alert alert-dark">

@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "Wolfram Mathematica"
+    "现代科学计算软件",
+    "技术性计算"
   ],
-  "description": "",
+  "description": "Wolfram Mathematica是 Wolfram 公司开发的 Mathematica 是一款多功能的现代科学计算软件，涵盖各个领域，从 STEM 到艺术，从金融到神经网络，都能找到合适的功能。",
   "source": "http://company.wolfram.com/press-center/mathematica/",
   "comments": []
 }

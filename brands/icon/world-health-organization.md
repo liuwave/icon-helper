@@ -39,7 +39,7 @@ CSS名称：
 <br/>
 <span>别名：<span class="badge-light badge">WHO</span></span><br/><span class="zh-detail">中文描述：<span class="badge-primary badge">世界卫生组织</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/world-health-organization.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/world-health-organization.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.who.int/" target="_blank" rel="noopener noreferrer">https://www.who.int/</a></p></div>
+</div><div class="description description alert alert-light"><p>世卫组织是联合国系统内卫生问题的指导和协调机构,负责拟定全球卫生研究议程，制定规范和标准，向各国提供技术支持，以及监测和评估卫生趋势。</p><p>图标来源地址：<a href="https://www.who.int/" target="_blank" rel="noopener noreferrer">https://www.who.int/</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/worldhealthorganization.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/worldhealthorganization.svg" />
