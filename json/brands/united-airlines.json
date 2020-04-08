@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "美国联合航空"
+  ],
   "description": "",
   "source": "https://en.wikipedia.org/wiki/File:United_Airlines_Logo.svg",
   "comments": []

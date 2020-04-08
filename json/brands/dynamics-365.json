@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "动态365"
+  ],
   "description": "",
   "source": "http://thepartnerchannel.com/wp-content/uploads/Dynamics365_styleguide_092816.pdf",
   "comments": []

@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Pandora"
+  ],
   "description": "",
   "source": "https://www.pandoraforbrands.com/",
   "comments": []

@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "MakerBot"
+  ],
   "description": "",
   "source": "http://www.makerbot.com/makerbot-press-assets",
   "comments": []

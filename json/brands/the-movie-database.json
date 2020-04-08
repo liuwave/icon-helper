@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "电影数据库"
+  ],
   "description": "",
   "source": "https://www.themoviedb.org/about/logos-attribution",
   "comments": []

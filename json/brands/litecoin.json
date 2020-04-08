@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "莱特币"
+  ],
   "description": "",
   "source": "https://litecoin-foundation.org/wp-content/uploads/2019/01/LC18-007-Brand-guidelines.pdf",
   "comments": []

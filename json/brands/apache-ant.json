@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Apache蚂蚁"
+  ],
   "description": "",
   "source": "https://commons.wikimedia.org/wiki/File:Apache-Ant-logo.svg",
   "comments": []

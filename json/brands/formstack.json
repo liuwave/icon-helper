@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "表格堆栈"
+  ],
   "description": "",
   "source": "https://www.formstack.com/brand/guidelines",
   "comments": []

@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "OCaml"
+  ],
   "description": "",
   "source": "http://ocaml.org/img/OCaml_Sticker.svg",
   "comments": []

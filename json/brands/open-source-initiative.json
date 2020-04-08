@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "开放源代码计划"
+  ],
   "description": "",
   "source": "https://opensource.org/logo-usage-guidelines",
   "comments": []

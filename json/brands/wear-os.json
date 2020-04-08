@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Wear OS"
+  ],
   "description": "",
   "source": "https://partnermarketinghub.withgoogle.com/#/brands/",
   "comments": []

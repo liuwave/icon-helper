@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "站点点"
+  ],
   "description": "",
   "source": "http://www.sitepoint.com",
   "comments": []

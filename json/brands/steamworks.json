@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "蒸汽工厂"
+  ],
   "description": "",
   "source": "https://partner.steamgames.com/",
   "comments": []

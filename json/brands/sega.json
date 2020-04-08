@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "世嘉"
+  ],
   "description": "",
   "source": "https://en.wikipedia.org/wiki/Sega#/media/File:Sega_logo.svg",
   "comments": []

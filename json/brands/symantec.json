@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "赛门铁克"
+  ],
   "description": "",
   "source": "https://commons.wikimedia.org/wiki/File:Symantec_logo10.svg",
   "comments": []

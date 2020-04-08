@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "麦当劳"
+  ],
   "description": "",
   "source": "https://www.mcdonalds.com/gb/en-gb/newsroom.html",
   "comments": []

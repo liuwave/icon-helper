@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Google纸板"
+  ],
   "description": "",
   "source": "https://arvr.google.com/cardboard/",
   "comments": []

@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "扬声器甲板"
+  ],
   "description": "",
   "source": "https://speakerdeck.com/",
   "comments": []

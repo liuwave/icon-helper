@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Mozilla Firefox"
+  ],
   "description": "",
   "source": "https://mozilla.design/firefox/logos-usage/",
   "comments": []

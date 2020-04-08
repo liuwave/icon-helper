@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Apache Cordova"
+  ],
   "description": "",
   "source": "https://cordova.apache.org/artwork/",
   "comments": []

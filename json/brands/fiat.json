@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "菲亚特"
+  ],
   "description": "",
   "source": "https://en.wikipedia.org/wiki/File:Fiat_Logo.svg",
   "comments": []

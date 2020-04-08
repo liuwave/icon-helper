@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "材料设计"
+  ],
   "description": "",
   "source": "https://material.io/design/",
   "comments": []

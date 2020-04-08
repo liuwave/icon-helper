@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "直播"
+  ],
   "description": "",
   "source": "https://livestream.com/press",
   "comments": []

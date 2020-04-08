@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "GIMP"
+  ],
   "description": "",
   "source": "https://www.gimp.org/about/linking.html#wilber-the-gimp-mascot",
   "comments": []

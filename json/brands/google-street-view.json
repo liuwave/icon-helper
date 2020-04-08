@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Google街景"
+  ],
   "description": "",
   "source": "https://developers.google.com/streetview/ready/branding",
   "comments": []

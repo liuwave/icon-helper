@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "缓冲区"
+  ],
   "description": "",
   "source": "https://buffer.com/press",
   "comments": []

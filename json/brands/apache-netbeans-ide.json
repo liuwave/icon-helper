@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Apache NetBeans IDE"
+  ],
   "description": "",
   "source": "https://netbeans.apache.org/images/",
   "comments": []

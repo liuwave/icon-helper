@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "核心"
+  ],
   "description": "",
   "source": "https://nucleoapp.com/wp-content/themes/nucleo-webapp-12/img/logo.svg",
   "comments": []

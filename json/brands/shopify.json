@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Shopify"
+  ],
   "description": "",
   "source": "https://press.shopify.com/brand",
   "comments": []

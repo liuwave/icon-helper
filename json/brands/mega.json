@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "MEGA"
+  ],
   "description": "",
   "source": "https://en.wikipedia.org/wiki/File:01_mega_logo.svg",
   "comments": []

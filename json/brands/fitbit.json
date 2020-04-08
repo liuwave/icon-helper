@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Fitbit"
+  ],
   "description": "",
   "source": "http://www.fitbit.com/uk/home",
   "comments": []

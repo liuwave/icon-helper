@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "汗学院"
+  ],
   "description": "",
   "source": "https://khanacademy.zendesk.com/hc/en-us/articles/202483630-Press-room",
   "comments": []

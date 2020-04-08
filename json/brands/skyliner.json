@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Skyliner"
+  ],
   "description": "",
   "source": "https://www.skyliner.io/help",
   "comments": []

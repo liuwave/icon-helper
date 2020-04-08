@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "杜比（Dolby）"
+  ],
   "description": "",
   "source": "https://www.dolby.com/us/en/about/brand-identity.html",
   "comments": []

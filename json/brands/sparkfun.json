@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "SparkFun"
+  ],
   "description": "",
   "source": "https://www.sparkfun.com/brand_assets",
   "comments": []

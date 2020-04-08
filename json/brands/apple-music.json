@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Apple Music"
+  ],
   "description": "",
   "source": "https://www.apple.com/itunes/marketing-on-music/identity-guidelines.html#apple-music-icon",
   "comments": []

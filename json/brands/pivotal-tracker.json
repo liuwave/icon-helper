@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "关键跟踪器"
+  ],
   "description": "",
   "source": "https://www.pivotaltracker.com/branding-guidelines",
   "comments": []

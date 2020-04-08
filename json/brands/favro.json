@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "法夫罗"
+  ],
   "description": "",
   "source": "https://favro.com/login",
   "comments": []

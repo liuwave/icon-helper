@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "好友"
+  ],
   "description": "",
   "source": "https://buddy.works/about",
   "comments": []

@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "让我们加密"
+  ],
   "description": "",
   "source": "https://letsencrypt.org/trademarks/",
   "comments": []

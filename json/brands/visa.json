@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "显示器"
+  ],
   "description": "",
   "source": "https://commons.wikimedia.org/wiki/File:Visa_2014_logo_detail.svg",
   "comments": []

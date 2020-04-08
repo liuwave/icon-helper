@@ -11,8 +11,12 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "WP 火箭",
+    "缓存加速",
+    "网站速度优化"
+  ],
+  "description": "WP Rocket 是一款针对WordPress的加速插件，主要通过缓存网站内容的方式来优化wp站点的访问速度，配置简单高效。",
   "source": "https://wp-rocket.me/",
   "comments": []
 }

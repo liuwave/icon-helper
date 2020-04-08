@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "开放集体"
+  ],
   "description": "",
   "source": "https://docs.opencollective.com/help/about#media-logo",
   "comments": []

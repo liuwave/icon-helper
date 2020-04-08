@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "GNOME"
+  ],
   "description": "",
   "source": "https://wiki.gnome.org/Engagement/BrandGuidelines",
   "comments": []

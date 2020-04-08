@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "样式组件"
+  ],
   "description": "",
   "source": "https://www.styled-components.com/",
   "comments": []

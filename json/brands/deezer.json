@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Deezer"
+  ],
   "description": "",
   "source": "https://deezerbrand.com/",
   "comments": []

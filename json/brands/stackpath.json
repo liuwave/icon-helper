@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "StackPath"
+  ],
   "description": "",
   "source": "https://www.stackpath.com/company/logo-and-branding/",
   "comments": []

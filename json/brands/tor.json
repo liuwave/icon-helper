@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "门"
+  ],
   "description": "",
   "source": "https://github.com/TheTorProject/tor-media/tree/master/Onion%20Icon",
   "comments": []

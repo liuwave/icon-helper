@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "沃达丰"
+  ],
   "description": "",
   "source": "https://web.vodafone.com.eg/",
   "comments": []

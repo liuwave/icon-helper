@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "墓碑"
+  ],
   "description": "",
   "source": "https://automattic.com/press",
   "comments": []

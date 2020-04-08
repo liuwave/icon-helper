@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Corona渲染器"
+  ],
   "description": "",
   "source": "https://corona-renderer.com/about",
   "comments": []

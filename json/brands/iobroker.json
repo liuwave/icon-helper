@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "ioBroker"
+  ],
   "description": "",
   "source": "https://github.com/ioBroker/awesome-iobroker/blob/master/images/",
   "comments": []

@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "密码"
+  ],
   "description": "",
   "source": "https://app.codeship.com/",
   "comments": []

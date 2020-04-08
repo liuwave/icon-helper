@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "地图框"
+  ],
   "description": "",
   "source": "https://www.mapbox.com/about/press/brand-guidelines",
   "comments": []

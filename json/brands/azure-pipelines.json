@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Azure管道"
+  ],
   "description": "",
   "source": "https://github.com/vscode-icons/vscode-icons/pull/1741",
   "comments": []

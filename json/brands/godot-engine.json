@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Godot引擎"
+  ],
   "description": "",
   "source": "https://godotengine.org/themes/godotengine/assets/download/godot_logo.svg",
   "comments": []

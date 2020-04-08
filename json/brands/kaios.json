@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "KaiOS"
+  ],
   "description": "",
   "source": "https://www.dropbox.com/sh/2qihtgrzllws8ki/AABmo9X1KMT6lHnvh4Em7dpWa?dl=0",
   "comments": []

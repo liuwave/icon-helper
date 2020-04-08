@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "WooCommerce"
+  ],
+  "description": "WooCommerce 是 Automattic 为 WordPress 社区贡献的一款开源电子商务插件，免费的。",
   "source": "https://woocommerce.com/style-guide/",
   "comments": []
 }

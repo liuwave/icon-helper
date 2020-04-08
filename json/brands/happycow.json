@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "快乐牛"
+  ],
   "description": "",
   "source": "https://www.happycow.net/press-kits",
   "comments": []

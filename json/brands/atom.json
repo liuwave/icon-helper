@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "原子"
+  ],
   "description": "",
   "source": "https://commons.wikimedia.org/wiki/File:Atom_editor_logo.svg",
   "comments": []

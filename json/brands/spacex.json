@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "SpaceX"
+  ],
   "description": "",
   "source": "https://www.spacex.com/sites/all/themes/spacex2012/images/logo.svg",
   "comments": []

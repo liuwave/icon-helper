@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "LibraryThing"
+  ],
   "description": "",
   "source": "https://twitter.com/LibraryThing/status/1054466649271656448",
   "comments": []

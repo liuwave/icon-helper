@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "ICQ"
+  ],
   "description": "",
   "source": "https://en.wikipedia.org/wiki/File:ICQ.svg",
   "comments": []

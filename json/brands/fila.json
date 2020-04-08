@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "行"
+  ],
   "description": "",
   "source": "https://en.wikipedia.org/wiki/Fila_(company)",
   "comments": []

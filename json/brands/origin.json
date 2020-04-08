@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "来源"
+  ],
   "description": "",
   "source": "https://www.origin.com/gbr/en-us/store",
   "comments": []

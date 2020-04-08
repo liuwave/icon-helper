@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "SAP"
+  ],
   "description": "",
   "source": "https://support.sap.com/content/dam/support/sap-logo.svg",
   "comments": []

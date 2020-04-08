@@ -11,8 +11,11 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "WP引擎",
+    "网站托管"
+  ],
+  "description": "WP Engine（WP引擎）是一个WordPress网站应用托管平台：”我们是一家处于软件创新和服务交汇的新型科技公司。我们的平台提供在WordPress上创建用户需要的站点和应用程序的解决方案，从而推动用户业务更快地发展。“",
   "source": "https://wpengine.com/",
   "comments": []
 }

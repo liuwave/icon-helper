@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "MariaDB基金会"
+  ],
   "description": "",
   "source": "https://mariadb.org/",
   "comments": []

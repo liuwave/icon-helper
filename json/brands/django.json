@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Django的"
+  ],
   "description": "",
   "source": "https://www.djangoproject.com/community/logos/",
   "comments": []

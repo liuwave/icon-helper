@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "所有者"
+  ],
   "description": "",
   "source": "https://www.sahibinden.com/favicon.ico",
   "comments": []

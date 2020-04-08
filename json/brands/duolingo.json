@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Duolingo"
+  ],
   "description": "",
   "source": "https://www.duolingo.com/",
   "comments": []

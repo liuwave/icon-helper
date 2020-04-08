@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Douban"
+  ],
   "description": "",
   "source": "https://zh.wikipedia.org/wiki/Douban",
   "comments": []

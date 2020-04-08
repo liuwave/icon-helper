@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Wizz Air"
+  ],
   "description": "",
   "source": "https://wizzair.com/en-gb/information-and-services/about-us/press-office/logos",
   "comments": []

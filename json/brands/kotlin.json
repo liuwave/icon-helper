@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "科特琳"
+  ],
   "description": "",
   "source": "https://resources.jetbrains.com/storage/products/kotlin/docs/kotlin_logos.zip",
   "comments": []

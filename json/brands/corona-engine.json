@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "电晕引擎"
+  ],
   "description": "",
   "source": "https://coronalabs.com/",
   "comments": []

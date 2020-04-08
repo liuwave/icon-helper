@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "拿"
+  ],
   "description": "",
   "source": "https://www.lua.org/docs.html",
   "comments": []

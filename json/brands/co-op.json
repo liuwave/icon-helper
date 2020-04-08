@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "合作公寓"
+  ],
   "description": "",
   "source": "http://www.co-operative.coop/corporate/press/logos/",
   "comments": []

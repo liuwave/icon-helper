@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "编码"
+  ],
   "description": "",
   "source": "https://www.codacy.com/blog/",
   "comments": []

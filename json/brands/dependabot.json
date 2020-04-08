@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Dependabot"
+  ],
   "description": "",
   "source": "https://dependabot.com/dependabot-logo-symbol-square-mono.svg",
   "comments": []

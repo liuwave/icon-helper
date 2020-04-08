@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Nintendo GameCube"
+  ],
   "description": "",
   "source": "https://www.nintendo.com/consumer/systems/nintendogamecube/index.jsp",
   "comments": []

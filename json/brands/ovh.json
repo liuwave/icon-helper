@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "OVH"
+  ],
   "description": "",
   "source": "https://www.ovh.com/fr/news/logo-ovh.xml",
   "comments": []

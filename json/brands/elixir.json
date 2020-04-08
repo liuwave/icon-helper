@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "长生不老药"
+  ],
   "description": "",
   "source": "https://github.com/elixir-lang/elixir-lang.github.com/tree/master/images/logo",
   "comments": []

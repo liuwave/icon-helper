@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "飞镖"
+  ],
   "description": "",
   "source": "https://github.com/dart-lang/site-shared/tree/master/src/_assets/image/dart/logo",
   "comments": []

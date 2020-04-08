@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "防暴游戏"
+  ],
   "description": "",
   "source": "https://www.riotgames.com/en/press",
   "comments": []

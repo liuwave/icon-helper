@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Pinboard"
+  ],
   "description": "",
   "source": "https://commons.wikimedia.org/wiki/File:Feedbin-Icon-share-pinboard.svg",
   "comments": []

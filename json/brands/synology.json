@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Synology"
+  ],
   "description": "",
   "source": "https://www.synology.com/en-global/company/branding",
   "comments": []

@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Badgr"
+  ],
   "description": "",
   "source": "https://info.badgr.com/",
   "comments": []

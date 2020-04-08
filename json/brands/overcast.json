@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "阴天"
+  ],
   "description": "",
   "source": "https://overcast.fm",
   "comments": []

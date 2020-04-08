@@ -11,8 +11,10 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
-  "description": "",
+  "zhs": [
+    "开源电子商务系统"
+  ],
+  "description": "Woo是指WooCommerce，WordPress的一款开源电子商务插件，免费开源。",
   "source": "https://woocommerce.com/style-guide/",
   "comments": []
 }

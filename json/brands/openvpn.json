@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "OpenVPN"
+  ],
   "description": "",
   "source": "https://openvpn.net/wp-content/themes/openvpn/assets/images/logo.svg",
   "comments": []

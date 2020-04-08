@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Picarto.TV"
+  ],
   "description": "",
   "source": "https://picarto.tv/site/press",
   "comments": []

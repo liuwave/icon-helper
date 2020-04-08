@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "SonarSource"
+  ],
   "description": "",
   "source": "https://www.sonarsource.com/",
   "comments": []

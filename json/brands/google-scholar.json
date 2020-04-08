@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "Google学术搜索"
+  ],
   "description": "",
   "source": "https://scholar.google.com/intl/fr/scholar/images/2x/sprite_20161020.png",
   "comments": []

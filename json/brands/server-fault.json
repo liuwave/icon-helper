@@ -11,7 +11,9 @@
   "style": "regular",
   "author": "Simple Icon",
   "version": "2.8.0",
-  "zhs": [],
+  "zhs": [
+    "服务器故障"
+  ],
   "description": "",
   "source": "http://stackoverflow.com/company/logos",
   "comments": []
