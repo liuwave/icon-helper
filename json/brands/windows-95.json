@@ -12,9 +12,11 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "Windows 95"
+    "Windows 95",
+    "视窗95",
+    "视窗操作系统"
   ],
-  "description": "",
+  "description": "Windows 95是微软在1995年推出的视窗操作系统。",
   "source": "https://en.wikipedia.org/wiki/Windows_95",
   "comments": []
 }

@@ -12,9 +12,11 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "WebStorm"
+    "WebStorm",
+    "网络风暴",
+    "JavaScript 开发工具"
   ],
-  "description": "",
+  "description": "WebStorm 是jetbrains公司开发的一款JavaScript/Html 开发IDE。",
   "source": "https://www.jetbrains.com/company/brand/logos/",
   "comments": []
 }

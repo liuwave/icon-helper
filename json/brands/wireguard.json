@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "WireGuard"
+    "WireGuard",
+    "钢丝卫兵"
   ],
-  "description": "",
+  "description": "WireGuard是一种非常简单而快捷的现代VPN，利用领先的加密技术。它的目标是比IPsec 更快，更简单，更精简，更有用，同时避免造成严重的麻烦。它打算比OpenVPN具有更高的性能。WireGuard被设计为通用VPN，可在嵌入式接口和超级计算机上运行，适用于许多不同的情况。最初针对Linux内核发布，现已跨平台（Windows，macOS，BSD，iOS，Android）并可广泛部署。它目前正在大量开发中，但是已经可以认为它是业界最安全，最易用和最简单的VPN解决方案。",
   "source": "https://www.wireguard.com/img/wireguard.svg",
   "comments": []
 }

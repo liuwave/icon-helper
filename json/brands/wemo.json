@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "WEMO"
+    "WEMO",
+    "远程管理Wemo设备"
   ],
-  "description": "",
+  "description": "WEMO是一款专为Wemo智能家居设备打造的手机APP，通过WeMo App，用户可以使用手机远程操控即可管理WeMo设备。",
   "source": "https://commons.wikimedia.org/wiki/File:WeMoApp.svg",
   "comments": []
 }

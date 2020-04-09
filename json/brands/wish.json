@@ -12,9 +12,11 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "希望"
+    "wish.com",
+    "希望",
+    "跨境电商平台"
   ],
-  "description": "",
+  "description": "Wish.com是一个全球跨境移动电商平台。“Wish使用优化算法大规模获取数据，并快速了解如何为每个客户提供最相关的商品，让消费者在移动端便捷购物的同时享受购物的乐趣，被评为硅谷最佳创新平台和欧美最受欢迎的购物类APP。”",
   "source": "https://wish.com/",
   "comments": []
 }

@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "电线"
+    "wire.com",
+    "办公协作平台"
   ],
-  "description": "",
+  "description": "wire.com是一个办公协作平台，提供最全面的协作套件、最高级的安全性和卓越的用户体验。",
   "source": "http://brand.wire.com",
   "comments": []
 }

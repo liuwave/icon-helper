@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "Wii"
+    "Wii",
+    "任天堂Wii家用游戏机"
   ],
-  "description": "",
+  "description": "Wii是任天堂公司推出的家用游戏机。",
   "source": "https://de.wikipedia.org/wiki/Datei:WiiU.svg",
   "comments": []
 }

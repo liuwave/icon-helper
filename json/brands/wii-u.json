@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "Wii U"
+    "Wii U",
+    "任天堂家用游戏机"
   ],
-  "description": "",
+  "description": "Wii U是任天堂的一款HD家用游戏机。",
   "source": "https://de.wikipedia.org/wiki/Datei:WiiU.svg",
   "comments": []
 }

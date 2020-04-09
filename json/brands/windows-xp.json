@@ -12,9 +12,11 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "Windows XP"
+    "Windows XP",
+    "XP 系统",
+    "视窗操作系统"
   ],
-  "description": "",
+  "description": "Windows XP是微软开发的基于X86、X64架构的操作系统，现已停止维护。",
   "source": "https://commons.wikimedia.org/wiki/File:Windows_logo_-_2002%E2%80%932012_(Multicolored).svg",
   "comments": []
 }

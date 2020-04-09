@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "WhiteSource"
+    "WhiteSource",
+    "白源"
   ],
-  "description": "",
+  "description": "White Source提供管理开放源码组件的唯一的一体化许可、安全和报告解决方案。",
   "source": "https://www.whitesourcesoftware.com/whitesource-media-kit/",
   "comments": []
 }
