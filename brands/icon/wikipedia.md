@@ -39,7 +39,7 @@ CSS名称：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">维基百科</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/wikipedia.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/wikipedia.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://en.wikipedia.org/wiki/Logo_of_Wikipedia" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Logo_of_Wikipedia</a></p></div>
+</div><div class="description description alert alert-light"><p>维基百科是全球最大的网络百科全书，由非营利组织维基媒体基金会负责营运。</p><p>图标来源地址：<a href="https://en.wikipedia.org/wiki/Logo_of_Wikipedia" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Logo_of_Wikipedia</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wikipedia.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wikipedia.svg" />

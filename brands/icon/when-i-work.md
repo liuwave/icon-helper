@@ -39,7 +39,7 @@ CSS名称：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">我工作时</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/when-i-work.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/when-i-work.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://wheniwork.com/" target="_blank" rel="noopener noreferrer">https://wheniwork.com/</a></p></div>
+</div><div class="description description alert alert-light"><p>When I Work(当我工作)是易用的员工日程安排和时间时钟软件。含75名以下员工的公司使用是免费的。</p><p>图标来源地址：<a href="https://wheniwork.com/" target="_blank" rel="noopener noreferrer">https://wheniwork.com/</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wheniwork.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wheniwork.svg" />

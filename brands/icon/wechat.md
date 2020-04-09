@@ -39,7 +39,7 @@ CSS名称：
 <br/>
 <span class="zh-detail">中文描述：<span class="badge-primary badge">微信</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/wechat.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/wechat.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://worldvectorlogo.com/logo/wechat-3" target="_blank" rel="noopener noreferrer">https://worldvectorlogo.com/logo/wechat-3</a></p></div>
+</div><div class="description description alert alert-light"><p>微信是一款跨平台的通讯工具。支持单人、多人参与。通过手机网络发送语音、图片、视频和文字。</p><p>图标来源地址：<a href="https://worldvectorlogo.com/logo/wechat-3" target="_blank" rel="noopener noreferrer">https://worldvectorlogo.com/logo/wechat-3</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wechat.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wechat.svg" />
