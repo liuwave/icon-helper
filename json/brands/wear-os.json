@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "Wear OS"
+    "Wear OS",
+    "穿戴操作系统"
   ],
-  "description": "",
+  "description": "谷歌推出的智能手表操作系统。",
   "source": "https://partnermarketinghub.withgoogle.com/#/brands/",
   "comments": []
 }

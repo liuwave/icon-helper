@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "Wattpad"
+    "Wattpad",
+    "瓦特薄"
   ],
-  "description": "",
+  "description": "Wattpad是加拿大一个数字阅读平台，聚焦同人小说和UGC故事创作。",
   "source": "https://www.wattpad.com/press/#assets",
   "comments": []
 }

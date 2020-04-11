@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "Webpack"
+    "Webpack",
+    "模块打包器"
   ],
-  "description": "",
+  "description": "webpack是一个现代JavasScript应用程序的模块打包器(module bunder)。webpack 的主要目标是将 JavaScript 文件打包在一起，打包后的文件用于在浏览器中使用，但它也能够胜任转换(transform)、打包(bundle)或包裹(package)任何资源(resource or asset)。",
   "source": "https://webpack.js.org/branding/",
   "comments": []
 }

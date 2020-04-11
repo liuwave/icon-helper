@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "Waze的"
+    "瓦泽",
+    "交通导航类应用"
   ],
-  "description": "",
+  "description": "Waze是一个免费的导航应用，利用移动设备的GPS信息了获取交通流量信息，从而提供更好的行车路线。",
   "source": "https://www.waze.com/",
   "comments": []
 }

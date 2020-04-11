@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "WebAssembly"
+    "WebAssembly",
+    "Web程序集"
   ],
-  "description": "",
+  "description": "WebAssembly 是由主流浏览器厂商组成的W3C制定的一个新的编码方式，可以让以各种语言编写的代码都可以原生速度在Web中运行。",
   "source": "https://webassembly.org/",
   "comments": []
 }

@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "WebAuthn"
+    "WebAuthn",
+    "网页身份验证"
   ],
-  "description": "",
+  "description": "WebAuthn(Web身份验证)是由W3C发布的Web标准，允许通过网页应用创建和使用基于公钥的凭据对用户进行严格的身份验证。",
   "source": "https://github.com/apowers313/webauthn-logos",
   "comments": []
 }

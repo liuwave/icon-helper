@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "Webmin"
+    "Webmin",
+    "Unix系统管理工具"
   ],
-  "description": "",
+  "description": "Webmin是一款就web的Unix系统管理工具，使用任何现代浏览器(比如Chrome)，你可以设置用户帐户、Apache、DNS、文件共享等。",
   "source": "https://github.com/webmin/webmin",
   "comments": []
 }

@@ -12,9 +12,10 @@
   "author": "Simple Icon",
   "version": "2.8.0",
   "zhs": [
-    "webcomponents.org"
+    "webcomponents.org",
+    "web组件"
   ],
-  "description": "",
+  "description": "WebComponents是一套web标准，允许用户创建可重用的定制元素。“WebComponents.org旨在使共享，发现和重用Web组件变得容易。除了发布，浏览和搜索组件外，WebComponents.org还提供文章，演示文稿，播客，工具等，以帮助Web专业人员在浏览器中构建一流的DOM对象。”",
   "source": "https://www.webcomponents.org/",
   "comments": []
 }

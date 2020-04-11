@@ -2,7 +2,7 @@
 
 title: webcomponents.org(webcomponents.org) ICON转svg、png下载
 name: webcomponents-org
-zhTips: webcomponents.org
+zhTips: webcomponents.org,web组件
 search: 
 image: https://iconhelper.cn/svg/brands/webcomponents-org.svg
 
@@ -37,9 +37,9 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">webcomponents.org</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/webcomponents-org.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/webcomponents-org.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">webcomponents.org</span><span class="badge-primary badge">web组件</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/webcomponents-org.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/webcomponents-org.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://www.webcomponents.org/" target="_blank" rel="noopener noreferrer">https://www.webcomponents.org/</a></p></div>
+</div><div class="description description alert alert-light"><p>WebComponents是一套web标准，允许用户创建可重用的定制元素。“WebComponents.org旨在使共享，发现和重用Web组件变得容易。除了发布，浏览和搜索组件外，WebComponents.org还提供文章，演示文稿，播客，工具等，以帮助Web专业人员在浏览器中构建一流的DOM对象。”</p><p>图标来源地址：<a href="https://www.webcomponents.org/" target="_blank" rel="noopener noreferrer">https://www.webcomponents.org/</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/webcomponents-dot-org.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/webcomponents-dot-org.svg" />

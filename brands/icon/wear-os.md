@@ -1,14 +1,14 @@
 ---
 
-title: Wear OS(Wear OS) ICON转svg、png下载
+title: Wear OS(穿戴操作系统) ICON转svg、png下载
 name: wear-os
-zhTips: Wear OS
+zhTips: Wear OS,穿戴操作系统
 search: 
 image: https://iconhelper.cn/svg/brands/wear-os.svg
 
 ---
 
-# Wear OS  <small style="font-size: 60%;font-weight: 100">Wear OS</small>
+# Wear OS  <small style="font-size: 60%;font-weight: 100">穿戴操作系统</small>
 
 <div id="svg" class="svg-wrap">
 <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Wear OS icon</title><path d="M8.416 21.1346c-.9687 0-1.8938-.56-2.3135-1.5015L.2193 6.4198C-.3488 5.1432.2248 3.6472 1.5014 3.079c1.2767-.5681 2.7727.0055 3.3408 1.2821l5.8832 13.2133c.5681 1.2767-.0055 2.7727-1.2821 3.3408a2.5254 2.5254 0 01-1.0273.2194zm7.1952.0368c-.891 0-1.7412-.515-2.1268-1.3816L7.39 6.1024C6.867 4.9279 7.3955 3.5532 8.5686 3.03c1.173-.5218 2.5492.0054 3.0724 1.1785l6.0943 13.6888c.5232 1.1745-.0054 2.5492-1.1785 3.0724a2.3111 2.3111 0 01-.9456.2017zM24 5.195a2.3271 2.3271 0 01-2.3271 2.327 2.3271 2.3271 0 01-2.3271-2.327 2.3271 2.3271 0 012.327-2.3271A2.3271 2.3271 0 0124 5.1949zm-2.6119 5.116a2.4892 2.4892 0 01-2.4892 2.4893 2.4892 2.4892 0 01-2.4893-2.4892 2.4892 2.4892 0 012.4893-2.4893 2.4892 2.4892 0 012.4892 2.4893Z"/></svg>
@@ -37,9 +37,9 @@ CSS名称：
 <br/>
 <span>图标来源/作者：<span class="badge-light badge">Simple Icon</span></span> 
 <br/>
-<span class="zh-detail">中文描述：<span class="badge-primary badge">Wear OS</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/wear-os.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/wear-os.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
+<span class="zh-detail">中文描述：<span class="badge-primary badge">Wear OS</span><span class="badge-primary badge">穿戴操作系统</span><span class="help-link"><span>帮助改进</span>(<a href="https://gitee.com/liuwave/icon-helper/edit/master/json/brands/wear-os.json" target="_blank" rel="noopener noreferrer">gitee</a><a href="https://github.com/liuwave/icon-helper/edit/master/json/brands/wear-os.json" target="_blank" rel="noopener noreferrer">github</a></span>)</span><br/>
 </p>
-</div><div class="description description alert alert-light"><p>图标来源地址：<a href="https://partnermarketinghub.withgoogle.com/#/brands/" target="_blank" rel="noopener noreferrer">https://partnermarketinghub.withgoogle.com/#/brands/</a></p></div>
+</div><div class="description description alert alert-light"><p>谷歌推出的智能手表操作系统。</p><p>图标来源地址：<a href="https://partnermarketinghub.withgoogle.com/#/brands/" target="_blank" rel="noopener noreferrer">https://partnermarketinghub.withgoogle.com/#/brands/</a></p></div>
 <div class="alert alert-dark">
 <img height="21" width="21" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wearos.svg" />
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wearos.svg" />
