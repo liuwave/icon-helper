@@ -40,7 +40,7 @@
     "algoliasearch": "^4.1.0",
     "canvg": "^3.0.5",
     "file-saver": "^2.0.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "vue": "^2.6.11",
     "vue-tippy": "^4.4.0",
     "vue-toasted": "^1.1.28"
